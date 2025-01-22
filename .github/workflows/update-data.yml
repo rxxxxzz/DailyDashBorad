@@ -24,20 +24,16 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
     
-    - name: Update database
+    - name: Update data
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        python backend/update_db.py
-    
-    - name: Generate API data
-      run: |
-        python backend/generate_api_data.py
+        python scripts/update_data.py
     
     - name: Commit and push if changed
       run: |
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git config --global user.name "github-actions[bot]"
-        git add backend/ai_projects.db data/
-        git commit -m "Update AI projects database and API data" || exit 0
+        git add data/
+        git commit -m "Update AI projects data" || exit 0
         git push 

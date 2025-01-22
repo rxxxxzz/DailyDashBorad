@@ -218,9 +218,9 @@
         async function fetchData() {
             try {
                 const [trendingResponse, newResponse, updateTimeResponse] = await Promise.all([
-                    fetch('data/trending.json'),
-                    fetch('data/new.json'),
-                    fetch('data/last_update.json')
+                    fetch('../data/trending.json'),
+                    fetch('../data/new.json'),
+                    fetch('../data/last_update.json')
                 ]);
 
                 if (!trendingResponse.ok || !newResponse.ok || !updateTimeResponse.ok) {
