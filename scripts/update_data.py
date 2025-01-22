@@ -7,6 +7,8 @@ import ssl
 from dotenv import load_dotenv
 from sqlalchemy.orm import sessionmaker
 from models import Base, Repository, engine
+from datetime import timezone
+from zoneinfo import ZoneInfo
 
 load_dotenv()
 
@@ -147,7 +149,9 @@ async def fetch_github_data():
         
         # 保存更新时间
         with open("data/last_update.json", "w", encoding="utf-8") as f:
-            json.dump({"last_update": datetime.now().isoformat()}, f, ensure_ascii=False, indent=2)
+            # 使用上海时区
+            current_time = datetime.now(ZoneInfo("Asia/Shanghai"))
+            json.dump({"last_update": current_time.isoformat()}, f, ensure_ascii=False, indent=2)
         
         print("JSON 文件更新完成")
     except Exception as e:
