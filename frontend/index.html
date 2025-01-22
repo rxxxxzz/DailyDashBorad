@@ -236,7 +236,16 @@
                 document.getElementById('newRepos').innerHTML = 
                     newData.map(createRepoCard).join('');
                 document.getElementById('updateTime').textContent = 
-                    `最后更新时间: ${new Date(updateTime.last_update).toLocaleString()}`;
+                    `最后更新时间: ${new Date(updateTime.last_update).toLocaleString('zh-CN', {
+                        timeZone: 'Asia/Shanghai',
+                        year: 'numeric',
+                        month: '2-digit',
+                        day: '2-digit',
+                        hour: '2-digit',
+                        minute: '2-digit',
+                        second: '2-digit',
+                        hour12: false
+                    })}`;
             } catch (error) {
                 console.error('Error fetching data:', error);
                 showError('获取数据失败，请稍后重试');
