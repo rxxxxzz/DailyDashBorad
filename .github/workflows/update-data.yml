@@ -1,0 +1,70 @@
+name: Update AI Projects Data
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # UTC 时间每天 0:00 运行（北京时间 8:00）
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 明确指定写入权限
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        ref: gh-pages  # 检出 gh-pages 分支
+        fetch-depth: 0  # 获取完整历史以确保能正确提交
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        cache: 'pip'  # 缓存 pip 依赖
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Create data directory
+      run: |
+        mkdir -p data
+        echo "Created data directory"
+    
+    - name: Update data
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        echo "Starting data update..."
+        python scripts/update_data.py
+        echo "Data update completed"
+        
+        if [ -f "data/trending.json" ]; then
+          echo "Trending data file exists"
+          cat data/trending.json | head -n 5
+        else
+          echo "Error: trending.json not found"
+          exit 1
+        fi
+    
+    - name: Commit and push if changed
+      run: |
+        echo "Configuring git..."
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "github-actions[bot]"
+        
+        echo "Checking for changes..."
+        if [[ -n "$(git status --porcelain)" ]]; then
+          echo "Changes detected, committing..."
+          git add data/
+          git commit -m "Update AI projects data [skip ci]"
+          
+          echo "Pushing changes..."
+          git push origin gh-pages
+          echo "Changes pushed successfully"
+        else
+          echo "No changes to commit"
+        fi 
