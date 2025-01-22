@@ -1,1 +1,9 @@
-include: [frontend] 
+include: [frontend]
+baseurl: ""
+url: ""
+
+defaults:
+  - scope:
+      path: "frontend"
+    values:
+      permalink: /:path/:basename:output_ext 
