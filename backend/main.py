@@ -20,15 +20,17 @@ app = FastAPI(title="AI Project Dashboard API")
 # 配置 CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=["https://rxxxxzz.github.io"],  # 替换为你的 GitHub Pages 域名
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
 # 数据库配置
-SQLALCHEMY_DATABASE_URL = "sqlite:///./ai_projects.db"
-engine = create_engine(SQLALCHEMY_DATABASE_URL)
+DATABASE_URL = os.getenv("DATABASE_URL", "sqlite:///./ai_projects.db")
+if DATABASE_URL.startswith("postgres://"):
+    DATABASE_URL = DATABASE_URL.replace("postgres://", "postgresql://", 1)
+engine = create_engine(DATABASE_URL)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
 # 创建数据库表
@@ -136,8 +138,8 @@ async def startup_event():
         print(f"初始化时出错: {str(e)}")
     
     # 设置定时任务
-    schedule.every().day.at("00:00").do(lambda: asyncio.run(fetch_github_data()))
-    print("定时任务已设置")
+    schedule.every().day.at("08:00").do(lambda: asyncio.run(fetch_github_data()))
+    print("定时任务已设置为每天早上 8:00 更新")
 
 @app.get("/trending", response_model=List[dict])
 async def get_trending_repos():
@@ -199,4 +201,17 @@ async def get_new_repos():
 
 if __name__ == "__main__":
     import uvicorn
+    import threading
+    
+    # 创建一个后台线程来运行定时任务
+    def run_schedule():
+        while True:
+            schedule.run_pending()
+            time.sleep(60)  # 每分钟检查一次
+    
+    # 启动定时任务线程
+    schedule_thread = threading.Thread(target=run_schedule, daemon=True)
+    schedule_thread.start()
+    
+    # 运行 FastAPI 服务器
     uvicorn.run(app, host="0.0.0.0", port=8000) 

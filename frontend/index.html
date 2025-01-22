@@ -217,24 +217,26 @@
 
         async function fetchData() {
             try {
-                const [trendingResponse, newResponse] = await Promise.all([
-                    fetch('http://localhost:8000/trending'),
-                    fetch('http://localhost:8000/new')
+                const [trendingResponse, newResponse, updateTimeResponse] = await Promise.all([
+                    fetch('data/trending.json'),
+                    fetch('data/new.json'),
+                    fetch('data/last_update.json')
                 ]);
 
-                if (!trendingResponse.ok || !newResponse.ok) {
-                    throw new Error('服务器响应错误');
+                if (!trendingResponse.ok || !newResponse.ok || !updateTimeResponse.ok) {
+                    throw new Error('获取数据失败');
                 }
 
                 const trendingData = await trendingResponse.json();
                 const newData = await newResponse.json();
+                const updateTime = await updateTimeResponse.json();
 
                 document.getElementById('trendingRepos').innerHTML = 
                     trendingData.map(createRepoCard).join('');
                 document.getElementById('newRepos').innerHTML = 
                     newData.map(createRepoCard).join('');
                 document.getElementById('updateTime').textContent = 
-                    `最后更新时间: ${new Date().toLocaleString()}`;
+                    `最后更新时间: ${new Date(updateTime.last_update).toLocaleString()}`;
             } catch (error) {
                 console.error('Error fetching data:', error);
                 showError('获取数据失败，请稍后重试');
@@ -244,8 +246,38 @@
         // 初始加载
         fetchData();
 
-        // 每5分钟刷新一次
-        setInterval(fetchData, 5 * 60 * 1000);
+        // 计算距离下一个早上8点的毫秒数
+        function getNextUpdateTime() {
+            const now = new Date();
+            const next = new Date(now);
+            next.setHours(8, 0, 0, 0);
+            
+            if (now.getHours() >= 8) {
+                next.setDate(next.getDate() + 1);
+            }
+            
+            return next.getTime() - now.getTime();
+        }
+
+        // 设置定时更新
+        function scheduleNextUpdate() {
+            const delay = getNextUpdateTime();
+            setTimeout(() => {
+                fetchData();
+                scheduleNextUpdate();  // 设置下一天的更新
+            }, delay);
+        }
+
+        // 启动定时更新
+        scheduleNextUpdate();
+
+        // 每小时检查一次时间，以防系统休眠导致的延迟
+        setInterval(() => {
+            const now = new Date();
+            if (now.getHours() === 8 && now.getMinutes() === 0) {
+                fetchData();
+            }
+        }, 60 * 60 * 1000);  // 每小时检查一次
     </script>
 </body>
 </html> 
