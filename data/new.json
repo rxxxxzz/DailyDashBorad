@@ -1,43 +1,22 @@
 [
   {
-    "name": "dyneqtra-dev",
-    "full_name": "dyneqtra/dyneqtra-dev",
-    "description": "Graph-Based Editor for LLM Workflows",
-    "url": "https://github.com/dyneqtra/dyneqtra-dev",
-    "stars": 118,
-    "daily_stars": 0,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "ai",
-      "javascript",
-      "llm",
-      "llm-interface",
-      "openai",
-      "python",
-      "react",
-      "workflow"
-    ],
-    "created_at": "2025-01-18T06:43:25",
-    "updated_at": "2025-01-21T22:33:39"
-  },
-  {
-    "name": "APPT",
-    "full_name": "Bindwell/APPT",
-    "description": "Affinity Protein-Protein Transformers—State of the art protein-protein binding affinity in seconds!",
-    "url": "https://github.com/Bindwell/APPT",
-    "stars": 54,
+    "name": "mind-evolution-pytorch",
+    "full_name": "lucidrains/mind-evolution-pytorch",
+    "description": "Implementation of Mind Evolution, Evolving Deeper LLM Thinking, from Deepmind, in Pytorch",
+    "url": "https://github.com/lucidrains/mind-evolution-pytorch",
+    "stars": 28,
     "daily_stars": 0,
     "language": "Python",
     "topics": [
-      "binding-affinity",
-      "bioinformatics",
-      "machine-learning",
-      "protein-protein-interaction",
-      "protein-sequences"
+      "artificial-intelligence",
+      "attention",
+      "deep-learning",
+      "evolutionary-algorithms",
+      "genetic-algorithms",
+      "transformers"
     ],
-    "created_at": "2025-01-14T20:46:41",
-    "updated_at": "2025-01-22T07:07:46"
+    "created_at": "2025-01-20T13:32:44",
+    "updated_at": "2025-01-22T23:32:38"
   },
   {
     "name": "mind-evolution-pytorch",
@@ -56,33 +35,32 @@
       "transformers"
     ],
     "created_at": "2025-01-20T13:32:44",
-    "updated_at": "2025-01-22T08:18:53"
-  },
-  {
-    "name": "mind-evolution-pytorch",
-    "full_name": "lucidrains/mind-evolution-pytorch",
-    "description": "Implementation of Mind Evolution, Evolving Deeper LLM Thinking, from Deepmind, in Pytorch",
-    "url": "https://github.com/lucidrains/mind-evolution-pytorch",
-    "stars": 28,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "attention",
-      "deep-learning",
-      "evolutionary-algorithms",
-      "genetic-algorithms",
-      "transformers"
-    ],
-    "created_at": "2025-01-20T13:32:44",
-    "updated_at": "2025-01-22T08:18:53"
+    "updated_at": "2025-01-22T23:32:38"
   },
   {
     "name": "GAF-microbatch-pytorch",
     "full_name": "lucidrains/GAF-microbatch-pytorch",
     "description": "Implementation of Gradient Agreement Filtering, from Chaubard et al. of Stanford, but for single machine microbatches, in Pytorch",
     "url": "https://github.com/lucidrains/GAF-microbatch-pytorch",
-    "stars": 20,
+    "stars": 21,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "gradient-filtering",
+      "label-noise",
+      "robustness"
+    ],
+    "created_at": "2025-01-18T16:25:52",
+    "updated_at": "2025-01-22T12:24:46"
+  },
+  {
+    "name": "GAF-microbatch-pytorch",
+    "full_name": "lucidrains/GAF-microbatch-pytorch",
+    "description": "Implementation of Gradient Agreement Filtering, from Chaubard et al. of Stanford, but for single machine microbatches, in Pytorch",
+    "url": "https://github.com/lucidrains/GAF-microbatch-pytorch",
+    "stars": 21,
     "daily_stars": 0,
     "language": "Python",
     "topics": [
@@ -93,25 +71,7 @@
       "robustness"
     ],
     "created_at": "2025-01-18T16:25:52",
-    "updated_at": "2025-01-21T17:21:31"
-  },
-  {
-    "name": "GAF-microbatch-pytorch",
-    "full_name": "lucidrains/GAF-microbatch-pytorch",
-    "description": "Implementation of Gradient Agreement Filtering, from Chaubard et al. of Stanford, but for single machine microbatches, in Pytorch",
-    "url": "https://github.com/lucidrains/GAF-microbatch-pytorch",
-    "stars": 20,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "deep-learning",
-      "gradient-filtering",
-      "label-noise",
-      "robustness"
-    ],
-    "created_at": "2025-01-18T16:25:52",
-    "updated_at": "2025-01-21T17:21:31"
+    "updated_at": "2025-01-22T12:24:46"
   },
   {
     "name": "Multiplex-CoT",
@@ -179,6 +139,24 @@
     "updated_at": "2025-01-22T01:13:12"
   },
   {
+    "name": "solana-ai-agent",
+    "full_name": "kratos-te/solana-ai-agent",
+    "description": "AI agent connect on Solana using langchain",
+    "url": "https://github.com/kratos-te/solana-ai-agent",
+    "stars": 6,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agent",
+      "ai-agents",
+      "langchain",
+      "langchain-js",
+      "solana-ai-agent"
+    ],
+    "created_at": "2025-01-22T06:02:50",
+    "updated_at": "2025-01-22T14:41:02"
+  },
+  {
     "name": "Big-Ball-Swallows-Small-Ball",
     "full_name": "me0w00f/Big-Ball-Swallows-Small-Ball",
     "description": "🎮 Big Ball Swallows Small Ball - An addictive arcade game with AI support. Control a demon ball to eat smaller dots while avoiding bigger ones. Features dynamic movement, rainbow effects, and reinforcement learning capabilities. Built with Pygame and PyTorch. 😈 🌈",
@@ -197,5 +175,24 @@
     ],
     "created_at": "2025-01-15T06:51:26",
     "updated_at": "2025-01-19T08:44:12"
+  },
+  {
+    "name": "PaliGemma-from-scratch",
+    "full_name": "vlvink/PaliGemma-from-scratch",
+    "description": "PaliGemma is a project created from scratch, based on a YouTube guide, to learn and demonstrate application/library/system creation. The project uses modern development approaches and best practices from the original tutorial.",
+    "url": "https://github.com/vlvink/PaliGemma-from-scratch",
+    "stars": 5,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [
+      "computer-vision",
+      "generative-ai",
+      "language-model",
+      "machine-learning",
+      "visual-language-models",
+      "vlm"
+    ],
+    "created_at": "2025-01-16T21:49:54",
+    "updated_at": "2025-01-19T10:59:23"
   }
 ]
