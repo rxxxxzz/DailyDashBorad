@@ -2,7 +2,7 @@ name: Update AI Projects Data
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # UTC 时间每天 0:00 运行（北京时间 8:00）
+    - cron: '30 */4 * * *'  # 每4小时的30分运行，避开整点
   workflow_dispatch:  # 允许手动触发
 
 jobs:
