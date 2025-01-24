@@ -1,38 +1,11 @@
 [
   {
-    "name": "crypto-aml-check",
-    "full_name": "AMLChecker/crypto-aml-check",
-    "description": "AML Checker detection and analysis tools for cryptocurrency transactions using machine learning and blockchain data. Ensuring compliance and reducing money laundering risks.",
-    "url": "https://github.com/AMLChecker/crypto-aml-check",
-    "stars": 39,
-    "daily_stars": 11,
-    "language": null,
-    "topics": [
-      "aml",
-      "anti-money-laundering",
-      "blockchain",
-      "blockchain-security",
-      "compliance",
-      "crypto-aml",
-      "crypto-analysis",
-      "crypto-monitoring",
-      "crypto-security",
-      "financial-crimes",
-      "fraud-detection",
-      "machine-learning",
-      "risk-detection",
-      "transaction-analysis"
-    ],
-    "created_at": "2025-01-23T10:19:10",
-    "updated_at": "2025-01-24T12:24:59"
-  },
-  {
     "name": "titans-pytorch",
     "full_name": "lucidrains/titans-pytorch",
     "description": "Unofficial implementation of Titans, SOTA memory for transformers, in Pytorch",
     "url": "https://github.com/lucidrains/titans-pytorch",
-    "stars": 856,
-    "daily_stars": 3,
+    "stars": 860,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "artificial-intelligence",
@@ -41,15 +14,15 @@
       "neural-memory"
     ],
     "created_at": "2025-01-08T15:26:27",
-    "updated_at": "2025-01-24T12:12:28"
+    "updated_at": "2025-01-24T16:35:41"
   },
   {
     "name": "WebWalker",
     "full_name": "Alibaba-NLP/WebWalker",
     "description": "🌐 WebWalker: Benchmarking LLMs in Web Traversal",
     "url": "https://github.com/Alibaba-NLP/WebWalker",
-    "stars": 234,
-    "daily_stars": 2,
+    "stars": 238,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "agent",
@@ -62,138 +35,85 @@
       "web-agent"
     ],
     "created_at": "2025-01-09T11:07:35",
-    "updated_at": "2025-01-24T10:54:33"
+    "updated_at": "2025-01-24T16:30:38"
   },
   {
-    "name": "Neocadmium",
-    "full_name": "softwares-compound/Neocadmium",
-    "description": "Smart log analysis and debugging assistant for backend developers",
-    "url": "https://github.com/softwares-compound/Neocadmium",
-    "stars": 24,
-    "daily_stars": 2,
-    "language": "Makefile",
-    "topics": [
-      "application-monitoring",
-      "artificial-intelligence",
-      "developer-tools",
-      "electronjs",
-      "error-handling",
-      "fastapi",
-      "graphdb",
-      "graphql",
-      "graphrag",
-      "llamaindex",
-      "log",
-      "sqlite",
-      "tree-sitter"
-    ],
-    "created_at": "2025-01-14T11:51:35",
-    "updated_at": "2025-01-24T10:38:57"
-  },
-  {
-    "name": "staticvectors",
-    "full_name": "neuml/staticvectors",
-    "description": "🔢 Work with static vector models",
-    "url": "https://github.com/neuml/staticvectors",
-    "stars": 7,
-    "daily_stars": 2,
+    "name": "A5-Browser-Use",
+    "full_name": "AgenticA5/A5-Browser-Use",
+    "description": "Your commands control the browser - made easy | Chrome Extension and RESTful API for Browser-Use",
+    "url": "https://github.com/AgenticA5/A5-Browser-Use",
+    "stars": 41,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
-      "embeddings",
-      "machine-learning",
-      "nlp",
-      "python",
-      "search"
-    ],
-    "created_at": "2025-01-22T19:24:54",
-    "updated_at": "2025-01-24T10:47:11"
-  },
-  {
-    "name": "T6",
-    "full_name": "tensorgi/T6",
-    "description": "The official implementation of Tensor ProducT ATTenTion Transformer (T6)",
-    "url": "https://github.com/tensorgi/T6",
-    "stars": 245,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "deep-learning",
-      "foundation-models",
-      "large-language-models",
-      "llms",
-      "model-architectures",
-      "pretraining"
-    ],
-    "created_at": "2025-01-10T19:30:12",
-    "updated_at": "2025-01-24T11:05:49"
-  },
-  {
-    "name": "specif-ai",
-    "full_name": "presidio-oss/specif-ai",
-    "description": "Transform your software development lifecycle with Specif AI - an intelligent platform that turns project ideas into structured requirements and actionable tasks in minutes.",
-    "url": "https://github.com/presidio-oss/specif-ai",
-    "stars": 18,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai-chat",
-      "artificial-intelligence",
-      "business-intelligence",
-      "business-process-flows",
-      "business-requirements-document",
-      "electron-app",
-      "functional-requirements",
-      "generative-ai",
-      "hai-build",
-      "human-ai",
-      "non-functional-requirements",
-      "presidio",
-      "product-requirement-document",
-      "requirements-generator",
-      "requirements-management",
-      "sdlc",
-      "software-development"
-    ],
-    "created_at": "2025-01-07T18:33:57",
-    "updated_at": "2025-01-24T12:19:19"
-  },
-  {
-    "name": "pentagi",
-    "full_name": "vxcontrol/pentagi",
-    "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-    "url": "https://github.com/vxcontrol/pentagi",
-    "stars": 61,
-    "daily_stars": 1,
-    "language": "Go",
-    "topics": [
-      "ai-agents",
-      "ai-security-tool",
-      "anthropic",
-      "autonomous-agents",
-      "golang",
-      "gpt",
-      "graphql",
-      "multi-agent-system",
-      "offensive-security",
-      "open-source",
+      "agentic-ai",
+      "ai",
+      "aiagents",
+      "browser-extension",
+      "browser-use",
+      "chrome-extension",
+      "enterprise",
+      "enterprise-ai",
+      "gemini",
+      "genai",
+      "langchain",
+      "langchain-python",
+      "ollama",
       "openai",
-      "penetration-testing",
-      "penetration-testing-tools",
-      "react",
-      "security-automation",
-      "security-testing",
-      "security-tools",
-      "self-hosted"
+      "python",
+      "replit",
+      "usability",
+      "workflow",
+      "workflow-automation"
     ],
-    "created_at": "2025-01-06T22:22:48",
-    "updated_at": "2025-01-24T12:09:27"
+    "created_at": "2025-01-12T12:23:11",
+    "updated_at": "2025-01-24T15:25:47"
+  },
+  {
+    "name": "NLLBTranslateServer",
+    "full_name": "willweimike/NLLBTranslateServer",
+    "description": "NLLBTranslateServer - Translate Locally",
+    "url": "https://github.com/willweimike/NLLBTranslateServer",
+    "stars": 6,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "nllb200",
+      "translate"
+    ],
+    "created_at": "2025-01-10T06:18:32",
+    "updated_at": "2025-01-24T14:31:29"
+  },
+  {
+    "name": "smolagent-test",
+    "full_name": "codecruz/smolagent-test",
+    "description": "🤗 Prueba de concepto de un chat interactivo construido con Flask y Tailwind CSS. Utiliza smolagents para generar respuestas a preguntas. Incluye formateo básico de texto y una interfaz minimalista. Proyecto en desarrollo con fines de prueba y aprendizaje.",
+    "url": "https://github.com/codecruz/smolagent-test",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "huggingface",
+      "huggingface-models",
+      "ia",
+      "proof-of-concept",
+      "python",
+      "smolagents",
+      "testing"
+    ],
+    "created_at": "2025-01-09T15:46:38",
+    "updated_at": "2025-01-24T14:47:31"
   },
   {
     "name": "envoyjs",
     "full_name": "anandrmedia/envoyjs",
     "description": "EnvoyJS is a simple JavaScript framework for building AI agents.",
     "url": "https://github.com/anandrmedia/envoyjs",
-    "stars": 7,
+    "stars": 8,
     "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
@@ -206,14 +126,14 @@
       "typescript"
     ],
     "created_at": "2025-01-22T14:22:16",
-    "updated_at": "2025-01-24T08:54:43"
+    "updated_at": "2025-01-24T16:22:10"
   },
   {
     "name": "AI-Resources-Central",
     "full_name": "CoderSJX/AI-Resources-Central",
     "description": " Bringing together outstanding artificial intelligence (AI) open source projects from around the world. ",
     "url": "https://github.com/CoderSJX/AI-Resources-Central",
-    "stars": 455,
+    "stars": 456,
     "daily_stars": 1,
     "language": null,
     "topics": [
@@ -233,6 +153,69 @@
       "transformer"
     ],
     "created_at": "2025-01-08T01:44:10",
-    "updated_at": "2025-01-24T09:16:43"
+    "updated_at": "2025-01-24T13:35:56"
+  },
+  {
+    "name": "crypto-aml-check",
+    "full_name": "AMLChecker/crypto-aml-check",
+    "description": "AML Checker detection and analysis tools for cryptocurrency transactions using machine learning and blockchain data. Ensuring compliance and reducing money laundering risks.",
+    "url": "https://github.com/AMLChecker/crypto-aml-check",
+    "stars": 40,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "aml",
+      "anti-money-laundering",
+      "blockchain",
+      "blockchain-security",
+      "compliance",
+      "crypto-aml",
+      "crypto-analysis",
+      "crypto-monitoring",
+      "crypto-security",
+      "financial-crimes",
+      "fraud-detection",
+      "machine-learning",
+      "risk-detection",
+      "transaction-analysis"
+    ],
+    "created_at": "2025-01-23T10:19:10",
+    "updated_at": "2025-01-24T15:49:29"
+  },
+  {
+    "name": "synda",
+    "full_name": "timothepearce/synda",
+    "description": "A CLI for generating synthetic data",
+    "url": "https://github.com/timothepearce/synda",
+    "stars": 30,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "cli",
+      "llm",
+      "machine-learning",
+      "synthetic-data"
+    ],
+    "created_at": "2025-01-10T16:34:41",
+    "updated_at": "2025-01-24T15:54:06"
+  },
+  {
+    "name": "staticvectors",
+    "full_name": "neuml/staticvectors",
+    "description": "🔢 Work with static vector models",
+    "url": "https://github.com/neuml/staticvectors",
+    "stars": 8,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "embeddings",
+      "machine-learning",
+      "nlp",
+      "python",
+      "search"
+    ],
+    "created_at": "2025-01-22T19:24:54",
+    "updated_at": "2025-01-24T16:32:41"
   }
 ]
