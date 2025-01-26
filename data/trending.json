@@ -4,8 +4,8 @@
     "full_name": "kratos-te/solana-ai-agent",
     "description": "AI agent connect on Solana using langchain",
     "url": "https://github.com/kratos-te/solana-ai-agent",
-    "stars": 43,
-    "daily_stars": 23,
+    "stars": 110,
+    "daily_stars": 67,
     "language": "TypeScript",
     "topics": [
       "ai-agent",
@@ -15,15 +15,15 @@
       "solana-ai-agent"
     ],
     "created_at": "2025-01-22T06:02:50",
-    "updated_at": "2025-01-26T01:56:44"
+    "updated_at": "2025-01-26T04:35:40"
   },
   {
     "name": "Solana-AI-Agent-DApp",
     "full_name": "soladity/Solana-AI-Agent-DApp",
     "description": "AI Agent built on Solana Blockchain",
     "url": "https://github.com/soladity/Solana-AI-Agent-DApp",
-    "stars": 116,
-    "daily_stars": 4,
+    "stars": 125,
+    "daily_stars": 9,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -33,30 +33,14 @@
       "solana"
     ],
     "created_at": "2025-01-23T17:24:40",
-    "updated_at": "2025-01-26T01:49:34"
-  },
-  {
-    "name": "power-attention",
-    "full_name": "m-a-n-i-f-e-s-t/power-attention",
-    "description": "Attention Kernels for Symmetric Power Transformers",
-    "url": "https://github.com/m-a-n-i-f-e-s-t/power-attention",
-    "stars": 12,
-    "daily_stars": 2,
-    "language": "C++",
-    "topics": [
-      "cuda-kernels",
-      "deep-learning",
-      "llms"
-    ],
-    "created_at": "2025-01-08T11:01:44",
-    "updated_at": "2025-01-25T21:29:04"
+    "updated_at": "2025-01-26T04:25:12"
   },
   {
     "name": "titans-pytorch",
     "full_name": "lucidrains/titans-pytorch",
     "description": "Unofficial implementation of Titans, SOTA memory for transformers, in Pytorch",
     "url": "https://github.com/lucidrains/titans-pytorch",
-    "stars": 883,
+    "stars": 884,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -66,55 +50,47 @@
       "neural-memory"
     ],
     "created_at": "2025-01-08T15:26:27",
-    "updated_at": "2025-01-25T22:53:46"
+    "updated_at": "2025-01-26T03:04:25"
   },
   {
-    "name": "WebWalker",
-    "full_name": "Alibaba-NLP/WebWalker",
-    "description": "🌐 WebWalker: Benchmarking LLMs in Web Traversal",
-    "url": "https://github.com/Alibaba-NLP/WebWalker",
-    "stars": 247,
+    "name": "sentinel",
+    "full_name": "securade/sentinel",
+    "description": "Securade.ai Sentinel - A monitoring and surveillance application that enables visual Q&A and video captioning for existing CCTV cameras.",
+    "url": "https://github.com/securade/sentinel",
+    "stars": 8,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "agent",
-      "alibaba",
       "artificial-intelligence",
-      "information-seeking",
-      "llm",
-      "multi-agent",
-      "rag",
-      "web-agent"
+      "automated-surveillance",
+      "blip",
+      "cctv",
+      "computer-vision",
+      "generative-ai",
+      "live-video-analytics",
+      "machine-learning",
+      "real-time-inference",
+      "rtsp-stream",
+      "safety-monitoring",
+      "surveillance",
+      "video-analytics",
+      "video-monitoring",
+      "vilt",
+      "visual-captioning",
+      "visual-large-language-models",
+      "visual-question-answering",
+      "vlm",
+      "worker-safety"
     ],
-    "created_at": "2025-01-09T11:07:35",
-    "updated_at": "2025-01-26T00:40:14"
-  },
-  {
-    "name": "envoyjs",
-    "full_name": "anandrmedia/envoyjs",
-    "description": "EnvoyJS is a simple JavaScript framework for building AI agents.",
-    "url": "https://github.com/anandrmedia/envoyjs",
-    "stars": 11,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "agentic-framework",
-      "ai",
-      "ai-agents",
-      "javascript",
-      "javascript-ai",
-      "js-agentic-ai",
-      "typescript"
-    ],
-    "created_at": "2025-01-22T14:22:16",
-    "updated_at": "2025-01-26T00:36:54"
+    "created_at": "2025-01-24T04:35:53",
+    "updated_at": "2025-01-26T04:07:54"
   },
   {
     "name": "AI-Resources-Central",
     "full_name": "CoderSJX/AI-Resources-Central",
     "description": " Bringing together outstanding artificial intelligence (AI) open source projects from around the world. ",
     "url": "https://github.com/CoderSJX/AI-Resources-Central",
-    "stars": 468,
+    "stars": 469,
     "daily_stars": 1,
     "language": null,
     "topics": [
@@ -134,75 +110,112 @@
       "transformer"
     ],
     "created_at": "2025-01-08T01:44:10",
-    "updated_at": "2025-01-25T23:50:05"
+    "updated_at": "2025-01-26T02:00:51"
   },
   {
-    "name": "adaptive-classifier",
-    "full_name": "codelion/adaptive-classifier",
-    "description": "A flexible, adaptive classification system for dynamic text classification",
-    "url": "https://github.com/codelion/adaptive-classifier",
-    "stars": 51,
+    "name": "DeepMReye_Validation",
+    "full_name": "Zoha-Arif/DeepMReye_Validation",
+    "description": "BrainHack Vanderbilt 2025: A validation project for DeepMReye, a neuroimaging tool that uses deep learning to estimate gaze positions directly from functional MRI (fMRI) data. Our primary aim is to compare DeepMReye’s gaze predictions with traditional eye-tracking measurements to assess accuracy and reliability.",
+    "url": "https://github.com/Zoha-Arif/DeepMReye_Validation",
+    "stars": 3,
     "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "deep-learning",
+      "eyetracking",
+      "neuroimaging",
+      "neuroscience"
+    ],
+    "created_at": "2025-01-10T19:27:43",
+    "updated_at": "2025-01-26T04:07:21"
+  },
+  {
+    "name": "magnetron",
+    "full_name": "MarioSieg/magnetron",
+    "description": "(WIP) A small but powerful, homemade PyTorch from scratch.",
+    "url": "https://github.com/MarioSieg/magnetron",
+    "stars": 508,
+    "daily_stars": 0,
+    "language": "C++",
+    "topics": [
+      "artificial-intelligence",
+      "cpp",
+      "cuda",
+      "high-performance-computing",
+      "machine-learning",
+      "neuronal-network",
+      "python",
+      "pytorch",
+      "research-project",
+      "tensorflow",
+      "tiny"
+    ],
+    "created_at": "2025-01-02T21:25:56",
+    "updated_at": "2025-01-25T14:49:26"
+  },
+  {
+    "name": "WebWalker",
+    "full_name": "Alibaba-NLP/WebWalker",
+    "description": "🌐 WebWalker: Benchmarking LLMs in Web Traversal",
+    "url": "https://github.com/Alibaba-NLP/WebWalker",
+    "stars": 247,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
-      "adaptive-learning",
-      "adaptive-neural-network",
-      "bert",
-      "classifier",
-      "continous-learning",
-      "distilbert",
-      "elastic-weight-consolidation",
-      "embeddings",
-      "faiss",
-      "large-language-models",
-      "llms",
+      "agent",
+      "alibaba",
+      "artificial-intelligence",
+      "information-seeking",
+      "llm",
+      "multi-agent",
+      "rag",
+      "web-agent"
+    ],
+    "created_at": "2025-01-09T11:07:35",
+    "updated_at": "2025-01-26T00:40:14"
+  },
+  {
+    "name": "digimon-engine",
+    "full_name": "CohumanSpace/digimon-engine",
+    "description": "Digimon Engine — Multi-Agent, Multi-Player Framework for AI-Native Games and Agentic Metaverse",
+    "url": "https://github.com/CohumanSpace/digimon-engine",
+    "stars": 31,
+    "daily_stars": 0,
+    "language": "TypeScript",
+    "topics": [
+      "agentic-framework",
+      "agents",
+      "ai-native-game",
+      "artificial-intelligence",
+      "digimon-engine",
       "machine-learning",
-      "multi-class-classification",
-      "multi-label-classification",
-      "neural-layers",
-      "neural-networks",
-      "online-learning",
-      "roberta",
-      "text-classification",
+      "metaverse-infrastructure",
+      "multimodal",
+      "multiplayer",
+      "open-source",
+      "swarm-intelligence",
+      "web3-gaming"
+    ],
+    "created_at": "2025-01-08T03:01:46",
+    "updated_at": "2025-01-24T23:15:16"
+  },
+  {
+    "name": "mind-evolution-pytorch",
+    "full_name": "lucidrains/mind-evolution-pytorch",
+    "description": "Implementation of Mind Evolution, Evolving Deeper LLM Thinking, from Deepmind, in Pytorch",
+    "url": "https://github.com/lucidrains/mind-evolution-pytorch",
+    "stars": 31,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "attention",
+      "deep-learning",
+      "evolutionary-algorithms",
+      "genetic-algorithms",
       "transformers"
     ],
-    "created_at": "2025-01-12T22:49:54",
-    "updated_at": "2025-01-26T01:50:59"
-  },
-  {
-    "name": "synda",
-    "full_name": "timothepearce/synda",
-    "description": "A CLI for generating synthetic data",
-    "url": "https://github.com/timothepearce/synda",
-    "stars": 31,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "cli",
-      "llm",
-      "machine-learning",
-      "synthetic-data"
-    ],
-    "created_at": "2025-01-10T16:34:41",
-    "updated_at": "2025-01-26T01:55:03"
-  },
-  {
-    "name": "staticvectors",
-    "full_name": "neuml/staticvectors",
-    "description": "🔢 Work with static vector models",
-    "url": "https://github.com/neuml/staticvectors",
-    "stars": 13,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "embeddings",
-      "machine-learning",
-      "nlp",
-      "python",
-      "search"
-    ],
-    "created_at": "2025-01-22T19:24:54",
-    "updated_at": "2025-01-26T00:18:41"
+    "created_at": "2025-01-20T13:32:44",
+    "updated_at": "2025-01-25T14:22:02"
   }
 ]
