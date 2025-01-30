@@ -4,8 +4,8 @@
     "full_name": "multimodal-art-projection/YuE",
     "description": "YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open",
     "url": "https://github.com/multimodal-art-projection/YuE",
-    "stars": 1632,
-    "daily_stars": 177,
+    "stars": 1789,
+    "daily_stars": 157,
     "language": "Python",
     "topics": [
       "agi",
@@ -17,14 +17,14 @@
       "music-generation"
     ],
     "created_at": "2025-01-23T06:21:58",
-    "updated_at": "2025-01-30T16:39:34"
+    "updated_at": "2025-01-30T20:34:32"
   },
   {
     "name": "YuE",
     "full_name": "multimodal-art-projection/YuE",
     "description": "YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open",
     "url": "https://github.com/multimodal-art-projection/YuE",
-    "stars": 1632,
+    "stars": 1789,
     "daily_stars": 0,
     "language": "Python",
     "topics": [
@@ -37,7 +37,7 @@
       "music-generation"
     ],
     "created_at": "2025-01-23T06:21:58",
-    "updated_at": "2025-01-30T16:39:34"
+    "updated_at": "2025-01-30T20:34:32"
   },
   {
     "name": "stable-flow",
@@ -45,7 +45,7 @@
     "description": "Official implementation for \"Stable Flow: Vital Layers for Training-Free Image Editing\"",
     "url": "https://github.com/snap-research/stable-flow",
     "stars": 144,
-    "daily_stars": 4,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "deep-learning",
@@ -84,8 +84,8 @@
     "full_name": "mooncityorg/AI-chatbot",
     "description": "AI chatbot OPENAI",
     "url": "https://github.com/mooncityorg/AI-chatbot",
-    "stars": 103,
-    "daily_stars": 0,
+    "stars": 104,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -94,7 +94,7 @@
       "solana-ai-agent"
     ],
     "created_at": "2025-01-24T20:46:58",
-    "updated_at": "2025-01-29T11:10:45"
+    "updated_at": "2025-01-30T19:14:27"
   },
   {
     "name": "Solana-AI-Agent-DApp",
@@ -142,54 +142,74 @@
     "updated_at": "2025-01-29T11:03:34"
   },
   {
-    "name": "async_torchwindow",
-    "full_name": "loryruta/async_torchwindow",
-    "description": "An async window to visualize an Image tensor or a Gaussian Splatting scene",
-    "url": "https://github.com/loryruta/async_torchwindow",
-    "stars": 15,
-    "daily_stars": 0,
-    "language": "Cuda",
-    "topics": [
-      "deep-learning",
-      "gaussian-splatting",
-      "image-processing",
-      "pytorch"
-    ],
-    "created_at": "2025-01-22T20:32:25",
-    "updated_at": "2025-01-29T12:24:13"
-  },
-  {
-    "name": "staticvectors",
-    "full_name": "neuml/staticvectors",
-    "description": "🔢 Work with static vector models",
-    "url": "https://github.com/neuml/staticvectors",
-    "stars": 14,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "embeddings",
-      "machine-learning",
-      "nlp",
-      "python",
-      "search"
-    ],
-    "created_at": "2025-01-22T19:24:54",
-    "updated_at": "2025-01-28T17:54:42"
-  },
-  {
-    "name": "SwarmFormer",
-    "full_name": "takara-ai/SwarmFormer",
-    "description": "A pytorch implementation of SwarmFormer for text classification. ",
-    "url": "https://github.com/takara-ai/SwarmFormer",
+    "name": "AdaptiveSpectrumLayer",
+    "full_name": "Hadar933/AdaptiveSpectrumLayer",
+    "description": "Official PyTorch Implementation for the \"A Deep Inverse-Mapping Model for a Flapping Robotic Wing\" Paper (ICLR 2025)",
+    "url": "https://github.com/Hadar933/AdaptiveSpectrumLayer",
     "stars": 9,
     "daily_stars": 0,
     "language": "Python",
     "topics": [
-      "artificial-intelligence",
+      "deep-learning",
+      "fourier-transform",
       "machine-learning",
-      "transformer-architecture"
+      "timeseries",
+      "timeseries-analysis",
+      "timeseries-data"
     ],
-    "created_at": "2025-01-22T16:53:55",
-    "updated_at": "2025-01-27T00:40:47"
+    "created_at": "2025-01-27T09:44:22",
+    "updated_at": "2025-01-30T14:11:50"
+  },
+  {
+    "name": "AdaptiveSpectrumLayer",
+    "full_name": "Hadar933/AdaptiveSpectrumLayer",
+    "description": "Official PyTorch Implementation for the \"A Deep Inverse-Mapping Model for a Flapping Robotic Wing\" Paper (ICLR 2025)",
+    "url": "https://github.com/Hadar933/AdaptiveSpectrumLayer",
+    "stars": 9,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [
+      "deep-learning",
+      "fourier-transform",
+      "machine-learning",
+      "timeseries",
+      "timeseries-analysis",
+      "timeseries-data"
+    ],
+    "created_at": "2025-01-27T09:44:22",
+    "updated_at": "2025-01-30T14:11:50"
+  },
+  {
+    "name": "sentinel",
+    "full_name": "securade/sentinel",
+    "description": "Securade.ai Sentinel - A monitoring and surveillance application that enables visual Q&A and video captioning for existing CCTV cameras.",
+    "url": "https://github.com/securade/sentinel",
+    "stars": 8,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "automated-surveillance",
+      "blip",
+      "cctv",
+      "computer-vision",
+      "generative-ai",
+      "live-video-analytics",
+      "machine-learning",
+      "real-time-inference",
+      "rtsp-stream",
+      "safety-monitoring",
+      "surveillance",
+      "video-analytics",
+      "video-monitoring",
+      "vilt",
+      "visual-captioning",
+      "visual-large-language-models",
+      "visual-question-answering",
+      "vlm",
+      "worker-safety"
+    ],
+    "created_at": "2025-01-24T04:35:53",
+    "updated_at": "2025-01-26T04:07:54"
   }
 ]
