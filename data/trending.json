@@ -4,8 +4,8 @@
     "full_name": "multimodal-art-projection/YuE",
     "description": "YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open",
     "url": "https://github.com/multimodal-art-projection/YuE",
-    "stars": 2493,
-    "daily_stars": 33,
+    "stars": 2519,
+    "daily_stars": 26,
     "language": "Python",
     "topics": [
       "agi",
@@ -17,14 +17,91 @@
       "music-generation"
     ],
     "created_at": "2025-01-23T06:21:58",
-    "updated_at": "2025-02-02T12:48:57"
+    "updated_at": "2025-02-02T16:38:39"
+  },
+  {
+    "name": "transformer-directed-evolution",
+    "full_name": "lucidrains/transformer-directed-evolution",
+    "description": "Explorations into whether a transformer with RL can direct a genetic algorithm to converge faster",
+    "url": "https://github.com/lucidrains/transformer-directed-evolution",
+    "stars": 25,
+    "daily_stars": 6,
+    "language": null,
+    "topics": [
+      "artificial-intelligence",
+      "attention-mechanisms",
+      "deep-learning",
+      "evolutionary-algorithms",
+      "reinforcement-learning"
+    ],
+    "created_at": "2025-02-01T14:54:41",
+    "updated_at": "2025-02-02T15:44:29"
+  },
+  {
+    "name": "small-doge",
+    "full_name": "SamllDoge/small-doge",
+    "description": "Doge Family of Small Language Model",
+    "url": "https://github.com/SamllDoge/small-doge",
+    "stars": 9,
+    "daily_stars": 4,
+    "language": "Python",
+    "topics": [
+      "attention-is-all-you-need",
+      "attention-mechanism",
+      "cross-domain-mixture-of-experts",
+      "deep-learning",
+      "dynamic-mask-attention",
+      "foundation-models",
+      "mechine-learning",
+      "natural-language-processing",
+      "nlp",
+      "python",
+      "pytorch",
+      "small-language-models",
+      "transformer"
+    ],
+    "created_at": "2025-02-01T04:20:41",
+    "updated_at": "2025-02-02T14:49:09"
+  },
+  {
+    "name": "hub",
+    "full_name": "securade/hub",
+    "description": "Securade.ai HUB - A generative AI based edge platform for computer vision that connects to existing CCTV cameras and makes them smart.",
+    "url": "https://github.com/securade/hub",
+    "stars": 25,
+    "daily_stars": 2,
+    "language": null,
+    "topics": [
+      "artificial-intelligence",
+      "computer-vision",
+      "edge-deployment",
+      "face-detection",
+      "fire-detection",
+      "generative-ai",
+      "grounding-dino",
+      "industrial-safety",
+      "jetson",
+      "machine-learning",
+      "model-zoo",
+      "nvidia-gpu",
+      "object-detection",
+      "ppe-detection",
+      "proximity-dete",
+      "smoke-detection",
+      "video-analytics",
+      "worker-safety",
+      "yolo7",
+      "zone-mana"
+    ],
+    "created_at": "2025-01-22T14:43:41",
+    "updated_at": "2025-02-02T14:00:36"
   },
   {
     "name": "AI-LEGO-HEAD",
     "full_name": "CreativeMindstorms/AI-LEGO-HEAD",
     "description": "Python code that allows for a full AI chat assistant experience with a Lego Mindstorms Robotic Head. This includes vision.",
     "url": "https://github.com/CreativeMindstorms/AI-LEGO-HEAD",
-    "stars": 8,
+    "stars": 10,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
@@ -43,103 +120,38 @@
       "robotics"
     ],
     "created_at": "2025-01-21T13:05:48",
-    "updated_at": "2025-02-02T12:27:40"
+    "updated_at": "2025-02-02T16:38:37"
   },
   {
-    "name": "WebWalker",
-    "full_name": "Alibaba-NLP/WebWalker",
-    "description": "🌐 WebWalker: Benchmarking LLMs in Web Traversal",
-    "url": "https://github.com/Alibaba-NLP/WebWalker",
-    "stars": 275,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "alibaba",
-      "artificial-intelligence",
-      "information-seeking",
-      "llm",
-      "multi-agent",
-      "rag",
-      "web-agent"
-    ],
-    "created_at": "2025-01-09T11:07:35",
-    "updated_at": "2025-02-02T09:11:12"
-  },
-  {
-    "name": "transformer-directed-evolution",
-    "full_name": "lucidrains/transformer-directed-evolution",
-    "description": "Explorations into whether a transformer with RL can direct a genetic algorithm to converge faster",
-    "url": "https://github.com/lucidrains/transformer-directed-evolution",
-    "stars": 19,
-    "daily_stars": 1,
+    "name": "awesome-ai-agents",
+    "full_name": "aylar-ghezelbash/awesome-ai-agents",
+    "description": "A curated list of awesome top best AI Agents",
+    "url": "https://github.com/aylar-ghezelbash/awesome-ai-agents",
+    "stars": 20,
+    "daily_stars": 2,
     "language": null,
     "topics": [
-      "artificial-intelligence",
-      "attention-mechanisms",
-      "deep-learning",
-      "evolutionary-algorithms",
-      "reinforcement-learning"
-    ],
-    "created_at": "2025-02-01T14:54:41",
-    "updated_at": "2025-02-02T10:01:26"
-  },
-  {
-    "name": "solana-ai-agent",
-    "full_name": "kratos-te/solana-ai-agent",
-    "description": "AI agent connect on Solana using langchain",
-    "url": "https://github.com/kratos-te/solana-ai-agent",
-    "stars": 129,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
+      "ai",
       "ai-agent",
       "ai-agents",
-      "langchain",
-      "langchain-js",
-      "solana-ai-agent"
+      "ai-agents-framework",
+      "automation",
+      "awesome",
+      "awesome-ai-agents",
+      "awesome-list",
+      "ml",
+      "mlops"
     ],
-    "created_at": "2025-01-22T06:02:50",
-    "updated_at": "2025-02-02T12:30:50"
-  },
-  {
-    "name": "pentagi",
-    "full_name": "vxcontrol/pentagi",
-    "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-    "url": "https://github.com/vxcontrol/pentagi",
-    "stars": 68,
-    "daily_stars": 1,
-    "language": "Go",
-    "topics": [
-      "ai-agents",
-      "ai-security-tool",
-      "anthropic",
-      "autonomous-agents",
-      "golang",
-      "gpt",
-      "graphql",
-      "multi-agent-system",
-      "offensive-security",
-      "open-source",
-      "openai",
-      "penetration-testing",
-      "penetration-testing-tools",
-      "react",
-      "security-automation",
-      "security-testing",
-      "security-tools",
-      "self-hosted"
-    ],
-    "created_at": "2025-01-06T22:22:48",
-    "updated_at": "2025-02-02T12:20:27"
+    "created_at": "2025-01-21T14:38:33",
+    "updated_at": "2025-02-02T16:14:59"
   },
   {
     "name": "AI-Resources-Central",
     "full_name": "CoderSJX/AI-Resources-Central",
     "description": " Bringing together outstanding artificial intelligence (AI) open source projects from around the world. ",
     "url": "https://github.com/CoderSJX/AI-Resources-Central",
-    "stars": 501,
-    "daily_stars": 1,
+    "stars": 503,
+    "daily_stars": 2,
     "language": null,
     "topics": [
       "agent",
@@ -158,73 +170,60 @@
       "transformer"
     ],
     "created_at": "2025-01-08T01:44:10",
-    "updated_at": "2025-02-02T08:53:19"
+    "updated_at": "2025-02-02T15:58:28"
   },
   {
-    "name": "stable-flow",
-    "full_name": "snap-research/stable-flow",
-    "description": "Official implementation for \"Stable Flow: Vital Layers for Training-Free Image Editing\"",
-    "url": "https://github.com/snap-research/stable-flow",
-    "stars": 168,
+    "name": "titans-pytorch",
+    "full_name": "lucidrains/titans-pytorch",
+    "description": "Unofficial implementation of Titans, SOTA memory for transformers, in Pytorch",
+    "url": "https://github.com/lucidrains/titans-pytorch",
+    "stars": 938,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
+      "artificial-intelligence",
       "deep-learning",
-      "diffusion-models",
-      "flow-models",
-      "generative-ai",
-      "image-editing",
-      "machine-learning",
-      "text-to-image"
+      "long-term-memory",
+      "neural-memory"
     ],
-    "created_at": "2025-01-22T21:15:04",
-    "updated_at": "2025-02-02T10:48:12"
+    "created_at": "2025-01-08T15:26:27",
+    "updated_at": "2025-02-02T16:27:12"
   },
   {
-    "name": "Awesome-MLSys-Blogger",
-    "full_name": "MLSys-Learner-Resources/Awesome-MLSys-Blogger",
-    "description": "The repository has collected a batch of noteworthy MLSys bloggers (Algorithms/Systems)",
-    "url": "https://github.com/MLSys-Learner-Resources/Awesome-MLSys-Blogger",
-    "stars": 161,
+    "name": "WebWalker",
+    "full_name": "Alibaba-NLP/WebWalker",
+    "description": "🌐 WebWalker: Benchmarking LLMs in Web Traversal",
+    "url": "https://github.com/Alibaba-NLP/WebWalker",
+    "stars": 276,
     "daily_stars": 1,
-    "language": "HTML",
+    "language": "Python",
     "topics": [
+      "agent",
+      "alibaba",
+      "artificial-intelligence",
+      "information-seeking",
       "llm",
-      "llm-inference",
-      "llm-training",
-      "machine-learning",
-      "machine-learning-systems",
-      "mlsys"
+      "multi-agent",
+      "rag",
+      "web-agent"
     ],
-    "created_at": "2025-01-05T16:08:01",
-    "updated_at": "2025-02-02T08:54:30"
+    "created_at": "2025-01-09T11:07:35",
+    "updated_at": "2025-02-02T15:27:50"
   },
   {
-    "name": "BSternAIChain",
-    "full_name": "MARTINN25/BSternAIChain",
-    "description": "An innovative platform combining Blockchain and AI for transparent and secure transactions.",
-    "url": "https://github.com/MARTINN25/BSternAIChain",
-    "stars": 4,
+    "name": "tensorpool",
+    "full_name": "tensorpool/tensorpool",
+    "description": "The easiest way to execute ML jobs on the cloud.",
+    "url": "https://github.com/tensorpool/tensorpool",
+    "stars": 52,
     "daily_stars": 1,
-    "language": null,
+    "language": "Python",
     "topics": [
-      "ai",
-      "blockchain",
-      "crypto",
-      "ethereum",
-      "graphql",
-      "machine-learning",
-      "nodejs",
-      "opensource",
-      "react",
-      "risk-management",
-      "rust",
-      "smart-contracts",
-      "solidity",
-      "tensorflow",
-      "web3"
+      "artificial-intelligence",
+      "gpu",
+      "machine-learning"
     ],
-    "created_at": "2025-01-24T07:55:25",
-    "updated_at": "2025-02-02T12:45:28"
+    "created_at": "2025-01-20T06:42:49",
+    "updated_at": "2025-02-02T14:54:08"
   }
 ]
