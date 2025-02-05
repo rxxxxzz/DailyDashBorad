@@ -1,11 +1,32 @@
 [
   {
+    "name": "ml-from-scratch",
+    "full_name": "mstrYoda/ml-from-scratch",
+    "description": "A comprehensive collection of practical machine learning examples using popular frameworks and libraries.",
+    "url": "https://github.com/mstrYoda/ml-from-scratch",
+    "stars": 66,
+    "daily_stars": 20,
+    "language": "Python",
+    "topics": [
+      "llm",
+      "machine-learning",
+      "matplotlib",
+      "numpy",
+      "pandas",
+      "python",
+      "pytorch",
+      "sklearn"
+    ],
+    "created_at": "2025-02-05T11:25:00",
+    "updated_at": "2025-02-05T20:25:49"
+  },
+  {
     "name": "YuE",
     "full_name": "multimodal-art-projection/YuE",
     "description": "YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open",
     "url": "https://github.com/multimodal-art-projection/YuE",
-    "stars": 2932,
-    "daily_stars": 12,
+    "stars": 2943,
+    "daily_stars": 11,
     "language": "Python",
     "topics": [
       "agi",
@@ -17,15 +38,15 @@
       "music-generation"
     ],
     "created_at": "2025-01-23T06:21:58",
-    "updated_at": "2025-02-05T16:33:18"
+    "updated_at": "2025-02-05T20:00:48"
   },
   {
     "name": "FlashLearn",
     "full_name": "Pravko-Solutions/FlashLearn",
     "description": "Light weight libary for integrating agents and LLMs in your existing workflows.",
     "url": "https://github.com/Pravko-Solutions/FlashLearn",
-    "stars": 141,
-    "daily_stars": 6,
+    "stars": 146,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "ai",
@@ -36,15 +57,33 @@
       "python"
     ],
     "created_at": "2025-01-16T15:19:55",
-    "updated_at": "2025-02-05T16:15:28"
+    "updated_at": "2025-02-05T19:47:29"
+  },
+  {
+    "name": "manifold",
+    "full_name": "intelligencedev/manifold",
+    "description": "Manifold is a platform for enabling workflow automation using AI assistants.",
+    "url": "https://github.com/intelligencedev/manifold",
+    "stars": 5,
+    "daily_stars": 4,
+    "language": "Vue",
+    "topics": [
+      "artificial-intelligence",
+      "automation",
+      "go",
+      "visual-coding",
+      "vuejs"
+    ],
+    "created_at": "2025-02-04T23:28:34",
+    "updated_at": "2025-02-05T18:49:26"
   },
   {
     "name": "titans-pytorch",
     "full_name": "lucidrains/titans-pytorch",
     "description": "Unofficial implementation of Titans, SOTA memory for transformers, in Pytorch",
     "url": "https://github.com/lucidrains/titans-pytorch",
-    "stars": 977,
-    "daily_stars": 2,
+    "stars": 978,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "artificial-intelligence",
@@ -53,67 +92,79 @@
       "neural-memory"
     ],
     "created_at": "2025-01-08T15:26:27",
-    "updated_at": "2025-02-05T14:21:14"
+    "updated_at": "2025-02-05T18:04:56"
   },
   {
-    "name": "tensorpool",
-    "full_name": "tensorpool/tensorpool",
-    "description": "The easiest way to execute ML jobs on the cloud.",
-    "url": "https://github.com/tensorpool/tensorpool",
-    "stars": 66,
-    "daily_stars": 2,
-    "language": "Python",
+    "name": "transformer-directed-evolution",
+    "full_name": "lucidrains/transformer-directed-evolution",
+    "description": "Explorations into whether a transformer with RL can direct a genetic algorithm to converge faster",
+    "url": "https://github.com/lucidrains/transformer-directed-evolution",
+    "stars": 51,
+    "daily_stars": 1,
+    "language": null,
     "topics": [
       "artificial-intelligence",
-      "gpu",
-      "machine-learning"
-    ],
-    "created_at": "2025-01-20T06:42:49",
-    "updated_at": "2025-02-05T14:44:22"
-  },
-  {
-    "name": "stable-flow",
-    "full_name": "snap-research/stable-flow",
-    "description": "Official implementation for \"Stable Flow: Vital Layers for Training-Free Image Editing\"",
-    "url": "https://github.com/snap-research/stable-flow",
-    "stars": 181,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
+      "attention-mechanisms",
       "deep-learning",
-      "diffusion-models",
-      "flow-models",
-      "generative-ai",
-      "image-editing",
-      "machine-learning",
-      "text-to-image"
+      "evolutionary-algorithms",
+      "reinforcement-learning"
     ],
-    "created_at": "2025-01-22T21:15:04",
-    "updated_at": "2025-02-05T15:13:39"
+    "created_at": "2025-02-01T14:54:41",
+    "updated_at": "2025-02-05T18:17:43"
   },
   {
-    "name": "wake-me",
-    "full_name": "llami-team/wake-me",
-    "description": "AI-based React component library that detects clapping sounds or finger snaps. Using a TensorFlow.js-based machine learning model, it accurately analyzes sounds in real-time.",
-    "url": "https://github.com/llami-team/wake-me",
-    "stars": 19,
-    "daily_stars": 2,
-    "language": "TypeScript",
+    "name": "AI-Resources-Central",
+    "full_name": "CoderSJX/AI-Resources-Central",
+    "description": " Bringing together outstanding artificial intelligence (AI) open source projects from around the world. ",
+    "url": "https://github.com/CoderSJX/AI-Resources-Central",
+    "stars": 518,
+    "daily_stars": 1,
+    "language": null,
     "topics": [
+      "agent",
       "ai",
-      "component",
-      "finger-detection",
-      "library",
+      "chatgpt",
+      "functioncall",
+      "gemini",
+      "llm",
       "machine-learning",
-      "react",
-      "sound-detection",
-      "tensorflow",
-      "wake-snap",
-      "wake-up",
-      "wake-up-word"
+      "model",
+      "ollama",
+      "openai",
+      "prompt-engineering",
+      "qwen",
+      "spring-ai",
+      "transformer"
     ],
-    "created_at": "2025-01-31T02:34:54",
-    "updated_at": "2025-02-05T14:10:37"
+    "created_at": "2025-01-08T01:44:10",
+    "updated_at": "2025-02-05T17:19:20"
+  },
+  {
+    "name": "crypto-aml-check",
+    "full_name": "AMLChecker/crypto-aml-check",
+    "description": "AML Checker detection and analysis tools for cryptocurrency transactions using machine learning and blockchain data. Ensuring compliance and reducing money laundering risks.",
+    "url": "https://github.com/AMLChecker/crypto-aml-check",
+    "stars": 49,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "aml",
+      "anti-money-laundering",
+      "blockchain",
+      "blockchain-security",
+      "compliance",
+      "crypto-aml",
+      "crypto-analysis",
+      "crypto-monitoring",
+      "crypto-security",
+      "financial-crimes",
+      "fraud-detection",
+      "machine-learning",
+      "risk-detection",
+      "transaction-analysis"
+    ],
+    "created_at": "2025-01-23T10:19:10",
+    "updated_at": "2025-02-05T19:09:41"
   },
   {
     "name": "WebWalker",
@@ -121,7 +172,7 @@
     "description": "🌐 WebWalker: Benchmarking LLMs in Web Traversal",
     "url": "https://github.com/Alibaba-NLP/WebWalker",
     "stars": 284,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "agent",
@@ -137,65 +188,19 @@
     "updated_at": "2025-02-05T14:46:46"
   },
   {
-    "name": "AI-Chatbot",
-    "full_name": "Emmanuel10701/AI-Chatbot",
-    "description": "Chatbot ",
-    "url": "https://github.com/Emmanuel10701/AI-Chatbot",
-    "stars": 3,
-    "daily_stars": 1,
+    "name": "tensorpool",
+    "full_name": "tensorpool/tensorpool",
+    "description": "The easiest way to execute ML jobs on the cloud.",
+    "url": "https://github.com/tensorpool/tensorpool",
+    "stars": 66,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "artificial-intelligence",
-      "keras-tensorflow",
-      "opencv",
-      "python",
-      "tensorflow"
+      "gpu",
+      "machine-learning"
     ],
-    "created_at": "2025-01-21T09:32:45",
-    "updated_at": "2025-02-05T12:59:31"
-  },
-  {
-    "name": "blockchain-ai-agent-project",
-    "full_name": "topsecretagent007/blockchain-ai-agent-project",
-    "description": "blockchain ai agent project",
-    "url": "https://github.com/topsecretagent007/blockchain-ai-agent-project",
-    "stars": 14,
-    "daily_stars": 1,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "ai-bot",
-      "blockchain",
-      "solana"
-    ],
-    "created_at": "2025-01-24T23:13:25",
-    "updated_at": "2025-02-05T15:57:26"
-  },
-  {
-    "name": "agentic-ai-playground",
-    "full_name": "BjornMelin/agentic-ai-playground",
-    "description": "An Agentic AI Research Playground for building AI Agents and Mult-Agent systems leveraging open-source models, libraries, and frameworks. Models used to run agents locally on Nvidia RTX A2000 GPU - 8GB VRAM include the quantized Ollama models: llama3.1:8b-instruct-q8_0, llama3.1:8b_q8_0, qwen2.5:7b-instruct-q8_0, and qwen2.5-coder:7b-instruct-q8_0.",
-    "url": "https://github.com/BjornMelin/agentic-ai-playground",
-    "stars": 2,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "agents",
-      "ai",
-      "ai-agents",
-      "ai-playground",
-      "autogen",
-      "crewai",
-      "langchain",
-      "large-language-models",
-      "machine-learning",
-      "multi-agent-systems",
-      "smolagents"
-    ],
-    "created_at": "2025-01-13T19:57:50",
-    "updated_at": "2025-02-05T14:03:16"
+    "created_at": "2025-01-20T06:42:49",
+    "updated_at": "2025-02-05T20:21:32"
   }
 ]
