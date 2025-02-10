@@ -1,11 +1,33 @@
 [
   {
+    "name": "focalcodec",
+    "full_name": "lucadellalib/focalcodec",
+    "description": "A low-bitrate single-codebook 16 kHz speech codec based on focal modulation",
+    "url": "https://github.com/lucadellalib/focalcodec",
+    "stars": 23,
+    "daily_stars": 19,
+    "language": "Python",
+    "topics": [
+      "codec",
+      "deep-learning",
+      "focal-modulation",
+      "neural-speech-coding",
+      "pytorch",
+      "speech-synthesis",
+      "vector-quantization",
+      "vocos",
+      "wavlm"
+    ],
+    "created_at": "2025-02-03T09:03:40",
+    "updated_at": "2025-02-10T08:37:57"
+  },
+  {
     "name": "YuE",
     "full_name": "multimodal-art-projection/YuE",
     "description": "YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open",
     "url": "https://github.com/multimodal-art-projection/YuE",
-    "stars": 3387,
-    "daily_stars": 13,
+    "stars": 3404,
+    "daily_stars": 17,
     "language": "Python",
     "topics": [
       "agi",
@@ -17,15 +39,15 @@
       "music-generation"
     ],
     "created_at": "2025-01-23T06:21:58",
-    "updated_at": "2025-02-10T04:03:13"
+    "updated_at": "2025-02-10T08:41:47"
   },
   {
     "name": "FlashLearn",
     "full_name": "Pravko-Solutions/FlashLearn",
     "description": "Light weight libary for integrating agents and LLMs in your existing workflows.",
     "url": "https://github.com/Pravko-Solutions/FlashLearn",
-    "stars": 368,
-    "daily_stars": 12,
+    "stars": 384,
+    "daily_stars": 16,
     "language": "Python",
     "topics": [
       "ai",
@@ -36,49 +58,38 @@
       "python"
     ],
     "created_at": "2025-01-16T15:19:55",
-    "updated_at": "2025-02-10T04:20:16"
+    "updated_at": "2025-02-10T08:29:17"
   },
   {
-    "name": "improving-transformers-world-model-for-rl",
-    "full_name": "lucidrains/improving-transformers-world-model-for-rl",
-    "description": "Implementation of the new SOTA for model based RL, from the paper \"Improving Transformer World Models for Data-Efficient RL\", in Pytorch",
-    "url": "https://github.com/lucidrains/improving-transformers-world-model-for-rl",
-    "stars": 19,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "artificial-intelligence",
-      "attention-mechanism",
-      "deep-learning",
-      "model-based-reinforcement-learning",
-      "transformers",
-      "world-models"
-    ],
-    "created_at": "2025-02-09T15:00:51",
-    "updated_at": "2025-02-10T03:55:52"
-  },
-  {
-    "name": "surf.new",
-    "full_name": "steel-dev/surf.new",
-    "description": "A playground for web agents 🌊",
-    "url": "https://github.com/steel-dev/surf.new",
-    "stars": 143,
-    "daily_stars": 2,
+    "name": "Dive",
+    "full_name": "OpenAgentPlatform/Dive",
+    "description": "Dive is an open-source AI Agent desktop application that seamlessly integrates any Tools Call-supported LLM with frontend MCP Server—part of the Open Agent Platform initiative.",
+    "url": "https://github.com/OpenAgentPlatform/Dive",
+    "stars": 25,
+    "daily_stars": 16,
     "language": "TypeScript",
     "topics": [
+      "ai",
       "ai-agents",
-      "browser-automation"
+      "llm-interface",
+      "llm-ui",
+      "mcp-client",
+      "mcp-host",
+      "mcp-server",
+      "ollama",
+      "ollama-client",
+      "ollama-ui"
     ],
-    "created_at": "2025-01-30T22:32:55",
-    "updated_at": "2025-02-10T04:15:17"
+    "created_at": "2025-01-24T00:55:50",
+    "updated_at": "2025-02-10T08:01:42"
   },
   {
     "name": "Awesome-European-Tech",
     "full_name": "uscneps/Awesome-European-Tech",
     "description": "Up-to-date, community-driven list of Awesome European Tech projects! all focusing on privacy, sustainability, and innovation. The goal is to support European startups and projects (Compliance to GDPR, UK GDPR, Swiss FADP) helping to strengthen the European tech ecosystem.",
     "url": "https://github.com/uscneps/Awesome-European-Tech",
-    "stars": 238,
-    "daily_stars": 1,
+    "stars": 253,
+    "daily_stars": 15,
     "language": null,
     "topics": [
       "ai",
@@ -100,38 +111,57 @@
       "startup"
     ],
     "created_at": "2025-01-25T16:19:44",
-    "updated_at": "2025-02-10T04:03:57"
+    "updated_at": "2025-02-10T08:42:00"
   },
   {
-    "name": "Dive",
-    "full_name": "OpenAgentPlatform/Dive",
-    "description": "Dive is an open-source AI Agent desktop application that seamlessly integrates any Tools Call-supported LLM with frontend MCP Server—part of the Open Agent Platform initiative.",
-    "url": "https://github.com/OpenAgentPlatform/Dive",
-    "stars": 9,
-    "daily_stars": 1,
-    "language": "TypeScript",
+    "name": "improving-transformers-world-model-for-rl",
+    "full_name": "lucidrains/improving-transformers-world-model-for-rl",
+    "description": "Implementation of the new SOTA for model based RL, from the paper \"Improving Transformer World Models for Data-Efficient RL\", in Pytorch",
+    "url": "https://github.com/lucidrains/improving-transformers-world-model-for-rl",
+    "stars": 24,
+    "daily_stars": 5,
+    "language": null,
     "topics": [
-      "ai",
-      "ai-agents",
-      "llm-interface",
-      "llm-ui",
-      "mcp-client",
-      "mcp-host",
-      "mcp-server",
-      "ollama",
-      "ollama-client",
-      "ollama-ui"
+      "artificial-intelligence",
+      "attention-mechanism",
+      "deep-learning",
+      "model-based-reinforcement-learning",
+      "transformers",
+      "world-models"
     ],
-    "created_at": "2025-01-24T00:55:50",
-    "updated_at": "2025-02-10T03:58:41"
+    "created_at": "2025-02-09T15:00:51",
+    "updated_at": "2025-02-10T07:11:33"
+  },
+  {
+    "name": "LiuMotion",
+    "full_name": "Novecento99/LiuMotion",
+    "description": "LiuMotion is a framework that let you use a image generation neural network in real time.",
+    "url": "https://github.com/Novecento99/LiuMotion",
+    "stars": 19,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "analisys",
+      "art",
+      "artificial-intelligence",
+      "biggan",
+      "framework",
+      "gan",
+      "music",
+      "neural-network",
+      "pytorch",
+      "real-time"
+    ],
+    "created_at": "2025-02-07T13:28:24",
+    "updated_at": "2025-02-10T08:26:37"
   },
   {
     "name": "local-rag-researcher-deepseek",
     "full_name": "kaymen99/local-rag-researcher-deepseek",
     "description": "Local RAG researcher agent built using Langgraph, DeepSeek R1 and Ollama",
     "url": "https://github.com/kaymen99/local-rag-researcher-deepseek",
-    "stars": 7,
-    "daily_stars": 1,
+    "stars": 9,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -144,62 +174,40 @@
       "research-assistant"
     ],
     "created_at": "2025-02-06T23:31:15",
-    "updated_at": "2025-02-10T03:04:47"
+    "updated_at": "2025-02-10T06:29:22"
   },
   {
-    "name": "stable-flow",
-    "full_name": "snap-research/stable-flow",
-    "description": "Official implementation for \"Stable Flow: Vital Layers for Training-Free Image Editing\"",
-    "url": "https://github.com/snap-research/stable-flow",
-    "stars": 198,
-    "daily_stars": 1,
+    "name": "salad",
+    "full_name": "mjendrusch/salad",
+    "description": "protein structure generation with sparse all-atom denoising models",
+    "url": "https://github.com/mjendrusch/salad",
+    "stars": 11,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
-      "deep-learning",
-      "diffusion-models",
-      "flow-models",
-      "generative-ai",
-      "image-editing",
+      "bioinformatics",
+      "jax",
       "machine-learning",
-      "text-to-image"
+      "protein-design",
+      "protein-structure"
     ],
-    "created_at": "2025-01-22T21:15:04",
-    "updated_at": "2025-02-10T04:28:21"
+    "created_at": "2025-01-30T13:31:57",
+    "updated_at": "2025-02-10T08:32:12"
   },
   {
-    "name": "face-recognition-Qt5",
-    "full_name": "vietanhlee/face-recognition-Qt5",
-    "description": "Deep Learning Applications in Real-Time Facial Recognition. Implement in Pyqt5",
-    "url": "https://github.com/vietanhlee/face-recognition-Qt5",
-    "stars": 5,
+    "name": "tensorpool",
+    "full_name": "tensorpool/tensorpool",
+    "description": "The easiest way to execute ML jobs on the cloud.",
+    "url": "https://github.com/tensorpool/tensorpool",
+    "stars": 66,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "computer-vision",
-      "deep-learning",
-      "face-recognition"
+      "artificial-intelligence",
+      "gpu",
+      "machine-learning"
     ],
-    "created_at": "2025-02-07T13:25:10",
-    "updated_at": "2025-02-10T03:14:04"
-  },
-  {
-    "name": "MULTICOM_ligand",
-    "full_name": "BioinfoMachineLearning/MULTICOM_ligand",
-    "description": "Comprehensive ensembling of protein-ligand structure and affinity prediction methods (CASP16)",
-    "url": "https://github.com/BioinfoMachineLearning/MULTICOM_ligand",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "binding-affinity",
-      "deep-learning",
-      "diffusion-model",
-      "drug-discovery",
-      "flow-matching",
-      "pose-prediction",
-      "protein-ligand-interactions"
-    ],
-    "created_at": "2025-01-26T13:50:19",
-    "updated_at": "2025-02-10T02:19:32"
+    "created_at": "2025-01-20T06:42:49",
+    "updated_at": "2025-02-10T06:20:58"
   }
 ]
