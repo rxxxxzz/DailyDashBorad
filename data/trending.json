@@ -1,95 +1,11 @@
 [
   {
-    "name": "focalcodec",
-    "full_name": "lucadellalib/focalcodec",
-    "description": "A low-bitrate single-codebook 16 kHz speech codec based on focal modulation",
-    "url": "https://github.com/lucadellalib/focalcodec",
-    "stars": 23,
-    "daily_stars": 19,
-    "language": "Python",
-    "topics": [
-      "codec",
-      "deep-learning",
-      "focal-modulation",
-      "neural-speech-coding",
-      "pytorch",
-      "speech-synthesis",
-      "vector-quantization",
-      "vocos",
-      "wavlm"
-    ],
-    "created_at": "2025-02-03T09:03:40",
-    "updated_at": "2025-02-10T08:37:57"
-  },
-  {
-    "name": "YuE",
-    "full_name": "multimodal-art-projection/YuE",
-    "description": "YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open",
-    "url": "https://github.com/multimodal-art-projection/YuE",
-    "stars": 3404,
-    "daily_stars": 17,
-    "language": "Python",
-    "topics": [
-      "agi",
-      "ai",
-      "artificial-intelligence",
-      "deep-learning",
-      "foundation-models",
-      "llm",
-      "music-generation"
-    ],
-    "created_at": "2025-01-23T06:21:58",
-    "updated_at": "2025-02-10T08:41:47"
-  },
-  {
-    "name": "FlashLearn",
-    "full_name": "Pravko-Solutions/FlashLearn",
-    "description": "Light weight libary for integrating agents and LLMs in your existing workflows.",
-    "url": "https://github.com/Pravko-Solutions/FlashLearn",
-    "stars": 384,
-    "daily_stars": 16,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "concurrency",
-      "llm",
-      "llm-agent",
-      "python"
-    ],
-    "created_at": "2025-01-16T15:19:55",
-    "updated_at": "2025-02-10T08:29:17"
-  },
-  {
-    "name": "Dive",
-    "full_name": "OpenAgentPlatform/Dive",
-    "description": "Dive is an open-source AI Agent desktop application that seamlessly integrates any Tools Call-supported LLM with frontend MCP Server—part of the Open Agent Platform initiative.",
-    "url": "https://github.com/OpenAgentPlatform/Dive",
-    "stars": 25,
-    "daily_stars": 16,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "llm-interface",
-      "llm-ui",
-      "mcp-client",
-      "mcp-host",
-      "mcp-server",
-      "ollama",
-      "ollama-client",
-      "ollama-ui"
-    ],
-    "created_at": "2025-01-24T00:55:50",
-    "updated_at": "2025-02-10T08:01:42"
-  },
-  {
     "name": "Awesome-European-Tech",
     "full_name": "uscneps/Awesome-European-Tech",
     "description": "Up-to-date, community-driven list of Awesome European Tech projects! all focusing on privacy, sustainability, and innovation. The goal is to support European startups and projects (Compliance to GDPR, UK GDPR, Swiss FADP) helping to strengthen the European tech ecosystem.",
     "url": "https://github.com/uscneps/Awesome-European-Tech",
-    "stars": 253,
-    "daily_stars": 15,
+    "stars": 274,
+    "daily_stars": 21,
     "language": null,
     "topics": [
       "ai",
@@ -111,15 +27,111 @@
       "startup"
     ],
     "created_at": "2025-01-25T16:19:44",
-    "updated_at": "2025-02-10T08:42:00"
+    "updated_at": "2025-02-10T12:51:33"
+  },
+  {
+    "name": "YuE",
+    "full_name": "multimodal-art-projection/YuE",
+    "description": "YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open",
+    "url": "https://github.com/multimodal-art-projection/YuE",
+    "stars": 3423,
+    "daily_stars": 19,
+    "language": "Python",
+    "topics": [
+      "agi",
+      "ai",
+      "artificial-intelligence",
+      "deep-learning",
+      "foundation-models",
+      "llm",
+      "music-generation"
+    ],
+    "created_at": "2025-01-23T06:21:58",
+    "updated_at": "2025-02-10T12:50:27"
+  },
+  {
+    "name": "FlashLearn",
+    "full_name": "Pravko-Solutions/FlashLearn",
+    "description": "Light weight libary for integrating agents and LLMs in your existing workflows.",
+    "url": "https://github.com/Pravko-Solutions/FlashLearn",
+    "stars": 395,
+    "daily_stars": 11,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "concurrency",
+      "llm",
+      "llm-agent",
+      "python"
+    ],
+    "created_at": "2025-01-16T15:19:55",
+    "updated_at": "2025-02-10T12:31:42"
+  },
+  {
+    "name": "surf.new",
+    "full_name": "steel-dev/surf.new",
+    "description": "A playground for web agents 🌊",
+    "url": "https://github.com/steel-dev/surf.new",
+    "stars": 149,
+    "daily_stars": 6,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "browser-automation"
+    ],
+    "created_at": "2025-01-30T22:32:55",
+    "updated_at": "2025-02-10T11:39:19"
+  },
+  {
+    "name": "stable-flow",
+    "full_name": "snap-research/stable-flow",
+    "description": "Official implementation for \"Stable Flow: Vital Layers for Training-Free Image Editing\"",
+    "url": "https://github.com/snap-research/stable-flow",
+    "stars": 204,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "deep-learning",
+      "diffusion-models",
+      "flow-models",
+      "generative-ai",
+      "image-editing",
+      "machine-learning",
+      "text-to-image"
+    ],
+    "created_at": "2025-01-22T21:15:04",
+    "updated_at": "2025-02-10T12:45:21"
+  },
+  {
+    "name": "focalcodec",
+    "full_name": "lucadellalib/focalcodec",
+    "description": "A low-bitrate single-codebook 16 kHz speech codec based on focal modulation",
+    "url": "https://github.com/lucadellalib/focalcodec",
+    "stars": 29,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "codec",
+      "deep-learning",
+      "focal-modulation",
+      "neural-speech-coding",
+      "pytorch",
+      "speech-synthesis",
+      "vector-quantization",
+      "vocos",
+      "wavlm"
+    ],
+    "created_at": "2025-02-03T09:03:40",
+    "updated_at": "2025-02-10T12:48:35"
   },
   {
     "name": "improving-transformers-world-model-for-rl",
     "full_name": "lucidrains/improving-transformers-world-model-for-rl",
     "description": "Implementation of the new SOTA for model based RL, from the paper \"Improving Transformer World Models for Data-Efficient RL\", in Pytorch",
     "url": "https://github.com/lucidrains/improving-transformers-world-model-for-rl",
-    "stars": 24,
-    "daily_stars": 5,
+    "stars": 27,
+    "daily_stars": 3,
     "language": null,
     "topics": [
       "artificial-intelligence",
@@ -130,84 +142,76 @@
       "world-models"
     ],
     "created_at": "2025-02-09T15:00:51",
-    "updated_at": "2025-02-10T07:11:33"
+    "updated_at": "2025-02-10T12:39:25"
   },
   {
-    "name": "LiuMotion",
-    "full_name": "Novecento99/LiuMotion",
-    "description": "LiuMotion is a framework that let you use a image generation neural network in real time.",
-    "url": "https://github.com/Novecento99/LiuMotion",
-    "stars": 19,
+    "name": "Dive",
+    "full_name": "OpenAgentPlatform/Dive",
+    "description": "Dive is an open-source AI Agent desktop application that seamlessly integrates any Tools Call-supported LLM with frontend MCP Server—part of the Open Agent Platform initiative.",
+    "url": "https://github.com/OpenAgentPlatform/Dive",
+    "stars": 27,
     "daily_stars": 2,
-    "language": "Python",
+    "language": "TypeScript",
     "topics": [
-      "analisys",
-      "art",
-      "artificial-intelligence",
-      "biggan",
-      "framework",
-      "gan",
-      "music",
-      "neural-network",
-      "pytorch",
-      "real-time"
-    ],
-    "created_at": "2025-02-07T13:28:24",
-    "updated_at": "2025-02-10T08:26:37"
-  },
-  {
-    "name": "local-rag-researcher-deepseek",
-    "full_name": "kaymen99/local-rag-researcher-deepseek",
-    "description": "Local RAG researcher agent built using Langgraph, DeepSeek R1 and Ollama",
-    "url": "https://github.com/kaymen99/local-rag-researcher-deepseek",
-    "stars": 9,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
+      "ai",
       "ai-agents",
-      "deepseek-r1",
-      "langchain",
-      "langgraph",
+      "llm-interface",
+      "llm-ui",
+      "mcp-client",
+      "mcp-host",
+      "mcp-server",
       "ollama",
-      "rag",
-      "rag-agents",
-      "research-assistant"
+      "ollama-client",
+      "ollama-ui"
     ],
-    "created_at": "2025-02-06T23:31:15",
-    "updated_at": "2025-02-10T06:29:22"
+    "created_at": "2025-01-24T00:55:50",
+    "updated_at": "2025-02-10T10:34:54"
   },
   {
-    "name": "salad",
-    "full_name": "mjendrusch/salad",
-    "description": "protein structure generation with sparse all-atom denoising models",
-    "url": "https://github.com/mjendrusch/salad",
-    "stars": 11,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "bioinformatics",
-      "jax",
-      "machine-learning",
-      "protein-design",
-      "protein-structure"
-    ],
-    "created_at": "2025-01-30T13:31:57",
-    "updated_at": "2025-02-10T08:32:12"
-  },
-  {
-    "name": "tensorpool",
-    "full_name": "tensorpool/tensorpool",
-    "description": "The easiest way to execute ML jobs on the cloud.",
-    "url": "https://github.com/tensorpool/tensorpool",
-    "stars": 66,
+    "name": "hyperspace-bot-lua",
+    "full_name": "cmalf/hyperspace-bot-lua",
+    "description": "Simplifying Hyperspace CLI usage with a robust LUA bot, making commands easier to execute and manage.",
+    "url": "https://github.com/cmalf/hyperspace-bot-lua",
+    "stars": 2,
     "daily_stars": 1,
-    "language": "Python",
+    "language": "Lua",
     "topics": [
+      "ai",
+      "aios",
+      "aios-cli",
       "artificial-intelligence",
-      "gpu",
-      "machine-learning"
+      "automation",
+      "hyperspace",
+      "hyperspace-bot",
+      "hyperspace-cli",
+      "hyperspace-node",
+      "hyperspace-testnet",
+      "node"
     ],
-    "created_at": "2025-01-20T06:42:49",
-    "updated_at": "2025-02-10T06:20:58"
+    "created_at": "2025-02-06T10:40:53",
+    "updated_at": "2025-02-10T08:57:23"
+  },
+  {
+    "name": "awesome-ai-agents",
+    "full_name": "aylar-ghezelbash/awesome-ai-agents",
+    "description": "A curated list of awesome top best AI Agents",
+    "url": "https://github.com/aylar-ghezelbash/awesome-ai-agents",
+    "stars": 32,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-agents-framework",
+      "automation",
+      "awesome",
+      "awesome-ai-agents",
+      "awesome-list",
+      "ml",
+      "mlops"
+    ],
+    "created_at": "2025-01-21T14:38:33",
+    "updated_at": "2025-02-10T10:09:57"
   }
 ]
