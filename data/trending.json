@@ -4,8 +4,8 @@
     "full_name": "armankhondker/awesome-ai-ml-resources",
     "description": "Learn AI/ML concepts and prepare for interviews using free resources.",
     "url": "https://github.com/armankhondker/awesome-ai-ml-resources",
-    "stars": 280,
-    "daily_stars": 277,
+    "stars": 502,
+    "daily_stars": 222,
     "language": null,
     "topics": [
       "artifical-intelligense",
@@ -18,15 +18,15 @@
       "roadmap"
     ],
     "created_at": "2025-02-09T00:12:17",
-    "updated_at": "2025-02-11T20:37:30"
+    "updated_at": "2025-02-12T01:55:54"
   },
   {
     "name": "FlashLearn",
     "full_name": "Pravko-Solutions/FlashLearn",
     "description": "Light weight libary for integrating agents and LLMs in your existing workflows.",
     "url": "https://github.com/Pravko-Solutions/FlashLearn",
-    "stars": 453,
-    "daily_stars": 9,
+    "stars": 461,
+    "daily_stars": 8,
     "language": "Python",
     "topics": [
       "ai",
@@ -37,15 +37,35 @@
       "python"
     ],
     "created_at": "2025-01-16T15:19:55",
-    "updated_at": "2025-02-11T20:25:18"
+    "updated_at": "2025-02-12T01:55:20"
+  },
+  {
+    "name": "YuE",
+    "full_name": "multimodal-art-projection/YuE",
+    "description": "YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open",
+    "url": "https://github.com/multimodal-art-projection/YuE",
+    "stars": 3508,
+    "daily_stars": 7,
+    "language": "Python",
+    "topics": [
+      "agi",
+      "ai",
+      "artificial-intelligence",
+      "deep-learning",
+      "foundation-models",
+      "llm",
+      "music-generation"
+    ],
+    "created_at": "2025-01-23T06:21:58",
+    "updated_at": "2025-02-12T01:31:25"
   },
   {
     "name": "Awesome-European-Tech",
     "full_name": "uscneps/Awesome-European-Tech",
     "description": "Up-to-date, community-driven list of Awesome European Tech projects! all focusing on privacy, sustainability, and innovation. The goal is to support European startups and projects (Compliance to GDPR, UK GDPR, Swiss FADP) helping to strengthen the European tech ecosystem.",
     "url": "https://github.com/uscneps/Awesome-European-Tech",
-    "stars": 323,
-    "daily_stars": 8,
+    "stars": 329,
+    "daily_stars": 6,
     "language": null,
     "topics": [
       "ai",
@@ -67,108 +87,80 @@
       "startup"
     ],
     "created_at": "2025-01-25T16:19:44",
-    "updated_at": "2025-02-11T20:36:22"
+    "updated_at": "2025-02-12T00:44:47"
   },
   {
-    "name": "AI-chatbot",
-    "full_name": "mooncityorg/AI-chatbot",
-    "description": "AI chatbot OPENAI",
-    "url": "https://github.com/mooncityorg/AI-chatbot",
-    "stars": 151,
-    "daily_stars": 5,
+    "name": "Dive",
+    "full_name": "OpenAgentPlatform/Dive",
+    "description": "Dive is an open-source AI Agent desktop application that seamlessly integrates any Tools Call-supported LLM with frontend MCP Server—part of the Open Agent Platform initiative.",
+    "url": "https://github.com/OpenAgentPlatform/Dive",
+    "stars": 36,
+    "daily_stars": 3,
     "language": "TypeScript",
     "topics": [
-      "agent",
-      "agents",
+      "ai",
       "ai-agents",
-      "solana-ai-agent"
+      "llm-interface",
+      "llm-ui",
+      "mcp-client",
+      "mcp-host",
+      "mcp-server",
+      "ollama",
+      "ollama-client",
+      "ollama-ui"
     ],
-    "created_at": "2025-01-24T20:46:58",
-    "updated_at": "2025-02-11T17:30:51"
+    "created_at": "2025-01-24T00:55:50",
+    "updated_at": "2025-02-12T01:36:06"
   },
   {
-    "name": "YuE",
-    "full_name": "multimodal-art-projection/YuE",
-    "description": "YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open",
-    "url": "https://github.com/multimodal-art-projection/YuE",
-    "stars": 3501,
-    "daily_stars": 4,
+    "name": "ReinforceUI-Studio",
+    "full_name": "dvalenciar/ReinforceUI-Studio",
+    "description": "ReinforceUI-Studio. A Python-based application with a graphical user interface designed to simplify the configuration and monitoring of RL training processes. Supporting MuJoCo, OpenAI Gym, and DeepMind Control Suite",
+    "url": "https://github.com/dvalenciar/ReinforceUI-Studio",
+    "stars": 27,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
-      "agi",
-      "ai",
-      "artificial-intelligence",
       "deep-learning",
-      "foundation-models",
-      "llm",
-      "music-generation"
+      "dm-control",
+      "gymnasium",
+      "machine-learning",
+      "mujoco",
+      "reinforcement-learning",
+      "reinforcement-learning-agent",
+      "reinforcement-learning-algorithms"
     ],
-    "created_at": "2025-01-23T06:21:58",
-    "updated_at": "2025-02-11T19:27:27"
+    "created_at": "2025-01-18T09:52:14",
+    "updated_at": "2025-02-12T01:47:30"
   },
   {
-    "name": "improving-transformers-world-model-for-rl",
-    "full_name": "lucidrains/improving-transformers-world-model-for-rl",
-    "description": "Implementation of the new SOTA for model based RL, from the paper \"Improving Transformer World Models for Data-Efficient RL\", in Pytorch",
-    "url": "https://github.com/lucidrains/improving-transformers-world-model-for-rl",
-    "stars": 40,
-    "daily_stars": 3,
-    "language": null,
-    "topics": [
-      "artificial-intelligence",
-      "attention-mechanism",
-      "deep-learning",
-      "model-based-reinforcement-learning",
-      "transformers",
-      "world-models"
-    ],
-    "created_at": "2025-02-09T15:00:51",
-    "updated_at": "2025-02-11T20:07:46"
-  },
-  {
-    "name": "envoyjs",
-    "full_name": "anandrmedia/envoyjs",
-    "description": "EnvoyJS is a simple JavaScript framework for building AI agents.",
-    "url": "https://github.com/anandrmedia/envoyjs",
-    "stars": 21,
+    "name": "focalcodec",
+    "full_name": "lucadellalib/focalcodec",
+    "description": "A low-bitrate single-codebook 16 kHz speech codec based on focal modulation",
+    "url": "https://github.com/lucadellalib/focalcodec",
+    "stars": 47,
     "daily_stars": 2,
-    "language": "TypeScript",
+    "language": "Python",
     "topics": [
-      "agentic-framework",
-      "ai",
-      "ai-agents",
-      "javascript",
-      "javascript-ai",
-      "js-agentic-ai",
-      "typescript"
-    ],
-    "created_at": "2025-01-22T14:22:16",
-    "updated_at": "2025-02-11T17:05:47"
-  },
-  {
-    "name": "transformer-directed-evolution",
-    "full_name": "lucidrains/transformer-directed-evolution",
-    "description": "Explorations into whether a transformer with RL can direct a genetic algorithm to converge faster",
-    "url": "https://github.com/lucidrains/transformer-directed-evolution",
-    "stars": 55,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "artificial-intelligence",
-      "attention-mechanisms",
+      "codec",
       "deep-learning",
-      "evolutionary-algorithms",
-      "reinforcement-learning"
+      "focal-modulation",
+      "neural-speech-coding",
+      "pytorch",
+      "speech-synthesis",
+      "vector-quantization",
+      "vocos",
+      "wavlm"
     ],
-    "created_at": "2025-02-01T14:54:41",
-    "updated_at": "2025-02-11T20:08:26"
+    "created_at": "2025-02-03T09:03:40",
+    "updated_at": "2025-02-12T01:21:19"
   },
   {
     "name": "hl-gauss-pytorch",
     "full_name": "lucidrains/hl-gauss-pytorch",
     "description": "The proposed Gaussian Histogram Loss (HL-Gauss) proposed by Imani et al. with a few convenient wrappers for regression, in Pytorch",
     "url": "https://github.com/lucidrains/hl-gauss-pytorch",
-    "stars": 51,
+    "stars": 52,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -178,14 +170,14 @@
       "reinforcement-learning"
     ],
     "created_at": "2025-02-06T17:04:44",
-    "updated_at": "2025-02-11T19:04:49"
+    "updated_at": "2025-02-12T01:08:45"
   },
   {
     "name": "ai-models-integration",
     "full_name": "JawherKl/ai-models-integration",
     "description": " AI Models Integration repository! This project provides seamless integration with various state-of-the-art AI models",
     "url": "https://github.com/JawherKl/ai-models-integration",
-    "stars": 10,
+    "stars": 11,
     "daily_stars": 1,
     "language": "JavaScript",
     "topics": [
@@ -201,6 +193,24 @@
       "openai"
     ],
     "created_at": "2025-02-04T13:28:05",
-    "updated_at": "2025-02-11T17:59:01"
+    "updated_at": "2025-02-11T22:35:16"
+  },
+  {
+    "name": "AI-Influencer",
+    "full_name": "SamurAIGPT/AI-Influencer",
+    "description": "Create and customize your AI influencer open-source",
+    "url": "https://github.com/SamurAIGPT/AI-Influencer",
+    "stars": 10,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "ai-influencer",
+      "artificial-intelligence",
+      "text-to-image",
+      "text-to-video",
+      "virtual-influencers"
+    ],
+    "created_at": "2025-02-04T14:00:08",
+    "updated_at": "2025-02-11T21:41:53"
   }
 ]
