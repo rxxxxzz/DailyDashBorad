@@ -4,8 +4,8 @@
     "full_name": "armankhondker/awesome-ai-ml-resources",
     "description": "Learn AI/ML concepts and prepare for interviews using free resources.",
     "url": "https://github.com/armankhondker/awesome-ai-ml-resources",
-    "stars": 1249,
-    "daily_stars": 17,
+    "stars": 1264,
+    "daily_stars": 15,
     "language": null,
     "topics": [
       "artifical-intelligense",
@@ -18,15 +18,15 @@
       "roadmap"
     ],
     "created_at": "2025-02-09T00:12:17",
-    "updated_at": "2025-02-14T01:49:33"
+    "updated_at": "2025-02-14T04:28:55"
   },
   {
     "name": "YuE",
     "full_name": "multimodal-art-projection/YuE",
     "description": "YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open",
     "url": "https://github.com/multimodal-art-projection/YuE",
-    "stars": 3630,
-    "daily_stars": 12,
+    "stars": 3644,
+    "daily_stars": 14,
     "language": "Python",
     "topics": [
       "agi",
@@ -38,154 +38,88 @@
       "music-generation"
     ],
     "created_at": "2025-01-23T06:21:58",
-    "updated_at": "2025-02-14T01:54:39"
+    "updated_at": "2025-02-14T04:35:22"
   },
   {
-    "name": "Awesome-European-Tech",
-    "full_name": "uscneps/Awesome-European-Tech",
-    "description": "Up-to-date, community-driven list of Awesome European Tech projects! all focusing on privacy, sustainability, and innovation. The goal is to support European startups and projects (Compliance to GDPR, UK GDPR, Swiss FADP) helping to strengthen the European tech ecosystem.",
-    "url": "https://github.com/uscneps/Awesome-European-Tech",
-    "stars": 363,
-    "daily_stars": 3,
+    "name": "parameterized-transforms",
+    "full_name": "apple/parameterized-transforms",
+    "description": "torchvision-based transforms that provide access to parameterization",
+    "url": "https://github.com/apple/parameterized-transforms",
+    "stars": 5,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "parameterization",
+      "torchvision",
+      "transforms"
+    ],
+    "created_at": "2025-02-13T16:16:45",
+    "updated_at": "2025-02-14T02:39:42"
+  },
+  {
+    "name": "focalcodec",
+    "full_name": "lucadellalib/focalcodec",
+    "description": "A low-bitrate single-codebook 16 kHz speech codec based on focal modulation",
+    "url": "https://github.com/lucadellalib/focalcodec",
+    "stars": 57,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "codec",
+      "deep-learning",
+      "focal-modulation",
+      "neural-speech-coding",
+      "pytorch",
+      "speech-synthesis",
+      "vector-quantization",
+      "vocos",
+      "wavlm"
+    ],
+    "created_at": "2025-02-03T09:03:40",
+    "updated_at": "2025-02-14T03:24:03"
+  },
+  {
+    "name": "hub",
+    "full_name": "securade/hub",
+    "description": "Securade.ai HUB - A generative AI based edge platform for computer vision that connects to existing CCTV cameras and makes them smart.",
+    "url": "https://github.com/securade/hub",
+    "stars": 31,
+    "daily_stars": 1,
     "language": null,
     "topics": [
-      "ai",
-      "alternative",
       "artificial-intelligence",
-      "awesome-list",
-      "awesome-lists",
-      "browser",
-      "cheatsheet",
-      "coding",
-      "cybersecurity",
-      "europe",
-      "machine-learning",
-      "open-source",
-      "opensource",
-      "privacy",
-      "programming",
-      "project",
-      "startup"
-    ],
-    "created_at": "2025-01-25T16:19:44",
-    "updated_at": "2025-02-13T22:15:52"
-  },
-  {
-    "name": "AI-chatbot",
-    "full_name": "mooncityorg/AI-chatbot",
-    "description": "AI chatbot OPENAI",
-    "url": "https://github.com/mooncityorg/AI-chatbot",
-    "stars": 177,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "agents",
-      "ai-agents",
-      "solana-ai-agent"
-    ],
-    "created_at": "2025-01-24T20:46:58",
-    "updated_at": "2025-02-13T21:32:27"
-  },
-  {
-    "name": "AI-Influencer",
-    "full_name": "SamurAIGPT/AI-Influencer",
-    "description": "Create and customize your AI influencer open-source",
-    "url": "https://github.com/SamurAIGPT/AI-Influencer",
-    "stars": 22,
-    "daily_stars": 2,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "ai-influencer",
-      "artificial-intelligence",
-      "text-to-image",
-      "text-to-video",
-      "virtual-influencers"
-    ],
-    "created_at": "2025-02-04T14:00:08",
-    "updated_at": "2025-02-14T00:07:39"
-  },
-  {
-    "name": "stable-flow",
-    "full_name": "snap-research/stable-flow",
-    "description": "Official implementation for \"Stable Flow: Vital Layers for Training-Free Image Editing\"",
-    "url": "https://github.com/snap-research/stable-flow",
-    "stars": 226,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "deep-learning",
-      "diffusion-models",
-      "flow-models",
+      "computer-vision",
+      "edge-deployment",
+      "face-detection",
+      "fire-detection",
       "generative-ai",
-      "image-editing",
+      "grounding-dino",
+      "industrial-safety",
+      "jetson",
       "machine-learning",
-      "text-to-image"
+      "model-zoo",
+      "nvidia-gpu",
+      "object-detection",
+      "ppe-detection",
+      "proximity-dete",
+      "smoke-detection",
+      "video-analytics",
+      "worker-safety",
+      "yolo7",
+      "zone-mana"
     ],
-    "created_at": "2025-01-22T21:15:04",
-    "updated_at": "2025-02-13T23:47:00"
-  },
-  {
-    "name": "manifold",
-    "full_name": "intelligencedev/manifold",
-    "description": "Manifold is a platform for enabling workflow automation using AI assistants.",
-    "url": "https://github.com/intelligencedev/manifold",
-    "stars": 10,
-    "daily_stars": 1,
-    "language": "Vue",
-    "topics": [
-      "artificial-intelligence",
-      "automation",
-      "go",
-      "visual-coding",
-      "vuejs"
-    ],
-    "created_at": "2025-02-04T23:28:34",
-    "updated_at": "2025-02-13T23:28:12"
-  },
-  {
-    "name": "flock",
-    "full_name": "whiteducksoftware/flock",
-    "description": "Flock 🐤🐧🐓🦆 # A declarative AI Agent Framework # JOIN THE FLOCK",
-    "url": "https://github.com/whiteducksoftware/flock",
-    "stars": 10,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agents",
-      "ai",
-      "artificial-intelligence",
-      "llm"
-    ],
-    "created_at": "2025-02-06T19:53:30",
-    "updated_at": "2025-02-14T01:26:38"
-  },
-  {
-    "name": "ml-dev-bench",
-    "full_name": "ml-dev-bench/ml-dev-bench",
-    "description": "ML-Dev-Bench is an evaluation benchmark for evaluating AI agents against various ML development tasks.",
-    "url": "https://github.com/ml-dev-bench/ml-dev-bench",
-    "stars": 9,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "artificial-intelligence",
-      "claude-ai",
-      "evaluation",
-      "llm",
-      "openai"
-    ],
-    "created_at": "2025-01-18T19:22:09",
-    "updated_at": "2025-02-14T00:17:48"
+    "created_at": "2025-01-22T14:43:41",
+    "updated_at": "2025-02-14T01:59:07"
   },
   {
     "name": "FlashLearn",
     "full_name": "Pravko-Solutions/FlashLearn",
     "description": "Light weight libary for integrating agents and LLMs in your existing workflows.",
     "url": "https://github.com/Pravko-Solutions/FlashLearn",
-    "stars": 477,
+    "stars": 478,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -197,6 +131,93 @@
       "python"
     ],
     "created_at": "2025-01-16T15:19:55",
-    "updated_at": "2025-02-13T22:43:29"
+    "updated_at": "2025-02-14T04:09:56"
+  },
+  {
+    "name": "stable-flow",
+    "full_name": "snap-research/stable-flow",
+    "description": "Official implementation for \"Stable Flow: Vital Layers for Training-Free Image Editing\"",
+    "url": "https://github.com/snap-research/stable-flow",
+    "stars": 227,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "deep-learning",
+      "diffusion-models",
+      "flow-models",
+      "generative-ai",
+      "image-editing",
+      "machine-learning",
+      "text-to-image"
+    ],
+    "created_at": "2025-01-22T21:15:04",
+    "updated_at": "2025-02-14T03:23:09"
+  },
+  {
+    "name": "small-doge",
+    "full_name": "SamllDoge/small-doge",
+    "description": "Doge Family of Small Language Model",
+    "url": "https://github.com/SamllDoge/small-doge",
+    "stars": 49,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "attention-is-all-you-need",
+      "attention-mechanism",
+      "cross-domain-mixture-of-experts",
+      "deep-learning",
+      "dynamic-mask-attention",
+      "foundation-models",
+      "mechine-learning",
+      "natural-language-processing",
+      "nlp",
+      "python",
+      "pytorch",
+      "small-language-models",
+      "transformer"
+    ],
+    "created_at": "2025-02-01T04:20:41",
+    "updated_at": "2025-02-14T02:57:34"
+  },
+  {
+    "name": "kaggle-czii-4th",
+    "full_name": "yu4u/kaggle-czii-4th",
+    "description": "This is the implementation of the 4th place solution (yu4u's part) for CZII - CryoET Object Identification at Kaggle.",
+    "url": "https://github.com/yu4u/kaggle-czii-4th",
+    "stars": 9,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "computer-vision",
+      "czii",
+      "deep-learning",
+      "kaggle",
+      "kaggle-competition",
+      "segmentation"
+    ],
+    "created_at": "2025-02-06T05:08:50",
+    "updated_at": "2025-02-14T04:24:02"
+  },
+  {
+    "name": "PowerKey",
+    "full_name": "MxpleSticks/PowerKey",
+    "description": "A modern cross-platform hotkey manager with a sleek UI. Boost your productivity with customizable Ctrl+Shift+Alt or Cmd+Shift+Option shortcuts. Features include instant command execution, easy configuration, and seamless cross-platform support.",
+    "url": "https://github.com/MxpleSticks/PowerKey",
+    "stars": 1,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "automation",
+      "cross-platform",
+      "cutomization",
+      "hotkeys",
+      "html5",
+      "macos",
+      "python",
+      "windows",
+      "workflow"
+    ],
+    "created_at": "2025-02-12T13:32:39",
+    "updated_at": "2025-02-14T03:40:37"
   }
 ]
