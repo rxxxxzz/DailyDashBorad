@@ -4,8 +4,8 @@
     "full_name": "armankhondker/awesome-ai-ml-resources",
     "description": "Learn AI/ML concepts and prepare for interviews using free resources.",
     "url": "https://github.com/armankhondker/awesome-ai-ml-resources",
-    "stars": 1617,
-    "daily_stars": 11,
+    "stars": 1625,
+    "daily_stars": 8,
     "language": null,
     "topics": [
       "artifical-intelligense",
@@ -18,15 +18,59 @@
       "roadmap"
     ],
     "created_at": "2025-02-09T00:12:17",
-    "updated_at": "2025-02-17T04:30:20"
+    "updated_at": "2025-02-17T08:26:24"
+  },
+  {
+    "name": "Flame-Code-VLM",
+    "full_name": "Flame-Code-VLM/Flame-Code-VLM",
+    "description": "Flame is an open-source multimodal AI system designed to translate UI design mockups into high-quality React code. It leverages vision-language modeling, automated data synthesis, and structured training workflows to bridge the gap between design and front-end development.",
+    "url": "https://github.com/Flame-Code-VLM/Flame-Code-VLM",
+    "stars": 17,
+    "daily_stars": 8,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "code-generation",
+      "data-synthesis",
+      "deep-learning",
+      "frontend",
+      "frontend-development",
+      "multimodal",
+      "open-source",
+      "react",
+      "vision-language-model",
+      "vlm"
+    ],
+    "created_at": "2025-02-10T02:27:32",
+    "updated_at": "2025-02-17T08:03:37"
+  },
+  {
+    "name": "stable-flow",
+    "full_name": "snap-research/stable-flow",
+    "description": "Official implementation for \"Stable Flow: Vital Layers for Training-Free Image Editing\"",
+    "url": "https://github.com/snap-research/stable-flow",
+    "stars": 257,
+    "daily_stars": 4,
+    "language": "Python",
+    "topics": [
+      "deep-learning",
+      "diffusion-models",
+      "flow-models",
+      "generative-ai",
+      "image-editing",
+      "machine-learning",
+      "text-to-image"
+    ],
+    "created_at": "2025-01-22T21:15:04",
+    "updated_at": "2025-02-17T08:02:06"
   },
   {
     "name": "HoST-pytorch",
     "full_name": "lucidrains/HoST-pytorch",
     "description": "Implementation of Humanoid Standing Up, from the paper \"Learning Humanoid Standing-up Control across Diverse Postures\" out of Shanghai, in Pytorch",
     "url": "https://github.com/lucidrains/HoST-pytorch",
-    "stars": 10,
-    "daily_stars": 7,
+    "stars": 13,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "artificial-intelligence",
@@ -36,14 +80,14 @@
       "reward-shaping"
     ],
     "created_at": "2025-02-16T15:30:01",
-    "updated_at": "2025-02-17T04:07:01"
+    "updated_at": "2025-02-17T07:44:06"
   },
   {
     "name": "YuE",
     "full_name": "multimodal-art-projection/YuE",
     "description": "YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open",
     "url": "https://github.com/multimodal-art-projection/YuE",
-    "stars": 3786,
+    "stars": 3789,
     "daily_stars": 3,
     "language": "Python",
     "topics": [
@@ -56,131 +100,38 @@
       "music-generation"
     ],
     "created_at": "2025-01-23T06:21:58",
-    "updated_at": "2025-02-17T03:29:08"
+    "updated_at": "2025-02-17T08:36:38"
   },
   {
-    "name": "surf.new",
-    "full_name": "steel-dev/surf.new",
-    "description": "A playground for web agents 🌊",
-    "url": "https://github.com/steel-dev/surf.new",
-    "stars": 193,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "browser-automation"
-    ],
-    "created_at": "2025-01-30T22:32:55",
-    "updated_at": "2025-02-17T04:01:52"
-  },
-  {
-    "name": "stable-flow",
-    "full_name": "snap-research/stable-flow",
-    "description": "Official implementation for \"Stable Flow: Vital Layers for Training-Free Image Editing\"",
-    "url": "https://github.com/snap-research/stable-flow",
-    "stars": 253,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "deep-learning",
-      "diffusion-models",
-      "flow-models",
-      "generative-ai",
-      "image-editing",
-      "machine-learning",
-      "text-to-image"
-    ],
-    "created_at": "2025-01-22T21:15:04",
-    "updated_at": "2025-02-17T04:24:12"
-  },
-  {
-    "name": "wake-me",
-    "full_name": "llami-team/wake-me",
-    "description": "AI-based React component library that detects clapping sounds or finger snaps. Using a TensorFlow.js-based machine learning model, it accurately analyzes sounds in real-time.",
-    "url": "https://github.com/llami-team/wake-me",
-    "stars": 22,
+    "name": "Dive",
+    "full_name": "OpenAgentPlatform/Dive",
+    "description": "Dive is an open-source AI Agent desktop application that seamlessly integrates any Tools Call-supported LLM with frontend MCP Server—part of the Open Agent Platform initiative.",
+    "url": "https://github.com/OpenAgentPlatform/Dive",
+    "stars": 72,
     "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
       "ai",
-      "component",
-      "finger-detection",
-      "library",
-      "machine-learning",
-      "react",
-      "sound-detection",
-      "tensorflow",
-      "wake-snap",
-      "wake-up",
-      "wake-up-word"
-    ],
-    "created_at": "2025-01-31T02:34:54",
-    "updated_at": "2025-02-17T04:14:53"
-  },
-  {
-    "name": "flock",
-    "full_name": "whiteducksoftware/flock",
-    "description": "Flock 🐤🐧🐓🦆 # A declarative AI Agent Framework # JOIN THE FLOCK",
-    "url": "https://github.com/whiteducksoftware/flock",
-    "stars": 17,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agents",
-      "ai",
-      "artificial-intelligence",
-      "llm"
-    ],
-    "created_at": "2025-02-06T19:53:30",
-    "updated_at": "2025-02-17T03:26:52"
-  },
-  {
-    "name": "Mind-Map-Wizard",
-    "full_name": "linus-sch/Mind-Map-Wizard",
-    "description": "Create infinite Mind Maps using AI. Totally free!",
-    "url": "https://github.com/linus-sch/Mind-Map-Wizard",
-    "stars": 8,
-    "daily_stars": 1,
-    "language": "HTML",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "foss",
-      "free",
-      "markmap",
-      "mind-mapping",
-      "mind-maps",
-      "mindmap",
-      "productivity",
-      "research-tool",
-      "side-project"
-    ],
-    "created_at": "2025-01-24T16:23:53",
-    "updated_at": "2025-02-17T02:40:57"
-  },
-  {
-    "name": "cofounder-sh",
-    "full_name": "furudo-erika/cofounder-sh",
-    "description": "Open Source Marketing Team Automated by AI Agents",
-    "url": "https://github.com/furudo-erika/cofounder-sh",
-    "stars": 2,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
       "ai-agents",
-      "artificial-intelligence"
+      "llm-interface",
+      "llm-ui",
+      "mcp-client",
+      "mcp-host",
+      "mcp-server",
+      "ollama",
+      "ollama-client",
+      "ollama-ui"
     ],
-    "created_at": "2025-02-12T15:20:02",
-    "updated_at": "2025-02-17T03:22:33"
+    "created_at": "2025-01-24T00:55:50",
+    "updated_at": "2025-02-17T08:41:39"
   },
   {
     "name": "agent-leaderboard",
     "full_name": "rungalileo/agent-leaderboard",
     "description": "Ranking LLMs on agentic tasks",
     "url": "https://github.com/rungalileo/agent-leaderboard",
-    "stars": 49,
-    "daily_stars": 1,
+    "stars": 51,
+    "daily_stars": 2,
     "language": "Jupyter Notebook",
     "topics": [
       "ai",
@@ -190,6 +141,63 @@
       "llms"
     ],
     "created_at": "2025-02-10T13:49:20",
-    "updated_at": "2025-02-17T03:47:02"
+    "updated_at": "2025-02-17T05:54:13"
+  },
+  {
+    "name": "focalcodec",
+    "full_name": "lucadellalib/focalcodec",
+    "description": "A low-bitrate single-codebook 16 kHz speech codec based on focal modulation",
+    "url": "https://github.com/lucadellalib/focalcodec",
+    "stars": 64,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "codec",
+      "deep-learning",
+      "focal-modulation",
+      "neural-speech-coding",
+      "pytorch",
+      "speech-synthesis",
+      "vector-quantization",
+      "vocos",
+      "wavlm"
+    ],
+    "created_at": "2025-02-03T09:03:40",
+    "updated_at": "2025-02-17T08:39:44"
+  },
+  {
+    "name": "AI-Influencer",
+    "full_name": "SamurAIGPT/AI-Influencer",
+    "description": "Create and customize your AI influencer open-source",
+    "url": "https://github.com/SamurAIGPT/AI-Influencer",
+    "stars": 40,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "ai-influencer",
+      "artificial-intelligence",
+      "text-to-image",
+      "text-to-video",
+      "virtual-influencers"
+    ],
+    "created_at": "2025-02-04T14:00:08",
+    "updated_at": "2025-02-17T06:37:40"
+  },
+  {
+    "name": "transformer-lm-gan",
+    "full_name": "lucidrains/transformer-lm-gan",
+    "description": "Explorations into adversarial losses on top of autoregressive loss for language modeling",
+    "url": "https://github.com/lucidrains/transformer-lm-gan",
+    "stars": 26,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "adversarial-learning",
+      "artificial-intelligence",
+      "autoregressive-transformers",
+      "deep-learning"
+    ],
+    "created_at": "2025-02-14T14:56:14",
+    "updated_at": "2025-02-17T06:10:19"
   }
 ]
