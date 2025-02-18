@@ -4,8 +4,8 @@
     "full_name": "armankhondker/awesome-ai-ml-resources",
     "description": "Learn AI/ML concepts and prepare for interviews using free resources.",
     "url": "https://github.com/armankhondker/awesome-ai-ml-resources",
-    "stars": 1799,
-    "daily_stars": 62,
+    "stars": 1825,
+    "daily_stars": 26,
     "language": null,
     "topics": [
       "artifical-intelligense",
@@ -18,35 +18,15 @@
       "roadmap"
     ],
     "created_at": "2025-02-09T00:12:17",
-    "updated_at": "2025-02-18T01:54:40"
-  },
-  {
-    "name": "YuE",
-    "full_name": "multimodal-art-projection/YuE",
-    "description": "YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open",
-    "url": "https://github.com/multimodal-art-projection/YuE",
-    "stars": 3814,
-    "daily_stars": 7,
-    "language": "Python",
-    "topics": [
-      "agi",
-      "ai",
-      "artificial-intelligence",
-      "deep-learning",
-      "foundation-models",
-      "llm",
-      "music-generation"
-    ],
-    "created_at": "2025-01-23T06:21:58",
-    "updated_at": "2025-02-18T01:38:03"
+    "updated_at": "2025-02-18T04:37:34"
   },
   {
     "name": "Youtube-playlist-to-formatted-text",
     "full_name": "Ebrizzzz/Youtube-playlist-to-formatted-text",
     "description": "A desktop application that extracts YouTube playlist transcripts and enhances them using Google's Gemini AI models., the output is a book in any language you want.",
     "url": "https://github.com/Ebrizzzz/Youtube-playlist-to-formatted-text",
-    "stars": 190,
-    "daily_stars": 7,
+    "stars": 194,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "datahoarder",
@@ -63,15 +43,35 @@
       "youtube"
     ],
     "created_at": "2025-02-13T02:28:13",
-    "updated_at": "2025-02-17T23:54:27"
+    "updated_at": "2025-02-18T04:18:29"
+  },
+  {
+    "name": "YuE",
+    "full_name": "multimodal-art-projection/YuE",
+    "description": "YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open",
+    "url": "https://github.com/multimodal-art-projection/YuE",
+    "stars": 3817,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "agi",
+      "ai",
+      "artificial-intelligence",
+      "deep-learning",
+      "foundation-models",
+      "llm",
+      "music-generation"
+    ],
+    "created_at": "2025-01-23T06:21:58",
+    "updated_at": "2025-02-18T02:50:13"
   },
   {
     "name": "Flame-Code-VLM",
     "full_name": "Flame-Code-VLM/Flame-Code-VLM",
     "description": "Flame is an open-source multimodal AI system designed to translate UI design mockups into high-quality React code. It leverages vision-language modeling, automated data synthesis, and structured training workflows to bridge the gap between design and front-end development.",
     "url": "https://github.com/Flame-Code-VLM/Flame-Code-VLM",
-    "stars": 27,
-    "daily_stars": 4,
+    "stars": 29,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "ai",
@@ -87,7 +87,105 @@
       "vlm"
     ],
     "created_at": "2025-02-10T02:27:32",
-    "updated_at": "2025-02-18T01:55:29"
+    "updated_at": "2025-02-18T04:18:24"
+  },
+  {
+    "name": "transformer-lm-gan",
+    "full_name": "lucidrains/transformer-lm-gan",
+    "description": "Explorations into adversarial losses on top of autoregressive loss for language modeling",
+    "url": "https://github.com/lucidrains/transformer-lm-gan",
+    "stars": 27,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "adversarial-learning",
+      "artificial-intelligence",
+      "autoregressive-transformers",
+      "deep-learning"
+    ],
+    "created_at": "2025-02-14T14:56:14",
+    "updated_at": "2025-02-18T03:40:34"
+  },
+  {
+    "name": "Mind-Map-Wizard",
+    "full_name": "linus-sch/Mind-Map-Wizard",
+    "description": "Create infinite Mind Maps using AI. Totally free!",
+    "url": "https://github.com/linus-sch/Mind-Map-Wizard",
+    "stars": 15,
+    "daily_stars": 1,
+    "language": "HTML",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "foss",
+      "free",
+      "markmap",
+      "mind-mapping",
+      "mind-maps",
+      "mindmap",
+      "productivity",
+      "research-tool",
+      "side-project"
+    ],
+    "created_at": "2025-01-24T16:23:53",
+    "updated_at": "2025-02-18T03:57:54"
+  },
+  {
+    "name": "Dive",
+    "full_name": "OpenAgentPlatform/Dive",
+    "description": "Dive is an open-source AI Agent desktop application that seamlessly integrates any Tools Call-supported LLM with frontend MCP Server—part of the Open Agent Platform initiative.",
+    "url": "https://github.com/OpenAgentPlatform/Dive",
+    "stars": 75,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "llm-interface",
+      "llm-ui",
+      "mcp-client",
+      "mcp-host",
+      "mcp-server",
+      "ollama",
+      "ollama-client",
+      "ollama-ui"
+    ],
+    "created_at": "2025-01-24T00:55:50",
+    "updated_at": "2025-02-18T02:00:40"
+  },
+  {
+    "name": "agent-leaderboard",
+    "full_name": "rungalileo/agent-leaderboard",
+    "description": "Ranking LLMs on agentic tasks",
+    "url": "https://github.com/rungalileo/agent-leaderboard",
+    "stars": 56,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-evaluation",
+      "evaluation",
+      "llms"
+    ],
+    "created_at": "2025-02-10T13:49:20",
+    "updated_at": "2025-02-18T03:01:37"
+  },
+  {
+    "name": "vibevoice",
+    "full_name": "mpaepper/vibevoice",
+    "description": "Fast local speech-to-text for any app using faster-whisper",
+    "url": "https://github.com/mpaepper/vibevoice",
+    "stars": 15,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "machine-learning",
+      "python"
+    ],
+    "created_at": "2025-02-10T20:59:33",
+    "updated_at": "2025-02-18T02:17:08"
   },
   {
     "name": "Awesome-European-Tech",
@@ -95,7 +193,7 @@
     "description": "Up-to-date, community-driven list of Awesome European Tech projects! all focusing on privacy, sustainability, and innovation. The goal is to support European startups and projects (Compliance to GDPR, UK GDPR, Swiss FADP) helping to strengthen the European tech ecosystem.",
     "url": "https://github.com/uscneps/Awesome-European-Tech",
     "stars": 385,
-    "daily_stars": 3,
+    "daily_stars": 0,
     "language": null,
     "topics": [
       "ai",
@@ -118,115 +216,5 @@
     ],
     "created_at": "2025-01-25T16:19:44",
     "updated_at": "2025-02-18T00:36:41"
-  },
-  {
-    "name": "Mind-Map-Wizard",
-    "full_name": "linus-sch/Mind-Map-Wizard",
-    "description": "Create infinite Mind Maps using AI. Totally free!",
-    "url": "https://github.com/linus-sch/Mind-Map-Wizard",
-    "stars": 14,
-    "daily_stars": 3,
-    "language": "HTML",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "foss",
-      "free",
-      "markmap",
-      "mind-mapping",
-      "mind-maps",
-      "mindmap",
-      "productivity",
-      "research-tool",
-      "side-project"
-    ],
-    "created_at": "2025-01-24T16:23:53",
-    "updated_at": "2025-02-18T01:20:33"
-  },
-  {
-    "name": "AI-chatbot",
-    "full_name": "mooncityorg/AI-chatbot",
-    "description": "AI chatbot OPENAI",
-    "url": "https://github.com/mooncityorg/AI-chatbot",
-    "stars": 192,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "agents",
-      "ai-agents",
-      "solana-ai-agent"
-    ],
-    "created_at": "2025-01-24T20:46:58",
-    "updated_at": "2025-02-18T00:00:54"
-  },
-  {
-    "name": "salad",
-    "full_name": "mjendrusch/salad",
-    "description": "protein structure generation with sparse all-atom denoising models",
-    "url": "https://github.com/mjendrusch/salad",
-    "stars": 18,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "bioinformatics",
-      "jax",
-      "machine-learning",
-      "protein-design",
-      "protein-structure"
-    ],
-    "created_at": "2025-01-30T13:31:57",
-    "updated_at": "2025-02-18T00:40:44"
-  },
-  {
-    "name": "AI-Influencer",
-    "full_name": "SamurAIGPT/AI-Influencer",
-    "description": "Create and customize your AI influencer open-source",
-    "url": "https://github.com/SamurAIGPT/AI-Influencer",
-    "stars": 41,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "ai-influencer",
-      "artificial-intelligence",
-      "text-to-image",
-      "text-to-video",
-      "virtual-influencers"
-    ],
-    "created_at": "2025-02-04T14:00:08",
-    "updated_at": "2025-02-17T22:20:29"
-  },
-  {
-    "name": "hub",
-    "full_name": "securade/hub",
-    "description": "Securade.ai HUB - A generative AI based edge platform for computer vision that connects to existing CCTV cameras and makes them smart.",
-    "url": "https://github.com/securade/hub",
-    "stars": 36,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "artificial-intelligence",
-      "computer-vision",
-      "edge-deployment",
-      "face-detection",
-      "fire-detection",
-      "generative-ai",
-      "grounding-dino",
-      "industrial-safety",
-      "jetson",
-      "machine-learning",
-      "model-zoo",
-      "nvidia-gpu",
-      "object-detection",
-      "ppe-detection",
-      "proximity-dete",
-      "smoke-detection",
-      "video-analytics",
-      "worker-safety",
-      "yolo7",
-      "zone-mana"
-    ],
-    "created_at": "2025-01-22T14:43:41",
-    "updated_at": "2025-02-17T22:58:48"
   }
 ]
