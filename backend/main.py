@@ -58,7 +58,18 @@ async def fetch_github_data():
             "topic:ai-agents",
             "topic:machine-learning",
             "topic:deep-learning",
-            "topic:workflow"
+            "topic:workflow",
+            "topic:LLM",
+            "topic:prompt-engineering",
+            "topic:chatbot",
+            "topic:chatgpt",
+            "topic:openai",
+            "topic:anthropic",
+            "topic:llama",
+            "topic:gpt",
+            "topic:llama-index",
+            "topic:langchain",
+            "topic:langchainjs"
         ]
         
         for query in queries:
