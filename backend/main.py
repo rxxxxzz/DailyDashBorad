@@ -12,6 +12,7 @@ import schedule
 import time
 from models import Base, Repository
 import ssl
+import math
 
 load_dotenv()
 
@@ -121,7 +122,9 @@ async def fetch_github_data():
                             # 计算趋势得分（确保使用默认值0）
                             daily_stars = repo.daily_stars or 0
                             daily_views = repo.daily_views or 0
-                            repo.trending_score = float(daily_stars * 2 + daily_views)
+                            total_stars = repo.stars or 0
+                            # 计算趋势得分：日增长 stars * 2 + 日访问量 + log(总 stars + 1) * 3
+                            repo.trending_score = float(daily_stars * 2 + daily_views + math.log(total_stars + 1, 10) * 3)
                         
                         db.commit()
                         db.close()
