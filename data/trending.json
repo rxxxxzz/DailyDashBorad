@@ -1,11 +1,32 @@
 [
   {
+    "name": "awesome-ai-ml-resources",
+    "full_name": "armankhondker/awesome-ai-ml-resources",
+    "description": "Learn AI/ML concepts and prepare for interviews using free resources.",
+    "url": "https://github.com/armankhondker/awesome-ai-ml-resources",
+    "stars": 2155,
+    "daily_stars": 4,
+    "language": null,
+    "topics": [
+      "artifical-intelligense",
+      "computer-science",
+      "deep-learning",
+      "generative-ai",
+      "machine-learning",
+      "neural-networks",
+      "python",
+      "roadmap"
+    ],
+    "created_at": "2025-02-09T00:12:17",
+    "updated_at": "2025-02-25T20:05:57"
+  },
+  {
     "name": "VVQuest",
     "full_name": "DanielZhangyc/VVQuest",
     "description": "智能检索张维为表情包",
     "url": "https://github.com/DanielZhangyc/VVQuest",
-    "stars": 727,
-    "daily_stars": 10,
+    "stars": 729,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "artificial-intelligence",
@@ -15,15 +36,15 @@
       "streamlit-webapp"
     ],
     "created_at": "2025-02-11T13:28:11",
-    "updated_at": "2025-02-25T16:26:04"
+    "updated_at": "2025-02-25T20:26:18"
   },
   {
     "name": "native-sparse-attention-pytorch",
     "full_name": "lucidrains/native-sparse-attention-pytorch",
     "description": "Implementation of the sparse attention pattern proposed by the Deepseek team in their \"Native Sparse Attention\" paper",
     "url": "https://github.com/lucidrains/native-sparse-attention-pytorch",
-    "stars": 463,
-    "daily_stars": 3,
+    "stars": 464,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "artificial-intelligence",
@@ -31,15 +52,89 @@
       "deep-learning"
     ],
     "created_at": "2025-02-19T03:37:52",
-    "updated_at": "2025-02-25T16:43:54"
+    "updated_at": "2025-02-25T18:55:38"
+  },
+  {
+    "name": "hl-gauss-pytorch",
+    "full_name": "lucidrains/hl-gauss-pytorch",
+    "description": "The proposed Gaussian Histogram Loss (HL-Gauss) proposed by Imani et al. with a few convenient wrappers for regression, in Pytorch",
+    "url": "https://github.com/lucidrains/hl-gauss-pytorch",
+    "stars": 55,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "regression-as-classification",
+      "reinforcement-learning"
+    ],
+    "created_at": "2025-02-06T17:04:44",
+    "updated_at": "2025-02-25T17:20:40"
+  },
+  {
+    "name": "LiuMotion",
+    "full_name": "Novecento99/LiuMotion",
+    "description": "LiuMotion is a framework that let you use a image generation neural network in real time.",
+    "url": "https://github.com/Novecento99/LiuMotion",
+    "stars": 33,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "analisys",
+      "art",
+      "artificial-intelligence",
+      "biggan",
+      "framework",
+      "gan",
+      "music",
+      "neural-network",
+      "pytorch",
+      "real-time"
+    ],
+    "created_at": "2025-02-07T13:28:24",
+    "updated_at": "2025-02-25T17:04:27"
+  },
+  {
+    "name": "LLM-AutoHotkey-Assistant",
+    "full_name": "kdalanon/LLM-AutoHotkey-Assistant",
+    "description": "An AutoHotkey v2 application that utilizes OpenRouter.ai to seamlessly integrate Large Language Models into your daily workflow. Process texts with customizable prompts by pressing a hotkey and interact with multiple AI models simultaneously.",
+    "url": "https://github.com/kdalanon/LLM-AutoHotkey-Assistant",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "AutoHotkey",
+    "topics": [
+      "artificial-intelligence",
+      "autohotkey-v2",
+      "hotkeys",
+      "large-language-models",
+      "openrouter",
+      "windows"
+    ],
+    "created_at": "2025-02-24T06:57:09",
+    "updated_at": "2025-02-25T18:23:19"
+  },
+  {
+    "name": "surf.new",
+    "full_name": "steel-dev/surf.new",
+    "description": "A playground for web agents 🌊",
+    "url": "https://github.com/steel-dev/surf.new",
+    "stars": 219,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "browser-automation"
+    ],
+    "created_at": "2025-01-30T22:32:55",
+    "updated_at": "2025-02-25T20:37:09"
   },
   {
     "name": "laravel",
     "full_name": "grok-php/laravel",
     "description": "Seamlessly integrate Grok AI into Laravel applications with an elegant, developer-friendly package. Leverage powerful AI models for chat, automation, and NLP, while maintaining Laravel's expressive simplicity.",
     "url": "https://github.com/grok-php/laravel",
-    "stars": 106,
-    "daily_stars": 3,
+    "stars": 107,
+    "daily_stars": 1,
     "language": "PHP",
     "topics": [
       "ai-api",
@@ -57,144 +152,60 @@
       "x-ai-grok-2"
     ],
     "created_at": "2025-02-07T02:02:18",
-    "updated_at": "2025-02-25T15:44:16"
+    "updated_at": "2025-02-25T17:33:05"
   },
   {
-    "name": "awesome-ai-ml-resources",
-    "full_name": "armankhondker/awesome-ai-ml-resources",
-    "description": "Learn AI/ML concepts and prepare for interviews using free resources.",
-    "url": "https://github.com/armankhondker/awesome-ai-ml-resources",
-    "stars": 2151,
-    "daily_stars": 2,
+    "name": "rag-app-deepseek",
+    "full_name": "Ivxn0902/rag-app-deepseek",
+    "description": "A RAG (Retrieval-Augmented Generation) application which combines retrieval-based and generative approaches to improve the accuracy and relevance of AI-generated responses.",
+    "url": "https://github.com/Ivxn0902/rag-app-deepseek",
+    "stars": 3,
+    "daily_stars": 1,
     "language": null,
     "topics": [
-      "artifical-intelligense",
-      "computer-science",
-      "deep-learning",
-      "generative-ai",
-      "machine-learning",
-      "neural-networks",
-      "python",
-      "roadmap"
-    ],
-    "created_at": "2025-02-09T00:12:17",
-    "updated_at": "2025-02-25T15:57:31"
-  },
-  {
-    "name": "ai-guide",
-    "full_name": "liyupi/ai-guide",
-    "description": "鱼皮的 AI 知识库",
-    "url": "https://github.com/liyupi/ai-guide",
-    "stars": 97,
-    "daily_stars": 1,
-    "language": "Vue",
-    "topics": [
       "ai",
-      "algorithm",
-      "artificial-intelligence",
-      "chatgpt",
-      "deep-learning",
-      "deepseek",
       "deepseek-r1",
-      "generative-ai",
-      "gpt",
+      "kafka",
+      "langchain",
       "llm",
+      "machine-learning",
+      "milvus",
       "openai",
       "python",
-      "vue",
-      "vuepress"
+      "react",
+      "semantic-search",
+      "supabase",
+      "text-embeddings",
+      "vector-database"
     ],
-    "created_at": "2025-02-13T05:47:46",
-    "updated_at": "2025-02-25T15:52:04"
+    "created_at": "2025-02-10T20:59:19",
+    "updated_at": "2025-02-25T20:38:06"
   },
   {
-    "name": "deep-cross-attention",
-    "full_name": "lucidrains/deep-cross-attention",
-    "description": "Implementation of the proposed DeepCrossAttention by Heddes et al while at Google research, in Pytorch",
-    "url": "https://github.com/lucidrains/deep-cross-attention",
-    "stars": 76,
+    "name": "AI-Integration-App",
+    "full_name": "Luizdark1/AI-Integration-App",
+    "description": "A cross-platform application providing unified interface for multiple AI APIs with GUI.",
+    "url": "https://github.com/Luizdark1/AI-Integration-App",
+    "stars": 2,
     "daily_stars": 1,
     "language": null,
     "topics": [
-      "artificial-intelligence",
-      "attention-mechanism",
+      "android",
+      "annotations",
+      "cross-platform",
+      "data-analytics",
+      "datasets",
       "deep-learning",
-      "residuals",
-      "transformers"
+      "firebase",
+      "gemini",
+      "kubernetes",
+      "machine-learning",
+      "mobile",
+      "nodejs",
+      "prompt-engineering",
+      "react-native"
     ],
-    "created_at": "2025-02-18T15:28:43",
-    "updated_at": "2025-02-25T15:59:32"
-  },
-  {
-    "name": "improving-transformers-world-model-for-rl",
-    "full_name": "lucidrains/improving-transformers-world-model-for-rl",
-    "description": "Implementation of the new SOTA for model based RL, from the paper \"Improving Transformer World Models for Data-Efficient RL\", in Pytorch",
-    "url": "https://github.com/lucidrains/improving-transformers-world-model-for-rl",
-    "stars": 63,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "artificial-intelligence",
-      "attention-mechanism",
-      "deep-learning",
-      "model-based-reinforcement-learning",
-      "transformers",
-      "world-models"
-    ],
-    "created_at": "2025-02-09T15:00:51",
-    "updated_at": "2025-02-25T14:13:14"
-  },
-  {
-    "name": "transformer-directed-evolution",
-    "full_name": "lucidrains/transformer-directed-evolution",
-    "description": "Explorations into whether a transformer with RL can direct a genetic algorithm to converge faster",
-    "url": "https://github.com/lucidrains/transformer-directed-evolution",
-    "stars": 61,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "artificial-intelligence",
-      "attention-mechanisms",
-      "deep-learning",
-      "evolutionary-algorithms",
-      "reinforcement-learning"
-    ],
-    "created_at": "2025-02-01T14:54:41",
-    "updated_at": "2025-02-25T14:13:36"
-  },
-  {
-    "name": "transformer-lm-gan",
-    "full_name": "lucidrains/transformer-lm-gan",
-    "description": "Explorations into adversarial losses on top of autoregressive loss for language modeling",
-    "url": "https://github.com/lucidrains/transformer-lm-gan",
-    "stars": 33,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "adversarial-learning",
-      "artificial-intelligence",
-      "autoregressive-transformers",
-      "deep-learning"
-    ],
-    "created_at": "2025-02-14T14:56:14",
-    "updated_at": "2025-02-25T16:00:20"
-  },
-  {
-    "name": "ai-gateway",
-    "full_name": "wx-yz/ai-gateway",
-    "description": "Developer focused AI Gateway",
-    "url": "https://github.com/wx-yz/ai-gateway",
-    "stars": 8,
-    "daily_stars": 1,
-    "language": "Ballerina",
-    "topics": [
-      "ai",
-      "ai-gateway",
-      "artificial-intelligence",
-      "docker",
-      "llms"
-    ],
-    "created_at": "2025-02-14T01:52:54",
-    "updated_at": "2025-02-25T16:10:06"
+    "created_at": "2025-02-02T21:05:48",
+    "updated_at": "2025-02-25T20:35:27"
   }
 ]
