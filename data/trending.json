@@ -1,33 +1,11 @@
 [
   {
-    "name": "kokoro-web",
-    "full_name": "eduardolat/kokoro-web",
-    "description": "🔊 Kokoro Web: Free AI text-to-speech, online or self-hosted, OpenAI compatible!",
-    "url": "https://github.com/eduardolat/kokoro-web",
-    "stars": 63,
-    "daily_stars": 13,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "kokoro",
-      "kokoro-82m",
-      "kokoro-tts",
-      "machine-learning",
-      "text-to-speech",
-      "tts",
-      "voice",
-      "voice-generation"
-    ],
-    "created_at": "2025-02-09T18:54:22",
-    "updated_at": "2025-03-01T12:46:16"
-  },
-  {
     "name": "recommendarr",
     "full_name": "fingerthief/recommendarr",
     "description": "An AI driven reccommendation system based on Radarr and Sonarr library information",
     "url": "https://github.com/fingerthief/recommendarr",
-    "stars": 23,
-    "daily_stars": 11,
+    "stars": 30,
+    "daily_stars": 7,
     "language": "Vue",
     "topics": [
       "ai",
@@ -42,15 +20,15 @@
       "vuejs"
     ],
     "created_at": "2025-03-01T01:37:53",
-    "updated_at": "2025-03-01T12:52:31"
+    "updated_at": "2025-03-01T16:08:15"
   },
   {
     "name": "marsopt",
     "full_name": "sibirbil/marsopt",
     "description": "Mixed Adaptive Random Search for Optimization (MARS)",
     "url": "https://github.com/sibirbil/marsopt",
-    "stars": 9,
-    "daily_stars": 6,
+    "stars": 14,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "blackbox-optimization",
@@ -62,15 +40,37 @@
       "random-search"
     ],
     "created_at": "2025-02-13T14:41:48",
-    "updated_at": "2025-03-01T12:29:10"
+    "updated_at": "2025-03-01T15:50:06"
+  },
+  {
+    "name": "kokoro-web",
+    "full_name": "eduardolat/kokoro-web",
+    "description": "🔊 Kokoro Web: Free AI text-to-speech, online or self-hosted, OpenAI compatible!",
+    "url": "https://github.com/eduardolat/kokoro-web",
+    "stars": 66,
+    "daily_stars": 3,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "kokoro",
+      "kokoro-82m",
+      "kokoro-tts",
+      "machine-learning",
+      "text-to-speech",
+      "tts",
+      "voice",
+      "voice-generation"
+    ],
+    "created_at": "2025-02-09T18:54:22",
+    "updated_at": "2025-03-01T15:58:02"
   },
   {
     "name": "Flame-Code-VLM",
     "full_name": "Flame-Code-VLM/Flame-Code-VLM",
     "description": "Flame is an open-source multimodal AI system designed to translate UI design mockups into high-quality React code. It leverages vision-language modeling, automated data synthesis, and structured training workflows to bridge the gap between design and front-end development.",
     "url": "https://github.com/Flame-Code-VLM/Flame-Code-VLM",
-    "stars": 301,
-    "daily_stars": 4,
+    "stars": 304,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "ai",
@@ -86,33 +86,54 @@
       "vlm"
     ],
     "created_at": "2025-02-10T02:27:32",
-    "updated_at": "2025-03-01T12:42:52"
+    "updated_at": "2025-03-01T16:31:22"
   },
   {
-    "name": "VVQuest",
-    "full_name": "DanielZhangyc/VVQuest",
-    "description": "智能检索张维为表情包",
-    "url": "https://github.com/DanielZhangyc/VVQuest",
-    "stars": 784,
-    "daily_stars": 2,
-    "language": "Python",
+    "name": "agent-leaderboard",
+    "full_name": "rungalileo/agent-leaderboard",
+    "description": "Ranking LLMs on agentic tasks",
+    "url": "https://github.com/rungalileo/agent-leaderboard",
+    "stars": 86,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
     "topics": [
-      "artificial-intelligence",
-      "embeddings-word2vec",
-      "python",
-      "streamlit",
-      "streamlit-webapp"
+      "ai",
+      "ai-agents",
+      "ai-evaluation",
+      "evaluation",
+      "llms"
     ],
-    "created_at": "2025-02-11T13:28:11",
-    "updated_at": "2025-03-01T11:35:00"
+    "created_at": "2025-02-10T13:49:20",
+    "updated_at": "2025-03-01T15:26:43"
+  },
+  {
+    "name": "awesome-ai-ml-resources",
+    "full_name": "armankhondker/awesome-ai-ml-resources",
+    "description": "Learn AI/ML concepts and prepare for interviews using free resources.",
+    "url": "https://github.com/armankhondker/awesome-ai-ml-resources",
+    "stars": 2249,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "artifical-intelligense",
+      "computer-science",
+      "deep-learning",
+      "generative-ai",
+      "machine-learning",
+      "neural-networks",
+      "python",
+      "roadmap"
+    ],
+    "created_at": "2025-02-09T00:12:17",
+    "updated_at": "2025-03-01T16:18:17"
   },
   {
     "name": "yolo-tonic",
     "full_name": "jordandelbar/yolo-tonic",
     "description": "Webcam video stream with real-time YOLO object detection, built with Ort, Tonic and Axum.",
     "url": "https://github.com/jordandelbar/yolo-tonic",
-    "stars": 58,
-    "daily_stars": 2,
+    "stars": 59,
+    "daily_stars": 1,
     "language": "Rust",
     "topics": [
       "axum",
@@ -124,90 +145,75 @@
       "yolov8"
     ],
     "created_at": "2025-02-14T13:26:06",
-    "updated_at": "2025-03-01T12:17:56"
+    "updated_at": "2025-03-01T14:40:50"
   },
   {
-    "name": "Guardian-Agent",
-    "full_name": "GitsSaikat/Guardian-Agent",
-    "description": "Improving AI Systems with Self-Defense Mechanisms ",
-    "url": "https://github.com/GitsSaikat/Guardian-Agent",
-    "stars": 9,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "autonomous-systems",
-      "jailbreak",
-      "llm",
-      "machine-learning",
-      "prompt-injection",
-      "responsible-ai",
-      "reverse-engineering",
-      "safety-monitoring",
-      "security"
-    ],
-    "created_at": "2025-02-03T12:18:36",
-    "updated_at": "2025-03-01T11:04:14"
-  },
-  {
-    "name": "axis",
-    "full_name": "SRSWTI/axis",
-    "description": "AI eXplainable Inference & Search.",
-    "url": "https://github.com/SRSWTI/axis",
-    "stars": 22,
+    "name": "Machine-Learning-Roadmap",
+    "full_name": "Timur-THE-mAIstermind/Machine-Learning-Roadmap",
+    "description": "Machine Learning Roadmap for 2025. Step-by-step guide to become a Data Scientist.  Covers the best free learning resources from Python basics to Deep Learning and MLOps.",
+    "url": "https://github.com/Timur-THE-mAIstermind/Machine-Learning-Roadmap",
+    "stars": 36,
     "daily_stars": 1,
     "language": null,
     "topics": [
-      "artificial-intelligence",
+      "data",
+      "data-mining",
+      "data-science",
       "deep-learning",
-      "inference",
-      "llm",
+      "genai",
+      "gradient-boosting",
       "machine-learning",
-      "nlp",
-      "probabilistic-models",
-      "search-engine",
-      "software-engineering",
-      "statistical-inference"
+      "machine-learning-algorithms",
+      "roadmap"
     ],
-    "created_at": "2025-02-14T15:15:27",
-    "updated_at": "2025-03-01T08:53:11"
+    "created_at": "2025-02-26T06:06:33",
+    "updated_at": "2025-03-01T13:00:12"
   },
   {
-    "name": "ARIA",
-    "full_name": "antenore/ARIA",
-    "description": "AI Responsibility and Integration Assistant",
-    "url": "https://github.com/antenore/ARIA",
-    "stars": 5,
+    "name": "machine-learning-api",
+    "full_name": "jhowbhz/machine-learning-api",
+    "description": "Simple Machine Learning API",
+    "url": "https://github.com/jhowbhz/machine-learning-api",
+    "stars": 6,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "ai-governance",
-      "ai-policy",
-      "ai-regulation",
-      "artificial-intelligence",
-      "development-tools",
-      "policy-enforcement"
-    ],
-    "created_at": "2025-02-21T22:12:42",
-    "updated_at": "2025-03-01T10:45:00"
-  },
-  {
-    "name": "autogram",
-    "full_name": "ranahaani/autogram",
-    "description": "AI agent that automates AI news curation and post to Instagram",
-    "url": "https://github.com/ranahaani/autogram",
-    "stars": 38,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
+      "api",
       "automation",
-      "dalle-3",
-      "image-generation",
-      "instagram-bot"
+      "data-science",
+      "ia",
+      "ia-automator",
+      "inteligencia-artificial",
+      "machine-learning",
+      "python"
     ],
-    "created_at": "2025-02-02T06:23:58",
-    "updated_at": "2025-03-01T09:06:24"
+    "created_at": "2025-02-27T00:08:39",
+    "updated_at": "2025-03-01T13:13:37"
+  },
+  {
+    "name": "small-doge",
+    "full_name": "SamllDoge/small-doge",
+    "description": "Doge Family of Small Language Model",
+    "url": "https://github.com/SamllDoge/small-doge",
+    "stars": 101,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "attention-is-all-you-need",
+      "attention-mechanism",
+      "cross-domain-mixture-of-experts",
+      "deep-learning",
+      "dynamic-mask-attention",
+      "foundation-models",
+      "mechine-learning",
+      "natural-language-processing",
+      "nlp",
+      "python",
+      "pytorch",
+      "small-language-models",
+      "transformer"
+    ],
+    "created_at": "2025-02-01T04:20:41",
+    "updated_at": "2025-03-01T16:04:03"
   }
 ]
