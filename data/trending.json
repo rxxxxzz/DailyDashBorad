@@ -1,11 +1,58 @@
 [
   {
+    "name": "Flame-Code-VLM",
+    "full_name": "Flame-Code-VLM/Flame-Code-VLM",
+    "description": "Flame is an open-source multimodal AI system designed to translate UI design mockups into high-quality React code. It leverages vision-language modeling, automated data synthesis, and structured training workflows to bridge the gap between design and front-end development.",
+    "url": "https://github.com/Flame-Code-VLM/Flame-Code-VLM",
+    "stars": 296,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "code-generation",
+      "data-synthesis",
+      "deep-learning",
+      "frontend",
+      "frontend-development",
+      "multimodal",
+      "open-source",
+      "react",
+      "vision-language-model",
+      "vlm"
+    ],
+    "created_at": "2025-02-10T02:27:32",
+    "updated_at": "2025-03-01T03:59:49"
+  },
+  {
+    "name": "recommendarr",
+    "full_name": "fingerthief/recommendarr",
+    "description": "An AI driven reccommendation system based on Radarr and Sonarr library information",
+    "url": "https://github.com/fingerthief/recommendarr",
+    "stars": 6,
+    "daily_stars": 5,
+    "language": "Vue",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "local",
+      "local-llm-integration",
+      "radarr",
+      "recommendation",
+      "self-hosted",
+      "sonarr",
+      "vue",
+      "vuejs"
+    ],
+    "created_at": "2025-03-01T01:37:53",
+    "updated_at": "2025-03-01T04:23:10"
+  },
+  {
     "name": "kokoro-web",
     "full_name": "eduardolat/kokoro-web",
     "description": "🔊 Kokoro Web: Free AI text-to-speech, online or self-hosted, OpenAI compatible!",
     "url": "https://github.com/eduardolat/kokoro-web",
-    "stars": 40,
-    "daily_stars": 19,
+    "stars": 44,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -19,14 +66,14 @@
       "voice-generation"
     ],
     "created_at": "2025-02-09T18:54:22",
-    "updated_at": "2025-03-01T01:56:14"
+    "updated_at": "2025-03-01T04:32:54"
   },
   {
     "name": "awesome-ai-ml-resources",
     "full_name": "armankhondker/awesome-ai-ml-resources",
     "description": "Learn AI/ML concepts and prepare for interviews using free resources.",
     "url": "https://github.com/armankhondker/awesome-ai-ml-resources",
-    "stars": 2244,
+    "stars": 2246,
     "daily_stars": 2,
     "language": null,
     "topics": [
@@ -40,141 +87,15 @@
       "roadmap"
     ],
     "created_at": "2025-02-09T00:12:17",
-    "updated_at": "2025-03-01T02:05:01"
-  },
-  {
-    "name": "Youtube-playlist-to-formatted-text",
-    "full_name": "Ebrizzzz/Youtube-playlist-to-formatted-text",
-    "description": "A desktop application that extracts YouTube playlist transcripts and enhances them using Google's Gemini AI models., the output is a book in any language you want.",
-    "url": "https://github.com/Ebrizzzz/Youtube-playlist-to-formatted-text",
-    "stars": 273,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "datahoarder",
-      "deep-learning",
-      "gemini",
-      "gemini-api",
-      "gemini-flash",
-      "llm",
-      "productivity",
-      "pyqt5",
-      "python",
-      "useful-scripts",
-      "useful-utilities",
-      "youtube"
-    ],
-    "created_at": "2025-02-13T02:28:13",
-    "updated_at": "2025-03-01T00:18:17"
-  },
-  {
-    "name": "native-sparse-attention-pytorch",
-    "full_name": "lucidrains/native-sparse-attention-pytorch",
-    "description": "Implementation of the sparse attention pattern proposed by the Deepseek team in their \"Native Sparse Attention\" paper",
-    "url": "https://github.com/lucidrains/native-sparse-attention-pytorch",
-    "stars": 488,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "attention",
-      "deep-learning"
-    ],
-    "created_at": "2025-02-19T03:37:52",
-    "updated_at": "2025-02-28T20:48:30"
-  },
-  {
-    "name": "clickup-mcp-server",
-    "full_name": "TaazKareem/clickup-mcp-server",
-    "description": "ClickUp MCP Server - Integrate ClickUp task management with AI through Model Context Protocol",
-    "url": "https://github.com/TaazKareem/clickup-mcp-server",
-    "stars": 9,
-    "daily_stars": 1,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "lists",
-      "llm",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "productivity",
-      "spaces",
-      "task-management",
-      "tasks",
-      "workspaces"
-    ],
-    "created_at": "2025-02-10T19:51:55",
-    "updated_at": "2025-02-28T21:38:24"
-  },
-  {
-    "name": "agent-leaderboard",
-    "full_name": "rungalileo/agent-leaderboard",
-    "description": "Ranking LLMs on agentic tasks",
-    "url": "https://github.com/rungalileo/agent-leaderboard",
-    "stars": 85,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-evaluation",
-      "evaluation",
-      "llms"
-    ],
-    "created_at": "2025-02-10T13:49:20",
-    "updated_at": "2025-03-01T01:33:36"
-  },
-  {
-    "name": "laravel",
-    "full_name": "grok-php/laravel",
-    "description": "Seamlessly integrate Grok AI into Laravel applications with an elegant, developer-friendly package. Leverage powerful AI models for chat, automation, and NLP, while maintaining Laravel's expressive simplicity.",
-    "url": "https://github.com/grok-php/laravel",
-    "stars": 119,
-    "daily_stars": 1,
-    "language": "PHP",
-    "topics": [
-      "ai-api",
-      "ai-assistant",
-      "ai-powered-applications",
-      "ai-sdk",
-      "chatbot",
-      "laravel",
-      "laravel-ai",
-      "machine-learning",
-      "php-ai-sdk",
-      "rest-api",
-      "x-ai",
-      "x-ai-grok",
-      "x-ai-grok-2"
-    ],
-    "created_at": "2025-02-07T02:02:18",
-    "updated_at": "2025-02-28T21:17:24"
-  },
-  {
-    "name": "vibevoice",
-    "full_name": "mpaepper/vibevoice",
-    "description": "Fast local speech-to-text for any app using faster-whisper",
-    "url": "https://github.com/mpaepper/vibevoice",
-    "stars": 19,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "machine-learning",
-      "python"
-    ],
-    "created_at": "2025-02-10T20:59:33",
-    "updated_at": "2025-02-28T21:10:13"
+    "updated_at": "2025-03-01T04:15:57"
   },
   {
     "name": "VVQuest",
     "full_name": "DanielZhangyc/VVQuest",
     "description": "智能检索张维为表情包",
     "url": "https://github.com/DanielZhangyc/VVQuest",
-    "stars": 780,
-    "daily_stars": 0,
+    "stars": 781,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "artificial-intelligence",
@@ -184,15 +105,15 @@
       "streamlit-webapp"
     ],
     "created_at": "2025-02-11T13:28:11",
-    "updated_at": "2025-02-28T16:23:22"
+    "updated_at": "2025-03-01T04:06:44"
   },
   {
     "name": "ai-guide",
     "full_name": "liyupi/ai-guide",
     "description": "鱼皮的 AI 知识库",
     "url": "https://github.com/liyupi/ai-guide",
-    "stars": 107,
-    "daily_stars": 0,
+    "stars": 108,
+    "daily_stars": 1,
     "language": "Vue",
     "topics": [
       "ai",
@@ -211,6 +132,94 @@
       "vuepress"
     ],
     "created_at": "2025-02-13T05:47:46",
-    "updated_at": "2025-02-28T18:29:48"
+    "updated_at": "2025-03-01T03:55:25"
+  },
+  {
+    "name": "native-sparse-attention-pytorch",
+    "full_name": "lucidrains/native-sparse-attention-pytorch",
+    "description": "Implementation of the sparse attention pattern proposed by the Deepseek team in their \"Native Sparse Attention\" paper",
+    "url": "https://github.com/lucidrains/native-sparse-attention-pytorch",
+    "stars": 488,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "attention",
+      "deep-learning"
+    ],
+    "created_at": "2025-02-19T03:37:52",
+    "updated_at": "2025-02-28T20:48:30"
+  },
+  {
+    "name": "deep-cross-attention",
+    "full_name": "lucidrains/deep-cross-attention",
+    "description": "Implementation of the proposed DeepCrossAttention by Heddes et al while at Google research, in Pytorch",
+    "url": "https://github.com/lucidrains/deep-cross-attention",
+    "stars": 76,
+    "daily_stars": 0,
+    "language": null,
+    "topics": [
+      "artificial-intelligence",
+      "attention-mechanism",
+      "deep-learning",
+      "residuals",
+      "transformers"
+    ],
+    "created_at": "2025-02-18T15:28:43",
+    "updated_at": "2025-02-25T15:59:32"
+  },
+  {
+    "name": "Sentient",
+    "full_name": "existence-master/Sentient",
+    "description": "Your personal, private & interactive AI companion",
+    "url": "https://github.com/existence-master/Sentient",
+    "stars": 75,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [
+      "agents",
+      "artificial-intelligence",
+      "automation",
+      "local",
+      "memory",
+      "open-source",
+      "personalization",
+      "privacy"
+    ],
+    "created_at": "2025-02-20T04:33:41",
+    "updated_at": "2025-02-28T10:13:30"
+  },
+  {
+    "name": "A5-PII-Anonymizer",
+    "full_name": "AgenticA5/A5-PII-Anonymizer",
+    "description": "Desktop App with Built-In LLM for Removing Personal Identifiable Information in Documents",
+    "url": "https://github.com/AgenticA5/A5-PII-Anonymizer",
+    "stars": 68,
+    "daily_stars": 0,
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "ai-safety",
+      "alm",
+      "anonymisation",
+      "anonymity",
+      "anonymization",
+      "artificial-intelligence",
+      "desktop-application",
+      "electron",
+      "electron-desktop",
+      "gdpr",
+      "hipaa",
+      "linux",
+      "llm",
+      "macos",
+      "personal-identifiable-information",
+      "pii",
+      "privacy",
+      "reasoning",
+      "windows"
+    ],
+    "created_at": "2025-02-17T22:10:04",
+    "updated_at": "2025-02-22T12:44:57"
   }
 ]
