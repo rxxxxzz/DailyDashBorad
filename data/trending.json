@@ -4,8 +4,8 @@
     "full_name": "takara-ai/go-attention",
     "description": "A full attention mechanism and transformer in pure go.",
     "url": "https://github.com/takara-ai/go-attention",
-    "stars": 83,
-    "daily_stars": 50,
+    "stars": 152,
+    "daily_stars": 69,
     "language": "Go",
     "topics": [
       "artificial-intelligence",
@@ -14,33 +14,15 @@
       "serverless"
     ],
     "created_at": "2025-02-10T15:46:35",
-    "updated_at": "2025-03-03T20:34:18"
-  },
-  {
-    "name": "dl-at-scale-training",
-    "full_name": "NERSC/dl-at-scale-training",
-    "description": "Deep Learning at Scale Training Event at NERSC ",
-    "url": "https://github.com/NERSC/dl-at-scale-training",
-    "stars": 13,
-    "daily_stars": 10,
-    "language": "Python",
-    "topics": [
-      "data-parallelism",
-      "deep-learning",
-      "hpc",
-      "model-parallelism",
-      "performance-optimization"
-    ],
-    "created_at": "2025-02-05T21:28:02",
-    "updated_at": "2025-03-03T19:09:23"
+    "updated_at": "2025-03-04T01:59:23"
   },
   {
     "name": "recommendarr",
     "full_name": "fingerthief/recommendarr",
     "description": "An AI driven reccommendation system based on Radarr and Sonarr library information",
     "url": "https://github.com/fingerthief/recommendarr",
-    "stars": 155,
-    "daily_stars": 5,
+    "stars": 161,
+    "daily_stars": 6,
     "language": "Vue",
     "topics": [
       "ai",
@@ -55,36 +37,15 @@
       "vuejs"
     ],
     "created_at": "2025-03-01T01:37:53",
-    "updated_at": "2025-03-03T20:23:29"
-  },
-  {
-    "name": "awesome-ai-ml-resources",
-    "full_name": "armankhondker/awesome-ai-ml-resources",
-    "description": "Learn AI/ML concepts and prepare for interviews using free resources.",
-    "url": "https://github.com/armankhondker/awesome-ai-ml-resources",
-    "stars": 2268,
-    "daily_stars": 3,
-    "language": null,
-    "topics": [
-      "artifical-intelligense",
-      "computer-science",
-      "deep-learning",
-      "generative-ai",
-      "machine-learning",
-      "neural-networks",
-      "python",
-      "roadmap"
-    ],
-    "created_at": "2025-02-09T00:12:17",
-    "updated_at": "2025-03-03T19:33:07"
+    "updated_at": "2025-03-04T00:46:51"
   },
   {
     "name": "kokoro-web",
     "full_name": "eduardolat/kokoro-web",
     "description": "🔊 Kokoro Web: Free AI text-to-speech, online or self-hosted, OpenAI compatible!",
     "url": "https://github.com/eduardolat/kokoro-web",
-    "stars": 96,
-    "daily_stars": 3,
+    "stars": 101,
+    "daily_stars": 5,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -98,109 +59,156 @@
       "voice-generation"
     ],
     "created_at": "2025-02-09T18:54:22",
-    "updated_at": "2025-03-03T18:09:19"
+    "updated_at": "2025-03-04T01:48:44"
   },
   {
-    "name": "VVQuest",
-    "full_name": "DanielZhangyc/VVQuest",
-    "description": "智能检索张维为表情包",
-    "url": "https://github.com/DanielZhangyc/VVQuest",
-    "stars": 807,
-    "daily_stars": 1,
-    "language": "Python",
+    "name": "awesome-ai-ml-resources",
+    "full_name": "armankhondker/awesome-ai-ml-resources",
+    "description": "Learn AI/ML concepts and prepare for interviews using free resources.",
+    "url": "https://github.com/armankhondker/awesome-ai-ml-resources",
+    "stars": 2271,
+    "daily_stars": 3,
+    "language": null,
     "topics": [
-      "artificial-intelligence",
-      "embeddings-word2vec",
-      "python",
-      "streamlit",
-      "streamlit-webapp"
-    ],
-    "created_at": "2025-02-11T13:28:11",
-    "updated_at": "2025-03-03T20:28:21"
-  },
-  {
-    "name": "ai-guide",
-    "full_name": "liyupi/ai-guide",
-    "description": "鱼皮的 AI 知识库",
-    "url": "https://github.com/liyupi/ai-guide",
-    "stars": 118,
-    "daily_stars": 1,
-    "language": "Vue",
-    "topics": [
-      "ai",
-      "algorithm",
-      "artificial-intelligence",
-      "chatgpt",
+      "artifical-intelligense",
+      "computer-science",
       "deep-learning",
-      "deepseek",
-      "deepseek-r1",
       "generative-ai",
-      "gpt",
-      "llm",
-      "openai",
+      "machine-learning",
+      "neural-networks",
       "python",
-      "vue",
-      "vuepress"
+      "roadmap"
     ],
-    "created_at": "2025-02-13T05:47:46",
-    "updated_at": "2025-03-03T17:37:59"
+    "created_at": "2025-02-09T00:12:17",
+    "updated_at": "2025-03-03T23:57:11"
   },
   {
-    "name": "Curie",
-    "full_name": "Just-Curieous/Curie",
-    "description": "Curie: Automated and Rigorous Scientific Experimentation",
-    "url": "https://github.com/Just-Curieous/Curie",
-    "stars": 36,
+    "name": "native-sparse-attention-pytorch",
+    "full_name": "lucidrains/native-sparse-attention-pytorch",
+    "description": "Implementation of the sparse attention pattern proposed by the Deepseek team in their \"Native Sparse Attention\" paper",
+    "url": "https://github.com/lucidrains/native-sparse-attention-pytorch",
+    "stars": 492,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "ai-agents",
-      "ai-for-science",
       "artificial-intelligence",
-      "cli",
-      "gpt",
-      "llm",
-      "scientific-experiment",
-      "scientific-research"
+      "attention",
+      "deep-learning"
     ],
-    "created_at": "2025-02-02T19:55:44",
-    "updated_at": "2025-03-03T20:04:47"
+    "created_at": "2025-02-19T03:37:52",
+    "updated_at": "2025-03-04T01:48:15"
   },
   {
-    "name": "neobase-ai-dba",
-    "full_name": "bhaskarblur/neobase-ai-dba",
-    "description": "Your AI-powered database assistant. Manage, query, and optimize databases effortlessly with a sleek, Neo Brutalism interface. Chat with your data in real-time, generate reports, and automate complex tasks—all in one place.",
-    "url": "https://github.com/bhaskarblur/neobase-ai-dba",
-    "stars": 2,
+    "name": "deep-cross-attention",
+    "full_name": "lucidrains/deep-cross-attention",
+    "description": "Implementation of the proposed DeepCrossAttention by Heddes et al while at Google research, in Pytorch",
+    "url": "https://github.com/lucidrains/deep-cross-attention",
+    "stars": 77,
     "daily_stars": 1,
-    "language": "TypeScript",
+    "language": null,
     "topics": [
-      "aimodel",
       "artificial-intelligence",
-      "chatgpt",
-      "database",
-      "database-management",
-      "db"
+      "attention-mechanism",
+      "deep-learning",
+      "residuals",
+      "transformers"
     ],
-    "created_at": "2025-02-04T07:34:05",
-    "updated_at": "2025-03-03T20:24:55"
+    "created_at": "2025-02-18T15:28:43",
+    "updated_at": "2025-03-04T01:54:26"
   },
   {
-    "name": "agent-leaderboard",
-    "full_name": "rungalileo/agent-leaderboard",
-    "description": "Ranking LLMs on agentic tasks",
-    "url": "https://github.com/rungalileo/agent-leaderboard",
-    "stars": 92,
+    "name": "A5-PII-Anonymizer",
+    "full_name": "AgenticA5/A5-PII-Anonymizer",
+    "description": "Desktop App with Built-In LLM for Removing Personal Identifiable Information in Documents",
+    "url": "https://github.com/AgenticA5/A5-PII-Anonymizer",
+    "stars": 70,
     "daily_stars": 1,
-    "language": "Jupyter Notebook",
+    "language": "JavaScript",
     "topics": [
       "ai",
-      "ai-agents",
-      "ai-evaluation",
-      "evaluation",
-      "llms"
+      "ai-safety",
+      "alm",
+      "anonymisation",
+      "anonymity",
+      "anonymization",
+      "artificial-intelligence",
+      "desktop-application",
+      "electron",
+      "electron-desktop",
+      "gdpr",
+      "hipaa",
+      "linux",
+      "llm",
+      "macos",
+      "personal-identifiable-information",
+      "pii",
+      "privacy",
+      "reasoning",
+      "windows"
     ],
-    "created_at": "2025-02-10T13:49:20",
-    "updated_at": "2025-03-03T19:29:22"
+    "created_at": "2025-02-17T22:10:04",
+    "updated_at": "2025-03-03T23:42:29"
+  },
+  {
+    "name": "LLM-AutoHotkey-Assistant",
+    "full_name": "kdalanon/LLM-AutoHotkey-Assistant",
+    "description": "An AutoHotkey v2 application that utilizes OpenRouter.ai to seamlessly integrate Large Language Models into your daily workflow. Process texts with customizable prompts by pressing a hotkey and interact with multiple AI models simultaneously.",
+    "url": "https://github.com/kdalanon/LLM-AutoHotkey-Assistant",
+    "stars": 20,
+    "daily_stars": 1,
+    "language": "AutoHotkey",
+    "topics": [
+      "artificial-intelligence",
+      "autohotkey-v2",
+      "hotkeys",
+      "large-language-models",
+      "openrouter",
+      "windows"
+    ],
+    "created_at": "2025-02-24T06:57:09",
+    "updated_at": "2025-03-04T01:02:27"
+  },
+  {
+    "name": "whisper_library",
+    "full_name": "General-Developer/whisper_library",
+    "description": "Whisper Is Library for transcribe sound wav AKA Speech To Text Or Extract Text From Audio",
+    "url": "https://github.com/General-Developer/whisper_library",
+    "stars": 11,
+    "daily_stars": 1,
+    "language": "C++",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "dart",
+      "flutter",
+      "ggml",
+      "machine-learning",
+      "ml",
+      "openai",
+      "speech-to-text",
+      "transcribe",
+      "translate",
+      "whisper"
+    ],
+    "created_at": "2025-02-10T07:35:19",
+    "updated_at": "2025-03-04T00:16:59"
+  },
+  {
+    "name": "MultiAgentVerification",
+    "full_name": "Shalev-Lifshitz/MultiAgentVerification",
+    "description": "Multi-Agent Verification: Scaling Test-Time Compute with Multiple Verifiers",
+    "url": "https://github.com/Shalev-Lifshitz/MultiAgentVerification",
+    "stars": 8,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "generative-ai",
+      "machine-learning",
+      "scaling",
+      "test-time-compute"
+    ],
+    "created_at": "2025-02-28T15:07:27",
+    "updated_at": "2025-03-04T00:06:59"
   }
 ]
