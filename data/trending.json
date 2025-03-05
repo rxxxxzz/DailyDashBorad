@@ -1,11 +1,28 @@
 [
   {
+    "name": "go-attention",
+    "full_name": "takara-ai/go-attention",
+    "description": "A full attention mechanism and transformer in pure go.",
+    "url": "https://github.com/takara-ai/go-attention",
+    "stars": 297,
+    "daily_stars": 6,
+    "language": "Go",
+    "topics": [
+      "artificial-intelligence",
+      "golang",
+      "machine-learning",
+      "serverless"
+    ],
+    "created_at": "2025-02-10T15:46:35",
+    "updated_at": "2025-03-05T12:34:05"
+  },
+  {
     "name": "Notebook-Git-Colab",
     "full_name": "JonusNattapong/Notebook-Git-Colab",
     "description": "collection of resources for learning about Artificial Intelligence (AI) and Large Language Models (LLMs). It includes fundamental topics, recommended notebooks, online courses, tools, datasets, and advanced techniques for developing and fine-tuning AI models.",
     "url": "https://github.com/JonusNattapong/Notebook-Git-Colab",
-    "stars": 42,
-    "daily_stars": 12,
+    "stars": 48,
+    "daily_stars": 6,
     "language": null,
     "topics": [
       "artificial-intelligence",
@@ -26,32 +43,33 @@
       "tools"
     ],
     "created_at": "2025-03-03T04:34:04",
-    "updated_at": "2025-03-05T08:28:38"
+    "updated_at": "2025-03-05T12:45:03"
   },
   {
-    "name": "go-attention",
-    "full_name": "takara-ai/go-attention",
-    "description": "A full attention mechanism and transformer in pure go.",
-    "url": "https://github.com/takara-ai/go-attention",
-    "stars": 291,
-    "daily_stars": 9,
-    "language": "Go",
+    "name": "VVQuest",
+    "full_name": "DanielZhangyc/VVQuest",
+    "description": "智能检索张维为表情包",
+    "url": "https://github.com/DanielZhangyc/VVQuest",
+    "stars": 830,
+    "daily_stars": 4,
+    "language": "Python",
     "topics": [
       "artificial-intelligence",
-      "golang",
-      "machine-learning",
-      "serverless"
+      "embeddings-word2vec",
+      "python",
+      "streamlit",
+      "streamlit-webapp"
     ],
-    "created_at": "2025-02-10T15:46:35",
-    "updated_at": "2025-03-05T07:18:07"
+    "created_at": "2025-02-11T13:28:11",
+    "updated_at": "2025-03-05T11:18:21"
   },
   {
     "name": "Flame-Code-VLM",
     "full_name": "Flame-Code-VLM/Flame-Code-VLM",
     "description": "Flame is an open-source multimodal AI system designed to translate UI design mockups into high-quality React code. It leverages vision-language modeling, automated data synthesis, and structured training workflows to bridge the gap between design and front-end development.",
     "url": "https://github.com/Flame-Code-VLM/Flame-Code-VLM",
-    "stars": 375,
-    "daily_stars": 6,
+    "stars": 379,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "ai",
@@ -67,15 +85,15 @@
       "vlm"
     ],
     "created_at": "2025-02-10T02:27:32",
-    "updated_at": "2025-03-05T08:34:23"
+    "updated_at": "2025-03-05T12:21:34"
   },
   {
     "name": "recommendarr",
     "full_name": "fingerthief/recommendarr",
     "description": "An AI driven reccommendation system based on Radarr and Sonarr library information",
     "url": "https://github.com/fingerthief/recommendarr",
-    "stars": 180,
-    "daily_stars": 4,
+    "stars": 182,
+    "daily_stars": 2,
     "language": "Vue",
     "topics": [
       "ai",
@@ -90,69 +108,95 @@
       "vuejs"
     ],
     "created_at": "2025-03-01T01:37:53",
-    "updated_at": "2025-03-05T08:18:29"
+    "updated_at": "2025-03-05T12:38:16"
   },
   {
-    "name": "VVQuest",
-    "full_name": "DanielZhangyc/VVQuest",
-    "description": "智能检索张维为表情包",
-    "url": "https://github.com/DanielZhangyc/VVQuest",
-    "stars": 826,
+    "name": "IntelligenceTest",
+    "full_name": "jingtaozhan/IntelligenceTest",
+    "description": "An evaluation framework to test intelligence in a trial-and-error process.",
+    "url": "https://github.com/jingtaozhan/IntelligenceTest",
+    "stars": 11,
     "daily_stars": 2,
-    "language": "Python",
+    "language": "Jupyter Notebook",
     "topics": [
       "artificial-intelligence",
-      "embeddings-word2vec",
-      "python",
-      "streamlit",
-      "streamlit-webapp"
+      "evaluation",
+      "natural-selection",
+      "turing-test"
     ],
-    "created_at": "2025-02-11T13:28:11",
-    "updated_at": "2025-03-05T08:10:44"
+    "created_at": "2025-02-13T14:47:30",
+    "updated_at": "2025-03-05T12:38:08"
   },
   {
-    "name": "gitingest",
-    "full_name": "davidesantangelo/gitingest",
-    "description": "Gitingest is a command-line tool that fetches files from a GitHub repository and generates a consolidated text prompt for your LLMs.",
-    "url": "https://github.com/davidesantangelo/gitingest",
-    "stars": 14,
+    "name": "clickup-mcp-server",
+    "full_name": "TaazKareem/clickup-mcp-server",
+    "description": "ClickUp MCP Server - Integrate ClickUp task management with AI through Model Context Protocol",
+    "url": "https://github.com/TaazKareem/clickup-mcp-server",
+    "stars": 11,
     "daily_stars": 2,
-    "language": "Ruby",
+    "language": "JavaScript",
     "topics": [
-      "cli",
+      "ai",
+      "artificial-intelligence",
+      "lists",
       "llm",
-      "machine-learning",
-      "ruby",
-      "tools"
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "productivity",
+      "spaces",
+      "task-management",
+      "tasks",
+      "workspaces"
     ],
-    "created_at": "2025-03-02T15:56:18",
-    "updated_at": "2025-03-05T05:47:32"
+    "created_at": "2025-02-10T19:51:55",
+    "updated_at": "2025-03-05T10:40:46"
   },
   {
-    "name": "SCSegamba",
-    "full_name": "Karl1109/SCSegamba",
-    "description": "[CVPR 2025] SCSegamba: Lightweight Structure-Aware Vision Mamba for Crack Segmentation in Structures",
-    "url": "https://github.com/Karl1109/SCSegamba",
-    "stars": 23,
+    "name": "leaderboard",
+    "full_name": "steel-dev/leaderboard",
+    "description": "Open leaderboard for browser agents",
+    "url": "https://github.com/steel-dev/leaderboard",
+    "stars": 3,
+    "daily_stars": 2,
+    "language": "Astro",
+    "topics": [
+      "ai-agents",
+      "browser-automation",
+      "llm",
+      "rpa"
+    ],
+    "created_at": "2025-02-27T18:44:24",
+    "updated_at": "2025-03-05T11:16:12"
+  },
+  {
+    "name": "Machine-Learning-Roadmap",
+    "full_name": "Timur-THE-mAIstermind/Machine-Learning-Roadmap",
+    "description": "Machine Learning Roadmap for 2025. Step-by-step guide to become a Data Scientist.  Covers the best free learning resources from Python basics to Deep Learning and MLOps.",
+    "url": "https://github.com/Timur-THE-mAIstermind/Machine-Learning-Roadmap",
+    "stars": 45,
     "daily_stars": 2,
     "language": null,
     "topics": [
-      "computer-vision",
-      "crack",
-      "cvpr2025",
+      "data",
+      "data-mining",
+      "data-science",
       "deep-learning",
-      "lightweight",
-      "segmentation"
+      "genai",
+      "gradient-boosting",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "roadmap"
     ],
-    "created_at": "2025-03-01T04:05:29",
-    "updated_at": "2025-03-05T08:21:32"
+    "created_at": "2025-02-26T06:06:33",
+    "updated_at": "2025-03-05T10:56:36"
   },
   {
     "name": "native-sparse-attention-pytorch",
     "full_name": "lucidrains/native-sparse-attention-pytorch",
     "description": "Implementation of the sparse attention pattern proposed by the Deepseek team in their \"Native Sparse Attention\" paper",
     "url": "https://github.com/lucidrains/native-sparse-attention-pytorch",
-    "stars": 499,
+    "stars": 500,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -161,65 +205,6 @@
       "deep-learning"
     ],
     "created_at": "2025-02-19T03:37:52",
-    "updated_at": "2025-03-05T08:42:15"
-  },
-  {
-    "name": "ai-guide",
-    "full_name": "liyupi/ai-guide",
-    "description": "鱼皮的 AI 知识库",
-    "url": "https://github.com/liyupi/ai-guide",
-    "stars": 119,
-    "daily_stars": 1,
-    "language": "Vue",
-    "topics": [
-      "ai",
-      "algorithm",
-      "artificial-intelligence",
-      "chatgpt",
-      "deep-learning",
-      "deepseek",
-      "deepseek-r1",
-      "generative-ai",
-      "gpt",
-      "llm",
-      "openai",
-      "python",
-      "vue",
-      "vuepress"
-    ],
-    "created_at": "2025-02-13T05:47:46",
-    "updated_at": "2025-03-05T05:32:58"
-  },
-  {
-    "name": "AI-Assistant-Chatbot",
-    "full_name": "hoangsonww/AI-Assistant-Chatbot",
-    "description": "👨🏻‍💻 Meet Lumina – my personal chatbot assistant designed to answer any questions. Powered by Optuna, RAG, LangChain, Llama3, LoRA optimization, and Pinecone, Lumina offers friendly support and smart solutions tailored for all conversations.",
-    "url": "https://github.com/hoangsonww/AI-Assistant-Chatbot",
-    "stars": 18,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "api",
-      "artificial-intelligence",
-      "chat-application",
-      "chatbot",
-      "docker",
-      "express",
-      "fullstack-development",
-      "langchain",
-      "lumina",
-      "machine-learning",
-      "mongodb",
-      "nodejs",
-      "personal-assistant",
-      "python",
-      "rag",
-      "react",
-      "retreival-augmented-generation",
-      "typescript",
-      "vercel"
-    ],
-    "created_at": "2025-02-07T00:43:42",
-    "updated_at": "2025-03-05T05:36:35"
+    "updated_at": "2025-03-05T08:48:33"
   }
 ]
