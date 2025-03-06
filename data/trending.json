@@ -1,48 +1,89 @@
 [
   {
-    "name": "VVQuest",
-    "full_name": "DanielZhangyc/VVQuest",
-    "description": "智能检索张维为表情包",
-    "url": "https://github.com/DanielZhangyc/VVQuest",
-    "stars": 848,
-    "daily_stars": 8,
+    "name": "Ling",
+    "full_name": "inclusionAI/Ling",
+    "description": "Ling is a MoE LLM provided and open-sourced by InclusionAI. ",
+    "url": "https://github.com/inclusionAI/Ling",
+    "stars": 31,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "llm",
+      "llm-reasoning",
+      "machine-learning",
+      "moe",
+      "rl"
+    ],
+    "created_at": "2025-02-19T07:17:18",
+    "updated_at": "2025-03-06T14:03:09"
+  },
+  {
+    "name": "native-sparse-attention-pytorch",
+    "full_name": "lucidrains/native-sparse-attention-pytorch",
+    "description": "Implementation of the sparse attention pattern proposed by the Deepseek team in their \"Native Sparse Attention\" paper",
+    "url": "https://github.com/lucidrains/native-sparse-attention-pytorch",
+    "stars": 507,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "artificial-intelligence",
-      "embeddings-word2vec",
-      "python",
-      "streamlit",
-      "streamlit-webapp"
+      "attention",
+      "deep-learning"
     ],
-    "created_at": "2025-02-11T13:28:11",
-    "updated_at": "2025-03-06T12:44:30"
+    "created_at": "2025-02-19T03:37:52",
+    "updated_at": "2025-03-06T16:07:40"
   },
   {
-    "name": "SCSegamba",
-    "full_name": "Karl1109/SCSegamba",
-    "description": "[CVPR 2025] SCSegamba: Lightweight Structure-Aware Vision Mamba for Crack Segmentation in Structures",
-    "url": "https://github.com/Karl1109/SCSegamba",
-    "stars": 33,
-    "daily_stars": 5,
-    "language": null,
+    "name": "h-edit",
+    "full_name": "nktoan/h-edit",
+    "description": "[CVPR 2025] h-Edit: Effective and Flexible Diffusion-Based Editing via Doob’s h-Transform",
+    "url": "https://github.com/nktoan/h-edit",
+    "stars": 6,
+    "daily_stars": 4,
+    "language": "Python",
     "topics": [
+      "ai",
       "computer-vision",
-      "crack",
       "cvpr2025",
       "deep-learning",
-      "lightweight",
-      "segmentation"
+      "diffusion-models",
+      "image-editing",
+      "image-manipulation",
+      "machine-learning"
     ],
-    "created_at": "2025-03-01T04:05:29",
-    "updated_at": "2025-03-06T11:35:13"
+    "created_at": "2025-03-03T10:59:34",
+    "updated_at": "2025-03-06T15:29:41"
+  },
+  {
+    "name": "recommendarr",
+    "full_name": "fingerthief/recommendarr",
+    "description": "An AI driven reccommendation system based on Radarr and Sonarr library information",
+    "url": "https://github.com/fingerthief/recommendarr",
+    "stars": 190,
+    "daily_stars": 2,
+    "language": "Vue",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "local",
+      "local-llm-integration",
+      "radarr",
+      "recommendation",
+      "self-hosted",
+      "sonarr",
+      "vue",
+      "vuejs"
+    ],
+    "created_at": "2025-03-01T01:37:53",
+    "updated_at": "2025-03-06T15:56:40"
   },
   {
     "name": "Flame-Code-VLM",
     "full_name": "Flame-Code-VLM/Flame-Code-VLM",
     "description": "Flame is an open-source multimodal AI system designed to translate UI design mockups into high-quality React code. It leverages vision-language modeling, automated data synthesis, and structured training workflows to bridge the gap between design and front-end development.",
     "url": "https://github.com/Flame-Code-VLM/Flame-Code-VLM",
-    "stars": 396,
-    "daily_stars": 4,
+    "stars": 398,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "ai",
@@ -58,14 +99,32 @@
       "vlm"
     ],
     "created_at": "2025-02-10T02:27:32",
-    "updated_at": "2025-03-06T11:23:19"
+    "updated_at": "2025-03-06T13:21:53"
+  },
+  {
+    "name": "VVQuest",
+    "full_name": "DanielZhangyc/VVQuest",
+    "description": "智能检索张维为表情包",
+    "url": "https://github.com/DanielZhangyc/VVQuest",
+    "stars": 849,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "embeddings-word2vec",
+      "python",
+      "streamlit",
+      "streamlit-webapp"
+    ],
+    "created_at": "2025-02-11T13:28:11",
+    "updated_at": "2025-03-06T14:35:50"
   },
   {
     "name": "go-attention",
     "full_name": "takara-ai/go-attention",
     "description": "A full attention mechanism and transformer in pure go.",
     "url": "https://github.com/takara-ai/go-attention",
-    "stars": 310,
+    "stars": 311,
     "daily_stars": 1,
     "language": "Go",
     "topics": [
@@ -75,130 +134,74 @@
       "serverless"
     ],
     "created_at": "2025-02-10T15:46:35",
-    "updated_at": "2025-03-06T09:53:21"
+    "updated_at": "2025-03-06T14:16:30"
   },
   {
-    "name": "recommendarr",
-    "full_name": "fingerthief/recommendarr",
-    "description": "An AI driven reccommendation system based on Radarr and Sonarr library information",
-    "url": "https://github.com/fingerthief/recommendarr",
-    "stars": 188,
+    "name": "ai-guide",
+    "full_name": "liyupi/ai-guide",
+    "description": "鱼皮的 AI 知识库",
+    "url": "https://github.com/liyupi/ai-guide",
+    "stars": 124,
     "daily_stars": 1,
     "language": "Vue",
     "topics": [
       "ai",
+      "algorithm",
       "artificial-intelligence",
-      "local",
-      "local-llm-integration",
-      "radarr",
-      "recommendation",
-      "self-hosted",
-      "sonarr",
-      "vue",
-      "vuejs"
-    ],
-    "created_at": "2025-03-01T01:37:53",
-    "updated_at": "2025-03-06T08:56:10"
-  },
-  {
-    "name": "whisper_library",
-    "full_name": "General-Developer/whisper_library",
-    "description": "Whisper Is Library for transcribe sound wav AKA Speech To Text Or Extract Text From Audio",
-    "url": "https://github.com/General-Developer/whisper_library",
-    "stars": 13,
-    "daily_stars": 1,
-    "language": "C++",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "dart",
-      "flutter",
-      "ggml",
-      "machine-learning",
-      "ml",
-      "openai",
-      "speech-to-text",
-      "transcribe",
-      "translate",
-      "whisper"
-    ],
-    "created_at": "2025-02-10T07:35:19",
-    "updated_at": "2025-03-06T12:21:53"
-  },
-  {
-    "name": "local-rag-researcher-deepseek",
-    "full_name": "kaymen99/local-rag-researcher-deepseek",
-    "description": "Local RAG researcher agent built using Langgraph, DeepSeek R1 and Ollama",
-    "url": "https://github.com/kaymen99/local-rag-researcher-deepseek",
-    "stars": 47,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "deepseek-r1",
-      "langchain",
-      "langgraph",
-      "ollama",
-      "rag",
-      "rag-agents",
-      "research-assistant"
-    ],
-    "created_at": "2025-02-06T23:31:15",
-    "updated_at": "2025-03-06T11:37:48"
-  },
-  {
-    "name": "ReAct-AI-Agent-from-Scratch-using-DeepSeek",
-    "full_name": "Wencho8/ReAct-AI-Agent-from-Scratch-using-DeepSeek",
-    "description": "ReAct AI Agent from Scratch using DeepSeek: Handling Memory & Tools without Frameworks",
-    "url": "https://github.com/Wencho8/ReAct-AI-Agent-from-Scratch-using-DeepSeek",
-    "stars": 11,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
+      "chatgpt",
+      "deep-learning",
       "deepseek",
-      "machine-learning",
-      "transformers"
+      "deepseek-r1",
+      "generative-ai",
+      "gpt",
+      "llm",
+      "openai",
+      "python",
+      "vue",
+      "vuepress"
     ],
-    "created_at": "2025-02-16T23:31:39",
-    "updated_at": "2025-03-06T10:05:36"
+    "created_at": "2025-02-13T05:47:46",
+    "updated_at": "2025-03-06T16:05:44"
   },
   {
-    "name": "kokoro-web",
-    "full_name": "eduardolat/kokoro-web",
-    "description": "🔊 Kokoro Web: Free AI text-to-speech, online or self-hosted, OpenAI compatible!",
-    "url": "https://github.com/eduardolat/kokoro-web",
-    "stars": 110,
+    "name": "BixBench",
+    "full_name": "Future-House/BixBench",
+    "description": "Benchmark for LLM-based Agents in Computational Biology",
+    "url": "https://github.com/Future-House/BixBench",
+    "stars": 17,
     "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "kokoro",
-      "kokoro-82m",
-      "kokoro-tts",
-      "machine-learning",
-      "text-to-speech",
-      "tts",
-      "voice",
-      "voice-generation"
-    ],
-    "created_at": "2025-02-09T18:54:22",
-    "updated_at": "2025-03-06T11:53:57"
-  },
-  {
-    "name": "native-sparse-attention-pytorch",
-    "full_name": "lucidrains/native-sparse-attention-pytorch",
-    "description": "Implementation of the sparse attention pattern proposed by the Deepseek team in their \"Native Sparse Attention\" paper",
-    "url": "https://github.com/lucidrains/native-sparse-attention-pytorch",
-    "stars": 502,
-    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "artificial-intelligence",
-      "attention",
-      "deep-learning"
+      "bioinformatics",
+      "language-agents"
     ],
-    "created_at": "2025-02-19T03:37:52",
-    "updated_at": "2025-03-06T05:09:42"
+    "created_at": "2025-02-19T20:30:53",
+    "updated_at": "2025-03-06T16:10:03"
+  },
+  {
+    "name": "Codect",
+    "full_name": "GustyCube/Codect",
+    "description": "A detector for AI-written code",
+    "url": "https://github.com/GustyCube/Codect",
+    "stars": 10,
+    "daily_stars": 1,
+    "language": "CSS",
+    "topics": [
+      "ai-detection",
+      "ai-detector",
+      "artificial-intelligence",
+      "collaborate",
+      "iconscout",
+      "machine-learning",
+      "python",
+      "python-app",
+      "python3",
+      "svelte",
+      "sveltejs",
+      "sveltekit"
+    ],
+    "created_at": "2025-02-12T17:28:31",
+    "updated_at": "2025-03-06T16:32:59"
   }
 ]
