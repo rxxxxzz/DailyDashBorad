@@ -4,8 +4,8 @@
     "full_name": "takara-ai/go-attention",
     "description": "A full attention mechanism and transformer in pure go.",
     "url": "https://github.com/takara-ai/go-attention",
-    "stars": 304,
-    "daily_stars": 3,
+    "stars": 309,
+    "daily_stars": 5,
     "language": "Go",
     "topics": [
       "artificial-intelligence",
@@ -14,39 +14,34 @@
       "serverless"
     ],
     "created_at": "2025-02-10T15:46:35",
-    "updated_at": "2025-03-06T04:38:38"
+    "updated_at": "2025-03-06T07:14:13"
   },
   {
-    "name": "Flame-Code-VLM",
-    "full_name": "Flame-Code-VLM/Flame-Code-VLM",
-    "description": "Flame is an open-source multimodal AI system designed to translate UI design mockups into high-quality React code. It leverages vision-language modeling, automated data synthesis, and structured training workflows to bridge the gap between design and front-end development.",
-    "url": "https://github.com/Flame-Code-VLM/Flame-Code-VLM",
-    "stars": 391,
-    "daily_stars": 3,
-    "language": "Python",
+    "name": "SCSegamba",
+    "full_name": "Karl1109/SCSegamba",
+    "description": "[CVPR 2025] SCSegamba: Lightweight Structure-Aware Vision Mamba for Crack Segmentation in Structures",
+    "url": "https://github.com/Karl1109/SCSegamba",
+    "stars": 28,
+    "daily_stars": 2,
+    "language": null,
     "topics": [
-      "ai",
-      "code-generation",
-      "data-synthesis",
+      "computer-vision",
+      "crack",
+      "cvpr2025",
       "deep-learning",
-      "frontend",
-      "frontend-development",
-      "multimodal",
-      "open-source",
-      "react",
-      "vision-language-model",
-      "vlm"
+      "lightweight",
+      "segmentation"
     ],
-    "created_at": "2025-02-10T02:27:32",
-    "updated_at": "2025-03-06T03:44:40"
+    "created_at": "2025-03-01T04:05:29",
+    "updated_at": "2025-03-06T08:37:04"
   },
   {
     "name": "VVQuest",
     "full_name": "DanielZhangyc/VVQuest",
     "description": "智能检索张维为表情包",
     "url": "https://github.com/DanielZhangyc/VVQuest",
-    "stars": 839,
-    "daily_stars": 2,
+    "stars": 840,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "artificial-intelligence",
@@ -56,14 +51,14 @@
       "streamlit-webapp"
     ],
     "created_at": "2025-02-11T13:28:11",
-    "updated_at": "2025-03-06T03:51:05"
+    "updated_at": "2025-03-06T08:33:19"
   },
   {
     "name": "native-sparse-attention-pytorch",
     "full_name": "lucidrains/native-sparse-attention-pytorch",
     "description": "Implementation of the sparse attention pattern proposed by the Deepseek team in their \"Native Sparse Attention\" paper",
     "url": "https://github.com/lucidrains/native-sparse-attention-pytorch",
-    "stars": 501,
+    "stars": 502,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -72,37 +67,14 @@
       "deep-learning"
     ],
     "created_at": "2025-02-19T03:37:52",
-    "updated_at": "2025-03-06T02:56:10"
-  },
-  {
-    "name": "recommendarr",
-    "full_name": "fingerthief/recommendarr",
-    "description": "An AI driven reccommendation system based on Radarr and Sonarr library information",
-    "url": "https://github.com/fingerthief/recommendarr",
-    "stars": 187,
-    "daily_stars": 1,
-    "language": "Vue",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "local",
-      "local-llm-integration",
-      "radarr",
-      "recommendation",
-      "self-hosted",
-      "sonarr",
-      "vue",
-      "vuejs"
-    ],
-    "created_at": "2025-03-01T01:37:53",
-    "updated_at": "2025-03-06T03:27:15"
+    "updated_at": "2025-03-06T05:09:42"
   },
   {
     "name": "ai-guide",
     "full_name": "liyupi/ai-guide",
     "description": "鱼皮的 AI 知识库",
     "url": "https://github.com/liyupi/ai-guide",
-    "stars": 122,
+    "stars": 123,
     "daily_stars": 1,
     "language": "Vue",
     "topics": [
@@ -122,14 +94,43 @@
       "vuepress"
     ],
     "created_at": "2025-02-13T05:47:46",
-    "updated_at": "2025-03-06T03:14:45"
+    "updated_at": "2025-03-06T05:33:44"
+  },
+  {
+    "name": "Notebook-Git-Colab",
+    "full_name": "JonusNattapong/Notebook-Git-Colab",
+    "description": "collection of resources for learning about Artificial Intelligence (AI) and Large Language Models (LLMs). It includes fundamental topics, recommended notebooks, online courses, tools, datasets, and advanced techniques for developing and fine-tuning AI models.",
+    "url": "https://github.com/JonusNattapong/Notebook-Git-Colab",
+    "stars": 58,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "artificial-intelligence",
+      "artificial-intelligence-algorithms",
+      "fine-tuning",
+      "fine-tuning-bert",
+      "fine-tuning-computer-vision",
+      "fine-tuning-diffusion",
+      "fine-tuning-llm",
+      "fine-tuning-nlp",
+      "intelligence",
+      "large-language-models",
+      "learning",
+      "learning-python",
+      "llms",
+      "llmstxt",
+      "resources",
+      "tools"
+    ],
+    "created_at": "2025-03-03T04:34:04",
+    "updated_at": "2025-03-06T07:24:44"
   },
   {
     "name": "BixBench",
     "full_name": "Future-House/BixBench",
     "description": "Benchmark for LLM-based Agents in Computational Biology",
     "url": "https://github.com/Future-House/BixBench",
-    "stars": 15,
+    "stars": 16,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -138,67 +139,71 @@
       "language-agents"
     ],
     "created_at": "2025-02-19T20:30:53",
-    "updated_at": "2025-03-06T04:39:31"
+    "updated_at": "2025-03-06T08:11:01"
   },
   {
-    "name": "ai-staff-dev-agent-v2",
-    "full_name": "tony-42069/ai-staff-dev-agent-v2",
-    "description": "A modern platform for creating, managing, and distributing AI agents that can replace traditional remote staffing roles.",
-    "url": "https://github.com/tony-42069/ai-staff-dev-agent-v2",
-    "stars": 4,
+    "name": "clickup-mcp-server",
+    "full_name": "TaazKareem/clickup-mcp-server",
+    "description": "ClickUp MCP Server - Integrate ClickUp task management with AI through Model Context Protocol",
+    "url": "https://github.com/TaazKareem/clickup-mcp-server",
+    "stars": 12,
     "daily_stars": 1,
-    "language": "TypeScript",
+    "language": "JavaScript",
     "topics": [
-      "agent-creation",
       "ai",
-      "ai-agent",
-      "ai-agents",
-      "ai-agents-framework",
-      "artificial-intelligence"
+      "artificial-intelligence",
+      "lists",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "productivity",
+      "spaces",
+      "task-management",
+      "tasks",
+      "workspaces"
     ],
-    "created_at": "2025-02-27T00:49:38",
-    "updated_at": "2025-03-06T04:23:45"
+    "created_at": "2025-02-10T19:51:55",
+    "updated_at": "2025-03-06T08:40:23"
   },
   {
-    "name": "local-rag-researcher-deepseek",
-    "full_name": "kaymen99/local-rag-researcher-deepseek",
-    "description": "Local RAG researcher agent built using Langgraph, DeepSeek R1 and Ollama",
-    "url": "https://github.com/kaymen99/local-rag-researcher-deepseek",
-    "stars": 46,
+    "name": "ai-gateway",
+    "full_name": "wx-yz/ai-gateway",
+    "description": "Developer focused AI Gateway",
+    "url": "https://github.com/wx-yz/ai-gateway",
+    "stars": 10,
     "daily_stars": 1,
-    "language": "Python",
+    "language": "Ballerina",
     "topics": [
-      "ai-agents",
-      "deepseek-r1",
-      "langchain",
-      "langgraph",
-      "ollama",
-      "rag",
-      "rag-agents",
-      "research-assistant"
+      "ai",
+      "ai-gateway",
+      "artificial-intelligence",
+      "docker",
+      "llms"
     ],
-    "created_at": "2025-02-06T23:31:15",
-    "updated_at": "2025-03-06T02:40:48"
+    "created_at": "2025-02-14T01:52:54",
+    "updated_at": "2025-03-06T05:32:33"
   },
   {
-    "name": "awesome-ai-ml-resources",
-    "full_name": "armankhondker/awesome-ai-ml-resources",
-    "description": "Learn AI/ML concepts and prepare for interviews using free resources.",
-    "url": "https://github.com/armankhondker/awesome-ai-ml-resources",
-    "stars": 2282,
+    "name": "Machine-Learning-Roadmap",
+    "full_name": "Timur-THE-mAIstermind/Machine-Learning-Roadmap",
+    "description": "Machine Learning Roadmap for 2025. Step-by-step guide to become a Data Scientist.  Covers the best free learning resources from Python basics to Deep Learning and MLOps.",
+    "url": "https://github.com/Timur-THE-mAIstermind/Machine-Learning-Roadmap",
+    "stars": 53,
     "daily_stars": 1,
     "language": null,
     "topics": [
-      "artifical-intelligense",
-      "computer-science",
+      "data",
+      "data-mining",
+      "data-science",
       "deep-learning",
-      "generative-ai",
+      "genai",
+      "gradient-boosting",
       "machine-learning",
-      "neural-networks",
-      "python",
+      "machine-learning-algorithms",
       "roadmap"
     ],
-    "created_at": "2025-02-09T00:12:17",
-    "updated_at": "2025-03-06T02:23:05"
+    "created_at": "2025-02-26T06:06:33",
+    "updated_at": "2025-03-06T06:39:57"
   }
 ]
