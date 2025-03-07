@@ -1,10 +1,66 @@
 [
   {
+    "name": "go-attention",
+    "full_name": "takara-ai/go-attention",
+    "description": "A full attention mechanism and transformer in pure go.",
+    "url": "https://github.com/takara-ai/go-attention",
+    "stars": 314,
+    "daily_stars": 3,
+    "language": "Go",
+    "topics": [
+      "artificial-intelligence",
+      "golang",
+      "machine-learning",
+      "serverless"
+    ],
+    "created_at": "2025-02-10T15:46:35",
+    "updated_at": "2025-03-07T01:01:59"
+  },
+  {
+    "name": "Ling",
+    "full_name": "inclusionAI/Ling",
+    "description": "Ling is a MoE LLM provided and open-sourced by InclusionAI. ",
+    "url": "https://github.com/inclusionAI/Ling",
+    "stars": 34,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "llm",
+      "llm-reasoning",
+      "machine-learning",
+      "moe",
+      "rl"
+    ],
+    "created_at": "2025-02-19T07:17:18",
+    "updated_at": "2025-03-07T02:06:52"
+  },
+  {
+    "name": "h-edit",
+    "full_name": "nktoan/h-edit",
+    "description": "[CVPR 2025] h-Edit: Effective and Flexible Diffusion-Based Editing via Doob’s h-Transform",
+    "url": "https://github.com/nktoan/h-edit",
+    "stars": 10,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "computer-vision",
+      "cvpr2025",
+      "deep-learning",
+      "diffusion-models",
+      "image-editing",
+      "image-manipulation",
+      "machine-learning"
+    ],
+    "created_at": "2025-03-03T10:59:34",
+    "updated_at": "2025-03-07T01:12:58"
+  },
+  {
     "name": "recommendarr",
     "full_name": "fingerthief/recommendarr",
     "description": "An AI driven reccommendation system based on Radarr and Sonarr library information",
     "url": "https://github.com/fingerthief/recommendarr",
-    "stars": 192,
+    "stars": 194,
     "daily_stars": 2,
     "language": "Vue",
     "topics": [
@@ -20,167 +76,107 @@
       "vuejs"
     ],
     "created_at": "2025-03-01T01:37:53",
-    "updated_at": "2025-03-06T18:45:18"
+    "updated_at": "2025-03-07T00:58:40"
   },
   {
-    "name": "Notebook-Git-Colab",
-    "full_name": "JonusNattapong/Notebook-Git-Colab",
-    "description": "collection of resources for learning about Artificial Intelligence (AI) and Large Language Models (LLMs). It includes fundamental topics, recommended notebooks, online courses, tools, datasets, and advanced techniques for developing and fine-tuning AI models.",
-    "url": "https://github.com/JonusNattapong/Notebook-Git-Colab",
-    "stars": 60,
-    "daily_stars": 2,
-    "language": null,
+    "name": "native-sparse-attention-pytorch",
+    "full_name": "lucidrains/native-sparse-attention-pytorch",
+    "description": "Implementation of the sparse attention pattern proposed by the Deepseek team in their \"Native Sparse Attention\" paper",
+    "url": "https://github.com/lucidrains/native-sparse-attention-pytorch",
+    "stars": 508,
+    "daily_stars": 1,
+    "language": "Python",
     "topics": [
       "artificial-intelligence",
-      "artificial-intelligence-algorithms",
-      "fine-tuning",
-      "fine-tuning-bert",
-      "fine-tuning-computer-vision",
-      "fine-tuning-diffusion",
-      "fine-tuning-llm",
-      "fine-tuning-nlp",
-      "intelligence",
-      "large-language-models",
-      "learning",
-      "learning-python",
-      "llms",
-      "llmstxt",
-      "resources",
-      "tools"
+      "attention",
+      "deep-learning"
     ],
-    "created_at": "2025-03-03T04:34:04",
-    "updated_at": "2025-03-06T18:26:40"
+    "created_at": "2025-02-19T03:37:52",
+    "updated_at": "2025-03-06T23:14:12"
   },
   {
-    "name": "kokoro-web",
-    "full_name": "eduardolat/kokoro-web",
-    "description": "🔊 Kokoro Web: Free AI text-to-speech, online or self-hosted, OpenAI compatible!",
-    "url": "https://github.com/eduardolat/kokoro-web",
-    "stars": 113,
-    "daily_stars": 2,
+    "name": "obsidian-vision-recall",
+    "full_name": "travisvn/obsidian-vision-recall",
+    "description": "Transform screenshots into searchable Obsidian notes using AI vision and text analysis",
+    "url": "https://github.com/travisvn/obsidian-vision-recall",
+    "stars": 7,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "ai",
-      "kokoro",
-      "kokoro-82m",
-      "kokoro-tts",
-      "machine-learning",
-      "text-to-speech",
-      "tts",
-      "voice",
-      "voice-generation"
-    ],
-    "created_at": "2025-02-09T18:54:22",
-    "updated_at": "2025-03-06T19:14:06"
-  },
-  {
-    "name": "ai-guide",
-    "full_name": "liyupi/ai-guide",
-    "description": "鱼皮的 AI 知识库",
-    "url": "https://github.com/liyupi/ai-guide",
-    "stars": 125,
-    "daily_stars": 1,
-    "language": "Vue",
-    "topics": [
-      "ai",
-      "algorithm",
       "artificial-intelligence",
-      "chatgpt",
-      "deep-learning",
-      "deepseek",
-      "deepseek-r1",
-      "generative-ai",
+      "automation",
       "gpt",
       "llm",
+      "obsidian",
+      "obsidian-md",
+      "obsidian-plugin",
+      "ocr",
+      "ollama",
       "openai",
-      "python",
-      "vue",
-      "vuepress"
+      "openrouter",
+      "vision"
     ],
-    "created_at": "2025-02-13T05:47:46",
-    "updated_at": "2025-03-06T16:58:49"
+    "created_at": "2025-02-06T20:52:02",
+    "updated_at": "2025-03-06T21:45:03"
   },
   {
-    "name": "deep-cross-attention",
-    "full_name": "lucidrains/deep-cross-attention",
-    "description": "Implementation of the proposed DeepCrossAttention by Heddes et al while at Google research, in Pytorch",
-    "url": "https://github.com/lucidrains/deep-cross-attention",
-    "stars": 79,
+    "name": "aiops-nexus",
+    "full_name": "techednelson/aiops-nexus",
+    "description": "AIOps Nexus is an open-source intelligent operations platform that uses AI to simplify IT operations through automated log analysis and effective problem-solving.",
+    "url": "https://github.com/techednelson/aiops-nexus",
+    "stars": 6,
     "daily_stars": 1,
-    "language": null,
+    "language": "Python",
     "topics": [
+      "aiops",
       "artificial-intelligence",
-      "attention-mechanism",
-      "deep-learning",
-      "residuals",
-      "transformers"
+      "automation",
+      "devops",
+      "docker",
+      "docker-compose",
+      "it-operations",
+      "kubernetes",
+      "langchain-python",
+      "large-language-models",
+      "linux",
+      "machine-learning",
+      "monitoring",
+      "ollama",
+      "openwebui",
+      "platform-engineering",
+      "poetry-python",
+      "python3",
+      "site-reliability-engineering-sre",
+      "vagrant"
     ],
-    "created_at": "2025-02-18T15:28:43",
-    "updated_at": "2025-03-06T18:04:57"
+    "created_at": "2025-02-08T23:07:10",
+    "updated_at": "2025-03-06T20:54:32"
   },
   {
-    "name": "IntelligenceTest",
-    "full_name": "jingtaozhan/IntelligenceTest",
-    "description": "An evaluation framework to test intelligence in a trial-and-error process.",
-    "url": "https://github.com/jingtaozhan/IntelligenceTest",
-    "stars": 13,
+    "name": "agent-leaderboard",
+    "full_name": "rungalileo/agent-leaderboard",
+    "description": "Ranking LLMs on agentic tasks",
+    "url": "https://github.com/rungalileo/agent-leaderboard",
+    "stars": 94,
     "daily_stars": 1,
     "language": "Jupyter Notebook",
     "topics": [
-      "artificial-intelligence",
-      "evaluation",
-      "natural-selection",
-      "turing-test"
-    ],
-    "created_at": "2025-02-13T14:47:30",
-    "updated_at": "2025-03-06T19:16:07"
-  },
-  {
-    "name": "MarkMind",
-    "full_name": "migsilva89/MarkMind",
-    "description": "AI-powered bookmark organization that helps you keep your bookmarks clean and organized using artificial intelligence.",
-    "url": "https://github.com/migsilva89/MarkMind",
-    "stars": 4,
-    "daily_stars": 1,
-    "language": "JavaScript",
-    "topics": [
       "ai",
-      "api",
-      "artificial-intelligence",
-      "chrome-extension",
-      "gemini",
-      "google",
-      "javascript",
-      "productivity",
-      "tools"
-    ],
-    "created_at": "2025-02-22T15:49:03",
-    "updated_at": "2025-03-06T20:27:06"
-  },
-  {
-    "name": "skyflo",
-    "full_name": "skyflo-ai/skyflo",
-    "description": "AI Agents for the Cloud.",
-    "url": "https://github.com/skyflo-ai/skyflo",
-    "stars": 6,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "agentic-ai",
       "ai-agents",
-      "cloud",
-      "devops",
-      "knowledge-graph"
+      "ai-evaluation",
+      "evaluation",
+      "llms"
     ],
-    "created_at": "2025-02-28T13:49:42",
-    "updated_at": "2025-03-06T17:43:31"
+    "created_at": "2025-02-10T13:49:20",
+    "updated_at": "2025-03-07T00:58:58"
   },
   {
     "name": "awesome-ai-ml-resources",
     "full_name": "armankhondker/awesome-ai-ml-resources",
     "description": "Learn AI/ML concepts and prepare for interviews using free resources.",
     "url": "https://github.com/armankhondker/awesome-ai-ml-resources",
-    "stars": 2284,
+    "stars": 2285,
     "daily_stars": 1,
     "language": null,
     "topics": [
@@ -194,27 +190,30 @@
       "roadmap"
     ],
     "created_at": "2025-02-09T00:12:17",
-    "updated_at": "2025-03-06T16:47:36"
+    "updated_at": "2025-03-06T23:13:36"
   },
   {
-    "name": "h-edit",
-    "full_name": "nktoan/h-edit",
-    "description": "[CVPR 2025] h-Edit: Effective and Flexible Diffusion-Based Editing via Doob’s h-Transform",
-    "url": "https://github.com/nktoan/h-edit",
-    "stars": 7,
+    "name": "Flame-Code-VLM",
+    "full_name": "Flame-Code-VLM/Flame-Code-VLM",
+    "description": "Flame is an open-source multimodal AI system designed to translate UI design mockups into high-quality React code. It leverages vision-language modeling, automated data synthesis, and structured training workflows to bridge the gap between design and front-end development.",
+    "url": "https://github.com/Flame-Code-VLM/Flame-Code-VLM",
+    "stars": 400,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai",
-      "computer-vision",
-      "cvpr2025",
+      "code-generation",
+      "data-synthesis",
       "deep-learning",
-      "diffusion-models",
-      "image-editing",
-      "image-manipulation",
-      "machine-learning"
+      "frontend",
+      "frontend-development",
+      "multimodal",
+      "open-source",
+      "react",
+      "vision-language-model",
+      "vlm"
     ],
-    "created_at": "2025-03-03T10:59:34",
-    "updated_at": "2025-03-06T19:43:43"
+    "created_at": "2025-02-10T02:27:32",
+    "updated_at": "2025-03-07T01:40:58"
   }
 ]
