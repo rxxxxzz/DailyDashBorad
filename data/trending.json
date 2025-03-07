@@ -4,8 +4,8 @@
     "full_name": "inclusionAI/Ling",
     "description": "Ling is a MoE LLM provided and open-sourced by InclusionAI. ",
     "url": "https://github.com/inclusionAI/Ling",
-    "stars": 43,
-    "daily_stars": 9,
+    "stars": 47,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "llm",
@@ -15,15 +15,15 @@
       "rl"
     ],
     "created_at": "2025-02-19T07:17:18",
-    "updated_at": "2025-03-07T04:26:49"
+    "updated_at": "2025-03-07T08:09:58"
   },
   {
     "name": "VVQuest",
     "full_name": "DanielZhangyc/VVQuest",
     "description": "智能检索张维为表情包",
     "url": "https://github.com/DanielZhangyc/VVQuest",
-    "stars": 851,
-    "daily_stars": 2,
+    "stars": 854,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "artificial-intelligence",
@@ -33,14 +33,159 @@
       "streamlit-webapp"
     ],
     "created_at": "2025-02-11T13:28:11",
-    "updated_at": "2025-03-07T03:42:06"
+    "updated_at": "2025-03-07T08:23:38"
+  },
+  {
+    "name": "h-edit",
+    "full_name": "nktoan/h-edit",
+    "description": "[CVPR 2025] h-Edit: Effective and Flexible Diffusion-Based Editing via Doob’s h-Transform",
+    "url": "https://github.com/nktoan/h-edit",
+    "stars": 14,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "computer-vision",
+      "cvpr2025",
+      "deep-learning",
+      "diffusion-models",
+      "image-editing",
+      "image-manipulation",
+      "machine-learning"
+    ],
+    "created_at": "2025-03-03T10:59:34",
+    "updated_at": "2025-03-07T07:28:04"
+  },
+  {
+    "name": "manus-guide",
+    "full_name": "hodorwang/manus-guide",
+    "description": "Guide for manus - general AI agent that bridges minds and actions",
+    "url": "https://github.com/hodorwang/manus-guide",
+    "stars": 4,
+    "daily_stars": 3,
+    "language": "MDX",
+    "topics": [
+      "agent",
+      "agi",
+      "ai",
+      "guide",
+      "manus",
+      "manus-ai",
+      "tutorial",
+      "user-guide",
+      "workflow"
+    ],
+    "created_at": "2025-03-06T19:34:05",
+    "updated_at": "2025-03-07T07:15:00"
+  },
+  {
+    "name": "native-sparse-attention-pytorch",
+    "full_name": "lucidrains/native-sparse-attention-pytorch",
+    "description": "Implementation of the sparse attention pattern proposed by the Deepseek team in their \"Native Sparse Attention\" paper",
+    "url": "https://github.com/lucidrains/native-sparse-attention-pytorch",
+    "stars": 510,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "attention",
+      "deep-learning"
+    ],
+    "created_at": "2025-02-19T03:37:52",
+    "updated_at": "2025-03-07T07:12:22"
+  },
+  {
+    "name": "go-attention",
+    "full_name": "takara-ai/go-attention",
+    "description": "A full attention mechanism and transformer in pure go.",
+    "url": "https://github.com/takara-ai/go-attention",
+    "stars": 316,
+    "daily_stars": 2,
+    "language": "Go",
+    "topics": [
+      "artificial-intelligence",
+      "golang",
+      "machine-learning",
+      "serverless"
+    ],
+    "created_at": "2025-02-10T15:46:35",
+    "updated_at": "2025-03-07T07:32:04"
+  },
+  {
+    "name": "recommendarr",
+    "full_name": "fingerthief/recommendarr",
+    "description": "An AI driven reccommendation system based on Radarr and Sonarr library information",
+    "url": "https://github.com/fingerthief/recommendarr",
+    "stars": 195,
+    "daily_stars": 1,
+    "language": "Vue",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "local",
+      "local-llm-integration",
+      "radarr",
+      "recommendation",
+      "self-hosted",
+      "sonarr",
+      "vue",
+      "vuejs"
+    ],
+    "created_at": "2025-03-01T01:37:53",
+    "updated_at": "2025-03-07T08:15:15"
+  },
+  {
+    "name": "ai-guide",
+    "full_name": "liyupi/ai-guide",
+    "description": "鱼皮的 AI 知识库",
+    "url": "https://github.com/liyupi/ai-guide",
+    "stars": 126,
+    "daily_stars": 1,
+    "language": "Vue",
+    "topics": [
+      "ai",
+      "algorithm",
+      "artificial-intelligence",
+      "chatgpt",
+      "deep-learning",
+      "deepseek",
+      "deepseek-r1",
+      "generative-ai",
+      "gpt",
+      "llm",
+      "openai",
+      "python",
+      "vue",
+      "vuepress"
+    ],
+    "created_at": "2025-02-13T05:47:46",
+    "updated_at": "2025-03-07T05:58:09"
+  },
+  {
+    "name": "improving-transformers-world-model-for-rl",
+    "full_name": "lucidrains/improving-transformers-world-model-for-rl",
+    "description": "Implementation of the new SOTA for model based RL, from the paper \"Improving Transformer World Models for Data-Efficient RL\", in Pytorch",
+    "url": "https://github.com/lucidrains/improving-transformers-world-model-for-rl",
+    "stars": 73,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "artificial-intelligence",
+      "attention-mechanism",
+      "deep-learning",
+      "model-based-reinforcement-learning",
+      "transformers",
+      "world-models"
+    ],
+    "created_at": "2025-02-09T15:00:51",
+    "updated_at": "2025-03-07T05:40:23"
   },
   {
     "name": "Notebook-Git-Colab",
     "full_name": "JonusNattapong/Notebook-Git-Colab",
     "description": "collection of resources for learning about Artificial Intelligence (AI) and Large Language Models (LLMs). It includes fundamental topics, recommended notebooks, online courses, tools, datasets, and advanced techniques for developing and fine-tuning AI models.",
     "url": "https://github.com/JonusNattapong/Notebook-Git-Colab",
-    "stars": 61,
+    "stars": 62,
     "daily_stars": 1,
     "language": null,
     "topics": [
@@ -62,177 +207,6 @@
       "tools"
     ],
     "created_at": "2025-03-03T04:34:04",
-    "updated_at": "2025-03-07T04:39:24"
-  },
-  {
-    "name": "A5-PII-Anonymizer",
-    "full_name": "AgenticA5/A5-PII-Anonymizer",
-    "description": "Desktop App with Built-In LLM for Removing Personal Identifiable Information in Documents",
-    "url": "https://github.com/AgenticA5/A5-PII-Anonymizer",
-    "stars": 38,
-    "daily_stars": 1,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "ai-safety",
-      "alm",
-      "anonymisation",
-      "anonymity",
-      "anonymization",
-      "artificial-intelligence",
-      "desktop-application",
-      "electron",
-      "electron-desktop",
-      "gdpr",
-      "hipaa",
-      "linux",
-      "llm",
-      "macos",
-      "personal-identifiable-information",
-      "pii",
-      "privacy",
-      "reasoning",
-      "windows"
-    ],
-    "created_at": "2025-02-17T22:10:04",
-    "updated_at": "2025-03-07T02:12:24"
-  },
-  {
-    "name": "Codect",
-    "full_name": "GustyCube/Codect",
-    "description": "A detector for AI-written code",
-    "url": "https://github.com/GustyCube/Codect",
-    "stars": 10,
-    "daily_stars": 1,
-    "language": "CSS",
-    "topics": [
-      "ai-detection",
-      "ai-detector",
-      "artificial-intelligence",
-      "collaborate",
-      "iconscout",
-      "machine-learning",
-      "python",
-      "python-app",
-      "python3",
-      "svelte",
-      "sveltejs",
-      "sveltekit"
-    ],
-    "created_at": "2025-02-12T17:28:31",
-    "updated_at": "2025-03-07T02:29:00"
-  },
-  {
-    "name": "BoT",
-    "full_name": "zihao-ai/BoT",
-    "description": "Beak long thought processes of o1-like LLMs",
-    "url": "https://github.com/zihao-ai/BoT",
-    "stars": 21,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "backdoor-attacks",
-      "chain-of-thought",
-      "deepseek",
-      "deepseek-r1",
-      "large-language-models",
-      "qwq",
-      "reasoning-language-models"
-    ],
-    "created_at": "2025-02-17T08:09:39",
-    "updated_at": "2025-03-07T03:13:25"
-  },
-  {
-    "name": "laravel",
-    "full_name": "grok-php/laravel",
-    "description": "Seamlessly integrate Grok AI into Laravel applications with an elegant, developer-friendly package. Leverage powerful AI models for chat, automation, and NLP, while maintaining Laravel's expressive simplicity.",
-    "url": "https://github.com/grok-php/laravel",
-    "stars": 125,
-    "daily_stars": 1,
-    "language": "PHP",
-    "topics": [
-      "ai-api",
-      "ai-assistant",
-      "ai-powered-applications",
-      "ai-sdk",
-      "chatbot",
-      "laravel",
-      "laravel-ai",
-      "machine-learning",
-      "php-ai-sdk",
-      "rest-api",
-      "x-ai",
-      "x-ai-grok",
-      "x-ai-grok-2"
-    ],
-    "created_at": "2025-02-07T02:02:18",
-    "updated_at": "2025-03-07T03:33:24"
-  },
-  {
-    "name": "h-edit",
-    "full_name": "nktoan/h-edit",
-    "description": "[CVPR 2025] h-Edit: Effective and Flexible Diffusion-Based Editing via Doob’s h-Transform",
-    "url": "https://github.com/nktoan/h-edit",
-    "stars": 11,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "computer-vision",
-      "cvpr2025",
-      "deep-learning",
-      "diffusion-models",
-      "image-editing",
-      "image-manipulation",
-      "machine-learning"
-    ],
-    "created_at": "2025-03-03T10:59:34",
-    "updated_at": "2025-03-07T02:29:28"
-  },
-  {
-    "name": "Flame-Code-VLM",
-    "full_name": "Flame-Code-VLM/Flame-Code-VLM",
-    "description": "Flame is an open-source multimodal AI system designed to translate UI design mockups into high-quality React code. It leverages vision-language modeling, automated data synthesis, and structured training workflows to bridge the gap between design and front-end development.",
-    "url": "https://github.com/Flame-Code-VLM/Flame-Code-VLM",
-    "stars": 401,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "code-generation",
-      "data-synthesis",
-      "deep-learning",
-      "frontend",
-      "frontend-development",
-      "multimodal",
-      "open-source",
-      "react",
-      "vision-language-model",
-      "vlm"
-    ],
-    "created_at": "2025-02-10T02:27:32",
-    "updated_at": "2025-03-07T02:26:36"
-  },
-  {
-    "name": "IEEE_JSTARS_NL2Net",
-    "full_name": "DegangWang97/IEEE_JSTARS_NL2Net",
-    "description": "[JSTARS 2025] Non-Local and Local Feature-Coupled Self-Supervised Network for Hyperspectral Anomaly Detection",
-    "url": "https://github.com/DegangWang97/IEEE_JSTARS_NL2Net",
-    "stars": 4,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "blind-spot-network",
-      "cnn",
-      "deep-learning",
-      "hyperspectral-anomaly-detection",
-      "non-local-network",
-      "pytorch-implementation",
-      "self-supervised-learning",
-      "transformer"
-    ],
-    "created_at": "2025-03-03T03:33:25",
-    "updated_at": "2025-03-07T03:02:30"
+    "updated_at": "2025-03-07T07:03:35"
   }
 ]
