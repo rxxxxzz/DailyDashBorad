@@ -1,11 +1,29 @@
 [
   {
+    "name": "VVQuest",
+    "full_name": "DanielZhangyc/VVQuest",
+    "description": "智能检索张维为表情包",
+    "url": "https://github.com/DanielZhangyc/VVQuest",
+    "stars": 873,
+    "daily_stars": 5,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "embeddings-word2vec",
+      "python",
+      "streamlit",
+      "streamlit-webapp"
+    ],
+    "created_at": "2025-02-11T13:28:11",
+    "updated_at": "2025-03-09T16:19:06"
+  },
+  {
     "name": "go-attention",
     "full_name": "takara-ai/go-attention",
     "description": "A full attention mechanism and transformer in pure go.",
     "url": "https://github.com/takara-ai/go-attention",
-    "stars": 344,
-    "daily_stars": 7,
+    "stars": 349,
+    "daily_stars": 5,
     "language": "Go",
     "topics": [
       "artificial-intelligence",
@@ -14,15 +32,48 @@
       "serverless"
     ],
     "created_at": "2025-02-10T15:46:35",
-    "updated_at": "2025-03-09T12:34:58"
+    "updated_at": "2025-03-09T16:26:45"
+  },
+  {
+    "name": "IntelligenceTest",
+    "full_name": "jingtaozhan/IntelligenceTest",
+    "description": "An evaluation framework to test intelligence in a trial-and-error process.",
+    "url": "https://github.com/jingtaozhan/IntelligenceTest",
+    "stars": 15,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "artificial-intelligence",
+      "evaluation",
+      "natural-selection",
+      "turing-test"
+    ],
+    "created_at": "2025-02-13T14:47:30",
+    "updated_at": "2025-03-09T14:16:44"
+  },
+  {
+    "name": "native-sparse-attention-pytorch",
+    "full_name": "lucidrains/native-sparse-attention-pytorch",
+    "description": "Implementation of the sparse attention pattern proposed by the Deepseek team in their \"Native Sparse Attention\" paper",
+    "url": "https://github.com/lucidrains/native-sparse-attention-pytorch",
+    "stars": 515,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "attention",
+      "deep-learning"
+    ],
+    "created_at": "2025-02-19T03:37:52",
+    "updated_at": "2025-03-09T15:15:34"
   },
   {
     "name": "recommendarr",
     "full_name": "fingerthief/recommendarr",
     "description": "An AI driven reccommendation system based on Radarr and Sonarr library information",
     "url": "https://github.com/fingerthief/recommendarr",
-    "stars": 234,
-    "daily_stars": 5,
+    "stars": 235,
+    "daily_stars": 1,
     "language": "Vue",
     "topics": [
       "ai",
@@ -37,136 +88,14 @@
       "vuejs"
     ],
     "created_at": "2025-03-01T01:37:53",
-    "updated_at": "2025-03-09T11:51:05"
-  },
-  {
-    "name": "kokoro-web",
-    "full_name": "eduardolat/kokoro-web",
-    "description": "🔊 Kokoro Web: Free AI text-to-speech, online or self-hosted, OpenAI compatible!",
-    "url": "https://github.com/eduardolat/kokoro-web",
-    "stars": 137,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "kokoro",
-      "kokoro-82m",
-      "kokoro-tts",
-      "machine-learning",
-      "text-to-speech",
-      "tts",
-      "voice",
-      "voice-generation"
-    ],
-    "created_at": "2025-02-09T18:54:22",
-    "updated_at": "2025-03-09T10:09:18"
-  },
-  {
-    "name": "awesome-ai-ml-resources",
-    "full_name": "armankhondker/awesome-ai-ml-resources",
-    "description": "Learn AI/ML concepts and prepare for interviews using free resources.",
-    "url": "https://github.com/armankhondker/awesome-ai-ml-resources",
-    "stars": 2301,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "artifical-intelligense",
-      "computer-science",
-      "deep-learning",
-      "generative-ai",
-      "machine-learning",
-      "neural-networks",
-      "python",
-      "roadmap"
-    ],
-    "created_at": "2025-02-09T00:12:17",
-    "updated_at": "2025-03-09T11:19:00"
-  },
-  {
-    "name": "h-edit",
-    "full_name": "nktoan/h-edit",
-    "description": "[CVPR 2025] h-Edit: Effective and Flexible Diffusion-Based Editing via Doob’s h-Transform",
-    "url": "https://github.com/nktoan/h-edit",
-    "stars": 19,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "computer-vision",
-      "cvpr2025",
-      "deep-learning",
-      "diffusion-models",
-      "image-editing",
-      "image-manipulation",
-      "machine-learning"
-    ],
-    "created_at": "2025-03-03T10:59:34",
-    "updated_at": "2025-03-09T12:38:07"
-  },
-  {
-    "name": "pytorch_deep_learning_medimg_tutorial",
-    "full_name": "ChiShengChen/pytorch_deep_learning_medimg_tutorial",
-    "description": "This project simply implements three common deep learning models (VGG16, ResNet18, ViT) for medical image classification tasks using the PathMNIST dataset.",
-    "url": "https://github.com/ChiShengChen/pytorch_deep_learning_medimg_tutorial",
-    "stars": 7,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "biomedical",
-      "deep-learning",
-      "image-classification",
-      "pytorch",
-      "tutorials"
-    ],
-    "created_at": "2025-03-08T02:58:39",
-    "updated_at": "2025-03-09T12:18:17"
-  },
-  {
-    "name": "manus-guide",
-    "full_name": "hodorwang/manus-guide",
-    "description": "Guide for manus - general AI agent that bridges minds and actions",
-    "url": "https://github.com/hodorwang/manus-guide",
-    "stars": 21,
-    "daily_stars": 2,
-    "language": "MDX",
-    "topics": [
-      "agent",
-      "agi",
-      "ai",
-      "guide",
-      "manus",
-      "manus-ai",
-      "tutorial",
-      "user-guide",
-      "workflow"
-    ],
-    "created_at": "2025-03-06T19:34:05",
-    "updated_at": "2025-03-09T11:55:56"
-  },
-  {
-    "name": "VVQuest",
-    "full_name": "DanielZhangyc/VVQuest",
-    "description": "智能检索张维为表情包",
-    "url": "https://github.com/DanielZhangyc/VVQuest",
-    "stars": 868,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "embeddings-word2vec",
-      "python",
-      "streamlit",
-      "streamlit-webapp"
-    ],
-    "created_at": "2025-02-11T13:28:11",
-    "updated_at": "2025-03-09T10:48:03"
+    "updated_at": "2025-03-09T15:35:13"
   },
   {
     "name": "ai-guide",
     "full_name": "liyupi/ai-guide",
     "description": "鱼皮的 AI 知识库",
     "url": "https://github.com/liyupi/ai-guide",
-    "stars": 133,
+    "stars": 134,
     "daily_stars": 1,
     "language": "Vue",
     "topics": [
@@ -186,14 +115,43 @@
       "vuepress"
     ],
     "created_at": "2025-02-13T05:47:46",
-    "updated_at": "2025-03-09T10:03:51"
+    "updated_at": "2025-03-09T14:10:47"
+  },
+  {
+    "name": "Notebook-Git-Colab",
+    "full_name": "JonusNattapong/Notebook-Git-Colab",
+    "description": "collection of resources for learning about Artificial Intelligence (AI) and Large Language Models (LLMs). It includes fundamental topics, recommended notebooks, online courses, tools, datasets, and advanced techniques for developing and fine-tuning AI models.",
+    "url": "https://github.com/JonusNattapong/Notebook-Git-Colab",
+    "stars": 65,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "artificial-intelligence",
+      "artificial-intelligence-algorithms",
+      "fine-tuning",
+      "fine-tuning-bert",
+      "fine-tuning-computer-vision",
+      "fine-tuning-diffusion",
+      "fine-tuning-llm",
+      "fine-tuning-nlp",
+      "intelligence",
+      "large-language-models",
+      "learning",
+      "learning-python",
+      "llms",
+      "llmstxt",
+      "resources",
+      "tools"
+    ],
+    "created_at": "2025-03-03T04:34:04",
+    "updated_at": "2025-03-09T14:06:29"
   },
   {
     "name": "SP25-AI",
     "full_name": "Jamil226/SP25-AI",
     "description": "Spring 25 - Artificial Intelligence ",
     "url": "https://github.com/Jamil226/SP25-AI",
-    "stars": 7,
+    "stars": 8,
     "daily_stars": 1,
     "language": "Jupyter Notebook",
     "topics": [
@@ -218,6 +176,43 @@
       "webscraping"
     ],
     "created_at": "2025-02-22T03:01:33",
-    "updated_at": "2025-03-09T10:14:51"
+    "updated_at": "2025-03-09T16:35:27"
+  },
+  {
+    "name": "train-tiny-llm",
+    "full_name": "FareedKhan-dev/train-tiny-llm",
+    "description": "Train a 29M parameter GPT from Scratch",
+    "url": "https://github.com/FareedKhan-dev/train-tiny-llm",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "chatgpt",
+      "gpt",
+      "llm",
+      "openai"
+    ],
+    "created_at": "2025-03-04T10:26:06",
+    "updated_at": "2025-03-09T15:01:10"
+  },
+  {
+    "name": "sheer",
+    "full_name": "mantrakp04/sheer",
+    "description": "A fully client-side chat application with AI capabilities running entirely in your browser. No servers, complete privacy, and persistent storage.",
+    "url": "https://github.com/mantrakp04/sheer",
+    "stars": 6,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-chat",
+      "localstorage",
+      "ollama",
+      "vector-db"
+    ],
+    "created_at": "2025-02-20T16:33:06",
+    "updated_at": "2025-03-09T16:24:25"
   }
 ]
