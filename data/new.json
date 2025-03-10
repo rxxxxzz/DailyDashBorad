@@ -4,8 +4,8 @@
     "full_name": "JonusNattapong/Notebook-Git-Colab",
     "description": "collection of resources for learning about Artificial Intelligence (AI) and Large Language Models (LLMs). It includes fundamental topics, recommended notebooks, online courses, tools, datasets, and advanced techniques for developing and fine-tuning AI models.",
     "url": "https://github.com/JonusNattapong/Notebook-Git-Colab",
-    "stars": 67,
-    "daily_stars": 2,
+    "stars": 71,
+    "daily_stars": 4,
     "language": null,
     "topics": [
       "artificial-intelligence",
@@ -26,15 +26,15 @@
       "tools"
     ],
     "created_at": "2025-03-03T04:34:04",
-    "updated_at": "2025-03-10T07:29:34"
+    "updated_at": "2025-03-10T12:28:07"
   },
   {
     "name": "manus-guide",
     "full_name": "hodorwang/manus-guide",
     "description": "Guide for manus - general AI agent that bridges minds and actions",
     "url": "https://github.com/hodorwang/manus-guide",
-    "stars": 23,
-    "daily_stars": 0,
+    "stars": 24,
+    "daily_stars": 1,
     "language": "MDX",
     "topics": [
       "agent",
@@ -48,15 +48,15 @@
       "workflow"
     ],
     "created_at": "2025-03-06T19:34:05",
-    "updated_at": "2025-03-10T01:22:42"
+    "updated_at": "2025-03-10T11:21:58"
   },
   {
     "name": "gitingest",
     "full_name": "davidesantangelo/gitingest",
     "description": "Gitingest is a command-line tool that fetches files from a GitHub repository and generates a consolidated text prompt for your LLMs.",
     "url": "https://github.com/davidesantangelo/gitingest",
-    "stars": 19,
-    "daily_stars": 0,
+    "stars": 21,
+    "daily_stars": 2,
     "language": "Ruby",
     "topics": [
       "cli",
@@ -66,7 +66,7 @@
       "tools"
     ],
     "created_at": "2025-03-02T15:56:18",
-    "updated_at": "2025-03-07T19:25:08"
+    "updated_at": "2025-03-10T12:31:18"
   },
   {
     "name": "h-edit",
@@ -144,6 +144,79 @@
     "updated_at": "2025-03-09T07:18:08"
   },
   {
+    "name": "AdcSR",
+    "full_name": "Guaishou74851/AdcSR",
+    "description": "(CVPR 2025) Adversarial Diffusion Compression for Real-World Image Super-Resolution [PyTorch]",
+    "url": "https://github.com/Guaishou74851/AdcSR",
+    "stars": 10,
+    "daily_stars": 5,
+    "language": "Python",
+    "topics": [
+      "adversarial-diffusion-compression",
+      "adversarial-distillation",
+      "computer-vision",
+      "cvpr2025",
+      "deep-learning",
+      "deep-neural-networks",
+      "diffusion-models",
+      "image-reconstruction",
+      "image-restoration",
+      "one-step-diffusion",
+      "one-step-diffusion-model",
+      "pruning",
+      "python",
+      "python3",
+      "pytorch",
+      "super-resolution"
+    ],
+    "created_at": "2025-03-06T06:49:39",
+    "updated_at": "2025-03-10T12:57:36"
+  },
+  {
+    "name": "Folly",
+    "full_name": "user1342/Folly",
+    "description": "Open-source LLM Prompt-Injection and Jailbreaking Playground",
+    "url": "https://github.com/user1342/Folly",
+    "stars": 9,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai-red-teaming",
+      "artificial-intelligence",
+      "generative-ai",
+      "large-language-models",
+      "llm",
+      "llm-security",
+      "machine-learning",
+      "prompt-engineering",
+      "prompt-injection"
+    ],
+    "created_at": "2025-03-07T17:38:21",
+    "updated_at": "2025-03-10T12:42:59"
+  },
+  {
+    "name": "Folly",
+    "full_name": "user1342/Folly",
+    "description": "Open-source LLM Prompt-Injection and Jailbreaking Playground",
+    "url": "https://github.com/user1342/Folly",
+    "stars": 9,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [
+      "ai-red-teaming",
+      "artificial-intelligence",
+      "generative-ai",
+      "large-language-models",
+      "llm",
+      "llm-security",
+      "machine-learning",
+      "prompt-engineering",
+      "prompt-injection"
+    ],
+    "created_at": "2025-03-07T17:38:21",
+    "updated_at": "2025-03-10T12:42:59"
+  },
+  {
     "name": "pytorch_deep_learning_medimg_tutorial",
     "full_name": "ChiShengChen/pytorch_deep_learning_medimg_tutorial",
     "description": "This project simply implements three common deep learning models (VGG16, ResNet18, ViT) for medical image classification tasks using the PathMNIST dataset.",
@@ -160,65 +233,5 @@
     ],
     "created_at": "2025-03-08T02:58:39",
     "updated_at": "2025-03-10T01:06:08"
-  },
-  {
-    "name": "aigitcommit",
-    "full_name": "mingcheng/aigitcommit",
-    "description": "A simple tool to help you write better Git commit messages using AI.",
-    "url": "https://github.com/mingcheng/aigitcommit",
-    "stars": 8,
-    "daily_stars": 0,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "command-line",
-      "enhancement",
-      "git",
-      "git-tools"
-    ],
-    "created_at": "2025-03-03T07:33:33",
-    "updated_at": "2025-03-06T11:13:01"
-  },
-  {
-    "name": "AnimAI-Trainer",
-    "full_name": "hesamsheikh/AnimAI-Trainer",
-    "description": "Train an LLM to generate cracked Manim animations for mathematical concepts.",
-    "url": "https://github.com/hesamsheikh/AnimAI-Trainer",
-    "stars": 8,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "fine-tuning",
-      "llm",
-      "machine-learning",
-      "manim",
-      "mathematics",
-      "python"
-    ],
-    "created_at": "2025-03-02T18:19:06",
-    "updated_at": "2025-03-10T08:31:49"
-  },
-  {
-    "name": "Folly",
-    "full_name": "user1342/Folly",
-    "description": "Open-source LLM Prompt-Injection and Jailbreaking Playground",
-    "url": "https://github.com/user1342/Folly",
-    "stars": 7,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "ai-red-teaming",
-      "artificial-intelligence",
-      "generative-ai",
-      "large-language-models",
-      "llm",
-      "llm-security",
-      "machine-learning",
-      "prompt-engineering",
-      "prompt-injection"
-    ],
-    "created_at": "2025-03-07T17:38:21",
-    "updated_at": "2025-03-10T07:36:14"
   }
 ]
