@@ -4,8 +4,8 @@
     "full_name": "DanielZhangyc/VVQuest",
     "description": "智能检索张维为表情包",
     "url": "https://github.com/DanielZhangyc/VVQuest",
-    "stars": 920,
-    "daily_stars": 13,
+    "stars": 928,
+    "daily_stars": 8,
     "language": "Python",
     "topics": [
       "artificial-intelligence",
@@ -15,15 +15,15 @@
       "streamlit-webapp"
     ],
     "created_at": "2025-02-11T13:28:11",
-    "updated_at": "2025-03-11T12:14:04"
+    "updated_at": "2025-03-11T16:33:00"
   },
   {
     "name": "awesome-web-agents",
     "full_name": "steel-dev/awesome-web-agents",
     "description": "🔥 A list of tools, frameworks, and resources for building AI web agents",
     "url": "https://github.com/steel-dev/awesome-web-agents",
-    "stars": 84,
-    "daily_stars": 10,
+    "stars": 90,
+    "daily_stars": 6,
     "language": null,
     "topics": [
       "ai",
@@ -33,35 +33,79 @@
       "llms-benchmarking"
     ],
     "created_at": "2025-03-06T05:23:47",
-    "updated_at": "2025-03-11T12:26:01"
+    "updated_at": "2025-03-11T15:02:55"
   },
   {
-    "name": "CSMATH",
-    "full_name": "hongxin/CSMATH",
-    "description": "This mathematics course is taught for the first year Ph.D. students of computer science and related areas @zju",
-    "url": "https://github.com/hongxin/CSMATH",
-    "stars": 13,
-    "daily_stars": 5,
-    "language": null,
+    "name": "go-attention",
+    "full_name": "takara-ai/go-attention",
+    "description": "A full attention mechanism and transformer in pure go.",
+    "url": "https://github.com/takara-ai/go-attention",
+    "stars": 385,
+    "daily_stars": 2,
+    "language": "Go",
     "topics": [
-      "bayesian-inference",
-      "graduate-course",
+      "artificial-intelligence",
+      "golang",
       "machine-learning",
-      "mathematical-modelling",
-      "mathematics",
-      "optimization-algorithms",
+      "serverless"
+    ],
+    "created_at": "2025-02-10T15:46:35",
+    "updated_at": "2025-03-11T15:30:18"
+  },
+  {
+    "name": "FaceRecognition",
+    "full_name": "zeyu10/FaceRecognition",
+    "description": "PCA in Face Recognition with Machine Learning",
+    "url": "https://github.com/zeyu10/FaceRecognition",
+    "stars": 6,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "face-detection",
+      "face-recognition",
+      "knn",
+      "knn-classifier",
+      "machine-learning",
+      "opencv",
+      "opencv-python",
+      "pca",
+      "pca-analysis",
+      "pyqt",
+      "python",
       "python3"
     ],
-    "created_at": "2025-02-25T10:39:02",
-    "updated_at": "2025-03-11T12:50:32"
+    "created_at": "2025-02-13T13:21:53",
+    "updated_at": "2025-03-11T16:32:15"
+  },
+  {
+    "name": "sparkle",
+    "full_name": "romain-e-lacoste/sparkle",
+    "description": "A statistical learning toolkit for high-dimensional Hawkes processes in Python",
+    "url": "https://github.com/romain-e-lacoste/sparkle",
+    "stars": 5,
+    "daily_stars": 2,
+    "language": "C",
+    "topics": [
+      "empirical-risk-minimization",
+      "hawkes-process",
+      "high-dimension",
+      "machine-learning",
+      "maximum-likelihood-estimation",
+      "optimization",
+      "python",
+      "regularization",
+      "statistics"
+    ],
+    "created_at": "2025-02-24T15:41:13",
+    "updated_at": "2025-03-11T16:01:19"
   },
   {
     "name": "recommendarr",
     "full_name": "fingerthief/recommendarr",
     "description": "An AI driven reccommendation system based on Radarr and Sonarr library information",
     "url": "https://github.com/fingerthief/recommendarr",
-    "stars": 435,
-    "daily_stars": 3,
+    "stars": 436,
+    "daily_stars": 1,
     "language": "Vue",
     "topics": [
       "ai",
@@ -76,128 +120,84 @@
       "vuejs"
     ],
     "created_at": "2025-03-01T01:37:53",
-    "updated_at": "2025-03-11T11:17:10"
+    "updated_at": "2025-03-11T16:03:15"
   },
   {
-    "name": "manus-guide",
-    "full_name": "hodorwang/manus-guide",
-    "description": "Guide for manus - general AI agent that bridges minds and actions",
-    "url": "https://github.com/hodorwang/manus-guide",
-    "stars": 31,
-    "daily_stars": 2,
-    "language": "MDX",
-    "topics": [
-      "agent",
-      "agi",
-      "ai",
-      "guide",
-      "manus",
-      "manus-ai",
-      "tutorial",
-      "user-guide",
-      "workflow"
-    ],
-    "created_at": "2025-03-06T19:34:05",
-    "updated_at": "2025-03-11T11:53:39"
-  },
-  {
-    "name": "go-attention",
-    "full_name": "takara-ai/go-attention",
-    "description": "A full attention mechanism and transformer in pure go.",
-    "url": "https://github.com/takara-ai/go-attention",
-    "stars": 383,
+    "name": "deep-cross-attention",
+    "full_name": "lucidrains/deep-cross-attention",
+    "description": "Implementation of the proposed DeepCrossAttention by Heddes et al while at Google research, in Pytorch",
+    "url": "https://github.com/lucidrains/deep-cross-attention",
+    "stars": 80,
     "daily_stars": 1,
-    "language": "Go",
+    "language": null,
     "topics": [
       "artificial-intelligence",
-      "golang",
-      "machine-learning",
-      "serverless"
-    ],
-    "created_at": "2025-02-10T15:46:35",
-    "updated_at": "2025-03-11T11:00:54"
-  },
-  {
-    "name": "ai-guide",
-    "full_name": "liyupi/ai-guide",
-    "description": "鱼皮的 AI 知识库",
-    "url": "https://github.com/liyupi/ai-guide",
-    "stars": 141,
-    "daily_stars": 1,
-    "language": "Vue",
-    "topics": [
-      "ai",
-      "algorithm",
-      "artificial-intelligence",
-      "chatgpt",
+      "attention-mechanism",
       "deep-learning",
-      "deepseek",
-      "deepseek-r1",
-      "generative-ai",
-      "gpt",
-      "llm",
-      "openai",
-      "python",
-      "vue",
-      "vuepress"
+      "residuals",
+      "transformers"
     ],
-    "created_at": "2025-02-13T05:47:46",
-    "updated_at": "2025-03-11T11:04:12"
+    "created_at": "2025-02-18T15:28:43",
+    "updated_at": "2025-03-11T14:20:26"
   },
   {
-    "name": "II-OlimpiadaAI",
-    "full_name": "OlimpiadaAI/II-OlimpiadaAI",
-    "description": "Oficjalne repozytorium drugiej edycji ogólnopolskiej Olimpiady Sztucznej Inteligencji",
-    "url": "https://github.com/OlimpiadaAI/II-OlimpiadaAI",
-    "stars": 36,
+    "name": "whisper_library",
+    "full_name": "General-Developer/whisper_library",
+    "description": "Whisper Is Library for transcribe sound wav AKA Speech To Text Or Extract Text From Audio",
+    "url": "https://github.com/General-Developer/whisper_library",
+    "stars": 16,
     "daily_stars": 1,
-    "language": "Jupyter Notebook",
+    "language": "C++",
     "topics": [
+      "ai",
       "artificial-intelligence",
-      "education",
-      "high-school"
+      "dart",
+      "flutter",
+      "ggml",
+      "machine-learning",
+      "ml",
+      "openai",
+      "speech-to-text",
+      "transcribe",
+      "translate",
+      "whisper"
     ],
-    "created_at": "2025-02-16T10:42:42",
-    "updated_at": "2025-03-11T10:18:24"
+    "created_at": "2025-02-10T07:35:19",
+    "updated_at": "2025-03-11T13:06:57"
   },
   {
-    "name": "ai-agent-fletui",
-    "full_name": "8syncdev/ai-agent-fletui",
-    "description": "A modern chat interface application that connects to Ollama LLM models, built with Flet framework.",
-    "url": "https://github.com/8syncdev/ai-agent-fletui",
-    "stars": 2,
+    "name": "sheer",
+    "full_name": "mantrakp04/sheer",
+    "description": "A fully client-side chat application with AI capabilities running entirely in your browser. No servers, complete privacy, and persistent storage.",
+    "url": "https://github.com/mantrakp04/sheer",
+    "stars": 8,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-chat",
+      "localstorage",
+      "ollama",
+      "vector-db"
+    ],
+    "created_at": "2025-02-20T16:33:06",
+    "updated_at": "2025-03-11T15:21:18"
+  },
+  {
+    "name": "vibevoice",
+    "full_name": "mpaepper/vibevoice",
+    "description": "Fast local speech-to-text for any app using faster-whisper",
+    "url": "https://github.com/mpaepper/vibevoice",
+    "stars": 21,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "agent",
-      "ai-agents",
-      "cross-platform",
-      "flet",
-      "fluter",
-      "langchain",
-      "llm",
-      "mobile",
+      "ai",
+      "machine-learning",
       "python"
     ],
-    "created_at": "2025-03-09T04:05:27",
-    "updated_at": "2025-03-11T11:46:18"
-  },
-  {
-    "name": "Ling",
-    "full_name": "inclusionAI/Ling",
-    "description": "Ling is a MoE LLM provided and open-sourced by InclusionAI. ",
-    "url": "https://github.com/inclusionAI/Ling",
-    "stars": 67,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "llm",
-      "llm-reasoning",
-      "machine-learning",
-      "moe",
-      "rl"
-    ],
-    "created_at": "2025-02-19T07:17:18",
-    "updated_at": "2025-03-11T11:20:25"
+    "created_at": "2025-02-10T20:59:33",
+    "updated_at": "2025-03-11T14:10:31"
   }
 ]
