@@ -4,8 +4,8 @@
     "full_name": "camel-ai/owl",
     "description": "🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
     "url": "https://github.com/camel-ai/owl",
-    "stars": 12537,
-    "daily_stars": 54,
+    "stars": 12571,
+    "daily_stars": 34,
     "language": "Python",
     "topics": [
       "agent",
@@ -15,15 +15,15 @@
       "web-interaction"
     ],
     "created_at": "2025-03-03T15:42:51",
-    "updated_at": "2025-03-18T02:04:26"
+    "updated_at": "2025-03-18T04:42:09"
   },
   {
     "name": "awesome-vibe-coding",
     "full_name": "filipecalegario/awesome-vibe-coding",
     "description": "A curated list of vibe coding references, colaborating with AI to write code.",
     "url": "https://github.com/filipecalegario/awesome-vibe-coding",
-    "stars": 70,
-    "daily_stars": 6,
+    "stars": 74,
+    "daily_stars": 4,
     "language": null,
     "topics": [
       "ai-agent",
@@ -35,14 +35,14 @@
       "vibe-coding"
     ],
     "created_at": "2025-03-13T17:46:56",
-    "updated_at": "2025-03-18T01:30:24"
+    "updated_at": "2025-03-18T03:47:41"
   },
   {
     "name": "Awesome-Embodied-AI",
     "full_name": "wadeKeith/Awesome-Embodied-AI",
     "description": "An Introduction to Embodied Intelligence (A Quick Guide of Embodied-AI)",
     "url": "https://github.com/wadeKeith/Awesome-Embodied-AI",
-    "stars": 4,
+    "stars": 6,
     "daily_stars": 2,
     "language": null,
     "topics": [
@@ -56,15 +56,31 @@
       "vision-language-model"
     ],
     "created_at": "2025-03-17T12:59:00",
-    "updated_at": "2025-03-18T02:00:16"
+    "updated_at": "2025-03-18T03:41:56"
+  },
+  {
+    "name": "native-sparse-attention-pytorch",
+    "full_name": "lucidrains/native-sparse-attention-pytorch",
+    "description": "Implementation of the sparse attention pattern proposed by the Deepseek team in their \"Native Sparse Attention\" paper",
+    "url": "https://github.com/lucidrains/native-sparse-attention-pytorch",
+    "stars": 541,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "attention",
+      "deep-learning"
+    ],
+    "created_at": "2025-02-19T03:37:52",
+    "updated_at": "2025-03-18T03:37:58"
   },
   {
     "name": "awesome-web-agents",
     "full_name": "steel-dev/awesome-web-agents",
     "description": "🔥 A list of tools, frameworks, and resources for building AI web agents",
     "url": "https://github.com/steel-dev/awesome-web-agents",
-    "stars": 174,
-    "daily_stars": 2,
+    "stars": 175,
+    "daily_stars": 1,
     "language": null,
     "topics": [
       "ai",
@@ -74,133 +90,101 @@
       "llms-benchmarking"
     ],
     "created_at": "2025-03-06T05:23:47",
-    "updated_at": "2025-03-18T00:21:15"
+    "updated_at": "2025-03-18T04:14:48"
   },
   {
-    "name": "AFLDM",
-    "full_name": "SingleZombie/AFLDM",
-    "description": "[CVPR 2025] Alias-free Latent Diffusion Models official implementation",
-    "url": "https://github.com/SingleZombie/AFLDM",
-    "stars": 29,
+    "name": "CortexON",
+    "full_name": "TheAgenticAI/CortexON",
+    "description": "Open-source generalized AI agent for everyday task automations.",
+    "url": "https://github.com/TheAgenticAI/CortexON",
+    "stars": 39,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "artificial-intelligence",
-      "computer-vision"
+      "ai-agents",
+      "automation",
+      "genai",
+      "llm",
+      "multi-agent",
+      "reasoning",
+      "reasoning-agent"
     ],
-    "created_at": "2025-03-12T13:05:18",
-    "updated_at": "2025-03-17T21:00:06"
+    "created_at": "2025-03-10T13:51:08",
+    "updated_at": "2025-03-18T03:24:29"
   },
   {
-    "name": "deep-threat-model",
-    "full_name": "ph20Eoow/deep-threat-model",
-    "description": "A Threat Modeling AI agent, that perform iterative, deep research based on provided design doc. ",
-    "url": "https://github.com/ph20Eoow/deep-threat-model",
-    "stars": 7,
+    "name": "manus-js",
+    "full_name": "duongnguyen321/manus-js",
+    "description": "An intelligent web research and analysis tool powered by OpenAI GPT models and browser automation. Manus JS streamlines the process of gathering, analyzing, and synthesizing information from web sources.",
+    "url": "https://github.com/duongnguyen321/manus-js",
+    "stars": 4,
     "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
-      "agent",
+      "ai-agents",
+      "langchain",
+      "manus",
+      "openai",
+      "typescript"
+    ],
+    "created_at": "2025-03-16T08:50:31",
+    "updated_at": "2025-03-18T04:03:43"
+  },
+  {
+    "name": "mcp-tools",
+    "full_name": "shaharia-lab/mcp-tools",
+    "description": "Tools for MCP (Model Context Protocol) written in Go",
+    "url": "https://github.com/shaharia-lab/mcp-tools",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "Go",
+    "topics": [
       "ai",
       "ai-agents",
-      "cybersecurity",
-      "owasp",
-      "research",
-      "threat-modeling"
+      "generative-ai",
+      "llm",
+      "mcp",
+      "mcp-tools",
+      "model-context-protocol"
     ],
-    "created_at": "2025-03-06T00:47:49",
-    "updated_at": "2025-03-18T01:55:06"
+    "created_at": "2025-03-06T17:04:45",
+    "updated_at": "2025-03-18T04:32:59"
   },
   {
-    "name": "Machine-Learning-Roadmap",
-    "full_name": "Timur-THE-mAIstermind/Machine-Learning-Roadmap",
-    "description": "Machine Learning Roadmap for 2025. Step-by-step guide to become a Data Scientist.  Covers the best free learning resources from Python basics to Deep Learning and MLOps.",
-    "url": "https://github.com/Timur-THE-mAIstermind/Machine-Learning-Roadmap",
-    "stars": 66,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "data",
-      "data-mining",
-      "data-science",
-      "deep-learning",
-      "genai",
-      "gradient-boosting",
-      "machine-learning",
-      "machine-learning-algorithms",
-      "roadmap"
-    ],
-    "created_at": "2025-02-26T06:06:33",
-    "updated_at": "2025-03-17T23:08:05"
-  },
-  {
-    "name": "resnet-ixion",
-    "full_name": "parsapoorsh/resnet-ixion",
-    "description": "Image Orientation Detection Using ResNet",
-    "url": "https://github.com/parsapoorsh/resnet-ixion",
-    "stars": 5,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "classification",
-      "cnn",
-      "cnn-classification",
-      "computer-vision",
-      "deep-learning",
-      "image-classification",
-      "image-processing",
-      "machine-learning",
-      "pytorch",
-      "resnet",
-      "torchvision"
-    ],
-    "created_at": "2025-03-06T18:10:03",
-    "updated_at": "2025-03-17T23:43:44"
-  },
-  {
-    "name": "DataScience",
-    "full_name": "benzerinsio/DataScience",
-    "description": "📊 Data Science & Análise de Dados | Projetos de estudo em Exploração de Dados (EDA), Machine Learning e Deep Learning para prática e demonstração de técnicas analíticas.",
-    "url": "https://github.com/benzerinsio/DataScience",
+    "name": "genesis-bots",
+    "full_name": "genesis-bots/genesis-bots",
+    "description": "AI Data Agents for the Enterprise.  Multi-agent framework to create autonomous Data Agents for Data Engineering, Data Operations, and Deep Analysis that can interact via Slack, Email, Teams, Web, and GSuite.",
+    "url": "https://github.com/genesis-bots/genesis-bots",
     "stars": 2,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "analise-de-dados",
-      "analise-exploratoria",
-      "analise-exploratoria-de-dados",
-      "aprendizado-de-maquina",
-      "aprendizado-profundo",
-      "deep-learning",
-      "eda",
-      "exploratory-data-analysis",
-      "machine-learning",
-      "neural-network",
-      "supervised-learning",
-      "unsupervised-learning"
-    ],
-    "created_at": "2025-02-22T16:33:00",
-    "updated_at": "2025-03-18T01:22:21"
-  },
-  {
-    "name": "TorchfreeEasyOCR",
-    "full_name": "SeldonHZ/TorchfreeEasyOCR",
-    "description": "This package is EasyOCR-based optical character recognition. Unlike EasyOCR, the package uses a pre-saved with onnx language models, so it doesn't need a 1-2 Gb pytorch dependency. This is particularly useful for developing and packaging light-weight applications that utilize text recognition.",
-    "url": "https://github.com/SeldonHZ/TorchfreeEasyOCR",
-    "stars": 3,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "deep-learning",
-      "easyocr",
-      "ocr",
-      "onnx",
-      "onnxruntime",
-      "pyinstaller",
-      "python",
-      "text-recognition"
+      "agent",
+      "ai",
+      "ai-agent-framework",
+      "ai-agents",
+      "data-agent",
+      "llm"
     ],
-    "created_at": "2025-02-28T18:16:00",
-    "updated_at": "2025-03-17T22:03:45"
+    "created_at": "2025-02-18T19:46:30",
+    "updated_at": "2025-03-18T03:12:34"
+  },
+  {
+    "name": "Ling",
+    "full_name": "inclusionAI/Ling",
+    "description": "Ling is a MoE LLM provided and open-sourced by InclusionAI. ",
+    "url": "https://github.com/inclusionAI/Ling",
+    "stars": 76,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "llm",
+      "llm-reasoning",
+      "machine-learning",
+      "moe",
+      "rl"
+    ],
+    "created_at": "2025-02-19T07:17:18",
+    "updated_at": "2025-03-18T02:50:39"
   }
 ]
