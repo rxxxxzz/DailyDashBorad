@@ -1,29 +1,11 @@
 [
   {
-    "name": "rf-detr",
-    "full_name": "roboflow/rf-detr",
-    "description": "RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license.",
-    "url": "https://github.com/roboflow/rf-detr",
-    "stars": 92,
-    "daily_stars": 32,
-    "language": "Python",
-    "topics": [
-      "computer-vision",
-      "detr",
-      "machine-learning",
-      "object-detection",
-      "rf-detr"
-    ],
-    "created_at": "2025-03-19T20:43:00",
-    "updated_at": "2025-03-21T04:34:21"
-  },
-  {
     "name": "owl",
     "full_name": "camel-ai/owl",
     "description": "🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
     "url": "https://github.com/camel-ai/owl",
-    "stars": 13160,
-    "daily_stars": 26,
+    "stars": 13207,
+    "daily_stars": 47,
     "language": "Python",
     "topics": [
       "agent",
@@ -33,15 +15,54 @@
       "web-interaction"
     ],
     "created_at": "2025-03-03T15:42:51",
-    "updated_at": "2025-03-21T04:32:31"
+    "updated_at": "2025-03-21T08:42:50"
+  },
+  {
+    "name": "rf-detr",
+    "full_name": "roboflow/rf-detr",
+    "description": "RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license.",
+    "url": "https://github.com/roboflow/rf-detr",
+    "stars": 137,
+    "daily_stars": 45,
+    "language": "Python",
+    "topics": [
+      "computer-vision",
+      "detr",
+      "machine-learning",
+      "object-detection",
+      "rf-detr"
+    ],
+    "created_at": "2025-03-19T20:43:00",
+    "updated_at": "2025-03-21T08:35:52"
+  },
+  {
+    "name": "spongecake",
+    "full_name": "aditya-nadkarni/spongecake",
+    "description": "Spongecake is the easiest way to launch computer use agents.",
+    "url": "https://github.com/aditya-nadkarni/spongecake",
+    "stars": 42,
+    "daily_stars": 5,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-agents-framework",
+      "automation",
+      "computer-use",
+      "docker",
+      "llm",
+      "openai",
+      "python"
+    ],
+    "created_at": "2025-03-08T00:54:44",
+    "updated_at": "2025-03-21T08:39:06"
   },
   {
     "name": "awesome-vibe-coding",
     "full_name": "filipecalegario/awesome-vibe-coding",
     "description": "A curated list of vibe coding references, colaborating with AI to write code.",
     "url": "https://github.com/filipecalegario/awesome-vibe-coding",
-    "stars": 134,
-    "daily_stars": 4,
+    "stars": 137,
+    "daily_stars": 3,
     "language": null,
     "topics": [
       "ai-agent",
@@ -53,160 +74,130 @@
       "vibe-coding"
     ],
     "created_at": "2025-03-13T17:46:56",
-    "updated_at": "2025-03-21T03:36:14"
+    "updated_at": "2025-03-21T07:56:23"
   },
   {
-    "name": "Awesome-Embodied-AI",
-    "full_name": "wadeKeith/Awesome-Embodied-AI",
-    "description": "An Introduction to Embodied Intelligence (A Quick Guide of Embodied-AI)",
-    "url": "https://github.com/wadeKeith/Awesome-Embodied-AI",
-    "stars": 39,
+    "name": "AdcSR",
+    "full_name": "Guaishou74851/AdcSR",
+    "description": "(CVPR 2025) Adversarial Diffusion Compression for Real-World Image Super-Resolution [PyTorch]",
+    "url": "https://github.com/Guaishou74851/AdcSR",
+    "stars": 36,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "adversarial-diffusion-compression",
+      "adversarial-distillation",
+      "computer-vision",
+      "cvpr2025",
+      "deep-learning",
+      "deep-neural-networks",
+      "diffusion-models",
+      "image-reconstruction",
+      "image-restoration",
+      "one-step-diffusion",
+      "one-step-diffusion-model",
+      "pruning",
+      "python",
+      "python3",
+      "pytorch",
+      "super-resolution"
+    ],
+    "created_at": "2025-03-06T06:49:39",
+    "updated_at": "2025-03-21T08:41:48"
+  },
+  {
+    "name": "XAUUSD_TRADING_ASISTENT_AI",
+    "full_name": "codebytemirza/XAUUSD_TRADING_ASISTENT_AI",
+    "description": "Gold Trading Bot Assistant | Deepseek | Langchain | Python | Gen AI",
+    "url": "https://github.com/codebytemirza/XAUUSD_TRADING_ASISTENT_AI",
+    "stars": 2,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "genrative-ai",
+      "langchain",
+      "tradingbot"
+    ],
+    "created_at": "2025-03-12T09:22:17",
+    "updated_at": "2025-03-21T08:11:40"
+  },
+  {
+    "name": "awesome-web-agents",
+    "full_name": "steel-dev/awesome-web-agents",
+    "description": "🔥 A list of tools, frameworks, and resources for building AI web agents",
+    "url": "https://github.com/steel-dev/awesome-web-agents",
+    "stars": 180,
     "daily_stars": 1,
     "language": null,
     "topics": [
-      "artificial-intelligence",
-      "embodied-ai",
-      "embodied-artificial-intelligence",
-      "embodied-intelligence",
-      "large-language-models",
-      "reinforcement-learning",
-      "robotics",
-      "vision-language-model"
+      "ai",
+      "ai-agents",
+      "browser-automation",
+      "llms",
+      "llms-benchmarking"
     ],
-    "created_at": "2025-03-17T12:59:00",
-    "updated_at": "2025-03-21T02:16:30"
+    "created_at": "2025-03-06T05:23:47",
+    "updated_at": "2025-03-21T08:15:52"
   },
   {
-    "name": "aipaze",
-    "full_name": "vishal-singh-baraiya/aipaze",
-    "description": "AIPaze is a comprehensive framework for connecting large language models (LLMs) to external tools, data sources, and resources.",
-    "url": "https://github.com/vishal-singh-baraiya/aipaze",
-    "stars": 4,
+    "name": "CortexON",
+    "full_name": "TheAgenticAI/CortexON",
+    "description": "Open-source generalized AI agent for everyday task automations.",
+    "url": "https://github.com/TheAgenticAI/CortexON",
+    "stars": 54,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "ai",
-      "api",
-      "artificial-intelligence",
-      "data",
+      "ai-agents",
+      "automation",
+      "genai",
       "llm",
-      "server"
+      "multi-agent",
+      "reasoning",
+      "reasoning-agent"
     ],
-    "created_at": "2025-03-17T10:37:21",
-    "updated_at": "2025-03-21T03:39:20"
+    "created_at": "2025-03-10T13:51:08",
+    "updated_at": "2025-03-21T06:05:17"
   },
   {
-    "name": "gitingest",
-    "full_name": "davidesantangelo/gitingest",
-    "description": "Gitingest is a command-line tool that fetches files from a GitHub repository and generates a consolidated text prompt for your LLMs.",
-    "url": "https://github.com/davidesantangelo/gitingest",
-    "stars": 36,
+    "name": "canvas-callback",
+    "full_name": "ahmad2b/canvas-callback",
+    "description": "This open-source project & guide shows you exactly how to implement Canvas UX pattern + LangGraph human-in-the-loop workflows in your AI apps.",
+    "url": "https://github.com/ahmad2b/canvas-callback",
+    "stars": 22,
     "daily_stars": 1,
-    "language": "Ruby",
-    "topics": [
-      "cli",
-      "llm",
-      "machine-learning",
-      "ruby",
-      "tools"
-    ],
-    "created_at": "2025-03-02T15:56:18",
-    "updated_at": "2025-03-21T02:32:24"
-  },
-  {
-    "name": "modal-moondream",
-    "full_name": "edgarrt/modal-moondream",
-    "description": "Modal moondream inference",
-    "url": "https://github.com/edgarrt/modal-moondream",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "cloud",
-      "gpu",
-      "huggingface",
-      "machine-learning",
-      "modal",
-      "moondream",
-      "python",
-      "pytorch",
-      "serverless",
-      "web"
-    ],
-    "created_at": "2025-03-15T23:09:27",
-    "updated_at": "2025-03-21T04:24:52"
-  },
-  {
-    "name": "recommendarr",
-    "full_name": "fingerthief/recommendarr",
-    "description": "An AI driven reccommendation system based on Radarr and Sonarr library information",
-    "url": "https://github.com/fingerthief/recommendarr",
-    "stars": 509,
-    "daily_stars": 0,
-    "language": "Vue",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "local",
-      "local-llm-integration",
-      "radarr",
-      "recommendation",
-      "self-hosted",
-      "sonarr",
-      "vue",
-      "vuejs"
-    ],
-    "created_at": "2025-03-01T01:37:53",
-    "updated_at": "2025-03-20T22:59:00"
-  },
-  {
-    "name": "Sentient",
-    "full_name": "existence-master/Sentient",
-    "description": "Your personal, private & interactive AI companion",
-    "url": "https://github.com/existence-master/Sentient",
-    "stars": 84,
-    "daily_stars": 0,
-    "language": "Python",
+    "language": "TypeScript",
     "topics": [
       "agents",
-      "artificial-intelligence",
-      "automation",
-      "local",
-      "memory",
-      "open-source",
-      "personalization",
-      "privacy"
+      "ai",
+      "ai-agents",
+      "assistant-ui",
+      "canvas",
+      "human-in-the-loop",
+      "interrupt",
+      "langgraph",
+      "nextjs"
     ],
-    "created_at": "2025-02-20T04:33:41",
-    "updated_at": "2025-03-17T02:37:10"
+    "created_at": "2025-03-18T08:50:42",
+    "updated_at": "2025-03-21T07:19:48"
   },
   {
-    "name": "Notebook-Git-Colab",
-    "full_name": "JonusNattapong/Notebook-Git-Colab",
-    "description": "collection of resources for learning about Artificial Intelligence (AI) and Large Language Models (LLMs). It includes fundamental topics, recommended notebooks, online courses, tools, datasets, and advanced techniques for developing and fine-tuning AI models.",
-    "url": "https://github.com/JonusNattapong/Notebook-Git-Colab",
-    "stars": 75,
-    "daily_stars": 0,
-    "language": null,
+    "name": "autogen-agent-server",
+    "full_name": "wronkiew/autogen-agent-server",
+    "description": "Lightweight server for developing conversational agents using Microsoft AutoGen 0.4",
+    "url": "https://github.com/wronkiew/autogen-agent-server",
+    "stars": 9,
+    "daily_stars": 1,
+    "language": "Python",
     "topics": [
-      "artificial-intelligence",
-      "artificial-intelligence-algorithms",
-      "fine-tuning",
-      "fine-tuning-bert",
-      "fine-tuning-computer-vision",
-      "fine-tuning-diffusion",
-      "fine-tuning-llm",
-      "fine-tuning-nlp",
-      "intelligence",
-      "large-language-models",
-      "learning",
-      "learning-python",
-      "llms",
-      "llmstxt",
-      "resources",
-      "tools"
+      "ai-agents",
+      "ai-agents-framework",
+      "autogen-sample",
+      "openai-api"
     ],
-    "created_at": "2025-03-03T04:34:04",
-    "updated_at": "2025-03-20T14:45:48"
+    "created_at": "2025-03-13T04:36:56",
+    "updated_at": "2025-03-21T07:26:51"
   }
 ]
