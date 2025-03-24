@@ -4,8 +4,8 @@
     "full_name": "camel-ai/owl",
     "description": "🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
     "url": "https://github.com/camel-ai/owl",
-    "stars": 13747,
-    "daily_stars": 66,
+    "stars": 13877,
+    "daily_stars": 130,
     "language": "Python",
     "topics": [
       "agent",
@@ -15,15 +15,15 @@
       "web-interaction"
     ],
     "created_at": "2025-03-03T15:42:51",
-    "updated_at": "2025-03-24T04:41:09"
+    "updated_at": "2025-03-24T08:45:36"
   },
   {
     "name": "rf-detr",
     "full_name": "roboflow/rf-detr",
     "description": "RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license.",
     "url": "https://github.com/roboflow/rf-detr",
-    "stars": 766,
-    "daily_stars": 53,
+    "stars": 810,
+    "daily_stars": 44,
     "language": "Python",
     "topics": [
       "computer-vision",
@@ -33,15 +33,15 @@
       "rf-detr"
     ],
     "created_at": "2025-03-19T20:43:00",
-    "updated_at": "2025-03-24T04:38:20"
+    "updated_at": "2025-03-24T08:39:30"
   },
   {
     "name": "CortexON",
     "full_name": "TheAgenticAI/CortexON",
     "description": "Open-source generalized AI agent for everyday task automations.",
     "url": "https://github.com/TheAgenticAI/CortexON",
-    "stars": 129,
-    "daily_stars": 7,
+    "stars": 141,
+    "daily_stars": 12,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -53,14 +53,53 @@
       "reasoning-agent"
     ],
     "created_at": "2025-03-10T13:51:08",
-    "updated_at": "2025-03-24T04:32:50"
+    "updated_at": "2025-03-24T08:39:28"
+  },
+  {
+    "name": "agno-ai-agents",
+    "full_name": "WebDevCaptain/agno-ai-agents",
+    "description": "Exploring Agno framework for building AI agents.",
+    "url": "https://github.com/WebDevCaptain/agno-ai-agents",
+    "stars": 4,
+    "daily_stars": 4,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "deepseek-r1",
+      "ollama",
+      "openai",
+      "qwen2-5"
+    ],
+    "created_at": "2025-03-03T13:30:16",
+    "updated_at": "2025-03-24T07:36:58"
+  },
+  {
+    "name": "UE5-MCP",
+    "full_name": "VedantRGosavi/UE5-MCP",
+    "description": "MCP for Unreal Engine 5",
+    "url": "https://github.com/VedantRGosavi/UE5-MCP",
+    "stars": 147,
+    "daily_stars": 2,
+    "language": null,
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "game-development",
+      "game-engine",
+      "mcp",
+      "mcp-server",
+      "unreal-engine",
+      "unreal-engine-5"
+    ],
+    "created_at": "2025-03-15T17:12:55",
+    "updated_at": "2025-03-24T07:57:27"
   },
   {
     "name": "llm-tournament",
     "full_name": "Dicklesworthstone/llm-tournament",
     "description": "Automated LLM Coding Tournaments. There can be only one (winning code solution from the competing AIs)",
     "url": "https://github.com/Dicklesworthstone/llm-tournament",
-    "stars": 6,
+    "stars": 8,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
@@ -70,142 +109,104 @@
       "llm-coder"
     ],
     "created_at": "2025-03-23T03:59:50",
-    "updated_at": "2025-03-24T03:40:51"
+    "updated_at": "2025-03-24T08:35:51"
   },
   {
-    "name": "minecraft-mcp-server",
-    "full_name": "yuniko-software/minecraft-mcp-server",
-    "description": "A Minecraft MCP Server powered by Mineflayer API. It allows to control a Minecraft character in real-time, allowing AI assistants to build structures, explore the world, and interact with the game environment through natural language instruction",
-    "url": "https://github.com/yuniko-software/minecraft-mcp-server",
-    "stars": 14,
+    "name": "recommendarr",
+    "full_name": "fingerthief/recommendarr",
+    "description": "An AI driven reccommendation system based on Radarr and Sonarr library information",
+    "url": "https://github.com/fingerthief/recommendarr",
+    "stars": 557,
     "daily_stars": 1,
-    "language": "JavaScript",
+    "language": "Vue",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "local",
+      "local-llm-integration",
+      "radarr",
+      "recommendation",
+      "self-hosted",
+      "sonarr",
+      "vue",
+      "vuejs"
+    ],
+    "created_at": "2025-03-01T01:37:53",
+    "updated_at": "2025-03-24T07:41:16"
+  },
+  {
+    "name": "AI-Gov-Content-Curator",
+    "full_name": "hoangsonww/AI-Gov-Content-Curator",
+    "description": "💡 (WIP) This repository houses an end-to-end solution for aggregating, summarizing, and displaying government-related articles using an AI-powered backend, an automated crawler, and a responsive Next.js frontend. It integrates technologies like Express.js, MongoDB, Puppeteer, and GoogleAI to deliver up-to-date, curated content to government staff.",
+    "url": "https://github.com/hoangsonww/AI-Gov-Content-Curator",
+    "stars": 17,
+    "daily_stars": 1,
+    "language": "TypeScript",
     "topics": [
       "artificial-intelligence",
-      "claude",
-      "javascript",
-      "large-language-models",
-      "mcp",
-      "mcp-server",
-      "minecraft",
-      "modelcontextprotocol",
-      "natural-language-processing",
-      "nodejs",
-      "typescript"
-    ],
-    "created_at": "2025-03-20T17:59:31",
-    "updated_at": "2025-03-24T03:45:38"
-  },
-  {
-    "name": "canvas-callback",
-    "full_name": "ahmad2b/canvas-callback",
-    "description": "This open-source project & guide shows you exactly how to implement Canvas UX pattern + LangGraph human-in-the-loop workflows in your AI apps.",
-    "url": "https://github.com/ahmad2b/canvas-callback",
-    "stars": 51,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "assistant-ui",
-      "canvas",
-      "human-in-the-loop",
-      "interrupt",
-      "langgraph",
-      "nextjs"
-    ],
-    "created_at": "2025-03-18T08:50:42",
-    "updated_at": "2025-03-24T03:00:41"
-  },
-  {
-    "name": "Deep-Research-AI-Agent",
-    "full_name": "codebucks27/Deep-Research-AI-Agent",
-    "description": "Build a powerful Deep Research AI agent like Gemini or ChatGPT. Using Next.js, Vercel AI SDK, and Exa Search API, An intelligent system that generates follow-up questions, crafts optimal search queries, and compiles comprehensive research reports.",
-    "url": "https://github.com/codebucks27/Deep-Research-AI-Agent",
-    "stars": 14,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "chatgpt",
-      "deep-research",
-      "deep-search",
-      "deepseek",
-      "exa-search",
-      "gemini",
+      "axios",
+      "cheerio",
+      "crawler",
+      "docker",
+      "express",
+      "expressjs",
+      "gemini-api",
+      "google-generative-ai",
+      "mongodb",
+      "mongoose",
       "nextjs",
-      "openai",
-      "openrouter",
+      "nodejs",
+      "puppeteer",
+      "react",
       "shadcn-ui",
       "tailwindcss",
-      "vercel-ai-sdk"
+      "typescript",
+      "vercel",
+      "vercel-deployment"
     ],
-    "created_at": "2025-03-20T10:16:18",
-    "updated_at": "2025-03-24T03:53:52"
+    "created_at": "2025-03-06T01:50:19",
+    "updated_at": "2025-03-24T08:11:55"
   },
   {
-    "name": "Platform-IO",
-    "full_name": "developers-together/Platform-IO",
-    "description": "Platform-IO (V1) – An AI-enhanced, collaborative development platform by DevSync. Built with React (front-end), Laravel/PHP (back-end), Python, Gemini AI, SQLite, and an FTP-based shared file system. Created for the Salam Hackathon (13–20 Ramadan 1446), led by Adham Haitham.",
-    "url": "https://github.com/developers-together/Platform-IO",
-    "stars": 14,
+    "name": "ai-rules-builder",
+    "full_name": "przeprogramowani/ai-rules-builder",
+    "description": "Generate \"Rules for AI\". Quickly ✨",
+    "url": "https://github.com/przeprogramowani/ai-rules-builder",
+    "stars": 62,
     "daily_stars": 1,
-    "language": "JavaScript",
+    "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "ai-chatbot",
-      "apis",
-      "css",
-      "file-management",
-      "filesystem",
-      "ftp",
-      "image-analyzer",
-      "interactive-ui",
-      "laravel",
-      "python-script",
-      "reactjs",
-      "search-assistant"
+      "astro",
+      "cline",
+      "copilot",
+      "cursor",
+      "react",
+      "rules-for-ai",
+      "windsurf"
     ],
-    "created_at": "2025-03-10T23:14:05",
-    "updated_at": "2025-03-24T03:40:14"
+    "created_at": "2025-03-13T18:41:11",
+    "updated_at": "2025-03-24T07:02:57"
   },
   {
-    "name": "autogen-agent-server",
-    "full_name": "wronkiew/autogen-agent-server",
-    "description": "Lightweight server for developing conversational agents using Microsoft AutoGen 0.4",
-    "url": "https://github.com/wronkiew/autogen-agent-server",
-    "stars": 11,
+    "name": "spongecake",
+    "full_name": "aditya-nadkarni/spongecake",
+    "description": "Spongecake is the easiest way to launch computer use agents.",
+    "url": "https://github.com/aditya-nadkarni/spongecake",
+    "stars": 58,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai-agents",
       "ai-agents-framework",
-      "autogen-sample",
-      "openai-api"
-    ],
-    "created_at": "2025-03-13T04:36:56",
-    "updated_at": "2025-03-24T03:00:36"
-  },
-  {
-    "name": "EarnWithAI",
-    "full_name": "garymengcom/EarnWithAI",
-    "description": "A list of open-source AI projects you can use to generate income easily.",
-    "url": "https://github.com/garymengcom/EarnWithAI",
-    "stars": 2,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "ai-agents",
+      "automation",
+      "computer-use",
+      "docker",
       "llm",
-      "open-source",
-      "open-source-ai"
+      "openai",
+      "python"
     ],
-    "created_at": "2025-03-19T09:01:38",
-    "updated_at": "2025-03-24T03:30:45"
+    "created_at": "2025-03-08T00:54:44",
+    "updated_at": "2025-03-24T07:02:00"
   }
 ]
