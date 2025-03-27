@@ -4,8 +4,8 @@
     "full_name": "roboflow/rf-detr",
     "description": "RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license.",
     "url": "https://github.com/roboflow/rf-detr",
-    "stars": 1308,
-    "daily_stars": 25,
+    "stars": 1330,
+    "daily_stars": 22,
     "language": "Python",
     "topics": [
       "computer-vision",
@@ -15,15 +15,15 @@
       "rf-detr"
     ],
     "created_at": "2025-03-19T20:43:00",
-    "updated_at": "2025-03-27T16:42:07"
+    "updated_at": "2025-03-27T20:24:36"
   },
   {
     "name": "owl",
     "full_name": "camel-ai/owl",
     "description": "🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
     "url": "https://github.com/camel-ai/owl",
-    "stars": 14503,
-    "daily_stars": 13,
+    "stars": 14511,
+    "daily_stars": 8,
     "language": "Python",
     "topics": [
       "agent",
@@ -33,59 +33,76 @@
       "web-interaction"
     ],
     "created_at": "2025-03-03T15:42:51",
-    "updated_at": "2025-03-27T16:26:37"
+    "updated_at": "2025-03-27T20:23:53"
   },
   {
-    "name": "choturobo",
-    "full_name": "vishalmysore/choturobo",
-    "description": "Integrate Arduino-based robotics (using the NodeMCU ESP32 or Arduino Nano 368 board) with AI using the MCP (Model Context Protocol) framework from Claude Anthropic",
-    "url": "https://github.com/vishalmysore/choturobo",
-    "stars": 4,
-    "daily_stars": 2,
-    "language": "C++",
+    "name": "awesome-web-agents",
+    "full_name": "steel-dev/awesome-web-agents",
+    "description": "🔥 A list of tools, frameworks, and resources for building AI web agents",
+    "url": "https://github.com/steel-dev/awesome-web-agents",
+    "stars": 204,
+    "daily_stars": 4,
+    "language": null,
     "topics": [
-      "anthropic-claude",
-      "antrophic",
-      "ardiuno",
-      "artificial-intelligence",
-      "artificial-neural-networks",
-      "claude-ai",
-      "robot",
-      "robotics"
+      "ai",
+      "ai-agents",
+      "browser-automation",
+      "llms",
+      "llms-benchmarking"
     ],
-    "created_at": "2025-03-12T22:32:52",
-    "updated_at": "2025-03-27T13:20:59"
+    "created_at": "2025-03-06T05:23:47",
+    "updated_at": "2025-03-27T19:26:51"
   },
   {
-    "name": "minecraft-mcp-server",
-    "full_name": "yuniko-software/minecraft-mcp-server",
-    "description": "A Minecraft MCP Server powered by Mineflayer API. It allows to control a Minecraft character in real-time, allowing AI assistants to build structures, explore the world, and interact with the game environment through natural language instruction",
-    "url": "https://github.com/yuniko-software/minecraft-mcp-server",
-    "stars": 21,
+    "name": "recommendarr",
+    "full_name": "fingerthief/recommendarr",
+    "description": "An AI driven reccommendation system based on Radarr and Sonarr library information",
+    "url": "https://github.com/fingerthief/recommendarr",
+    "stars": 573,
     "daily_stars": 1,
-    "language": "JavaScript",
+    "language": "Vue",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "local",
+      "local-llm-integration",
+      "radarr",
+      "recommendation",
+      "self-hosted",
+      "sonarr",
+      "vue",
+      "vuejs"
+    ],
+    "created_at": "2025-03-01T01:37:53",
+    "updated_at": "2025-03-27T18:40:37"
+  },
+  {
+    "name": "Awesome-Embodied-AI",
+    "full_name": "wadeKeith/Awesome-Embodied-AI",
+    "description": "An Introduction to Embodied Intelligence (A Quick Guide of Embodied-AI)",
+    "url": "https://github.com/wadeKeith/Awesome-Embodied-AI",
+    "stars": 53,
+    "daily_stars": 1,
+    "language": null,
     "topics": [
       "artificial-intelligence",
-      "claude",
-      "javascript",
+      "embodied-ai",
+      "embodied-artificial-intelligence",
+      "embodied-intelligence",
       "large-language-models",
-      "mcp",
-      "mcp-server",
-      "minecraft",
-      "modelcontextprotocol",
-      "natural-language-processing",
-      "nodejs",
-      "typescript"
+      "reinforcement-learning",
+      "robotics",
+      "vision-language-model"
     ],
-    "created_at": "2025-03-20T17:59:31",
-    "updated_at": "2025-03-27T13:08:43"
+    "created_at": "2025-03-17T12:59:00",
+    "updated_at": "2025-03-27T17:50:20"
   },
   {
     "name": "alf-t5",
     "full_name": "matjsz/alf-t5",
     "description": "ALF-T5 - Adaptative Language Framework for T5 is a Machine Learning framework for Neural Machine Translation Systems training and, subsequently, bidirectional translation.",
     "url": "https://github.com/matjsz/alf-t5",
-    "stars": 8,
+    "stars": 9,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -97,98 +114,83 @@
       "nmt"
     ],
     "created_at": "2025-03-22T01:37:28",
-    "updated_at": "2025-03-27T14:32:07"
+    "updated_at": "2025-03-27T17:52:51"
   },
   {
-    "name": "Cyber-Attack-Threat-Classification",
-    "full_name": "2000pawan/Cyber-Attack-Threat-Classification",
-    "description": "Cyber Attack Threat Classification using CICIDS2017 dataset.",
-    "url": "https://github.com/2000pawan/Cyber-Attack-Threat-Classification",
-    "stars": 2,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "artificial-intelligence",
-      "cyber-threat-intelligence",
-      "cyberattack-detection",
-      "cybersecurity",
-      "data-science",
-      "machine-learning",
-      "python"
-    ],
-    "created_at": "2025-03-26T18:10:56",
-    "updated_at": "2025-03-27T16:36:56"
-  },
-  {
-    "name": "awesome-web-agents",
-    "full_name": "steel-dev/awesome-web-agents",
-    "description": "🔥 A list of tools, frameworks, and resources for building AI web agents",
-    "url": "https://github.com/steel-dev/awesome-web-agents",
-    "stars": 200,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-agents",
-      "browser-automation",
-      "llms",
-      "llms-benchmarking"
-    ],
-    "created_at": "2025-03-06T05:23:47",
-    "updated_at": "2025-03-27T16:43:18"
-  },
-  {
-    "name": "CortexON",
-    "full_name": "TheAgenticAI/CortexON",
-    "description": "Open-source generalized AI agent for everyday task automations.",
-    "url": "https://github.com/TheAgenticAI/CortexON",
-    "stars": 184,
+    "name": "desktop4mistral",
+    "full_name": "hathibelagal-dev/desktop4mistral",
+    "description": "A desktop client with MCP support for Mistral LLMs",
+    "url": "https://github.com/hathibelagal-dev/desktop4mistral",
+    "stars": 3,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "ai-agents",
-      "automation",
-      "genai",
+      "artificial-intelligence",
+      "chat",
+      "desktop-app",
+      "gui",
       "llm",
-      "multi-agent",
-      "reasoning",
-      "reasoning-agent"
+      "mcp",
+      "mistral",
+      "mistralai",
+      "qt6"
     ],
-    "created_at": "2025-03-10T13:51:08",
-    "updated_at": "2025-03-27T14:05:15"
+    "created_at": "2025-03-10T11:33:21",
+    "updated_at": "2025-03-27T20:07:58"
   },
   {
-    "name": "manus-js",
-    "full_name": "duongnguyen321/manus-js",
-    "description": "An intelligent web research and analysis tool powered by OpenAI GPT models and browser automation. Manus JS streamlines the process of gathering, analyzing, and synthesizing information from web sources.",
-    "url": "https://github.com/duongnguyen321/manus-js",
+    "name": "deep-dive-into-llm",
+    "full_name": "JawherKl/deep-dive-into-llm",
+    "description": "Deep Dive into Large Language Models (LLMs) – A comprehensive study of Large Language Models, from their inner workings and architecture to their applications, challenges, and future.",
+    "url": "https://github.com/JawherKl/deep-dive-into-llm",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "llm",
+      "llmops"
+    ],
+    "created_at": "2025-03-27T15:14:48",
+    "updated_at": "2025-03-27T17:39:24"
+  },
+  {
+    "name": "NextIBS-Lessons",
+    "full_name": "isi-mube/NextIBS-Lessons",
+    "description": "This repository contains materials for classes at Next International Business School.",
+    "url": "https://github.com/isi-mube/NextIBS-Lessons",
     "stars": 7,
     "daily_stars": 1,
-    "language": "TypeScript",
+    "language": "Jupyter Notebook",
     "topics": [
-      "ai-agents",
-      "langchain",
-      "manus",
-      "openai",
-      "typescript"
+      "data-visualization",
+      "environment",
+      "machine-learning",
+      "streamlit"
     ],
-    "created_at": "2025-03-16T08:50:31",
-    "updated_at": "2025-03-27T15:15:36"
+    "created_at": "2025-03-09T17:56:11",
+    "updated_at": "2025-03-27T20:36:50"
   },
   {
-    "name": "open-responses",
-    "full_name": "masaic-ai-platform/open-responses",
-    "description": "OpenResponses API empowers developers to leverage the incredible capabilities of various LLM providers through a familiar interface - the OpenAI Responses API structure. ",
-    "url": "https://github.com/masaic-ai-platform/open-responses",
-    "stars": 5,
-    "daily_stars": 1,
-    "language": "Kotlin",
+    "name": "UE5-MCP",
+    "full_name": "VedantRGosavi/UE5-MCP",
+    "description": "MCP for Unreal Engine 5",
+    "url": "https://github.com/VedantRGosavi/UE5-MCP",
+    "stars": 175,
+    "daily_stars": 0,
+    "language": null,
     "topics": [
-      "ai-agents",
-      "ai-services",
-      "multi-agent-systems"
+      "ai",
+      "artificial-intelligence",
+      "game-development",
+      "game-engine",
+      "mcp",
+      "mcp-server",
+      "unreal-engine",
+      "unreal-engine-5"
     ],
-    "created_at": "2025-03-16T07:21:24",
-    "updated_at": "2025-03-27T13:31:22"
+    "created_at": "2025-03-15T17:12:55",
+    "updated_at": "2025-03-27T11:15:13"
   }
 ]
