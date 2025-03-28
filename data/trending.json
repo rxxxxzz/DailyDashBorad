@@ -4,8 +4,8 @@
     "full_name": "camel-ai/owl",
     "description": "🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
     "url": "https://github.com/camel-ai/owl",
-    "stars": 14539,
-    "daily_stars": 14,
+    "stars": 14560,
+    "daily_stars": 21,
     "language": "Python",
     "topics": [
       "agent",
@@ -15,15 +15,15 @@
       "web-interaction"
     ],
     "created_at": "2025-03-03T15:42:51",
-    "updated_at": "2025-03-28T04:35:47"
+    "updated_at": "2025-03-28T08:39:14"
   },
   {
     "name": "rf-detr",
     "full_name": "roboflow/rf-detr",
     "description": "RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license.",
     "url": "https://github.com/roboflow/rf-detr",
-    "stars": 1361,
-    "daily_stars": 11,
+    "stars": 1378,
+    "daily_stars": 17,
     "language": "Python",
     "topics": [
       "computer-vision",
@@ -33,15 +33,15 @@
       "rf-detr"
     ],
     "created_at": "2025-03-19T20:43:00",
-    "updated_at": "2025-03-28T04:39:52"
+    "updated_at": "2025-03-28T08:44:16"
   },
   {
     "name": "CortexON",
     "full_name": "TheAgenticAI/CortexON",
     "description": "Open-source generalized AI agent for everyday task automations.",
     "url": "https://github.com/TheAgenticAI/CortexON",
-    "stars": 234,
-    "daily_stars": 9,
+    "stars": 246,
+    "daily_stars": 12,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -53,123 +53,33 @@
       "reasoning-agent"
     ],
     "created_at": "2025-03-10T13:51:08",
-    "updated_at": "2025-03-28T04:35:47"
+    "updated_at": "2025-03-28T08:39:56"
   },
   {
-    "name": "awesome-web-agents",
-    "full_name": "steel-dev/awesome-web-agents",
-    "description": "🔥 A list of tools, frameworks, and resources for building AI web agents",
-    "url": "https://github.com/steel-dev/awesome-web-agents",
-    "stars": 209,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-agents",
-      "browser-automation",
-      "llms",
-      "llms-benchmarking"
-    ],
-    "created_at": "2025-03-06T05:23:47",
-    "updated_at": "2025-03-28T03:14:00"
-  },
-  {
-    "name": "engineered-meta-cognitive-workflow-architecture",
-    "full_name": "entrepeneur4lyf/engineered-meta-cognitive-workflow-architecture",
-    "description": "Meta-Cognitive Workflow Architecture",
-    "url": "https://github.com/entrepeneur4lyf/engineered-meta-cognitive-workflow-architecture",
-    "stars": 109,
-    "daily_stars": 2,
-    "language": "HTML",
-    "topics": [
-      "ai",
-      "coding",
-      "codingassistant",
-      "machine-learning",
-      "prompt",
-      "prompt-engineering",
-      "prompts",
-      "prompts-template"
-    ],
-    "created_at": "2025-03-11T01:22:50",
-    "updated_at": "2025-03-28T04:30:51"
-  },
-  {
-    "name": "minecraft-mcp-server",
-    "full_name": "yuniko-software/minecraft-mcp-server",
-    "description": "A Minecraft MCP Server powered by Mineflayer API. It allows to control a Minecraft character in real-time, allowing AI assistants to build structures, explore the world, and interact with the game environment through natural language instruction",
-    "url": "https://github.com/yuniko-software/minecraft-mcp-server",
-    "stars": 22,
-    "daily_stars": 1,
-    "language": "JavaScript",
-    "topics": [
-      "artificial-intelligence",
-      "claude",
-      "javascript",
-      "large-language-models",
-      "mcp",
-      "mcp-server",
-      "minecraft",
-      "modelcontextprotocol",
-      "natural-language-processing",
-      "nodejs",
-      "typescript"
-    ],
-    "created_at": "2025-03-20T17:59:31",
-    "updated_at": "2025-03-28T03:01:12"
-  },
-  {
-    "name": "Deep-Research-AI-Agent",
-    "full_name": "codebucks27/Deep-Research-AI-Agent",
-    "description": "Build a powerful Deep Research AI agent like Gemini or ChatGPT. Using Next.js, Vercel AI SDK, and Exa Search API, An intelligent system that generates follow-up questions, crafts optimal search queries, and compiles comprehensive research reports.",
-    "url": "https://github.com/codebucks27/Deep-Research-AI-Agent",
-    "stars": 18,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "chatgpt",
-      "deep-research",
-      "deep-search",
-      "deepseek",
-      "exa-search",
-      "gemini",
-      "nextjs",
-      "openai",
-      "openrouter",
-      "shadcn-ui",
-      "tailwindcss",
-      "vercel-ai-sdk"
-    ],
-    "created_at": "2025-03-20T10:16:18",
-    "updated_at": "2025-03-28T02:45:06"
-  },
-  {
-    "name": "losh",
-    "full_name": "attentionmech/losh",
-    "description": "under construction",
-    "url": "https://github.com/attentionmech/losh",
-    "stars": 3,
-    "daily_stars": 1,
+    "name": "mav",
+    "full_name": "attentionmech/mav",
+    "description": "mav",
+    "url": "https://github.com/attentionmech/mav",
+    "stars": 67,
+    "daily_stars": 12,
     "language": "Python",
     "topics": [
-      "experiments",
-      "fine-tuning",
       "large-language-models",
-      "machine-learning"
+      "llm-inference",
+      "machine-learning",
+      "terminal-app",
+      "visualization"
     ],
-    "created_at": "2025-03-20T13:15:09",
-    "updated_at": "2025-03-28T02:21:01"
+    "created_at": "2025-03-26T23:54:39",
+    "updated_at": "2025-03-28T08:41:11"
   },
   {
     "name": "recommendarr",
     "full_name": "fingerthief/recommendarr",
     "description": "An AI driven reccommendation system based on Radarr and Sonarr library information",
     "url": "https://github.com/fingerthief/recommendarr",
-    "stars": 574,
-    "daily_stars": 0,
+    "stars": 576,
+    "daily_stars": 2,
     "language": "Vue",
     "topics": [
       "ai",
@@ -184,15 +94,15 @@
       "vuejs"
     ],
     "created_at": "2025-03-01T01:37:53",
-    "updated_at": "2025-03-27T21:12:11"
+    "updated_at": "2025-03-28T07:43:17"
   },
   {
     "name": "UE5-MCP",
     "full_name": "VedantRGosavi/UE5-MCP",
     "description": "MCP for Unreal Engine 5",
     "url": "https://github.com/VedantRGosavi/UE5-MCP",
-    "stars": 175,
-    "daily_stars": 0,
+    "stars": 177,
+    "daily_stars": 2,
     "language": null,
     "topics": [
       "ai",
@@ -205,6 +115,84 @@
       "unreal-engine-5"
     ],
     "created_at": "2025-03-15T17:12:55",
-    "updated_at": "2025-03-27T11:15:13"
+    "updated_at": "2025-03-28T06:23:56"
+  },
+  {
+    "name": "awesome-web-agents",
+    "full_name": "steel-dev/awesome-web-agents",
+    "description": "🔥 A list of tools, frameworks, and resources for building AI web agents",
+    "url": "https://github.com/steel-dev/awesome-web-agents",
+    "stars": 211,
+    "daily_stars": 2,
+    "language": null,
+    "topics": [
+      "ai",
+      "ai-agents",
+      "browser-automation",
+      "llms",
+      "llms-benchmarking"
+    ],
+    "created_at": "2025-03-06T05:23:47",
+    "updated_at": "2025-03-28T07:25:25"
+  },
+  {
+    "name": "engineered-meta-cognitive-workflow-architecture",
+    "full_name": "entrepeneur4lyf/engineered-meta-cognitive-workflow-architecture",
+    "description": "Meta-Cognitive Workflow Architecture",
+    "url": "https://github.com/entrepeneur4lyf/engineered-meta-cognitive-workflow-architecture",
+    "stars": 111,
+    "daily_stars": 2,
+    "language": "HTML",
+    "topics": [
+      "ai",
+      "coding",
+      "codingassistant",
+      "machine-learning",
+      "prompt",
+      "prompt-engineering",
+      "prompts",
+      "prompts-template"
+    ],
+    "created_at": "2025-03-11T01:22:50",
+    "updated_at": "2025-03-28T07:58:00"
+  },
+  {
+    "name": "awesome-daily-AI-arxiv",
+    "full_name": "Tavish9/awesome-daily-AI-arxiv",
+    "description": "🚀 Daily AI Research Digest: Tracking breakthroughs in AI/NLP/CV/Robotics with dynamic updates and paper navigation.",
+    "url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+    "stars": 5,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "academic-paper",
+      "artificial-intelligence",
+      "arxiv",
+      "arxiv-papers",
+      "paper-digest",
+      "research-tools"
+    ],
+    "created_at": "2025-03-26T13:26:14",
+    "updated_at": "2025-03-28T06:58:34"
+  },
+  {
+    "name": "awesome-vibe-coding",
+    "full_name": "filipecalegario/awesome-vibe-coding",
+    "description": "A curated list of vibe coding references, colaborating with AI to write code.",
+    "url": "https://github.com/filipecalegario/awesome-vibe-coding",
+    "stars": 196,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "ai-agent",
+      "ai-agents",
+      "ai-coding-assistant",
+      "ai-coding-tools",
+      "cursor",
+      "lovable",
+      "vibe-coding"
+    ],
+    "created_at": "2025-03-13T17:46:56",
+    "updated_at": "2025-03-28T06:16:31"
   }
 ]
