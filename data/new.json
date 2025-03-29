@@ -4,7 +4,7 @@
     "full_name": "attentionmech/mav",
     "description": "mav",
     "url": "https://github.com/attentionmech/mav",
-    "stars": 92,
+    "stars": 93,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -15,7 +15,7 @@
       "visualization"
     ],
     "created_at": "2025-03-26T23:54:39",
-    "updated_at": "2025-03-29T07:21:47"
+    "updated_at": "2025-03-29T11:22:39"
   },
   {
     "name": "Trigon-Evo",
@@ -45,6 +45,23 @@
     "updated_at": "2025-03-28T19:28:07"
   },
   {
+    "name": "llm-tournament",
+    "full_name": "Dicklesworthstone/llm-tournament",
+    "description": "Automated LLM Coding Tournaments. There can be only one (winning code solution from the competing AIs)",
+    "url": "https://github.com/Dicklesworthstone/llm-tournament",
+    "stars": 10,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "competing-agents",
+      "evolutionary-computation",
+      "llm-coder"
+    ],
+    "created_at": "2025-03-23T03:59:50",
+    "updated_at": "2025-03-28T20:47:21"
+  },
+  {
     "name": "vibe-check-mcp-server",
     "full_name": "PV-Bhat/vibe-check-mcp-server",
     "description": "The definitive Vibe Coder's sanity check MCP server: Prevent cascading errors in AI workflows by implementing strategic pattern interrupts. Uses tool call \"Vibe Check\" with LearnLM 1.5 Pro (Gemini API), fine-tuned for pedagogy and metacognition to enhance complex workflow strategy, and prevents tunnel vision errors.",
@@ -72,23 +89,6 @@
     "updated_at": "2025-03-27T09:59:23"
   },
   {
-    "name": "llm-tournament",
-    "full_name": "Dicklesworthstone/llm-tournament",
-    "description": "Automated LLM Coding Tournaments. There can be only one (winning code solution from the competing AIs)",
-    "url": "https://github.com/Dicklesworthstone/llm-tournament",
-    "stars": 10,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "competing-agents",
-      "evolutionary-computation",
-      "llm-coder"
-    ],
-    "created_at": "2025-03-23T03:59:50",
-    "updated_at": "2025-03-28T20:47:21"
-  },
-  {
     "name": "alf-t5",
     "full_name": "matjsz/alf-t5",
     "description": "ALF-T5 - Adaptative Language Framework for T5 is a Machine Learning framework for Neural Machine Translation Systems training and, subsequently, bidirectional translation.",
@@ -125,46 +125,14 @@
     ],
     "created_at": "2025-03-22T01:37:28",
     "updated_at": "2025-03-29T01:04:04"
-  },
-  {
-    "name": "AI-clip-creator",
-    "full_name": "Vijax0/AI-clip-creator",
-    "description": "A Flask frontend for a machine learning model that identifies and extracts interesting moments from videos, creating standalone clips without manual editing.",
-    "url": "https://github.com/Vijax0/AI-clip-creator",
-    "stars": 7,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "flask",
-      "machine-learning",
-      "python"
-    ],
-    "created_at": "2025-03-23T01:59:32",
-    "updated_at": "2025-03-28T23:24:36"
-  },
-  {
-    "name": "AI-clip-creator",
-    "full_name": "Vijax0/AI-clip-creator",
-    "description": "A Flask frontend for a machine learning model that identifies and extracts interesting moments from videos, creating standalone clips without manual editing.",
-    "url": "https://github.com/Vijax0/AI-clip-creator",
-    "stars": 7,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "flask",
-      "machine-learning",
-      "python"
-    ],
-    "created_at": "2025-03-23T01:59:32",
-    "updated_at": "2025-03-28T23:24:36"
   },
   {
     "name": "awesome-daily-AI-arxiv",
     "full_name": "Tavish9/awesome-daily-AI-arxiv",
     "description": "🚀 Daily AI Research Digest: Tracking breakthroughs in AI/NLP/CV/Robotics with dynamic updates and paper navigation.",
     "url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
-    "stars": 6,
-    "daily_stars": 0,
+    "stars": 7,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "academic-paper",
@@ -175,7 +143,39 @@
       "research-tools"
     ],
     "created_at": "2025-03-26T13:26:14",
-    "updated_at": "2025-03-29T03:00:22"
+    "updated_at": "2025-03-29T12:03:35"
+  },
+  {
+    "name": "AI-clip-creator",
+    "full_name": "Vijax0/AI-clip-creator",
+    "description": "A Flask frontend for a machine learning model that identifies and extracts interesting moments from videos, creating standalone clips without manual editing.",
+    "url": "https://github.com/Vijax0/AI-clip-creator",
+    "stars": 7,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [
+      "flask",
+      "machine-learning",
+      "python"
+    ],
+    "created_at": "2025-03-23T01:59:32",
+    "updated_at": "2025-03-28T23:24:36"
+  },
+  {
+    "name": "AI-clip-creator",
+    "full_name": "Vijax0/AI-clip-creator",
+    "description": "A Flask frontend for a machine learning model that identifies and extracts interesting moments from videos, creating standalone clips without manual editing.",
+    "url": "https://github.com/Vijax0/AI-clip-creator",
+    "stars": 7,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [
+      "flask",
+      "machine-learning",
+      "python"
+    ],
+    "created_at": "2025-03-23T01:59:32",
+    "updated_at": "2025-03-28T23:24:36"
   },
   {
     "name": "WPS-Office-Premium",
