@@ -1,29 +1,11 @@
 [
   {
-    "name": "owl",
-    "full_name": "camel-ai/owl",
-    "description": "🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
-    "url": "https://github.com/camel-ai/owl",
-    "stars": 14828,
-    "daily_stars": 13,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "artificial-intelligence",
-      "multi-agent-systems",
-      "task-automation",
-      "web-interaction"
-    ],
-    "created_at": "2025-03-03T15:42:51",
-    "updated_at": "2025-03-31T16:23:16"
-  },
-  {
     "name": "guMCP",
     "full_name": "gumloop/guMCP",
     "description": "Gumloop Unified Model Context Protocol (guMCP)",
     "url": "https://github.com/gumloop/guMCP",
-    "stars": 89,
-    "daily_stars": 6,
+    "stars": 124,
+    "daily_stars": 35,
     "language": "Python",
     "topics": [
       "ai",
@@ -33,15 +15,33 @@
       "workflow"
     ],
     "created_at": "2025-03-20T00:01:52",
-    "updated_at": "2025-03-31T15:28:44"
+    "updated_at": "2025-03-31T20:39:00"
+  },
+  {
+    "name": "owl",
+    "full_name": "camel-ai/owl",
+    "description": "🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+    "url": "https://github.com/camel-ai/owl",
+    "stars": 14839,
+    "daily_stars": 11,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "artificial-intelligence",
+      "multi-agent-systems",
+      "task-automation",
+      "web-interaction"
+    ],
+    "created_at": "2025-03-03T15:42:51",
+    "updated_at": "2025-03-31T20:16:25"
   },
   {
     "name": "rf-detr",
     "full_name": "roboflow/rf-detr",
     "description": "RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license.",
     "url": "https://github.com/roboflow/rf-detr",
-    "stars": 1523,
-    "daily_stars": 4,
+    "stars": 1529,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "computer-vision",
@@ -51,15 +51,15 @@
       "rf-detr"
     ],
     "created_at": "2025-03-19T20:43:00",
-    "updated_at": "2025-03-31T16:47:23"
+    "updated_at": "2025-03-31T20:29:43"
   },
   {
     "name": "flash-tokenizer",
     "full_name": "NLPOptimize/flash-tokenizer",
     "description": "EFFICIENT AND OPTIMIZED TOKENIZER ENGINE FOR LLM INFERENCE SERVING",
     "url": "https://github.com/NLPOptimize/flash-tokenizer",
-    "stars": 92,
-    "daily_stars": 4,
+    "stars": 94,
+    "daily_stars": 2,
     "language": "C++",
     "topics": [
       "berttokenizer",
@@ -71,80 +71,56 @@
       "wordpiece-tokenization"
     ],
     "created_at": "2025-03-09T00:26:27",
-    "updated_at": "2025-03-31T15:46:54"
+    "updated_at": "2025-03-31T17:33:30"
   },
   {
-    "name": "Neurathon-25",
-    "full_name": "Auth0r-C0dez/Neurathon-25",
-    "description": "This model can generate Floor Plans using AI and pre-trained multi-models.",
-    "url": "https://github.com/Auth0r-C0dez/Neurathon-25",
-    "stars": 5,
-    "daily_stars": 3,
-    "language": "Jupyter Notebook",
+    "name": "choturobo",
+    "full_name": "vishalmysore/choturobo",
+    "description": "Integrate Arduino-based robotics (using the NodeMCU ESP32 or Arduino Nano 368 board) with AI using the MCP (Model Context Protocol) framework from Claude Anthropic",
+    "url": "https://github.com/vishalmysore/choturobo",
+    "stars": 11,
+    "daily_stars": 1,
+    "language": "C++",
     "topics": [
+      "anthropic-claude",
+      "antrophic",
+      "ardiuno",
       "artificial-intelligence",
-      "controlnetmodel",
-      "fine-tuning",
-      "floorplans",
-      "stability-ai",
-      "stable-diffusion"
+      "artificial-neural-networks",
+      "claude-ai",
+      "robot",
+      "robotics"
     ],
-    "created_at": "2025-03-21T16:15:24",
-    "updated_at": "2025-03-31T16:07:32"
+    "created_at": "2025-03-12T22:32:52",
+    "updated_at": "2025-03-31T17:58:20"
   },
   {
-    "name": "UE5-MCP",
-    "full_name": "VedantRGosavi/UE5-MCP",
-    "description": "MCP for Unreal Engine 5",
-    "url": "https://github.com/VedantRGosavi/UE5-MCP",
-    "stars": 187,
-    "daily_stars": 2,
-    "language": null,
+    "name": "ai-knowledge-graph",
+    "full_name": "robert-mcdermott/ai-knowledge-graph",
+    "description": "AI Powered Knowledge Graph Generator",
+    "url": "https://github.com/robert-mcdermott/ai-knowledge-graph",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "HTML",
     "topics": [
-      "ai",
       "artificial-intelligence",
-      "game-development",
-      "game-engine",
-      "mcp",
-      "mcp-server",
-      "unreal-engine",
-      "unreal-engine-5"
+      "knowledge-distillation",
+      "knowledge-graph",
+      "llm",
+      "networkx",
+      "pyvis",
+      "visualization"
     ],
-    "created_at": "2025-03-15T17:12:55",
-    "updated_at": "2025-03-31T14:00:32"
-  },
-  {
-    "name": "TFX-Pipeline-Automation",
-    "full_name": "wanted-VIP/TFX-Pipeline-Automation",
-    "description": "The TFX Automation Bot is a cutting-edge Python-based tool designed to streamline machine learning pipelines and optimize TensorFlow Extended (TFX) workflows. This bot automates model training, validation, deployment, and monitoring, making AI development seamless and efficient.",
-    "url": "https://github.com/wanted-VIP/TFX-Pipeline-Automation",
-    "stars": 4,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "ai-tools",
-      "artificial-intelligence",
-      "automation",
-      "automation-tools",
-      "big-data",
-      "china",
-      "data-pipeline",
-      "deep-learning",
-      "machine-learning",
-      "tensorflow",
-      "tfx",
-      "tfx-pipeline"
-    ],
-    "created_at": "2025-03-30T00:30:56",
-    "updated_at": "2025-03-31T16:42:07"
+    "created_at": "2025-03-23T04:38:15",
+    "updated_at": "2025-03-31T20:32:55"
   },
   {
     "name": "awesome-vibe-coding",
     "full_name": "filipecalegario/awesome-vibe-coding",
     "description": "A curated list of vibe coding references, colaborating with AI to write code.",
     "url": "https://github.com/filipecalegario/awesome-vibe-coding",
-    "stars": 215,
-    "daily_stars": 2,
+    "stars": 216,
+    "daily_stars": 1,
     "language": null,
     "topics": [
       "ai-agent",
@@ -156,45 +132,64 @@
       "vibe-coding"
     ],
     "created_at": "2025-03-13T17:46:56",
-    "updated_at": "2025-03-31T16:25:50"
+    "updated_at": "2025-03-31T17:55:18"
   },
   {
-    "name": "mav",
-    "full_name": "attentionmech/mav",
-    "description": "mav",
-    "url": "https://github.com/attentionmech/mav",
-    "stars": 103,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "large-language-models",
-      "llm-inference",
-      "machine-learning",
-      "terminal-app",
-      "visualization"
-    ],
-    "created_at": "2025-03-26T23:54:39",
-    "updated_at": "2025-03-31T15:27:51"
-  },
-  {
-    "name": "Awesome-Embodied-AI",
-    "full_name": "wadeKeith/Awesome-Embodied-AI",
-    "description": "An Introduction to Embodied Intelligence (A Quick Guide of Embodied-AI)",
-    "url": "https://github.com/wadeKeith/Awesome-Embodied-AI",
-    "stars": 56,
+    "name": "canvas-callback",
+    "full_name": "ahmad2b/canvas-callback",
+    "description": "This open-source project & guide shows you exactly how to implement Canvas UX pattern + LangGraph human-in-the-loop workflows in your AI apps.",
+    "url": "https://github.com/ahmad2b/canvas-callback",
+    "stars": 66,
     "daily_stars": 1,
-    "language": null,
+    "language": "TypeScript",
     "topics": [
-      "artificial-intelligence",
-      "embodied-ai",
-      "embodied-artificial-intelligence",
-      "embodied-intelligence",
-      "large-language-models",
-      "reinforcement-learning",
-      "robotics",
-      "vision-language-model"
+      "agents",
+      "ai",
+      "ai-agents",
+      "assistant-ui",
+      "canvas",
+      "human-in-the-loop",
+      "interrupt",
+      "langgraph",
+      "nextjs"
     ],
-    "created_at": "2025-03-17T12:59:00",
-    "updated_at": "2025-03-31T15:58:30"
+    "created_at": "2025-03-18T08:50:42",
+    "updated_at": "2025-03-31T19:54:35"
+  },
+  {
+    "name": "open-responses",
+    "full_name": "masaic-ai-platform/open-responses",
+    "description": "OpenResponses API empowers developers to leverage the incredible capabilities of various LLM providers through a familiar interface - the OpenAI Responses API structure. ",
+    "url": "https://github.com/masaic-ai-platform/open-responses",
+    "stars": 42,
+    "daily_stars": 1,
+    "language": "Kotlin",
+    "topics": [
+      "ai-agents",
+      "ai-services",
+      "multi-agent-systems"
+    ],
+    "created_at": "2025-03-16T07:21:24",
+    "updated_at": "2025-03-31T17:37:31"
+  },
+  {
+    "name": "agent-script",
+    "full_name": "runparse/agent-script",
+    "description": "A simple, observable code-writing agent builder in TypeScript. ",
+    "url": "https://github.com/runparse/agent-script",
+    "stars": 24,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "aiagentframework",
+      "code-agent",
+      "llm-agent",
+      "typescript"
+    ],
+    "created_at": "2025-03-07T16:50:19",
+    "updated_at": "2025-03-31T17:56:56"
   }
 ]
