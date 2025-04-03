@@ -4,8 +4,8 @@
     "full_name": "roboflow/rf-detr",
     "description": "RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license.",
     "url": "https://github.com/roboflow/rf-detr",
-    "stars": 1655,
-    "daily_stars": 22,
+    "stars": 1667,
+    "daily_stars": 12,
     "language": "Python",
     "topics": [
       "computer-vision",
@@ -15,35 +15,36 @@
       "rf-detr"
     ],
     "created_at": "2025-03-19T20:43:00",
-    "updated_at": "2025-04-03T16:32:53"
+    "updated_at": "2025-04-03T19:41:40"
   },
   {
-    "name": "flash-tokenizer",
-    "full_name": "NLPOptimize/flash-tokenizer",
-    "description": "EFFICIENT AND OPTIMIZED TOKENIZER ENGINE FOR LLM INFERENCE SERVING",
-    "url": "https://github.com/NLPOptimize/flash-tokenizer",
-    "stars": 189,
-    "daily_stars": 10,
-    "language": "C++",
+    "name": "spongecake",
+    "full_name": "aditya-nadkarni/spongecake",
+    "description": "Spongecake is the easiest way to launch computer use agents.",
+    "url": "https://github.com/aditya-nadkarni/spongecake",
+    "stars": 87,
+    "daily_stars": 7,
+    "language": "Python",
     "topics": [
-      "berttokenizer",
-      "deep-learning",
-      "flash",
-      "nlp",
-      "python",
-      "wordpiece",
-      "wordpiece-tokenization"
+      "ai-agents",
+      "ai-agents-framework",
+      "automation",
+      "computer-use",
+      "docker",
+      "llm",
+      "openai",
+      "python"
     ],
-    "created_at": "2025-03-09T00:26:27",
-    "updated_at": "2025-04-03T16:42:36"
+    "created_at": "2025-03-08T00:54:44",
+    "updated_at": "2025-04-03T20:10:17"
   },
   {
     "name": "kodus-ai",
     "full_name": "kodustech/kodus-ai",
     "description": "Open source AI code reviews — just like your senior dev would do.",
     "url": "https://github.com/kodustech/kodus-ai",
-    "stars": 42,
-    "daily_stars": 8,
+    "stars": 49,
+    "daily_stars": 7,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -55,14 +56,34 @@
       "generative-ai"
     ],
     "created_at": "2025-03-28T17:05:19",
-    "updated_at": "2025-04-03T16:39:30"
+    "updated_at": "2025-04-03T20:21:59"
+  },
+  {
+    "name": "flash-tokenizer",
+    "full_name": "NLPOptimize/flash-tokenizer",
+    "description": "EFFICIENT AND OPTIMIZED TOKENIZER ENGINE FOR LLM INFERENCE SERVING",
+    "url": "https://github.com/NLPOptimize/flash-tokenizer",
+    "stars": 194,
+    "daily_stars": 5,
+    "language": "C++",
+    "topics": [
+      "berttokenizer",
+      "deep-learning",
+      "flash",
+      "nlp",
+      "python",
+      "wordpiece",
+      "wordpiece-tokenization"
+    ],
+    "created_at": "2025-03-09T00:26:27",
+    "updated_at": "2025-04-03T20:35:24"
   },
   {
     "name": "guMCP",
     "full_name": "gumloop/guMCP",
     "description": "Gumloop Unified Model Context Protocol (guMCP)",
     "url": "https://github.com/gumloop/guMCP",
-    "stars": 267,
+    "stars": 270,
     "daily_stars": 3,
     "language": "Python",
     "topics": [
@@ -73,71 +94,56 @@
       "workflow"
     ],
     "created_at": "2025-03-20T00:01:52",
-    "updated_at": "2025-04-03T16:17:18"
+    "updated_at": "2025-04-03T20:30:06"
   },
   {
-    "name": "CortexON",
-    "full_name": "TheAgenticAI/CortexON",
-    "description": "Open-source generalized AI agent for everyday task automations.",
-    "url": "https://github.com/TheAgenticAI/CortexON",
-    "stars": 290,
+    "name": "awesome-vibe-coding",
+    "full_name": "filipecalegario/awesome-vibe-coding",
+    "description": "A curated list of vibe coding references, colaborating with AI to write code.",
+    "url": "https://github.com/filipecalegario/awesome-vibe-coding",
+    "stars": 240,
     "daily_stars": 2,
-    "language": "Python",
+    "language": null,
     "topics": [
+      "ai-agent",
       "ai-agents",
-      "automation",
-      "genai",
-      "llm",
-      "multi-agent",
-      "reasoning",
-      "reasoning-agent"
-    ],
-    "created_at": "2025-03-10T13:51:08",
-    "updated_at": "2025-04-03T16:45:45"
-  },
-  {
-    "name": "ai-rules-builder",
-    "full_name": "przeprogramowani/ai-rules-builder",
-    "description": "Generate \"Rules for AI\". Quickly ✨",
-    "url": "https://github.com/przeprogramowani/ai-rules-builder",
-    "stars": 80,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "astro",
-      "cline",
-      "copilot",
+      "ai-coding-assistant",
+      "ai-coding-tools",
       "cursor",
-      "react",
-      "rules-for-ai",
-      "windsurf"
+      "lovable",
+      "vibe-coding"
     ],
-    "created_at": "2025-03-13T18:41:11",
-    "updated_at": "2025-04-03T16:44:51"
+    "created_at": "2025-03-13T17:46:56",
+    "updated_at": "2025-04-03T20:27:23"
   },
   {
-    "name": "Orpheus-FastAPI",
-    "full_name": "Lex-au/Orpheus-FastAPI",
-    "description": "High-performance Text-to-Speech server with OpenAI-compatible API, 8 voices, emotion tags, and modern web UI. Optimized for RTX GPUs.",
-    "url": "https://github.com/Lex-au/Orpheus-FastAPI",
-    "stars": 189,
+    "name": "desktop4mistral",
+    "full_name": "hathibelagal-dev/desktop4mistral",
+    "description": "A desktop client with MCP support for Mistral LLMs",
+    "url": "https://github.com/hathibelagal-dev/desktop4mistral",
+    "stars": 8,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "ai-text-to-speech",
-      "ai-voice",
-      "artificial-intelligence"
+      "artificial-intelligence",
+      "chat",
+      "desktop-app",
+      "gui",
+      "llm",
+      "mcp",
+      "mistral",
+      "mistralai",
+      "qt6"
     ],
-    "created_at": "2025-03-21T15:24:16",
-    "updated_at": "2025-04-03T16:02:52"
+    "created_at": "2025-03-10T11:33:21",
+    "updated_at": "2025-04-03T18:21:39"
   },
   {
     "name": "Awesome-AI-Market-Maps",
     "full_name": "joylarkin/Awesome-AI-Market-Maps",
     "description": "An Awesome List of AI Market Maps from 2025 and 2024.",
     "url": "https://github.com/joylarkin/Awesome-AI-Market-Maps",
-    "stars": 3,
+    "stars": 4,
     "daily_stars": 1,
     "language": null,
     "topics": [
@@ -159,54 +165,44 @@
       "venture-capital"
     ],
     "created_at": "2025-03-29T20:38:32",
-    "updated_at": "2025-04-03T16:08:30"
+    "updated_at": "2025-04-03T17:55:40"
   },
   {
-    "name": "spongecake",
-    "full_name": "aditya-nadkarni/spongecake",
-    "description": "Spongecake is the easiest way to launch computer use agents.",
-    "url": "https://github.com/aditya-nadkarni/spongecake",
-    "stars": 80,
+    "name": "CortexON",
+    "full_name": "TheAgenticAI/CortexON",
+    "description": "Open-source generalized AI agent for everyday task automations.",
+    "url": "https://github.com/TheAgenticAI/CortexON",
+    "stars": 291,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai-agents",
-      "ai-agents-framework",
       "automation",
-      "computer-use",
-      "docker",
+      "genai",
       "llm",
-      "openai",
-      "python"
+      "multi-agent",
+      "reasoning",
+      "reasoning-agent"
     ],
-    "created_at": "2025-03-08T00:54:44",
-    "updated_at": "2025-04-03T14:49:04"
+    "created_at": "2025-03-10T13:51:08",
+    "updated_at": "2025-04-03T16:46:36"
   },
   {
-    "name": "vibe-check-mcp-server",
-    "full_name": "PV-Bhat/vibe-check-mcp-server",
-    "description": "The definitive Vibe Coder's sanity check MCP server: Prevent cascading errors in AI workflows by implementing strategic pattern interrupts. Uses tool call \"Vibe Check\" with LearnLM 1.5 Pro (Gemini API), fine-tuned for pedagogy and metacognition to enhance complex workflow strategy, and prevents tunnel vision errors.",
-    "url": "https://github.com/PV-Bhat/vibe-check-mcp-server",
-    "stars": 19,
+    "name": "awesome-web-agents",
+    "full_name": "steel-dev/awesome-web-agents",
+    "description": "🔥 A list of tools, frameworks, and resources for building AI web agents",
+    "url": "https://github.com/steel-dev/awesome-web-agents",
+    "stars": 242,
     "daily_stars": 1,
-    "language": "TypeScript",
+    "language": null,
     "topics": [
-      "agent-based",
-      "agentic-ai",
-      "agentic-workflow",
+      "ai",
       "ai-agents",
-      "automation",
-      "error-handling",
-      "mcp",
-      "mcp-server",
-      "metacognition",
-      "model-context-protocol",
-      "model-context-protocol-servers",
-      "vibe-coding",
-      "vibecoding",
-      "workflow-automation"
+      "browser-automation",
+      "llms",
+      "llms-benchmarking"
     ],
-    "created_at": "2025-03-22T09:33:08",
-    "updated_at": "2025-04-03T14:54:55"
+    "created_at": "2025-03-06T05:23:47",
+    "updated_at": "2025-04-03T17:34:13"
   }
 ]
