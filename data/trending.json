@@ -1,28 +1,10 @@
 [
   {
-    "name": "awesome-web-agents",
-    "full_name": "steel-dev/awesome-web-agents",
-    "description": "🔥 A list of tools, frameworks, and resources for building AI web agents",
-    "url": "https://github.com/steel-dev/awesome-web-agents",
-    "stars": 264,
-    "daily_stars": 20,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-agents",
-      "browser-automation",
-      "llms",
-      "llms-benchmarking"
-    ],
-    "created_at": "2025-03-06T05:23:47",
-    "updated_at": "2025-04-04T12:38:44"
-  },
-  {
     "name": "rf-detr",
     "full_name": "roboflow/rf-detr",
     "description": "RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license.",
     "url": "https://github.com/roboflow/rf-detr",
-    "stars": 1686,
+    "stars": 1691,
     "daily_stars": 5,
     "language": "Python",
     "topics": [
@@ -33,34 +15,84 @@
       "rf-detr"
     ],
     "created_at": "2025-03-19T20:43:00",
-    "updated_at": "2025-04-04T12:42:10"
+    "updated_at": "2025-04-04T15:41:27"
   },
   {
-    "name": "flash-tokenizer",
-    "full_name": "NLPOptimize/flash-tokenizer",
-    "description": "EFFICIENT AND OPTIMIZED TOKENIZER ENGINE FOR LLM INFERENCE SERVING",
-    "url": "https://github.com/NLPOptimize/flash-tokenizer",
-    "stars": 209,
-    "daily_stars": 3,
+    "name": "awesome-web-agents",
+    "full_name": "steel-dev/awesome-web-agents",
+    "description": "🔥 A list of tools, frameworks, and resources for building AI web agents",
+    "url": "https://github.com/steel-dev/awesome-web-agents",
+    "stars": 268,
+    "daily_stars": 4,
+    "language": null,
+    "topics": [
+      "ai",
+      "ai-agents",
+      "browser-automation",
+      "llms",
+      "llms-benchmarking"
+    ],
+    "created_at": "2025-03-06T05:23:47",
+    "updated_at": "2025-04-04T13:22:48"
+  },
+  {
+    "name": "Orpheus-FastAPI",
+    "full_name": "Lex-au/Orpheus-FastAPI",
+    "description": "High-performance Text-to-Speech server with OpenAI-compatible API, 8 voices, emotion tags, and modern web UI. Optimized for RTX GPUs.",
+    "url": "https://github.com/Lex-au/Orpheus-FastAPI",
+    "stars": 192,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai-text-to-speech",
+      "ai-voice",
+      "artificial-intelligence"
+    ],
+    "created_at": "2025-03-21T15:24:16",
+    "updated_at": "2025-04-04T14:35:18"
+  },
+  {
+    "name": "AFLDM",
+    "full_name": "SingleZombie/AFLDM",
+    "description": "[CVPR 2025] Alias-free Latent Diffusion Models official implementation",
+    "url": "https://github.com/SingleZombie/AFLDM",
+    "stars": 49,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "computer-vision"
+    ],
+    "created_at": "2025-03-12T13:05:18",
+    "updated_at": "2025-04-04T14:14:42"
+  },
+  {
+    "name": "choturobo",
+    "full_name": "vishalmysore/choturobo",
+    "description": "Integrate Arduino-based robotics (using the NodeMCU ESP32 or Arduino Nano 368 board) with AI using the MCP (Model Context Protocol) framework from Claude Anthropic",
+    "url": "https://github.com/vishalmysore/choturobo",
+    "stars": 15,
+    "daily_stars": 2,
     "language": "C++",
     "topics": [
-      "berttokenizer",
-      "deep-learning",
-      "flash",
-      "nlp",
-      "python",
-      "wordpiece",
-      "wordpiece-tokenization"
+      "anthropic-claude",
+      "antrophic",
+      "ardiuno",
+      "artificial-intelligence",
+      "artificial-neural-networks",
+      "claude-ai",
+      "robot",
+      "robotics"
     ],
-    "created_at": "2025-03-09T00:26:27",
-    "updated_at": "2025-04-04T11:00:09"
+    "created_at": "2025-03-12T22:32:52",
+    "updated_at": "2025-04-04T14:16:01"
   },
   {
     "name": "CortexON",
     "full_name": "TheAgenticAI/CortexON",
     "description": "Open-source generalized AI agent for everyday task automations.",
     "url": "https://github.com/TheAgenticAI/CortexON",
-    "stars": 294,
+    "stars": 296,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
@@ -73,131 +105,91 @@
       "reasoning-agent"
     ],
     "created_at": "2025-03-10T13:51:08",
-    "updated_at": "2025-04-04T12:45:34"
+    "updated_at": "2025-04-04T15:32:02"
   },
   {
-    "name": "kodus-ai",
-    "full_name": "kodustech/kodus-ai",
-    "description": "Open source AI code reviews — just like your senior dev would do.",
-    "url": "https://github.com/kodustech/kodus-ai",
-    "stars": 61,
+    "name": "ClimaSync",
+    "full_name": "bunnysunny24/ClimaSync",
+    "description": "An intelligent weather forecasting tool that predicts and analyzes future weather trends using machine learning, sorting algorithms, and real-time data visualization.",
+    "url": "https://github.com/bunnysunny24/ClimaSync",
+    "stars": 5,
     "daily_stars": 2,
-    "language": "TypeScript",
+    "language": "JavaScript",
     "topics": [
-      "ai",
-      "ai-agents",
-      "ai-code-review",
-      "ai-coding-tools",
-      "code-review",
-      "coding-assistant",
-      "generative-ai"
+      "csv",
+      "fastapi",
+      "machine-learning",
+      "random-forest",
+      "reactjs"
     ],
-    "created_at": "2025-03-28T17:05:19",
-    "updated_at": "2025-04-04T12:05:22"
+    "created_at": "2025-03-17T07:34:12",
+    "updated_at": "2025-04-04T14:16:58"
   },
   {
-    "name": "guMCP",
-    "full_name": "gumloop/guMCP",
-    "description": "Gumloop Unified Model Context Protocol (guMCP)",
-    "url": "https://github.com/gumloop/guMCP",
-    "stars": 277,
+    "name": "Fall_Detection",
+    "full_name": "bunnysunny24/Fall_Detection",
+    "description": "Full Dectection",
+    "url": "https://github.com/bunnysunny24/Fall_Detection",
+    "stars": 4,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
-      "ai",
-      "automation",
-      "mcp",
-      "mcp-server",
-      "workflow"
+      "csv",
+      "machine-learning",
+      "opnecv"
     ],
-    "created_at": "2025-03-20T00:01:52",
-    "updated_at": "2025-04-04T10:36:39"
+    "created_at": "2025-03-15T18:08:09",
+    "updated_at": "2025-04-04T14:17:00"
   },
   {
-    "name": "Orpheus-FastAPI",
-    "full_name": "Lex-au/Orpheus-FastAPI",
-    "description": "High-performance Text-to-Speech server with OpenAI-compatible API, 8 voices, emotion tags, and modern web UI. Optimized for RTX GPUs.",
-    "url": "https://github.com/Lex-au/Orpheus-FastAPI",
-    "stars": 190,
+    "name": "iattorney-french-legal-rag",
+    "full_name": "gaeldatascience/iattorney-french-legal-rag",
+    "description": "IAttorney is an intelligent legal assistant built using Flask, LangChain, FAISS, OpenAI, and a RAG (Retrieval-Augmented Generation) pipeline.",
+    "url": "https://github.com/gaeldatascience/iattorney-french-legal-rag",
+    "stars": 6,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "ai-text-to-speech",
-      "ai-voice",
-      "artificial-intelligence"
+      "artificial-intelligence",
+      "faiss",
+      "flask",
+      "langchain",
+      "legal",
+      "legaltech",
+      "nlp",
+      "openai",
+      "rag",
+      "rag-chatbot",
+      "retrieval-augmented-generation"
     ],
-    "created_at": "2025-03-21T15:24:16",
-    "updated_at": "2025-04-04T09:58:08"
+    "created_at": "2025-03-30T11:33:52",
+    "updated_at": "2025-04-04T16:07:06"
   },
   {
-    "name": "YOLOv12-BoT-SORT-ReID",
-    "full_name": "wish44165/YOLOv12-BoT-SORT-ReID",
-    "description": "Strong Baseline: Multi-UAV Tracking via YOLOv12 with BoT-SORT-ReID",
-    "url": "https://github.com/wish44165/YOLOv12-BoT-SORT-ReID",
+    "name": "practical-ai-agents",
+    "full_name": "teox1211/practical-ai-agents",
+    "description": "A curated list of AI agents (open-source & proprietary) that solve real-world problems. Updated regularly!",
+    "url": "https://github.com/teox1211/practical-ai-agents",
     "stars": 4,
     "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "artificial-intelligence",
-      "botsort",
-      "computer-vision",
-      "cvprw2025",
-      "deep-learning",
-      "detection",
-      "detector",
-      "drone",
-      "infrared-images",
-      "multi-object-tracker",
-      "multi-object-tracking",
-      "multi-uav",
-      "object-detection",
-      "python",
-      "pytorch",
-      "tracking",
-      "tracking-by-detection",
-      "uav",
-      "uav-swarm",
-      "yolov12"
-    ],
-    "created_at": "2025-03-12T06:45:30",
-    "updated_at": "2025-04-04T09:25:30"
-  },
-  {
-    "name": "basedNN",
-    "full_name": "samas69420/basedNN",
-    "description": "neural network without libraries",
-    "url": "https://github.com/samas69420/basedNN",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "Python",
+    "language": null,
     "topics": [
       "ai",
-      "artificial-intelligence",
-      "deep-learning",
-      "machine-learning"
-    ],
-    "created_at": "2025-04-02T17:46:05",
-    "updated_at": "2025-04-04T10:57:54"
-  },
-  {
-    "name": "spongecake",
-    "full_name": "aditya-nadkarni/spongecake",
-    "description": "Spongecake is the easiest way to launch computer use agents.",
-    "url": "https://github.com/aditya-nadkarni/spongecake",
-    "stars": 94,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
       "ai-agents",
-      "ai-agents-framework",
-      "automation",
-      "computer-use",
-      "docker",
+      "email",
+      "langgraph",
       "llm",
-      "openai",
-      "python"
+      "multi-agent",
+      "open-source",
+      "pathfinding",
+      "practical-ai-guide",
+      "pygame",
+      "sqlite3",
+      "swarm",
+      "tabulate",
+      "trending"
     ],
-    "created_at": "2025-03-08T00:54:44",
-    "updated_at": "2025-04-04T10:22:08"
+    "created_at": "2025-03-11T11:57:23",
+    "updated_at": "2025-04-04T16:14:01"
   }
 ]
