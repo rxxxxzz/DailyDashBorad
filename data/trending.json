@@ -1,70 +1,11 @@
 [
   {
-    "name": "spongecake",
-    "full_name": "aditya-nadkarni/spongecake",
-    "description": "Spongecake is the easiest way to launch computer use agents.",
-    "url": "https://github.com/aditya-nadkarni/spongecake",
-    "stars": 92,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-agents-framework",
-      "automation",
-      "computer-use",
-      "docker",
-      "llm",
-      "openai",
-      "python"
-    ],
-    "created_at": "2025-03-08T00:54:44",
-    "updated_at": "2025-04-04T04:01:54"
-  },
-  {
-    "name": "rf-detr",
-    "full_name": "roboflow/rf-detr",
-    "description": "RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license.",
-    "url": "https://github.com/roboflow/rf-detr",
-    "stars": 1678,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [
-      "computer-vision",
-      "detr",
-      "machine-learning",
-      "object-detection",
-      "rf-detr"
-    ],
-    "created_at": "2025-03-19T20:43:00",
-    "updated_at": "2025-04-04T04:36:51"
-  },
-  {
-    "name": "kodus-ai",
-    "full_name": "kodustech/kodus-ai",
-    "description": "Open source AI code reviews — just like your senior dev would do.",
-    "url": "https://github.com/kodustech/kodus-ai",
-    "stars": 58,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-code-review",
-      "ai-coding-tools",
-      "code-review",
-      "coding-assistant",
-      "generative-ai"
-    ],
-    "created_at": "2025-03-28T17:05:19",
-    "updated_at": "2025-04-04T04:20:33"
-  },
-  {
     "name": "flash-tokenizer",
     "full_name": "NLPOptimize/flash-tokenizer",
     "description": "EFFICIENT AND OPTIMIZED TOKENIZER ENGINE FOR LLM INFERENCE SERVING",
     "url": "https://github.com/NLPOptimize/flash-tokenizer",
-    "stars": 200,
-    "daily_stars": 3,
+    "stars": 206,
+    "daily_stars": 6,
     "language": "C++",
     "topics": [
       "berttokenizer",
@@ -76,111 +17,33 @@
       "wordpiece-tokenization"
     ],
     "created_at": "2025-03-09T00:26:27",
-    "updated_at": "2025-04-04T03:22:20"
+    "updated_at": "2025-04-04T08:29:24"
   },
   {
-    "name": "awesome-web-agents",
-    "full_name": "steel-dev/awesome-web-agents",
-    "description": "🔥 A list of tools, frameworks, and resources for building AI web agents",
-    "url": "https://github.com/steel-dev/awesome-web-agents",
-    "stars": 244,
-    "daily_stars": 1,
-    "language": null,
+    "name": "rf-detr",
+    "full_name": "roboflow/rf-detr",
+    "description": "RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license.",
+    "url": "https://github.com/roboflow/rf-detr",
+    "stars": 1681,
+    "daily_stars": 3,
+    "language": "Python",
     "topics": [
-      "ai",
-      "ai-agents",
-      "browser-automation",
-      "llms",
-      "llms-benchmarking"
-    ],
-    "created_at": "2025-03-06T05:23:47",
-    "updated_at": "2025-04-04T04:36:15"
-  },
-  {
-    "name": "vibe-check-mcp-server",
-    "full_name": "PV-Bhat/vibe-check-mcp-server",
-    "description": "The definitive Vibe Coder's sanity check MCP server: Prevent cascading errors in AI workflows by implementing strategic pattern interrupts. Uses tool call \"Vibe Check\" with LearnLM 1.5 Pro (Gemini API), fine-tuned for pedagogy and metacognition to enhance complex workflow strategy, and prevents tunnel vision errors.",
-    "url": "https://github.com/PV-Bhat/vibe-check-mcp-server",
-    "stars": 20,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "agent-based",
-      "agentic-ai",
-      "agentic-workflow",
-      "ai-agents",
-      "automation",
-      "error-handling",
-      "mcp",
-      "mcp-server",
-      "metacognition",
-      "model-context-protocol",
-      "model-context-protocol-servers",
-      "vibe-coding",
-      "vibecoding",
-      "workflow-automation"
-    ],
-    "created_at": "2025-03-22T09:33:08",
-    "updated_at": "2025-04-04T03:21:59"
-  },
-  {
-    "name": "github-copilot-proxy",
-    "full_name": "BjornMelin/github-copilot-proxy",
-    "description": "An OpenAI-compatible proxy server that lets Cursor IDE connect directly to GitHub Copilot's LLM services. Bypass Cursor's 500 premium requests/month limit by leveraging your existing GitHub Copilot subscription for unlimited AI-powered code completions, chat, and editing features within Cursor IDE.",
-    "url": "https://github.com/BjornMelin/github-copilot-proxy",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "ai-coding-assistant",
-      "ai-tools",
-      "api-integration",
-      "code-completion",
-      "cursor-ide",
-      "developer-tools",
-      "github-copilot",
-      "node-js",
-      "oauth-authentication",
-      "openai-api-compatible",
-      "proxy-server",
-      "streaming-api",
-      "token-management",
-      "typescript"
-    ],
-    "created_at": "2025-03-24T03:36:29",
-    "updated_at": "2025-04-04T03:46:13"
-  },
-  {
-    "name": "Versatile-OCR-Program",
-    "full_name": "ses4255/Versatile-OCR-Program",
-    "description": "Multi-modal OCR pipeline optimized for ML training (text, math, tables, diagrams)",
-    "url": "https://github.com/ses4255/Versatile-OCR-Program",
-    "stars": 17,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "doclayout",
-      "educational-data",
-      "exam-ocr",
+      "computer-vision",
+      "detr",
       "machine-learning",
-      "ml-datasets",
-      "multi-modal",
-      "ocr",
-      "openai",
-      "paper-ocr",
-      "table-parsing"
+      "object-detection",
+      "rf-detr"
     ],
-    "created_at": "2025-04-01T08:52:45",
-    "updated_at": "2025-04-04T03:55:18"
+    "created_at": "2025-03-19T20:43:00",
+    "updated_at": "2025-04-04T08:42:55"
   },
   {
     "name": "guMCP",
     "full_name": "gumloop/guMCP",
     "description": "Gumloop Unified Model Context Protocol (guMCP)",
     "url": "https://github.com/gumloop/guMCP",
-    "stars": 272,
-    "daily_stars": 1,
+    "stars": 275,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "ai",
@@ -190,15 +53,15 @@
       "workflow"
     ],
     "created_at": "2025-03-20T00:01:52",
-    "updated_at": "2025-04-04T02:14:54"
+    "updated_at": "2025-04-04T07:34:18"
   },
   {
     "name": "UE5-MCP",
     "full_name": "VedantRGosavi/UE5-MCP",
     "description": "MCP for Unreal Engine 5",
     "url": "https://github.com/VedantRGosavi/UE5-MCP",
-    "stars": 193,
-    "daily_stars": 0,
+    "stars": 194,
+    "daily_stars": 1,
     "language": null,
     "topics": [
       "ai",
@@ -211,6 +74,121 @@
       "unreal-engine-5"
     ],
     "created_at": "2025-03-15T17:12:55",
-    "updated_at": "2025-04-03T04:28:27"
+    "updated_at": "2025-04-04T05:21:53"
+  },
+  {
+    "name": "AFLDM",
+    "full_name": "SingleZombie/AFLDM",
+    "description": "[CVPR 2025] Alias-free Latent Diffusion Models official implementation",
+    "url": "https://github.com/SingleZombie/AFLDM",
+    "stars": 47,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "computer-vision"
+    ],
+    "created_at": "2025-03-12T13:05:18",
+    "updated_at": "2025-04-04T06:56:02"
+  },
+  {
+    "name": "MM_INF",
+    "full_name": "Letian2003/MM_INF",
+    "description": "An efficient multi-modal instruction-following data synthesis tool and the official implementation of Oasis https://arxiv.org/abs/2503.08741.",
+    "url": "https://github.com/Letian2003/MM_INF",
+    "stars": 5,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "computer-vision",
+      "llm",
+      "mllm",
+      "multimodal"
+    ],
+    "created_at": "2025-03-25T12:01:24",
+    "updated_at": "2025-04-04T05:47:27"
+  },
+  {
+    "name": "CortexON",
+    "full_name": "TheAgenticAI/CortexON",
+    "description": "Open-source generalized AI agent for everyday task automations.",
+    "url": "https://github.com/TheAgenticAI/CortexON",
+    "stars": 292,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "genai",
+      "llm",
+      "multi-agent",
+      "reasoning",
+      "reasoning-agent"
+    ],
+    "created_at": "2025-03-10T13:51:08",
+    "updated_at": "2025-04-04T08:26:11"
+  },
+  {
+    "name": "spongecake",
+    "full_name": "aditya-nadkarni/spongecake",
+    "description": "Spongecake is the easiest way to launch computer use agents.",
+    "url": "https://github.com/aditya-nadkarni/spongecake",
+    "stars": 93,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-agents-framework",
+      "automation",
+      "computer-use",
+      "docker",
+      "llm",
+      "openai",
+      "python"
+    ],
+    "created_at": "2025-03-08T00:54:44",
+    "updated_at": "2025-04-04T06:11:58"
+  },
+  {
+    "name": "ai-rules-builder",
+    "full_name": "przeprogramowani/ai-rules-builder",
+    "description": "Generate \"Rules for AI\". Quickly ✨",
+    "url": "https://github.com/przeprogramowani/ai-rules-builder",
+    "stars": 82,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "astro",
+      "cline",
+      "copilot",
+      "cursor",
+      "react",
+      "rules-for-ai",
+      "windsurf"
+    ],
+    "created_at": "2025-03-13T18:41:11",
+    "updated_at": "2025-04-04T06:47:35"
+  },
+  {
+    "name": "kodus-ai",
+    "full_name": "kodustech/kodus-ai",
+    "description": "Open source AI code reviews — just like your senior dev would do.",
+    "url": "https://github.com/kodustech/kodus-ai",
+    "stars": 59,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-code-review",
+      "ai-coding-tools",
+      "code-review",
+      "coding-assistant",
+      "generative-ai"
+    ],
+    "created_at": "2025-03-28T17:05:19",
+    "updated_at": "2025-04-04T06:29:42"
   }
 ]
