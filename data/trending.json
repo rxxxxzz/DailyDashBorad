@@ -4,8 +4,8 @@
     "full_name": "ses4255/Versatile-OCR-Program",
     "description": "Multi-modal OCR pipeline optimized for ML training (text, math, tables, diagrams)",
     "url": "https://github.com/ses4255/Versatile-OCR-Program",
-    "stars": 206,
-    "daily_stars": 33,
+    "stars": 230,
+    "daily_stars": 24,
     "language": null,
     "topics": [
       "doclayout",
@@ -20,15 +20,15 @@
       "table-parsing"
     ],
     "created_at": "2025-04-01T08:52:45",
-    "updated_at": "2025-04-05T20:26:40"
+    "updated_at": "2025-04-06T02:09:29"
   },
   {
     "name": "flash-tokenizer",
     "full_name": "NLPOptimize/flash-tokenizer",
     "description": "EFFICIENT AND OPTIMIZED TOKENIZER ENGINE FOR LLM INFERENCE SERVING",
     "url": "https://github.com/NLPOptimize/flash-tokenizer",
-    "stars": 232,
-    "daily_stars": 3,
+    "stars": 237,
+    "daily_stars": 5,
     "language": "C++",
     "topics": [
       "berttokenizer",
@@ -40,32 +40,96 @@
       "wordpiece-tokenization"
     ],
     "created_at": "2025-03-09T00:26:27",
-    "updated_at": "2025-04-05T20:33:18"
+    "updated_at": "2025-04-06T01:39:09"
   },
   {
-    "name": "mav",
-    "full_name": "attentionmech/mav",
-    "description": "mav",
-    "url": "https://github.com/attentionmech/mav",
-    "stars": 114,
-    "daily_stars": 2,
+    "name": "kodus-ai",
+    "full_name": "kodustech/kodus-ai",
+    "description": "Open source AI code reviews — just like your senior dev would do.",
+    "url": "https://github.com/kodustech/kodus-ai",
+    "stars": 77,
+    "daily_stars": 4,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-code-review",
+      "ai-coding-tools",
+      "code-review",
+      "coding-assistant",
+      "generative-ai"
+    ],
+    "created_at": "2025-03-28T17:05:19",
+    "updated_at": "2025-04-06T02:02:14"
+  },
+  {
+    "name": "rf-detr",
+    "full_name": "roboflow/rf-detr",
+    "description": "RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license.",
+    "url": "https://github.com/roboflow/rf-detr",
+    "stars": 1716,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
-      "large-language-models",
-      "llm-inference",
+      "computer-vision",
+      "detr",
       "machine-learning",
-      "terminal-app",
-      "visualization"
+      "object-detection",
+      "rf-detr"
     ],
-    "created_at": "2025-03-26T23:54:39",
-    "updated_at": "2025-04-05T20:16:39"
+    "created_at": "2025-03-19T20:43:00",
+    "updated_at": "2025-04-06T02:08:15"
+  },
+  {
+    "name": "Supervised-Machine-Learning-Models-Pytorch-Sklearn",
+    "full_name": "RenatoMaynard/Supervised-Machine-Learning-Models-Pytorch-Sklearn",
+    "description": "This repository provides a comprehensive implementation of supervised machine learning models using PyTorch and Scikit-learn. It includes end-to-end workflows for both classification and regression tasks, covering data preprocessing, model training, evaluation, and comparison between traditional ML models",
+    "url": "https://github.com/RenatoMaynard/Supervised-Machine-Learning-Models-Pytorch-Sklearn",
+    "stars": 4,
+    "daily_stars": 2,
+    "language": null,
+    "topics": [
+      "applied-machine-learning",
+      "classification",
+      "data-preprocessing",
+      "deep-learning",
+      "feature-engineering",
+      "machine-learning",
+      "ml-models",
+      "ml-pipeline",
+      "model-comparison",
+      "model-evaluation",
+      "python",
+      "pytorch",
+      "regression",
+      "scikit-learn",
+      "supervised-learning-algorithms"
+    ],
+    "created_at": "2025-04-02T18:54:01",
+    "updated_at": "2025-04-05T21:16:11"
+  },
+  {
+    "name": "Orpheus-FastAPI",
+    "full_name": "Lex-au/Orpheus-FastAPI",
+    "description": "High-performance Text-to-Speech server with OpenAI-compatible API, 8 voices, emotion tags, and modern web UI. Optimized for RTX GPUs.",
+    "url": "https://github.com/Lex-au/Orpheus-FastAPI",
+    "stars": 194,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-text-to-speech",
+      "ai-voice",
+      "artificial-intelligence"
+    ],
+    "created_at": "2025-03-21T15:24:16",
+    "updated_at": "2025-04-06T01:50:21"
   },
   {
     "name": "minecraft-mcp-server",
     "full_name": "yuniko-software/minecraft-mcp-server",
     "description": "A Minecraft MCP Server powered by Mineflayer API. It allows to control a Minecraft character in real-time, allowing AI assistants to build structures, explore the world, and interact with the game environment through natural language instruction",
     "url": "https://github.com/yuniko-software/minecraft-mcp-server",
-    "stars": 31,
+    "stars": 32,
     "daily_stars": 1,
     "language": "JavaScript",
     "topics": [
@@ -82,100 +146,34 @@
       "typescript"
     ],
     "created_at": "2025-03-20T17:59:31",
-    "updated_at": "2025-04-05T18:24:58"
+    "updated_at": "2025-04-05T23:50:08"
   },
   {
-    "name": "Cyber-Attack-Threat-Classification",
-    "full_name": "2000pawan/Cyber-Attack-Threat-Classification",
-    "description": "Cyber Attack Threat Classification using CICIDS2017 dataset.",
-    "url": "https://github.com/2000pawan/Cyber-Attack-Threat-Classification",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "artificial-intelligence",
-      "cyber-threat-intelligence",
-      "cyberattack-detection",
-      "cybersecurity",
-      "data-science",
-      "machine-learning",
-      "python"
-    ],
-    "created_at": "2025-03-26T18:10:56",
-    "updated_at": "2025-04-05T16:57:01"
-  },
-  {
-    "name": "MyAI",
-    "full_name": "seanpm2001/MyAI",
-    "description": "🏠️🇦.🇮💾️ The official source repository for the MyAI project, a homepage for your personal AI configuration and an AI API designed for you.",
-    "url": "https://github.com/seanpm2001/MyAI",
-    "stars": 3,
+    "name": "CortexON",
+    "full_name": "TheAgenticAI/CortexON",
+    "description": "Open-source generalized AI agent for everyday task automations.",
+    "url": "https://github.com/TheAgenticAI/CortexON",
+    "stars": 304,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "ai",
-      "ai-api",
-      "api",
-      "artificial-intelligence",
-      "basis",
-      "gpl3",
-      "gplv3",
-      "home",
-      "my-ai",
-      "my-ai-development",
-      "my-ai-project",
-      "myai",
-      "myai-development",
-      "myai-project",
-      "personal-ai",
-      "python-lang",
-      "python-language"
-    ],
-    "created_at": "2025-04-03T02:39:42",
-    "updated_at": "2025-04-05T18:19:38"
-  },
-  {
-    "name": "ChatBuddy",
-    "full_name": "sg-milad/ChatBuddy",
-    "description": "Telegram bot built with Golang that integrates with the Gemini AI API to generate responses to user messages.",
-    "url": "https://github.com/sg-milad/ChatBuddy",
-    "stars": 2,
-    "daily_stars": 1,
-    "language": "Go",
-    "topics": [
-      "artificial-intelligence",
-      "golang",
-      "telegram-bot"
-    ],
-    "created_at": "2025-04-03T19:50:50",
-    "updated_at": "2025-04-05T20:25:20"
-  },
-  {
-    "name": "awesome-vibe-coding",
-    "full_name": "filipecalegario/awesome-vibe-coding",
-    "description": "A curated list of vibe coding references, colaborating with AI to write code.",
-    "url": "https://github.com/filipecalegario/awesome-vibe-coding",
-    "stars": 247,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "ai-agent",
       "ai-agents",
-      "ai-coding-assistant",
-      "ai-coding-tools",
-      "cursor",
-      "lovable",
-      "vibe-coding"
+      "automation",
+      "genai",
+      "llm",
+      "multi-agent",
+      "reasoning",
+      "reasoning-agent"
     ],
-    "created_at": "2025-03-13T17:46:56",
-    "updated_at": "2025-04-05T19:31:34"
+    "created_at": "2025-03-10T13:51:08",
+    "updated_at": "2025-04-06T00:25:17"
   },
   {
     "name": "vibe-check-mcp-server",
     "full_name": "PV-Bhat/vibe-check-mcp-server",
     "description": "The definitive Vibe Coder's sanity check MCP server: Prevent cascading errors in AI workflows by implementing strategic pattern interrupts. Uses tool call \"Vibe Check\" with LearnLM 1.5 Pro (Gemini API), fine-tuned for pedagogy and metacognition to enhance complex workflow strategy, and prevents tunnel vision errors.",
     "url": "https://github.com/PV-Bhat/vibe-check-mcp-server",
-    "stars": 22,
+    "stars": 23,
     "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
@@ -195,24 +193,25 @@
       "workflow-automation"
     ],
     "created_at": "2025-03-22T09:33:08",
-    "updated_at": "2025-04-05T17:43:28"
+    "updated_at": "2025-04-06T00:30:44"
   },
   {
-    "name": "rf-detr",
-    "full_name": "roboflow/rf-detr",
-    "description": "RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license.",
-    "url": "https://github.com/roboflow/rf-detr",
-    "stars": 1713,
+    "name": "saiki",
+    "full_name": "truffle-ai/saiki",
+    "description": "AI Agent to control computers, applications and services using natural language",
+    "url": "https://github.com/truffle-ai/saiki",
+    "stars": 7,
     "daily_stars": 1,
-    "language": "Python",
+    "language": "TypeScript",
     "topics": [
-      "computer-vision",
-      "detr",
-      "machine-learning",
-      "object-detection",
-      "rf-detr"
+      "ai-agents",
+      "ai-tools",
+      "llm",
+      "mcp",
+      "modelcontextprotocol",
+      "typescript"
     ],
-    "created_at": "2025-03-19T20:43:00",
-    "updated_at": "2025-04-05T17:28:29"
+    "created_at": "2025-03-24T22:49:13",
+    "updated_at": "2025-04-05T22:30:14"
   }
 ]
