@@ -1,29 +1,11 @@
 [
   {
-    "name": "mav",
-    "full_name": "attentionmech/mav",
-    "description": "mav",
-    "url": "https://github.com/attentionmech/mav",
-    "stars": 292,
-    "daily_stars": 30,
-    "language": "Python",
-    "topics": [
-      "large-language-models",
-      "llm-inference",
-      "machine-learning",
-      "terminal-app",
-      "visualization"
-    ],
-    "created_at": "2025-03-26T23:54:39",
-    "updated_at": "2025-04-08T08:39:58"
-  },
-  {
     "name": "Versatile-OCR-Program",
     "full_name": "ses4255/Versatile-OCR-Program",
     "description": "Multi-modal OCR pipeline optimized for ML training (text, math, tables, diagrams)",
     "url": "https://github.com/ses4255/Versatile-OCR-Program",
-    "stars": 399,
-    "daily_stars": 25,
+    "stars": 420,
+    "daily_stars": 21,
     "language": null,
     "topics": [
       "doclayout",
@@ -38,57 +20,51 @@
       "table-parsing"
     ],
     "created_at": "2025-04-01T08:52:45",
-    "updated_at": "2025-04-08T08:33:50"
+    "updated_at": "2025-04-08T12:48:23"
   },
   {
-    "name": "agentwatch",
-    "full_name": "cyberark/agentwatch",
-    "description": "A powerful AI observability framework that provides comprehensive insights into agent interactions across platforms, enabling developers to monitor, analyze, and optimize AI-driven applications with minimal integration effort.",
-    "url": "https://github.com/cyberark/agentwatch",
-    "stars": 44,
-    "daily_stars": 14,
+    "name": "mav",
+    "full_name": "attentionmech/mav",
+    "description": "mav",
+    "url": "https://github.com/attentionmech/mav",
+    "stars": 310,
+    "daily_stars": 18,
     "language": "Python",
     "topics": [
-      "agent",
-      "agentic",
-      "agentic-ai",
-      "ai",
-      "cybersecurity",
       "large-language-models",
-      "llm",
+      "llm-inference",
       "machine-learning",
-      "monitoring",
-      "observability",
-      "security"
+      "terminal-app",
+      "visualization"
     ],
-    "created_at": "2025-03-26T10:01:05",
-    "updated_at": "2025-04-08T08:36:40"
+    "created_at": "2025-03-26T23:54:39",
+    "updated_at": "2025-04-08T12:56:41"
   },
   {
-    "name": "evolutionary-policy-optimization",
-    "full_name": "lucidrains/evolutionary-policy-optimization",
-    "description": "Pytorch implementation of Evolutionary Policy Optimization, from Wang et al. of the Robotics Institute at Carnegie Melon University",
-    "url": "https://github.com/lucidrains/evolutionary-policy-optimization",
-    "stars": 16,
-    "daily_stars": 8,
-    "language": null,
+    "name": "rf-detr",
+    "full_name": "roboflow/rf-detr",
+    "description": "RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license.",
+    "url": "https://github.com/roboflow/rf-detr",
+    "stars": 1776,
+    "daily_stars": 6,
+    "language": "Python",
     "topics": [
-      "artificial-intelligence",
-      "deep-learning",
-      "genetic-algorithms",
-      "reinforcement-learning",
-      "robotics"
+      "computer-vision",
+      "detr",
+      "machine-learning",
+      "object-detection",
+      "rf-detr"
     ],
-    "created_at": "2025-04-07T22:12:06",
-    "updated_at": "2025-04-08T08:44:01"
+    "created_at": "2025-03-19T20:43:00",
+    "updated_at": "2025-04-08T12:30:01"
   },
   {
     "name": "docext",
     "full_name": "NanoNets/docext",
     "description": "An on-premises unstructured data extraction tool powered by vision language models.",
     "url": "https://github.com/NanoNets/docext",
-    "stars": 63,
-    "daily_stars": 7,
+    "stars": 69,
+    "daily_stars": 6,
     "language": "Jupyter Notebook",
     "topics": [
       "document",
@@ -111,101 +87,134 @@
       "vlms"
     ],
     "created_at": "2025-03-25T03:56:46",
-    "updated_at": "2025-04-08T07:55:03"
+    "updated_at": "2025-04-08T11:57:08"
   },
   {
-    "name": "rf-detr",
-    "full_name": "roboflow/rf-detr",
-    "description": "RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license.",
-    "url": "https://github.com/roboflow/rf-detr",
-    "stars": 1770,
-    "daily_stars": 6,
+    "name": "agentheroes",
+    "full_name": "agentheroes/agentheroes",
+    "description": "Generate, animate and schedule your AI characters 🤖",
+    "url": "https://github.com/agentheroes/agentheroes",
+    "stars": 6,
+    "daily_stars": 5,
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "agents",
+      "ai",
+      "chatgpt",
+      "generate",
+      "image",
+      "lora",
+      "replicate",
+      "train",
+      "video",
+      "workflow"
+    ],
+    "created_at": "2025-03-11T15:52:30",
+    "updated_at": "2025-04-08T12:55:13"
+  },
+  {
+    "name": "kodus-ai",
+    "full_name": "kodustech/kodus-ai",
+    "description": "Open source AI code reviews — just like your senior dev would do.",
+    "url": "https://github.com/kodustech/kodus-ai",
+    "stars": 95,
+    "daily_stars": 2,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-code-review",
+      "ai-coding-tools",
+      "code-review",
+      "coding-assistant",
+      "generative-ai"
+    ],
+    "created_at": "2025-03-28T17:05:19",
+    "updated_at": "2025-04-08T12:28:09"
+  },
+  {
+    "name": "agentwatch",
+    "full_name": "cyberark/agentwatch",
+    "description": "A powerful AI observability framework that provides comprehensive insights into agent interactions across platforms, enabling developers to monitor, analyze, and optimize AI-driven applications with minimal integration effort.",
+    "url": "https://github.com/cyberark/agentwatch",
+    "stars": 46,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
-      "computer-vision",
-      "detr",
-      "machine-learning",
-      "object-detection",
-      "rf-detr"
-    ],
-    "created_at": "2025-03-19T20:43:00",
-    "updated_at": "2025-04-08T07:49:03"
-  },
-  {
-    "name": "Orpheus-FastAPI",
-    "full_name": "Lex-au/Orpheus-FastAPI",
-    "description": "High-performance Text-to-Speech server with OpenAI-compatible API, 8 voices, emotion tags, and modern web UI. Optimized for RTX GPUs.",
-    "url": "https://github.com/Lex-au/Orpheus-FastAPI",
-    "stars": 210,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "ai-text-to-speech",
-      "ai-voice",
-      "artificial-intelligence"
-    ],
-    "created_at": "2025-03-21T15:24:16",
-    "updated_at": "2025-04-08T08:16:28"
-  },
-  {
-    "name": "ai-knowledge-graph",
-    "full_name": "robert-mcdermott/ai-knowledge-graph",
-    "description": "AI Powered Knowledge Graph Generator",
-    "url": "https://github.com/robert-mcdermott/ai-knowledge-graph",
-    "stars": 10,
-    "daily_stars": 3,
-    "language": "HTML",
-    "topics": [
-      "artificial-intelligence",
-      "knowledge-distillation",
-      "knowledge-graph",
-      "llm",
-      "networkx",
-      "pyvis",
-      "visualization"
-    ],
-    "created_at": "2025-03-23T04:38:15",
-    "updated_at": "2025-04-08T07:24:00"
-  },
-  {
-    "name": "Awesome-Multi-Turn-LLMs",
-    "full_name": "yubol-bobo/Awesome-Multi-Turn-LLMs",
-    "description": "This is the official GitHub repository for our survey paper \"Beyond Single-Turn: A Survey on Multi-Turn Interactions with Large Language Models\".",
-    "url": "https://github.com/yubol-bobo/Awesome-Multi-Turn-LLMs",
-    "stars": 5,
-    "daily_stars": 3,
-    "language": null,
-    "topics": [
-      "artificial-intelligence",
-      "dialogue-systems",
-      "instruction-following",
+      "agent",
+      "agentic",
+      "agentic-ai",
+      "ai",
+      "cybersecurity",
       "large-language-models",
       "llm",
-      "llms",
-      "multi-turn",
-      "survey"
+      "machine-learning",
+      "monitoring",
+      "observability",
+      "security"
     ],
-    "created_at": "2025-03-12T10:18:16",
-    "updated_at": "2025-04-08T08:04:53"
+    "created_at": "2025-03-26T10:01:05",
+    "updated_at": "2025-04-08T12:48:03"
   },
   {
-    "name": "awesome-vibe-coding",
-    "full_name": "filipecalegario/awesome-vibe-coding",
-    "description": "A curated list of vibe coding references, colaborating with AI to write code.",
-    "url": "https://github.com/filipecalegario/awesome-vibe-coding",
-    "stars": 256,
-    "daily_stars": 2,
+    "name": "UE5-MCP",
+    "full_name": "VedantRGosavi/UE5-MCP",
+    "description": "MCP for Unreal Engine 5",
+    "url": "https://github.com/VedantRGosavi/UE5-MCP",
+    "stars": 205,
+    "daily_stars": 1,
     "language": null,
     "topics": [
-      "ai-agent",
-      "ai-agents",
-      "ai-coding-assistant",
-      "ai-coding-tools",
-      "cursor",
-      "lovable",
-      "vibe-coding"
+      "ai",
+      "artificial-intelligence",
+      "game-development",
+      "game-engine",
+      "mcp",
+      "mcp-server",
+      "unreal-engine",
+      "unreal-engine-5"
     ],
-    "created_at": "2025-03-13T17:46:56",
-    "updated_at": "2025-04-08T06:07:08"
+    "created_at": "2025-03-15T17:12:55",
+    "updated_at": "2025-04-08T10:39:00"
+  },
+  {
+    "name": "choturobo",
+    "full_name": "vishalmysore/choturobo",
+    "description": "Integrate Arduino-based robotics (using the NodeMCU ESP32 or Arduino Nano 368 board) with AI using the MCP (Model Context Protocol) framework from Claude Anthropic",
+    "url": "https://github.com/vishalmysore/choturobo",
+    "stars": 19,
+    "daily_stars": 1,
+    "language": "C++",
+    "topics": [
+      "anthropic-claude",
+      "antrophic",
+      "ardiuno",
+      "artificial-intelligence",
+      "artificial-neural-networks",
+      "claude-ai",
+      "robot",
+      "robotics"
+    ],
+    "created_at": "2025-03-12T22:32:52",
+    "updated_at": "2025-04-08T09:52:46"
+  },
+  {
+    "name": "evolutionary-policy-optimization",
+    "full_name": "lucidrains/evolutionary-policy-optimization",
+    "description": "Pytorch implementation of Evolutionary Policy Optimization, from Wang et al. of the Robotics Institute at Carnegie Melon University",
+    "url": "https://github.com/lucidrains/evolutionary-policy-optimization",
+    "stars": 17,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "genetic-algorithms",
+      "reinforcement-learning",
+      "robotics"
+    ],
+    "created_at": "2025-04-07T22:12:06",
+    "updated_at": "2025-04-08T12:58:28"
   }
 ]
