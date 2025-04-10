@@ -4,8 +4,8 @@
     "full_name": "browserable/browserable",
     "description": "Open source and self-hostable browser automation library for AI agents",
     "url": "https://github.com/browserable/browserable",
-    "stars": 234,
-    "daily_stars": 23,
+    "stars": 254,
+    "daily_stars": 20,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -15,15 +15,15 @@
       "playwright"
     ],
     "created_at": "2025-04-07T16:04:36",
-    "updated_at": "2025-04-10T16:43:11"
+    "updated_at": "2025-04-10T20:38:24"
   },
   {
     "name": "Agent-Wiz",
     "full_name": "Repello-AI/Agent-Wiz",
     "description": "A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.",
     "url": "https://github.com/Repello-AI/Agent-Wiz",
-    "stars": 87,
-    "daily_stars": 10,
+    "stars": 90,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "agent",
@@ -43,37 +43,33 @@
       "threat-modeling"
     ],
     "created_at": "2025-03-31T04:06:51",
-    "updated_at": "2025-04-10T16:42:27"
+    "updated_at": "2025-04-10T18:45:38"
   },
   {
-    "name": "Versatile-OCR-Program",
-    "full_name": "ses4255/Versatile-OCR-Program",
-    "description": "Multi-modal OCR pipeline optimized for ML training (text, math, tables, diagrams)",
-    "url": "https://github.com/ses4255/Versatile-OCR-Program",
-    "stars": 531,
-    "daily_stars": 4,
-    "language": null,
+    "name": "saiki",
+    "full_name": "truffle-ai/saiki",
+    "description": "AI Agent to control computers, applications and services using natural language",
+    "url": "https://github.com/truffle-ai/saiki",
+    "stars": 28,
+    "daily_stars": 3,
+    "language": "TypeScript",
     "topics": [
-      "doclayout",
-      "educational-data",
-      "exam-ocr",
-      "machine-learning",
-      "ml-datasets",
-      "multi-modal",
-      "ocr",
-      "openai",
-      "paper-ocr",
-      "table-parsing"
+      "ai-agents",
+      "ai-tools",
+      "llm",
+      "mcp",
+      "modelcontextprotocol",
+      "typescript"
     ],
-    "created_at": "2025-04-01T08:52:45",
-    "updated_at": "2025-04-10T16:28:48"
+    "created_at": "2025-03-24T22:49:13",
+    "updated_at": "2025-04-10T20:31:48"
   },
   {
     "name": "Isaree-Platform",
     "full_name": "Isaree-ai/Isaree-Platform",
     "description": "Open-source medical-compliant AI Assistant and AI Agent Orchestration Engine with marketplace",
     "url": "https://github.com/Isaree-ai/Isaree-Platform",
-    "stars": 6,
+    "stars": 9,
     "daily_stars": 3,
     "language": null,
     "topics": [
@@ -90,132 +86,145 @@
       "open-source"
     ],
     "created_at": "2025-04-06T14:19:16",
-    "updated_at": "2025-04-10T14:52:42"
+    "updated_at": "2025-04-10T19:30:54"
   },
   {
-    "name": "rf-detr",
-    "full_name": "roboflow/rf-detr",
-    "description": "RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license.",
-    "url": "https://github.com/roboflow/rf-detr",
-    "stars": 1814,
+    "name": "awesome-vibe-coding",
+    "full_name": "filipecalegario/awesome-vibe-coding",
+    "description": "A curated list of vibe coding references, colaborating with AI to write code.",
+    "url": "https://github.com/filipecalegario/awesome-vibe-coding",
+    "stars": 268,
     "daily_stars": 2,
-    "language": "Python",
+    "language": null,
     "topics": [
-      "computer-vision",
-      "detr",
-      "machine-learning",
-      "object-detection",
-      "rf-detr"
-    ],
-    "created_at": "2025-03-19T20:43:00",
-    "updated_at": "2025-04-10T14:36:10"
-  },
-  {
-    "name": "gg_ssms",
-    "full_name": "uzh-rpg/gg_ssms",
-    "description": "[CVPR'25] The official implementation of \"GG-SSMs: Graph-Generating State Space Models\"",
-    "url": "https://github.com/uzh-rpg/gg_ssms",
-    "stars": 3,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "backbone",
-      "computer-vision",
-      "computer-vision-algorithms",
-      "cvpr2025",
-      "deep-learning",
-      "deep-neural-networks",
-      "dynamic-graphs",
-      "dynamical-systems",
-      "event-based-vision",
-      "eye-tracking",
-      "graph-neural-networks",
-      "image-classification",
-      "machine-learning",
-      "machine-learning-algorithms",
-      "minimum-spanning-tree",
-      "modeling-dynamic-systems",
-      "pytorch",
-      "state-space-models",
-      "time-series-forecasting",
-      "vision-framework"
-    ],
-    "created_at": "2025-03-23T13:02:43",
-    "updated_at": "2025-04-10T15:08:20"
-  },
-  {
-    "name": "AFLDM",
-    "full_name": "SingleZombie/AFLDM",
-    "description": "[CVPR 2025] Alias-free Latent Diffusion Models official implementation",
-    "url": "https://github.com/SingleZombie/AFLDM",
-    "stars": 66,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "computer-vision"
-    ],
-    "created_at": "2025-03-12T13:05:18",
-    "updated_at": "2025-04-10T16:28:47"
-  },
-  {
-    "name": "ai-knowledge-graph",
-    "full_name": "robert-mcdermott/ai-knowledge-graph",
-    "description": "AI Powered Knowledge Graph Generator",
-    "url": "https://github.com/robert-mcdermott/ai-knowledge-graph",
-    "stars": 22,
-    "daily_stars": 1,
-    "language": "HTML",
-    "topics": [
-      "artificial-intelligence",
-      "knowledge-distillation",
-      "knowledge-graph",
-      "llm",
-      "networkx",
-      "pyvis",
-      "visualization"
-    ],
-    "created_at": "2025-03-23T04:38:15",
-    "updated_at": "2025-04-10T16:02:12"
-  },
-  {
-    "name": "ai-rules-builder",
-    "full_name": "przeprogramowani/ai-rules-builder",
-    "description": "Generate \"Rules for AI\". Quickly ✨",
-    "url": "https://github.com/przeprogramowani/ai-rules-builder",
-    "stars": 87,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
+      "ai-agent",
       "ai-agents",
-      "astro",
-      "cline",
-      "copilot",
+      "ai-coding-assistant",
+      "ai-coding-tools",
       "cursor",
-      "react",
-      "rules-for-ai",
-      "windsurf"
+      "lovable",
+      "vibe-coding"
     ],
-    "created_at": "2025-03-13T18:41:11",
-    "updated_at": "2025-04-10T15:15:47"
+    "created_at": "2025-03-13T17:46:56",
+    "updated_at": "2025-04-10T19:34:13"
   },
   {
-    "name": "saiki",
-    "full_name": "truffle-ai/saiki",
-    "description": "AI Agent to control computers, applications and services using natural language",
-    "url": "https://github.com/truffle-ai/saiki",
-    "stars": 25,
+    "name": "UE5-MCP",
+    "full_name": "VedantRGosavi/UE5-MCP",
+    "description": "MCP for Unreal Engine 5",
+    "url": "https://github.com/VedantRGosavi/UE5-MCP",
+    "stars": 211,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "game-development",
+      "game-engine",
+      "mcp",
+      "mcp-server",
+      "unreal-engine",
+      "unreal-engine-5"
+    ],
+    "created_at": "2025-03-15T17:12:55",
+    "updated_at": "2025-04-10T17:23:31"
+  },
+  {
+    "name": "Awesome-Multi-Turn-LLMs",
+    "full_name": "yubol-bobo/Awesome-Multi-Turn-LLMs",
+    "description": "This is the official GitHub repository for our survey paper \"Beyond Single-Turn: A Survey on Multi-Turn Interactions with Large Language Models\".",
+    "url": "https://github.com/yubol-bobo/Awesome-Multi-Turn-LLMs",
+    "stars": 13,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "artificial-intelligence",
+      "dialogue-systems",
+      "instruction-following",
+      "large-language-models",
+      "llm",
+      "llms",
+      "multi-turn",
+      "survey"
+    ],
+    "created_at": "2025-03-12T10:18:16",
+    "updated_at": "2025-04-10T20:37:09"
+  },
+  {
+    "name": "okta-mcp-server",
+    "full_name": "fctr-id/okta-mcp-server",
+    "description": "The Okta MCP Server is a groundbreaking tool built by the team at Fctr that enables AI models to interact directly with your Okta environment using the Model Context Protocol (MCP). Built specifically for IAM engineers, security teams, and Okta administrators, it implements the MCP specification to help work with Okta enitities",
+    "url": "https://github.com/fctr-id/okta-mcp-server",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "artificial-intelligence",
+      "identity",
+      "identity-management",
+      "mcp",
+      "mcp-server",
+      "okta",
+      "python"
+    ],
+    "created_at": "2025-03-26T15:28:41",
+    "updated_at": "2025-04-10T18:28:41"
+  },
+  {
+    "name": "Deep-Research-AI-Agent",
+    "full_name": "codebucks27/Deep-Research-AI-Agent",
+    "description": "Build a powerful Deep Research AI agent like Gemini or ChatGPT. Using Next.js, Vercel AI SDK, and Exa Search API, An intelligent system that generates follow-up questions, crafts optimal search queries, and compiles comprehensive research reports.",
+    "url": "https://github.com/codebucks27/Deep-Research-AI-Agent",
+    "stars": 33,
     "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
+      "ai",
+      "ai-agent",
       "ai-agents",
-      "ai-tools",
-      "llm",
-      "mcp",
-      "modelcontextprotocol",
-      "typescript"
+      "chatgpt",
+      "deep-research",
+      "deep-search",
+      "deepseek",
+      "exa-search",
+      "gemini",
+      "nextjs",
+      "openai",
+      "openrouter",
+      "shadcn-ui",
+      "tailwindcss",
+      "vercel-ai-sdk"
     ],
-    "created_at": "2025-03-24T22:49:13",
-    "updated_at": "2025-04-10T15:51:13"
+    "created_at": "2025-03-20T10:16:18",
+    "updated_at": "2025-04-10T18:56:24"
+  },
+  {
+    "name": "vibe-check-mcp-server",
+    "full_name": "PV-Bhat/vibe-check-mcp-server",
+    "description": "The definitive Vibe Coder's sanity check MCP server: Prevent cascading errors in AI workflows by implementing strategic pattern interrupts. Uses tool call \"Vibe Check\" with LearnLM 1.5 Pro (Gemini API), fine-tuned for pedagogy and metacognition to enhance complex workflow strategy, and prevents tunnel vision errors.",
+    "url": "https://github.com/PV-Bhat/vibe-check-mcp-server",
+    "stars": 28,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "agent-based",
+      "agentic-ai",
+      "agentic-workflow",
+      "ai-agents",
+      "automation",
+      "error-handling",
+      "mcp",
+      "mcp-server",
+      "metacognition",
+      "model-context-protocol",
+      "model-context-protocol-servers",
+      "vibe-coding",
+      "vibecoding",
+      "workflow-automation"
+    ],
+    "created_at": "2025-03-22T09:33:08",
+    "updated_at": "2025-04-10T19:07:21"
   }
 ]
