@@ -4,8 +4,8 @@
     "full_name": "browserable/browserable",
     "description": "Open source and self-hostable browser automation library for AI agents",
     "url": "https://github.com/browserable/browserable",
-    "stars": 285,
-    "daily_stars": 31,
+    "stars": 299,
+    "daily_stars": 14,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -15,34 +15,35 @@
       "playwright"
     ],
     "created_at": "2025-04-07T16:04:36",
-    "updated_at": "2025-04-11T02:09:41"
+    "updated_at": "2025-04-11T04:30:30"
   },
   {
-    "name": "saiki",
-    "full_name": "truffle-ai/saiki",
-    "description": "AI Agent to control computers, applications and services using natural language",
-    "url": "https://github.com/truffle-ai/saiki",
-    "stars": 36,
-    "daily_stars": 8,
+    "name": "kodus-ai",
+    "full_name": "kodustech/kodus-ai",
+    "description": "Open source AI code reviews — just like your senior dev would do.",
+    "url": "https://github.com/kodustech/kodus-ai",
+    "stars": 118,
+    "daily_stars": 5,
     "language": "TypeScript",
     "topics": [
+      "ai",
       "ai-agents",
-      "ai-tools",
-      "llm",
-      "mcp",
-      "modelcontextprotocol",
-      "typescript"
+      "ai-code-review",
+      "ai-coding-tools",
+      "code-review",
+      "coding-assistant",
+      "generative-ai"
     ],
-    "created_at": "2025-03-24T22:49:13",
-    "updated_at": "2025-04-11T02:06:08"
+    "created_at": "2025-03-28T17:05:19",
+    "updated_at": "2025-04-11T04:36:14"
   },
   {
     "name": "Versatile-OCR-Program",
     "full_name": "ses4255/Versatile-OCR-Program",
     "description": "Multi-modal OCR pipeline optimized for ML training (text, math, tables, diagrams)",
     "url": "https://github.com/ses4255/Versatile-OCR-Program",
-    "stars": 536,
-    "daily_stars": 4,
+    "stars": 539,
+    "daily_stars": 3,
     "language": null,
     "topics": [
       "doclayout",
@@ -57,14 +58,14 @@
       "table-parsing"
     ],
     "created_at": "2025-04-01T08:52:45",
-    "updated_at": "2025-04-11T01:01:59"
+    "updated_at": "2025-04-11T04:12:03"
   },
   {
     "name": "mav",
     "full_name": "attentionmech/mav",
     "description": "mav",
     "url": "https://github.com/attentionmech/mav",
-    "stars": 381,
+    "stars": 384,
     "daily_stars": 3,
     "language": "Python",
     "topics": [
@@ -75,14 +76,14 @@
       "visualization"
     ],
     "created_at": "2025-03-26T23:54:39",
-    "updated_at": "2025-04-11T01:55:37"
+    "updated_at": "2025-04-11T04:29:09"
   },
   {
     "name": "data-centric-satellite-segmentation",
     "full_name": "microsoft/data-centric-satellite-segmentation",
     "description": "Contains implementations of data-centric approaches for improving semantic segmentation on satellite imagery.",
     "url": "https://github.com/microsoft/data-centric-satellite-segmentation",
-    "stars": 13,
+    "stars": 16,
     "daily_stars": 3,
     "language": "Python",
     "topics": [
@@ -93,35 +94,103 @@
       "semantic-segmentation"
     ],
     "created_at": "2025-03-19T12:09:44",
-    "updated_at": "2025-04-11T01:01:01"
+    "updated_at": "2025-04-11T03:47:20"
   },
   {
-    "name": "ai-knowledge-graph",
-    "full_name": "robert-mcdermott/ai-knowledge-graph",
-    "description": "AI Powered Knowledge Graph Generator",
-    "url": "https://github.com/robert-mcdermott/ai-knowledge-graph",
-    "stars": 24,
+    "name": "evolutionary-policy-optimization",
+    "full_name": "lucidrains/evolutionary-policy-optimization",
+    "description": "Pytorch implementation of Evolutionary Policy Optimization, from Wang et al. of the Robotics Institute at Carnegie Melon University",
+    "url": "https://github.com/lucidrains/evolutionary-policy-optimization",
+    "stars": 33,
     "daily_stars": 2,
-    "language": "HTML",
+    "language": null,
     "topics": [
       "artificial-intelligence",
-      "knowledge-distillation",
-      "knowledge-graph",
-      "llm",
-      "networkx",
-      "pyvis",
-      "visualization"
+      "deep-learning",
+      "genetic-algorithms",
+      "reinforcement-learning",
+      "robotics"
     ],
-    "created_at": "2025-03-23T04:38:15",
-    "updated_at": "2025-04-11T01:56:13"
+    "created_at": "2025-04-07T22:12:06",
+    "updated_at": "2025-04-11T03:59:59"
+  },
+  {
+    "name": "okta-mcp-server",
+    "full_name": "fctr-id/okta-mcp-server",
+    "description": "The Okta MCP Server is a groundbreaking tool built by the team at Fctr that enables AI models to interact directly with your Okta environment using the Model Context Protocol (MCP). Built specifically for IAM engineers, security teams, and Okta administrators, it implements the MCP specification to help work with Okta enitities",
+    "url": "https://github.com/fctr-id/okta-mcp-server",
+    "stars": 4,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "artificial-intelligence",
+      "identity",
+      "identity-management",
+      "mcp",
+      "mcp-server",
+      "okta",
+      "python"
+    ],
+    "created_at": "2025-03-26T15:28:41",
+    "updated_at": "2025-04-11T03:20:07"
+  },
+  {
+    "name": "SERAPH",
+    "full_name": "Calarts-Creative-Computing/SERAPH",
+    "description": "Seraph is an open platform for developing Teensy-based MIDI controllers and interactive musical interfaces. This repository provides a PCB design and sample demo code to help you build and customize your own MIDI devices.",
+    "url": "https://github.com/Calarts-Creative-Computing/SERAPH",
+    "stars": 2,
+    "daily_stars": 1,
+    "language": "C++",
+    "topics": [
+      "accelerometer",
+      "accelerometers",
+      "art",
+      "artificial-intelligence",
+      "immersive",
+      "immersive-media",
+      "interactive-art",
+      "interface",
+      "midi",
+      "midi-controller",
+      "open-source",
+      "pcb",
+      "pcb-design",
+      "sensor",
+      "sensors",
+      "teensy"
+    ],
+    "created_at": "2025-04-10T04:46:14",
+    "updated_at": "2025-04-11T03:48:45"
+  },
+  {
+    "name": "saiki",
+    "full_name": "truffle-ai/saiki",
+    "description": "AI Agent to control computers, applications and services using natural language",
+    "url": "https://github.com/truffle-ai/saiki",
+    "stars": 37,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "llm",
+      "mcp",
+      "modelcontextprotocol",
+      "typescript"
+    ],
+    "created_at": "2025-03-24T22:49:13",
+    "updated_at": "2025-04-11T04:03:07"
   },
   {
     "name": "rf-detr",
     "full_name": "roboflow/rf-detr",
     "description": "RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license.",
     "url": "https://github.com/roboflow/rf-detr",
-    "stars": 1817,
-    "daily_stars": 2,
+    "stars": 1818,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "computer-vision",
@@ -131,63 +200,6 @@
       "rf-detr"
     ],
     "created_at": "2025-03-19T20:43:00",
-    "updated_at": "2025-04-11T02:08:18"
-  },
-  {
-    "name": "Orpheus-FastAPI",
-    "full_name": "Lex-au/Orpheus-FastAPI",
-    "description": "High-performance Text-to-Speech server with OpenAI-compatible API, 8 voices, emotion tags, and modern web UI. Optimized for RTX GPUs.",
-    "url": "https://github.com/Lex-au/Orpheus-FastAPI",
-    "stars": 217,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-text-to-speech",
-      "ai-voice",
-      "artificial-intelligence"
-    ],
-    "created_at": "2025-03-21T15:24:16",
-    "updated_at": "2025-04-11T02:02:12"
-  },
-  {
-    "name": "DeepSeek-Desktop",
-    "full_name": "shrezird/DeepSeek-Desktop",
-    "description": "DeepSeek Desktop – A lightweight Windows application that runs DeepSeek in a dedicated, persistent webview window.",
-    "url": "https://github.com/shrezird/DeepSeek-Desktop",
-    "stars": 2,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "application",
-      "artificial-intelligence",
-      "deepseek",
-      "desktop",
-      "python",
-      "webbased",
-      "webview",
-      "windows"
-    ],
-    "created_at": "2025-04-04T04:35:22",
-    "updated_at": "2025-04-10T23:59:24"
-  },
-  {
-    "name": "kodus-ai",
-    "full_name": "kodustech/kodus-ai",
-    "description": "Open source AI code reviews — just like your senior dev would do.",
-    "url": "https://github.com/kodustech/kodus-ai",
-    "stars": 113,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-code-review",
-      "ai-coding-tools",
-      "code-review",
-      "coding-assistant",
-      "generative-ai"
-    ],
-    "created_at": "2025-03-28T17:05:19",
-    "updated_at": "2025-04-10T21:00:08"
+    "updated_at": "2025-04-11T03:06:07"
   }
 ]
