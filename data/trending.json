@@ -4,8 +4,8 @@
     "full_name": "kodustech/kodus-ai",
     "description": "Open source AI code reviews — just like your senior dev would do.",
     "url": "https://github.com/kodustech/kodus-ai",
-    "stars": 249,
-    "daily_stars": 31,
+    "stars": 261,
+    "daily_stars": 12,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -17,52 +17,126 @@
       "generative-ai"
     ],
     "created_at": "2025-03-28T17:05:19",
-    "updated_at": "2025-04-13T03:15:56"
+    "updated_at": "2025-04-13T04:59:20"
   },
   {
-    "name": "browserable",
-    "full_name": "browserable/browserable",
-    "description": "Open source and self-hostable browser automation library for AI agents",
-    "url": "https://github.com/browserable/browserable",
-    "stars": 401,
-    "daily_stars": 6,
-    "language": "JavaScript",
+    "name": "mav",
+    "full_name": "attentionmech/mav",
+    "description": "mav",
+    "url": "https://github.com/attentionmech/mav",
+    "stars": 405,
+    "daily_stars": 2,
+    "language": "Python",
     "topics": [
-      "ai-agents",
-      "ai-tools",
-      "browser-automation",
-      "javascript",
-      "playwright"
+      "large-language-models",
+      "llm-inference",
+      "machine-learning",
+      "terminal-app",
+      "visualization"
     ],
-    "created_at": "2025-04-07T16:04:36",
-    "updated_at": "2025-04-13T01:45:17"
+    "created_at": "2025-03-26T23:54:39",
+    "updated_at": "2025-04-13T03:45:28"
   },
   {
-    "name": "vibe-check-mcp-server",
-    "full_name": "PV-Bhat/vibe-check-mcp-server",
-    "description": "The definitive Vibe Coder's sanity check MCP server: Prevent cascading errors in AI workflows by implementing strategic pattern interrupts. Uses tool call \"Vibe Check\" with LearnLM 1.5 Pro (Gemini API), fine-tuned for pedagogy and metacognition to enhance complex workflow strategy, and prevents tunnel vision errors.",
-    "url": "https://github.com/PV-Bhat/vibe-check-mcp-server",
-    "stars": 34,
-    "daily_stars": 3,
-    "language": "TypeScript",
+    "name": "Awesome-Embodied-AI",
+    "full_name": "wadeKeith/Awesome-Embodied-AI",
+    "description": "An Introduction to Embodied Intelligence (A Quick Guide of Embodied-AI)",
+    "url": "https://github.com/wadeKeith/Awesome-Embodied-AI",
+    "stars": 75,
+    "daily_stars": 1,
+    "language": null,
     "topics": [
-      "agent-based",
-      "agentic-ai",
-      "agentic-workflow",
-      "ai-agents",
-      "automation",
-      "error-handling",
+      "artificial-intelligence",
+      "embodied-ai",
+      "embodied-artificial-intelligence",
+      "embodied-intelligence",
+      "large-language-models",
+      "reinforcement-learning",
+      "robotics",
+      "vision-language-model"
+    ],
+    "created_at": "2025-03-17T12:59:00",
+    "updated_at": "2025-04-13T03:44:03"
+  },
+  {
+    "name": "Versatile-OCR-Program",
+    "full_name": "ses4255/Versatile-OCR-Program",
+    "description": "Multi-modal OCR pipeline optimized for ML training (text, math, tables, diagrams)",
+    "url": "https://github.com/ses4255/Versatile-OCR-Program",
+    "stars": 566,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "doclayout",
+      "educational-data",
+      "exam-ocr",
+      "machine-learning",
+      "ml-datasets",
+      "multi-modal",
+      "ocr",
+      "openai",
+      "paper-ocr",
+      "table-parsing"
+    ],
+    "created_at": "2025-04-01T08:52:45",
+    "updated_at": "2025-04-13T04:08:43"
+  },
+  {
+    "name": "ML-Roadmap-and-Notes",
+    "full_name": "AdilShamim8/ML-Roadmap-and-Notes",
+    "description": "A carefully curated collection of machine learning notes, resources, projects, and datasets designed to guide you through the ML landscape effectively.",
+    "url": "https://github.com/AdilShamim8/ML-Roadmap-and-Notes",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "deep-learning",
+      "machine-learning-algorithms",
+      "machine-learning-library",
+      "machine-learning-models",
+      "machine-learning-practice",
+      "machine-learning-projects",
+      "macine-learning"
+    ],
+    "created_at": "2025-03-21T14:39:15",
+    "updated_at": "2025-04-13T04:21:25"
+  },
+  {
+    "name": "Orpheus-FastAPI",
+    "full_name": "Lex-au/Orpheus-FastAPI",
+    "description": "High-performance Text-to-Speech server with OpenAI-compatible API, 8 voices, emotion tags, and modern web UI. Optimized for RTX GPUs.",
+    "url": "https://github.com/Lex-au/Orpheus-FastAPI",
+    "stars": 225,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [
+      "ai-text-to-speech",
+      "ai-voice",
+      "artificial-intelligence"
+    ],
+    "created_at": "2025-03-21T15:24:16",
+    "updated_at": "2025-04-12T20:09:18"
+  },
+  {
+    "name": "UE5-MCP",
+    "full_name": "VedantRGosavi/UE5-MCP",
+    "description": "MCP for Unreal Engine 5",
+    "url": "https://github.com/VedantRGosavi/UE5-MCP",
+    "stars": 213,
+    "daily_stars": 0,
+    "language": null,
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "game-development",
+      "game-engine",
       "mcp",
       "mcp-server",
-      "metacognition",
-      "model-context-protocol",
-      "model-context-protocol-servers",
-      "vibe-coding",
-      "vibecoding",
-      "workflow-automation"
+      "unreal-engine",
+      "unreal-engine-5"
     ],
-    "created_at": "2025-03-22T09:33:08",
-    "updated_at": "2025-04-13T03:12:20"
+    "created_at": "2025-03-15T17:12:55",
+    "updated_at": "2025-04-11T17:44:18"
   },
   {
     "name": "ai-knowledge-graph",
@@ -70,7 +144,7 @@
     "description": "AI Powered Knowledge Graph Generator",
     "url": "https://github.com/robert-mcdermott/ai-knowledge-graph",
     "stars": 51,
-    "daily_stars": 2,
+    "daily_stars": 0,
     "language": "HTML",
     "topics": [
       "artificial-intelligence",
@@ -85,117 +159,45 @@
     "updated_at": "2025-04-13T02:31:26"
   },
   {
-    "name": "minecraft-mcp-server",
-    "full_name": "yuniko-software/minecraft-mcp-server",
-    "description": "A Minecraft MCP Server powered by Mineflayer API. It allows to control a Minecraft character in real-time, allowing AI assistants to build structures, explore the world, and interact with the game environment through natural language instruction",
-    "url": "https://github.com/yuniko-software/minecraft-mcp-server",
-    "stars": 34,
-    "daily_stars": 2,
-    "language": "JavaScript",
+    "name": "evolutionary-policy-optimization",
+    "full_name": "lucidrains/evolutionary-policy-optimization",
+    "description": "Pytorch implementation of Evolutionary Policy Optimization, from Wang et al. of the Robotics Institute at Carnegie Melon University",
+    "url": "https://github.com/lucidrains/evolutionary-policy-optimization",
+    "stars": 36,
+    "daily_stars": 0,
+    "language": null,
     "topics": [
       "artificial-intelligence",
-      "claude",
-      "javascript",
-      "large-language-models",
-      "mcp",
-      "mcp-server",
-      "minecraft",
-      "modelcontextprotocol",
-      "natural-language-processing",
-      "nodejs",
-      "typescript"
+      "deep-learning",
+      "genetic-algorithms",
+      "reinforcement-learning",
+      "robotics"
     ],
-    "created_at": "2025-03-20T17:59:31",
-    "updated_at": "2025-04-13T01:14:06"
+    "created_at": "2025-04-07T22:12:06",
+    "updated_at": "2025-04-12T13:54:07"
   },
   {
-    "name": "rf-detr",
-    "full_name": "roboflow/rf-detr",
-    "description": "RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license.",
-    "url": "https://github.com/roboflow/rf-detr",
-    "stars": 1834,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "computer-vision",
-      "detr",
-      "machine-learning",
-      "object-detection",
-      "rf-detr"
-    ],
-    "created_at": "2025-03-19T20:43:00",
-    "updated_at": "2025-04-12T21:47:43"
-  },
-  {
-    "name": "Cyber-Attack-Threat-Classification",
-    "full_name": "2000pawan/Cyber-Attack-Threat-Classification",
-    "description": "Cyber Attack Threat Classification using CICIDS2017 dataset.",
-    "url": "https://github.com/2000pawan/Cyber-Attack-Threat-Classification",
-    "stars": 4,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "artificial-intelligence",
-      "cyber-threat-intelligence",
-      "cyberattack-detection",
-      "cybersecurity",
-      "data-science",
-      "machine-learning",
-      "python"
-    ],
-    "created_at": "2025-03-26T18:10:56",
-    "updated_at": "2025-04-12T22:46:55"
-  },
-  {
-    "name": "chefskiss",
-    "full_name": "curiousily/chefskiss",
-    "description": "Agent application for suggesting recipes based on user preferences and dietary restrictions using Agent Development Kit by Google",
-    "url": "https://github.com/curiousily/chefskiss",
-    "stars": 2,
-    "daily_stars": 1,
-    "language": "Python",
+    "name": "Awesome-AI-Agents",
+    "full_name": "ChatTeach/Awesome-AI-Agents",
+    "description": "Curated collection of the latest open-source AI agent projects—Weekly updated!",
+    "url": "https://github.com/ChatTeach/Awesome-AI-Agents",
+    "stars": 35,
+    "daily_stars": 0,
+    "language": null,
     "topics": [
       "agents",
+      "agi",
+      "ai",
+      "aiagent",
+      "aiagents",
+      "aitools",
+      "api",
       "artificial-intelligence",
-      "chatgpt",
-      "llm"
+      "autogpt",
+      "manuagi",
+      "openai"
     ],
-    "created_at": "2025-04-11T18:27:09",
-    "updated_at": "2025-04-13T00:32:53"
-  },
-  {
-    "name": "claude-code-github-agent",
-    "full_name": "potproject/claude-code-github-agent",
-    "description": "An AI Agent that operates Claude Code on GitHub Actions. By using this action, you can directly invoke Claude Code from GitHub Issues or Pull Request comments and automate code changes.",
-    "url": "https://github.com/potproject/claude-code-github-agent",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "github-actions"
-    ],
-    "created_at": "2025-03-17T09:16:22",
-    "updated_at": "2025-04-12T21:20:54"
-  },
-  {
-    "name": "kodus-cli",
-    "full_name": "kodustech/kodus-cli",
-    "description": "Deploy Kodus Agents in your own infra.",
-    "url": "https://github.com/kodustech/kodus-cli",
-    "stars": 2,
-    "daily_stars": 1,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "ai-code-reviewer",
-      "cli",
-      "code-review",
-      "self-hosted"
-    ],
-    "created_at": "2025-03-27T13:38:17",
-    "updated_at": "2025-04-12T22:15:23"
+    "created_at": "2025-03-21T04:08:38",
+    "updated_at": "2025-04-12T07:13:54"
   }
 ]
