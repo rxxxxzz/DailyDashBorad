@@ -1,11 +1,46 @@
 [
   {
+    "name": "Vocalis",
+    "full_name": "Lex-au/Vocalis",
+    "description": "Speech-to-speech AI assistant with natural conversation flow, mid-speech interruption, vision capabilities and AI-initiated follow-ups. Features low-latency audio streaming, dynamic visual feedback, and works with local LLM/TTS services via OpenAI-compatible endpoints.",
+    "url": "https://github.com/Lex-au/Vocalis",
+    "stars": 22,
+    "daily_stars": 16,
+    "language": "TypeScript",
+    "topics": [
+      "artificial-intelligence",
+      "conversational-ai",
+      "speech-to-speech",
+      "visionprocessing"
+    ],
+    "created_at": "2025-03-30T13:36:53",
+    "updated_at": "2025-04-13T12:53:49"
+  },
+  {
+    "name": "browserable",
+    "full_name": "browserable/browserable",
+    "description": "Open source and self-hostable browser automation library for AI agents",
+    "url": "https://github.com/browserable/browserable",
+    "stars": 409,
+    "daily_stars": 5,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "browser-automation",
+      "javascript",
+      "playwright"
+    ],
+    "created_at": "2025-04-07T16:04:36",
+    "updated_at": "2025-04-13T12:50:45"
+  },
+  {
     "name": "kodus-ai",
     "full_name": "kodustech/kodus-ai",
     "description": "Open source AI code reviews — just like your senior dev would do.",
     "url": "https://github.com/kodustech/kodus-ai",
-    "stars": 278,
-    "daily_stars": 17,
+    "stars": 283,
+    "daily_stars": 5,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -17,15 +52,15 @@
       "generative-ai"
     ],
     "created_at": "2025-03-28T17:05:19",
-    "updated_at": "2025-04-13T08:41:24"
+    "updated_at": "2025-04-13T12:27:54"
   },
   {
     "name": "ai-knowledge-graph",
     "full_name": "robert-mcdermott/ai-knowledge-graph",
     "description": "AI Powered Knowledge Graph Generator",
     "url": "https://github.com/robert-mcdermott/ai-knowledge-graph",
-    "stars": 54,
-    "daily_stars": 3,
+    "stars": 56,
+    "daily_stars": 2,
     "language": "HTML",
     "topics": [
       "artificial-intelligence",
@@ -37,117 +72,39 @@
       "visualization"
     ],
     "created_at": "2025-03-23T04:38:15",
-    "updated_at": "2025-04-13T08:14:42"
+    "updated_at": "2025-04-13T10:38:33"
   },
   {
-    "name": "browserable",
-    "full_name": "browserable/browserable",
-    "description": "Open source and self-hostable browser automation library for AI agents",
-    "url": "https://github.com/browserable/browserable",
-    "stars": 404,
-    "daily_stars": 3,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "browser-automation",
-      "javascript",
-      "playwright"
-    ],
-    "created_at": "2025-04-07T16:04:36",
-    "updated_at": "2025-04-13T07:36:59"
-  },
-  {
-    "name": "Self-Driving-Using-Deep-learning",
-    "full_name": "alihassanml/Self-Driving-Using-Deep-learning",
-    "description": "Self Driving Using Deep learning",
-    "url": "https://github.com/alihassanml/Self-Driving-Using-Deep-learning",
-    "stars": 10,
+    "name": "NeoRefacer",
+    "full_name": "MechasAI/NeoRefacer",
+    "description": "Next-generation, fully open-source refacer. Images. GIFs. Full-length videos. Bulk refacing",
+    "url": "https://github.com/MechasAI/NeoRefacer",
+    "stars": 5,
     "daily_stars": 2,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "cnn",
-      "computer-vision",
-      "deep",
-      "deep-learning",
-      "self-driving-car",
-      "udacity"
-    ],
-    "created_at": "2025-04-05T09:37:16",
-    "updated_at": "2025-04-13T06:23:28"
-  },
-  {
-    "name": "Agent-Wiz",
-    "full_name": "Repello-AI/Agent-Wiz",
-    "description": "A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.",
-    "url": "https://github.com/Repello-AI/Agent-Wiz",
-    "stars": 112,
-    "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "agent",
-      "agentic-ai",
       "ai",
-      "ai-agents",
-      "autogen",
-      "crewai",
-      "langraph",
-      "llama-index",
-      "n8n",
-      "openai",
-      "openai-agents-sdk",
-      "pydantic",
-      "security-tools",
-      "swarm",
-      "threat-modeling"
+      "artificial-intelligence",
+      "deep-learning",
+      "deepfake",
+      "faceswap",
+      "genai",
+      "gifs",
+      "image-manipulation",
+      "images",
+      "refacer",
+      "videos"
     ],
-    "created_at": "2025-03-31T04:06:51",
-    "updated_at": "2025-04-13T08:15:48"
-  },
-  {
-    "name": "saiki",
-    "full_name": "truffle-ai/saiki",
-    "description": "AI Agent to control computers, applications and services using natural language",
-    "url": "https://github.com/truffle-ai/saiki",
-    "stars": 66,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "llm",
-      "mcp",
-      "modelcontextprotocol",
-      "typescript"
-    ],
-    "created_at": "2025-03-24T22:49:13",
-    "updated_at": "2025-04-13T05:26:49"
-  },
-  {
-    "name": "rf-detr",
-    "full_name": "roboflow/rf-detr",
-    "description": "RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license.",
-    "url": "https://github.com/roboflow/rf-detr",
-    "stars": 1835,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "computer-vision",
-      "detr",
-      "machine-learning",
-      "object-detection",
-      "rf-detr"
-    ],
-    "created_at": "2025-03-19T20:43:00",
-    "updated_at": "2025-04-13T07:29:47"
+    "created_at": "2025-04-10T21:11:20",
+    "updated_at": "2025-04-13T10:50:49"
   },
   {
     "name": "Versatile-OCR-Program",
     "full_name": "ses4255/Versatile-OCR-Program",
     "description": "Multi-modal OCR pipeline optimized for ML training (text, math, tables, diagrams)",
     "url": "https://github.com/ses4255/Versatile-OCR-Program",
-    "stars": 567,
-    "daily_stars": 1,
+    "stars": 569,
+    "daily_stars": 2,
     "language": null,
     "topics": [
       "doclayout",
@@ -162,40 +119,86 @@
       "table-parsing"
     ],
     "created_at": "2025-04-01T08:52:45",
-    "updated_at": "2025-04-13T08:38:42"
+    "updated_at": "2025-04-13T12:04:41"
   },
   {
-    "name": "AI-clip-creator",
-    "full_name": "Vijax0/AI-clip-creator",
-    "description": "A Flask frontend for a machine learning model that identifies and extracts interesting moments from videos, creating standalone clips without manual editing.",
-    "url": "https://github.com/Vijax0/AI-clip-creator",
-    "stars": 12,
+    "name": "ai-access",
+    "full_name": "aiaccess/ai-access",
+    "description": "A flexible PHP library providing access to various AI models (Gemini, OpenAI, Anthropic, DeepSeek, Grok) via a consistent interface.",
+    "url": "https://github.com/aiaccess/ai-access",
+    "stars": 4,
+    "daily_stars": 1,
+    "language": "PHP",
+    "topics": [
+      "ai",
+      "anthropic",
+      "api",
+      "artificial-intelligence",
+      "chatbot",
+      "client",
+      "deepseek",
+      "gemini",
+      "grok",
+      "large-language-model",
+      "llm",
+      "openai"
+    ],
+    "created_at": "2025-04-11T15:23:01",
+    "updated_at": "2025-04-13T12:31:24"
+  },
+  {
+    "name": "saiki",
+    "full_name": "truffle-ai/saiki",
+    "description": "AI Agent to control computers, applications and services using natural language",
+    "url": "https://github.com/truffle-ai/saiki",
+    "stars": 67,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "llm",
+      "mcp",
+      "modelcontextprotocol",
+      "typescript"
+    ],
+    "created_at": "2025-03-24T22:49:13",
+    "updated_at": "2025-04-13T11:50:50"
+  },
+  {
+    "name": "rf-detr",
+    "full_name": "roboflow/rf-detr",
+    "description": "RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license.",
+    "url": "https://github.com/roboflow/rf-detr",
+    "stars": 1836,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "flask",
+      "computer-vision",
+      "detr",
       "machine-learning",
-      "python"
+      "object-detection",
+      "rf-detr"
     ],
-    "created_at": "2025-03-23T01:59:32",
-    "updated_at": "2025-04-13T07:45:04"
+    "created_at": "2025-03-19T20:43:00",
+    "updated_at": "2025-04-13T09:20:15"
   },
   {
-    "name": "data-centric-satellite-segmentation",
-    "full_name": "microsoft/data-centric-satellite-segmentation",
-    "description": "Contains implementations of data-centric approaches for improving semantic segmentation on satellite imagery.",
-    "url": "https://github.com/microsoft/data-centric-satellite-segmentation",
-    "stars": 29,
+    "name": "mav",
+    "full_name": "attentionmech/mav",
+    "description": "mav",
+    "url": "https://github.com/attentionmech/mav",
+    "stars": 406,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "data-centric-machine-learning",
-      "deep-learning",
-      "geospatial",
-      "land-cover-classification",
-      "semantic-segmentation"
+      "large-language-models",
+      "llm-inference",
+      "machine-learning",
+      "terminal-app",
+      "visualization"
     ],
-    "created_at": "2025-03-19T12:09:44",
-    "updated_at": "2025-04-13T05:39:02"
+    "created_at": "2025-03-26T23:54:39",
+    "updated_at": "2025-04-13T11:42:06"
   }
 ]
