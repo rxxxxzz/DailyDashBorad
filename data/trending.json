@@ -4,7 +4,7 @@
     "full_name": "Lex-au/Vocalis",
     "description": "Speech-to-speech AI assistant with natural conversation flow, mid-speech interruption, vision capabilities and AI-initiated follow-ups. Features low-latency audio streaming, dynamic visual feedback, and works with local LLM/TTS services via OpenAI-compatible endpoints.",
     "url": "https://github.com/Lex-au/Vocalis",
-    "stars": 22,
+    "stars": 38,
     "daily_stars": 16,
     "language": "TypeScript",
     "topics": [
@@ -14,15 +14,15 @@
       "visionprocessing"
     ],
     "created_at": "2025-03-30T13:36:53",
-    "updated_at": "2025-04-13T12:53:49"
+    "updated_at": "2025-04-13T16:17:20"
   },
   {
     "name": "browserable",
     "full_name": "browserable/browserable",
     "description": "Open source and self-hostable browser automation library for AI agents",
     "url": "https://github.com/browserable/browserable",
-    "stars": 409,
-    "daily_stars": 5,
+    "stars": 422,
+    "daily_stars": 13,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -32,55 +32,103 @@
       "playwright"
     ],
     "created_at": "2025-04-07T16:04:36",
-    "updated_at": "2025-04-13T12:50:45"
+    "updated_at": "2025-04-13T16:28:39"
   },
   {
-    "name": "kodus-ai",
-    "full_name": "kodustech/kodus-ai",
-    "description": "Open source AI code reviews — just like your senior dev would do.",
-    "url": "https://github.com/kodustech/kodus-ai",
-    "stars": 283,
-    "daily_stars": 5,
-    "language": "TypeScript",
+    "name": "Agent-Wiz",
+    "full_name": "Repello-AI/Agent-Wiz",
+    "description": "A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.",
+    "url": "https://github.com/Repello-AI/Agent-Wiz",
+    "stars": 114,
+    "daily_stars": 2,
+    "language": "Python",
     "topics": [
+      "agent",
+      "agentic-ai",
       "ai",
       "ai-agents",
-      "ai-code-review",
-      "ai-coding-tools",
-      "code-review",
-      "coding-assistant",
-      "generative-ai"
+      "autogen",
+      "crewai",
+      "langraph",
+      "llama-index",
+      "n8n",
+      "openai",
+      "openai-agents-sdk",
+      "pydantic",
+      "security-tools",
+      "swarm",
+      "threat-modeling"
     ],
-    "created_at": "2025-03-28T17:05:19",
-    "updated_at": "2025-04-13T12:27:54"
+    "created_at": "2025-03-31T04:06:51",
+    "updated_at": "2025-04-13T16:00:32"
   },
   {
-    "name": "ai-knowledge-graph",
-    "full_name": "robert-mcdermott/ai-knowledge-graph",
-    "description": "AI Powered Knowledge Graph Generator",
-    "url": "https://github.com/robert-mcdermott/ai-knowledge-graph",
-    "stars": 56,
+    "name": "mcp-gemini-search",
+    "full_name": "arjunprabhulal/mcp-gemini-search",
+    "description": "Model Context Protocol (MCP) with Gemini 2.5 Pro. Convert conversational queries into flight searches using Gemini's function calling capabilities and MCP's flight search tools",
+    "url": "https://github.com/arjunprabhulal/mcp-gemini-search",
+    "stars": 11,
     "daily_stars": 2,
-    "language": "HTML",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "function-calling",
+      "gemini",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "serpapi",
+      "stdio"
+    ],
+    "created_at": "2025-04-04T17:05:06",
+    "updated_at": "2025-04-13T16:16:29"
+  },
+  {
+    "name": "Orpheus-FastAPI",
+    "full_name": "Lex-au/Orpheus-FastAPI",
+    "description": "High-performance Text-to-Speech server with OpenAI-compatible API, 8 voices, emotion tags, and modern web UI. Optimized for RTX GPUs.",
+    "url": "https://github.com/Lex-au/Orpheus-FastAPI",
+    "stars": 226,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-text-to-speech",
+      "ai-voice",
+      "artificial-intelligence"
+    ],
+    "created_at": "2025-03-21T15:24:16",
+    "updated_at": "2025-04-13T13:20:39"
+  },
+  {
+    "name": "Awesome-Embodied-AI",
+    "full_name": "wadeKeith/Awesome-Embodied-AI",
+    "description": "An Introduction to Embodied Intelligence (A Quick Guide of Embodied-AI)",
+    "url": "https://github.com/wadeKeith/Awesome-Embodied-AI",
+    "stars": 76,
+    "daily_stars": 1,
+    "language": null,
     "topics": [
       "artificial-intelligence",
-      "knowledge-distillation",
-      "knowledge-graph",
-      "llm",
-      "networkx",
-      "pyvis",
-      "visualization"
+      "embodied-ai",
+      "embodied-artificial-intelligence",
+      "embodied-intelligence",
+      "large-language-models",
+      "reinforcement-learning",
+      "robotics",
+      "vision-language-model"
     ],
-    "created_at": "2025-03-23T04:38:15",
-    "updated_at": "2025-04-13T10:38:33"
+    "created_at": "2025-03-17T12:59:00",
+    "updated_at": "2025-04-13T16:15:17"
   },
   {
     "name": "NeoRefacer",
     "full_name": "MechasAI/NeoRefacer",
     "description": "Next-generation, fully open-source refacer. Images. GIFs. Full-length videos. Bulk refacing",
     "url": "https://github.com/MechasAI/NeoRefacer",
-    "stars": 5,
-    "daily_stars": 2,
+    "stars": 6,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai",
@@ -96,109 +144,70 @@
       "videos"
     ],
     "created_at": "2025-04-10T21:11:20",
-    "updated_at": "2025-04-13T10:50:49"
+    "updated_at": "2025-04-13T13:41:43"
   },
   {
-    "name": "Versatile-OCR-Program",
-    "full_name": "ses4255/Versatile-OCR-Program",
-    "description": "Multi-modal OCR pipeline optimized for ML training (text, math, tables, diagrams)",
-    "url": "https://github.com/ses4255/Versatile-OCR-Program",
-    "stars": 569,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "doclayout",
-      "educational-data",
-      "exam-ocr",
-      "machine-learning",
-      "ml-datasets",
-      "multi-modal",
-      "ocr",
-      "openai",
-      "paper-ocr",
-      "table-parsing"
-    ],
-    "created_at": "2025-04-01T08:52:45",
-    "updated_at": "2025-04-13T12:04:41"
-  },
-  {
-    "name": "ai-access",
-    "full_name": "aiaccess/ai-access",
-    "description": "A flexible PHP library providing access to various AI models (Gemini, OpenAI, Anthropic, DeepSeek, Grok) via a consistent interface.",
-    "url": "https://github.com/aiaccess/ai-access",
-    "stars": 4,
+    "name": "okta-mcp-server",
+    "full_name": "fctr-id/okta-mcp-server",
+    "description": "The Okta MCP Server is a groundbreaking tool built by the team at Fctr that enables AI models to interact directly with your Okta environment using the Model Context Protocol (MCP). Built specifically for IAM engineers, security teams, and Okta administrators, it implements the MCP specification to help work with Okta enitities",
+    "url": "https://github.com/fctr-id/okta-mcp-server",
+    "stars": 5,
     "daily_stars": 1,
-    "language": "PHP",
+    "language": "Python",
     "topics": [
+      "agentic-ai",
       "ai",
-      "anthropic",
-      "api",
       "artificial-intelligence",
-      "chatbot",
-      "client",
-      "deepseek",
-      "gemini",
-      "grok",
-      "large-language-model",
-      "llm",
-      "openai"
+      "identity",
+      "identity-management",
+      "mcp",
+      "mcp-server",
+      "okta",
+      "python"
     ],
-    "created_at": "2025-04-11T15:23:01",
-    "updated_at": "2025-04-13T12:31:24"
+    "created_at": "2025-03-26T15:28:41",
+    "updated_at": "2025-04-13T16:09:56"
   },
   {
-    "name": "saiki",
-    "full_name": "truffle-ai/saiki",
-    "description": "AI Agent to control computers, applications and services using natural language",
-    "url": "https://github.com/truffle-ai/saiki",
-    "stars": 67,
+    "name": "lightning-hydra-boilerplate",
+    "full_name": "willyfh/lightning-hydra-boilerplate",
+    "description": "A project boilerplate for deep learning experiments using PyTorch Lightning and Hydra, designed for rapid prototyping, clean configuration management, and scalable research workflows.",
+    "url": "https://github.com/willyfh/lightning-hydra-boilerplate",
+    "stars": 2,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "boilerplate",
+      "deep-learning",
+      "hydra",
+      "lightning",
+      "machine-learning",
+      "pytorch",
+      "pytorch-lightning",
+      "research-tool"
+    ],
+    "created_at": "2025-04-04T15:31:40",
+    "updated_at": "2025-04-13T16:41:01"
+  },
+  {
+    "name": "kodus-ai",
+    "full_name": "kodustech/kodus-ai",
+    "description": "Open source AI code reviews — just like your senior dev would do.",
+    "url": "https://github.com/kodustech/kodus-ai",
+    "stars": 284,
     "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
+      "ai",
       "ai-agents",
-      "ai-tools",
-      "llm",
-      "mcp",
-      "modelcontextprotocol",
-      "typescript"
+      "ai-code-review",
+      "ai-coding-tools",
+      "code-review",
+      "coding-assistant",
+      "generative-ai"
     ],
-    "created_at": "2025-03-24T22:49:13",
-    "updated_at": "2025-04-13T11:50:50"
-  },
-  {
-    "name": "rf-detr",
-    "full_name": "roboflow/rf-detr",
-    "description": "RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license.",
-    "url": "https://github.com/roboflow/rf-detr",
-    "stars": 1836,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "computer-vision",
-      "detr",
-      "machine-learning",
-      "object-detection",
-      "rf-detr"
-    ],
-    "created_at": "2025-03-19T20:43:00",
-    "updated_at": "2025-04-13T09:20:15"
-  },
-  {
-    "name": "mav",
-    "full_name": "attentionmech/mav",
-    "description": "mav",
-    "url": "https://github.com/attentionmech/mav",
-    "stars": 406,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "large-language-models",
-      "llm-inference",
-      "machine-learning",
-      "terminal-app",
-      "visualization"
-    ],
-    "created_at": "2025-03-26T23:54:39",
-    "updated_at": "2025-04-13T11:42:06"
+    "created_at": "2025-03-28T17:05:19",
+    "updated_at": "2025-04-13T14:19:02"
   }
 ]
