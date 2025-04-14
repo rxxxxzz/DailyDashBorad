@@ -4,7 +4,7 @@
     "full_name": "browserable/browserable",
     "description": "Open source and self-hostable browser automation library for AI agents",
     "url": "https://github.com/browserable/browserable",
-    "stars": 446,
+    "stars": 451,
     "daily_stars": 5,
     "language": "JavaScript",
     "topics": [
@@ -15,31 +15,33 @@
       "playwright"
     ],
     "created_at": "2025-04-07T16:04:36",
-    "updated_at": "2025-04-14T12:19:49"
+    "updated_at": "2025-04-14T16:05:06"
   },
   {
-    "name": "Orpheus-FastAPI",
-    "full_name": "Lex-au/Orpheus-FastAPI",
-    "description": "High-performance Text-to-Speech server with OpenAI-compatible API, 8 voices, emotion tags, and modern web UI. Optimized for RTX GPUs.",
-    "url": "https://github.com/Lex-au/Orpheus-FastAPI",
-    "stars": 233,
+    "name": "rf-detr",
+    "full_name": "roboflow/rf-detr",
+    "description": "RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license.",
+    "url": "https://github.com/roboflow/rf-detr",
+    "stars": 1853,
     "daily_stars": 4,
     "language": "Python",
     "topics": [
-      "ai-text-to-speech",
-      "ai-voice",
-      "artificial-intelligence"
+      "computer-vision",
+      "detr",
+      "machine-learning",
+      "object-detection",
+      "rf-detr"
     ],
-    "created_at": "2025-03-21T15:24:16",
-    "updated_at": "2025-04-14T12:05:16"
+    "created_at": "2025-03-19T20:43:00",
+    "updated_at": "2025-04-14T16:04:57"
   },
   {
     "name": "Vocalis",
     "full_name": "Lex-au/Vocalis",
     "description": "Speech-to-speech AI assistant with natural conversation flow, mid-speech interruption, vision capabilities and AI-initiated follow-ups. Features low-latency audio streaming, dynamic visual feedback, and works with local LLM/TTS services via OpenAI-compatible endpoints.",
     "url": "https://github.com/Lex-au/Vocalis",
-    "stars": 68,
-    "daily_stars": 2,
+    "stars": 71,
+    "daily_stars": 3,
     "language": "TypeScript",
     "topics": [
       "artificial-intelligence",
@@ -48,14 +50,35 @@
       "visionprocessing"
     ],
     "created_at": "2025-03-30T13:36:53",
-    "updated_at": "2025-04-14T10:57:25"
+    "updated_at": "2025-04-14T16:17:50"
+  },
+  {
+    "name": "Awesome-Embodied-AI",
+    "full_name": "wadeKeith/Awesome-Embodied-AI",
+    "description": "An Introduction to Embodied Intelligence (A Quick Guide of Embodied-AI)",
+    "url": "https://github.com/wadeKeith/Awesome-Embodied-AI",
+    "stars": 79,
+    "daily_stars": 2,
+    "language": null,
+    "topics": [
+      "artificial-intelligence",
+      "embodied-ai",
+      "embodied-artificial-intelligence",
+      "embodied-intelligence",
+      "large-language-models",
+      "reinforcement-learning",
+      "robotics",
+      "vision-language-model"
+    ],
+    "created_at": "2025-03-17T12:59:00",
+    "updated_at": "2025-04-14T14:20:01"
   },
   {
     "name": "ai-knowledge-graph",
     "full_name": "robert-mcdermott/ai-knowledge-graph",
     "description": "AI Powered Knowledge Graph Generator",
     "url": "https://github.com/robert-mcdermott/ai-knowledge-graph",
-    "stars": 68,
+    "stars": 70,
     "daily_stars": 2,
     "language": "HTML",
     "topics": [
@@ -68,129 +91,108 @@
       "visualization"
     ],
     "created_at": "2025-03-23T04:38:15",
-    "updated_at": "2025-04-14T09:28:42"
+    "updated_at": "2025-04-14T14:54:03"
   },
   {
-    "name": "data-centric-satellite-segmentation",
-    "full_name": "microsoft/data-centric-satellite-segmentation",
-    "description": "Contains implementations of data-centric approaches for improving semantic segmentation on satellite imagery.",
-    "url": "https://github.com/microsoft/data-centric-satellite-segmentation",
-    "stars": 33,
+    "name": "Versatile-OCR-Program",
+    "full_name": "ses4255/Versatile-OCR-Program",
+    "description": "Multi-modal OCR pipeline optimized for ML training (text, math, tables, diagrams)",
+    "url": "https://github.com/ses4255/Versatile-OCR-Program",
+    "stars": 577,
     "daily_stars": 2,
-    "language": "Python",
+    "language": null,
     "topics": [
-      "data-centric-machine-learning",
-      "deep-learning",
-      "geospatial",
-      "land-cover-classification",
-      "semantic-segmentation"
+      "doclayout",
+      "educational-data",
+      "exam-ocr",
+      "machine-learning",
+      "ml-datasets",
+      "multi-modal",
+      "ocr",
+      "openai",
+      "paper-ocr",
+      "table-parsing"
     ],
-    "created_at": "2025-03-19T12:09:44",
-    "updated_at": "2025-04-14T10:01:38"
+    "created_at": "2025-04-01T08:52:45",
+    "updated_at": "2025-04-14T14:38:23"
   },
   {
-    "name": "guMCP",
-    "full_name": "gumloop/guMCP",
-    "description": "Gumloop Unified Model Context Protocol (guMCP)",
-    "url": "https://github.com/gumloop/guMCP",
-    "stars": 324,
+    "name": "LocatAI.NET",
+    "full_name": "Divyarajsinh-Dodia/LocatAI.NET",
+    "description": "AI Locator Finder",
+    "url": "https://github.com/Divyarajsinh-Dodia/LocatAI.NET",
+    "stars": 4,
     "daily_stars": 2,
-    "language": "Python",
+    "language": "C#",
     "topics": [
       "ai",
-      "automation",
-      "mcp",
-      "mcp-server",
-      "workflow"
+      "automation-testing",
+      "locators",
+      "machine-learning",
+      "selenium"
     ],
-    "created_at": "2025-03-20T00:01:52",
-    "updated_at": "2025-04-14T10:00:54"
+    "created_at": "2025-04-13T09:59:36",
+    "updated_at": "2025-04-14T14:14:06"
   },
   {
-    "name": "monitoring-llms-langfuse-ollama",
-    "full_name": "ErickWendel/monitoring-llms-langfuse-ollama",
-    "description": "Examples of how to monitor the OpenAI SDK calls using Langfuse",
-    "url": "https://github.com/ErickWendel/monitoring-llms-langfuse-ollama",
-    "stars": 16,
+    "name": "kodus-ai",
+    "full_name": "kodustech/kodus-ai",
+    "description": "Open source AI code reviews — just like your senior dev would do.",
+    "url": "https://github.com/kodustech/kodus-ai",
+    "stars": 294,
     "daily_stars": 1,
-    "language": "JavaScript",
+    "language": "TypeScript",
     "topics": [
-      "artificial-intelligence",
-      "docker",
-      "hostinger",
-      "langfuse",
-      "monitoring",
-      "ollama",
-      "openai"
-    ],
-    "created_at": "2025-04-05T15:30:58",
-    "updated_at": "2025-04-14T11:38:59"
-  },
-  {
-    "name": "lstm-transformers-comparison",
-    "full_name": "dr-blockchains/lstm-transformers-comparison",
-    "description": "Forecasting Stock Prices using Transformers and LSTM: Comparative Analysis",
-    "url": "https://github.com/dr-blockchains/lstm-transformers-comparison",
-    "stars": 2,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "artificial-intelligence",
-      "deeplearning",
-      "financial-markets",
-      "forecasting",
-      "lstm",
-      "stock-market",
-      "transformers"
-    ],
-    "created_at": "2025-04-13T04:25:10",
-    "updated_at": "2025-04-14T10:16:25"
-  },
-  {
-    "name": "Agent-Wiz",
-    "full_name": "Repello-AI/Agent-Wiz",
-    "description": "A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.",
-    "url": "https://github.com/Repello-AI/Agent-Wiz",
-    "stars": 118,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agentic-ai",
       "ai",
       "ai-agents",
-      "autogen",
-      "crewai",
-      "langraph",
-      "llama-index",
-      "n8n",
-      "openai",
-      "openai-agents-sdk",
-      "pydantic",
-      "security-tools",
-      "swarm",
-      "threat-modeling"
+      "ai-code-review",
+      "ai-coding-tools",
+      "code-review",
+      "coding-assistant",
+      "generative-ai"
     ],
-    "created_at": "2025-03-31T04:06:51",
-    "updated_at": "2025-04-14T11:19:00"
+    "created_at": "2025-03-28T17:05:19",
+    "updated_at": "2025-04-14T13:27:06"
   },
   {
-    "name": "EarnWithAI",
-    "full_name": "garymengcom/EarnWithAI",
-    "description": "A list of open-source AI projects you can use to generate income easily.",
-    "url": "https://github.com/garymengcom/EarnWithAI",
+    "name": "ImageAgent",
+    "full_name": "josefdc/ImageAgent",
+    "description": "AI-powered image editor with LangGraph agent technology. Edit photos using natural language commands through an intelligent conversational interface. Features both traditional manual controls and an AI assistant that understands complex editing requests.",
+    "url": "https://github.com/josefdc/ImageAgent",
     "stars": 7,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai",
-      "ai-agent",
       "ai-agents",
-      "llm",
-      "open-source",
-      "open-source-ai"
+      "collaborate",
+      "github-copilot",
+      "image-editor",
+      "langraph"
     ],
-    "created_at": "2025-03-19T09:01:38",
-    "updated_at": "2025-04-14T11:22:40"
+    "created_at": "2025-03-28T18:06:51",
+    "updated_at": "2025-04-14T14:09:04"
+  },
+  {
+    "name": "open-operator-evals",
+    "full_name": "nottelabs/open-operator-evals",
+    "description": "Opensource benchmark evaluating web operators/agents performance",
+    "url": "https://github.com/nottelabs/open-operator-evals",
+    "stars": 4,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "browser-automation",
+      "browser-use",
+      "computer-use",
+      "cua",
+      "llm",
+      "notte",
+      "web-agent"
+    ],
+    "created_at": "2025-04-08T13:25:01",
+    "updated_at": "2025-04-14T16:16:21"
   }
 ]
