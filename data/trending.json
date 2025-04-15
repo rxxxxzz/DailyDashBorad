@@ -1,10 +1,45 @@
 [
   {
+    "name": "any-agent",
+    "full_name": "mozilla-ai/any-agent",
+    "description": "A single interface to different Agent frameworks",
+    "url": "https://github.com/mozilla-ai/any-agent",
+    "stars": 139,
+    "daily_stars": 10,
+    "language": "Python",
+    "topics": [
+      "agent-evaluation",
+      "agent-frameworks",
+      "ai-agents",
+      "open-source"
+    ],
+    "created_at": "2025-03-25T08:14:43",
+    "updated_at": "2025-04-15T08:45:39"
+  },
+  {
+    "name": "browserable",
+    "full_name": "browserable/browserable",
+    "description": "Open source and self-hostable browser automation library for AI agents",
+    "url": "https://github.com/browserable/browserable",
+    "stars": 461,
+    "daily_stars": 6,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "browser-automation",
+      "javascript",
+      "playwright"
+    ],
+    "created_at": "2025-04-07T16:04:36",
+    "updated_at": "2025-04-15T07:59:30"
+  },
+  {
     "name": "Agent-Wiz",
     "full_name": "Repello-AI/Agent-Wiz",
     "description": "A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.",
     "url": "https://github.com/Repello-AI/Agent-Wiz",
-    "stars": 136,
+    "stars": 141,
     "daily_stars": 5,
     "language": "Python",
     "topics": [
@@ -25,131 +60,15 @@
       "threat-modeling"
     ],
     "created_at": "2025-03-31T04:06:51",
-    "updated_at": "2025-04-15T04:43:26"
-  },
-  {
-    "name": "browserable",
-    "full_name": "browserable/browserable",
-    "description": "Open source and self-hostable browser automation library for AI agents",
-    "url": "https://github.com/browserable/browserable",
-    "stars": 455,
-    "daily_stars": 3,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "browser-automation",
-      "javascript",
-      "playwright"
-    ],
-    "created_at": "2025-04-07T16:04:36",
-    "updated_at": "2025-04-15T04:14:15"
-  },
-  {
-    "name": "any-agent",
-    "full_name": "mozilla-ai/any-agent",
-    "description": "A single interface to different Agent frameworks",
-    "url": "https://github.com/mozilla-ai/any-agent",
-    "stars": 129,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "agent-evaluation",
-      "agent-frameworks",
-      "ai-agents",
-      "open-source"
-    ],
-    "created_at": "2025-03-25T08:14:43",
-    "updated_at": "2025-04-15T03:16:11"
-  },
-  {
-    "name": "saiki",
-    "full_name": "truffle-ai/saiki",
-    "description": "AI Agent to control computers, applications and services using natural language",
-    "url": "https://github.com/truffle-ai/saiki",
-    "stars": 71,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "llm",
-      "mcp",
-      "modelcontextprotocol",
-      "typescript"
-    ],
-    "created_at": "2025-03-24T22:49:13",
-    "updated_at": "2025-04-15T03:34:03"
-  },
-  {
-    "name": "Versatile-OCR-Program",
-    "full_name": "ses4255/Versatile-OCR-Program",
-    "description": "Multi-modal OCR pipeline optimized for ML training (text, math, tables, diagrams)",
-    "url": "https://github.com/ses4255/Versatile-OCR-Program",
-    "stars": 581,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "doclayout",
-      "educational-data",
-      "exam-ocr",
-      "machine-learning",
-      "ml-datasets",
-      "multi-modal",
-      "ocr",
-      "openai",
-      "paper-ocr",
-      "table-parsing"
-    ],
-    "created_at": "2025-04-01T08:52:45",
-    "updated_at": "2025-04-15T03:39:54"
-  },
-  {
-    "name": "ai-knowledge-graph",
-    "full_name": "robert-mcdermott/ai-knowledge-graph",
-    "description": "AI Powered Knowledge Graph Generator",
-    "url": "https://github.com/robert-mcdermott/ai-knowledge-graph",
-    "stars": 73,
-    "daily_stars": 1,
-    "language": "HTML",
-    "topics": [
-      "artificial-intelligence",
-      "knowledge-distillation",
-      "knowledge-graph",
-      "llm",
-      "networkx",
-      "pyvis",
-      "visualization"
-    ],
-    "created_at": "2025-03-23T04:38:15",
-    "updated_at": "2025-04-15T02:58:24"
-  },
-  {
-    "name": "ai_auto_wxgzh",
-    "full_name": "iniwap/ai_auto_wxgzh",
-    "description": "基于CrewAI，自动获取各大平台热点，使用AI生成文章，发布到微信公众号。",
-    "url": "https://github.com/iniwap/ai_auto_wxgzh",
-    "stars": 11,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-wx",
-      "crewai",
-      "weixin",
-      "wx",
-      "wx-template"
-    ],
-    "created_at": "2025-04-02T07:28:12",
-    "updated_at": "2025-04-15T03:57:24"
+    "updated_at": "2025-04-15T07:47:24"
   },
   {
     "name": "rf-detr",
     "full_name": "roboflow/rf-detr",
     "description": "RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license.",
     "url": "https://github.com/roboflow/rf-detr",
-    "stars": 1858,
-    "daily_stars": 1,
+    "stars": 1860,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "computer-vision",
@@ -159,15 +78,33 @@
       "rf-detr"
     ],
     "created_at": "2025-03-19T20:43:00",
-    "updated_at": "2025-04-15T02:24:22"
+    "updated_at": "2025-04-15T07:18:29"
+  },
+  {
+    "name": "mav",
+    "full_name": "attentionmech/mav",
+    "description": "mav",
+    "url": "https://github.com/attentionmech/mav",
+    "stars": 417,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "large-language-models",
+      "llm-inference",
+      "machine-learning",
+      "terminal-app",
+      "visualization"
+    ],
+    "created_at": "2025-03-26T23:54:39",
+    "updated_at": "2025-04-15T08:39:26"
   },
   {
     "name": "Orpheus-FastAPI",
     "full_name": "Lex-au/Orpheus-FastAPI",
     "description": "High-performance Text-to-Speech server with OpenAI-compatible API, 8 voices, emotion tags, and modern web UI. Optimized for RTX GPUs.",
     "url": "https://github.com/Lex-au/Orpheus-FastAPI",
-    "stars": 233,
-    "daily_stars": 0,
+    "stars": 234,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai-text-to-speech",
@@ -175,15 +112,15 @@
       "artificial-intelligence"
     ],
     "created_at": "2025-03-21T15:24:16",
-    "updated_at": "2025-04-14T12:05:16"
+    "updated_at": "2025-04-15T08:08:44"
   },
   {
     "name": "Awesome-Embodied-AI",
     "full_name": "wadeKeith/Awesome-Embodied-AI",
     "description": "An Introduction to Embodied Intelligence (A Quick Guide of Embodied-AI)",
     "url": "https://github.com/wadeKeith/Awesome-Embodied-AI",
-    "stars": 79,
-    "daily_stars": 0,
+    "stars": 80,
+    "daily_stars": 1,
     "language": null,
     "topics": [
       "artificial-intelligence",
@@ -196,6 +133,74 @@
       "vision-language-model"
     ],
     "created_at": "2025-03-17T12:59:00",
-    "updated_at": "2025-04-14T14:20:01"
+    "updated_at": "2025-04-15T08:24:02"
+  },
+  {
+    "name": "ai-knowledge-graph",
+    "full_name": "robert-mcdermott/ai-knowledge-graph",
+    "description": "AI Powered Knowledge Graph Generator",
+    "url": "https://github.com/robert-mcdermott/ai-knowledge-graph",
+    "stars": 74,
+    "daily_stars": 1,
+    "language": "HTML",
+    "topics": [
+      "artificial-intelligence",
+      "knowledge-distillation",
+      "knowledge-graph",
+      "llm",
+      "networkx",
+      "pyvis",
+      "visualization"
+    ],
+    "created_at": "2025-03-23T04:38:15",
+    "updated_at": "2025-04-15T06:20:31"
+  },
+  {
+    "name": "minecraft-mcp-server",
+    "full_name": "yuniko-software/minecraft-mcp-server",
+    "description": "A Minecraft MCP Server powered by Mineflayer API. It allows to control a Minecraft character in real-time, allowing AI assistants to build structures, explore the world, and interact with the game environment through natural language instruction",
+    "url": "https://github.com/yuniko-software/minecraft-mcp-server",
+    "stars": 37,
+    "daily_stars": 1,
+    "language": "JavaScript",
+    "topics": [
+      "artificial-intelligence",
+      "claude",
+      "javascript",
+      "large-language-models",
+      "mcp",
+      "mcp-server",
+      "minecraft",
+      "modelcontextprotocol",
+      "natural-language-processing",
+      "nodejs",
+      "typescript"
+    ],
+    "created_at": "2025-03-20T17:59:31",
+    "updated_at": "2025-04-15T08:01:38"
+  },
+  {
+    "name": "Awesome-AI-Agents",
+    "full_name": "ChatTeach/Awesome-AI-Agents",
+    "description": "Curated collection of the latest open-source AI agent projects—Weekly updated!",
+    "url": "https://github.com/ChatTeach/Awesome-AI-Agents",
+    "stars": 37,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "agents",
+      "agi",
+      "ai",
+      "aiagent",
+      "aiagents",
+      "aitools",
+      "api",
+      "artificial-intelligence",
+      "autogpt",
+      "manuagi",
+      "openai"
+    ],
+    "created_at": "2025-03-21T04:08:38",
+    "updated_at": "2025-04-15T05:19:15"
   }
 ]
