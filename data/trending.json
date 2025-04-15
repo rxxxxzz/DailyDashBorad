@@ -1,60 +1,10 @@
 [
   {
-    "name": "any-agent",
-    "full_name": "mozilla-ai/any-agent",
-    "description": "A single interface to different Agent frameworks",
-    "url": "https://github.com/mozilla-ai/any-agent",
-    "stars": 127,
-    "daily_stars": 13,
-    "language": "Python",
-    "topics": [
-      "agent-evaluation",
-      "agent-frameworks",
-      "ai-agents",
-      "open-source"
-    ],
-    "created_at": "2025-03-25T08:14:43",
-    "updated_at": "2025-04-15T02:05:55"
-  },
-  {
-    "name": "deepshot",
-    "full_name": "saccofrancesco/deepshot",
-    "description": "DeepShot is a machine learning model designed to predict NBA game outcomes using advanced team statistics and rolling averages. It combines historical performance trends with contextual game data to deliver highly accurate win predictions (66.45%)",
-    "url": "https://github.com/saccofrancesco/deepshot",
-    "stars": 8,
-    "daily_stars": 6,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "basketball",
-      "data-science",
-      "ewma",
-      "machine-learning",
-      "ml-in-sport",
-      "nba",
-      "nba-data",
-      "nba-dataset",
-      "nba-predictions",
-      "nicegui",
-      "open-source",
-      "pandas",
-      "predictive-model",
-      "python",
-      "rolling-averages",
-      "sklearn",
-      "sports-ai",
-      "sports-analytics",
-      "xgboost",
-      "xgboost-classifier"
-    ],
-    "created_at": "2025-03-19T08:47:22",
-    "updated_at": "2025-04-15T00:39:30"
-  },
-  {
     "name": "Agent-Wiz",
     "full_name": "Repello-AI/Agent-Wiz",
     "description": "A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.",
     "url": "https://github.com/Repello-AI/Agent-Wiz",
-    "stars": 131,
+    "stars": 136,
     "daily_stars": 5,
     "language": "Python",
     "topics": [
@@ -75,14 +25,49 @@
       "threat-modeling"
     ],
     "created_at": "2025-03-31T04:06:51",
-    "updated_at": "2025-04-15T01:09:26"
+    "updated_at": "2025-04-15T04:43:26"
+  },
+  {
+    "name": "browserable",
+    "full_name": "browserable/browserable",
+    "description": "Open source and self-hostable browser automation library for AI agents",
+    "url": "https://github.com/browserable/browserable",
+    "stars": 455,
+    "daily_stars": 3,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "browser-automation",
+      "javascript",
+      "playwright"
+    ],
+    "created_at": "2025-04-07T16:04:36",
+    "updated_at": "2025-04-15T04:14:15"
+  },
+  {
+    "name": "any-agent",
+    "full_name": "mozilla-ai/any-agent",
+    "description": "A single interface to different Agent frameworks",
+    "url": "https://github.com/mozilla-ai/any-agent",
+    "stars": 129,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "agent-evaluation",
+      "agent-frameworks",
+      "ai-agents",
+      "open-source"
+    ],
+    "created_at": "2025-03-25T08:14:43",
+    "updated_at": "2025-04-15T03:16:11"
   },
   {
     "name": "saiki",
     "full_name": "truffle-ai/saiki",
     "description": "AI Agent to control computers, applications and services using natural language",
     "url": "https://github.com/truffle-ai/saiki",
-    "stars": 69,
+    "stars": 71,
     "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
@@ -94,32 +79,14 @@
       "typescript"
     ],
     "created_at": "2025-03-24T22:49:13",
-    "updated_at": "2025-04-14T23:16:18"
-  },
-  {
-    "name": "rf-detr",
-    "full_name": "roboflow/rf-detr",
-    "description": "RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license.",
-    "url": "https://github.com/roboflow/rf-detr",
-    "stars": 1857,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "computer-vision",
-      "detr",
-      "machine-learning",
-      "object-detection",
-      "rf-detr"
-    ],
-    "created_at": "2025-03-19T20:43:00",
-    "updated_at": "2025-04-15T01:30:41"
+    "updated_at": "2025-04-15T03:34:03"
   },
   {
     "name": "Versatile-OCR-Program",
     "full_name": "ses4255/Versatile-OCR-Program",
     "description": "Multi-modal OCR pipeline optimized for ML training (text, math, tables, diagrams)",
     "url": "https://github.com/ses4255/Versatile-OCR-Program",
-    "stars": 579,
+    "stars": 581,
     "daily_stars": 2,
     "language": null,
     "topics": [
@@ -135,14 +102,14 @@
       "table-parsing"
     ],
     "created_at": "2025-04-01T08:52:45",
-    "updated_at": "2025-04-15T02:15:26"
+    "updated_at": "2025-04-15T03:39:54"
   },
   {
     "name": "ai-knowledge-graph",
     "full_name": "robert-mcdermott/ai-knowledge-graph",
     "description": "AI Powered Knowledge Graph Generator",
     "url": "https://github.com/robert-mcdermott/ai-knowledge-graph",
-    "stars": 72,
+    "stars": 73,
     "daily_stars": 1,
     "language": "HTML",
     "topics": [
@@ -155,69 +122,80 @@
       "visualization"
     ],
     "created_at": "2025-03-23T04:38:15",
-    "updated_at": "2025-04-15T00:26:59"
+    "updated_at": "2025-04-15T02:58:24"
   },
   {
-    "name": "ai-access",
-    "full_name": "aiaccess/ai-access",
-    "description": "A flexible PHP library providing access to various AI models (Gemini, OpenAI, Anthropic, DeepSeek, Grok) via a consistent interface.",
-    "url": "https://github.com/aiaccess/ai-access",
-    "stars": 5,
+    "name": "ai_auto_wxgzh",
+    "full_name": "iniwap/ai_auto_wxgzh",
+    "description": "基于CrewAI，自动获取各大平台热点，使用AI生成文章，发布到微信公众号。",
+    "url": "https://github.com/iniwap/ai_auto_wxgzh",
+    "stars": 11,
     "daily_stars": 1,
-    "language": "PHP",
+    "language": "Python",
     "topics": [
-      "ai",
-      "anthropic",
-      "api",
-      "artificial-intelligence",
-      "chatbot",
-      "client",
-      "deepseek",
-      "gemini",
-      "grok",
-      "large-language-model",
-      "llm",
-      "openai"
-    ],
-    "created_at": "2025-04-11T15:23:01",
-    "updated_at": "2025-04-14T21:23:18"
-  },
-  {
-    "name": "superdraft",
-    "full_name": "WP-Autoplugin/superdraft",
-    "description": "A free WordPress plugin providing AI-powered writing assistance, smart tagging, autocomplete, and content recommendations for better workflow.",
-    "url": "https://github.com/WP-Autoplugin/superdraft",
-    "stars": 4,
-    "daily_stars": 1,
-    "language": "PHP",
-    "topics": [
-      "artificial-intelligence",
-      "automation",
-      "openai",
-      "wordpress",
-      "wordpress-plugin"
-    ],
-    "created_at": "2025-04-05T23:54:31",
-    "updated_at": "2025-04-14T21:30:42"
-  },
-  {
-    "name": "kodus-ai",
-    "full_name": "kodustech/kodus-ai",
-    "description": "Open source AI code reviews — just like your senior dev would do.",
-    "url": "https://github.com/kodustech/kodus-ai",
-    "stars": 297,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
       "ai-agents",
-      "ai-code-review",
-      "ai-coding-tools",
-      "code-review",
-      "coding-assistant",
-      "generative-ai"
+      "ai-wx",
+      "crewai",
+      "weixin",
+      "wx",
+      "wx-template"
     ],
-    "created_at": "2025-03-28T17:05:19",
-    "updated_at": "2025-04-14T22:00:14"
+    "created_at": "2025-04-02T07:28:12",
+    "updated_at": "2025-04-15T03:57:24"
+  },
+  {
+    "name": "rf-detr",
+    "full_name": "roboflow/rf-detr",
+    "description": "RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license.",
+    "url": "https://github.com/roboflow/rf-detr",
+    "stars": 1858,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "computer-vision",
+      "detr",
+      "machine-learning",
+      "object-detection",
+      "rf-detr"
+    ],
+    "created_at": "2025-03-19T20:43:00",
+    "updated_at": "2025-04-15T02:24:22"
+  },
+  {
+    "name": "Orpheus-FastAPI",
+    "full_name": "Lex-au/Orpheus-FastAPI",
+    "description": "High-performance Text-to-Speech server with OpenAI-compatible API, 8 voices, emotion tags, and modern web UI. Optimized for RTX GPUs.",
+    "url": "https://github.com/Lex-au/Orpheus-FastAPI",
+    "stars": 233,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [
+      "ai-text-to-speech",
+      "ai-voice",
+      "artificial-intelligence"
+    ],
+    "created_at": "2025-03-21T15:24:16",
+    "updated_at": "2025-04-14T12:05:16"
+  },
+  {
+    "name": "Awesome-Embodied-AI",
+    "full_name": "wadeKeith/Awesome-Embodied-AI",
+    "description": "An Introduction to Embodied Intelligence (A Quick Guide of Embodied-AI)",
+    "url": "https://github.com/wadeKeith/Awesome-Embodied-AI",
+    "stars": 79,
+    "daily_stars": 0,
+    "language": null,
+    "topics": [
+      "artificial-intelligence",
+      "embodied-ai",
+      "embodied-artificial-intelligence",
+      "embodied-intelligence",
+      "large-language-models",
+      "reinforcement-learning",
+      "robotics",
+      "vision-language-model"
+    ],
+    "created_at": "2025-03-17T12:59:00",
+    "updated_at": "2025-04-14T14:20:01"
   }
 ]
