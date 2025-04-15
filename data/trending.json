@@ -1,11 +1,35 @@
 [
   {
+    "name": "lightly-train",
+    "full_name": "lightly-ai/lightly-train",
+    "description": "LightlyTrain is the first PyTorch framework to pretrain computer vision models on unlabeled data for industrial applications",
+    "url": "https://github.com/lightly-ai/lightly-train",
+    "stars": 76,
+    "daily_stars": 71,
+    "language": "Python",
+    "topics": [
+      "computer-vision",
+      "contrastive-learning",
+      "deep-learning",
+      "distillation",
+      "embeddings",
+      "machine-learning",
+      "pretrained-models",
+      "python",
+      "pytorch",
+      "self-supervised",
+      "self-supervised-learning"
+    ],
+    "created_at": "2025-04-10T08:23:51",
+    "updated_at": "2025-04-15T16:41:50"
+  },
+  {
     "name": "any-agent",
     "full_name": "mozilla-ai/any-agent",
     "description": "A single interface to different Agent frameworks",
     "url": "https://github.com/mozilla-ai/any-agent",
-    "stars": 143,
-    "daily_stars": 4,
+    "stars": 152,
+    "daily_stars": 9,
     "language": "Python",
     "topics": [
       "agent-evaluation",
@@ -14,45 +38,65 @@
       "open-source"
     ],
     "created_at": "2025-03-25T08:14:43",
-    "updated_at": "2025-04-15T12:56:32"
+    "updated_at": "2025-04-15T16:27:47"
   },
   {
-    "name": "docext",
-    "full_name": "NanoNets/docext",
-    "description": "An on-premises unstructured data extraction tool powered by vision language models.",
-    "url": "https://github.com/NanoNets/docext",
-    "stars": 100,
-    "daily_stars": 3,
+    "name": "deepshot",
+    "full_name": "saccofrancesco/deepshot",
+    "description": "DeepShot is a machine learning model designed to predict NBA game outcomes using advanced team statistics and rolling averages. It combines historical performance trends with contextual game data to deliver highly accurate win predictions (66.45%)",
+    "url": "https://github.com/saccofrancesco/deepshot",
+    "stars": 13,
+    "daily_stars": 4,
     "language": "Jupyter Notebook",
     "topics": [
-      "document",
-      "document-analysis",
-      "document-data-extraction",
-      "extraction",
-      "llm-ocr",
-      "llms",
+      "basketball",
+      "data-science",
+      "ewma",
       "machine-learning",
-      "nlp",
-      "ocr",
-      "ocr-onpremise",
-      "onprem",
-      "onprem-ocr",
-      "onprem-vision",
-      "onpremise",
-      "pdf-extractor",
-      "rag",
-      "unstructured-data",
-      "vlms"
+      "ml-in-sport",
+      "nba",
+      "nba-data",
+      "nba-dataset",
+      "nba-predictions",
+      "nicegui",
+      "open-source",
+      "pandas",
+      "predictive-model",
+      "python",
+      "rolling-averages",
+      "sklearn",
+      "sports-ai",
+      "sports-analytics",
+      "xgboost",
+      "xgboost-classifier"
     ],
-    "created_at": "2025-03-25T03:56:46",
-    "updated_at": "2025-04-15T10:38:28"
+    "created_at": "2025-03-19T08:47:22",
+    "updated_at": "2025-04-15T16:44:26"
+  },
+  {
+    "name": "rf-detr",
+    "full_name": "roboflow/rf-detr",
+    "description": "RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license.",
+    "url": "https://github.com/roboflow/rf-detr",
+    "stars": 1865,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "computer-vision",
+      "detr",
+      "machine-learning",
+      "object-detection",
+      "rf-detr"
+    ],
+    "created_at": "2025-03-19T20:43:00",
+    "updated_at": "2025-04-15T16:08:53"
   },
   {
     "name": "browserable",
     "full_name": "browserable/browserable",
     "description": "Open source and self-hostable browser automation library for AI agents",
     "url": "https://github.com/browserable/browserable",
-    "stars": 463,
+    "stars": 465,
     "daily_stars": 2,
     "language": "JavaScript",
     "topics": [
@@ -63,92 +107,65 @@
       "playwright"
     ],
     "created_at": "2025-04-07T16:04:36",
-    "updated_at": "2025-04-15T11:08:13"
+    "updated_at": "2025-04-15T15:09:48"
   },
   {
-    "name": "kodus-ai",
-    "full_name": "kodustech/kodus-ai",
-    "description": "Open source AI code reviews — just like your senior dev would do.",
-    "url": "https://github.com/kodustech/kodus-ai",
-    "stars": 299,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-code-review",
-      "ai-coding-tools",
-      "code-review",
-      "coding-assistant",
-      "generative-ai"
-    ],
-    "created_at": "2025-03-28T17:05:19",
-    "updated_at": "2025-04-15T12:24:19"
-  },
-  {
-    "name": "canvas-callback",
-    "full_name": "ahmad2b/canvas-callback",
-    "description": "This open-source project & guide shows you exactly how to implement Canvas UX pattern + LangGraph human-in-the-loop workflows in your AI apps.",
-    "url": "https://github.com/ahmad2b/canvas-callback",
-    "stars": 70,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "assistant-ui",
-      "canvas",
-      "human-in-the-loop",
-      "interrupt",
-      "langgraph",
-      "nextjs"
-    ],
-    "created_at": "2025-03-18T08:50:42",
-    "updated_at": "2025-04-15T11:59:20"
-  },
-  {
-    "name": "rf-detr",
-    "full_name": "roboflow/rf-detr",
-    "description": "RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license.",
-    "url": "https://github.com/roboflow/rf-detr",
-    "stars": 1862,
+    "name": "Agent-Wiz",
+    "full_name": "Repello-AI/Agent-Wiz",
+    "description": "A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.",
+    "url": "https://github.com/Repello-AI/Agent-Wiz",
+    "stars": 144,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
-      "computer-vision",
-      "detr",
-      "machine-learning",
-      "object-detection",
-      "rf-detr"
+      "agent",
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "autogen",
+      "crewai",
+      "langraph",
+      "llama-index",
+      "n8n",
+      "openai",
+      "openai-agents-sdk",
+      "pydantic",
+      "security-tools",
+      "swarm",
+      "threat-modeling"
     ],
-    "created_at": "2025-03-19T20:43:00",
-    "updated_at": "2025-04-15T08:59:34"
+    "created_at": "2025-03-31T04:06:51",
+    "updated_at": "2025-04-15T16:08:30"
   },
   {
-    "name": "tj-scan",
-    "full_name": "chainguard-dev/tj-scan",
-    "description": "Scan Workflow logs for IOCs from the tj-actions/changed-files breach",
-    "url": "https://github.com/chainguard-dev/tj-scan",
-    "stars": 13,
+    "name": "Versatile-OCR-Program",
+    "full_name": "ses4255/Versatile-OCR-Program",
+    "description": "Multi-modal OCR pipeline optimized for ML training (text, math, tables, diagrams)",
+    "url": "https://github.com/ses4255/Versatile-OCR-Program",
+    "stars": 583,
     "daily_stars": 2,
-    "language": "Go",
+    "language": null,
     "topics": [
-      "actions",
-      "logs",
-      "secrets",
-      "supply-chain",
-      "workflow"
+      "doclayout",
+      "educational-data",
+      "exam-ocr",
+      "machine-learning",
+      "ml-datasets",
+      "multi-modal",
+      "ocr",
+      "openai",
+      "paper-ocr",
+      "table-parsing"
     ],
-    "created_at": "2025-03-18T12:10:55",
-    "updated_at": "2025-04-15T12:00:33"
+    "created_at": "2025-04-01T08:52:45",
+    "updated_at": "2025-04-15T14:28:39"
   },
   {
     "name": "Awesome-Embodied-AI",
     "full_name": "wadeKeith/Awesome-Embodied-AI",
     "description": "An Introduction to Embodied Intelligence (A Quick Guide of Embodied-AI)",
     "url": "https://github.com/wadeKeith/Awesome-Embodied-AI",
-    "stars": 81,
+    "stars": 82,
     "daily_stars": 1,
     "language": null,
     "topics": [
@@ -162,31 +179,14 @@
       "vision-language-model"
     ],
     "created_at": "2025-03-17T12:59:00",
-    "updated_at": "2025-04-15T11:58:32"
-  },
-  {
-    "name": "Vocalis",
-    "full_name": "Lex-au/Vocalis",
-    "description": "Speech-to-speech AI assistant with natural conversation flow, mid-speech interruption, vision capabilities and AI-initiated follow-ups. Features low-latency audio streaming, dynamic visual feedback, and works with local LLM/TTS services via OpenAI-compatible endpoints.",
-    "url": "https://github.com/Lex-au/Vocalis",
-    "stars": 76,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "artificial-intelligence",
-      "conversational-ai",
-      "speech-to-speech",
-      "visionprocessing"
-    ],
-    "created_at": "2025-03-30T13:36:53",
-    "updated_at": "2025-04-15T10:42:06"
+    "updated_at": "2025-04-15T14:15:30"
   },
   {
     "name": "ai-knowledge-graph",
     "full_name": "robert-mcdermott/ai-knowledge-graph",
     "description": "AI Powered Knowledge Graph Generator",
     "url": "https://github.com/robert-mcdermott/ai-knowledge-graph",
-    "stars": 75,
+    "stars": 76,
     "daily_stars": 1,
     "language": "HTML",
     "topics": [
@@ -199,6 +199,24 @@
       "visualization"
     ],
     "created_at": "2025-03-23T04:38:15",
-    "updated_at": "2025-04-15T08:50:34"
+    "updated_at": "2025-04-15T14:28:06"
+  },
+  {
+    "name": "evolutionary-policy-optimization",
+    "full_name": "lucidrains/evolutionary-policy-optimization",
+    "description": "Pytorch implementation of Evolutionary Policy Optimization, from Wang et al. of the Robotics Institute at Carnegie Melon University",
+    "url": "https://github.com/lucidrains/evolutionary-policy-optimization",
+    "stars": 38,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "genetic-algorithms",
+      "reinforcement-learning",
+      "robotics"
+    ],
+    "created_at": "2025-04-07T22:12:06",
+    "updated_at": "2025-04-15T16:29:30"
   }
 ]
