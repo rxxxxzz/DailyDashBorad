@@ -1,11 +1,61 @@
 [
   {
+    "name": "any-agent",
+    "full_name": "mozilla-ai/any-agent",
+    "description": "A single interface to different Agent frameworks",
+    "url": "https://github.com/mozilla-ai/any-agent",
+    "stars": 127,
+    "daily_stars": 13,
+    "language": "Python",
+    "topics": [
+      "agent-evaluation",
+      "agent-frameworks",
+      "ai-agents",
+      "open-source"
+    ],
+    "created_at": "2025-03-25T08:14:43",
+    "updated_at": "2025-04-15T02:05:55"
+  },
+  {
+    "name": "deepshot",
+    "full_name": "saccofrancesco/deepshot",
+    "description": "DeepShot is a machine learning model designed to predict NBA game outcomes using advanced team statistics and rolling averages. It combines historical performance trends with contextual game data to deliver highly accurate win predictions (66.45%)",
+    "url": "https://github.com/saccofrancesco/deepshot",
+    "stars": 8,
+    "daily_stars": 6,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "basketball",
+      "data-science",
+      "ewma",
+      "machine-learning",
+      "ml-in-sport",
+      "nba",
+      "nba-data",
+      "nba-dataset",
+      "nba-predictions",
+      "nicegui",
+      "open-source",
+      "pandas",
+      "predictive-model",
+      "python",
+      "rolling-averages",
+      "sklearn",
+      "sports-ai",
+      "sports-analytics",
+      "xgboost",
+      "xgboost-classifier"
+    ],
+    "created_at": "2025-03-19T08:47:22",
+    "updated_at": "2025-04-15T00:39:30"
+  },
+  {
     "name": "Agent-Wiz",
     "full_name": "Repello-AI/Agent-Wiz",
     "description": "A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.",
     "url": "https://github.com/Repello-AI/Agent-Wiz",
-    "stars": 126,
-    "daily_stars": 8,
+    "stars": 131,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "agent",
@@ -25,92 +75,33 @@
       "threat-modeling"
     ],
     "created_at": "2025-03-31T04:06:51",
-    "updated_at": "2025-04-14T20:12:27"
+    "updated_at": "2025-04-15T01:09:26"
   },
   {
-    "name": "any-agent",
-    "full_name": "mozilla-ai/any-agent",
-    "description": "A single interface to different Agent frameworks",
-    "url": "https://github.com/mozilla-ai/any-agent",
-    "stars": 114,
-    "daily_stars": 7,
-    "language": "Python",
-    "topics": [
-      "agent-evaluation",
-      "agent-frameworks",
-      "ai-agents",
-      "open-source"
-    ],
-    "created_at": "2025-03-25T08:14:43",
-    "updated_at": "2025-04-14T20:33:19"
-  },
-  {
-    "name": "Vocalis",
-    "full_name": "Lex-au/Vocalis",
-    "description": "Speech-to-speech AI assistant with natural conversation flow, mid-speech interruption, vision capabilities and AI-initiated follow-ups. Features low-latency audio streaming, dynamic visual feedback, and works with local LLM/TTS services via OpenAI-compatible endpoints.",
-    "url": "https://github.com/Lex-au/Vocalis",
-    "stars": 75,
-    "daily_stars": 4,
-    "language": "TypeScript",
-    "topics": [
-      "artificial-intelligence",
-      "conversational-ai",
-      "speech-to-speech",
-      "visionprocessing"
-    ],
-    "created_at": "2025-03-30T13:36:53",
-    "updated_at": "2025-04-14T20:33:49"
-  },
-  {
-    "name": "NeoRefacer",
-    "full_name": "MechasAI/NeoRefacer",
-    "description": "Next-generation, fully open-source refacer. Images. GIFs. Full-length videos. Bulk refacing",
-    "url": "https://github.com/MechasAI/NeoRefacer",
-    "stars": 10,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "deep-learning",
-      "deepfake",
-      "faceswap",
-      "genai",
-      "gifs",
-      "image-manipulation",
-      "images",
-      "refacer",
-      "videos"
-    ],
-    "created_at": "2025-04-10T21:11:20",
-    "updated_at": "2025-04-14T18:53:17"
-  },
-  {
-    "name": "kodus-ai",
-    "full_name": "kodustech/kodus-ai",
-    "description": "Open source AI code reviews — just like your senior dev would do.",
-    "url": "https://github.com/kodustech/kodus-ai",
-    "stars": 296,
+    "name": "saiki",
+    "full_name": "truffle-ai/saiki",
+    "description": "AI Agent to control computers, applications and services using natural language",
+    "url": "https://github.com/truffle-ai/saiki",
+    "stars": 69,
     "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
-      "ai",
       "ai-agents",
-      "ai-code-review",
-      "ai-coding-tools",
-      "code-review",
-      "coding-assistant",
-      "generative-ai"
+      "ai-tools",
+      "llm",
+      "mcp",
+      "modelcontextprotocol",
+      "typescript"
     ],
-    "created_at": "2025-03-28T17:05:19",
-    "updated_at": "2025-04-14T19:03:44"
+    "created_at": "2025-03-24T22:49:13",
+    "updated_at": "2025-04-14T23:16:18"
   },
   {
     "name": "rf-detr",
     "full_name": "roboflow/rf-detr",
     "description": "RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license.",
     "url": "https://github.com/roboflow/rf-detr",
-    "stars": 1855,
+    "stars": 1857,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
@@ -121,14 +112,37 @@
       "rf-detr"
     ],
     "created_at": "2025-03-19T20:43:00",
-    "updated_at": "2025-04-14T20:09:21"
+    "updated_at": "2025-04-15T01:30:41"
+  },
+  {
+    "name": "Versatile-OCR-Program",
+    "full_name": "ses4255/Versatile-OCR-Program",
+    "description": "Multi-modal OCR pipeline optimized for ML training (text, math, tables, diagrams)",
+    "url": "https://github.com/ses4255/Versatile-OCR-Program",
+    "stars": 579,
+    "daily_stars": 2,
+    "language": null,
+    "topics": [
+      "doclayout",
+      "educational-data",
+      "exam-ocr",
+      "machine-learning",
+      "ml-datasets",
+      "multi-modal",
+      "ocr",
+      "openai",
+      "paper-ocr",
+      "table-parsing"
+    ],
+    "created_at": "2025-04-01T08:52:45",
+    "updated_at": "2025-04-15T02:15:26"
   },
   {
     "name": "ai-knowledge-graph",
     "full_name": "robert-mcdermott/ai-knowledge-graph",
     "description": "AI Powered Knowledge Graph Generator",
     "url": "https://github.com/robert-mcdermott/ai-knowledge-graph",
-    "stars": 71,
+    "stars": 72,
     "daily_stars": 1,
     "language": "HTML",
     "topics": [
@@ -141,38 +155,39 @@
       "visualization"
     ],
     "created_at": "2025-03-23T04:38:15",
-    "updated_at": "2025-04-14T19:12:38"
+    "updated_at": "2025-04-15T00:26:59"
   },
   {
-    "name": "Awesome-AI-Agents",
-    "full_name": "ChatTeach/Awesome-AI-Agents",
-    "description": "Curated collection of the latest open-source AI agent projects—Weekly updated!",
-    "url": "https://github.com/ChatTeach/Awesome-AI-Agents",
-    "stars": 36,
+    "name": "ai-access",
+    "full_name": "aiaccess/ai-access",
+    "description": "A flexible PHP library providing access to various AI models (Gemini, OpenAI, Anthropic, DeepSeek, Grok) via a consistent interface.",
+    "url": "https://github.com/aiaccess/ai-access",
+    "stars": 5,
     "daily_stars": 1,
-    "language": null,
+    "language": "PHP",
     "topics": [
-      "agents",
-      "agi",
       "ai",
-      "aiagent",
-      "aiagents",
-      "aitools",
+      "anthropic",
       "api",
       "artificial-intelligence",
-      "autogpt",
-      "manuagi",
+      "chatbot",
+      "client",
+      "deepseek",
+      "gemini",
+      "grok",
+      "large-language-model",
+      "llm",
       "openai"
     ],
-    "created_at": "2025-03-21T04:08:38",
-    "updated_at": "2025-04-14T17:23:02"
+    "created_at": "2025-04-11T15:23:01",
+    "updated_at": "2025-04-14T21:23:18"
   },
   {
     "name": "superdraft",
     "full_name": "WP-Autoplugin/superdraft",
     "description": "A free WordPress plugin providing AI-powered writing assistance, smart tagging, autocomplete, and content recommendations for better workflow.",
     "url": "https://github.com/WP-Autoplugin/superdraft",
-    "stars": 3,
+    "stars": 4,
     "daily_stars": 1,
     "language": "PHP",
     "topics": [
@@ -183,24 +198,26 @@
       "wordpress-plugin"
     ],
     "created_at": "2025-04-05T23:54:31",
-    "updated_at": "2025-04-14T20:29:39"
+    "updated_at": "2025-04-14T21:30:42"
   },
   {
-    "name": "browserable",
-    "full_name": "browserable/browserable",
-    "description": "Open source and self-hostable browser automation library for AI agents",
-    "url": "https://github.com/browserable/browserable",
-    "stars": 452,
+    "name": "kodus-ai",
+    "full_name": "kodustech/kodus-ai",
+    "description": "Open source AI code reviews — just like your senior dev would do.",
+    "url": "https://github.com/kodustech/kodus-ai",
+    "stars": 297,
     "daily_stars": 1,
-    "language": "JavaScript",
+    "language": "TypeScript",
     "topics": [
+      "ai",
       "ai-agents",
-      "ai-tools",
-      "browser-automation",
-      "javascript",
-      "playwright"
+      "ai-code-review",
+      "ai-coding-tools",
+      "code-review",
+      "coding-assistant",
+      "generative-ai"
     ],
-    "created_at": "2025-04-07T16:04:36",
-    "updated_at": "2025-04-14T19:34:37"
+    "created_at": "2025-03-28T17:05:19",
+    "updated_at": "2025-04-14T22:00:14"
   }
 ]
