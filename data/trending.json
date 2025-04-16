@@ -4,8 +4,8 @@
     "full_name": "lightly-ai/lightly-train",
     "description": "LightlyTrain is the first PyTorch framework to pretrain computer vision models on unlabeled data for industrial applications",
     "url": "https://github.com/lightly-ai/lightly-train",
-    "stars": 113,
-    "daily_stars": 37,
+    "stars": 129,
+    "daily_stars": 16,
     "language": "Python",
     "topics": [
       "computer-vision",
@@ -21,15 +21,31 @@
       "self-supervised-learning"
     ],
     "created_at": "2025-04-10T08:23:51",
-    "updated_at": "2025-04-15T20:17:15"
+    "updated_at": "2025-04-16T01:47:29"
+  },
+  {
+    "name": "Orpheus-FastAPI",
+    "full_name": "Lex-au/Orpheus-FastAPI",
+    "description": "High-performance Text-to-Speech server with OpenAI-compatible API, 8 voices, emotion tags, and modern web UI. Optimized for RTX GPUs.",
+    "url": "https://github.com/Lex-au/Orpheus-FastAPI",
+    "stars": 237,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "ai-text-to-speech",
+      "ai-voice",
+      "artificial-intelligence"
+    ],
+    "created_at": "2025-03-21T15:24:16",
+    "updated_at": "2025-04-15T21:24:35"
   },
   {
     "name": "any-agent",
     "full_name": "mozilla-ai/any-agent",
     "description": "A single interface to different Agent frameworks",
     "url": "https://github.com/mozilla-ai/any-agent",
-    "stars": 158,
-    "daily_stars": 6,
+    "stars": 160,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "agent-evaluation",
@@ -38,90 +54,61 @@
       "open-source"
     ],
     "created_at": "2025-03-25T08:14:43",
-    "updated_at": "2025-04-15T20:27:58"
+    "updated_at": "2025-04-15T20:56:30"
   },
   {
-    "name": "saiki",
-    "full_name": "truffle-ai/saiki",
-    "description": "AI Agent to control computers, applications and services using natural language",
-    "url": "https://github.com/truffle-ai/saiki",
-    "stars": 75,
-    "daily_stars": 4,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "llm",
-      "mcp",
-      "modelcontextprotocol",
-      "typescript"
-    ],
-    "created_at": "2025-03-24T22:49:13",
-    "updated_at": "2025-04-15T19:03:22"
-  },
-  {
-    "name": "Awesome-AI-Market-Maps",
-    "full_name": "joylarkin/Awesome-AI-Market-Maps",
-    "description": "An Awesome List of AI Market Maps from 2025 and 2024.",
-    "url": "https://github.com/joylarkin/Awesome-AI-Market-Maps",
-    "stars": 8,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-2025",
-      "ai-ecosystem",
-      "ai-list",
-      "ai-startup",
-      "artificial-intelligence",
-      "awesome",
-      "awesome-ai",
-      "awesome-ai-market-maps",
-      "awesome-list",
-      "cerebral-valley",
-      "machine-learning",
-      "market-maps",
-      "ml",
-      "vc",
-      "venture-capital"
-    ],
-    "created_at": "2025-03-29T20:38:32",
-    "updated_at": "2025-04-15T19:56:18"
-  },
-  {
-    "name": "Agent-Wiz",
-    "full_name": "Repello-AI/Agent-Wiz",
-    "description": "A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.",
-    "url": "https://github.com/Repello-AI/Agent-Wiz",
-    "stars": 146,
+    "name": "agentwatch",
+    "full_name": "cyberark/agentwatch",
+    "description": "A powerful AI observability framework that provides comprehensive insights into agent interactions across platforms, enabling developers to monitor, analyze, and optimize AI-driven applications with minimal integration effort.",
+    "url": "https://github.com/cyberark/agentwatch",
+    "stars": 61,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
       "agent",
+      "agentic",
       "agentic-ai",
       "ai",
-      "ai-agents",
-      "autogen",
-      "crewai",
-      "langraph",
-      "llama-index",
-      "n8n",
-      "openai",
-      "openai-agents-sdk",
-      "pydantic",
-      "security-tools",
-      "swarm",
-      "threat-modeling"
+      "cybersecurity",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "monitoring",
+      "observability",
+      "security"
     ],
-    "created_at": "2025-03-31T04:06:51",
-    "updated_at": "2025-04-15T19:57:57"
+    "created_at": "2025-03-26T10:01:05",
+    "updated_at": "2025-04-16T01:57:48"
+  },
+  {
+    "name": "lung-cancer-detection",
+    "full_name": "nordszamora/lung-cancer-detection",
+    "description": "The machine learning project pipeline for lung cancer analysis and prediction at a low cost.",
+    "url": "https://github.com/nordszamora/lung-cancer-detection",
+    "stars": 6,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "data-science",
+      "flask-api",
+      "jupyter",
+      "machine-learning",
+      "matplotlib",
+      "pandas",
+      "pytest",
+      "python",
+      "seaborn",
+      "sklearn"
+    ],
+    "created_at": "2025-04-13T14:16:55",
+    "updated_at": "2025-04-16T00:19:42"
   },
   {
     "name": "ai-knowledge-graph",
     "full_name": "robert-mcdermott/ai-knowledge-graph",
     "description": "AI Powered Knowledge Graph Generator",
     "url": "https://github.com/robert-mcdermott/ai-knowledge-graph",
-    "stars": 77,
+    "stars": 78,
     "daily_stars": 1,
     "language": "HTML",
     "topics": [
@@ -134,14 +121,73 @@
       "visualization"
     ],
     "created_at": "2025-03-23T04:38:15",
-    "updated_at": "2025-04-15T19:49:02"
+    "updated_at": "2025-04-16T00:43:19"
+  },
+  {
+    "name": "evolutionary-policy-optimization",
+    "full_name": "lucidrains/evolutionary-policy-optimization",
+    "description": "Pytorch implementation of Evolutionary Policy Optimization, from Wang et al. of the Robotics Institute at Carnegie Melon University",
+    "url": "https://github.com/lucidrains/evolutionary-policy-optimization",
+    "stars": 39,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "genetic-algorithms",
+      "reinforcement-learning",
+      "robotics"
+    ],
+    "created_at": "2025-04-07T22:12:06",
+    "updated_at": "2025-04-15T23:13:55"
+  },
+  {
+    "name": "minecraft-mcp-server",
+    "full_name": "yuniko-software/minecraft-mcp-server",
+    "description": "A Minecraft MCP Server powered by Mineflayer API. It allows to control a Minecraft character in real-time, allowing AI assistants to build structures, explore the world, and interact with the game environment through natural language instruction",
+    "url": "https://github.com/yuniko-software/minecraft-mcp-server",
+    "stars": 38,
+    "daily_stars": 1,
+    "language": "JavaScript",
+    "topics": [
+      "artificial-intelligence",
+      "claude",
+      "javascript",
+      "large-language-models",
+      "mcp",
+      "mcp-server",
+      "minecraft",
+      "modelcontextprotocol",
+      "natural-language-processing",
+      "nodejs",
+      "typescript"
+    ],
+    "created_at": "2025-03-20T17:59:31",
+    "updated_at": "2025-04-15T22:32:23"
+  },
+  {
+    "name": "chefskiss",
+    "full_name": "curiousily/chefskiss",
+    "description": "Agent application for suggesting recipes based on user preferences and dietary restrictions using Agent Development Kit by Google",
+    "url": "https://github.com/curiousily/chefskiss",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "agents",
+      "artificial-intelligence",
+      "chatgpt",
+      "llm"
+    ],
+    "created_at": "2025-04-11T18:27:09",
+    "updated_at": "2025-04-15T21:43:17"
   },
   {
     "name": "browserable",
     "full_name": "browserable/browserable",
     "description": "Open source and self-hostable browser automation library for AI agents",
     "url": "https://github.com/browserable/browserable",
-    "stars": 466,
+    "stars": 467,
     "daily_stars": 1,
     "language": "JavaScript",
     "topics": [
@@ -152,77 +198,6 @@
       "playwright"
     ],
     "created_at": "2025-04-07T16:04:36",
-    "updated_at": "2025-04-15T20:39:26"
-  },
-  {
-    "name": "kodus-ai",
-    "full_name": "kodustech/kodus-ai",
-    "description": "Open source AI code reviews — just like your senior dev would do.",
-    "url": "https://github.com/kodustech/kodus-ai",
-    "stars": 301,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-code-review",
-      "ai-coding-tools",
-      "code-review",
-      "coding-assistant",
-      "generative-ai"
-    ],
-    "created_at": "2025-03-28T17:05:19",
-    "updated_at": "2025-04-15T20:33:14"
-  },
-  {
-    "name": "github-copilot-proxy",
-    "full_name": "BjornMelin/github-copilot-proxy",
-    "description": "An OpenAI-compatible proxy server that lets Cursor IDE connect directly to GitHub Copilot's LLM services. Bypass Cursor's 500 premium requests/month limit by leveraging your existing GitHub Copilot subscription for unlimited AI-powered code completions, chat, and editing features within Cursor IDE.",
-    "url": "https://github.com/BjornMelin/github-copilot-proxy",
-    "stars": 6,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "ai-coding-assistant",
-      "ai-tools",
-      "api-integration",
-      "code-completion",
-      "cursor-ide",
-      "developer-tools",
-      "github-copilot",
-      "node-js",
-      "oauth-authentication",
-      "openai-api-compatible",
-      "proxy-server",
-      "streaming-api",
-      "token-management",
-      "typescript"
-    ],
-    "created_at": "2025-03-24T03:36:29",
-    "updated_at": "2025-04-15T20:30:43"
-  },
-  {
-    "name": "Versatile-OCR-Program",
-    "full_name": "ses4255/Versatile-OCR-Program",
-    "description": "Multi-modal OCR pipeline optimized for ML training (text, math, tables, diagrams)",
-    "url": "https://github.com/ses4255/Versatile-OCR-Program",
-    "stars": 584,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "doclayout",
-      "educational-data",
-      "exam-ocr",
-      "machine-learning",
-      "ml-datasets",
-      "multi-modal",
-      "ocr",
-      "openai",
-      "paper-ocr",
-      "table-parsing"
-    ],
-    "created_at": "2025-04-01T08:52:45",
-    "updated_at": "2025-04-15T17:31:30"
+    "updated_at": "2025-04-15T21:11:37"
   }
 ]
