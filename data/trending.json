@@ -1,73 +1,11 @@
 [
   {
-    "name": "secai",
-    "full_name": "pancsta/secai",
-    "description": "Smart graph for networks of autonomous AI Agents",
-    "url": "https://github.com/pancsta/secai",
-    "stars": 42,
-    "daily_stars": 6,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "asyncmachine",
-      "debugger",
-      "deepresearch",
-      "diagrams",
-      "graph",
-      "instructor",
-      "llm",
-      "repl",
-      "sql"
-    ],
-    "created_at": "2025-04-13T19:06:36",
-    "updated_at": "2025-04-17T16:23:46"
-  },
-  {
-    "name": "kodus-ai",
-    "full_name": "kodustech/kodus-ai",
-    "description": "Open source AI code reviews — just like your senior dev would do.",
-    "url": "https://github.com/kodustech/kodus-ai",
-    "stars": 312,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-code-review",
-      "ai-coding-tools",
-      "code-review",
-      "coding-assistant",
-      "generative-ai"
-    ],
-    "created_at": "2025-03-28T17:05:19",
-    "updated_at": "2025-04-17T16:46:46"
-  },
-  {
-    "name": "browserable",
-    "full_name": "browserable/browserable",
-    "description": "Open source and self-hostable browser automation library for AI agents",
-    "url": "https://github.com/browserable/browserable",
-    "stars": 479,
-    "daily_stars": 2,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "browser-automation",
-      "javascript",
-      "playwright"
-    ],
-    "created_at": "2025-04-07T16:04:36",
-    "updated_at": "2025-04-17T14:30:31"
-  },
-  {
     "name": "Agent-Wiz",
     "full_name": "Repello-AI/Agent-Wiz",
     "description": "A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.",
     "url": "https://github.com/Repello-AI/Agent-Wiz",
-    "stars": 155,
-    "daily_stars": 2,
+    "stars": 158,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "agent",
@@ -87,136 +25,182 @@
       "threat-modeling"
     ],
     "created_at": "2025-03-31T04:06:51",
-    "updated_at": "2025-04-17T16:38:43"
+    "updated_at": "2025-04-17T20:04:12"
   },
   {
-    "name": "rf-detr",
-    "full_name": "roboflow/rf-detr",
-    "description": "RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license.",
-    "url": "https://github.com/roboflow/rf-detr",
-    "stars": 1888,
-    "daily_stars": 2,
-    "language": "Python",
+    "name": "saiki",
+    "full_name": "truffle-ai/saiki",
+    "description": "AI Agent to control computers, applications and services using natural language",
+    "url": "https://github.com/truffle-ai/saiki",
+    "stars": 82,
+    "daily_stars": 3,
+    "language": "TypeScript",
     "topics": [
-      "computer-vision",
-      "detr",
-      "machine-learning",
-      "object-detection",
-      "rf-detr"
-    ],
-    "created_at": "2025-03-19T20:43:00",
-    "updated_at": "2025-04-17T16:24:38"
-  },
-  {
-    "name": "lightly-train",
-    "full_name": "lightly-ai/lightly-train",
-    "description": "LightlyTrain is the first PyTorch framework to pretrain computer vision models on unlabeled data for industrial applications",
-    "url": "https://github.com/lightly-ai/lightly-train",
-    "stars": 207,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "computer-vision",
-      "contrastive-learning",
-      "deep-learning",
-      "distillation",
-      "embeddings",
-      "machine-learning",
-      "pretrained-models",
-      "python",
-      "pytorch",
-      "self-supervised",
-      "self-supervised-learning"
-    ],
-    "created_at": "2025-04-10T08:23:51",
-    "updated_at": "2025-04-17T15:41:10"
-  },
-  {
-    "name": "agentwatch",
-    "full_name": "cyberark/agentwatch",
-    "description": "A powerful AI observability framework that provides comprehensive insights into agent interactions across platforms, enabling developers to monitor, analyze, and optimize AI-driven applications with minimal integration effort.",
-    "url": "https://github.com/cyberark/agentwatch",
-    "stars": 66,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agentic",
-      "agentic-ai",
-      "ai",
-      "cybersecurity",
-      "large-language-models",
+      "ai-agents",
+      "ai-tools",
       "llm",
-      "machine-learning",
-      "monitoring",
-      "observability",
-      "security"
+      "mcp",
+      "modelcontextprotocol",
+      "typescript"
     ],
-    "created_at": "2025-03-26T10:01:05",
-    "updated_at": "2025-04-17T16:22:14"
+    "created_at": "2025-03-24T22:49:13",
+    "updated_at": "2025-04-17T18:40:25"
   },
   {
-    "name": "guMCP",
-    "full_name": "gumloop/guMCP",
-    "description": "Gumloop Unified Model Context Protocol (guMCP)",
-    "url": "https://github.com/gumloop/guMCP",
-    "stars": 330,
+    "name": "Vocalis",
+    "full_name": "Lex-au/Vocalis",
+    "description": "Speech-to-speech AI assistant with natural conversation flow, mid-speech interruption, vision capabilities and AI-initiated follow-ups. Features low-latency audio streaming, dynamic visual feedback, and works with local LLM/TTS services via OpenAI-compatible endpoints.",
+    "url": "https://github.com/Lex-au/Vocalis",
+    "stars": 84,
     "daily_stars": 2,
-    "language": "Python",
+    "language": "TypeScript",
+    "topics": [
+      "artificial-intelligence",
+      "conversational-ai",
+      "speech-to-speech",
+      "visionprocessing"
+    ],
+    "created_at": "2025-03-30T13:36:53",
+    "updated_at": "2025-04-17T19:15:04"
+  },
+  {
+    "name": "secai",
+    "full_name": "pancsta/secai",
+    "description": "Smart graph for networks of autonomous AI Agents",
+    "url": "https://github.com/pancsta/secai",
+    "stars": 44,
+    "daily_stars": 2,
+    "language": "Go",
     "topics": [
       "ai",
-      "automation",
-      "mcp",
-      "mcp-server",
-      "workflow"
+      "ai-agents",
+      "asyncmachine",
+      "debugger",
+      "deepresearch",
+      "diagrams",
+      "graph",
+      "instructor",
+      "llm",
+      "repl",
+      "sql"
     ],
-    "created_at": "2025-03-20T00:01:52",
-    "updated_at": "2025-04-17T15:45:48"
+    "created_at": "2025-04-13T19:06:36",
+    "updated_at": "2025-04-17T19:13:37"
   },
   {
-    "name": "zerodha-mcp",
-    "full_name": "mtwn105/zerodha-mcp",
-    "description": "Zerodha MCP Server & Client - AI Agent (w/Agno & w/Google ADK)",
-    "url": "https://github.com/mtwn105/zerodha-mcp",
-    "stars": 6,
+    "name": "Orpheus-FastAPI",
+    "full_name": "Lex-au/Orpheus-FastAPI",
+    "description": "High-performance Text-to-Speech server with OpenAI-compatible API, 8 voices, emotion tags, and modern web UI. Optimized for RTX GPUs.",
+    "url": "https://github.com/Lex-au/Orpheus-FastAPI",
+    "stars": 244,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "agent",
-      "agentic-ai",
-      "agno",
+      "ai-text-to-speech",
+      "ai-voice",
+      "artificial-intelligence"
+    ],
+    "created_at": "2025-03-21T15:24:16",
+    "updated_at": "2025-04-17T18:12:30"
+  },
+  {
+    "name": "evolutionary-policy-optimization",
+    "full_name": "lucidrains/evolutionary-policy-optimization",
+    "description": "Pytorch implementation of Evolutionary Policy Optimization, from Wang et al. of the Robotics Institute at Carnegie Melon University",
+    "url": "https://github.com/lucidrains/evolutionary-policy-optimization",
+    "stars": 46,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "genetic-algorithms",
+      "reinforcement-learning",
+      "robotics"
+    ],
+    "created_at": "2025-04-07T22:12:06",
+    "updated_at": "2025-04-17T19:33:10"
+  },
+  {
+    "name": "historai",
+    "full_name": "sanspareilsmyn/historai",
+    "description": "LLM-powered CLI Tool using your shell history to find and suggest relevant commands",
+    "url": "https://github.com/sanspareilsmyn/historai",
+    "stars": 4,
+    "daily_stars": 1,
+    "language": "Go",
+    "topics": [
       "ai",
       "artificial-intelligence",
-      "kite",
-      "kiteconnect",
-      "mcp",
-      "mcp-client",
-      "mcp-server",
-      "model-context-protocol",
-      "model-context-protocol-client",
-      "model-context-protocol-servers",
-      "python",
-      "zerodha"
+      "command-line",
+      "developer-tools",
+      "go",
+      "history",
+      "llm",
+      "productivity",
+      "shell",
+      "terminal"
     ],
-    "created_at": "2025-04-03T16:11:57",
-    "updated_at": "2025-04-17T14:55:22"
+    "created_at": "2025-04-15T01:40:36",
+    "updated_at": "2025-04-17T18:50:57"
   },
   {
-    "name": "mav",
-    "full_name": "attentionmech/mav",
-    "description": "mav",
-    "url": "https://github.com/attentionmech/mav",
-    "stars": 425,
+    "name": "browserable",
+    "full_name": "browserable/browserable",
+    "description": "Open source and self-hostable browser automation library for AI agents",
+    "url": "https://github.com/browserable/browserable",
+    "stars": 480,
+    "daily_stars": 1,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "browser-automation",
+      "javascript",
+      "playwright"
+    ],
+    "created_at": "2025-04-07T16:04:36",
+    "updated_at": "2025-04-17T18:10:32"
+  },
+  {
+    "name": "any-agent",
+    "full_name": "mozilla-ai/any-agent",
+    "description": "A single interface to different Agent frameworks",
+    "url": "https://github.com/mozilla-ai/any-agent",
+    "stars": 189,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "large-language-models",
-      "llm-inference",
-      "machine-learning",
-      "terminal-app",
-      "visualization"
+      "agent-evaluation",
+      "agent-frameworks",
+      "ai-agents",
+      "open-source"
     ],
-    "created_at": "2025-03-26T23:54:39",
-    "updated_at": "2025-04-17T14:12:21"
+    "created_at": "2025-03-25T08:14:43",
+    "updated_at": "2025-04-17T17:17:07"
+  },
+  {
+    "name": "Isaree-Platform",
+    "full_name": "Isaree-ai/Isaree-Platform",
+    "description": "Open-source medical-compliant AI Assistant and AI Agent Orchestration Engine with marketplace",
+    "url": "https://github.com/Isaree-ai/Isaree-Platform",
+    "stars": 11,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "agent-orchestration",
+      "agentic-ai",
+      "ai",
+      "ai-agent-marketplace",
+      "ai-agents",
+      "ai-agents-framework",
+      "ai-assistant",
+      "healthcare",
+      "hipaa-compliant",
+      "medical-ai",
+      "open-source"
+    ],
+    "created_at": "2025-04-06T14:19:16",
+    "updated_at": "2025-04-17T19:13:46"
   }
 ]
