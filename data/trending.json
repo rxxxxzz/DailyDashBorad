@@ -4,8 +4,8 @@
     "full_name": "pancsta/secai",
     "description": "Smart graph for networks of autonomous AI Agents",
     "url": "https://github.com/pancsta/secai",
-    "stars": 17,
-    "daily_stars": 11,
+    "stars": 26,
+    "daily_stars": 9,
     "language": "Go",
     "topics": [
       "ai",
@@ -21,15 +21,15 @@
       "sql"
     ],
     "created_at": "2025-04-13T19:06:36",
-    "updated_at": "2025-04-16T20:37:52"
+    "updated_at": "2025-04-17T00:43:36"
   },
   {
     "name": "lightly-train",
     "full_name": "lightly-ai/lightly-train",
     "description": "LightlyTrain is the first PyTorch framework to pretrain computer vision models on unlabeled data for industrial applications",
     "url": "https://github.com/lightly-ai/lightly-train",
-    "stars": 184,
-    "daily_stars": 4,
+    "stars": 191,
+    "daily_stars": 7,
     "language": "Python",
     "topics": [
       "computer-vision",
@@ -45,79 +45,74 @@
       "self-supervised-learning"
     ],
     "created_at": "2025-04-10T08:23:51",
-    "updated_at": "2025-04-16T19:36:49"
+    "updated_at": "2025-04-17T02:07:36"
   },
   {
-    "name": "kodus-ai",
-    "full_name": "kodustech/kodus-ai",
-    "description": "Open source AI code reviews — just like your senior dev would do.",
-    "url": "https://github.com/kodustech/kodus-ai",
-    "stars": 307,
-    "daily_stars": 3,
+    "name": "Agentfy",
+    "full_name": "Agentfy-io/Agentfy",
+    "description": "🤖 Agentfy is a modular microservices architecture designed to process user requests and execute workflows across multiple social media platforms. The system leverages LLM capabilities to dynamically match user needs with appropriate agents and functions.",
+    "url": "https://github.com/Agentfy-io/Agentfy",
+    "stars": 22,
+    "daily_stars": 5,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "model-context-protocol",
+      "multi-agent-systems",
+      "openai",
+      "prompt-engineering-tool",
+      "python",
+      "social-media-app",
+      "social-media-automation",
+      "tikhub",
+      "workflow-automation"
+    ],
+    "created_at": "2025-04-06T04:16:22",
+    "updated_at": "2025-04-17T02:06:51"
+  },
+  {
+    "name": "Vocalis",
+    "full_name": "Lex-au/Vocalis",
+    "description": "Speech-to-speech AI assistant with natural conversation flow, mid-speech interruption, vision capabilities and AI-initiated follow-ups. Features low-latency audio streaming, dynamic visual feedback, and works with local LLM/TTS services via OpenAI-compatible endpoints.",
+    "url": "https://github.com/Lex-au/Vocalis",
+    "stars": 82,
+    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
-      "ai",
-      "ai-agents",
-      "ai-code-review",
-      "ai-coding-tools",
-      "code-review",
-      "coding-assistant",
-      "generative-ai"
-    ],
-    "created_at": "2025-03-28T17:05:19",
-    "updated_at": "2025-04-16T18:48:38"
-  },
-  {
-    "name": "zerodha-mcp",
-    "full_name": "mtwn105/zerodha-mcp",
-    "description": "Zerodha MCP Server & Client - AI Agent (w/Agno & w/Google ADK)",
-    "url": "https://github.com/mtwn105/zerodha-mcp",
-    "stars": 4,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "agno",
-      "ai",
       "artificial-intelligence",
-      "kite",
-      "kiteconnect",
-      "mcp",
-      "mcp-client",
-      "mcp-server",
-      "model-context-protocol",
-      "model-context-protocol-client",
-      "model-context-protocol-servers",
-      "python",
-      "zerodha"
+      "conversational-ai",
+      "speech-to-speech",
+      "visionprocessing"
     ],
-    "created_at": "2025-04-03T16:11:57",
-    "updated_at": "2025-04-16T20:07:47"
+    "created_at": "2025-03-30T13:36:53",
+    "updated_at": "2025-04-17T01:06:34"
   },
   {
-    "name": "any-agent",
-    "full_name": "mozilla-ai/any-agent",
-    "description": "A single interface to different Agent frameworks",
-    "url": "https://github.com/mozilla-ai/any-agent",
-    "stars": 181,
+    "name": "saiki",
+    "full_name": "truffle-ai/saiki",
+    "description": "AI Agent to control computers, applications and services using natural language",
+    "url": "https://github.com/truffle-ai/saiki",
+    "stars": 79,
     "daily_stars": 2,
-    "language": "Python",
+    "language": "TypeScript",
     "topics": [
-      "agent-evaluation",
-      "agent-frameworks",
       "ai-agents",
-      "open-source"
+      "ai-tools",
+      "llm",
+      "mcp",
+      "modelcontextprotocol",
+      "typescript"
     ],
-    "created_at": "2025-03-25T08:14:43",
-    "updated_at": "2025-04-16T19:48:31"
+    "created_at": "2025-03-24T22:49:13",
+    "updated_at": "2025-04-17T01:14:56"
   },
   {
     "name": "rf-detr",
     "full_name": "roboflow/rf-detr",
     "description": "RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license.",
     "url": "https://github.com/roboflow/rf-detr",
-    "stars": 1876,
+    "stars": 1878,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
@@ -128,80 +123,45 @@
       "rf-detr"
     ],
     "created_at": "2025-03-19T20:43:00",
-    "updated_at": "2025-04-16T20:21:37"
+    "updated_at": "2025-04-17T01:07:56"
   },
   {
-    "name": "agentwatch",
-    "full_name": "cyberark/agentwatch",
-    "description": "A powerful AI observability framework that provides comprehensive insights into agent interactions across platforms, enabling developers to monitor, analyze, and optimize AI-driven applications with minimal integration effort.",
-    "url": "https://github.com/cyberark/agentwatch",
-    "stars": 63,
+    "name": "tensorlens",
+    "full_name": "attentionmech/tensorlens",
+    "description": "TensorLens",
+    "url": "https://github.com/attentionmech/tensorlens",
+    "stars": 6,
     "daily_stars": 2,
-    "language": "Python",
+    "language": "Jupyter Notebook",
     "topics": [
-      "agent",
-      "agentic",
-      "agentic-ai",
-      "ai",
-      "cybersecurity",
-      "large-language-models",
-      "llm",
-      "machine-learning",
-      "monitoring",
-      "observability",
-      "security"
+      "deep-learning",
+      "visualisation"
     ],
-    "created_at": "2025-03-26T10:01:05",
-    "updated_at": "2025-04-16T18:26:14"
+    "created_at": "2025-04-12T16:11:04",
+    "updated_at": "2025-04-17T01:47:27"
   },
   {
-    "name": "AI-Trading-Bot-Data-Fetcher",
-    "full_name": "FatherMonkey916/AI-Trading-Bot-Data-Fetcher",
-    "description": "This project is an essential component for AI modeling in the development of an AI trading bot. It provides a robust mechanism to fetch and format time-series data for cryptocurrency tokens from a MongoDB database.",
-    "url": "https://github.com/FatherMonkey916/AI-Trading-Bot-Data-Fetcher",
-    "stars": 5,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "binance",
-      "binance-api",
-      "bot",
-      "fetcher",
-      "fetching-data-from-an-api",
-      "machine-learning",
-      "mongodb",
-      "trading",
-      "trading-algorithms",
-      "trading-strategies",
-      "tradingbot"
-    ],
-    "created_at": "2025-03-21T19:16:51",
-    "updated_at": "2025-04-16T19:22:20"
-  },
-  {
-    "name": "Vocalis",
-    "full_name": "Lex-au/Vocalis",
-    "description": "Speech-to-speech AI assistant with natural conversation flow, mid-speech interruption, vision capabilities and AI-initiated follow-ups. Features low-latency audio streaming, dynamic visual feedback, and works with local LLM/TTS services via OpenAI-compatible endpoints.",
-    "url": "https://github.com/Lex-au/Vocalis",
-    "stars": 80,
+    "name": "Orpheus-FastAPI",
+    "full_name": "Lex-au/Orpheus-FastAPI",
+    "description": "High-performance Text-to-Speech server with OpenAI-compatible API, 8 voices, emotion tags, and modern web UI. Optimized for RTX GPUs.",
+    "url": "https://github.com/Lex-au/Orpheus-FastAPI",
+    "stars": 239,
     "daily_stars": 1,
-    "language": "TypeScript",
+    "language": "Python",
     "topics": [
-      "artificial-intelligence",
-      "conversational-ai",
-      "speech-to-speech",
-      "visionprocessing"
+      "ai-text-to-speech",
+      "ai-voice",
+      "artificial-intelligence"
     ],
-    "created_at": "2025-03-30T13:36:53",
-    "updated_at": "2025-04-16T20:17:38"
+    "created_at": "2025-03-21T15:24:16",
+    "updated_at": "2025-04-17T01:55:59"
   },
   {
     "name": "evolutionary-policy-optimization",
     "full_name": "lucidrains/evolutionary-policy-optimization",
     "description": "Pytorch implementation of Evolutionary Policy Optimization, from Wang et al. of the Robotics Institute at Carnegie Melon University",
     "url": "https://github.com/lucidrains/evolutionary-policy-optimization",
-    "stars": 43,
+    "stars": 44,
     "daily_stars": 1,
     "language": null,
     "topics": [
@@ -212,6 +172,28 @@
       "robotics"
     ],
     "created_at": "2025-04-07T22:12:06",
-    "updated_at": "2025-04-16T19:42:10"
+    "updated_at": "2025-04-17T01:26:43"
+  },
+  {
+    "name": "lightning-hydra-boilerplate",
+    "full_name": "willyfh/lightning-hydra-boilerplate",
+    "description": "A project boilerplate for deep learning experiments using PyTorch Lightning and Hydra, designed for rapid prototyping, clean configuration management, and scalable research workflows.",
+    "url": "https://github.com/willyfh/lightning-hydra-boilerplate",
+    "stars": 5,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "boilerplate",
+      "deep-learning",
+      "hydra",
+      "lightning",
+      "machine-learning",
+      "pytorch",
+      "pytorch-lightning",
+      "research-tool"
+    ],
+    "created_at": "2025-04-04T15:31:40",
+    "updated_at": "2025-04-17T00:49:29"
   }
 ]
