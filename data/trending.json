@@ -1,28 +1,34 @@
 [
   {
-    "name": "browserable",
-    "full_name": "browserable/browserable",
-    "description": "Open source and self-hostable browser automation library for AI agents",
-    "url": "https://github.com/browserable/browserable",
-    "stars": 482,
+    "name": "NeoRefacer",
+    "full_name": "MechasAI/NeoRefacer",
+    "description": "Next-generation, fully open-source refacer. Images. GIFs. Full-length videos. Bulk refacing",
+    "url": "https://github.com/MechasAI/NeoRefacer",
+    "stars": 12,
     "daily_stars": 2,
-    "language": "JavaScript",
+    "language": "Python",
     "topics": [
-      "ai-agents",
-      "ai-tools",
-      "browser-automation",
-      "javascript",
-      "playwright"
+      "ai",
+      "artificial-intelligence",
+      "deep-learning",
+      "deepfake",
+      "faceswap",
+      "genai",
+      "gifs",
+      "image-manipulation",
+      "images",
+      "refacer",
+      "videos"
     ],
-    "created_at": "2025-04-07T16:04:36",
-    "updated_at": "2025-04-18T00:00:31"
+    "created_at": "2025-04-10T21:11:20",
+    "updated_at": "2025-04-18T03:44:08"
   },
   {
     "name": "Orpheus-FastAPI",
     "full_name": "Lex-au/Orpheus-FastAPI",
     "description": "High-performance Text-to-Speech server with OpenAI-compatible API, 8 voices, emotion tags, and modern web UI. Optimized for RTX GPUs.",
     "url": "https://github.com/Lex-au/Orpheus-FastAPI",
-    "stars": 245,
+    "stars": 246,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -31,34 +37,14 @@
       "artificial-intelligence"
     ],
     "created_at": "2025-03-21T15:24:16",
-    "updated_at": "2025-04-18T01:47:33"
-  },
-  {
-    "name": "ai-knowledge-graph",
-    "full_name": "robert-mcdermott/ai-knowledge-graph",
-    "description": "AI Powered Knowledge Graph Generator",
-    "url": "https://github.com/robert-mcdermott/ai-knowledge-graph",
-    "stars": 87,
-    "daily_stars": 1,
-    "language": "HTML",
-    "topics": [
-      "artificial-intelligence",
-      "knowledge-distillation",
-      "knowledge-graph",
-      "llm",
-      "networkx",
-      "pyvis",
-      "visualization"
-    ],
-    "created_at": "2025-03-23T04:38:15",
-    "updated_at": "2025-04-18T01:21:38"
+    "updated_at": "2025-04-18T03:41:20"
   },
   {
     "name": "UnisonAI",
     "full_name": "UnisonAIInc/UnisonAI",
     "description": "The UnisonAI Multi-Agent Framework (A2A) provides a flexible and extensible environment for creating and coordinating multiple autonomous AI agents.  UnisonAI is designed with flexibility and scalability in mind.",
     "url": "https://github.com/UnisonAIInc/UnisonAI",
-    "stars": 6,
+    "stars": 7,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -83,67 +69,66 @@
       "unisonai"
     ],
     "created_at": "2025-04-04T07:15:22",
-    "updated_at": "2025-04-18T01:53:10"
+    "updated_at": "2025-04-18T04:33:47"
   },
   {
-    "name": "EstateWise-Chapel-Hill-Chatbot",
-    "full_name": "hoangsonww/EstateWise-Chapel-Hill-Chatbot",
-    "description": "🏠 A robust real estate chat application that streamlines user authentication, conversation management, and personalized property recommendations with a modern API, RAG, and responsive UI. Explore our repository to see how we integrate Express, MongoDB, and real-time chat features for an intuitive, scalable experience.",
-    "url": "https://github.com/hoangsonww/EstateWise-Chapel-Hill-Chatbot",
-    "stars": 3,
+    "name": "historai",
+    "full_name": "sanspareilsmyn/historai",
+    "description": "LLM-powered CLI Tool using your shell history to find and suggest relevant commands",
+    "url": "https://github.com/sanspareilsmyn/historai",
+    "stars": 5,
     "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "artificial-intelligence",
-      "chatbot",
-      "estate",
-      "express",
-      "expressjs",
-      "machine-learning",
-      "mongo",
-      "mongodb",
-      "nextjs",
-      "pinecone",
-      "rag",
-      "react",
-      "real-estate",
-      "real-estate-website",
-      "rest-api",
-      "retrieval-augmented-generation",
-      "shadcn-ui",
-      "tailwindcss",
-      "vector-database",
-      "vercel"
-    ],
-    "created_at": "2025-04-16T01:19:56",
-    "updated_at": "2025-04-18T01:19:59"
-  },
-  {
-    "name": "kodus-ai",
-    "full_name": "kodustech/kodus-ai",
-    "description": "Open source AI code reviews — just like your senior dev would do.",
-    "url": "https://github.com/kodustech/kodus-ai",
-    "stars": 313,
-    "daily_stars": 1,
-    "language": "TypeScript",
+    "language": "Go",
     "topics": [
       "ai",
-      "ai-agents",
-      "ai-code-review",
-      "ai-coding-tools",
-      "code-review",
-      "coding-assistant",
-      "generative-ai"
+      "artificial-intelligence",
+      "command-line",
+      "developer-tools",
+      "go",
+      "history",
+      "llm",
+      "productivity",
+      "shell",
+      "terminal"
     ],
-    "created_at": "2025-03-28T17:05:19",
-    "updated_at": "2025-04-18T00:31:20"
+    "created_at": "2025-04-15T01:40:36",
+    "updated_at": "2025-04-18T04:09:14"
+  },
+  {
+    "name": "SERAPH",
+    "full_name": "Calarts-Creative-Computing/SERAPH",
+    "description": "Seraph is an open platform for developing Teensy-based MIDI controllers and interactive musical interfaces. This repository provides a PCB design and sample demo code to help you build and customize your own MIDI devices.",
+    "url": "https://github.com/Calarts-Creative-Computing/SERAPH",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "C++",
+    "topics": [
+      "accelerometer",
+      "accelerometers",
+      "art",
+      "artificial-intelligence",
+      "immersive",
+      "immersive-media",
+      "interactive-art",
+      "interface",
+      "midi",
+      "midi-controller",
+      "open-source",
+      "pcb",
+      "pcb-design",
+      "sensor",
+      "sensors",
+      "teensy"
+    ],
+    "created_at": "2025-04-10T04:46:14",
+    "updated_at": "2025-04-18T03:04:12"
   },
   {
     "name": "any-agent",
     "full_name": "mozilla-ai/any-agent",
     "description": "A single interface to different Agent frameworks",
     "url": "https://github.com/mozilla-ai/any-agent",
-    "stars": 190,
+    "stars": 191,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -153,14 +138,14 @@
       "open-source"
     ],
     "created_at": "2025-03-25T08:14:43",
-    "updated_at": "2025-04-18T01:16:56"
+    "updated_at": "2025-04-18T03:33:15"
   },
   {
     "name": "Agent-Wiz",
     "full_name": "Repello-AI/Agent-Wiz",
     "description": "A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.",
     "url": "https://github.com/Repello-AI/Agent-Wiz",
-    "stars": 159,
+    "stars": 160,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -181,14 +166,38 @@
       "threat-modeling"
     ],
     "created_at": "2025-03-31T04:06:51",
-    "updated_at": "2025-04-18T02:04:36"
+    "updated_at": "2025-04-18T04:38:49"
+  },
+  {
+    "name": "secai",
+    "full_name": "pancsta/secai",
+    "description": "Smart graph for networks of autonomous AI Agents",
+    "url": "https://github.com/pancsta/secai",
+    "stars": 45,
+    "daily_stars": 1,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "asyncmachine",
+      "debugger",
+      "deepresearch",
+      "diagrams",
+      "graph",
+      "instructor",
+      "llm",
+      "repl",
+      "sql"
+    ],
+    "created_at": "2025-04-13T19:06:36",
+    "updated_at": "2025-04-18T03:25:23"
   },
   {
     "name": "Agentfy",
     "full_name": "Agentfy-io/Agentfy",
     "description": "🤖 Agentfy is a modular microservices architecture designed to process user requests and execute workflows across multiple social media platforms. The system leverages LLM capabilities to dynamically match user needs with appropriate agents and functions.",
     "url": "https://github.com/Agentfy-io/Agentfy",
-    "stars": 27,
+    "stars": 28,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -205,34 +214,24 @@
       "workflow-automation"
     ],
     "created_at": "2025-04-06T04:16:22",
-    "updated_at": "2025-04-18T01:35:38"
+    "updated_at": "2025-04-18T02:50:16"
   },
   {
-    "name": "github-copilot-proxy",
-    "full_name": "BjornMelin/github-copilot-proxy",
-    "description": "An OpenAI-compatible proxy server that lets Cursor IDE connect directly to GitHub Copilot's LLM services. Bypass Cursor's 500 premium requests/month limit by leveraging your existing GitHub Copilot subscription for unlimited AI-powered code completions, chat, and editing features within Cursor IDE.",
-    "url": "https://github.com/BjornMelin/github-copilot-proxy",
-    "stars": 8,
+    "name": "rulego-server",
+    "full_name": "rulego/rulego-server",
+    "description": "A lightweight dependency-free workflow automation platform. Supports iPaaS, stream computing, and AI capabilities. ",
+    "url": "https://github.com/rulego/rulego-server",
+    "stars": 24,
     "daily_stars": 1,
-    "language": "TypeScript",
+    "language": "JavaScript",
     "topics": [
-      "ai-agents",
-      "ai-coding-assistant",
-      "ai-tools",
-      "api-integration",
-      "code-completion",
-      "cursor-ide",
-      "developer-tools",
-      "github-copilot",
-      "node-js",
-      "oauth-authentication",
-      "openai-api-compatible",
-      "proxy-server",
-      "streaming-api",
-      "token-management",
-      "typescript"
+      "automation",
+      "mcp-server",
+      "rulego",
+      "workflow",
+      "workflow-engine"
     ],
-    "created_at": "2025-03-24T03:36:29",
-    "updated_at": "2025-04-17T21:31:49"
+    "created_at": "2025-04-01T08:26:17",
+    "updated_at": "2025-04-18T02:25:09"
   }
 ]
