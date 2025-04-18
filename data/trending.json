@@ -1,34 +1,47 @@
 [
   {
-    "name": "lightly-train",
-    "full_name": "lightly-ai/lightly-train",
-    "description": "LightlyTrain is the first PyTorch framework to pretrain computer vision models on unlabeled data for industrial applications",
-    "url": "https://github.com/lightly-ai/lightly-train",
-    "stars": 218,
-    "daily_stars": 5,
+    "name": "numpyai",
+    "full_name": "aadya940/numpyai",
+    "description": "A Natural Language Interface to the Numpy Library using LLMs.",
+    "url": "https://github.com/aadya940/numpyai",
+    "stars": 6,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
-      "computer-vision",
-      "contrastive-learning",
-      "deep-learning",
-      "distillation",
-      "embeddings",
+      "ai",
+      "data-analysis",
+      "data-science",
+      "library",
+      "llm",
       "machine-learning",
-      "pretrained-models",
-      "python",
-      "pytorch",
-      "self-supervised",
-      "self-supervised-learning"
+      "numpy",
+      "python"
     ],
-    "created_at": "2025-04-10T08:23:51",
-    "updated_at": "2025-04-18T16:35:53"
+    "created_at": "2025-04-01T19:10:50",
+    "updated_at": "2025-04-18T19:08:28"
+  },
+  {
+    "name": "Orpheus-FastAPI",
+    "full_name": "Lex-au/Orpheus-FastAPI",
+    "description": "High-performance Text-to-Speech server with OpenAI-compatible API, 8 voices, emotion tags, and modern web UI. Optimized for RTX GPUs.",
+    "url": "https://github.com/Lex-au/Orpheus-FastAPI",
+    "stars": 249,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai-text-to-speech",
+      "ai-voice",
+      "artificial-intelligence"
+    ],
+    "created_at": "2025-03-21T15:24:16",
+    "updated_at": "2025-04-18T20:06:17"
   },
   {
     "name": "Vocalis",
     "full_name": "Lex-au/Vocalis",
     "description": "Speech-to-speech AI assistant with natural conversation flow, mid-speech interruption, vision capabilities and AI-initiated follow-ups. Features low-latency audio streaming, dynamic visual feedback, and works with local LLM/TTS services via OpenAI-compatible endpoints.",
     "url": "https://github.com/Lex-au/Vocalis",
-    "stars": 87,
+    "stars": 89,
     "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
@@ -38,59 +51,15 @@
       "visionprocessing"
     ],
     "created_at": "2025-03-30T13:36:53",
-    "updated_at": "2025-04-18T15:46:29"
-  },
-  {
-    "name": "Agent-Wiz",
-    "full_name": "Repello-AI/Agent-Wiz",
-    "description": "A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.",
-    "url": "https://github.com/Repello-AI/Agent-Wiz",
-    "stars": 164,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "ai",
-      "ai-agents",
-      "autogen",
-      "crewai",
-      "langraph",
-      "llama-index",
-      "n8n",
-      "openai",
-      "openai-agents-sdk",
-      "pydantic",
-      "security-tools",
-      "swarm",
-      "threat-modeling"
-    ],
-    "created_at": "2025-03-31T04:06:51",
-    "updated_at": "2025-04-18T16:04:23"
-  },
-  {
-    "name": "Orpheus-FastAPI",
-    "full_name": "Lex-au/Orpheus-FastAPI",
-    "description": "High-performance Text-to-Speech server with OpenAI-compatible API, 8 voices, emotion tags, and modern web UI. Optimized for RTX GPUs.",
-    "url": "https://github.com/Lex-au/Orpheus-FastAPI",
-    "stars": 247,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-text-to-speech",
-      "ai-voice",
-      "artificial-intelligence"
-    ],
-    "created_at": "2025-03-21T15:24:16",
-    "updated_at": "2025-04-18T16:41:04"
+    "updated_at": "2025-04-18T20:30:35"
   },
   {
     "name": "evolutionary-policy-optimization",
     "full_name": "lucidrains/evolutionary-policy-optimization",
     "description": "Pytorch implementation of Evolutionary Policy Optimization, from Wang et al. of the Robotics Institute at Carnegie Melon University",
     "url": "https://github.com/lucidrains/evolutionary-policy-optimization",
-    "stars": 47,
-    "daily_stars": 1,
+    "stars": 49,
+    "daily_stars": 2,
     "language": null,
     "topics": [
       "artificial-intelligence",
@@ -100,91 +69,34 @@
       "robotics"
     ],
     "created_at": "2025-04-07T22:12:06",
-    "updated_at": "2025-04-18T16:41:45"
+    "updated_at": "2025-04-18T18:19:11"
   },
   {
-    "name": "zerodha-mcp",
-    "full_name": "mtwn105/zerodha-mcp",
-    "description": "Zerodha MCP Server & Client - AI Agent (w/Agno & w/Google ADK)",
-    "url": "https://github.com/mtwn105/zerodha-mcp",
-    "stars": 7,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "agno",
-      "ai",
-      "artificial-intelligence",
-      "kite",
-      "kiteconnect",
-      "mcp",
-      "mcp-client",
-      "mcp-server",
-      "model-context-protocol",
-      "model-context-protocol-client",
-      "model-context-protocol-servers",
-      "python",
-      "zerodha"
-    ],
-    "created_at": "2025-04-03T16:11:57",
-    "updated_at": "2025-04-18T15:09:08"
-  },
-  {
-    "name": "superdraft",
-    "full_name": "WP-Autoplugin/superdraft",
-    "description": "A free WordPress plugin providing AI-powered writing assistance, smart tagging, autocomplete, and content recommendations for better workflow.",
-    "url": "https://github.com/WP-Autoplugin/superdraft",
-    "stars": 5,
-    "daily_stars": 1,
-    "language": "PHP",
-    "topics": [
-      "artificial-intelligence",
-      "automation",
-      "openai",
-      "wordpress",
-      "wordpress-plugin"
-    ],
-    "created_at": "2025-04-05T23:54:31",
-    "updated_at": "2025-04-18T16:03:21"
-  },
-  {
-    "name": "OmniMind",
-    "full_name": "Techiral/OmniMind",
-    "description": "OmniMind: A plug-and-play Python library for effortless MCP server integration, powered by Google Gemini.",
-    "url": "https://github.com/Techiral/OmniMind",
+    "name": "linkedin_mcp",
+    "full_name": "Rayyan9477/linkedin_mcp",
+    "description": "A powerful Model Context Protocol server for LinkedIn interactions that enables AI assistants to search for jobs, generate resumes and cover letters, and manage job applications programmatically.",
+    "url": "https://github.com/Rayyan9477/linkedin_mcp",
     "stars": 3,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "ai",
-      "ai-agents",
-      "anthropic",
       "artificial-intelligence",
-      "deepseek-r1",
-      "gemini",
-      "google-generative-ai",
-      "grok",
-      "hackathon",
-      "large-language-models",
+      "linkedin",
+      "linkedin-api",
       "llm",
-      "mcp-client",
-      "mcp-server",
-      "model-context-protocol",
-      "open-source",
-      "openai",
-      "plug-and-play",
-      "python"
+      "machine-learning",
+      "mcp",
+      "mcp-server"
     ],
-    "created_at": "2025-04-05T14:07:15",
-    "updated_at": "2025-04-18T16:22:13"
+    "created_at": "2025-04-12T22:19:39",
+    "updated_at": "2025-04-18T20:03:05"
   },
   {
     "name": "browserable",
     "full_name": "browserable/browserable",
     "description": "Open source and self-hostable browser automation library for AI agents",
     "url": "https://github.com/browserable/browserable",
-    "stars": 485,
+    "stars": 486,
     "daily_stars": 1,
     "language": "JavaScript",
     "topics": [
@@ -195,27 +107,88 @@
       "playwright"
     ],
     "created_at": "2025-04-07T16:04:36",
-    "updated_at": "2025-04-18T14:15:10"
+    "updated_at": "2025-04-18T17:07:55"
   },
   {
-    "name": "youtube-ai-agent",
-    "full_name": "inspector-apm/youtube-ai-agent",
-    "description": "AI Agents summarizong YouTube videos - built with Neuron AI PHP framework.",
-    "url": "https://github.com/inspector-apm/youtube-ai-agent",
-    "stars": 8,
+    "name": "secai",
+    "full_name": "pancsta/secai",
+    "description": "Smart graph for networks of autonomous AI Agents",
+    "url": "https://github.com/pancsta/secai",
+    "stars": 46,
     "daily_stars": 1,
-    "language": "PHP",
+    "language": "Go",
     "topics": [
       "ai",
       "ai-agents",
-      "ai-assistant",
+      "asyncmachine",
+      "debugger",
+      "deepresearch",
+      "diagrams",
+      "graph",
+      "instructor",
       "llm",
-      "php",
-      "video-ai",
-      "video-analysis",
-      "youtube"
+      "repl",
+      "sql"
     ],
-    "created_at": "2025-04-04T10:59:42",
-    "updated_at": "2025-04-18T15:35:37"
+    "created_at": "2025-04-13T19:06:36",
+    "updated_at": "2025-04-18T19:37:24"
+  },
+  {
+    "name": "weco-cli",
+    "full_name": "WecoAI/weco-cli",
+    "description": "Weco CLI: The command-line interface for LLM-driven code optimization. Automate iterative improvements based on performance metrics to achieve superior results. Ideal for GPU kernels, ML model development, prompt engineering, and other performance-critical code.",
+    "url": "https://github.com/WecoAI/weco-cli",
+    "stars": 13,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "code-generation",
+      "code-optimization",
+      "kernel-optimization",
+      "machine-learning",
+      "prompt-engineering"
+    ],
+    "created_at": "2025-04-03T11:32:04",
+    "updated_at": "2025-04-18T20:01:07"
+  },
+  {
+    "name": "hypr-dots",
+    "full_name": "TH-O-R/hypr-dots",
+    "description": "My custom Hyprland dotfiles and scripts to make it hyper-cool",
+    "url": "https://github.com/TH-O-R/hypr-dots",
+    "stars": 1,
+    "daily_stars": 1,
+    "language": "Shell",
+    "topics": [
+      "cool-stuff",
+      "hyprland",
+      "hyprland-dotfiles",
+      "hyprland-rice",
+      "tiling",
+      "window-manager",
+      "workflow"
+    ],
+    "created_at": "2025-04-08T19:58:46",
+    "updated_at": "2025-04-18T20:12:37"
+  },
+  {
+    "name": "ai-knowledge-graph",
+    "full_name": "robert-mcdermott/ai-knowledge-graph",
+    "description": "AI Powered Knowledge Graph Generator",
+    "url": "https://github.com/robert-mcdermott/ai-knowledge-graph",
+    "stars": 88,
+    "daily_stars": 0,
+    "language": "HTML",
+    "topics": [
+      "artificial-intelligence",
+      "knowledge-distillation",
+      "knowledge-graph",
+      "llm",
+      "networkx",
+      "pyvis",
+      "visualization"
+    ],
+    "created_at": "2025-03-23T04:38:15",
+    "updated_at": "2025-04-18T07:49:41"
   }
 ]
