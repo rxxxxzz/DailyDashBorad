@@ -4,8 +4,8 @@
     "full_name": "mozilla-ai/any-agent",
     "description": "A single interface to different Agent frameworks",
     "url": "https://github.com/mozilla-ai/any-agent",
-    "stars": 262,
-    "daily_stars": 2,
+    "stars": 265,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "agent-evaluation",
@@ -14,33 +14,31 @@
       "open-source"
     ],
     "created_at": "2025-03-25T08:14:43",
-    "updated_at": "2025-04-20T06:51:34"
+    "updated_at": "2025-04-20T12:08:00"
   },
   {
-    "name": "sinapsis-object-detection",
-    "full_name": "Sinapsis-AI/sinapsis-object-detection",
-    "description": "Mono repo with sinapsis templates for object detection ",
-    "url": "https://github.com/Sinapsis-AI/sinapsis-object-detection",
-    "stars": 9,
-    "daily_stars": 2,
-    "language": "Python",
+    "name": "Vocalis",
+    "full_name": "Lex-au/Vocalis",
+    "description": "Speech-to-speech AI assistant with natural conversation flow, mid-speech interruption, vision capabilities and AI-initiated follow-ups. Features low-latency audio streaming, dynamic visual feedback, and works with local LLM/TTS services via OpenAI-compatible endpoints.",
+    "url": "https://github.com/Lex-au/Vocalis",
+    "stars": 92,
+    "daily_stars": 1,
+    "language": "TypeScript",
     "topics": [
-      "computer-vision",
-      "d-fine",
-      "deep-learning",
-      "gradio",
-      "object-detection",
-      "sinapsis"
+      "artificial-intelligence",
+      "conversational-ai",
+      "speech-to-speech",
+      "visionprocessing"
     ],
-    "created_at": "2025-03-29T20:19:04",
-    "updated_at": "2025-04-20T05:48:04"
+    "created_at": "2025-03-30T13:36:53",
+    "updated_at": "2025-04-20T11:11:59"
   },
   {
     "name": "evolutionary-policy-optimization",
     "full_name": "lucidrains/evolutionary-policy-optimization",
     "description": "Pytorch implementation of Evolutionary Policy Optimization, from Wang et al. of the Robotics Institute at Carnegie Melon University",
     "url": "https://github.com/lucidrains/evolutionary-policy-optimization",
-    "stars": 53,
+    "stars": 54,
     "daily_stars": 1,
     "language": null,
     "topics": [
@@ -51,57 +49,97 @@
       "robotics"
     ],
     "created_at": "2025-04-07T22:12:06",
-    "updated_at": "2025-04-20T07:22:38"
+    "updated_at": "2025-04-20T08:43:52"
   },
   {
-    "name": "awesome-google-adk",
-    "full_name": "tsubasakong/awesome-google-adk",
-    "description": "A curated list of awesome resources for Google's Agent Development Kit (ADK)",
-    "url": "https://github.com/tsubasakong/awesome-google-adk",
-    "stars": 1,
+    "name": "browserable",
+    "full_name": "browserable/browserable",
+    "description": "Open source and self-hostable browser automation library for AI agents",
+    "url": "https://github.com/browserable/browserable",
+    "stars": 498,
+    "daily_stars": 1,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "browser-automation",
+      "javascript",
+      "playwright"
+    ],
+    "created_at": "2025-04-07T16:04:36",
+    "updated_at": "2025-04-20T12:53:25"
+  },
+  {
+    "name": "secai",
+    "full_name": "pancsta/secai",
+    "description": "Smart graph for networks of autonomous AI Agents",
+    "url": "https://github.com/pancsta/secai",
+    "stars": 56,
+    "daily_stars": 1,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "asyncmachine",
+      "debugger",
+      "deepresearch",
+      "diagrams",
+      "graph",
+      "instructor",
+      "llm",
+      "repl",
+      "sql"
+    ],
+    "created_at": "2025-04-13T19:06:36",
+    "updated_at": "2025-04-20T10:41:19"
+  },
+  {
+    "name": "Versatile-OCR-Program",
+    "full_name": "ses4255/Versatile-OCR-Program",
+    "description": "Multi-modal OCR pipeline optimized for ML training (text, math, tables, diagrams)",
+    "url": "https://github.com/ses4255/Versatile-OCR-Program",
+    "stars": 598,
     "daily_stars": 1,
     "language": null,
     "topics": [
-      "agent-development-kit",
-      "ai-agents",
-      "artificial-intelligence",
-      "awesome-list",
-      "google-adk",
-      "multi-agent-systems"
+      "doclayout",
+      "educational-data",
+      "exam-ocr",
+      "machine-learning",
+      "ml-datasets",
+      "multi-modal",
+      "ocr",
+      "openai",
+      "paper-ocr",
+      "table-parsing"
     ],
-    "created_at": "2025-04-19T06:52:24",
-    "updated_at": "2025-04-20T05:36:31"
+    "created_at": "2025-04-01T08:52:45",
+    "updated_at": "2025-04-20T09:54:08"
   },
   {
-    "name": "lightly-train",
-    "full_name": "lightly-ai/lightly-train",
-    "description": "LightlyTrain is the first PyTorch framework to pretrain computer vision models on unlabeled data for industrial applications",
-    "url": "https://github.com/lightly-ai/lightly-train",
-    "stars": 223,
+    "name": "mav",
+    "full_name": "attentionmech/mav",
+    "description": "mav",
+    "url": "https://github.com/attentionmech/mav",
+    "stars": 428,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "computer-vision",
-      "contrastive-learning",
-      "deep-learning",
-      "distillation",
-      "embeddings",
+      "large-language-models",
+      "llm-inference",
       "machine-learning",
-      "pretrained-models",
-      "python",
-      "pytorch",
-      "self-supervised",
-      "self-supervised-learning"
+      "terminal-app",
+      "visualization"
     ],
-    "created_at": "2025-04-10T08:23:51",
-    "updated_at": "2025-04-20T05:49:33"
+    "created_at": "2025-03-26T23:54:39",
+    "updated_at": "2025-04-20T10:53:11"
   },
   {
     "name": "agentwatch",
     "full_name": "cyberark/agentwatch",
     "description": "A powerful AI observability framework that provides comprehensive insights into agent interactions across platforms, enabling developers to monitor, analyze, and optimize AI-driven applications with minimal integration effort.",
     "url": "https://github.com/cyberark/agentwatch",
-    "stars": 67,
+    "stars": 68,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -118,88 +156,53 @@
       "security"
     ],
     "created_at": "2025-03-26T10:01:05",
-    "updated_at": "2025-04-20T07:40:19"
+    "updated_at": "2025-04-20T09:16:32"
   },
   {
-    "name": "numpyai",
-    "full_name": "aadya940/numpyai",
-    "description": "A Natural Language Interface to the Numpy Library using LLMs.",
-    "url": "https://github.com/aadya940/numpyai",
-    "stars": 10,
+    "name": "Youtube-MCP",
+    "full_name": "blukglug/Youtube-MCP",
+    "description": "YouTube MCP Server is an AI-powered solution designed to revolutionize your YouTube experience. It empowers users to search for YouTube videos, retrieve detailed transcripts, and perform semantic searches over video content—all without relying on the official API. By integrating with a vector database, this server streamlines content discovery.",
+    "url": "https://github.com/blukglug/Youtube-MCP",
+    "stars": 5,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai",
-      "data-analysis",
-      "data-science",
-      "library",
-      "llm",
+      "claude",
+      "deepseek",
       "machine-learning",
-      "numpy",
-      "python"
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "python",
+      "semantic-search",
+      "transcripts",
+      "uv",
+      "vector-database",
+      "youtube"
     ],
-    "created_at": "2025-04-01T19:10:50",
-    "updated_at": "2025-04-20T06:12:32"
+    "created_at": "2025-03-30T07:32:46",
+    "updated_at": "2025-04-20T12:04:51"
   },
   {
-    "name": "Deep-Learning-Spatiotemporal-Fusion-Survey",
-    "full_name": "yc-cui/Deep-Learning-Spatiotemporal-Fusion-Survey",
-    "description": "A collection of deep learning models for remote sensing spatiotemporal fusion.",
-    "url": "https://github.com/yc-cui/Deep-Learning-Spatiotemporal-Fusion-Survey",
-    "stars": 10,
+    "name": "OpenKimi",
+    "full_name": "Chieko-Seren/OpenKimi",
+    "description": "Unlimited context on any LLM ✨",
+    "url": "https://github.com/Chieko-Seren/OpenKimi",
+    "stars": 22,
     "daily_stars": 1,
-    "language": null,
+    "language": "Python",
     "topics": [
-      "convolutional-neural-networks",
+      "ai",
       "deep-learning",
-      "diffusion-models",
-      "generative-adversarial-network",
-      "image-fusion",
-      "modis-landsat",
-      "recurrent-neural-networks",
-      "remote-sensing",
-      "spatio-temporal-models",
-      "spatiotemporal",
-      "transformer"
-    ],
-    "created_at": "2025-03-26T08:52:54",
-    "updated_at": "2025-04-20T07:57:51"
-  },
-  {
-    "name": "Vocalis",
-    "full_name": "Lex-au/Vocalis",
-    "description": "Speech-to-speech AI assistant with natural conversation flow, mid-speech interruption, vision capabilities and AI-initiated follow-ups. Features low-latency audio streaming, dynamic visual feedback, and works with local LLM/TTS services via OpenAI-compatible endpoints.",
-    "url": "https://github.com/Lex-au/Vocalis",
-    "stars": 91,
-    "daily_stars": 0,
-    "language": "TypeScript",
-    "topics": [
-      "artificial-intelligence",
-      "conversational-ai",
-      "speech-to-speech",
-      "visionprocessing"
-    ],
-    "created_at": "2025-03-30T13:36:53",
-    "updated_at": "2025-04-20T02:06:25"
-  },
-  {
-    "name": "ai-knowledge-graph",
-    "full_name": "robert-mcdermott/ai-knowledge-graph",
-    "description": "AI Powered Knowledge Graph Generator",
-    "url": "https://github.com/robert-mcdermott/ai-knowledge-graph",
-    "stars": 88,
-    "daily_stars": 0,
-    "language": "HTML",
-    "topics": [
-      "artificial-intelligence",
-      "knowledge-distillation",
-      "knowledge-graph",
+      "kimi",
+      "kimi-ai",
       "llm",
-      "networkx",
-      "pyvis",
-      "visualization"
+      "rag",
+      "vue",
+      "vuejs"
     ],
-    "created_at": "2025-03-23T04:38:15",
-    "updated_at": "2025-04-18T07:49:41"
+    "created_at": "2025-04-05T11:44:35",
+    "updated_at": "2025-04-20T10:58:05"
   }
 ]
