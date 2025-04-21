@@ -1,28 +1,11 @@
 [
   {
-    "name": "any-agent",
-    "full_name": "mozilla-ai/any-agent",
-    "description": "A single interface to different Agent frameworks",
-    "url": "https://github.com/mozilla-ai/any-agent",
-    "stars": 273,
-    "daily_stars": 5,
-    "language": "Python",
-    "topics": [
-      "agent-evaluation",
-      "agent-frameworks",
-      "ai-agents",
-      "open-source"
-    ],
-    "created_at": "2025-03-25T08:14:43",
-    "updated_at": "2025-04-20T20:12:04"
-  },
-  {
     "name": "lightly-train",
     "full_name": "lightly-ai/lightly-train",
     "description": "LightlyTrain is the first PyTorch framework to pretrain computer vision models on unlabeled data for industrial applications",
     "url": "https://github.com/lightly-ai/lightly-train",
-    "stars": 227,
-    "daily_stars": 3,
+    "stars": 233,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "computer-vision",
@@ -38,14 +21,52 @@
       "self-supervised-learning"
     ],
     "created_at": "2025-04-10T08:23:51",
-    "updated_at": "2025-04-20T18:40:54"
+    "updated_at": "2025-04-21T01:53:36"
+  },
+  {
+    "name": "any-agent",
+    "full_name": "mozilla-ai/any-agent",
+    "description": "A single interface to different Agent frameworks",
+    "url": "https://github.com/mozilla-ai/any-agent",
+    "stars": 278,
+    "daily_stars": 5,
+    "language": "Python",
+    "topics": [
+      "agent-evaluation",
+      "agent-frameworks",
+      "ai-agents",
+      "open-source"
+    ],
+    "created_at": "2025-03-25T08:14:43",
+    "updated_at": "2025-04-21T01:12:26"
+  },
+  {
+    "name": "numpyai",
+    "full_name": "aadya940/numpyai",
+    "description": "A Natural Language Interface to the Numpy Library using LLMs.",
+    "url": "https://github.com/aadya940/numpyai",
+    "stars": 12,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "data-analysis",
+      "data-science",
+      "library",
+      "llm",
+      "machine-learning",
+      "numpy",
+      "python"
+    ],
+    "created_at": "2025-04-01T19:10:50",
+    "updated_at": "2025-04-21T01:05:32"
   },
   {
     "name": "Vocalis",
     "full_name": "Lex-au/Vocalis",
     "description": "Speech-to-speech AI assistant with natural conversation flow, mid-speech interruption, vision capabilities and AI-initiated follow-ups. Features low-latency audio streaming, dynamic visual feedback, and works with local LLM/TTS services via OpenAI-compatible endpoints.",
     "url": "https://github.com/Lex-au/Vocalis",
-    "stars": 93,
+    "stars": 94,
     "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
@@ -55,7 +76,115 @@
       "visionprocessing"
     ],
     "created_at": "2025-03-30T13:36:53",
-    "updated_at": "2025-04-20T19:40:02"
+    "updated_at": "2025-04-21T00:22:03"
+  },
+  {
+    "name": "saiki",
+    "full_name": "truffle-ai/saiki",
+    "description": "AI Agent to control computers, applications and services using natural language",
+    "url": "https://github.com/truffle-ai/saiki",
+    "stars": 84,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "llm",
+      "mcp",
+      "modelcontextprotocol",
+      "typescript"
+    ],
+    "created_at": "2025-03-24T22:49:13",
+    "updated_at": "2025-04-21T00:47:48"
+  },
+  {
+    "name": "secai",
+    "full_name": "pancsta/secai",
+    "description": "Smart graph for networks of autonomous AI Agents",
+    "url": "https://github.com/pancsta/secai",
+    "stars": 57,
+    "daily_stars": 1,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "asyncmachine",
+      "debugger",
+      "deepresearch",
+      "diagrams",
+      "graph",
+      "instructor",
+      "llm",
+      "repl",
+      "sql"
+    ],
+    "created_at": "2025-04-13T19:06:36",
+    "updated_at": "2025-04-20T22:02:35"
+  },
+  {
+    "name": "k8s-mcp-server",
+    "full_name": "briankscheong/k8s-mcp-server",
+    "description": "The Kubernetes MCP Server is a Model Context Protocol (MCP) server that provides seamless integration with Kubernetes APIs, enabling advanced automation and interaction capabilities for developers, operators, and AI tools.",
+    "url": "https://github.com/briankscheong/k8s-mcp-server",
+    "stars": 1,
+    "daily_stars": 1,
+    "language": "Go",
+    "topics": [
+      "ai-agents",
+      "go",
+      "kubernetes",
+      "mcp",
+      "mcp-server",
+      "mcp-servers"
+    ],
+    "created_at": "2025-04-20T07:02:49",
+    "updated_at": "2025-04-21T02:10:47"
+  },
+  {
+    "name": "ObjaversePlusPlus",
+    "full_name": "TCXX/ObjaversePlusPlus",
+    "description": "Repo for Objaverse++, Curated 3D Object Dataset with Quality Annotations",
+    "url": "https://github.com/TCXX/ObjaversePlusPlus",
+    "stars": 69,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "3d",
+      "3d-dataset",
+      "3d-generation",
+      "3d-models",
+      "3d-reconstruction",
+      "computervision",
+      "cvpr2025",
+      "dreamfusion",
+      "gaussian-splatting",
+      "generative-ai",
+      "machine-learning",
+      "nerf",
+      "objaverse"
+    ],
+    "created_at": "2025-04-08T04:42:24",
+    "updated_at": "2025-04-21T00:17:01"
+  },
+  {
+    "name": "hypr-dots",
+    "full_name": "TH-O-R/hypr-dots",
+    "description": "My custom Hyprland dotfiles and scripts to make it hyper-cool",
+    "url": "https://github.com/TH-O-R/hypr-dots",
+    "stars": 2,
+    "daily_stars": 1,
+    "language": "Shell",
+    "topics": [
+      "cool-stuff",
+      "hyprland",
+      "hyprland-dotfiles",
+      "hyprland-rice",
+      "tiling",
+      "window-manager",
+      "workflow"
+    ],
+    "created_at": "2025-04-08T19:58:46",
+    "updated_at": "2025-04-20T20:59:31"
   },
   {
     "name": "ai-knowledge-graph",
@@ -63,7 +192,7 @@
     "description": "AI Powered Knowledge Graph Generator",
     "url": "https://github.com/robert-mcdermott/ai-knowledge-graph",
     "stars": 89,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "HTML",
     "topics": [
       "artificial-intelligence",
@@ -76,139 +205,5 @@
     ],
     "created_at": "2025-03-23T04:38:15",
     "updated_at": "2025-04-20T20:00:38"
-  },
-  {
-    "name": "evolutionary-policy-optimization",
-    "full_name": "lucidrains/evolutionary-policy-optimization",
-    "description": "Pytorch implementation of Evolutionary Policy Optimization, from Wang et al. of the Robotics Institute at Carnegie Melon University",
-    "url": "https://github.com/lucidrains/evolutionary-policy-optimization",
-    "stars": 55,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "artificial-intelligence",
-      "deep-learning",
-      "genetic-algorithms",
-      "reinforcement-learning",
-      "robotics"
-    ],
-    "created_at": "2025-04-07T22:12:06",
-    "updated_at": "2025-04-20T20:20:42"
-  },
-  {
-    "name": "EstateWise-Chapel-Hill-Chatbot",
-    "full_name": "hoangsonww/EstateWise-Chapel-Hill-Chatbot",
-    "description": "🏠 A robust real estate chat application that streamlines user authentication, conversation management, and personalized property recommendations with a modern API, RAG, and responsive UI. Explore our repository to see how we integrate Express, MongoDB, and real-time chat features for an intuitive, scalable experience.",
-    "url": "https://github.com/hoangsonww/EstateWise-Chapel-Hill-Chatbot",
-    "stars": 4,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "artificial-intelligence",
-      "chatbot",
-      "estate",
-      "express",
-      "expressjs",
-      "machine-learning",
-      "mongo",
-      "mongodb",
-      "nextjs",
-      "pinecone",
-      "rag",
-      "react",
-      "real-estate",
-      "real-estate-website",
-      "rest-api",
-      "retrieval-augmented-generation",
-      "shadcn-ui",
-      "tailwindcss",
-      "vector-database",
-      "vercel"
-    ],
-    "created_at": "2025-04-16T01:19:56",
-    "updated_at": "2025-04-20T16:48:51"
-  },
-  {
-    "name": "youtube-ai-agent",
-    "full_name": "inspector-apm/youtube-ai-agent",
-    "description": "AI Agents summarizong YouTube videos - built with Neuron AI PHP framework.",
-    "url": "https://github.com/inspector-apm/youtube-ai-agent",
-    "stars": 10,
-    "daily_stars": 1,
-    "language": "PHP",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-assistant",
-      "llm",
-      "php",
-      "video-ai",
-      "video-analysis",
-      "youtube"
-    ],
-    "created_at": "2025-04-04T10:59:42",
-    "updated_at": "2025-04-20T17:19:09"
-  },
-  {
-    "name": "Versatile-OCR-Program",
-    "full_name": "ses4255/Versatile-OCR-Program",
-    "description": "Multi-modal OCR pipeline optimized for ML training (text, math, tables, diagrams)",
-    "url": "https://github.com/ses4255/Versatile-OCR-Program",
-    "stars": 599,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "doclayout",
-      "educational-data",
-      "exam-ocr",
-      "machine-learning",
-      "ml-datasets",
-      "multi-modal",
-      "ocr",
-      "openai",
-      "paper-ocr",
-      "table-parsing"
-    ],
-    "created_at": "2025-04-01T08:52:45",
-    "updated_at": "2025-04-20T20:07:12"
-  },
-  {
-    "name": "tensorlens",
-    "full_name": "attentionmech/tensorlens",
-    "description": "TensorLens",
-    "url": "https://github.com/attentionmech/tensorlens",
-    "stars": 13,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "deep-learning",
-      "visualisation"
-    ],
-    "created_at": "2025-04-12T16:11:04",
-    "updated_at": "2025-04-20T20:19:09"
-  },
-  {
-    "name": "codegrab",
-    "full_name": "epilande/codegrab",
-    "description": "✋ Interactive CLI tool for selecting and bundling code into a single, LLM-ready output file",
-    "url": "https://github.com/epilande/codegrab",
-    "stars": 45,
-    "daily_stars": 0,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "bubbletea",
-      "bundle",
-      "cli",
-      "devtools",
-      "genai",
-      "go",
-      "golang",
-      "llm",
-      "tui"
-    ],
-    "created_at": "2025-03-31T07:56:24",
-    "updated_at": "2025-04-19T20:44:46"
   }
 ]
