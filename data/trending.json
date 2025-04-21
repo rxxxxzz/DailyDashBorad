@@ -4,8 +4,8 @@
     "full_name": "lightly-ai/lightly-train",
     "description": "LightlyTrain is the first PyTorch framework to pretrain computer vision models on unlabeled data for industrial applications",
     "url": "https://github.com/lightly-ai/lightly-train",
-    "stars": 238,
-    "daily_stars": 3,
+    "stars": 242,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "computer-vision",
@@ -21,52 +21,15 @@
       "self-supervised-learning"
     ],
     "created_at": "2025-04-10T08:23:51",
-    "updated_at": "2025-04-21T11:00:54"
-  },
-  {
-    "name": "saiki",
-    "full_name": "truffle-ai/saiki",
-    "description": "AI Agent to control computers, applications and services using natural language",
-    "url": "https://github.com/truffle-ai/saiki",
-    "stars": 87,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "llm",
-      "mcp",
-      "modelcontextprotocol",
-      "typescript"
-    ],
-    "created_at": "2025-03-24T22:49:13",
-    "updated_at": "2025-04-21T12:57:44"
-  },
-  {
-    "name": "evolutionary-policy-optimization",
-    "full_name": "lucidrains/evolutionary-policy-optimization",
-    "description": "Pytorch implementation of Evolutionary Policy Optimization, from Wang et al. of the Robotics Institute at Carnegie Melon University",
-    "url": "https://github.com/lucidrains/evolutionary-policy-optimization",
-    "stars": 56,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "artificial-intelligence",
-      "deep-learning",
-      "genetic-algorithms",
-      "reinforcement-learning",
-      "robotics"
-    ],
-    "created_at": "2025-04-07T22:12:06",
-    "updated_at": "2025-04-21T11:40:18"
+    "updated_at": "2025-04-21T14:21:59"
   },
   {
     "name": "browserable",
     "full_name": "browserable/browserable",
     "description": "Open source and self-hostable browser automation library for AI agents",
     "url": "https://github.com/browserable/browserable",
-    "stars": 501,
-    "daily_stars": 1,
+    "stars": 504,
+    "daily_stars": 3,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -76,14 +39,128 @@
       "playwright"
     ],
     "created_at": "2025-04-07T16:04:36",
-    "updated_at": "2025-04-21T12:54:46"
+    "updated_at": "2025-04-21T15:09:54"
+  },
+  {
+    "name": "ai-context-optimization",
+    "full_name": "mgks/ai-context-optimization",
+    "description": "Techniques and tools for optimizing how AI coding assistants understand your codebase, with a focus on cost reduction and efficiency.",
+    "url": "https://github.com/mgks/ai-context-optimization",
+    "stars": 11,
+    "daily_stars": 3,
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "context",
+      "copilot",
+      "cursor"
+    ],
+    "created_at": "2025-04-20T09:14:12",
+    "updated_at": "2025-04-21T15:53:45"
+  },
+  {
+    "name": "any-agent",
+    "full_name": "mozilla-ai/any-agent",
+    "description": "A single interface to different Agent frameworks",
+    "url": "https://github.com/mozilla-ai/any-agent",
+    "stars": 281,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "agent-evaluation",
+      "agent-frameworks",
+      "ai-agents",
+      "open-source"
+    ],
+    "created_at": "2025-03-25T08:14:43",
+    "updated_at": "2025-04-21T15:11:47"
+  },
+  {
+    "name": "latentmemory",
+    "full_name": "ronniross/latentmemory",
+    "description": "Latent Memory is a Module for Large Language Models that seek to integrate a vector-based memory system into the LLM’s inference process, leveraging embeddings to capture deeper semantic meaning.",
+    "url": "https://github.com/ronniross/latentmemory",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "agi",
+      "artificial-intelligence",
+      "artificial-intelligence-algorithms",
+      "asi",
+      "llm",
+      "llm-framework",
+      "llm-inference",
+      "llm-tools",
+      "llms",
+      "memory",
+      "memory-management",
+      "toolkit",
+      "toolkits"
+    ],
+    "created_at": "2025-04-20T14:21:04",
+    "updated_at": "2025-04-21T13:42:03"
+  },
+  {
+    "name": "llm_growing_agent",
+    "full_name": "HiLowJack777/llm_growing_agent",
+    "description": "This is a project aimed at creating an agent that perpetually thinks and develops itself. It can add entries into an SQLite database and change the structure of that databaase. It also has the ability to search the web when it needs to. It utilizes OpenAI function calling and the responses API. All that is needed to run it is an OpenAI API key.",
+    "url": "https://github.com/HiLowJack777/llm_growing_agent",
+    "stars": 2,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-agent",
+      "artificial-intelligence",
+      "autonomous-agent",
+      "experimental-ai",
+      "gpt-4o",
+      "introspective-agent",
+      "llm-agent",
+      "memory-architecture",
+      "openai",
+      "openai-function-calling",
+      "personal-ai",
+      "python3",
+      "responses-api",
+      "schema-evolution",
+      "self-evolving-system",
+      "self-improving-ai",
+      "self-reflective-agent",
+      "single-file-app",
+      "sqlite",
+      "tkinter-gui"
+    ],
+    "created_at": "2025-03-23T12:33:26",
+    "updated_at": "2025-04-21T14:12:41"
+  },
+  {
+    "name": "kodus-ai",
+    "full_name": "kodustech/kodus-ai",
+    "description": "Open source AI code reviews — just like your senior dev would do.",
+    "url": "https://github.com/kodustech/kodus-ai",
+    "stars": 316,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-code-review",
+      "ai-coding-tools",
+      "code-review",
+      "coding-assistant",
+      "generative-ai"
+    ],
+    "created_at": "2025-03-28T17:05:19",
+    "updated_at": "2025-04-21T16:35:13"
   },
   {
     "name": "Agent-Wiz",
     "full_name": "Repello-AI/Agent-Wiz",
     "description": "A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.",
     "url": "https://github.com/Repello-AI/Agent-Wiz",
-    "stars": 171,
+    "stars": 172,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -104,107 +181,46 @@
       "threat-modeling"
     ],
     "created_at": "2025-03-31T04:06:51",
-    "updated_at": "2025-04-21T09:11:39"
+    "updated_at": "2025-04-21T16:18:01"
   },
   {
-    "name": "codelogic-mcp-server",
-    "full_name": "CodeLogicIncEngineering/codelogic-mcp-server",
-    "description": "An MCP Server to utilize Codelogic's rich software dependency data in your AI programming assistant.",
-    "url": "https://github.com/CodeLogicIncEngineering/codelogic-mcp-server",
-    "stars": 6,
+    "name": "saiki",
+    "full_name": "truffle-ai/saiki",
+    "description": "AI Agent to control computers, applications and services using natural language",
+    "url": "https://github.com/truffle-ai/saiki",
+    "stars": 88,
     "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "coding",
-      "developer-tools",
-      "mcp-server"
-    ],
-    "created_at": "2025-04-02T13:11:29",
-    "updated_at": "2025-04-21T10:22:49"
-  },
-  {
-    "name": "Auto-Recon",
-    "full_name": "whitehacker0/Auto-Recon",
-    "description": "OSINT Multi Recon Tool is an advanced open-source intelligence (OSINT) gathering tool designed for ethical hackers, penetration testers, and cybersecurity professionals. This tool automates reconnaissance by collecting valuable information from various sources, including GitHub, LinkedIn, WHOIS, subdomains, and phone number lookups.",
-    "url": "https://github.com/whitehacker0/Auto-Recon",
-    "stars": 8,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "automated",
-      "bash",
-      "bugbounty-tools",
-      "deep-learning",
-      "hacking-code",
-      "hacking-tools",
-      "linux",
-      "minecraft",
-      "nmap",
-      "penetration-testing",
-      "pentesting-tools",
-      "recon",
-      "reconnaissance"
-    ],
-    "created_at": "2025-04-03T13:22:32",
-    "updated_at": "2025-04-21T12:13:18"
-  },
-  {
-    "name": "Awesome_GLC",
-    "full_name": "lingyzhu0101/Awesome_GLC",
-    "description": "[Paper List‘25] Paper list of Generative Image Compression (GIC), Generative Video Compression (GVC), Extreme Learned Image Compression (ELIC), and Extreme Learned Video Compression (ELVC) for Human Vision and Machine Vision.",
-    "url": "https://github.com/lingyzhu0101/Awesome_GLC",
-    "stars": 5,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "codec",
-      "compression",
-      "computer-vision",
-      "deep-learning",
-      "generative-model-compression",
-      "learned-image-compression"
-    ],
-    "created_at": "2025-04-18T04:46:04",
-    "updated_at": "2025-04-21T10:27:50"
-  },
-  {
-    "name": "Vocalis",
-    "full_name": "Lex-au/Vocalis",
-    "description": "Speech-to-speech AI assistant with natural conversation flow, mid-speech interruption, vision capabilities and AI-initiated follow-ups. Features low-latency audio streaming, dynamic visual feedback, and works with local LLM/TTS services via OpenAI-compatible endpoints.",
-    "url": "https://github.com/Lex-au/Vocalis",
-    "stars": 95,
-    "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
-      "artificial-intelligence",
-      "conversational-ai",
-      "speech-to-speech",
-      "visionprocessing"
+      "ai-agents",
+      "ai-tools",
+      "llm",
+      "mcp",
+      "modelcontextprotocol",
+      "typescript"
     ],
-    "created_at": "2025-03-30T13:36:53",
-    "updated_at": "2025-04-21T03:15:00"
+    "created_at": "2025-03-24T22:49:13",
+    "updated_at": "2025-04-21T16:37:14"
   },
   {
-    "name": "ai-knowledge-graph",
-    "full_name": "robert-mcdermott/ai-knowledge-graph",
-    "description": "AI Powered Knowledge Graph Generator",
-    "url": "https://github.com/robert-mcdermott/ai-knowledge-graph",
-    "stars": 89,
-    "daily_stars": 0,
-    "language": "HTML",
+    "name": "mcp-agent",
+    "full_name": "joshuaalpuerto/mcp-agent",
+    "description": "Lightweight, focused utilities to manage connections and execute MCP tools with minimal integration effort. Use it to directly call tools or build simple agents within your current architecture.",
+    "url": "https://github.com/joshuaalpuerto/mcp-agent",
+    "stars": 9,
+    "daily_stars": 1,
+    "language": "TypeScript",
     "topics": [
-      "artificial-intelligence",
-      "knowledge-distillation",
-      "knowledge-graph",
+      "agents",
+      "ai-agents",
       "llm",
-      "networkx",
-      "pyvis",
-      "visualization"
+      "mcp",
+      "mcp-agent",
+      "model-context-protocol",
+      "nodejs",
+      "typescript"
     ],
-    "created_at": "2025-03-23T04:38:15",
-    "updated_at": "2025-04-20T20:00:38"
+    "created_at": "2025-03-25T16:32:49",
+    "updated_at": "2025-04-21T13:37:21"
   }
 ]
