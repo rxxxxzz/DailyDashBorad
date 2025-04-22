@@ -4,7 +4,7 @@
     "full_name": "aiaccess/ai-access",
     "description": "A flexible PHP library providing access to various AI models (Gemini, OpenAI, Anthropic, DeepSeek, Grok) via a consistent interface.",
     "url": "https://github.com/aiaccess/ai-access",
-    "stars": 17,
+    "stars": 20,
     "daily_stars": 3,
     "language": "PHP",
     "topics": [
@@ -22,15 +22,15 @@
       "openai"
     ],
     "created_at": "2025-04-11T15:23:01",
-    "updated_at": "2025-04-22T14:36:58"
+    "updated_at": "2025-04-22T19:29:29"
   },
   {
     "name": "any-agent",
     "full_name": "mozilla-ai/any-agent",
     "description": "A single interface to different Agent frameworks",
     "url": "https://github.com/mozilla-ai/any-agent",
-    "stars": 296,
-    "daily_stars": 2,
+    "stars": 299,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "agent-evaluation",
@@ -39,14 +39,32 @@
       "open-source"
     ],
     "created_at": "2025-03-25T08:14:43",
-    "updated_at": "2025-04-22T15:33:34"
+    "updated_at": "2025-04-22T20:13:17"
+  },
+  {
+    "name": "browserable",
+    "full_name": "browserable/browserable",
+    "description": "Open source and self-hostable browser automation library for AI agents",
+    "url": "https://github.com/browserable/browserable",
+    "stars": 513,
+    "daily_stars": 2,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "browser-automation",
+      "javascript",
+      "playwright"
+    ],
+    "created_at": "2025-04-07T16:04:36",
+    "updated_at": "2025-04-22T18:08:54"
   },
   {
     "name": "lightly-train",
     "full_name": "lightly-ai/lightly-train",
     "description": "LightlyTrain is the first PyTorch framework to pretrain computer vision models on unlabeled data for industrial applications",
     "url": "https://github.com/lightly-ai/lightly-train",
-    "stars": 249,
+    "stars": 251,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
@@ -63,146 +81,135 @@
       "self-supervised-learning"
     ],
     "created_at": "2025-04-10T08:23:51",
-    "updated_at": "2025-04-22T14:37:46"
+    "updated_at": "2025-04-22T18:51:52"
   },
   {
-    "name": "Vocalis",
-    "full_name": "Lex-au/Vocalis",
-    "description": "Speech-to-speech AI assistant with natural conversation flow, mid-speech interruption, vision capabilities and AI-initiated follow-ups. Features low-latency audio streaming, dynamic visual feedback, and works with local LLM/TTS services via OpenAI-compatible endpoints.",
-    "url": "https://github.com/Lex-au/Vocalis",
-    "stars": 97,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "artificial-intelligence",
-      "conversational-ai",
-      "speech-to-speech",
-      "visionprocessing"
-    ],
-    "created_at": "2025-03-30T13:36:53",
-    "updated_at": "2025-04-22T14:15:30"
-  },
-  {
-    "name": "NeoRefacer",
-    "full_name": "MechasAI/NeoRefacer",
-    "description": "Next-generation, fully open-source refacer. Images. GIFs. Full-length videos. Bulk refacing",
-    "url": "https://github.com/MechasAI/NeoRefacer",
-    "stars": 13,
-    "daily_stars": 1,
+    "name": "mcp-gemini-search",
+    "full_name": "arjunprabhulal/mcp-gemini-search",
+    "description": "Model Context Protocol (MCP) with Gemini 2.5 Pro. Convert conversational queries into flight searches using Gemini's function calling capabilities and MCP's flight search tools",
+    "url": "https://github.com/arjunprabhulal/mcp-gemini-search",
+    "stars": 17,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "ai",
-      "artificial-intelligence",
-      "deep-learning",
-      "deepfake",
-      "faceswap",
-      "genai",
-      "gifs",
-      "image-manipulation",
-      "images",
-      "refacer",
-      "videos"
-    ],
-    "created_at": "2025-04-10T21:11:20",
-    "updated_at": "2025-04-22T13:53:36"
-  },
-  {
-    "name": "lightning-hydra-boilerplate",
-    "full_name": "willyfh/lightning-hydra-boilerplate",
-    "description": "A project boilerplate for deep learning experiments using PyTorch Lightning and Hydra, designed for rapid prototyping, clean configuration management, and scalable research workflows.",
-    "url": "https://github.com/willyfh/lightning-hydra-boilerplate",
-    "stars": 7,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "boilerplate",
-      "deep-learning",
-      "hydra",
-      "lightning",
+      "function-calling",
+      "gemini",
+      "llm",
       "machine-learning",
-      "pytorch",
-      "pytorch-lightning",
-      "research-tool"
-    ],
-    "created_at": "2025-04-04T15:31:40",
-    "updated_at": "2025-04-22T14:54:27"
-  },
-  {
-    "name": "browserable",
-    "full_name": "browserable/browserable",
-    "description": "Open source and self-hostable browser automation library for AI agents",
-    "url": "https://github.com/browserable/browserable",
-    "stars": 511,
-    "daily_stars": 1,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "browser-automation",
-      "javascript",
-      "playwright"
-    ],
-    "created_at": "2025-04-07T16:04:36",
-    "updated_at": "2025-04-22T16:40:42"
-  },
-  {
-    "name": "rulego-server",
-    "full_name": "rulego/rulego-server",
-    "description": "A lightweight dependency-free workflow automation platform. Supports iPaaS, stream computing, and AI capabilities. ",
-    "url": "https://github.com/rulego/rulego-server",
-    "stars": 27,
-    "daily_stars": 1,
-    "language": "JavaScript",
-    "topics": [
-      "automation",
+      "mcp",
       "mcp-server",
-      "rulego",
-      "workflow",
-      "workflow-engine"
+      "model-context-protocol",
+      "serpapi",
+      "stdio"
     ],
-    "created_at": "2025-04-01T08:26:17",
-    "updated_at": "2025-04-22T13:30:02"
+    "created_at": "2025-04-04T17:05:06",
+    "updated_at": "2025-04-22T18:11:49"
   },
   {
-    "name": "X-ai-agent",
-    "full_name": "hireshBrem/X-ai-agent",
-    "description": "Interact with tweets autonomously using AI agents",
-    "url": "https://github.com/hireshBrem/X-ai-agent",
-    "stars": 1,
+    "name": "codegrab",
+    "full_name": "epilande/codegrab",
+    "description": "✋ Interactive CLI tool for selecting and bundling code into a single, LLM-ready output file",
+    "url": "https://github.com/epilande/codegrab",
+    "stars": 46,
+    "daily_stars": 1,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "bubbletea",
+      "bundle",
+      "cli",
+      "devtools",
+      "genai",
+      "go",
+      "golang",
+      "llm",
+      "tui"
+    ],
+    "created_at": "2025-03-31T07:56:24",
+    "updated_at": "2025-04-22T19:02:41"
+  },
+  {
+    "name": "teamwork-ai",
+    "full_name": "rafaeljusto/teamwork-ai",
+    "description": "Teamwork.com extra AI capabilities",
+    "url": "https://github.com/rafaeljusto/teamwork-ai",
+    "stars": 2,
+    "daily_stars": 1,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "mcp",
+      "mcp-server",
+      "teamwork"
+    ],
+    "created_at": "2025-04-12T12:12:07",
+    "updated_at": "2025-04-22T19:44:32"
+  },
+  {
+    "name": "kodus-ai",
+    "full_name": "kodustech/kodus-ai",
+    "description": "Open source AI code reviews — just like your senior dev would do.",
+    "url": "https://github.com/kodustech/kodus-ai",
+    "stars": 317,
     "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
+      "ai",
       "ai-agents",
-      "ai-tools",
-      "browser-automation",
-      "browser-use",
-      "browserbase"
+      "ai-code-review",
+      "ai-coding-tools",
+      "code-review",
+      "coding-assistant",
+      "generative-ai"
     ],
-    "created_at": "2025-03-28T22:47:08",
-    "updated_at": "2025-04-22T14:03:13"
+    "created_at": "2025-03-28T17:05:19",
+    "updated_at": "2025-04-22T20:16:14"
   },
   {
-    "name": "Versatile-OCR-Program",
-    "full_name": "ses4255/Versatile-OCR-Program",
-    "description": "Multi-modal OCR pipeline optimized for ML training (text, math, tables, diagrams)",
-    "url": "https://github.com/ses4255/Versatile-OCR-Program",
-    "stars": 604,
+    "name": "secai",
+    "full_name": "pancsta/secai",
+    "description": "Smart graph for networks of autonomous AI Agents",
+    "url": "https://github.com/pancsta/secai",
+    "stars": 59,
     "daily_stars": 1,
-    "language": null,
+    "language": "Go",
     "topics": [
-      "doclayout",
-      "educational-data",
-      "exam-ocr",
-      "machine-learning",
-      "ml-datasets",
-      "multi-modal",
-      "ocr",
-      "openai",
-      "paper-ocr",
-      "table-parsing"
+      "ai",
+      "ai-agents",
+      "asyncmachine",
+      "debugger",
+      "deepresearch",
+      "diagrams",
+      "graph",
+      "instructor",
+      "llm",
+      "repl",
+      "sql"
     ],
-    "created_at": "2025-04-01T08:52:45",
-    "updated_at": "2025-04-22T13:36:11"
+    "created_at": "2025-04-13T19:06:36",
+    "updated_at": "2025-04-22T17:52:53"
+  },
+  {
+    "name": "Stock-Analysis-AI-Agent",
+    "full_name": "rishabhverma17/Stock-Analysis-AI-Agent",
+    "description": "Analyze Stocks using Deepseek-R1 and Ollama ",
+    "url": "https://github.com/rishabhverma17/Stock-Analysis-AI-Agent",
+    "stars": 2,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "ai-agent",
+      "ai-agents",
+      "deepseek-r1",
+      "python3",
+      "stock-analysis",
+      "stock-analysis-ai"
+    ],
+    "created_at": "2025-04-19T10:18:52",
+    "updated_at": "2025-04-22T19:44:09"
   }
 ]
