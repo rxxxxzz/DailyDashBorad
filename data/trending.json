@@ -4,8 +4,8 @@
     "full_name": "mozilla-ai/any-agent",
     "description": "A single interface to different Agent frameworks",
     "url": "https://github.com/mozilla-ai/any-agent",
-    "stars": 284,
-    "daily_stars": 2,
+    "stars": 291,
+    "daily_stars": 7,
     "language": "Python",
     "topics": [
       "agent-evaluation",
@@ -14,15 +14,15 @@
       "open-source"
     ],
     "created_at": "2025-03-25T08:14:43",
-    "updated_at": "2025-04-22T04:34:49"
+    "updated_at": "2025-04-22T08:22:53"
   },
   {
     "name": "browserable",
     "full_name": "browserable/browserable",
     "description": "Open source and self-hostable browser automation library for AI agents",
     "url": "https://github.com/browserable/browserable",
-    "stars": 506,
-    "daily_stars": 1,
+    "stars": 509,
+    "daily_stars": 3,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -32,35 +32,102 @@
       "playwright"
     ],
     "created_at": "2025-04-07T16:04:36",
-    "updated_at": "2025-04-22T04:40:48"
+    "updated_at": "2025-04-22T08:32:03"
   },
   {
-    "name": "youtube-ai-agent",
-    "full_name": "inspector-apm/youtube-ai-agent",
-    "description": "AI Agents summarizong YouTube videos - built with Neuron AI PHP framework.",
-    "url": "https://github.com/inspector-apm/youtube-ai-agent",
-    "stars": 11,
+    "name": "lightly-train",
+    "full_name": "lightly-ai/lightly-train",
+    "description": "LightlyTrain is the first PyTorch framework to pretrain computer vision models on unlabeled data for industrial applications",
+    "url": "https://github.com/lightly-ai/lightly-train",
+    "stars": 245,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "computer-vision",
+      "contrastive-learning",
+      "deep-learning",
+      "distillation",
+      "embeddings",
+      "machine-learning",
+      "pretrained-models",
+      "python",
+      "pytorch",
+      "self-supervised",
+      "self-supervised-learning"
+    ],
+    "created_at": "2025-04-10T08:23:51",
+    "updated_at": "2025-04-22T08:35:35"
+  },
+  {
+    "name": "ai-access",
+    "full_name": "aiaccess/ai-access",
+    "description": "A flexible PHP library providing access to various AI models (Gemini, OpenAI, Anthropic, DeepSeek, Grok) via a consistent interface.",
+    "url": "https://github.com/aiaccess/ai-access",
+    "stars": 6,
     "daily_stars": 1,
     "language": "PHP",
     "topics": [
       "ai",
-      "ai-agents",
-      "ai-assistant",
+      "anthropic",
+      "api",
+      "artificial-intelligence",
+      "chatbot",
+      "client",
+      "deepseek",
+      "gemini",
+      "grok",
+      "large-language-model",
       "llm",
-      "php",
-      "video-ai",
-      "video-analysis",
-      "youtube"
+      "openai"
     ],
-    "created_at": "2025-04-04T10:59:42",
-    "updated_at": "2025-04-22T03:35:21"
+    "created_at": "2025-04-11T15:23:01",
+    "updated_at": "2025-04-22T08:42:32"
+  },
+  {
+    "name": "saiki",
+    "full_name": "truffle-ai/saiki",
+    "description": "AI Agent to control computers, applications and services using natural language",
+    "url": "https://github.com/truffle-ai/saiki",
+    "stars": 89,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "llm",
+      "mcp",
+      "modelcontextprotocol",
+      "typescript"
+    ],
+    "created_at": "2025-03-24T22:49:13",
+    "updated_at": "2025-04-22T05:59:48"
+  },
+  {
+    "name": "amazon-mcp",
+    "full_name": "Fewsats/amazon-mcp",
+    "description": "Amazon MCP server to search & buy products using the L402",
+    "url": "https://github.com/Fewsats/amazon-mcp",
+    "stars": 4,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "aiagents",
+      "e-commerce",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "shopping"
+    ],
+    "created_at": "2025-04-01T08:18:58",
+    "updated_at": "2025-04-22T05:15:49"
   },
   {
     "name": "Versatile-OCR-Program",
     "full_name": "ses4255/Versatile-OCR-Program",
     "description": "Multi-modal OCR pipeline optimized for ML training (text, math, tables, diagrams)",
     "url": "https://github.com/ses4255/Versatile-OCR-Program",
-    "stars": 602,
+    "stars": 603,
     "daily_stars": 1,
     "language": null,
     "topics": [
@@ -76,122 +143,60 @@
       "table-parsing"
     ],
     "created_at": "2025-04-01T08:52:45",
-    "updated_at": "2025-04-22T03:51:25"
+    "updated_at": "2025-04-22T06:05:41"
   },
   {
-    "name": "Vocalis",
-    "full_name": "Lex-au/Vocalis",
-    "description": "Speech-to-speech AI assistant with natural conversation flow, mid-speech interruption, vision capabilities and AI-initiated follow-ups. Features low-latency audio streaming, dynamic visual feedback, and works with local LLM/TTS services via OpenAI-compatible endpoints.",
-    "url": "https://github.com/Lex-au/Vocalis",
-    "stars": 96,
-    "daily_stars": 0,
-    "language": "TypeScript",
-    "topics": [
-      "artificial-intelligence",
-      "conversational-ai",
-      "speech-to-speech",
-      "visionprocessing"
-    ],
-    "created_at": "2025-03-30T13:36:53",
-    "updated_at": "2025-04-21T20:36:40"
-  },
-  {
-    "name": "evolutionary-policy-optimization",
-    "full_name": "lucidrains/evolutionary-policy-optimization",
-    "description": "Pytorch implementation of Evolutionary Policy Optimization, from Wang et al. of the Robotics Institute at Carnegie Melon University",
-    "url": "https://github.com/lucidrains/evolutionary-policy-optimization",
-    "stars": 56,
-    "daily_stars": 0,
-    "language": null,
-    "topics": [
-      "artificial-intelligence",
-      "deep-learning",
-      "genetic-algorithms",
-      "reinforcement-learning",
-      "robotics"
-    ],
-    "created_at": "2025-04-07T22:12:06",
-    "updated_at": "2025-04-21T17:56:16"
-  },
-  {
-    "name": "codegrab",
-    "full_name": "epilande/codegrab",
-    "description": "✋ Interactive CLI tool for selecting and bundling code into a single, LLM-ready output file",
-    "url": "https://github.com/epilande/codegrab",
-    "stars": 45,
-    "daily_stars": 0,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "bubbletea",
-      "bundle",
-      "cli",
-      "devtools",
-      "genai",
-      "go",
-      "golang",
-      "llm",
-      "tui"
-    ],
-    "created_at": "2025-03-31T07:56:24",
-    "updated_at": "2025-04-19T20:44:46"
-  },
-  {
-    "name": "monitoring-llms-langfuse-ollama",
-    "full_name": "ErickWendel/monitoring-llms-langfuse-ollama",
-    "description": "Examples of how to monitor the OpenAI SDK calls using Langfuse",
-    "url": "https://github.com/ErickWendel/monitoring-llms-langfuse-ollama",
-    "stars": 17,
-    "daily_stars": 0,
+    "name": "dex",
+    "full_name": "attentionmech/dex",
+    "description": "Visual pokedex for LLMs",
+    "url": "https://github.com/attentionmech/dex",
+    "stars": 11,
+    "daily_stars": 1,
     "language": "JavaScript",
     "topics": [
-      "artificial-intelligence",
-      "docker",
-      "hostinger",
-      "langfuse",
-      "monitoring",
-      "ollama",
-      "openai"
+      "architectures",
+      "interactive",
+      "interactive-visualizations",
+      "large-language-models",
+      "llms",
+      "machine-learning",
+      "models",
+      "visualization",
+      "webapp"
     ],
-    "created_at": "2025-04-05T15:30:58",
-    "updated_at": "2025-04-16T10:48:42"
+    "created_at": "2025-04-04T02:03:25",
+    "updated_at": "2025-04-22T05:28:12"
   },
   {
-    "name": "awesomeagents",
-    "full_name": "evilsocket/awesomeagents",
-    "description": "Awesome AI Agents",
-    "url": "https://github.com/evilsocket/awesomeagents",
-    "stars": 16,
-    "daily_stars": 0,
-    "language": null,
-    "topics": [
-      "agentic-ai",
-      "agents",
-      "artificial-intelligence",
-      "awesome",
-      "awesome-list"
-    ],
-    "created_at": "2025-03-28T19:16:10",
-    "updated_at": "2025-04-11T11:05:07"
-  },
-  {
-    "name": "awesome-daily-AI-arxiv",
-    "full_name": "Tavish9/awesome-daily-AI-arxiv",
-    "description": "🚀 Daily AI Research Digest: Tracking breakthroughs in AI/NLP/CV/Robotics with dynamic updates and paper navigation.",
-    "url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
-    "stars": 14,
-    "daily_stars": 0,
+    "name": "ML-Hyperparameter-Optimizer",
+    "full_name": "dev-sire/ML-Hyperparameter-Optimizer",
+    "description": "This web app was created to simplify the process of tuning machine learning models. It provides a clean and interactive interface to perform hyperparameter optimization for regression tasks using the Random Forest algorithm.",
+    "url": "https://github.com/dev-sire/ML-Hyperparameter-Optimizer",
+    "stars": 3,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "academic-paper",
-      "artificial-intelligence",
-      "arxiv",
-      "arxiv-papers",
-      "paper-digest",
-      "research-tools"
+      "machine-learning",
+      "python3",
+      "scikit-learn",
+      "streamlit"
     ],
-    "created_at": "2025-03-26T13:26:14",
-    "updated_at": "2025-04-22T03:06:16"
+    "created_at": "2025-04-20T18:13:28",
+    "updated_at": "2025-04-22T07:31:10"
+  },
+  {
+    "name": "tensorlens",
+    "full_name": "attentionmech/tensorlens",
+    "description": "TensorLens",
+    "url": "https://github.com/attentionmech/tensorlens",
+    "stars": 13,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "deep-learning",
+      "visualisation"
+    ],
+    "created_at": "2025-04-12T16:11:04",
+    "updated_at": "2025-04-22T04:53:08"
   }
 ]
