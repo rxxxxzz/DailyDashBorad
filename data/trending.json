@@ -1,23 +1,86 @@
 [
   {
-    "name": "BiasCXR",
-    "full_name": "aahmadnejad/BiasCXR",
-    "description": "This repository is a debiassing project on CXR Dataset with embedding which is publicly available.",
-    "url": "https://github.com/aahmadnejad/BiasCXR",
-    "stars": 4,
-    "daily_stars": 2,
+    "name": "lightning-hydra-boilerplate",
+    "full_name": "willyfh/lightning-hydra-boilerplate",
+    "description": "A project boilerplate for deep learning experiments using PyTorch Lightning and Hydra, designed for rapid prototyping, clean configuration management, and scalable research workflows.",
+    "url": "https://github.com/willyfh/lightning-hydra-boilerplate",
+    "stars": 6,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "cxr",
-      "cxr-images",
-      "debias",
-      "debiasing",
+      "artificial-intelligence",
+      "boilerplate",
       "deep-learning",
+      "hydra",
+      "lightning",
       "machine-learning",
-      "york-university"
+      "pytorch",
+      "pytorch-lightning",
+      "research-tool"
     ],
-    "created_at": "2025-04-13T19:40:30",
-    "updated_at": "2025-04-21T20:37:49"
+    "created_at": "2025-04-04T15:31:40",
+    "updated_at": "2025-04-21T22:40:59"
+  },
+  {
+    "name": "awesome-google-adk",
+    "full_name": "tsubasakong/awesome-google-adk",
+    "description": "A curated list of awesome resources for Google's Agent Development Kit (ADK)",
+    "url": "https://github.com/tsubasakong/awesome-google-adk",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "agent-development-kit",
+      "ai-agents",
+      "artificial-intelligence",
+      "awesome-list",
+      "google-adk",
+      "multi-agent-systems"
+    ],
+    "created_at": "2025-04-19T06:52:24",
+    "updated_at": "2025-04-22T01:31:38"
+  },
+  {
+    "name": "browserable",
+    "full_name": "browserable/browserable",
+    "description": "Open source and self-hostable browser automation library for AI agents",
+    "url": "https://github.com/browserable/browserable",
+    "stars": 505,
+    "daily_stars": 1,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "browser-automation",
+      "javascript",
+      "playwright"
+    ],
+    "created_at": "2025-04-07T16:04:36",
+    "updated_at": "2025-04-22T00:34:41"
+  },
+  {
+    "name": "lightly-train",
+    "full_name": "lightly-ai/lightly-train",
+    "description": "LightlyTrain is the first PyTorch framework to pretrain computer vision models on unlabeled data for industrial applications",
+    "url": "https://github.com/lightly-ai/lightly-train",
+    "stars": 243,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "computer-vision",
+      "contrastive-learning",
+      "deep-learning",
+      "distillation",
+      "embeddings",
+      "machine-learning",
+      "pretrained-models",
+      "python",
+      "pytorch",
+      "self-supervised",
+      "self-supervised-learning"
+    ],
+    "created_at": "2025-04-10T08:23:51",
+    "updated_at": "2025-04-21T21:14:20"
   },
   {
     "name": "Vocalis",
@@ -25,7 +88,7 @@
     "description": "Speech-to-speech AI assistant with natural conversation flow, mid-speech interruption, vision capabilities and AI-initiated follow-ups. Features low-latency audio streaming, dynamic visual feedback, and works with local LLM/TTS services via OpenAI-compatible endpoints.",
     "url": "https://github.com/Lex-au/Vocalis",
     "stars": 96,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
       "artificial-intelligence",
@@ -37,171 +100,102 @@
     "updated_at": "2025-04-21T20:36:40"
   },
   {
-    "name": "OmniMind",
-    "full_name": "Techiral/OmniMind",
-    "description": "OmniMind: A plug-and-play Python library for effortless MCP server integration, powered by Google Gemini.",
-    "url": "https://github.com/Techiral/OmniMind",
-    "stars": 10,
-    "daily_stars": 1,
-    "language": "Python",
+    "name": "evolutionary-policy-optimization",
+    "full_name": "lucidrains/evolutionary-policy-optimization",
+    "description": "Pytorch implementation of Evolutionary Policy Optimization, from Wang et al. of the Robotics Institute at Carnegie Melon University",
+    "url": "https://github.com/lucidrains/evolutionary-policy-optimization",
+    "stars": 56,
+    "daily_stars": 0,
+    "language": null,
     "topics": [
-      "ai",
-      "ai-agents",
-      "anthropic",
       "artificial-intelligence",
-      "deepseek-r1",
-      "gemini",
-      "google-generative-ai",
-      "grok",
-      "hackathon",
-      "large-language-models",
-      "llm",
-      "mcp-client",
-      "mcp-server",
-      "model-context-protocol",
-      "open-source",
-      "openai",
-      "plug-and-play",
-      "python"
+      "deep-learning",
+      "genetic-algorithms",
+      "reinforcement-learning",
+      "robotics"
     ],
-    "created_at": "2025-04-05T14:07:15",
-    "updated_at": "2025-04-21T18:28:47"
+    "created_at": "2025-04-07T22:12:06",
+    "updated_at": "2025-04-21T17:56:16"
   },
   {
-    "name": "any-agent",
-    "full_name": "mozilla-ai/any-agent",
-    "description": "A single interface to different Agent frameworks",
-    "url": "https://github.com/mozilla-ai/any-agent",
-    "stars": 282,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "agent-evaluation",
-      "agent-frameworks",
-      "ai-agents",
-      "open-source"
-    ],
-    "created_at": "2025-03-25T08:14:43",
-    "updated_at": "2025-04-21T19:55:03"
-  },
-  {
-    "name": "secai",
-    "full_name": "pancsta/secai",
-    "description": "Smart graph for networks of autonomous AI Agents",
-    "url": "https://github.com/pancsta/secai",
-    "stars": 58,
-    "daily_stars": 1,
+    "name": "codegrab",
+    "full_name": "epilande/codegrab",
+    "description": "✋ Interactive CLI tool for selecting and bundling code into a single, LLM-ready output file",
+    "url": "https://github.com/epilande/codegrab",
+    "stars": 45,
+    "daily_stars": 0,
     "language": "Go",
     "topics": [
       "ai",
-      "ai-agents",
-      "asyncmachine",
-      "debugger",
-      "deepresearch",
-      "diagrams",
-      "graph",
-      "instructor",
+      "artificial-intelligence",
+      "bubbletea",
+      "bundle",
+      "cli",
+      "devtools",
+      "genai",
+      "go",
+      "golang",
       "llm",
-      "repl",
-      "sql"
+      "tui"
     ],
-    "created_at": "2025-04-13T19:06:36",
-    "updated_at": "2025-04-21T19:50:32"
+    "created_at": "2025-03-31T07:56:24",
+    "updated_at": "2025-04-19T20:44:46"
   },
   {
-    "name": "mcp-server-js",
-    "full_name": "yepcode/mcp-server-js",
-    "description": "An MCP (Model Context Protocol) server that enables ✨ AI platforms to interact with 🤖 YepCode's infrastructure.  Turn your YepCode processes into powerful tools that AI assistants can use 🚀",
-    "url": "https://github.com/yepcode/mcp-server-js",
-    "stars": 8,
-    "daily_stars": 1,
+    "name": "monitoring-llms-langfuse-ollama",
+    "full_name": "ErickWendel/monitoring-llms-langfuse-ollama",
+    "description": "Examples of how to monitor the OpenAI SDK calls using Langfuse",
+    "url": "https://github.com/ErickWendel/monitoring-llms-langfuse-ollama",
+    "stars": 17,
+    "daily_stars": 0,
     "language": "JavaScript",
     "topics": [
-      "agent",
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "mcp-server",
-      "yepcode"
+      "artificial-intelligence",
+      "docker",
+      "hostinger",
+      "langfuse",
+      "monitoring",
+      "ollama",
+      "openai"
     ],
-    "created_at": "2025-03-26T16:05:56",
-    "updated_at": "2025-04-21T19:19:27"
+    "created_at": "2025-04-05T15:30:58",
+    "updated_at": "2025-04-16T10:48:42"
   },
   {
-    "name": "codelogic-mcp-server",
-    "full_name": "CodeLogicIncEngineering/codelogic-mcp-server",
-    "description": "An MCP Server to utilize Codelogic's rich software dependency data in your AI programming assistant.",
-    "url": "https://github.com/CodeLogicIncEngineering/codelogic-mcp-server",
-    "stars": 7,
-    "daily_stars": 1,
+    "name": "awesomeagents",
+    "full_name": "evilsocket/awesomeagents",
+    "description": "Awesome AI Agents",
+    "url": "https://github.com/evilsocket/awesomeagents",
+    "stars": 16,
+    "daily_stars": 0,
+    "language": null,
+    "topics": [
+      "agentic-ai",
+      "agents",
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list"
+    ],
+    "created_at": "2025-03-28T19:16:10",
+    "updated_at": "2025-04-11T11:05:07"
+  },
+  {
+    "name": "awesome-daily-AI-arxiv",
+    "full_name": "Tavish9/awesome-daily-AI-arxiv",
+    "description": "🚀 Daily AI Research Digest: Tracking breakthroughs in AI/NLP/CV/Robotics with dynamic updates and paper navigation.",
+    "url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+    "stars": 14,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
-      "ai",
-      "ai-agents",
-      "coding",
-      "developer-tools",
-      "mcp-server"
+      "academic-paper",
+      "artificial-intelligence",
+      "arxiv",
+      "arxiv-papers",
+      "paper-digest",
+      "research-tools"
     ],
-    "created_at": "2025-04-02T13:11:29",
-    "updated_at": "2025-04-21T19:05:13"
-  },
-  {
-    "name": "avanzai_open",
-    "full_name": "GuillermoMalena/avanzai_open",
-    "description": "Open sourced repo so anyone can build AI agent powered financial analysis platform",
-    "url": "https://github.com/GuillermoMalena/avanzai_open",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "financial-analysis",
-      "financial-data",
-      "python",
-      "typescript"
-    ],
-    "created_at": "2025-03-24T01:36:56",
-    "updated_at": "2025-04-21T16:56:47"
-  },
-  {
-    "name": "k8s-mcp-server",
-    "full_name": "briankscheong/k8s-mcp-server",
-    "description": "The Kubernetes MCP Server is a Model Context Protocol (MCP) server that provides seamless integration with Kubernetes APIs, enabling advanced automation and interaction capabilities for developers, operators, and AI tools.",
-    "url": "https://github.com/briankscheong/k8s-mcp-server",
-    "stars": 2,
-    "daily_stars": 1,
-    "language": "Go",
-    "topics": [
-      "ai-agents",
-      "go",
-      "kubernetes",
-      "mcp",
-      "mcp-server",
-      "mcp-servers"
-    ],
-    "created_at": "2025-04-20T07:02:49",
-    "updated_at": "2025-04-21T18:10:03"
-  },
-  {
-    "name": "utkarshpy",
-    "full_name": "utkarshg1/utkarshpy",
-    "description": "UtkarshPy is a command‑line utility that automates the entire bootstrap of a new Python project—verifying your Python version, initializing a GitHub repository via the GitHub CLI, generating common files (.gitignore, LICENSE, README.md), bootstrapping a virtual environment and installing dependencies, and configuring VS Code workspace settings.",
-    "url": "https://github.com/utkarshg1/utkarshpy",
-    "stars": 2,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "automation",
-      "cli",
-      "dev-tools",
-      "github-integration",
-      "project-scaffolding",
-      "project-setup",
-      "python3",
-      "virtual-env",
-      "workflow"
-    ],
-    "created_at": "2025-04-01T13:57:54",
-    "updated_at": "2025-04-21T19:37:46"
+    "created_at": "2025-03-26T13:26:14",
+    "updated_at": "2025-04-21T06:36:15"
   }
 ]
