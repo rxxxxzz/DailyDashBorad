@@ -4,8 +4,8 @@
     "full_name": "aiaccess/ai-access",
     "description": "A flexible PHP library providing access to various AI models (Gemini, OpenAI, Anthropic, DeepSeek, Grok) via a consistent interface.",
     "url": "https://github.com/aiaccess/ai-access",
-    "stars": 14,
-    "daily_stars": 8,
+    "stars": 17,
+    "daily_stars": 3,
     "language": "PHP",
     "topics": [
       "ai",
@@ -22,15 +22,15 @@
       "openai"
     ],
     "created_at": "2025-04-11T15:23:01",
-    "updated_at": "2025-04-22T13:03:02"
+    "updated_at": "2025-04-22T14:36:58"
   },
   {
     "name": "any-agent",
     "full_name": "mozilla-ai/any-agent",
     "description": "A single interface to different Agent frameworks",
     "url": "https://github.com/mozilla-ai/any-agent",
-    "stars": 294,
-    "daily_stars": 3,
+    "stars": 296,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "agent-evaluation",
@@ -39,42 +39,14 @@
       "open-source"
     ],
     "created_at": "2025-03-25T08:14:43",
-    "updated_at": "2025-04-22T12:56:01"
-  },
-  {
-    "name": "Agent-Wiz",
-    "full_name": "Repello-AI/Agent-Wiz",
-    "description": "A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.",
-    "url": "https://github.com/Repello-AI/Agent-Wiz",
-    "stars": 174,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "ai",
-      "ai-agents",
-      "autogen",
-      "crewai",
-      "langraph",
-      "llama-index",
-      "n8n",
-      "openai",
-      "openai-agents-sdk",
-      "pydantic",
-      "security-tools",
-      "swarm",
-      "threat-modeling"
-    ],
-    "created_at": "2025-03-31T04:06:51",
-    "updated_at": "2025-04-22T10:17:17"
+    "updated_at": "2025-04-22T15:33:34"
   },
   {
     "name": "lightly-train",
     "full_name": "lightly-ai/lightly-train",
     "description": "LightlyTrain is the first PyTorch framework to pretrain computer vision models on unlabeled data for industrial applications",
     "url": "https://github.com/lightly-ai/lightly-train",
-    "stars": 247,
+    "stars": 249,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
@@ -91,14 +63,77 @@
       "self-supervised-learning"
     ],
     "created_at": "2025-04-10T08:23:51",
-    "updated_at": "2025-04-22T12:59:05"
+    "updated_at": "2025-04-22T14:37:46"
+  },
+  {
+    "name": "Vocalis",
+    "full_name": "Lex-au/Vocalis",
+    "description": "Speech-to-speech AI assistant with natural conversation flow, mid-speech interruption, vision capabilities and AI-initiated follow-ups. Features low-latency audio streaming, dynamic visual feedback, and works with local LLM/TTS services via OpenAI-compatible endpoints.",
+    "url": "https://github.com/Lex-au/Vocalis",
+    "stars": 97,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "artificial-intelligence",
+      "conversational-ai",
+      "speech-to-speech",
+      "visionprocessing"
+    ],
+    "created_at": "2025-03-30T13:36:53",
+    "updated_at": "2025-04-22T14:15:30"
+  },
+  {
+    "name": "NeoRefacer",
+    "full_name": "MechasAI/NeoRefacer",
+    "description": "Next-generation, fully open-source refacer. Images. GIFs. Full-length videos. Bulk refacing",
+    "url": "https://github.com/MechasAI/NeoRefacer",
+    "stars": 13,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "deep-learning",
+      "deepfake",
+      "faceswap",
+      "genai",
+      "gifs",
+      "image-manipulation",
+      "images",
+      "refacer",
+      "videos"
+    ],
+    "created_at": "2025-04-10T21:11:20",
+    "updated_at": "2025-04-22T13:53:36"
+  },
+  {
+    "name": "lightning-hydra-boilerplate",
+    "full_name": "willyfh/lightning-hydra-boilerplate",
+    "description": "A project boilerplate for deep learning experiments using PyTorch Lightning and Hydra, designed for rapid prototyping, clean configuration management, and scalable research workflows.",
+    "url": "https://github.com/willyfh/lightning-hydra-boilerplate",
+    "stars": 7,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "boilerplate",
+      "deep-learning",
+      "hydra",
+      "lightning",
+      "machine-learning",
+      "pytorch",
+      "pytorch-lightning",
+      "research-tool"
+    ],
+    "created_at": "2025-04-04T15:31:40",
+    "updated_at": "2025-04-22T14:54:27"
   },
   {
     "name": "browserable",
     "full_name": "browserable/browserable",
     "description": "Open source and self-hostable browser automation library for AI agents",
     "url": "https://github.com/browserable/browserable",
-    "stars": 510,
+    "stars": 511,
     "daily_stars": 1,
     "language": "JavaScript",
     "topics": [
@@ -109,110 +144,65 @@
       "playwright"
     ],
     "created_at": "2025-04-07T16:04:36",
-    "updated_at": "2025-04-22T10:18:31"
+    "updated_at": "2025-04-22T16:40:42"
   },
   {
-    "name": "open-operator-evals",
-    "full_name": "nottelabs/open-operator-evals",
-    "description": "Opensource benchmark evaluating web operators/agents performance",
-    "url": "https://github.com/nottelabs/open-operator-evals",
-    "stars": 10,
+    "name": "rulego-server",
+    "full_name": "rulego/rulego-server",
+    "description": "A lightweight dependency-free workflow automation platform. Supports iPaaS, stream computing, and AI capabilities. ",
+    "url": "https://github.com/rulego/rulego-server",
+    "stars": 27,
     "daily_stars": 1,
-    "language": "Python",
+    "language": "JavaScript",
+    "topics": [
+      "automation",
+      "mcp-server",
+      "rulego",
+      "workflow",
+      "workflow-engine"
+    ],
+    "created_at": "2025-04-01T08:26:17",
+    "updated_at": "2025-04-22T13:30:02"
+  },
+  {
+    "name": "X-ai-agent",
+    "full_name": "hireshBrem/X-ai-agent",
+    "description": "Interact with tweets autonomously using AI agents",
+    "url": "https://github.com/hireshBrem/X-ai-agent",
+    "stars": 1,
+    "daily_stars": 1,
+    "language": "TypeScript",
     "topics": [
       "ai-agents",
       "ai-tools",
       "browser-automation",
       "browser-use",
-      "computer-use",
-      "cua",
-      "llm",
-      "notte",
-      "web-agent"
+      "browserbase"
     ],
-    "created_at": "2025-04-08T13:25:01",
-    "updated_at": "2025-04-22T12:44:05"
+    "created_at": "2025-03-28T22:47:08",
+    "updated_at": "2025-04-22T14:03:13"
   },
   {
-    "name": "ML-Hyperparameter-Optimizer",
-    "full_name": "dev-sire/ML-Hyperparameter-Optimizer",
-    "description": "This web app was created to simplify the process of tuning machine learning models. It provides a clean and interactive interface to perform hyperparameter optimization for regression tasks using the Random Forest algorithm.",
-    "url": "https://github.com/dev-sire/ML-Hyperparameter-Optimizer",
-    "stars": 4,
+    "name": "Versatile-OCR-Program",
+    "full_name": "ses4255/Versatile-OCR-Program",
+    "description": "Multi-modal OCR pipeline optimized for ML training (text, math, tables, diagrams)",
+    "url": "https://github.com/ses4255/Versatile-OCR-Program",
+    "stars": 604,
     "daily_stars": 1,
-    "language": "Python",
+    "language": null,
     "topics": [
+      "doclayout",
+      "educational-data",
+      "exam-ocr",
       "machine-learning",
-      "python3",
-      "scikit-learn",
-      "streamlit"
+      "ml-datasets",
+      "multi-modal",
+      "ocr",
+      "openai",
+      "paper-ocr",
+      "table-parsing"
     ],
-    "created_at": "2025-04-20T18:13:28",
-    "updated_at": "2025-04-22T12:26:29"
-  },
-  {
-    "name": "Realtime-emotion-detector",
-    "full_name": "SusmoyNath/Realtime-emotion-detector",
-    "description": "A deep learning-based system that detects facial expressions from webcam input and classifies them into seven emotions — Angry, Disgust, Fear, Happy, Neutral, Sad, and Surprise — using a CNN model and OpenCV for real-time face detection.",
-    "url": "https://github.com/SusmoyNath/Realtime-emotion-detector",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "algorithms",
-      "convolutional-neural-networks",
-      "data-structures",
-      "emotion-detection",
-      "jupyter-notebook",
-      "keras",
-      "machine-learning",
-      "matplotlib",
-      "numpy",
-      "opencv",
-      "tensorflow"
-    ],
-    "created_at": "2025-04-20T03:03:58",
-    "updated_at": "2025-04-22T12:21:17"
-  },
-  {
-    "name": "LearnProg",
-    "full_name": "ChinmayBhattt/LearnProg",
-    "description": "LearnProg is a beginner-friendly programming repository with structured resources and hands-on coding exercises. Perfect for anyone looking to build a strong foundation in programming. ",
-    "url": "https://github.com/ChinmayBhattt/LearnProg",
-    "stars": 2,
-    "daily_stars": 1,
-    "language": "C++",
-    "topics": [
-      "cpp",
-      "css3",
-      "dsa-algorithm",
-      "html5",
-      "javascript",
-      "machine-learning",
-      "python"
-    ],
-    "created_at": "2025-03-24T14:08:00",
-    "updated_at": "2025-04-22T12:50:28"
-  },
-  {
-    "name": "OpenKimi",
-    "full_name": "Chieko-Seren/OpenKimi",
-    "description": "Unlimited context on any LLM ✨",
-    "url": "https://github.com/Chieko-Seren/OpenKimi",
-    "stars": 23,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "deep-learning",
-      "kimi",
-      "kimi-ai",
-      "llm",
-      "rag",
-      "vue",
-      "vuejs"
-    ],
-    "created_at": "2025-04-05T11:44:35",
-    "updated_at": "2025-04-22T10:32:36"
+    "created_at": "2025-04-01T08:52:45",
+    "updated_at": "2025-04-22T13:36:11"
   }
 ]
