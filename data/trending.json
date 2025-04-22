@@ -1,70 +1,11 @@
 [
   {
-    "name": "any-agent",
-    "full_name": "mozilla-ai/any-agent",
-    "description": "A single interface to different Agent frameworks",
-    "url": "https://github.com/mozilla-ai/any-agent",
-    "stars": 291,
-    "daily_stars": 7,
-    "language": "Python",
-    "topics": [
-      "agent-evaluation",
-      "agent-frameworks",
-      "ai-agents",
-      "open-source"
-    ],
-    "created_at": "2025-03-25T08:14:43",
-    "updated_at": "2025-04-22T08:22:53"
-  },
-  {
-    "name": "browserable",
-    "full_name": "browserable/browserable",
-    "description": "Open source and self-hostable browser automation library for AI agents",
-    "url": "https://github.com/browserable/browserable",
-    "stars": 509,
-    "daily_stars": 3,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "browser-automation",
-      "javascript",
-      "playwright"
-    ],
-    "created_at": "2025-04-07T16:04:36",
-    "updated_at": "2025-04-22T08:32:03"
-  },
-  {
-    "name": "lightly-train",
-    "full_name": "lightly-ai/lightly-train",
-    "description": "LightlyTrain is the first PyTorch framework to pretrain computer vision models on unlabeled data for industrial applications",
-    "url": "https://github.com/lightly-ai/lightly-train",
-    "stars": 245,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "computer-vision",
-      "contrastive-learning",
-      "deep-learning",
-      "distillation",
-      "embeddings",
-      "machine-learning",
-      "pretrained-models",
-      "python",
-      "pytorch",
-      "self-supervised",
-      "self-supervised-learning"
-    ],
-    "created_at": "2025-04-10T08:23:51",
-    "updated_at": "2025-04-22T08:35:35"
-  },
-  {
     "name": "ai-access",
     "full_name": "aiaccess/ai-access",
     "description": "A flexible PHP library providing access to various AI models (Gemini, OpenAI, Anthropic, DeepSeek, Grok) via a consistent interface.",
     "url": "https://github.com/aiaccess/ai-access",
-    "stars": 6,
-    "daily_stars": 1,
+    "stars": 14,
+    "daily_stars": 8,
     "language": "PHP",
     "topics": [
       "ai",
@@ -81,98 +22,123 @@
       "openai"
     ],
     "created_at": "2025-04-11T15:23:01",
-    "updated_at": "2025-04-22T08:42:32"
+    "updated_at": "2025-04-22T13:03:02"
   },
   {
-    "name": "saiki",
-    "full_name": "truffle-ai/saiki",
-    "description": "AI Agent to control computers, applications and services using natural language",
-    "url": "https://github.com/truffle-ai/saiki",
-    "stars": 89,
+    "name": "any-agent",
+    "full_name": "mozilla-ai/any-agent",
+    "description": "A single interface to different Agent frameworks",
+    "url": "https://github.com/mozilla-ai/any-agent",
+    "stars": 294,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "agent-evaluation",
+      "agent-frameworks",
+      "ai-agents",
+      "open-source"
+    ],
+    "created_at": "2025-03-25T08:14:43",
+    "updated_at": "2025-04-22T12:56:01"
+  },
+  {
+    "name": "Agent-Wiz",
+    "full_name": "Repello-AI/Agent-Wiz",
+    "description": "A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.",
+    "url": "https://github.com/Repello-AI/Agent-Wiz",
+    "stars": 174,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "autogen",
+      "crewai",
+      "langraph",
+      "llama-index",
+      "n8n",
+      "openai",
+      "openai-agents-sdk",
+      "pydantic",
+      "security-tools",
+      "swarm",
+      "threat-modeling"
+    ],
+    "created_at": "2025-03-31T04:06:51",
+    "updated_at": "2025-04-22T10:17:17"
+  },
+  {
+    "name": "lightly-train",
+    "full_name": "lightly-ai/lightly-train",
+    "description": "LightlyTrain is the first PyTorch framework to pretrain computer vision models on unlabeled data for industrial applications",
+    "url": "https://github.com/lightly-ai/lightly-train",
+    "stars": 247,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "computer-vision",
+      "contrastive-learning",
+      "deep-learning",
+      "distillation",
+      "embeddings",
+      "machine-learning",
+      "pretrained-models",
+      "python",
+      "pytorch",
+      "self-supervised",
+      "self-supervised-learning"
+    ],
+    "created_at": "2025-04-10T08:23:51",
+    "updated_at": "2025-04-22T12:59:05"
+  },
+  {
+    "name": "browserable",
+    "full_name": "browserable/browserable",
+    "description": "Open source and self-hostable browser automation library for AI agents",
+    "url": "https://github.com/browserable/browserable",
+    "stars": 510,
     "daily_stars": 1,
-    "language": "TypeScript",
+    "language": "JavaScript",
     "topics": [
       "ai-agents",
       "ai-tools",
-      "llm",
-      "mcp",
-      "modelcontextprotocol",
-      "typescript"
+      "browser-automation",
+      "javascript",
+      "playwright"
     ],
-    "created_at": "2025-03-24T22:49:13",
-    "updated_at": "2025-04-22T05:59:48"
+    "created_at": "2025-04-07T16:04:36",
+    "updated_at": "2025-04-22T10:18:31"
   },
   {
-    "name": "amazon-mcp",
-    "full_name": "Fewsats/amazon-mcp",
-    "description": "Amazon MCP server to search & buy products using the L402",
-    "url": "https://github.com/Fewsats/amazon-mcp",
-    "stars": 4,
+    "name": "open-operator-evals",
+    "full_name": "nottelabs/open-operator-evals",
+    "description": "Opensource benchmark evaluating web operators/agents performance",
+    "url": "https://github.com/nottelabs/open-operator-evals",
+    "stars": 10,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai-agents",
-      "aiagents",
-      "e-commerce",
+      "ai-tools",
+      "browser-automation",
+      "browser-use",
+      "computer-use",
+      "cua",
       "llm",
-      "mcp",
-      "mcp-server",
-      "shopping"
+      "notte",
+      "web-agent"
     ],
-    "created_at": "2025-04-01T08:18:58",
-    "updated_at": "2025-04-22T05:15:49"
-  },
-  {
-    "name": "Versatile-OCR-Program",
-    "full_name": "ses4255/Versatile-OCR-Program",
-    "description": "Multi-modal OCR pipeline optimized for ML training (text, math, tables, diagrams)",
-    "url": "https://github.com/ses4255/Versatile-OCR-Program",
-    "stars": 603,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "doclayout",
-      "educational-data",
-      "exam-ocr",
-      "machine-learning",
-      "ml-datasets",
-      "multi-modal",
-      "ocr",
-      "openai",
-      "paper-ocr",
-      "table-parsing"
-    ],
-    "created_at": "2025-04-01T08:52:45",
-    "updated_at": "2025-04-22T06:05:41"
-  },
-  {
-    "name": "dex",
-    "full_name": "attentionmech/dex",
-    "description": "Visual pokedex for LLMs",
-    "url": "https://github.com/attentionmech/dex",
-    "stars": 11,
-    "daily_stars": 1,
-    "language": "JavaScript",
-    "topics": [
-      "architectures",
-      "interactive",
-      "interactive-visualizations",
-      "large-language-models",
-      "llms",
-      "machine-learning",
-      "models",
-      "visualization",
-      "webapp"
-    ],
-    "created_at": "2025-04-04T02:03:25",
-    "updated_at": "2025-04-22T05:28:12"
+    "created_at": "2025-04-08T13:25:01",
+    "updated_at": "2025-04-22T12:44:05"
   },
   {
     "name": "ML-Hyperparameter-Optimizer",
     "full_name": "dev-sire/ML-Hyperparameter-Optimizer",
     "description": "This web app was created to simplify the process of tuning machine learning models. It provides a clean and interactive interface to perform hyperparameter optimization for regression tasks using the Random Forest algorithm.",
     "url": "https://github.com/dev-sire/ML-Hyperparameter-Optimizer",
-    "stars": 3,
+    "stars": 4,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -182,21 +148,71 @@
       "streamlit"
     ],
     "created_at": "2025-04-20T18:13:28",
-    "updated_at": "2025-04-22T07:31:10"
+    "updated_at": "2025-04-22T12:26:29"
   },
   {
-    "name": "tensorlens",
-    "full_name": "attentionmech/tensorlens",
-    "description": "TensorLens",
-    "url": "https://github.com/attentionmech/tensorlens",
-    "stars": 13,
+    "name": "Realtime-emotion-detector",
+    "full_name": "SusmoyNath/Realtime-emotion-detector",
+    "description": "A deep learning-based system that detects facial expressions from webcam input and classifies them into seven emotions — Angry, Disgust, Fear, Happy, Neutral, Sad, and Surprise — using a CNN model and OpenCV for real-time face detection.",
+    "url": "https://github.com/SusmoyNath/Realtime-emotion-detector",
+    "stars": 3,
     "daily_stars": 1,
     "language": "Jupyter Notebook",
     "topics": [
-      "deep-learning",
-      "visualisation"
+      "algorithms",
+      "convolutional-neural-networks",
+      "data-structures",
+      "emotion-detection",
+      "jupyter-notebook",
+      "keras",
+      "machine-learning",
+      "matplotlib",
+      "numpy",
+      "opencv",
+      "tensorflow"
     ],
-    "created_at": "2025-04-12T16:11:04",
-    "updated_at": "2025-04-22T04:53:08"
+    "created_at": "2025-04-20T03:03:58",
+    "updated_at": "2025-04-22T12:21:17"
+  },
+  {
+    "name": "LearnProg",
+    "full_name": "ChinmayBhattt/LearnProg",
+    "description": "LearnProg is a beginner-friendly programming repository with structured resources and hands-on coding exercises. Perfect for anyone looking to build a strong foundation in programming. ",
+    "url": "https://github.com/ChinmayBhattt/LearnProg",
+    "stars": 2,
+    "daily_stars": 1,
+    "language": "C++",
+    "topics": [
+      "cpp",
+      "css3",
+      "dsa-algorithm",
+      "html5",
+      "javascript",
+      "machine-learning",
+      "python"
+    ],
+    "created_at": "2025-03-24T14:08:00",
+    "updated_at": "2025-04-22T12:50:28"
+  },
+  {
+    "name": "OpenKimi",
+    "full_name": "Chieko-Seren/OpenKimi",
+    "description": "Unlimited context on any LLM ✨",
+    "url": "https://github.com/Chieko-Seren/OpenKimi",
+    "stars": 23,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "deep-learning",
+      "kimi",
+      "kimi-ai",
+      "llm",
+      "rag",
+      "vue",
+      "vuejs"
+    ],
+    "created_at": "2025-04-05T11:44:35",
+    "updated_at": "2025-04-22T10:32:36"
   }
 ]
