@@ -1,53 +1,46 @@
 [
   {
-    "name": "any-agent",
-    "full_name": "mozilla-ai/any-agent",
-    "description": "A single interface to different Agent frameworks",
-    "url": "https://github.com/mozilla-ai/any-agent",
-    "stars": 302,
-    "daily_stars": 3,
-    "language": "Python",
+    "name": "browserable",
+    "full_name": "browserable/browserable",
+    "description": "Open source and self-hostable browser automation library for AI agents",
+    "url": "https://github.com/browserable/browserable",
+    "stars": 518,
+    "daily_stars": 4,
+    "language": "JavaScript",
     "topics": [
-      "agent-evaluation",
-      "agent-frameworks",
       "ai-agents",
-      "open-source"
+      "ai-tools",
+      "browser-automation",
+      "javascript",
+      "playwright"
     ],
-    "created_at": "2025-03-25T08:14:43",
-    "updated_at": "2025-04-23T01:15:34"
+    "created_at": "2025-04-07T16:04:36",
+    "updated_at": "2025-04-23T04:25:14"
   },
   {
-    "name": "ai-access",
-    "full_name": "aiaccess/ai-access",
-    "description": "A flexible PHP library providing access to various AI models (Gemini, OpenAI, Anthropic, DeepSeek, Grok) via a consistent interface.",
-    "url": "https://github.com/aiaccess/ai-access",
-    "stars": 22,
-    "daily_stars": 2,
-    "language": "PHP",
+    "name": "Vocalis",
+    "full_name": "Lex-au/Vocalis",
+    "description": "Speech-to-speech AI assistant with natural conversation flow, mid-speech interruption, vision capabilities and AI-initiated follow-ups. Features low-latency audio streaming, dynamic visual feedback, and works with local LLM/TTS services via OpenAI-compatible endpoints.",
+    "url": "https://github.com/Lex-au/Vocalis",
+    "stars": 98,
+    "daily_stars": 1,
+    "language": "TypeScript",
     "topics": [
-      "ai",
-      "anthropic",
-      "api",
       "artificial-intelligence",
-      "chatbot",
-      "client",
-      "deepseek",
-      "gemini",
-      "grok",
-      "large-language-model",
-      "llm",
-      "openai"
+      "conversational-ai",
+      "speech-to-speech",
+      "visionprocessing"
     ],
-    "created_at": "2025-04-11T15:23:01",
-    "updated_at": "2025-04-22T21:53:23"
+    "created_at": "2025-03-30T13:36:53",
+    "updated_at": "2025-04-23T02:25:25"
   },
   {
     "name": "awesome-google-adk",
     "full_name": "tsubasakong/awesome-google-adk",
     "description": "A curated list of awesome resources for Google's Agent Development Kit (ADK)",
     "url": "https://github.com/tsubasakong/awesome-google-adk",
-    "stars": 5,
-    "daily_stars": 2,
+    "stars": 6,
+    "daily_stars": 1,
     "language": null,
     "topics": [
       "agent-development-kit",
@@ -58,31 +51,110 @@
       "multi-agent-systems"
     ],
     "created_at": "2025-04-19T06:52:24",
-    "updated_at": "2025-04-23T01:27:17"
+    "updated_at": "2025-04-23T04:20:18"
   },
   {
-    "name": "lightly-train",
-    "full_name": "lightly-ai/lightly-train",
-    "description": "LightlyTrain is the first PyTorch framework to pretrain computer vision models on unlabeled data for industrial applications",
-    "url": "https://github.com/lightly-ai/lightly-train",
-    "stars": 253,
-    "daily_stars": 2,
+    "name": "any-agent",
+    "full_name": "mozilla-ai/any-agent",
+    "description": "A single interface to different Agent frameworks",
+    "url": "https://github.com/mozilla-ai/any-agent",
+    "stars": 303,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "computer-vision",
-      "contrastive-learning",
-      "deep-learning",
-      "distillation",
-      "embeddings",
-      "machine-learning",
-      "pretrained-models",
-      "python",
-      "pytorch",
-      "self-supervised",
-      "self-supervised-learning"
+      "agent-evaluation",
+      "agent-frameworks",
+      "ai-agents",
+      "open-source"
     ],
-    "created_at": "2025-04-10T08:23:51",
-    "updated_at": "2025-04-23T01:15:49"
+    "created_at": "2025-03-25T08:14:43",
+    "updated_at": "2025-04-23T03:42:38"
+  },
+  {
+    "name": "docext",
+    "full_name": "NanoNets/docext",
+    "description": "An on-premises unstructured data extraction tool powered by vision language models.",
+    "url": "https://github.com/NanoNets/docext",
+    "stars": 105,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "document",
+      "document-analysis",
+      "document-data-extraction",
+      "extraction",
+      "llm-ocr",
+      "llms",
+      "machine-learning",
+      "nlp",
+      "ocr",
+      "ocr-onpremise",
+      "onprem",
+      "onprem-ocr",
+      "onprem-vision",
+      "onpremise",
+      "pdf-extractor",
+      "rag",
+      "unstructured-data",
+      "vlms"
+    ],
+    "created_at": "2025-03-25T03:56:46",
+    "updated_at": "2025-04-23T02:15:51"
+  },
+  {
+    "name": "tensorweaver",
+    "full_name": "howl-anderson/tensorweaver",
+    "description": "A modern educational deep learning framework for students, engineers and researchers",
+    "url": "https://github.com/howl-anderson/tensorweaver",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "deep-learning",
+      "deep-learning-framework",
+      "educational-project",
+      "machine-learning",
+      "machine-learning-framework"
+    ],
+    "created_at": "2025-04-06T18:13:22",
+    "updated_at": "2025-04-23T02:52:08"
+  },
+  {
+    "name": "gostage",
+    "full_name": "davidroman0O/gostage",
+    "description": "Action/Stage based workflow engine",
+    "url": "https://github.com/davidroman0O/gostage",
+    "stars": 1,
+    "daily_stars": 1,
+    "language": "Go",
+    "topics": [
+      "orchestration",
+      "workflow",
+      "workflow-automation",
+      "workflow-engine",
+      "workflow-tool",
+      "workflows"
+    ],
+    "created_at": "2025-04-20T14:12:03",
+    "updated_at": "2025-04-23T02:24:17"
+  },
+  {
+    "name": "evolutionary-policy-optimization",
+    "full_name": "lucidrains/evolutionary-policy-optimization",
+    "description": "Pytorch implementation of Evolutionary Policy Optimization, from Wang et al. of the Robotics Institute at Carnegie Melon University",
+    "url": "https://github.com/lucidrains/evolutionary-policy-optimization",
+    "stars": 56,
+    "daily_stars": 0,
+    "language": null,
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "genetic-algorithms",
+      "reinforcement-learning",
+      "robotics"
+    ],
+    "created_at": "2025-04-07T22:12:06",
+    "updated_at": "2025-04-22T18:00:12"
   },
   {
     "name": "codegrab",
@@ -90,7 +162,7 @@
     "description": "✋ Interactive CLI tool for selecting and bundling code into a single, LLM-ready output file",
     "url": "https://github.com/epilande/codegrab",
     "stars": 47,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Go",
     "topics": [
       "ai",
@@ -109,101 +181,28 @@
     "updated_at": "2025-04-22T22:31:30"
   },
   {
-    "name": "lightning-hydra-boilerplate",
-    "full_name": "willyfh/lightning-hydra-boilerplate",
-    "description": "A project boilerplate for deep learning experiments using PyTorch Lightning and Hydra, designed for rapid prototyping, clean configuration management, and scalable research workflows.",
-    "url": "https://github.com/willyfh/lightning-hydra-boilerplate",
-    "stars": 8,
-    "daily_stars": 1,
-    "language": "Python",
+    "name": "ai-access",
+    "full_name": "aiaccess/ai-access",
+    "description": "A flexible PHP library providing access to various AI models (Gemini, OpenAI, Anthropic, DeepSeek, Grok) via a consistent interface.",
+    "url": "https://github.com/aiaccess/ai-access",
+    "stars": 22,
+    "daily_stars": 0,
+    "language": "PHP",
     "topics": [
-      "artificial-intelligence",
-      "boilerplate",
-      "deep-learning",
-      "hydra",
-      "lightning",
-      "machine-learning",
-      "pytorch",
-      "pytorch-lightning",
-      "research-tool"
-    ],
-    "created_at": "2025-04-04T15:31:40",
-    "updated_at": "2025-04-22T23:49:50"
-  },
-  {
-    "name": "browserable",
-    "full_name": "browserable/browserable",
-    "description": "Open source and self-hostable browser automation library for AI agents",
-    "url": "https://github.com/browserable/browserable",
-    "stars": 514,
-    "daily_stars": 1,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "browser-automation",
-      "javascript",
-      "playwright"
-    ],
-    "created_at": "2025-04-07T16:04:36",
-    "updated_at": "2025-04-22T21:18:09"
-  },
-  {
-    "name": "baml-agents",
-    "full_name": "Elijas/baml-agents",
-    "description": "12‑Factor AI Agents: BAML‑powered structured generation & plug‑and‑play MCP tools",
-    "url": "https://github.com/Elijas/baml-agents",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "12-factor",
-      "12-factor-agents",
       "ai",
-      "ai-agents",
-      "ai-agents-framework",
-      "baml",
-      "context-window",
-      "framework",
-      "llms",
-      "mcp-client",
-      "memory",
-      "orchestration",
-      "rag",
-      "structured-generation"
+      "anthropic",
+      "api",
+      "artificial-intelligence",
+      "chatbot",
+      "client",
+      "deepseek",
+      "gemini",
+      "grok",
+      "large-language-model",
+      "llm",
+      "openai"
     ],
-    "created_at": "2025-04-18T17:37:04",
-    "updated_at": "2025-04-23T01:07:31"
-  },
-  {
-    "name": "tensorlens",
-    "full_name": "attentionmech/tensorlens",
-    "description": "TensorLens",
-    "url": "https://github.com/attentionmech/tensorlens",
-    "stars": 14,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "deep-learning",
-      "visualisation"
-    ],
-    "created_at": "2025-04-12T16:11:04",
-    "updated_at": "2025-04-22T22:15:36"
-  },
-  {
-    "name": "workflow-go",
-    "full_name": "upstash/workflow-go",
-    "description": "Durable, Reliable and Performant Serverless Functions",
-    "url": "https://github.com/upstash/workflow-go",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "Go",
-    "topics": [
-      "qstash",
-      "upstash",
-      "workflow"
-    ],
-    "created_at": "2025-04-17T08:26:45",
-    "updated_at": "2025-04-22T20:46:21"
+    "created_at": "2025-04-11T15:23:01",
+    "updated_at": "2025-04-22T21:53:23"
   }
 ]
