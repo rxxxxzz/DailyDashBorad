@@ -1,11 +1,35 @@
 [
   {
+    "name": "Agentfy",
+    "full_name": "Agentfy-io/Agentfy",
+    "description": "🤖 Agentfy is a modular microservices architecture designed to process user requests and execute workflows across multiple social media platforms. The system leverages LLM capabilities to dynamically match user needs with appropriate agents and functions.",
+    "url": "https://github.com/Agentfy-io/Agentfy",
+    "stars": 59,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "model-context-protocol",
+      "multi-agent-systems",
+      "openai",
+      "prompt-engineering-tool",
+      "python",
+      "social-media-app",
+      "social-media-automation",
+      "tikhub",
+      "workflow-automation"
+    ],
+    "created_at": "2025-04-06T04:16:22",
+    "updated_at": "2025-04-24T19:30:01"
+  },
+  {
     "name": "ICon",
     "full_name": "ShadeAlsha/ICon",
     "description": "ICLR 2025",
     "url": "https://github.com/ShadeAlsha/ICon",
-    "stars": 24,
-    "daily_stars": 3,
+    "stars": 26,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "computer-vision",
@@ -13,58 +37,14 @@
       "representation-learning"
     ],
     "created_at": "2025-04-15T06:18:15",
-    "updated_at": "2025-04-24T16:20:57"
-  },
-  {
-    "name": "kodus-ai",
-    "full_name": "kodustech/kodus-ai",
-    "description": "Open source AI code reviews — just like your senior dev would do.",
-    "url": "https://github.com/kodustech/kodus-ai",
-    "stars": 321,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-code-review",
-      "ai-coding-tools",
-      "code-review",
-      "coding-assistant",
-      "generative-ai"
-    ],
-    "created_at": "2025-03-28T17:05:19",
-    "updated_at": "2025-04-24T16:25:43"
-  },
-  {
-    "name": "lightly-train",
-    "full_name": "lightly-ai/lightly-train",
-    "description": "LightlyTrain is the first PyTorch framework to pretrain computer vision models on unlabeled data for industrial applications",
-    "url": "https://github.com/lightly-ai/lightly-train",
-    "stars": 257,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "computer-vision",
-      "contrastive-learning",
-      "deep-learning",
-      "distillation",
-      "embeddings",
-      "machine-learning",
-      "pretrained-models",
-      "python",
-      "pytorch",
-      "self-supervised",
-      "self-supervised-learning"
-    ],
-    "created_at": "2025-04-10T08:23:51",
-    "updated_at": "2025-04-24T15:43:02"
+    "updated_at": "2025-04-24T20:18:02"
   },
   {
     "name": "sinapsis-object-detection",
     "full_name": "Sinapsis-AI/sinapsis-object-detection",
     "description": "Mono repo with sinapsis templates for object detection ",
     "url": "https://github.com/Sinapsis-AI/sinapsis-object-detection",
-    "stars": 14,
+    "stars": 16,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
@@ -76,129 +56,158 @@
       "sinapsis"
     ],
     "created_at": "2025-03-29T20:19:04",
-    "updated_at": "2025-04-24T16:17:03"
+    "updated_at": "2025-04-24T17:10:13"
   },
   {
-    "name": "SimpleLLMFunc",
-    "full_name": "NiJingzhe/SimpleLLMFunc",
-    "description": "一个简单的恰到好处LLM应用框架，能够让你以最“Code Center“的方式无缝集成LLM能力",
-    "url": "https://github.com/NiJingzhe/SimpleLLMFunc",
-    "stars": 30,
-    "daily_stars": 2,
-    "language": "Python",
+    "name": "Vocalis",
+    "full_name": "Lex-au/Vocalis",
+    "description": "Speech-to-speech AI assistant with natural conversation flow, mid-speech interruption, vision capabilities and AI-initiated follow-ups. Features low-latency audio streaming, dynamic visual feedback, and works with local LLM/TTS services via OpenAI-compatible endpoints.",
+    "url": "https://github.com/Lex-au/Vocalis",
+    "stars": 100,
+    "daily_stars": 1,
+    "language": "TypeScript",
     "topics": [
-      "ai",
-      "aigc",
-      "framework",
-      "llm",
-      "llm-framework",
-      "llmfunc",
-      "workflow"
+      "artificial-intelligence",
+      "conversational-ai",
+      "speech-to-speech",
+      "visionprocessing"
     ],
-    "created_at": "2025-04-16T17:48:01",
-    "updated_at": "2025-04-24T14:21:38"
+    "created_at": "2025-03-30T13:36:53",
+    "updated_at": "2025-04-24T18:59:34"
   },
   {
-    "name": "awesome-google-adk",
-    "full_name": "tsubasakong/awesome-google-adk",
-    "description": "A curated list of awesome resources for Google's Agent Development Kit (ADK)",
-    "url": "https://github.com/tsubasakong/awesome-google-adk",
-    "stars": 11,
+    "name": "model_context_protocol_training",
+    "full_name": "jakeyShakey/model_context_protocol_training",
+    "description": "A Slidev presentation and developer guide to the Model Context Protocol (MCP) by Anthropic, covering AI integration, LLM tool use, core concepts, and implementation examples for AI agents. #mcp #a",
+    "url": "https://github.com/jakeyShakey/model_context_protocol_training",
+    "stars": 1,
     "daily_stars": 1,
     "language": null,
     "topics": [
-      "agent-development-kit",
       "ai-agents",
+      "ai-integration",
+      "ai-protocol",
+      "anthropic",
+      "api-standard",
       "artificial-intelligence",
-      "awesome-list",
-      "google-adk",
-      "multi-agent-systems"
+      "claude",
+      "developer-guide",
+      "llm",
+      "llm-tools",
+      "mcp",
+      "model-context-protocol",
+      "open-source",
+      "presentation",
+      "slidev",
+      "tool-integration"
     ],
-    "created_at": "2025-04-19T06:52:24",
-    "updated_at": "2025-04-24T14:29:18"
+    "created_at": "2025-04-23T10:26:55",
+    "updated_at": "2025-04-24T17:23:00"
   },
   {
-    "name": "scirs",
-    "full_name": "cool-japan/scirs",
-    "description": "SciRS2 - Scientific Computing and AI in Rust",
-    "url": "https://github.com/cool-japan/scirs",
-    "stars": 5,
+    "name": "linkedin-saved-posts-ai",
+    "full_name": "BjornMelin/linkedin-saved-posts-ai",
+    "description": "Scrape, classify & chat over your LinkedIn Saved Posts with Supabase, pgvector, Vercel Edge Functions, Playwright MCP and OpenRouter + OpenAI LLMs.",
+    "url": "https://github.com/BjornMelin/linkedin-saved-posts-ai",
+    "stars": 1,
     "daily_stars": 1,
-    "language": "Rust",
+    "language": null,
     "topics": [
       "ai",
-      "artificial-intelligence",
-      "data-analysis",
-      "data-science",
-      "fft",
-      "linalg",
-      "machine-learning",
-      "ml",
-      "neural-network",
-      "numpy",
-      "pandas",
-      "rust",
-      "rust-lang",
-      "science",
-      "scientific",
-      "scipy",
-      "statistics"
-    ],
-    "created_at": "2025-04-12T10:47:07",
-    "updated_at": "2025-04-24T14:50:17"
-  },
-  {
-    "name": "browserable",
-    "full_name": "browserable/browserable",
-    "description": "Open source and self-hostable browser automation library for AI agents",
-    "url": "https://github.com/browserable/browserable",
-    "stars": 526,
-    "daily_stars": 1,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "browser-automation",
-      "javascript",
-      "playwright"
-    ],
-    "created_at": "2025-04-07T16:04:36",
-    "updated_at": "2025-04-24T14:36:24"
-  },
-  {
-    "name": "interactive-browser-use",
-    "full_name": "Cofounder-Labs/interactive-browser-use",
-    "description": "Make Browser Use Interactive!",
-    "url": "https://github.com/Cofounder-Labs/interactive-browser-use",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
       "ai-agents",
       "browser-use",
-      "llm",
-      "playright",
-      "python"
+      "firecrawl",
+      "gemini",
+      "linkedin",
+      "nextjs",
+      "openai",
+      "openai-agents-sdk",
+      "openrouter",
+      "pgvector",
+      "playwright",
+      "rag",
+      "saved-posts",
+      "supabase",
+      "typescript",
+      "vector-search",
+      "vercel"
     ],
-    "created_at": "2025-04-10T17:26:29",
-    "updated_at": "2025-04-24T13:15:15"
+    "created_at": "2025-04-24T06:02:47",
+    "updated_at": "2025-04-24T18:30:14"
   },
   {
-    "name": "mav",
-    "full_name": "attentionmech/mav",
-    "description": "mav",
-    "url": "https://github.com/attentionmech/mav",
-    "stars": 438,
+    "name": "boson",
+    "full_name": "bosonstack/boson",
+    "description": "A self-contained, lightweight and OOB research platform for modern ML",
+    "url": "https://github.com/bosonstack/boson",
+    "stars": 17,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "data-science",
+      "deltalake",
+      "jupyter",
+      "machine-learning",
+      "mlops",
+      "polars"
+    ],
+    "created_at": "2025-04-19T10:57:15",
+    "updated_at": "2025-04-24T17:23:21"
+  },
+  {
+    "name": "Self-Driving-Using-Deep-learning",
+    "full_name": "alihassanml/Self-Driving-Using-Deep-learning",
+    "description": "Self Driving Using Deep learning",
+    "url": "https://github.com/alihassanml/Self-Driving-Using-Deep-learning",
+    "stars": 21,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "cnn",
+      "computer-vision",
+      "deep",
+      "deep-learning",
+      "self-driving-car",
+      "udacity"
+    ],
+    "created_at": "2025-04-05T09:37:16",
+    "updated_at": "2025-04-24T19:29:30"
+  },
+  {
+    "name": "tensorlens",
+    "full_name": "attentionmech/tensorlens",
+    "description": "TensorLens",
+    "url": "https://github.com/attentionmech/tensorlens",
+    "stars": 16,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "deep-learning",
+      "visualisation"
+    ],
+    "created_at": "2025-04-12T16:11:04",
+    "updated_at": "2025-04-24T19:39:10"
+  },
+  {
+    "name": "docling-OCR-OnnxTR",
+    "full_name": "felixdittrich92/docling-OCR-OnnxTR",
+    "description": "OnnxTR OCR plugin for Docling",
+    "url": "https://github.com/felixdittrich92/docling-OCR-OnnxTR",
+    "stars": 2,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "large-language-models",
-      "llm-inference",
-      "machine-learning",
-      "terminal-app",
-      "visualization"
+      "deep-learning",
+      "docling",
+      "document-processing",
+      "ocr",
+      "onnx",
+      "onnxruntime",
+      "onnxtr",
+      "text-detection",
+      "text-recognition"
     ],
-    "created_at": "2025-03-26T23:54:39",
-    "updated_at": "2025-04-24T13:25:21"
+    "created_at": "2025-04-08T13:15:37",
+    "updated_at": "2025-04-24T19:12:50"
   }
 ]
