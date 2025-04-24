@@ -4,8 +4,8 @@
     "full_name": "Agentfy-io/Agentfy",
     "description": "🤖 Agentfy is a modular microservices architecture designed to process user requests and execute workflows across multiple social media platforms. The system leverages LLM capabilities to dynamically match user needs with appropriate agents and functions.",
     "url": "https://github.com/Agentfy-io/Agentfy",
-    "stars": 48,
-    "daily_stars": 4,
+    "stars": 51,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -21,89 +21,111 @@
       "workflow-automation"
     ],
     "created_at": "2025-04-06T04:16:22",
-    "updated_at": "2025-04-23T20:30:56"
+    "updated_at": "2025-04-24T01:35:37"
   },
   {
-    "name": "browserable",
-    "full_name": "browserable/browserable",
-    "description": "Open source and self-hostable browser automation library for AI agents",
-    "url": "https://github.com/browserable/browserable",
-    "stars": 521,
-    "daily_stars": 2,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "browser-automation",
-      "javascript",
-      "playwright"
-    ],
-    "created_at": "2025-04-07T16:04:36",
-    "updated_at": "2025-04-23T18:37:46"
-  },
-  {
-    "name": "ai-access",
-    "full_name": "aiaccess/ai-access",
-    "description": "A flexible PHP library providing access to various AI models (Gemini, OpenAI, Anthropic, DeepSeek, Grok) via a consistent interface.",
-    "url": "https://github.com/aiaccess/ai-access",
-    "stars": 31,
-    "daily_stars": 1,
-    "language": "PHP",
-    "topics": [
-      "ai",
-      "anthropic",
-      "api",
-      "artificial-intelligence",
-      "chatbot",
-      "client",
-      "deepseek",
-      "gemini",
-      "grok",
-      "large-language-model",
-      "llm",
-      "openai"
-    ],
-    "created_at": "2025-04-11T15:23:01",
-    "updated_at": "2025-04-23T18:15:35"
-  },
-  {
-    "name": "UnisonAI",
-    "full_name": "UnisonAIInc/UnisonAI",
-    "description": "The UnisonAI Multi-Agent Framework (A2A) provides a flexible and extensible environment for creating and coordinating multiple autonomous AI agents.  UnisonAI is designed with flexibility and scalability in mind.",
-    "url": "https://github.com/UnisonAIInc/UnisonAI",
-    "stars": 8,
-    "daily_stars": 1,
+    "name": "ICon",
+    "full_name": "ShadeAlsha/ICon",
+    "description": "ICLR 2025",
+    "url": "https://github.com/ShadeAlsha/ICon",
+    "stars": 5,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
-      "a2a",
-      "agent",
-      "agent-framework",
-      "agentic-ai",
-      "agents",
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "aiagentframework",
-      "aiagentic",
-      "aiagentsframework",
-      "artificial-intelligence",
-      "llm",
-      "llms",
-      "multi-agent",
-      "multi-agent-systems",
-      "open-source",
-      "python",
-      "unisonai"
+      "computer-vision",
+      "machine-learning",
+      "representation-learning"
     ],
-    "created_at": "2025-04-04T07:15:22",
-    "updated_at": "2025-04-23T18:23:10"
+    "created_at": "2025-04-15T06:18:15",
+    "updated_at": "2025-04-24T01:52:18"
+  },
+  {
+    "name": "mcp-manager",
+    "full_name": "nstebbins/mcp-manager",
+    "description": "CLI tool for managing Model Context Protocol (MCP) servers in one place & using them across them different clients",
+    "url": "https://github.com/nstebbins/mcp-manager",
+    "stars": 6,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "cli",
+      "mcp",
+      "mcp-client",
+      "mcp-server",
+      "model-context-protocol",
+      "open-source"
+    ],
+    "created_at": "2025-04-21T01:41:20",
+    "updated_at": "2025-04-23T21:58:30"
+  },
+  {
+    "name": "boson",
+    "full_name": "bosonstack/boson",
+    "description": "A self-contained, lightweight and OOB research platform for modern ML",
+    "url": "https://github.com/bosonstack/boson",
+    "stars": 10,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "data-science",
+      "deltalake",
+      "jupyter",
+      "machine-learning",
+      "mlops",
+      "polars"
+    ],
+    "created_at": "2025-04-19T10:57:15",
+    "updated_at": "2025-04-24T01:21:33"
+  },
+  {
+    "name": "koharu",
+    "full_name": "mayocream/koharu",
+    "description": "Automated manga translation tool with LLM, written in Rust.",
+    "url": "https://github.com/mayocream/koharu",
+    "stars": 105,
+    "daily_stars": 2,
+    "language": "Rust",
+    "topics": [
+      "deep-learning",
+      "manga",
+      "react",
+      "rust",
+      "tauri"
+    ],
+    "created_at": "2025-04-09T10:52:34",
+    "updated_at": "2025-04-23T23:55:16"
+  },
+  {
+    "name": "codegrab",
+    "full_name": "epilande/codegrab",
+    "description": "✋ Interactive CLI tool for selecting and bundling code into a single, LLM-ready output file",
+    "url": "https://github.com/epilande/codegrab",
+    "stars": 48,
+    "daily_stars": 1,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "bubbletea",
+      "bundle",
+      "cli",
+      "devtools",
+      "genai",
+      "go",
+      "golang",
+      "llm",
+      "tui"
+    ],
+    "created_at": "2025-03-31T07:56:24",
+    "updated_at": "2025-04-23T23:24:40"
   },
   {
     "name": "Agent-Wiz",
     "full_name": "Repello-AI/Agent-Wiz",
     "description": "A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.",
     "url": "https://github.com/Repello-AI/Agent-Wiz",
-    "stars": 176,
+    "stars": 177,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -124,107 +146,68 @@
       "threat-modeling"
     ],
     "created_at": "2025-03-31T04:06:51",
-    "updated_at": "2025-04-23T18:07:19"
+    "updated_at": "2025-04-23T22:36:03"
   },
   {
-    "name": "mav",
-    "full_name": "attentionmech/mav",
-    "description": "mav",
-    "url": "https://github.com/attentionmech/mav",
-    "stars": 433,
+    "name": "rulego-server",
+    "full_name": "rulego/rulego-server",
+    "description": "A lightweight dependency-free workflow automation platform. Supports iPaaS, stream computing, and AI capabilities. ",
+    "url": "https://github.com/rulego/rulego-server",
+    "stars": 28,
     "daily_stars": 1,
-    "language": "Python",
+    "language": "JavaScript",
     "topics": [
-      "large-language-models",
-      "llm-inference",
-      "machine-learning",
-      "terminal-app",
-      "visualization"
+      "automation",
+      "mcp-server",
+      "rulego",
+      "workflow",
+      "workflow-engine"
     ],
-    "created_at": "2025-03-26T23:54:39",
-    "updated_at": "2025-04-23T17:15:44"
+    "created_at": "2025-04-01T08:26:17",
+    "updated_at": "2025-04-24T01:36:08"
   },
   {
-    "name": "agentwatch",
-    "full_name": "cyberark/agentwatch",
-    "description": "A powerful AI observability framework that provides comprehensive insights into agent interactions across platforms, enabling developers to monitor, analyze, and optimize AI-driven applications with minimal integration effort.",
-    "url": "https://github.com/cyberark/agentwatch",
-    "stars": 69,
+    "name": "baml-agents",
+    "full_name": "Elijas/baml-agents",
+    "description": "12‑Factor AI Agents: BAML‑powered structured generation & plug‑and‑play MCP tools",
+    "url": "https://github.com/Elijas/baml-agents",
+    "stars": 5,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "agent",
-      "agentic",
-      "agentic-ai",
+      "12-factor",
+      "12-factor-agents",
       "ai",
-      "cybersecurity",
-      "large-language-models",
-      "llm",
-      "machine-learning",
-      "monitoring",
-      "observability",
-      "security"
+      "ai-agents",
+      "ai-agents-framework",
+      "baml",
+      "context-window",
+      "framework",
+      "llms",
+      "mcp-client",
+      "memory",
+      "orchestration",
+      "rag",
+      "structured-generation"
     ],
-    "created_at": "2025-03-26T10:01:05",
-    "updated_at": "2025-04-23T19:24:56"
+    "created_at": "2025-04-18T17:37:04",
+    "updated_at": "2025-04-24T01:54:12"
   },
   {
-    "name": "MultiLGBM",
-    "full_name": "timowilm1992/MultiLGBM",
-    "description": "🌳MultiLGBM🌳: A simple multi-objective regression example to show how to trade-off objectives on the Pareto front with a single LGBM model.",
-    "url": "https://github.com/timowilm1992/MultiLGBM",
-    "stars": 13,
+    "name": "polaris",
+    "full_name": "octu0/polaris",
+    "description": "Distributed AI Agent Framework",
+    "url": "https://github.com/octu0/polaris",
+    "stars": 2,
     "daily_stars": 1,
-    "language": "Python",
+    "language": "Go",
     "topics": [
-      "decision-tree",
-      "decision-trees",
-      "lgbm",
-      "lightgbm",
-      "machine-learning",
-      "multi-objective-optimization",
-      "multi-target",
-      "multi-target-regression",
-      "multi-task-learning",
-      "pareto-front",
-      "python"
+      "ai-agents",
+      "distributed-systems",
+      "function-calling",
+      "gemini"
     ],
-    "created_at": "2025-03-28T16:41:06",
-    "updated_at": "2025-04-23T20:36:59"
-  },
-  {
-    "name": "koharu",
-    "full_name": "mayocream/koharu",
-    "description": "Automated manga translation tool with LLM, written in Rust.",
-    "url": "https://github.com/mayocream/koharu",
-    "stars": 103,
-    "daily_stars": 1,
-    "language": "Rust",
-    "topics": [
-      "deep-learning",
-      "manga",
-      "react",
-      "rust",
-      "tauri"
-    ],
-    "created_at": "2025-04-09T10:52:34",
-    "updated_at": "2025-04-23T19:39:31"
-  },
-  {
-    "name": "Vocalis",
-    "full_name": "Lex-au/Vocalis",
-    "description": "Speech-to-speech AI assistant with natural conversation flow, mid-speech interruption, vision capabilities and AI-initiated follow-ups. Features low-latency audio streaming, dynamic visual feedback, and works with local LLM/TTS services via OpenAI-compatible endpoints.",
-    "url": "https://github.com/Lex-au/Vocalis",
-    "stars": 98,
-    "daily_stars": 0,
-    "language": "TypeScript",
-    "topics": [
-      "artificial-intelligence",
-      "conversational-ai",
-      "speech-to-speech",
-      "visionprocessing"
-    ],
-    "created_at": "2025-03-30T13:36:53",
-    "updated_at": "2025-04-23T02:25:25"
+    "created_at": "2025-04-06T08:29:58",
+    "updated_at": "2025-04-24T00:07:42"
   }
 ]
