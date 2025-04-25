@@ -4,8 +4,8 @@
     "full_name": "bosonstack/boson",
     "description": "A self-contained, lightweight and OOB research platform for modern ML",
     "url": "https://github.com/bosonstack/boson",
-    "stars": 20,
-    "daily_stars": 3,
+    "stars": 25,
+    "daily_stars": 5,
     "language": "Jupyter Notebook",
     "topics": [
       "data-science",
@@ -16,15 +16,82 @@
       "polars"
     ],
     "created_at": "2025-04-19T10:57:15",
-    "updated_at": "2025-04-25T12:04:52"
+    "updated_at": "2025-04-25T14:59:06"
+  },
+  {
+    "name": "ICon",
+    "full_name": "ShadeAlsha/ICon",
+    "description": "ICLR 2025",
+    "url": "https://github.com/ShadeAlsha/ICon",
+    "stars": 38,
+    "daily_stars": 4,
+    "language": "Python",
+    "topics": [
+      "computer-vision",
+      "machine-learning",
+      "representation-learning"
+    ],
+    "created_at": "2025-04-15T06:18:15",
+    "updated_at": "2025-04-25T16:10:11"
+  },
+  {
+    "name": "Malware-Analyzer",
+    "full_name": "GlgApr/Malware-Analyzer",
+    "description": "Automation Batch Malware Analyzer using Ghidra headlessAnalyzer",
+    "url": "https://github.com/GlgApr/Malware-Analyzer",
+    "stars": 5,
+    "daily_stars": 3,
+    "language": "Java",
+    "topics": [
+      "ghidra",
+      "ghidra-scripts",
+      "machine-learning",
+      "malware",
+      "malware-analysis"
+    ],
+    "created_at": "2025-04-25T08:18:05",
+    "updated_at": "2025-04-25T16:17:31"
+  },
+  {
+    "name": "EstateWise-Chapel-Hill-Chatbot",
+    "full_name": "hoangsonww/EstateWise-Chapel-Hill-Chatbot",
+    "description": "🏠 A robust real estate chat application that streamlines user authentication, conversation management, and personalized property recommendations with a modern API, RAG, and responsive UI. Explore our repository to see how we integrate Express, MongoDB, and real-time chat features for an intuitive, scalable experience.",
+    "url": "https://github.com/hoangsonww/EstateWise-Chapel-Hill-Chatbot",
+    "stars": 5,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "artificial-intelligence",
+      "chatbot",
+      "estate",
+      "express",
+      "expressjs",
+      "machine-learning",
+      "mongo",
+      "mongodb",
+      "nextjs",
+      "pinecone",
+      "rag",
+      "react",
+      "real-estate",
+      "real-estate-website",
+      "rest-api",
+      "retrieval-augmented-generation",
+      "shadcn-ui",
+      "tailwindcss",
+      "vector-database",
+      "vercel"
+    ],
+    "created_at": "2025-04-16T01:19:56",
+    "updated_at": "2025-04-25T13:26:27"
   },
   {
     "name": "Agentfy",
     "full_name": "Agentfy-io/Agentfy",
     "description": "🤖 Agentfy is a modular microservices architecture designed to process user requests and execute workflows across multiple social media platforms. The system leverages LLM capabilities to dynamically match user needs with appropriate agents and functions.",
     "url": "https://github.com/Agentfy-io/Agentfy",
-    "stars": 66,
-    "daily_stars": 2,
+    "stars": 67,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -40,145 +107,26 @@
       "workflow-automation"
     ],
     "created_at": "2025-04-06T04:16:22",
-    "updated_at": "2025-04-25T12:56:02"
+    "updated_at": "2025-04-25T15:13:12"
   },
   {
-    "name": "ICon",
-    "full_name": "ShadeAlsha/ICon",
-    "description": "ICLR 2025",
-    "url": "https://github.com/ShadeAlsha/ICon",
-    "stars": 34,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "computer-vision",
-      "machine-learning",
-      "representation-learning"
-    ],
-    "created_at": "2025-04-15T06:18:15",
-    "updated_at": "2025-04-25T10:02:44"
-  },
-  {
-    "name": "fake-audio-detection",
-    "full_name": "mozilla-ai/fake-audio-detection",
-    "description": "Blueprint for training and deploying a machine learning model that effectively detects synthetic and modified audio content.",
-    "url": "https://github.com/mozilla-ai/fake-audio-detection",
-    "stars": 5,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "fake-audio-detection",
-      "machine-learning",
-      "svm",
-      "synthetic-audio"
-    ],
-    "created_at": "2025-04-22T15:17:10",
-    "updated_at": "2025-04-25T09:32:31"
-  },
-  {
-    "name": "ai-access",
-    "full_name": "aiaccess/ai-access",
-    "description": "A flexible PHP library providing access to various AI models (Gemini, OpenAI, Anthropic, DeepSeek, Grok) via a consistent interface.",
-    "url": "https://github.com/aiaccess/ai-access",
-    "stars": 32,
-    "daily_stars": 1,
-    "language": "PHP",
-    "topics": [
-      "ai",
-      "anthropic",
-      "api",
-      "artificial-intelligence",
-      "chatbot",
-      "client",
-      "deepseek",
-      "gemini",
-      "grok",
-      "large-language-model",
-      "llm",
-      "openai"
-    ],
-    "created_at": "2025-04-11T15:23:01",
-    "updated_at": "2025-04-25T09:45:43"
-  },
-  {
-    "name": "OmniMind",
-    "full_name": "Techiral/OmniMind",
-    "description": "OmniMind: A plug-and-play Python library for effortless MCP server integration, powered by Google Gemini.",
-    "url": "https://github.com/Techiral/OmniMind",
-    "stars": 13,
+    "name": "snippy",
+    "full_name": "Azure-Samples/snippy",
+    "description": "🧩 Demo: Build AI-powered MCP Tools for GitHub Copilot using Azure Functions, OpenAI, AI Agents & Cosmos DB. Manages code snippets w/ vector search.",
+    "url": "https://github.com/Azure-Samples/snippy",
+    "stars": 2,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "ai",
       "ai-agents",
-      "anthropic",
-      "artificial-intelligence",
-      "deepseek-r1",
-      "gemini",
-      "google-generative-ai",
-      "grok",
-      "hackathon",
-      "large-language-models",
-      "llm",
-      "mcp-client",
-      "mcp-server",
-      "model-context-protocol",
-      "open-source",
-      "openai",
-      "plug-and-play",
-      "python"
-    ],
-    "created_at": "2025-04-05T14:07:15",
-    "updated_at": "2025-04-25T10:40:50"
-  },
-  {
-    "name": "Tutorials-On-Artificial-Intelligence",
-    "full_name": "ashishbamania/Tutorials-On-Artificial-Intelligence",
-    "description": "A collection of AI tutorials from Dr. Ashish Bamania",
-    "url": "https://github.com/ashishbamania/Tutorials-On-Artificial-Intelligence",
-    "stars": 7,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "agentic-ai",
-      "ai",
-      "ai-agents",
-      "artificial-intelligence",
-      "crewai",
-      "data-science",
-      "langchain",
-      "llama",
-      "machine-learning",
-      "ml",
-      "rag",
-      "retreival-augmented-generation",
-      "software-engineering"
-    ],
-    "created_at": "2025-04-10T11:27:02",
-    "updated_at": "2025-04-25T10:18:16"
-  },
-  {
-    "name": "mcp-gemini-search",
-    "full_name": "arjunprabhulal/mcp-gemini-search",
-    "description": "Model Context Protocol (MCP) with Gemini 2.5 Pro. Convert conversational queries into flight searches using Gemini's function calling capabilities and MCP's flight search tools",
-    "url": "https://github.com/arjunprabhulal/mcp-gemini-search",
-    "stars": 19,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "function-calling",
-      "gemini",
-      "llm",
-      "machine-learning",
+      "azure-functions",
+      "copilot",
+      "cosmosdb",
       "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "serpapi",
-      "stdio"
+      "mcp-server"
     ],
-    "created_at": "2025-04-04T17:05:06",
-    "updated_at": "2025-04-25T10:22:52"
+    "created_at": "2025-04-24T18:25:10",
+    "updated_at": "2025-04-25T15:43:04"
   },
   {
     "name": "Vocalis",
@@ -213,6 +161,55 @@
       "robotics"
     ],
     "created_at": "2025-04-07T22:12:06",
-    "updated_at": "2025-04-24T22:54:26"
+    "updated_at": "2025-04-25T14:49:54"
+  },
+  {
+    "name": "codegrab",
+    "full_name": "epilande/codegrab",
+    "description": "✋ Interactive CLI tool for selecting and bundling code into a single, LLM-ready output file",
+    "url": "https://github.com/epilande/codegrab",
+    "stars": 49,
+    "daily_stars": 0,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "bubbletea",
+      "bundle",
+      "cli",
+      "devtools",
+      "genai",
+      "go",
+      "golang",
+      "llm",
+      "tui"
+    ],
+    "created_at": "2025-03-31T07:56:24",
+    "updated_at": "2025-04-25T02:03:10"
+  },
+  {
+    "name": "ai-access",
+    "full_name": "aiaccess/ai-access",
+    "description": "A flexible PHP library providing access to various AI models (Gemini, OpenAI, Anthropic, DeepSeek, Grok) via a consistent interface.",
+    "url": "https://github.com/aiaccess/ai-access",
+    "stars": 32,
+    "daily_stars": 0,
+    "language": "PHP",
+    "topics": [
+      "ai",
+      "anthropic",
+      "api",
+      "artificial-intelligence",
+      "chatbot",
+      "client",
+      "deepseek",
+      "gemini",
+      "grok",
+      "large-language-model",
+      "llm",
+      "openai"
+    ],
+    "created_at": "2025-04-11T15:23:01",
+    "updated_at": "2025-04-25T09:45:43"
   }
 ]
