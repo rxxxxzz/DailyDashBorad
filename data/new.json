@@ -4,8 +4,8 @@
     "full_name": "bosonstack/boson",
     "description": "A self-contained, lightweight and OOB research platform for modern ML",
     "url": "https://github.com/bosonstack/boson",
-    "stars": 17,
-    "daily_stars": 0,
+    "stars": 20,
+    "daily_stars": 3,
     "language": "Jupyter Notebook",
     "topics": [
       "data-science",
@@ -16,7 +16,7 @@
       "polars"
     ],
     "created_at": "2025-04-19T10:57:15",
-    "updated_at": "2025-04-24T17:23:21"
+    "updated_at": "2025-04-25T12:04:52"
   },
   {
     "name": "ai-context-optimization",
@@ -127,7 +127,7 @@
     "description": "This project contains the original white paper for Language Construct Modeling (LCM) v1.13, authored by Vincent Shing Hin Chong. It introduces a novel framework for prompt-layered semantic control in large language models (LLMs), built upon the Meta Prompt Layering (MPL) structure.  LCM formalizes a modular system of prompt orchestration, enabling ",
     "url": "https://github.com/chonghin33/lcm-1.13-whitepaper",
     "stars": 7,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": null,
     "topics": [
       "artificial-intelligence",
@@ -168,6 +168,23 @@
     "updated_at": "2025-04-25T05:57:46"
   },
   {
+    "name": "fake-audio-detection",
+    "full_name": "mozilla-ai/fake-audio-detection",
+    "description": "Blueprint for training and deploying a machine learning model that effectively detects synthetic and modified audio content.",
+    "url": "https://github.com/mozilla-ai/fake-audio-detection",
+    "stars": 5,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "fake-audio-detection",
+      "machine-learning",
+      "svm",
+      "synthetic-audio"
+    ],
+    "created_at": "2025-04-22T15:17:10",
+    "updated_at": "2025-04-25T09:32:31"
+  },
+  {
     "name": "ML-Hyperparameter-Optimizer",
     "full_name": "dev-sire/ML-Hyperparameter-Optimizer",
     "description": "This web app was created to simplify the process of tuning machine learning models. It provides a clean and interactive interface to perform hyperparameter optimization for regression tasks using the Random Forest algorithm.",
@@ -183,24 +200,5 @@
     ],
     "created_at": "2025-04-20T18:13:28",
     "updated_at": "2025-04-23T11:50:28"
-  },
-  {
-    "name": "Awesome_GLC",
-    "full_name": "lingyzhu0101/Awesome_GLC",
-    "description": "[Paper List‘25] Paper list of Generative Image Compression (GIC), Generative Video Compression (GVC), Extreme Learned Image Compression (ELIC), and Extreme Learned Video Compression (ELVC) for Human Vision and Machine Vision.",
-    "url": "https://github.com/lingyzhu0101/Awesome_GLC",
-    "stars": 5,
-    "daily_stars": 0,
-    "language": null,
-    "topics": [
-      "codec",
-      "compression",
-      "computer-vision",
-      "deep-learning",
-      "generative-model-compression",
-      "learned-image-compression"
-    ],
-    "created_at": "2025-04-18T04:46:04",
-    "updated_at": "2025-04-21T10:27:50"
   }
 ]

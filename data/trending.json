@@ -1,11 +1,30 @@
 [
   {
+    "name": "boson",
+    "full_name": "bosonstack/boson",
+    "description": "A self-contained, lightweight and OOB research platform for modern ML",
+    "url": "https://github.com/bosonstack/boson",
+    "stars": 20,
+    "daily_stars": 3,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "data-science",
+      "deltalake",
+      "jupyter",
+      "machine-learning",
+      "mlops",
+      "polars"
+    ],
+    "created_at": "2025-04-19T10:57:15",
+    "updated_at": "2025-04-25T12:04:52"
+  },
+  {
     "name": "Agentfy",
     "full_name": "Agentfy-io/Agentfy",
     "description": "🤖 Agentfy is a modular microservices architecture designed to process user requests and execute workflows across multiple social media platforms. The system leverages LLM capabilities to dynamically match user needs with appropriate agents and functions.",
     "url": "https://github.com/Agentfy-io/Agentfy",
-    "stars": 64,
-    "daily_stars": 3,
+    "stars": 66,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -21,14 +40,14 @@
       "workflow-automation"
     ],
     "created_at": "2025-04-06T04:16:22",
-    "updated_at": "2025-04-25T07:58:55"
+    "updated_at": "2025-04-25T12:56:02"
   },
   {
     "name": "ICon",
     "full_name": "ShadeAlsha/ICon",
     "description": "ICLR 2025",
     "url": "https://github.com/ShadeAlsha/ICon",
-    "stars": 32,
+    "stars": 34,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
@@ -37,51 +56,87 @@
       "representation-learning"
     ],
     "created_at": "2025-04-15T06:18:15",
-    "updated_at": "2025-04-25T07:32:31"
+    "updated_at": "2025-04-25T10:02:44"
   },
   {
-    "name": "koharu",
-    "full_name": "mayocream/koharu",
-    "description": "Automated manga translation tool with LLM, written in Rust.",
-    "url": "https://github.com/mayocream/koharu",
-    "stars": 115,
+    "name": "fake-audio-detection",
+    "full_name": "mozilla-ai/fake-audio-detection",
+    "description": "Blueprint for training and deploying a machine learning model that effectively detects synthetic and modified audio content.",
+    "url": "https://github.com/mozilla-ai/fake-audio-detection",
+    "stars": 5,
     "daily_stars": 2,
-    "language": "Rust",
+    "language": "Python",
     "topics": [
-      "deep-learning",
-      "manga",
-      "react",
-      "rust",
-      "tauri"
+      "fake-audio-detection",
+      "machine-learning",
+      "svm",
+      "synthetic-audio"
     ],
-    "created_at": "2025-04-09T10:52:34",
-    "updated_at": "2025-04-25T07:46:21"
+    "created_at": "2025-04-22T15:17:10",
+    "updated_at": "2025-04-25T09:32:31"
   },
   {
-    "name": "lcm-1.13-whitepaper",
-    "full_name": "chonghin33/lcm-1.13-whitepaper",
-    "description": "This project contains the original white paper for Language Construct Modeling (LCM) v1.13, authored by Vincent Shing Hin Chong. It introduces a novel framework for prompt-layered semantic control in large language models (LLMs), built upon the Meta Prompt Layering (MPL) structure.  LCM formalizes a modular system of prompt orchestration, enabling ",
-    "url": "https://github.com/chonghin33/lcm-1.13-whitepaper",
-    "stars": 7,
+    "name": "ai-access",
+    "full_name": "aiaccess/ai-access",
+    "description": "A flexible PHP library providing access to various AI models (Gemini, OpenAI, Anthropic, DeepSeek, Grok) via a consistent interface.",
+    "url": "https://github.com/aiaccess/ai-access",
+    "stars": 32,
     "daily_stars": 1,
-    "language": null,
+    "language": "PHP",
     "topics": [
+      "ai",
+      "anthropic",
+      "api",
       "artificial-intelligence",
-      "language-construct-modeling",
-      "llm-framework",
-      "llms",
-      "meta-prompt",
-      "modular-prompting"
+      "chatbot",
+      "client",
+      "deepseek",
+      "gemini",
+      "grok",
+      "large-language-model",
+      "llm",
+      "openai"
     ],
-    "created_at": "2025-04-22T15:10:15",
-    "updated_at": "2025-04-25T07:35:02"
+    "created_at": "2025-04-11T15:23:01",
+    "updated_at": "2025-04-25T09:45:43"
+  },
+  {
+    "name": "OmniMind",
+    "full_name": "Techiral/OmniMind",
+    "description": "OmniMind: A plug-and-play Python library for effortless MCP server integration, powered by Google Gemini.",
+    "url": "https://github.com/Techiral/OmniMind",
+    "stars": 13,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "artificial-intelligence",
+      "deepseek-r1",
+      "gemini",
+      "google-generative-ai",
+      "grok",
+      "hackathon",
+      "large-language-models",
+      "llm",
+      "mcp-client",
+      "mcp-server",
+      "model-context-protocol",
+      "open-source",
+      "openai",
+      "plug-and-play",
+      "python"
+    ],
+    "created_at": "2025-04-05T14:07:15",
+    "updated_at": "2025-04-25T10:40:50"
   },
   {
     "name": "Tutorials-On-Artificial-Intelligence",
     "full_name": "ashishbamania/Tutorials-On-Artificial-Intelligence",
     "description": "A collection of AI tutorials from Dr. Ashish Bamania",
     "url": "https://github.com/ashishbamania/Tutorials-On-Artificial-Intelligence",
-    "stars": 6,
+    "stars": 7,
     "daily_stars": 1,
     "language": "Jupyter Notebook",
     "topics": [
@@ -100,97 +155,64 @@
       "software-engineering"
     ],
     "created_at": "2025-04-10T11:27:02",
-    "updated_at": "2025-04-25T08:14:29"
+    "updated_at": "2025-04-25T10:18:16"
   },
   {
-    "name": "browserable",
-    "full_name": "browserable/browserable",
-    "description": "Open source and self-hostable browser automation library for AI agents",
-    "url": "https://github.com/browserable/browserable",
-    "stars": 528,
-    "daily_stars": 1,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "browser-automation",
-      "javascript",
-      "playwright"
-    ],
-    "created_at": "2025-04-07T16:04:36",
-    "updated_at": "2025-04-25T06:28:18"
-  },
-  {
-    "name": "multilang-status-agents",
-    "full_name": "colesmcintosh/multilang-status-agents",
-    "description": "A multi-lingual, multi-agent service status checking system that uses specialized agents to respond to status inquiries in different languages.",
-    "url": "https://github.com/colesmcintosh/multilang-status-agents",
-    "stars": 1,
+    "name": "mcp-gemini-search",
+    "full_name": "arjunprabhulal/mcp-gemini-search",
+    "description": "Model Context Protocol (MCP) with Gemini 2.5 Pro. Convert conversational queries into flight searches using Gemini's function calling capabilities and MCP's flight search tools",
+    "url": "https://github.com/arjunprabhulal/mcp-gemini-search",
+    "stars": 19,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "ai-agents",
-      "openai",
-      "openai-agents-sdk"
+      "ai",
+      "function-calling",
+      "gemini",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "serpapi",
+      "stdio"
     ],
-    "created_at": "2025-04-18T02:25:46",
-    "updated_at": "2025-04-25T06:13:38"
+    "created_at": "2025-04-04T17:05:06",
+    "updated_at": "2025-04-25T10:22:52"
   },
   {
-    "name": "Versatile-OCR-Program",
-    "full_name": "ses4255/Versatile-OCR-Program",
-    "description": "Multi-modal OCR pipeline optimized for ML training (text, math, tables, diagrams)",
-    "url": "https://github.com/ses4255/Versatile-OCR-Program",
-    "stars": 609,
-    "daily_stars": 1,
+    "name": "Vocalis",
+    "full_name": "Lex-au/Vocalis",
+    "description": "Speech-to-speech AI assistant with natural conversation flow, mid-speech interruption, vision capabilities and AI-initiated follow-ups. Features low-latency audio streaming, dynamic visual feedback, and works with local LLM/TTS services via OpenAI-compatible endpoints.",
+    "url": "https://github.com/Lex-au/Vocalis",
+    "stars": 100,
+    "daily_stars": 0,
+    "language": "TypeScript",
+    "topics": [
+      "artificial-intelligence",
+      "conversational-ai",
+      "speech-to-speech",
+      "visionprocessing"
+    ],
+    "created_at": "2025-03-30T13:36:53",
+    "updated_at": "2025-04-24T18:59:34"
+  },
+  {
+    "name": "evolutionary-policy-optimization",
+    "full_name": "lucidrains/evolutionary-policy-optimization",
+    "description": "Pytorch implementation of Evolutionary Policy Optimization, from Wang et al. of the Robotics Institute at Carnegie Melon University",
+    "url": "https://github.com/lucidrains/evolutionary-policy-optimization",
+    "stars": 57,
+    "daily_stars": 0,
     "language": null,
     "topics": [
-      "doclayout",
-      "educational-data",
-      "exam-ocr",
-      "machine-learning",
-      "ml-datasets",
-      "multi-modal",
-      "ocr",
-      "openai",
-      "paper-ocr",
-      "table-parsing"
-    ],
-    "created_at": "2025-04-01T08:52:45",
-    "updated_at": "2025-04-25T07:26:44"
-  },
-  {
-    "name": "fake-audio-detection",
-    "full_name": "mozilla-ai/fake-audio-detection",
-    "description": "Blueprint for training and deploying a machine learning model that effectively detects synthetic and modified audio content.",
-    "url": "https://github.com/mozilla-ai/fake-audio-detection",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "fake-audio-detection",
-      "machine-learning",
-      "svm",
-      "synthetic-audio"
-    ],
-    "created_at": "2025-04-22T15:17:10",
-    "updated_at": "2025-04-25T07:06:39"
-  },
-  {
-    "name": "ElasticSiameseFWI-pub",
-    "full_name": "DeepWave-KAUST/ElasticSiameseFWI-pub",
-    "description": "Official reproducible material for Enhancing multiparameter elastic full-waveform inversion with a Siamese network",
-    "url": "https://github.com/DeepWave-KAUST/ElasticSiameseFWI-pub",
-    "stars": 2,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
+      "artificial-intelligence",
       "deep-learning",
-      "elastic",
-      "fwi",
-      "siamese-neural-network"
+      "genetic-algorithms",
+      "reinforcement-learning",
+      "robotics"
     ],
-    "created_at": "2025-04-06T13:01:42",
-    "updated_at": "2025-04-25T07:46:12"
+    "created_at": "2025-04-07T22:12:06",
+    "updated_at": "2025-04-24T22:54:26"
   }
 ]
