@@ -4,7 +4,7 @@
     "full_name": "ShadeAlsha/ICon",
     "description": "ICLR 2025",
     "url": "https://github.com/ShadeAlsha/ICon",
-    "stars": 41,
+    "stars": 44,
     "daily_stars": 3,
     "language": "Python",
     "topics": [
@@ -13,51 +13,42 @@
       "representation-learning"
     ],
     "created_at": "2025-04-15T06:18:15",
-    "updated_at": "2025-04-25T20:38:25"
+    "updated_at": "2025-04-26T01:25:26"
   },
   {
-    "name": "boson",
-    "full_name": "bosonstack/boson",
-    "description": "A self-contained, lightweight and OOB research platform for modern ML",
-    "url": "https://github.com/bosonstack/boson",
-    "stars": 28,
-    "daily_stars": 3,
-    "language": "Jupyter Notebook",
+    "name": "Agent-Wiz",
+    "full_name": "Repello-AI/Agent-Wiz",
+    "description": "A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.",
+    "url": "https://github.com/Repello-AI/Agent-Wiz",
+    "stars": 180,
+    "daily_stars": 2,
+    "language": "Python",
     "topics": [
-      "data-science",
-      "deltalake",
-      "jupyter",
-      "machine-learning",
-      "mlops",
-      "polars"
+      "agent",
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "autogen",
+      "crewai",
+      "langraph",
+      "llama-index",
+      "n8n",
+      "openai",
+      "openai-agents-sdk",
+      "pydantic",
+      "security-tools",
+      "swarm",
+      "threat-modeling"
     ],
-    "created_at": "2025-04-19T10:57:15",
-    "updated_at": "2025-04-25T18:02:27"
-  },
-  {
-    "name": "Malware-Analyzer",
-    "full_name": "GlgApr/Malware-Analyzer",
-    "description": "Automation Batch Malware Analyzer using Ghidra headlessAnalyzer",
-    "url": "https://github.com/GlgApr/Malware-Analyzer",
-    "stars": 8,
-    "daily_stars": 3,
-    "language": "Java",
-    "topics": [
-      "ghidra",
-      "ghidra-scripts",
-      "machine-learning",
-      "malware",
-      "malware-analysis"
-    ],
-    "created_at": "2025-04-25T08:18:05",
-    "updated_at": "2025-04-25T20:12:35"
+    "created_at": "2025-03-31T04:06:51",
+    "updated_at": "2025-04-26T01:14:52"
   },
   {
     "name": "Agentfy",
     "full_name": "Agentfy-io/Agentfy",
     "description": "🤖 Agentfy is a modular microservices architecture designed to process user requests and execute workflows across multiple social media platforms. The system leverages LLM capabilities to dynamically match user needs with appropriate agents and functions.",
     "url": "https://github.com/Agentfy-io/Agentfy",
-    "stars": 69,
+    "stars": 71,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
@@ -74,125 +65,148 @@
       "workflow-automation"
     ],
     "created_at": "2025-04-06T04:16:22",
-    "updated_at": "2025-04-25T20:41:49"
+    "updated_at": "2025-04-25T23:34:23"
   },
   {
-    "name": "monitoring-llms-langfuse-ollama",
-    "full_name": "ErickWendel/monitoring-llms-langfuse-ollama",
-    "description": "Examples of how to monitor the OpenAI SDK calls using Langfuse",
-    "url": "https://github.com/ErickWendel/monitoring-llms-langfuse-ollama",
-    "stars": 18,
+    "name": "Vocalis",
+    "full_name": "Lex-au/Vocalis",
+    "description": "Speech-to-speech AI assistant with natural conversation flow, mid-speech interruption, vision capabilities and AI-initiated follow-ups. Features low-latency audio streaming, dynamic visual feedback, and works with local LLM/TTS services via OpenAI-compatible endpoints.",
+    "url": "https://github.com/Lex-au/Vocalis",
+    "stars": 101,
     "daily_stars": 1,
-    "language": "JavaScript",
+    "language": "TypeScript",
     "topics": [
       "artificial-intelligence",
-      "docker",
-      "hostinger",
-      "langfuse",
-      "monitoring",
-      "ollama",
-      "openai"
+      "conversational-ai",
+      "speech-to-speech",
+      "visionprocessing"
     ],
-    "created_at": "2025-04-05T15:30:58",
-    "updated_at": "2025-04-25T18:21:29"
+    "created_at": "2025-03-30T13:36:53",
+    "updated_at": "2025-04-25T21:24:01"
   },
   {
-    "name": "Tutorials-On-Artificial-Intelligence",
-    "full_name": "ashishbamania/Tutorials-On-Artificial-Intelligence",
-    "description": "A collection of AI tutorials from Dr. Ashish Bamania",
-    "url": "https://github.com/ashishbamania/Tutorials-On-Artificial-Intelligence",
-    "stars": 8,
+    "name": "codegrab",
+    "full_name": "epilande/codegrab",
+    "description": "✋ Interactive CLI tool for selecting and bundling code into a single, LLM-ready output file",
+    "url": "https://github.com/epilande/codegrab",
+    "stars": 50,
+    "daily_stars": 1,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "bubbletea",
+      "bundle",
+      "cli",
+      "devtools",
+      "genai",
+      "go",
+      "golang",
+      "llm",
+      "tui"
+    ],
+    "created_at": "2025-03-31T07:56:24",
+    "updated_at": "2025-04-26T00:22:23"
+  },
+  {
+    "name": "ai_auto_wxgzh",
+    "full_name": "iniwap/ai_auto_wxgzh",
+    "description": "基于CrewAI，自动获取各大平台热点，使用AI生成文章，发布到微信公众号。",
+    "url": "https://github.com/iniwap/ai_auto_wxgzh",
+    "stars": 24,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-wx",
+      "crewai",
+      "weixin",
+      "wx",
+      "wx-template"
+    ],
+    "created_at": "2025-04-02T07:28:12",
+    "updated_at": "2025-04-26T01:48:22"
+  },
+  {
+    "name": "youtube-ai-agent",
+    "full_name": "inspector-apm/youtube-ai-agent",
+    "description": "AI Agents summarizong YouTube videos - built with Neuron AI PHP framework.",
+    "url": "https://github.com/inspector-apm/youtube-ai-agent",
+    "stars": 15,
+    "daily_stars": 1,
+    "language": "PHP",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-assistant",
+      "llm",
+      "php",
+      "video-ai",
+      "video-analysis",
+      "youtube"
+    ],
+    "created_at": "2025-04-04T10:59:42",
+    "updated_at": "2025-04-25T23:12:03"
+  },
+  {
+    "name": "snippy",
+    "full_name": "Azure-Samples/snippy",
+    "description": "🧩 Demo: Build AI-powered MCP Tools for GitHub Copilot using Azure Functions, OpenAI, AI Agents & Cosmos DB. Manages code snippets w/ vector search.",
+    "url": "https://github.com/Azure-Samples/snippy",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "azure-functions",
+      "copilot",
+      "cosmosdb",
+      "mcp",
+      "mcp-server"
+    ],
+    "created_at": "2025-04-24T18:25:10",
+    "updated_at": "2025-04-25T21:39:41"
+  },
+  {
+    "name": "boson",
+    "full_name": "bosonstack/boson",
+    "description": "A self-contained, lightweight and OOB research platform for modern ML",
+    "url": "https://github.com/bosonstack/boson",
+    "stars": 29,
     "daily_stars": 1,
     "language": "Jupyter Notebook",
     "topics": [
-      "agentic-ai",
-      "ai",
-      "ai-agents",
-      "artificial-intelligence",
-      "crewai",
       "data-science",
-      "langchain",
-      "llama",
+      "deltalake",
+      "jupyter",
       "machine-learning",
-      "ml",
-      "rag",
-      "retreival-augmented-generation",
-      "software-engineering"
+      "mlops",
+      "polars"
     ],
-    "created_at": "2025-04-10T11:27:02",
-    "updated_at": "2025-04-25T18:37:14"
+    "created_at": "2025-04-19T10:57:15",
+    "updated_at": "2025-04-25T21:35:42"
   },
   {
-    "name": "MiniLMs",
-    "full_name": "Kuberwastaken/MiniLMs",
-    "description": "a research project focused on studying and implementing minimalist language model architectures.",
-    "url": "https://github.com/Kuberwastaken/MiniLMs",
-    "stars": 3,
+    "name": "lung-cancer-detection",
+    "full_name": "nordszamora/lung-cancer-detection",
+    "description": "The machine learning project pipeline for lung cancer analysis and prediction at a low cost.",
+    "url": "https://github.com/nordszamora/lung-cancer-detection",
+    "stars": 10,
     "daily_stars": 1,
-    "language": "HTML",
+    "language": "Jupyter Notebook",
     "topics": [
-      "artificial-intelligence",
-      "llm",
+      "data-science",
+      "flask-api",
+      "jupyter",
       "machine-learning",
-      "minification",
-      "minilms",
-      "research"
-    ],
-    "created_at": "2025-04-19T07:12:44",
-    "updated_at": "2025-04-25T19:12:59"
-  },
-  {
-    "name": "Steam-Games-Reviews-Analysis-Sentiment-Analysis",
-    "full_name": "werixx1/Steam-Games-Reviews-Analysis-Sentiment-Analysis",
-    "description": null,
-    "url": "https://github.com/werixx1/Steam-Games-Reviews-Analysis-Sentiment-Analysis",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "machine-learning",
-      "nlp",
-      "sentiment-analysis"
-    ],
-    "created_at": "2025-04-25T11:29:07",
-    "updated_at": "2025-04-25T19:45:33"
-  },
-  {
-    "name": "Forecasting-Bitcoin-Price-With-ARIMA-Model",
-    "full_name": "MuhammadHilmyPutraRisma/Forecasting-Bitcoin-Price-With-ARIMA-Model",
-    "description": "Python code for forecasting Bitcoin prices using the ARIMA model. The forecasting is performed to predict Bitcoin prices for the next 7 days based on historical trends.",
-    "url": "https://github.com/MuhammadHilmyPutraRisma/Forecasting-Bitcoin-Price-With-ARIMA-Model",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "arima-model",
-      "bitcoin",
-      "forecasting",
-      "machine-learning",
+      "matplotlib",
+      "pandas",
+      "pytest",
       "python",
-      "statistics",
-      "time-series"
+      "seaborn",
+      "sklearn"
     ],
-    "created_at": "2025-04-21T03:07:16",
-    "updated_at": "2025-04-25T18:10:53"
-  },
-  {
-    "name": "koharu",
-    "full_name": "mayocream/koharu",
-    "description": "Automated manga translation tool with LLM, written in Rust.",
-    "url": "https://github.com/mayocream/koharu",
-    "stars": 116,
-    "daily_stars": 1,
-    "language": "Rust",
-    "topics": [
-      "deep-learning",
-      "manga",
-      "react",
-      "rust",
-      "tauri"
-    ],
-    "created_at": "2025-04-09T10:52:34",
-    "updated_at": "2025-04-25T18:14:46"
+    "created_at": "2025-04-13T14:16:55",
+    "updated_at": "2025-04-26T02:09:28"
   }
 ]
