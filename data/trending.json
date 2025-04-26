@@ -1,11 +1,35 @@
 [
   {
+    "name": "secai",
+    "full_name": "pancsta/secai",
+    "description": "Smart graph for networks of autonomous AI Agents",
+    "url": "https://github.com/pancsta/secai",
+    "stars": 61,
+    "daily_stars": 2,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "asyncmachine",
+      "debugger",
+      "deepresearch",
+      "diagrams",
+      "graph",
+      "instructor",
+      "llm",
+      "repl",
+      "sql"
+    ],
+    "created_at": "2025-04-13T19:06:36",
+    "updated_at": "2025-04-26T12:26:55"
+  },
+  {
     "name": "boson",
     "full_name": "bosonstack/boson",
     "description": "A self-contained, lightweight and OOB research platform for modern ML",
     "url": "https://github.com/bosonstack/boson",
-    "stars": 32,
-    "daily_stars": 3,
+    "stars": 34,
+    "daily_stars": 2,
     "language": "Jupyter Notebook",
     "topics": [
       "data-science",
@@ -16,50 +40,84 @@
       "polars"
     ],
     "created_at": "2025-04-19T10:57:15",
-    "updated_at": "2025-04-26T08:28:35"
+    "updated_at": "2025-04-26T09:30:51"
   },
   {
-    "name": "ICon",
-    "full_name": "ShadeAlsha/ICon",
-    "description": "ICLR 2025",
-    "url": "https://github.com/ShadeAlsha/ICon",
-    "stars": 47,
-    "daily_stars": 2,
-    "language": "Python",
+    "name": "Tutorials-On-Artificial-Intelligence",
+    "full_name": "ashishbamania/Tutorials-On-Artificial-Intelligence",
+    "description": "A collection of AI tutorials from Dr. Ashish Bamania",
+    "url": "https://github.com/ashishbamania/Tutorials-On-Artificial-Intelligence",
+    "stars": 9,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
     "topics": [
-      "computer-vision",
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "artificial-intelligence",
+      "crewai",
+      "data-science",
+      "langchain",
+      "llama",
       "machine-learning",
-      "representation-learning"
+      "ml",
+      "rag",
+      "retreival-augmented-generation",
+      "software-engineering"
     ],
-    "created_at": "2025-04-15T06:18:15",
-    "updated_at": "2025-04-26T07:18:19"
+    "created_at": "2025-04-10T11:27:02",
+    "updated_at": "2025-04-26T09:06:40"
   },
   {
-    "name": "mcp-manager",
-    "full_name": "nstebbins/mcp-manager",
-    "description": "CLI tool for managing Model Context Protocol (MCP) servers in one place & using them across them different clients",
-    "url": "https://github.com/nstebbins/mcp-manager",
-    "stars": 10,
+    "name": "function-calling-gemma3",
+    "full_name": "arjunprabhulal/function-calling-gemma3",
+    "description": "Demo project showcasing Gemma3 function calling capabilities using Ollama. Enables automatic web searches via Serper.dev for up-to-date information and features an interactive Gradio chat interface.",
+    "url": "https://github.com/arjunprabhulal/function-calling-gemma3",
+    "stars": 5,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
       "artificial-intelligence",
-      "cli",
-      "mcp",
-      "mcp-client",
-      "mcp-server",
-      "model-context-protocol",
-      "open-source"
+      "function-calling",
+      "gemma3",
+      "genai",
+      "googleapi",
+      "llm",
+      "localllm",
+      "machine-learning",
+      "ollama"
     ],
-    "created_at": "2025-04-21T01:41:20",
-    "updated_at": "2025-04-26T08:31:29"
+    "created_at": "2025-03-30T04:09:09",
+    "updated_at": "2025-04-26T10:09:59"
+  },
+  {
+    "name": "artinet-sdk",
+    "full_name": "the-artinet-project/artinet-sdk",
+    "description": "A JS/TS SDK for the Agent2Agent Protocol",
+    "url": "https://github.com/the-artinet-project/artinet-sdk",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "a2a",
+      "a2a-protocol",
+      "agent2agent",
+      "agents",
+      "ai",
+      "aiagents",
+      "aiagentsframework",
+      "artificial-intelligence",
+      "mcp"
+    ],
+    "created_at": "2025-04-25T20:10:21",
+    "updated_at": "2025-04-26T10:42:39"
   },
   {
     "name": "Agentfy",
     "full_name": "Agentfy-io/Agentfy",
     "description": "🤖 Agentfy is a modular microservices architecture designed to process user requests and execute workflows across multiple social media platforms. The system leverages LLM capabilities to dynamically match user needs with appropriate agents and functions.",
     "url": "https://github.com/Agentfy-io/Agentfy",
-    "stars": 74,
+    "stars": 75,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -76,131 +134,95 @@
       "workflow-automation"
     ],
     "created_at": "2025-04-06T04:16:22",
-    "updated_at": "2025-04-26T07:27:42"
+    "updated_at": "2025-04-26T11:21:18"
   },
   {
-    "name": "Versatile-OCR-Program",
-    "full_name": "ses4255/Versatile-OCR-Program",
-    "description": "Multi-modal OCR pipeline optimized for ML training (text, math, tables, diagrams)",
-    "url": "https://github.com/ses4255/Versatile-OCR-Program",
-    "stars": 610,
+    "name": "Conversational-Chatbot-with-GROQ-with-Multi-Domain-Expertise-",
+    "full_name": "wahidpanda/Conversational-Chatbot-with-GROQ-with-Multi-Domain-Expertise-",
+    "description": "Advanced AI assistant powered by Groq's lightning-fast LLMs with multi-domain knowledge and conversation analytics.",
+    "url": "https://github.com/wahidpanda/Conversational-Chatbot-with-GROQ-with-Multi-Domain-Expertise-",
+    "stars": 1,
     "daily_stars": 1,
-    "language": null,
+    "language": "Python",
     "topics": [
-      "doclayout",
-      "educational-data",
-      "exam-ocr",
-      "machine-learning",
-      "ml-datasets",
-      "multi-modal",
-      "ocr",
-      "openai",
-      "paper-ocr",
-      "table-parsing"
-    ],
-    "created_at": "2025-04-01T08:52:45",
-    "updated_at": "2025-04-26T05:05:31"
-  },
-  {
-    "name": "koharu",
-    "full_name": "mayocream/koharu",
-    "description": "Automated manga translation tool with LLM, written in Rust.",
-    "url": "https://github.com/mayocream/koharu",
-    "stars": 117,
-    "daily_stars": 1,
-    "language": "Rust",
-    "topics": [
-      "deep-learning",
-      "manga",
-      "react",
-      "rust",
-      "tauri"
-    ],
-    "created_at": "2025-04-09T10:52:34",
-    "updated_at": "2025-04-26T08:08:33"
-  },
-  {
-    "name": "Vocalis",
-    "full_name": "Lex-au/Vocalis",
-    "description": "Speech-to-speech AI assistant with natural conversation flow, mid-speech interruption, vision capabilities and AI-initiated follow-ups. Features low-latency audio streaming, dynamic visual feedback, and works with local LLM/TTS services via OpenAI-compatible endpoints.",
-    "url": "https://github.com/Lex-au/Vocalis",
-    "stars": 101,
-    "daily_stars": 0,
-    "language": "TypeScript",
-    "topics": [
-      "artificial-intelligence",
-      "conversational-ai",
-      "speech-to-speech",
-      "visionprocessing"
-    ],
-    "created_at": "2025-03-30T13:36:53",
-    "updated_at": "2025-04-25T21:24:01"
-  },
-  {
-    "name": "evolutionary-policy-optimization",
-    "full_name": "lucidrains/evolutionary-policy-optimization",
-    "description": "Pytorch implementation of Evolutionary Policy Optimization, from Wang et al. of the Robotics Institute at Carnegie Melon University",
-    "url": "https://github.com/lucidrains/evolutionary-policy-optimization",
-    "stars": 57,
-    "daily_stars": 0,
-    "language": null,
-    "topics": [
-      "artificial-intelligence",
-      "deep-learning",
-      "genetic-algorithms",
-      "reinforcement-learning",
-      "robotics"
-    ],
-    "created_at": "2025-04-07T22:12:06",
-    "updated_at": "2025-04-25T14:49:54"
-  },
-  {
-    "name": "codegrab",
-    "full_name": "epilande/codegrab",
-    "description": "✋ Interactive CLI tool for selecting and bundling code into a single, LLM-ready output file",
-    "url": "https://github.com/epilande/codegrab",
-    "stars": 50,
-    "daily_stars": 0,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "bubbletea",
-      "bundle",
-      "cli",
-      "devtools",
-      "genai",
-      "go",
-      "golang",
-      "llm",
-      "tui"
-    ],
-    "created_at": "2025-03-31T07:56:24",
-    "updated_at": "2025-04-26T06:26:36"
-  },
-  {
-    "name": "ai-access",
-    "full_name": "aiaccess/ai-access",
-    "description": "A flexible PHP library providing access to various AI models (Gemini, OpenAI, Anthropic, DeepSeek, Grok) via a consistent interface.",
-    "url": "https://github.com/aiaccess/ai-access",
-    "stars": 32,
-    "daily_stars": 0,
-    "language": "PHP",
-    "topics": [
-      "ai",
-      "anthropic",
-      "api",
-      "artificial-intelligence",
+      "ai-agents",
+      "ai-assistant",
+      "ai-project",
       "chatbot",
-      "client",
-      "deepseek",
-      "gemini",
-      "grok",
-      "large-language-model",
+      "docker",
+      "end-to-end",
+      "huggingface",
+      "langchain",
+      "langchain-project",
       "llm",
-      "openai"
+      "llm-project",
+      "open-source",
+      "project",
+      "python",
+      "python-project",
+      "streamlit"
     ],
-    "created_at": "2025-04-11T15:23:01",
-    "updated_at": "2025-04-25T09:45:43"
+    "created_at": "2025-04-26T04:57:46",
+    "updated_at": "2025-04-26T12:41:44"
+  },
+  {
+    "name": "Telegram-AI-Agent-using-n8n",
+    "full_name": "ugyenn-tsheringg/Telegram-AI-Agent-using-n8n",
+    "description": null,
+    "url": "https://github.com/ugyenn-tsheringg/Telegram-AI-Agent-using-n8n",
+    "stars": 1,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "n8n",
+      "no-code",
+      "telegram-bot"
+    ],
+    "created_at": "2025-04-25T10:18:52",
+    "updated_at": "2025-04-26T12:07:01"
+  },
+  {
+    "name": "mcp-gemini-search",
+    "full_name": "arjunprabhulal/mcp-gemini-search",
+    "description": "Model Context Protocol (MCP) with Gemini 2.5 Pro. Convert conversational queries into flight searches using Gemini's function calling capabilities and MCP's flight search tools",
+    "url": "https://github.com/arjunprabhulal/mcp-gemini-search",
+    "stars": 20,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "function-calling",
+      "gemini",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "serpapi",
+      "stdio"
+    ],
+    "created_at": "2025-04-04T17:05:06",
+    "updated_at": "2025-04-26T09:43:48"
+  },
+  {
+    "name": "SimpleLLMFunc",
+    "full_name": "NiJingzhe/SimpleLLMFunc",
+    "description": "一个简单的恰到好处LLM应用框架，能够让你以最“Code Center“的方式无缝集成LLM能力",
+    "url": "https://github.com/NiJingzhe/SimpleLLMFunc",
+    "stars": 33,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "aigc",
+      "framework",
+      "llm",
+      "llm-framework",
+      "llmfunc",
+      "workflow"
+    ],
+    "created_at": "2025-04-16T17:48:01",
+    "updated_at": "2025-04-26T09:20:30"
   }
 ]
