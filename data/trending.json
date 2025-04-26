@@ -1,53 +1,70 @@
 [
   {
-    "name": "secai",
-    "full_name": "pancsta/secai",
-    "description": "Smart graph for networks of autonomous AI Agents",
-    "url": "https://github.com/pancsta/secai",
-    "stars": 61,
+    "name": "Agentfy",
+    "full_name": "Agentfy-io/Agentfy",
+    "description": "🤖 Agentfy is a modular microservices architecture designed to process user requests and execute workflows across multiple social media platforms. The system leverages LLM capabilities to dynamically match user needs with appropriate agents and functions.",
+    "url": "https://github.com/Agentfy-io/Agentfy",
+    "stars": 77,
     "daily_stars": 2,
-    "language": "Go",
+    "language": "Python",
     "topics": [
-      "ai",
       "ai-agents",
-      "asyncmachine",
-      "debugger",
-      "deepresearch",
-      "diagrams",
-      "graph",
-      "instructor",
-      "llm",
-      "repl",
-      "sql"
+      "ai-tools",
+      "model-context-protocol",
+      "multi-agent-systems",
+      "openai",
+      "prompt-engineering-tool",
+      "python",
+      "social-media-app",
+      "social-media-automation",
+      "tikhub",
+      "workflow-automation"
     ],
-    "created_at": "2025-04-13T19:06:36",
-    "updated_at": "2025-04-26T12:26:55"
+    "created_at": "2025-04-06T04:16:22",
+    "updated_at": "2025-04-26T15:34:22"
   },
   {
-    "name": "boson",
-    "full_name": "bosonstack/boson",
-    "description": "A self-contained, lightweight and OOB research platform for modern ML",
-    "url": "https://github.com/bosonstack/boson",
-    "stars": 34,
+    "name": "ICon",
+    "full_name": "ShadeAlsha/ICon",
+    "description": "ICLR 2025",
+    "url": "https://github.com/ShadeAlsha/ICon",
+    "stars": 49,
     "daily_stars": 2,
-    "language": "Jupyter Notebook",
+    "language": "Python",
     "topics": [
-      "data-science",
-      "deltalake",
-      "jupyter",
+      "computer-vision",
       "machine-learning",
-      "mlops",
-      "polars"
+      "representation-learning"
     ],
-    "created_at": "2025-04-19T10:57:15",
-    "updated_at": "2025-04-26T09:30:51"
+    "created_at": "2025-04-15T06:18:15",
+    "updated_at": "2025-04-26T15:55:29"
+  },
+  {
+    "name": "SimpleLLMFunc",
+    "full_name": "NiJingzhe/SimpleLLMFunc",
+    "description": "一个简单的恰到好处LLM应用框架，能够让你以最“Code Center“的方式无缝集成LLM能力",
+    "url": "https://github.com/NiJingzhe/SimpleLLMFunc",
+    "stars": 35,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "aigc",
+      "framework",
+      "llm",
+      "llm-framework",
+      "llmfunc",
+      "workflow"
+    ],
+    "created_at": "2025-04-16T17:48:01",
+    "updated_at": "2025-04-26T16:06:16"
   },
   {
     "name": "Tutorials-On-Artificial-Intelligence",
     "full_name": "ashishbamania/Tutorials-On-Artificial-Intelligence",
     "description": "A collection of AI tutorials from Dr. Ashish Bamania",
     "url": "https://github.com/ashishbamania/Tutorials-On-Artificial-Intelligence",
-    "stars": 9,
+    "stars": 10,
     "daily_stars": 1,
     "language": "Jupyter Notebook",
     "topics": [
@@ -66,36 +83,14 @@
       "software-engineering"
     ],
     "created_at": "2025-04-10T11:27:02",
-    "updated_at": "2025-04-26T09:06:40"
-  },
-  {
-    "name": "function-calling-gemma3",
-    "full_name": "arjunprabhulal/function-calling-gemma3",
-    "description": "Demo project showcasing Gemma3 function calling capabilities using Ollama. Enables automatic web searches via Serper.dev for up-to-date information and features an interactive Gradio chat interface.",
-    "url": "https://github.com/arjunprabhulal/function-calling-gemma3",
-    "stars": 5,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "function-calling",
-      "gemma3",
-      "genai",
-      "googleapi",
-      "llm",
-      "localllm",
-      "machine-learning",
-      "ollama"
-    ],
-    "created_at": "2025-03-30T04:09:09",
-    "updated_at": "2025-04-26T10:09:59"
+    "updated_at": "2025-04-26T13:44:15"
   },
   {
     "name": "artinet-sdk",
     "full_name": "the-artinet-project/artinet-sdk",
     "description": "A JS/TS SDK for the Agent2Agent Protocol",
     "url": "https://github.com/the-artinet-project/artinet-sdk",
-    "stars": 3,
+    "stars": 4,
     "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
@@ -110,119 +105,106 @@
       "mcp"
     ],
     "created_at": "2025-04-25T20:10:21",
-    "updated_at": "2025-04-26T10:42:39"
+    "updated_at": "2025-04-26T16:36:21"
   },
   {
-    "name": "Agentfy",
-    "full_name": "Agentfy-io/Agentfy",
-    "description": "🤖 Agentfy is a modular microservices architecture designed to process user requests and execute workflows across multiple social media platforms. The system leverages LLM capabilities to dynamically match user needs with appropriate agents and functions.",
-    "url": "https://github.com/Agentfy-io/Agentfy",
-    "stars": 75,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "model-context-protocol",
-      "multi-agent-systems",
-      "openai",
-      "prompt-engineering-tool",
-      "python",
-      "social-media-app",
-      "social-media-automation",
-      "tikhub",
-      "workflow-automation"
-    ],
-    "created_at": "2025-04-06T04:16:22",
-    "updated_at": "2025-04-26T11:21:18"
-  },
-  {
-    "name": "Conversational-Chatbot-with-GROQ-with-Multi-Domain-Expertise-",
-    "full_name": "wahidpanda/Conversational-Chatbot-with-GROQ-with-Multi-Domain-Expertise-",
-    "description": "Advanced AI assistant powered by Groq's lightning-fast LLMs with multi-domain knowledge and conversation analytics.",
-    "url": "https://github.com/wahidpanda/Conversational-Chatbot-with-GROQ-with-Multi-Domain-Expertise-",
-    "stars": 1,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-assistant",
-      "ai-project",
-      "chatbot",
-      "docker",
-      "end-to-end",
-      "huggingface",
-      "langchain",
-      "langchain-project",
-      "llm",
-      "llm-project",
-      "open-source",
-      "project",
-      "python",
-      "python-project",
-      "streamlit"
-    ],
-    "created_at": "2025-04-26T04:57:46",
-    "updated_at": "2025-04-26T12:41:44"
-  },
-  {
-    "name": "Telegram-AI-Agent-using-n8n",
-    "full_name": "ugyenn-tsheringg/Telegram-AI-Agent-using-n8n",
-    "description": null,
-    "url": "https://github.com/ugyenn-tsheringg/Telegram-AI-Agent-using-n8n",
-    "stars": 1,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "n8n",
-      "no-code",
-      "telegram-bot"
-    ],
-    "created_at": "2025-04-25T10:18:52",
-    "updated_at": "2025-04-26T12:07:01"
-  },
-  {
-    "name": "mcp-gemini-search",
-    "full_name": "arjunprabhulal/mcp-gemini-search",
-    "description": "Model Context Protocol (MCP) with Gemini 2.5 Pro. Convert conversational queries into flight searches using Gemini's function calling capabilities and MCP's flight search tools",
-    "url": "https://github.com/arjunprabhulal/mcp-gemini-search",
-    "stars": 20,
+    "name": "octagon-vc-agents",
+    "full_name": "OctagonAI/octagon-vc-agents",
+    "description": "An MCP server that runs AI-driven venture capitalist agents (Fred Wilson, Peter Thiel, etc.), whose thinking is continuously enriched by Octagon Private Markets' real-time deals, valuations, and deep research intelligence. Use it to spin up programmable \"VC brains\" for pitch feedback, diligence simulations, term sheet negotiations, and more.",
+    "url": "https://github.com/OctagonAI/octagon-vc-agents",
+    "stars": 5,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai",
-      "function-calling",
-      "gemini",
-      "llm",
+      "ai-agents",
+      "investment",
+      "mcp-server"
+    ],
+    "created_at": "2025-04-18T05:12:37",
+    "updated_at": "2025-04-26T14:07:28"
+  },
+  {
+    "name": "boson",
+    "full_name": "bosonstack/boson",
+    "description": "A self-contained, lightweight and OOB research platform for modern ML",
+    "url": "https://github.com/bosonstack/boson",
+    "stars": 35,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "data-science",
+      "deltalake",
+      "jupyter",
       "machine-learning",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "serpapi",
-      "stdio"
+      "mlops",
+      "polars"
     ],
-    "created_at": "2025-04-04T17:05:06",
-    "updated_at": "2025-04-26T09:43:48"
+    "created_at": "2025-04-19T10:57:15",
+    "updated_at": "2025-04-26T13:19:31"
   },
   {
-    "name": "SimpleLLMFunc",
-    "full_name": "NiJingzhe/SimpleLLMFunc",
-    "description": "一个简单的恰到好处LLM应用框架，能够让你以最“Code Center“的方式无缝集成LLM能力",
-    "url": "https://github.com/NiJingzhe/SimpleLLMFunc",
-    "stars": 33,
+    "name": "Auto-Recon",
+    "full_name": "whitehacker0/Auto-Recon",
+    "description": "OSINT Multi Recon Tool is an advanced open-source intelligence (OSINT) gathering tool designed for ethical hackers, penetration testers, and cybersecurity professionals. This tool automates reconnaissance by collecting valuable information from various sources, including GitHub, LinkedIn, WHOIS, subdomains, and phone number lookups.",
+    "url": "https://github.com/whitehacker0/Auto-Recon",
+    "stars": 9,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai",
-      "aigc",
-      "framework",
-      "llm",
-      "llm-framework",
-      "llmfunc",
+      "automated",
+      "bash",
+      "bugbounty-tools",
+      "deep-learning",
+      "hacking-code",
+      "hacking-tools",
+      "linux",
+      "minecraft",
+      "nmap",
+      "penetration-testing",
+      "pentesting-tools",
+      "recon",
+      "reconnaissance"
+    ],
+    "created_at": "2025-04-03T13:22:32",
+    "updated_at": "2025-04-26T15:48:51"
+  },
+  {
+    "name": "whatsapp-n8n-server",
+    "full_name": "nicolasdelrosario/whatsapp-n8n-server",
+    "description": "🚀 REST API server for WhatsApp automation via whatsapp-web.js, made to integrate with n8n workflows.",
+    "url": "https://github.com/nicolasdelrosario/whatsapp-n8n-server",
+    "stars": 4,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "automation",
+      "n8n",
+      "n8n-workflow",
+      "puppeteer",
+      "whatsapp",
+      "whatsapp-web-js",
       "workflow"
     ],
-    "created_at": "2025-04-16T17:48:01",
-    "updated_at": "2025-04-26T09:20:30"
+    "created_at": "2025-03-31T17:19:29",
+    "updated_at": "2025-04-26T15:41:41"
+  },
+  {
+    "name": "Vocalis",
+    "full_name": "Lex-au/Vocalis",
+    "description": "Speech-to-speech AI assistant with natural conversation flow, mid-speech interruption, vision capabilities and AI-initiated follow-ups. Features low-latency audio streaming, dynamic visual feedback, and works with local LLM/TTS services via OpenAI-compatible endpoints.",
+    "url": "https://github.com/Lex-au/Vocalis",
+    "stars": 101,
+    "daily_stars": 0,
+    "language": "TypeScript",
+    "topics": [
+      "artificial-intelligence",
+      "conversational-ai",
+      "speech-to-speech",
+      "visionprocessing"
+    ],
+    "created_at": "2025-03-30T13:36:53",
+    "updated_at": "2025-04-25T21:24:01"
   }
 ]
