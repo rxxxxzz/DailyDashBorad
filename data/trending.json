@@ -1,11 +1,87 @@
 [
   {
+    "name": "Agentfy",
+    "full_name": "Agentfy-io/Agentfy",
+    "description": "🤖 Agentfy is a modular microservices architecture designed to process user requests and execute workflows across multiple social media platforms. The system leverages LLM capabilities to dynamically match user needs with appropriate agents and functions.",
+    "url": "https://github.com/Agentfy-io/Agentfy",
+    "stars": 88,
+    "daily_stars": 7,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "model-context-protocol",
+      "multi-agent-systems",
+      "openai",
+      "prompt-engineering-tool",
+      "python",
+      "social-media-app",
+      "social-media-automation",
+      "tikhub",
+      "workflow-automation"
+    ],
+    "created_at": "2025-04-06T04:16:22",
+    "updated_at": "2025-04-27T04:18:47"
+  },
+  {
+    "name": "EstateWise-Chapel-Hill-Chatbot",
+    "full_name": "hoangsonww/EstateWise-Chapel-Hill-Chatbot",
+    "description": "🏠 A robust real estate chat application that streamlines user authentication, conversation management, and personalized property recommendations with a modern API, RAG, and responsive UI. Explore our repository to see how we integrate Express, MongoDB, and real-time chat features for an intuitive, scalable experience.",
+    "url": "https://github.com/hoangsonww/EstateWise-Chapel-Hill-Chatbot",
+    "stars": 8,
+    "daily_stars": 3,
+    "language": "TypeScript",
+    "topics": [
+      "artificial-intelligence",
+      "chatbot",
+      "estate",
+      "express",
+      "expressjs",
+      "machine-learning",
+      "mongo",
+      "mongodb",
+      "nextjs",
+      "pinecone",
+      "rag",
+      "react",
+      "real-estate",
+      "real-estate-website",
+      "rest-api",
+      "retrieval-augmented-generation",
+      "shadcn-ui",
+      "tailwindcss",
+      "vector-database",
+      "vercel"
+    ],
+    "created_at": "2025-04-16T01:19:56",
+    "updated_at": "2025-04-27T02:42:47"
+  },
+  {
+    "name": "ai_auto_wxgzh",
+    "full_name": "iniwap/ai_auto_wxgzh",
+    "description": "基于CrewAI，自动获取各大平台热点，使用AI生成文章，发布到微信公众号。",
+    "url": "https://github.com/iniwap/ai_auto_wxgzh",
+    "stars": 28,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-wx",
+      "crewai",
+      "weixin",
+      "wx",
+      "wx-template"
+    ],
+    "created_at": "2025-04-02T07:28:12",
+    "updated_at": "2025-04-27T03:45:34"
+  },
+  {
     "name": "Vocalis",
     "full_name": "Lex-au/Vocalis",
     "description": "Speech-to-speech AI assistant with natural conversation flow, mid-speech interruption, vision capabilities and AI-initiated follow-ups. Features low-latency audio streaming, dynamic visual feedback, and works with local LLM/TTS services via OpenAI-compatible endpoints.",
     "url": "https://github.com/Lex-au/Vocalis",
-    "stars": 114,
-    "daily_stars": 9,
+    "stars": 115,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "artificial-intelligence",
@@ -14,44 +90,116 @@
       "visionprocessing"
     ],
     "created_at": "2025-03-30T13:36:53",
-    "updated_at": "2025-04-27T01:04:25"
+    "updated_at": "2025-04-27T02:35:17"
   },
   {
-    "name": "browserable",
-    "full_name": "browserable/browserable",
-    "description": "Open source and self-hostable browser automation library for AI agents",
-    "url": "https://github.com/browserable/browserable",
-    "stars": 530,
-    "daily_stars": 2,
+    "name": "Dify-DSL-collection",
+    "full_name": "Paulzhang2023/Dify-DSL-collection",
+    "description": "Dify DSL collection收集Dify工作流文件DSL，这里很多文件并不是本人原创，而是收集而来，感谢原作者。目前我是初学github，后面会加入大量原创内容",
+    "url": "https://github.com/Paulzhang2023/Dify-DSL-collection",
+    "stars": 2,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "agentic-workflow",
+      "ai",
+      "dify",
+      "dsl",
+      "packages",
+      "prompt-engineering",
+      "workflow"
+    ],
+    "created_at": "2025-04-26T17:42:46",
+    "updated_at": "2025-04-27T03:25:16"
+  },
+  {
+    "name": "evolutionary-policy-optimization",
+    "full_name": "lucidrains/evolutionary-policy-optimization",
+    "description": "Pytorch implementation of Evolutionary Policy Optimization, from Wang et al. of the Robotics Institute at Carnegie Melon University",
+    "url": "https://github.com/lucidrains/evolutionary-policy-optimization",
+    "stars": 57,
+    "daily_stars": 0,
+    "language": null,
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "genetic-algorithms",
+      "reinforcement-learning",
+      "robotics"
+    ],
+    "created_at": "2025-04-07T22:12:06",
+    "updated_at": "2025-04-26T14:12:11"
+  },
+  {
+    "name": "codegrab",
+    "full_name": "epilande/codegrab",
+    "description": "✋ Interactive CLI tool for selecting and bundling code into a single, LLM-ready output file",
+    "url": "https://github.com/epilande/codegrab",
+    "stars": 50,
+    "daily_stars": 0,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "bubbletea",
+      "bundle",
+      "cli",
+      "devtools",
+      "genai",
+      "go",
+      "golang",
+      "llm",
+      "tui"
+    ],
+    "created_at": "2025-03-31T07:56:24",
+    "updated_at": "2025-04-26T06:26:36"
+  },
+  {
+    "name": "ai-access",
+    "full_name": "aiaccess/ai-access",
+    "description": "A flexible PHP library providing access to various AI models (Gemini, OpenAI, Anthropic, DeepSeek, Grok) via a consistent interface.",
+    "url": "https://github.com/aiaccess/ai-access",
+    "stars": 32,
+    "daily_stars": 0,
+    "language": "PHP",
+    "topics": [
+      "ai",
+      "anthropic",
+      "api",
+      "artificial-intelligence",
+      "chatbot",
+      "client",
+      "deepseek",
+      "gemini",
+      "grok",
+      "large-language-model",
+      "llm",
+      "openai"
+    ],
+    "created_at": "2025-04-11T15:23:01",
+    "updated_at": "2025-04-25T09:45:43"
+  },
+  {
+    "name": "monitoring-llms-langfuse-ollama",
+    "full_name": "ErickWendel/monitoring-llms-langfuse-ollama",
+    "description": "Examples of how to monitor the OpenAI SDK calls using Langfuse",
+    "url": "https://github.com/ErickWendel/monitoring-llms-langfuse-ollama",
+    "stars": 18,
+    "daily_stars": 0,
     "language": "JavaScript",
     "topics": [
-      "ai-agents",
-      "ai-tools",
-      "browser-automation",
-      "javascript",
-      "playwright"
+      "artificial-intelligence",
+      "docker",
+      "hostinger",
+      "langfuse",
+      "monitoring",
+      "ollama",
+      "openai"
     ],
-    "created_at": "2025-04-07T16:04:36",
-    "updated_at": "2025-04-26T22:23:50"
-  },
-  {
-    "name": "boson",
-    "full_name": "bosonstack/boson",
-    "description": "A self-contained, lightweight and OOB research platform for modern ML",
-    "url": "https://github.com/bosonstack/boson",
-    "stars": 38,
-    "daily_stars": 2,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "data-science",
-      "deltalake",
-      "jupyter",
-      "machine-learning",
-      "mlops",
-      "polars"
-    ],
-    "created_at": "2025-04-19T10:57:15",
-    "updated_at": "2025-04-27T00:03:41"
+    "created_at": "2025-04-05T15:30:58",
+    "updated_at": "2025-04-25T18:21:29"
   },
   {
     "name": "NeoRefacer",
@@ -59,7 +207,7 @@
     "description": "Next-generation, fully open-source refacer. Images. GIFs. Full-length videos. Bulk refacing",
     "url": "https://github.com/MechasAI/NeoRefacer",
     "stars": 15,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "ai",
@@ -76,127 +224,5 @@
     ],
     "created_at": "2025-04-10T21:11:20",
     "updated_at": "2025-04-27T00:07:31"
-  },
-  {
-    "name": "chefskiss",
-    "full_name": "curiousily/chefskiss",
-    "description": "Agent application for suggesting recipes based on user preferences and dietary restrictions using Agent Development Kit by Google",
-    "url": "https://github.com/curiousily/chefskiss",
-    "stars": 4,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "agents",
-      "artificial-intelligence",
-      "chatgpt",
-      "llm"
-    ],
-    "created_at": "2025-04-11T18:27:09",
-    "updated_at": "2025-04-27T00:17:41"
-  },
-  {
-    "name": "ContentFusion-AI",
-    "full_name": "Ramtin-Karbaschi/ContentFusion-AI",
-    "description": "Integrated AI Analysis Engine",
-    "url": "https://github.com/Ramtin-Karbaschi/ContentFusion-AI",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "5-day-genai-intensive-course",
-      "ai",
-      "artificial-intelligence",
-      "gen-ai",
-      "google",
-      "google-competition",
-      "kaggle",
-      "kaggle-competition",
-      "large-language-model",
-      "llm"
-    ],
-    "created_at": "2025-04-10T10:15:40",
-    "updated_at": "2025-04-26T23:23:59"
-  },
-  {
-    "name": "github-actions-mcp",
-    "full_name": "devopsier/github-actions-mcp",
-    "description": "A GitHub Actions integration powered by the MCP. This server exposes structured tools to manage GitHub issues, pull requests, and repositories through natural language interfaces and autonomous agents.",
-    "url": "https://github.com/devopsier/github-actions-mcp",
-    "stars": 2,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "cicd",
-      "github-actions",
-      "github-workflows",
-      "llm",
-      "mcp",
-      "mcp-server",
-      "pipeline",
-      "typescript"
-    ],
-    "created_at": "2025-04-16T22:04:22",
-    "updated_at": "2025-04-27T00:54:11"
-  },
-  {
-    "name": "Agentfy",
-    "full_name": "Agentfy-io/Agentfy",
-    "description": "🤖 Agentfy is a modular microservices architecture designed to process user requests and execute workflows across multiple social media platforms. The system leverages LLM capabilities to dynamically match user needs with appropriate agents and functions.",
-    "url": "https://github.com/Agentfy-io/Agentfy",
-    "stars": 81,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "model-context-protocol",
-      "multi-agent-systems",
-      "openai",
-      "prompt-engineering-tool",
-      "python",
-      "social-media-app",
-      "social-media-automation",
-      "tikhub",
-      "workflow-automation"
-    ],
-    "created_at": "2025-04-06T04:16:22",
-    "updated_at": "2025-04-27T01:53:42"
-  },
-  {
-    "name": "polaris",
-    "full_name": "octu0/polaris",
-    "description": "Distributed AI Agent Framework",
-    "url": "https://github.com/octu0/polaris",
-    "stars": 5,
-    "daily_stars": 1,
-    "language": "Go",
-    "topics": [
-      "ai-agents",
-      "distributed-systems",
-      "function-calling",
-      "gemini"
-    ],
-    "created_at": "2025-04-06T08:29:58",
-    "updated_at": "2025-04-26T20:58:06"
-  },
-  {
-    "name": "Malware-Analyzer",
-    "full_name": "GlgApr/Malware-Analyzer",
-    "description": "Automation Batch Malware Analyzer using Ghidra headlessAnalyzer",
-    "url": "https://github.com/GlgApr/Malware-Analyzer",
-    "stars": 10,
-    "daily_stars": 1,
-    "language": "Java",
-    "topics": [
-      "ghidra",
-      "ghidra-scripts",
-      "machine-learning",
-      "malware",
-      "malware-analysis"
-    ],
-    "created_at": "2025-04-25T08:18:05",
-    "updated_at": "2025-04-27T02:17:25"
   }
 ]
