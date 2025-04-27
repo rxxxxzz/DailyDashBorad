@@ -1,11 +1,120 @@
 [
   {
+    "name": "evolutionary-policy-optimization",
+    "full_name": "lucidrains/evolutionary-policy-optimization",
+    "description": "Pytorch implementation of Evolutionary Policy Optimization, from Wang et al. of the Robotics Institute at Carnegie Melon University",
+    "url": "https://github.com/lucidrains/evolutionary-policy-optimization",
+    "stars": 61,
+    "daily_stars": 4,
+    "language": null,
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "genetic-algorithms",
+      "reinforcement-learning",
+      "robotics"
+    ],
+    "created_at": "2025-04-07T22:12:06",
+    "updated_at": "2025-04-27T16:03:40"
+  },
+  {
+    "name": "localforge",
+    "full_name": "rockbite/localforge",
+    "description": "Local coding agent with neat UI",
+    "url": "https://github.com/rockbite/localforge",
+    "stars": 14,
+    "daily_stars": 2,
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-framework",
+      "javascript",
+      "langchain",
+      "local-llm",
+      "prompt-engineering",
+      "vibe-coding"
+    ],
+    "created_at": "2025-04-22T11:48:45",
+    "updated_at": "2025-04-27T15:55:04"
+  },
+  {
+    "name": "ICon",
+    "full_name": "ShadeAlsha/ICon",
+    "description": "ICLR 2025",
+    "url": "https://github.com/ShadeAlsha/ICon",
+    "stars": 53,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "computer-vision",
+      "machine-learning",
+      "representation-learning"
+    ],
+    "created_at": "2025-04-15T06:18:15",
+    "updated_at": "2025-04-27T15:44:15"
+  },
+  {
+    "name": "Vocalis",
+    "full_name": "Lex-au/Vocalis",
+    "description": "Speech-to-speech AI assistant with natural conversation flow, mid-speech interruption, vision capabilities and AI-initiated follow-ups. Features low-latency audio streaming, dynamic visual feedback, and works with local LLM/TTS services via OpenAI-compatible endpoints.",
+    "url": "https://github.com/Lex-au/Vocalis",
+    "stars": 121,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "artificial-intelligence",
+      "conversational-ai",
+      "speech-to-speech",
+      "visionprocessing"
+    ],
+    "created_at": "2025-03-30T13:36:53",
+    "updated_at": "2025-04-27T15:08:11"
+  },
+  {
+    "name": "lcm-1.13-whitepaper",
+    "full_name": "chonghin33/lcm-1.13-whitepaper",
+    "description": "This project contains the original white paper for Language Construct Modeling (LCM) v1.13, authored by Vincent Shing Hin Chong. It introduces a novel framework for prompt-layered semantic control in large language models (LLMs), built upon the Meta Prompt Layering (MPL) structure.  LCM formalizes a modular system of prompt orchestration, enabling ",
+    "url": "https://github.com/chonghin33/lcm-1.13-whitepaper",
+    "stars": 8,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "artificial-intelligence",
+      "language-construct-modeling",
+      "llm-framework",
+      "llms",
+      "meta-prompt",
+      "modular-prompting"
+    ],
+    "created_at": "2025-04-22T15:10:15",
+    "updated_at": "2025-04-27T13:51:51"
+  },
+  {
+    "name": "browserable",
+    "full_name": "browserable/browserable",
+    "description": "Open source and self-hostable browser automation library for AI agents",
+    "url": "https://github.com/browserable/browserable",
+    "stars": 532,
+    "daily_stars": 1,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "browser-automation",
+      "javascript",
+      "playwright"
+    ],
+    "created_at": "2025-04-07T16:04:36",
+    "updated_at": "2025-04-27T15:46:16"
+  },
+  {
     "name": "Agentfy",
     "full_name": "Agentfy-io/Agentfy",
     "description": "🤖 Agentfy is a modular microservices architecture designed to process user requests and execute workflows across multiple social media platforms. The system leverages LLM capabilities to dynamically match user needs with appropriate agents and functions.",
     "url": "https://github.com/Agentfy-io/Agentfy",
-    "stars": 94,
-    "daily_stars": 3,
+    "stars": 95,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -21,180 +130,82 @@
       "workflow-automation"
     ],
     "created_at": "2025-04-06T04:16:22",
-    "updated_at": "2025-04-27T11:48:03"
+    "updated_at": "2025-04-27T15:00:04"
   },
   {
-    "name": "ICon",
-    "full_name": "ShadeAlsha/ICon",
-    "description": "ICLR 2025",
-    "url": "https://github.com/ShadeAlsha/ICon",
-    "stars": 51,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "computer-vision",
-      "machine-learning",
-      "representation-learning"
-    ],
-    "created_at": "2025-04-15T06:18:15",
-    "updated_at": "2025-04-27T11:27:58"
-  },
-  {
-    "name": "browserable",
-    "full_name": "browserable/browserable",
-    "description": "Open source and self-hostable browser automation library for AI agents",
-    "url": "https://github.com/browserable/browserable",
-    "stars": 531,
+    "name": "secai",
+    "full_name": "pancsta/secai",
+    "description": "Smart graph for networks of autonomous AI Agents",
+    "url": "https://github.com/pancsta/secai",
+    "stars": 64,
     "daily_stars": 1,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "browser-automation",
-      "javascript",
-      "playwright"
-    ],
-    "created_at": "2025-04-07T16:04:36",
-    "updated_at": "2025-04-27T11:28:53"
-  },
-  {
-    "name": "ai_auto_wxgzh",
-    "full_name": "iniwap/ai_auto_wxgzh",
-    "description": "基于CrewAI，自动获取各大平台热点，使用AI生成文章，发布到微信公众号。",
-    "url": "https://github.com/iniwap/ai_auto_wxgzh",
-    "stars": 29,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-wx",
-      "crewai",
-      "weixin",
-      "wx",
-      "wx-template"
-    ],
-    "created_at": "2025-04-02T07:28:12",
-    "updated_at": "2025-04-27T09:10:46"
-  },
-  {
-    "name": "codelogic-mcp-server",
-    "full_name": "CodeLogicIncEngineering/codelogic-mcp-server",
-    "description": "An MCP Server to utilize Codelogic's rich software dependency data in your AI programming assistant.",
-    "url": "https://github.com/CodeLogicIncEngineering/codelogic-mcp-server",
-    "stars": 8,
-    "daily_stars": 1,
-    "language": "Python",
+    "language": "Go",
     "topics": [
       "ai",
       "ai-agents",
-      "coding",
-      "developer-tools",
-      "mcp-server"
-    ],
-    "created_at": "2025-04-02T13:11:29",
-    "updated_at": "2025-04-27T08:58:13"
-  },
-  {
-    "name": "Youtube-MCP",
-    "full_name": "blukglug/Youtube-MCP",
-    "description": "YouTube MCP Server is an AI-powered solution designed to revolutionize your YouTube experience. It empowers users to search for YouTube videos, retrieve detailed transcripts, and perform semantic searches over video content—all without relying on the official API. By integrating with a vector database, this server streamlines content discovery.",
-    "url": "https://github.com/blukglug/Youtube-MCP",
-    "stars": 5,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "claude",
-      "deepseek",
-      "machine-learning",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "python",
-      "semantic-search",
-      "transcripts",
-      "uv",
-      "vector-database",
-      "youtube"
-    ],
-    "created_at": "2025-03-30T07:32:46",
-    "updated_at": "2025-04-27T11:51:12"
-  },
-  {
-    "name": "koharu",
-    "full_name": "mayocream/koharu",
-    "description": "Automated manga translation tool with LLM, written in Rust.",
-    "url": "https://github.com/mayocream/koharu",
-    "stars": 119,
-    "daily_stars": 1,
-    "language": "Rust",
-    "topics": [
-      "deep-learning",
-      "manga",
-      "react",
-      "rust",
-      "tauri"
-    ],
-    "created_at": "2025-04-09T10:52:34",
-    "updated_at": "2025-04-27T11:34:40"
-  },
-  {
-    "name": "SimpleLLMFunc",
-    "full_name": "NiJingzhe/SimpleLLMFunc",
-    "description": "一个简单的恰到好处LLM应用框架，能够让你以最“Code Center“的方式无缝集成LLM能力",
-    "url": "https://github.com/NiJingzhe/SimpleLLMFunc",
-    "stars": 38,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "aigc",
-      "framework",
+      "asyncmachine",
+      "debugger",
+      "deepresearch",
+      "diagrams",
+      "graph",
+      "instructor",
       "llm",
-      "llm-framework",
-      "llmfunc",
-      "workflow"
+      "repl",
+      "sql"
     ],
-    "created_at": "2025-04-16T17:48:01",
-    "updated_at": "2025-04-27T09:40:19"
+    "created_at": "2025-04-13T19:06:36",
+    "updated_at": "2025-04-27T15:52:44"
   },
   {
-    "name": "Dify-DSL-collection",
-    "full_name": "Paulzhang2023/Dify-DSL-collection",
-    "description": "Dify DSL collection收集Dify工作流文件DSL，这里很多文件并不是本人原创，而是收集而来，感谢原作者。目前我是初学github，后面会加入大量原创内容",
-    "url": "https://github.com/Paulzhang2023/Dify-DSL-collection",
+    "name": "boson",
+    "full_name": "bosonstack/boson",
+    "description": "A self-contained, lightweight and OOB research platform for modern ML",
+    "url": "https://github.com/bosonstack/boson",
+    "stars": 39,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "data-science",
+      "deltalake",
+      "jupyter",
+      "machine-learning",
+      "mlops",
+      "polars"
+    ],
+    "created_at": "2025-04-19T10:57:15",
+    "updated_at": "2025-04-27T13:29:02"
+  },
+  {
+    "name": "cleanfm",
+    "full_name": "matthewmcq/cleanfm",
+    "description": "Implementation of the Dirichlet Kernel Deconvolution algorithm for precise FFT parameter estimation and near-perfect elimination of spectral leakage. Additionally includes the \"Cleaned\" STFT and the Frequency Modulation Transform. Repository for code contained in Matthew McQuistion's Applied Mathematics Honors Thesis at Brown University",
+    "url": "https://github.com/matthewmcq/cleanfm",
     "stars": 3,
     "daily_stars": 1,
-    "language": "TypeScript",
+    "language": "C",
     "topics": [
-      "agent",
-      "agentic-ai",
-      "agentic-workflow",
-      "ai",
-      "dify",
-      "dsl",
-      "packages",
-      "prompt-engineering",
-      "workflow"
+      "audio-processing",
+      "brown-university",
+      "cleanfm",
+      "deconvolution",
+      "dft",
+      "digital-signal-processing",
+      "dirichlet-kernel",
+      "dsp",
+      "fft",
+      "fm",
+      "fourier-transform",
+      "frequency-analysis",
+      "frequency-modulation",
+      "machine-learning",
+      "open-source",
+      "parameter-estimation",
+      "resampling",
+      "signal-processing",
+      "spectral-leakage",
+      "stft"
     ],
-    "created_at": "2025-04-26T17:42:46",
-    "updated_at": "2025-04-27T09:04:35"
-  },
-  {
-    "name": "Vocalis",
-    "full_name": "Lex-au/Vocalis",
-    "description": "Speech-to-speech AI assistant with natural conversation flow, mid-speech interruption, vision capabilities and AI-initiated follow-ups. Features low-latency audio streaming, dynamic visual feedback, and works with local LLM/TTS services via OpenAI-compatible endpoints.",
-    "url": "https://github.com/Lex-au/Vocalis",
-    "stars": 120,
-    "daily_stars": 0,
-    "language": "TypeScript",
-    "topics": [
-      "artificial-intelligence",
-      "conversational-ai",
-      "speech-to-speech",
-      "visionprocessing"
-    ],
-    "created_at": "2025-03-30T13:36:53",
-    "updated_at": "2025-04-27T08:39:52"
+    "created_at": "2025-04-25T15:39:31",
+    "updated_at": "2025-04-27T15:15:23"
   }
 ]
