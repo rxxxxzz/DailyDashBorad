@@ -4,8 +4,8 @@
     "full_name": "lucidrains/evolutionary-policy-optimization",
     "description": "Pytorch implementation of Evolutionary Policy Optimization, from Wang et al. of the Robotics Institute at Carnegie Melon University",
     "url": "https://github.com/lucidrains/evolutionary-policy-optimization",
-    "stars": 61,
-    "daily_stars": 4,
+    "stars": 64,
+    "daily_stars": 3,
     "language": null,
     "topics": [
       "artificial-intelligence",
@@ -15,14 +15,31 @@
       "robotics"
     ],
     "created_at": "2025-04-07T22:12:06",
-    "updated_at": "2025-04-27T16:03:40"
+    "updated_at": "2025-04-27T18:31:40"
+  },
+  {
+    "name": "Vocalis",
+    "full_name": "Lex-au/Vocalis",
+    "description": "Speech-to-speech AI assistant with natural conversation flow, mid-speech interruption, vision capabilities and AI-initiated follow-ups. Features low-latency audio streaming, dynamic visual feedback, and works with local LLM/TTS services via OpenAI-compatible endpoints.",
+    "url": "https://github.com/Lex-au/Vocalis",
+    "stars": 123,
+    "daily_stars": 2,
+    "language": "TypeScript",
+    "topics": [
+      "artificial-intelligence",
+      "conversational-ai",
+      "speech-to-speech",
+      "visionprocessing"
+    ],
+    "created_at": "2025-03-30T13:36:53",
+    "updated_at": "2025-04-27T18:21:38"
   },
   {
     "name": "localforge",
     "full_name": "rockbite/localforge",
     "description": "Local coding agent with neat UI",
     "url": "https://github.com/rockbite/localforge",
-    "stars": 14,
+    "stars": 16,
     "daily_stars": 2,
     "language": "JavaScript",
     "topics": [
@@ -36,176 +53,164 @@
       "vibe-coding"
     ],
     "created_at": "2025-04-22T11:48:45",
-    "updated_at": "2025-04-27T15:55:04"
+    "updated_at": "2025-04-27T18:11:59"
   },
   {
-    "name": "ICon",
-    "full_name": "ShadeAlsha/ICon",
-    "description": "ICLR 2025",
-    "url": "https://github.com/ShadeAlsha/ICon",
-    "stars": 53,
+    "name": "snippy",
+    "full_name": "Azure-Samples/snippy",
+    "description": "🧩 Demo: Build AI-powered MCP Tools for GitHub Copilot using Azure Functions, OpenAI, AI Agents & Cosmos DB. Manages code snippets w/ vector search.",
+    "url": "https://github.com/Azure-Samples/snippy",
+    "stars": 5,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
-      "computer-vision",
-      "machine-learning",
-      "representation-learning"
-    ],
-    "created_at": "2025-04-15T06:18:15",
-    "updated_at": "2025-04-27T15:44:15"
-  },
-  {
-    "name": "Vocalis",
-    "full_name": "Lex-au/Vocalis",
-    "description": "Speech-to-speech AI assistant with natural conversation flow, mid-speech interruption, vision capabilities and AI-initiated follow-ups. Features low-latency audio streaming, dynamic visual feedback, and works with local LLM/TTS services via OpenAI-compatible endpoints.",
-    "url": "https://github.com/Lex-au/Vocalis",
-    "stars": 121,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "artificial-intelligence",
-      "conversational-ai",
-      "speech-to-speech",
-      "visionprocessing"
-    ],
-    "created_at": "2025-03-30T13:36:53",
-    "updated_at": "2025-04-27T15:08:11"
-  },
-  {
-    "name": "lcm-1.13-whitepaper",
-    "full_name": "chonghin33/lcm-1.13-whitepaper",
-    "description": "This project contains the original white paper for Language Construct Modeling (LCM) v1.13, authored by Vincent Shing Hin Chong. It introduces a novel framework for prompt-layered semantic control in large language models (LLMs), built upon the Meta Prompt Layering (MPL) structure.  LCM formalizes a modular system of prompt orchestration, enabling ",
-    "url": "https://github.com/chonghin33/lcm-1.13-whitepaper",
-    "stars": 8,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "artificial-intelligence",
-      "language-construct-modeling",
-      "llm-framework",
-      "llms",
-      "meta-prompt",
-      "modular-prompting"
-    ],
-    "created_at": "2025-04-22T15:10:15",
-    "updated_at": "2025-04-27T13:51:51"
-  },
-  {
-    "name": "browserable",
-    "full_name": "browserable/browserable",
-    "description": "Open source and self-hostable browser automation library for AI agents",
-    "url": "https://github.com/browserable/browserable",
-    "stars": 532,
-    "daily_stars": 1,
-    "language": "JavaScript",
-    "topics": [
       "ai-agents",
-      "ai-tools",
-      "browser-automation",
-      "javascript",
-      "playwright"
+      "azure-functions",
+      "copilot",
+      "cosmosdb",
+      "mcp",
+      "mcp-server"
     ],
-    "created_at": "2025-04-07T16:04:36",
-    "updated_at": "2025-04-27T15:46:16"
+    "created_at": "2025-04-24T18:25:10",
+    "updated_at": "2025-04-27T18:23:45"
   },
   {
-    "name": "Agentfy",
-    "full_name": "Agentfy-io/Agentfy",
-    "description": "🤖 Agentfy is a modular microservices architecture designed to process user requests and execute workflows across multiple social media platforms. The system leverages LLM capabilities to dynamically match user needs with appropriate agents and functions.",
-    "url": "https://github.com/Agentfy-io/Agentfy",
-    "stars": 95,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "model-context-protocol",
-      "multi-agent-systems",
-      "openai",
-      "prompt-engineering-tool",
-      "python",
-      "social-media-app",
-      "social-media-automation",
-      "tikhub",
-      "workflow-automation"
-    ],
-    "created_at": "2025-04-06T04:16:22",
-    "updated_at": "2025-04-27T15:00:04"
-  },
-  {
-    "name": "secai",
-    "full_name": "pancsta/secai",
-    "description": "Smart graph for networks of autonomous AI Agents",
-    "url": "https://github.com/pancsta/secai",
-    "stars": 64,
+    "name": "codegrab",
+    "full_name": "epilande/codegrab",
+    "description": "✋ Interactive CLI tool for selecting and bundling code into a single, LLM-ready output file",
+    "url": "https://github.com/epilande/codegrab",
+    "stars": 51,
     "daily_stars": 1,
     "language": "Go",
     "topics": [
       "ai",
-      "ai-agents",
-      "asyncmachine",
-      "debugger",
-      "deepresearch",
-      "diagrams",
-      "graph",
-      "instructor",
+      "artificial-intelligence",
+      "bubbletea",
+      "bundle",
+      "cli",
+      "devtools",
+      "genai",
+      "go",
+      "golang",
       "llm",
-      "repl",
-      "sql"
+      "tui"
     ],
-    "created_at": "2025-04-13T19:06:36",
-    "updated_at": "2025-04-27T15:52:44"
+    "created_at": "2025-03-31T07:56:24",
+    "updated_at": "2025-04-27T20:22:33"
   },
   {
-    "name": "boson",
-    "full_name": "bosonstack/boson",
-    "description": "A self-contained, lightweight and OOB research platform for modern ML",
-    "url": "https://github.com/bosonstack/boson",
-    "stars": 39,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "data-science",
-      "deltalake",
-      "jupyter",
-      "machine-learning",
-      "mlops",
-      "polars"
-    ],
-    "created_at": "2025-04-19T10:57:15",
-    "updated_at": "2025-04-27T13:29:02"
-  },
-  {
-    "name": "cleanfm",
-    "full_name": "matthewmcq/cleanfm",
-    "description": "Implementation of the Dirichlet Kernel Deconvolution algorithm for precise FFT parameter estimation and near-perfect elimination of spectral leakage. Additionally includes the \"Cleaned\" STFT and the Frequency Modulation Transform. Repository for code contained in Matthew McQuistion's Applied Mathematics Honors Thesis at Brown University",
-    "url": "https://github.com/matthewmcq/cleanfm",
+    "name": "totalrecon",
+    "full_name": "josh1643/totalrecon",
+    "description": "A lightweight Python tool for passive reconnaissance, including subdomain, email, and S3 bucket extraction, with AI-powered scanner for sensitive infrastructure mentions.",
+    "url": "https://github.com/josh1643/totalrecon",
     "stars": 3,
     "daily_stars": 1,
-    "language": "C",
+    "language": "Python",
     "topics": [
-      "audio-processing",
-      "brown-university",
-      "cleanfm",
-      "deconvolution",
-      "dft",
-      "digital-signal-processing",
-      "dirichlet-kernel",
-      "dsp",
-      "fft",
-      "fm",
-      "fourier-transform",
-      "frequency-analysis",
-      "frequency-modulation",
+      "ai",
+      "artificial-intelligence",
+      "bug-bounty",
+      "bugbounty",
+      "ctf",
+      "cyber-security",
+      "cybersecurity",
+      "cybersecurity-tools",
+      "email-extraction",
       "machine-learning",
       "open-source",
-      "parameter-estimation",
-      "resampling",
-      "signal-processing",
-      "spectral-leakage",
-      "stft"
+      "passive-recon",
+      "passive-reconnaissance",
+      "python",
+      "reconnaissance",
+      "subdomain-enumeration",
+      "text-mining"
     ],
-    "created_at": "2025-04-25T15:39:31",
-    "updated_at": "2025-04-27T15:15:23"
+    "created_at": "2025-04-25T22:17:59",
+    "updated_at": "2025-04-27T17:34:50"
+  },
+  {
+    "name": "octagon-vc-agents",
+    "full_name": "OctagonAI/octagon-vc-agents",
+    "description": "An MCP server that runs AI-driven venture capitalist agents (Fred Wilson, Peter Thiel, etc.), whose thinking is continuously enriched by Octagon Private Markets' real-time deals, valuations, and deep research intelligence. Use it to spin up programmable \"VC brains\" for pitch feedback, diligence simulations, term sheet negotiations, and more.",
+    "url": "https://github.com/OctagonAI/octagon-vc-agents",
+    "stars": 6,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "investment",
+      "mcp-server"
+    ],
+    "created_at": "2025-04-18T05:12:37",
+    "updated_at": "2025-04-27T18:37:01"
+  },
+  {
+    "name": "Versatile-OCR-Program",
+    "full_name": "ses4255/Versatile-OCR-Program",
+    "description": "Multi-modal OCR pipeline optimized for ML training (text, math, tables, diagrams)",
+    "url": "https://github.com/ses4255/Versatile-OCR-Program",
+    "stars": 611,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "doclayout",
+      "educational-data",
+      "exam-ocr",
+      "machine-learning",
+      "ml-datasets",
+      "multi-modal",
+      "ocr",
+      "openai",
+      "paper-ocr",
+      "table-parsing"
+    ],
+    "created_at": "2025-04-01T08:52:45",
+    "updated_at": "2025-04-27T16:44:54"
+  },
+  {
+    "name": "ai-access",
+    "full_name": "aiaccess/ai-access",
+    "description": "A flexible PHP library providing access to various AI models (Gemini, OpenAI, Anthropic, DeepSeek, Grok) via a consistent interface.",
+    "url": "https://github.com/aiaccess/ai-access",
+    "stars": 32,
+    "daily_stars": 0,
+    "language": "PHP",
+    "topics": [
+      "ai",
+      "anthropic",
+      "api",
+      "artificial-intelligence",
+      "chatbot",
+      "client",
+      "deepseek",
+      "gemini",
+      "grok",
+      "large-language-model",
+      "llm",
+      "openai"
+    ],
+    "created_at": "2025-04-11T15:23:01",
+    "updated_at": "2025-04-25T09:45:43"
+  },
+  {
+    "name": "monitoring-llms-langfuse-ollama",
+    "full_name": "ErickWendel/monitoring-llms-langfuse-ollama",
+    "description": "Examples of how to monitor the OpenAI SDK calls using Langfuse",
+    "url": "https://github.com/ErickWendel/monitoring-llms-langfuse-ollama",
+    "stars": 18,
+    "daily_stars": 0,
+    "language": "JavaScript",
+    "topics": [
+      "artificial-intelligence",
+      "docker",
+      "hostinger",
+      "langfuse",
+      "monitoring",
+      "ollama",
+      "openai"
+    ],
+    "created_at": "2025-04-05T15:30:58",
+    "updated_at": "2025-04-25T18:21:29"
   }
 ]
