@@ -4,8 +4,8 @@
     "full_name": "open-edge-platform/geti",
     "description": "Build computer vision models in a fraction of the time and with less data.",
     "url": "https://github.com/open-edge-platform/geti",
-    "stars": 64,
-    "daily_stars": 14,
+    "stars": 70,
+    "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
       "computer-vision",
@@ -15,69 +15,56 @@
       "openvino"
     ],
     "created_at": "2025-04-10T09:02:28",
-    "updated_at": "2025-04-30T13:01:45"
+    "updated_at": "2025-04-30T16:03:40"
   },
   {
-    "name": "browserable",
-    "full_name": "browserable/browserable",
-    "description": "Open source and self-hostable browser automation library for AI agents",
-    "url": "https://github.com/browserable/browserable",
-    "stars": 542,
-    "daily_stars": 2,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "browser-automation",
-      "javascript",
-      "playwright"
-    ],
-    "created_at": "2025-04-07T16:04:36",
-    "updated_at": "2025-04-30T10:45:55"
-  },
-  {
-    "name": "evolutionary-policy-optimization",
-    "full_name": "lucidrains/evolutionary-policy-optimization",
-    "description": "Pytorch implementation of Evolutionary Policy Optimization, from Wang et al. of the Robotics Institute at Carnegie Melon University",
-    "url": "https://github.com/lucidrains/evolutionary-policy-optimization",
-    "stars": 69,
+    "name": "secai",
+    "full_name": "pancsta/secai",
+    "description": "Smart graph for networks of autonomous AI Agents",
+    "url": "https://github.com/pancsta/secai",
+    "stars": 65,
     "daily_stars": 1,
-    "language": null,
+    "language": "Go",
     "topics": [
-      "artificial-intelligence",
-      "deep-learning",
-      "genetic-algorithms",
-      "reinforcement-learning",
-      "robotics"
+      "ai",
+      "ai-agents",
+      "asyncmachine",
+      "debugger",
+      "deepresearch",
+      "diagrams",
+      "graph",
+      "instructor",
+      "llm",
+      "repl",
+      "sql"
     ],
-    "created_at": "2025-04-07T22:12:06",
-    "updated_at": "2025-04-30T09:22:44"
+    "created_at": "2025-04-13T19:06:36",
+    "updated_at": "2025-04-30T13:29:04"
   },
   {
-    "name": "snippy",
-    "full_name": "Azure-Samples/snippy",
-    "description": "🧩 Demo: Build AI-powered MCP Tools for GitHub Copilot using Azure Functions, OpenAI, AI Agents & Cosmos DB. Manages code snippets w/ vector search.",
-    "url": "https://github.com/Azure-Samples/snippy",
-    "stars": 6,
+    "name": "codelogic-mcp-server",
+    "full_name": "CodeLogicIncEngineering/codelogic-mcp-server",
+    "description": "An MCP Server to utilize Codelogic's rich software dependency data in your AI programming assistant.",
+    "url": "https://github.com/CodeLogicIncEngineering/codelogic-mcp-server",
+    "stars": 9,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
+      "ai",
       "ai-agents",
-      "azure-functions",
-      "copilot",
-      "cosmosdb",
-      "mcp",
+      "coding",
+      "developer-tools",
       "mcp-server"
     ],
-    "created_at": "2025-04-24T18:25:10",
-    "updated_at": "2025-04-30T10:59:43"
+    "created_at": "2025-04-02T13:11:29",
+    "updated_at": "2025-04-30T14:27:20"
   },
   {
     "name": "k8s-mcp-server",
     "full_name": "reza-gholizade/k8s-mcp-server",
     "description": "Manage Your Kubernetes Cluster with k8s mcp-server",
     "url": "https://github.com/reza-gholizade/k8s-mcp-server",
-    "stars": 5,
+    "stars": 6,
     "daily_stars": 1,
     "language": "Go",
     "topics": [
@@ -90,46 +77,58 @@
       "mcp-server"
     ],
     "created_at": "2025-04-13T21:22:39",
-    "updated_at": "2025-04-30T11:29:47"
+    "updated_at": "2025-04-30T16:23:50"
   },
   {
-    "name": "Versatile-OCR-Program",
-    "full_name": "ses4255/Versatile-OCR-Program",
-    "description": "Multi-modal OCR pipeline optimized for ML training (text, math, tables, diagrams)",
-    "url": "https://github.com/ses4255/Versatile-OCR-Program",
-    "stars": 614,
+    "name": "ElasticSiameseFWI-pub",
+    "full_name": "DeepWave-KAUST/ElasticSiameseFWI-pub",
+    "description": "Official reproducible material for Enhancing multiparameter elastic full-waveform inversion with a Siamese network",
+    "url": "https://github.com/DeepWave-KAUST/ElasticSiameseFWI-pub",
+    "stars": 3,
     "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "deep-learning",
+      "elastic",
+      "fwi",
+      "siamese-neural-network"
+    ],
+    "created_at": "2025-04-06T13:01:42",
+    "updated_at": "2025-04-30T16:46:41"
+  },
+  {
+    "name": "Plant_Disease_Detection",
+    "full_name": "CherifChebbi/Plant_Disease_Detection",
+    "description": "A complete deep learning pipeline to detect plant diseases from leaf images using a custom CNN and a VGG16 model. Includes real-time predictions and Grad-CAM visualizations via a modern Streamlit app.",
+    "url": "https://github.com/CherifChebbi/Plant_Disease_Detection",
+    "stars": 2,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "cnn",
+      "deep-learning",
+      "vgg16"
+    ],
+    "created_at": "2025-04-23T17:49:23",
+    "updated_at": "2025-04-30T14:59:37"
+  },
+  {
+    "name": "evolutionary-policy-optimization",
+    "full_name": "lucidrains/evolutionary-policy-optimization",
+    "description": "Pytorch implementation of Evolutionary Policy Optimization, from Wang et al. of the Robotics Institute at Carnegie Melon University",
+    "url": "https://github.com/lucidrains/evolutionary-policy-optimization",
+    "stars": 69,
+    "daily_stars": 0,
     "language": null,
     "topics": [
-      "doclayout",
-      "educational-data",
-      "exam-ocr",
-      "machine-learning",
-      "ml-datasets",
-      "multi-modal",
-      "ocr",
-      "openai",
-      "paper-ocr",
-      "table-parsing"
+      "artificial-intelligence",
+      "deep-learning",
+      "genetic-algorithms",
+      "reinforcement-learning",
+      "robotics"
     ],
-    "created_at": "2025-04-01T08:52:45",
-    "updated_at": "2025-04-30T11:45:09"
-  },
-  {
-    "name": "ICon",
-    "full_name": "ShadeAlsha/ICon",
-    "description": "ICLR 2025",
-    "url": "https://github.com/ShadeAlsha/ICon",
-    "stars": 59,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "computer-vision",
-      "machine-learning",
-      "representation-learning"
-    ],
-    "created_at": "2025-04-15T06:18:15",
-    "updated_at": "2025-04-30T12:14:01"
+    "created_at": "2025-04-07T22:12:06",
+    "updated_at": "2025-04-30T16:21:54"
   },
   {
     "name": "ai-access",
