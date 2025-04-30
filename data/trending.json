@@ -4,7 +4,7 @@
     "full_name": "open-edge-platform/geti",
     "description": "Build computer vision models in a fraction of the time and with less data.",
     "url": "https://github.com/open-edge-platform/geti",
-    "stars": 47,
+    "stars": 50,
     "daily_stars": 3,
     "language": "TypeScript",
     "topics": [
@@ -15,100 +15,144 @@
       "openvino"
     ],
     "created_at": "2025-04-10T09:02:28",
-    "updated_at": "2025-04-30T04:26:51"
+    "updated_at": "2025-04-30T08:20:56"
   },
   {
-    "name": "localforge",
-    "full_name": "rockbite/localforge",
-    "description": "Local coding agent with neat UI",
-    "url": "https://github.com/rockbite/localforge",
-    "stars": 33,
-    "daily_stars": 2,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-framework",
-      "javascript",
-      "langchain",
-      "local-llm",
-      "prompt-engineering",
-      "vibe-coding"
-    ],
-    "created_at": "2025-04-22T11:48:45",
-    "updated_at": "2025-04-30T03:47:05"
-  },
-  {
-    "name": "octagon-vc-agents",
-    "full_name": "OctagonAI/octagon-vc-agents",
-    "description": "An MCP server that runs AI-driven venture capitalist agents (Fred Wilson, Peter Thiel, etc.), whose thinking is continuously enriched by Octagon Private Markets' real-time deals, valuations, and deep research intelligence. Use it to spin up programmable \"VC brains\" for pitch feedback, diligence simulations, term sheet negotiations, and more.",
-    "url": "https://github.com/OctagonAI/octagon-vc-agents",
+    "name": "chefskiss",
+    "full_name": "curiousily/chefskiss",
+    "description": "Agent application for suggesting recipes based on user preferences and dietary restrictions using Agent Development Kit by Google",
+    "url": "https://github.com/curiousily/chefskiss",
     "stars": 7,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "agents",
+      "artificial-intelligence",
+      "chatgpt",
+      "llm"
+    ],
+    "created_at": "2025-04-11T18:27:09",
+    "updated_at": "2025-04-30T05:17:55"
+  },
+  {
+    "name": "paperviz",
+    "full_name": "lars-quaedvlieg/paperviz",
+    "description": "Modular Python package for advanced data preprocessing, visualization, and ML pipelines.",
+    "url": "https://github.com/lars-quaedvlieg/paperviz",
+    "stars": 4,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "data-science",
+      "latex",
+      "machine-learning",
+      "open-source",
+      "plotting",
+      "python",
+      "research",
+      "tables",
+      "utilities"
+    ],
+    "created_at": "2025-04-14T11:06:12",
+    "updated_at": "2025-04-30T08:42:47"
+  },
+  {
+    "name": "Tutorials-On-Artificial-Intelligence",
+    "full_name": "ashishbamania/Tutorials-On-Artificial-Intelligence",
+    "description": "A collection of AI tutorials from Dr. Ashish Bamania",
+    "url": "https://github.com/ashishbamania/Tutorials-On-Artificial-Intelligence",
+    "stars": 14,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "artificial-intelligence",
+      "crewai",
+      "data-science",
+      "langchain",
+      "llama",
+      "machine-learning",
+      "ml",
+      "rag",
+      "retreival-augmented-generation",
+      "software-engineering"
+    ],
+    "created_at": "2025-04-10T11:27:02",
+    "updated_at": "2025-04-30T08:26:33"
+  },
+  {
+    "name": "artinet-sdk",
+    "full_name": "the-artinet-project/artinet-sdk",
+    "description": "A JS/TS SDK for the Agent2Agent Protocol",
+    "url": "https://github.com/the-artinet-project/artinet-sdk",
+    "stars": 6,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "a2a",
+      "a2a-protocol",
+      "agent2agent",
+      "agents",
+      "ai",
+      "aiagents",
+      "aiagentsframework",
+      "artificial-intelligence",
+      "mcp"
+    ],
+    "created_at": "2025-04-25T20:10:21",
+    "updated_at": "2025-04-30T04:51:39"
+  },
+  {
+    "name": "mcp-gemini-search",
+    "full_name": "arjunprabhulal/mcp-gemini-search",
+    "description": "Model Context Protocol (MCP) with Gemini 2.5 Pro. Convert conversational queries into flight searches using Gemini's function calling capabilities and MCP's flight search tools",
+    "url": "https://github.com/arjunprabhulal/mcp-gemini-search",
+    "stars": 22,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai",
-      "ai-agents",
-      "investment",
-      "mcp-server"
-    ],
-    "created_at": "2025-04-18T05:12:37",
-    "updated_at": "2025-04-30T03:39:53"
-  },
-  {
-    "name": "amazon-mcp",
-    "full_name": "Fewsats/amazon-mcp",
-    "description": "Amazon MCP server to search & buy products using the L402",
-    "url": "https://github.com/Fewsats/amazon-mcp",
-    "stars": 5,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "aiagents",
-      "e-commerce",
+      "function-calling",
+      "gemini",
       "llm",
+      "machine-learning",
       "mcp",
       "mcp-server",
-      "shopping"
+      "model-context-protocol",
+      "serpapi",
+      "stdio"
     ],
-    "created_at": "2025-04-01T08:18:58",
-    "updated_at": "2025-04-30T04:31:28"
+    "created_at": "2025-04-04T17:05:06",
+    "updated_at": "2025-04-30T07:21:05"
   },
   {
-    "name": "ICon",
-    "full_name": "ShadeAlsha/ICon",
-    "description": "ICLR 2025",
-    "url": "https://github.com/ShadeAlsha/ICon",
-    "stars": 58,
+    "name": "AI-Trading-Bot-From-Data-to-Money",
+    "full_name": "FatherMonkey916/AI-Trading-Bot-From-Data-to-Money",
+    "description": "This bot is an automated cryptocurrency trading system designed to operate on the Bitget exchange. It fetches real-time market data, applies predictive analytics using a pretrained neural forecast model, and executes buy/sell or exit strategies based on intelligent signal generation.",
+    "url": "https://github.com/FatherMonkey916/AI-Trading-Bot-From-Data-to-Money",
+    "stars": 10,
     "daily_stars": 1,
-    "language": "Python",
+    "language": null,
     "topics": [
-      "computer-vision",
+      "aitrading",
+      "crypto",
+      "cryptocurrency",
+      "forecasting",
+      "forecasting-models",
       "machine-learning",
-      "representation-learning"
+      "numpy",
+      "pymongo",
+      "python",
+      "timeseries-forecasting",
+      "trading",
+      "trading-algorithms",
+      "trading-strategies",
+      "tradingbot"
     ],
-    "created_at": "2025-04-15T06:18:15",
-    "updated_at": "2025-04-30T03:12:45"
-  },
-  {
-    "name": "LLM-RL-Visualized",
-    "full_name": "changyeyu/LLM-RL-Visualized",
-    "description": "LLM, RL, DPO, RLHF, PPO, GRPO, Distillation, RAG, Alignment, SFT ...",
-    "url": "https://github.com/changyeyu/LLM-RL-Visualized",
-    "stars": 5,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "algorithms",
-      "deep-learning",
-      "llm",
-      "nlp",
-      "reinforcement-learning"
-    ],
-    "created_at": "2025-04-26T14:30:47",
-    "updated_at": "2025-04-30T03:56:02"
+    "created_at": "2025-04-21T19:41:38",
+    "updated_at": "2025-04-30T07:10:39"
   },
   {
     "name": "evolutionary-policy-optimization",
@@ -172,29 +216,5 @@
     ],
     "created_at": "2025-04-05T15:30:58",
     "updated_at": "2025-04-25T18:21:29"
-  },
-  {
-    "name": "NeoRefacer",
-    "full_name": "MechasAI/NeoRefacer",
-    "description": "Next-generation, fully open-source refacer. Images. GIFs. Full-length videos. Bulk refacing",
-    "url": "https://github.com/MechasAI/NeoRefacer",
-    "stars": 15,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "deep-learning",
-      "deepfake",
-      "faceswap",
-      "genai",
-      "gifs",
-      "image-manipulation",
-      "images",
-      "refacer",
-      "videos"
-    ],
-    "created_at": "2025-04-10T21:11:20",
-    "updated_at": "2025-04-27T00:07:31"
   }
 ]
