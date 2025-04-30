@@ -4,7 +4,7 @@
     "full_name": "open-edge-platform/geti",
     "description": "Build computer vision models in a fraction of the time and with less data.",
     "url": "https://github.com/open-edge-platform/geti",
-    "stars": 70,
+    "stars": 76,
     "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
@@ -15,102 +15,124 @@
       "openvino"
     ],
     "created_at": "2025-04-10T09:02:28",
-    "updated_at": "2025-04-30T16:03:40"
+    "updated_at": "2025-04-30T19:22:51"
   },
   {
-    "name": "secai",
-    "full_name": "pancsta/secai",
-    "description": "Smart graph for networks of autonomous AI Agents",
-    "url": "https://github.com/pancsta/secai",
-    "stars": 65,
+    "name": "artinet-sdk",
+    "full_name": "the-artinet-project/artinet-sdk",
+    "description": "A JS/TS SDK for the Agent2Agent Protocol",
+    "url": "https://github.com/the-artinet-project/artinet-sdk",
+    "stars": 7,
     "daily_stars": 1,
-    "language": "Go",
+    "language": "TypeScript",
     "topics": [
+      "a2a",
+      "a2a-protocol",
+      "agent2agent",
+      "agents",
       "ai",
-      "ai-agents",
-      "asyncmachine",
-      "debugger",
-      "deepresearch",
-      "diagrams",
-      "graph",
-      "instructor",
-      "llm",
-      "repl",
-      "sql"
+      "aiagents",
+      "aiagentsframework",
+      "artificial-intelligence",
+      "mcp"
     ],
-    "created_at": "2025-04-13T19:06:36",
-    "updated_at": "2025-04-30T13:29:04"
+    "created_at": "2025-04-25T20:10:21",
+    "updated_at": "2025-04-30T19:42:41"
   },
   {
-    "name": "codelogic-mcp-server",
-    "full_name": "CodeLogicIncEngineering/codelogic-mcp-server",
-    "description": "An MCP Server to utilize Codelogic's rich software dependency data in your AI programming assistant.",
-    "url": "https://github.com/CodeLogicIncEngineering/codelogic-mcp-server",
-    "stars": 9,
+    "name": "browserable",
+    "full_name": "browserable/browserable",
+    "description": "Open source and self-hostable browser automation library for AI agents",
+    "url": "https://github.com/browserable/browserable",
+    "stars": 543,
+    "daily_stars": 1,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "browser-automation",
+      "javascript",
+      "playwright"
+    ],
+    "created_at": "2025-04-07T16:04:36",
+    "updated_at": "2025-04-30T16:49:05"
+  },
+  {
+    "name": "open-operator-evals",
+    "full_name": "nottelabs/open-operator-evals",
+    "description": "Opensource benchmark evaluating web operators/agents performance",
+    "url": "https://github.com/nottelabs/open-operator-evals",
+    "stars": 12,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "ai",
       "ai-agents",
-      "coding",
-      "developer-tools",
-      "mcp-server"
+      "ai-tools",
+      "browser-automation",
+      "browser-use",
+      "computer-use",
+      "cua",
+      "llm",
+      "notte",
+      "web-agent"
     ],
-    "created_at": "2025-04-02T13:11:29",
-    "updated_at": "2025-04-30T14:27:20"
+    "created_at": "2025-04-08T13:25:01",
+    "updated_at": "2025-04-30T17:21:01"
   },
   {
-    "name": "k8s-mcp-server",
-    "full_name": "reza-gholizade/k8s-mcp-server",
-    "description": "Manage Your Kubernetes Cluster with k8s mcp-server",
-    "url": "https://github.com/reza-gholizade/k8s-mcp-server",
-    "stars": 6,
+    "name": "blast",
+    "full_name": "stanford-mast/blast",
+    "description": "Browser-LLM Auto-Scaling Technology",
+    "url": "https://github.com/stanford-mast/blast",
+    "stars": 1,
     "daily_stars": 1,
-    "language": "Go",
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "browser-automation",
+      "llm-inference",
+      "python"
+    ],
+    "created_at": "2025-04-05T00:03:34",
+    "updated_at": "2025-04-30T18:01:02"
+  },
+  {
+    "name": "EchoAI",
+    "full_name": "3ch0AI/EchoAI",
+    "description": "Official Echo AI Website",
+    "url": "https://github.com/3ch0AI/EchoAI",
+    "stars": 1,
+    "daily_stars": 1,
+    "language": "HTML",
     "topics": [
       "ai",
       "ai-agents",
-      "golang",
-      "k8s-mcp-server",
-      "kubernetes",
-      "mcp",
-      "mcp-server"
+      "chat-completion",
+      "chat-stream",
+      "chatbot",
+      "image-generation"
     ],
-    "created_at": "2025-04-13T21:22:39",
-    "updated_at": "2025-04-30T16:23:50"
+    "created_at": "2025-04-25T15:44:17",
+    "updated_at": "2025-04-30T19:16:39"
   },
   {
-    "name": "ElasticSiameseFWI-pub",
-    "full_name": "DeepWave-KAUST/ElasticSiameseFWI-pub",
-    "description": "Official reproducible material for Enhancing multiparameter elastic full-waveform inversion with a Siamese network",
-    "url": "https://github.com/DeepWave-KAUST/ElasticSiameseFWI-pub",
-    "stars": 3,
+    "name": "Community-AI-Assistant",
+    "full_name": "RiadBensalem/Community-AI-Assistant",
+    "description": "AI onboarding assistant for communities using LangGraph, Gemini, and ChromaDB. Answers questions with RAG, scores new applications from Google Sheets, and runs in a Gradio UI. Demonstrates tool use, prompt design, and stateful agent logic.",
+    "url": "https://github.com/RiadBensalem/Community-AI-Assistant",
+    "stars": 1,
     "daily_stars": 1,
     "language": "Jupyter Notebook",
     "topics": [
-      "deep-learning",
-      "elastic",
-      "fwi",
-      "siamese-neural-network"
+      "ai-agents",
+      "chromadb",
+      "genai",
+      "gradio",
+      "langraph",
+      "rag"
     ],
-    "created_at": "2025-04-06T13:01:42",
-    "updated_at": "2025-04-30T16:46:41"
-  },
-  {
-    "name": "Plant_Disease_Detection",
-    "full_name": "CherifChebbi/Plant_Disease_Detection",
-    "description": "A complete deep learning pipeline to detect plant diseases from leaf images using a custom CNN and a VGG16 model. Includes real-time predictions and Grad-CAM visualizations via a modern Streamlit app.",
-    "url": "https://github.com/CherifChebbi/Plant_Disease_Detection",
-    "stars": 2,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "cnn",
-      "deep-learning",
-      "vgg16"
-    ],
-    "created_at": "2025-04-23T17:49:23",
-    "updated_at": "2025-04-30T14:59:37"
+    "created_at": "2025-04-24T17:42:07",
+    "updated_at": "2025-04-30T17:06:09"
   },
   {
     "name": "evolutionary-policy-optimization",
@@ -128,7 +150,7 @@
       "robotics"
     ],
     "created_at": "2025-04-07T22:12:06",
-    "updated_at": "2025-04-30T16:21:54"
+    "updated_at": "2025-04-30T17:40:58"
   },
   {
     "name": "ai-access",
@@ -174,29 +196,5 @@
     ],
     "created_at": "2025-04-05T15:30:58",
     "updated_at": "2025-04-25T18:21:29"
-  },
-  {
-    "name": "NeoRefacer",
-    "full_name": "MechasAI/NeoRefacer",
-    "description": "Next-generation, fully open-source refacer. Images. GIFs. Full-length videos. Bulk refacing",
-    "url": "https://github.com/MechasAI/NeoRefacer",
-    "stars": 15,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "deep-learning",
-      "deepfake",
-      "faceswap",
-      "genai",
-      "gifs",
-      "image-manipulation",
-      "images",
-      "refacer",
-      "videos"
-    ],
-    "created_at": "2025-04-10T21:11:20",
-    "updated_at": "2025-04-27T00:07:31"
   }
 ]
