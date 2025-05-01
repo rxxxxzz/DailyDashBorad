@@ -4,8 +4,8 @@
     "full_name": "open-edge-platform/geti",
     "description": "Build computer vision models in a fraction of the time and with less data.",
     "url": "https://github.com/open-edge-platform/geti",
-    "stars": 84,
-    "daily_stars": 2,
+    "stars": 91,
+    "daily_stars": 7,
     "language": "TypeScript",
     "topics": [
       "computer-vision",
@@ -15,14 +15,58 @@
       "openvino"
     ],
     "created_at": "2025-04-10T09:02:28",
-    "updated_at": "2025-05-01T04:15:42"
+    "updated_at": "2025-05-01T08:20:00"
+  },
+  {
+    "name": "docscribe.nvim",
+    "full_name": "AdrianMosnegutu/docscribe.nvim",
+    "description": "A Neovim plugin for generating inline documentation for your functions using LLMs, with customizable UI options and notification support. Currently in development – use at your own risk!",
+    "url": "https://github.com/AdrianMosnegutu/docscribe.nvim",
+    "stars": 4,
+    "daily_stars": 2,
+    "language": "Lua",
+    "topics": [
+      "artificial-intelligence",
+      "docs-generator",
+      "llm",
+      "llm-serving",
+      "nvim",
+      "nvim-plugin",
+      "terminal"
+    ],
+    "created_at": "2025-04-22T13:12:39",
+    "updated_at": "2025-05-01T08:34:07"
+  },
+  {
+    "name": "Agentfy",
+    "full_name": "Agentfy-io/Agentfy",
+    "description": "🤖 Agentfy is a modular microservices architecture designed to process user requests and execute workflows across multiple social media platforms. The system leverages LLM capabilities to dynamically match user needs with appropriate agents and functions.",
+    "url": "https://github.com/Agentfy-io/Agentfy",
+    "stars": 99,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "model-context-protocol",
+      "multi-agent-systems",
+      "openai",
+      "prompt-engineering-tool",
+      "python",
+      "social-media-app",
+      "social-media-automation",
+      "tikhub",
+      "workflow-automation"
+    ],
+    "created_at": "2025-04-06T04:16:22",
+    "updated_at": "2025-05-01T06:53:30"
   },
   {
     "name": "localforge",
     "full_name": "rockbite/localforge",
     "description": "Local coding agent with neat UI",
     "url": "https://github.com/rockbite/localforge",
-    "stars": 34,
+    "stars": 35,
     "daily_stars": 1,
     "language": "JavaScript",
     "topics": [
@@ -36,41 +80,63 @@
       "vibe-coding"
     ],
     "created_at": "2025-04-22T11:48:45",
-    "updated_at": "2025-05-01T03:37:38"
+    "updated_at": "2025-05-01T06:36:29"
   },
   {
-    "name": "ICon",
-    "full_name": "ShadeAlsha/ICon",
-    "description": "ICLR 2025",
-    "url": "https://github.com/ShadeAlsha/ICon",
-    "stars": 60,
+    "name": "ai_auto_wxgzh",
+    "full_name": "iniwap/ai_auto_wxgzh",
+    "description": "基于CrewAI，自动获取各大平台热点，使用AI生成文章，发布到微信公众号。",
+    "url": "https://github.com/iniwap/ai_auto_wxgzh",
+    "stars": 31,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "computer-vision",
-      "machine-learning",
-      "representation-learning"
+      "ai-agents",
+      "ai-wx",
+      "crewai",
+      "weixin",
+      "wx",
+      "wx-template"
     ],
-    "created_at": "2025-04-15T06:18:15",
-    "updated_at": "2025-05-01T04:21:29"
+    "created_at": "2025-04-02T07:28:12",
+    "updated_at": "2025-05-01T05:53:22"
   },
   {
-    "name": "koharu",
-    "full_name": "mayocream/koharu",
-    "description": "Automated manga translation tool with LLM, written in Rust.",
-    "url": "https://github.com/mayocream/koharu",
-    "stars": 122,
+    "name": "youtube-ai-agent",
+    "full_name": "inspector-apm/youtube-ai-agent",
+    "description": "AI Agents summarizong YouTube videos - built with Neuron AI PHP framework.",
+    "url": "https://github.com/inspector-apm/youtube-ai-agent",
+    "stars": 16,
     "daily_stars": 1,
-    "language": "Rust",
+    "language": "PHP",
     "topics": [
-      "deep-learning",
-      "manga",
-      "react",
-      "rust",
-      "tauri"
+      "ai",
+      "ai-agents",
+      "ai-assistant",
+      "llm",
+      "php",
+      "video-ai",
+      "video-analysis",
+      "youtube"
     ],
-    "created_at": "2025-04-09T10:52:34",
-    "updated_at": "2025-05-01T03:42:30"
+    "created_at": "2025-04-04T10:59:42",
+    "updated_at": "2025-05-01T07:43:11"
+  },
+  {
+    "name": "peer-review-mcp",
+    "full_name": "eyalzh/peer-review-mcp",
+    "description": "This MCP server lets AI agents ask for assistance or feedback from more capable models",
+    "url": "https://github.com/eyalzh/peer-review-mcp",
+    "stars": 1,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "mcp",
+      "mcp-server"
+    ],
+    "created_at": "2025-04-30T12:23:57",
+    "updated_at": "2025-05-01T07:20:48"
   },
   {
     "name": "evolutionary-policy-optimization",
@@ -134,74 +200,5 @@
     ],
     "created_at": "2025-04-05T15:30:58",
     "updated_at": "2025-04-25T18:21:29"
-  },
-  {
-    "name": "awesome-google-adk",
-    "full_name": "tsubasakong/awesome-google-adk",
-    "description": "A curated list of awesome resources for Google's Agent Development Kit (ADK)",
-    "url": "https://github.com/tsubasakong/awesome-google-adk",
-    "stars": 15,
-    "daily_stars": 0,
-    "language": null,
-    "topics": [
-      "agent-development-kit",
-      "ai-agents",
-      "artificial-intelligence",
-      "awesome-list",
-      "google-adk",
-      "multi-agent-systems"
-    ],
-    "created_at": "2025-04-19T06:52:24",
-    "updated_at": "2025-04-30T23:02:26"
-  },
-  {
-    "name": "NeoRefacer",
-    "full_name": "MechasAI/NeoRefacer",
-    "description": "Next-generation, fully open-source refacer. Images. GIFs. Full-length videos. Bulk refacing",
-    "url": "https://github.com/MechasAI/NeoRefacer",
-    "stars": 15,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "deep-learning",
-      "deepfake",
-      "faceswap",
-      "genai",
-      "gifs",
-      "image-manipulation",
-      "images",
-      "refacer",
-      "videos"
-    ],
-    "created_at": "2025-04-10T21:11:20",
-    "updated_at": "2025-05-01T00:16:32"
-  },
-  {
-    "name": "Tutorials-On-Artificial-Intelligence",
-    "full_name": "ashishbamania/Tutorials-On-Artificial-Intelligence",
-    "description": "A collection of AI tutorials from Dr. Ashish Bamania",
-    "url": "https://github.com/ashishbamania/Tutorials-On-Artificial-Intelligence",
-    "stars": 14,
-    "daily_stars": 0,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "agentic-ai",
-      "ai",
-      "ai-agents",
-      "artificial-intelligence",
-      "crewai",
-      "data-science",
-      "langchain",
-      "llama",
-      "machine-learning",
-      "ml",
-      "rag",
-      "retreival-augmented-generation",
-      "software-engineering"
-    ],
-    "created_at": "2025-04-10T11:27:02",
-    "updated_at": "2025-04-30T08:26:33"
   }
 ]
