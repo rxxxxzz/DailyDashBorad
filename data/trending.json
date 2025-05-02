@@ -4,8 +4,8 @@
     "full_name": "rockbite/localforge",
     "description": "Local coding agent with neat UI",
     "url": "https://github.com/rockbite/localforge",
-    "stars": 125,
-    "daily_stars": 5,
+    "stars": 136,
+    "daily_stars": 11,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -18,51 +18,41 @@
       "vibe-coding"
     ],
     "created_at": "2025-04-22T11:48:45",
-    "updated_at": "2025-05-02T04:37:37"
+    "updated_at": "2025-05-02T06:51:24"
   },
   {
-    "name": "hallucination-detection-model",
-    "full_name": "aimonlabs/hallucination-detection-model",
-    "description": "HalluciNot: Hallucination Detection Through Context and Common Knowledge Verification",
-    "url": "https://github.com/aimonlabs/hallucination-detection-model",
-    "stars": 5,
-    "daily_stars": 1,
-    "language": "Python",
+    "name": "machine-learning-interview-questions",
+    "full_name": "amitshekhariitbhu/machine-learning-interview-questions",
+    "description": "Your Cheat Sheet for Machine Learning Interview – Questions and Answers.",
+    "url": "https://github.com/amitshekhariitbhu/machine-learning-interview-questions",
+    "stars": 7,
+    "daily_stars": 5,
+    "language": "Markdown",
     "topics": [
-      "hallucination",
-      "hallucination-detection",
-      "llm",
-      "machine-learning",
-      "nlp"
-    ],
-    "created_at": "2025-04-08T23:19:14",
-    "updated_at": "2025-05-02T03:39:56"
-  },
-  {
-    "name": "geti",
-    "full_name": "open-edge-platform/geti",
-    "description": "Build computer vision models in a fraction of the time and with less data.",
-    "url": "https://github.com/open-edge-platform/geti",
-    "stars": 105,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "computer-vision",
+      "ai",
+      "artificial-intelligence",
       "deep-learning",
-      "fine-tuning",
-      "inference",
-      "openvino"
+      "deep-learning-interview",
+      "deep-learning-interview-questions",
+      "interview",
+      "interview-questions",
+      "llm",
+      "llm-interview",
+      "machine-learning",
+      "machine-learning-interview",
+      "machine-learning-interview-questions",
+      "ml-system-design"
     ],
-    "created_at": "2025-04-10T09:02:28",
-    "updated_at": "2025-05-02T03:41:43"
+    "created_at": "2025-05-02T03:03:34",
+    "updated_at": "2025-05-02T07:03:07"
   },
   {
     "name": "evolutionary-policy-optimization",
     "full_name": "lucidrains/evolutionary-policy-optimization",
     "description": "Pytorch implementation of Evolutionary Policy Optimization, from Wang et al. of the Robotics Institute at Carnegie Melon University",
     "url": "https://github.com/lucidrains/evolutionary-policy-optimization",
-    "stars": 69,
-    "daily_stars": 0,
+    "stars": 70,
+    "daily_stars": 1,
     "language": null,
     "topics": [
       "artificial-intelligence",
@@ -72,15 +62,15 @@
       "robotics"
     ],
     "created_at": "2025-04-07T22:12:06",
-    "updated_at": "2025-05-01T15:16:53"
+    "updated_at": "2025-05-02T07:47:23"
   },
   {
     "name": "ai-access",
     "full_name": "aiaccess/ai-access",
     "description": "A flexible PHP library providing access to various AI models (Gemini, OpenAI, Anthropic, DeepSeek, Grok) via a consistent interface.",
     "url": "https://github.com/aiaccess/ai-access",
-    "stars": 32,
-    "daily_stars": 0,
+    "stars": 33,
+    "daily_stars": 1,
     "language": "PHP",
     "topics": [
       "ai",
@@ -97,7 +87,87 @@
       "openai"
     ],
     "created_at": "2025-04-11T15:23:01",
-    "updated_at": "2025-04-25T09:45:43"
+    "updated_at": "2025-05-02T06:32:20"
+  },
+  {
+    "name": "docscribe.nvim",
+    "full_name": "AdrianMosnegutu/docscribe.nvim",
+    "description": "A Neovim plugin for generating inline documentation for your functions using LLMs, with customizable UI options and notification support. Currently in development – use at your own risk!",
+    "url": "https://github.com/AdrianMosnegutu/docscribe.nvim",
+    "stars": 11,
+    "daily_stars": 1,
+    "language": "Lua",
+    "topics": [
+      "artificial-intelligence",
+      "docs-generator",
+      "llm",
+      "llm-serving",
+      "nvim",
+      "nvim-plugin",
+      "terminal"
+    ],
+    "created_at": "2025-04-22T13:12:39",
+    "updated_at": "2025-05-02T06:09:11"
+  },
+  {
+    "name": "elkar",
+    "full_name": "elkar-ai/elkar",
+    "description": "Task Management for A2A protocol",
+    "url": "https://github.com/elkar-ai/elkar",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "a2a",
+      "a2a-protocol",
+      "agent2agent",
+      "ai-agent",
+      "ai-agents",
+      "llm",
+      "task-management"
+    ],
+    "created_at": "2025-04-30T07:10:48",
+    "updated_at": "2025-05-02T08:32:07"
+  },
+  {
+    "name": "Faraday-Web-Researcher-Agent",
+    "full_name": "DennisDRX/Faraday-Web-Researcher-Agent",
+    "description": "Faraday: An Autonomous Web Research Agent (LangGraph/Streamlit). 🕵️♀️ Investigates queries using dynamic tools (Tavily, Google, NewsAPI, etc.), gathers multi-source info, and synthesizes structured reports in a Streamlit UI. Features agentic workflow & source tracking.",
+    "url": "https://github.com/DennisDRX/Faraday-Web-Researcher-Agent",
+    "stars": 2,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "autonomous-agents",
+      "gemini",
+      "langchain",
+      "langgraph",
+      "llm",
+      "python",
+      "research-agents",
+      "research-tool",
+      "streamlit",
+      "web-research"
+    ],
+    "created_at": "2025-04-28T00:18:49",
+    "updated_at": "2025-05-02T07:46:00"
+  },
+  {
+    "name": "ICon",
+    "full_name": "ShadeAlsha/ICon",
+    "description": "ICLR 2025",
+    "url": "https://github.com/ShadeAlsha/ICon",
+    "stars": 63,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "computer-vision",
+      "machine-learning",
+      "representation-learning"
+    ],
+    "created_at": "2025-04-15T06:18:15",
+    "updated_at": "2025-05-02T07:26:47"
   },
   {
     "name": "monitoring-llms-langfuse-ollama",
@@ -137,71 +207,5 @@
     ],
     "created_at": "2025-04-19T06:52:24",
     "updated_at": "2025-04-30T23:02:26"
-  },
-  {
-    "name": "NeoRefacer",
-    "full_name": "MechasAI/NeoRefacer",
-    "description": "Next-generation, fully open-source refacer. Images. GIFs. Full-length videos. Bulk refacing",
-    "url": "https://github.com/MechasAI/NeoRefacer",
-    "stars": 15,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "deep-learning",
-      "deepfake",
-      "faceswap",
-      "genai",
-      "gifs",
-      "image-manipulation",
-      "images",
-      "refacer",
-      "videos"
-    ],
-    "created_at": "2025-04-10T21:11:20",
-    "updated_at": "2025-05-01T00:16:32"
-  },
-  {
-    "name": "Tutorials-On-Artificial-Intelligence",
-    "full_name": "ashishbamania/Tutorials-On-Artificial-Intelligence",
-    "description": "A collection of AI tutorials from Dr. Ashish Bamania",
-    "url": "https://github.com/ashishbamania/Tutorials-On-Artificial-Intelligence",
-    "stars": 14,
-    "daily_stars": 0,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "agentic-ai",
-      "ai",
-      "ai-agents",
-      "artificial-intelligence",
-      "crewai",
-      "data-science",
-      "langchain",
-      "llama",
-      "machine-learning",
-      "ml",
-      "rag",
-      "retreival-augmented-generation",
-      "software-engineering"
-    ],
-    "created_at": "2025-04-10T11:27:02",
-    "updated_at": "2025-04-30T08:26:33"
-  },
-  {
-    "name": "Apertis-LLM",
-    "full_name": "CuzImSlymi/Apertis-LLM",
-    "description": "Apertis LLM. Clean. Fast. Built Different. Custom LLM architecture designed to be dead simple, insanely efficient, and easy to run—even without monster GPUs. Powered by Selective Linear Attention, Adaptive Experts, and a Unified Multimodal Core. No BS, just raw performance you can actually use.",
-    "url": "https://github.com/CuzImSlymi/Apertis-LLM",
-    "stars": 12,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "large-language-models"
-    ],
-    "created_at": "2025-04-12T18:44:35",
-    "updated_at": "2025-05-01T18:49:09"
   }
 ]
