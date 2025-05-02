@@ -1,11 +1,49 @@
 [
   {
+    "name": "geti",
+    "full_name": "open-edge-platform/geti",
+    "description": "Build computer vision models in a fraction of the time and with less data.",
+    "url": "https://github.com/open-edge-platform/geti",
+    "stars": 113,
+    "daily_stars": 7,
+    "language": "TypeScript",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "fine-tuning",
+      "inference",
+      "openvino"
+    ],
+    "created_at": "2025-04-10T09:02:28",
+    "updated_at": "2025-05-02T15:52:17"
+  },
+  {
+    "name": "elkar",
+    "full_name": "elkar-ai/elkar",
+    "description": "Task Management for A2A protocol",
+    "url": "https://github.com/elkar-ai/elkar",
+    "stars": 10,
+    "daily_stars": 6,
+    "language": "TypeScript",
+    "topics": [
+      "a2a",
+      "a2a-protocol",
+      "agent2agent",
+      "ai-agent",
+      "ai-agents",
+      "llm",
+      "task-management"
+    ],
+    "created_at": "2025-04-30T07:10:48",
+    "updated_at": "2025-05-02T16:39:57"
+  },
+  {
     "name": "localforge",
     "full_name": "rockbite/localforge",
     "description": "Local coding agent with neat UI",
     "url": "https://github.com/rockbite/localforge",
-    "stars": 143,
-    "daily_stars": 7,
+    "stars": 146,
+    "daily_stars": 3,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -18,35 +56,15 @@
       "vibe-coding"
     ],
     "created_at": "2025-04-22T11:48:45",
-    "updated_at": "2025-05-02T12:18:42"
-  },
-  {
-    "name": "docscribe.nvim",
-    "full_name": "AdrianMosnegutu/docscribe.nvim",
-    "description": "A Neovim plugin for generating inline documentation for your functions using LLMs, with customizable UI options and notification support. Currently in development – use at your own risk!",
-    "url": "https://github.com/AdrianMosnegutu/docscribe.nvim",
-    "stars": 12,
-    "daily_stars": 1,
-    "language": "Lua",
-    "topics": [
-      "artificial-intelligence",
-      "docs-generator",
-      "llm",
-      "llm-serving",
-      "nvim",
-      "nvim-plugin",
-      "terminal"
-    ],
-    "created_at": "2025-04-22T13:12:39",
-    "updated_at": "2025-05-02T10:54:08"
+    "updated_at": "2025-05-02T16:10:40"
   },
   {
     "name": "machine-learning-interview-questions",
     "full_name": "amitshekhariitbhu/machine-learning-interview-questions",
     "description": "Your Cheat Sheet for Machine Learning Interview – Questions and Answers.",
     "url": "https://github.com/amitshekhariitbhu/machine-learning-interview-questions",
-    "stars": 8,
-    "daily_stars": 1,
+    "stars": 10,
+    "daily_stars": 2,
     "language": "Markdown",
     "topics": [
       "ai",
@@ -64,157 +82,137 @@
       "ml-system-design"
     ],
     "created_at": "2025-05-02T03:03:34",
-    "updated_at": "2025-05-02T08:59:09"
+    "updated_at": "2025-05-02T16:14:05"
   },
   {
-    "name": "Seeker-o1",
-    "full_name": "iBz-04/Seeker-o1",
-    "description": "Command line Hybrid ai agent system with enhanced memory and a dynamic task planning mode",
-    "url": "https://github.com/iBz-04/Seeker-o1",
-    "stars": 5,
+    "name": "MediScan",
+    "full_name": "alok-devforge/MediScan",
+    "description": "MediScan: AI-powered bone fracture detection system achieving 99.8% accuracy through deep learning. Features real-time X-ray analysis, transparent Grad-CAM visualizations, and clinical integration tools. Built with Python/FastAPI backend and responsive HTML/CSS frontend, making advanced medical diagnostics more accessible to healthcare providers.",
+    "url": "https://github.com/alok-devforge/MediScan",
+    "stars": 3,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "artificial-intelligence",
+      "bone-fracture-detection",
+      "computer-vision",
+      "deep-learning",
+      "fastapi",
+      "gradcam",
+      "healthcare-ai",
+      "html-css-javascript",
+      "medical-diagnostics",
+      "medical-imaging",
+      "python",
+      "web-application",
+      "x-ray-analysis",
+      "yolov8"
+    ],
+    "created_at": "2025-04-25T10:58:16",
+    "updated_at": "2025-05-02T15:40:35"
+  },
+  {
+    "name": "QueryClip",
+    "full_name": "FawwazRaza/QueryClip",
+    "description": "A RAG video chatbot to deliver accurate, context-aware answers. Users can upload videos, which are split into chunks and embedded into a vector database. When a question is asked, the chatbot retrieves relevant chunks using similarity search and generates response.",
+    "url": "https://github.com/FawwazRaza/QueryClip",
+    "stars": 2,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "agentic-ai-cli",
-      "agentic-framework",
-      "ai-agents",
-      "ai-models",
-      "autonomous-agents",
-      "cmd",
-      "commandline-interface",
-      "commandline-tool",
-      "manus",
-      "mcp",
-      "multi-agent-system",
-      "multi-agent-systems",
-      "nlp",
-      "open-source",
-      "python",
-      "python-agent"
-    ],
-    "created_at": "2025-04-29T15:04:11",
-    "updated_at": "2025-05-02T10:08:15"
-  },
-  {
-    "name": "elkar",
-    "full_name": "elkar-ai/elkar",
-    "description": "Task Management for A2A protocol",
-    "url": "https://github.com/elkar-ai/elkar",
-    "stars": 4,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "a2a",
-      "a2a-protocol",
-      "agent2agent",
-      "ai-agent",
-      "ai-agents",
+      "artificial-intelligence",
+      "chatbot",
+      "chromadb",
+      "deepseek-r1",
+      "embeddings",
+      "huggingface",
       "llm",
-      "task-management"
+      "rag-chatbot"
     ],
-    "created_at": "2025-04-30T07:10:48",
-    "updated_at": "2025-05-02T10:37:03"
+    "created_at": "2025-04-30T11:59:28",
+    "updated_at": "2025-05-02T16:14:49"
   },
   {
-    "name": "zasper-benchmark",
-    "full_name": "zasper-io/zasper-benchmark",
-    "description": "Benchmarking Zasper v/s Jupyter Server(JupyterLab)",
-    "url": "https://github.com/zasper-io/zasper-benchmark",
-    "stars": 3,
+    "name": "snippy",
+    "full_name": "Azure-Samples/snippy",
+    "description": "🧩 Demo: Build AI-powered MCP Tools for GitHub Copilot using Azure Functions, OpenAI, AI Agents & Cosmos DB. Manages code snippets w/ vector search.",
+    "url": "https://github.com/Azure-Samples/snippy",
+    "stars": 7,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "azure-functions",
+      "copilot",
+      "cosmosdb",
+      "mcp",
+      "mcp-server"
+    ],
+    "created_at": "2025-04-24T18:25:10",
+    "updated_at": "2025-05-02T15:05:58"
+  },
+  {
+    "name": "EchoAI",
+    "full_name": "3ch0AI/EchoAI",
+    "description": "Official Echo AI Website",
+    "url": "https://github.com/3ch0AI/EchoAI",
+    "stars": 2,
+    "daily_stars": 1,
+    "language": "HTML",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "chat-completion",
+      "chat-stream",
+      "chatbot",
+      "image-generation"
+    ],
+    "created_at": "2025-04-25T15:44:17",
+    "updated_at": "2025-05-02T15:43:50"
+  },
+  {
+    "name": "ai-foundry-agents-samples",
+    "full_name": "Azure-Samples/ai-foundry-agents-samples",
+    "description": "Azure AI Foundry - Agents related sample code",
+    "url": "https://github.com/Azure-Samples/ai-foundry-agents-samples",
+    "stars": 1,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "ai-foundry",
+      "azure",
+      "mcp-client",
+      "openai-agents-sdk"
+    ],
+    "created_at": "2025-04-20T14:26:25",
+    "updated_at": "2025-05-02T15:07:34"
+  },
+  {
+    "name": "secai",
+    "full_name": "Dukemunene1/secai",
+    "description": "Smart graph for networks of autonomous AI Agents",
+    "url": "https://github.com/Dukemunene1/secai",
+    "stars": 1,
     "daily_stars": 1,
     "language": "Go",
     "topics": [
       "ai",
-      "data-science",
-      "ipython",
-      "jupyter",
-      "jupyter-notebook",
-      "jupyterlab",
-      "machine-learning",
-      "zasper"
-    ],
-    "created_at": "2025-04-27T08:58:51",
-    "updated_at": "2025-05-02T11:21:30"
-  },
-  {
-    "name": "geti",
-    "full_name": "open-edge-platform/geti",
-    "description": "Build computer vision models in a fraction of the time and with less data.",
-    "url": "https://github.com/open-edge-platform/geti",
-    "stars": 106,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "computer-vision",
-      "deep-learning",
-      "fine-tuning",
-      "inference",
-      "openvino"
-    ],
-    "created_at": "2025-04-10T09:02:28",
-    "updated_at": "2025-05-02T11:43:47"
-  },
-  {
-    "name": "SimpleLLMFunc",
-    "full_name": "NiJingzhe/SimpleLLMFunc",
-    "description": "一个简单的恰到好处LLM应用框架，能够让你以最“Code Center“的方式无缝集成LLM能力",
-    "url": "https://github.com/NiJingzhe/SimpleLLMFunc",
-    "stars": 39,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "aigc",
-      "framework",
+      "ai-agents",
+      "blockchain",
+      "deepresearch",
+      "diagrams",
+      "ethereum",
+      "github-config",
+      "graph",
       "llm",
-      "llm-framework",
-      "llmfunc",
-      "workflow"
+      "matic",
+      "openai",
+      "ship",
+      "sql",
+      "transaction"
     ],
-    "created_at": "2025-04-16T17:48:01",
-    "updated_at": "2025-05-02T11:27:57"
-  },
-  {
-    "name": "evolutionary-policy-optimization",
-    "full_name": "lucidrains/evolutionary-policy-optimization",
-    "description": "Pytorch implementation of Evolutionary Policy Optimization, from Wang et al. of the Robotics Institute at Carnegie Melon University",
-    "url": "https://github.com/lucidrains/evolutionary-policy-optimization",
-    "stars": 70,
-    "daily_stars": 0,
-    "language": null,
-    "topics": [
-      "artificial-intelligence",
-      "deep-learning",
-      "genetic-algorithms",
-      "reinforcement-learning",
-      "robotics"
-    ],
-    "created_at": "2025-04-07T22:12:06",
-    "updated_at": "2025-05-02T07:47:23"
-  },
-  {
-    "name": "ai-access",
-    "full_name": "aiaccess/ai-access",
-    "description": "A flexible PHP library providing access to various AI models (Gemini, OpenAI, Anthropic, DeepSeek, Grok) via a consistent interface.",
-    "url": "https://github.com/aiaccess/ai-access",
-    "stars": 33,
-    "daily_stars": 0,
-    "language": "PHP",
-    "topics": [
-      "ai",
-      "anthropic",
-      "api",
-      "artificial-intelligence",
-      "chatbot",
-      "client",
-      "deepseek",
-      "gemini",
-      "grok",
-      "large-language-model",
-      "llm",
-      "openai"
-    ],
-    "created_at": "2025-04-11T15:23:01",
-    "updated_at": "2025-05-02T06:32:20"
+    "created_at": "2025-04-18T06:00:33",
+    "updated_at": "2025-05-02T16:17:48"
   }
 ]
