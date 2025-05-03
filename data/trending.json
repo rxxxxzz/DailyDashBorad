@@ -4,8 +4,8 @@
     "full_name": "stanford-mast/blast",
     "description": "Browser-LLM Auto-Scaling Technology",
     "url": "https://github.com/stanford-mast/blast",
-    "stars": 306,
-    "daily_stars": 31,
+    "stars": 359,
+    "daily_stars": 53,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -14,101 +14,156 @@
       "python"
     ],
     "created_at": "2025-04-05T00:03:34",
-    "updated_at": "2025-05-03T04:43:31"
+    "updated_at": "2025-05-03T08:39:25"
   },
   {
-    "name": "ai-access",
-    "full_name": "aiaccess/ai-access",
-    "description": "A flexible PHP library providing access to various AI models (Gemini, OpenAI, Anthropic, DeepSeek, Grok) via a consistent interface.",
-    "url": "https://github.com/aiaccess/ai-access",
-    "stars": 34,
+    "name": "website",
+    "full_name": "DLinRT-eu/website",
+    "description": "Register of deep learning-based products in radiotherapy",
+    "url": "https://github.com/DLinRT-eu/website",
+    "stars": 2,
     "daily_stars": 1,
-    "language": "PHP",
+    "language": "TypeScript",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "imaging",
+      "medical",
+      "radiotherapy"
+    ],
+    "created_at": "2025-04-26T12:47:46",
+    "updated_at": "2025-05-03T08:23:50"
+  },
+  {
+    "name": "browserable",
+    "full_name": "browserable/browserable",
+    "description": "Open source and self-hostable browser automation library for AI agents",
+    "url": "https://github.com/browserable/browserable",
+    "stars": 546,
+    "daily_stars": 1,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "browser-automation",
+      "javascript",
+      "playwright"
+    ],
+    "created_at": "2025-04-07T16:04:36",
+    "updated_at": "2025-05-03T08:27:58"
+  },
+  {
+    "name": "localforge",
+    "full_name": "rockbite/localforge",
+    "description": "Local coding agent with neat UI",
+    "url": "https://github.com/rockbite/localforge",
+    "stars": 153,
+    "daily_stars": 1,
+    "language": "JavaScript",
     "topics": [
       "ai",
-      "anthropic",
-      "api",
-      "artificial-intelligence",
-      "chatbot",
-      "client",
-      "deepseek",
-      "gemini",
-      "grok",
-      "large-language-model",
-      "llm",
-      "openai"
+      "ai-agents",
+      "ai-framework",
+      "javascript",
+      "langchain",
+      "local-llm",
+      "prompt-engineering",
+      "vibe-coding"
     ],
-    "created_at": "2025-04-11T15:23:01",
-    "updated_at": "2025-05-03T03:31:04"
+    "created_at": "2025-04-22T11:48:45",
+    "updated_at": "2025-05-03T07:48:40"
   },
   {
-    "name": "docscribe.nvim",
-    "full_name": "AdrianMosnegutu/docscribe.nvim",
-    "description": "A Neovim plugin for generating inline documentation for your functions using LLMs, with customizable UI options and notification support. Currently in development – use at your own risk!",
-    "url": "https://github.com/AdrianMosnegutu/docscribe.nvim",
-    "stars": 14,
-    "daily_stars": 1,
-    "language": "Lua",
-    "topics": [
-      "artificial-intelligence",
-      "docs-generator",
-      "llm",
-      "llm-serving",
-      "nvim",
-      "nvim-plugin",
-      "terminal"
-    ],
-    "created_at": "2025-04-22T13:12:39",
-    "updated_at": "2025-05-03T04:11:36"
-  },
-  {
-    "name": "snippy",
-    "full_name": "Azure-Samples/snippy",
-    "description": "🧩 Demo: Build AI-powered MCP Tools for GitHub Copilot using Azure Functions, OpenAI, AI Agents & Cosmos DB. Manages code snippets w/ vector search.",
-    "url": "https://github.com/Azure-Samples/snippy",
-    "stars": 8,
+    "name": "Agentfy",
+    "full_name": "Agentfy-io/Agentfy",
+    "description": "🤖 Agentfy is a modular microservices architecture designed to process user requests and execute workflows across multiple social media platforms. The system leverages LLM capabilities to dynamically match user needs with appropriate agents and functions.",
+    "url": "https://github.com/Agentfy-io/Agentfy",
+    "stars": 102,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai-agents",
-      "azure-functions",
-      "copilot",
-      "cosmosdb",
-      "mcp",
-      "mcp-server"
+      "ai-tools",
+      "model-context-protocol",
+      "multi-agent-systems",
+      "openai",
+      "prompt-engineering-tool",
+      "python",
+      "social-media-app",
+      "social-media-automation",
+      "tikhub",
+      "workflow-automation"
     ],
-    "created_at": "2025-04-24T18:25:10",
-    "updated_at": "2025-05-03T02:58:27"
+    "created_at": "2025-04-06T04:16:22",
+    "updated_at": "2025-05-03T06:02:49"
   },
   {
-    "name": "lung-cancer-detection",
-    "full_name": "nordszamora/lung-cancer-detection",
-    "description": "The machine learning project pipeline for lung cancer analysis and prediction at a low cost.",
-    "url": "https://github.com/nordszamora/lung-cancer-detection",
+    "name": "elkar",
+    "full_name": "elkar-ai/elkar",
+    "description": "Task Management for A2A protocol",
+    "url": "https://github.com/elkar-ai/elkar",
     "stars": 13,
     "daily_stars": 1,
-    "language": "Jupyter Notebook",
+    "language": "TypeScript",
     "topics": [
-      "data-science",
-      "flask-api",
-      "jupyter",
-      "machine-learning",
-      "matplotlib",
-      "pandas",
-      "pytest",
-      "python",
-      "seaborn",
-      "sklearn"
+      "a2a",
+      "a2a-protocol",
+      "agent2agent",
+      "ai-agent",
+      "ai-agents",
+      "llm",
+      "task-management"
     ],
-    "created_at": "2025-04-13T14:16:55",
-    "updated_at": "2025-05-03T03:45:11"
+    "created_at": "2025-04-30T07:10:48",
+    "updated_at": "2025-05-03T07:00:18"
+  },
+  {
+    "name": "token-throttle",
+    "full_name": "Elijas/token-throttle",
+    "description": "Simple Multi-Resource Rate Limiting That Saves Unused Tokens.  Rate limit API requests across different resources and workers without wasting your quota. Reserve tokens upfront, get refunds for what you don't use, and avoid over-limiting.",
+    "url": "https://github.com/Elijas/token-throttle",
+    "stars": 4,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-engineering",
+      "llm",
+      "llms",
+      "rate-limit",
+      "rate-limit-redis",
+      "rate-limiter",
+      "rate-limiting",
+      "tokens"
+    ],
+    "created_at": "2025-04-21T09:15:28",
+    "updated_at": "2025-05-03T07:51:13"
+  },
+  {
+    "name": "interactive-browser-use",
+    "full_name": "Cofounder-Labs/interactive-browser-use",
+    "description": "Make Browser Use Interactive!",
+    "url": "https://github.com/Cofounder-Labs/interactive-browser-use",
+    "stars": 4,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "browser-use",
+      "llm",
+      "playright",
+      "python"
+    ],
+    "created_at": "2025-04-10T17:26:29",
+    "updated_at": "2025-05-03T05:09:15"
   },
   {
     "name": "geti",
     "full_name": "open-edge-platform/geti",
     "description": "Build computer vision models in a fraction of the time and with less data.",
     "url": "https://github.com/open-edge-platform/geti",
-    "stars": 119,
+    "stars": 120,
     "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
@@ -119,7 +174,7 @@
       "openvino"
     ],
     "created_at": "2025-04-10T09:02:28",
-    "updated_at": "2025-05-03T03:18:03"
+    "updated_at": "2025-05-03T08:27:37"
   },
   {
     "name": "evolutionary-policy-optimization",
@@ -138,68 +193,5 @@
     ],
     "created_at": "2025-04-07T22:12:06",
     "updated_at": "2025-05-02T17:14:35"
-  },
-  {
-    "name": "monitoring-llms-langfuse-ollama",
-    "full_name": "ErickWendel/monitoring-llms-langfuse-ollama",
-    "description": "Examples of how to monitor the OpenAI SDK calls using Langfuse",
-    "url": "https://github.com/ErickWendel/monitoring-llms-langfuse-ollama",
-    "stars": 18,
-    "daily_stars": 0,
-    "language": "JavaScript",
-    "topics": [
-      "artificial-intelligence",
-      "docker",
-      "hostinger",
-      "langfuse",
-      "monitoring",
-      "ollama",
-      "openai"
-    ],
-    "created_at": "2025-04-05T15:30:58",
-    "updated_at": "2025-04-25T18:21:29"
-  },
-  {
-    "name": "awesome-google-adk",
-    "full_name": "tsubasakong/awesome-google-adk",
-    "description": "A curated list of awesome resources for Google's Agent Development Kit (ADK)",
-    "url": "https://github.com/tsubasakong/awesome-google-adk",
-    "stars": 15,
-    "daily_stars": 0,
-    "language": null,
-    "topics": [
-      "agent-development-kit",
-      "ai-agents",
-      "artificial-intelligence",
-      "awesome-list",
-      "google-adk",
-      "multi-agent-systems"
-    ],
-    "created_at": "2025-04-19T06:52:24",
-    "updated_at": "2025-04-30T23:02:26"
-  },
-  {
-    "name": "NeoRefacer",
-    "full_name": "MechasAI/NeoRefacer",
-    "description": "Next-generation, fully open-source refacer. Images. GIFs. Full-length videos. Bulk refacing",
-    "url": "https://github.com/MechasAI/NeoRefacer",
-    "stars": 15,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "deep-learning",
-      "deepfake",
-      "faceswap",
-      "genai",
-      "gifs",
-      "image-manipulation",
-      "images",
-      "refacer",
-      "videos"
-    ],
-    "created_at": "2025-04-10T21:11:20",
-    "updated_at": "2025-05-01T00:16:32"
   }
 ]
