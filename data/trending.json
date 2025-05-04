@@ -1,37 +1,38 @@
 [
   {
-    "name": "tyrex",
-    "full_name": "elias-ba/tyrex",
-    "description": "An Elixir library for genetic programming and neuroevolution, implementing standard genetic algorithms and NEAT. Features parallel evaluation, checkpointing, and extensible operators for selection, crossover, and mutation. Solve optimization problems through evolution with a clean, flexible API.",
-    "url": "https://github.com/elias-ba/tyrex",
-    "stars": 7,
-    "daily_stars": 2,
-    "language": "Elixir",
+    "name": "klavis",
+    "full_name": "Klavis-AI/klavis",
+    "description": "Klavis AI (YC X25):  Open Source enterprise-grade MCP integration",
+    "url": "https://github.com/Klavis-AI/klavis",
+    "stars": 694,
+    "daily_stars": 5,
+    "language": "TypeScript",
     "topics": [
-      "artificial-intelligence",
-      "concurrency",
-      "distributed-computing",
-      "elixir",
-      "evolutionary-computation",
-      "functional-programming",
-      "genetic-algorithms",
-      "machine-learning",
-      "neat",
-      "neural-networks",
-      "neuroevolution",
-      "optimization",
-      "parallelism"
+      "agents",
+      "ai",
+      "ai-agents",
+      "api",
+      "developer-tools",
+      "discord",
+      "function-calling",
+      "integration",
+      "llm",
+      "mcp",
+      "mcp-client",
+      "mcp-server",
+      "oauth2",
+      "open-source"
     ],
-    "created_at": "2025-05-03T18:13:48",
-    "updated_at": "2025-05-04T13:37:22"
+    "created_at": "2025-04-14T07:53:36",
+    "updated_at": "2025-05-04T20:03:43"
   },
   {
     "name": "blast",
     "full_name": "stanford-mast/blast",
     "description": "Browser-LLM Auto-Scaling Technology",
     "url": "https://github.com/stanford-mast/blast",
-    "stars": 437,
-    "daily_stars": 2,
+    "stars": 440,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -40,103 +41,15 @@
       "python"
     ],
     "created_at": "2025-04-05T00:03:34",
-    "updated_at": "2025-05-04T15:31:44"
-  },
-  {
-    "name": "localforge",
-    "full_name": "rockbite/localforge",
-    "description": "Local coding agent with neat UI",
-    "url": "https://github.com/rockbite/localforge",
-    "stars": 164,
-    "daily_stars": 2,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-framework",
-      "javascript",
-      "langchain",
-      "local-llm",
-      "prompt-engineering",
-      "vibe-coding"
-    ],
-    "created_at": "2025-04-22T11:48:45",
-    "updated_at": "2025-05-04T15:39:43"
-  },
-  {
-    "name": "elkar",
-    "full_name": "elkar-ai/elkar",
-    "description": "Task Management for A2A protocol",
-    "url": "https://github.com/elkar-ai/elkar",
-    "stars": 21,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "a2a",
-      "a2a-protocol",
-      "agent2agent",
-      "ai-agent",
-      "ai-agents",
-      "llm",
-      "task-management"
-    ],
-    "created_at": "2025-04-30T07:10:48",
-    "updated_at": "2025-05-04T14:28:58"
-  },
-  {
-    "name": "geti",
-    "full_name": "open-edge-platform/geti",
-    "description": "Build computer vision models in a fraction of the time and with less data.",
-    "url": "https://github.com/open-edge-platform/geti",
-    "stars": 130,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "computer-vision",
-      "deep-learning",
-      "fine-tuning",
-      "inference",
-      "openvino"
-    ],
-    "created_at": "2025-04-10T09:02:28",
-    "updated_at": "2025-05-04T15:14:51"
-  },
-  {
-    "name": "Seeker-o1",
-    "full_name": "iBz-04/Seeker-o1",
-    "description": "Command line Hybrid ai agent system with enhanced memory and a dynamic task planning mode",
-    "url": "https://github.com/iBz-04/Seeker-o1",
-    "stars": 7,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "agentic-ai-cli",
-      "agentic-framework",
-      "ai-agents",
-      "ai-models",
-      "autonomous-agents",
-      "cmd",
-      "commandline-interface",
-      "commandline-tool",
-      "manus",
-      "mcp",
-      "multi-agent-system",
-      "multi-agent-systems",
-      "nlp",
-      "open-source",
-      "python",
-      "python-agent"
-    ],
-    "created_at": "2025-04-29T15:04:11",
-    "updated_at": "2025-05-04T14:33:33"
+    "updated_at": "2025-05-04T20:25:53"
   },
   {
     "name": "mcp-atlassian-server",
     "full_name": "phuc-nt/mcp-atlassian-server",
     "description": "MCP server connecting AI assistants with Jira & Confluence for smart project management.",
     "url": "https://github.com/phuc-nt/mcp-atlassian-server",
-    "stars": 2,
-    "daily_stars": 1,
+    "stars": 4,
+    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -150,7 +63,111 @@
       "productivity"
     ],
     "created_at": "2025-04-27T04:36:03",
-    "updated_at": "2025-05-04T15:40:12"
+    "updated_at": "2025-05-04T19:33:14"
+  },
+  {
+    "name": "geti",
+    "full_name": "open-edge-platform/geti",
+    "description": "Build computer vision models in a fraction of the time and with less data.",
+    "url": "https://github.com/open-edge-platform/geti",
+    "stars": 132,
+    "daily_stars": 2,
+    "language": "TypeScript",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "fine-tuning",
+      "inference",
+      "openvino"
+    ],
+    "created_at": "2025-04-10T09:02:28",
+    "updated_at": "2025-05-04T20:33:34"
+  },
+  {
+    "name": "mcp-manager",
+    "full_name": "nstebbins/mcp-manager",
+    "description": "CLI tool for managing Model Context Protocol (MCP) servers in one place & using them across them different clients",
+    "url": "https://github.com/nstebbins/mcp-manager",
+    "stars": 16,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "cli",
+      "mcp",
+      "mcp-client",
+      "mcp-server",
+      "model-context-protocol",
+      "open-source"
+    ],
+    "created_at": "2025-04-21T01:41:20",
+    "updated_at": "2025-05-04T20:38:11"
+  },
+  {
+    "name": "machine-learning-interview-questions",
+    "full_name": "amitshekhariitbhu/machine-learning-interview-questions",
+    "description": "Your Cheat Sheet for Machine Learning Interview – Questions and Answers.",
+    "url": "https://github.com/amitshekhariitbhu/machine-learning-interview-questions",
+    "stars": 12,
+    "daily_stars": 1,
+    "language": "Markdown",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "deep-learning",
+      "deep-learning-interview",
+      "deep-learning-interview-questions",
+      "interview",
+      "interview-questions",
+      "llm",
+      "llm-interview",
+      "machine-learning",
+      "machine-learning-interview",
+      "machine-learning-interview-questions",
+      "ml-system-design"
+    ],
+    "created_at": "2025-05-02T03:03:34",
+    "updated_at": "2025-05-04T17:01:25"
+  },
+  {
+    "name": "elkar",
+    "full_name": "elkar-ai/elkar",
+    "description": "Task Management for A2A protocol",
+    "url": "https://github.com/elkar-ai/elkar",
+    "stars": 22,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "a2a",
+      "a2a-protocol",
+      "agent2agent",
+      "ai-agent",
+      "ai-agents",
+      "llm",
+      "task-management"
+    ],
+    "created_at": "2025-04-30T07:10:48",
+    "updated_at": "2025-05-04T19:29:36"
+  },
+  {
+    "name": "now-playing",
+    "full_name": "maurocastermans/now-playing",
+    "description": "Raspberry Pi application that detects music with ML, identifies it using Shazam, and shows the song information on an e-ink display",
+    "url": "https://github.com/maurocastermans/now-playing",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "audio-recognition",
+      "einkdisplay",
+      "machine-learning",
+      "raspberry-pi",
+      "shazam",
+      "spotipy",
+      "yamnet"
+    ],
+    "created_at": "2025-04-12T09:43:25",
+    "updated_at": "2025-05-04T19:18:41"
   },
   {
     "name": "evolutionary-policy-optimization",
@@ -194,32 +211,5 @@
     ],
     "created_at": "2025-04-11T15:23:01",
     "updated_at": "2025-05-04T07:13:18"
-  },
-  {
-    "name": "MediScan",
-    "full_name": "alok-devforge/MediScan",
-    "description": "MediScan: AI-powered bone fracture detection system achieving 99.8% accuracy through deep learning. Features real-time X-ray analysis, transparent Grad-CAM visualizations, and clinical integration tools. Built with Python/FastAPI backend and responsive HTML/CSS frontend, making advanced medical diagnostics more accessible to healthcare providers.",
-    "url": "https://github.com/alok-devforge/MediScan",
-    "stars": 19,
-    "daily_stars": 0,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "artificial-intelligence",
-      "bone-fracture-detection",
-      "computer-vision",
-      "deep-learning",
-      "fastapi",
-      "gradcam",
-      "healthcare-ai",
-      "html-css-javascript",
-      "medical-diagnostics",
-      "medical-imaging",
-      "python",
-      "web-application",
-      "x-ray-analysis",
-      "yolov8"
-    ],
-    "created_at": "2025-04-25T10:58:16",
-    "updated_at": "2025-05-04T06:53:21"
   }
 ]
