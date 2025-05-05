@@ -1,11 +1,49 @@
 [
   {
+    "name": "elkar",
+    "full_name": "elkar-ai/elkar",
+    "description": "Task Management for A2A protocol",
+    "url": "https://github.com/elkar-ai/elkar",
+    "stars": 28,
+    "daily_stars": 5,
+    "language": "TypeScript",
+    "topics": [
+      "a2a",
+      "a2a-protocol",
+      "agent2agent",
+      "ai-agent",
+      "ai-agents",
+      "llm",
+      "task-management"
+    ],
+    "created_at": "2025-04-30T07:10:48",
+    "updated_at": "2025-05-05T08:00:37"
+  },
+  {
+    "name": "geti",
+    "full_name": "open-edge-platform/geti",
+    "description": "Build computer vision models in a fraction of the time and with less data.",
+    "url": "https://github.com/open-edge-platform/geti",
+    "stars": 137,
+    "daily_stars": 3,
+    "language": "TypeScript",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "fine-tuning",
+      "inference",
+      "openvino"
+    ],
+    "created_at": "2025-04-10T09:02:28",
+    "updated_at": "2025-05-05T08:23:54"
+  },
+  {
     "name": "klavis",
     "full_name": "Klavis-AI/klavis",
     "description": "Klavis AI (YC X25):  Open Source enterprise-grade MCP integration",
     "url": "https://github.com/Klavis-AI/klavis",
-    "stars": 702,
-    "daily_stars": 4,
+    "stars": 704,
+    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
       "agents",
@@ -24,96 +62,31 @@
       "open-source"
     ],
     "created_at": "2025-04-14T07:53:36",
-    "updated_at": "2025-05-05T04:03:39"
+    "updated_at": "2025-05-05T07:54:51"
   },
   {
-    "name": "machine-learning-interview-questions",
-    "full_name": "amitshekhariitbhu/machine-learning-interview-questions",
-    "description": "Your Cheat Sheet for Machine Learning Interview – Questions and Answers.",
-    "url": "https://github.com/amitshekhariitbhu/machine-learning-interview-questions",
-    "stars": 13,
-    "daily_stars": 1,
-    "language": "Markdown",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "deep-learning",
-      "deep-learning-interview",
-      "deep-learning-interview-questions",
-      "interview",
-      "interview-questions",
-      "llm",
-      "llm-interview",
-      "machine-learning",
-      "machine-learning-interview",
-      "machine-learning-interview-questions",
-      "ml-system-design"
-    ],
-    "created_at": "2025-05-02T03:03:34",
-    "updated_at": "2025-05-05T04:16:12"
-  },
-  {
-    "name": "google-adk-nocode",
-    "full_name": "abhishekkumar35/google-adk-nocode",
-    "description": "A visual, no-code interface for creating AI agents with Google ADK. Supports both cloud and local Ollama models with multi-tech stack integration.",
-    "url": "https://github.com/abhishekkumar35/google-adk-nocode",
-    "stars": 7,
+    "name": "Faraday-Web-Researcher-Agent",
+    "full_name": "DennisDRX/Faraday-Web-Researcher-Agent",
+    "description": "Faraday: An Autonomous Web Research Agent (LangGraph/Streamlit). 🕵️♀️ Investigates queries using dynamic tools (Tavily, Google, NewsAPI, etc.), gathers multi-source info, and synthesizes structured reports in a Streamlit UI. Features agentic workflow & source tracking.",
+    "url": "https://github.com/DennisDRX/Faraday-Web-Researcher-Agent",
+    "stars": 3,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai-agents",
-      "fastapi",
-      "gemini-api",
-      "no-code-google-adk",
-      "nodejs",
-      "ollama",
+      "autonomous-agents",
+      "gemini",
+      "langchain",
+      "langgraph",
+      "llm",
       "python",
-      "typescript"
+      "research-agents",
+      "research-tool",
+      "streamlit",
+      "web-research"
     ],
-    "created_at": "2025-04-10T09:49:52",
-    "updated_at": "2025-05-05T02:28:05"
-  },
-  {
-    "name": "lightly-train",
-    "full_name": "lightly-ai/lightly-train",
-    "description": "LightlyTrain is the first PyTorch framework to pretrain computer vision models on unlabeled data for industrial applications",
-    "url": "https://github.com/lightly-ai/lightly-train",
-    "stars": 268,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "computer-vision",
-      "contrastive-learning",
-      "deep-learning",
-      "distillation",
-      "embeddings",
-      "machine-learning",
-      "pretrained-models",
-      "python",
-      "pytorch",
-      "self-supervised",
-      "self-supervised-learning"
-    ],
-    "created_at": "2025-04-10T08:23:51",
-    "updated_at": "2025-05-05T04:35:07"
-  },
-  {
-    "name": "geti",
-    "full_name": "open-edge-platform/geti",
-    "description": "Build computer vision models in a fraction of the time and with less data.",
-    "url": "https://github.com/open-edge-platform/geti",
-    "stars": 134,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "computer-vision",
-      "deep-learning",
-      "fine-tuning",
-      "inference",
-      "openvino"
-    ],
-    "created_at": "2025-04-10T09:02:28",
-    "updated_at": "2025-05-05T03:22:59"
+    "created_at": "2025-04-28T00:18:49",
+    "updated_at": "2025-05-05T08:41:18"
   },
   {
     "name": "evolutionary-policy-optimization",
@@ -223,5 +196,25 @@
     ],
     "created_at": "2025-04-21T01:41:20",
     "updated_at": "2025-05-04T20:48:59"
+  },
+  {
+    "name": "docscribe.nvim",
+    "full_name": "AdrianMosnegutu/docscribe.nvim",
+    "description": "A Neovim plugin for generating inline documentation for your functions using LLMs, with customizable UI options and notification support. Currently in development – use at your own risk!",
+    "url": "https://github.com/AdrianMosnegutu/docscribe.nvim",
+    "stars": 17,
+    "daily_stars": 0,
+    "language": "Lua",
+    "topics": [
+      "artificial-intelligence",
+      "docs-generator",
+      "llm",
+      "llm-serving",
+      "nvim",
+      "nvim-plugin",
+      "terminal"
+    ],
+    "created_at": "2025-04-22T13:12:39",
+    "updated_at": "2025-05-04T11:50:03"
   }
 ]
