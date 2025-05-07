@@ -4,7 +4,7 @@
     "full_name": "Klavis-AI/klavis",
     "description": "Klavis AI (YC X25):  Open Source enterprise-grade MCP integration",
     "url": "https://github.com/Klavis-AI/klavis",
-    "stars": 995,
+    "stars": 1007,
     "daily_stars": 12,
     "language": "TypeScript",
     "topics": [
@@ -24,79 +24,35 @@
       "open-source"
     ],
     "created_at": "2025-04-14T07:53:36",
-    "updated_at": "2025-05-07T04:10:10"
+    "updated_at": "2025-05-07T08:46:27"
   },
   {
-    "name": "ai-stock-predictions",
-    "full_name": "Jadaunkg/ai-stock-predictions",
-    "description": "An intelligent stock analysis platform built with Python & Flask. Fetches historical/fundamental data, applies Prophet time-series forecasting & technical indicators, and delivers easy-to-understand prediction reports.",
-    "url": "https://github.com/Jadaunkg/ai-stock-predictions",
-    "stars": 2,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "machine-learning-algorithms",
-      "prophet-model",
-      "stock",
-      "stock-analysis",
-      "stock-market",
-      "stock-price-prediction"
-    ],
-    "created_at": "2025-04-09T15:35:17",
-    "updated_at": "2025-05-07T02:45:49"
-  },
-  {
-    "name": "localforge",
-    "full_name": "rockbite/localforge",
-    "description": "Local coding agent with neat UI",
-    "url": "https://github.com/rockbite/localforge",
-    "stars": 170,
-    "daily_stars": 1,
-    "language": "JavaScript",
+    "name": "rulens",
+    "full_name": "MH4GF/rulens",
+    "description": "No more maintaining coding guidelines. Your linter rules to AI instructions, instantly.",
+    "url": "https://github.com/MH4GF/rulens",
+    "stars": 7,
+    "daily_stars": 3,
+    "language": "TypeScript",
     "topics": [
       "ai",
       "ai-agents",
-      "ai-framework",
-      "javascript",
-      "langchain",
-      "local-llm",
-      "prompt-engineering",
-      "vibe-coding"
+      "ai-assistant",
+      "biomejs",
+      "custom-prompt",
+      "documentation",
+      "eslint"
     ],
-    "created_at": "2025-04-22T11:48:45",
-    "updated_at": "2025-05-07T02:29:05"
-  },
-  {
-    "name": "forest_typology",
-    "full_name": "google-deepmind/forest_typology",
-    "description": "Datasets to protect Earth's forests and biodiversity",
-    "url": "https://github.com/google-deepmind/forest_typology",
-    "stars": 19,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "benchmark-datasets",
-      "biodiversity",
-      "deep-learning",
-      "earth-observation",
-      "forest",
-      "habitat-mapping",
-      "machine-learning",
-      "remote-sensing",
-      "sustainability"
-    ],
-    "created_at": "2025-05-02T07:31:50",
-    "updated_at": "2025-05-07T02:35:17"
+    "created_at": "2025-05-05T08:05:54",
+    "updated_at": "2025-05-07T06:30:29"
   },
   {
     "name": "cogitator",
     "full_name": "habedi/cogitator",
     "description": "A Python Toolkit for Chain-of-Thought Prompting 🐍",
     "url": "https://github.com/habedi/cogitator",
-    "stars": 12,
-    "daily_stars": 1,
+    "stars": 15,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "ai-research",
@@ -112,14 +68,155 @@
       "python-library"
     ],
     "created_at": "2025-04-29T15:20:28",
-    "updated_at": "2025-05-07T04:36:30"
+    "updated_at": "2025-05-07T08:10:02"
+  },
+  {
+    "name": "forest_typology",
+    "full_name": "google-deepmind/forest_typology",
+    "description": "Datasets to protect Earth's forests and biodiversity",
+    "url": "https://github.com/google-deepmind/forest_typology",
+    "stars": 21,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "benchmark-datasets",
+      "biodiversity",
+      "deep-learning",
+      "earth-observation",
+      "forest",
+      "habitat-mapping",
+      "machine-learning",
+      "remote-sensing",
+      "sustainability"
+    ],
+    "created_at": "2025-05-02T07:31:50",
+    "updated_at": "2025-05-07T08:27:11"
+  },
+  {
+    "name": "tokenizer-to-onnx-model",
+    "full_name": "yuniko-software/tokenizer-to-onnx-model",
+    "description": "Convert Hugging Face tokenizers to ONNX models for cross-language compatibility (.NET, Java, Python) with embedding models",
+    "url": "https://github.com/yuniko-software/tokenizer-to-onnx-model",
+    "stars": 13,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "csharp",
+      "dotnet",
+      "embedding-models",
+      "huggingface",
+      "inference",
+      "java",
+      "machine-learning",
+      "onnx",
+      "python",
+      "pytorch",
+      "tokenization",
+      "vector-database"
+    ],
+    "created_at": "2025-04-14T19:42:39",
+    "updated_at": "2025-05-07T08:46:16"
+  },
+  {
+    "name": "twitch-ai-viewers",
+    "full_name": "gsilvamartin/twitch-ai-viewers",
+    "description": "No viewers? No problem! Use AI Viewers",
+    "url": "https://github.com/gsilvamartin/twitch-ai-viewers",
+    "stars": 6,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-chatbot",
+      "artificial-intelligence",
+      "audio-processing",
+      "chatbot",
+      "ffmpeg",
+      "groq",
+      "nodejs",
+      "streaming",
+      "streaming-tools",
+      "twitch-api",
+      "twitch-bot",
+      "typescript",
+      "voice-recognition"
+    ],
+    "created_at": "2025-04-30T15:28:57",
+    "updated_at": "2025-05-07T05:20:03"
+  },
+  {
+    "name": "localforge",
+    "full_name": "rockbite/localforge",
+    "description": "Local coding agent with neat UI",
+    "url": "https://github.com/rockbite/localforge",
+    "stars": 171,
+    "daily_stars": 1,
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-framework",
+      "javascript",
+      "langchain",
+      "local-llm",
+      "prompt-engineering",
+      "vibe-coding"
+    ],
+    "created_at": "2025-04-22T11:48:45",
+    "updated_at": "2025-05-07T06:42:59"
+  },
+  {
+    "name": "mcp-gateway",
+    "full_name": "aarora79/mcp-gateway",
+    "description": "MCP Gateway and Registry",
+    "url": "https://github.com/aarora79/mcp-gateway",
+    "stars": 19,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "mcp",
+      "mcp-client",
+      "mcp-gateway",
+      "mcp-registry",
+      "mcp-server",
+      "nginx"
+    ],
+    "created_at": "2025-04-27T15:52:22",
+    "updated_at": "2025-05-07T05:58:53"
+  },
+  {
+    "name": "ObjaversePlusPlus",
+    "full_name": "TCXX/ObjaversePlusPlus",
+    "description": "Repo for Objaverse++, Curated 3D Object Dataset with Quality Annotations",
+    "url": "https://github.com/TCXX/ObjaversePlusPlus",
+    "stars": 72,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "3d",
+      "3d-dataset",
+      "3d-generation",
+      "3d-models",
+      "3d-reconstruction",
+      "computervision",
+      "cvpr2025",
+      "dreamfusion",
+      "gaussian-splatting",
+      "generative-ai",
+      "machine-learning",
+      "nerf",
+      "objaverse"
+    ],
+    "created_at": "2025-04-08T04:42:24",
+    "updated_at": "2025-05-07T06:57:28"
   },
   {
     "name": "Spherical-CNN",
     "full_name": "brian-hepler-phd/Spherical-CNN",
     "description": "Interactive exploration of equivariant neural networks on homogeneous spaces, with a focus on the sphere S² as SO(3)/SO(2). From Lecture 8 of the Lie groups course with Quantum Formalism",
     "url": "https://github.com/brian-hepler-phd/Spherical-CNN",
-    "stars": 9,
+    "stars": 10,
     "daily_stars": 1,
     "language": "Jupyter Notebook",
     "topics": [
@@ -135,89 +232,6 @@
       "spherical-cnn"
     ],
     "created_at": "2025-05-06T12:41:30",
-    "updated_at": "2025-05-07T04:19:00"
-  },
-  {
-    "name": "LLM-RL-Visualized",
-    "full_name": "changyeyu/LLM-RL-Visualized",
-    "description": "LLM, RL, DPO, RLHF, PPO, GRPO, Distillation, RAG, Alignment, SFT ...",
-    "url": "https://github.com/changyeyu/LLM-RL-Visualized",
-    "stars": 8,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "algorithms",
-      "deep-learning",
-      "llm",
-      "nlp",
-      "reinforcement-learning"
-    ],
-    "created_at": "2025-04-26T14:30:47",
-    "updated_at": "2025-05-07T04:03:44"
-  },
-  {
-    "name": "Awesome-3DGS-SLAM",
-    "full_name": "KwanWaiPang/Awesome-3DGS-SLAM",
-    "description": "Paper Survey for 3DGS SLAM",
-    "url": "https://github.com/KwanWaiPang/Awesome-3DGS-SLAM",
-    "stars": 7,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "3d-gaussian-splatting",
-      "3dgs",
-      "3dgs-slam",
-      "deep-learning",
-      "robotics",
-      "slam"
-    ],
-    "created_at": "2025-04-09T06:21:25",
-    "updated_at": "2025-05-07T02:26:34"
-  },
-  {
-    "name": "Deep-Face-Blurring",
-    "full_name": "AsadiAhmad/Deep-Face-Blurring",
-    "description": "Detecting and anonymizing human faces in images using deep learning models (YuNet) and OpenCV.",
-    "url": "https://github.com/AsadiAhmad/Deep-Face-Blurring",
-    "stars": 2,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "anonymization",
-      "computer-vision",
-      "deep-learning",
-      "face-blur",
-      "face-detection",
-      "image-processing",
-      "opencv",
-      "yunet"
-    ],
-    "created_at": "2025-05-05T10:40:42",
-    "updated_at": "2025-05-07T04:39:55"
-  },
-  {
-    "name": "CV-GitHub-Actions-LaTeX-ci-cd",
-    "full_name": "Hariprashad-Ravikumar/CV-GitHub-Actions-LaTeX-ci-cd",
-    "description": "Fully automated GitHub Actions workflow to compile LaTeX CV and deploy PDF directly to my GitHub Pages.",
-    "url": "https://github.com/Hariprashad-Ravikumar/CV-GitHub-Actions-LaTeX-ci-cd",
-    "stars": 1,
-    "daily_stars": 1,
-    "language": "TeX",
-    "topics": [
-      "automation",
-      "ci-cd",
-      "ci-cd-pipeline",
-      "continuous-integration",
-      "cv",
-      "github-actions",
-      "github-pages",
-      "latex",
-      "latexmk",
-      "pdf",
-      "workflow"
-    ],
-    "created_at": "2025-05-05T21:10:18",
-    "updated_at": "2025-05-07T02:36:15"
+    "updated_at": "2025-05-07T07:39:51"
   }
 ]
