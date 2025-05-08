@@ -4,8 +4,8 @@
     "full_name": "bytedance/deer-flow",
     "description": "DeerFlow is a community-driven framework for deep research, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.",
     "url": "https://github.com/bytedance/deer-flow",
-    "stars": 362,
-    "daily_stars": 40,
+    "stars": 394,
+    "daily_stars": 32,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -27,15 +27,15 @@
       "python"
     ],
     "created_at": "2025-05-07T02:50:19",
-    "updated_at": "2025-05-08T13:03:36"
+    "updated_at": "2025-05-08T16:48:35"
   },
   {
     "name": "klavis",
     "full_name": "Klavis-AI/klavis",
     "description": "Klavis AI (YC X25):  Open Source enterprise-grade MCP integration",
     "url": "https://github.com/Klavis-AI/klavis",
-    "stars": 1075,
-    "daily_stars": 11,
+    "stars": 1083,
+    "daily_stars": 8,
     "language": "TypeScript",
     "topics": [
       "agents",
@@ -54,15 +54,35 @@
       "open-source"
     ],
     "created_at": "2025-04-14T07:53:36",
-    "updated_at": "2025-05-08T13:00:26"
+    "updated_at": "2025-05-08T16:22:22"
+  },
+  {
+    "name": "elkar",
+    "full_name": "elkar-ai/elkar",
+    "description": "Task Management for A2A protocol",
+    "url": "https://github.com/elkar-ai/elkar",
+    "stars": 57,
+    "daily_stars": 5,
+    "language": "TypeScript",
+    "topics": [
+      "a2a",
+      "a2a-protocol",
+      "agent2agent",
+      "ai-agent",
+      "ai-agents",
+      "llm",
+      "task-management"
+    ],
+    "created_at": "2025-04-30T07:10:48",
+    "updated_at": "2025-05-08T16:40:47"
   },
   {
     "name": "sharpeye",
     "full_name": "sgInnora/sharpeye",
     "description": "SharpEye: Advanced Linux Intrusion Detection and Threat Hunting System",
     "url": "https://github.com/sgInnora/sharpeye",
-    "stars": 20,
-    "daily_stars": 8,
+    "stars": 25,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "cryptominer-detection",
@@ -77,52 +97,15 @@
       "threat-hunting"
     ],
     "created_at": "2025-05-08T01:25:22",
-    "updated_at": "2025-05-08T10:41:28"
-  },
-  {
-    "name": "LLM-RL-Visualized",
-    "full_name": "changyeyu/LLM-RL-Visualized",
-    "description": "LLM, RL, DPO, RLHF, PPO, GRPO, Distillation, RAG, Alignment, SFT ...",
-    "url": "https://github.com/changyeyu/LLM-RL-Visualized",
-    "stars": 13,
-    "daily_stars": 5,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "algorithms",
-      "deep-learning",
-      "llm",
-      "nlp",
-      "reinforcement-learning"
-    ],
-    "created_at": "2025-04-26T14:30:47",
-    "updated_at": "2025-05-08T12:53:58"
-  },
-  {
-    "name": "geti",
-    "full_name": "open-edge-platform/geti",
-    "description": "Build computer vision models in a fraction of the time and with less data.",
-    "url": "https://github.com/open-edge-platform/geti",
-    "stars": 187,
-    "daily_stars": 4,
-    "language": "TypeScript",
-    "topics": [
-      "computer-vision",
-      "deep-learning",
-      "fine-tuning",
-      "inference",
-      "openvino"
-    ],
-    "created_at": "2025-04-10T09:02:28",
-    "updated_at": "2025-05-08T12:34:57"
+    "updated_at": "2025-05-08T16:24:56"
   },
   {
     "name": "mini-llm",
     "full_name": "paulocoutinhox/mini-llm",
     "description": "Simple and lightweight tool to fine-tune GPT models (like GPT-2 and GPT-Neo) using your own data — built with Python and Transformers. Adapt powerful language models to your domain with ease.",
     "url": "https://github.com/paulocoutinhox/mini-llm",
-    "stars": 5,
-    "daily_stars": 2,
+    "stars": 6,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai",
@@ -137,64 +120,38 @@
       "transformer"
     ],
     "created_at": "2025-05-06T19:55:42",
-    "updated_at": "2025-05-08T12:20:25"
+    "updated_at": "2025-05-08T14:29:44"
   },
   {
-    "name": "brightdata-mcp",
-    "full_name": "luminati-io/brightdata-mcp",
-    "description": "A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access.",
-    "url": "https://github.com/luminati-io/brightdata-mcp",
-    "stars": 52,
-    "daily_stars": 2,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "ai-integrations",
-      "anti-bot-detection",
-      "browser-automation",
-      "data-collection",
-      "data-extraction",
-      "llm",
-      "mcp",
-      "mcp-server",
-      "modelcontextprotocol",
-      "scraping",
-      "scraping-tools",
-      "structured-data",
-      "web-crawling",
-      "web-data",
-      "web-scraping"
-    ],
-    "created_at": "2025-04-15T10:55:56",
-    "updated_at": "2025-05-08T12:51:51"
-  },
-  {
-    "name": "mcp-gateway",
-    "full_name": "aarora79/mcp-gateway",
-    "description": "MCP Gateway and Registry",
-    "url": "https://github.com/aarora79/mcp-gateway",
-    "stars": 22,
-    "daily_stars": 2,
+    "name": "RexAI",
+    "full_name": "DavidMANZI-093/RexAI",
+    "description": "A Chrome Dinosaur game clone powered by NEAT (NeuroEvolution of Augmenting Topologies) that evolves neural networks to play and master the game through generations of training. Watch AI dinosaurs learn, adapt, and overcome obstacles in real-time with visualized network structures.",
+    "url": "https://github.com/DavidMANZI-093/RexAI",
+    "stars": 1,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
+      "ai",
       "ai-agents",
-      "mcp",
-      "mcp-client",
-      "mcp-gateway",
-      "mcp-registry",
-      "mcp-server",
-      "nginx"
+      "chrome-dino-game",
+      "evolutionary-algorithms",
+      "natural-selection",
+      "neat",
+      "population-genomics",
+      "pygame",
+      "python3",
+      "t-rex-runner"
     ],
-    "created_at": "2025-04-27T15:52:22",
-    "updated_at": "2025-05-08T12:19:16"
+    "created_at": "2025-04-24T10:19:23",
+    "updated_at": "2025-05-08T14:49:07"
   },
   {
     "name": "lightly-train",
     "full_name": "lightly-ai/lightly-train",
     "description": "LightlyTrain is the first PyTorch framework to pretrain computer vision models on unlabeled data for industrial applications",
     "url": "https://github.com/lightly-ai/lightly-train",
-    "stars": 276,
-    "daily_stars": 2,
+    "stars": 277,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "computer-vision",
@@ -210,31 +167,71 @@
       "self-supervised-learning"
     ],
     "created_at": "2025-04-10T08:23:51",
-    "updated_at": "2025-05-08T12:11:04"
+    "updated_at": "2025-05-08T13:55:56"
   },
   {
-    "name": "tokenizer-to-onnx-model",
-    "full_name": "yuniko-software/tokenizer-to-onnx-model",
-    "description": "Convert Hugging Face tokenizers to ONNX models for cross-language compatibility (.NET, Java, Python) with embedding models",
-    "url": "https://github.com/yuniko-software/tokenizer-to-onnx-model",
-    "stars": 19,
-    "daily_stars": 2,
-    "language": "Jupyter Notebook",
+    "name": "cogitator",
+    "full_name": "habedi/cogitator",
+    "description": "A Python Toolkit for Chain-of-Thought Prompting 🐍",
+    "url": "https://github.com/habedi/cogitator",
+    "stars": 18,
+    "daily_stars": 1,
+    "language": "Python",
     "topics": [
-      "csharp",
-      "dotnet",
-      "embedding-models",
-      "huggingface",
-      "inference",
-      "java",
+      "ai-research",
+      "ai-toolkit",
+      "chain-of-thought",
+      "cot-prompting",
+      "explainable-ai",
+      "large-language-models",
+      "llms",
       "machine-learning",
-      "onnx",
+      "prompt-engineering",
       "python",
-      "pytorch",
-      "tokenization",
-      "vector-database"
+      "python-library"
     ],
-    "created_at": "2025-04-14T19:42:39",
-    "updated_at": "2025-05-08T12:07:03"
+    "created_at": "2025-04-29T15:20:28",
+    "updated_at": "2025-05-08T16:20:47"
+  },
+  {
+    "name": "LLM-RL-Visualized",
+    "full_name": "changyeyu/LLM-RL-Visualized",
+    "description": "LLM, RL, DPO, RLHF, PPO, GRPO, Distillation, RAG, Alignment, SFT ...",
+    "url": "https://github.com/changyeyu/LLM-RL-Visualized",
+    "stars": 14,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "algorithms",
+      "deep-learning",
+      "llm",
+      "nlp",
+      "reinforcement-learning"
+    ],
+    "created_at": "2025-04-26T14:30:47",
+    "updated_at": "2025-05-08T13:19:11"
+  },
+  {
+    "name": "vigision-nvr",
+    "full_name": "nlqthinh/vigision-nvr",
+    "description": "Vigision is our capstone project, developed as an innovative Network Video Recorder (NVR) and AI Computer Vision software. It transforms traditional home camera systems into proactive guardians by leveraging advanced Deep Learning technologies for features like object detection, pose estimation, and intelligent motion alerts. ",
+    "url": "https://github.com/nlqthinh/vigision-nvr",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "camera",
+      "deep-learning",
+      "docker",
+      "nvr",
+      "object-detection",
+      "pose-estimation",
+      "python",
+      "realtime",
+      "security"
+    ],
+    "created_at": "2025-05-05T09:21:09",
+    "updated_at": "2025-05-08T15:24:45"
   }
 ]
