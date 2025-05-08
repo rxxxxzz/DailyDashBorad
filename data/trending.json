@@ -4,8 +4,8 @@
     "full_name": "bytedance/deer-flow",
     "description": "DeerFlow is a community-driven framework for deep research, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.",
     "url": "https://github.com/bytedance/deer-flow",
-    "stars": 322,
-    "daily_stars": 304,
+    "stars": 362,
+    "daily_stars": 40,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -27,15 +27,15 @@
       "python"
     ],
     "created_at": "2025-05-07T02:50:19",
-    "updated_at": "2025-05-08T08:44:01"
+    "updated_at": "2025-05-08T13:03:36"
   },
   {
     "name": "klavis",
     "full_name": "Klavis-AI/klavis",
     "description": "Klavis AI (YC X25):  Open Source enterprise-grade MCP integration",
     "url": "https://github.com/Klavis-AI/klavis",
-    "stars": 1064,
-    "daily_stars": 9,
+    "stars": 1075,
+    "daily_stars": 11,
     "language": "TypeScript",
     "topics": [
       "agents",
@@ -54,15 +54,57 @@
       "open-source"
     ],
     "created_at": "2025-04-14T07:53:36",
-    "updated_at": "2025-05-08T08:24:34"
+    "updated_at": "2025-05-08T13:00:26"
+  },
+  {
+    "name": "sharpeye",
+    "full_name": "sgInnora/sharpeye",
+    "description": "SharpEye: Advanced Linux Intrusion Detection and Threat Hunting System",
+    "url": "https://github.com/sgInnora/sharpeye",
+    "stars": 20,
+    "daily_stars": 8,
+    "language": "Python",
+    "topics": [
+      "cryptominer-detection",
+      "cybersecurity",
+      "intrusion-detection",
+      "linux",
+      "machine-learning",
+      "monitoring",
+      "python",
+      "rootkit-detection",
+      "security",
+      "threat-hunting"
+    ],
+    "created_at": "2025-05-08T01:25:22",
+    "updated_at": "2025-05-08T10:41:28"
+  },
+  {
+    "name": "LLM-RL-Visualized",
+    "full_name": "changyeyu/LLM-RL-Visualized",
+    "description": "LLM, RL, DPO, RLHF, PPO, GRPO, Distillation, RAG, Alignment, SFT ...",
+    "url": "https://github.com/changyeyu/LLM-RL-Visualized",
+    "stars": 13,
+    "daily_stars": 5,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "algorithms",
+      "deep-learning",
+      "llm",
+      "nlp",
+      "reinforcement-learning"
+    ],
+    "created_at": "2025-04-26T14:30:47",
+    "updated_at": "2025-05-08T12:53:58"
   },
   {
     "name": "geti",
     "full_name": "open-edge-platform/geti",
     "description": "Build computer vision models in a fraction of the time and with less data.",
     "url": "https://github.com/open-edge-platform/geti",
-    "stars": 183,
-    "daily_stars": 3,
+    "stars": 187,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
       "computer-vision",
@@ -72,64 +114,37 @@
       "openvino"
     ],
     "created_at": "2025-04-10T09:02:28",
-    "updated_at": "2025-05-08T08:31:02"
+    "updated_at": "2025-05-08T12:34:57"
   },
   {
-    "name": "FedGAT",
-    "full_name": "icon-lab/FedGAT",
-    "description": "Official implementation of FedGAT: Generative Autoregressive Transformers for Model-Agnostic Federated MRI Reconstruction (https://arxiv.org/abs/2502.04521)",
-    "url": "https://github.com/icon-lab/FedGAT",
-    "stars": 4,
+    "name": "mini-llm",
+    "full_name": "paulocoutinhox/mini-llm",
+    "description": "Simple and lightweight tool to fine-tune GPT models (like GPT-2 and GPT-Neo) using your own data — built with Python and Transformers. Adapt powerful language models to your domain with ease.",
+    "url": "https://github.com/paulocoutinhox/mini-llm",
+    "stars": 5,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
+      "ai",
       "artificial-intelligence",
-      "autoregressive",
-      "collaborative-learning",
-      "deep-learning",
-      "federated-learning",
-      "generative-models",
-      "heterogeneous",
-      "imaging",
-      "medical",
-      "model-agnostic",
-      "mri",
-      "privacy-preserving-machine-learning",
+      "fine-tuning",
+      "finetuning",
+      "gpt",
+      "llm",
       "python",
-      "pytorch",
-      "reconstruction",
-      "synthetic-images",
+      "slm",
+      "training",
       "transformer"
     ],
-    "created_at": "2025-04-23T12:50:59",
-    "updated_at": "2025-05-08T05:31:13"
-  },
-  {
-    "name": "elkar",
-    "full_name": "elkar-ai/elkar",
-    "description": "Task Management for A2A protocol",
-    "url": "https://github.com/elkar-ai/elkar",
-    "stars": 52,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "a2a",
-      "a2a-protocol",
-      "agent2agent",
-      "ai-agent",
-      "ai-agents",
-      "llm",
-      "task-management"
-    ],
-    "created_at": "2025-04-30T07:10:48",
-    "updated_at": "2025-05-08T05:53:10"
+    "created_at": "2025-05-06T19:55:42",
+    "updated_at": "2025-05-08T12:20:25"
   },
   {
     "name": "brightdata-mcp",
     "full_name": "luminati-io/brightdata-mcp",
     "description": "A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access.",
     "url": "https://github.com/luminati-io/brightdata-mcp",
-    "stars": 50,
+    "stars": 52,
     "daily_stars": 2,
     "language": "JavaScript",
     "topics": [
@@ -151,85 +166,15 @@
       "web-scraping"
     ],
     "created_at": "2025-04-15T10:55:56",
-    "updated_at": "2025-05-08T06:39:53"
-  },
-  {
-    "name": "docscribe.nvim",
-    "full_name": "AdrianMosnegutu/docscribe.nvim",
-    "description": "A Neovim plugin for generating inline documentation for your functions using LLMs, with customizable UI options and notification support. Currently in development – use at your own risk!",
-    "url": "https://github.com/AdrianMosnegutu/docscribe.nvim",
-    "stars": 20,
-    "daily_stars": 1,
-    "language": "Lua",
-    "topics": [
-      "artificial-intelligence",
-      "docs-generator",
-      "llm",
-      "llm-serving",
-      "nvim",
-      "nvim-plugin",
-      "terminal"
-    ],
-    "created_at": "2025-04-22T13:12:39",
-    "updated_at": "2025-05-08T08:11:09"
-  },
-  {
-    "name": "lightchat",
-    "full_name": "Reprompts/lightchat",
-    "description": "LightChat is a lightweight GPT-2–based toolkit built on top of DistilGPT2. It enables anyone to train, deploy, and interact with a custom chatbot on low‑end devices using simple CLI commands",
-    "url": "https://github.com/Reprompts/lightchat",
-    "stars": 2,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "artificial-neural-networks",
-      "beginner-friendly",
-      "chatbot",
-      "chatbots",
-      "chatgpt",
-      "chatgpt-api",
-      "gpt",
-      "machine-learning",
-      "machinelearning",
-      "open-source",
-      "pip",
-      "pypi",
-      "python",
-      "python3"
-    ],
-    "created_at": "2025-05-07T18:16:14",
-    "updated_at": "2025-05-08T08:06:25"
-  },
-  {
-    "name": "localforge",
-    "full_name": "rockbite/localforge",
-    "description": "Local coding agent with neat UI",
-    "url": "https://github.com/rockbite/localforge",
-    "stars": 175,
-    "daily_stars": 1,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-framework",
-      "javascript",
-      "langchain",
-      "local-llm",
-      "prompt-engineering",
-      "vibe-coding"
-    ],
-    "created_at": "2025-04-22T11:48:45",
-    "updated_at": "2025-05-08T06:49:53"
+    "updated_at": "2025-05-08T12:51:51"
   },
   {
     "name": "mcp-gateway",
     "full_name": "aarora79/mcp-gateway",
     "description": "MCP Gateway and Registry",
     "url": "https://github.com/aarora79/mcp-gateway",
-    "stars": 20,
-    "daily_stars": 1,
+    "stars": 22,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -241,6 +186,55 @@
       "nginx"
     ],
     "created_at": "2025-04-27T15:52:22",
-    "updated_at": "2025-05-08T05:34:58"
+    "updated_at": "2025-05-08T12:19:16"
+  },
+  {
+    "name": "lightly-train",
+    "full_name": "lightly-ai/lightly-train",
+    "description": "LightlyTrain is the first PyTorch framework to pretrain computer vision models on unlabeled data for industrial applications",
+    "url": "https://github.com/lightly-ai/lightly-train",
+    "stars": 276,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "computer-vision",
+      "contrastive-learning",
+      "deep-learning",
+      "distillation",
+      "embeddings",
+      "machine-learning",
+      "pretrained-models",
+      "python",
+      "pytorch",
+      "self-supervised",
+      "self-supervised-learning"
+    ],
+    "created_at": "2025-04-10T08:23:51",
+    "updated_at": "2025-05-08T12:11:04"
+  },
+  {
+    "name": "tokenizer-to-onnx-model",
+    "full_name": "yuniko-software/tokenizer-to-onnx-model",
+    "description": "Convert Hugging Face tokenizers to ONNX models for cross-language compatibility (.NET, Java, Python) with embedding models",
+    "url": "https://github.com/yuniko-software/tokenizer-to-onnx-model",
+    "stars": 19,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "csharp",
+      "dotnet",
+      "embedding-models",
+      "huggingface",
+      "inference",
+      "java",
+      "machine-learning",
+      "onnx",
+      "python",
+      "pytorch",
+      "tokenization",
+      "vector-database"
+    ],
+    "created_at": "2025-04-14T19:42:39",
+    "updated_at": "2025-05-08T12:07:03"
   }
 ]
