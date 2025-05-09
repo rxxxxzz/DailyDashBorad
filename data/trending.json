@@ -4,8 +4,8 @@
     "full_name": "bytedance/deer-flow",
     "description": "DeerFlow is a community-driven framework for deep research, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.",
     "url": "https://github.com/bytedance/deer-flow",
-    "stars": 469,
-    "daily_stars": 59,
+    "stars": 576,
+    "daily_stars": 107,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -27,15 +27,15 @@
       "python"
     ],
     "created_at": "2025-05-07T02:50:19",
-    "updated_at": "2025-05-09T02:18:35"
+    "updated_at": "2025-05-09T04:37:15"
   },
   {
     "name": "sharpeye",
     "full_name": "sgInnora/sharpeye",
     "description": "SharpEye: Advanced Linux Intrusion Detection and Threat Hunting System",
     "url": "https://github.com/sgInnora/sharpeye",
-    "stars": 36,
-    "daily_stars": 7,
+    "stars": 41,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "cryptominer-detection",
@@ -50,15 +50,15 @@
       "threat-hunting"
     ],
     "created_at": "2025-05-08T01:25:22",
-    "updated_at": "2025-05-09T01:45:56"
+    "updated_at": "2025-05-09T03:54:05"
   },
   {
     "name": "klavis",
     "full_name": "Klavis-AI/klavis",
     "description": "Klavis AI (YC X25):  Open Source enterprise-grade MCP integration",
     "url": "https://github.com/Klavis-AI/klavis",
-    "stars": 1102,
-    "daily_stars": 6,
+    "stars": 1105,
+    "daily_stars": 3,
     "language": "TypeScript",
     "topics": [
       "agents",
@@ -77,103 +77,55 @@
       "open-source"
     ],
     "created_at": "2025-04-14T07:53:36",
-    "updated_at": "2025-05-09T02:12:06"
+    "updated_at": "2025-05-09T03:42:30"
   },
   {
-    "name": "MiniLMs",
-    "full_name": "Kuberwastaken/MiniLMs",
-    "description": "a research project focused on studying and implementing minimalist language model architectures.",
-    "url": "https://github.com/Kuberwastaken/MiniLMs",
-    "stars": 4,
-    "daily_stars": 1,
-    "language": "HTML",
+    "name": "comfyuiworkflow-to-mermaid",
+    "full_name": "demmosee/comfyuiworkflow-to-mermaid",
+    "description": "Converts ComfyUI workflows into clear Mermaid diagrams. Features a WebUI for one-click conversion of .json/PNG workflow files with direct diagram rendering, zoom, and pan. Supports extensive custom styling for nodes, groups, and links via flexible strategies. Includes automatic dark mode adaptation for diagrams.",
+    "url": "https://github.com/demmosee/comfyuiworkflow-to-mermaid",
+    "stars": 3,
+    "daily_stars": 2,
+    "language": "Python",
     "topics": [
-      "artificial-intelligence",
-      "llm",
-      "machine-learning",
-      "minification",
-      "minilms",
-      "research"
+      "comfyui",
+      "mermaid",
+      "webui",
+      "workflow"
     ],
-    "created_at": "2025-04-19T07:12:44",
-    "updated_at": "2025-05-08T21:35:04"
+    "created_at": "2025-05-07T04:09:10",
+    "updated_at": "2025-05-09T04:37:21"
   },
   {
-    "name": "localforge",
-    "full_name": "rockbite/localforge",
-    "description": "Local coding agent with neat UI",
-    "url": "https://github.com/rockbite/localforge",
-    "stars": 177,
+    "name": "NeoRefacer",
+    "full_name": "MechasAI/NeoRefacer",
+    "description": "Next-generation, fully open-source refacer. Images. GIFs. Full-length videos. Bulk refacing",
+    "url": "https://github.com/MechasAI/NeoRefacer",
+    "stars": 16,
     "daily_stars": 1,
-    "language": "JavaScript",
+    "language": "Python",
     "topics": [
       "ai",
-      "ai-agents",
-      "ai-framework",
-      "javascript",
-      "langchain",
-      "local-llm",
-      "prompt-engineering",
-      "vibe-coding"
+      "artificial-intelligence",
+      "deep-learning",
+      "deepfake",
+      "faceswap",
+      "genai",
+      "gifs",
+      "image-manipulation",
+      "images",
+      "refacer",
+      "videos"
     ],
-    "created_at": "2025-04-22T11:48:45",
-    "updated_at": "2025-05-09T01:54:20"
-  },
-  {
-    "name": "elkar",
-    "full_name": "elkar-ai/elkar",
-    "description": "Task Management for A2A protocol",
-    "url": "https://github.com/elkar-ai/elkar",
-    "stars": 61,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "a2a",
-      "a2a-protocol",
-      "agent2agent",
-      "ai-agent",
-      "ai-agents",
-      "llm",
-      "task-management"
-    ],
-    "created_at": "2025-04-30T07:10:48",
-    "updated_at": "2025-05-08T21:35:38"
-  },
-  {
-    "name": "brightdata-mcp",
-    "full_name": "luminati-io/brightdata-mcp",
-    "description": "A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access.",
-    "url": "https://github.com/luminati-io/brightdata-mcp",
-    "stars": 54,
-    "daily_stars": 1,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "ai-integrations",
-      "anti-bot-detection",
-      "browser-automation",
-      "data-collection",
-      "data-extraction",
-      "llm",
-      "mcp",
-      "mcp-server",
-      "modelcontextprotocol",
-      "scraping",
-      "scraping-tools",
-      "structured-data",
-      "web-crawling",
-      "web-data",
-      "web-scraping"
-    ],
-    "created_at": "2025-04-15T10:55:56",
-    "updated_at": "2025-05-09T00:26:35"
+    "created_at": "2025-04-10T21:11:20",
+    "updated_at": "2025-05-09T03:10:08"
   },
   {
     "name": "mcp-atlassian-server",
     "full_name": "phuc-nt/mcp-atlassian-server",
     "description": "MCP server connecting AI assistants with Jira & Confluence for smart project management.",
     "url": "https://github.com/phuc-nt/mcp-atlassian-server",
-    "stars": 9,
+    "stars": 10,
     "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
@@ -188,42 +140,92 @@
       "productivity"
     ],
     "created_at": "2025-04-27T04:36:03",
-    "updated_at": "2025-05-08T21:28:53"
+    "updated_at": "2025-05-09T02:58:35"
   },
   {
-    "name": "interactive-browser-use",
-    "full_name": "Cofounder-Labs/interactive-browser-use",
-    "description": "Make Browser Use Interactive!",
-    "url": "https://github.com/Cofounder-Labs/interactive-browser-use",
+    "name": "k8s-mcp-server",
+    "full_name": "reza-gholizade/k8s-mcp-server",
+    "description": "Manage Your Kubernetes Cluster with k8s mcp-server",
+    "url": "https://github.com/reza-gholizade/k8s-mcp-server",
+    "stars": 9,
+    "daily_stars": 1,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "golang",
+      "k8s-mcp-server",
+      "kubernetes",
+      "mcp",
+      "mcp-server"
+    ],
+    "created_at": "2025-04-13T21:22:39",
+    "updated_at": "2025-05-09T04:31:47"
+  },
+  {
+    "name": "dokugent-cli",
+    "full_name": "carmelyne/dokugent-cli",
+    "description": "Document-first CLI for building agent workflows in Markdown.",
+    "url": "https://github.com/carmelyne/dokugent-cli",
     "stars": 5,
+    "daily_stars": 1,
+    "language": "JavaScript",
+    "topics": [
+      "agent-framework",
+      "agentic-ai",
+      "ai-agents",
+      "ai-safety",
+      "ai-security",
+      "cli",
+      "documentation-tools",
+      "human-in-the-loop",
+      "llm",
+      "llm-workflow",
+      "markdown",
+      "model-agnostic",
+      "prompt-engineering",
+      "token-aware",
+      "workflow-automation"
+    ],
+    "created_at": "2025-04-19T12:17:56",
+    "updated_at": "2025-05-09T02:33:05"
+  },
+  {
+    "name": "geti",
+    "full_name": "open-edge-platform/geti",
+    "description": "Build computer vision models in a fraction of the time and with less data.",
+    "url": "https://github.com/open-edge-platform/geti",
+    "stars": 190,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "fine-tuning",
+      "inference",
+      "openvino"
+    ],
+    "created_at": "2025-04-10T09:02:28",
+    "updated_at": "2025-05-09T04:37:36"
+  },
+  {
+    "name": "SimpleLLMFunc",
+    "full_name": "NiJingzhe/SimpleLLMFunc",
+    "description": "一个简单的恰到好处LLM应用框架，能够让你以最“Code Center“的方式无缝集成LLM能力",
+    "url": "https://github.com/NiJingzhe/SimpleLLMFunc",
+    "stars": 41,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "ai-agents",
-      "browser-use",
+      "ai",
+      "aigc",
+      "framework",
       "llm",
-      "playright",
-      "python"
+      "llm-framework",
+      "llmfunc",
+      "workflow"
     ],
-    "created_at": "2025-04-10T17:26:29",
-    "updated_at": "2025-05-08T23:39:18"
-  },
-  {
-    "name": "ai-foundry-agents-samples",
-    "full_name": "Azure-Samples/ai-foundry-agents-samples",
-    "description": "Azure AI Foundry - Agents related sample code",
-    "url": "https://github.com/Azure-Samples/ai-foundry-agents-samples",
-    "stars": 2,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "ai-foundry",
-      "azure",
-      "mcp-client",
-      "openai-agents-sdk"
-    ],
-    "created_at": "2025-04-20T14:26:25",
-    "updated_at": "2025-05-08T22:31:36"
+    "created_at": "2025-04-16T17:48:01",
+    "updated_at": "2025-05-09T02:49:11"
   }
 ]
