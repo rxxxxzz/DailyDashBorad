@@ -4,8 +4,8 @@
     "full_name": "bytedance/deer-flow",
     "description": "DeerFlow is a community-driven framework for deep research, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.",
     "url": "https://github.com/bytedance/deer-flow",
-    "stars": 1432,
-    "daily_stars": 150,
+    "stars": 1639,
+    "daily_stars": 207,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -27,15 +27,15 @@
       "python"
     ],
     "created_at": "2025-05-07T02:50:19",
-    "updated_at": "2025-05-10T04:43:05"
+    "updated_at": "2025-05-10T08:42:31"
   },
   {
     "name": "klavis",
     "full_name": "Klavis-AI/klavis",
     "description": "Klavis AI (YC X25):  Open Source enterprise-grade MCP integration",
     "url": "https://github.com/Klavis-AI/klavis",
-    "stars": 1161,
-    "daily_stars": 5,
+    "stars": 1167,
+    "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
       "agents",
@@ -54,70 +54,99 @@
       "open-source"
     ],
     "created_at": "2025-04-14T07:53:36",
-    "updated_at": "2025-05-10T04:42:53"
+    "updated_at": "2025-05-10T08:06:05"
   },
   {
-    "name": "localforge",
-    "full_name": "rockbite/localforge",
-    "description": "Local coding agent with neat UI",
-    "url": "https://github.com/rockbite/localforge",
-    "stars": 178,
+    "name": "artinet-sdk",
+    "full_name": "the-artinet-project/artinet-sdk",
+    "description": "A JS/TS SDK for the Agent2Agent Protocol",
+    "url": "https://github.com/the-artinet-project/artinet-sdk",
+    "stars": 12,
     "daily_stars": 1,
-    "language": "JavaScript",
+    "language": "TypeScript",
     "topics": [
+      "a2a",
+      "a2a-protocol",
+      "agent2agent",
+      "agents",
       "ai",
-      "ai-agents",
-      "ai-framework",
-      "javascript",
-      "langchain",
-      "local-llm",
-      "prompt-engineering",
-      "vibe-coding"
+      "aiagents",
+      "aiagentsframework",
+      "artificial-intelligence",
+      "mcp"
     ],
-    "created_at": "2025-04-22T11:48:45",
-    "updated_at": "2025-05-10T02:55:43"
+    "created_at": "2025-04-25T20:10:21",
+    "updated_at": "2025-05-10T07:12:51"
   },
   {
-    "name": "sharpeye",
-    "full_name": "sgInnora/sharpeye",
-    "description": "SharpEye: Advanced Linux Intrusion Detection and Threat Hunting System",
-    "url": "https://github.com/sgInnora/sharpeye",
-    "stars": 54,
+    "name": "EstateWise-Chapel-Hill-Chatbot",
+    "full_name": "hoangsonww/EstateWise-Chapel-Hill-Chatbot",
+    "description": "🏠 A robust real estate chat application that streamlines user authentication, conversation management, and personalized property recommendations with a modern API, RAG, and responsive UI. Explore our repository to see how we integrate Express, MongoDB, and real-time chat features for an intuitive, scalable experience.",
+    "url": "https://github.com/hoangsonww/EstateWise-Chapel-Hill-Chatbot",
+    "stars": 11,
     "daily_stars": 1,
-    "language": "Python",
+    "language": "TypeScript",
     "topics": [
-      "cryptominer-detection",
-      "cybersecurity",
-      "intrusion-detection",
-      "linux",
+      "artificial-intelligence",
+      "chatbot",
+      "estate",
+      "express",
+      "expressjs",
       "machine-learning",
-      "monitoring",
-      "python",
-      "rootkit-detection",
-      "security",
-      "threat-hunting"
+      "mongo",
+      "mongodb",
+      "nextjs",
+      "pinecone",
+      "rag",
+      "react",
+      "real-estate",
+      "real-estate-website",
+      "rest-api",
+      "retrieval-augmented-generation",
+      "shadcn-ui",
+      "tailwindcss",
+      "vector-database",
+      "vercel"
     ],
-    "created_at": "2025-05-08T01:25:22",
-    "updated_at": "2025-05-10T02:59:36"
+    "created_at": "2025-04-16T01:19:56",
+    "updated_at": "2025-05-10T05:31:13"
   },
   {
-    "name": "LLM-RL-Visualized",
-    "full_name": "changyeyu/LLM-RL-Visualized",
-    "description": "LLM, RL, DPO, RLHF, PPO, GRPO, Distillation, RAG, Alignment, SFT ...",
-    "url": "https://github.com/changyeyu/LLM-RL-Visualized",
-    "stars": 18,
+    "name": "elkar",
+    "full_name": "elkar-ai/elkar",
+    "description": "Task Management for A2A protocol",
+    "url": "https://github.com/elkar-ai/elkar",
+    "stars": 67,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "a2a",
+      "a2a-protocol",
+      "agent2agent",
+      "ai-agent",
+      "ai-agents",
+      "llm",
+      "task-management"
+    ],
+    "created_at": "2025-04-30T07:10:48",
+    "updated_at": "2025-05-10T07:27:09"
+  },
+  {
+    "name": "fake-audio-detection",
+    "full_name": "mozilla-ai/fake-audio-detection",
+    "description": "Blueprint for training and deploying a machine learning model that effectively detects synthetic and modified audio content.",
+    "url": "https://github.com/mozilla-ai/fake-audio-detection",
+    "stars": 12,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "ai",
-      "algorithms",
-      "deep-learning",
-      "llm",
-      "nlp",
-      "reinforcement-learning"
+      "fake-audio-detection",
+      "machine-learning",
+      "svm",
+      "synthetic-audio"
     ],
-    "created_at": "2025-04-26T14:30:47",
-    "updated_at": "2025-05-10T02:17:51"
+    "created_at": "2025-04-22T15:17:10",
+    "updated_at": "2025-05-10T06:37:53"
   },
   {
     "name": "ai-access",
@@ -209,31 +238,5 @@
     ],
     "created_at": "2025-04-19T06:52:24",
     "updated_at": "2025-05-09T18:34:56"
-  },
-  {
-    "name": "machine-learning-interview-questions",
-    "full_name": "amitshekhariitbhu/machine-learning-interview-questions",
-    "description": "Your Cheat Sheet for Machine Learning Interview – Questions and Answers.",
-    "url": "https://github.com/amitshekhariitbhu/machine-learning-interview-questions",
-    "stars": 19,
-    "daily_stars": 0,
-    "language": "Markdown",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "deep-learning",
-      "deep-learning-interview",
-      "deep-learning-interview-questions",
-      "interview",
-      "interview-questions",
-      "llm",
-      "llm-interview",
-      "machine-learning",
-      "machine-learning-interview",
-      "machine-learning-interview-questions",
-      "ml-system-design"
-    ],
-    "created_at": "2025-05-02T03:03:34",
-    "updated_at": "2025-05-09T04:35:27"
   }
 ]
