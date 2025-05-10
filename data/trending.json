@@ -4,8 +4,8 @@
     "full_name": "bytedance/deer-flow",
     "description": "DeerFlow is a community-driven framework for deep research, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.",
     "url": "https://github.com/bytedance/deer-flow",
-    "stars": 2353,
-    "daily_stars": 402,
+    "stars": 2565,
+    "daily_stars": 212,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -27,15 +27,15 @@
       "python"
     ],
     "created_at": "2025-05-07T02:50:19",
-    "updated_at": "2025-05-10T16:43:57"
+    "updated_at": "2025-05-10T20:36:38"
   },
   {
     "name": "klavis",
     "full_name": "Klavis-AI/klavis",
     "description": "Klavis AI (YC X25):  Open Source enterprise-grade MCP integration",
     "url": "https://github.com/Klavis-AI/klavis",
-    "stars": 1191,
-    "daily_stars": 10,
+    "stars": 1198,
+    "daily_stars": 7,
     "language": "TypeScript",
     "topics": [
       "agents",
@@ -54,57 +54,67 @@
       "open-source"
     ],
     "created_at": "2025-04-14T07:53:36",
-    "updated_at": "2025-05-10T16:39:16"
+    "updated_at": "2025-05-10T20:29:55"
   },
   {
-    "name": "mini-llm",
-    "full_name": "paulocoutinhox/mini-llm",
-    "description": "Simple and lightweight tool to fine-tune GPT models (like GPT-2 and GPT-Neo) using your own data — built with Python and Transformers. Adapt powerful language models to your domain with ease.",
-    "url": "https://github.com/paulocoutinhox/mini-llm",
-    "stars": 19,
-    "daily_stars": 1,
+    "name": "brightdata-mcp",
+    "full_name": "luminati-io/brightdata-mcp",
+    "description": "A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access.",
+    "url": "https://github.com/luminati-io/brightdata-mcp",
+    "stars": 61,
+    "daily_stars": 5,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "ai-integrations",
+      "anti-bot-detection",
+      "browser-automation",
+      "data-collection",
+      "data-extraction",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "modelcontextprotocol",
+      "scraping",
+      "scraping-tools",
+      "structured-data",
+      "web-crawling",
+      "web-data",
+      "web-scraping"
+    ],
+    "created_at": "2025-04-15T10:55:56",
+    "updated_at": "2025-05-10T20:37:02"
+  },
+  {
+    "name": "RexAI",
+    "full_name": "DavidMANZI-093/RexAI",
+    "description": "A Chrome Dinosaur game clone powered by NEAT (NeuroEvolution of Augmenting Topologies) that evolves neural networks to play and master the game through generations of training. Watch AI dinosaurs learn, adapt, and overcome obstacles in real-time with visualized network structures.",
+    "url": "https://github.com/DavidMANZI-093/RexAI",
+    "stars": 4,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "ai",
-      "artificial-intelligence",
-      "fine-tuning",
-      "finetuning",
-      "gpt",
-      "llm",
-      "python",
-      "slm",
-      "training",
-      "transformer"
+      "ai-agents",
+      "chrome-dino-game",
+      "evolutionary-algorithms",
+      "natural-selection",
+      "neat",
+      "population-genomics",
+      "pygame",
+      "python3",
+      "t-rex-runner"
     ],
-    "created_at": "2025-05-06T19:55:42",
-    "updated_at": "2025-05-10T14:58:37"
-  },
-  {
-    "name": "MiniLMs",
-    "full_name": "Kuberwastaken/MiniLMs",
-    "description": "a research project focused on studying and implementing minimalist language model architectures.",
-    "url": "https://github.com/Kuberwastaken/MiniLMs",
-    "stars": 5,
-    "daily_stars": 1,
-    "language": "HTML",
-    "topics": [
-      "artificial-intelligence",
-      "llm",
-      "machine-learning",
-      "minification",
-      "minilms",
-      "research"
-    ],
-    "created_at": "2025-04-19T07:12:44",
-    "updated_at": "2025-05-10T15:54:10"
+    "created_at": "2025-04-24T10:19:23",
+    "updated_at": "2025-05-10T19:09:52"
   },
   {
     "name": "sharpeye",
     "full_name": "sgInnora/sharpeye",
     "description": "SharpEye: Advanced Linux Intrusion Detection and Threat Hunting System",
     "url": "https://github.com/sgInnora/sharpeye",
-    "stars": 56,
-    "daily_stars": 1,
+    "stars": 58,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "cryptominer-detection",
@@ -119,102 +129,15 @@
       "threat-hunting"
     ],
     "created_at": "2025-05-08T01:25:22",
-    "updated_at": "2025-05-10T13:11:43"
-  },
-  {
-    "name": "tensorlens",
-    "full_name": "attentionmech/tensorlens",
-    "description": "TensorLens",
-    "url": "https://github.com/attentionmech/tensorlens",
-    "stars": 18,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "deep-learning",
-      "visualisation"
-    ],
-    "created_at": "2025-04-12T16:11:04",
-    "updated_at": "2025-05-10T15:47:03"
-  },
-  {
-    "name": "ai-access",
-    "full_name": "aiaccess/ai-access",
-    "description": "A flexible PHP library providing access to various AI models (Gemini, OpenAI, Anthropic, DeepSeek, Grok) via a consistent interface.",
-    "url": "https://github.com/aiaccess/ai-access",
-    "stars": 37,
-    "daily_stars": 0,
-    "language": "PHP",
-    "topics": [
-      "ai",
-      "anthropic",
-      "api",
-      "artificial-intelligence",
-      "chatbot",
-      "client",
-      "deepseek",
-      "gemini",
-      "grok",
-      "large-language-model",
-      "llm",
-      "openai"
-    ],
-    "created_at": "2025-04-11T15:23:01",
-    "updated_at": "2025-05-08T11:35:51"
-  },
-  {
-    "name": "MediScan",
-    "full_name": "alok-devforge/MediScan",
-    "description": "MediScan: AI-powered bone fracture detection system achieving 99.8% accuracy through deep learning. Features real-time X-ray analysis, transparent Grad-CAM visualizations, and clinical integration tools. Built with Python/FastAPI backend and responsive HTML/CSS frontend, making advanced medical diagnostics more accessible to healthcare providers.",
-    "url": "https://github.com/alok-devforge/MediScan",
-    "stars": 20,
-    "daily_stars": 0,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "artificial-intelligence",
-      "bone-fracture-detection",
-      "computer-vision",
-      "deep-learning",
-      "fastapi",
-      "gradcam",
-      "healthcare-ai",
-      "html-css-javascript",
-      "medical-diagnostics",
-      "medical-imaging",
-      "python",
-      "web-application",
-      "x-ray-analysis",
-      "yolov8"
-    ],
-    "created_at": "2025-04-25T10:58:16",
-    "updated_at": "2025-05-05T10:05:20"
-  },
-  {
-    "name": "docscribe.nvim",
-    "full_name": "AdrianMosnegutu/docscribe.nvim",
-    "description": "A Neovim plugin for generating inline documentation for your functions using LLMs, with customizable UI options and notification support. Currently in development – use at your own risk!",
-    "url": "https://github.com/AdrianMosnegutu/docscribe.nvim",
-    "stars": 20,
-    "daily_stars": 0,
-    "language": "Lua",
-    "topics": [
-      "artificial-intelligence",
-      "docs-generator",
-      "llm",
-      "llm-serving",
-      "nvim",
-      "nvim-plugin",
-      "terminal"
-    ],
-    "created_at": "2025-04-22T13:12:39",
-    "updated_at": "2025-05-08T08:11:09"
+    "updated_at": "2025-05-10T19:42:50"
   },
   {
     "name": "awesome-google-adk",
     "full_name": "tsubasakong/awesome-google-adk",
     "description": "A curated list of awesome resources for Google's Agent Development Kit (ADK)",
     "url": "https://github.com/tsubasakong/awesome-google-adk",
-    "stars": 19,
-    "daily_stars": 0,
+    "stars": 20,
+    "daily_stars": 1,
     "language": null,
     "topics": [
       "agent-development-kit",
@@ -225,6 +148,81 @@
       "multi-agent-systems"
     ],
     "created_at": "2025-04-19T06:52:24",
-    "updated_at": "2025-05-09T18:34:56"
+    "updated_at": "2025-05-10T19:42:08"
+  },
+  {
+    "name": "mcp-atlassian-server",
+    "full_name": "phuc-nt/mcp-atlassian-server",
+    "description": "MCP server connecting AI assistants with Jira & Confluence for smart project management.",
+    "url": "https://github.com/phuc-nt/mcp-atlassian-server",
+    "stars": 12,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "atlassian",
+      "atlassian-confluence",
+      "atlassian-jira",
+      "automation",
+      "cline",
+      "mcp",
+      "mcp-server",
+      "productivity"
+    ],
+    "created_at": "2025-04-27T04:36:03",
+    "updated_at": "2025-05-10T18:17:59"
+  },
+  {
+    "name": "ICon",
+    "full_name": "ShadeAlsha/ICon",
+    "description": "ICLR 2025",
+    "url": "https://github.com/ShadeAlsha/ICon",
+    "stars": 79,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "computer-vision",
+      "machine-learning",
+      "representation-learning"
+    ],
+    "created_at": "2025-04-15T06:18:15",
+    "updated_at": "2025-05-10T18:55:47"
+  },
+  {
+    "name": "forest_typology",
+    "full_name": "google-deepmind/forest_typology",
+    "description": "Datasets to protect Earth's forests and biodiversity",
+    "url": "https://github.com/google-deepmind/forest_typology",
+    "stars": 30,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "benchmark-datasets",
+      "biodiversity",
+      "deep-learning",
+      "earth-observation",
+      "forest",
+      "habitat-mapping",
+      "machine-learning",
+      "remote-sensing",
+      "sustainability"
+    ],
+    "created_at": "2025-05-02T07:31:50",
+    "updated_at": "2025-05-10T17:07:52"
+  },
+  {
+    "name": "tensorlens",
+    "full_name": "attentionmech/tensorlens",
+    "description": "TensorLens",
+    "url": "https://github.com/attentionmech/tensorlens",
+    "stars": 19,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "deep-learning",
+      "visualisation"
+    ],
+    "created_at": "2025-04-12T16:11:04",
+    "updated_at": "2025-05-10T16:52:11"
   }
 ]
