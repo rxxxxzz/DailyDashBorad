@@ -4,8 +4,8 @@
     "full_name": "bytedance/deer-flow",
     "description": "DeerFlow is a community-driven framework for deep research, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.",
     "url": "https://github.com/bytedance/deer-flow",
-    "stars": 8843,
-    "daily_stars": 206,
+    "stars": 8995,
+    "daily_stars": 152,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -27,44 +27,68 @@
       "python"
     ],
     "created_at": "2025-05-07T02:50:19",
-    "updated_at": "2025-05-14T13:04:38"
+    "updated_at": "2025-05-14T16:47:22"
   },
   {
-    "name": "brightdata-mcp",
-    "full_name": "luminati-io/brightdata-mcp",
-    "description": "A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access.",
-    "url": "https://github.com/luminati-io/brightdata-mcp",
-    "stars": 115,
-    "daily_stars": 4,
-    "language": "JavaScript",
+    "name": "ArtificialCast",
+    "full_name": "Zorokee/ArtificialCast",
+    "description": "Type-safe transformation powered by inference.",
+    "url": "https://github.com/Zorokee/ArtificialCast",
+    "stars": 168,
+    "daily_stars": 19,
+    "language": "C#",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "csharp",
+      "dotnet",
+      "llm",
+      "satire",
+      "type-casting"
+    ],
+    "created_at": "2025-05-13T14:23:01",
+    "updated_at": "2025-05-14T16:47:19"
+  },
+  {
+    "name": "lightfeed-extract",
+    "full_name": "lightfeed/lightfeed-extract",
+    "description": "Use LLMs to robustly extract structured data from HTML and markdown",
+    "url": "https://github.com/lightfeed/lightfeed-extract",
+    "stars": 5,
+    "daily_stars": 3,
+    "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "ai-integrations",
-      "anti-bot-detection",
-      "browser-automation",
-      "data-collection",
-      "data-extraction",
+      "article-extractor",
+      "crawler",
+      "data-engineering",
+      "data-pipeline",
+      "etl",
+      "google-gemini",
+      "html-parser",
+      "html-to-markdown",
       "llm",
-      "mcp",
-      "mcp-server",
-      "modelcontextprotocol",
-      "scraping",
-      "scraping-tools",
-      "structured-data",
-      "web-crawling",
-      "web-data",
-      "web-scraping"
+      "llm-extraction",
+      "llm-scraper",
+      "markdown",
+      "nlp",
+      "openai",
+      "rag",
+      "rss-feed",
+      "web-data-extraction",
+      "web-extraction",
+      "webscraping"
     ],
-    "created_at": "2025-04-15T10:55:56",
-    "updated_at": "2025-05-14T11:53:12"
+    "created_at": "2025-05-02T18:53:37",
+    "updated_at": "2025-05-14T16:25:58"
   },
   {
     "name": "gptree-gui",
     "full_name": "travisvn/gptree-gui",
     "description": "A tool to provide LLM context for coding projects by combining project files into a single text file (or clipboard text) with directory tree structure.",
     "url": "https://github.com/travisvn/gptree-gui",
-    "stars": 4,
-    "daily_stars": 3,
+    "stars": 6,
+    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -88,15 +112,64 @@
       "tool"
     ],
     "created_at": "2025-04-22T19:28:20",
-    "updated_at": "2025-05-14T12:16:00"
+    "updated_at": "2025-05-14T16:09:08"
+  },
+  {
+    "name": "brightdata-mcp",
+    "full_name": "luminati-io/brightdata-mcp",
+    "description": "A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access.",
+    "url": "https://github.com/luminati-io/brightdata-mcp",
+    "stars": 117,
+    "daily_stars": 2,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "ai-integrations",
+      "anti-bot-detection",
+      "browser-automation",
+      "data-collection",
+      "data-extraction",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "modelcontextprotocol",
+      "scraping",
+      "scraping-tools",
+      "structured-data",
+      "web-crawling",
+      "web-data",
+      "web-scraping"
+    ],
+    "created_at": "2025-04-15T10:55:56",
+    "updated_at": "2025-05-14T15:56:10"
+  },
+  {
+    "name": "elkar",
+    "full_name": "elkar-ai/elkar",
+    "description": "Task Management for A2A protocol",
+    "url": "https://github.com/elkar-ai/elkar",
+    "stars": 92,
+    "daily_stars": 2,
+    "language": "TypeScript",
+    "topics": [
+      "a2a",
+      "a2a-protocol",
+      "agent2agent",
+      "ai-agent",
+      "ai-agents",
+      "llm",
+      "task-management"
+    ],
+    "created_at": "2025-04-30T07:10:48",
+    "updated_at": "2025-05-14T16:44:16"
   },
   {
     "name": "sharpeye",
     "full_name": "sgInnora/sharpeye",
     "description": "SharpEye: Advanced Linux Intrusion Detection and Threat Hunting System",
     "url": "https://github.com/sgInnora/sharpeye",
-    "stars": 68,
-    "daily_stars": 3,
+    "stars": 70,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "cryptominer-detection",
@@ -111,128 +184,74 @@
       "threat-hunting"
     ],
     "created_at": "2025-05-08T01:25:22",
-    "updated_at": "2025-05-14T12:10:53"
+    "updated_at": "2025-05-14T16:44:07"
   },
   {
-    "name": "multimind-sdk",
-    "full_name": "multimind-dev/multimind-sdk",
-    "description": "Your SDK solves all of this. One interface. Unified logic. Local + hosted models. Fine-tuning. Agent tools. No switching headaches.",
-    "url": "https://github.com/multimind-dev/multimind-sdk",
-    "stars": 5,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "fine-tuning",
-      "fine-tuning-llm",
-      "llm",
-      "multimind",
-      "sdk"
-    ],
-    "created_at": "2025-05-12T13:36:47",
-    "updated_at": "2025-05-14T12:37:15"
-  },
-  {
-    "name": "eZAutoML",
-    "full_name": "eZWALT/eZAutoML",
-    "description": "A Democratized, lightweight and modern framework for Python Automated Machine Learning",
-    "url": "https://github.com/eZWALT/eZAutoML",
-    "stars": 38,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "automl",
-      "automl-python",
-      "data-pipeline",
-      "distributed-systems",
-      "lightgbm",
-      "machine-learning",
-      "python3",
-      "scalability",
-      "scikit-learn",
-      "tabular-data",
-      "xgboost"
-    ],
-    "created_at": "2025-04-30T09:15:38",
-    "updated_at": "2025-05-14T12:05:19"
-  },
-  {
-    "name": "Corebrain",
-    "full_name": "ceoweggo/Corebrain",
-    "description": "Corebrain is an SDK-based solution that allows developers to integrate natural language queries into relational and non-relational databases with AI interpretation and reuse the data obtained. ",
-    "url": "https://github.com/ceoweggo/Corebrain",
-    "stars": 2,
+    "name": "vibe-rules",
+    "full_name": "FutureExcited/vibe-rules",
+    "description": "Save, load, distribute your AI rules",
+    "url": "https://github.com/FutureExcited/vibe-rules",
+    "stars": 45,
     "daily_stars": 1,
-    "language": null,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "cursor-ai",
+      "windsurf",
+      "zed-editor"
+    ],
+    "created_at": "2025-04-22T17:24:09",
+    "updated_at": "2025-05-14T13:23:11"
+  },
+  {
+    "name": "machine-learning-interview-questions",
+    "full_name": "amitshekhariitbhu/machine-learning-interview-questions",
+    "description": "Your Cheat Sheet for Machine Learning Interview – Questions and Answers.",
+    "url": "https://github.com/amitshekhariitbhu/machine-learning-interview-questions",
+    "stars": 21,
+    "daily_stars": 1,
+    "language": "Markdown",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "deep-learning",
+      "deep-learning-interview",
+      "deep-learning-interview-questions",
+      "interview",
+      "interview-questions",
+      "llm",
+      "llm-interview",
+      "machine-learning",
+      "machine-learning-interview",
+      "machine-learning-interview-questions",
+      "ml-system-design"
+    ],
+    "created_at": "2025-05-02T03:03:34",
+    "updated_at": "2025-05-14T13:57:00"
+  },
+  {
+    "name": "build-your-own-x-machine-learning",
+    "full_name": "amitshekhariitbhu/build-your-own-x-machine-learning",
+    "description": "Master machine learning by building everything from scratch. It aims to cover everything from linear regression to deep learning to large language models (LLMs).",
+    "url": "https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning",
+    "stars": 13,
+    "daily_stars": 1,
+    "language": "Markdown",
     "topics": [
       "artificial-intelligence",
-      "data-science"
-    ],
-    "created_at": "2025-05-12T16:34:15",
-    "updated_at": "2025-05-14T11:56:09"
-  },
-  {
-    "name": "elkar",
-    "full_name": "elkar-ai/elkar",
-    "description": "Task Management for A2A protocol",
-    "url": "https://github.com/elkar-ai/elkar",
-    "stars": 90,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "a2a",
-      "a2a-protocol",
-      "agent2agent",
-      "ai-agent",
-      "ai-agents",
-      "llm",
-      "task-management"
-    ],
-    "created_at": "2025-04-30T07:10:48",
-    "updated_at": "2025-05-14T13:06:22"
-  },
-  {
-    "name": "mcp-atlassian-server",
-    "full_name": "phuc-nt/mcp-atlassian-server",
-    "description": "MCP server connecting AI assistants with Jira & Confluence for smart project management.",
-    "url": "https://github.com/phuc-nt/mcp-atlassian-server",
-    "stars": 19,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "atlassian",
-      "atlassian-confluence",
-      "atlassian-jira",
-      "automation",
-      "cline",
-      "mcp",
-      "mcp-server",
-      "productivity"
-    ],
-    "created_at": "2025-04-27T04:36:03",
-    "updated_at": "2025-05-14T11:24:30"
-  },
-  {
-    "name": "forest_typology",
-    "full_name": "google-deepmind/forest_typology",
-    "description": "Datasets to protect Earth's forests and biodiversity",
-    "url": "https://github.com/google-deepmind/forest_typology",
-    "stars": 32,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "benchmark-datasets",
-      "biodiversity",
+      "awesome-list",
+      "build-your-own",
+      "build-your-own-x",
       "deep-learning",
-      "earth-observation",
-      "forest",
-      "habitat-mapping",
+      "large-language-models",
       "machine-learning",
-      "remote-sensing",
-      "sustainability"
+      "programming",
+      "project-based-learning",
+      "tutorial-exercises",
+      "tutorials"
     ],
-    "created_at": "2025-05-02T07:31:50",
-    "updated_at": "2025-05-14T12:12:00"
+    "created_at": "2025-05-13T03:37:34",
+    "updated_at": "2025-05-14T13:51:38"
   }
 ]
