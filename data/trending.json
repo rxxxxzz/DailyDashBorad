@@ -4,8 +4,8 @@
     "full_name": "bytedance/deer-flow",
     "description": "DeerFlow is a community-driven framework for deep research, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.",
     "url": "https://github.com/bytedance/deer-flow",
-    "stars": 9512,
-    "daily_stars": 90,
+    "stars": 9568,
+    "daily_stars": 56,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -27,15 +27,15 @@
       "python"
     ],
     "created_at": "2025-05-07T02:50:19",
-    "updated_at": "2025-05-15T12:58:11"
+    "updated_at": "2025-05-15T16:39:18"
   },
   {
     "name": "ArtificialCast",
     "full_name": "Zorokee/ArtificialCast",
     "description": "Type-safe transformation powered by inference.",
     "url": "https://github.com/Zorokee/ArtificialCast",
-    "stars": 244,
-    "daily_stars": 10,
+    "stars": 255,
+    "daily_stars": 11,
     "language": "C#",
     "topics": [
       "ai",
@@ -47,15 +47,15 @@
       "type-casting"
     ],
     "created_at": "2025-05-13T14:23:01",
-    "updated_at": "2025-05-15T12:18:06"
+    "updated_at": "2025-05-15T16:37:40"
   },
   {
     "name": "magic",
     "full_name": "dtyq/magic",
     "description": "The first open-source all-in-one AI productivity platform",
     "url": "https://github.com/dtyq/magic",
-    "stars": 275,
-    "daily_stars": 10,
+    "stars": 280,
+    "daily_stars": 5,
     "language": "PHP",
     "topics": [
       "agent",
@@ -70,38 +70,14 @@
       "workflow"
     ],
     "created_at": "2025-05-14T22:04:29",
-    "updated_at": "2025-05-15T12:28:27"
-  },
-  {
-    "name": "eZAutoML",
-    "full_name": "eZWALT/eZAutoML",
-    "description": "A Democratized, lightweight and modern framework for Python Automated Machine Learning",
-    "url": "https://github.com/eZWALT/eZAutoML",
-    "stars": 45,
-    "daily_stars": 6,
-    "language": "Python",
-    "topics": [
-      "automl",
-      "automl-python",
-      "data-pipeline",
-      "distributed-systems",
-      "lightgbm",
-      "machine-learning",
-      "python3",
-      "scalability",
-      "scikit-learn",
-      "tabular-data",
-      "xgboost"
-    ],
-    "created_at": "2025-04-30T09:15:38",
-    "updated_at": "2025-05-15T11:29:29"
+    "updated_at": "2025-05-15T15:58:54"
   },
   {
     "name": "AI-ML-Cheatsheets",
     "full_name": "analyticalrohit/AI-ML-Cheatsheets",
     "description": "All Stanford Cheatsheets: Artificial Intelligence, Transformers, LLMs, Deep Learning, Machine Learning, Probabilities, Statistics, Algebra and Calculus.",
     "url": "https://github.com/analyticalrohit/AI-ML-Cheatsheets",
-    "stars": 48,
+    "stars": 50,
     "daily_stars": 2,
     "language": null,
     "topics": [
@@ -118,131 +94,152 @@
       "transformers"
     ],
     "created_at": "2025-05-13T13:29:09",
-    "updated_at": "2025-05-15T11:24:35"
+    "updated_at": "2025-05-15T15:22:54"
   },
   {
-    "name": "lightfeed-extract",
-    "full_name": "lightfeed/lightfeed-extract",
-    "description": "Use LLMs to robustly extract structured data from HTML and markdown",
-    "url": "https://github.com/lightfeed/lightfeed-extract",
-    "stars": 28,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "article-extractor",
-      "crawler",
-      "data-engineering",
-      "data-pipeline",
-      "etl",
-      "google-gemini",
-      "html-parser",
-      "html-to-markdown",
-      "llm",
-      "llm-extraction",
-      "llm-scraper",
-      "markdown",
-      "nlp",
-      "openai",
-      "rag",
-      "rss-feed",
-      "web-data-extraction",
-      "web-extraction",
-      "webscraping"
-    ],
-    "created_at": "2025-05-02T18:53:37",
-    "updated_at": "2025-05-15T12:53:20"
-  },
-  {
-    "name": "artinet-sdk",
-    "full_name": "the-artinet-project/artinet-sdk",
-    "description": "A JS/TS SDK for the Agent2Agent Protocol",
-    "url": "https://github.com/the-artinet-project/artinet-sdk",
-    "stars": 15,
+    "name": "gptree-gui",
+    "full_name": "travisvn/gptree-gui",
+    "description": "A tool to provide LLM context for coding projects by combining project files into a single text file (or clipboard text) with directory tree structure.",
+    "url": "https://github.com/travisvn/gptree-gui",
+    "stars": 9,
     "daily_stars": 1,
     "language": "TypeScript",
-    "topics": [
-      "a2a",
-      "a2a-protocol",
-      "agent2agent",
-      "agents",
-      "ai",
-      "aiagents",
-      "aiagentsframework",
-      "artificial-intelligence",
-      "mcp"
-    ],
-    "created_at": "2025-04-25T20:10:21",
-    "updated_at": "2025-05-15T09:31:48"
-  },
-  {
-    "name": "tyrex",
-    "full_name": "elias-ba/tyrex",
-    "description": "An Elixir library for genetic programming and neuroevolution, implementing standard genetic algorithms and NEAT. Features parallel evaluation, checkpointing, and extensible operators for selection, crossover, and mutation. Solve optimization problems through evolution with a clean, flexible API.",
-    "url": "https://github.com/elias-ba/tyrex",
-    "stars": 8,
-    "daily_stars": 1,
-    "language": "Elixir",
-    "topics": [
-      "artificial-intelligence",
-      "concurrency",
-      "distributed-computing",
-      "elixir",
-      "evolutionary-computation",
-      "functional-programming",
-      "genetic-algorithms",
-      "machine-learning",
-      "neat",
-      "neural-networks",
-      "neuroevolution",
-      "optimization",
-      "parallelism"
-    ],
-    "created_at": "2025-05-03T18:13:48",
-    "updated_at": "2025-05-15T10:38:28"
-  },
-  {
-    "name": "elkar",
-    "full_name": "elkar-ai/elkar",
-    "description": "Task Management for A2A protocol",
-    "url": "https://github.com/elkar-ai/elkar",
-    "stars": 99,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "a2a",
-      "a2a-protocol",
-      "agent2agent",
-      "ai-agent",
-      "ai-agents",
-      "llm",
-      "task-management"
-    ],
-    "created_at": "2025-04-30T07:10:48",
-    "updated_at": "2025-05-15T12:25:51"
-  },
-  {
-    "name": "webllm-offline-ai",
-    "full_name": "ebenezerdon/webllm-offline-ai",
-    "description": "A browser-based LLM chat application that runs AI models directly in your browser using WebGPU and WebLLM",
-    "url": "https://github.com/ebenezerdon/webllm-offline-ai",
-    "stars": 1,
-    "daily_stars": 1,
-    "language": "JavaScript",
     "topics": [
       "ai",
-      "ai-agents",
-      "browser-ai",
+      "artificial-intelligence",
+      "chatgpt",
+      "claude",
+      "coding-assistant",
+      "copilot",
+      "cursor",
+      "developer-tools",
+      "devtools",
+      "gemini",
+      "gpt",
       "llama",
-      "llama3",
       "llm",
-      "local-llm",
-      "qwen2-5",
-      "qwen3",
-      "webgpu",
-      "webllm"
+      "llms",
+      "openai",
+      "productivity",
+      "rust",
+      "tauri",
+      "tool"
     ],
-    "created_at": "2025-05-13T21:40:34",
-    "updated_at": "2025-05-15T09:39:42"
+    "created_at": "2025-04-22T19:28:20",
+    "updated_at": "2025-05-15T15:35:37"
+  },
+  {
+    "name": "snippy",
+    "full_name": "Azure-Samples/snippy",
+    "description": "🧩 Demo: Build AI-powered MCP Tools for GitHub Copilot using Azure Functions, OpenAI, AI Agents & Cosmos DB. Manages code snippets w/ vector search.",
+    "url": "https://github.com/Azure-Samples/snippy",
+    "stars": 12,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "azure-functions",
+      "copilot",
+      "cosmosdb",
+      "mcp",
+      "mcp-server"
+    ],
+    "created_at": "2025-04-24T18:25:10",
+    "updated_at": "2025-05-15T14:03:36"
+  },
+  {
+    "name": "gcp-ai-agent-starter-kit",
+    "full_name": "macespinoza/gcp-ai-agent-starter-kit",
+    "description": "Starter kit to deploy LLM agents with memory and RAG using LangChain, OpenAI, and Google Cloud (Cloud Run, BigQuery).",
+    "url": "https://github.com/macespinoza/gcp-ai-agent-starter-kit",
+    "stars": 9,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "ai-agents",
+      "bigquery",
+      "cloud-run",
+      "gcp",
+      "generative-ai",
+      "langchain",
+      "llm",
+      "llm-agents",
+      "openai",
+      "prompt-engineering",
+      "rag"
+    ],
+    "created_at": "2025-05-06T01:36:12",
+    "updated_at": "2025-05-15T13:49:21"
+  },
+  {
+    "name": "eZAutoML",
+    "full_name": "eZWALT/eZAutoML",
+    "description": "A Democratized, lightweight and modern framework for Python Automated Machine Learning",
+    "url": "https://github.com/eZWALT/eZAutoML",
+    "stars": 46,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "automl",
+      "automl-python",
+      "data-pipeline",
+      "distributed-systems",
+      "lightgbm",
+      "machine-learning",
+      "python3",
+      "scalability",
+      "scikit-learn",
+      "tabular-data",
+      "xgboost"
+    ],
+    "created_at": "2025-04-30T09:15:38",
+    "updated_at": "2025-05-15T16:12:04"
+  },
+  {
+    "name": "cogitator",
+    "full_name": "habedi/cogitator",
+    "description": "A Python Toolkit for Chain-of-Thought Prompting 🐍",
+    "url": "https://github.com/habedi/cogitator",
+    "stars": 23,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-research",
+      "ai-toolkit",
+      "chain-of-thought",
+      "cot-prompting",
+      "explainable-ai",
+      "large-language-models",
+      "llms",
+      "machine-learning",
+      "prompt-engineering",
+      "python",
+      "python-library"
+    ],
+    "created_at": "2025-04-29T15:20:28",
+    "updated_at": "2025-05-15T16:47:37"
+  },
+  {
+    "name": "Predicting-Loan-Defaults-with-Deep-Learning",
+    "full_name": "ugyenn-tsheringg/Predicting-Loan-Defaults-with-Deep-Learning",
+    "description": "A deep learning model to predict loan default probabilities for the African Credit Scoring Challenge.",
+    "url": "https://github.com/ugyenn-tsheringg/Predicting-Loan-Defaults-with-Deep-Learning",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "adam-optimizer",
+      "deep-learning",
+      "early-stopping",
+      "matplotlib",
+      "numpy",
+      "pandas",
+      "relu",
+      "scikit-learn",
+      "seaborn",
+      "tensorflow"
+    ],
+    "created_at": "2025-04-23T17:33:16",
+    "updated_at": "2025-05-15T15:15:02"
   }
 ]
