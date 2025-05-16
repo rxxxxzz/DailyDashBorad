@@ -4,8 +4,8 @@
     "full_name": "bytedance/deer-flow",
     "description": "DeerFlow is a community-driven framework for deep research, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.",
     "url": "https://github.com/bytedance/deer-flow",
-    "stars": 10161,
-    "daily_stars": 88,
+    "stars": 10209,
+    "daily_stars": 48,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -27,31 +27,34 @@
       "python"
     ],
     "created_at": "2025-05-07T02:50:19",
-    "updated_at": "2025-05-16T13:05:04"
+    "updated_at": "2025-05-16T16:46:28"
   },
   {
-    "name": "ParScale",
-    "full_name": "QwenLM/ParScale",
-    "description": "Parallel Scaling Law for Language Model — Beyond Parameter and Inference Time Scaling",
-    "url": "https://github.com/QwenLM/ParScale",
-    "stars": 24,
-    "daily_stars": 6,
-    "language": "Python",
+    "name": "ArtificialCast",
+    "full_name": "Zorokee/ArtificialCast",
+    "description": "Type-safe transformation powered by inference.",
+    "url": "https://github.com/Zorokee/ArtificialCast",
+    "stars": 286,
+    "daily_stars": 10,
+    "language": "C#",
     "topics": [
-      "large-language-models",
+      "ai",
+      "artificial-intelligence",
+      "csharp",
+      "dotnet",
       "llm",
-      "machine-learning",
-      "scaling-law"
+      "satire",
+      "type-casting"
     ],
-    "created_at": "2025-05-15T09:49:05",
-    "updated_at": "2025-05-16T11:26:59"
+    "created_at": "2025-05-13T14:23:01",
+    "updated_at": "2025-05-16T16:27:23"
   },
   {
     "name": "magic",
     "full_name": "dtyq/magic",
     "description": "The first open-source all-in-one AI productivity platform",
     "url": "https://github.com/dtyq/magic",
-    "stars": 319,
+    "stars": 325,
     "daily_stars": 6,
     "language": "PHP",
     "topics": [
@@ -67,27 +70,106 @@
       "workflow"
     ],
     "created_at": "2025-05-14T22:04:29",
-    "updated_at": "2025-05-16T11:58:22"
+    "updated_at": "2025-05-16T15:50:20"
   },
   {
-    "name": "ArtificialCast",
-    "full_name": "Zorokee/ArtificialCast",
-    "description": "Type-safe transformation powered by inference.",
-    "url": "https://github.com/Zorokee/ArtificialCast",
-    "stars": 276,
+    "name": "ParScale",
+    "full_name": "QwenLM/ParScale",
+    "description": "Parallel Scaling Law for Language Model — Beyond Parameter and Inference Time Scaling",
+    "url": "https://github.com/QwenLM/ParScale",
+    "stars": 27,
     "daily_stars": 3,
-    "language": "C#",
+    "language": "Python",
+    "topics": [
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "scaling-law"
+    ],
+    "created_at": "2025-05-15T09:49:05",
+    "updated_at": "2025-05-16T15:24:47"
+  },
+  {
+    "name": "eZAutoML",
+    "full_name": "eZWALT/eZAutoML",
+    "description": "A Democratized, lightweight and modern framework for Python Automated Machine Learning",
+    "url": "https://github.com/eZWALT/eZAutoML",
+    "stars": 50,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "automl",
+      "automl-python",
+      "data-pipeline",
+      "distributed-systems",
+      "lightgbm",
+      "machine-learning",
+      "python3",
+      "scalability",
+      "scikit-learn",
+      "tabular-data",
+      "xgboost"
+    ],
+    "created_at": "2025-04-30T09:15:38",
+    "updated_at": "2025-05-16T15:48:01"
+  },
+  {
+    "name": "ai-data-handbook",
+    "full_name": "emredeveloper/ai-data-handbook",
+    "description": "A practical, notebook-based AI and data science handbook for learners and researchers. Built with Python & Jupyter. (Türkçesi: Python ve Jupyter tabanlı, öğrenenler ve araştırmacılar için hazırlanmış uygulamalı yapay zeka ve veri bilimi el kitabı.)",
+    "url": "https://github.com/emredeveloper/ai-data-handbook",
+    "stars": 10,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
     "topics": [
       "ai",
-      "artificial-intelligence",
-      "csharp",
-      "dotnet",
-      "llm",
-      "satire",
-      "type-casting"
+      "data-science",
+      "deep-learning",
+      "jupyter-notebook",
+      "llms",
+      "machine-learning",
+      "mongodb",
+      "open-source",
+      "python"
     ],
-    "created_at": "2025-05-13T14:23:01",
-    "updated_at": "2025-05-16T12:52:40"
+    "created_at": "2025-04-29T11:30:50",
+    "updated_at": "2025-05-16T13:39:26"
+  },
+  {
+    "name": "snippy",
+    "full_name": "Azure-Samples/snippy",
+    "description": "🧩 Demo: Build AI-powered MCP Tools for GitHub Copilot using Azure Functions, OpenAI, AI Agents & Cosmos DB. Manages code snippets w/ vector search.",
+    "url": "https://github.com/Azure-Samples/snippy",
+    "stars": 14,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "azure-functions",
+      "copilot",
+      "cosmosdb",
+      "mcp",
+      "mcp-server"
+    ],
+    "created_at": "2025-04-24T18:25:10",
+    "updated_at": "2025-05-16T14:58:40"
+  },
+  {
+    "name": "litefold",
+    "full_name": "Anindyadeep/litefold",
+    "description": "Making folding experiments more accessible .",
+    "url": "https://github.com/Anindyadeep/litefold",
+    "stars": 28,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "deep-learning",
+      "llms",
+      "open-source",
+      "protein-structure"
+    ],
+    "created_at": "2025-04-20T13:19:08",
+    "updated_at": "2025-05-16T16:14:49"
   },
   {
     "name": "AI-ML-Cheatsheets",
@@ -95,7 +177,7 @@
     "description": "All Stanford Cheatsheets: Artificial Intelligence, Transformers, LLMs, Deep Learning, Machine Learning, Probabilities, Statistics, Algebra and Calculus.",
     "url": "https://github.com/analyticalrohit/AI-ML-Cheatsheets",
     "stars": 53,
-    "daily_stars": 2,
+    "daily_stars": 0,
     "language": null,
     "topics": [
       "artificial-intelligence",
@@ -114,125 +196,21 @@
     "updated_at": "2025-05-16T12:58:15"
   },
   {
-    "name": "eZAutoML",
-    "full_name": "eZWALT/eZAutoML",
-    "description": "A Democratized, lightweight and modern framework for Python Automated Machine Learning",
-    "url": "https://github.com/eZWALT/eZAutoML",
-    "stars": 48,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "automl",
-      "automl-python",
-      "data-pipeline",
-      "distributed-systems",
-      "lightgbm",
-      "machine-learning",
-      "python3",
-      "scalability",
-      "scikit-learn",
-      "tabular-data",
-      "xgboost"
-    ],
-    "created_at": "2025-04-30T09:15:38",
-    "updated_at": "2025-05-16T11:59:20"
-  },
-  {
-    "name": "ai-data-handbook",
-    "full_name": "emredeveloper/ai-data-handbook",
-    "description": "A practical, notebook-based AI and data science handbook for learners and researchers. Built with Python & Jupyter. (Türkçesi: Python ve Jupyter tabanlı, öğrenenler ve araştırmacılar için hazırlanmış uygulamalı yapay zeka ve veri bilimi el kitabı.)",
-    "url": "https://github.com/emredeveloper/ai-data-handbook",
-    "stars": 8,
-    "daily_stars": 2,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "ai",
-      "data-science",
-      "deep-learning",
-      "jupyter-notebook",
-      "llms",
-      "machine-learning",
-      "mongodb",
-      "open-source",
-      "python"
-    ],
-    "created_at": "2025-04-29T11:30:50",
-    "updated_at": "2025-05-16T12:58:25"
-  },
-  {
-    "name": "lightfeed-extract",
-    "full_name": "lightfeed/lightfeed-extract",
-    "description": "Use LLMs to robustly extract structured data from HTML and markdown",
-    "url": "https://github.com/lightfeed/lightfeed-extract",
-    "stars": 31,
-    "daily_stars": 1,
+    "name": "vibe-rules",
+    "full_name": "FutureExcited/vibe-rules",
+    "description": "Save, load, distribute your AI rules",
+    "url": "https://github.com/FutureExcited/vibe-rules",
+    "stars": 47,
+    "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
-      "ai-agents",
-      "article-extractor",
-      "crawler",
-      "data-engineering",
-      "data-pipeline",
-      "etl",
-      "google-gemini",
-      "html-parser",
-      "html-to-markdown",
-      "llm",
-      "llm-extraction",
-      "llm-scraper",
-      "markdown",
-      "nlp",
-      "openai",
-      "rag",
-      "rss-feed",
-      "web-data-extraction",
-      "web-extraction",
-      "webscraping"
-    ],
-    "created_at": "2025-05-02T18:53:37",
-    "updated_at": "2025-05-16T12:24:45"
-  },
-  {
-    "name": "snippy",
-    "full_name": "Azure-Samples/snippy",
-    "description": "🧩 Demo: Build AI-powered MCP Tools for GitHub Copilot using Azure Functions, OpenAI, AI Agents & Cosmos DB. Manages code snippets w/ vector search.",
-    "url": "https://github.com/Azure-Samples/snippy",
-    "stars": 13,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "azure-functions",
-      "copilot",
-      "cosmosdb",
-      "mcp",
-      "mcp-server"
-    ],
-    "created_at": "2025-04-24T18:25:10",
-    "updated_at": "2025-05-16T10:35:35"
-  },
-  {
-    "name": "MCP-Manager-GUI",
-    "full_name": "gabrielbacha/MCP-Manager-GUI",
-    "description": "MCP Toggle is a simple GUI tool to help you manage MCP servers across clients seamlessly.",
-    "url": "https://github.com/gabrielbacha/MCP-Manager-GUI",
-    "stars": 7,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
       "ai",
-      "ai-agent-tools",
-      "ai-agents",
-      "electron-app",
-      "macos",
-      "mcp",
-      "mcp-client",
-      "mcp-server",
-      "mcp-tools",
-      "model-context-protocol",
-      "windows"
+      "artificial-intelligence",
+      "cursor-ai",
+      "windsurf",
+      "zed-editor"
     ],
-    "created_at": "2025-04-18T10:30:54",
-    "updated_at": "2025-05-16T10:22:14"
+    "created_at": "2025-04-22T17:24:09",
+    "updated_at": "2025-05-16T02:16:53"
   }
 ]
