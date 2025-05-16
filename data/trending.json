@@ -4,8 +4,8 @@
     "full_name": "bytedance/deer-flow",
     "description": "DeerFlow is a community-driven framework for deep research, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.",
     "url": "https://github.com/bytedance/deer-flow",
-    "stars": 10073,
-    "daily_stars": 352,
+    "stars": 10161,
+    "daily_stars": 88,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -27,15 +27,32 @@
       "python"
     ],
     "created_at": "2025-05-07T02:50:19",
-    "updated_at": "2025-05-16T08:45:25"
+    "updated_at": "2025-05-16T13:05:04"
+  },
+  {
+    "name": "ParScale",
+    "full_name": "QwenLM/ParScale",
+    "description": "Parallel Scaling Law for Language Model — Beyond Parameter and Inference Time Scaling",
+    "url": "https://github.com/QwenLM/ParScale",
+    "stars": 24,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "scaling-law"
+    ],
+    "created_at": "2025-05-15T09:49:05",
+    "updated_at": "2025-05-16T11:26:59"
   },
   {
     "name": "magic",
     "full_name": "dtyq/magic",
     "description": "The first open-source all-in-one AI productivity platform",
     "url": "https://github.com/dtyq/magic",
-    "stars": 313,
-    "daily_stars": 15,
+    "stars": 319,
+    "daily_stars": 6,
     "language": "PHP",
     "topics": [
       "agent",
@@ -50,14 +67,14 @@
       "workflow"
     ],
     "created_at": "2025-05-14T22:04:29",
-    "updated_at": "2025-05-16T08:19:34"
+    "updated_at": "2025-05-16T11:58:22"
   },
   {
     "name": "ArtificialCast",
     "full_name": "Zorokee/ArtificialCast",
     "description": "Type-safe transformation powered by inference.",
     "url": "https://github.com/Zorokee/ArtificialCast",
-    "stars": 273,
+    "stars": 276,
     "daily_stars": 3,
     "language": "C#",
     "topics": [
@@ -70,14 +87,84 @@
       "type-casting"
     ],
     "created_at": "2025-05-13T14:23:01",
-    "updated_at": "2025-05-16T07:54:04"
+    "updated_at": "2025-05-16T12:52:40"
+  },
+  {
+    "name": "AI-ML-Cheatsheets",
+    "full_name": "analyticalrohit/AI-ML-Cheatsheets",
+    "description": "All Stanford Cheatsheets: Artificial Intelligence, Transformers, LLMs, Deep Learning, Machine Learning, Probabilities, Statistics, Algebra and Calculus.",
+    "url": "https://github.com/analyticalrohit/AI-ML-Cheatsheets",
+    "stars": 53,
+    "daily_stars": 2,
+    "language": null,
+    "topics": [
+      "artificial-intelligence",
+      "cheetsheet",
+      "convolutional-neural-networks",
+      "data-science",
+      "deep-learning",
+      "llms",
+      "machine-learning",
+      "neural-networks",
+      "probability",
+      "statistics",
+      "transformers"
+    ],
+    "created_at": "2025-05-13T13:29:09",
+    "updated_at": "2025-05-16T12:58:15"
+  },
+  {
+    "name": "eZAutoML",
+    "full_name": "eZWALT/eZAutoML",
+    "description": "A Democratized, lightweight and modern framework for Python Automated Machine Learning",
+    "url": "https://github.com/eZWALT/eZAutoML",
+    "stars": 48,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "automl",
+      "automl-python",
+      "data-pipeline",
+      "distributed-systems",
+      "lightgbm",
+      "machine-learning",
+      "python3",
+      "scalability",
+      "scikit-learn",
+      "tabular-data",
+      "xgboost"
+    ],
+    "created_at": "2025-04-30T09:15:38",
+    "updated_at": "2025-05-16T11:59:20"
+  },
+  {
+    "name": "ai-data-handbook",
+    "full_name": "emredeveloper/ai-data-handbook",
+    "description": "A practical, notebook-based AI and data science handbook for learners and researchers. Built with Python & Jupyter. (Türkçesi: Python ve Jupyter tabanlı, öğrenenler ve araştırmacılar için hazırlanmış uygulamalı yapay zeka ve veri bilimi el kitabı.)",
+    "url": "https://github.com/emredeveloper/ai-data-handbook",
+    "stars": 8,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "ai",
+      "data-science",
+      "deep-learning",
+      "jupyter-notebook",
+      "llms",
+      "machine-learning",
+      "mongodb",
+      "open-source",
+      "python"
+    ],
+    "created_at": "2025-04-29T11:30:50",
+    "updated_at": "2025-05-16T12:58:25"
   },
   {
     "name": "lightfeed-extract",
     "full_name": "lightfeed/lightfeed-extract",
     "description": "Use LLMs to robustly extract structured data from HTML and markdown",
     "url": "https://github.com/lightfeed/lightfeed-extract",
-    "stars": 30,
+    "stars": 31,
     "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
@@ -103,143 +190,49 @@
       "webscraping"
     ],
     "created_at": "2025-05-02T18:53:37",
-    "updated_at": "2025-05-16T07:16:12"
+    "updated_at": "2025-05-16T12:24:45"
   },
   {
-    "name": "mcp-gateway",
-    "full_name": "aarora79/mcp-gateway",
-    "description": "MCP Gateway and Registry",
-    "url": "https://github.com/aarora79/mcp-gateway",
-    "stars": 30,
+    "name": "snippy",
+    "full_name": "Azure-Samples/snippy",
+    "description": "🧩 Demo: Build AI-powered MCP Tools for GitHub Copilot using Azure Functions, OpenAI, AI Agents & Cosmos DB. Manages code snippets w/ vector search.",
+    "url": "https://github.com/Azure-Samples/snippy",
+    "stars": 13,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai-agents",
+      "azure-functions",
+      "copilot",
+      "cosmosdb",
       "mcp",
-      "mcp-client",
-      "mcp-gateway",
-      "mcp-registry",
-      "mcp-server",
-      "nginx"
+      "mcp-server"
     ],
-    "created_at": "2025-04-27T15:52:22",
-    "updated_at": "2025-05-16T08:05:32"
+    "created_at": "2025-04-24T18:25:10",
+    "updated_at": "2025-05-16T10:35:35"
   },
   {
-    "name": "tripsage-ai",
-    "full_name": "BjornMelin/tripsage-ai",
-    "description": "✈️ AI-powered travel planning system with budget optimization, multi-source search, and personalized recommendations built on Supabase, OpenAI Agents, and Streamlit",
-    "url": "https://github.com/BjornMelin/tripsage-ai",
-    "stars": 2,
+    "name": "MCP-Manager-GUI",
+    "full_name": "gabrielbacha/MCP-Manager-GUI",
+    "description": "MCP Toggle is a simple GUI tool to help you manage MCP servers across clients seamlessly.",
+    "url": "https://github.com/gabrielbacha/MCP-Manager-GUI",
+    "stars": 7,
     "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "accommodation-search",
-      "ai-agents",
-      "ai-travel-assistant",
-      "budget-optimization",
-      "flight-search",
-      "interactive-travel-dashboard",
-      "itinerary-generator",
-      "knowledge-graph",
-      "mcp",
-      "multi-agent-system",
-      "openai-agents-sdk",
-      "streamlit-ui",
-      "supabase",
-      "travel-planner",
-      "travel-recommendations",
-      "trip-planning"
-    ],
-    "created_at": "2025-05-08T22:43:40",
-    "updated_at": "2025-05-16T05:05:22"
-  },
-  {
-    "name": "YOLO-Pipeline-Auto",
-    "full_name": "Cestovatels/YOLO-Pipeline-Auto",
-    "description": "End-to-end automated YOLO training pipeline with built-in dataset preprocessing, training, evaluation, and reporting.",
-    "url": "https://github.com/Cestovatels/YOLO-Pipeline-Auto",
-    "stars": 6,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "computer-vision",
-      "deep-learning",
-      "object-detection",
-      "pipeline",
-      "segmentation",
-      "yolov11",
-      "yolov8"
-    ],
-    "created_at": "2025-04-23T17:15:40",
-    "updated_at": "2025-05-16T08:46:41"
-  },
-  {
-    "name": "AI-ML-Cheatsheets",
-    "full_name": "analyticalrohit/AI-ML-Cheatsheets",
-    "description": "All Stanford Cheatsheets: Artificial Intelligence, Transformers, LLMs, Deep Learning, Machine Learning, Probabilities, Statistics, Algebra and Calculus.",
-    "url": "https://github.com/analyticalrohit/AI-ML-Cheatsheets",
-    "stars": 51,
-    "daily_stars": 0,
     "language": null,
     "topics": [
-      "artificial-intelligence",
-      "cheetsheet",
-      "convolutional-neural-networks",
-      "data-science",
-      "deep-learning",
-      "llms",
-      "machine-learning",
-      "neural-networks",
-      "probability",
-      "statistics",
-      "transformers"
-    ],
-    "created_at": "2025-05-13T13:29:09",
-    "updated_at": "2025-05-15T18:21:26"
-  },
-  {
-    "name": "vibe-rules",
-    "full_name": "FutureExcited/vibe-rules",
-    "description": "Save, load, distribute your AI rules",
-    "url": "https://github.com/FutureExcited/vibe-rules",
-    "stars": 47,
-    "daily_stars": 0,
-    "language": "TypeScript",
-    "topics": [
       "ai",
-      "artificial-intelligence",
-      "cursor-ai",
-      "windsurf",
-      "zed-editor"
+      "ai-agent-tools",
+      "ai-agents",
+      "electron-app",
+      "macos",
+      "mcp",
+      "mcp-client",
+      "mcp-server",
+      "mcp-tools",
+      "model-context-protocol",
+      "windows"
     ],
-    "created_at": "2025-04-22T17:24:09",
-    "updated_at": "2025-05-16T02:16:53"
-  },
-  {
-    "name": "machine-learning-interview-questions",
-    "full_name": "amitshekhariitbhu/machine-learning-interview-questions",
-    "description": "Your Cheat Sheet for Machine Learning Interview – Questions and Answers.",
-    "url": "https://github.com/amitshekhariitbhu/machine-learning-interview-questions",
-    "stars": 22,
-    "daily_stars": 0,
-    "language": "Markdown",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "deep-learning",
-      "deep-learning-interview",
-      "deep-learning-interview-questions",
-      "interview",
-      "interview-questions",
-      "llm",
-      "llm-interview",
-      "machine-learning",
-      "machine-learning-interview",
-      "machine-learning-interview-questions",
-      "ml-system-design"
-    ],
-    "created_at": "2025-05-02T03:03:34",
-    "updated_at": "2025-05-14T18:52:43"
+    "created_at": "2025-04-18T10:30:54",
+    "updated_at": "2025-05-16T10:22:14"
   }
 ]
