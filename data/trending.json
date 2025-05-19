@@ -4,8 +4,8 @@
     "full_name": "bytedance/deer-flow",
     "description": "DeerFlow is a community-driven framework for deep research, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.",
     "url": "https://github.com/bytedance/deer-flow",
-    "stars": 10644,
-    "daily_stars": 39,
+    "stars": 10702,
+    "daily_stars": 58,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -27,15 +27,32 @@
       "python"
     ],
     "created_at": "2025-05-07T02:50:19",
-    "updated_at": "2025-05-18T20:38:10"
+    "updated_at": "2025-05-19T02:24:29"
+  },
+  {
+    "name": "ParScale",
+    "full_name": "QwenLM/ParScale",
+    "description": "Parallel Scaling Law for Language Model — Beyond Parameter and Inference Time Scaling",
+    "url": "https://github.com/QwenLM/ParScale",
+    "stars": 99,
+    "daily_stars": 19,
+    "language": "Python",
+    "topics": [
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "scaling-law"
+    ],
+    "created_at": "2025-05-15T09:49:05",
+    "updated_at": "2025-05-19T02:00:35"
   },
   {
     "name": "sdk-python",
     "full_name": "strands-agents/sdk-python",
     "description": "A model-driven approach to building AI agents in just a few lines of code.",
     "url": "https://github.com/strands-agents/sdk-python",
-    "stars": 263,
-    "daily_stars": 17,
+    "stars": 278,
+    "daily_stars": 15,
     "language": "Python",
     "topics": [
       "agentic",
@@ -55,32 +72,66 @@
       "python"
     ],
     "created_at": "2025-05-14T19:59:51",
-    "updated_at": "2025-05-18T20:36:00"
+    "updated_at": "2025-05-19T02:10:51"
   },
   {
-    "name": "ParScale",
-    "full_name": "QwenLM/ParScale",
-    "description": "Parallel Scaling Law for Language Model — Beyond Parameter and Inference Time Scaling",
-    "url": "https://github.com/QwenLM/ParScale",
-    "stars": 80,
-    "daily_stars": 5,
-    "language": "Python",
+    "name": "samples",
+    "full_name": "strands-agents/samples",
+    "description": "Agent samples built using the Strands Agents SDK.",
+    "url": "https://github.com/strands-agents/samples",
+    "stars": 23,
+    "daily_stars": 3,
+    "language": "Jupyter Notebook",
     "topics": [
-      "large-language-models",
+      "agentic",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "anthropic",
+      "autonomous-agents",
+      "genai",
+      "litellm",
       "llm",
       "machine-learning",
-      "scaling-law"
+      "mcp",
+      "multi-agent-systems",
+      "ollama",
+      "opentelemetry",
+      "python"
     ],
-    "created_at": "2025-05-15T09:49:05",
-    "updated_at": "2025-05-18T20:12:02"
+    "created_at": "2025-05-14T20:07:59",
+    "updated_at": "2025-05-19T01:12:46"
+  },
+  {
+    "name": "magic",
+    "full_name": "dtyq/magic",
+    "description": "The first open-source all-in-one AI productivity platform",
+    "url": "https://github.com/dtyq/magic",
+    "stars": 346,
+    "daily_stars": 3,
+    "language": "PHP",
+    "topics": [
+      "agent",
+      "agi",
+      "ai",
+      "gpt",
+      "llm",
+      "low-code",
+      "mcp",
+      "no-code",
+      "sandbox",
+      "workflow"
+    ],
+    "created_at": "2025-05-14T22:04:29",
+    "updated_at": "2025-05-19T01:34:36"
   },
   {
     "name": "ArtificialCast",
     "full_name": "Zorokee/ArtificialCast",
     "description": "Type-safe transformation powered by inference.",
     "url": "https://github.com/Zorokee/ArtificialCast",
-    "stars": 310,
-    "daily_stars": 4,
+    "stars": 312,
+    "daily_stars": 2,
     "language": "C#",
     "topics": [
       "ai",
@@ -92,52 +143,15 @@
       "type-casting"
     ],
     "created_at": "2025-05-13T14:23:01",
-    "updated_at": "2025-05-18T19:55:39"
+    "updated_at": "2025-05-18T22:34:33"
   },
   {
-    "name": "vibe-rules",
-    "full_name": "FutureExcited/vibe-rules",
-    "description": "Save, load, distribute your AI rules",
-    "url": "https://github.com/FutureExcited/vibe-rules",
-    "stars": 51,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "cursor-ai",
-      "windsurf",
-      "zed-editor"
-    ],
-    "created_at": "2025-04-22T17:24:09",
-    "updated_at": "2025-05-18T17:25:47"
-  },
-  {
-    "name": "multimind-sdk",
-    "full_name": "multimind-dev/multimind-sdk",
-    "description": "Your SDK solves all of this. One interface. Unified logic. Local + hosted models. Fine-tuning. Agent tools. No switching headaches.",
-    "url": "https://github.com/multimind-dev/multimind-sdk",
-    "stars": 9,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "fine-tuning",
-      "fine-tuning-llm",
-      "llm",
-      "multimind",
-      "sdk"
-    ],
-    "created_at": "2025-05-12T13:36:47",
-    "updated_at": "2025-05-18T18:07:48"
-  },
-  {
-    "name": "tools",
-    "full_name": "strands-agents/tools",
-    "description": "A toolkit for building, extending, and deploying AI agents.",
-    "url": "https://github.com/strands-agents/tools",
-    "stars": 35,
-    "daily_stars": 1,
+    "name": "agent-builder",
+    "full_name": "strands-agents/agent-builder",
+    "description": "An example agent demonstrating streaming, tool use, and interactivity that can help you to build your own agents and tools.",
+    "url": "https://github.com/strands-agents/agent-builder",
+    "stars": 53,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "agentic",
@@ -156,36 +170,16 @@
       "opentelemetry",
       "python"
     ],
-    "created_at": "2025-05-14T20:01:20",
-    "updated_at": "2025-05-18T17:13:52"
-  },
-  {
-    "name": "Livros",
-    "full_name": "ComunidadeDeIA/Livros",
-    "description": "Livros sobre IA, Python, Machine e Deep Learning, Ciência e Análise de Dados.",
-    "url": "https://github.com/ComunidadeDeIA/Livros",
-    "stars": 2,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "analise-de-dados",
-      "angola",
-      "ciencia-de-dados",
-      "deep-learning",
-      "inteligencia-artificial",
-      "machine-learning",
-      "python"
-    ],
-    "created_at": "2025-05-09T08:06:20",
-    "updated_at": "2025-05-18T18:16:20"
+    "created_at": "2025-05-14T20:05:14",
+    "updated_at": "2025-05-19T02:03:03"
   },
   {
     "name": "AI-ML-Cheatsheets",
     "full_name": "analyticalrohit/AI-ML-Cheatsheets",
     "description": "All Stanford Cheatsheets: Artificial Intelligence, Transformers, LLMs, Deep Learning, Machine Learning, Probabilities, Statistics, Algebra and Calculus.",
     "url": "https://github.com/analyticalrohit/AI-ML-Cheatsheets",
-    "stars": 78,
-    "daily_stars": 0,
+    "stars": 79,
+    "daily_stars": 1,
     "language": null,
     "topics": [
       "artificial-intelligence",
@@ -201,32 +195,58 @@
       "transformers"
     ],
     "created_at": "2025-05-13T13:29:09",
-    "updated_at": "2025-05-18T13:30:47"
+    "updated_at": "2025-05-18T21:13:00"
   },
   {
-    "name": "machine-learning-interview-questions",
-    "full_name": "amitshekhariitbhu/machine-learning-interview-questions",
-    "description": "Your Cheat Sheet for Machine Learning Interview – Questions and Answers.",
-    "url": "https://github.com/amitshekhariitbhu/machine-learning-interview-questions",
-    "stars": 23,
-    "daily_stars": 0,
-    "language": "Markdown",
+    "name": "Deep-Live-Cam-Bypass-Id-Verification-2fa-User-Face",
+    "full_name": "Feydonapt/Deep-Live-Cam-Bypass-Id-Verification-2fa-User-Face",
+    "description": "Uses deepfake technology to bypass ID checks and 2FA by simulating a users face in realtime during live webcam verification, tricking biometric systems into granting unauthorized access through realistic facial mimicry.",
+    "url": "https://github.com/Feydonapt/Deep-Live-Cam-Bypass-Id-Verification-2fa-User-Face",
+    "stars": 5,
+    "daily_stars": 1,
+    "language": "C#",
     "topics": [
+      "2fa-bypass",
       "ai",
       "artificial-intelligence",
-      "deep-learning",
-      "deep-learning-interview",
-      "deep-learning-interview-questions",
-      "interview",
-      "interview-questions",
-      "llm",
-      "llm-interview",
+      "authentication",
+      "cybersecurity",
+      "deepfake",
+      "face-recognition",
+      "faceswap",
+      "gan",
+      "identity-theft",
+      "livestream",
       "machine-learning",
-      "machine-learning-interview",
-      "machine-learning-interview-questions",
-      "ml-system-design"
+      "privacy",
+      "realtime",
+      "spoofing",
+      "streaming",
+      "tracking",
+      "traffic",
+      "webcam"
     ],
-    "created_at": "2025-05-02T03:03:34",
-    "updated_at": "2025-05-18T04:24:18"
+    "created_at": "2025-05-01T22:51:19",
+    "updated_at": "2025-05-19T00:03:20"
+  },
+  {
+    "name": "elkar",
+    "full_name": "elkar-ai/elkar",
+    "description": "Task Management for A2A protocol",
+    "url": "https://github.com/elkar-ai/elkar",
+    "stars": 106,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "a2a",
+      "a2a-protocol",
+      "agent2agent",
+      "ai-agent",
+      "ai-agents",
+      "llm",
+      "task-management"
+    ],
+    "created_at": "2025-04-30T07:10:48",
+    "updated_at": "2025-05-18T21:54:30"
   }
 ]
