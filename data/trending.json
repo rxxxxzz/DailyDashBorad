@@ -1,35 +1,11 @@
 [
   {
-    "name": "cogitator",
-    "full_name": "habedi/cogitator",
-    "description": "A Python Toolkit for Chain-of-Thought Prompting 🐍",
-    "url": "https://github.com/habedi/cogitator",
-    "stars": 104,
-    "daily_stars": 30,
-    "language": "Python",
-    "topics": [
-      "ai-research",
-      "ai-toolkit",
-      "chain-of-thought",
-      "cot-prompting",
-      "explainable-ai",
-      "large-language-models",
-      "llms",
-      "machine-learning",
-      "prompt-engineering",
-      "python",
-      "python-library"
-    ],
-    "created_at": "2025-04-29T15:20:28",
-    "updated_at": "2025-05-19T20:41:40"
-  },
-  {
     "name": "deer-flow",
     "full_name": "bytedance/deer-flow",
     "description": "DeerFlow is a community-driven framework for deep research, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.",
     "url": "https://github.com/bytedance/deer-flow",
-    "stars": 10939,
-    "daily_stars": 20,
+    "stars": 10976,
+    "daily_stars": 37,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -51,15 +27,15 @@
       "python"
     ],
     "created_at": "2025-05-07T02:50:19",
-    "updated_at": "2025-05-19T20:22:44"
+    "updated_at": "2025-05-20T02:18:08"
   },
   {
     "name": "sdk-python",
     "full_name": "strands-agents/sdk-python",
     "description": "A model-driven approach to building AI agents in just a few lines of code.",
     "url": "https://github.com/strands-agents/sdk-python",
-    "stars": 408,
-    "daily_stars": 19,
+    "stars": 428,
+    "daily_stars": 20,
     "language": "Python",
     "topics": [
       "agentic",
@@ -79,15 +55,15 @@
       "python"
     ],
     "created_at": "2025-05-14T19:59:51",
-    "updated_at": "2025-05-19T20:34:39"
+    "updated_at": "2025-05-20T02:19:27"
   },
   {
     "name": "ParScale",
     "full_name": "QwenLM/ParScale",
     "description": "Parallel Scaling Law for Language Model — Beyond Parameter and Inference Time Scaling",
     "url": "https://github.com/QwenLM/ParScale",
-    "stars": 188,
-    "daily_stars": 10,
+    "stars": 202,
+    "daily_stars": 14,
     "language": "Python",
     "topics": [
       "large-language-models",
@@ -96,46 +72,133 @@
       "scaling-law"
     ],
     "created_at": "2025-05-15T09:49:05",
-    "updated_at": "2025-05-19T20:18:00"
+    "updated_at": "2025-05-20T02:05:51"
   },
   {
-    "name": "Cartouche",
-    "full_name": "metimol/Cartouche",
-    "description": "AI-powered single-user social network simulation. Post like on Twitter, and receive real-time, character-driven reactions from hundreds of AI bots. Open source, local-first, and built for experimentation.",
-    "url": "https://github.com/metimol/Cartouche",
-    "stars": 8,
+    "name": "cogitator",
+    "full_name": "habedi/cogitator",
+    "description": "A Python Toolkit for Chain-of-Thought Prompting 🐍",
+    "url": "https://github.com/habedi/cogitator",
+    "stars": 117,
+    "daily_stars": 13,
+    "language": "Python",
+    "topics": [
+      "ai-research",
+      "ai-toolkit",
+      "chain-of-thought",
+      "cot-prompting",
+      "explainable-ai",
+      "large-language-models",
+      "llms",
+      "machine-learning",
+      "prompt-engineering",
+      "python",
+      "python-library"
+    ],
+    "created_at": "2025-04-29T15:20:28",
+    "updated_at": "2025-05-20T02:10:56"
+  },
+  {
+    "name": "ArtificialCast",
+    "full_name": "Zorokee/ArtificialCast",
+    "description": "Type-safe transformation powered by inference.",
+    "url": "https://github.com/Zorokee/ArtificialCast",
+    "stars": 323,
+    "daily_stars": 3,
+    "language": "C#",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "csharp",
+      "dotnet",
+      "llm",
+      "satire",
+      "type-casting"
+    ],
+    "created_at": "2025-05-13T14:23:01",
+    "updated_at": "2025-05-20T01:55:47"
+  },
+  {
+    "name": "samples",
+    "full_name": "strands-agents/samples",
+    "description": "Agent samples built using the Strands Agents SDK.",
+    "url": "https://github.com/strands-agents/samples",
+    "stars": 42,
+    "daily_stars": 3,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agentic",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "anthropic",
+      "autonomous-agents",
+      "genai",
+      "litellm",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "multi-agent-systems",
+      "ollama",
+      "opentelemetry",
+      "python"
+    ],
+    "created_at": "2025-05-14T20:07:59",
+    "updated_at": "2025-05-20T01:27:57"
+  },
+  {
+    "name": "snippy",
+    "full_name": "Azure-Samples/snippy",
+    "description": "🧩 Demo: Build AI-powered MCP Tools for GitHub Copilot using Azure Functions, OpenAI, AI Agents & Cosmos DB. Manages code snippets w/ vector search.",
+    "url": "https://github.com/Azure-Samples/snippy",
+    "stars": 17,
     "daily_stars": 2,
-    "language": "TypeScript",
+    "language": "Python",
     "topics": [
       "ai-agents",
-      "ai-simulation",
-      "chatbots",
-      "creative-tools",
-      "docker",
-      "fastapi",
-      "human-computer-interaction",
-      "llm",
-      "memory",
-      "open-source",
-      "personal-project",
-      "psychology",
-      "python",
-      "rag",
-      "react",
-      "simulated-audience",
-      "social-network",
-      "twitter-clone",
-      "vite"
+      "azure-functions",
+      "copilot",
+      "cosmosdb",
+      "mcp",
+      "mcp-server"
     ],
-    "created_at": "2025-05-17T12:08:37",
-    "updated_at": "2025-05-19T19:18:46"
+    "created_at": "2025-04-24T18:25:10",
+    "updated_at": "2025-05-19T22:50:10"
+  },
+  {
+    "name": "tools",
+    "full_name": "strands-agents/tools",
+    "description": "A toolkit for building, extending, and deploying AI agents.",
+    "url": "https://github.com/strands-agents/tools",
+    "stars": 50,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "agentic",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "anthropic",
+      "autonomous-agents",
+      "genai",
+      "litellm",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "multi-agent-systems",
+      "ollama",
+      "opentelemetry",
+      "python"
+    ],
+    "created_at": "2025-05-14T20:01:20",
+    "updated_at": "2025-05-20T02:20:10"
   },
   {
     "name": "docs",
     "full_name": "strands-agents/docs",
     "description": "Documentation for Strands Agents SDK. A model-driven approach to building AI agents in just a few lines of code. ",
     "url": "https://github.com/strands-agents/docs",
-    "stars": 27,
+    "stars": 29,
     "daily_stars": 2,
     "language": null,
     "topics": [
@@ -156,85 +219,30 @@
       "python"
     ],
     "created_at": "2025-05-14T20:03:19",
-    "updated_at": "2025-05-19T19:52:11"
+    "updated_at": "2025-05-20T00:53:50"
   },
   {
-    "name": "ArtificialCast",
-    "full_name": "Zorokee/ArtificialCast",
-    "description": "Type-safe transformation powered by inference.",
-    "url": "https://github.com/Zorokee/ArtificialCast",
-    "stars": 320,
+    "name": "AI-ML-Cheatsheets",
+    "full_name": "analyticalrohit/AI-ML-Cheatsheets",
+    "description": "All Stanford Cheatsheets: Artificial Intelligence, Transformers, LLMs, Deep Learning, Machine Learning, Probabilities, Statistics, Algebra and Calculus.",
+    "url": "https://github.com/analyticalrohit/AI-ML-Cheatsheets",
+    "stars": 86,
     "daily_stars": 1,
-    "language": "C#",
+    "language": null,
     "topics": [
-      "ai",
       "artificial-intelligence",
-      "csharp",
-      "dotnet",
-      "llm",
-      "satire",
-      "type-casting"
+      "cheetsheet",
+      "convolutional-neural-networks",
+      "data-science",
+      "deep-learning",
+      "llms",
+      "machine-learning",
+      "neural-networks",
+      "probability",
+      "statistics",
+      "transformers"
     ],
-    "created_at": "2025-05-13T14:23:01",
-    "updated_at": "2025-05-19T19:33:44"
-  },
-  {
-    "name": "elkar",
-    "full_name": "elkar-ai/elkar",
-    "description": "Task Management for A2A protocol",
-    "url": "https://github.com/elkar-ai/elkar",
-    "stars": 111,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "a2a",
-      "a2a-protocol",
-      "agent2agent",
-      "ai-agent",
-      "ai-agents",
-      "llm",
-      "task-management"
-    ],
-    "created_at": "2025-04-30T07:10:48",
-    "updated_at": "2025-05-19T19:29:19"
-  },
-  {
-    "name": "mcp-gateway",
-    "full_name": "aarora79/mcp-gateway",
-    "description": "MCP Gateway and Registry",
-    "url": "https://github.com/aarora79/mcp-gateway",
-    "stars": 32,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "mcp",
-      "mcp-client",
-      "mcp-gateway",
-      "mcp-registry",
-      "mcp-server",
-      "nginx"
-    ],
-    "created_at": "2025-04-27T15:52:22",
-    "updated_at": "2025-05-19T19:17:59"
-  },
-  {
-    "name": "cartai",
-    "full_name": "ContrastoAI/cartai",
-    "description": "Your AI PM for AI. Intelligent E2E supervision & documentation for trustworthy AI. ",
-    "url": "https://github.com/ContrastoAI/cartai",
-    "stars": 15,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-observability",
-      "ai-ops",
-      "governance",
-      "langgraph",
-      "observability"
-    ],
-    "created_at": "2025-05-02T08:36:47",
-    "updated_at": "2025-05-19T17:52:29"
+    "created_at": "2025-05-13T13:29:09",
+    "updated_at": "2025-05-19T20:54:26"
   }
 ]
