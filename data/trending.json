@@ -4,8 +4,8 @@
     "full_name": "bytedance/deer-flow",
     "description": "DeerFlow is a community-driven framework for deep research, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.",
     "url": "https://github.com/bytedance/deer-flow",
-    "stars": 11284,
-    "daily_stars": 58,
+    "stars": 11322,
+    "daily_stars": 38,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -27,15 +27,15 @@
       "python"
     ],
     "created_at": "2025-05-07T02:50:19",
-    "updated_at": "2025-05-21T08:43:46"
+    "updated_at": "2025-05-21T13:06:21"
   },
   {
     "name": "sdk-python",
     "full_name": "strands-agents/sdk-python",
     "description": "A model-driven approach to building AI agents in just a few lines of code.",
     "url": "https://github.com/strands-agents/sdk-python",
-    "stars": 597,
-    "daily_stars": 13,
+    "stars": 608,
+    "daily_stars": 11,
     "language": "Python",
     "topics": [
       "agentic",
@@ -55,15 +55,55 @@
       "python"
     ],
     "created_at": "2025-05-14T19:59:51",
-    "updated_at": "2025-05-21T08:33:51"
+    "updated_at": "2025-05-21T13:06:10"
+  },
+  {
+    "name": "ParScale",
+    "full_name": "QwenLM/ParScale",
+    "description": "Parallel Scaling Law for Language Model — Beyond Parameter and Inference Time Scaling",
+    "url": "https://github.com/QwenLM/ParScale",
+    "stars": 269,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "scaling-law"
+    ],
+    "created_at": "2025-05-15T09:49:05",
+    "updated_at": "2025-05-21T11:29:38"
+  },
+  {
+    "name": "magic",
+    "full_name": "dtyq/magic",
+    "description": "The first open-source all-in-one AI productivity platform",
+    "url": "https://github.com/dtyq/magic",
+    "stars": 378,
+    "daily_stars": 5,
+    "language": "PHP",
+    "topics": [
+      "agent",
+      "agi",
+      "ai",
+      "gpt",
+      "llm",
+      "low-code",
+      "mcp",
+      "no-code",
+      "sandbox",
+      "workflow"
+    ],
+    "created_at": "2025-05-14T22:04:29",
+    "updated_at": "2025-05-21T10:44:46"
   },
   {
     "name": "cogitator",
     "full_name": "habedi/cogitator",
     "description": "A Python Toolkit for Chain-of-Thought Prompting 🐍",
     "url": "https://github.com/habedi/cogitator",
-    "stars": 152,
-    "daily_stars": 9,
+    "stars": 155,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "ai-research",
@@ -79,83 +119,15 @@
       "python-library"
     ],
     "created_at": "2025-04-29T15:20:28",
-    "updated_at": "2025-05-21T07:56:52"
-  },
-  {
-    "name": "magic",
-    "full_name": "dtyq/magic",
-    "description": "The first open-source all-in-one AI productivity platform",
-    "url": "https://github.com/dtyq/magic",
-    "stars": 373,
-    "daily_stars": 7,
-    "language": "PHP",
-    "topics": [
-      "agent",
-      "agi",
-      "ai",
-      "gpt",
-      "llm",
-      "low-code",
-      "mcp",
-      "no-code",
-      "sandbox",
-      "workflow"
-    ],
-    "created_at": "2025-05-14T22:04:29",
-    "updated_at": "2025-05-21T08:13:42"
-  },
-  {
-    "name": "ParScale",
-    "full_name": "QwenLM/ParScale",
-    "description": "Parallel Scaling Law for Language Model — Beyond Parameter and Inference Time Scaling",
-    "url": "https://github.com/QwenLM/ParScale",
-    "stars": 263,
-    "daily_stars": 5,
-    "language": "Python",
-    "topics": [
-      "large-language-models",
-      "llm",
-      "machine-learning",
-      "scaling-law"
-    ],
-    "created_at": "2025-05-15T09:49:05",
-    "updated_at": "2025-05-21T08:29:58"
-  },
-  {
-    "name": "tools",
-    "full_name": "strands-agents/tools",
-    "description": "A toolkit for building, extending, and deploying AI agents.",
-    "url": "https://github.com/strands-agents/tools",
-    "stars": 71,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [
-      "agentic",
-      "agentic-ai",
-      "agents",
-      "ai",
-      "anthropic",
-      "autonomous-agents",
-      "genai",
-      "litellm",
-      "llm",
-      "machine-learning",
-      "mcp",
-      "multi-agent-systems",
-      "ollama",
-      "opentelemetry",
-      "python"
-    ],
-    "created_at": "2025-05-14T20:01:20",
-    "updated_at": "2025-05-21T07:41:24"
+    "updated_at": "2025-05-21T11:48:33"
   },
   {
     "name": "VerbalCodeAi",
     "full_name": "vibheksoni/VerbalCodeAi",
     "description": "VerbalCodeAI is a free, open-source AI tool that simplifies codebase navigation in your terminal, using Python 3.11.6 and Ollama. It indexes projects locally and quickly answers questions like “Where’s this function?”, saving developers time on debugging and onboarding.",
     "url": "https://github.com/vibheksoni/VerbalCodeAi",
-    "stars": 8,
-    "daily_stars": 3,
+    "stars": 10,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "ai",
@@ -177,15 +149,59 @@
       "verbalcodeai"
     ],
     "created_at": "2025-05-17T05:00:37",
-    "updated_at": "2025-05-21T07:09:43"
+    "updated_at": "2025-05-21T12:15:03"
+  },
+  {
+    "name": "AI-ML-Cheatsheets",
+    "full_name": "analyticalrohit/AI-ML-Cheatsheets",
+    "description": "All Stanford Cheatsheets: Artificial Intelligence, Transformers, LLMs, Deep Learning, Machine Learning, Probabilities, Statistics, Algebra and Calculus.",
+    "url": "https://github.com/analyticalrohit/AI-ML-Cheatsheets",
+    "stars": 92,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "artificial-intelligence",
+      "cheetsheet",
+      "convolutional-neural-networks",
+      "data-science",
+      "deep-learning",
+      "llms",
+      "machine-learning",
+      "neural-networks",
+      "probability",
+      "statistics",
+      "transformers"
+    ],
+    "created_at": "2025-05-13T13:29:09",
+    "updated_at": "2025-05-21T11:42:34"
+  },
+  {
+    "name": "save-llm-api-cost",
+    "full_name": "FareedKhan-dev/save-llm-api-cost",
+    "description": "A straightforward method to reduce your LLM inference API costs and token usage.",
+    "url": "https://github.com/FareedKhan-dev/save-llm-api-cost",
+    "stars": 6,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "ai",
+      "api",
+      "artificial-intelligence",
+      "gemini",
+      "large-language-models",
+      "llm",
+      "openai"
+    ],
+    "created_at": "2025-05-18T18:39:17",
+    "updated_at": "2025-05-21T12:28:33"
   },
   {
     "name": "Agentic-AI-Systems",
     "full_name": "alirezadir/Agentic-AI-Systems",
     "description": "Practical system design, tools, and hands-on resources for building Gen-AI agents & agentic AI systems.",
     "url": "https://github.com/alirezadir/Agentic-AI-Systems",
-    "stars": 7,
-    "daily_stars": 3,
+    "stars": 8,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -205,56 +221,33 @@
       "rag"
     ],
     "created_at": "2025-05-10T05:30:26",
-    "updated_at": "2025-05-21T07:06:02"
+    "updated_at": "2025-05-21T11:46:33"
   },
   {
-    "name": "mcp-server",
-    "full_name": "strands-agents/mcp-server",
-    "description": "This MCP server provides documentation about Strands Agents, so you can use your favorite AI coding assistant to vibe-code AI agents with the Strands Agents SDK.",
-    "url": "https://github.com/strands-agents/mcp-server",
-    "stars": 43,
-    "daily_stars": 3,
+    "name": "agent-api",
+    "full_name": "HackerGCLASS/agent-api",
+    "description": "A minimal, open-source setup for serving Agents using FastAPI and Postgres. Built for speed, clarity, and dev happiness.",
+    "url": "https://github.com/HackerGCLASS/agent-api",
+    "stars": 2,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "agentic",
+      "agent",
       "agentic-ai",
       "agents",
-      "ai",
-      "anthropic",
-      "autonomous-agents",
-      "genai",
-      "litellm",
-      "llm",
-      "machine-learning",
-      "mcp",
-      "multi-agent-systems",
-      "ollama",
-      "opentelemetry",
-      "python"
+      "ai-agent",
+      "ai-agents",
+      "ai-tools",
+      "assistant",
+      "go",
+      "gym",
+      "java-test",
+      "mock-data-generator",
+      "rag",
+      "testing",
+      "typescript"
     ],
-    "created_at": "2025-05-14T20:09:01",
-    "updated_at": "2025-05-21T06:18:54"
-  },
-  {
-    "name": "artinet-sdk",
-    "full_name": "the-artinet-project/artinet-sdk",
-    "description": "A JS/TS SDK for the Agent2Agent Protocol",
-    "url": "https://github.com/the-artinet-project/artinet-sdk",
-    "stars": 17,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "a2a",
-      "a2a-protocol",
-      "agent2agent",
-      "agents",
-      "ai",
-      "aiagents",
-      "aiagentsframework",
-      "artificial-intelligence",
-      "mcp"
-    ],
-    "created_at": "2025-04-25T20:10:21",
-    "updated_at": "2025-05-21T07:14:24"
+    "created_at": "2025-05-12T11:26:21",
+    "updated_at": "2025-05-21T12:04:39"
   }
 ]
