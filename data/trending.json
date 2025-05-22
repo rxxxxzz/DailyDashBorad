@@ -4,8 +4,8 @@
     "full_name": "bytedance/deer-flow",
     "description": "DeerFlow is a community-driven framework for deep research, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.",
     "url": "https://github.com/bytedance/deer-flow",
-    "stars": 11405,
-    "daily_stars": 25,
+    "stars": 11450,
+    "daily_stars": 45,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -27,15 +27,32 @@
       "python"
     ],
     "created_at": "2025-05-07T02:50:19",
-    "updated_at": "2025-05-22T04:37:10"
+    "updated_at": "2025-05-22T08:45:14"
+  },
+  {
+    "name": "ParScale",
+    "full_name": "QwenLM/ParScale",
+    "description": "Parallel Scaling Law for Language Model — Beyond Parameter and Inference Time Scaling",
+    "url": "https://github.com/QwenLM/ParScale",
+    "stars": 286,
+    "daily_stars": 9,
+    "language": "Python",
+    "topics": [
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "scaling-law"
+    ],
+    "created_at": "2025-05-15T09:49:05",
+    "updated_at": "2025-05-22T08:35:05"
   },
   {
     "name": "sdk-python",
     "full_name": "strands-agents/sdk-python",
     "description": "A model-driven approach to building AI agents in just a few lines of code.",
     "url": "https://github.com/strands-agents/sdk-python",
-    "stars": 684,
-    "daily_stars": 11,
+    "stars": 691,
+    "daily_stars": 7,
     "language": "Python",
     "topics": [
       "agentic",
@@ -55,15 +72,15 @@
       "python"
     ],
     "created_at": "2025-05-14T19:59:51",
-    "updated_at": "2025-05-22T04:26:59"
+    "updated_at": "2025-05-22T08:04:23"
   },
   {
     "name": "x-transformers-rl",
     "full_name": "lucidrains/x-transformers-rl",
     "description": "Implementation of a transformer for reinforcement learning using `x-transformers`",
     "url": "https://github.com/lucidrains/x-transformers-rl",
-    "stars": 15,
-    "daily_stars": 3,
+    "stars": 21,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "artificial-intelligence",
@@ -74,139 +91,15 @@
       "world-models"
     ],
     "created_at": "2025-05-21T17:07:27",
-    "updated_at": "2025-05-22T04:25:39"
-  },
-  {
-    "name": "TimeSeriesGym",
-    "full_name": "moment-timeseries-foundation-model/TimeSeriesGym",
-    "description": "Official code for TimeSeriesGym: A Scalable Benchmark for (Time Series) Machine Learning Engineering Agents",
-    "url": "https://github.com/moment-timeseries-foundation-model/TimeSeriesGym",
-    "stars": 10,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "llm",
-      "machine-learning",
-      "time-series"
-    ],
-    "created_at": "2025-05-16T00:02:39",
-    "updated_at": "2025-05-22T03:43:45"
-  },
-  {
-    "name": "ArtificialCast",
-    "full_name": "Zorokee/ArtificialCast",
-    "description": "Type-safe transformation powered by inference.",
-    "url": "https://github.com/Zorokee/ArtificialCast",
-    "stars": 334,
-    "daily_stars": 1,
-    "language": "C#",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "csharp",
-      "dotnet",
-      "llm",
-      "satire",
-      "type-casting"
-    ],
-    "created_at": "2025-05-13T14:23:01",
-    "updated_at": "2025-05-22T04:07:04"
-  },
-  {
-    "name": "machine-learning-interview-questions",
-    "full_name": "amitshekhariitbhu/machine-learning-interview-questions",
-    "description": "Your Cheat Sheet for Machine Learning Interview – Questions and Answers.",
-    "url": "https://github.com/amitshekhariitbhu/machine-learning-interview-questions",
-    "stars": 25,
-    "daily_stars": 1,
-    "language": "Markdown",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "deep-learning",
-      "deep-learning-interview",
-      "deep-learning-interview-questions",
-      "interview",
-      "interview-questions",
-      "llm",
-      "llm-interview",
-      "machine-learning",
-      "machine-learning-interview",
-      "machine-learning-interview-questions",
-      "ml-system-design"
-    ],
-    "created_at": "2025-05-02T03:03:34",
-    "updated_at": "2025-05-22T04:40:04"
-  },
-  {
-    "name": "save-llm-api-cost",
-    "full_name": "FareedKhan-dev/save-llm-api-cost",
-    "description": "A straightforward method to reduce your LLM inference API costs and token usage.",
-    "url": "https://github.com/FareedKhan-dev/save-llm-api-cost",
-    "stars": 8,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "ai",
-      "api",
-      "artificial-intelligence",
-      "gemini",
-      "large-language-models",
-      "llm",
-      "openai"
-    ],
-    "created_at": "2025-05-18T18:39:17",
-    "updated_at": "2025-05-22T03:35:26"
-  },
-  {
-    "name": "gcp-ai-agent-starter-kit",
-    "full_name": "macespinoza/gcp-ai-agent-starter-kit",
-    "description": "Starter kit to deploy LLM agents with memory and RAG using LangChain, OpenAI, and Google Cloud (Cloud Run, BigQuery).",
-    "url": "https://github.com/macespinoza/gcp-ai-agent-starter-kit",
-    "stars": 10,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "ai-agents",
-      "bigquery",
-      "cloud-run",
-      "gcp",
-      "generative-ai",
-      "langchain",
-      "llm",
-      "llm-agents",
-      "openai",
-      "prompt-engineering",
-      "rag"
-    ],
-    "created_at": "2025-05-06T01:36:12",
-    "updated_at": "2025-05-22T04:05:08"
-  },
-  {
-    "name": "ParScale",
-    "full_name": "QwenLM/ParScale",
-    "description": "Parallel Scaling Law for Language Model — Beyond Parameter and Inference Time Scaling",
-    "url": "https://github.com/QwenLM/ParScale",
-    "stars": 277,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "large-language-models",
-      "llm",
-      "machine-learning",
-      "scaling-law"
-    ],
-    "created_at": "2025-05-15T09:49:05",
-    "updated_at": "2025-05-22T02:43:57"
+    "updated_at": "2025-05-22T08:02:41"
   },
   {
     "name": "tools",
     "full_name": "strands-agents/tools",
     "description": "A toolkit for building, extending, and deploying AI agents.",
     "url": "https://github.com/strands-agents/tools",
-    "stars": 75,
-    "daily_stars": 1,
+    "stars": 79,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "agentic",
@@ -226,6 +119,126 @@
       "python"
     ],
     "created_at": "2025-05-14T20:01:20",
-    "updated_at": "2025-05-22T03:21:07"
+    "updated_at": "2025-05-22T08:19:35"
+  },
+  {
+    "name": "easysweeps",
+    "full_name": "YanivDorGalron/easysweeps",
+    "description": "A command-line utility for automating W&B sweep creation, launch, and GPU process management with ease.",
+    "url": "https://github.com/YanivDorGalron/easysweeps",
+    "stars": 8,
+    "daily_stars": 4,
+    "language": "Python",
+    "topics": [
+      "automation",
+      "cli",
+      "deep-learning",
+      "experiment-management",
+      "gpu",
+      "machine-learning",
+      "sweeps",
+      "wandb"
+    ],
+    "created_at": "2025-05-21T20:46:16",
+    "updated_at": "2025-05-22T08:19:45"
+  },
+  {
+    "name": "x-mlps",
+    "full_name": "lucidrains/x-mlps",
+    "description": "Just a repository that will house some MLPs and their variants, so to avoid having to reimplement them again and again for different projects (especially RL)",
+    "url": "https://github.com/lucidrains/x-mlps",
+    "stars": 12,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "mlp"
+    ],
+    "created_at": "2025-05-08T18:18:28",
+    "updated_at": "2025-05-22T08:03:30"
+  },
+  {
+    "name": "agent-builder",
+    "full_name": "strands-agents/agent-builder",
+    "description": "An example agent demonstrating streaming, tool use, and interactivity that can help you to build your own agents and tools.",
+    "url": "https://github.com/strands-agents/agent-builder",
+    "stars": 86,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "agentic",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "anthropic",
+      "autonomous-agents",
+      "genai",
+      "litellm",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "multi-agent-systems",
+      "ollama",
+      "opentelemetry",
+      "python"
+    ],
+    "created_at": "2025-05-14T20:05:14",
+    "updated_at": "2025-05-22T08:04:38"
+  },
+  {
+    "name": "samples",
+    "full_name": "strands-agents/samples",
+    "description": "Agent samples built using the Strands Agents SDK.",
+    "url": "https://github.com/strands-agents/samples",
+    "stars": 64,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agentic",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "anthropic",
+      "autonomous-agents",
+      "genai",
+      "litellm",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "multi-agent-systems",
+      "ollama",
+      "opentelemetry",
+      "python"
+    ],
+    "created_at": "2025-05-14T20:07:59",
+    "updated_at": "2025-05-22T08:04:47"
+  },
+  {
+    "name": "twitch-ai-viewers",
+    "full_name": "gsilvamartin/twitch-ai-viewers",
+    "description": "No viewers? No problem! Use AI Viewers",
+    "url": "https://github.com/gsilvamartin/twitch-ai-viewers",
+    "stars": 7,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-chatbot",
+      "artificial-intelligence",
+      "audio-processing",
+      "chatbot",
+      "ffmpeg",
+      "groq",
+      "nodejs",
+      "streaming",
+      "streaming-tools",
+      "twitch-api",
+      "twitch-bot",
+      "typescript",
+      "voice-recognition"
+    ],
+    "created_at": "2025-04-30T15:28:57",
+    "updated_at": "2025-05-22T08:33:42"
   }
 ]
