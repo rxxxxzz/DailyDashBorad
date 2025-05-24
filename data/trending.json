@@ -4,8 +4,8 @@
     "full_name": "bytedance/deer-flow",
     "description": "DeerFlow is a community-driven framework for deep research, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.",
     "url": "https://github.com/bytedance/deer-flow",
-    "stars": 11715,
-    "daily_stars": 24,
+    "stars": 11720,
+    "daily_stars": 5,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -27,36 +27,52 @@
       "python"
     ],
     "created_at": "2025-05-07T02:50:19",
-    "updated_at": "2025-05-24T16:25:00"
+    "updated_at": "2025-05-24T20:33:27"
   },
   {
-    "name": "PhyX",
-    "full_name": "NastyMarcus/PhyX",
-    "description": "PhyX: Does Your Model Have the \"Wits\" for Physical Reasoning?",
-    "url": "https://github.com/NastyMarcus/PhyX",
-    "stars": 13,
-    "daily_stars": 6,
+    "name": "webagentprotocol",
+    "full_name": "OTA-Tech-AI/webagentprotocol",
+    "description": "Toolkits and documentation for the Web Agent Protocol (WAP)",
+    "url": "https://github.com/OTA-Tech-AI/webagentprotocol",
+    "stars": 23,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
-      "benchmark",
-      "evaluation",
-      "large-language-models",
-      "large-multimodal-models",
-      "machine-learning",
-      "physics",
-      "science",
-      "visual-question-answering"
+      "ai-agents",
+      "ai-tools",
+      "browser-automation",
+      "browser-use",
+      "llm",
+      "playwright",
+      "python"
     ],
-    "created_at": "2025-05-15T20:30:12",
-    "updated_at": "2025-05-24T14:15:11"
+    "created_at": "2025-05-17T17:47:15",
+    "updated_at": "2025-05-24T20:33:38"
+  },
+  {
+    "name": "ParScale",
+    "full_name": "QwenLM/ParScale",
+    "description": "Parallel Scaling Law for Language Model — Beyond Parameter and Inference Time Scaling",
+    "url": "https://github.com/QwenLM/ParScale",
+    "stars": 314,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "scaling-law"
+    ],
+    "created_at": "2025-05-15T09:49:05",
+    "updated_at": "2025-05-24T20:38:01"
   },
   {
     "name": "sdk-python",
     "full_name": "strands-agents/sdk-python",
     "description": "A model-driven approach to building AI agents in just a few lines of code.",
     "url": "https://github.com/strands-agents/sdk-python",
-    "stars": 786,
-    "daily_stars": 5,
+    "stars": 787,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "agentic",
@@ -76,55 +92,31 @@
       "python"
     ],
     "created_at": "2025-05-14T19:59:51",
-    "updated_at": "2025-05-24T15:48:41"
+    "updated_at": "2025-05-24T19:01:51"
   },
   {
-    "name": "webagentprotocol",
-    "full_name": "OTA-Tech-AI/webagentprotocol",
-    "description": "Toolkits and documentation for the Web Agent Protocol (WAP)",
-    "url": "https://github.com/OTA-Tech-AI/webagentprotocol",
-    "stars": 18,
-    "daily_stars": 4,
+    "name": "Language-Identification-Tool",
+    "full_name": "tuan6100/Language-Identification-Tool",
+    "description": null,
+    "url": "https://github.com/tuan6100/Language-Identification-Tool",
+    "stars": 3,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "ai-agents",
-      "ai-tools",
-      "browser-automation",
-      "browser-use",
-      "llm",
-      "playwright",
-      "python"
-    ],
-    "created_at": "2025-05-17T17:47:15",
-    "updated_at": "2025-05-24T15:26:32"
-  },
-  {
-    "name": "PointOfFocus",
-    "full_name": "ibrahimjspy/PointOfFocus",
-    "description": "This project focuses on identifying the most attention-grabbing regions in an image. These saliency maps can be used to enhance thumbnails, create dynamic zoom effects, guide text animations, and support various other visual applications where highlighting key areas of an image is essential.",
-    "url": "https://github.com/ibrahimjspy/PointOfFocus",
-    "stars": 6,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [
-      "flask",
-      "image",
-      "image-processing",
-      "image-recognition",
       "machine-learning",
-      "opencv",
-      "python"
+      "n-grams",
+      "naive-bayes-classifier"
     ],
-    "created_at": "2025-05-12T23:45:37",
-    "updated_at": "2025-05-24T15:22:41"
+    "created_at": "2025-05-05T13:32:49",
+    "updated_at": "2025-05-24T16:48:13"
   },
   {
     "name": "magic",
     "full_name": "dtyq/magic",
     "description": "The first open-source all-in-one AI productivity platform",
     "url": "https://github.com/dtyq/magic",
-    "stars": 442,
-    "daily_stars": 3,
+    "stars": 443,
+    "daily_stars": 1,
     "language": "PHP",
     "topics": [
       "agent",
@@ -139,86 +131,90 @@
       "workflow"
     ],
     "created_at": "2025-05-14T22:04:29",
-    "updated_at": "2025-05-24T15:52:20"
+    "updated_at": "2025-05-24T18:39:08"
   },
   {
-    "name": "easysweeps",
-    "full_name": "YanivDorGalron/easysweeps",
-    "description": "A command-line utility for automating W&B sweep creation, launch, and GPU process management with ease.",
-    "url": "https://github.com/YanivDorGalron/easysweeps",
-    "stars": 13,
-    "daily_stars": 2,
+    "name": "GitFlow",
+    "full_name": "myselfbasil/GitFlow",
+    "description": "A menu-driven GitHub workflow automation tool designed to simplify and streamline your project management",
+    "url": "https://github.com/myselfbasil/GitFlow",
+    "stars": 1,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "automation",
       "cli",
-      "deep-learning",
-      "experiment-management",
-      "gpu",
-      "machine-learning",
-      "sweeps",
-      "wandb"
+      "developer-tools",
+      "git",
+      "git-tools",
+      "github",
+      "version-control",
+      "workflow"
     ],
-    "created_at": "2025-05-21T20:46:16",
-    "updated_at": "2025-05-24T15:37:49"
+    "created_at": "2025-05-21T04:40:56",
+    "updated_at": "2025-05-24T20:35:42"
   },
   {
-    "name": "mcp-atlassian-server",
-    "full_name": "phuc-nt/mcp-atlassian-server",
-    "description": "MCP server connecting AI assistants with Jira & Confluence for smart project management.",
-    "url": "https://github.com/phuc-nt/mcp-atlassian-server",
-    "stars": 23,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "atlassian",
-      "atlassian-confluence",
-      "atlassian-jira",
-      "automation",
-      "cline",
-      "mcp",
-      "mcp-server",
-      "productivity"
-    ],
-    "created_at": "2025-04-27T04:36:03",
-    "updated_at": "2025-05-24T14:04:59"
-  },
-  {
-    "name": "Advanced-Soccer-Simulation",
-    "full_name": "DwiDevelopes/Advanced-Soccer-Simulation",
-    "description": "Advanced Soccer Simulation AI Studying fotball",
-    "url": "https://github.com/DwiDevelopes/Advanced-Soccer-Simulation",
-    "stars": 2,
-    "daily_stars": 1,
-    "language": "Python",
+    "name": "ArtificialCast",
+    "full_name": "Zorokee/ArtificialCast",
+    "description": "Type-safe transformation powered by inference.",
+    "url": "https://github.com/Zorokee/ArtificialCast",
+    "stars": 336,
+    "daily_stars": 0,
+    "language": "C#",
     "topics": [
       "ai",
-      "ai-agents",
-      "fotballdata",
-      "futscore",
-      "pssi",
-      "simulation",
-      "simulator"
+      "artificial-intelligence",
+      "csharp",
+      "dotnet",
+      "llm",
+      "satire",
+      "type-casting"
     ],
-    "created_at": "2025-05-21T12:48:16",
-    "updated_at": "2025-05-24T14:27:02"
+    "created_at": "2025-05-13T14:23:01",
+    "updated_at": "2025-05-24T05:14:12"
   },
   {
-    "name": "ParScale",
-    "full_name": "QwenLM/ParScale",
-    "description": "Parallel Scaling Law for Language Model — Beyond Parameter and Inference Time Scaling",
-    "url": "https://github.com/QwenLM/ParScale",
-    "stars": 312,
-    "daily_stars": 1,
+    "name": "AI-ML-Cheatsheets",
+    "full_name": "analyticalrohit/AI-ML-Cheatsheets",
+    "description": "All Stanford Cheatsheets: Artificial Intelligence, Transformers, LLMs, Deep Learning, Machine Learning, Probabilities, Statistics, Algebra and Calculus.",
+    "url": "https://github.com/analyticalrohit/AI-ML-Cheatsheets",
+    "stars": 97,
+    "daily_stars": 0,
+    "language": null,
+    "topics": [
+      "artificial-intelligence",
+      "cheetsheet",
+      "convolutional-neural-networks",
+      "data-science",
+      "deep-learning",
+      "llms",
+      "machine-learning",
+      "neural-networks",
+      "probability",
+      "statistics",
+      "transformers"
+    ],
+    "created_at": "2025-05-13T13:29:09",
+    "updated_at": "2025-05-22T11:51:06"
+  },
+  {
+    "name": "x-transformers-rl",
+    "full_name": "lucidrains/x-transformers-rl",
+    "description": "Implementation of a transformer for reinforcement learning using `x-transformers`",
+    "url": "https://github.com/lucidrains/x-transformers-rl",
+    "stars": 35,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
-      "large-language-models",
-      "llm",
-      "machine-learning",
-      "scaling-law"
+      "artificial-intelligence",
+      "attention-mechanism",
+      "deep-learning",
+      "reinforcement-learning",
+      "transformers",
+      "world-models"
     ],
-    "created_at": "2025-05-15T09:49:05",
-    "updated_at": "2025-05-24T14:43:17"
+    "created_at": "2025-05-21T17:07:27",
+    "updated_at": "2025-05-24T16:44:49"
   }
 ]
