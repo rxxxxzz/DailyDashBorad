@@ -4,8 +4,8 @@
     "full_name": "xpander-ai/xpander.ai",
     "description": "Backend-as-a-Service for AI Agents. Equip any AI Agent with tools, memory, multi-agent collaboration, state, triggering, storage, and more.",
     "url": "https://github.com/xpander-ai/xpander.ai",
-    "stars": 95,
-    "daily_stars": 29,
+    "stars": 127,
+    "daily_stars": 32,
     "language": "Python",
     "topics": [
       "agentic",
@@ -17,15 +17,15 @@
       "llm"
     ],
     "created_at": "2025-05-15T14:31:25",
-    "updated_at": "2025-05-26T20:32:07"
+    "updated_at": "2025-05-27T02:11:04"
   },
   {
     "name": "deer-flow",
     "full_name": "bytedance/deer-flow",
     "description": "DeerFlow is a community-driven framework for deep research, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.",
     "url": "https://github.com/bytedance/deer-flow",
-    "stars": 11896,
-    "daily_stars": 7,
+    "stars": 11910,
+    "daily_stars": 14,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -47,15 +47,15 @@
       "python"
     ],
     "created_at": "2025-05-07T02:50:19",
-    "updated_at": "2025-05-26T20:13:28"
+    "updated_at": "2025-05-27T02:16:41"
   },
   {
     "name": "webagentprotocol",
     "full_name": "OTA-Tech-AI/webagentprotocol",
     "description": "Toolkits and documentation for the Web Agent Protocol (WAP)",
     "url": "https://github.com/OTA-Tech-AI/webagentprotocol",
-    "stars": 62,
-    "daily_stars": 5,
+    "stars": 69,
+    "daily_stars": 7,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -67,15 +67,15 @@
       "python"
     ],
     "created_at": "2025-05-17T17:47:15",
-    "updated_at": "2025-05-26T20:31:18"
+    "updated_at": "2025-05-27T02:05:04"
   },
   {
     "name": "sdk-python",
     "full_name": "strands-agents/sdk-python",
     "description": "A model-driven approach to building AI agents in just a few lines of code.",
     "url": "https://github.com/strands-agents/sdk-python",
-    "stars": 828,
-    "daily_stars": 5,
+    "stars": 834,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "agentic",
@@ -95,15 +95,55 @@
       "python"
     ],
     "created_at": "2025-05-14T19:59:51",
-    "updated_at": "2025-05-26T20:34:26"
+    "updated_at": "2025-05-27T01:46:17"
+  },
+  {
+    "name": "RPG",
+    "full_name": "complex-reasoning/RPG",
+    "description": "The official implementation of Regularized Policy Gradient (RPG) (https://arxiv.org/abs/2505.17508)",
+    "url": "https://github.com/complex-reasoning/RPG",
+    "stars": 23,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "deep-learning",
+      "foundation-models",
+      "large-language-models",
+      "llm",
+      "post-training",
+      "reinforcement-learning"
+    ],
+    "created_at": "2025-05-26T02:46:36",
+    "updated_at": "2025-05-27T02:14:51"
+  },
+  {
+    "name": "PhyX",
+    "full_name": "NastyMarcus/PhyX",
+    "description": "PhyX: Does Your Model Have the \"Wits\" for Physical Reasoning?",
+    "url": "https://github.com/NastyMarcus/PhyX",
+    "stars": 21,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "benchmark",
+      "evaluation",
+      "large-language-models",
+      "large-multimodal-models",
+      "machine-learning",
+      "physics",
+      "science",
+      "visual-question-answering"
+    ],
+    "created_at": "2025-05-15T20:30:12",
+    "updated_at": "2025-05-26T23:58:17"
   },
   {
     "name": "EasyShield-Anti-Spoofing-AI-Model",
     "full_name": "mahostar/EasyShield-Anti-Spoofing-AI-Model",
     "description": "EasyShield Anti Spoofing AI Model for edge devices (State-of-the-art) performance (Open Source) Deep Learning Model",
     "url": "https://github.com/mahostar/EasyShield-Anti-Spoofing-AI-Model",
-    "stars": 30,
-    "daily_stars": 3,
+    "stars": 32,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "ai",
@@ -122,128 +162,54 @@
       "yolo12"
     ],
     "created_at": "2025-05-08T17:01:28",
-    "updated_at": "2025-05-26T19:57:41"
+    "updated_at": "2025-05-27T00:03:05"
   },
   {
-    "name": "RPG",
-    "full_name": "complex-reasoning/RPG",
-    "description": "The official implementation of Regularized Policy Gradient (RPG) (https://arxiv.org/abs/2505.17508)",
-    "url": "https://github.com/complex-reasoning/RPG",
-    "stars": 20,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "deep-learning",
-      "foundation-models",
-      "large-language-models",
-      "llm",
-      "post-training",
-      "reinforcement-learning"
-    ],
-    "created_at": "2025-05-26T02:46:36",
-    "updated_at": "2025-05-26T20:25:03"
-  },
-  {
-    "name": "x-transformers-rl",
-    "full_name": "lucidrains/x-transformers-rl",
-    "description": "Implementation of a transformer for reinforcement learning using `x-transformers`",
-    "url": "https://github.com/lucidrains/x-transformers-rl",
-    "stars": 39,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "attention-mechanism",
-      "deep-learning",
-      "reinforcement-learning",
-      "transformers",
-      "world-models"
-    ],
-    "created_at": "2025-05-21T17:07:27",
-    "updated_at": "2025-05-26T18:22:04"
-  },
-  {
-    "name": "Visualig-Ai-Make-Your-Ai-Api-Chat-Photo-Coding-Video",
-    "full_name": "Tivoraapt/Visualig-Ai-Make-Your-Ai-Api-Chat-Photo-Coding-Video",
-    "description": "versatile AI platform that lets users create custom AI models via API, enabling chatbots, image generation, coding assistance, and video creation all in one integrated interface.",
-    "url": "https://github.com/Tivoraapt/Visualig-Ai-Make-Your-Ai-Api-Chat-Photo-Coding-Video",
-    "stars": 3,
+    "name": "ArtificialCast",
+    "full_name": "Zorokee/ArtificialCast",
+    "description": "Type-safe transformation powered by inference.",
+    "url": "https://github.com/Zorokee/ArtificialCast",
+    "stars": 340,
     "daily_stars": 1,
     "language": "C#",
     "topics": [
       "ai",
-      "ai-agents",
-      "ai-music",
-      "api-integration",
-      "artificial",
-      "artificial-algorithms",
       "artificial-intelligence",
-      "artificial-life",
-      "artificial-neural-networks",
-      "chat",
-      "coding-assistant",
-      "data-science",
-      "deep-learning",
-      "gemini",
-      "generative-ai",
-      "homeassistant",
+      "csharp",
+      "dotnet",
       "llm",
-      "openai",
-      "security",
-      "voice-ai"
+      "satire",
+      "type-casting"
     ],
-    "created_at": "2025-05-01T23:08:40",
-    "updated_at": "2025-05-26T20:37:05"
+    "created_at": "2025-05-13T14:23:01",
+    "updated_at": "2025-05-26T21:52:49"
   },
   {
-    "name": "mcp-browser-agent",
-    "full_name": "imprvhub/mcp-browser-agent",
-    "description": "A Model Context Protocol (MCP) integration that provides Claude Desktop with autonomous browser automation capabilities. This agent enables Claude to interact with web content, manipulate DOM elements, execute JavaScript, and perform API requests.",
-    "url": "https://github.com/imprvhub/mcp-browser-agent",
-    "stars": 8,
+    "name": "x-mlps",
+    "full_name": "lucidrains/x-mlps",
+    "description": "Just a repository that will house some MLPs and their variants, so to avoid having to reimplement them again and again for different projects (especially RL)",
+    "url": "https://github.com/lucidrains/x-mlps",
+    "stars": 16,
     "daily_stars": 1,
-    "language": "TypeScript",
+    "language": "Python",
     "topics": [
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "aiagent",
-      "aiagents",
-      "automation",
-      "browser",
-      "chrome",
-      "chromium",
-      "claude",
-      "claude-ai",
-      "claude-desktop",
-      "firefox",
-      "mcp",
-      "model-context-protocol",
-      "model-context-protocol-server",
-      "model-context-protocol-servers",
-      "playwright",
-      "safari",
-      "web"
+      "artificial-intelligence",
+      "deep-learning",
+      "mlp"
     ],
-    "created_at": "2025-05-05T07:17:39",
-    "updated_at": "2025-05-26T19:22:55"
+    "created_at": "2025-05-08T18:18:28",
+    "updated_at": "2025-05-26T23:42:35"
   },
   {
-    "name": "tinyagent-ts",
-    "full_name": "alchemiststudiosDOTai/tinyagent-ts",
-    "description": "TinyAgent brings the core ideas of the original Python library into a lean, zero-dependency TypeScript package. It turns plain functions into LLM-driven tools and lets you chain them together through a simple ReAct-style loop.",
-    "url": "https://github.com/alchemiststudiosDOTai/tinyagent-ts",
-    "stars": 5,
+    "name": "memfuse",
+    "full_name": "memfuse/memfuse",
+    "description": "Official Core Services for MemFuse - the lightning-fast open-source memory layer that gives LLMs persistent, queryable memory across conversations and sessions.",
+    "url": "https://github.com/memfuse/memfuse",
+    "stars": 3,
     "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "autonomous-agents",
-      "code-execution",
-      "npm-package",
-      "typescript"
-    ],
-    "created_at": "2025-05-22T14:37:41",
-    "updated_at": "2025-05-26T18:20:39"
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-05-25T16:01:39",
+    "updated_at": "2025-05-26T21:31:22"
   }
 ]
