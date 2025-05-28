@@ -1,11 +1,35 @@
 [
   {
+    "name": "syftr",
+    "full_name": "datarobot/syftr",
+    "description": "syftr is an agent optimizer that helps you find the best agentic workflows for your budget.",
+    "url": "https://github.com/datarobot/syftr",
+    "stars": 80,
+    "daily_stars": 67,
+    "language": "Python",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "hyperparameter-optimization",
+      "hyperparameter-search",
+      "llm-agent",
+      "llms",
+      "multiobjective-optimization",
+      "pareto-optimality",
+      "rag",
+      "ray"
+    ],
+    "created_at": "2025-05-20T17:47:47",
+    "updated_at": "2025-05-28T16:40:18"
+  },
+  {
     "name": "deer-flow",
     "full_name": "bytedance/deer-flow",
     "description": "DeerFlow is a community-driven framework for deep research, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.",
     "url": "https://github.com/bytedance/deer-flow",
-    "stars": 12071,
-    "daily_stars": 24,
+    "stars": 12085,
+    "daily_stars": 14,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -27,34 +51,53 @@
       "python"
     ],
     "created_at": "2025-05-07T02:50:19",
-    "updated_at": "2025-05-28T12:59:34"
+    "updated_at": "2025-05-28T16:28:26"
   },
   {
-    "name": "webagentprotocol",
-    "full_name": "OTA-Tech-AI/webagentprotocol",
-    "description": "Toolkits and documentation for the Web Agent Protocol (WAP)",
-    "url": "https://github.com/OTA-Tech-AI/webagentprotocol",
-    "stars": 109,
-    "daily_stars": 7,
+    "name": "Fake_News_Detector",
+    "full_name": "XavierRolex/Fake_News_Detector",
+    "description": "FastAPI ML service for real-time fake news detection",
+    "url": "https://github.com/XavierRolex/Fake_News_Detector",
+    "stars": 19,
+    "daily_stars": 12,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "docker",
+      "fastapi",
+      "machine-learning",
+      "notebook",
+      "pytest",
+      "railway"
+    ],
+    "created_at": "2025-05-09T18:47:16",
+    "updated_at": "2025-05-28T16:27:06"
+  },
+  {
+    "name": "xpander.ai",
+    "full_name": "xpander-ai/xpander.ai",
+    "description": "Backend-as-a-Service for AI Agents. Equip any AI Agent with tools, memory, multi-agent collaboration, state, triggering, storage, and more.",
+    "url": "https://github.com/xpander-ai/xpander.ai",
+    "stars": 196,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
+      "agentic",
+      "agentic-ai",
+      "agents",
+      "ai",
       "ai-agents",
-      "ai-tools",
-      "browser-automation",
-      "browser-use",
-      "llm",
-      "playwright",
-      "python"
+      "aiagents",
+      "llm"
     ],
-    "created_at": "2025-05-17T17:47:15",
-    "updated_at": "2025-05-28T12:06:30"
+    "created_at": "2025-05-15T14:31:25",
+    "updated_at": "2025-05-28T16:37:08"
   },
   {
     "name": "sdk-python",
     "full_name": "strands-agents/sdk-python",
     "description": "A model-driven approach to building AI agents in just a few lines of code.",
     "url": "https://github.com/strands-agents/sdk-python",
-    "stars": 886,
+    "stars": 891,
     "daily_stars": 5,
     "language": "Python",
     "topics": [
@@ -75,15 +118,38 @@
       "python"
     ],
     "created_at": "2025-05-14T19:59:51",
-    "updated_at": "2025-05-28T11:41:17"
+    "updated_at": "2025-05-28T16:41:33"
+  },
+  {
+    "name": "magic",
+    "full_name": "dtyq/magic",
+    "description": "The first open-source all-in-one AI productivity platform",
+    "url": "https://github.com/dtyq/magic",
+    "stars": 491,
+    "daily_stars": 5,
+    "language": "PHP",
+    "topics": [
+      "agent",
+      "agi",
+      "ai",
+      "gpt",
+      "llm",
+      "low-code",
+      "mcp",
+      "no-code",
+      "sandbox",
+      "workflow"
+    ],
+    "created_at": "2025-05-14T22:04:29",
+    "updated_at": "2025-05-28T16:32:38"
   },
   {
     "name": "AI-ML-Cheatsheets",
     "full_name": "analyticalrohit/AI-ML-Cheatsheets",
     "description": "All Stanford Cheatsheets: Artificial Intelligence, Transformers, LLMs, Deep Learning, Machine Learning, Probabilities, Statistics, Algebra and Calculus.",
     "url": "https://github.com/analyticalrohit/AI-ML-Cheatsheets",
-    "stars": 119,
-    "daily_stars": 4,
+    "stars": 122,
+    "daily_stars": 3,
     "language": null,
     "topics": [
       "artificial-intelligence",
@@ -99,145 +165,57 @@
       "transformers"
     ],
     "created_at": "2025-05-13T13:29:09",
-    "updated_at": "2025-05-28T11:13:18"
+    "updated_at": "2025-05-28T15:50:00"
   },
   {
-    "name": "magic",
-    "full_name": "dtyq/magic",
-    "description": "The first open-source all-in-one AI productivity platform",
-    "url": "https://github.com/dtyq/magic",
-    "stars": 486,
-    "daily_stars": 4,
-    "language": "PHP",
-    "topics": [
-      "agent",
-      "agi",
-      "ai",
-      "gpt",
-      "llm",
-      "low-code",
-      "mcp",
-      "no-code",
-      "sandbox",
-      "workflow"
-    ],
-    "created_at": "2025-05-14T22:04:29",
-    "updated_at": "2025-05-28T11:58:18"
-  },
-  {
-    "name": "syftr",
-    "full_name": "datarobot/syftr",
-    "description": "syftr is an agent optimizer that helps you find the best agentic workflows for your budget.",
-    "url": "https://github.com/datarobot/syftr",
-    "stars": 13,
+    "name": "webagentprotocol",
+    "full_name": "OTA-Tech-AI/webagentprotocol",
+    "description": "Toolkits and documentation for the Web Agent Protocol (WAP)",
+    "url": "https://github.com/OTA-Tech-AI/webagentprotocol",
+    "stars": 112,
     "daily_stars": 3,
     "language": "Python",
     "topics": [
-      "agents",
-      "ai",
       "ai-agents",
-      "hyperparameter-optimization",
-      "hyperparameter-search",
-      "llm-agent",
-      "llms",
-      "multiobjective-optimization",
-      "pareto-optimality",
-      "rag",
-      "ray"
+      "ai-tools",
+      "browser-automation",
+      "browser-use",
+      "llm",
+      "playwright",
+      "python"
     ],
-    "created_at": "2025-05-20T17:47:47",
-    "updated_at": "2025-05-28T11:56:35"
+    "created_at": "2025-05-17T17:47:15",
+    "updated_at": "2025-05-28T16:40:38"
   },
   {
-    "name": "agent-builder",
-    "full_name": "strands-agents/agent-builder",
-    "description": "An example agent demonstrating streaming, tool use, and interactivity that can help you to build your own agents and tools.",
-    "url": "https://github.com/strands-agents/agent-builder",
-    "stars": 103,
+    "name": "sharpeye",
+    "full_name": "sgInnora/sharpeye",
+    "description": "SharpEye: Advanced Linux Intrusion Detection and Threat Hunting System",
+    "url": "https://github.com/sgInnora/sharpeye",
+    "stars": 73,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
-      "agentic",
-      "agentic-ai",
-      "agents",
-      "ai",
-      "anthropic",
-      "autonomous-agents",
-      "genai",
-      "litellm",
-      "llm",
+      "cryptominer-detection",
+      "cybersecurity",
+      "intrusion-detection",
+      "linux",
       "machine-learning",
-      "mcp",
-      "multi-agent-systems",
-      "ollama",
-      "opentelemetry",
-      "python"
+      "monitoring",
+      "python",
+      "rootkit-detection",
+      "security",
+      "threat-hunting"
     ],
-    "created_at": "2025-05-14T20:05:14",
-    "updated_at": "2025-05-28T13:04:22"
-  },
-  {
-    "name": "tools",
-    "full_name": "strands-agents/tools",
-    "description": "A toolkit for building, extending, and deploying AI agents.",
-    "url": "https://github.com/strands-agents/tools",
-    "stars": 95,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "agentic",
-      "agentic-ai",
-      "agents",
-      "ai",
-      "anthropic",
-      "autonomous-agents",
-      "genai",
-      "litellm",
-      "llm",
-      "machine-learning",
-      "mcp",
-      "multi-agent-systems",
-      "ollama",
-      "opentelemetry",
-      "python"
-    ],
-    "created_at": "2025-05-14T20:01:20",
-    "updated_at": "2025-05-28T11:15:59"
-  },
-  {
-    "name": "mcp-server",
-    "full_name": "strands-agents/mcp-server",
-    "description": "This MCP server provides documentation about Strands Agents, so you can use your favorite AI coding assistant to vibe-code AI agents with the Strands Agents SDK.",
-    "url": "https://github.com/strands-agents/mcp-server",
-    "stars": 58,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "agentic",
-      "agentic-ai",
-      "agents",
-      "ai",
-      "anthropic",
-      "autonomous-agents",
-      "genai",
-      "litellm",
-      "llm",
-      "machine-learning",
-      "mcp",
-      "multi-agent-systems",
-      "ollama",
-      "opentelemetry",
-      "python"
-    ],
-    "created_at": "2025-05-14T20:09:01",
-    "updated_at": "2025-05-28T11:16:19"
+    "created_at": "2025-05-08T01:25:22",
+    "updated_at": "2025-05-28T15:44:46"
   },
   {
     "name": "FoD",
     "full_name": "Algolzw/FoD",
     "description": "Forward-only Diffusion Probabilistic Models",
     "url": "https://github.com/Algolzw/FoD",
-    "stars": 11,
+    "stars": 13,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
@@ -254,6 +232,6 @@
       "stochastic-differential-equations"
     ],
     "created_at": "2025-05-21T13:01:34",
-    "updated_at": "2025-05-28T12:05:15"
+    "updated_at": "2025-05-28T15:58:23"
   }
 ]
