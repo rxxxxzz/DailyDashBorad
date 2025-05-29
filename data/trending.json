@@ -1,11 +1,63 @@
 [
   {
+    "name": "sdk-python",
+    "full_name": "strands-agents/sdk-python",
+    "description": "A model-driven approach to building AI agents in just a few lines of code.",
+    "url": "https://github.com/strands-agents/sdk-python",
+    "stars": 1074,
+    "daily_stars": 125,
+    "language": "Python",
+    "topics": [
+      "agentic",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "anthropic",
+      "autonomous-agents",
+      "genai",
+      "litellm",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "multi-agent-systems",
+      "ollama",
+      "opentelemetry",
+      "python"
+    ],
+    "created_at": "2025-05-14T19:59:51",
+    "updated_at": "2025-05-29T16:48:05"
+  },
+  {
+    "name": "syftr",
+    "full_name": "datarobot/syftr",
+    "description": "syftr is an agent optimizer that helps you find the best agentic workflows for your budget.",
+    "url": "https://github.com/datarobot/syftr",
+    "stars": 161,
+    "daily_stars": 42,
+    "language": "Python",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "hyperparameter-optimization",
+      "hyperparameter-search",
+      "llm-agent",
+      "llms",
+      "multiobjective-optimization",
+      "pareto-optimality",
+      "rag",
+      "ray"
+    ],
+    "created_at": "2025-05-20T17:47:47",
+    "updated_at": "2025-05-29T16:46:54"
+  },
+  {
     "name": "memvid",
     "full_name": "Olow304/memvid",
     "description": "Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.",
     "url": "https://github.com/Olow304/memvid",
-    "stars": 106,
-    "daily_stars": 49,
+    "stars": 143,
+    "daily_stars": 37,
     "language": "Python",
     "topics": [
       "ai",
@@ -28,15 +80,15 @@
       "video-processing"
     ],
     "created_at": "2025-05-27T16:01:08",
-    "updated_at": "2025-05-29T13:00:46"
+    "updated_at": "2025-05-29T16:39:34"
   },
   {
     "name": "deer-flow",
     "full_name": "bytedance/deer-flow",
     "description": "DeerFlow is a community-driven framework for deep research, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.",
     "url": "https://github.com/bytedance/deer-flow",
-    "stars": 12167,
-    "daily_stars": 17,
+    "stars": 12176,
+    "daily_stars": 9,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -58,15 +110,15 @@
       "python"
     ],
     "created_at": "2025-05-07T02:50:19",
-    "updated_at": "2025-05-29T12:47:00"
+    "updated_at": "2025-05-29T15:53:46"
   },
   {
     "name": "webagentprotocol",
     "full_name": "OTA-Tech-AI/webagentprotocol",
     "description": "Toolkits and documentation for the Web Agent Protocol (WAP)",
     "url": "https://github.com/OTA-Tech-AI/webagentprotocol",
-    "stars": 149,
-    "daily_stars": 12,
+    "stars": 153,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -78,16 +130,16 @@
       "python"
     ],
     "created_at": "2025-05-17T17:47:15",
-    "updated_at": "2025-05-29T12:50:47"
+    "updated_at": "2025-05-29T16:06:28"
   },
   {
-    "name": "sdk-python",
-    "full_name": "strands-agents/sdk-python",
-    "description": "A model-driven approach to building AI agents in just a few lines of code.",
-    "url": "https://github.com/strands-agents/sdk-python",
-    "stars": 949,
-    "daily_stars": 10,
-    "language": "Python",
+    "name": "samples",
+    "full_name": "strands-agents/samples",
+    "description": "Agent samples built using the Strands Agents SDK.",
+    "url": "https://github.com/strands-agents/samples",
+    "stars": 89,
+    "daily_stars": 4,
+    "language": "Jupyter Notebook",
     "topics": [
       "agentic",
       "agentic-ai",
@@ -105,146 +157,72 @@
       "opentelemetry",
       "python"
     ],
-    "created_at": "2025-05-14T19:59:51",
-    "updated_at": "2025-05-29T12:48:42"
+    "created_at": "2025-05-14T20:07:59",
+    "updated_at": "2025-05-29T16:37:47"
   },
   {
-    "name": "syftr",
-    "full_name": "datarobot/syftr",
-    "description": "syftr is an agent optimizer that helps you find the best agentic workflows for your budget.",
-    "url": "https://github.com/datarobot/syftr",
-    "stars": 119,
-    "daily_stars": 6,
+    "name": "RustTensor",
+    "full_name": "ramsyana/RustTensor",
+    "description": "A learning-focused, high-performance tensor computation library built from scratch in Rust, featuring automatic differentiation and CPU/CUDA backends.",
+    "url": "https://github.com/ramsyana/RustTensor",
+    "stars": 10,
+    "daily_stars": 4,
+    "language": "Rust",
+    "topics": [
+      "autograd",
+      "cuda",
+      "deep-learning",
+      "gpu-computing",
+      "machine-learning",
+      "neural-networks",
+      "rust",
+      "tensor"
+    ],
+    "created_at": "2025-05-13T12:50:04",
+    "updated_at": "2025-05-29T15:41:56"
+  },
+  {
+    "name": "xpander.ai",
+    "full_name": "xpander-ai/xpander.ai",
+    "description": "Backend-as-a-Service for AI Agents. Equip any AI Agent with tools, memory, multi-agent collaboration, state, triggering, storage, and more.",
+    "url": "https://github.com/xpander-ai/xpander.ai",
+    "stars": 203,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
+      "agentic",
+      "agentic-ai",
       "agents",
       "ai",
       "ai-agents",
-      "hyperparameter-optimization",
-      "hyperparameter-search",
-      "llm-agent",
-      "llms",
-      "multiobjective-optimization",
-      "pareto-optimality",
-      "rag",
-      "ray"
+      "aiagents",
+      "llm"
     ],
-    "created_at": "2025-05-20T17:47:47",
-    "updated_at": "2025-05-29T13:04:01"
+    "created_at": "2025-05-15T14:31:25",
+    "updated_at": "2025-05-29T15:54:53"
   },
   {
-    "name": "magic",
-    "full_name": "dtyq/magic",
-    "description": "The first open-source all-in-one AI productivity platform",
-    "url": "https://github.com/dtyq/magic",
-    "stars": 505,
-    "daily_stars": 4,
-    "language": "PHP",
-    "topics": [
-      "agent",
-      "agi",
-      "ai",
-      "gpt",
-      "llm",
-      "low-code",
-      "mcp",
-      "no-code",
-      "sandbox",
-      "workflow"
-    ],
-    "created_at": "2025-05-14T22:04:29",
-    "updated_at": "2025-05-29T12:28:28"
-  },
-  {
-    "name": "agent-builder",
-    "full_name": "strands-agents/agent-builder",
-    "description": "An example agent demonstrating streaming, tool use, and interactivity that can help you to build your own agents and tools.",
-    "url": "https://github.com/strands-agents/agent-builder",
-    "stars": 106,
+    "name": "mlx-grpo",
+    "full_name": "adeelahmad/mlx-grpo",
+    "description": "🧠 Train your own DeepSeek-R1 style reasoning model on Mac! First MLX implementation of GRPO - the breakthrough technique behind R1's o1-matching performance. Build mathematical reasoning AI without expensive RLHF. Apple Silicon optimized. 🚀",
+    "url": "https://github.com/adeelahmad/mlx-grpo",
+    "stars": 4,
     "daily_stars": 2,
     "language": "Python",
-    "topics": [
-      "agentic",
-      "agentic-ai",
-      "agents",
-      "ai",
-      "anthropic",
-      "autonomous-agents",
-      "genai",
-      "litellm",
-      "llm",
-      "machine-learning",
-      "mcp",
-      "multi-agent-systems",
-      "ollama",
-      "opentelemetry",
-      "python"
-    ],
-    "created_at": "2025-05-14T20:05:14",
-    "updated_at": "2025-05-29T13:03:44"
-  },
-  {
-    "name": "save-llm-api-cost",
-    "full_name": "FareedKhan-dev/save-llm-api-cost",
-    "description": "A straightforward method to reduce your LLM inference API costs and token usage.",
-    "url": "https://github.com/FareedKhan-dev/save-llm-api-cost",
-    "stars": 11,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "ai",
-      "api",
-      "artificial-intelligence",
-      "gemini",
-      "large-language-models",
-      "llm",
-      "openai"
-    ],
-    "created_at": "2025-05-18T18:39:17",
-    "updated_at": "2025-05-29T11:35:38"
-  },
-  {
-    "name": "Deep-Live-Cam-Bypass-Id-Verification-2fa-User-Face",
-    "full_name": "Feydonapt/Deep-Live-Cam-Bypass-Id-Verification-2fa-User-Face",
-    "description": "Uses deepfake technology to bypass ID checks and 2FA by simulating a users face in realtime during live webcam verification, tricking biometric systems into granting unauthorized access through realistic facial mimicry.",
-    "url": "https://github.com/Feydonapt/Deep-Live-Cam-Bypass-Id-Verification-2fa-User-Face",
-    "stars": 8,
-    "daily_stars": 1,
-    "language": "C#",
-    "topics": [
-      "2fa-bypass",
-      "ai",
-      "artificial-intelligence",
-      "authentication",
-      "cybersecurity",
-      "deepfake",
-      "face-recognition",
-      "faceswap",
-      "gan",
-      "identity-theft",
-      "livestream",
-      "machine-learning",
-      "privacy",
-      "realtime",
-      "spoofing",
-      "streaming",
-      "tracking",
-      "traffic",
-      "webcam"
-    ],
-    "created_at": "2025-05-01T22:51:19",
-    "updated_at": "2025-05-29T11:54:20"
+    "topics": [],
+    "created_at": "2025-05-28T21:15:26",
+    "updated_at": "2025-05-29T16:18:12"
   },
   {
     "name": "Medical-AI-Guide",
     "full_name": "diaoquesang/Medical-AI-Guide",
     "description": "🧑🏻‍⚕️ 医学人工智能入门指南 Medical-AI-Guide",
     "url": "https://github.com/diaoquesang/Medical-AI-Guide",
-    "stars": 6,
+    "stars": 7,
     "daily_stars": 1,
     "language": null,
     "topics": [],
     "created_at": "2025-05-28T06:38:33",
-    "updated_at": "2025-05-29T11:41:43"
+    "updated_at": "2025-05-29T13:08:31"
   }
 ]
