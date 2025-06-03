@@ -4,8 +4,8 @@
     "full_name": "bytedance/deer-flow",
     "description": "DeerFlow is a community-driven framework for deep research, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.",
     "url": "https://github.com/bytedance/deer-flow",
-    "stars": 12542,
-    "daily_stars": 15,
+    "stars": 12551,
+    "daily_stars": 9,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -27,15 +27,15 @@
       "python"
     ],
     "created_at": "2025-05-07T02:50:19",
-    "updated_at": "2025-06-03T13:06:56"
+    "updated_at": "2025-06-03T16:00:21"
   },
   {
     "name": "memvid",
     "full_name": "Olow304/memvid",
     "description": "Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.",
     "url": "https://github.com/Olow304/memvid",
-    "stars": 709,
-    "daily_stars": 13,
+    "stars": 716,
+    "daily_stars": 7,
     "language": "Python",
     "topics": [
       "ai",
@@ -58,43 +58,35 @@
       "video-processing"
     ],
     "created_at": "2025-05-27T16:01:08",
-    "updated_at": "2025-06-03T12:49:35"
+    "updated_at": "2025-06-03T16:48:23"
   },
   {
-    "name": "sdk-python",
-    "full_name": "strands-agents/sdk-python",
-    "description": "A model-driven approach to building AI agents in just a few lines of code.",
-    "url": "https://github.com/strands-agents/sdk-python",
-    "stars": 1243,
-    "daily_stars": 9,
+    "name": "webagentprotocol",
+    "full_name": "OTA-Tech-AI/webagentprotocol",
+    "description": "Toolkits and documentation for the Web Agent Protocol (WAP)",
+    "url": "https://github.com/OTA-Tech-AI/webagentprotocol",
+    "stars": 334,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
-      "agentic",
-      "agentic-ai",
-      "agents",
-      "ai",
-      "anthropic",
-      "autonomous-agents",
-      "genai",
-      "litellm",
+      "ai-agents",
+      "ai-tools",
+      "browser-automation",
+      "browser-use",
       "llm",
-      "machine-learning",
-      "mcp",
-      "multi-agent-systems",
-      "ollama",
-      "opentelemetry",
+      "playwright",
       "python"
     ],
-    "created_at": "2025-05-14T19:59:51",
-    "updated_at": "2025-06-03T12:38:44"
+    "created_at": "2025-05-17T17:47:15",
+    "updated_at": "2025-06-03T16:40:07"
   },
   {
     "name": "magic",
     "full_name": "dtyq/magic",
     "description": "The first open-source all-in-one AI productivity platform",
     "url": "https://github.com/dtyq/magic",
-    "stars": 554,
-    "daily_stars": 9,
+    "stars": 559,
+    "daily_stars": 5,
     "language": "PHP",
     "topics": [
       "agent",
@@ -109,14 +101,14 @@
       "workflow"
     ],
     "created_at": "2025-05-14T22:04:29",
-    "updated_at": "2025-06-03T12:05:17"
+    "updated_at": "2025-06-03T16:21:03"
   },
   {
-    "name": "agent-builder",
-    "full_name": "strands-agents/agent-builder",
-    "description": "An example agent demonstrating streaming, tool use, and interactivity that can help you to build your own agents and tools.",
-    "url": "https://github.com/strands-agents/agent-builder",
-    "stars": 124,
+    "name": "sdk-python",
+    "full_name": "strands-agents/sdk-python",
+    "description": "A model-driven approach to building AI agents in just a few lines of code.",
+    "url": "https://github.com/strands-agents/sdk-python",
+    "stars": 1247,
     "daily_stars": 4,
     "language": "Python",
     "topics": [
@@ -136,100 +128,34 @@
       "opentelemetry",
       "python"
     ],
-    "created_at": "2025-05-14T20:05:14",
-    "updated_at": "2025-06-03T12:39:00"
+    "created_at": "2025-05-14T19:59:51",
+    "updated_at": "2025-06-03T16:50:27"
   },
   {
-    "name": "multimind-sdk",
-    "full_name": "multimind-dev/multimind-sdk",
-    "description": "Your SDK solves all of this. One interface. Unified logic. Local + hosted models. Fine-tuning. Agent tools. No switching headaches.",
-    "url": "https://github.com/multimind-dev/multimind-sdk",
-    "stars": 15,
+    "name": "Multi-Agent-AI-System",
+    "full_name": "FareedKhan-dev/Multi-Agent-AI-System",
+    "description": "Building a Multi-Agent AI System with LangGraph and LangSmith",
+    "url": "https://github.com/FareedKhan-dev/Multi-Agent-AI-System",
+    "stars": 23,
     "daily_stars": 3,
-    "language": null,
+    "language": "Jupyter Notebook",
     "topics": [
       "ai-agents",
-      "fine-tuning",
-      "fine-tuning-llm",
-      "llm",
-      "multimind",
-      "sdk"
-    ],
-    "created_at": "2025-05-12T13:36:47",
-    "updated_at": "2025-06-03T12:03:54"
-  },
-  {
-    "name": "tools",
-    "full_name": "strands-agents/tools",
-    "description": "A toolkit for building, extending, and deploying AI agents.",
-    "url": "https://github.com/strands-agents/tools",
-    "stars": 116,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "agentic",
-      "agentic-ai",
-      "agents",
-      "ai",
-      "anthropic",
-      "autonomous-agents",
-      "genai",
-      "litellm",
-      "llm",
-      "machine-learning",
-      "mcp",
+      "langchain",
+      "langgraph",
+      "langsmith",
       "multi-agent-systems",
-      "ollama",
-      "opentelemetry",
-      "python"
+      "openai"
     ],
-    "created_at": "2025-05-14T20:01:20",
-    "updated_at": "2025-06-03T12:39:38"
-  },
-  {
-    "name": "webagentprotocol",
-    "full_name": "OTA-Tech-AI/webagentprotocol",
-    "description": "Toolkits and documentation for the Web Agent Protocol (WAP)",
-    "url": "https://github.com/OTA-Tech-AI/webagentprotocol",
-    "stars": 329,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "browser-automation",
-      "browser-use",
-      "llm",
-      "playwright",
-      "python"
-    ],
-    "created_at": "2025-05-17T17:47:15",
-    "updated_at": "2025-06-03T10:14:00"
-  },
-  {
-    "name": "MCPJungle",
-    "full_name": "duaraghav8/MCPJungle",
-    "description": "Self-hosted MCP Server registry for private AI agents",
-    "url": "https://github.com/duaraghav8/MCPJungle",
-    "stars": 16,
-    "daily_stars": 2,
-    "language": "Go",
-    "topics": [
-      "ai-agents",
-      "catalogue",
-      "enterprise",
-      "model-context-protocol",
-      "registry"
-    ],
-    "created_at": "2025-05-15T12:31:06",
-    "updated_at": "2025-06-03T11:37:02"
+    "created_at": "2025-05-31T07:17:23",
+    "updated_at": "2025-06-03T15:31:42"
   },
   {
     "name": "mcp-server",
     "full_name": "strands-agents/mcp-server",
     "description": "This MCP server provides documentation about Strands Agents, so you can use your favorite AI coding assistant to vibe-code AI agents with the Strands Agents SDK.",
     "url": "https://github.com/strands-agents/mcp-server",
-    "stars": 68,
+    "stars": 70,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
@@ -250,6 +176,100 @@
       "python"
     ],
     "created_at": "2025-05-14T20:09:01",
-    "updated_at": "2025-06-03T12:39:15"
+    "updated_at": "2025-06-03T15:11:01"
+  },
+  {
+    "name": "VerbalCodeAi",
+    "full_name": "vibheksoni/VerbalCodeAi",
+    "description": "VerbalCodeAI is a free, open-source AI tool that simplifies codebase navigation in your terminal, using Python 3.11.6 and Ollama. It indexes projects locally and quickly answers questions like “Where’s this function?”, saving developers time on debugging and onboarding.",
+    "url": "https://github.com/vibheksoni/VerbalCodeAi",
+    "stars": 35,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "code-analysis",
+      "codebase-navigation",
+      "coding",
+      "developer-tools",
+      "git-integration",
+      "local-ai",
+      "ollama",
+      "open-source",
+      "privacy-focused",
+      "productivity",
+      "python",
+      "regex-search",
+      "semantic-search",
+      "terminal",
+      "verbalcodeai"
+    ],
+    "created_at": "2025-05-17T05:00:37",
+    "updated_at": "2025-06-03T15:19:36"
+  },
+  {
+    "name": "ExeRay",
+    "full_name": "MohamedMostafa010/ExeRay",
+    "description": "ExeShield AI detects malicious Windows executables using ML. Analyzes entropy, imports, and metadata for rapid classification, aiding incident response. Built with Python and scikit-learn.",
+    "url": "https://github.com/MohamedMostafa010/ExeRay",
+    "stars": 12,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "aimodel",
+      "artificial-intelligence",
+      "benign",
+      "detection",
+      "exe",
+      "executable",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "machinelearning",
+      "malicious",
+      "maliciouscode",
+      "malware",
+      "python",
+      "python3",
+      "random-forest",
+      "random-forest-classifier",
+      "scikit-learn",
+      "xgboost",
+      "xgboost-classifier"
+    ],
+    "created_at": "2025-06-01T16:24:20",
+    "updated_at": "2025-06-03T16:41:10"
+  },
+  {
+    "name": "adk-java",
+    "full_name": "google/adk-java",
+    "description": "About An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+    "url": "https://github.com/google/adk-java",
+    "stars": 243,
+    "daily_stars": 1,
+    "language": "Java",
+    "topics": [
+      "agent",
+      "agentic",
+      "agentic-ai",
+      "agentic-workflow",
+      "agents",
+      "agents-sdk",
+      "ai",
+      "ai-agents",
+      "aiagentframework",
+      "genai",
+      "genai-chatbot",
+      "llm",
+      "llms",
+      "multi-agent",
+      "multi-agent-system",
+      "multi-agent-systems",
+      "multi-agents",
+      "multi-agents-collaboration"
+    ],
+    "created_at": "2025-05-05T17:16:25",
+    "updated_at": "2025-06-03T16:30:15"
   }
 ]
