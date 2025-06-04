@@ -4,8 +4,8 @@
     "full_name": "bytedance/deer-flow",
     "description": "DeerFlow is a community-driven framework for deep research, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.",
     "url": "https://github.com/bytedance/deer-flow",
-    "stars": 12611,
-    "daily_stars": 18,
+    "stars": 12633,
+    "daily_stars": 22,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -27,15 +27,15 @@
       "python"
     ],
     "created_at": "2025-05-07T02:50:19",
-    "updated_at": "2025-06-04T08:48:09"
+    "updated_at": "2025-06-04T12:50:48"
   },
   {
     "name": "memvid",
     "full_name": "Olow304/memvid",
     "description": "Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.",
     "url": "https://github.com/Olow304/memvid",
-    "stars": 744,
-    "daily_stars": 10,
+    "stars": 753,
+    "daily_stars": 9,
     "language": "Python",
     "topics": [
       "ai",
@@ -58,15 +58,34 @@
       "video-processing"
     ],
     "created_at": "2025-05-27T16:01:08",
-    "updated_at": "2025-06-04T08:18:44"
+    "updated_at": "2025-06-04T13:08:14"
+  },
+  {
+    "name": "Multi-Agent-AI-System",
+    "full_name": "FareedKhan-dev/Multi-Agent-AI-System",
+    "description": "Building a Multi-Agent AI System with LangGraph and LangSmith",
+    "url": "https://github.com/FareedKhan-dev/Multi-Agent-AI-System",
+    "stars": 38,
+    "daily_stars": 7,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "ai-agents",
+      "langchain",
+      "langgraph",
+      "langsmith",
+      "multi-agent-systems",
+      "openai"
+    ],
+    "created_at": "2025-05-31T07:17:23",
+    "updated_at": "2025-06-04T12:53:45"
   },
   {
     "name": "sdk-python",
     "full_name": "strands-agents/sdk-python",
     "description": "A model-driven approach to building AI agents in just a few lines of code.",
     "url": "https://github.com/strands-agents/sdk-python",
-    "stars": 1277,
-    "daily_stars": 8,
+    "stars": 1282,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "agentic",
@@ -86,15 +105,15 @@
       "python"
     ],
     "created_at": "2025-05-14T19:59:51",
-    "updated_at": "2025-06-04T08:44:45"
+    "updated_at": "2025-06-04T12:53:00"
   },
   {
     "name": "magic",
     "full_name": "dtyq/magic",
     "description": "The first open-source all-in-one AI productivity platform",
     "url": "https://github.com/dtyq/magic",
-    "stars": 577,
-    "daily_stars": 7,
+    "stars": 580,
+    "daily_stars": 3,
     "language": "PHP",
     "topics": [
       "agent",
@@ -109,68 +128,93 @@
       "workflow"
     ],
     "created_at": "2025-05-14T22:04:29",
-    "updated_at": "2025-06-04T07:21:35"
+    "updated_at": "2025-06-04T11:13:50"
   },
   {
-    "name": "syftr",
-    "full_name": "datarobot/syftr",
-    "description": "syftr is an agent optimizer that helps you find the best agentic workflows for your budget.",
-    "url": "https://github.com/datarobot/syftr",
-    "stars": 248,
-    "daily_stars": 4,
+    "name": "MCPJungle",
+    "full_name": "duaraghav8/MCPJungle",
+    "description": "Self-hosted MCP Server registry for private AI agents",
+    "url": "https://github.com/duaraghav8/MCPJungle",
+    "stars": 22,
+    "daily_stars": 2,
+    "language": "Go",
+    "topics": [
+      "ai-agents",
+      "catalogue",
+      "enterprise",
+      "model-context-protocol",
+      "registry"
+    ],
+    "created_at": "2025-05-15T12:31:06",
+    "updated_at": "2025-06-04T13:03:56"
+  },
+  {
+    "name": "AI-Notebooks",
+    "full_name": "Marktechpost/AI-Notebooks",
+    "description": "Colab Notebooks for Tutorials from Marktechpost",
+    "url": "https://github.com/Marktechpost/AI-Notebooks",
+    "stars": 57,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "aiagents",
+      "artificial-intelligence",
+      "data-science",
+      "dataengineering",
+      "deep-learning",
+      "machine-learning",
+      "neural-network"
+    ],
+    "created_at": "2025-05-15T09:00:54",
+    "updated_at": "2025-06-04T10:20:00"
+  },
+  {
+    "name": "n8n-workflows",
+    "full_name": "lucaswalter/n8n-workflows",
+    "description": "Collection of n8n workflows created for The Recap AI YouTube channel and the AI Automation Mastery free Skool community,.",
+    "url": "https://github.com/lucaswalter/n8n-workflows",
+    "stars": 14,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [],
+    "created_at": "2025-05-30T17:24:42",
+    "updated_at": "2025-06-04T09:29:46"
+  },
+  {
+    "name": "tools",
+    "full_name": "strands-agents/tools",
+    "description": "A toolkit for building, extending, and deploying AI agents.",
+    "url": "https://github.com/strands-agents/tools",
+    "stars": 122,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
+      "agentic",
+      "agentic-ai",
       "agents",
       "ai",
-      "ai-agents",
-      "hyperparameter-optimization",
-      "hyperparameter-search",
-      "llm-agent",
-      "llms",
-      "multiobjective-optimization",
-      "pareto-optimality",
-      "rag",
-      "ray"
-    ],
-    "created_at": "2025-05-20T17:47:47",
-    "updated_at": "2025-06-04T08:00:53"
-  },
-  {
-    "name": "decipher-research-agent",
-    "full_name": "mtwn105/decipher-research-agent",
-    "description": "Turn topics, links, and files into AI-generated research notebooks — summarize, explore, and ask anything.",
-    "url": "https://github.com/mtwn105/decipher-research-agent",
-    "stars": 65,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "ai",
-      "artificial-intelligence",
-      "crewai",
-      "gemini",
+      "anthropic",
+      "autonomous-agents",
+      "genai",
+      "litellm",
       "llm",
+      "machine-learning",
       "mcp",
-      "ml",
-      "model-context-protocol",
-      "notebooklm",
-      "openai",
-      "qdrant",
-      "scraping",
-      "vector-db",
-      "web-scraping"
+      "multi-agent-systems",
+      "ollama",
+      "opentelemetry",
+      "python"
     ],
-    "created_at": "2025-05-14T14:01:34",
-    "updated_at": "2025-06-04T05:45:46"
+    "created_at": "2025-05-14T20:01:20",
+    "updated_at": "2025-06-04T11:49:23"
   },
   {
     "name": "samples",
     "full_name": "strands-agents/samples",
     "description": "Agent samples built using the Strands Agents SDK.",
     "url": "https://github.com/strands-agents/samples",
-    "stars": 108,
-    "daily_stars": 2,
+    "stars": 109,
+    "daily_stars": 1,
     "language": "Jupyter Notebook",
     "topics": [
       "agentic",
@@ -190,79 +234,6 @@
       "python"
     ],
     "created_at": "2025-05-14T20:07:59",
-    "updated_at": "2025-06-04T07:46:09"
-  },
-  {
-    "name": "AI-Notebooks",
-    "full_name": "Marktechpost/AI-Notebooks",
-    "description": "Colab Notebooks for Tutorials from Marktechpost",
-    "url": "https://github.com/Marktechpost/AI-Notebooks",
-    "stars": 56,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "aiagents",
-      "artificial-intelligence",
-      "data-science",
-      "dataengineering",
-      "deep-learning",
-      "machine-learning",
-      "neural-network"
-    ],
-    "created_at": "2025-05-15T09:00:54",
-    "updated_at": "2025-06-04T07:36:08"
-  },
-  {
-    "name": "ExeRay",
-    "full_name": "MohamedMostafa010/ExeRay",
-    "description": "ExeShield AI detects malicious Windows executables using ML. Analyzes entropy, imports, and metadata for rapid classification, aiding incident response. Built with Python and scikit-learn.",
-    "url": "https://github.com/MohamedMostafa010/ExeRay",
-    "stars": 15,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "aimodel",
-      "artificial-intelligence",
-      "benign",
-      "detection",
-      "exe",
-      "executable",
-      "machine-learning",
-      "machine-learning-algorithms",
-      "machinelearning",
-      "malicious",
-      "maliciouscode",
-      "malware",
-      "python",
-      "python3",
-      "random-forest",
-      "random-forest-classifier",
-      "scikit-learn",
-      "xgboost",
-      "xgboost-classifier"
-    ],
-    "created_at": "2025-06-01T16:24:20",
-    "updated_at": "2025-06-04T07:40:06"
-  },
-  {
-    "name": "webagentprotocol",
-    "full_name": "OTA-Tech-AI/webagentprotocol",
-    "description": "Toolkits and documentation for the Web Agent Protocol (WAP)",
-    "url": "https://github.com/OTA-Tech-AI/webagentprotocol",
-    "stars": 342,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "browser-automation",
-      "browser-use",
-      "llm",
-      "playwright",
-      "python"
-    ],
-    "created_at": "2025-05-17T17:47:15",
-    "updated_at": "2025-06-04T07:13:26"
+    "updated_at": "2025-06-04T10:24:01"
   }
 ]
