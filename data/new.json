@@ -168,7 +168,7 @@
     "description": "Culturally-compliant video storage. Embeds searchable text chunks into pixelated media for lightning-fast semantic search. Zero-database, maximum compliance.",
     "url": "https://github.com/arimanyus/hentaivid",
     "stars": 8,
-    "daily_stars": 4,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "embedded-ai",
@@ -216,23 +216,26 @@
     "updated_at": "2025-06-08T05:43:57"
   },
   {
-    "name": "CsCGraph",
-    "full_name": "ChunelFeng/CsCGraph",
-    "description": "A CSharp version, CGraph-API-liked DAG project",
-    "url": "https://github.com/ChunelFeng/CsCGraph",
+    "name": "backup-vaultwarden-publish",
+    "full_name": "x-o-y/backup-vaultwarden-publish",
+    "description": "1. Backup vaultwarden/bitwarden JSON data to GitHub's repo; 2. import latest JSON to another vault account.",
+    "url": "https://github.com/x-o-y/backup-vaultwarden-publish",
     "stars": 6,
     "daily_stars": 0,
-    "language": "C#",
+    "language": null,
     "topics": [
-      "airflow",
-      "cgraph",
-      "dag",
-      "parallel",
-      "taskflow",
-      "workflow"
+      "automation",
+      "backup",
+      "bitwarden",
+      "bitwarden-cli",
+      "github-actions",
+      "sync",
+      "vaultwarden",
+      "workflow",
+      "workflow-automation"
     ],
-    "created_at": "2025-05-31T15:31:05",
-    "updated_at": "2025-06-05T15:42:09"
+    "created_at": "2025-06-07T15:17:19",
+    "updated_at": "2025-06-08T15:13:44"
   },
   {
     "name": "whisper-colab-tpu-transcriber",
