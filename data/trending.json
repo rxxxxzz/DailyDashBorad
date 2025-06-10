@@ -4,8 +4,8 @@
     "full_name": "Olow304/memvid",
     "description": "Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.",
     "url": "https://github.com/Olow304/memvid",
-    "stars": 7363,
-    "daily_stars": 39,
+    "stars": 7388,
+    "daily_stars": 25,
     "language": "Python",
     "topics": [
       "ai",
@@ -28,15 +28,47 @@
       "video-processing"
     ],
     "created_at": "2025-05-27T16:01:08",
-    "updated_at": "2025-06-10T12:52:32"
+    "updated_at": "2025-06-10T16:42:40"
+  },
+  {
+    "name": "ARIES",
+    "full_name": "Chieko-Seren/ARIES",
+    "description": "顺便一提，我们支持 RWKV | 「Intel 2025 人工智能创新大赛」🚀AutoOPS: Provide the chaos brought by language models to the operation and maintenance industry! 🏆使用 LLM 提供的动力实现全自动运维，支持 Windows Server/Linux/macOS/Cisco IOS，可进行全网自动管理，让我们颠覆运维行业！【RJ-45/SSH/Telnet/串口通信/自定义KG/服务器编排】",
+    "url": "https://github.com/Chieko-Seren/ARIES",
+    "stars": 90,
+    "daily_stars": 8,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "ai",
+      "bert",
+      "cisco",
+      "deepseek",
+      "devops",
+      "kg",
+      "langchain",
+      "linear-attention-model",
+      "llama",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "nlp",
+      "ops",
+      "qwen",
+      "rwkv",
+      "rwkv-7",
+      "service"
+    ],
+    "created_at": "2025-05-22T04:19:20",
+    "updated_at": "2025-06-10T14:41:08"
   },
   {
     "name": "water",
     "full_name": "manthanguptaa/water",
     "description": "A multi-agent orchestration framework that works with any agent framework",
     "url": "https://github.com/manthanguptaa/water",
-    "stars": 123,
-    "daily_stars": 8,
+    "stars": 129,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "agents",
@@ -47,15 +79,46 @@
       "workflow"
     ],
     "created_at": "2025-06-03T11:33:27",
-    "updated_at": "2025-06-10T12:56:45"
+    "updated_at": "2025-06-10T15:42:42"
+  },
+  {
+    "name": "Mental-Health-Sentiment-Analysis-using-Deep-Learning",
+    "full_name": "indranil143/Mental-Health-Sentiment-Analysis-using-Deep-Learning",
+    "description": "A deep learning project using fine-tuned RoBERTa to classify mental health sentiments from text, aiming to provide early insights and support. ⚕️❤️",
+    "url": "https://github.com/indranil143/Mental-Health-Sentiment-Analysis-using-Deep-Learning",
+    "stars": 25,
+    "daily_stars": 5,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "deep-learning",
+      "eda",
+      "emotion-detection",
+      "l2-regularization",
+      "logistic-regression",
+      "machine-learning",
+      "mental-health",
+      "mental-health-awareness",
+      "mentalsupport",
+      "ngrams",
+      "nlp",
+      "nltk",
+      "python",
+      "pytorch",
+      "roberta",
+      "sentiment-analysis",
+      "spacy",
+      "transformermodel"
+    ],
+    "created_at": "2025-05-20T08:37:23",
+    "updated_at": "2025-06-10T16:41:32"
   },
   {
     "name": "sdk-python",
     "full_name": "strands-agents/sdk-python",
     "description": "A model-driven approach to building AI agents in just a few lines of code.",
     "url": "https://github.com/strands-agents/sdk-python",
-    "stars": 1443,
-    "daily_stars": 6,
+    "stars": 1447,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "agentic",
@@ -75,64 +138,38 @@
       "python"
     ],
     "created_at": "2025-05-14T19:59:51",
-    "updated_at": "2025-06-10T12:58:32"
+    "updated_at": "2025-06-10T16:19:02"
   },
   {
-    "name": "ai",
-    "full_name": "jetify-com/ai",
-    "description": "The AI framework for Go developers. Build powerful AI applications and agents using our free, open-source library. From Jetify, the creators of TestPilot.",
-    "url": "https://github.com/jetify-com/ai",
-    "stars": 73,
-    "daily_stars": 2,
-    "language": "Go",
+    "name": "AI-ML-Cheatsheets",
+    "full_name": "analyticalrohit/AI-ML-Cheatsheets",
+    "description": "All Stanford Cheatsheets: Artificial Intelligence, Transformers, LLMs, Deep Learning, Machine Learning, Probabilities, Statistics, Algebra and Calculus.",
+    "url": "https://github.com/analyticalrohit/AI-ML-Cheatsheets",
+    "stars": 152,
+    "daily_stars": 3,
+    "language": null,
     "topics": [
-      "ai",
-      "anthropic",
       "artificial-intelligence",
-      "genai",
-      "generative-ai",
-      "go",
-      "golang",
-      "language-model",
-      "llm",
-      "openai"
-    ],
-    "created_at": "2025-05-16T22:05:27",
-    "updated_at": "2025-06-10T09:02:46"
-  },
-  {
-    "name": "flowhawk",
-    "full_name": "alexhraber/flowhawk",
-    "description": "Real-time eBPF-powered network security monitor with AI-driven threat detection. Surfaces port scans, DDoS attacks, botnet activity, and anomalies at 100Gbps+ speeds with sub-microsecond latency (~150 million packets/sec).",
-    "url": "https://github.com/alexhraber/flowhawk",
-    "stars": 22,
-    "daily_stars": 2,
-    "language": "Go",
-    "topics": [
-      "anomaly-detection",
-      "cybersecurity",
-      "ddos-protection",
-      "ebpf",
-      "golang",
-      "intrusion-detection",
+      "cheetsheet",
+      "convolutional-neural-networks",
+      "data-science",
+      "deep-learning",
+      "llms",
       "machine-learning",
-      "network-analysis",
-      "network-security",
-      "packet-processing",
-      "real-time-monitoring",
-      "threat-detection",
-      "xdp",
-      "zero-day-detection"
+      "neural-networks",
+      "probability",
+      "statistics",
+      "transformers"
     ],
-    "created_at": "2025-06-09T06:00:08",
-    "updated_at": "2025-06-10T10:45:45"
+    "created_at": "2025-05-13T13:29:09",
+    "updated_at": "2025-06-10T16:46:41"
   },
   {
     "name": "driven-to-evolve",
     "full_name": "necrashter/driven-to-evolve",
     "description": "Teach AI to drive, one crash at a time. Evolve, upgrade, and turn failure into progress.",
     "url": "https://github.com/necrashter/driven-to-evolve",
-    "stars": 14,
+    "stars": 16,
     "daily_stars": 2,
     "language": "GDScript",
     "topics": [
@@ -142,86 +179,58 @@
       "machine-learning"
     ],
     "created_at": "2025-06-09T10:02:37",
-    "updated_at": "2025-06-10T12:20:49"
+    "updated_at": "2025-06-10T13:53:12"
   },
   {
-    "name": "AI-Notebooks",
-    "full_name": "Marktechpost/AI-Notebooks",
-    "description": "Colab Notebooks for Tutorials from Marktechpost",
-    "url": "https://github.com/Marktechpost/AI-Notebooks",
-    "stars": 69,
-    "daily_stars": 1,
+    "name": "CausalPFN",
+    "full_name": "vdblm/CausalPFN",
+    "description": "CausalPFN: Amortized Causal Effect Estimation via In-Context Learning",
+    "url": "https://github.com/vdblm/CausalPFN",
+    "stars": 7,
+    "daily_stars": 2,
     "language": "Jupyter Notebook",
     "topics": [
-      "aiagents",
-      "artificial-intelligence",
-      "data-science",
-      "dataengineering",
-      "deep-learning",
-      "machine-learning",
-      "neural-network"
+      "causal-inference",
+      "causalpfn",
+      "foundation-models",
+      "machine-learning"
     ],
-    "created_at": "2025-05-15T09:00:54",
-    "updated_at": "2025-06-10T09:07:49"
+    "created_at": "2025-06-09T15:30:33",
+    "updated_at": "2025-06-10T15:58:38"
   },
   {
-    "name": "hk-weather-mcp-server",
-    "full_name": "hkopenai/hk-weather-mcp-server",
-    "description": "This is an MCP server that provides access to Hong Kong Observatory weather data through a FastMCP interface.",
-    "url": "https://github.com/hkopenai/hk-weather-mcp-server",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "Python",
+    "name": "magic",
+    "full_name": "dtyq/magic",
+    "description": "The first open-source all-in-one AI productivity platform",
+    "url": "https://github.com/dtyq/magic",
+    "stars": 625,
+    "daily_stars": 2,
+    "language": "PHP",
     "topics": [
+      "agent",
+      "agi",
       "ai",
-      "artificial-intelligence",
-      "hong-kong",
-      "hongkong",
+      "gpt",
+      "llm",
+      "low-code",
       "mcp",
-      "mcp-server",
-      "open-data"
+      "no-code",
+      "sandbox",
+      "workflow"
     ],
-    "created_at": "2025-06-08T10:36:35",
-    "updated_at": "2025-06-10T12:53:51"
+    "created_at": "2025-05-14T22:04:29",
+    "updated_at": "2025-06-10T13:55:36"
   },
   {
-    "name": "hk-finance-mcp-server",
-    "full_name": "hkopenai/hk-finance-mcp-server",
-    "description": "This is an MCP server that provides access to finance related data in Hong Kong through a FastMCP interface.",
-    "url": "https://github.com/hkopenai/hk-finance-mcp-server",
-    "stars": 3,
+    "name": "n8n-workflows",
+    "full_name": "lucaswalter/n8n-workflows",
+    "description": "Collection of n8n workflows created for The Recap AI YouTube channel and the AI Automation Mastery free Skool community,.",
+    "url": "https://github.com/lucaswalter/n8n-workflows",
+    "stars": 19,
     "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "finance",
-      "hong-kong",
-      "hongkong",
-      "mcp",
-      "mcp-server",
-      "open-data"
-    ],
-    "created_at": "2025-06-08T10:32:34",
-    "updated_at": "2025-06-10T12:53:41"
-  },
-  {
-    "name": "Multi-Agent-AI-System",
-    "full_name": "FareedKhan-dev/Multi-Agent-AI-System",
-    "description": "Building a Multi-Agent AI System with LangGraph and LangSmith",
-    "url": "https://github.com/FareedKhan-dev/Multi-Agent-AI-System",
-    "stars": 94,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "ai-agents",
-      "langchain",
-      "langgraph",
-      "langsmith",
-      "multi-agent-systems",
-      "openai"
-    ],
-    "created_at": "2025-05-31T07:17:23",
-    "updated_at": "2025-06-10T09:00:44"
+    "language": null,
+    "topics": [],
+    "created_at": "2025-05-30T17:24:42",
+    "updated_at": "2025-06-10T16:26:03"
   }
 ]
