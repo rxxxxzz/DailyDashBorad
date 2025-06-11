@@ -36,7 +36,7 @@
     "description": "A repo containing papers and resources (Methods, Datasets...) about search-oriented large reasoning models.",
     "url": "https://github.com/Wu-Zongyu/Awesome-Large-Search-Models",
     "stars": 29,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": null,
     "topics": [
       "deep-learning",
@@ -53,8 +53,8 @@
     "full_name": "alexhraber/flowhawk",
     "description": "Real-time eBPF-powered network security monitor with AI-driven threat detection. Surfaces port scans, DDoS attacks, botnet activity, and anomalies at 100Gbps+ speeds with sub-microsecond latency (~150 million packets/sec).",
     "url": "https://github.com/alexhraber/flowhawk",
-    "stars": 26,
-    "daily_stars": 2,
+    "stars": 27,
+    "daily_stars": 1,
     "language": "Go",
     "topics": [
       "anomaly-detection",
@@ -73,7 +73,7 @@
       "zero-day-detection"
     ],
     "created_at": "2025-06-09T06:00:08",
-    "updated_at": "2025-06-11T16:35:14"
+    "updated_at": "2025-06-11T17:02:17"
   },
   {
     "name": "CausalPFN",
@@ -81,7 +81,7 @@
     "description": "CausalPFN: Amortized Causal Effect Estimation via In-Context Learning",
     "url": "https://github.com/vdblm/CausalPFN",
     "stars": 17,
-    "daily_stars": 3,
+    "daily_stars": 0,
     "language": "Jupyter Notebook",
     "topics": [
       "causal-inference",
@@ -186,6 +186,24 @@
     "updated_at": "2025-06-11T07:17:03"
   },
   {
+    "name": "GENIA",
+    "full_name": "Miguell-J/GENIA",
+    "description": "Graph-based Emergent Narrative Intelligence Architecture (GENIA) is a novel cognitive framework for synthetic agents, integrating affective memory, narrative construction, and dynamic graph-based reasoning. This architecture formalizes cognition as the interaction of five components (Essence, Memory, Experience, World Model, and Self)",
+    "url": "https://github.com/Miguell-J/GENIA",
+    "stars": 7,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "cognitive-ai",
+      "cognitive-science",
+      "mathematics",
+      "neuroscience"
+    ],
+    "created_at": "2025-06-05T12:17:34",
+    "updated_at": "2025-06-11T17:59:40"
+  },
+  {
     "name": "SparseNetwork4DRL",
     "full_name": "lilucse/SparseNetwork4DRL",
     "description": "[ICML 2025] Network Sparsity Unlocks the Scaling Potential of Deep Reinforcement Learning",
@@ -199,23 +217,5 @@
     ],
     "created_at": "2025-06-05T15:41:49",
     "updated_at": "2025-06-11T06:31:14"
-  },
-  {
-    "name": "GENIA",
-    "full_name": "Miguell-J/GENIA",
-    "description": "Graph-based Emergent Narrative Intelligence Architecture (GENIA) is a novel cognitive framework for synthetic agents, integrating affective memory, narrative construction, and dynamic graph-based reasoning. This architecture formalizes cognition as the interaction of five components (Essence, Memory, Experience, World Model, and Self)",
-    "url": "https://github.com/Miguell-J/GENIA",
-    "stars": 6,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "cognitive-ai",
-      "cognitive-science",
-      "mathematics",
-      "neuroscience"
-    ],
-    "created_at": "2025-06-05T12:17:34",
-    "updated_at": "2025-06-11T16:34:47"
   }
 ]
