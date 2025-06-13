@@ -1,31 +1,30 @@
 [
   {
-    "name": "webagentprotocol",
-    "full_name": "OTA-Tech-AI/webagentprotocol",
-    "description": "Toolkits and documentation for the Web Agent Protocol (WAP)",
-    "url": "https://github.com/OTA-Tech-AI/webagentprotocol",
-    "stars": 388,
-    "daily_stars": 7,
-    "language": "Python",
+    "name": "BharatMLStack",
+    "full_name": "Meesho/BharatMLStack",
+    "description": "BharatMLStack is an open-source, end-to-end machine learning infrastructure stack built at Meesho to support real-time and batch ML workloads at Bharat scale",
+    "url": "https://github.com/Meesho/BharatMLStack",
+    "stars": 213,
+    "daily_stars": 38,
+    "language": "Go",
     "topics": [
-      "ai-agents",
-      "ai-tools",
-      "browser-automation",
-      "browser-use",
-      "llm",
-      "playwright",
-      "python"
+      "ai",
+      "feature-engineering",
+      "feature-store-online",
+      "machine-learning",
+      "ml",
+      "mlops"
     ],
-    "created_at": "2025-05-17T17:47:15",
-    "updated_at": "2025-06-13T04:40:52"
+    "created_at": "2025-05-23T06:34:12",
+    "updated_at": "2025-06-13T08:41:41"
   },
   {
     "name": "memvid",
     "full_name": "Olow304/memvid",
     "description": "Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.",
     "url": "https://github.com/Olow304/memvid",
-    "stars": 7688,
-    "daily_stars": 5,
+    "stars": 7699,
+    "daily_stars": 11,
     "language": "Python",
     "topics": [
       "ai",
@@ -48,120 +47,89 @@
       "video-processing"
     ],
     "created_at": "2025-05-27T16:01:08",
-    "updated_at": "2025-06-13T04:37:26"
+    "updated_at": "2025-06-13T08:24:18"
+  },
+  {
+    "name": "webagentprotocol",
+    "full_name": "OTA-Tech-AI/webagentprotocol",
+    "description": "Toolkits and documentation for the Web Agent Protocol (WAP)",
+    "url": "https://github.com/OTA-Tech-AI/webagentprotocol",
+    "stars": 393,
+    "daily_stars": 5,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "browser-automation",
+      "browser-use",
+      "llm",
+      "playwright",
+      "python"
+    ],
+    "created_at": "2025-05-17T17:47:15",
+    "updated_at": "2025-06-13T08:42:49"
   },
   {
     "name": "n8n-workflows",
     "full_name": "lucaswalter/n8n-workflows",
     "description": "Collection of n8n workflows created for The Recap AI YouTube channel and the AI Automation Mastery free Skool community,.",
     "url": "https://github.com/lucaswalter/n8n-workflows",
-    "stars": 60,
-    "daily_stars": 4,
+    "stars": 63,
+    "daily_stars": 3,
     "language": null,
     "topics": [],
     "created_at": "2025-05-30T17:24:42",
-    "updated_at": "2025-06-13T04:07:48"
+    "updated_at": "2025-06-13T07:46:17"
   },
   {
-    "name": "joinly",
-    "full_name": "joinly-ai/joinly",
-    "description": "Make your meetings accessible for AI Agents",
-    "url": "https://github.com/joinly-ai/joinly",
-    "stars": 60,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "llm",
-      "mcp",
-      "meetings",
-      "python"
-    ],
-    "created_at": "2025-05-29T01:21:02",
-    "updated_at": "2025-06-13T03:58:17"
-  },
-  {
-    "name": "mcp",
-    "full_name": "taskade/mcp",
-    "description": "🤖 Taskade MCP · Official MCP server and OpenAPI to MCP codegen. Build AI agent tools from any OpenAPI API and connect to Claude, Cursor, and more.",
-    "url": "https://github.com/taskade/mcp",
-    "stars": 32,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "autonomous-agents",
-      "integrations",
-      "mcp",
-      "mcp-server",
-      "mcp-tools",
-      "model-context-protocol",
-      "model-context-protocol-server",
-      "model-context-protocol-servers",
-      "no-code-automation",
-      "openapi",
-      "openapi-codegen",
-      "openapi3",
-      "productivity",
-      "taskade",
-      "workflow",
-      "workflow-automation",
-      "workflows"
-    ],
-    "created_at": "2025-05-26T01:57:12",
-    "updated_at": "2025-06-13T02:31:19"
-  },
-  {
-    "name": "Awesome-Large-Search-Models",
-    "full_name": "Wu-Zongyu/Awesome-Large-Search-Models",
-    "description": "A repo containing papers and resources (Methods, Datasets...) about search-oriented large reasoning models.",
-    "url": "https://github.com/Wu-Zongyu/Awesome-Large-Search-Models",
-    "stars": 64,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "deep-learning",
-      "large-language-models",
-      "large-reasoning-models",
-      "reinforcement-learning",
-      "reinforcement-learning-algorithms"
-    ],
-    "created_at": "2025-06-10T03:26:16",
-    "updated_at": "2025-06-13T03:05:10"
-  },
-  {
-    "name": "syftr",
-    "full_name": "datarobot/syftr",
-    "description": "syftr is an agent optimizer that helps you find the best agentic workflows for your budget.",
-    "url": "https://github.com/datarobot/syftr",
-    "stars": 261,
-    "daily_stars": 1,
+    "name": "Sage",
+    "full_name": "ZHangZHengEric/Sage",
+    "description": "Multi-Agent System Framework For Complex Tasks",
+    "url": "https://github.com/ZHangZHengEric/Sage",
+    "stars": 187,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "agents",
       "ai",
-      "ai-agents",
-      "hyperparameter-optimization",
-      "hyperparameter-search",
-      "llm-agent",
-      "llms",
-      "multiobjective-optimization",
-      "pareto-optimality",
-      "rag",
-      "ray"
+      "llm",
+      "manus",
+      "muilt-agents",
+      "workflow"
     ],
-    "created_at": "2025-05-20T17:47:47",
-    "updated_at": "2025-06-13T02:49:44"
+    "created_at": "2025-05-25T05:33:11",
+    "updated_at": "2025-06-13T08:35:55"
+  },
+  {
+    "name": "ChineseHarm-bench",
+    "full_name": "zjunlp/ChineseHarm-bench",
+    "description": "ChineseHarm-Bench: A Chinese Harmful Content Detection Benchmark",
+    "url": "https://github.com/zjunlp/ChineseHarm-bench",
+    "stars": 4,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "benchmark",
+      "chinese",
+      "chineseharm-bench",
+      "harmful-content-detection",
+      "knowledge-augmentation",
+      "large-language-models",
+      "natural-language-processing",
+      "resource",
+      "safety"
+    ],
+    "created_at": "2025-05-21T11:07:18",
+    "updated_at": "2025-06-13T07:04:53"
   },
   {
     "name": "learning-Journey-AI",
     "full_name": "0voice/learning-Journey-AI",
     "description": "2025年，最全面的AI学习资料整理，包含基础理论知识，书籍，文章，论文，项目，工具等，持续更新中！！！",
     "url": "https://github.com/0voice/learning-Journey-AI",
-    "stars": 25,
-    "daily_stars": 1,
+    "stars": 27,
+    "daily_stars": 2,
     "language": null,
     "topics": [
       "ai",
@@ -169,35 +137,15 @@
       "machine-learning"
     ],
     "created_at": "2025-05-20T05:51:29",
-    "updated_at": "2025-06-13T02:48:58"
-  },
-  {
-    "name": "embedding-comparison",
-    "full_name": "mjalali/embedding-comparison",
-    "description": "[ICML 2025] Official implementation of SPEC method for interpretable embedding comparison. paper: Towards an Explainable Comparison and Alignment of Feature Embeddings",
-    "url": "https://github.com/mjalali/embedding-comparison",
-    "stars": 7,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "clip",
-      "dinov2",
-      "embeddings",
-      "evaluation",
-      "machine-learning",
-      "spec",
-      "visualization"
-    ],
-    "created_at": "2025-05-27T13:27:21",
-    "updated_at": "2025-06-13T03:29:39"
+    "updated_at": "2025-06-13T08:32:49"
   },
   {
     "name": "cloneme",
     "full_name": "vibheksoni/cloneme",
     "description": "CloneMe is an advanced AI platform that builds your digital twin—an AI that chats like you, remembers details, and supports multiple platforms. Customizable, memory-driven, and hot-reloadable, it's the ultimate toolkit for creating intelligent, dynamic AI personas.",
     "url": "https://github.com/vibheksoni/cloneme",
-    "stars": 4,
-    "daily_stars": 1,
+    "stars": 6,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "ai",
@@ -222,6 +170,48 @@
       "self-hosted"
     ],
     "created_at": "2025-06-12T21:44:08",
-    "updated_at": "2025-06-13T04:22:20"
+    "updated_at": "2025-06-13T08:29:46"
+  },
+  {
+    "name": "GENIA",
+    "full_name": "Miguell-J/GENIA",
+    "description": "Graph-based Emergent Narrative Intelligence Architecture (GENIA) is a novel cognitive framework for synthetic agents, integrating affective memory, narrative construction, and dynamic graph-based reasoning. This architecture formalizes cognition as the interaction of five components (Essence, Memory, Experience, World Model, and Self)",
+    "url": "https://github.com/Miguell-J/GENIA",
+    "stars": 8,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "cognitive-ai",
+      "cognitive-science",
+      "mathematics",
+      "neuroscience"
+    ],
+    "created_at": "2025-06-05T12:17:34",
+    "updated_at": "2025-06-13T06:07:56"
+  },
+  {
+    "name": "syftr",
+    "full_name": "datarobot/syftr",
+    "description": "syftr is an agent optimizer that helps you find the best agentic workflows for your budget.",
+    "url": "https://github.com/datarobot/syftr",
+    "stars": 262,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "hyperparameter-optimization",
+      "hyperparameter-search",
+      "llm-agent",
+      "llms",
+      "multiobjective-optimization",
+      "pareto-optimality",
+      "rag",
+      "ray"
+    ],
+    "created_at": "2025-05-20T17:47:47",
+    "updated_at": "2025-06-13T08:39:29"
   }
 ]
