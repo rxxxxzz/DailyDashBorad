@@ -1,5 +1,27 @@
 [
   {
+    "name": "RECA",
+    "full_name": "nameholder21/RECA",
+    "description": "RECA is a flexible, lightweight memory and retrieval system designed to empower AI agents with real-time recall, long-term memory, and contextual search.",
+    "url": "https://github.com/nameholder21/RECA",
+    "stars": 86,
+    "daily_stars": 11,
+    "language": "Swift",
+    "topics": [
+      "ai",
+      "autonomous",
+      "memory",
+      "multi-agent",
+      "reca",
+      "recall",
+      "sources",
+      "tools",
+      "workflow"
+    ],
+    "created_at": "2025-06-10T04:53:29",
+    "updated_at": "2025-06-15T07:52:15"
+  },
+  {
     "name": "Awesome-Large-Search-Models",
     "full_name": "Wu-Zongyu/Awesome-Large-Search-Models",
     "description": "A repo containing papers and resources (Methods, Datasets...) about search-oriented large reasoning models.",
@@ -18,26 +40,31 @@
     "updated_at": "2025-06-14T21:35:24"
   },
   {
-    "name": "RECA",
-    "full_name": "nameholder21/RECA",
-    "description": "RECA is a flexible, lightweight memory and retrieval system designed to empower AI agents with real-time recall, long-term memory, and contextual search.",
-    "url": "https://github.com/nameholder21/RECA",
-    "stars": 75,
-    "daily_stars": 7,
-    "language": "Swift",
+    "name": "flowhawk",
+    "full_name": "alexhraber/flowhawk",
+    "description": "Real-time eBPF-powered network security monitor with AI-driven threat detection. Surfaces port scans, DDoS attacks, botnet activity, and anomalies at 100Gbps+ speeds with sub-microsecond latency (~150 million packets/sec).",
+    "url": "https://github.com/alexhraber/flowhawk",
+    "stars": 33,
+    "daily_stars": 1,
+    "language": "Go",
     "topics": [
-      "ai",
-      "autonomous",
-      "memory",
-      "multi-agent",
-      "reca",
-      "recall",
-      "sources",
-      "tools",
-      "workflow"
+      "anomaly-detection",
+      "cybersecurity",
+      "ddos-protection",
+      "ebpf",
+      "golang",
+      "intrusion-detection",
+      "machine-learning",
+      "network-analysis",
+      "network-security",
+      "packet-processing",
+      "real-time-monitoring",
+      "threat-detection",
+      "xdp",
+      "zero-day-detection"
     ],
-    "created_at": "2025-06-10T04:53:29",
-    "updated_at": "2025-06-15T04:28:16"
+    "created_at": "2025-06-09T06:00:08",
+    "updated_at": "2025-06-15T08:42:04"
   },
   {
     "name": "Trading-GPT",
@@ -69,33 +96,6 @@
     ],
     "created_at": "2025-06-09T08:27:32",
     "updated_at": "2025-06-12T15:26:40"
-  },
-  {
-    "name": "flowhawk",
-    "full_name": "alexhraber/flowhawk",
-    "description": "Real-time eBPF-powered network security monitor with AI-driven threat detection. Surfaces port scans, DDoS attacks, botnet activity, and anomalies at 100Gbps+ speeds with sub-microsecond latency (~150 million packets/sec).",
-    "url": "https://github.com/alexhraber/flowhawk",
-    "stars": 32,
-    "daily_stars": 0,
-    "language": "Go",
-    "topics": [
-      "anomaly-detection",
-      "cybersecurity",
-      "ddos-protection",
-      "ebpf",
-      "golang",
-      "intrusion-detection",
-      "machine-learning",
-      "network-analysis",
-      "network-security",
-      "packet-processing",
-      "real-time-monitoring",
-      "threat-detection",
-      "xdp",
-      "zero-day-detection"
-    ],
-    "created_at": "2025-06-09T06:00:08",
-    "updated_at": "2025-06-14T02:51:20"
   },
   {
     "name": "CausalPFN",
@@ -206,7 +206,7 @@
     "description": "CloneMe is an advanced AI platform that builds your digital twin—an AI that chats like you, remembers details, and supports multiple platforms. Customizable, memory-driven, and hot-reloadable, it's the ultimate toolkit for creating intelligent, dynamic AI personas.",
     "url": "https://github.com/vibheksoni/cloneme",
     "stars": 10,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "ai",
