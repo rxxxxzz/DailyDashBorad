@@ -1,11 +1,28 @@
 [
   {
+    "name": "gaia2-pytorch",
+    "full_name": "lucidrains/gaia2-pytorch",
+    "description": "Implementation of the world model architecture for self driving out of Wayve",
+    "url": "https://github.com/lucidrains/gaia2-pytorch",
+    "stars": 13,
+    "daily_stars": 5,
+    "language": null,
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "self-driving",
+      "world-models"
+    ],
+    "created_at": "2025-06-16T21:23:14",
+    "updated_at": "2025-06-17T04:20:20"
+  },
+  {
     "name": "memvid",
     "full_name": "Olow304/memvid",
     "description": "Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.",
     "url": "https://github.com/Olow304/memvid",
-    "stars": 7833,
-    "daily_stars": 9,
+    "stars": 7836,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "ai",
@@ -28,27 +45,60 @@
       "video-processing"
     ],
     "created_at": "2025-05-27T16:01:08",
-    "updated_at": "2025-06-17T01:54:18"
+    "updated_at": "2025-06-17T03:34:03"
   },
   {
-    "name": "agents-towards-production",
-    "full_name": "NirDiamant/agents-towards-production",
-    "description": " This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.",
-    "url": "https://github.com/NirDiamant/agents-towards-production",
-    "stars": 12,
-    "daily_stars": 6,
-    "language": "Jupyter Notebook",
+    "name": "Unlearn-Trace",
+    "full_name": "OPTML-Group/Unlearn-Trace",
+    "description": "Unlearning Isn't Invisible: Detecting Unlearning Traces  in LLMs from Model Outputs",
+    "url": "https://github.com/OPTML-Group/Unlearn-Trace",
+    "stars": 5,
+    "daily_stars": 3,
+    "language": null,
+    "topics": [
+      "large-language-model",
+      "llm",
+      "machine-learning",
+      "machine-unlearning",
+      "trustworthy-ai"
+    ],
+    "created_at": "2025-06-15T20:24:06",
+    "updated_at": "2025-06-17T04:48:00"
+  },
+  {
+    "name": "n8n-workflows",
+    "full_name": "lucaswalter/n8n-workflows",
+    "description": "Collection of n8n workflows created for The Recap AI YouTube channel and the AI Automation Mastery free Skool community,.",
+    "url": "https://github.com/lucaswalter/n8n-workflows",
+    "stars": 109,
+    "daily_stars": 2,
+    "language": null,
     "topics": [],
-    "created_at": "2025-06-16T17:33:44",
-    "updated_at": "2025-06-17T01:52:05"
+    "created_at": "2025-05-30T17:24:42",
+    "updated_at": "2025-06-17T03:53:28"
+  },
+  {
+    "name": "openai-agents-go",
+    "full_name": "nlpodyssey/openai-agents-go",
+    "description": "A lightweight, powerful framework for multi-agent workflows in Go",
+    "url": "https://github.com/nlpodyssey/openai-agents-go",
+    "stars": 29,
+    "daily_stars": 2,
+    "language": "Go",
+    "topics": [
+      "artificial-intelligence",
+      "multi-agent-framework"
+    ],
+    "created_at": "2025-06-13T17:32:12",
+    "updated_at": "2025-06-17T04:36:54"
   },
   {
     "name": "toolfront",
     "full_name": "kruskal-labs/toolfront",
     "description": "A lightweight MCP server for databases.",
     "url": "https://github.com/kruskal-labs/toolfront",
-    "stars": 35,
-    "daily_stars": 3,
+    "stars": 36,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -62,74 +112,38 @@
       "sql"
     ],
     "created_at": "2025-06-11T05:50:09",
-    "updated_at": "2025-06-17T01:55:46"
+    "updated_at": "2025-06-17T02:52:31"
   },
   {
-    "name": "openai-agents-go",
-    "full_name": "nlpodyssey/openai-agents-go",
-    "description": "A lightweight, powerful framework for multi-agent workflows in Go",
-    "url": "https://github.com/nlpodyssey/openai-agents-go",
-    "stars": 27,
-    "daily_stars": 3,
-    "language": "Go",
-    "topics": [
-      "artificial-intelligence",
-      "multi-agent-framework"
-    ],
-    "created_at": "2025-06-13T17:32:12",
-    "updated_at": "2025-06-17T02:21:35"
-  },
-  {
-    "name": "neat",
-    "full_name": "lucidrains/neat",
-    "description": "Explorations into NEAT and some of its derivative research",
-    "url": "https://github.com/lucidrains/neat",
-    "stars": 11,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "artificial-intelligence",
-      "evolution",
-      "neuroevolution-algorithm"
-    ],
-    "created_at": "2025-06-16T02:41:38",
-    "updated_at": "2025-06-17T01:29:48"
-  },
-  {
-    "name": "n8n-workflows",
-    "full_name": "lucaswalter/n8n-workflows",
-    "description": "Collection of n8n workflows created for The Recap AI YouTube channel and the AI Automation Mastery free Skool community,.",
-    "url": "https://github.com/lucaswalter/n8n-workflows",
-    "stars": 107,
+    "name": "steer-target-atoms",
+    "full_name": "zjunlp/steer-target-atoms",
+    "description": "[ACL 2025] Beyond Prompt Engineering: Robust Behavior Control in LLMs via Steering Target Atoms",
+    "url": "https://github.com/zjunlp/steer-target-atoms",
+    "stars": 8,
     "daily_stars": 1,
     "language": null,
-    "topics": [],
-    "created_at": "2025-05-30T17:24:42",
-    "updated_at": "2025-06-17T01:36:46"
-  },
-  {
-    "name": "ragadoc",
-    "full_name": "clstaudt/ragadoc",
-    "description": "An AI document assistant that answers questions about your PDFs with citations and highlights them directly in the document.",
-    "url": "https://github.com/clstaudt/ragadoc",
-    "stars": 6,
-    "daily_stars": 1,
-    "language": "Python",
     "topics": [
+      "acl2025",
       "artificial-intelligence",
-      "documents",
-      "ollama",
-      "streamlit"
+      "controlled-generation",
+      "easyedit2",
+      "knowledge-editing",
+      "large-language-models",
+      "model-editing",
+      "natural-language-processing",
+      "safety",
+      "sta",
+      "steering-behaviors"
     ],
-    "created_at": "2025-05-26T12:11:59",
-    "updated_at": "2025-06-16T21:37:52"
+    "created_at": "2025-05-23T10:29:01",
+    "updated_at": "2025-06-17T04:14:19"
   },
   {
     "name": "syftr",
     "full_name": "datarobot/syftr",
     "description": "syftr is an agent optimizer that helps you find the best agentic workflows for your budget.",
     "url": "https://github.com/datarobot/syftr",
-    "stars": 265,
+    "stars": 266,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -146,51 +160,57 @@
       "ray"
     ],
     "created_at": "2025-05-20T17:47:47",
-    "updated_at": "2025-06-16T21:57:54"
+    "updated_at": "2025-06-17T03:19:35"
   },
   {
-    "name": "mcp",
-    "full_name": "taskade/mcp",
-    "description": "🤖 Taskade MCP · Official MCP server and OpenAPI to MCP codegen. Build AI agent tools from any OpenAPI API and connect to Claude, Cursor, and more.",
-    "url": "https://github.com/taskade/mcp",
-    "stars": 34,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "autonomous-agents",
-      "integrations",
-      "mcp",
-      "mcp-server",
-      "mcp-tools",
-      "model-context-protocol",
-      "model-context-protocol-server",
-      "model-context-protocol-servers",
-      "no-code-automation",
-      "openapi",
-      "openapi-codegen",
-      "openapi3",
-      "productivity",
-      "taskade",
-      "workflow",
-      "workflow-automation",
-      "workflows"
-    ],
-    "created_at": "2025-05-26T01:57:12",
-    "updated_at": "2025-06-16T23:38:02"
-  },
-  {
-    "name": "agor",
-    "full_name": "jeremiah-k/agor",
-    "description": "AgentOrchestra - Multi-agent development coordination platform. Transform AI assistants into sophisticated project planners that orchestrate teams of specialized agents for complex development workflows.",
-    "url": "https://github.com/jeremiah-k/agor",
-    "stars": 11,
+    "name": "flipper-agent",
+    "full_name": "matthewspangler/flipper-agent",
+    "description": "An AI agent that controls your Flipper Zero that uses PyFlipper, LightLLM, RAG, and can connect to your local Ollama instance!",
+    "url": "https://github.com/matthewspangler/flipper-agent",
+    "stars": 7,
     "daily_stars": 1,
     "language": "Python",
-    "topics": [],
-    "created_at": "2025-05-24T17:11:38",
-    "updated_at": "2025-06-17T01:52:21"
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "badusb",
+      "flipper-zero",
+      "flipperzero",
+      "gpt",
+      "hacking",
+      "litellm",
+      "ollama",
+      "pentesting",
+      "rag",
+      "retrieval-augmented-generation"
+    ],
+    "created_at": "2025-06-05T03:01:59",
+    "updated_at": "2025-06-17T04:29:02"
+  },
+  {
+    "name": "meow",
+    "full_name": "Kuberwastaken/meow",
+    "description": "The most Purr-fect Image File Format for your AI workflows",
+    "url": "https://github.com/Kuberwastaken/meow",
+    "stars": 99,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "file-format",
+      "image-format",
+      "images",
+      "jpeg",
+      "llm",
+      "machine-learning",
+      "meow",
+      "metadata",
+      "open-source",
+      "png",
+      "steganography"
+    ],
+    "created_at": "2025-06-11T19:48:36",
+    "updated_at": "2025-06-17T04:35:12"
   }
 ]
