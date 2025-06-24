@@ -4,20 +4,39 @@
     "full_name": "NirDiamant/agents-towards-production",
     "description": " This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.",
     "url": "https://github.com/NirDiamant/agents-towards-production",
-    "stars": 5539,
-    "daily_stars": 22,
+    "stars": 5579,
+    "daily_stars": 40,
     "language": "Jupyter Notebook",
     "topics": [],
     "created_at": "2025-06-16T17:33:44",
-    "updated_at": "2025-06-24T04:49:44"
+    "updated_at": "2025-06-24T08:49:59"
+  },
+  {
+    "name": "rs-graph-llm",
+    "full_name": "a-agmon/rs-graph-llm",
+    "description": "Stateful and resumable graph execution framework for interactive agentic workflows, inspired by LangGraph but built from the ground up in Rust and Rig.",
+    "url": "https://github.com/a-agmon/rs-graph-llm",
+    "stars": 39,
+    "daily_stars": 13,
+    "language": "Rust",
+    "topics": [
+      "agents",
+      "graph",
+      "langgraph",
+      "llm",
+      "rust",
+      "workflow"
+    ],
+    "created_at": "2025-06-10T18:20:02",
+    "updated_at": "2025-06-24T08:42:42"
   },
   {
     "name": "memvid",
     "full_name": "Olow304/memvid",
     "description": "Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.",
     "url": "https://github.com/Olow304/memvid",
-    "stars": 8012,
-    "daily_stars": 3,
+    "stars": 8016,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "ai",
@@ -40,14 +59,14 @@
       "video-processing"
     ],
     "created_at": "2025-05-27T16:01:08",
-    "updated_at": "2025-06-24T03:34:44"
+    "updated_at": "2025-06-24T08:41:01"
   },
   {
     "name": "toolfront",
     "full_name": "kruskal-labs/toolfront",
     "description": "A lightweight MCP server for databases.",
     "url": "https://github.com/kruskal-labs/toolfront",
-    "stars": 66,
+    "stars": 68,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
@@ -62,60 +81,101 @@
       "sql"
     ],
     "created_at": "2025-06-11T05:50:09",
-    "updated_at": "2025-06-24T03:38:22"
+    "updated_at": "2025-06-24T08:45:27"
   },
   {
-    "name": "Fastapi-AI-Production-Template",
-    "full_name": "wahyudesu/Fastapi-AI-Production-Template",
-    "description": "Simple starter template for your ML/AI projects (uv package manager, RestAPI with FastAPI and Dockerfile support)",
-    "url": "https://github.com/wahyudesu/Fastapi-AI-Production-Template",
-    "stars": 59,
+    "name": "LucaVirus",
+    "full_name": "LucaOne/LucaVirus",
+    "description": "LucaVirus: Modeling the Evolutionary and Functional Landscape of Viruses with a Unified Genome-Protein Language Model",
+    "url": "https://github.com/LucaOne/LucaVirus",
+    "stars": 24,
     "daily_stars": 2,
-    "language": "Jupyter Notebook",
+    "language": "Python",
     "topics": [
       "ai",
-      "fastapi",
-      "fastapi-boilerplate",
-      "fastapi-template",
-      "machine-learning",
-      "python"
+      "ai4nature",
+      "ai4science",
+      "ai4virus",
+      "artificial-intelligence",
+      "deeplearning",
+      "fundational-model-for-virus",
+      "llm",
+      "llm-for-virus",
+      "llm4virus",
+      "luca",
+      "nature",
+      "science",
+      "unified-nucleotide-protein-language-model",
+      "virus"
     ],
-    "created_at": "2025-05-29T07:22:32",
-    "updated_at": "2025-06-24T04:13:00"
+    "created_at": "2025-05-28T07:57:14",
+    "updated_at": "2025-06-24T06:39:40"
   },
   {
-    "name": "flowhawk",
-    "full_name": "alexhraber/flowhawk",
-    "description": "Real-time eBPF-powered network security monitor with AI-driven threat detection. Surfaces port scans, DDoS attacks, botnet activity, and anomalies at 100Gbps+ speeds with sub-microsecond latency (~150 million packets/sec).",
-    "url": "https://github.com/alexhraber/flowhawk",
-    "stars": 39,
+    "name": "OpenLLM-Monitor",
+    "full_name": "prajeesh-chavan/OpenLLM-Monitor",
+    "description": "OpenLLM Monitor is a plug-and-play, real-time observability dashboard for monitoring and debugging LLM API calls across OpenAI, Ollama, OpenRouter, and more. Tracks tokens, latency, cost, retries, and lets you replay prompts — fully open-source and self-hostable.",
+    "url": "https://github.com/prajeesh-chavan/OpenLLM-Monitor",
+    "stars": 5,
     "daily_stars": 2,
-    "language": "Go",
+    "language": "JavaScript",
     "topics": [
-      "anomaly-detection",
-      "cybersecurity",
-      "ddos-protection",
-      "ebpf",
-      "golang",
-      "intrusion-detection",
+      "ai",
+      "llm",
       "machine-learning",
-      "network-analysis",
-      "network-security",
-      "packet-processing",
-      "real-time-monitoring",
-      "threat-detection",
-      "xdp",
-      "zero-day-detection"
+      "model-evaluation",
+      "model-monitoring",
+      "model-performance",
+      "monitoring",
+      "nlp",
+      "ollama",
+      "openai",
+      "openllm",
+      "plug-and-play",
+      "sdk"
     ],
-    "created_at": "2025-06-09T06:00:08",
-    "updated_at": "2025-06-24T03:56:28"
+    "created_at": "2025-06-18T14:00:29",
+    "updated_at": "2025-06-24T08:40:05"
+  },
+  {
+    "name": "sre",
+    "full_name": "SmythOS/sre",
+    "description": "The Operating System for Agents",
+    "url": "https://github.com/SmythOS/sre",
+    "stars": 50,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "agent-framework",
+      "agents",
+      "agi",
+      "ai",
+      "ai-agents",
+      "artificial-intelligence",
+      "autogpt",
+      "autonomous-agents",
+      "chatgpt",
+      "langchain",
+      "llm",
+      "llmops",
+      "mcp",
+      "multi-agent",
+      "multi-agent-systems",
+      "n8n",
+      "openai",
+      "orchestration",
+      "rag",
+      "retrieval-augmented-generation"
+    ],
+    "created_at": "2025-06-07T23:53:06",
+    "updated_at": "2025-06-24T05:22:34"
   },
   {
     "name": "AIRTBench-Code",
     "full_name": "dreadnode/AIRTBench-Code",
     "description": "Code Repository for: AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models",
     "url": "https://github.com/dreadnode/AIRTBench-Code",
-    "stars": 42,
+    "stars": 43,
     "daily_stars": 1,
     "language": "Jupyter Notebook",
     "topics": [
@@ -137,77 +197,44 @@
       "security"
     ],
     "created_at": "2025-06-04T12:45:14",
-    "updated_at": "2025-06-24T03:39:16"
+    "updated_at": "2025-06-24T05:16:17"
   },
   {
-    "name": "meow",
-    "full_name": "Kuberwastaken/meow",
-    "description": "The most Purr-fect Image File Format for your AI workflows",
-    "url": "https://github.com/Kuberwastaken/meow",
-    "stars": 118,
+    "name": "AITradingCrew",
+    "full_name": "philippe-ostiguy/AITradingCrew",
+    "description": "🚀 AI Trading Crew - Automated trading analysis using CrewAI framework",
+    "url": "https://github.com/philippe-ostiguy/AITradingCrew",
+    "stars": 5,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "ai",
-      "file-format",
-      "image-format",
-      "images",
-      "jpeg",
-      "llm",
-      "machine-learning",
-      "meow",
-      "metadata",
-      "open-source",
-      "png",
-      "steganography"
-    ],
-    "created_at": "2025-06-11T19:48:36",
-    "updated_at": "2025-06-24T03:38:54"
-  },
-  {
-    "name": "rs-graph-llm",
-    "full_name": "a-agmon/rs-graph-llm",
-    "description": "Stateful and resumable graph execution framework for interactive agentic workflows, inspired by LangGraph but built from the ground up in Rust and Rig.",
-    "url": "https://github.com/a-agmon/rs-graph-llm",
-    "stars": 26,
-    "daily_stars": 1,
-    "language": "Rust",
-    "topics": [
-      "agents",
-      "graph",
-      "langgraph",
-      "llm",
-      "rust",
-      "workflow"
-    ],
-    "created_at": "2025-06-10T18:20:02",
-    "updated_at": "2025-06-24T03:05:37"
-  },
-  {
-    "name": "n8n-workflows",
-    "full_name": "lucaswalter/n8n-workflows",
-    "description": "Collection of n8n workflows created for The Recap AI YouTube channel and the AI Automation Mastery free Skool community,.",
-    "url": "https://github.com/lucaswalter/n8n-workflows",
-    "stars": 134,
-    "daily_stars": 0,
-    "language": null,
-    "topics": [],
-    "created_at": "2025-05-30T17:24:42",
-    "updated_at": "2025-06-23T22:39:07"
-  },
-  {
-    "name": "openai-agents-go",
-    "full_name": "nlpodyssey/openai-agents-go",
-    "description": "A lightweight, powerful framework for multi-agent workflows in Go",
-    "url": "https://github.com/nlpodyssey/openai-agents-go",
-    "stars": 67,
-    "daily_stars": 0,
-    "language": "Go",
-    "topics": [
+      "agentic-ai",
+      "ai-agents",
       "artificial-intelligence",
-      "multi-agent-framework"
+      "automation",
+      "crewai",
+      "llm",
+      "machine-learning"
     ],
-    "created_at": "2025-06-13T17:32:12",
-    "updated_at": "2025-06-23T00:00:47"
+    "created_at": "2025-06-11T14:56:52",
+    "updated_at": "2025-06-24T08:01:21"
+  },
+  {
+    "name": "joinly",
+    "full_name": "joinly-ai/joinly",
+    "description": "Make your meetings accessible for AI Agents",
+    "url": "https://github.com/joinly-ai/joinly",
+    "stars": 128,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "llm",
+      "mcp",
+      "meetings",
+      "python"
+    ],
+    "created_at": "2025-05-29T01:21:02",
+    "updated_at": "2025-06-24T07:16:12"
   }
 ]
