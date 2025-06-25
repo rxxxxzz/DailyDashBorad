@@ -4,20 +4,20 @@
     "full_name": "NirDiamant/agents-towards-production",
     "description": " This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.",
     "url": "https://github.com/NirDiamant/agents-towards-production",
-    "stars": 5785,
-    "daily_stars": 58,
+    "stars": 5833,
+    "daily_stars": 48,
     "language": "Jupyter Notebook",
     "topics": [],
     "created_at": "2025-06-16T17:33:44",
-    "updated_at": "2025-06-25T04:43:04"
+    "updated_at": "2025-06-25T08:25:02"
   },
   {
     "name": "sre",
     "full_name": "SmythOS/sre",
     "description": "The Operating System for Agents",
     "url": "https://github.com/SmythOS/sre",
-    "stars": 91,
-    "daily_stars": 3,
+    "stars": 97,
+    "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
       "agent-framework",
@@ -42,44 +42,37 @@
       "retrieval-augmented-generation"
     ],
     "created_at": "2025-06-07T23:53:06",
-    "updated_at": "2025-06-25T03:14:46"
+    "updated_at": "2025-06-25T08:09:40"
   },
   {
-    "name": "AIRTBench-Code",
-    "full_name": "dreadnode/AIRTBench-Code",
-    "description": "Code Repository for: AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models",
-    "url": "https://github.com/dreadnode/AIRTBench-Code",
-    "stars": 51,
+    "name": "toolfront",
+    "full_name": "kruskal-labs/toolfront",
+    "description": "A lightweight MCP server for databases.",
+    "url": "https://github.com/kruskal-labs/toolfront",
+    "stars": 99,
     "daily_stars": 3,
-    "language": "Jupyter Notebook",
+    "language": "Python",
     "topics": [
-      "agents",
-      "ai",
       "ai-agents",
       "artificial-intelligence",
-      "benchmark",
-      "benchmark-datasets",
-      "benchmarking",
-      "ctf",
-      "cyber-evals",
-      "cybersecurity",
-      "evaluations",
-      "hacking",
-      "llm",
-      "offensive-security",
-      "research",
-      "security"
+      "data-analysis",
+      "data-engineering",
+      "data-science",
+      "database",
+      "in-context-learning",
+      "mcp",
+      "sql"
     ],
-    "created_at": "2025-06-04T12:45:14",
-    "updated_at": "2025-06-25T03:56:00"
+    "created_at": "2025-06-11T05:50:09",
+    "updated_at": "2025-06-25T08:07:34"
   },
   {
     "name": "memvid",
     "full_name": "Olow304/memvid",
     "description": "Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.",
     "url": "https://github.com/Olow304/memvid",
-    "stars": 8033,
-    "daily_stars": 3,
+    "stars": 8035,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "ai",
@@ -102,15 +95,15 @@
       "video-processing"
     ],
     "created_at": "2025-05-27T16:01:08",
-    "updated_at": "2025-06-25T04:12:22"
+    "updated_at": "2025-06-25T07:01:53"
   },
   {
     "name": "dsc",
     "full_name": "nirw4nna/dsc",
     "description": "Tensor library & inference framework for machine learning",
     "url": "https://github.com/nirw4nna/dsc",
-    "stars": 95,
-    "daily_stars": 3,
+    "stars": 97,
+    "daily_stars": 2,
     "language": "C++",
     "topics": [
       "cuda",
@@ -121,108 +114,92 @@
       "tensor-algebra"
     ],
     "created_at": "2025-06-14T14:16:50",
-    "updated_at": "2025-06-25T03:23:10"
+    "updated_at": "2025-06-25T07:44:36"
   },
   {
-    "name": "toolfront",
-    "full_name": "kruskal-labs/toolfront",
-    "description": "A lightweight MCP server for databases.",
-    "url": "https://github.com/kruskal-labs/toolfront",
-    "stars": 96,
+    "name": "VQVDB",
+    "full_name": "ZephirFXEC/VQVDB",
+    "description": "Vector Quantized Volume Database",
+    "url": "https://github.com/ZephirFXEC/VQVDB",
+    "stars": 6,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "cuda",
+      "machine-learning",
+      "openvdb",
+      "vq-vae"
+    ],
+    "created_at": "2025-06-02T23:16:23",
+    "updated_at": "2025-06-25T06:53:15"
+  },
+  {
+    "name": "UNetTransplant",
+    "full_name": "LucaLumetti/UNetTransplant",
+    "description": "Repository for the paper \"U-Net Transplant: The Role of Pre-training for Model Merging in 3D Medical Segmentation\" accepted @ MICCAI2025",
+    "url": "https://github.com/LucaLumetti/UNetTransplant",
+    "stars": 20,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "3d-segmentation",
+      "computer-vision",
+      "deep-learning",
+      "medical-imaging",
+      "miccai2025",
+      "model-merging"
+    ],
+    "created_at": "2025-06-18T00:01:24",
+    "updated_at": "2025-06-25T08:47:48"
+  },
+  {
+    "name": "rs-graph-llm",
+    "full_name": "a-agmon/rs-graph-llm",
+    "description": "Stateful and resumable graph execution framework for interactive agentic workflows, inspired by LangGraph but built from the ground up in Rust and Rig.",
+    "url": "https://github.com/a-agmon/rs-graph-llm",
+    "stars": 48,
+    "daily_stars": 2,
+    "language": "Rust",
+    "topics": [
+      "agents",
+      "graph",
+      "langgraph",
+      "llm",
+      "rust",
+      "workflow"
+    ],
+    "created_at": "2025-06-10T18:20:02",
+    "updated_at": "2025-06-25T06:16:00"
+  },
+  {
+    "name": "GD-Level-Generator",
+    "full_name": "entity12208/GD-Level-Generator",
+    "description": "A way for AI to be able to create Geometry Dash levels using GDShare.",
+    "url": "https://github.com/entity12208/GD-Level-Generator",
+    "stars": 2,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "ai-agents",
+      "ai",
       "artificial-intelligence",
-      "data-analysis",
-      "data-engineering",
-      "data-science",
-      "database",
-      "in-context-learning",
-      "mcp",
-      "sql"
+      "gd",
+      "geometry-dash",
+      "level",
+      "level-editor"
     ],
-    "created_at": "2025-06-11T05:50:09",
-    "updated_at": "2025-06-25T03:52:50"
+    "created_at": "2025-06-21T04:29:08",
+    "updated_at": "2025-06-25T07:25:20"
   },
   {
-    "name": "neat",
-    "full_name": "lucidrains/neat",
-    "description": "Explorations into NEAT and some of its derivative research",
-    "url": "https://github.com/lucidrains/neat",
-    "stars": 16,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "artificial-intelligence",
-      "evolution",
-      "neuroevolution-algorithm"
-    ],
-    "created_at": "2025-06-16T02:41:38",
-    "updated_at": "2025-06-25T02:39:54"
-  },
-  {
-    "name": "Windows-Use",
-    "full_name": "CursorTouch/Windows-Use",
-    "description": "🖥️Control Windows apps with AI. Automate your desktop with ease.",
-    "url": "https://github.com/CursorTouch/Windows-Use",
-    "stars": 6,
+    "name": "2D-Universe-Simulation",
+    "full_name": "omerfaruksolmaz/2D-Universe-Simulation",
+    "description": "A philosophical 2D universe simulation where AI beings evolve, think, feel emotions, create art, and question their own existence. Built with Python and Pygame.",
+    "url": "https://github.com/omerfaruksolmaz/2D-Universe-Simulation",
+    "stars": 2,
     "daily_stars": 1,
     "language": "Python",
     "topics": [],
-    "created_at": "2025-06-21T17:20:41",
-    "updated_at": "2025-06-25T04:49:32"
-  },
-  {
-    "name": "ensembl-mcp-server",
-    "full_name": "effieklimi/ensembl-mcp-server",
-    "description": "A full-featured Model Context Protocol (MCP) server that exposes Ensembl’s REST API. Built using the TypeScript MCP SDK",
-    "url": "https://github.com/effieklimi/ensembl-mcp-server",
-    "stars": 5,
-    "daily_stars": 1,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "bioinformatics",
-      "bioinformatics-tool",
-      "biology",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "science"
-    ],
-    "created_at": "2025-06-05T00:54:46",
-    "updated_at": "2025-06-25T04:45:48"
-  },
-  {
-    "name": "yap",
-    "full_name": "ANDREI200K/yap",
-    "description": "yap is a command-line tool for transcribing speech on macOS using the Speech.framework. With simple commands, you can easily convert audio or video files into text, making it a handy tool for developers and content creators. 🐙💻",
-    "url": "https://github.com/ANDREI200K/yap",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "Swift",
-    "topics": [
-      "api",
-      "convolutional-neural-networks",
-      "coroutine",
-      "deep-learning",
-      "derin-ogrenme",
-      "design",
-      "idea-plugin",
-      "keras",
-      "machine-learning",
-      "makine-ogrenmesi",
-      "multi-threaded-applications",
-      "physics-simulation",
-      "profilers",
-      "pytorch",
-      "tensorflow",
-      "yapay-zeka",
-      "yapi-docker",
-      "yapi-docker-compose"
-    ],
-    "created_at": "2025-06-19T06:20:39",
-    "updated_at": "2025-06-25T04:36:40"
+    "created_at": "2025-06-24T21:46:06",
+    "updated_at": "2025-06-25T04:53:35"
   }
 ]
