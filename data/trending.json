@@ -4,32 +4,54 @@
     "full_name": "NirDiamant/agents-towards-production",
     "description": " This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.",
     "url": "https://github.com/NirDiamant/agents-towards-production",
-    "stars": 7524,
-    "daily_stars": 21,
+    "stars": 7539,
+    "daily_stars": 15,
     "language": "Jupyter Notebook",
     "topics": [],
     "created_at": "2025-06-16T17:33:44",
-    "updated_at": "2025-07-02T02:00:17"
+    "updated_at": "2025-07-02T04:36:08"
+  },
+  {
+    "name": "toolfront",
+    "full_name": "kruskal-labs/toolfront",
+    "description": "A lightweight MCP server for databases.",
+    "url": "https://github.com/kruskal-labs/toolfront",
+    "stars": 185,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "artificial-intelligence",
+      "data-analysis",
+      "data-engineering",
+      "data-science",
+      "database",
+      "in-context-learning",
+      "mcp",
+      "sql"
+    ],
+    "created_at": "2025-06-11T05:50:09",
+    "updated_at": "2025-07-02T03:23:02"
   },
   {
     "name": "claude-code-mcp",
     "full_name": "zebbern/claude-code-mcp",
     "description": "This guide provides comprehensive instructions for setting up various Model Context Protocol (MCP) servers with Claude Code. These tools dramatically enhance Claude Code's capabilities, allowing it to interact with your filesystem, web browsers, and more.",
     "url": "https://github.com/zebbern/claude-code-mcp",
-    "stars": 6,
-    "daily_stars": 2,
+    "stars": 7,
+    "daily_stars": 1,
     "language": null,
     "topics": [],
     "created_at": "2025-06-28T20:11:12",
-    "updated_at": "2025-07-02T01:53:05"
+    "updated_at": "2025-07-02T03:47:18"
   },
   {
     "name": "memfof",
     "full_name": "msu-video-group/memfof",
     "description": "[ICCV'2025] MEMFOF: High-Resolution Training for Memory-Efficient Multi-Frame Optical Flow Estimation",
     "url": "https://github.com/msu-video-group/memfof",
-    "stars": 20,
-    "daily_stars": 2,
+    "stars": 21,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "deep-learning",
@@ -38,24 +60,41 @@
       "video"
     ],
     "created_at": "2025-06-27T10:08:32",
-    "updated_at": "2025-07-02T00:09:54"
+    "updated_at": "2025-07-02T04:04:55"
   },
   {
-    "name": "laravel-n8n",
-    "full_name": "kayedspace/laravel-n8n",
-    "description": "A complete, expressive, and fluent Laravel client for the n8n public REST API and Webhooks Triggering.",
-    "url": "https://github.com/kayedspace/laravel-n8n",
-    "stars": 25,
-    "daily_stars": 2,
-    "language": "PHP",
+    "name": "agnflow",
+    "full_name": "jianduo1/agnflow",
+    "description": "一个简洁的 Python 工作流引擎，支持同步与异步节点、分支、循环、流程图渲染。",
+    "url": "https://github.com/jianduo1/agnflow",
+    "stars": 14,
+    "daily_stars": 1,
+    "language": "Python",
     "topics": [
-      "automation",
-      "laravel",
-      "n8n",
+      "agent",
+      "llm",
       "workflow"
     ],
-    "created_at": "2025-07-01T09:37:49",
-    "updated_at": "2025-07-01T23:25:44"
+    "created_at": "2025-06-21T10:20:24",
+    "updated_at": "2025-07-02T04:16:36"
+  },
+  {
+    "name": "input-branches",
+    "full_name": "mightyiam/input-branches",
+    "description": "Workflow and flake-part for flake input patching using imported git branches",
+    "url": "https://github.com/mightyiam/input-branches",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "Nix",
+    "topics": [
+      "flake-parts",
+      "nix",
+      "nix-flakes",
+      "patches",
+      "workflow"
+    ],
+    "created_at": "2025-06-26T14:01:46",
+    "updated_at": "2025-07-02T04:15:21"
   },
   {
     "name": "sre",
@@ -63,7 +102,7 @@
     "description": "The Operating System for Agents",
     "url": "https://github.com/SmythOS/sre",
     "stars": 162,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
       "agent-framework",
@@ -91,101 +130,6 @@
     "updated_at": "2025-07-02T01:46:59"
   },
   {
-    "name": "startup-sim-3000",
-    "full_name": "erinmikailstaples/startup-sim-3000",
-    "description": "A comical, startup simulator tutorial designed to create a ficticious startup pitch based on keywords. ",
-    "url": "https://github.com/erinmikailstaples/startup-sim-3000",
-    "stars": 2,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "aiagent",
-      "comedy",
-      "tutorial"
-    ],
-    "created_at": "2025-06-03T19:31:15",
-    "updated_at": "2025-07-01T23:04:52"
-  },
-  {
-    "name": "multimind-sdk-js",
-    "full_name": "multimindlab/multimind-sdk-js",
-    "description": "JavaScript/TypeScript for MultiMindSDK – bring advanced context transfer and multi-LLM orchestration, Node.js apps, and web tools ",
-    "url": "https://github.com/multimindlab/multimind-sdk-js",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "agentic-ai",
-      "ai",
-      "deep",
-      "deep-learning",
-      "deep-reinforcement-learning",
-      "fine-tuning",
-      "finetuning-llms",
-      "framework",
-      "langchain-alternative",
-      "large-language-models",
-      "llm-sdk",
-      "multimindsdk",
-      "multimodal-deep-learning",
-      "multimodal-large-language-models",
-      "open-source-ai",
-      "rag-framework",
-      "sdk-js",
-      "sdk-ts"
-    ],
-    "created_at": "2025-06-29T16:34:50",
-    "updated_at": "2025-07-01T21:23:25"
-  },
-  {
-    "name": "superclaude",
-    "full_name": "gwendall/superclaude",
-    "description": "🚀 Give Claude AI superpowers for GitHub workflows. Transform \"fix stuff\" commits into professional messages, generate intelligent changelogs, and get AI code reviews - all with one command.",
-    "url": "https://github.com/gwendall/superclaude",
-    "stars": 8,
-    "daily_stars": 1,
-    "language": "Shell",
-    "topics": [
-      "ai",
-      "anthropic",
-      "automation",
-      "changelog",
-      "claude",
-      "code-review",
-      "commit-messages",
-      "developer-tools",
-      "documentation",
-      "github",
-      "productivity",
-      "workflow"
-    ],
-    "created_at": "2025-06-21T07:05:01",
-    "updated_at": "2025-07-01T22:20:01"
-  },
-  {
-    "name": "toolfront",
-    "full_name": "kruskal-labs/toolfront",
-    "description": "A lightweight MCP server for databases.",
-    "url": "https://github.com/kruskal-labs/toolfront",
-    "stars": 184,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "artificial-intelligence",
-      "data-analysis",
-      "data-engineering",
-      "data-science",
-      "database",
-      "in-context-learning",
-      "mcp",
-      "sql"
-    ],
-    "created_at": "2025-06-11T05:50:09",
-    "updated_at": "2025-07-01T23:58:07"
-  },
-  {
     "name": "llm-scratch-pytorch",
     "full_name": "skyloevil/llm-scratch-pytorch",
     "description": "lm-scratch-pytorch - The code is designed to be beginner-friendly, with a focus on understanding the fundamentals of PyTorch and implementing LLMs from scratch,step by step.",
@@ -207,5 +151,43 @@
     ],
     "created_at": "2025-06-14T08:41:08",
     "updated_at": "2025-07-01T09:48:07"
+  },
+  {
+    "name": "openai-agents-go",
+    "full_name": "nlpodyssey/openai-agents-go",
+    "description": "A lightweight, powerful framework for multi-agent workflows in Go",
+    "url": "https://github.com/nlpodyssey/openai-agents-go",
+    "stars": 76,
+    "daily_stars": 0,
+    "language": "Go",
+    "topics": [
+      "artificial-intelligence",
+      "multi-agent-framework"
+    ],
+    "created_at": "2025-06-13T17:32:12",
+    "updated_at": "2025-07-01T14:15:43"
+  },
+  {
+    "name": "SparkyFitness",
+    "full_name": "CodeWithCJ/SparkyFitness",
+    "description": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
+    "url": "https://github.com/CodeWithCJ/SparkyFitness",
+    "stars": 68,
+    "daily_stars": 0,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "fitness",
+      "fitness-app",
+      "fitness-tracker",
+      "health",
+      "health-coaching",
+      "healthcheck",
+      "self-hosted",
+      "selfhosted"
+    ],
+    "created_at": "2025-06-21T14:00:39",
+    "updated_at": "2025-07-02T02:16:38"
   }
 ]
