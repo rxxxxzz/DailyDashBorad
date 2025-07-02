@@ -1,23 +1,11 @@
 [
   {
-    "name": "agents-towards-production",
-    "full_name": "NirDiamant/agents-towards-production",
-    "description": " This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.",
-    "url": "https://github.com/NirDiamant/agents-towards-production",
-    "stars": 7564,
-    "daily_stars": 25,
-    "language": "Jupyter Notebook",
-    "topics": [],
-    "created_at": "2025-06-16T17:33:44",
-    "updated_at": "2025-07-02T08:49:56"
-  },
-  {
     "name": "ai-sdk-cpp",
     "full_name": "ClickHouse/ai-sdk-cpp",
     "description": "The AI Toolkit for Modern C++. From the engineers at ClickHouse, ai-sdk-cpp is a free, open‑source library for building AI‑powered applications and agents.",
     "url": "https://github.com/ClickHouse/ai-sdk-cpp",
-    "stars": 35,
-    "daily_stars": 7,
+    "stars": 50,
+    "daily_stars": 15,
     "language": "C++",
     "topics": [
       "anthropic",
@@ -29,81 +17,61 @@
       "openai"
     ],
     "created_at": "2025-06-21T18:50:48",
-    "updated_at": "2025-07-02T08:38:30"
+    "updated_at": "2025-07-02T13:02:25"
   },
   {
-    "name": "input-branches",
-    "full_name": "mightyiam/input-branches",
-    "description": "Workflow and flake-part for flake input patching using imported git branches",
-    "url": "https://github.com/mightyiam/input-branches",
-    "stars": 7,
+    "name": "agents-towards-production",
+    "full_name": "NirDiamant/agents-towards-production",
+    "description": " This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.",
+    "url": "https://github.com/NirDiamant/agents-towards-production",
+    "stars": 7578,
+    "daily_stars": 14,
+    "language": "Jupyter Notebook",
+    "topics": [],
+    "created_at": "2025-06-16T17:33:44",
+    "updated_at": "2025-07-02T12:54:11"
+  },
+  {
+    "name": "memfof",
+    "full_name": "msu-video-group/memfof",
+    "description": "[ICCV'2025] MEMFOF: High-Resolution Training for Memory-Efficient Multi-Frame Optical Flow Estimation",
+    "url": "https://github.com/msu-video-group/memfof",
+    "stars": 25,
     "daily_stars": 4,
-    "language": "Nix",
+    "language": "Python",
     "topics": [
-      "flake-parts",
-      "nix",
-      "nix-flakes",
-      "patches",
-      "workflow"
+      "deep-learning",
+      "optical-flow",
+      "pytorch",
+      "video"
     ],
-    "created_at": "2025-06-26T14:01:46",
-    "updated_at": "2025-07-02T08:29:17"
+    "created_at": "2025-06-27T10:08:32",
+    "updated_at": "2025-07-02T12:48:27"
   },
   {
-    "name": "deepseek-cli",
-    "full_name": "holasoymalva/deepseek-cli",
-    "description": "DeepSeek CLI, a command-line AI coding assistant that leverages the powerful DeepSeek Coder models ",
-    "url": "https://github.com/holasoymalva/deepseek-cli",
-    "stars": 5,
+    "name": "checkbox-workflow-action",
+    "full_name": "wadackel/checkbox-workflow-action",
+    "description": "✅ Create checkbox-driven automated workflows in GitHub Actions.",
+    "url": "https://github.com/wadackel/checkbox-workflow-action",
+    "stars": 7,
     "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
-      "artificial-intelligence",
-      "claude",
-      "claude-ai",
-      "claude-code",
-      "cursor",
-      "cursor-ai",
-      "deep-learning",
-      "deep-neural-networks",
-      "deepseek",
-      "deepseek-ai",
-      "deepseek-api",
-      "deepseek-chat",
-      "deepseek-coder",
-      "deepseek-llm",
-      "gemini-ai",
-      "gemini-api",
-      "gemini-cli",
-      "machine-learning",
-      "programming"
+      "checkbox",
+      "devops-tools",
+      "github-actions",
+      "workflow",
+      "workflow-automation"
     ],
-    "created_at": "2025-06-25T19:00:34",
-    "updated_at": "2025-07-02T06:51:49"
-  },
-  {
-    "name": "laravel-n8n",
-    "full_name": "kayedspace/laravel-n8n",
-    "description": "A complete, expressive, and fluent Laravel client for the n8n public REST API and Webhooks Triggering.",
-    "url": "https://github.com/kayedspace/laravel-n8n",
-    "stars": 27,
-    "daily_stars": 2,
-    "language": "PHP",
-    "topics": [
-      "automation",
-      "laravel",
-      "n8n",
-      "workflow"
-    ],
-    "created_at": "2025-07-01T09:37:49",
-    "updated_at": "2025-07-02T05:40:30"
+    "created_at": "2025-07-01T15:09:06",
+    "updated_at": "2025-07-02T12:36:42"
   },
   {
     "name": "toolfront",
     "full_name": "kruskal-labs/toolfront",
     "description": "A lightweight MCP server for databases.",
     "url": "https://github.com/kruskal-labs/toolfront",
-    "stars": 186,
+    "stars": 187,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -118,59 +86,70 @@
       "sql"
     ],
     "created_at": "2025-06-11T05:50:09",
-    "updated_at": "2025-07-02T07:02:05"
+    "updated_at": "2025-07-02T11:33:46"
   },
   {
-    "name": "gaia2-pytorch",
-    "full_name": "lucidrains/gaia2-pytorch",
-    "description": "Implementation of the world model architecture for self driving out of Wayve",
-    "url": "https://github.com/lucidrains/gaia2-pytorch",
-    "stars": 49,
+    "name": "AIRTBench-Code",
+    "full_name": "dreadnode/AIRTBench-Code",
+    "description": "Code Repository for: AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models",
+    "url": "https://github.com/dreadnode/AIRTBench-Code",
+    "stars": 59,
     "daily_stars": 1,
-    "language": null,
+    "language": "Jupyter Notebook",
     "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
       "artificial-intelligence",
-      "deep-learning",
-      "self-driving",
-      "world-models"
+      "benchmark",
+      "benchmark-datasets",
+      "benchmarking",
+      "ctf",
+      "cyber-evals",
+      "cybersecurity",
+      "evaluations",
+      "hacking",
+      "llm",
+      "offensive-security",
+      "research",
+      "security"
     ],
-    "created_at": "2025-06-16T21:23:14",
-    "updated_at": "2025-07-02T07:41:20"
+    "created_at": "2025-06-04T12:45:14",
+    "updated_at": "2025-07-02T12:08:14"
   },
   {
-    "name": "alphagenome",
-    "full_name": "lucidrains/alphagenome",
-    "description": "Implementation of AlphaGenome, Deepmind's updated genomic attention model",
-    "url": "https://github.com/lucidrains/alphagenome",
-    "stars": 44,
+    "name": "claude-auto-commit",
+    "full_name": "0xkaz/claude-auto-commit",
+    "description": "AI-powered Git commit message generator using   Claude CLI. Intelligently analyzes code changes and   generates contextual commit messages with   multi-language support and advanced features.",
+    "url": "https://github.com/0xkaz/claude-auto-commit",
+    "stars": 16,
     "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-06-27T12:30:07",
-    "updated_at": "2025-07-02T07:43:23"
-  },
-  {
-    "name": "neat",
-    "full_name": "lucidrains/neat",
-    "description": "Explorations into NEAT and some of its derivative research",
-    "url": "https://github.com/lucidrains/neat",
-    "stars": 20,
-    "daily_stars": 1,
-    "language": null,
+    "language": "Shell",
     "topics": [
+      "ai",
       "artificial-intelligence",
-      "evolution",
-      "neuroevolution-algorithm"
+      "automation",
+      "bash",
+      "claude",
+      "cli-tool",
+      "code-analysis",
+      "commit",
+      "conventional-commits",
+      "devops",
+      "git",
+      "open-source",
+      "productivity",
+      "shell-script"
     ],
-    "created_at": "2025-06-16T02:41:38",
-    "updated_at": "2025-07-02T06:40:52"
+    "created_at": "2025-06-13T07:38:26",
+    "updated_at": "2025-07-02T10:06:50"
   },
   {
     "name": "awesome-ai-tools",
     "full_name": "ToolkitlyAI/awesome-ai-tools",
     "description": "A curated collection of 650+ AI tools for productivity, creativity, and innovation. Contribute via pull requests to join the community! Explore more at Toolkitly.com.",
     "url": "https://github.com/ToolkitlyAI/awesome-ai-tools",
-    "stars": 6,
+    "stars": 7,
     "daily_stars": 1,
     "language": null,
     "topics": [
@@ -186,6 +165,40 @@
       "top-ai-tools"
     ],
     "created_at": "2025-06-24T11:11:11",
-    "updated_at": "2025-07-02T08:01:10"
+    "updated_at": "2025-07-02T12:06:32"
+  },
+  {
+    "name": "waveforge",
+    "full_name": "DeadWaveWave/waveforge",
+    "description": "A highly structured software development workflow designed for seamless collaboration between human and AI developers.",
+    "url": "https://github.com/DeadWaveWave/waveforge",
+    "stars": 11,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "agents",
+      "ai-agents",
+      "cursor",
+      "vibe-coding"
+    ],
+    "created_at": "2025-06-25T07:10:13",
+    "updated_at": "2025-07-02T10:20:19"
+  },
+  {
+    "name": "mcpproxy-go",
+    "full_name": "smart-mcp-proxy/mcpproxy-go",
+    "description": "Smart proxy that lets your AI agents (Cursor, Claude, ...) use 1000+ tools instead of ~40. It runs offline on your PC with a neat tray UI and even auto-sandboxes new tool plugins for safety",
+    "url": "https://github.com/smart-mcp-proxy/mcpproxy-go",
+    "stars": 5,
+    "daily_stars": 1,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "mcp",
+      "mcp-server"
+    ],
+    "created_at": "2025-06-18T03:59:17",
+    "updated_at": "2025-07-02T11:03:23"
   }
 ]
