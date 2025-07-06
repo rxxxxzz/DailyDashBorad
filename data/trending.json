@@ -1,23 +1,53 @@
 [
   {
+    "name": "strassen-attention",
+    "full_name": "lucidrains/strassen-attention",
+    "description": "Implementation of Strassen attention, from Kozachinskiy et al. of National Center of AI in Chile",
+    "url": "https://github.com/lucidrains/strassen-attention",
+    "stars": 17,
+    "daily_stars": 5,
+    "language": null,
+    "topics": [],
+    "created_at": "2025-07-05T21:48:52",
+    "updated_at": "2025-07-06T20:33:51"
+  },
+  {
+    "name": "EBT",
+    "full_name": "alexiglad/EBT",
+    "description": "Code for Energy-Based Transformers paper",
+    "url": "https://github.com/alexiglad/EBT",
+    "stars": 36,
+    "daily_stars": 5,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "deep-learning",
+      "generative-ai",
+      "reasoning",
+      "thinking"
+    ],
+    "created_at": "2025-06-26T04:45:15",
+    "updated_at": "2025-07-06T20:34:12"
+  },
+  {
     "name": "agents-towards-production",
     "full_name": "NirDiamant/agents-towards-production",
     "description": " This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.",
     "url": "https://github.com/NirDiamant/agents-towards-production",
-    "stars": 7879,
-    "daily_stars": 9,
+    "stars": 7883,
+    "daily_stars": 4,
     "language": "Jupyter Notebook",
     "topics": [],
     "created_at": "2025-06-16T17:33:44",
-    "updated_at": "2025-07-06T16:46:44"
+    "updated_at": "2025-07-06T18:14:00"
   },
   {
     "name": "nano-vllm",
     "full_name": "GeeeekExplorer/nano-vllm",
     "description": "Nano vLLM",
     "url": "https://github.com/GeeeekExplorer/nano-vllm",
-    "stars": 4911,
-    "daily_stars": 6,
+    "stars": 4914,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "deep-learning",
@@ -28,15 +58,34 @@
       "transformer"
     ],
     "created_at": "2025-06-09T16:22:14",
-    "updated_at": "2025-07-06T15:58:31"
+    "updated_at": "2025-07-06T19:55:27"
+  },
+  {
+    "name": "rs-graph-llm",
+    "full_name": "a-agmon/rs-graph-llm",
+    "description": "Stateful and resumable graph execution framework for interactive agentic workflows, inspired by LangGraph but built from the ground up in Rust and Rig.",
+    "url": "https://github.com/a-agmon/rs-graph-llm",
+    "stars": 69,
+    "daily_stars": 3,
+    "language": "Rust",
+    "topics": [
+      "agents",
+      "graph",
+      "langgraph",
+      "llm",
+      "rust",
+      "workflow"
+    ],
+    "created_at": "2025-06-10T18:20:02",
+    "updated_at": "2025-07-06T19:40:46"
   },
   {
     "name": "SparkyFitness",
     "full_name": "CodeWithCJ/SparkyFitness",
     "description": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
     "url": "https://github.com/CodeWithCJ/SparkyFitness",
-    "stars": 180,
-    "daily_stars": 3,
+    "stars": 182,
+    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -51,143 +100,85 @@
       "selfhosted"
     ],
     "created_at": "2025-06-21T14:00:39",
-    "updated_at": "2025-07-06T16:11:17"
-  },
-  {
-    "name": "Aethershell",
-    "full_name": "hiteshdhawan/Aethershell",
-    "description": "AetherShell is an AI-native Linux shell assistant powered by local LLMs. It converts natural language into secure, offline shell commands using Mistral and llama.cpp — ideal for developers, sysadmins, and automation enthusiasts.",
-    "url": "https://github.com/hiteshdhawan/Aethershell",
-    "stars": 3,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-02T16:39:19",
-    "updated_at": "2025-07-06T13:20:54"
-  },
-  {
-    "name": "EBT",
-    "full_name": "alexiglad/EBT",
-    "description": "Code for Energy-Based Transformers paper",
-    "url": "https://github.com/alexiglad/EBT",
-    "stars": 31,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "deep-learning",
-      "generative-ai",
-      "reasoning",
-      "thinking"
-    ],
-    "created_at": "2025-06-26T04:45:15",
-    "updated_at": "2025-07-06T16:14:51"
+    "updated_at": "2025-07-06T19:38:57"
   },
   {
     "name": "simplicial-attention",
     "full_name": "lucidrains/simplicial-attention",
     "description": "Implementation of 2-simplicial attention proposed by Clift et al. (2019) and the recent attempt to make practical in Fast and Simplex, Roy et al. (2025)",
     "url": "https://github.com/lucidrains/simplicial-attention",
-    "stars": 22,
-    "daily_stars": 1,
+    "stars": 24,
+    "daily_stars": 2,
     "language": null,
     "topics": [],
     "created_at": "2025-07-05T13:11:03",
-    "updated_at": "2025-07-06T16:25:40"
+    "updated_at": "2025-07-06T17:48:53"
   },
   {
-    "name": "claude-auto-commit",
-    "full_name": "0xkaz/claude-auto-commit",
-    "description": "AI-powered Git commit message generator using   Claude CLI. Intelligently analyzes code changes and   generates contextual commit messages with   multi-language support and advanced features.",
-    "url": "https://github.com/0xkaz/claude-auto-commit",
-    "stars": 19,
+    "name": "toolfront",
+    "full_name": "kruskal-labs/toolfront",
+    "description": "A lightweight MCP server for databases.",
+    "url": "https://github.com/kruskal-labs/toolfront",
+    "stars": 199,
     "daily_stars": 1,
-    "language": "Shell",
+    "language": "Python",
     "topics": [
-      "ai",
-      "artificial-intelligence",
-      "automation",
-      "bash",
-      "claude",
-      "cli-tool",
-      "code-analysis",
-      "commit",
-      "conventional-commits",
-      "devops",
-      "git",
-      "open-source",
-      "productivity",
-      "shell-script"
-    ],
-    "created_at": "2025-06-13T07:38:26",
-    "updated_at": "2025-07-06T13:55:25"
-  },
-  {
-    "name": "awesome-ai-tools",
-    "full_name": "ToolkitlyAI/awesome-ai-tools",
-    "description": "A curated collection of 650+ AI tools for productivity, creativity, and innovation. Contribute via pull requests to join the community! Explore more at Toolkitly.com.",
-    "url": "https://github.com/ToolkitlyAI/awesome-ai-tools",
-    "stars": 8,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-tools-directory",
-      "ai-top-tools",
-      "artificial-intelligence",
-      "awesome-list",
-      "machine-learning",
-      "ml",
-      "open-source",
-      "productivity-tools",
-      "top-ai-tools"
-    ],
-    "created_at": "2025-06-24T11:11:11",
-    "updated_at": "2025-07-06T14:01:30"
-  },
-  {
-    "name": "eion",
-    "full_name": "eiondb/eion",
-    "description": "Shared Memory Storage for Multi-Agent Systems",
-    "url": "https://github.com/eiondb/eion",
-    "stars": 94,
-    "daily_stars": 1,
-    "language": "Go",
-    "topics": [
-      "a2a",
-      "agent-memory",
-      "agentic-ai",
-      "ai",
       "ai-agents",
+      "artificial-intelligence",
+      "data-analysis",
+      "data-engineering",
+      "data-science",
       "database",
-      "distributed-intelligenet-agents",
-      "intelligent-networks",
-      "knowledge-graph",
-      "llm",
+      "in-context-learning",
       "mcp",
-      "mcp-server",
-      "memory",
-      "memory-layer",
-      "multiagent-systems",
-      "neo4j",
-      "open-source",
-      "postgres",
-      "saas",
-      "vector-database"
+      "sql"
     ],
-    "created_at": "2025-06-20T21:05:00",
-    "updated_at": "2025-07-06T16:14:19"
+    "created_at": "2025-06-11T05:50:09",
+    "updated_at": "2025-07-06T17:32:07"
   },
   {
-    "name": "june-2025-coding-agent-report",
-    "full_name": "The-Focus-AI/june-2025-coding-agent-report",
-    "description": "Comprehensive evaluation of 15 AI coding agents (Cursor, Copilot, Claude, Replit, v0, Warp, etc.) with implementations, screenshots, and professional scoring. Published on Turing Post.",
-    "url": "https://github.com/The-Focus-AI/june-2025-coding-agent-report",
-    "stars": 19,
+    "name": "sre",
+    "full_name": "SmythOS/sre",
+    "description": "The Operating System for Agents",
+    "url": "https://github.com/SmythOS/sre",
+    "stars": 180,
     "daily_stars": 1,
     "language": "TypeScript",
+    "topics": [
+      "agent-framework",
+      "agents",
+      "agi",
+      "ai",
+      "ai-agents",
+      "artificial-intelligence",
+      "autogpt",
+      "autonomous-agents",
+      "chatgpt",
+      "langchain",
+      "llm",
+      "llmops",
+      "mcp",
+      "multi-agent",
+      "multi-agent-systems",
+      "n8n",
+      "openai",
+      "orchestration",
+      "rag",
+      "retrieval-augmented-generation"
+    ],
+    "created_at": "2025-06-07T23:53:06",
+    "updated_at": "2025-07-06T20:18:11"
+  },
+  {
+    "name": "alphagenome",
+    "full_name": "lucidrains/alphagenome",
+    "description": "Implementation of AlphaGenome, Deepmind's updated genomic attention model",
+    "url": "https://github.com/lucidrains/alphagenome",
+    "stars": 47,
+    "daily_stars": 1,
+    "language": "Python",
     "topics": [],
-    "created_at": "2025-06-25T23:57:45",
-    "updated_at": "2025-07-06T15:18:50"
+    "created_at": "2025-06-27T12:30:07",
+    "updated_at": "2025-07-06T17:53:58"
   }
 ]
