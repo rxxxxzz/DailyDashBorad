@@ -1,27 +1,15 @@
 [
   {
-    "name": "browser-cli",
-    "full_name": "browsemake/browser-cli",
-    "description": "AI agent browser automation tool that just works",
-    "url": "https://github.com/browsemake/browser-cli",
-    "stars": 68,
-    "daily_stars": 0,
-    "language": "JavaScript",
-    "topics": [],
-    "created_at": "2025-07-01T21:08:55",
-    "updated_at": "2025-07-09T17:15:06"
-  },
-  {
-    "name": "simplicial-attention",
-    "full_name": "lucidrains/simplicial-attention",
-    "description": "Implementation of 2-simplicial attention proposed by Clift et al. (2019) and the recent attempt to make practical in Fast and Simplex, Roy et al. (2025)",
-    "url": "https://github.com/lucidrains/simplicial-attention",
+    "name": "strassen-attention",
+    "full_name": "lucidrains/strassen-attention",
+    "description": "Implementation of Strassen attention, from Kozachinskiy et al. of National Center of AI in Chile",
+    "url": "https://github.com/lucidrains/strassen-attention",
     "stars": 32,
-    "daily_stars": 0,
+    "daily_stars": 2,
     "language": null,
     "topics": [],
-    "created_at": "2025-07-05T13:11:03",
-    "updated_at": "2025-07-09T18:25:46"
+    "created_at": "2025-07-05T21:48:52",
+    "updated_at": "2025-07-10T01:35:57"
   },
   {
     "name": "simplicial-attention",
@@ -40,36 +28,36 @@
     "full_name": "lucidrains/strassen-attention",
     "description": "Implementation of Strassen attention, from Kozachinskiy et al. of National Center of AI in Chile",
     "url": "https://github.com/lucidrains/strassen-attention",
-    "stars": 30,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [],
-    "created_at": "2025-07-05T21:48:52",
-    "updated_at": "2025-07-09T17:10:29"
-  },
-  {
-    "name": "strassen-attention",
-    "full_name": "lucidrains/strassen-attention",
-    "description": "Implementation of Strassen attention, from Kozachinskiy et al. of National Center of AI in Chile",
-    "url": "https://github.com/lucidrains/strassen-attention",
-    "stars": 30,
+    "stars": 32,
     "daily_stars": 0,
     "language": null,
     "topics": [],
     "created_at": "2025-07-05T21:48:52",
-    "updated_at": "2025-07-09T17:10:29"
+    "updated_at": "2025-07-10T01:35:57"
+  },
+  {
+    "name": "simplicial-attention",
+    "full_name": "lucidrains/simplicial-attention",
+    "description": "Implementation of 2-simplicial attention proposed by Clift et al. (2019) and the recent attempt to make practical in Fast and Simplex, Roy et al. (2025)",
+    "url": "https://github.com/lucidrains/simplicial-attention",
+    "stars": 32,
+    "daily_stars": 0,
+    "language": null,
+    "topics": [],
+    "created_at": "2025-07-05T13:11:03",
+    "updated_at": "2025-07-09T18:25:46"
   },
   {
     "name": "ScreenMonitorMCP",
     "full_name": "inkbytefo/ScreenMonitorMCP",
     "description": "🚀 Revolutionary MCP Server: AI'ya gerçek zamanlı görme yetisi, UI zekası ve öngörülü davranış öğrenme gücü kazandırır. Real-time screen monitoring, smart UI interaction, and predictive AI assistance.",
     "url": "https://github.com/inkbytefo/ScreenMonitorMCP",
-    "stars": 20,
-    "daily_stars": 2,
+    "stars": 24,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [],
     "created_at": "2025-07-08T23:35:29",
-    "updated_at": "2025-07-09T19:25:53"
+    "updated_at": "2025-07-10T01:51:11"
   },
   {
     "name": "mcp-server-template",
@@ -77,7 +65,7 @@
     "description": "Cookiecutter template for MCP servers with one-click Render.com deployment - Generate production-ready API integration servers in minutes",
     "url": "https://github.com/pietroperona/mcp-server-template",
     "stars": 14,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [],
     "created_at": "2025-07-02T13:10:47",
@@ -88,12 +76,12 @@
     "full_name": "NVlabs/HMAR",
     "description": "[CVPR 2025] HMAR: Efficient Hierarchical Masked Auto-Regressive Image Generation",
     "url": "https://github.com/NVlabs/HMAR",
-    "stars": 13,
-    "daily_stars": 0,
+    "stars": 14,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [],
     "created_at": "2025-07-08T16:14:41",
-    "updated_at": "2025-07-09T14:16:08"
+    "updated_at": "2025-07-09T22:10:03"
   },
   {
     "name": "AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA",
@@ -139,5 +127,17 @@
     "topics": [],
     "created_at": "2025-07-02T05:50:28",
     "updated_at": "2025-07-07T05:15:55"
+  },
+  {
+    "name": "fast-volleyball-tracking-inference",
+    "full_name": "asigatchov/fast-volleyball-tracking-inference",
+    "description": "Fast Volleyball Tracking Inference: Real-time volleyball ball detection and tracking at 200 FPS on CPU (Intel i5-10400F). Powered by an optimized ONNX model, outputs ball coordinates to CSV, with optional video visualization. Ideal for sports analytics and computer vision research.",
+    "url": "https://github.com/asigatchov/fast-volleyball-tracking-inference",
+    "stars": 10,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-09T06:16:57",
+    "updated_at": "2025-07-09T18:55:55"
   }
 ]
