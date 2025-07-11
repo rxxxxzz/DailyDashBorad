@@ -1,87 +1,73 @@
 [
   {
+    "name": "TRI-LBM",
+    "full_name": "lucidrains/TRI-LBM",
+    "description": "Implementation of the Large Behavioral Model architecture for dexterous manipulation from Toyota Research Institute",
+    "url": "https://github.com/lucidrains/TRI-LBM",
+    "stars": 10,
+    "daily_stars": 5,
+    "language": null,
+    "topics": [],
+    "created_at": "2025-07-11T00:10:37",
+    "updated_at": "2025-07-11T04:13:41"
+  },
+  {
     "name": "agents-towards-production",
     "full_name": "NirDiamant/agents-towards-production",
     "description": " This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.",
     "url": "https://github.com/NirDiamant/agents-towards-production",
-    "stars": 8143,
-    "daily_stars": 7,
+    "stars": 8147,
+    "daily_stars": 4,
     "language": "Jupyter Notebook",
     "topics": [],
     "created_at": "2025-06-16T17:33:44",
-    "updated_at": "2025-07-11T01:24:52"
+    "updated_at": "2025-07-11T03:41:45"
   },
   {
-    "name": "SparkyFitness",
-    "full_name": "CodeWithCJ/SparkyFitness",
-    "description": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
-    "url": "https://github.com/CodeWithCJ/SparkyFitness",
-    "stars": 288,
-    "daily_stars": 3,
-    "language": "TypeScript",
+    "name": "openai-agents-go",
+    "full_name": "nlpodyssey/openai-agents-go",
+    "description": "A lightweight, powerful framework for multi-agent workflows in Go",
+    "url": "https://github.com/nlpodyssey/openai-agents-go",
+    "stars": 85,
+    "daily_stars": 1,
+    "language": "Go",
     "topics": [
-      "ai",
       "artificial-intelligence",
-      "fitness",
-      "fitness-app",
-      "fitness-tracker",
-      "health",
-      "health-coaching",
-      "healthcheck",
-      "self-hosted",
-      "selfhosted"
+      "multi-agent-framework"
     ],
-    "created_at": "2025-06-21T14:00:39",
-    "updated_at": "2025-07-11T02:19:32"
+    "created_at": "2025-06-13T17:32:12",
+    "updated_at": "2025-07-11T04:13:11"
   },
   {
-    "name": "strassen-attention",
-    "full_name": "lucidrains/strassen-attention",
-    "description": "Implementation of Strassen attention, from Kozachinskiy et al. of National Center of AI in Chile",
-    "url": "https://github.com/lucidrains/strassen-attention",
-    "stars": 37,
+    "name": "alphagenome",
+    "full_name": "lucidrains/alphagenome",
+    "description": "Implementation of AlphaGenome, Deepmind's updated genomic attention model",
+    "url": "https://github.com/lucidrains/alphagenome",
+    "stars": 52,
     "daily_stars": 1,
-    "language": null,
+    "language": "Python",
     "topics": [],
-    "created_at": "2025-07-05T21:48:52",
-    "updated_at": "2025-07-11T00:57:58"
+    "created_at": "2025-06-27T12:30:07",
+    "updated_at": "2025-07-11T02:50:43"
   },
   {
-    "name": "simplicial-attention",
-    "full_name": "lucidrains/simplicial-attention",
-    "description": "Implementation of 2-simplicial attention proposed by Clift et al. (2019) and the recent attempt to make practical in Fast and Simplex, Roy et al. (2025)",
-    "url": "https://github.com/lucidrains/simplicial-attention",
-    "stars": 34,
+    "name": "zentrun",
+    "full_name": "andrewsky-labs/zentrun",
+    "description": "Software 3.0 – AI agents that create and run their own features with vibe coding. ",
+    "url": "https://github.com/andrewsky-labs/zentrun",
+    "stars": 22,
     "daily_stars": 1,
-    "language": null,
+    "language": "Vue",
     "topics": [],
-    "created_at": "2025-07-05T13:11:03",
-    "updated_at": "2025-07-11T00:59:49"
-  },
-  {
-    "name": "vibe",
-    "full_name": "co-browser/vibe",
-    "description": "The browser that remembers what you forget.",
-    "url": "https://github.com/co-browser/vibe",
-    "stars": 45,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "browser",
-      "mcp",
-      "memory",
-      "security"
-    ],
-    "created_at": "2025-06-13T13:51:12",
-    "updated_at": "2025-07-11T01:05:49"
+    "created_at": "2025-06-25T07:23:50",
+    "updated_at": "2025-07-11T04:49:32"
   },
   {
     "name": "hm_editor",
     "full_name": "huimeicloud/hm_editor",
     "description": "一款轻量级、可扩展的、跨平台的、专为医疗信息化设计的电子病历编辑器内核，为EMR（电子病历系统）提供专业的结构化病历编辑与AI接入解决方案。",
     "url": "https://github.com/huimeicloud/hm_editor",
-    "stars": 21,
+    "stars": 22,
     "daily_stars": 1,
     "language": "HTML",
     "topics": [
@@ -100,89 +86,62 @@
       "rich-text-editor"
     ],
     "created_at": "2025-06-18T15:49:52",
-    "updated_at": "2025-07-11T01:25:50"
+    "updated_at": "2025-07-11T03:02:25"
   },
   {
-    "name": "intelligent-claude-code",
-    "full_name": "ksamaschke/intelligent-claude-code",
-    "description": "Make Claude Code truly intelligent and way more autonomous!",
-    "url": "https://github.com/ksamaschke/intelligent-claude-code",
-    "stars": 12,
+    "name": "fast-volleyball-tracking-inference",
+    "full_name": "asigatchov/fast-volleyball-tracking-inference",
+    "description": "Fast Volleyball Tracking Inference: Real-time volleyball ball detection and tracking at 200 FPS on CPU (Intel i5-10400F). Powered by an optimized ONNX model, outputs ball coordinates to CSV, with optional video visualization. Ideal for sports analytics and computer vision research.",
+    "url": "https://github.com/asigatchov/fast-volleyball-tracking-inference",
+    "stars": 17,
     "daily_stars": 1,
-    "language": "Makefile",
-    "topics": [
-      "ai-agent",
-      "ai-agents",
-      "ai-agents-framework",
-      "autonomous-dev",
-      "autonomous-development",
-      "claude",
-      "claude-ai",
-      "claude-code",
-      "virtual-team",
-      "virtual-teams"
-    ],
-    "created_at": "2025-06-24T09:01:54",
-    "updated_at": "2025-07-10T21:58:17"
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-09T06:16:57",
+    "updated_at": "2025-07-11T02:49:55"
   },
   {
-    "name": "code-z-cli",
-    "full_name": "sam43/code-z-cli",
-    "description": "CodeZ CLI  is an interactive, offline first and AI-powered code assistant for your terminal. Features session memory, file reading with syntax highlighting, and a beautiful, customizable interface using Rich and prompt-toolkit. Perfect for developers who want smart code help right in the CLI without internet.",
-    "url": "https://github.com/sam43/code-z-cli",
-    "stars": 5,
+    "name": "Spherical_Diffusion_Policy",
+    "full_name": "amazon-science/Spherical_Diffusion_Policy",
+    "description": "[ICML 2025] Official implementation of Spherical Diffusion Policy: A SE(3) Equivariant Visuomotor Policy with Spherical Fourier Representation",
+    "url": "https://github.com/amazon-science/Spherical_Diffusion_Policy",
+    "stars": 9,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "ai",
-      "explainable-artificial-intelligence",
-      "ios-app",
       "machine-learning",
-      "offline-first",
-      "prompt-toolkit",
-      "python3"
+      "robotics"
     ],
-    "created_at": "2025-07-02T07:44:43",
-    "updated_at": "2025-07-11T02:19:04"
+    "created_at": "2025-07-01T15:22:16",
+    "updated_at": "2025-07-11T03:18:56"
   },
   {
-    "name": "Swiftlet",
-    "full_name": "introlix/Swiftlet",
-    "description": "SwiftLet is a lightweight Python framework for running open-source Large Language Models (LLMs) locally using safetensors",
-    "url": "https://github.com/introlix/Swiftlet",
+    "name": "Autonomous-Car-Simulation",
+    "full_name": "Ayush-Deore/Autonomous-Car-Simulation",
+    "description": "a web-based simulation of a neural network based autonomous car simulation.",
+    "url": "https://github.com/Ayush-Deore/Autonomous-Car-Simulation",
     "stars": 4,
     "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "deep-learning",
-      "gemma",
-      "gguf",
-      "llm-inference",
-      "llms",
-      "machine-learning",
-      "natural-language-processing",
-      "python",
-      "pytorch",
-      "safetensors"
-    ],
-    "created_at": "2025-06-21T11:21:59",
-    "updated_at": "2025-07-10T23:09:29"
+    "language": "JavaScript",
+    "topics": [],
+    "created_at": "2025-07-09T13:13:56",
+    "updated_at": "2025-07-11T02:40:04"
   },
   {
-    "name": "memfof",
-    "full_name": "msu-video-group/memfof",
-    "description": "[ICCV'2025] MEMFOF: High-Resolution Training for Memory-Efficient Multi-Frame Optical Flow Estimation",
-    "url": "https://github.com/msu-video-group/memfof",
-    "stars": 37,
+    "name": "pressure",
+    "full_name": "priyanshum17/pressure",
+    "description": "This Python script reads real-time pressure data from a connected Arduino device using FSR (Force-Sensitive Resistor) sensors and a Vernier Force Plate, then logs it to a CSV file",
+    "url": "https://github.com/priyanshum17/pressure",
+    "stars": 4,
     "daily_stars": 1,
-    "language": "Python",
+    "language": "Jupyter Notebook",
     "topics": [
-      "deep-learning",
-      "optical-flow",
-      "pytorch",
-      "video"
+      "arduino",
+      "breast-cancer-detection",
+      "machine-learning",
+      "piezoelectric-sensors"
     ],
-    "created_at": "2025-06-27T10:08:32",
-    "updated_at": "2025-07-10T23:40:30"
+    "created_at": "2025-06-23T19:31:24",
+    "updated_at": "2025-07-11T04:32:58"
   }
 ]
