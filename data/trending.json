@@ -4,8 +4,8 @@
     "full_name": "BloopAI/vibe-kanban",
     "description": "Kanban board to manage your AI coding agents",
     "url": "https://github.com/BloopAI/vibe-kanban",
-    "stars": 536,
-    "daily_stars": 38,
+    "stars": 639,
+    "daily_stars": 103,
     "language": "Rust",
     "topics": [
       "agent",
@@ -15,81 +15,15 @@
       "task-manager"
     ],
     "created_at": "2025-06-14T19:10:21",
-    "updated_at": "2025-07-13T04:54:03"
-  },
-  {
-    "name": "agents-towards-production",
-    "full_name": "NirDiamant/agents-towards-production",
-    "description": " This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.",
-    "url": "https://github.com/NirDiamant/agents-towards-production",
-    "stars": 8236,
-    "daily_stars": 9,
-    "language": "Jupyter Notebook",
-    "topics": [],
-    "created_at": "2025-06-16T17:33:44",
-    "updated_at": "2025-07-13T04:39:02"
-  },
-  {
-    "name": "strassen-attention",
-    "full_name": "lucidrains/strassen-attention",
-    "description": "Implementation of Strassen attention, from Kozachinskiy et al. of National Center of AI in Chile",
-    "url": "https://github.com/lucidrains/strassen-attention",
-    "stars": 38,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [],
-    "created_at": "2025-07-05T21:48:52",
-    "updated_at": "2025-07-13T04:53:06"
-  },
-  {
-    "name": "simplicial-attention",
-    "full_name": "lucidrains/simplicial-attention",
-    "description": "Implementation of 2-simplicial attention proposed by Clift et al. (2019) and the recent attempt to make practical in Fast and Simplex, Roy et al. (2025)",
-    "url": "https://github.com/lucidrains/simplicial-attention",
-    "stars": 35,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [],
-    "created_at": "2025-07-05T13:11:03",
-    "updated_at": "2025-07-13T03:56:18"
-  },
-  {
-    "name": "ScreenMonitorMCP",
-    "full_name": "inkbytefo/ScreenMonitorMCP",
-    "description": "🚀 Revolutionary MCP Server: AI'ya gerçek zamanlı görme yetisi, UI zekası ve öngörülü davranış öğrenme gücü kazandırır. Real-time screen monitoring, smart UI interaction, and predictive AI assistance.",
-    "url": "https://github.com/inkbytefo/ScreenMonitorMCP",
-    "stars": 32,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-08T23:35:29",
-    "updated_at": "2025-07-13T03:56:01"
-  },
-  {
-    "name": "awesome-genai-apps",
-    "full_name": "yesdeepakmittal/awesome-genai-apps",
-    "description": "Build Fullstack GenAI apps and AI Agents",
-    "url": "https://github.com/yesdeepakmittal/awesome-genai-apps",
-    "stars": 6,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "ai-agents",
-      "docker",
-      "llm",
-      "rag",
-      "vector-database"
-    ],
-    "created_at": "2025-06-17T22:40:25",
-    "updated_at": "2025-07-13T03:41:00"
+    "updated_at": "2025-07-13T08:46:19"
   },
   {
     "name": "TextGAN-Researcher",
     "full_name": "imbue-bit/TextGAN-Researcher",
     "description": "🧐 Open Deep Research Agent: Automated Knowledge Discovery with TextGAN",
     "url": "https://github.com/imbue-bit/TextGAN-Researcher",
-    "stars": 20,
-    "daily_stars": 1,
+    "stars": 42,
+    "daily_stars": 22,
     "language": "Python",
     "topics": [
       "agent",
@@ -102,43 +36,59 @@
       "workflow"
     ],
     "created_at": "2025-07-12T14:53:20",
-    "updated_at": "2025-07-13T04:38:07"
+    "updated_at": "2025-07-13T08:39:16"
   },
   {
-    "name": "spark",
-    "full_name": "farhan-syah/spark",
-    "description": "Lightweight project management framework for high-velocity teams. 5 principles,    <2hrs meetings/week, crisis protocols included. Perfect for startups escaping   process overhead.",
-    "url": "https://github.com/farhan-syah/spark",
-    "stars": 1,
-    "daily_stars": 1,
-    "language": null,
+    "name": "agents-towards-production",
+    "full_name": "NirDiamant/agents-towards-production",
+    "description": " This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.",
+    "url": "https://github.com/NirDiamant/agents-towards-production",
+    "stars": 8240,
+    "daily_stars": 4,
+    "language": "Jupyter Notebook",
+    "topics": [],
+    "created_at": "2025-06-16T17:33:44",
+    "updated_at": "2025-07-13T08:01:21"
+  },
+  {
+    "name": "alman",
+    "full_name": "vaibhav-mattoo/alman",
+    "description": "Smart alias manager with TUI for shell aliases and command-line efficiency 🚀",
+    "url": "https://github.com/vaibhav-mattoo/alman",
+    "stars": 10,
+    "daily_stars": 4,
+    "language": "Rust",
     "topics": [
-      "agile",
-      "ai-development",
-      "continuous-delivery",
-      "crisis-management",
-      "framework",
-      "kanban",
-      "lean",
-      "okr",
+      "alias-management",
+      "aliases-setup",
+      "bash",
+      "cli",
+      "command-history",
+      "command-line",
+      "fish",
+      "linux",
+      "macos",
+      "open-source",
       "productivity",
-      "project-management",
-      "remote-teams",
-      "scrum-alternative",
-      "startup",
-      "team-management",
-      "workflow"
+      "rust",
+      "shell-aliases",
+      "shell-scripting",
+      "terminal",
+      "tui",
+      "workflow",
+      "wsl",
+      "zsh"
     ],
-    "created_at": "2025-07-12T08:14:49",
-    "updated_at": "2025-07-13T04:36:39"
+    "created_at": "2025-07-11T23:04:06",
+    "updated_at": "2025-07-13T07:34:23"
   },
   {
     "name": "SparkyFitness",
     "full_name": "CodeWithCJ/SparkyFitness",
     "description": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
     "url": "https://github.com/CodeWithCJ/SparkyFitness",
-    "stars": 313,
-    "daily_stars": 0,
+    "stars": 314,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -153,29 +103,82 @@
       "selfhosted"
     ],
     "created_at": "2025-06-21T14:00:39",
-    "updated_at": "2025-07-13T01:12:26"
+    "updated_at": "2025-07-13T06:15:06"
   },
   {
-    "name": "llm-scratch-pytorch",
-    "full_name": "skyloevil/llm-scratch-pytorch",
-    "description": "lm-scratch-pytorch - The code is designed to be beginner-friendly, with a focus on understanding the fundamentals of PyTorch and implementing LLMs from scratch,step by step.",
-    "url": "https://github.com/skyloevil/llm-scratch-pytorch",
-    "stars": 101,
-    "daily_stars": 0,
-    "language": "Jupyter Notebook",
+    "name": "TRI-LBM",
+    "full_name": "lucidrains/TRI-LBM",
+    "description": "Implementation of the Large Behavioral Model architecture for dexterous manipulation from Toyota Research Institute",
+    "url": "https://github.com/lucidrains/TRI-LBM",
+    "stars": 28,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [],
+    "created_at": "2025-07-11T00:10:37",
+    "updated_at": "2025-07-13T06:21:30"
+  },
+  {
+    "name": "Smart-Transportation-System",
+    "full_name": "vietanhlee/Smart-Transportation-System",
+    "description": "This project is a Smart Transportation System designed to monitor and evaluate real-time traffic congestion in urban areas using traffic surveillance cameras",
+    "url": "https://github.com/vietanhlee/Smart-Transportation-System",
+    "stars": 5,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-01T15:28:00",
+    "updated_at": "2025-07-13T05:21:00"
+  },
+  {
+    "name": "SAVM",
+    "full_name": "nurettinberkaydemirkol/SAVM",
+    "description": "Self-Additive Vector Model",
+    "url": "https://github.com/nurettinberkaydemirkol/SAVM",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "Python",
     "topics": [
-      "ai",
       "artificial-intelligence",
-      "chatgpt",
-      "gpt-2",
-      "language-model",
+      "python"
+    ],
+    "created_at": "2025-06-22T22:42:48",
+    "updated_at": "2025-07-13T08:46:20"
+  },
+  {
+    "name": "ai-blog-generator",
+    "full_name": "analyticalrohit/ai-blog-generator",
+    "description": "AI Blog Generator is powered by multi-agents based on Agno framework. Supports leading LLM providers like OpenAI, Gemini, Claude, and Grok.",
+    "url": "https://github.com/analyticalrohit/ai-blog-generator",
+    "stars": 27,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "agents",
+      "agno",
+      "ai-agents",
+      "claude",
+      "deep-learning",
+      "gemini",
+      "generative-ai",
+      "grok",
       "llm",
       "machine-learning",
-      "pytorch",
-      "scratch-implementation",
-      "transformers"
+      "openai"
     ],
-    "created_at": "2025-06-14T08:41:08",
-    "updated_at": "2025-07-05T02:23:57"
+    "created_at": "2025-07-01T04:04:01",
+    "updated_at": "2025-07-13T08:27:22"
+  },
+  {
+    "name": "june-2025-coding-agent-report",
+    "full_name": "The-Focus-AI/june-2025-coding-agent-report",
+    "description": "Comprehensive evaluation of 15 AI coding agents (Cursor, Copilot, Claude, Replit, v0, Warp, etc.) with implementations, screenshots, and professional scoring. Published on Turing Post.",
+    "url": "https://github.com/The-Focus-AI/june-2025-coding-agent-report",
+    "stars": 25,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-06-25T23:57:45",
+    "updated_at": "2025-07-13T07:27:48"
   }
 ]
