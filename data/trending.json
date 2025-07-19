@@ -1,11 +1,30 @@
 [
   {
+    "name": "tensorone",
+    "full_name": "Tensorone-AI/tensorone",
+    "description": "Tensorone.ai Dapp Project",
+    "url": "https://github.com/Tensorone-AI/tensorone",
+    "stars": 29,
+    "daily_stars": 10,
+    "language": "Svelte",
+    "topics": [
+      "ai-agents",
+      "gpu-computing",
+      "llm",
+      "mcp-server",
+      "web3",
+      "webapp"
+    ],
+    "created_at": "2025-07-17T20:58:05",
+    "updated_at": "2025-07-19T08:24:30"
+  },
+  {
     "name": "opencode.nvim",
     "full_name": "NickvanDyke/opencode.nvim",
     "description": "Conveniently interface with the opencode AI assistant inside Neovim.",
     "url": "https://github.com/NickvanDyke/opencode.nvim",
-    "stars": 74,
-    "daily_stars": 7,
+    "stars": 80,
+    "daily_stars": 6,
     "language": "Lua",
     "topics": [
       "ai-agents",
@@ -17,15 +36,27 @@
       "terminal"
     ],
     "created_at": "2025-07-12T13:52:17",
-    "updated_at": "2025-07-19T04:33:42"
+    "updated_at": "2025-07-19T08:09:44"
+  },
+  {
+    "name": "studorama",
+    "full_name": "oluiscabral/studorama",
+    "description": "AI-powered study sessions to enhance your learning",
+    "url": "https://github.com/oluiscabral/studorama",
+    "stars": 34,
+    "daily_stars": 2,
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-07-01T03:22:40",
+    "updated_at": "2025-07-19T06:48:15"
   },
   {
     "name": "SparkyFitness",
     "full_name": "CodeWithCJ/SparkyFitness",
     "description": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
     "url": "https://github.com/CodeWithCJ/SparkyFitness",
-    "stars": 465,
-    "daily_stars": 2,
+    "stars": 466,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -40,168 +71,69 @@
       "selfhosted"
     ],
     "created_at": "2025-06-21T14:00:39",
-    "updated_at": "2025-07-19T03:57:54"
+    "updated_at": "2025-07-19T08:03:16"
   },
   {
-    "name": "tensorone",
-    "full_name": "Tensorone-AI/tensorone",
-    "description": "Tensorone.ai Dapp Project",
-    "url": "https://github.com/Tensorone-AI/tensorone",
-    "stars": 19,
-    "daily_stars": 1,
-    "language": "Svelte",
-    "topics": [
-      "ai-agents",
-      "gpu-computing",
-      "llm",
-      "mcp-server",
-      "web3",
-      "webapp"
-    ],
-    "created_at": "2025-07-17T20:58:05",
-    "updated_at": "2025-07-19T04:37:06"
-  },
-  {
-    "name": "ByeDB",
-    "full_name": "MarcusMQF/ByeDB",
-    "description": "ByeDB.AI is an innovative AI-powered platform transforming natural language into data insights, all within a familiar chat interface. It enables non-technical users to effortlessly query databases, visualize results with charts, and export data, eliminating the need for SQL knowledge. ",
-    "url": "https://github.com/MarcusMQF/ByeDB",
-    "stars": 2,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "data-visualization",
-      "database",
-      "llm-agent",
-      "queries",
-      "sql"
-    ],
-    "created_at": "2025-07-15T08:08:42",
-    "updated_at": "2025-07-19T02:33:14"
-  },
-  {
-    "name": "cognivault",
-    "full_name": "aucontraire/cognivault",
-    "description": "CogniVault is a modular, CLI-based multi-agent assistant designed to help you reflect, refine, and organize your thoughts",
-    "url": "https://github.com/aucontraire/cognivault",
-    "stars": 2,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "agent-framework",
-      "ai-agents",
-      "cli-tool",
-      "knowledge-management",
-      "langchain",
-      "llm",
-      "markdown-export",
-      "python",
-      "rag"
-    ],
-    "created_at": "2025-06-24T12:55:31",
-    "updated_at": "2025-07-19T02:37:55"
-  },
-  {
-    "name": "knowledgehub",
-    "full_name": "anubissbe/knowledgehub",
-    "description": "AI-powered documentation management system with RAG search, vector embeddings, and automated content crawling",
-    "url": "https://github.com/anubissbe/knowledgehub",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "docker",
-      "documentation",
-      "fastapi",
-      "gpu-acceleration",
-      "knowledge-management",
-      "machine-learning",
-      "rag",
-      "react",
-      "semantic-search",
-      "typescript",
-      "vector-database",
-      "vector-search",
-      "weaviate"
-    ],
-    "created_at": "2025-07-03T14:56:44",
-    "updated_at": "2025-07-19T02:42:01"
-  },
-  {
-    "name": "laravel-n8n",
-    "full_name": "kayedspace/laravel-n8n",
-    "description": "A complete, expressive, and fluent Laravel client for the n8n public REST API and Webhooks Triggering.",
-    "url": "https://github.com/kayedspace/laravel-n8n",
-    "stars": 57,
-    "daily_stars": 1,
-    "language": "PHP",
-    "topics": [
-      "automation",
-      "laravel",
-      "n8n",
-      "workflow"
-    ],
-    "created_at": "2025-07-01T09:37:49",
-    "updated_at": "2025-07-19T03:24:12"
-  },
-  {
-    "name": "superclaude",
-    "full_name": "gwendall/superclaude",
-    "description": "🚀 Give Claude AI superpowers for GitHub workflows. Transform \"fix stuff\" commits into professional messages, generate intelligent changelogs, and get AI code reviews - all with one command.",
-    "url": "https://github.com/gwendall/superclaude",
-    "stars": 55,
-    "daily_stars": 1,
-    "language": "Shell",
-    "topics": [
-      "ai",
-      "anthropic",
-      "automation",
-      "changelog",
-      "claude",
-      "code-review",
-      "commit-messages",
-      "developer-tools",
-      "documentation",
-      "github",
-      "productivity",
-      "workflow"
-    ],
-    "created_at": "2025-06-21T07:05:01",
-    "updated_at": "2025-07-19T02:32:48"
-  },
-  {
-    "name": "n8n-image-generator",
-    "full_name": "yatharthsanghvi/n8n-image-generator",
-    "description": "🎨 Production-ready AI Image Generation API built with n8n - Features advanced rate limiting, content filtering, multiple AI providers, and a beautiful React frontend. Generate stunning images with Flux, Turbo, and custom models.",
-    "url": "https://github.com/yatharthsanghvi/n8n-image-generator",
-    "stars": 5,
+    "name": "exospherehost",
+    "full_name": "exospherehost/exospherehost",
+    "description": "Think of this repository like a public mono repo for exosphere.host to simplify infrastructure once in for all.",
+    "url": "https://github.com/exospherehost/exospherehost",
+    "stars": 28,
     "daily_stars": 1,
     "language": null,
     "topics": [
-      "ai",
-      "ai-art",
-      "api",
-      "automation",
-      "content-filtering",
-      "free",
-      "image-api",
-      "image-generation",
-      "javascript",
-      "low-code",
-      "n8n",
-      "no-code",
-      "open-source",
-      "pollinations",
-      "production-ready",
-      "rate-limiting",
-      "react",
-      "webhook",
-      "workflow"
+      "artificial-intelligence",
+      "background-jobs",
+      "cpu-scheduling",
+      "data-pipelines",
+      "devops",
+      "distributed-systems",
+      "gpu-computing",
+      "infrastructure",
+      "mlops",
+      "multi-model-pipeline",
+      "workflow-engine",
+      "workflows"
     ],
-    "created_at": "2025-07-07T07:44:13",
-    "updated_at": "2025-07-19T02:58:36"
+    "created_at": "2025-06-20T08:04:08",
+    "updated_at": "2025-07-19T07:59:10"
+  },
+  {
+    "name": "SRT-H",
+    "full_name": "lucidrains/SRT-H",
+    "description": "Implementation of the model architecture for SRT-H",
+    "url": "https://github.com/lucidrains/SRT-H",
+    "stars": 11,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [],
+    "created_at": "2025-07-16T18:25:54",
+    "updated_at": "2025-07-19T04:53:00"
+  },
+  {
+    "name": "jecq",
+    "full_name": "JaneaSystems/jecq",
+    "description": "Faiss-based library for efficient similarity search",
+    "url": "https://github.com/JaneaSystems/jecq",
+    "stars": 54,
+    "daily_stars": 1,
+    "language": "C++",
+    "topics": [
+      "faiss",
+      "iterative-quantization",
+      "machine-learning",
+      "product-quantization",
+      "quantization",
+      "rag",
+      "recommendation-systems",
+      "retrieval-augmented-generation",
+      "semantic-search",
+      "similarity-search",
+      "vector-database",
+      "vector-search"
+    ],
+    "created_at": "2025-07-01T10:47:13",
+    "updated_at": "2025-07-19T07:03:36"
   },
   {
     "name": "ai-sdk-cpp",
@@ -222,5 +154,29 @@
     ],
     "created_at": "2025-06-21T18:50:48",
     "updated_at": "2025-07-16T08:31:04"
+  },
+  {
+    "name": "alphagenome",
+    "full_name": "lucidrains/alphagenome",
+    "description": "Implementation of AlphaGenome, Deepmind's updated genomic attention model",
+    "url": "https://github.com/lucidrains/alphagenome",
+    "stars": 54,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-06-27T12:30:07",
+    "updated_at": "2025-07-19T01:16:02"
+  },
+  {
+    "name": "h-net-dynamic-chunking",
+    "full_name": "lucidrains/h-net-dynamic-chunking",
+    "description": "Implementation of the dynamic chunking mechanism in H-net by Hwang et al. of Carnegie Mellon",
+    "url": "https://github.com/lucidrains/h-net-dynamic-chunking",
+    "stars": 50,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-14T13:45:07",
+    "updated_at": "2025-07-18T11:30:45"
   }
 ]
