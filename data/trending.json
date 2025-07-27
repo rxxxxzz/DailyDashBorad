@@ -1,11 +1,23 @@
 [
   {
+    "name": "Chronos",
+    "full_name": "Kodezi/Chronos",
+    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
+    "url": "https://github.com/Kodezi/Chronos",
+    "stars": 311,
+    "daily_stars": 67,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-21T07:34:10",
+    "updated_at": "2025-07-27T04:59:47"
+  },
+  {
     "name": "HRM",
     "full_name": "sapientinc/HRM",
     "description": "Hierarchical Reasoning Model Official Release",
     "url": "https://github.com/sapientinc/HRM",
-    "stars": 1101,
-    "daily_stars": 66,
+    "stars": 1136,
+    "daily_stars": 35,
     "language": "Python",
     "topics": [
       "brain-inspired-ai",
@@ -14,15 +26,15 @@
       "reasoning"
     ],
     "created_at": "2025-07-09T02:09:32",
-    "updated_at": "2025-07-27T02:51:56"
+    "updated_at": "2025-07-27T04:55:21"
   },
   {
     "name": "agents",
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 50,
-    "daily_stars": 14,
+    "stars": 57,
+    "daily_stars": 7,
     "language": null,
     "topics": [
       "agents",
@@ -35,145 +47,131 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-07-27T02:20:24"
-  },
-  {
-    "name": "traceroot",
-    "full_name": "traceroot-ai/traceroot",
-    "description": "Find the Root cause in your Code's Trace",
-    "url": "https://github.com/traceroot-ai/traceroot",
-    "stars": 95,
-    "daily_stars": 5,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agents",
-      "debugging",
-      "llm",
-      "monitoring",
-      "multi-agent-systems",
-      "observability",
-      "trace"
-    ],
-    "created_at": "2025-07-22T19:50:15",
-    "updated_at": "2025-07-27T01:13:24"
+    "updated_at": "2025-07-27T04:47:49"
   },
   {
     "name": "devops-ai-guidelines",
     "full_name": "VersusControl/devops-ai-guidelines",
     "description": "🚀 Your complete toolkit for mastering AI in DevOps - from career advancement to daily productivity hacks",
     "url": "https://github.com/VersusControl/devops-ai-guidelines",
-    "stars": 138,
-    "daily_stars": 2,
+    "stars": 142,
+    "daily_stars": 4,
     "language": null,
     "topics": [],
     "created_at": "2025-07-20T11:15:56",
-    "updated_at": "2025-07-27T01:52:33"
+    "updated_at": "2025-07-27T04:51:29"
   },
   {
-    "name": "llm-fortress",
-    "full_name": "olegnazarov/llm-fortress",
-    "description": "Enterprise AI Security Platform - Real-time firewall protection for LLM applications against prompt injection, data leakage, and function abuse attacks",
-    "url": "https://github.com/olegnazarov/llm-fortress",
-    "stars": 10,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-18T18:39:57",
-    "updated_at": "2025-07-26T23:45:46"
-  },
-  {
-    "name": "Chronos",
-    "full_name": "Kodezi/Chronos",
-    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
-    "url": "https://github.com/Kodezi/Chronos",
-    "stars": 244,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-07-27T00:25:34"
-  },
-  {
-    "name": "studorama",
-    "full_name": "oluiscabral/studorama",
-    "description": "AI-powered study sessions to enhance your learning",
-    "url": "https://github.com/oluiscabral/studorama",
-    "stars": 57,
+    "name": "gaia",
+    "full_name": "heygaia/gaia",
+    "description": "Your open source, proactive & personal assistant that gets things done",
+    "url": "https://github.com/heygaia/gaia",
+    "stars": 16,
     "daily_stars": 1,
     "language": "TypeScript",
     "topics": [],
-    "created_at": "2025-07-01T03:22:40",
-    "updated_at": "2025-07-26T21:25:38"
-  },
-  {
-    "name": "voice-separator-demucs",
-    "full_name": "paladini/voice-separator-demucs",
-    "description": "A simple and efficient web application to separate vocals from music using artificial intelligence.",
-    "url": "https://github.com/paladini/voice-separator-demucs",
-    "stars": 5,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "demucs",
-      "facebook",
-      "fastapi",
-      "instruments",
-      "meta",
-      "music",
-      "python",
-      "separator",
-      "song",
-      "sound",
-      "vocal",
-      "voice"
-    ],
-    "created_at": "2025-07-11T01:07:37",
-    "updated_at": "2025-07-26T21:15:33"
+    "created_at": "2025-07-08T18:12:37",
+    "updated_at": "2025-07-27T02:59:19"
   },
   {
     "name": "HRM",
     "full_name": "lucidrains/HRM",
     "description": "Exploration into the proposed architecture from Sapient Intelligence of Singapore",
     "url": "https://github.com/lucidrains/HRM",
-    "stars": 5,
+    "stars": 6,
     "daily_stars": 1,
     "language": "Python",
     "topics": [],
     "created_at": "2025-07-24T15:41:22",
-    "updated_at": "2025-07-26T23:06:59"
+    "updated_at": "2025-07-27T03:46:57"
   },
   {
-    "name": "shinzo-ts",
-    "full_name": "shinzo-labs/shinzo-ts",
-    "description": "Composable analytics stack for MCP servers.",
-    "url": "https://github.com/shinzo-labs/shinzo-ts",
-    "stars": 29,
+    "name": "ai-agent-custom-llm-demos",
+    "full_name": "ueberdosis/ai-agent-custom-llm-demos",
+    "description": "Integrate the Tiptap AI Agent extension with a custom backend and AI model provider.",
+    "url": "https://github.com/ueberdosis/ai-agent-custom-llm-demos",
+    "stars": 4,
+    "daily_stars": 1,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agent",
+      "ai-agents",
+      "rich-text-editor",
+      "text-editor",
+      "tiptap"
+    ],
+    "created_at": "2025-07-02T09:07:45",
+    "updated_at": "2025-07-27T03:14:53"
+  },
+  {
+    "name": "claude-code-mobile-ssh",
+    "full_name": "aiya000/claude-code-mobile-ssh",
+    "description": "A PWA App, Graphical Client for Claude Code, via SSH, **with Powerful Integrations for Graphcal Operations**!! For Android, iOS, Windows, macOS, Linux, and any PWA supporting OS.",
+    "url": "https://github.com/aiya000/claude-code-mobile-ssh",
+    "stars": 2,
     "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
-      "ai",
       "ai-agents",
-      "analytics",
-      "framework",
-      "infrastructure",
-      "instrumentation",
-      "javascript",
-      "library",
-      "mcp",
-      "mcp-server",
-      "mcp-tools",
-      "nodejs",
-      "observability",
-      "open-source",
-      "opentelemetry",
-      "telemetry",
-      "typescript"
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "pwa"
     ],
-    "created_at": "2025-07-04T22:22:52",
-    "updated_at": "2025-07-27T00:08:14"
+    "created_at": "2025-07-25T09:15:47",
+    "updated_at": "2025-07-27T02:57:32"
+  },
+  {
+    "name": "swift-f0",
+    "full_name": "lars76/swift-f0",
+    "description": "Fast and accurate fundamental frequency (F0) detector using convolutional neural networks",
+    "url": "https://github.com/lars76/swift-f0",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "audio-analysis",
+      "convolutional-neural-networks",
+      "deep-learning",
+      "fundamental-frequency",
+      "machine-learning",
+      "onnx",
+      "pitch-detection",
+      "python",
+      "signal-processing",
+      "speech-processing"
+    ],
+    "created_at": "2025-07-08T00:23:13",
+    "updated_at": "2025-07-27T03:41:30"
+  },
+  {
+    "name": "llama-llm-from-scratch",
+    "full_name": "adarsh-crafts/llama-llm-from-scratch",
+    "description": "Educational, from-scratch implementation of a LLaMA-style LLM using PyTorch to explore Transformer architecture fundamentals.",
+    "url": "https://github.com/adarsh-crafts/llama-llm-from-scratch",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "deep-learning",
+      "educational",
+      "from-scratch",
+      "from-scratch-implementation",
+      "language-model",
+      "llama",
+      "llm",
+      "machine-learning",
+      "model-implementation",
+      "natural-language-processing",
+      "neural-networks",
+      "nlp",
+      "pytorch",
+      "research",
+      "self-attention",
+      "transformer-model",
+      "transformers"
+    ],
+    "created_at": "2025-07-08T08:28:32",
+    "updated_at": "2025-07-27T04:02:27"
   }
 ]
