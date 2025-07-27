@@ -4,20 +4,20 @@
     "full_name": "Kodezi/Chronos",
     "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
     "url": "https://github.com/Kodezi/Chronos",
-    "stars": 311,
-    "daily_stars": 67,
+    "stars": 402,
+    "daily_stars": 91,
     "language": "Python",
     "topics": [],
     "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-07-27T04:59:47"
+    "updated_at": "2025-07-27T08:47:39"
   },
   {
     "name": "HRM",
     "full_name": "sapientinc/HRM",
     "description": "Hierarchical Reasoning Model Official Release",
     "url": "https://github.com/sapientinc/HRM",
-    "stars": 1136,
-    "daily_stars": 35,
+    "stars": 1188,
+    "daily_stars": 52,
     "language": "Python",
     "topics": [
       "brain-inspired-ai",
@@ -26,15 +26,15 @@
       "reasoning"
     ],
     "created_at": "2025-07-09T02:09:32",
-    "updated_at": "2025-07-27T04:55:21"
+    "updated_at": "2025-07-27T08:45:37"
   },
   {
     "name": "agents",
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 57,
-    "daily_stars": 7,
+    "stars": 67,
+    "daily_stars": 10,
     "language": null,
     "topics": [
       "agents",
@@ -47,68 +47,103 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-07-27T04:47:49"
+    "updated_at": "2025-07-27T08:15:53"
   },
   {
     "name": "devops-ai-guidelines",
     "full_name": "VersusControl/devops-ai-guidelines",
     "description": "🚀 Your complete toolkit for mastering AI in DevOps - from career advancement to daily productivity hacks",
     "url": "https://github.com/VersusControl/devops-ai-guidelines",
-    "stars": 142,
-    "daily_stars": 4,
+    "stars": 144,
+    "daily_stars": 2,
     "language": null,
     "topics": [],
     "created_at": "2025-07-20T11:15:56",
-    "updated_at": "2025-07-27T04:51:29"
+    "updated_at": "2025-07-27T08:41:32"
   },
   {
-    "name": "gaia",
-    "full_name": "heygaia/gaia",
-    "description": "Your open source, proactive & personal assistant that gets things done",
-    "url": "https://github.com/heygaia/gaia",
-    "stars": 16,
+    "name": "ClaudeCage",
+    "full_name": "PACHAKUTlQ/ClaudeCage",
+    "description": "Claude Code running in container/sandbox. Packed as single portable executable with no dependency. Better performance than original Claude Code.",
+    "url": "https://github.com/PACHAKUTlQ/ClaudeCage",
+    "stars": 50,
+    "daily_stars": 2,
+    "language": "Shell",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "ai-security",
+      "anthropic",
+      "anthropic-claude",
+      "bubblewrap",
+      "bun",
+      "claude",
+      "claude-code",
+      "claude-desktop",
+      "coding",
+      "container",
+      "linux",
+      "namespace",
+      "sandbox",
+      "security",
+      "vibe-coding"
+    ],
+    "created_at": "2025-06-29T12:13:32",
+    "updated_at": "2025-07-27T06:40:51"
+  },
+  {
+    "name": "studorama",
+    "full_name": "oluiscabral/studorama",
+    "description": "AI-powered study sessions to enhance your learning",
+    "url": "https://github.com/oluiscabral/studorama",
+    "stars": 58,
     "daily_stars": 1,
     "language": "TypeScript",
     "topics": [],
-    "created_at": "2025-07-08T18:12:37",
-    "updated_at": "2025-07-27T02:59:19"
+    "created_at": "2025-07-01T03:22:40",
+    "updated_at": "2025-07-27T05:52:35"
   },
   {
-    "name": "HRM",
-    "full_name": "lucidrains/HRM",
-    "description": "Exploration into the proposed architecture from Sapient Intelligence of Singapore",
-    "url": "https://github.com/lucidrains/HRM",
-    "stars": 6,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-24T15:41:22",
-    "updated_at": "2025-07-27T03:46:57"
-  },
-  {
-    "name": "ai-agent-custom-llm-demos",
-    "full_name": "ueberdosis/ai-agent-custom-llm-demos",
-    "description": "Integrate the Tiptap AI Agent extension with a custom backend and AI model provider.",
-    "url": "https://github.com/ueberdosis/ai-agent-custom-llm-demos",
+    "name": "GitLook",
+    "full_name": "PrakharDoneria/GitLook",
+    "description": "Gemini and GitHub API based platform that provides a detailed report and 20 quiz on your GitHub profile",
+    "url": "https://github.com/PrakharDoneria/GitLook",
     "stars": 4,
     "daily_stars": 1,
-    "language": "JavaScript",
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-07-06T09:55:22",
+    "updated_at": "2025-07-27T06:40:45"
+  },
+  {
+    "name": "contextual-engineering-guide",
+    "full_name": "FareedKhan-dev/contextual-engineering-guide",
+    "description": "Implementation of contextual engineering pipeline with LangChain and LangGraph Agents",
+    "url": "https://github.com/FareedKhan-dev/contextual-engineering-guide",
+    "stars": 9,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
     "topics": [
-      "ai-agent",
+      "ai",
       "ai-agents",
-      "rich-text-editor",
-      "text-editor",
-      "tiptap"
+      "claude",
+      "context-engineering",
+      "langchain",
+      "langgraph",
+      "large-language-models",
+      "openai",
+      "prompt-engineering"
     ],
-    "created_at": "2025-07-02T09:07:45",
-    "updated_at": "2025-07-27T03:14:53"
+    "created_at": "2025-07-24T10:50:35",
+    "updated_at": "2025-07-27T08:29:50"
   },
   {
     "name": "claude-code-mobile-ssh",
     "full_name": "aiya000/claude-code-mobile-ssh",
     "description": "A PWA App, Graphical Client for Claude Code, via SSH, **with Powerful Integrations for Graphcal Operations**!! For Android, iOS, Windows, macOS, Linux, and any PWA supporting OS.",
     "url": "https://github.com/aiya000/claude-code-mobile-ssh",
-    "stars": 2,
+    "stars": 3,
     "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
@@ -119,59 +154,18 @@
       "pwa"
     ],
     "created_at": "2025-07-25T09:15:47",
-    "updated_at": "2025-07-27T02:57:32"
+    "updated_at": "2025-07-27T08:08:04"
   },
   {
-    "name": "swift-f0",
-    "full_name": "lars76/swift-f0",
-    "description": "Fast and accurate fundamental frequency (F0) detector using convolutional neural networks",
-    "url": "https://github.com/lars76/swift-f0",
-    "stars": 3,
-    "daily_stars": 1,
+    "name": "h-net-dynamic-chunking",
+    "full_name": "lucidrains/h-net-dynamic-chunking",
+    "description": "Implementation of the dynamic chunking mechanism in H-net by Hwang et al. of Carnegie Mellon",
+    "url": "https://github.com/lucidrains/h-net-dynamic-chunking",
+    "stars": 61,
+    "daily_stars": 0,
     "language": "Python",
-    "topics": [
-      "audio-analysis",
-      "convolutional-neural-networks",
-      "deep-learning",
-      "fundamental-frequency",
-      "machine-learning",
-      "onnx",
-      "pitch-detection",
-      "python",
-      "signal-processing",
-      "speech-processing"
-    ],
-    "created_at": "2025-07-08T00:23:13",
-    "updated_at": "2025-07-27T03:41:30"
-  },
-  {
-    "name": "llama-llm-from-scratch",
-    "full_name": "adarsh-crafts/llama-llm-from-scratch",
-    "description": "Educational, from-scratch implementation of a LLaMA-style LLM using PyTorch to explore Transformer architecture fundamentals.",
-    "url": "https://github.com/adarsh-crafts/llama-llm-from-scratch",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "deep-learning",
-      "educational",
-      "from-scratch",
-      "from-scratch-implementation",
-      "language-model",
-      "llama",
-      "llm",
-      "machine-learning",
-      "model-implementation",
-      "natural-language-processing",
-      "neural-networks",
-      "nlp",
-      "pytorch",
-      "research",
-      "self-attention",
-      "transformer-model",
-      "transformers"
-    ],
-    "created_at": "2025-07-08T08:28:32",
-    "updated_at": "2025-07-27T04:02:27"
+    "topics": [],
+    "created_at": "2025-07-14T13:45:07",
+    "updated_at": "2025-07-24T13:27:53"
   }
 ]
