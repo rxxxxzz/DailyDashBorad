@@ -4,8 +4,8 @@
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 441,
-    "daily_stars": 122,
+    "stars": 493,
+    "daily_stars": 52,
     "language": null,
     "topics": [
       "agents",
@@ -18,15 +18,15 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-07-29T02:54:44"
+    "updated_at": "2025-07-29T04:58:52"
   },
   {
     "name": "HRM",
     "full_name": "sapientinc/HRM",
     "description": "Hierarchical Reasoning Model Official Release",
     "url": "https://github.com/sapientinc/HRM",
-    "stars": 1804,
-    "daily_stars": 45,
+    "stars": 1826,
+    "daily_stars": 22,
     "language": "Python",
     "topics": [
       "brain-inspired-ai",
@@ -35,15 +35,15 @@
       "reasoning"
     ],
     "created_at": "2025-07-09T02:09:32",
-    "updated_at": "2025-07-29T02:52:11"
+    "updated_at": "2025-07-29T05:01:39"
   },
   {
     "name": "claude-sub-agent",
     "full_name": "zhsama/claude-sub-agent",
     "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
     "url": "https://github.com/zhsama/claude-sub-agent",
-    "stars": 68,
-    "daily_stars": 5,
+    "stars": 71,
+    "daily_stars": 3,
     "language": null,
     "topics": [
       "agent",
@@ -52,7 +52,52 @@
       "workflow"
     ],
     "created_at": "2025-07-27T14:48:13",
-    "updated_at": "2025-07-29T02:44:56"
+    "updated_at": "2025-07-29T04:38:12"
+  },
+  {
+    "name": "studorama",
+    "full_name": "oluiscabral/studorama",
+    "description": "AI-powered study sessions to enhance your learning",
+    "url": "https://github.com/oluiscabral/studorama",
+    "stars": 70,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-07-01T03:22:40",
+    "updated_at": "2025-07-29T03:27:51"
+  },
+  {
+    "name": "gitmesh",
+    "full_name": "LF-Decentralized-Trust-Mentorships/gitmesh",
+    "description": "Intelligent Git collaboration network with branch-level AI assistance, smart contributor matching, and real-time workflow coordination for open-source projects.",
+    "url": "https://github.com/LF-Decentralized-Trust-Mentorships/gitmesh",
+    "stars": 32,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-07-25T16:43:40",
+    "updated_at": "2025-07-29T03:45:57"
+  },
+  {
+    "name": "smart-realtime-action-recognition",
+    "full_name": "YUKII2K3/smart-realtime-action-recognition",
+    "description": "A real-time human action recognition system built with OpenCV and deep learning. Detects and classifies multiple actions from live video streams for smart surveillance use cases. Designed for performance, scalability, and integration into modern security systems.",
+    "url": "https://github.com/YUKII2K3/smart-realtime-action-recognition",
+    "stars": 5,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "action-recognition",
+      "ai",
+      "computer-vision",
+      "deep-learning",
+      "opencv",
+      "python",
+      "realtime",
+      "surveillance"
+    ],
+    "created_at": "2025-07-04T15:55:10",
+    "updated_at": "2025-07-29T03:19:27"
   },
   {
     "name": "Chronos",
@@ -60,125 +105,46 @@
     "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
     "url": "https://github.com/Kodezi/Chronos",
     "stars": 467,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [],
     "created_at": "2025-07-21T07:34:10",
     "updated_at": "2025-07-29T01:56:56"
   },
   {
-    "name": "strassen-attention",
-    "full_name": "lucidrains/strassen-attention",
-    "description": "Implementation of Strassen attention, from Kozachinskiy et al. of National Center of AI in Chile",
-    "url": "https://github.com/lucidrains/strassen-attention",
-    "stars": 41,
-    "daily_stars": 1,
+    "name": "devops-ai-guidelines",
+    "full_name": "VersusControl/devops-ai-guidelines",
+    "description": "🚀 Your complete toolkit for mastering AI in DevOps - from career advancement to daily productivity hacks",
+    "url": "https://github.com/VersusControl/devops-ai-guidelines",
+    "stars": 172,
+    "daily_stars": 0,
     "language": null,
     "topics": [],
-    "created_at": "2025-07-05T21:48:52",
-    "updated_at": "2025-07-28T21:41:20"
+    "created_at": "2025-07-20T11:15:56",
+    "updated_at": "2025-07-29T04:19:32"
   },
   {
-    "name": "TRI-LBM",
-    "full_name": "lucidrains/TRI-LBM",
-    "description": "Implementation of the Large Behavioral Model architecture for dexterous manipulation from Toyota Research Institute",
-    "url": "https://github.com/lucidrains/TRI-LBM",
-    "stars": 39,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [],
-    "created_at": "2025-07-11T00:10:37",
-    "updated_at": "2025-07-29T01:15:16"
-  },
-  {
-    "name": "gitvoyant",
-    "full_name": "Cre4T3Tiv3/gitvoyant",
-    "description": "Temporal code intelligence platform that analyzes Git history to understand code evolution patterns. Reveals quality engineering signatures that static analysis tools miss - validated on Flask showing -26.5% complexity reduction. Research foundation for next-generation AI code agents.",
-    "url": "https://github.com/Cre4T3Tiv3/gitvoyant",
-    "stars": 10,
-    "daily_stars": 1,
+    "name": "h-net-dynamic-chunking",
+    "full_name": "lucidrains/h-net-dynamic-chunking",
+    "description": "Implementation of the dynamic chunking mechanism in H-net by Hwang et al. of Carnegie Mellon",
+    "url": "https://github.com/lucidrains/h-net-dynamic-chunking",
+    "stars": 61,
+    "daily_stars": 0,
     "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-code-tools",
-      "code-evolution",
-      "code-intelligence",
-      "code-patterns",
-      "code-quality",
-      "code-trends",
-      "complexity-analysis",
-      "developer-tools",
-      "flask",
-      "git-analysis",
-      "git-history",
-      "python",
-      "quality-engineering",
-      "software-engineering",
-      "software-evolution",
-      "software-metrics",
-      "technical-debt",
-      "temporal-analysis",
-      "temporal-intelligence"
-    ],
-    "created_at": "2025-07-11T04:37:12",
-    "updated_at": "2025-07-28T23:51:15"
-  },
-  {
-    "name": "agent-academy-labs",
-    "full_name": "Cre4T3Tiv3/agent-academy-labs",
-    "description": "A space for comprehensive learning of agent-based software architectures. Progressive tutorials from reactive agents to AI-driven distributed systems. SPADE, Mesa, custom architectures with modern Python.",
-    "url": "https://github.com/Cre4T3Tiv3/agent-academy-labs",
-    "stars": 6,
-    "daily_stars": 1,
-    "language": null,
     "topics": [],
-    "created_at": "2025-07-16T20:35:27",
-    "updated_at": "2025-07-28T23:51:16"
+    "created_at": "2025-07-14T13:45:07",
+    "updated_at": "2025-07-24T13:27:53"
   },
   {
-    "name": "pophive-mcp-server",
-    "full_name": "Cicatriiz/pophive-mcp-server",
-    "description": "MCP server for PopHIVE public health data - Access near real-time health data from Yale's PopHIVE platform'",
-    "url": "https://github.com/Cicatriiz/pophive-mcp-server",
-    "stars": 6,
-    "daily_stars": 1,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "anthropic",
-      "anthropic-claude",
-      "artificial-intelligence",
-      "chatgpt",
-      "dxt",
-      "gemini",
-      "healthcare",
-      "llm",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "modelcontextprotocol",
-      "open-source",
-      "pophive",
-      "public-health",
-      "yale"
-    ],
-    "created_at": "2025-07-02T22:24:26",
-    "updated_at": "2025-07-29T02:24:11"
-  },
-  {
-    "name": "DispatchMail",
-    "full_name": "dbish/DispatchMail",
-    "description": "DispatchMail is an open source locally run (though currently using OpenAI for queries) AI-powered email assistant that helps you manage your inbox. ",
-    "url": "https://github.com/dbish/DispatchMail",
-    "stars": 46,
-    "daily_stars": 1,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "email"
-    ],
-    "created_at": "2025-07-11T02:24:13",
-    "updated_at": "2025-07-29T00:46:42"
+    "name": "rag-security-scanner",
+    "full_name": "olegnazarov/rag-security-scanner",
+    "description": "RAG/LLM Security Scanner identifies critical vulnerabilities in AI-powered applications, including chatbots, virtual assistants, and knowledge retrieval systems.",
+    "url": "https://github.com/olegnazarov/rag-security-scanner",
+    "stars": 44,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-15T14:16:25",
+    "updated_at": "2025-07-27T10:52:04"
   }
 ]
