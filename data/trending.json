@@ -4,20 +4,20 @@
     "full_name": "Kodezi/Chronos",
     "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
     "url": "https://github.com/Kodezi/Chronos",
-    "stars": 750,
-    "daily_stars": 25,
+    "stars": 817,
+    "daily_stars": 67,
     "language": "Python",
     "topics": [],
     "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-07-30T05:01:25"
+    "updated_at": "2025-07-30T08:52:33"
   },
   {
     "name": "agents",
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 948,
-    "daily_stars": 24,
+    "stars": 1001,
+    "daily_stars": 53,
     "language": null,
     "topics": [
       "agents",
@@ -30,15 +30,15 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-07-30T05:00:54"
+    "updated_at": "2025-07-30T08:51:44"
   },
   {
     "name": "HRM",
     "full_name": "sapientinc/HRM",
     "description": "Hierarchical Reasoning Model Official Release",
     "url": "https://github.com/sapientinc/HRM",
-    "stars": 2075,
-    "daily_stars": 20,
+    "stars": 2104,
+    "daily_stars": 29,
     "language": "Python",
     "topics": [
       "brain-inspired-ai",
@@ -47,15 +47,15 @@
       "reasoning"
     ],
     "created_at": "2025-07-09T02:09:32",
-    "updated_at": "2025-07-30T04:37:26"
+    "updated_at": "2025-07-30T08:48:35"
   },
   {
     "name": "claude-sub-agent",
     "full_name": "zhsama/claude-sub-agent",
     "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
     "url": "https://github.com/zhsama/claude-sub-agent",
-    "stars": 102,
-    "daily_stars": 3,
+    "stars": 110,
+    "daily_stars": 8,
     "language": null,
     "topics": [
       "agent",
@@ -64,14 +64,26 @@
       "workflow"
     ],
     "created_at": "2025-07-27T14:48:13",
-    "updated_at": "2025-07-30T04:47:49"
+    "updated_at": "2025-07-30T08:33:47"
+  },
+  {
+    "name": "evi-run",
+    "full_name": "pipedude/evi-run",
+    "description": "Ready-to-use customizable multi-agent AI system with Telegram integration. Combines plug-and-play simplicity with framework-level flexibility.",
+    "url": "https://github.com/pipedude/evi-run",
+    "stars": 14,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-26T15:17:51",
+    "updated_at": "2025-07-30T07:55:23"
   },
   {
     "name": "Pytorch-Img-Classification-Trainer-V2",
     "full_name": "AidinHamedi/Pytorch-Img-Classification-Trainer-V2",
     "description": "This repository provides a robust and flexible framework for training image classification models using PyTorch. It's designed to be highly customizable and easy to use, allowing you to run experiments with different models, data augmentation techniques, and training configurations.",
     "url": "https://github.com/AidinHamedi/Pytorch-Img-Classification-Trainer-V2",
-    "stars": 3,
+    "stars": 5,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
@@ -92,100 +104,62 @@
       "vision"
     ],
     "created_at": "2025-07-09T10:22:41",
-    "updated_at": "2025-07-30T04:55:36"
+    "updated_at": "2025-07-30T05:39:43"
   },
   {
-    "name": "DispatchMail",
-    "full_name": "dbish/DispatchMail",
-    "description": "DispatchMail is an open source locally run (though currently using OpenAI for queries) AI-powered email assistant that helps you manage your inbox. ",
-    "url": "https://github.com/dbish/DispatchMail",
-    "stars": 50,
+    "name": "optimize-ai-agent-memory",
+    "full_name": "FareedKhan-dev/optimize-ai-agent-memory",
+    "description": "9 Different Ways to Optimize AI Agent Memories",
+    "url": "https://github.com/FareedKhan-dev/optimize-ai-agent-memory",
+    "stars": 37,
     "daily_stars": 2,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "email"
-    ],
-    "created_at": "2025-07-11T02:24:13",
-    "updated_at": "2025-07-30T05:00:46"
-  },
-  {
-    "name": "AIDocumentRAG",
-    "full_name": "montraydavis/AIDocumentRAG",
-    "description": "A full-stack document management and AI chat application that enables users to upload, manage, and chat with their documents using AI. Built with Semantic Kernel, ASP.NET Core Web API backend, and Angular frontend.",
-    "url": "https://github.com/montraydavis/AIDocumentRAG",
-    "stars": 13,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [],
-    "created_at": "2025-07-02T05:50:28",
-    "updated_at": "2025-07-30T04:27:36"
-  },
-  {
-    "name": "contextual-engineering-guide",
-    "full_name": "FareedKhan-dev/contextual-engineering-guide",
-    "description": "Implementation of contextual engineering pipeline with LangChain and LangGraph Agents",
-    "url": "https://github.com/FareedKhan-dev/contextual-engineering-guide",
-    "stars": 24,
-    "daily_stars": 1,
     "language": "Jupyter Notebook",
     "topics": [
-      "ai",
       "ai-agents",
-      "claude",
-      "context-engineering",
-      "langchain",
-      "langgraph",
-      "large-language-models",
+      "llm",
+      "memory",
       "openai",
-      "prompt-engineering"
+      "optimization",
+      "python",
+      "rag"
     ],
-    "created_at": "2025-07-24T10:50:35",
-    "updated_at": "2025-07-30T03:24:15"
+    "created_at": "2025-07-12T03:21:58",
+    "updated_at": "2025-07-30T05:50:45"
   },
   {
-    "name": "observee",
-    "full_name": "observee-ai/observee",
-    "description": "Observee lets you build AI agents with 1000+ integrations using MCPs with managed OAuth, Security and Observability",
-    "url": "https://github.com/observee-ai/observee",
+    "name": "devops-ai-guidelines",
+    "full_name": "VersusControl/devops-ai-guidelines",
+    "description": "🚀 Your complete toolkit for mastering AI in DevOps - from career advancement to daily productivity hacks",
+    "url": "https://github.com/VersusControl/devops-ai-guidelines",
+    "stars": 176,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [],
+    "created_at": "2025-07-20T11:15:56",
+    "updated_at": "2025-07-30T06:51:49"
+  },
+  {
+    "name": "rag-security-scanner",
+    "full_name": "olegnazarov/rag-security-scanner",
+    "description": "RAG/LLM Security Scanner identifies critical vulnerabilities in AI-powered applications, including chatbots, virtual assistants, and knowledge retrieval systems.",
+    "url": "https://github.com/olegnazarov/rag-security-scanner",
+    "stars": 47,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-15T14:16:25",
+    "updated_at": "2025-07-30T06:07:46"
+  },
+  {
+    "name": "llm-fortress",
+    "full_name": "olegnazarov/llm-fortress",
+    "description": "Enterprise AI Security Platform - Real-time firewall protection for LLM applications against prompt injection, data leakage, and function abuse attacks",
+    "url": "https://github.com/olegnazarov/llm-fortress",
     "stars": 12,
     "daily_stars": 1,
     "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "anthropic",
-      "function-calling",
-      "gemini",
-      "gpt",
-      "groq",
-      "javascript",
-      "llm",
-      "mcp",
-      "python",
-      "tool-calling",
-      "typescript",
-      "ycombinator"
-    ],
-    "created_at": "2025-07-22T22:46:00",
-    "updated_at": "2025-07-30T05:00:59"
-  },
-  {
-    "name": "laravel-n8n",
-    "full_name": "kayedspace/laravel-n8n",
-    "description": "A complete, expressive, and fluent Laravel client for the n8n public REST API and Webhooks Triggering.",
-    "url": "https://github.com/kayedspace/laravel-n8n",
-    "stars": 73,
-    "daily_stars": 1,
-    "language": "PHP",
-    "topics": [
-      "automation",
-      "laravel",
-      "n8n",
-      "workflow"
-    ],
-    "created_at": "2025-07-01T09:37:49",
-    "updated_at": "2025-07-30T04:41:33"
+    "topics": [],
+    "created_at": "2025-07-18T18:39:57",
+    "updated_at": "2025-07-30T06:01:13"
   }
 ]
