@@ -1,11 +1,23 @@
 [
   {
+    "name": "Chronos",
+    "full_name": "Kodezi/Chronos",
+    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
+    "url": "https://github.com/Kodezi/Chronos",
+    "stars": 750,
+    "daily_stars": 25,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-21T07:34:10",
+    "updated_at": "2025-07-30T05:01:25"
+  },
+  {
     "name": "agents",
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 924,
-    "daily_stars": 83,
+    "stars": 948,
+    "daily_stars": 24,
     "language": null,
     "topics": [
       "agents",
@@ -18,27 +30,15 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-07-30T02:35:24"
-  },
-  {
-    "name": "Chronos",
-    "full_name": "Kodezi/Chronos",
-    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
-    "url": "https://github.com/Kodezi/Chronos",
-    "stars": 725,
-    "daily_stars": 65,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-07-30T02:36:17"
+    "updated_at": "2025-07-30T05:00:54"
   },
   {
     "name": "HRM",
     "full_name": "sapientinc/HRM",
     "description": "Hierarchical Reasoning Model Official Release",
     "url": "https://github.com/sapientinc/HRM",
-    "stars": 2055,
-    "daily_stars": 47,
+    "stars": 2075,
+    "daily_stars": 20,
     "language": "Python",
     "topics": [
       "brain-inspired-ai",
@@ -47,15 +47,15 @@
       "reasoning"
     ],
     "created_at": "2025-07-09T02:09:32",
-    "updated_at": "2025-07-30T02:27:50"
+    "updated_at": "2025-07-30T04:37:26"
   },
   {
     "name": "claude-sub-agent",
     "full_name": "zhsama/claude-sub-agent",
     "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
     "url": "https://github.com/zhsama/claude-sub-agent",
-    "stars": 99,
-    "daily_stars": 9,
+    "stars": 102,
+    "daily_stars": 3,
     "language": null,
     "topics": [
       "agent",
@@ -64,27 +64,71 @@
       "workflow"
     ],
     "created_at": "2025-07-27T14:48:13",
-    "updated_at": "2025-07-30T02:27:45"
+    "updated_at": "2025-07-30T04:47:49"
   },
   {
-    "name": "studorama",
-    "full_name": "oluiscabral/studorama",
-    "description": "AI-powered study sessions to enhance your learning",
-    "url": "https://github.com/oluiscabral/studorama",
-    "stars": 77,
+    "name": "Pytorch-Img-Classification-Trainer-V2",
+    "full_name": "AidinHamedi/Pytorch-Img-Classification-Trainer-V2",
+    "description": "This repository provides a robust and flexible framework for training image classification models using PyTorch. It's designed to be highly customizable and easy to use, allowing you to run experiments with different models, data augmentation techniques, and training configurations.",
+    "url": "https://github.com/AidinHamedi/Pytorch-Img-Classification-Trainer-V2",
+    "stars": 3,
     "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-training",
+      "artificial-intelligence",
+      "classification",
+      "deep-learning",
+      "image",
+      "image-classification",
+      "machine-learning",
+      "ml",
+      "python",
+      "python3",
+      "pytorch",
+      "tools",
+      "training",
+      "vision"
+    ],
+    "created_at": "2025-07-09T10:22:41",
+    "updated_at": "2025-07-30T04:55:36"
+  },
+  {
+    "name": "DispatchMail",
+    "full_name": "dbish/DispatchMail",
+    "description": "DispatchMail is an open source locally run (though currently using OpenAI for queries) AI-powered email assistant that helps you manage your inbox. ",
+    "url": "https://github.com/dbish/DispatchMail",
+    "stars": 50,
+    "daily_stars": 2,
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "email"
+    ],
+    "created_at": "2025-07-11T02:24:13",
+    "updated_at": "2025-07-30T05:00:46"
+  },
+  {
+    "name": "AIDocumentRAG",
+    "full_name": "montraydavis/AIDocumentRAG",
+    "description": "A full-stack document management and AI chat application that enables users to upload, manage, and chat with their documents using AI. Built with Semantic Kernel, ASP.NET Core Web API backend, and Angular frontend.",
+    "url": "https://github.com/montraydavis/AIDocumentRAG",
+    "stars": 13,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [],
-    "created_at": "2025-07-01T03:22:40",
-    "updated_at": "2025-07-29T23:27:56"
+    "created_at": "2025-07-02T05:50:28",
+    "updated_at": "2025-07-30T04:27:36"
   },
   {
     "name": "contextual-engineering-guide",
     "full_name": "FareedKhan-dev/contextual-engineering-guide",
     "description": "Implementation of contextual engineering pipeline with LangChain and LangGraph Agents",
     "url": "https://github.com/FareedKhan-dev/contextual-engineering-guide",
-    "stars": 23,
-    "daily_stars": 2,
+    "stars": 24,
+    "daily_stars": 1,
     "language": "Jupyter Notebook",
     "topics": [
       "ai",
@@ -98,64 +142,50 @@
       "prompt-engineering"
     ],
     "created_at": "2025-07-24T10:50:35",
-    "updated_at": "2025-07-30T01:47:22"
+    "updated_at": "2025-07-30T03:24:15"
   },
   {
-    "name": "rag-security-scanner",
-    "full_name": "olegnazarov/rag-security-scanner",
-    "description": "RAG/LLM Security Scanner identifies critical vulnerabilities in AI-powered applications, including chatbots, virtual assistants, and knowledge retrieval systems.",
-    "url": "https://github.com/olegnazarov/rag-security-scanner",
-    "stars": 46,
+    "name": "observee",
+    "full_name": "observee-ai/observee",
+    "description": "Observee lets you build AI agents with 1000+ integrations using MCPs with managed OAuth, Security and Observability",
+    "url": "https://github.com/observee-ai/observee",
+    "stars": 12,
     "daily_stars": 1,
     "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-15T14:16:25",
-    "updated_at": "2025-07-29T22:11:26"
-  },
-  {
-    "name": "ScreenMonitorMCP",
-    "full_name": "inkbytefo/ScreenMonitorMCP",
-    "description": "🚀 Revolutionary MCP Server: AI'ya gerçek zamanlı görme yetisi, UI zekası ve öngörülü davranış öğrenme gücü kazandırır. Real-time screen monitoring, smart UI interaction, and predictive AI assistance.",
-    "url": "https://github.com/inkbytefo/ScreenMonitorMCP",
-    "stars": 43,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-08T23:35:29",
-    "updated_at": "2025-07-30T01:36:56"
-  },
-  {
-    "name": "SRT-H",
-    "full_name": "lucidrains/SRT-H",
-    "description": "Implementation of the model architecture for SRT-H",
-    "url": "https://github.com/lucidrains/SRT-H",
-    "stars": 16,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [],
-    "created_at": "2025-07-16T18:25:54",
-    "updated_at": "2025-07-30T01:59:39"
-  },
-  {
-    "name": "traceroot",
-    "full_name": "traceroot-ai/traceroot",
-    "description": "Find the Root cause in your Code's Trace",
-    "url": "https://github.com/traceroot-ai/traceroot",
-    "stars": 98,
-    "daily_stars": 1,
-    "language": "TypeScript",
     "topics": [
-      "agent",
       "ai",
       "ai-agents",
-      "debugging",
+      "anthropic",
+      "function-calling",
+      "gemini",
+      "gpt",
+      "groq",
+      "javascript",
       "llm",
-      "monitoring",
-      "multi-agent-systems",
-      "observability",
-      "trace"
+      "mcp",
+      "python",
+      "tool-calling",
+      "typescript",
+      "ycombinator"
     ],
-    "created_at": "2025-07-22T19:50:15",
-    "updated_at": "2025-07-29T21:40:52"
+    "created_at": "2025-07-22T22:46:00",
+    "updated_at": "2025-07-30T05:00:59"
+  },
+  {
+    "name": "laravel-n8n",
+    "full_name": "kayedspace/laravel-n8n",
+    "description": "A complete, expressive, and fluent Laravel client for the n8n public REST API and Webhooks Triggering.",
+    "url": "https://github.com/kayedspace/laravel-n8n",
+    "stars": 73,
+    "daily_stars": 1,
+    "language": "PHP",
+    "topics": [
+      "automation",
+      "laravel",
+      "n8n",
+      "workflow"
+    ],
+    "created_at": "2025-07-01T09:37:49",
+    "updated_at": "2025-07-30T04:41:33"
   }
 ]
