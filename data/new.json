@@ -4,8 +4,8 @@
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 841,
-    "daily_stars": 48,
+    "stars": 924,
+    "daily_stars": 83,
     "language": null,
     "topics": [
       "agents",
@@ -18,39 +18,32 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-07-29T20:44:21"
+    "updated_at": "2025-07-30T02:35:24"
   },
   {
-    "name": "Prompt-Punk",
-    "full_name": "netsky-devel/Prompt-Punk",
-    "description": "Prompt Punk: AI-powered prompt engineering tool built with Rails 8 and React 18. Optimize and enhance prompts using multi-agent AI with Google Gemini integration for developers and AI enthusiasts.",
-    "url": "https://github.com/netsky-devel/Prompt-Punk",
-    "stars": 107,
-    "daily_stars": -1,
-    "language": "Ruby",
-    "topics": [],
-    "created_at": "2025-07-22T02:20:17",
-    "updated_at": "2025-07-29T20:29:17"
-  },
-  {
-    "name": "Prompt-Punk",
-    "full_name": "netsky-devel/Prompt-Punk",
-    "description": "Prompt Punk: AI-powered prompt engineering tool built with Rails 8 and React 18. Optimize and enhance prompts using multi-agent AI with Google Gemini integration for developers and AI enthusiasts.",
-    "url": "https://github.com/netsky-devel/Prompt-Punk",
-    "stars": 107,
-    "daily_stars": 0,
-    "language": "Ruby",
-    "topics": [],
-    "created_at": "2025-07-22T02:20:17",
-    "updated_at": "2025-07-29T20:29:17"
+    "name": "claude-sub-agent",
+    "full_name": "zhsama/claude-sub-agent",
+    "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
+    "url": "https://github.com/zhsama/claude-sub-agent",
+    "stars": 99,
+    "daily_stars": 9,
+    "language": null,
+    "topics": [
+      "agent",
+      "claude-code",
+      "multi-agent-system",
+      "workflow"
+    ],
+    "created_at": "2025-07-27T14:48:13",
+    "updated_at": "2025-07-30T02:27:45"
   },
   {
     "name": "traceroot",
     "full_name": "traceroot-ai/traceroot",
     "description": "Find the Root cause in your Code's Trace",
     "url": "https://github.com/traceroot-ai/traceroot",
-    "stars": 97,
-    "daily_stars": 0,
+    "stars": 98,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -64,24 +57,7 @@
       "trace"
     ],
     "created_at": "2025-07-22T19:50:15",
-    "updated_at": "2025-07-29T19:44:33"
-  },
-  {
-    "name": "claude-sub-agent",
-    "full_name": "zhsama/claude-sub-agent",
-    "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
-    "url": "https://github.com/zhsama/claude-sub-agent",
-    "stars": 90,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "agent",
-      "claude-code",
-      "multi-agent-system",
-      "workflow"
-    ],
-    "created_at": "2025-07-27T14:48:13",
-    "updated_at": "2025-07-29T19:59:22"
+    "updated_at": "2025-07-29T21:40:52"
   },
   {
     "name": "Arion",
@@ -122,8 +98,8 @@
     "full_name": "FareedKhan-dev/contextual-engineering-guide",
     "description": "Implementation of contextual engineering pipeline with LangChain and LangGraph Agents",
     "url": "https://github.com/FareedKhan-dev/contextual-engineering-guide",
-    "stars": 21,
-    "daily_stars": 0,
+    "stars": 23,
+    "daily_stars": 2,
     "language": "Jupyter Notebook",
     "topics": [
       "ai",
@@ -137,7 +113,7 @@
       "prompt-engineering"
     ],
     "created_at": "2025-07-24T10:50:35",
-    "updated_at": "2025-07-29T06:45:58"
+    "updated_at": "2025-07-30T01:47:22"
   },
   {
     "name": "evi-run",
@@ -145,7 +121,7 @@
     "description": "Ready-to-use customizable multi-agent AI system with Telegram integration. Combines plug-and-play simplicity with framework-level flexibility.",
     "url": "https://github.com/pipedude/evi-run",
     "stars": 12,
-    "daily_stars": 4,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [],
     "created_at": "2025-07-26T15:17:51",
@@ -162,5 +138,44 @@
     "topics": [],
     "created_at": "2025-07-26T15:17:51",
     "updated_at": "2025-07-29T19:37:38"
+  },
+  {
+    "name": "n8n-nodes-fusionbrain",
+    "full_name": "Monfra-group/n8n-nodes-fusionbrain",
+    "description": "Use fusionbrain.ai in your n8n workflows.",
+    "url": "https://github.com/Monfra-group/n8n-nodes-fusionbrain",
+    "stars": 11,
+    "daily_stars": 0,
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-07-24T21:18:06",
+    "updated_at": "2025-07-29T14:30:36"
+  },
+  {
+    "name": "observee",
+    "full_name": "observee-ai/observee",
+    "description": "Observee lets you build AI agents with 1000+ integrations using MCPs with managed OAuth, Security and Observability",
+    "url": "https://github.com/observee-ai/observee",
+    "stars": 11,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "function-calling",
+      "gemini",
+      "gpt",
+      "groq",
+      "javascript",
+      "llm",
+      "mcp",
+      "python",
+      "tool-calling",
+      "typescript",
+      "ycombinator"
+    ],
+    "created_at": "2025-07-22T22:46:00",
+    "updated_at": "2025-07-30T00:55:56"
   }
 ]
