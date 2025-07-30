@@ -4,8 +4,8 @@
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 1240,
-    "daily_stars": 239,
+    "stars": 1540,
+    "daily_stars": 300,
     "language": null,
     "topics": [
       "agents",
@@ -18,27 +18,27 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-07-30T13:20:41"
+    "updated_at": "2025-07-30T16:51:10"
   },
   {
     "name": "Chronos",
     "full_name": "Kodezi/Chronos",
     "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
     "url": "https://github.com/Kodezi/Chronos",
-    "stars": 877,
-    "daily_stars": 60,
+    "stars": 911,
+    "daily_stars": 34,
     "language": "Python",
     "topics": [],
     "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-07-30T13:16:40"
+    "updated_at": "2025-07-30T16:40:10"
   },
   {
     "name": "HRM",
     "full_name": "sapientinc/HRM",
     "description": "Hierarchical Reasoning Model Official Release",
     "url": "https://github.com/sapientinc/HRM",
-    "stars": 2149,
-    "daily_stars": 45,
+    "stars": 2170,
+    "daily_stars": 21,
     "language": "Python",
     "topics": [
       "brain-inspired-ai",
@@ -47,46 +47,75 @@
       "reasoning"
     ],
     "created_at": "2025-07-09T02:09:32",
-    "updated_at": "2025-07-30T13:09:06"
+    "updated_at": "2025-07-30T16:51:45"
+  },
+  {
+    "name": "claude-sub-agent",
+    "full_name": "zhsama/claude-sub-agent",
+    "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
+    "url": "https://github.com/zhsama/claude-sub-agent",
+    "stars": 119,
+    "daily_stars": 7,
+    "language": null,
+    "topics": [
+      "agent",
+      "claude-code",
+      "multi-agent-system",
+      "workflow"
+    ],
+    "created_at": "2025-07-27T14:48:13",
+    "updated_at": "2025-07-30T16:30:47"
   },
   {
     "name": "devops-ai-guidelines",
     "full_name": "VersusControl/devops-ai-guidelines",
     "description": "🚀 Your complete toolkit for mastering AI in DevOps - from career advancement to daily productivity hacks",
     "url": "https://github.com/VersusControl/devops-ai-guidelines",
-    "stars": 179,
-    "daily_stars": 3,
+    "stars": 181,
+    "daily_stars": 2,
     "language": null,
     "topics": [],
     "created_at": "2025-07-20T11:15:56",
-    "updated_at": "2025-07-30T13:04:34"
+    "updated_at": "2025-07-30T15:22:23"
   },
   {
-    "name": "opencode.nvim",
-    "full_name": "NickvanDyke/opencode.nvim",
-    "description": "Conveniently interface with the opencode AI assistant inside Neovim.",
-    "url": "https://github.com/NickvanDyke/opencode.nvim",
-    "stars": 176,
+    "name": "hexstrike-ai",
+    "full_name": "0x4m4/hexstrike-ai",
+    "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 70+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.",
+    "url": "https://github.com/0x4m4/hexstrike-ai",
+    "stars": 10,
     "daily_stars": 2,
-    "language": "Lua",
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-10T17:53:18",
+    "updated_at": "2025-07-30T16:17:00"
+  },
+  {
+    "name": "optimize-ai-agent-memory",
+    "full_name": "FareedKhan-dev/optimize-ai-agent-memory",
+    "description": "9 Different Ways to Optimize AI Agent Memories",
+    "url": "https://github.com/FareedKhan-dev/optimize-ai-agent-memory",
+    "stars": 40,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
     "topics": [
       "ai-agents",
-      "ai-assistant",
-      "neovim",
-      "nvim",
-      "opencode",
-      "plugin",
-      "terminal"
+      "llm",
+      "memory",
+      "openai",
+      "optimization",
+      "python",
+      "rag"
     ],
-    "created_at": "2025-07-12T13:52:17",
-    "updated_at": "2025-07-30T10:14:18"
+    "created_at": "2025-07-12T03:21:58",
+    "updated_at": "2025-07-30T14:48:23"
   },
   {
     "name": "observee",
     "full_name": "observee-ai/observee",
     "description": "Observee lets you build AI agents with 1000+ integrations using MCPs with managed OAuth, Security and Observability",
     "url": "https://github.com/observee-ai/observee",
-    "stars": 15,
+    "stars": 17,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
@@ -106,75 +135,35 @@
       "ycombinator"
     ],
     "created_at": "2025-07-22T22:46:00",
-    "updated_at": "2025-07-30T11:49:29"
+    "updated_at": "2025-07-30T16:32:10"
   },
   {
-    "name": "claude-sub-agent",
-    "full_name": "zhsama/claude-sub-agent",
-    "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
-    "url": "https://github.com/zhsama/claude-sub-agent",
-    "stars": 112,
+    "name": "laravel-n8n",
+    "full_name": "kayedspace/laravel-n8n",
+    "description": "A complete, expressive, and fluent Laravel client for the n8n public REST API and Webhooks Triggering.",
+    "url": "https://github.com/kayedspace/laravel-n8n",
+    "stars": 76,
     "daily_stars": 2,
-    "language": null,
+    "language": "PHP",
     "topics": [
-      "agent",
-      "claude-code",
-      "multi-agent-system",
+      "automation",
+      "laravel",
+      "n8n",
       "workflow"
     ],
-    "created_at": "2025-07-27T14:48:13",
-    "updated_at": "2025-07-30T11:03:37"
+    "created_at": "2025-07-01T09:37:49",
+    "updated_at": "2025-07-30T15:25:00"
   },
   {
-    "name": "evi-run",
-    "full_name": "pipedude/evi-run",
-    "description": "Ready-to-use customizable multi-agent AI system with Telegram integration. Combines plug-and-play simplicity with framework-level flexibility.",
-    "url": "https://github.com/pipedude/evi-run",
-    "stars": 15,
+    "name": "studorama",
+    "full_name": "oluiscabral/studorama",
+    "description": "AI-powered study sessions to enhance your learning",
+    "url": "https://github.com/oluiscabral/studorama",
+    "stars": 78,
     "daily_stars": 1,
-    "language": "Python",
+    "language": "TypeScript",
     "topics": [],
-    "created_at": "2025-07-26T15:17:51",
-    "updated_at": "2025-07-30T10:40:23"
-  },
-  {
-    "name": "Pytorch-Img-Classification-Trainer-V2",
-    "full_name": "AidinHamedi/Pytorch-Img-Classification-Trainer-V2",
-    "description": "This repository provides a robust and flexible framework for training image classification models using PyTorch. It's designed to be highly customizable and easy to use, allowing you to run experiments with different models, data augmentation techniques, and training configurations.",
-    "url": "https://github.com/AidinHamedi/Pytorch-Img-Classification-Trainer-V2",
-    "stars": 6,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-training",
-      "artificial-intelligence",
-      "classification",
-      "deep-learning",
-      "image",
-      "image-classification",
-      "machine-learning",
-      "ml",
-      "python",
-      "python3",
-      "pytorch",
-      "tools",
-      "training",
-      "vision"
-    ],
-    "created_at": "2025-07-09T10:22:41",
-    "updated_at": "2025-07-30T11:07:54"
-  },
-  {
-    "name": "swift-ai-agent-demo",
-    "full_name": "banghuazhao/swift-ai-agent-demo",
-    "description": "🤖 Native iOS implementation of the ReAct (Reasoning + Acting) AI agent pattern with SwiftUI. Watch AI think, act, and solve problems step-by-step using OpenAI's GPT models.",
-    "url": "https://github.com/banghuazhao/swift-ai-agent-demo",
-    "stars": 5,
-    "daily_stars": 1,
-    "language": "Swift",
-    "topics": [],
-    "created_at": "2025-07-26T02:28:09",
-    "updated_at": "2025-07-30T10:50:18"
+    "created_at": "2025-07-01T03:22:40",
+    "updated_at": "2025-07-30T14:12:23"
   }
 ]
