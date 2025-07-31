@@ -4,8 +4,8 @@
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 2753,
-    "daily_stars": 330,
+    "stars": 3106,
+    "daily_stars": 353,
     "language": null,
     "topics": [
       "agents",
@@ -18,15 +18,15 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-07-31T13:11:48"
+    "updated_at": "2025-07-31T16:52:31"
   },
   {
     "name": "claude-code-sub-agents",
     "full_name": "lst97/claude-code-sub-agents",
     "description": "Collection of specialized AI subagents for Claude Code for personal use.",
     "url": "https://github.com/lst97/claude-code-sub-agents",
-    "stars": 246,
-    "daily_stars": 44,
+    "stars": 336,
+    "daily_stars": 90,
     "language": null,
     "topics": [
       "ai-agents",
@@ -37,15 +37,44 @@
       "subagents"
     ],
     "created_at": "2025-07-28T13:04:48",
-    "updated_at": "2025-07-31T13:11:01"
+    "updated_at": "2025-07-31T16:49:28"
+  },
+  {
+    "name": "HRM",
+    "full_name": "sapientinc/HRM",
+    "description": "Hierarchical Reasoning Model Official Release",
+    "url": "https://github.com/sapientinc/HRM",
+    "stars": 2324,
+    "daily_stars": 21,
+    "language": "Python",
+    "topics": [
+      "brain-inspired-ai",
+      "deep-learning",
+      "large-language-models",
+      "reasoning"
+    ],
+    "created_at": "2025-07-09T02:09:32",
+    "updated_at": "2025-07-31T16:50:49"
+  },
+  {
+    "name": "Chronos",
+    "full_name": "Kodezi/Chronos",
+    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
+    "url": "https://github.com/Kodezi/Chronos",
+    "stars": 958,
+    "daily_stars": 7,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-21T07:34:10",
+    "updated_at": "2025-07-31T16:38:24"
   },
   {
     "name": "AgentGuard",
     "full_name": "dipampaul17/AgentGuard",
     "description": "Real-time guardrail that shows token spend & kills runaway LLM/agent loops.",
     "url": "https://github.com/dipampaul17/AgentGuard",
-    "stars": 46,
-    "daily_stars": 29,
+    "stars": 53,
+    "daily_stars": 7,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -62,44 +91,48 @@
       "token-usage"
     ],
     "created_at": "2025-07-31T02:46:39",
-    "updated_at": "2025-07-31T13:09:55"
+    "updated_at": "2025-07-31T15:22:01"
   },
   {
-    "name": "HRM",
-    "full_name": "sapientinc/HRM",
-    "description": "Hierarchical Reasoning Model Official Release",
-    "url": "https://github.com/sapientinc/HRM",
-    "stars": 2303,
-    "daily_stars": 19,
+    "name": "claude-sub-agent",
+    "full_name": "zhsama/claude-sub-agent",
+    "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
+    "url": "https://github.com/zhsama/claude-sub-agent",
+    "stars": 154,
+    "daily_stars": 4,
+    "language": null,
+    "topics": [
+      "agent",
+      "claude-code",
+      "multi-agent-system",
+      "workflow"
+    ],
+    "created_at": "2025-07-27T14:48:13",
+    "updated_at": "2025-07-31T15:07:32"
+  },
+  {
+    "name": "pajaMAS",
+    "full_name": "trailofbits/pajaMAS",
+    "description": "Multi-agent system (MAS) hijacking demos",
+    "url": "https://github.com/trailofbits/pajaMAS",
+    "stars": 5,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
-      "brain-inspired-ai",
-      "deep-learning",
-      "large-language-models",
-      "reasoning"
+      "ai-agents",
+      "ai-security",
+      "multi-agent-systems"
     ],
-    "created_at": "2025-07-09T02:09:32",
-    "updated_at": "2025-07-31T13:10:45"
-  },
-  {
-    "name": "Chronos",
-    "full_name": "Kodezi/Chronos",
-    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
-    "url": "https://github.com/Kodezi/Chronos",
-    "stars": 951,
-    "daily_stars": 10,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-07-31T12:12:28"
+    "created_at": "2025-07-03T18:22:05",
+    "updated_at": "2025-07-31T16:47:49"
   },
   {
     "name": "production-ready-data-science-code",
     "full_name": "khuyentran1401/production-ready-data-science-code",
     "description": "Transform messy data science notebooks into production-ready code. Examples covering testing, CI/CD, MLOps, and scalable deployment practices.",
     "url": "https://github.com/khuyentran1401/production-ready-data-science-code",
-    "stars": 31,
-    "daily_stars": 8,
+    "stars": 34,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "book-examples",
@@ -116,63 +149,52 @@
       "version-control"
     ],
     "created_at": "2025-07-24T20:24:37",
-    "updated_at": "2025-07-31T10:48:12"
+    "updated_at": "2025-07-31T15:29:53"
   },
   {
-    "name": "claude-sub-agent",
-    "full_name": "zhsama/claude-sub-agent",
-    "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
-    "url": "https://github.com/zhsama/claude-sub-agent",
-    "stars": 150,
-    "daily_stars": 7,
-    "language": null,
+    "name": "opencode.nvim",
+    "full_name": "NickvanDyke/opencode.nvim",
+    "description": "Conveniently interface with the opencode AI assistant inside Neovim.",
+    "url": "https://github.com/NickvanDyke/opencode.nvim",
+    "stars": 181,
+    "daily_stars": 2,
+    "language": "Lua",
     "topics": [
-      "agent",
-      "claude-code",
-      "multi-agent-system",
-      "workflow"
-    ],
-    "created_at": "2025-07-27T14:48:13",
-    "updated_at": "2025-07-31T13:09:15"
-  },
-  {
-    "name": "devops-ai-guidelines",
-    "full_name": "VersusControl/devops-ai-guidelines",
-    "description": "🚀 Your complete toolkit for mastering AI in DevOps - from career advancement to daily productivity hacks",
-    "url": "https://github.com/VersusControl/devops-ai-guidelines",
-    "stars": 187,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [],
-    "created_at": "2025-07-20T11:15:56",
-    "updated_at": "2025-07-31T09:39:03"
-  },
-  {
-    "name": "HRM",
-    "full_name": "lucidrains/HRM",
-    "description": "Exploration into the proposed architecture from Sapient Intelligence of Singapore",
-    "url": "https://github.com/lucidrains/HRM",
-    "stars": 11,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-24T15:41:22",
-    "updated_at": "2025-07-31T10:47:48"
-  },
-  {
-    "name": "DispatchMail",
-    "full_name": "dbish/DispatchMail",
-    "description": "DispatchMail is an open source locally run (though currently using OpenAI for queries) AI-powered email assistant that helps you manage your inbox. ",
-    "url": "https://github.com/dbish/DispatchMail",
-    "stars": 53,
-    "daily_stars": 1,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
       "ai-agents",
-      "email"
+      "ai-assistant",
+      "neovim",
+      "nvim",
+      "opencode",
+      "plugin",
+      "terminal"
     ],
-    "created_at": "2025-07-11T02:24:13",
-    "updated_at": "2025-07-31T13:04:02"
+    "created_at": "2025-07-12T13:52:17",
+    "updated_at": "2025-07-31T16:26:57"
+  },
+  {
+    "name": "kernel-mcp-server",
+    "full_name": "onkernel/kernel-mcp-server",
+    "description": "Open-source MCP server for secure, low-latency cloud-browser automation on Kernel.",
+    "url": "https://github.com/onkernel/kernel-mcp-server",
+    "stars": 12,
+    "daily_stars": 2,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "browser-automation",
+      "cloud-browser",
+      "devtool",
+      "headless-chromium",
+      "kernel",
+      "mcp",
+      "model-context-protocol",
+      "nextjs",
+      "nodejs",
+      "open-source",
+      "streamable-http",
+      "typescript"
+    ],
+    "created_at": "2025-07-15T18:29:11",
+    "updated_at": "2025-07-31T15:05:51"
   }
 ]
