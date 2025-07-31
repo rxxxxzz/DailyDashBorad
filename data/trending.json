@@ -4,8 +4,8 @@
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 2423,
-    "daily_stars": 237,
+    "stars": 2753,
+    "daily_stars": 330,
     "language": null,
     "topics": [
       "agents",
@@ -18,14 +18,14 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-07-31T08:52:24"
+    "updated_at": "2025-07-31T13:11:48"
   },
   {
     "name": "claude-code-sub-agents",
     "full_name": "lst97/claude-code-sub-agents",
     "description": "Collection of specialized AI subagents for Claude Code for personal use.",
     "url": "https://github.com/lst97/claude-code-sub-agents",
-    "stars": 202,
+    "stars": 246,
     "daily_stars": 44,
     "language": null,
     "topics": [
@@ -37,15 +37,40 @@
       "subagents"
     ],
     "created_at": "2025-07-28T13:04:48",
-    "updated_at": "2025-07-31T08:50:49"
+    "updated_at": "2025-07-31T13:11:01"
+  },
+  {
+    "name": "AgentGuard",
+    "full_name": "dipampaul17/AgentGuard",
+    "description": "Real-time guardrail that shows token spend & kills runaway LLM/agent loops.",
+    "url": "https://github.com/dipampaul17/AgentGuard",
+    "stars": 46,
+    "daily_stars": 29,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "anthropic-claude",
+      "cost-monitoring",
+      "debugging",
+      "guardrails",
+      "llm",
+      "observability",
+      "openai",
+      "openai-api",
+      "prompt-engineering",
+      "token-usage"
+    ],
+    "created_at": "2025-07-31T02:46:39",
+    "updated_at": "2025-07-31T13:09:55"
   },
   {
     "name": "HRM",
     "full_name": "sapientinc/HRM",
     "description": "Hierarchical Reasoning Model Official Release",
     "url": "https://github.com/sapientinc/HRM",
-    "stars": 2284,
-    "daily_stars": 22,
+    "stars": 2303,
+    "daily_stars": 19,
     "language": "Python",
     "topics": [
       "brain-inspired-ai",
@@ -54,44 +79,27 @@
       "reasoning"
     ],
     "created_at": "2025-07-09T02:09:32",
-    "updated_at": "2025-07-31T08:50:17"
-  },
-  {
-    "name": "claude-sub-agent",
-    "full_name": "zhsama/claude-sub-agent",
-    "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
-    "url": "https://github.com/zhsama/claude-sub-agent",
-    "stars": 143,
-    "daily_stars": 11,
-    "language": null,
-    "topics": [
-      "agent",
-      "claude-code",
-      "multi-agent-system",
-      "workflow"
-    ],
-    "created_at": "2025-07-27T14:48:13",
-    "updated_at": "2025-07-31T08:45:50"
+    "updated_at": "2025-07-31T13:10:45"
   },
   {
     "name": "Chronos",
     "full_name": "Kodezi/Chronos",
     "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
     "url": "https://github.com/Kodezi/Chronos",
-    "stars": 941,
-    "daily_stars": 8,
+    "stars": 951,
+    "daily_stars": 10,
     "language": "Python",
     "topics": [],
     "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-07-31T08:48:32"
+    "updated_at": "2025-07-31T12:12:28"
   },
   {
     "name": "production-ready-data-science-code",
     "full_name": "khuyentran1401/production-ready-data-science-code",
     "description": "Transform messy data science notebooks into production-ready code. Examples covering testing, CI/CD, MLOps, and scalable deployment practices.",
     "url": "https://github.com/khuyentran1401/production-ready-data-science-code",
-    "stars": 23,
-    "daily_stars": 5,
+    "stars": 31,
+    "daily_stars": 8,
     "language": "Python",
     "topics": [
       "book-examples",
@@ -108,66 +116,63 @@
       "version-control"
     ],
     "created_at": "2025-07-24T20:24:37",
-    "updated_at": "2025-07-31T08:47:49"
+    "updated_at": "2025-07-31T10:48:12"
+  },
+  {
+    "name": "claude-sub-agent",
+    "full_name": "zhsama/claude-sub-agent",
+    "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
+    "url": "https://github.com/zhsama/claude-sub-agent",
+    "stars": 150,
+    "daily_stars": 7,
+    "language": null,
+    "topics": [
+      "agent",
+      "claude-code",
+      "multi-agent-system",
+      "workflow"
+    ],
+    "created_at": "2025-07-27T14:48:13",
+    "updated_at": "2025-07-31T13:09:15"
   },
   {
     "name": "devops-ai-guidelines",
     "full_name": "VersusControl/devops-ai-guidelines",
     "description": "🚀 Your complete toolkit for mastering AI in DevOps - from career advancement to daily productivity hacks",
     "url": "https://github.com/VersusControl/devops-ai-guidelines",
-    "stars": 186,
-    "daily_stars": 3,
+    "stars": 187,
+    "daily_stars": 1,
     "language": null,
     "topics": [],
     "created_at": "2025-07-20T11:15:56",
-    "updated_at": "2025-07-31T07:15:15"
+    "updated_at": "2025-07-31T09:39:03"
   },
   {
-    "name": "opencode.nvim",
-    "full_name": "NickvanDyke/opencode.nvim",
-    "description": "Conveniently interface with the opencode AI assistant inside Neovim.",
-    "url": "https://github.com/NickvanDyke/opencode.nvim",
-    "stars": 179,
-    "daily_stars": 2,
-    "language": "Lua",
-    "topics": [
-      "ai-agents",
-      "ai-assistant",
-      "neovim",
-      "nvim",
-      "opencode",
-      "plugin",
-      "terminal"
-    ],
-    "created_at": "2025-07-12T13:52:17",
-    "updated_at": "2025-07-31T08:22:26"
-  },
-  {
-    "name": "tbdflow",
-    "full_name": "cladam/tbdflow",
-    "description": "tbdflow is a command-line tool designed to streamline and enforce Trunk-Based Development (TBD) workflows for Git repositories. ",
-    "url": "https://github.com/cladam/tbdflow",
-    "stars": 14,
-    "daily_stars": 2,
-    "language": "F#",
-    "topics": [
-      "devops",
-      "tbd",
-      "workflow"
-    ],
-    "created_at": "2025-07-06T07:52:25",
-    "updated_at": "2025-07-31T08:03:27"
-  },
-  {
-    "name": "gitmesh",
-    "full_name": "LF-Decentralized-Trust-Mentorships/gitmesh",
-    "description": "Intelligent Git collaboration network with branch-level AI assistance, smart contributor matching, and real-time workflow coordination for open-source projects.",
-    "url": "https://github.com/LF-Decentralized-Trust-Mentorships/gitmesh",
-    "stars": 37,
+    "name": "HRM",
+    "full_name": "lucidrains/HRM",
+    "description": "Exploration into the proposed architecture from Sapient Intelligence of Singapore",
+    "url": "https://github.com/lucidrains/HRM",
+    "stars": 11,
     "daily_stars": 1,
-    "language": "TypeScript",
+    "language": "Python",
     "topics": [],
-    "created_at": "2025-07-25T16:43:40",
-    "updated_at": "2025-07-31T06:44:50"
+    "created_at": "2025-07-24T15:41:22",
+    "updated_at": "2025-07-31T10:47:48"
+  },
+  {
+    "name": "DispatchMail",
+    "full_name": "dbish/DispatchMail",
+    "description": "DispatchMail is an open source locally run (though currently using OpenAI for queries) AI-powered email assistant that helps you manage your inbox. ",
+    "url": "https://github.com/dbish/DispatchMail",
+    "stars": 53,
+    "daily_stars": 1,
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "email"
+    ],
+    "created_at": "2025-07-11T02:24:13",
+    "updated_at": "2025-07-31T13:04:02"
   }
 ]
