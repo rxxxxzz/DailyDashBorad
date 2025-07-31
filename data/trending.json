@@ -4,8 +4,8 @@
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 2186,
-    "daily_stars": 147,
+    "stars": 2423,
+    "daily_stars": 237,
     "language": null,
     "topics": [
       "agents",
@@ -18,15 +18,34 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-07-31T04:59:37"
+    "updated_at": "2025-07-31T08:52:24"
+  },
+  {
+    "name": "claude-code-sub-agents",
+    "full_name": "lst97/claude-code-sub-agents",
+    "description": "Collection of specialized AI subagents for Claude Code for personal use.",
+    "url": "https://github.com/lst97/claude-code-sub-agents",
+    "stars": 202,
+    "daily_stars": 44,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "claudecode-config",
+      "claudecode-subagents",
+      "sub-agents",
+      "subagents"
+    ],
+    "created_at": "2025-07-28T13:04:48",
+    "updated_at": "2025-07-31T08:50:49"
   },
   {
     "name": "HRM",
     "full_name": "sapientinc/HRM",
     "description": "Hierarchical Reasoning Model Official Release",
     "url": "https://github.com/sapientinc/HRM",
-    "stars": 2262,
-    "daily_stars": 14,
+    "stars": 2284,
+    "daily_stars": 22,
     "language": "Python",
     "topics": [
       "brain-inspired-ai",
@@ -35,27 +54,15 @@
       "reasoning"
     ],
     "created_at": "2025-07-09T02:09:32",
-    "updated_at": "2025-07-31T04:56:25"
-  },
-  {
-    "name": "Chronos",
-    "full_name": "Kodezi/Chronos",
-    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
-    "url": "https://github.com/Kodezi/Chronos",
-    "stars": 933,
-    "daily_stars": 5,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-07-31T04:59:19"
+    "updated_at": "2025-07-31T08:50:17"
   },
   {
     "name": "claude-sub-agent",
     "full_name": "zhsama/claude-sub-agent",
     "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
     "url": "https://github.com/zhsama/claude-sub-agent",
-    "stars": 132,
-    "daily_stars": 5,
+    "stars": 143,
+    "daily_stars": 11,
     "language": null,
     "topics": [
       "agent",
@@ -64,15 +71,27 @@
       "workflow"
     ],
     "created_at": "2025-07-27T14:48:13",
-    "updated_at": "2025-07-31T05:00:00"
+    "updated_at": "2025-07-31T08:45:50"
+  },
+  {
+    "name": "Chronos",
+    "full_name": "Kodezi/Chronos",
+    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
+    "url": "https://github.com/Kodezi/Chronos",
+    "stars": 941,
+    "daily_stars": 8,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-21T07:34:10",
+    "updated_at": "2025-07-31T08:48:32"
   },
   {
     "name": "production-ready-data-science-code",
     "full_name": "khuyentran1401/production-ready-data-science-code",
     "description": "Transform messy data science notebooks into production-ready code. Examples covering testing, CI/CD, MLOps, and scalable deployment practices.",
     "url": "https://github.com/khuyentran1401/production-ready-data-science-code",
-    "stars": 18,
-    "daily_stars": 2,
+    "stars": 23,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "book-examples",
@@ -89,87 +108,66 @@
       "version-control"
     ],
     "created_at": "2025-07-24T20:24:37",
-    "updated_at": "2025-07-31T03:30:50"
+    "updated_at": "2025-07-31T08:47:49"
   },
   {
     "name": "devops-ai-guidelines",
     "full_name": "VersusControl/devops-ai-guidelines",
     "description": "🚀 Your complete toolkit for mastering AI in DevOps - from career advancement to daily productivity hacks",
     "url": "https://github.com/VersusControl/devops-ai-guidelines",
-    "stars": 183,
-    "daily_stars": 1,
+    "stars": 186,
+    "daily_stars": 3,
     "language": null,
     "topics": [],
     "created_at": "2025-07-20T11:15:56",
-    "updated_at": "2025-07-31T03:46:55"
+    "updated_at": "2025-07-31T07:15:15"
   },
   {
-    "name": "ClueoMCP",
-    "full_name": "ClueoFoundation/ClueoMCP",
-    "description": "🎭 The Personality Layer for LLMs- Transform any MCP-compatible AI with rich, consistent personalities powered by Clueo's Big Five personality engine.",
-    "url": "https://github.com/ClueoFoundation/ClueoMCP",
-    "stars": 5,
+    "name": "opencode.nvim",
+    "full_name": "NickvanDyke/opencode.nvim",
+    "description": "Conveniently interface with the opencode AI assistant inside Neovim.",
+    "url": "https://github.com/NickvanDyke/opencode.nvim",
+    "stars": 179,
+    "daily_stars": 2,
+    "language": "Lua",
+    "topics": [
+      "ai-agents",
+      "ai-assistant",
+      "neovim",
+      "nvim",
+      "opencode",
+      "plugin",
+      "terminal"
+    ],
+    "created_at": "2025-07-12T13:52:17",
+    "updated_at": "2025-07-31T08:22:26"
+  },
+  {
+    "name": "tbdflow",
+    "full_name": "cladam/tbdflow",
+    "description": "tbdflow is a command-line tool designed to streamline and enforce Trunk-Based Development (TBD) workflows for Git repositories. ",
+    "url": "https://github.com/cladam/tbdflow",
+    "stars": 14,
+    "daily_stars": 2,
+    "language": "F#",
+    "topics": [
+      "devops",
+      "tbd",
+      "workflow"
+    ],
+    "created_at": "2025-07-06T07:52:25",
+    "updated_at": "2025-07-31T08:03:27"
+  },
+  {
+    "name": "gitmesh",
+    "full_name": "LF-Decentralized-Trust-Mentorships/gitmesh",
+    "description": "Intelligent Git collaboration network with branch-level AI assistance, smart contributor matching, and real-time workflow coordination for open-source projects.",
+    "url": "https://github.com/LF-Decentralized-Trust-Mentorships/gitmesh",
+    "stars": 37,
     "daily_stars": 1,
     "language": "TypeScript",
     "topics": [],
-    "created_at": "2025-07-28T19:02:24",
-    "updated_at": "2025-07-31T02:54:33"
-  },
-  {
-    "name": "no-cost-ai",
-    "full_name": "zebbern/no-cost-ai",
-    "description": "A Collection of no cost ai websites providing models like Claude 4 sonnet/opus, Grok 4, GPT o3 Pro, Gemini 2.5 Pro for free & much more...",
-    "url": "https://github.com/zebbern/no-cost-ai",
-    "stars": 43,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-agents",
-      "chat-ai",
-      "claude",
-      "free-list",
-      "freeairesources",
-      "gemini",
-      "grok",
-      "image-ai",
-      "no-cost",
-      "tools-and-automation",
-      "video-ai"
-    ],
-    "created_at": "2025-07-15T18:34:29",
-    "updated_at": "2025-07-31T04:21:31"
-  },
-  {
-    "name": "mlops",
-    "full_name": "anveshmuppeda/mlops",
-    "description": "MLOps",
-    "url": "https://github.com/anveshmuppeda/mlops",
-    "stars": 8,
-    "daily_stars": 1,
-    "language": "HTML",
-    "topics": [],
-    "created_at": "2025-07-05T21:11:24",
-    "updated_at": "2025-07-31T03:26:30"
-  },
-  {
-    "name": "xaiflow",
-    "full_name": "cloudexplain/xaiflow",
-    "description": "Create beautiful, interactive charts for explainable AI using MLFlow",
-    "url": "https://github.com/cloudexplain/xaiflow",
-    "stars": 7,
-    "daily_stars": 1,
-    "language": "JavaScript",
-    "topics": [
-      "explainability",
-      "explainable",
-      "explainable-ai",
-      "machine-learning",
-      "shap",
-      "shapley-values",
-      "visualization"
-    ],
-    "created_at": "2025-07-16T04:36:21",
-    "updated_at": "2025-07-31T04:36:56"
+    "created_at": "2025-07-25T16:43:40",
+    "updated_at": "2025-07-31T06:44:50"
   }
 ]
