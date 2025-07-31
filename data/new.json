@@ -4,8 +4,8 @@
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 1780,
-    "daily_stars": 240,
+    "stars": 2039,
+    "daily_stars": 259,
     "language": null,
     "topics": [
       "agents",
@@ -18,15 +18,15 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-07-30T20:44:27"
+    "updated_at": "2025-07-31T02:35:19"
   },
   {
     "name": "claude-sub-agent",
     "full_name": "zhsama/claude-sub-agent",
     "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
     "url": "https://github.com/zhsama/claude-sub-agent",
-    "stars": 120,
-    "daily_stars": 1,
+    "stars": 127,
+    "daily_stars": 7,
     "language": null,
     "topics": [
       "agent",
@@ -35,7 +35,7 @@
       "workflow"
     ],
     "created_at": "2025-07-27T14:48:13",
-    "updated_at": "2025-07-30T20:01:14"
+    "updated_at": "2025-07-31T01:48:03"
   },
   {
     "name": "Arion",
@@ -94,55 +94,53 @@
     "updated_at": "2025-07-30T14:18:17"
   },
   {
-    "name": "observee",
-    "full_name": "observee-ai/observee",
-    "description": "Observee lets you build AI agents with 1000+ integrations using MCPs with managed OAuth, Security and Observability",
-    "url": "https://github.com/observee-ai/observee",
-    "stars": 19,
-    "daily_stars": 2,
+    "name": "evi-run",
+    "full_name": "pipedude/evi-run",
+    "description": "Ready-to-use customizable multi-agent AI system with Telegram integration. Combines plug-and-play simplicity with framework-level flexibility.",
+    "url": "https://github.com/pipedude/evi-run",
+    "stars": 16,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-26T15:17:51",
+    "updated_at": "2025-07-31T02:24:00"
+  },
+  {
+    "name": "evi-run",
+    "full_name": "pipedude/evi-run",
+    "description": "Ready-to-use customizable multi-agent AI system with Telegram integration. Combines plug-and-play simplicity with framework-level flexibility.",
+    "url": "https://github.com/pipedude/evi-run",
+    "stars": 16,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-26T15:17:51",
+    "updated_at": "2025-07-31T02:24:00"
+  },
+  {
+    "name": "production-ready-data-science-code",
+    "full_name": "khuyentran1401/production-ready-data-science-code",
+    "description": "Transform messy data science notebooks into production-ready code. Examples covering testing, CI/CD, MLOps, and scalable deployment practices.",
+    "url": "https://github.com/khuyentran1401/production-ready-data-science-code",
+    "stars": 16,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
-      "ai",
-      "ai-agents",
-      "anthropic",
-      "function-calling",
-      "gemini",
-      "gpt",
-      "groq",
-      "javascript",
-      "llm",
-      "mcp",
+      "book-examples",
+      "ci-cd",
+      "code-quality",
+      "data-engineering",
+      "data-science",
+      "machine-learning",
+      "mlops",
+      "production",
       "python",
-      "tool-calling",
-      "typescript",
-      "ycombinator"
+      "testing",
+      "tutorial",
+      "version-control"
     ],
-    "created_at": "2025-07-22T22:46:00",
-    "updated_at": "2025-07-30T19:32:44"
-  },
-  {
-    "name": "evi-run",
-    "full_name": "pipedude/evi-run",
-    "description": "Ready-to-use customizable multi-agent AI system with Telegram integration. Combines plug-and-play simplicity with framework-level flexibility.",
-    "url": "https://github.com/pipedude/evi-run",
-    "stars": 15,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-26T15:17:51",
-    "updated_at": "2025-07-30T16:54:59"
-  },
-  {
-    "name": "evi-run",
-    "full_name": "pipedude/evi-run",
-    "description": "Ready-to-use customizable multi-agent AI system with Telegram integration. Combines plug-and-play simplicity with framework-level flexibility.",
-    "url": "https://github.com/pipedude/evi-run",
-    "stars": 15,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-26T15:17:51",
-    "updated_at": "2025-07-30T16:54:59"
+    "created_at": "2025-07-24T20:24:37",
+    "updated_at": "2025-07-31T02:31:51"
   },
   {
     "name": "n8n-nodes-fusionbrain",
@@ -157,15 +155,15 @@
     "updated_at": "2025-07-29T14:30:36"
   },
   {
-    "name": "low_capacity_nn_behavior",
-    "full_name": "yashkc2025/low_capacity_nn_behavior",
-    "description": "Code for paper \"Understanding Generalization, Robustness, and Interpretability in Low-Capacity Neural Networks\"",
-    "url": "https://github.com/yashkc2025/low_capacity_nn_behavior",
+    "name": "HRM",
+    "full_name": "lucidrains/HRM",
+    "description": "Exploration into the proposed architecture from Sapient Intelligence of Singapore",
+    "url": "https://github.com/lucidrains/HRM",
     "stars": 10,
-    "daily_stars": 0,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [],
-    "created_at": "2025-07-23T13:45:30",
-    "updated_at": "2025-07-28T00:09:47"
+    "created_at": "2025-07-24T15:41:22",
+    "updated_at": "2025-07-31T02:26:30"
   }
 ]
