@@ -4,8 +4,8 @@
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 3106,
-    "daily_stars": 353,
+    "stars": 3406,
+    "daily_stars": 300,
     "language": null,
     "topics": [
       "agents",
@@ -18,15 +18,15 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-07-31T16:52:31"
+    "updated_at": "2025-07-31T20:45:27"
   },
   {
     "name": "claude-code-sub-agents",
     "full_name": "lst97/claude-code-sub-agents",
     "description": "Collection of specialized AI subagents for Claude Code for personal use.",
     "url": "https://github.com/lst97/claude-code-sub-agents",
-    "stars": 336,
-    "daily_stars": 90,
+    "stars": 376,
+    "daily_stars": 40,
     "language": null,
     "topics": [
       "ai-agents",
@@ -37,15 +37,15 @@
       "subagents"
     ],
     "created_at": "2025-07-28T13:04:48",
-    "updated_at": "2025-07-31T16:49:28"
+    "updated_at": "2025-07-31T20:45:34"
   },
   {
     "name": "HRM",
     "full_name": "sapientinc/HRM",
     "description": "Hierarchical Reasoning Model Official Release",
     "url": "https://github.com/sapientinc/HRM",
-    "stars": 2324,
-    "daily_stars": 21,
+    "stars": 2337,
+    "daily_stars": 13,
     "language": "Python",
     "topics": [
       "brain-inspired-ai",
@@ -54,27 +54,39 @@
       "reasoning"
     ],
     "created_at": "2025-07-09T02:09:32",
-    "updated_at": "2025-07-31T16:50:49"
+    "updated_at": "2025-07-31T20:32:24"
   },
   {
     "name": "Chronos",
     "full_name": "Kodezi/Chronos",
     "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
     "url": "https://github.com/Kodezi/Chronos",
-    "stars": 958,
-    "daily_stars": 7,
+    "stars": 963,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [],
     "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-07-31T16:38:24"
+    "updated_at": "2025-07-31T20:15:13"
+  },
+  {
+    "name": "flux-krea",
+    "full_name": "krea-ai/flux-krea",
+    "description": "Official GitHub repository for FLUX.1 Krea [dev].",
+    "url": "https://github.com/krea-ai/flux-krea",
+    "stars": 13,
+    "daily_stars": 5,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-30T18:19:10",
+    "updated_at": "2025-07-31T20:04:09"
   },
   {
     "name": "AgentGuard",
     "full_name": "dipampaul17/AgentGuard",
     "description": "Real-time guardrail that shows token spend & kills runaway LLM/agent loops.",
     "url": "https://github.com/dipampaul17/AgentGuard",
-    "stars": 53,
-    "daily_stars": 7,
+    "stars": 56,
+    "daily_stars": 3,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -91,47 +103,14 @@
       "token-usage"
     ],
     "created_at": "2025-07-31T02:46:39",
-    "updated_at": "2025-07-31T15:22:01"
-  },
-  {
-    "name": "claude-sub-agent",
-    "full_name": "zhsama/claude-sub-agent",
-    "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
-    "url": "https://github.com/zhsama/claude-sub-agent",
-    "stars": 154,
-    "daily_stars": 4,
-    "language": null,
-    "topics": [
-      "agent",
-      "claude-code",
-      "multi-agent-system",
-      "workflow"
-    ],
-    "created_at": "2025-07-27T14:48:13",
-    "updated_at": "2025-07-31T15:07:32"
-  },
-  {
-    "name": "pajaMAS",
-    "full_name": "trailofbits/pajaMAS",
-    "description": "Multi-agent system (MAS) hijacking demos",
-    "url": "https://github.com/trailofbits/pajaMAS",
-    "stars": 5,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-security",
-      "multi-agent-systems"
-    ],
-    "created_at": "2025-07-03T18:22:05",
-    "updated_at": "2025-07-31T16:47:49"
+    "updated_at": "2025-07-31T19:27:26"
   },
   {
     "name": "production-ready-data-science-code",
     "full_name": "khuyentran1401/production-ready-data-science-code",
     "description": "Transform messy data science notebooks into production-ready code. Examples covering testing, CI/CD, MLOps, and scalable deployment practices.",
     "url": "https://github.com/khuyentran1401/production-ready-data-science-code",
-    "stars": 34,
+    "stars": 37,
     "daily_stars": 3,
     "language": "Python",
     "topics": [
@@ -149,15 +128,43 @@
       "version-control"
     ],
     "created_at": "2025-07-24T20:24:37",
-    "updated_at": "2025-07-31T15:29:53"
+    "updated_at": "2025-07-31T20:07:05"
+  },
+  {
+    "name": "pajaMAS",
+    "full_name": "trailofbits/pajaMAS",
+    "description": "Multi-agent system (MAS) hijacking demos",
+    "url": "https://github.com/trailofbits/pajaMAS",
+    "stars": 7,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-security",
+      "multi-agent-systems"
+    ],
+    "created_at": "2025-07-03T18:22:05",
+    "updated_at": "2025-07-31T19:20:31"
+  },
+  {
+    "name": "devops-ai-guidelines",
+    "full_name": "VersusControl/devops-ai-guidelines",
+    "description": "🚀 Your complete toolkit for mastering AI in DevOps - from career advancement to daily productivity hacks",
+    "url": "https://github.com/VersusControl/devops-ai-guidelines",
+    "stars": 188,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [],
+    "created_at": "2025-07-20T11:15:56",
+    "updated_at": "2025-07-31T17:20:35"
   },
   {
     "name": "opencode.nvim",
     "full_name": "NickvanDyke/opencode.nvim",
     "description": "Conveniently interface with the opencode AI assistant inside Neovim.",
     "url": "https://github.com/NickvanDyke/opencode.nvim",
-    "stars": 181,
-    "daily_stars": 2,
+    "stars": 182,
+    "daily_stars": 1,
     "language": "Lua",
     "topics": [
       "ai-agents",
@@ -169,32 +176,6 @@
       "terminal"
     ],
     "created_at": "2025-07-12T13:52:17",
-    "updated_at": "2025-07-31T16:26:57"
-  },
-  {
-    "name": "kernel-mcp-server",
-    "full_name": "onkernel/kernel-mcp-server",
-    "description": "Open-source MCP server for secure, low-latency cloud-browser automation on Kernel.",
-    "url": "https://github.com/onkernel/kernel-mcp-server",
-    "stars": 12,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "browser-automation",
-      "cloud-browser",
-      "devtool",
-      "headless-chromium",
-      "kernel",
-      "mcp",
-      "model-context-protocol",
-      "nextjs",
-      "nodejs",
-      "open-source",
-      "streamable-http",
-      "typescript"
-    ],
-    "created_at": "2025-07-15T18:29:11",
-    "updated_at": "2025-07-31T15:05:51"
+    "updated_at": "2025-07-31T19:26:06"
   }
 ]
