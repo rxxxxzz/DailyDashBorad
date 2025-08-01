@@ -4,8 +4,8 @@
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 4219,
-    "daily_stars": 330,
+    "stars": 4568,
+    "daily_stars": 349,
     "language": null,
     "topics": [
       "agents",
@@ -18,27 +18,56 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-08-01T08:52:27"
+    "updated_at": "2025-08-01T13:12:02"
   },
   {
     "name": "flux-krea",
     "full_name": "krea-ai/flux-krea",
     "description": "Official GitHub repository for FLUX.1 Krea [dev].",
     "url": "https://github.com/krea-ai/flux-krea",
-    "stars": 90,
-    "daily_stars": 24,
+    "stars": 116,
+    "daily_stars": 26,
     "language": "Python",
     "topics": [],
     "created_at": "2025-07-30T18:19:10",
-    "updated_at": "2025-08-01T08:51:36"
+    "updated_at": "2025-08-01T13:08:39"
+  },
+  {
+    "name": "Chronos",
+    "full_name": "Kodezi/Chronos",
+    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
+    "url": "https://github.com/Kodezi/Chronos",
+    "stars": 1000,
+    "daily_stars": 16,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-21T07:34:10",
+    "updated_at": "2025-08-01T13:03:14"
+  },
+  {
+    "name": "HRM",
+    "full_name": "sapientinc/HRM",
+    "description": "Hierarchical Reasoning Model Official Release",
+    "url": "https://github.com/sapientinc/HRM",
+    "stars": 2396,
+    "daily_stars": 16,
+    "language": "Python",
+    "topics": [
+      "brain-inspired-ai",
+      "deep-learning",
+      "large-language-models",
+      "reasoning"
+    ],
+    "created_at": "2025-07-09T02:09:32",
+    "updated_at": "2025-08-01T13:09:57"
   },
   {
     "name": "claude-code-sub-agents",
     "full_name": "lst97/claude-code-sub-agents",
     "description": "Collection of specialized AI subagents for Claude Code for personal use.",
     "url": "https://github.com/lst97/claude-code-sub-agents",
-    "stars": 430,
-    "daily_stars": 23,
+    "stars": 436,
+    "daily_stars": 6,
     "language": null,
     "topics": [
       "ai-agents",
@@ -49,44 +78,74 @@
       "subagents"
     ],
     "created_at": "2025-07-28T13:04:48",
-    "updated_at": "2025-08-01T08:16:18"
+    "updated_at": "2025-08-01T12:55:08"
   },
   {
-    "name": "HRM",
-    "full_name": "sapientinc/HRM",
-    "description": "Hierarchical Reasoning Model Official Release",
-    "url": "https://github.com/sapientinc/HRM",
-    "stars": 2380,
-    "daily_stars": 12,
-    "language": "Python",
+    "name": "claude-sub-agent",
+    "full_name": "zhsama/claude-sub-agent",
+    "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
+    "url": "https://github.com/zhsama/claude-sub-agent",
+    "stars": 168,
+    "daily_stars": 5,
+    "language": null,
     "topics": [
-      "brain-inspired-ai",
-      "deep-learning",
-      "large-language-models",
-      "reasoning"
+      "agent",
+      "claude-code",
+      "multi-agent-system",
+      "workflow"
     ],
-    "created_at": "2025-07-09T02:09:32",
-    "updated_at": "2025-08-01T08:48:15"
+    "created_at": "2025-07-27T14:48:13",
+    "updated_at": "2025-08-01T12:48:05"
   },
   {
-    "name": "Chronos",
-    "full_name": "Kodezi/Chronos",
-    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
-    "url": "https://github.com/Kodezi/Chronos",
-    "stars": 984,
-    "daily_stars": 6,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-08-01T08:36:26"
+    "name": "opencode.nvim",
+    "full_name": "NickvanDyke/opencode.nvim",
+    "description": "Conveniently interface with the opencode AI assistant inside Neovim.",
+    "url": "https://github.com/NickvanDyke/opencode.nvim",
+    "stars": 186,
+    "daily_stars": 3,
+    "language": "Lua",
+    "topics": [
+      "ai-agents",
+      "ai-assistant",
+      "neovim",
+      "nvim",
+      "opencode",
+      "plugin",
+      "terminal"
+    ],
+    "created_at": "2025-07-12T13:52:17",
+    "updated_at": "2025-08-01T11:31:54"
+  },
+  {
+    "name": "traceroot",
+    "full_name": "traceroot-ai/traceroot",
+    "description": "Find the Root cause in your Code's Trace",
+    "url": "https://github.com/traceroot-ai/traceroot",
+    "stars": 109,
+    "daily_stars": 3,
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "debugging",
+      "llm",
+      "monitoring",
+      "multi-agent-systems",
+      "observability",
+      "trace"
+    ],
+    "created_at": "2025-07-22T19:50:15",
+    "updated_at": "2025-08-01T11:15:36"
   },
   {
     "name": "AgentGuard",
     "full_name": "dipampaul17/AgentGuard",
     "description": "Real-time guardrail that shows token spend & kills runaway LLM/agent loops.",
     "url": "https://github.com/dipampaul17/AgentGuard",
-    "stars": 63,
-    "daily_stars": 3,
+    "stars": 65,
+    "daily_stars": 2,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -103,99 +162,29 @@
       "token-usage"
     ],
     "created_at": "2025-07-31T02:46:39",
-    "updated_at": "2025-08-01T08:47:42"
+    "updated_at": "2025-08-01T12:51:35"
   },
   {
-    "name": "traceroot",
-    "full_name": "traceroot-ai/traceroot",
-    "description": "Find the Root cause in your Code's Trace",
-    "url": "https://github.com/traceroot-ai/traceroot",
-    "stars": 106,
+    "name": "claude-code-sub-agents",
+    "full_name": "charles-adedotun/claude-code-sub-agents",
+    "description": "🤖 Comprehensive sub-agent ecosystem for Claude Code - Intelligent AI assistance across the full software development lifecycle",
+    "url": "https://github.com/charles-adedotun/claude-code-sub-agents",
+    "stars": 8,
     "daily_stars": 2,
-    "language": "TypeScript",
+    "language": "Shell",
     "topics": [
-      "agent",
-      "ai",
       "ai-agents",
-      "debugging",
-      "llm",
-      "monitoring",
-      "multi-agent-systems",
-      "observability",
-      "trace"
-    ],
-    "created_at": "2025-07-22T19:50:15",
-    "updated_at": "2025-08-01T08:23:58"
-  },
-  {
-    "name": "observee",
-    "full_name": "observee-ai/observee",
-    "description": "Observee lets you build AI agents with 1000+ integrations using MCPs with managed OAuth, Security and Observability",
-    "url": "https://github.com/observee-ai/observee",
-    "stars": 27,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "anthropic",
-      "function-calling",
-      "gemini",
-      "gpt",
-      "groq",
-      "javascript",
-      "llm",
-      "mcp",
-      "python",
-      "tool-calling",
-      "typescript",
-      "ycombinator"
-    ],
-    "created_at": "2025-07-22T22:46:00",
-    "updated_at": "2025-08-01T06:44:06"
-  },
-  {
-    "name": "ai-agents-eval-techniques",
-    "full_name": "FareedKhan-dev/ai-agents-eval-techniques",
-    "description": "Implementation of 12 AI agents evaluation techniques",
-    "url": "https://github.com/FareedKhan-dev/ai-agents-eval-techniques",
-    "stars": 5,
-    "daily_stars": 2,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "langchain",
-      "langsmith",
-      "llm",
-      "openai"
-    ],
-    "created_at": "2025-07-31T03:26:16",
-    "updated_at": "2025-08-01T06:58:22"
-  },
-  {
-    "name": "production-ready-data-science-code",
-    "full_name": "khuyentran1401/production-ready-data-science-code",
-    "description": "Transform messy data science notebooks into production-ready code. Examples covering testing, CI/CD, MLOps, and scalable deployment practices.",
-    "url": "https://github.com/khuyentran1401/production-ready-data-science-code",
-    "stars": 39,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "book-examples",
-      "ci-cd",
-      "code-quality",
-      "data-engineering",
-      "data-science",
-      "machine-learning",
-      "mlops",
-      "production",
-      "python",
+      "automation",
+      "claude-code",
+      "developer-tools",
+      "devops",
+      "productivity",
+      "react",
+      "security",
       "testing",
-      "tutorial",
-      "version-control"
+      "workflow"
     ],
-    "created_at": "2025-07-24T20:24:37",
-    "updated_at": "2025-08-01T06:06:42"
+    "created_at": "2025-07-26T00:53:48",
+    "updated_at": "2025-08-01T11:55:51"
   }
 ]
