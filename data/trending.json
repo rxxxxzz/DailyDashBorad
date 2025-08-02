@@ -4,8 +4,8 @@
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 5102,
-    "daily_stars": 238,
+    "stars": 5342,
+    "daily_stars": 240,
     "language": null,
     "topics": [
       "agents",
@@ -18,15 +18,15 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-08-01T20:44:21"
+    "updated_at": "2025-08-02T02:30:40"
   },
   {
     "name": "HRM",
     "full_name": "sapientinc/HRM",
     "description": "Hierarchical Reasoning Model Official Release",
     "url": "https://github.com/sapientinc/HRM",
-    "stars": 2428,
-    "daily_stars": 17,
+    "stars": 2526,
+    "daily_stars": 98,
     "language": "Python",
     "topics": [
       "brain-inspired-ai",
@@ -35,46 +35,15 @@
       "reasoning"
     ],
     "created_at": "2025-07-09T02:09:32",
-    "updated_at": "2025-08-01T20:40:09"
-  },
-  {
-    "name": "claude-code-sub-agents",
-    "full_name": "lst97/claude-code-sub-agents",
-    "description": "Collection of specialized AI subagents for Claude Code for personal use.",
-    "url": "https://github.com/lst97/claude-code-sub-agents",
-    "stars": 458,
-    "daily_stars": 13,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "claudecode-config",
-      "claudecode-subagents",
-      "sub-agents",
-      "subagents"
-    ],
-    "created_at": "2025-07-28T13:04:48",
-    "updated_at": "2025-08-01T20:26:27"
-  },
-  {
-    "name": "flux-krea",
-    "full_name": "krea-ai/flux-krea",
-    "description": "Official GitHub repository for FLUX.1 Krea [dev].",
-    "url": "https://github.com/krea-ai/flux-krea",
-    "stars": 145,
-    "daily_stars": 12,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-30T18:19:10",
-    "updated_at": "2025-08-01T20:31:37"
+    "updated_at": "2025-08-02T02:28:31"
   },
   {
     "name": "traceroot",
     "full_name": "traceroot-ai/traceroot",
     "description": "Find the Root cause in your Code's Trace",
     "url": "https://github.com/traceroot-ai/traceroot",
-    "stars": 120,
-    "daily_stars": 9,
+    "stars": 150,
+    "daily_stars": 30,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -88,108 +57,102 @@
       "trace"
     ],
     "created_at": "2025-07-22T19:50:15",
-    "updated_at": "2025-08-01T20:20:44"
+    "updated_at": "2025-08-02T02:16:02"
+  },
+  {
+    "name": "flux-krea",
+    "full_name": "krea-ai/flux-krea",
+    "description": "Official GitHub repository for FLUX.1 Krea [dev].",
+    "url": "https://github.com/krea-ai/flux-krea",
+    "stars": 156,
+    "daily_stars": 11,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-30T18:19:10",
+    "updated_at": "2025-08-02T02:05:37"
+  },
+  {
+    "name": "claude-code-sub-agents",
+    "full_name": "lst97/claude-code-sub-agents",
+    "description": "Collection of specialized AI subagents for Claude Code for personal use.",
+    "url": "https://github.com/lst97/claude-code-sub-agents",
+    "stars": 468,
+    "daily_stars": 10,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "claudecode-config",
+      "claudecode-subagents",
+      "sub-agents",
+      "subagents"
+    ],
+    "created_at": "2025-07-28T13:04:48",
+    "updated_at": "2025-08-02T02:25:56"
   },
   {
     "name": "Chronos",
     "full_name": "Kodezi/Chronos",
     "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
     "url": "https://github.com/Kodezi/Chronos",
-    "stars": 1016,
-    "daily_stars": 6,
+    "stars": 1019,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [],
     "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-08-01T20:25:25"
+    "updated_at": "2025-08-02T00:13:27"
   },
   {
     "name": "HS-TasNet",
     "full_name": "lucidrains/HS-TasNet",
     "description": "Implementation of HS-TasNet, \"Real-time Low-latency Music Source Separation using Hybrid Spectrogram-TasNet\"",
     "url": "https://github.com/lucidrains/HS-TasNet",
-    "stars": 16,
-    "daily_stars": 3,
+    "stars": 18,
+    "daily_stars": 2,
     "language": null,
     "topics": [],
     "created_at": "2025-08-01T12:46:45",
-    "updated_at": "2025-08-01T20:06:30"
+    "updated_at": "2025-08-01T22:40:37"
   },
   {
-    "name": "AgentGuard",
-    "full_name": "dipampaul17/AgentGuard",
-    "description": "Real-time guardrail that shows token spend & kills runaway LLM/agent loops.",
-    "url": "https://github.com/dipampaul17/AgentGuard",
-    "stars": 69,
-    "daily_stars": 3,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "anthropic-claude",
-      "cost-monitoring",
-      "debugging",
-      "guardrails",
-      "llm",
-      "observability",
-      "openai",
-      "openai-api",
-      "prompt-engineering",
-      "token-usage"
-    ],
-    "created_at": "2025-07-31T02:46:39",
-    "updated_at": "2025-08-01T20:37:03"
-  },
-  {
-    "name": "MCP-Checklists",
-    "full_name": "MCP-Manager/MCP-Checklists",
-    "description": null,
-    "url": "https://github.com/MCP-Manager/MCP-Checklists",
-    "stars": 6,
+    "name": "claude-sub-agent",
+    "full_name": "zhsama/claude-sub-agent",
+    "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
+    "url": "https://github.com/zhsama/claude-sub-agent",
+    "stars": 174,
     "daily_stars": 2,
     "language": null,
     "topics": [
-      "agentic-ai",
-      "agents",
-      "ai-agent",
-      "ai-agents",
-      "cybersecurity",
-      "mcp",
-      "mcp-client",
-      "mcp-client-security",
-      "mcp-clients",
-      "mcp-host",
-      "mcp-server",
-      "mcp-servers",
-      "model-context-protocol",
-      "model-context-protocol-client",
-      "model-context-protocol-servers"
+      "agent",
+      "claude-code",
+      "multi-agent-system",
+      "workflow"
     ],
-    "created_at": "2025-07-25T18:49:30",
-    "updated_at": "2025-08-01T19:58:30"
+    "created_at": "2025-07-27T14:48:13",
+    "updated_at": "2025-08-02T02:19:53"
   },
   {
-    "name": "production-ready-data-science-code",
-    "full_name": "khuyentran1401/production-ready-data-science-code",
-    "description": "Transform messy data science notebooks into production-ready code. Examples covering testing, CI/CD, MLOps, and scalable deployment practices.",
-    "url": "https://github.com/khuyentran1401/production-ready-data-science-code",
-    "stars": 44,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "book-examples",
-      "ci-cd",
-      "code-quality",
-      "data-engineering",
-      "data-science",
-      "machine-learning",
-      "mlops",
-      "production",
-      "python",
-      "testing",
-      "tutorial",
-      "version-control"
-    ],
-    "created_at": "2025-07-24T20:24:37",
-    "updated_at": "2025-08-01T20:09:29"
+    "name": "devops-ai-guidelines",
+    "full_name": "VersusControl/devops-ai-guidelines",
+    "description": "🚀 Your complete toolkit for mastering AI in DevOps - from career advancement to daily productivity hacks",
+    "url": "https://github.com/VersusControl/devops-ai-guidelines",
+    "stars": 191,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [],
+    "created_at": "2025-07-20T11:15:56",
+    "updated_at": "2025-08-01T23:59:22"
+  },
+  {
+    "name": "ClueoMCP",
+    "full_name": "ClueoFoundation/ClueoMCP",
+    "description": "🎭 The Personality Layer for LLMs- Transform any MCP-compatible AI with rich, consistent personalities powered by Clueo's Big Five personality engine.",
+    "url": "https://github.com/ClueoFoundation/ClueoMCP",
+    "stars": 9,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-07-28T19:02:24",
+    "updated_at": "2025-08-02T01:20:49"
   }
 ]
