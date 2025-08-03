@@ -4,8 +4,8 @@
     "full_name": "sapientinc/HRM",
     "description": "Hierarchical Reasoning Model Official Release",
     "url": "https://github.com/sapientinc/HRM",
-    "stars": 3384,
-    "daily_stars": 181,
+    "stars": 3639,
+    "daily_stars": 255,
     "language": "Python",
     "topics": [
       "brain-inspired-ai",
@@ -14,15 +14,15 @@
       "reasoning"
     ],
     "created_at": "2025-07-09T02:09:32",
-    "updated_at": "2025-08-02T20:42:41"
+    "updated_at": "2025-08-03T02:53:01"
   },
   {
     "name": "agents",
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 5799,
-    "daily_stars": 32,
+    "stars": 5850,
+    "daily_stars": 51,
     "language": null,
     "topics": [
       "agents",
@@ -35,15 +35,15 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-08-02T20:38:12"
+    "updated_at": "2025-08-03T02:41:37"
   },
   {
     "name": "claude-code-sub-agents",
     "full_name": "lst97/claude-code-sub-agents",
     "description": "Collection of specialized AI subagents for Claude Code for personal use.",
     "url": "https://github.com/lst97/claude-code-sub-agents",
-    "stars": 504,
-    "daily_stars": 12,
+    "stars": 515,
+    "daily_stars": 11,
     "language": null,
     "topics": [
       "ai-agents",
@@ -54,51 +54,32 @@
       "subagents"
     ],
     "created_at": "2025-07-28T13:04:48",
-    "updated_at": "2025-08-02T20:40:19"
+    "updated_at": "2025-08-03T02:54:53"
   },
   {
-    "name": "flux-krea",
-    "full_name": "krea-ai/flux-krea",
-    "description": "Official GitHub repository for FLUX.1 Krea [dev].",
-    "url": "https://github.com/krea-ai/flux-krea",
+    "name": "claude-sub-agent",
+    "full_name": "zhsama/claude-sub-agent",
+    "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
+    "url": "https://github.com/zhsama/claude-sub-agent",
     "stars": 193,
     "daily_stars": 6,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-30T18:19:10",
-    "updated_at": "2025-08-02T20:31:10"
-  },
-  {
-    "name": "Chronos",
-    "full_name": "Kodezi/Chronos",
-    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
-    "url": "https://github.com/Kodezi/Chronos",
-    "stars": 1058,
-    "daily_stars": 5,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-08-02T18:49:20"
-  },
-  {
-    "name": "gaia",
-    "full_name": "heygaia/gaia",
-    "description": "Your open source, proactive & personal assistant that gets things done",
-    "url": "https://github.com/heygaia/gaia",
-    "stars": 28,
-    "daily_stars": 4,
-    "language": "TypeScript",
-    "topics": [],
-    "created_at": "2025-07-08T18:12:37",
-    "updated_at": "2025-08-02T20:40:55"
+    "language": null,
+    "topics": [
+      "agent",
+      "claude-code",
+      "multi-agent-system",
+      "workflow"
+    ],
+    "created_at": "2025-07-27T14:48:13",
+    "updated_at": "2025-08-03T02:45:22"
   },
   {
     "name": "traceroot",
     "full_name": "traceroot-ai/traceroot",
     "description": "Find the Root cause in your Code's Trace",
     "url": "https://github.com/traceroot-ai/traceroot",
-    "stars": 173,
-    "daily_stars": 2,
+    "stars": 178,
+    "daily_stars": 5,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -112,61 +93,76 @@
       "trace"
     ],
     "created_at": "2025-07-22T19:50:15",
-    "updated_at": "2025-08-02T19:28:25"
+    "updated_at": "2025-08-03T02:42:41"
   },
   {
-    "name": "claude-sub-agent",
-    "full_name": "zhsama/claude-sub-agent",
-    "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
-    "url": "https://github.com/zhsama/claude-sub-agent",
-    "stars": 187,
-    "daily_stars": 2,
+    "name": "HS-TasNet",
+    "full_name": "lucidrains/HS-TasNet",
+    "description": "Implementation of HS-TasNet, \"Real-time Low-latency Music Source Separation using Hybrid Spectrogram-TasNet\"",
+    "url": "https://github.com/lucidrains/HS-TasNet",
+    "stars": 29,
+    "daily_stars": 4,
     "language": null,
-    "topics": [
-      "agent",
-      "claude-code",
-      "multi-agent-system",
-      "workflow"
-    ],
-    "created_at": "2025-07-27T14:48:13",
-    "updated_at": "2025-08-02T18:42:23"
+    "topics": [],
+    "created_at": "2025-08-01T12:46:45",
+    "updated_at": "2025-08-03T00:29:06"
   },
   {
     "name": "HRM",
     "full_name": "lucidrains/HRM",
     "description": "Exploration into the proposed architecture from Sapient Intelligence of Singapore",
     "url": "https://github.com/lucidrains/HRM",
-    "stars": 12,
-    "daily_stars": 1,
+    "stars": 16,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [],
     "created_at": "2025-07-24T15:41:22",
-    "updated_at": "2025-08-02T19:30:31"
+    "updated_at": "2025-08-03T01:24:55"
   },
   {
-    "name": "bio-ai-software-engineering-roadmap",
-    "full_name": "babilonczyk/bio-ai-software-engineering-roadmap",
-    "description": "Explore roadmap to becoming a Bio AI Software Engineer - combining machine learning, bioinformatics, and software engineering to build the future of biotechnology. Join the journey on GitHub! ✨",
-    "url": "https://github.com/babilonczyk/bio-ai-software-engineering-roadmap",
-    "stars": 2,
-    "daily_stars": 1,
-    "language": null,
+    "name": "gaia",
+    "full_name": "heygaia/gaia",
+    "description": "Your open source, proactive & personal assistant that gets things done",
+    "url": "https://github.com/heygaia/gaia",
+    "stars": 31,
+    "daily_stars": 3,
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-07-08T18:12:37",
+    "updated_at": "2025-08-02T21:37:15"
+  },
+  {
+    "name": "contextual-engineering-guide",
+    "full_name": "FareedKhan-dev/contextual-engineering-guide",
+    "description": "Implementation of contextual engineering pipeline with LangChain and LangGraph Agents",
+    "url": "https://github.com/FareedKhan-dev/contextual-engineering-guide",
+    "stars": 33,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
     "topics": [
-      "ai-in-biology",
-      "artificial-intelligence",
-      "bioai",
-      "bioinformatics",
-      "data-science",
-      "deep-learning",
-      "drug-discovery",
-      "fastapi",
-      "genomics",
-      "machine-learning",
-      "protein-design",
-      "python",
-      "roadmap"
+      "ai",
+      "ai-agents",
+      "claude",
+      "context-engineering",
+      "langchain",
+      "langgraph",
+      "large-language-models",
+      "openai",
+      "prompt-engineering"
     ],
-    "created_at": "2025-07-28T11:31:25",
-    "updated_at": "2025-08-02T18:31:15"
+    "created_at": "2025-07-24T10:50:35",
+    "updated_at": "2025-08-03T02:37:47"
+  },
+  {
+    "name": "flux-krea",
+    "full_name": "krea-ai/flux-krea",
+    "description": "Official GitHub repository for FLUX.1 Krea [dev].",
+    "url": "https://github.com/krea-ai/flux-krea",
+    "stars": 195,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-30T18:19:10",
+    "updated_at": "2025-08-03T01:57:44"
   }
 ]
