@@ -4,8 +4,8 @@
     "full_name": "sapientinc/HRM",
     "description": "Hierarchical Reasoning Model Official Release",
     "url": "https://github.com/sapientinc/HRM",
-    "stars": 4517,
-    "daily_stars": 199,
+    "stars": 4819,
+    "daily_stars": 302,
     "language": "Python",
     "topics": [
       "brain-inspired-ai",
@@ -14,15 +14,15 @@
       "reasoning"
     ],
     "created_at": "2025-07-09T02:09:32",
-    "updated_at": "2025-08-03T20:41:44"
+    "updated_at": "2025-08-04T02:57:39"
   },
   {
     "name": "agents",
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 6010,
-    "daily_stars": 26,
+    "stars": 6135,
+    "daily_stars": 125,
     "language": null,
     "topics": [
       "agents",
@@ -35,15 +35,15 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-08-03T20:37:10"
+    "updated_at": "2025-08-04T02:58:13"
   },
   {
     "name": "claude-code-sub-agents",
     "full_name": "lst97/claude-code-sub-agents",
     "description": "Collection of specialized AI subagents for Claude Code for personal use.",
     "url": "https://github.com/lst97/claude-code-sub-agents",
-    "stars": 570,
-    "daily_stars": 14,
+    "stars": 586,
+    "daily_stars": 16,
     "language": null,
     "topics": [
       "ai-agents",
@@ -54,50 +54,90 @@
       "subagents"
     ],
     "created_at": "2025-07-28T13:04:48",
-    "updated_at": "2025-08-03T20:33:38"
+    "updated_at": "2025-08-04T02:36:03"
   },
   {
     "name": "flux-krea",
     "full_name": "krea-ai/flux-krea",
     "description": "Official GitHub repository for FLUX.1 Krea [dev].",
     "url": "https://github.com/krea-ai/flux-krea",
-    "stars": 214,
-    "daily_stars": 8,
+    "stars": 229,
+    "daily_stars": 15,
     "language": "Python",
     "topics": [],
     "created_at": "2025-07-30T18:19:10",
-    "updated_at": "2025-08-03T20:31:03"
-  },
-  {
-    "name": "Chronos",
-    "full_name": "Kodezi/Chronos",
-    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
-    "url": "https://github.com/Kodezi/Chronos",
-    "stars": 1066,
-    "daily_stars": 6,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-08-03T20:12:27"
+    "updated_at": "2025-08-04T02:49:28"
   },
   {
     "name": "devops-ai-guidelines",
     "full_name": "VersusControl/devops-ai-guidelines",
     "description": "🚀 Your complete toolkit for mastering AI in DevOps - from career advancement to daily productivity hacks",
     "url": "https://github.com/VersusControl/devops-ai-guidelines",
-    "stars": 208,
-    "daily_stars": 4,
+    "stars": 216,
+    "daily_stars": 8,
     "language": null,
     "topics": [],
     "created_at": "2025-07-20T11:15:56",
-    "updated_at": "2025-08-03T20:21:48"
+    "updated_at": "2025-08-04T02:02:32"
+  },
+  {
+    "name": "claude-007-agents",
+    "full_name": "avivl/claude-007-agents",
+    "description": " 🤖 A unified AI agent orchestration system featuring 75+ specialized agents across 14 categories for modern software development. Built with advanced coordination intelligence, resilience engineering, and structured logging   capabilities.",
+    "url": "https://github.com/avivl/claude-007-agents",
+    "stars": 18,
+    "daily_stars": 8,
+    "language": "Shell",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "ai-agents",
+      "claude",
+      "claude-code"
+    ],
+    "created_at": "2025-07-30T13:20:38",
+    "updated_at": "2025-08-04T02:34:35"
+  },
+  {
+    "name": "Chronos",
+    "full_name": "Kodezi/Chronos",
+    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
+    "url": "https://github.com/Kodezi/Chronos",
+    "stars": 1072,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-21T07:34:10",
+    "updated_at": "2025-08-04T02:46:28"
+  },
+  {
+    "name": "traceroot",
+    "full_name": "traceroot-ai/traceroot",
+    "description": "Find the Root cause in your Code's Trace",
+    "url": "https://github.com/traceroot-ai/traceroot",
+    "stars": 190,
+    "daily_stars": 4,
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "debugging",
+      "llm",
+      "monitoring",
+      "multi-agent-systems",
+      "observability",
+      "trace"
+    ],
+    "created_at": "2025-07-22T19:50:15",
+    "updated_at": "2025-08-04T01:16:32"
   },
   {
     "name": "AgentGuard",
     "full_name": "dipampaul17/AgentGuard",
     "description": "Real-time guardrail that shows token spend & kills runaway LLM/agent loops.",
     "url": "https://github.com/dipampaul17/AgentGuard",
-    "stars": 77,
+    "stars": 81,
     "daily_stars": 4,
     "language": "JavaScript",
     "topics": [
@@ -115,15 +155,15 @@
       "token-usage"
     ],
     "created_at": "2025-07-31T02:46:39",
-    "updated_at": "2025-08-03T20:01:07"
+    "updated_at": "2025-08-04T00:00:16"
   },
   {
     "name": "claude-sub-agent",
     "full_name": "zhsama/claude-sub-agent",
     "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
     "url": "https://github.com/zhsama/claude-sub-agent",
-    "stars": 207,
-    "daily_stars": 3,
+    "stars": 211,
+    "daily_stars": 4,
     "language": null,
     "topics": [
       "agent",
@@ -132,30 +172,6 @@
       "workflow"
     ],
     "created_at": "2025-07-27T14:48:13",
-    "updated_at": "2025-08-03T18:21:52"
-  },
-  {
-    "name": "gaia",
-    "full_name": "heygaia/gaia",
-    "description": "Your open source, proactive & personal assistant that gets things done",
-    "url": "https://github.com/heygaia/gaia",
-    "stars": 46,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [],
-    "created_at": "2025-07-08T18:12:37",
-    "updated_at": "2025-08-03T17:35:54"
-  },
-  {
-    "name": "HRM",
-    "full_name": "lucidrains/HRM",
-    "description": "Exploration into the proposed architecture from Sapient Intelligence of Singapore",
-    "url": "https://github.com/lucidrains/HRM",
-    "stars": 34,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-24T15:41:22",
-    "updated_at": "2025-08-03T20:33:45"
+    "updated_at": "2025-08-04T01:18:01"
   }
 ]
