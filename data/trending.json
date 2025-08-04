@@ -4,8 +4,8 @@
     "full_name": "sapientinc/HRM",
     "description": "Hierarchical Reasoning Model Official Release",
     "url": "https://github.com/sapientinc/HRM",
-    "stars": 5187,
-    "daily_stars": 262,
+    "stars": 5474,
+    "daily_stars": 287,
     "language": "Python",
     "topics": [
       "brain-inspired-ai",
@@ -14,15 +14,15 @@
       "reasoning"
     ],
     "created_at": "2025-07-09T02:09:32",
-    "updated_at": "2025-08-04T08:53:26"
+    "updated_at": "2025-08-04T13:21:49"
   },
   {
     "name": "agents",
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 6298,
-    "daily_stars": 102,
+    "stars": 6388,
+    "daily_stars": 90,
     "language": null,
     "topics": [
       "agents",
@@ -35,57 +35,34 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-08-04T08:53:17"
+    "updated_at": "2025-08-04T13:22:49"
   },
   {
-    "name": "omini-kontext",
-    "full_name": "Saquib764/omini-kontext",
-    "description": "An inference and training framework for multiple image input in Flux Kontext dev",
-    "url": "https://github.com/Saquib764/omini-kontext",
-    "stars": 124,
-    "daily_stars": 21,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-29T23:47:08",
-    "updated_at": "2025-08-04T08:16:52"
-  },
-  {
-    "name": "flux-krea",
-    "full_name": "krea-ai/flux-krea",
-    "description": "Official GitHub repository for FLUX.1 Krea [dev].",
-    "url": "https://github.com/krea-ai/flux-krea",
-    "stars": 241,
-    "daily_stars": 6,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-30T18:19:10",
-    "updated_at": "2025-08-04T08:18:43"
-  },
-  {
-    "name": "claude-007-agents",
-    "full_name": "avivl/claude-007-agents",
-    "description": " 🤖 A unified AI agent orchestration system featuring 75+ specialized agents across 14 categories for modern software development. Built with advanced coordination intelligence, resilience engineering, and structured logging   capabilities.",
-    "url": "https://github.com/avivl/claude-007-agents",
-    "stars": 32,
-    "daily_stars": 5,
-    "language": "Shell",
+    "name": "claude-code-sub-agents",
+    "full_name": "lst97/claude-code-sub-agents",
+    "description": "Collection of specialized AI subagents for Claude Code for personal use.",
+    "url": "https://github.com/lst97/claude-code-sub-agents",
+    "stars": 607,
+    "daily_stars": 16,
+    "language": null,
     "topics": [
-      "agent",
-      "agentic-ai",
       "ai-agents",
-      "claude",
-      "claude-code"
+      "claude-code",
+      "claudecode-config",
+      "claudecode-subagents",
+      "sub-agents",
+      "subagents"
     ],
-    "created_at": "2025-07-30T13:20:38",
-    "updated_at": "2025-08-04T07:53:12"
+    "created_at": "2025-07-28T13:04:48",
+    "updated_at": "2025-08-04T13:21:33"
   },
   {
     "name": "traceroot",
     "full_name": "traceroot-ai/traceroot",
     "description": "Find the Root cause in your Code's Trace",
     "url": "https://github.com/traceroot-ai/traceroot",
-    "stars": 194,
-    "daily_stars": 4,
+    "stars": 204,
+    "daily_stars": 10,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -99,68 +76,97 @@
       "trace"
     ],
     "created_at": "2025-07-22T19:50:15",
-    "updated_at": "2025-08-04T07:03:21"
+    "updated_at": "2025-08-04T13:22:52"
+  },
+  {
+    "name": "omini-kontext",
+    "full_name": "Saquib764/omini-kontext",
+    "description": "An inference and training framework for multiple image input in Flux Kontext dev",
+    "url": "https://github.com/Saquib764/omini-kontext",
+    "stars": 133,
+    "daily_stars": 9,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-29T23:47:08",
+    "updated_at": "2025-08-04T12:58:22"
+  },
+  {
+    "name": "claude-007-agents",
+    "full_name": "avivl/claude-007-agents",
+    "description": " 🤖 A unified AI agent orchestration system featuring 75+ specialized agents across 14 categories for modern software development. Built with advanced coordination intelligence, resilience engineering, and structured logging   capabilities.",
+    "url": "https://github.com/avivl/claude-007-agents",
+    "stars": 41,
+    "daily_stars": 9,
+    "language": "Shell",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "ai-agents",
+      "claude",
+      "claude-code"
+    ],
+    "created_at": "2025-07-30T13:20:38",
+    "updated_at": "2025-08-04T13:15:34"
   },
   {
     "name": "Chronos",
     "full_name": "Kodezi/Chronos",
     "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
     "url": "https://github.com/Kodezi/Chronos",
-    "stars": 1077,
-    "daily_stars": 3,
+    "stars": 1083,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [],
     "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-08-04T07:49:03"
+    "updated_at": "2025-08-04T12:42:11"
+  },
+  {
+    "name": "AgentGuard",
+    "full_name": "dipampaul17/AgentGuard",
+    "description": "Real-time guardrail that shows token spend & kills runaway LLM/agent loops.",
+    "url": "https://github.com/dipampaul17/AgentGuard",
+    "stars": 89,
+    "daily_stars": 6,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "anthropic-claude",
+      "cost-monitoring",
+      "debugging",
+      "guardrails",
+      "llm",
+      "observability",
+      "openai",
+      "openai-api",
+      "prompt-engineering",
+      "token-usage"
+    ],
+    "created_at": "2025-07-31T02:46:39",
+    "updated_at": "2025-08-04T13:18:46"
   },
   {
     "name": "devops-ai-guidelines",
     "full_name": "VersusControl/devops-ai-guidelines",
     "description": "🚀 Your complete toolkit for mastering AI in DevOps - from career advancement to daily productivity hacks",
     "url": "https://github.com/VersusControl/devops-ai-guidelines",
-    "stars": 221,
-    "daily_stars": 3,
+    "stars": 226,
+    "daily_stars": 5,
     "language": null,
     "topics": [],
     "created_at": "2025-07-20T11:15:56",
-    "updated_at": "2025-08-04T08:00:48"
+    "updated_at": "2025-08-04T13:22:30"
   },
   {
-    "name": "UniCoT",
-    "full_name": "Fr0zenCrane/UniCoT",
-    "description": "Uni-CoT: Towards Unified Chain-of-Thought Reasoning Across Text and Vision",
-    "url": "https://github.com/Fr0zenCrane/UniCoT",
-    "stars": 59,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "any-to-any",
-      "artificial-intelligence",
-      "chain-of-thought",
-      "chain-of-thought-reasoning",
-      "computer-vision",
-      "cot",
-      "deep-learning",
-      "llm",
-      "multimodal",
-      "uni-cot",
-      "unicot",
-      "unified-model",
-      "vision-language-pretraining"
-    ],
-    "created_at": "2025-07-25T03:31:40",
-    "updated_at": "2025-08-04T08:19:47"
-  },
-  {
-    "name": "HRM",
-    "full_name": "lucidrains/HRM",
-    "description": "Exploration into the proposed architecture from Sapient Intelligence of Singapore",
-    "url": "https://github.com/lucidrains/HRM",
-    "stars": 37,
-    "daily_stars": 2,
+    "name": "flux-krea",
+    "full_name": "krea-ai/flux-krea",
+    "description": "Official GitHub repository for FLUX.1 Krea [dev].",
+    "url": "https://github.com/krea-ai/flux-krea",
+    "stars": 246,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [],
-    "created_at": "2025-07-24T15:41:22",
-    "updated_at": "2025-08-04T08:27:55"
+    "created_at": "2025-07-30T18:19:10",
+    "updated_at": "2025-08-04T12:28:50"
   }
 ]
