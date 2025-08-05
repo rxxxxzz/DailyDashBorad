@@ -4,8 +4,8 @@
     "full_name": "sapientinc/HRM",
     "description": "Hierarchical Reasoning Model Official Release",
     "url": "https://github.com/sapientinc/HRM",
-    "stars": 6783,
-    "daily_stars": 171,
+    "stars": 6874,
+    "daily_stars": 91,
     "language": "Python",
     "topics": [
       "brain-inspired-ai",
@@ -14,15 +14,15 @@
       "reasoning"
     ],
     "created_at": "2025-07-09T02:09:32",
-    "updated_at": "2025-08-05T13:22:29"
+    "updated_at": "2025-08-05T16:38:35"
   },
   {
     "name": "agents",
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 6878,
-    "daily_stars": 89,
+    "stars": 6954,
+    "daily_stars": 76,
     "language": null,
     "topics": [
       "agents",
@@ -35,27 +35,15 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-08-05T13:16:18"
-  },
-  {
-    "name": "Chronos",
-    "full_name": "Kodezi/Chronos",
-    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
-    "url": "https://github.com/Kodezi/Chronos",
-    "stars": 1286,
-    "daily_stars": 44,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-08-05T12:11:47"
+    "updated_at": "2025-08-05T16:43:59"
   },
   {
     "name": "awesome-claude-code-subagents",
     "full_name": "VoltAgent/awesome-claude-code-subagents",
     "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
     "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-    "stars": 34,
-    "daily_stars": 26,
+    "stars": 68,
+    "daily_stars": 34,
     "language": null,
     "topics": [
       "ai-agents",
@@ -65,15 +53,15 @@
       "subagents"
     ],
     "created_at": "2025-07-30T12:31:51",
-    "updated_at": "2025-08-05T13:12:21"
+    "updated_at": "2025-08-05T16:38:09"
   },
   {
     "name": "claude-code-sub-agents",
     "full_name": "lst97/claude-code-sub-agents",
     "description": "Collection of specialized AI subagents for Claude Code for personal use.",
     "url": "https://github.com/lst97/claude-code-sub-agents",
-    "stars": 682,
-    "daily_stars": 14,
+    "stars": 687,
+    "daily_stars": 5,
     "language": null,
     "topics": [
       "ai-agents",
@@ -84,32 +72,55 @@
       "subagents"
     ],
     "created_at": "2025-07-28T13:04:48",
-    "updated_at": "2025-08-05T12:34:38"
+    "updated_at": "2025-08-05T16:16:06"
   },
   {
-    "name": "claude-sub-agent",
-    "full_name": "zhsama/claude-sub-agent",
-    "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
-    "url": "https://github.com/zhsama/claude-sub-agent",
-    "stars": 236,
-    "daily_stars": 5,
-    "language": null,
+    "name": "Chronos",
+    "full_name": "Kodezi/Chronos",
+    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
+    "url": "https://github.com/Kodezi/Chronos",
+    "stars": 1289,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-21T07:34:10",
+    "updated_at": "2025-08-05T16:31:14"
+  },
+  {
+    "name": "flux-krea",
+    "full_name": "krea-ai/flux-krea",
+    "description": "Official GitHub repository for FLUX.1 Krea [dev].",
+    "url": "https://github.com/krea-ai/flux-krea",
+    "stars": 275,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-30T18:19:10",
+    "updated_at": "2025-08-05T15:00:59"
+  },
+  {
+    "name": "workflow",
+    "full_name": "deepnoodle-ai/workflow",
+    "description": "An easy-to-use workflow automation library for Go. Supports conditional branching, parallel execution, embedded scripting, and execution checkpointing. Think of it like a lightweight hybrid of Temporal and AWS Step Functions.",
+    "url": "https://github.com/deepnoodle-ai/workflow",
+    "stars": 14,
+    "daily_stars": 3,
+    "language": "Go",
     "topics": [
-      "agent",
-      "claude-code",
-      "multi-agent-system",
-      "workflow"
+      "automation",
+      "workflow",
+      "workflow-automation"
     ],
-    "created_at": "2025-07-27T14:48:13",
-    "updated_at": "2025-08-05T12:58:15"
+    "created_at": "2025-07-21T00:24:50",
+    "updated_at": "2025-08-05T16:28:51"
   },
   {
     "name": "traceroot",
     "full_name": "traceroot-ai/traceroot",
     "description": "Find the Root cause in your Code's Trace",
     "url": "https://github.com/traceroot-ai/traceroot",
-    "stars": 222,
-    "daily_stars": 4,
+    "stars": 224,
+    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -123,49 +134,36 @@
       "trace"
     ],
     "created_at": "2025-07-22T19:50:15",
-    "updated_at": "2025-08-05T12:55:57"
+    "updated_at": "2025-08-05T16:12:11"
   },
   {
-    "name": "flux-krea",
-    "full_name": "krea-ai/flux-krea",
-    "description": "Official GitHub repository for FLUX.1 Krea [dev].",
-    "url": "https://github.com/krea-ai/flux-krea",
-    "stars": 272,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-30T18:19:10",
-    "updated_at": "2025-08-05T12:26:36"
-  },
-  {
-    "name": "TuriX-CUA",
-    "full_name": "TurixAI/TuriX-CUA",
-    "description": "This is the official website for TuriX Computer-use-Agent",
-    "url": "https://github.com/TurixAI/TuriX-CUA",
-    "stars": 22,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "ai-agents",
-      "computer-automation",
-      "computer-use-agent",
-      "cua",
-      "multi-modal-large-language-model"
-    ],
-    "created_at": "2025-08-04T08:59:43",
-    "updated_at": "2025-08-05T13:01:44"
-  },
-  {
-    "name": "omini-kontext",
-    "full_name": "Saquib764/omini-kontext",
-    "description": "An inference and training framework for multiple image input in Flux Kontext dev",
-    "url": "https://github.com/Saquib764/omini-kontext",
-    "stars": 153,
+    "name": "Hackathon2025",
+    "full_name": "OpenCodeAlert/Hackathon2025",
+    "description": "CodeAlert - 红色警戒之人工智能崛起！！！欢迎参加第一届AI智能体红警游戏黑客松",
+    "url": "https://github.com/OpenCodeAlert/Hackathon2025",
+    "stars": 7,
     "daily_stars": 2,
-    "language": "Python",
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "command-and-conquer",
+      "gosim",
+      "hackathon",
+      "red-alert"
+    ],
+    "created_at": "2025-07-17T07:26:22",
+    "updated_at": "2025-08-05T16:02:50"
+  },
+  {
+    "name": "devops-ai-guidelines",
+    "full_name": "VersusControl/devops-ai-guidelines",
+    "description": "🚀 Your complete toolkit for mastering AI in DevOps - from career advancement to daily productivity hacks",
+    "url": "https://github.com/VersusControl/devops-ai-guidelines",
+    "stars": 240,
+    "daily_stars": 1,
+    "language": null,
     "topics": [],
-    "created_at": "2025-07-29T23:47:08",
-    "updated_at": "2025-08-05T11:57:16"
+    "created_at": "2025-07-20T11:15:56",
+    "updated_at": "2025-08-05T15:58:24"
   }
 ]
