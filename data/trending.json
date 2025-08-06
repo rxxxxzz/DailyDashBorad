@@ -1,11 +1,40 @@
 [
   {
+    "name": "Chronos",
+    "full_name": "Kodezi/Chronos",
+    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
+    "url": "https://github.com/Kodezi/Chronos",
+    "stars": 1402,
+    "daily_stars": 109,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-21T07:34:10",
+    "updated_at": "2025-08-06T08:53:58"
+  },
+  {
+    "name": "HRM",
+    "full_name": "sapientinc/HRM",
+    "description": "Hierarchical Reasoning Model Official Release",
+    "url": "https://github.com/sapientinc/HRM",
+    "stars": 7144,
+    "daily_stars": 85,
+    "language": "Python",
+    "topics": [
+      "brain-inspired-ai",
+      "deep-learning",
+      "large-language-models",
+      "reasoning"
+    ],
+    "created_at": "2025-07-09T02:09:32",
+    "updated_at": "2025-08-06T08:53:00"
+  },
+  {
     "name": "agents",
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 7081,
-    "daily_stars": 39,
+    "stars": 7140,
+    "daily_stars": 59,
     "language": null,
     "topics": [
       "agents",
@@ -18,32 +47,15 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-08-06T05:02:17"
-  },
-  {
-    "name": "HRM",
-    "full_name": "sapientinc/HRM",
-    "description": "Hierarchical Reasoning Model Official Release",
-    "url": "https://github.com/sapientinc/HRM",
-    "stars": 7059,
-    "daily_stars": 32,
-    "language": "Python",
-    "topics": [
-      "brain-inspired-ai",
-      "deep-learning",
-      "large-language-models",
-      "reasoning"
-    ],
-    "created_at": "2025-07-09T02:09:32",
-    "updated_at": "2025-08-06T05:02:26"
+    "updated_at": "2025-08-06T08:53:42"
   },
   {
     "name": "awesome-claude-code-subagents",
     "full_name": "VoltAgent/awesome-claude-code-subagents",
     "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
     "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-    "stars": 155,
-    "daily_stars": 14,
+    "stars": 179,
+    "daily_stars": 24,
     "language": null,
     "topics": [
       "ai-agents",
@@ -53,14 +65,26 @@
       "subagents"
     ],
     "created_at": "2025-07-30T12:31:51",
-    "updated_at": "2025-08-06T05:00:54"
+    "updated_at": "2025-08-06T08:49:50"
+  },
+  {
+    "name": "omini-kontext",
+    "full_name": "Saquib764/omini-kontext",
+    "description": "An inference and training framework for multiple image input in Flux Kontext dev",
+    "url": "https://github.com/Saquib764/omini-kontext",
+    "stars": 164,
+    "daily_stars": 5,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-29T23:47:08",
+    "updated_at": "2025-08-06T08:22:05"
   },
   {
     "name": "TuriX-CUA",
     "full_name": "TurixAI/TuriX-CUA",
     "description": "This is the official website for TuriX Computer-use-Agent",
     "url": "https://github.com/TurixAI/TuriX-CUA",
-    "stars": 30,
+    "stars": 34,
     "daily_stars": 4,
     "language": "Python",
     "topics": [
@@ -72,81 +96,32 @@
       "multi-modal-large-language-model"
     ],
     "created_at": "2025-08-04T08:59:43",
-    "updated_at": "2025-08-06T03:51:45"
+    "updated_at": "2025-08-06T07:55:11"
   },
   {
-    "name": "Chronos",
-    "full_name": "Kodezi/Chronos",
-    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
-    "url": "https://github.com/Kodezi/Chronos",
-    "stars": 1293,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-08-06T03:34:07"
-  },
-  {
-    "name": "UniCoT",
-    "full_name": "Fr0zenCrane/UniCoT",
-    "description": "Uni-CoT: Towards Unified Chain-of-Thought Reasoning Across Text and Vision",
-    "url": "https://github.com/Fr0zenCrane/UniCoT",
-    "stars": 65,
-    "daily_stars": 2,
-    "language": "Python",
+    "name": "claude-sub-agent",
+    "full_name": "zhsama/claude-sub-agent",
+    "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
+    "url": "https://github.com/zhsama/claude-sub-agent",
+    "stars": 242,
+    "daily_stars": 4,
+    "language": null,
     "topics": [
-      "any-to-any",
-      "artificial-intelligence",
-      "chain-of-thought",
-      "chain-of-thought-reasoning",
-      "computer-vision",
-      "cot",
-      "deep-learning",
-      "llm",
-      "multimodal",
-      "uni-cot",
-      "unicot",
-      "unified-model",
-      "vision-language-pretraining"
+      "agent",
+      "claude-code",
+      "multi-agent-system",
+      "workflow"
     ],
-    "created_at": "2025-07-25T03:31:40",
-    "updated_at": "2025-08-06T04:31:40"
-  },
-  {
-    "name": "workflow",
-    "full_name": "deepnoodle-ai/workflow",
-    "description": "An easy-to-use workflow automation library for Go. Supports conditional branching, parallel execution, embedded scripting, and execution checkpointing. Think of it like a lightweight hybrid of Temporal and AWS Step Functions.",
-    "url": "https://github.com/deepnoodle-ai/workflow",
-    "stars": 16,
-    "daily_stars": 2,
-    "language": "Go",
-    "topics": [
-      "automation",
-      "workflow",
-      "workflow-automation"
-    ],
-    "created_at": "2025-07-21T00:24:50",
-    "updated_at": "2025-08-06T04:58:51"
-  },
-  {
-    "name": "omini-kontext",
-    "full_name": "Saquib764/omini-kontext",
-    "description": "An inference and training framework for multiple image input in Flux Kontext dev",
-    "url": "https://github.com/Saquib764/omini-kontext",
-    "stars": 159,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-29T23:47:08",
-    "updated_at": "2025-08-06T02:53:52"
+    "created_at": "2025-07-27T14:48:13",
+    "updated_at": "2025-08-06T07:17:53"
   },
   {
     "name": "claude-code-sub-agents",
     "full_name": "lst97/claude-code-sub-agents",
     "description": "Collection of specialized AI subagents for Claude Code for personal use.",
     "url": "https://github.com/lst97/claude-code-sub-agents",
-    "stars": 697,
-    "daily_stars": 1,
+    "stars": 699,
+    "daily_stars": 2,
     "language": null,
     "topics": [
       "ai-agents",
@@ -157,26 +132,36 @@
       "subagents"
     ],
     "created_at": "2025-07-28T13:04:48",
-    "updated_at": "2025-08-06T03:57:14"
+    "updated_at": "2025-08-06T08:16:54"
   },
   {
-    "name": "opencode.nvim",
-    "full_name": "NickvanDyke/opencode.nvim",
-    "description": "Conveniently interface with the opencode AI assistant inside Neovim.",
-    "url": "https://github.com/NickvanDyke/opencode.nvim",
-    "stars": 195,
-    "daily_stars": 1,
-    "language": "Lua",
+    "name": "Hackathon2025",
+    "full_name": "OpenCodeAlert/Hackathon2025",
+    "description": "CodeAlert - 红色警戒之人工智能崛起！！！欢迎参加第一届AI智能体红警游戏黑客松",
+    "url": "https://github.com/OpenCodeAlert/Hackathon2025",
+    "stars": 10,
+    "daily_stars": 2,
+    "language": null,
     "topics": [
       "ai-agents",
-      "ai-assistant",
-      "neovim",
-      "nvim",
-      "opencode",
-      "plugin",
-      "terminal"
+      "command-and-conquer",
+      "gosim",
+      "hackathon",
+      "red-alert"
     ],
-    "created_at": "2025-07-12T13:52:17",
-    "updated_at": "2025-08-06T04:53:27"
+    "created_at": "2025-07-17T07:26:22",
+    "updated_at": "2025-08-06T06:41:05"
+  },
+  {
+    "name": "flux-krea",
+    "full_name": "krea-ai/flux-krea",
+    "description": "Official GitHub repository for FLUX.1 Krea [dev].",
+    "url": "https://github.com/krea-ai/flux-krea",
+    "stars": 281,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-30T18:19:10",
+    "updated_at": "2025-08-06T06:26:23"
   }
 ]
