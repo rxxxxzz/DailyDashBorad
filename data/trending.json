@@ -1,40 +1,23 @@
 [
   {
-    "name": "HRM",
-    "full_name": "sapientinc/HRM",
-    "description": "Hierarchical Reasoning Model Official Release",
-    "url": "https://github.com/sapientinc/HRM",
-    "stars": 7488,
-    "daily_stars": 53,
-    "language": "Python",
-    "topics": [
-      "brain-inspired-ai",
-      "deep-learning",
-      "large-language-models",
-      "reasoning"
-    ],
-    "created_at": "2025-07-09T02:09:32",
-    "updated_at": "2025-08-07T08:50:38"
-  },
-  {
     "name": "Chronos",
     "full_name": "Kodezi/Chronos",
     "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
     "url": "https://github.com/Kodezi/Chronos",
-    "stars": 1876,
-    "daily_stars": 46,
+    "stars": 1932,
+    "daily_stars": 56,
     "language": "Python",
     "topics": [],
     "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-08-07T08:52:53"
+    "updated_at": "2025-08-07T13:20:37"
   },
   {
     "name": "agents",
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 7361,
-    "daily_stars": 41,
+    "stars": 7407,
+    "daily_stars": 46,
     "language": null,
     "topics": [
       "agents",
@@ -47,15 +30,32 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-08-07T08:38:40"
+    "updated_at": "2025-08-07T13:20:51"
+  },
+  {
+    "name": "HRM",
+    "full_name": "sapientinc/HRM",
+    "description": "Hierarchical Reasoning Model Official Release",
+    "url": "https://github.com/sapientinc/HRM",
+    "stars": 7530,
+    "daily_stars": 42,
+    "language": "Python",
+    "topics": [
+      "brain-inspired-ai",
+      "deep-learning",
+      "large-language-models",
+      "reasoning"
+    ],
+    "created_at": "2025-07-09T02:09:32",
+    "updated_at": "2025-08-07T13:20:33"
   },
   {
     "name": "awesome-claude-code-subagents",
     "full_name": "VoltAgent/awesome-claude-code-subagents",
     "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
     "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-    "stars": 378,
-    "daily_stars": 23,
+    "stars": 414,
+    "daily_stars": 36,
     "language": null,
     "topics": [
       "ai-agents",
@@ -65,38 +65,45 @@
       "subagents"
     ],
     "created_at": "2025-07-30T12:31:51",
-    "updated_at": "2025-08-07T08:33:45"
+    "updated_at": "2025-08-07T13:09:13"
   },
   {
-    "name": "devops-ai-guidelines",
-    "full_name": "VersusControl/devops-ai-guidelines",
-    "description": "🚀 Your complete toolkit for mastering AI in DevOps - from career advancement to daily productivity hacks",
-    "url": "https://github.com/VersusControl/devops-ai-guidelines",
-    "stars": 248,
-    "daily_stars": 4,
+    "name": "claude-code-sub-agents",
+    "full_name": "lst97/claude-code-sub-agents",
+    "description": "Collection of specialized AI subagents for Claude Code for personal use.",
+    "url": "https://github.com/lst97/claude-code-sub-agents",
+    "stars": 714,
+    "daily_stars": 5,
     "language": null,
-    "topics": [],
-    "created_at": "2025-07-20T11:15:56",
-    "updated_at": "2025-08-07T08:07:50"
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "claudecode-config",
+      "claudecode-subagents",
+      "sub-agents",
+      "subagents"
+    ],
+    "created_at": "2025-07-28T13:04:48",
+    "updated_at": "2025-08-07T12:49:59"
   },
   {
     "name": "omini-kontext",
     "full_name": "Saquib764/omini-kontext",
     "description": "An inference and training framework for multiple image input in Flux Kontext dev",
     "url": "https://github.com/Saquib764/omini-kontext",
-    "stars": 177,
+    "stars": 181,
     "daily_stars": 4,
     "language": "Python",
     "topics": [],
     "created_at": "2025-07-29T23:47:08",
-    "updated_at": "2025-08-07T08:06:37"
+    "updated_at": "2025-08-07T10:43:17"
   },
   {
     "name": "claude-sub-agent",
     "full_name": "zhsama/claude-sub-agent",
     "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
     "url": "https://github.com/zhsama/claude-sub-agent",
-    "stars": 261,
+    "stars": 265,
     "daily_stars": 4,
     "language": null,
     "topics": [
@@ -106,15 +113,15 @@
       "workflow"
     ],
     "created_at": "2025-07-27T14:48:13",
-    "updated_at": "2025-08-07T08:30:24"
+    "updated_at": "2025-08-07T13:09:57"
   },
   {
     "name": "traceroot",
     "full_name": "traceroot-ai/traceroot",
     "description": "Find the Root cause in your Code's Trace",
     "url": "https://github.com/traceroot-ai/traceroot",
-    "stars": 232,
-    "daily_stars": 3,
+    "stars": 234,
+    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -128,37 +135,36 @@
       "trace"
     ],
     "created_at": "2025-07-22T19:50:15",
-    "updated_at": "2025-08-07T08:25:33"
+    "updated_at": "2025-08-07T12:16:01"
   },
   {
-    "name": "ChatMeld",
-    "full_name": "balazspiller/ChatMeld",
-    "description": "Free, Open-Source Playground for AI-to-AI Conversations",
-    "url": "https://github.com/balazspiller/ChatMeld",
-    "stars": 8,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [],
-    "created_at": "2025-08-04T01:55:06",
-    "updated_at": "2025-08-07T05:41:13"
-  },
-  {
-    "name": "claude-code-sub-agents",
-    "full_name": "lst97/claude-code-sub-agents",
-    "description": "Collection of specialized AI subagents for Claude Code for personal use.",
-    "url": "https://github.com/lst97/claude-code-sub-agents",
-    "stars": 709,
+    "name": "my-claude-code-workflow",
+    "full_name": "sbtobb/my-claude-code-workflow",
+    "description": "Contains a complete workflow, sub-agent and command line",
+    "url": "https://github.com/sbtobb/my-claude-code-workflow",
+    "stars": 5,
     "daily_stars": 2,
     "language": null,
     "topics": [
       "ai-agents",
       "claude-code",
-      "claudecode-config",
-      "claudecode-subagents",
+      "slash-commands",
       "sub-agents",
-      "subagents"
+      "workflow"
     ],
-    "created_at": "2025-07-28T13:04:48",
-    "updated_at": "2025-08-07T07:42:34"
+    "created_at": "2025-08-06T17:24:37",
+    "updated_at": "2025-08-07T13:13:54"
+  },
+  {
+    "name": "flux-krea",
+    "full_name": "krea-ai/flux-krea",
+    "description": "Official GitHub repository for FLUX.1 Krea [dev].",
+    "url": "https://github.com/krea-ai/flux-krea",
+    "stars": 295,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-30T18:19:10",
+    "updated_at": "2025-08-07T11:48:14"
   }
 ]
