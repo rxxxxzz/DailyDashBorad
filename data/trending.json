@@ -1,23 +1,40 @@
 [
   {
+    "name": "HRM",
+    "full_name": "sapientinc/HRM",
+    "description": "Hierarchical Reasoning Model Official Release",
+    "url": "https://github.com/sapientinc/HRM",
+    "stars": 7576,
+    "daily_stars": 46,
+    "language": "Python",
+    "topics": [
+      "brain-inspired-ai",
+      "deep-learning",
+      "large-language-models",
+      "reasoning"
+    ],
+    "created_at": "2025-07-09T02:09:32",
+    "updated_at": "2025-08-07T16:50:55"
+  },
+  {
     "name": "Chronos",
     "full_name": "Kodezi/Chronos",
     "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
     "url": "https://github.com/Kodezi/Chronos",
-    "stars": 1932,
-    "daily_stars": 56,
+    "stars": 1960,
+    "daily_stars": 28,
     "language": "Python",
     "topics": [],
     "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-08-07T13:20:37"
+    "updated_at": "2025-08-07T16:49:53"
   },
   {
     "name": "agents",
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 7407,
-    "daily_stars": 46,
+    "stars": 7435,
+    "daily_stars": 28,
     "language": null,
     "topics": [
       "agents",
@@ -30,32 +47,15 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-08-07T13:20:51"
-  },
-  {
-    "name": "HRM",
-    "full_name": "sapientinc/HRM",
-    "description": "Hierarchical Reasoning Model Official Release",
-    "url": "https://github.com/sapientinc/HRM",
-    "stars": 7530,
-    "daily_stars": 42,
-    "language": "Python",
-    "topics": [
-      "brain-inspired-ai",
-      "deep-learning",
-      "large-language-models",
-      "reasoning"
-    ],
-    "created_at": "2025-07-09T02:09:32",
-    "updated_at": "2025-08-07T13:20:33"
+    "updated_at": "2025-08-07T16:48:42"
   },
   {
     "name": "awesome-claude-code-subagents",
     "full_name": "VoltAgent/awesome-claude-code-subagents",
     "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
     "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-    "stars": 414,
-    "daily_stars": 36,
+    "stars": 435,
+    "daily_stars": 21,
     "language": null,
     "topics": [
       "ai-agents",
@@ -65,15 +65,15 @@
       "subagents"
     ],
     "created_at": "2025-07-30T12:31:51",
-    "updated_at": "2025-08-07T13:09:13"
+    "updated_at": "2025-08-07T16:25:43"
   },
   {
     "name": "claude-code-sub-agents",
     "full_name": "lst97/claude-code-sub-agents",
     "description": "Collection of specialized AI subagents for Claude Code for personal use.",
     "url": "https://github.com/lst97/claude-code-sub-agents",
-    "stars": 714,
-    "daily_stars": 5,
+    "stars": 718,
+    "daily_stars": 4,
     "language": null,
     "topics": [
       "ai-agents",
@@ -84,87 +84,87 @@
       "subagents"
     ],
     "created_at": "2025-07-28T13:04:48",
-    "updated_at": "2025-08-07T12:49:59"
+    "updated_at": "2025-08-07T14:50:30"
   },
   {
     "name": "omini-kontext",
     "full_name": "Saquib764/omini-kontext",
     "description": "An inference and training framework for multiple image input in Flux Kontext dev",
     "url": "https://github.com/Saquib764/omini-kontext",
-    "stars": 181,
-    "daily_stars": 4,
+    "stars": 183,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [],
     "created_at": "2025-07-29T23:47:08",
-    "updated_at": "2025-08-07T10:43:17"
+    "updated_at": "2025-08-07T16:18:16"
   },
   {
-    "name": "claude-sub-agent",
-    "full_name": "zhsama/claude-sub-agent",
-    "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
-    "url": "https://github.com/zhsama/claude-sub-agent",
-    "stars": 265,
-    "daily_stars": 4,
-    "language": null,
-    "topics": [
-      "agent",
-      "claude-code",
-      "multi-agent-system",
-      "workflow"
-    ],
-    "created_at": "2025-07-27T14:48:13",
-    "updated_at": "2025-08-07T13:09:57"
-  },
-  {
-    "name": "traceroot",
-    "full_name": "traceroot-ai/traceroot",
-    "description": "Find the Root cause in your Code's Trace",
-    "url": "https://github.com/traceroot-ai/traceroot",
-    "stars": 234,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agents",
-      "debugging",
-      "llm",
-      "monitoring",
-      "multi-agent-systems",
-      "observability",
-      "trace"
-    ],
-    "created_at": "2025-07-22T19:50:15",
-    "updated_at": "2025-08-07T12:16:01"
-  },
-  {
-    "name": "my-claude-code-workflow",
-    "full_name": "sbtobb/my-claude-code-workflow",
-    "description": "Contains a complete workflow, sub-agent and command line",
-    "url": "https://github.com/sbtobb/my-claude-code-workflow",
-    "stars": 5,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "slash-commands",
-      "sub-agents",
-      "workflow"
-    ],
-    "created_at": "2025-08-06T17:24:37",
-    "updated_at": "2025-08-07T13:13:54"
-  },
-  {
-    "name": "flux-krea",
-    "full_name": "krea-ai/flux-krea",
-    "description": "Official GitHub repository for FLUX.1 Krea [dev].",
-    "url": "https://github.com/krea-ai/flux-krea",
-    "stars": 295,
+    "name": "gitvoyant",
+    "full_name": "Cre4T3Tiv3/gitvoyant",
+    "description": "Temporal code intelligence platform that analyzes Git history to understand code evolution patterns. Reveals quality engineering signatures that static analysis tools miss - validated on Flask showing -26.5% complexity reduction. Research foundation for next-generation AI code agents.",
+    "url": "https://github.com/Cre4T3Tiv3/gitvoyant",
+    "stars": 17,
     "daily_stars": 2,
     "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-code-tools",
+      "code-evolution",
+      "code-intelligence",
+      "code-patterns",
+      "code-quality",
+      "code-trends",
+      "complexity-analysis",
+      "developer-tools",
+      "flask",
+      "git-analysis",
+      "git-history",
+      "python",
+      "quality-engineering",
+      "software-engineering",
+      "software-evolution",
+      "software-metrics",
+      "technical-debt",
+      "temporal-analysis",
+      "temporal-intelligence"
+    ],
+    "created_at": "2025-07-11T04:37:12",
+    "updated_at": "2025-08-07T13:55:28"
+  },
+  {
+    "name": "Likhee_Gemma",
+    "full_name": "GitsSaikat/Likhee_Gemma",
+    "description": "Meet Likhee: your personal writing teacher and companion that helps you write with ease, confidence, and creativity.",
+    "url": "https://github.com/GitsSaikat/Likhee_Gemma",
+    "stars": 5,
+    "daily_stars": 2,
+    "language": "TypeScript",
     "topics": [],
-    "created_at": "2025-07-30T18:19:10",
-    "updated_at": "2025-08-07T11:48:14"
+    "created_at": "2025-08-06T11:32:50",
+    "updated_at": "2025-08-07T15:29:36"
+  },
+  {
+    "name": "ClueoMCP",
+    "full_name": "ClueoFoundation/ClueoMCP",
+    "description": "🎭 The Personality Layer for LLMs- Transform any MCP-compatible AI with rich, consistent personalities powered by Clueo's Big Five personality engine.",
+    "url": "https://github.com/ClueoFoundation/ClueoMCP",
+    "stars": 18,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-07-28T19:02:24",
+    "updated_at": "2025-08-07T14:37:21"
+  },
+  {
+    "name": "agent-academy-labs",
+    "full_name": "Cre4T3Tiv3/agent-academy-labs",
+    "description": "A space for comprehensive learning of agent-based software architectures. Progressive tutorials from reactive agents to AI-driven distributed systems. SPADE, Mesa, custom architectures with modern Python.",
+    "url": "https://github.com/Cre4T3Tiv3/agent-academy-labs",
+    "stars": 10,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [],
+    "created_at": "2025-07-16T20:35:27",
+    "updated_at": "2025-08-07T13:55:31"
   }
 ]
