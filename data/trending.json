@@ -1,29 +1,23 @@
 [
   {
-    "name": "awesome-claude-code-subagents",
-    "full_name": "VoltAgent/awesome-claude-code-subagents",
-    "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
-    "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-    "stars": 502,
-    "daily_stars": 16,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "claude",
-      "claude-ai",
-      "claude-subagents",
-      "subagents"
-    ],
-    "created_at": "2025-07-30T12:31:51",
-    "updated_at": "2025-08-08T04:58:26"
+    "name": "Chronos",
+    "full_name": "Kodezi/Chronos",
+    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
+    "url": "https://github.com/Kodezi/Chronos",
+    "stars": 2102,
+    "daily_stars": 52,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-21T07:34:10",
+    "updated_at": "2025-08-08T08:51:19"
   },
   {
     "name": "agents",
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 7489,
-    "daily_stars": 14,
+    "stars": 7530,
+    "daily_stars": 41,
     "language": null,
     "topics": [
       "agents",
@@ -36,26 +30,32 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-08-08T04:45:05"
+    "updated_at": "2025-08-08T08:48:26"
   },
   {
-    "name": "Chronos",
-    "full_name": "Kodezi/Chronos",
-    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
-    "url": "https://github.com/Kodezi/Chronos",
-    "stars": 2050,
-    "daily_stars": 8,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-08-08T04:52:03"
+    "name": "awesome-claude-code-subagents",
+    "full_name": "VoltAgent/awesome-claude-code-subagents",
+    "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
+    "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+    "stars": 528,
+    "daily_stars": 26,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-ai",
+      "claude-subagents",
+      "subagents"
+    ],
+    "created_at": "2025-07-30T12:31:51",
+    "updated_at": "2025-08-08T08:50:58"
   },
   {
     "name": "AgentGuard",
     "full_name": "dipampaul17/AgentGuard",
     "description": "Real-time guardrail that shows token spend & kills runaway LLM/agent loops.",
     "url": "https://github.com/dipampaul17/AgentGuard",
-    "stars": 104,
+    "stars": 108,
     "daily_stars": 4,
     "language": "JavaScript",
     "topics": [
@@ -73,87 +73,15 @@
       "token-usage"
     ],
     "created_at": "2025-07-31T02:46:39",
-    "updated_at": "2025-08-08T03:56:09"
-  },
-  {
-    "name": "VideoColorGrading",
-    "full_name": "seunghyuns98/VideoColorGrading",
-    "description": "[ICCV 2025] Video Color Grading via Look-Up Table Generation",
-    "url": "https://github.com/seunghyuns98/VideoColorGrading",
-    "stars": 6,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "color-grading-video",
-      "computer-vision",
-      "diffusion",
-      "iccv",
-      "iccv2025"
-    ],
-    "created_at": "2025-07-14T13:07:31",
-    "updated_at": "2025-08-08T03:45:52"
-  },
-  {
-    "name": "TuriX-CUA",
-    "full_name": "TurixAI/TuriX-CUA",
-    "description": "This is the official website for TuriX Computer-use-Agent",
-    "url": "https://github.com/TurixAI/TuriX-CUA",
-    "stars": 48,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "ai-agents",
-      "computer-automation",
-      "computer-use-agent",
-      "cua",
-      "multi-modal-large-language-model"
-    ],
-    "created_at": "2025-08-04T08:59:43",
-    "updated_at": "2025-08-08T04:05:31"
-  },
-  {
-    "name": "ml-model-dynscan",
-    "full_name": "oracle-samples/ml-model-dynscan",
-    "description": "A security-focused framework for dynamically scanning and testing machine learning models in an isolated Docker environment, detecting suspicious behaviors such as unauthorized network access or system modifications.",
-    "url": "https://github.com/oracle-samples/ml-model-dynscan",
-    "stars": 7,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "machine-learning",
-      "model",
-      "security"
-    ],
-    "created_at": "2025-07-22T06:30:19",
-    "updated_at": "2025-08-08T05:00:39"
-  },
-  {
-    "name": "awesome-n8n-workflows",
-    "full_name": "felipfr/awesome-n8n-workflows",
-    "description": "A curated collection of awesome n8n workflows for automation, integration, and productivity. Explore ready-to-use JSON workflows for analytics, communication, CRM, e-commerce, finance, HR, marketing, monitoring, security, and more.",
-    "url": "https://github.com/felipfr/awesome-n8n-workflows",
-    "stars": 14,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "automation",
-      "integration",
-      "n8n",
-      "productivity",
-      "workflow"
-    ],
-    "created_at": "2025-08-07T15:39:26",
-    "updated_at": "2025-08-08T04:16:24"
+    "updated_at": "2025-08-08T07:45:29"
   },
   {
     "name": "UniCoT",
     "full_name": "Fr0zenCrane/UniCoT",
     "description": "Uni-CoT: Towards Unified Chain-of-Thought Reasoning Across Text and Vision",
     "url": "https://github.com/Fr0zenCrane/UniCoT",
-    "stars": 68,
-    "daily_stars": 1,
+    "stars": 70,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "any-to-any",
@@ -171,18 +99,80 @@
       "vision-language-pretraining"
     ],
     "created_at": "2025-07-25T03:31:40",
-    "updated_at": "2025-08-08T03:38:41"
+    "updated_at": "2025-08-08T06:02:03"
   },
   {
-    "name": "villa-X",
-    "full_name": "lucidrains/villa-X",
-    "description": null,
-    "url": "https://github.com/lucidrains/villa-X",
-    "stars": 8,
+    "name": "ChatMeld",
+    "full_name": "balazspiller/ChatMeld",
+    "description": "Free, Open-Source Playground for AI-to-AI Conversations",
+    "url": "https://github.com/balazspiller/ChatMeld",
+    "stars": 11,
+    "daily_stars": 2,
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-08-04T01:55:06",
+    "updated_at": "2025-08-08T07:43:51"
+  },
+  {
+    "name": "opencode.nvim",
+    "full_name": "NickvanDyke/opencode.nvim",
+    "description": "Conveniently interface with the opencode AI assistant inside Neovim.",
+    "url": "https://github.com/NickvanDyke/opencode.nvim",
+    "stars": 208,
+    "daily_stars": 2,
+    "language": "Lua",
+    "topics": [
+      "ai-agents",
+      "ai-assistant",
+      "neovim",
+      "nvim",
+      "opencode",
+      "plugin",
+      "terminal"
+    ],
+    "created_at": "2025-07-12T13:52:17",
+    "updated_at": "2025-08-08T08:38:46"
+  },
+  {
+    "name": "my-claude-code-workflow",
+    "full_name": "sbtobb/my-claude-code-workflow",
+    "description": "Contains a complete workflow, sub-agent and command line",
+    "url": "https://github.com/sbtobb/my-claude-code-workflow",
+    "stars": 10,
+    "daily_stars": 2,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "slash-commands",
+      "sub-agents",
+      "workflow"
+    ],
+    "created_at": "2025-08-06T17:24:37",
+    "updated_at": "2025-08-08T06:36:09"
+  },
+  {
+    "name": "devops-ai-guidelines",
+    "full_name": "VersusControl/devops-ai-guidelines",
+    "description": "🚀 Your complete toolkit for mastering AI in DevOps - from career advancement to daily productivity hacks",
+    "url": "https://github.com/VersusControl/devops-ai-guidelines",
+    "stars": 250,
     "daily_stars": 1,
     "language": null,
     "topics": [],
-    "created_at": "2025-08-04T02:17:28",
-    "updated_at": "2025-08-08T03:10:43"
+    "created_at": "2025-07-20T11:15:56",
+    "updated_at": "2025-08-08T08:26:18"
+  },
+  {
+    "name": "omini-kontext",
+    "full_name": "Saquib764/omini-kontext",
+    "description": "An inference and training framework for multiple image input in Flux Kontext dev",
+    "url": "https://github.com/Saquib764/omini-kontext",
+    "stars": 185,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-29T23:47:08",
+    "updated_at": "2025-08-08T08:47:40"
   }
 ]
