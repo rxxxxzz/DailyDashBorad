@@ -4,37 +4,20 @@
     "full_name": "Kodezi/Chronos",
     "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
     "url": "https://github.com/Kodezi/Chronos",
-    "stars": 2007,
-    "daily_stars": 47,
+    "stars": 2042,
+    "daily_stars": 35,
     "language": "Python",
     "topics": [],
     "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-08-07T20:35:41"
-  },
-  {
-    "name": "HRM",
-    "full_name": "sapientinc/HRM",
-    "description": "Hierarchical Reasoning Model Official Release",
-    "url": "https://github.com/sapientinc/HRM",
-    "stars": 7613,
-    "daily_stars": 37,
-    "language": "Python",
-    "topics": [
-      "brain-inspired-ai",
-      "deep-learning",
-      "large-language-models",
-      "reasoning"
-    ],
-    "created_at": "2025-07-09T02:09:32",
-    "updated_at": "2025-08-07T20:45:05"
+    "updated_at": "2025-08-08T02:38:21"
   },
   {
     "name": "awesome-claude-code-subagents",
     "full_name": "VoltAgent/awesome-claude-code-subagents",
     "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
     "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-    "stars": 456,
-    "daily_stars": 21,
+    "stars": 486,
+    "daily_stars": 30,
     "language": null,
     "topics": [
       "ai-agents",
@@ -44,15 +27,15 @@
       "subagents"
     ],
     "created_at": "2025-07-30T12:31:51",
-    "updated_at": "2025-08-07T20:40:18"
+    "updated_at": "2025-08-08T02:35:50"
   },
   {
     "name": "agents",
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 7448,
-    "daily_stars": 13,
+    "stars": 7475,
+    "daily_stars": 27,
     "language": null,
     "topics": [
       "agents",
@@ -65,32 +48,58 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-08-07T20:42:32"
+    "updated_at": "2025-08-08T02:31:58"
   },
   {
-    "name": "awesome-n8n-workflows",
-    "full_name": "felipfr/awesome-n8n-workflows",
-    "description": "A curated collection of awesome n8n workflows for automation, integration, and productivity. Explore ready-to-use JSON workflows for analytics, communication, CRM, e-commerce, finance, HR, marketing, monitoring, security, and more.",
-    "url": "https://github.com/felipfr/awesome-n8n-workflows",
-    "stars": 11,
-    "daily_stars": 6,
+    "name": "AgentGuard",
+    "full_name": "dipampaul17/AgentGuard",
+    "description": "Real-time guardrail that shows token spend & kills runaway LLM/agent loops.",
+    "url": "https://github.com/dipampaul17/AgentGuard",
+    "stars": 100,
+    "daily_stars": 5,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "anthropic-claude",
+      "cost-monitoring",
+      "debugging",
+      "guardrails",
+      "llm",
+      "observability",
+      "openai",
+      "openai-api",
+      "prompt-engineering",
+      "token-usage"
+    ],
+    "created_at": "2025-07-31T02:46:39",
+    "updated_at": "2025-08-08T02:31:35"
+  },
+  {
+    "name": "claude-code-sub-agents",
+    "full_name": "lst97/claude-code-sub-agents",
+    "description": "Collection of specialized AI subagents for Claude Code for personal use.",
+    "url": "https://github.com/lst97/claude-code-sub-agents",
+    "stars": 721,
+    "daily_stars": 3,
     "language": null,
     "topics": [
-      "automation",
-      "integration",
-      "n8n",
-      "productivity",
-      "workflow"
+      "ai-agents",
+      "claude-code",
+      "claudecode-config",
+      "claudecode-subagents",
+      "sub-agents",
+      "subagents"
     ],
-    "created_at": "2025-08-07T15:39:26",
-    "updated_at": "2025-08-07T18:32:41"
+    "created_at": "2025-07-28T13:04:48",
+    "updated_at": "2025-08-08T02:09:05"
   },
   {
     "name": "opencode.nvim",
     "full_name": "NickvanDyke/opencode.nvim",
     "description": "Conveniently interface with the opencode AI assistant inside Neovim.",
     "url": "https://github.com/NickvanDyke/opencode.nvim",
-    "stars": 203,
+    "stars": 206,
     "daily_stars": 3,
     "language": "Lua",
     "topics": [
@@ -103,77 +112,66 @@
       "terminal"
     ],
     "created_at": "2025-07-12T13:52:17",
-    "updated_at": "2025-08-07T19:36:15"
+    "updated_at": "2025-08-08T01:40:24"
   },
   {
-    "name": "devops-ai-guidelines",
-    "full_name": "VersusControl/devops-ai-guidelines",
-    "description": "🚀 Your complete toolkit for mastering AI in DevOps - from career advancement to daily productivity hacks",
-    "url": "https://github.com/VersusControl/devops-ai-guidelines",
-    "stars": 249,
-    "daily_stars": 1,
+    "name": "claude-sub-agent",
+    "full_name": "zhsama/claude-sub-agent",
+    "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
+    "url": "https://github.com/zhsama/claude-sub-agent",
+    "stars": 268,
+    "daily_stars": 2,
     "language": null,
-    "topics": [],
-    "created_at": "2025-07-20T11:15:56",
-    "updated_at": "2025-08-07T17:14:32"
-  },
-  {
-    "name": "Agent-Memory-Playground",
-    "full_name": "AIAnytime/Agent-Memory-Playground",
-    "description": "Agent Memory Playground: AI Agent Memory Design & Optimization Techniques",
-    "url": "https://github.com/AIAnytime/Agent-Memory-Playground",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "Python",
     "topics": [
       "agent",
-      "agent-memory",
-      "agentic-ai",
-      "agentmemory",
-      "ai-agents",
-      "ai-memory",
-      "mem0",
-      "memory",
-      "memory-management"
+      "claude-code",
+      "multi-agent-system",
+      "workflow"
     ],
-    "created_at": "2025-08-07T13:29:35",
-    "updated_at": "2025-08-07T16:54:13"
+    "created_at": "2025-07-27T14:48:13",
+    "updated_at": "2025-08-08T01:31:44"
   },
   {
-    "name": "aifoundrylandingzone",
-    "full_name": "sramayanam/aifoundrylandingzone",
-    "description": "Complete Azure AI Foundry deployment using Terraform with private networking and cross-subscription support. Choose between cost-optimized (simplified) or enterprise (full capability hosts) configurations. Includes secure private endpoints, monitoring, RBAC, and production-ready infrastructure for AI workloads. ",
-    "url": "https://github.com/sramayanam/aifoundrylandingzone",
-    "stars": 2,
+    "name": "omini-kontext",
+    "full_name": "Saquib764/omini-kontext",
+    "description": "An inference and training framework for multiple image input in Flux Kontext dev",
+    "url": "https://github.com/Saquib764/omini-kontext",
+    "stars": 184,
     "daily_stars": 1,
-    "language": "HCL",
-    "topics": [
-      "ai-agents",
-      "aifoundry",
-      "azure",
-      "generative-ai-projects"
-    ],
-    "created_at": "2025-08-02T17:54:29",
-    "updated_at": "2025-08-07T20:04:27"
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-29T23:47:08",
+    "updated_at": "2025-08-08T02:10:36"
   },
   {
-    "name": "onyx-manga-translator",
-    "full_name": "thradnea/onyx-manga-translator",
-    "description": "A machine translator for Japanese manga comics.",
-    "url": "https://github.com/thradnea/onyx-manga-translator",
-    "stars": 3,
+    "name": "HRM",
+    "full_name": "lucidrains/HRM",
+    "description": "Exploration into the proposed architecture from Sapient Intelligence of Singapore",
+    "url": "https://github.com/lucidrains/HRM",
+    "stars": 43,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-24T15:41:22",
+    "updated_at": "2025-08-07T23:52:12"
+  },
+  {
+    "name": "metacoder",
+    "full_name": "ai4curation/metacoder",
+    "description": "Wrapper for multiple AI coders (goose, claude code, codex)",
+    "url": "https://github.com/ai4curation/metacoder",
+    "stars": 4,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "comics",
-      "machine-learning",
-      "machine-translation",
-      "machine-translation-models",
-      "manga",
-      "manga-translator",
-      "translator"
+      "artificial-intelligence",
+      "coding-assistant",
+      "command-line",
+      "evaluation",
+      "mcp",
+      "mcp-server"
     ],
-    "created_at": "2025-07-20T19:19:32",
-    "updated_at": "2025-08-07T20:38:13"
+    "created_at": "2025-07-11T19:58:11",
+    "updated_at": "2025-08-08T02:12:43"
   }
 ]
