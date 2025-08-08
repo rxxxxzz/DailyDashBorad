@@ -4,38 +4,20 @@
     "full_name": "Kodezi/Chronos",
     "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
     "url": "https://github.com/Kodezi/Chronos",
-    "stars": 2159,
-    "daily_stars": 57,
+    "stars": 2202,
+    "daily_stars": 43,
     "language": "Python",
     "topics": [],
     "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-08-08T13:10:04"
-  },
-  {
-    "name": "awesome-claude-code-subagents",
-    "full_name": "VoltAgent/awesome-claude-code-subagents",
-    "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
-    "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-    "stars": 558,
-    "daily_stars": 30,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "claude",
-      "claude-ai",
-      "claude-subagents",
-      "subagents"
-    ],
-    "created_at": "2025-07-30T12:31:51",
-    "updated_at": "2025-08-08T13:09:39"
+    "updated_at": "2025-08-08T16:45:21"
   },
   {
     "name": "agents",
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 7551,
-    "daily_stars": 21,
+    "stars": 7579,
+    "daily_stars": 28,
     "language": null,
     "topics": [
       "agents",
@@ -48,15 +30,33 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-08-08T13:12:26"
+    "updated_at": "2025-08-08T16:43:22"
+  },
+  {
+    "name": "awesome-claude-code-subagents",
+    "full_name": "VoltAgent/awesome-claude-code-subagents",
+    "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
+    "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+    "stars": 572,
+    "daily_stars": 14,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-ai",
+      "claude-subagents",
+      "subagents"
+    ],
+    "created_at": "2025-07-30T12:31:51",
+    "updated_at": "2025-08-08T16:28:02"
   },
   {
     "name": "AgentGuard",
     "full_name": "dipampaul17/AgentGuard",
     "description": "Real-time guardrail that shows token spend & kills runaway LLM/agent loops.",
     "url": "https://github.com/dipampaul17/AgentGuard",
-    "stars": 112,
-    "daily_stars": 4,
+    "stars": 115,
+    "daily_stars": 3,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -73,46 +73,31 @@
       "token-usage"
     ],
     "created_at": "2025-07-31T02:46:39",
-    "updated_at": "2025-08-08T12:57:11"
+    "updated_at": "2025-08-08T14:40:15"
   },
   {
-    "name": "rewind-reward-pytorch",
-    "full_name": "lucidrains/rewind-reward-pytorch",
-    "description": "Implementation of ReWiND, \"Language-Guided Rewards Teach Robot Policies without New Demonstrations\", from USC / Amazon Robotics",
-    "url": "https://github.com/lucidrains/rewind-reward-pytorch",
-    "stars": 26,
+    "name": "claude-sub-agent",
+    "full_name": "zhsama/claude-sub-agent",
+    "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
+    "url": "https://github.com/zhsama/claude-sub-agent",
+    "stars": 272,
     "daily_stars": 3,
     "language": null,
-    "topics": [],
-    "created_at": "2025-08-02T13:47:11",
-    "updated_at": "2025-08-08T10:43:34"
-  },
-  {
-    "name": "opencode.nvim",
-    "full_name": "NickvanDyke/opencode.nvim",
-    "description": "Conveniently interface with the opencode AI assistant inside Neovim.",
-    "url": "https://github.com/NickvanDyke/opencode.nvim",
-    "stars": 210,
-    "daily_stars": 2,
-    "language": "Lua",
     "topics": [
-      "ai-agents",
-      "ai-assistant",
-      "neovim",
-      "nvim",
-      "opencode",
-      "plugin",
-      "terminal"
+      "agent",
+      "claude-code",
+      "multi-agent-system",
+      "workflow"
     ],
-    "created_at": "2025-07-12T13:52:17",
-    "updated_at": "2025-08-08T13:10:38"
+    "created_at": "2025-07-27T14:48:13",
+    "updated_at": "2025-08-08T16:09:54"
   },
   {
     "name": "claude-007-agents",
     "full_name": "avivl/claude-007-agents",
     "description": " 🤖 A unified AI agent orchestration system featuring 75+ specialized agents across 14 categories for modern software development. Built with advanced coordination intelligence, resilience engineering, and structured logging   capabilities.",
     "url": "https://github.com/avivl/claude-007-agents",
-    "stars": 68,
+    "stars": 70,
     "daily_stars": 2,
     "language": "Shell",
     "topics": [
@@ -123,55 +108,71 @@
       "claude-code"
     ],
     "created_at": "2025-07-30T13:20:38",
-    "updated_at": "2025-08-08T12:52:00"
+    "updated_at": "2025-08-08T16:17:59"
   },
   {
-    "name": "awesome-n8n-workflows",
-    "full_name": "felipfr/awesome-n8n-workflows",
-    "description": "A curated collection of awesome n8n workflows for automation, integration, and productivity. Explore ready-to-use JSON workflows for analytics, communication, CRM, e-commerce, finance, HR, marketing, monitoring, security, and more.",
-    "url": "https://github.com/felipfr/awesome-n8n-workflows",
-    "stars": 17,
+    "name": "my-claude-code-workflow",
+    "full_name": "sbtobb/my-claude-code-workflow",
+    "description": "Contains a complete workflow, sub-agent and command line",
+    "url": "https://github.com/sbtobb/my-claude-code-workflow",
+    "stars": 12,
     "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "automation",
-      "integration",
-      "n8n",
-      "productivity",
-      "workflow"
-    ],
-    "created_at": "2025-08-07T15:39:26",
-    "updated_at": "2025-08-08T11:51:14"
-  },
-  {
-    "name": "villa-X",
-    "full_name": "lucidrains/villa-X",
-    "description": null,
-    "url": "https://github.com/lucidrains/villa-X",
-    "stars": 9,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [],
-    "created_at": "2025-08-04T02:17:28",
-    "updated_at": "2025-08-08T09:17:59"
-  },
-  {
-    "name": "claude-code-sub-agents",
-    "full_name": "lst97/claude-code-sub-agents",
-    "description": "Collection of specialized AI subagents for Claude Code for personal use.",
-    "url": "https://github.com/lst97/claude-code-sub-agents",
-    "stars": 723,
-    "daily_stars": 1,
     "language": null,
     "topics": [
       "ai-agents",
       "claude-code",
-      "claudecode-config",
-      "claudecode-subagents",
+      "slash-commands",
       "sub-agents",
-      "subagents"
+      "workflow"
     ],
-    "created_at": "2025-07-28T13:04:48",
-    "updated_at": "2025-08-08T09:11:35"
+    "created_at": "2025-08-06T17:24:37",
+    "updated_at": "2025-08-08T15:58:41"
+  },
+  {
+    "name": "claude-code-sub-agents",
+    "full_name": "charles-adedotun/claude-code-sub-agents",
+    "description": "🤖 Comprehensive sub-agent ecosystem for Claude Code - Intelligent AI assistance across the full software development lifecycle",
+    "url": "https://github.com/charles-adedotun/claude-code-sub-agents",
+    "stars": 11,
+    "daily_stars": 2,
+    "language": "Shell",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "claude-code",
+      "developer-tools",
+      "devops",
+      "productivity",
+      "react",
+      "security",
+      "testing",
+      "workflow"
+    ],
+    "created_at": "2025-07-26T00:53:48",
+    "updated_at": "2025-08-08T16:13:18"
+  },
+  {
+    "name": "devops-ai-guidelines",
+    "full_name": "VersusControl/devops-ai-guidelines",
+    "description": "🚀 Your complete toolkit for mastering AI in DevOps - from career advancement to daily productivity hacks",
+    "url": "https://github.com/VersusControl/devops-ai-guidelines",
+    "stars": 251,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [],
+    "created_at": "2025-07-20T11:15:56",
+    "updated_at": "2025-08-08T14:58:10"
+  },
+  {
+    "name": "HRM",
+    "full_name": "lucidrains/HRM",
+    "description": "Exploration into the proposed architecture from Sapient Intelligence of Singapore",
+    "url": "https://github.com/lucidrains/HRM",
+    "stars": 44,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-24T15:41:22",
+    "updated_at": "2025-08-08T16:33:21"
   }
 ]
