@@ -1,23 +1,70 @@
 [
   {
+    "name": "memU",
+    "full_name": "NevaMind-AI/memU",
+    "description": "MemU is an open-source memory framework for AI companions—high accuracy, fast retrieval, low cost. It acts as an intelligent \"memory folder\" that adapts to different scenarios, from different companions senarios.",
+    "url": "https://github.com/NevaMind-AI/memU",
+    "stars": 48,
+    "daily_stars": 38,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "ai-agents",
+      "ai-companion",
+      "ai-roleplay",
+      "benchmark",
+      "framework",
+      "llm",
+      "mcp",
+      "memory",
+      "open-source",
+      "python",
+      "sandbox"
+    ],
+    "created_at": "2025-07-29T01:54:40",
+    "updated_at": "2025-08-08T20:42:23"
+  },
+  {
     "name": "Chronos",
     "full_name": "Kodezi/Chronos",
     "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
     "url": "https://github.com/Kodezi/Chronos",
-    "stars": 2202,
-    "daily_stars": 43,
+    "stars": 2228,
+    "daily_stars": 26,
     "language": "Python",
     "topics": [],
     "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-08-08T16:45:21"
+    "updated_at": "2025-08-08T20:30:22"
+  },
+  {
+    "name": "awesome-claude-code-subagents",
+    "full_name": "VoltAgent/awesome-claude-code-subagents",
+    "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
+    "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+    "stars": 585,
+    "daily_stars": 13,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-ai",
+      "claude-subagents",
+      "subagents"
+    ],
+    "created_at": "2025-07-30T12:31:51",
+    "updated_at": "2025-08-08T20:08:06"
   },
   {
     "name": "agents",
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 7579,
-    "daily_stars": 28,
+    "stars": 7591,
+    "daily_stars": 12,
     "language": null,
     "topics": [
       "agents",
@@ -30,149 +77,128 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-08-08T16:43:22"
-  },
-  {
-    "name": "awesome-claude-code-subagents",
-    "full_name": "VoltAgent/awesome-claude-code-subagents",
-    "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
-    "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-    "stars": 572,
-    "daily_stars": 14,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "claude",
-      "claude-ai",
-      "claude-subagents",
-      "subagents"
-    ],
-    "created_at": "2025-07-30T12:31:51",
-    "updated_at": "2025-08-08T16:28:02"
-  },
-  {
-    "name": "AgentGuard",
-    "full_name": "dipampaul17/AgentGuard",
-    "description": "Real-time guardrail that shows token spend & kills runaway LLM/agent loops.",
-    "url": "https://github.com/dipampaul17/AgentGuard",
-    "stars": 115,
-    "daily_stars": 3,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "anthropic-claude",
-      "cost-monitoring",
-      "debugging",
-      "guardrails",
-      "llm",
-      "observability",
-      "openai",
-      "openai-api",
-      "prompt-engineering",
-      "token-usage"
-    ],
-    "created_at": "2025-07-31T02:46:39",
-    "updated_at": "2025-08-08T14:40:15"
-  },
-  {
-    "name": "claude-sub-agent",
-    "full_name": "zhsama/claude-sub-agent",
-    "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
-    "url": "https://github.com/zhsama/claude-sub-agent",
-    "stars": 272,
-    "daily_stars": 3,
-    "language": null,
-    "topics": [
-      "agent",
-      "claude-code",
-      "multi-agent-system",
-      "workflow"
-    ],
-    "created_at": "2025-07-27T14:48:13",
-    "updated_at": "2025-08-08T16:09:54"
-  },
-  {
-    "name": "claude-007-agents",
-    "full_name": "avivl/claude-007-agents",
-    "description": " 🤖 A unified AI agent orchestration system featuring 75+ specialized agents across 14 categories for modern software development. Built with advanced coordination intelligence, resilience engineering, and structured logging   capabilities.",
-    "url": "https://github.com/avivl/claude-007-agents",
-    "stars": 70,
-    "daily_stars": 2,
-    "language": "Shell",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "ai-agents",
-      "claude",
-      "claude-code"
-    ],
-    "created_at": "2025-07-30T13:20:38",
-    "updated_at": "2025-08-08T16:17:59"
-  },
-  {
-    "name": "my-claude-code-workflow",
-    "full_name": "sbtobb/my-claude-code-workflow",
-    "description": "Contains a complete workflow, sub-agent and command line",
-    "url": "https://github.com/sbtobb/my-claude-code-workflow",
-    "stars": 12,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "slash-commands",
-      "sub-agents",
-      "workflow"
-    ],
-    "created_at": "2025-08-06T17:24:37",
-    "updated_at": "2025-08-08T15:58:41"
+    "updated_at": "2025-08-08T20:00:36"
   },
   {
     "name": "claude-code-sub-agents",
-    "full_name": "charles-adedotun/claude-code-sub-agents",
-    "description": "🤖 Comprehensive sub-agent ecosystem for Claude Code - Intelligent AI assistance across the full software development lifecycle",
-    "url": "https://github.com/charles-adedotun/claude-code-sub-agents",
-    "stars": 11,
-    "daily_stars": 2,
-    "language": "Shell",
+    "full_name": "lst97/claude-code-sub-agents",
+    "description": "Collection of specialized AI subagents for Claude Code for personal use.",
+    "url": "https://github.com/lst97/claude-code-sub-agents",
+    "stars": 727,
+    "daily_stars": 3,
+    "language": null,
     "topics": [
       "ai-agents",
-      "automation",
       "claude-code",
-      "developer-tools",
-      "devops",
-      "productivity",
-      "react",
-      "security",
+      "claudecode-config",
+      "claudecode-subagents",
+      "sub-agents",
+      "subagents"
+    ],
+    "created_at": "2025-07-28T13:04:48",
+    "updated_at": "2025-08-08T19:13:23"
+  },
+  {
+    "name": "traceroot",
+    "full_name": "traceroot-ai/traceroot",
+    "description": "Find the Root cause in your Code's Trace",
+    "url": "https://github.com/traceroot-ai/traceroot",
+    "stars": 238,
+    "daily_stars": 3,
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "debugging",
+      "llm",
+      "monitoring",
+      "multi-agent-systems",
+      "observability",
+      "trace"
+    ],
+    "created_at": "2025-07-22T19:50:15",
+    "updated_at": "2025-08-08T18:41:01"
+  },
+  {
+    "name": "production-ready-data-science-code",
+    "full_name": "khuyentran1401/production-ready-data-science-code",
+    "description": "Transform messy data science notebooks into production-ready code. Examples covering testing, CI/CD, MLOps, and scalable deployment practices.",
+    "url": "https://github.com/khuyentran1401/production-ready-data-science-code",
+    "stars": 56,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "book-examples",
+      "ci-cd",
+      "code-quality",
+      "data-engineering",
+      "data-science",
+      "machine-learning",
+      "mlops",
+      "production",
+      "python",
       "testing",
+      "tutorial",
+      "version-control"
+    ],
+    "created_at": "2025-07-24T20:24:37",
+    "updated_at": "2025-08-08T17:21:34"
+  },
+  {
+    "name": "awesome-n8n-workflows",
+    "full_name": "felipfr/awesome-n8n-workflows",
+    "description": "A curated collection of awesome n8n workflows for automation, integration, and productivity. Explore ready-to-use JSON workflows for analytics, communication, CRM, e-commerce, finance, HR, marketing, monitoring, security, and more.",
+    "url": "https://github.com/felipfr/awesome-n8n-workflows",
+    "stars": 20,
+    "daily_stars": 2,
+    "language": null,
+    "topics": [
+      "automation",
+      "integration",
+      "n8n",
+      "productivity",
       "workflow"
     ],
-    "created_at": "2025-07-26T00:53:48",
-    "updated_at": "2025-08-08T16:13:18"
+    "created_at": "2025-08-07T15:39:26",
+    "updated_at": "2025-08-08T19:01:46"
   },
   {
     "name": "devops-ai-guidelines",
     "full_name": "VersusControl/devops-ai-guidelines",
     "description": "🚀 Your complete toolkit for mastering AI in DevOps - from career advancement to daily productivity hacks",
     "url": "https://github.com/VersusControl/devops-ai-guidelines",
-    "stars": 251,
+    "stars": 252,
     "daily_stars": 1,
     "language": null,
     "topics": [],
     "created_at": "2025-07-20T11:15:56",
-    "updated_at": "2025-08-08T14:58:10"
+    "updated_at": "2025-08-08T18:40:48"
   },
   {
-    "name": "HRM",
-    "full_name": "lucidrains/HRM",
-    "description": "Exploration into the proposed architecture from Sapient Intelligence of Singapore",
-    "url": "https://github.com/lucidrains/HRM",
-    "stars": 44,
+    "name": "UniCoT",
+    "full_name": "Fr0zenCrane/UniCoT",
+    "description": "Uni-CoT: Towards Unified Chain-of-Thought Reasoning Across Text and Vision",
+    "url": "https://github.com/Fr0zenCrane/UniCoT",
+    "stars": 71,
     "daily_stars": 1,
     "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-24T15:41:22",
-    "updated_at": "2025-08-08T16:33:21"
+    "topics": [
+      "any-to-any",
+      "artificial-intelligence",
+      "chain-of-thought",
+      "chain-of-thought-reasoning",
+      "computer-vision",
+      "cot",
+      "deep-learning",
+      "llm",
+      "multimodal",
+      "uni-cot",
+      "unicot",
+      "unified-model",
+      "vision-language-pretraining"
+    ],
+    "created_at": "2025-07-25T03:31:40",
+    "updated_at": "2025-08-08T16:50:52"
   }
 ]
