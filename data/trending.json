@@ -1,62 +1,11 @@
 [
   {
-    "name": "agents",
-    "full_name": "wshobson/agents",
-    "description": "A collection of production-ready subagents for Claude Code",
-    "url": "https://github.com/wshobson/agents",
-    "stars": 7614,
-    "daily_stars": 13,
-    "language": null,
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "anthropic",
-      "automation",
-      "claude",
-      "claude-code",
-      "subagents"
-    ],
-    "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-08-09T04:44:23"
-  },
-  {
-    "name": "Chronos",
-    "full_name": "Kodezi/Chronos",
-    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
-    "url": "https://github.com/Kodezi/Chronos",
-    "stars": 2258,
-    "daily_stars": 11,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-08-09T04:48:56"
-  },
-  {
-    "name": "awesome-claude-code-subagents",
-    "full_name": "VoltAgent/awesome-claude-code-subagents",
-    "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
-    "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-    "stars": 614,
-    "daily_stars": 11,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "claude",
-      "claude-ai",
-      "claude-subagents",
-      "subagents"
-    ],
-    "created_at": "2025-07-30T12:31:51",
-    "updated_at": "2025-08-09T04:31:24"
-  },
-  {
     "name": "memU",
     "full_name": "NevaMind-AI/memU",
     "description": "MemU is an open-source memory framework for AI companions—high accuracy, fast retrieval, low cost. It acts as an intelligent \"memory folder\" that adapts to different scenarios, from different companions senarios.",
     "url": "https://github.com/NevaMind-AI/memU",
-    "stars": 93,
-    "daily_stars": 10,
+    "stars": 121,
+    "daily_stars": 28,
     "language": "Python",
     "topics": [
       "agent",
@@ -77,50 +26,127 @@
       "sandbox"
     ],
     "created_at": "2025-07-29T01:54:40",
-    "updated_at": "2025-08-09T04:31:30"
+    "updated_at": "2025-08-09T08:34:02"
   },
   {
-    "name": "langchain-graphrag-baml",
-    "full_name": "FareedKhan-dev/langchain-graphrag-baml",
-    "description": "Improving langchain knowledge graphs using baml",
-    "url": "https://github.com/FareedKhan-dev/langchain-graphrag-baml",
-    "stars": 13,
-    "daily_stars": 2,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "ai-agents",
-      "langchain",
-      "ollama",
-      "openai",
-      "python",
-      "rag"
-    ],
-    "created_at": "2025-08-03T10:41:37",
-    "updated_at": "2025-08-09T03:35:42"
-  },
-  {
-    "name": "claude-sub-agent",
-    "full_name": "zhsama/claude-sub-agent",
-    "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
-    "url": "https://github.com/zhsama/claude-sub-agent",
-    "stars": 276,
-    "daily_stars": 2,
+    "name": "awesome-claude-code-subagents",
+    "full_name": "VoltAgent/awesome-claude-code-subagents",
+    "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
+    "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+    "stars": 637,
+    "daily_stars": 23,
     "language": null,
     "topics": [
-      "agent",
-      "claude-code",
-      "multi-agent-system",
-      "workflow"
+      "ai-agents",
+      "claude",
+      "claude-ai",
+      "claude-subagents",
+      "subagents"
     ],
-    "created_at": "2025-07-27T14:48:13",
-    "updated_at": "2025-08-09T04:41:09"
+    "created_at": "2025-07-30T12:31:51",
+    "updated_at": "2025-08-09T08:30:40"
+  },
+  {
+    "name": "Chronos",
+    "full_name": "Kodezi/Chronos",
+    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
+    "url": "https://github.com/Kodezi/Chronos",
+    "stars": 2277,
+    "daily_stars": 19,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-21T07:34:10",
+    "updated_at": "2025-08-09T08:41:55"
+  },
+  {
+    "name": "agents",
+    "full_name": "wshobson/agents",
+    "description": "A collection of production-ready subagents for Claude Code",
+    "url": "https://github.com/wshobson/agents",
+    "stars": 7632,
+    "daily_stars": 18,
+    "language": null,
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "automation",
+      "claude",
+      "claude-code",
+      "subagents"
+    ],
+    "created_at": "2025-07-24T23:28:14",
+    "updated_at": "2025-08-09T08:44:53"
+  },
+  {
+    "name": "omini-kontext",
+    "full_name": "Saquib764/omini-kontext",
+    "description": "An inference and training framework for multiple image input in Flux Kontext dev",
+    "url": "https://github.com/Saquib764/omini-kontext",
+    "stars": 189,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-29T23:47:08",
+    "updated_at": "2025-08-09T08:08:31"
+  },
+  {
+    "name": "diabetes-prediction-app",
+    "full_name": "GxAniket/diabetes-prediction-app",
+    "description": "A Flask web app that predicts the risk of diabetes based on user input using a trained machine learning model. Built with scikit-learn, pandas, and HTML/CSS. Simple UI, real-time predictions, and easy to deploy. Ideal for learning ML model deployment in web applications.",
+    "url": "https://github.com/GxAniket/diabetes-prediction-app",
+    "stars": 11,
+    "daily_stars": 2,
+    "language": "HTML",
+    "topics": [],
+    "created_at": "2025-08-02T08:49:54",
+    "updated_at": "2025-08-09T08:42:29"
+  },
+  {
+    "name": "UniCoT",
+    "full_name": "Fr0zenCrane/UniCoT",
+    "description": "Uni-CoT: Towards Unified Chain-of-Thought Reasoning Across Text and Vision",
+    "url": "https://github.com/Fr0zenCrane/UniCoT",
+    "stars": 72,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "any-to-any",
+      "artificial-intelligence",
+      "chain-of-thought",
+      "chain-of-thought-reasoning",
+      "computer-vision",
+      "cot",
+      "deep-learning",
+      "llm",
+      "multimodal",
+      "uni-cot",
+      "unicot",
+      "unified-model",
+      "vision-language-pretraining"
+    ],
+    "created_at": "2025-07-25T03:31:40",
+    "updated_at": "2025-08-09T08:28:28"
+  },
+  {
+    "name": "villa-X",
+    "full_name": "lucidrains/villa-X",
+    "description": null,
+    "url": "https://github.com/lucidrains/villa-X",
+    "stars": 11,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [],
+    "created_at": "2025-08-04T02:17:28",
+    "updated_at": "2025-08-09T07:38:18"
   },
   {
     "name": "claude-code-sub-agents",
     "full_name": "lst97/claude-code-sub-agents",
     "description": "Collection of specialized AI subagents for Claude Code for personal use.",
     "url": "https://github.com/lst97/claude-code-sub-agents",
-    "stars": 728,
+    "stars": 729,
     "daily_stars": 1,
     "language": null,
     "topics": [
@@ -132,14 +158,14 @@
       "subagents"
     ],
     "created_at": "2025-07-28T13:04:48",
-    "updated_at": "2025-08-09T02:38:56"
+    "updated_at": "2025-08-09T06:25:31"
   },
   {
     "name": "traceroot",
     "full_name": "traceroot-ai/traceroot",
     "description": "Find the Root cause in your Code's Trace",
     "url": "https://github.com/traceroot-ai/traceroot",
-    "stars": 242,
+    "stars": 243,
     "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
@@ -154,40 +180,6 @@
       "trace"
     ],
     "created_at": "2025-07-22T19:50:15",
-    "updated_at": "2025-08-09T04:30:12"
-  },
-  {
-    "name": "Agent-Memory-Playground",
-    "full_name": "AIAnytime/Agent-Memory-Playground",
-    "description": "Agent Memory Playground: AI Agent Memory Design & Optimization Techniques",
-    "url": "https://github.com/AIAnytime/Agent-Memory-Playground",
-    "stars": 5,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agent-memory",
-      "agentic-ai",
-      "agentmemory",
-      "ai-agents",
-      "ai-memory",
-      "mem0",
-      "memory",
-      "memory-management"
-    ],
-    "created_at": "2025-08-07T13:29:35",
-    "updated_at": "2025-08-09T02:54:30"
-  },
-  {
-    "name": "flux-krea",
-    "full_name": "krea-ai/flux-krea",
-    "description": "Official GitHub repository for FLUX.1 Krea [dev].",
-    "url": "https://github.com/krea-ai/flux-krea",
-    "stars": 296,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-30T18:19:10",
-    "updated_at": "2025-08-09T03:45:28"
+    "updated_at": "2025-08-09T05:48:38"
   }
 ]
