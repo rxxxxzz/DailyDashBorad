@@ -1,11 +1,62 @@
 [
   {
+    "name": "agents",
+    "full_name": "wshobson/agents",
+    "description": "A collection of production-ready subagents for Claude Code",
+    "url": "https://github.com/wshobson/agents",
+    "stars": 7614,
+    "daily_stars": 13,
+    "language": null,
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "automation",
+      "claude",
+      "claude-code",
+      "subagents"
+    ],
+    "created_at": "2025-07-24T23:28:14",
+    "updated_at": "2025-08-09T04:44:23"
+  },
+  {
+    "name": "Chronos",
+    "full_name": "Kodezi/Chronos",
+    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
+    "url": "https://github.com/Kodezi/Chronos",
+    "stars": 2258,
+    "daily_stars": 11,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-21T07:34:10",
+    "updated_at": "2025-08-09T04:48:56"
+  },
+  {
+    "name": "awesome-claude-code-subagents",
+    "full_name": "VoltAgent/awesome-claude-code-subagents",
+    "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
+    "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+    "stars": 614,
+    "daily_stars": 11,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-ai",
+      "claude-subagents",
+      "subagents"
+    ],
+    "created_at": "2025-07-30T12:31:51",
+    "updated_at": "2025-08-09T04:31:24"
+  },
+  {
     "name": "memU",
     "full_name": "NevaMind-AI/memU",
     "description": "MemU is an open-source memory framework for AI companions—high accuracy, fast retrieval, low cost. It acts as an intelligent \"memory folder\" that adapts to different scenarios, from different companions senarios.",
     "url": "https://github.com/NevaMind-AI/memU",
-    "stars": 83,
-    "daily_stars": 35,
+    "stars": 93,
+    "daily_stars": 10,
     "language": "Python",
     "topics": [
       "agent",
@@ -26,66 +77,70 @@
       "sandbox"
     ],
     "created_at": "2025-07-29T01:54:40",
-    "updated_at": "2025-08-09T02:11:10"
+    "updated_at": "2025-08-09T04:31:30"
   },
   {
-    "name": "Chronos",
-    "full_name": "Kodezi/Chronos",
-    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
-    "url": "https://github.com/Kodezi/Chronos",
-    "stars": 2247,
-    "daily_stars": 19,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-08-09T01:58:10"
-  },
-  {
-    "name": "awesome-claude-code-subagents",
-    "full_name": "VoltAgent/awesome-claude-code-subagents",
-    "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
-    "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-    "stars": 603,
-    "daily_stars": 18,
-    "language": null,
+    "name": "langchain-graphrag-baml",
+    "full_name": "FareedKhan-dev/langchain-graphrag-baml",
+    "description": "Improving langchain knowledge graphs using baml",
+    "url": "https://github.com/FareedKhan-dev/langchain-graphrag-baml",
+    "stars": 13,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
     "topics": [
       "ai-agents",
-      "claude",
-      "claude-ai",
-      "claude-subagents",
-      "subagents"
+      "langchain",
+      "ollama",
+      "openai",
+      "python",
+      "rag"
     ],
-    "created_at": "2025-07-30T12:31:51",
-    "updated_at": "2025-08-09T01:04:46"
+    "created_at": "2025-08-03T10:41:37",
+    "updated_at": "2025-08-09T03:35:42"
   },
   {
-    "name": "agents",
-    "full_name": "wshobson/agents",
-    "description": "A collection of production-ready subagents for Claude Code",
-    "url": "https://github.com/wshobson/agents",
-    "stars": 7601,
-    "daily_stars": 10,
+    "name": "claude-sub-agent",
+    "full_name": "zhsama/claude-sub-agent",
+    "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
+    "url": "https://github.com/zhsama/claude-sub-agent",
+    "stars": 276,
+    "daily_stars": 2,
     "language": null,
     "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "anthropic",
-      "automation",
-      "claude",
+      "agent",
       "claude-code",
+      "multi-agent-system",
+      "workflow"
+    ],
+    "created_at": "2025-07-27T14:48:13",
+    "updated_at": "2025-08-09T04:41:09"
+  },
+  {
+    "name": "claude-code-sub-agents",
+    "full_name": "lst97/claude-code-sub-agents",
+    "description": "Collection of specialized AI subagents for Claude Code for personal use.",
+    "url": "https://github.com/lst97/claude-code-sub-agents",
+    "stars": 728,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "claudecode-config",
+      "claudecode-subagents",
+      "sub-agents",
       "subagents"
     ],
-    "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-08-09T02:23:23"
+    "created_at": "2025-07-28T13:04:48",
+    "updated_at": "2025-08-09T02:38:56"
   },
   {
     "name": "traceroot",
     "full_name": "traceroot-ai/traceroot",
     "description": "Find the Root cause in your Code's Trace",
     "url": "https://github.com/traceroot-ai/traceroot",
-    "stars": 241,
-    "daily_stars": 3,
+    "stars": 242,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -99,74 +154,40 @@
       "trace"
     ],
     "created_at": "2025-07-22T19:50:15",
-    "updated_at": "2025-08-09T01:37:28"
+    "updated_at": "2025-08-09T04:30:12"
   },
   {
-    "name": "devops-ai-guidelines",
-    "full_name": "VersusControl/devops-ai-guidelines",
-    "description": "🚀 Your complete toolkit for mastering AI in DevOps - from career advancement to daily productivity hacks",
-    "url": "https://github.com/VersusControl/devops-ai-guidelines",
-    "stars": 253,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [],
-    "created_at": "2025-07-20T11:15:56",
-    "updated_at": "2025-08-09T01:55:12"
-  },
-  {
-    "name": "omini-kontext",
-    "full_name": "Saquib764/omini-kontext",
-    "description": "An inference and training framework for multiple image input in Flux Kontext dev",
-    "url": "https://github.com/Saquib764/omini-kontext",
-    "stars": 186,
+    "name": "Agent-Memory-Playground",
+    "full_name": "AIAnytime/Agent-Memory-Playground",
+    "description": "Agent Memory Playground: AI Agent Memory Design & Optimization Techniques",
+    "url": "https://github.com/AIAnytime/Agent-Memory-Playground",
+    "stars": 5,
     "daily_stars": 1,
     "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-29T23:47:08",
-    "updated_at": "2025-08-09T02:24:45"
-  },
-  {
-    "name": "HRM",
-    "full_name": "lucidrains/HRM",
-    "description": "Exploration into the proposed architecture from Sapient Intelligence of Singapore",
-    "url": "https://github.com/lucidrains/HRM",
-    "stars": 45,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-24T15:41:22",
-    "updated_at": "2025-08-08T20:57:08"
-  },
-  {
-    "name": "rewind-reward-pytorch",
-    "full_name": "lucidrains/rewind-reward-pytorch",
-    "description": "Implementation of ReWiND, \"Language-Guided Rewards Teach Robot Policies without New Demonstrations\", from USC / Amazon Robotics",
-    "url": "https://github.com/lucidrains/rewind-reward-pytorch",
-    "stars": 27,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [],
-    "created_at": "2025-08-02T13:47:11",
-    "updated_at": "2025-08-09T00:39:53"
-  },
-  {
-    "name": "opencode.nvim",
-    "full_name": "NickvanDyke/opencode.nvim",
-    "description": "Conveniently interface with the opencode AI assistant inside Neovim.",
-    "url": "https://github.com/NickvanDyke/opencode.nvim",
-    "stars": 211,
-    "daily_stars": 1,
-    "language": "Lua",
     "topics": [
+      "agent",
+      "agent-memory",
+      "agentic-ai",
+      "agentmemory",
       "ai-agents",
-      "ai-assistant",
-      "neovim",
-      "nvim",
-      "opencode",
-      "plugin",
-      "terminal"
+      "ai-memory",
+      "mem0",
+      "memory",
+      "memory-management"
     ],
-    "created_at": "2025-07-12T13:52:17",
-    "updated_at": "2025-08-09T02:07:17"
+    "created_at": "2025-08-07T13:29:35",
+    "updated_at": "2025-08-09T02:54:30"
+  },
+  {
+    "name": "flux-krea",
+    "full_name": "krea-ai/flux-krea",
+    "description": "Official GitHub repository for FLUX.1 Krea [dev].",
+    "url": "https://github.com/krea-ai/flux-krea",
+    "stars": 296,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-30T18:19:10",
+    "updated_at": "2025-08-09T03:45:28"
   }
 ]
