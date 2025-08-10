@@ -4,20 +4,20 @@
     "full_name": "Kodezi/Chronos",
     "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
     "url": "https://github.com/Kodezi/Chronos",
-    "stars": 2368,
-    "daily_stars": 53,
+    "stars": 2397,
+    "daily_stars": 29,
     "language": "Python",
     "topics": [],
     "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-08-10T16:46:41"
+    "updated_at": "2025-08-10T20:39:21"
   },
   {
     "name": "memU",
     "full_name": "NevaMind-AI/memU",
     "description": "MemU is an open-source memory framework for AI companions—high accuracy, fast retrieval, low cost. It acts as an intelligent \"memory folder\" that adapts to different scenarios, from different companions senarios.",
     "url": "https://github.com/NevaMind-AI/memU",
-    "stars": 355,
-    "daily_stars": 24,
+    "stars": 378,
+    "daily_stars": 23,
     "language": "Python",
     "topics": [
       "agent",
@@ -38,15 +38,15 @@
       "sandbox"
     ],
     "created_at": "2025-07-29T01:54:40",
-    "updated_at": "2025-08-10T16:46:27"
+    "updated_at": "2025-08-10T20:40:38"
   },
   {
     "name": "agents",
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 7773,
-    "daily_stars": 18,
+    "stars": 7782,
+    "daily_stars": 9,
     "language": null,
     "topics": [
       "agents",
@@ -59,15 +59,15 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-08-10T16:36:41"
+    "updated_at": "2025-08-10T20:36:03"
   },
   {
     "name": "awesome-claude-code-subagents",
     "full_name": "VoltAgent/awesome-claude-code-subagents",
     "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
     "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-    "stars": 753,
-    "daily_stars": 14,
+    "stars": 761,
+    "daily_stars": 8,
     "language": null,
     "topics": [
       "ai-agents",
@@ -77,27 +77,46 @@
       "subagents"
     ],
     "created_at": "2025-07-30T12:31:51",
-    "updated_at": "2025-08-10T16:36:39"
+    "updated_at": "2025-08-10T20:37:39"
   },
   {
     "name": "ClueoMCP",
     "full_name": "ClueoFoundation/ClueoMCP",
     "description": "🎭 The Personality Layer for LLMs- Transform any MCP-compatible AI with rich, consistent personalities powered by Clueo's Big Five personality engine.",
     "url": "https://github.com/ClueoFoundation/ClueoMCP",
-    "stars": 23,
-    "daily_stars": 5,
+    "stars": 30,
+    "daily_stars": 7,
     "language": "TypeScript",
     "topics": [],
     "created_at": "2025-07-28T19:02:24",
-    "updated_at": "2025-08-10T16:44:37"
+    "updated_at": "2025-08-10T19:11:48"
+  },
+  {
+    "name": "claude-code-sub-agents",
+    "full_name": "lst97/claude-code-sub-agents",
+    "description": "Collection of specialized AI subagents for Claude Code for personal use.",
+    "url": "https://github.com/lst97/claude-code-sub-agents",
+    "stars": 741,
+    "daily_stars": 2,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "claudecode-config",
+      "claudecode-subagents",
+      "sub-agents",
+      "subagents"
+    ],
+    "created_at": "2025-07-28T13:04:48",
+    "updated_at": "2025-08-10T18:10:21"
   },
   {
     "name": "opencode.nvim",
     "full_name": "NickvanDyke/opencode.nvim",
     "description": "Conveniently interface with the opencode AI assistant inside Neovim.",
     "url": "https://github.com/NickvanDyke/opencode.nvim",
-    "stars": 223,
-    "daily_stars": 4,
+    "stars": 225,
+    "daily_stars": 2,
     "language": "Lua",
     "topics": [
       "ai-agents",
@@ -109,39 +128,14 @@
       "terminal"
     ],
     "created_at": "2025-07-12T13:52:17",
-    "updated_at": "2025-08-10T15:41:26"
-  },
-  {
-    "name": "AgentGuard",
-    "full_name": "dipampaul17/AgentGuard",
-    "description": "Real-time guardrail that shows token spend & kills runaway LLM/agent loops.",
-    "url": "https://github.com/dipampaul17/AgentGuard",
-    "stars": 122,
-    "daily_stars": 2,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "anthropic-claude",
-      "cost-monitoring",
-      "debugging",
-      "guardrails",
-      "llm",
-      "observability",
-      "openai",
-      "openai-api",
-      "prompt-engineering",
-      "token-usage"
-    ],
-    "created_at": "2025-07-31T02:46:39",
-    "updated_at": "2025-08-10T16:00:02"
+    "updated_at": "2025-08-10T20:07:24"
   },
   {
     "name": "claude-sub-agent",
     "full_name": "zhsama/claude-sub-agent",
     "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
     "url": "https://github.com/zhsama/claude-sub-agent",
-    "stars": 282,
+    "stars": 284,
     "daily_stars": 2,
     "language": null,
     "topics": [
@@ -151,44 +145,30 @@
       "workflow"
     ],
     "created_at": "2025-07-27T14:48:13",
-    "updated_at": "2025-08-10T14:39:27"
+    "updated_at": "2025-08-10T20:16:25"
   },
   {
-    "name": "devops-ai-guidelines",
-    "full_name": "VersusControl/devops-ai-guidelines",
-    "description": "🚀 Your complete toolkit for mastering AI in DevOps - from career advancement to daily productivity hacks",
-    "url": "https://github.com/VersusControl/devops-ai-guidelines",
-    "stars": 258,
+    "name": "ChatMeld",
+    "full_name": "balazspiller/ChatMeld",
+    "description": "Free, Open-Source Playground for AI-to-AI Conversations",
+    "url": "https://github.com/balazspiller/ChatMeld",
+    "stars": 13,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-08-04T01:55:06",
+    "updated_at": "2025-08-10T20:33:43"
+  },
+  {
+    "name": "b2b-agents",
+    "full_name": "alyssonfranklin/b2b-agents",
+    "description": "A comprehensive list with 40+ agents (and growing) to scale your B2B startup or turbocharge Enterprise teams. Need help customizing or implementing it into your company? Please reach:",
+    "url": "https://github.com/alyssonfranklin/b2b-agents",
+    "stars": 3,
     "daily_stars": 1,
     "language": null,
     "topics": [],
-    "created_at": "2025-07-20T11:15:56",
-    "updated_at": "2025-08-10T16:24:15"
-  },
-  {
-    "name": "UniCoT",
-    "full_name": "Fr0zenCrane/UniCoT",
-    "description": "Uni-CoT: Towards Unified Chain-of-Thought Reasoning Across Text and Vision",
-    "url": "https://github.com/Fr0zenCrane/UniCoT",
-    "stars": 75,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "any-to-any",
-      "artificial-intelligence",
-      "chain-of-thought",
-      "chain-of-thought-reasoning",
-      "computer-vision",
-      "cot",
-      "deep-learning",
-      "llm",
-      "multimodal",
-      "uni-cot",
-      "unicot",
-      "unified-model",
-      "vision-language-pretraining"
-    ],
-    "created_at": "2025-07-25T03:31:40",
-    "updated_at": "2025-08-10T13:10:48"
+    "created_at": "2025-08-02T15:54:23",
+    "updated_at": "2025-08-10T17:24:51"
   }
 ]
