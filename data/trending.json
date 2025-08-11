@@ -4,20 +4,20 @@
     "full_name": "Kodezi/Chronos",
     "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
     "url": "https://github.com/Kodezi/Chronos",
-    "stars": 2397,
-    "daily_stars": 29,
+    "stars": 2428,
+    "daily_stars": 31,
     "language": "Python",
     "topics": [],
     "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-08-10T20:39:21"
+    "updated_at": "2025-08-11T02:01:14"
   },
   {
     "name": "memU",
     "full_name": "NevaMind-AI/memU",
     "description": "MemU is an open-source memory framework for AI companions—high accuracy, fast retrieval, low cost. It acts as an intelligent \"memory folder\" that adapts to different scenarios, from different companions senarios.",
     "url": "https://github.com/NevaMind-AI/memU",
-    "stars": 378,
-    "daily_stars": 23,
+    "stars": 406,
+    "daily_stars": 28,
     "language": "Python",
     "topics": [
       "agent",
@@ -38,15 +38,33 @@
       "sandbox"
     ],
     "created_at": "2025-07-29T01:54:40",
-    "updated_at": "2025-08-10T20:40:38"
+    "updated_at": "2025-08-11T02:29:24"
+  },
+  {
+    "name": "awesome-claude-code-subagents",
+    "full_name": "VoltAgent/awesome-claude-code-subagents",
+    "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
+    "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+    "stars": 783,
+    "daily_stars": 22,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-ai",
+      "claude-subagents",
+      "subagents"
+    ],
+    "created_at": "2025-07-30T12:31:51",
+    "updated_at": "2025-08-11T02:35:16"
   },
   {
     "name": "agents",
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 7782,
-    "daily_stars": 9,
+    "stars": 7800,
+    "daily_stars": 18,
     "language": null,
     "topics": [
       "agents",
@@ -59,116 +77,94 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-08-10T20:36:03"
-  },
-  {
-    "name": "awesome-claude-code-subagents",
-    "full_name": "VoltAgent/awesome-claude-code-subagents",
-    "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
-    "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-    "stars": 761,
-    "daily_stars": 8,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "claude",
-      "claude-ai",
-      "claude-subagents",
-      "subagents"
-    ],
-    "created_at": "2025-07-30T12:31:51",
-    "updated_at": "2025-08-10T20:37:39"
+    "updated_at": "2025-08-11T02:29:19"
   },
   {
     "name": "ClueoMCP",
     "full_name": "ClueoFoundation/ClueoMCP",
     "description": "🎭 The Personality Layer for LLMs- Transform any MCP-compatible AI with rich, consistent personalities powered by Clueo's Big Five personality engine.",
     "url": "https://github.com/ClueoFoundation/ClueoMCP",
-    "stars": 30,
-    "daily_stars": 7,
+    "stars": 34,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [],
     "created_at": "2025-07-28T19:02:24",
-    "updated_at": "2025-08-10T19:11:48"
+    "updated_at": "2025-08-11T02:22:16"
   },
   {
-    "name": "claude-code-sub-agents",
-    "full_name": "lst97/claude-code-sub-agents",
-    "description": "Collection of specialized AI subagents for Claude Code for personal use.",
-    "url": "https://github.com/lst97/claude-code-sub-agents",
-    "stars": 741,
+    "name": "traceroot",
+    "full_name": "traceroot-ai/traceroot",
+    "description": "Find the Root cause in your Code's Trace",
+    "url": "https://github.com/traceroot-ai/traceroot",
+    "stars": 252,
     "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "claudecode-config",
-      "claudecode-subagents",
-      "sub-agents",
-      "subagents"
-    ],
-    "created_at": "2025-07-28T13:04:48",
-    "updated_at": "2025-08-10T18:10:21"
-  },
-  {
-    "name": "opencode.nvim",
-    "full_name": "NickvanDyke/opencode.nvim",
-    "description": "Conveniently interface with the opencode AI assistant inside Neovim.",
-    "url": "https://github.com/NickvanDyke/opencode.nvim",
-    "stars": 225,
-    "daily_stars": 2,
-    "language": "Lua",
-    "topics": [
-      "ai-agents",
-      "ai-assistant",
-      "neovim",
-      "nvim",
-      "opencode",
-      "plugin",
-      "terminal"
-    ],
-    "created_at": "2025-07-12T13:52:17",
-    "updated_at": "2025-08-10T20:07:24"
-  },
-  {
-    "name": "claude-sub-agent",
-    "full_name": "zhsama/claude-sub-agent",
-    "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
-    "url": "https://github.com/zhsama/claude-sub-agent",
-    "stars": 284,
-    "daily_stars": 2,
-    "language": null,
+    "language": "TypeScript",
     "topics": [
       "agent",
-      "claude-code",
-      "multi-agent-system",
+      "ai",
+      "ai-agents",
+      "debugging",
+      "llm",
+      "monitoring",
+      "multi-agent-systems",
+      "observability",
+      "trace"
+    ],
+    "created_at": "2025-07-22T19:50:15",
+    "updated_at": "2025-08-11T01:50:47"
+  },
+  {
+    "name": "flux-krea",
+    "full_name": "krea-ai/flux-krea",
+    "description": "Official GitHub repository for FLUX.1 Krea [dev].",
+    "url": "https://github.com/krea-ai/flux-krea",
+    "stars": 302,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-30T18:19:10",
+    "updated_at": "2025-08-11T00:44:38"
+  },
+  {
+    "name": "awesome-n8n-workflows",
+    "full_name": "felipfr/awesome-n8n-workflows",
+    "description": "A curated collection of awesome n8n workflows for automation, integration, and productivity. Explore ready-to-use JSON workflows for analytics, communication, CRM, e-commerce, finance, HR, marketing, monitoring, security, and more.",
+    "url": "https://github.com/felipfr/awesome-n8n-workflows",
+    "stars": 25,
+    "daily_stars": 2,
+    "language": null,
+    "topics": [
+      "automation",
+      "integration",
+      "n8n",
+      "productivity",
       "workflow"
     ],
-    "created_at": "2025-07-27T14:48:13",
-    "updated_at": "2025-08-10T20:16:25"
+    "created_at": "2025-08-07T15:39:26",
+    "updated_at": "2025-08-11T02:10:55"
   },
   {
-    "name": "ChatMeld",
-    "full_name": "balazspiller/ChatMeld",
-    "description": "Free, Open-Source Playground for AI-to-AI Conversations",
-    "url": "https://github.com/balazspiller/ChatMeld",
-    "stars": 13,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [],
-    "created_at": "2025-08-04T01:55:06",
-    "updated_at": "2025-08-10T20:33:43"
-  },
-  {
-    "name": "b2b-agents",
-    "full_name": "alyssonfranklin/b2b-agents",
-    "description": "A comprehensive list with 40+ agents (and growing) to scale your B2B startup or turbocharge Enterprise teams. Need help customizing or implementing it into your company? Please reach:",
-    "url": "https://github.com/alyssonfranklin/b2b-agents",
-    "stars": 3,
+    "name": "devops-ai-guidelines",
+    "full_name": "VersusControl/devops-ai-guidelines",
+    "description": "🚀 Your complete toolkit for mastering AI in DevOps - from career advancement to daily productivity hacks",
+    "url": "https://github.com/VersusControl/devops-ai-guidelines",
+    "stars": 259,
     "daily_stars": 1,
     "language": null,
     "topics": [],
-    "created_at": "2025-08-02T15:54:23",
-    "updated_at": "2025-08-10T17:24:51"
+    "created_at": "2025-07-20T11:15:56",
+    "updated_at": "2025-08-11T01:48:57"
+  },
+  {
+    "name": "omini-kontext",
+    "full_name": "Saquib764/omini-kontext",
+    "description": "An inference and training framework for multiple image input in Flux Kontext dev",
+    "url": "https://github.com/Saquib764/omini-kontext",
+    "stars": 193,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-29T23:47:08",
+    "updated_at": "2025-08-11T02:26:08"
   }
 ]
