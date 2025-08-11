@@ -1,23 +1,32 @@
 [
   {
-    "name": "Chronos",
-    "full_name": "Kodezi/Chronos",
-    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
-    "url": "https://github.com/Kodezi/Chronos",
-    "stars": 2428,
-    "daily_stars": 31,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-08-11T02:01:14"
+    "name": "agents",
+    "full_name": "wshobson/agents",
+    "description": "A collection of production-ready subagents for Claude Code",
+    "url": "https://github.com/wshobson/agents",
+    "stars": 7817,
+    "daily_stars": 17,
+    "language": null,
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "automation",
+      "claude",
+      "claude-code",
+      "subagents"
+    ],
+    "created_at": "2025-07-24T23:28:14",
+    "updated_at": "2025-08-11T04:26:39"
   },
   {
     "name": "memU",
     "full_name": "NevaMind-AI/memU",
     "description": "MemU is an open-source memory framework for AI companions—high accuracy, fast retrieval, low cost. It acts as an intelligent \"memory folder\" that adapts to different scenarios, from different companions senarios.",
     "url": "https://github.com/NevaMind-AI/memU",
-    "stars": 406,
-    "daily_stars": 28,
+    "stars": 419,
+    "daily_stars": 13,
     "language": "Python",
     "topics": [
       "agent",
@@ -38,15 +47,15 @@
       "sandbox"
     ],
     "created_at": "2025-07-29T01:54:40",
-    "updated_at": "2025-08-11T02:29:24"
+    "updated_at": "2025-08-11T04:58:43"
   },
   {
     "name": "awesome-claude-code-subagents",
     "full_name": "VoltAgent/awesome-claude-code-subagents",
     "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
     "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-    "stars": 783,
-    "daily_stars": 22,
+    "stars": 790,
+    "daily_stars": 7,
     "language": null,
     "topics": [
       "ai-agents",
@@ -56,92 +65,113 @@
       "subagents"
     ],
     "created_at": "2025-07-30T12:31:51",
-    "updated_at": "2025-08-11T02:35:16"
+    "updated_at": "2025-08-11T04:31:01"
   },
   {
-    "name": "agents",
-    "full_name": "wshobson/agents",
-    "description": "A collection of production-ready subagents for Claude Code",
-    "url": "https://github.com/wshobson/agents",
-    "stars": 7800,
-    "daily_stars": 18,
-    "language": null,
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "anthropic",
-      "automation",
-      "claude",
-      "claude-code",
-      "subagents"
-    ],
-    "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-08-11T02:29:19"
-  },
-  {
-    "name": "ClueoMCP",
-    "full_name": "ClueoFoundation/ClueoMCP",
-    "description": "🎭 The Personality Layer for LLMs- Transform any MCP-compatible AI with rich, consistent personalities powered by Clueo's Big Five personality engine.",
-    "url": "https://github.com/ClueoFoundation/ClueoMCP",
-    "stars": 34,
-    "daily_stars": 4,
-    "language": "TypeScript",
-    "topics": [],
-    "created_at": "2025-07-28T19:02:24",
-    "updated_at": "2025-08-11T02:22:16"
-  },
-  {
-    "name": "traceroot",
-    "full_name": "traceroot-ai/traceroot",
-    "description": "Find the Root cause in your Code's Trace",
-    "url": "https://github.com/traceroot-ai/traceroot",
-    "stars": 252,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agents",
-      "debugging",
-      "llm",
-      "monitoring",
-      "multi-agent-systems",
-      "observability",
-      "trace"
-    ],
-    "created_at": "2025-07-22T19:50:15",
-    "updated_at": "2025-08-11T01:50:47"
-  },
-  {
-    "name": "flux-krea",
-    "full_name": "krea-ai/flux-krea",
-    "description": "Official GitHub repository for FLUX.1 Krea [dev].",
-    "url": "https://github.com/krea-ai/flux-krea",
-    "stars": 302,
-    "daily_stars": 2,
+    "name": "Chronos",
+    "full_name": "Kodezi/Chronos",
+    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
+    "url": "https://github.com/Kodezi/Chronos",
+    "stars": 2434,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [],
-    "created_at": "2025-07-30T18:19:10",
-    "updated_at": "2025-08-11T00:44:38"
+    "created_at": "2025-07-21T07:34:10",
+    "updated_at": "2025-08-11T04:47:24"
   },
   {
-    "name": "awesome-n8n-workflows",
-    "full_name": "felipfr/awesome-n8n-workflows",
-    "description": "A curated collection of awesome n8n workflows for automation, integration, and productivity. Explore ready-to-use JSON workflows for analytics, communication, CRM, e-commerce, finance, HR, marketing, monitoring, security, and more.",
-    "url": "https://github.com/felipfr/awesome-n8n-workflows",
-    "stars": 25,
+    "name": "claude-code-sub-agents",
+    "full_name": "lst97/claude-code-sub-agents",
+    "description": "Collection of specialized AI subagents for Claude Code for personal use.",
+    "url": "https://github.com/lst97/claude-code-sub-agents",
+    "stars": 744,
     "daily_stars": 2,
     "language": null,
     "topics": [
-      "automation",
-      "integration",
-      "n8n",
-      "productivity",
-      "workflow"
+      "ai-agents",
+      "claude-code",
+      "claudecode-config",
+      "claudecode-subagents",
+      "sub-agents",
+      "subagents"
     ],
-    "created_at": "2025-08-07T15:39:26",
-    "updated_at": "2025-08-11T02:10:55"
+    "created_at": "2025-07-28T13:04:48",
+    "updated_at": "2025-08-11T02:52:41"
+  },
+  {
+    "name": "rag-ecosystem",
+    "full_name": "FareedKhan-dev/rag-ecosystem",
+    "description": "Understand and code every important component of RAG architecture",
+    "url": "https://github.com/FareedKhan-dev/rag-ecosystem",
+    "stars": 5,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "ai-agents",
+      "langchain",
+      "llm",
+      "openai",
+      "rag"
+    ],
+    "created_at": "2025-08-07T07:30:59",
+    "updated_at": "2025-08-11T04:20:00"
+  },
+  {
+    "name": "InfiGUI-G1",
+    "full_name": "InfiXAI/InfiGUI-G1",
+    "description": "Official repository for InfiGUI-G1. We introduce Adaptive Exploration Policy Optimization (AEPO) to overcome semantic alignment bottlenecks in GUI agents through efficient, guided exploration.",
+    "url": "https://github.com/InfiXAI/InfiGUI-G1",
+    "stars": 4,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "gui-agent",
+      "gui-grounding",
+      "large-language-models",
+      "multimodal-llm",
+      "reinforcement-learning"
+    ],
+    "created_at": "2025-08-07T06:45:54",
+    "updated_at": "2025-08-11T04:26:33"
+  },
+  {
+    "name": "awesome-ai",
+    "full_name": "teodorgross/awesome-ai",
+    "description": "The world's first automated AI tool discovery platform using the revolutionary .awesome-ai.md standard. Real-time GitHub scanning, automated curation, and live leaderboards for AI tools.",
+    "url": "https://github.com/teodorgross/awesome-ai",
+    "stars": 38,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [],
+    "created_at": "2025-07-31T13:35:38",
+    "updated_at": "2025-08-11T03:38:47"
+  },
+  {
+    "name": "AgentGuard",
+    "full_name": "dipampaul17/AgentGuard",
+    "description": "Real-time guardrail that shows token spend & kills runaway LLM/agent loops.",
+    "url": "https://github.com/dipampaul17/AgentGuard",
+    "stars": 124,
+    "daily_stars": 1,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "anthropic-claude",
+      "cost-monitoring",
+      "debugging",
+      "guardrails",
+      "llm",
+      "observability",
+      "openai",
+      "openai-api",
+      "prompt-engineering",
+      "token-usage"
+    ],
+    "created_at": "2025-07-31T02:46:39",
+    "updated_at": "2025-08-11T03:09:56"
   },
   {
     "name": "devops-ai-guidelines",
@@ -149,22 +179,10 @@
     "description": "🚀 Your complete toolkit for mastering AI in DevOps - from career advancement to daily productivity hacks",
     "url": "https://github.com/VersusControl/devops-ai-guidelines",
     "stars": 259,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": null,
     "topics": [],
     "created_at": "2025-07-20T11:15:56",
     "updated_at": "2025-08-11T01:48:57"
-  },
-  {
-    "name": "omini-kontext",
-    "full_name": "Saquib764/omini-kontext",
-    "description": "An inference and training framework for multiple image input in Flux Kontext dev",
-    "url": "https://github.com/Saquib764/omini-kontext",
-    "stars": 193,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-29T23:47:08",
-    "updated_at": "2025-08-11T02:26:08"
   }
 ]
