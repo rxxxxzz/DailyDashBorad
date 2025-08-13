@@ -4,8 +4,8 @@
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 8121,
-    "daily_stars": 38,
+    "stars": 8141,
+    "daily_stars": 20,
     "language": null,
     "topics": [
       "agents",
@@ -18,15 +18,45 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-08-13T12:57:35"
+    "updated_at": "2025-08-13T16:42:14"
+  },
+  {
+    "name": "Chronos",
+    "full_name": "Kodezi/Chronos",
+    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
+    "url": "https://github.com/Kodezi/Chronos",
+    "stars": 2070,
+    "daily_stars": 15,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-21T07:34:10",
+    "updated_at": "2025-08-13T16:31:12"
+  },
+  {
+    "name": "awesome-claude-code-subagents",
+    "full_name": "VoltAgent/awesome-claude-code-subagents",
+    "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
+    "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+    "stars": 1002,
+    "daily_stars": 13,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-ai",
+      "claude-subagents",
+      "subagents"
+    ],
+    "created_at": "2025-07-30T12:31:51",
+    "updated_at": "2025-08-13T16:38:11"
   },
   {
     "name": "memU",
     "full_name": "NevaMind-AI/memU",
     "description": "MemU is an open-source memory framework for AI companions—high accuracy, fast retrieval, low cost. It acts as an intelligent \"memory folder\" that adapts to different scenarios, from different companions senarios.",
     "url": "https://github.com/NevaMind-AI/memU",
-    "stars": 794,
-    "daily_stars": 19,
+    "stars": 802,
+    "daily_stars": 8,
     "language": "Python",
     "topics": [
       "agent",
@@ -47,45 +77,15 @@
       "sandbox"
     ],
     "created_at": "2025-07-29T01:54:40",
-    "updated_at": "2025-08-13T13:00:16"
-  },
-  {
-    "name": "Chronos",
-    "full_name": "Kodezi/Chronos",
-    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
-    "url": "https://github.com/Kodezi/Chronos",
-    "stars": 2055,
-    "daily_stars": 15,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-08-13T13:10:00"
-  },
-  {
-    "name": "awesome-claude-code-subagents",
-    "full_name": "VoltAgent/awesome-claude-code-subagents",
-    "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
-    "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-    "stars": 989,
-    "daily_stars": 12,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "claude",
-      "claude-ai",
-      "claude-subagents",
-      "subagents"
-    ],
-    "created_at": "2025-07-30T12:31:51",
-    "updated_at": "2025-08-13T12:58:01"
+    "updated_at": "2025-08-13T15:51:39"
   },
   {
     "name": "awesome-data-analysis-resources",
     "full_name": "PavelGrigoryevDS/awesome-data-analysis-resources",
     "description": "🚀📊 400+ curated resources for data analysis and data science: Python, SQL, ML, Visualization, Dashboards, Cheatsheets, Roadmaps, and Interview Prep. Perfect for beginners and pros!",
     "url": "https://github.com/PavelGrigoryevDS/awesome-data-analysis-resources",
-    "stars": 30,
-    "daily_stars": 6,
+    "stars": 35,
+    "daily_stars": 5,
     "language": null,
     "topics": [
       "awesome",
@@ -110,15 +110,27 @@
       "visualization"
     ],
     "created_at": "2025-07-30T11:02:44",
-    "updated_at": "2025-08-13T12:55:16"
+    "updated_at": "2025-08-13T16:05:31"
+  },
+  {
+    "name": "omini-kontext",
+    "full_name": "Saquib764/omini-kontext",
+    "description": "An inference and training framework for multiple image input in Flux Kontext dev",
+    "url": "https://github.com/Saquib764/omini-kontext",
+    "stars": 280,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-29T23:47:08",
+    "updated_at": "2025-08-13T15:29:50"
   },
   {
     "name": "rag-ecosystem",
     "full_name": "FareedKhan-dev/rag-ecosystem",
     "description": "Understand and code every important component of RAG architecture",
     "url": "https://github.com/FareedKhan-dev/rag-ecosystem",
-    "stars": 84,
-    "daily_stars": 5,
+    "stars": 87,
+    "daily_stars": 3,
     "language": "Jupyter Notebook",
     "topics": [
       "ai-agents",
@@ -128,83 +140,47 @@
       "rag"
     ],
     "created_at": "2025-08-07T07:30:59",
-    "updated_at": "2025-08-13T12:47:03"
+    "updated_at": "2025-08-13T15:07:17"
   },
   {
-    "name": "omini-kontext",
-    "full_name": "Saquib764/omini-kontext",
-    "description": "An inference and training framework for multiple image input in Flux Kontext dev",
-    "url": "https://github.com/Saquib764/omini-kontext",
-    "stars": 277,
+    "name": "claude-sub-agent",
+    "full_name": "zhsama/claude-sub-agent",
+    "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
+    "url": "https://github.com/zhsama/claude-sub-agent",
+    "stars": 315,
     "daily_stars": 3,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-29T23:47:08",
-    "updated_at": "2025-08-13T11:32:28"
-  },
-  {
-    "name": "claude-code-sub-agents",
-    "full_name": "lst97/claude-code-sub-agents",
-    "description": "Collection of specialized AI subagents for Claude Code for personal use.",
-    "url": "https://github.com/lst97/claude-code-sub-agents",
-    "stars": 783,
-    "daily_stars": 2,
     "language": null,
     "topics": [
-      "ai-agents",
+      "agent",
       "claude-code",
-      "claudecode-config",
-      "claudecode-subagents",
-      "sub-agents",
-      "subagents"
-    ],
-    "created_at": "2025-07-28T13:04:48",
-    "updated_at": "2025-08-13T13:02:17"
-  },
-  {
-    "name": "MCP-Checklists",
-    "full_name": "MCP-Manager/MCP-Checklists",
-    "description": null,
-    "url": "https://github.com/MCP-Manager/MCP-Checklists",
-    "stars": 28,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "agentic-ai",
-      "agents",
-      "ai-agent",
-      "ai-agents",
-      "cybersecurity",
-      "mcp",
-      "mcp-client",
-      "mcp-client-security",
-      "mcp-clients",
-      "mcp-host",
-      "mcp-server",
-      "mcp-servers",
-      "model-context-protocol",
-      "model-context-protocol-client",
-      "model-context-protocol-servers"
-    ],
-    "created_at": "2025-07-25T18:49:30",
-    "updated_at": "2025-08-13T11:35:56"
-  },
-  {
-    "name": "awesome-n8n-workflows",
-    "full_name": "felipfr/awesome-n8n-workflows",
-    "description": "A curated collection of awesome n8n workflows for automation, integration, and productivity. Explore ready-to-use JSON workflows for analytics, communication, CRM, e-commerce, finance, HR, marketing, monitoring, security, and more.",
-    "url": "https://github.com/felipfr/awesome-n8n-workflows",
-    "stars": 36,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "automation",
-      "integration",
-      "n8n",
-      "productivity",
+      "multi-agent-system",
       "workflow"
     ],
-    "created_at": "2025-08-07T15:39:26",
-    "updated_at": "2025-08-13T10:01:48"
+    "created_at": "2025-07-27T14:48:13",
+    "updated_at": "2025-08-13T14:33:34"
+  },
+  {
+    "name": "devops-ai-guidelines",
+    "full_name": "VersusControl/devops-ai-guidelines",
+    "description": "🚀 Your complete toolkit for mastering AI in DevOps - from career advancement to daily productivity hacks",
+    "url": "https://github.com/VersusControl/devops-ai-guidelines",
+    "stars": 272,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [],
+    "created_at": "2025-07-20T11:15:56",
+    "updated_at": "2025-08-13T14:38:47"
+  },
+  {
+    "name": "pal",
+    "full_name": "cyqlelabs/pal",
+    "description": "Prompt Assembly Language - A framework for managing LLM prompts as versioned, composable software artifacts",
+    "url": "https://github.com/cyqlelabs/pal",
+    "stars": 6,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-08-11T14:38:33",
+    "updated_at": "2025-08-13T15:40:37"
   }
 ]
