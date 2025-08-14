@@ -1,23 +1,11 @@
 [
   {
-    "name": "Chronos",
-    "full_name": "Kodezi/Chronos",
-    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
-    "url": "https://github.com/Kodezi/Chronos",
-    "stars": 2100,
-    "daily_stars": 18,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-08-14T01:36:54"
-  },
-  {
     "name": "agents",
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 8179,
-    "daily_stars": 16,
+    "stars": 8191,
+    "daily_stars": 12,
     "language": null,
     "topics": [
       "agents",
@@ -30,15 +18,33 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-08-14T01:42:07"
+    "updated_at": "2025-08-14T04:46:50"
+  },
+  {
+    "name": "awesome-claude-code-subagents",
+    "full_name": "VoltAgent/awesome-claude-code-subagents",
+    "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
+    "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+    "stars": 1031,
+    "daily_stars": 10,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-ai",
+      "claude-subagents",
+      "subagents"
+    ],
+    "created_at": "2025-07-30T12:31:51",
+    "updated_at": "2025-08-14T04:38:14"
   },
   {
     "name": "awesome-private-ai",
     "full_name": "tdi/awesome-private-ai",
     "description": "Curated list of tools, frameworks, and resources for running, building, and deploying AI privately — on-prem, air-gapped, or self-hosted.",
     "url": "https://github.com/tdi/awesome-private-ai",
-    "stars": 44,
-    "daily_stars": 14,
+    "stars": 51,
+    "daily_stars": 7,
     "language": null,
     "topics": [
       "ai",
@@ -49,32 +55,26 @@
       "self-hosted"
     ],
     "created_at": "2025-08-13T13:24:53",
-    "updated_at": "2025-08-14T01:42:42"
+    "updated_at": "2025-08-14T04:50:36"
   },
   {
-    "name": "awesome-claude-code-subagents",
-    "full_name": "VoltAgent/awesome-claude-code-subagents",
-    "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
-    "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-    "stars": 1021,
-    "daily_stars": 13,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "claude",
-      "claude-ai",
-      "claude-subagents",
-      "subagents"
-    ],
-    "created_at": "2025-07-30T12:31:51",
-    "updated_at": "2025-08-14T02:21:26"
+    "name": "Chronos",
+    "full_name": "Kodezi/Chronos",
+    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
+    "url": "https://github.com/Kodezi/Chronos",
+    "stars": 2104,
+    "daily_stars": 4,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-21T07:34:10",
+    "updated_at": "2025-08-14T04:36:06"
   },
   {
     "name": "memU",
     "full_name": "NevaMind-AI/memU",
     "description": "MemU is an open-source memory framework for AI companions—high accuracy, fast retrieval, low cost. It acts as an intelligent \"memory folder\" that adapts to different scenarios, from different companions senarios.",
     "url": "https://github.com/NevaMind-AI/memU",
-    "stars": 809,
+    "stars": 813,
     "daily_stars": 4,
     "language": "Python",
     "topics": [
@@ -96,15 +96,39 @@
       "sandbox"
     ],
     "created_at": "2025-07-29T01:54:40",
-    "updated_at": "2025-08-14T02:12:00"
+    "updated_at": "2025-08-14T03:26:47"
+  },
+  {
+    "name": "omini-kontext",
+    "full_name": "Saquib764/omini-kontext",
+    "description": "An inference and training framework for multiple image input in Flux Kontext dev",
+    "url": "https://github.com/Saquib764/omini-kontext",
+    "stars": 288,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-29T23:47:08",
+    "updated_at": "2025-08-14T03:08:29"
+  },
+  {
+    "name": "smart-cardiologist",
+    "full_name": "991o2o9/smart-cardiologist",
+    "description": "Intelligent Python service with FastAPI for real-time heart disease predictions using machine learning. Features AI-assisted consultations, user authentication, analysis history, RESTful API, and comprehensive error handling. Secure and scalable solution for healthcare applications.",
+    "url": "https://github.com/991o2o9/smart-cardiologist",
+    "stars": 10,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-08-12T18:22:13",
+    "updated_at": "2025-08-14T04:35:06"
   },
   {
     "name": "claude-code-sub-agents",
     "full_name": "lst97/claude-code-sub-agents",
     "description": "Collection of specialized AI subagents for Claude Code for personal use.",
     "url": "https://github.com/lst97/claude-code-sub-agents",
-    "stars": 787,
-    "daily_stars": 3,
+    "stars": 788,
+    "daily_stars": 1,
     "language": null,
     "topics": [
       "ai-agents",
@@ -115,99 +139,41 @@
       "subagents"
     ],
     "created_at": "2025-07-28T13:04:48",
-    "updated_at": "2025-08-14T01:37:15"
+    "updated_at": "2025-08-14T04:02:08"
   },
   {
-    "name": "MCP-Checklists",
-    "full_name": "MCP-Manager/MCP-Checklists",
-    "description": null,
-    "url": "https://github.com/MCP-Manager/MCP-Checklists",
-    "stars": 33,
-    "daily_stars": 3,
-    "language": null,
+    "name": "TuriX-CUA",
+    "full_name": "TurixAI/TuriX-CUA",
+    "description": "This is the official website for TuriX Computer-use-Agent",
+    "url": "https://github.com/TurixAI/TuriX-CUA",
+    "stars": 53,
+    "daily_stars": 1,
+    "language": "Python",
     "topics": [
-      "agentic-ai",
-      "agents",
-      "ai-agent",
+      "agent",
       "ai-agents",
-      "cybersecurity",
-      "mcp",
-      "mcp-client",
-      "mcp-client-security",
-      "mcp-clients",
-      "mcp-host",
-      "mcp-server",
-      "mcp-servers",
-      "model-context-protocol",
-      "model-context-protocol-client",
-      "model-context-protocol-servers"
+      "computer-automation",
+      "computer-use-agent",
+      "cua",
+      "multi-modal-large-language-model"
     ],
-    "created_at": "2025-07-25T18:49:30",
-    "updated_at": "2025-08-14T02:14:16"
+    "created_at": "2025-08-04T08:59:43",
+    "updated_at": "2025-08-14T03:40:43"
   },
   {
-    "name": "omini-kontext",
-    "full_name": "Saquib764/omini-kontext",
-    "description": "An inference and training framework for multiple image input in Flux Kontext dev",
-    "url": "https://github.com/Saquib764/omini-kontext",
-    "stars": 286,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-29T23:47:08",
-    "updated_at": "2025-08-14T00:24:48"
-  },
-  {
-    "name": "awesome-data-analysis-resources",
-    "full_name": "PavelGrigoryevDS/awesome-data-analysis-resources",
-    "description": "🚀📊 400+ curated resources for data analysis and data science: Python, SQL, ML, Visualization, Dashboards, Cheatsheets, Roadmaps, and Interview Prep. Perfect for beginners and pros!",
-    "url": "https://github.com/PavelGrigoryevDS/awesome-data-analysis-resources",
-    "stars": 42,
-    "daily_stars": 2,
-    "language": null,
+    "name": "Fin-Safari-",
+    "full_name": "Agile-gitpolo/Fin-Safari-",
+    "description": "🦁 FinSafari | AI-Powered Stock Signal Tracker",
+    "url": "https://github.com/Agile-gitpolo/Fin-Safari-",
+    "stars": 6,
+    "daily_stars": 1,
+    "language": "TypeScript",
     "topics": [
-      "awesome",
-      "big-data",
-      "cheetsheets",
-      "data-analysis",
-      "data-analytics",
-      "data-science",
-      "datasets",
-      "eda",
-      "jupyter",
-      "learning-resources",
-      "machine-learning",
-      "pandas",
-      "productivity",
-      "python",
-      "roadmap",
-      "sql",
-      "statistics",
-      "tutorial",
-      "tutorials",
-      "visualization"
+      "ai",
+      "ai-agents",
+      "finance"
     ],
-    "created_at": "2025-07-30T11:02:44",
-    "updated_at": "2025-08-13T21:33:35"
-  },
-  {
-    "name": "InfiGUI-G1",
-    "full_name": "InfiXAI/InfiGUI-G1",
-    "description": "Official repository for InfiGUI-G1. We introduce Adaptive Exploration Policy Optimization (AEPO) to overcome semantic alignment bottlenecks in GUI agents through efficient, guided exploration.",
-    "url": "https://github.com/InfiXAI/InfiGUI-G1",
-    "stars": 16,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "computer-vision",
-      "deep-learning",
-      "gui-agent",
-      "gui-grounding",
-      "large-language-models",
-      "multimodal-llm",
-      "reinforcement-learning"
-    ],
-    "created_at": "2025-08-07T06:45:54",
-    "updated_at": "2025-08-14T02:14:09"
+    "created_at": "2025-07-26T22:48:53",
+    "updated_at": "2025-08-14T02:32:26"
   }
 ]
