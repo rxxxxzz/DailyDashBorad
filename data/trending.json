@@ -1,11 +1,23 @@
 [
   {
+    "name": "Chronos",
+    "full_name": "Kodezi/Chronos",
+    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
+    "url": "https://github.com/Kodezi/Chronos",
+    "stars": 2100,
+    "daily_stars": 18,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-21T07:34:10",
+    "updated_at": "2025-08-14T01:36:54"
+  },
+  {
     "name": "agents",
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 8163,
-    "daily_stars": 22,
+    "stars": 8179,
+    "daily_stars": 16,
     "language": null,
     "topics": [
       "agents",
@@ -18,15 +30,15 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-08-13T20:24:54"
+    "updated_at": "2025-08-14T01:42:07"
   },
   {
     "name": "awesome-private-ai",
     "full_name": "tdi/awesome-private-ai",
     "description": "Curated list of tools, frameworks, and resources for running, building, and deploying AI privately — on-prem, air-gapped, or self-hosted.",
     "url": "https://github.com/tdi/awesome-private-ai",
-    "stars": 30,
-    "daily_stars": 22,
+    "stars": 44,
+    "daily_stars": 14,
     "language": null,
     "topics": [
       "ai",
@@ -37,27 +49,15 @@
       "self-hosted"
     ],
     "created_at": "2025-08-13T13:24:53",
-    "updated_at": "2025-08-13T20:20:26"
-  },
-  {
-    "name": "Chronos",
-    "full_name": "Kodezi/Chronos",
-    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
-    "url": "https://github.com/Kodezi/Chronos",
-    "stars": 2082,
-    "daily_stars": 12,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-08-13T20:30:11"
+    "updated_at": "2025-08-14T01:42:42"
   },
   {
     "name": "awesome-claude-code-subagents",
     "full_name": "VoltAgent/awesome-claude-code-subagents",
     "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
     "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-    "stars": 1008,
-    "daily_stars": 6,
+    "stars": 1021,
+    "daily_stars": 13,
     "language": null,
     "topics": [
       "ai-agents",
@@ -67,15 +67,103 @@
       "subagents"
     ],
     "created_at": "2025-07-30T12:31:51",
-    "updated_at": "2025-08-13T19:48:23"
+    "updated_at": "2025-08-14T02:21:26"
+  },
+  {
+    "name": "memU",
+    "full_name": "NevaMind-AI/memU",
+    "description": "MemU is an open-source memory framework for AI companions—high accuracy, fast retrieval, low cost. It acts as an intelligent \"memory folder\" that adapts to different scenarios, from different companions senarios.",
+    "url": "https://github.com/NevaMind-AI/memU",
+    "stars": 809,
+    "daily_stars": 4,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "ai-agents",
+      "ai-companion",
+      "ai-roleplay",
+      "benchmark",
+      "framework",
+      "llm",
+      "mcp",
+      "memory",
+      "open-source",
+      "python",
+      "sandbox"
+    ],
+    "created_at": "2025-07-29T01:54:40",
+    "updated_at": "2025-08-14T02:12:00"
+  },
+  {
+    "name": "claude-code-sub-agents",
+    "full_name": "lst97/claude-code-sub-agents",
+    "description": "Collection of specialized AI subagents for Claude Code for personal use.",
+    "url": "https://github.com/lst97/claude-code-sub-agents",
+    "stars": 787,
+    "daily_stars": 3,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "claudecode-config",
+      "claudecode-subagents",
+      "sub-agents",
+      "subagents"
+    ],
+    "created_at": "2025-07-28T13:04:48",
+    "updated_at": "2025-08-14T01:37:15"
+  },
+  {
+    "name": "MCP-Checklists",
+    "full_name": "MCP-Manager/MCP-Checklists",
+    "description": null,
+    "url": "https://github.com/MCP-Manager/MCP-Checklists",
+    "stars": 33,
+    "daily_stars": 3,
+    "language": null,
+    "topics": [
+      "agentic-ai",
+      "agents",
+      "ai-agent",
+      "ai-agents",
+      "cybersecurity",
+      "mcp",
+      "mcp-client",
+      "mcp-client-security",
+      "mcp-clients",
+      "mcp-host",
+      "mcp-server",
+      "mcp-servers",
+      "model-context-protocol",
+      "model-context-protocol-client",
+      "model-context-protocol-servers"
+    ],
+    "created_at": "2025-07-25T18:49:30",
+    "updated_at": "2025-08-14T02:14:16"
+  },
+  {
+    "name": "omini-kontext",
+    "full_name": "Saquib764/omini-kontext",
+    "description": "An inference and training framework for multiple image input in Flux Kontext dev",
+    "url": "https://github.com/Saquib764/omini-kontext",
+    "stars": 286,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-29T23:47:08",
+    "updated_at": "2025-08-14T00:24:48"
   },
   {
     "name": "awesome-data-analysis-resources",
     "full_name": "PavelGrigoryevDS/awesome-data-analysis-resources",
     "description": "🚀📊 400+ curated resources for data analysis and data science: Python, SQL, ML, Visualization, Dashboards, Cheatsheets, Roadmaps, and Interview Prep. Perfect for beginners and pros!",
     "url": "https://github.com/PavelGrigoryevDS/awesome-data-analysis-resources",
-    "stars": 40,
-    "daily_stars": 5,
+    "stars": 42,
+    "daily_stars": 2,
     "language": null,
     "topics": [
       "awesome",
@@ -100,111 +188,26 @@
       "visualization"
     ],
     "created_at": "2025-07-30T11:02:44",
-    "updated_at": "2025-08-13T19:46:15"
+    "updated_at": "2025-08-13T21:33:35"
   },
   {
-    "name": "omini-kontext",
-    "full_name": "Saquib764/omini-kontext",
-    "description": "An inference and training framework for multiple image input in Flux Kontext dev",
-    "url": "https://github.com/Saquib764/omini-kontext",
-    "stars": 284,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-29T23:47:08",
-    "updated_at": "2025-08-13T20:27:57"
-  },
-  {
-    "name": "memU",
-    "full_name": "NevaMind-AI/memU",
-    "description": "MemU is an open-source memory framework for AI companions—high accuracy, fast retrieval, low cost. It acts as an intelligent \"memory folder\" that adapts to different scenarios, from different companions senarios.",
-    "url": "https://github.com/NevaMind-AI/memU",
-    "stars": 805,
-    "daily_stars": 3,
+    "name": "InfiGUI-G1",
+    "full_name": "InfiXAI/InfiGUI-G1",
+    "description": "Official repository for InfiGUI-G1. We introduce Adaptive Exploration Policy Optimization (AEPO) to overcome semantic alignment bottlenecks in GUI agents through efficient, guided exploration.",
+    "url": "https://github.com/InfiXAI/InfiGUI-G1",
+    "stars": 16,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
-      "agent",
-      "agentic-ai",
-      "agentic-framework",
-      "agentic-workflow",
-      "ai",
-      "ai-agents",
-      "ai-companion",
-      "ai-roleplay",
-      "benchmark",
-      "framework",
-      "llm",
-      "mcp",
-      "memory",
-      "open-source",
-      "python",
-      "sandbox"
+      "computer-vision",
+      "deep-learning",
+      "gui-agent",
+      "gui-grounding",
+      "large-language-models",
+      "multimodal-llm",
+      "reinforcement-learning"
     ],
-    "created_at": "2025-07-29T01:54:40",
-    "updated_at": "2025-08-13T20:17:12"
-  },
-  {
-    "name": "rag-ecosystem",
-    "full_name": "FareedKhan-dev/rag-ecosystem",
-    "description": "Understand and code every important component of RAG architecture",
-    "url": "https://github.com/FareedKhan-dev/rag-ecosystem",
-    "stars": 89,
-    "daily_stars": 2,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "ai-agents",
-      "langchain",
-      "llm",
-      "openai",
-      "rag"
-    ],
-    "created_at": "2025-08-07T07:30:59",
-    "updated_at": "2025-08-13T17:58:18"
-  },
-  {
-    "name": "claude-007-agents",
-    "full_name": "avivl/claude-007-agents",
-    "description": " 🤖 A unified AI agent orchestration system featuring 75+ specialized agents across 14 categories for modern software development. Built with advanced coordination intelligence, resilience engineering, and structured logging   capabilities.",
-    "url": "https://github.com/avivl/claude-007-agents",
-    "stars": 76,
-    "daily_stars": 2,
-    "language": "Shell",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "ai-agents",
-      "claude",
-      "claude-code"
-    ],
-    "created_at": "2025-07-30T13:20:38",
-    "updated_at": "2025-08-13T18:40:49"
-  },
-  {
-    "name": "MCP-Checklists",
-    "full_name": "MCP-Manager/MCP-Checklists",
-    "description": null,
-    "url": "https://github.com/MCP-Manager/MCP-Checklists",
-    "stars": 30,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "agentic-ai",
-      "agents",
-      "ai-agent",
-      "ai-agents",
-      "cybersecurity",
-      "mcp",
-      "mcp-client",
-      "mcp-client-security",
-      "mcp-clients",
-      "mcp-host",
-      "mcp-server",
-      "mcp-servers",
-      "model-context-protocol",
-      "model-context-protocol-client",
-      "model-context-protocol-servers"
-    ],
-    "created_at": "2025-07-25T18:49:30",
-    "updated_at": "2025-08-13T20:09:14"
+    "created_at": "2025-08-07T06:45:54",
+    "updated_at": "2025-08-14T02:14:09"
   }
 ]
