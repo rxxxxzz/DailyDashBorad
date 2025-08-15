@@ -4,8 +4,8 @@
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 8381,
-    "daily_stars": 26,
+    "stars": 8395,
+    "daily_stars": 14,
     "language": null,
     "topics": [
       "agents",
@@ -18,15 +18,27 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-08-15T16:40:30"
+    "updated_at": "2025-08-15T20:39:54"
+  },
+  {
+    "name": "Chronos",
+    "full_name": "Kodezi/Chronos",
+    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
+    "url": "https://github.com/Kodezi/Chronos",
+    "stars": 2242,
+    "daily_stars": 9,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-21T07:34:10",
+    "updated_at": "2025-08-15T19:56:59"
   },
   {
     "name": "memU",
     "full_name": "NevaMind-AI/memU",
     "description": "MemU is an open-source memory framework for AI companions—high accuracy, fast retrieval, low cost. It acts as an intelligent \"memory folder\" that adapts to different scenarios, from different companions senarios.",
     "url": "https://github.com/NevaMind-AI/memU",
-    "stars": 868,
-    "daily_stars": 15,
+    "stars": 875,
+    "daily_stars": 7,
     "language": "Python",
     "topics": [
       "agent",
@@ -47,27 +59,15 @@
       "sandbox"
     ],
     "created_at": "2025-07-29T01:54:40",
-    "updated_at": "2025-08-15T16:38:38"
-  },
-  {
-    "name": "Chronos",
-    "full_name": "Kodezi/Chronos",
-    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
-    "url": "https://github.com/Kodezi/Chronos",
-    "stars": 2233,
-    "daily_stars": 13,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-08-15T16:46:43"
+    "updated_at": "2025-08-15T20:04:03"
   },
   {
     "name": "awesome-claude-code-subagents",
     "full_name": "VoltAgent/awesome-claude-code-subagents",
     "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
     "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-    "stars": 1095,
-    "daily_stars": 7,
+    "stars": 1100,
+    "daily_stars": 5,
     "language": null,
     "topics": [
       "ai-agents",
@@ -77,101 +77,105 @@
       "subagents"
     ],
     "created_at": "2025-07-30T12:31:51",
-    "updated_at": "2025-08-15T16:24:37"
+    "updated_at": "2025-08-15T20:17:37"
+  },
+  {
+    "name": "traceroot",
+    "full_name": "traceroot-ai/traceroot",
+    "description": "Find the Root cause in your Code's Trace",
+    "url": "https://github.com/traceroot-ai/traceroot",
+    "stars": 268,
+    "daily_stars": 3,
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "debugging",
+      "llm",
+      "monitoring",
+      "multi-agent-systems",
+      "observability",
+      "trace"
+    ],
+    "created_at": "2025-07-22T19:50:15",
+    "updated_at": "2025-08-15T20:33:53"
   },
   {
     "name": "omini-kontext",
     "full_name": "Saquib764/omini-kontext",
     "description": "An inference and training framework for multiple image input in Flux Kontext dev",
     "url": "https://github.com/Saquib764/omini-kontext",
-    "stars": 301,
+    "stars": 303,
     "daily_stars": 2,
     "language": "Python",
     "topics": [],
     "created_at": "2025-07-29T23:47:08",
-    "updated_at": "2025-08-15T14:30:17"
+    "updated_at": "2025-08-15T19:08:44"
   },
   {
-    "name": "awesome-private-ai",
-    "full_name": "tdi/awesome-private-ai",
-    "description": "Curated list of tools, frameworks, and resources for running, building, and deploying AI privately — on-prem, air-gapped, or self-hosted.",
-    "url": "https://github.com/tdi/awesome-private-ai",
-    "stars": 78,
-    "daily_stars": 2,
+    "name": "devops-ai-guidelines",
+    "full_name": "VersusControl/devops-ai-guidelines",
+    "description": "🚀 Your complete toolkit for mastering AI in DevOps - from career advancement to daily productivity hacks",
+    "url": "https://github.com/VersusControl/devops-ai-guidelines",
+    "stars": 276,
+    "daily_stars": 1,
     "language": null,
+    "topics": [],
+    "created_at": "2025-07-20T11:15:56",
+    "updated_at": "2025-08-15T19:41:59"
+  },
+  {
+    "name": "openai-agents-redis",
+    "full_name": "rafaelpierre/openai-agents-redis",
+    "description": "Native OpenAI Agents SDK session management implementation using Redis as the persistence layer.",
+    "url": "https://github.com/rafaelpierre/openai-agents-redis",
+    "stars": 8,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-21T16:02:02",
+    "updated_at": "2025-08-15T20:06:51"
+  },
+  {
+    "name": "claude-code-sub-agents",
+    "full_name": "lst97/claude-code-sub-agents",
+    "description": "Collection of specialized AI subagents for Claude Code for personal use.",
+    "url": "https://github.com/lst97/claude-code-sub-agents",
+    "stars": 799,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "claudecode-config",
+      "claudecode-subagents",
+      "sub-agents",
+      "subagents"
+    ],
+    "created_at": "2025-07-28T13:04:48",
+    "updated_at": "2025-08-15T19:16:06"
+  },
+  {
+    "name": "nanocoder",
+    "full_name": "Mote-Software/nanocoder",
+    "description": "A local-first coding agent running in your terminal ⚒",
+    "url": "https://github.com/Mote-Software/nanocoder",
+    "stars": 64,
+    "daily_stars": 1,
+    "language": "TypeScript",
     "topics": [
       "ai",
       "ai-agents",
-      "awesome",
-      "awesome-list",
+      "ai-coding",
+      "coding-agents",
       "llm",
-      "self-hosted"
+      "llm-inference",
+      "ollama",
+      "openai",
+      "openrouter"
     ],
-    "created_at": "2025-08-13T13:24:53",
-    "updated_at": "2025-08-15T14:48:42"
-  },
-  {
-    "name": "MCP-Checklists",
-    "full_name": "MCP-Manager/MCP-Checklists",
-    "description": null,
-    "url": "https://github.com/MCP-Manager/MCP-Checklists",
-    "stars": 43,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "agentic-ai",
-      "agents",
-      "ai-agent",
-      "ai-agents",
-      "cybersecurity",
-      "mcp",
-      "mcp-client",
-      "mcp-client-security",
-      "mcp-clients",
-      "mcp-host",
-      "mcp-server",
-      "mcp-servers",
-      "model-context-protocol",
-      "model-context-protocol-client",
-      "model-context-protocol-servers"
-    ],
-    "created_at": "2025-07-25T18:49:30",
-    "updated_at": "2025-08-15T13:53:47"
-  },
-  {
-    "name": "flux-krea",
-    "full_name": "krea-ai/flux-krea",
-    "description": "Official GitHub repository for FLUX.1 Krea [dev].",
-    "url": "https://github.com/krea-ai/flux-krea",
-    "stars": 317,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-30T18:19:10",
-    "updated_at": "2025-08-15T14:37:46"
-  },
-  {
-    "name": "HA_MCP",
-    "full_name": "mtebusi/HA_MCP",
-    "description": "🏠🤖 HomeAssistant Add-on for Claude Desktop MCP integration. Control smart home devices, create automations, and manage your home with natural language through Claude.",
-    "url": "https://github.com/mtebusi/HA_MCP",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [],
-    "created_at": "2025-08-09T00:40:04",
-    "updated_at": "2025-08-15T14:50:21"
-  },
-  {
-    "name": "big-brain",
-    "full_name": "probelabs/big-brain",
-    "description": "BigBrain MCP Server - When your AI needs a bigger brain. Intelligent context extraction and round-trip workflow for getting fresh AI insights when stuck.",
-    "url": "https://github.com/probelabs/big-brain",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "JavaScript",
-    "topics": [],
-    "created_at": "2025-08-13T18:28:46",
-    "updated_at": "2025-08-15T15:14:53"
+    "created_at": "2025-07-30T12:54:15",
+    "updated_at": "2025-08-15T20:10:34"
   }
 ]
