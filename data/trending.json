@@ -4,8 +4,8 @@
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 8308,
-    "daily_stars": 11,
+    "stars": 8334,
+    "daily_stars": 26,
     "language": null,
     "topics": [
       "agents",
@@ -18,15 +18,27 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-08-15T04:37:51"
+    "updated_at": "2025-08-15T08:45:32"
+  },
+  {
+    "name": "Chronos",
+    "full_name": "Kodezi/Chronos",
+    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
+    "url": "https://github.com/Kodezi/Chronos",
+    "stars": 2205,
+    "daily_stars": 14,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-21T07:34:10",
+    "updated_at": "2025-08-15T08:46:50"
   },
   {
     "name": "awesome-claude-code-subagents",
     "full_name": "VoltAgent/awesome-claude-code-subagents",
     "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
     "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-    "stars": 1076,
-    "daily_stars": 8,
+    "stars": 1085,
+    "daily_stars": 9,
     "language": null,
     "topics": [
       "ai-agents",
@@ -36,43 +48,15 @@
       "subagents"
     ],
     "created_at": "2025-07-30T12:31:51",
-    "updated_at": "2025-08-15T04:46:34"
-  },
-  {
-    "name": "Chronos",
-    "full_name": "Kodezi/Chronos",
-    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
-    "url": "https://github.com/Kodezi/Chronos",
-    "stars": 2191,
-    "daily_stars": 6,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-08-15T04:42:28"
-  },
-  {
-    "name": "resume-sync-action",
-    "full_name": "lapras-inc/resume-sync-action",
-    "description": "GitHubで管理している職務経歴書の内容をLAPRASに同期するGitHub Actions",
-    "url": "https://github.com/lapras-inc/resume-sync-action",
-    "stars": 16,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "github-actions",
-      "lapras"
-    ],
-    "created_at": "2025-07-31T22:19:23",
-    "updated_at": "2025-08-15T04:22:04"
+    "updated_at": "2025-08-15T07:28:11"
   },
   {
     "name": "memU",
     "full_name": "NevaMind-AI/memU",
     "description": "MemU is an open-source memory framework for AI companions—high accuracy, fast retrieval, low cost. It acts as an intelligent \"memory folder\" that adapts to different scenarios, from different companions senarios.",
     "url": "https://github.com/NevaMind-AI/memU",
-    "stars": 841,
-    "daily_stars": 2,
+    "stars": 845,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "agent",
@@ -93,62 +77,107 @@
       "sandbox"
     ],
     "created_at": "2025-07-29T01:54:40",
-    "updated_at": "2025-08-15T04:44:06"
+    "updated_at": "2025-08-15T08:44:41"
   },
   {
-    "name": "temporal-ai-agent-pipeline",
-    "full_name": "FareedKhan-dev/temporal-ai-agent-pipeline",
-    "description": "Optimizing Dynamic Knowledge Base Using AI Agent",
-    "url": "https://github.com/FareedKhan-dev/temporal-ai-agent-pipeline",
-    "stars": 4,
-    "daily_stars": 2,
-    "language": "Jupyter Notebook",
+    "name": "UniCoT",
+    "full_name": "Fr0zenCrane/UniCoT",
+    "description": "Uni-CoT: Towards Unified Chain-of-Thought Reasoning Across Text and Vision",
+    "url": "https://github.com/Fr0zenCrane/UniCoT",
+    "stars": 92,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "any-to-any",
+      "artificial-intelligence",
+      "chain-of-thought",
+      "chain-of-thought-reasoning",
+      "computer-vision",
+      "cot",
+      "deep-learning",
+      "llm",
+      "multimodal",
+      "uni-cot",
+      "unicot",
+      "unified-model",
+      "vision-language-pretraining"
+    ],
+    "created_at": "2025-07-25T03:31:40",
+    "updated_at": "2025-08-15T06:48:49"
+  },
+  {
+    "name": "resume-sync-action",
+    "full_name": "lapras-inc/resume-sync-action",
+    "description": "GitHubで管理している職務経歴書の内容をLAPRASに同期するGitHub Actions",
+    "url": "https://github.com/lapras-inc/resume-sync-action",
+    "stars": 19,
+    "daily_stars": 3,
+    "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "database",
-      "langchain",
-      "langgraph",
-      "openai",
-      "rag"
+      "github-actions",
+      "lapras"
     ],
-    "created_at": "2025-08-13T12:27:51",
-    "updated_at": "2025-08-15T03:12:20"
+    "created_at": "2025-07-31T22:19:23",
+    "updated_at": "2025-08-15T07:21:17"
   },
   {
-    "name": "claude-sub-agent",
-    "full_name": "zhsama/claude-sub-agent",
-    "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
-    "url": "https://github.com/zhsama/claude-sub-agent",
-    "stars": 324,
+    "name": "vibecore",
+    "full_name": "serialx/vibecore",
+    "description": "Build your own AI-powered automation tools in the terminal with this extensible agent framework",
+    "url": "https://github.com/serialx/vibecore",
+    "stars": 13,
     "daily_stars": 2,
-    "language": null,
+    "language": "Python",
     "topics": [
       "agent",
-      "claude-code",
-      "multi-agent-system",
-      "workflow"
+      "ai-agents",
+      "openai-agents-sdk",
+      "textual",
+      "tui"
     ],
-    "created_at": "2025-07-27T14:48:13",
-    "updated_at": "2025-08-15T04:36:01"
+    "created_at": "2025-07-19T13:15:50",
+    "updated_at": "2025-08-15T08:08:27"
   },
   {
     "name": "omini-kontext",
     "full_name": "Saquib764/omini-kontext",
     "description": "An inference and training framework for multiple image input in Flux Kontext dev",
     "url": "https://github.com/Saquib764/omini-kontext",
-    "stars": 297,
+    "stars": 298,
     "daily_stars": 1,
     "language": "Python",
     "topics": [],
     "created_at": "2025-07-29T23:47:08",
-    "updated_at": "2025-08-15T03:37:39"
+    "updated_at": "2025-08-15T07:11:25"
+  },
+  {
+    "name": "flow-ssn",
+    "full_name": "biomedia-mira/flow-ssn",
+    "description": "[ICCV 2025] Code for \"Flow Stochastic Segmentation Networks\"",
+    "url": "https://github.com/biomedia-mira/flow-ssn",
+    "stars": 8,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "generative-ai",
+      "machine-learning",
+      "medical-imaging",
+      "neural-networks",
+      "normalizing-flows",
+      "segmentation"
+    ],
+    "created_at": "2025-07-22T16:13:22",
+    "updated_at": "2025-08-15T06:11:59"
   },
   {
     "name": "claude-code-sub-agents",
     "full_name": "lst97/claude-code-sub-agents",
     "description": "Collection of specialized AI subagents for Claude Code for personal use.",
     "url": "https://github.com/lst97/claude-code-sub-agents",
-    "stars": 796,
+    "stars": 797,
     "daily_stars": 1,
     "language": null,
     "topics": [
@@ -160,28 +189,6 @@
       "subagents"
     ],
     "created_at": "2025-07-28T13:04:48",
-    "updated_at": "2025-08-15T03:28:00"
-  },
-  {
-    "name": "traceroot",
-    "full_name": "traceroot-ai/traceroot",
-    "description": "Find the Root cause in your Code's Trace",
-    "url": "https://github.com/traceroot-ai/traceroot",
-    "stars": 265,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agents",
-      "debugging",
-      "llm",
-      "monitoring",
-      "multi-agent-systems",
-      "observability",
-      "trace"
-    ],
-    "created_at": "2025-07-22T19:50:15",
-    "updated_at": "2025-08-15T03:40:41"
+    "updated_at": "2025-08-15T08:16:03"
   }
 ]
