@@ -1,23 +1,11 @@
 [
   {
-    "name": "Chronos",
-    "full_name": "Kodezi/Chronos",
-    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
-    "url": "https://github.com/Kodezi/Chronos",
-    "stars": 2308,
-    "daily_stars": 25,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-08-16T12:59:44"
-  },
-  {
     "name": "agents",
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 8467,
-    "daily_stars": 25,
+    "stars": 8487,
+    "daily_stars": 20,
     "language": null,
     "topics": [
       "agents",
@@ -30,15 +18,15 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-08-16T12:46:17"
+    "updated_at": "2025-08-16T16:19:21"
   },
   {
     "name": "memU",
     "full_name": "NevaMind-AI/memU",
     "description": "MemU is an open-source memory framework for AI companions—high accuracy, fast retrieval, low cost. It acts as an intelligent \"memory folder\" that adapts to different scenarios, from different companions senarios.",
     "url": "https://github.com/NevaMind-AI/memU",
-    "stars": 949,
-    "daily_stars": 22,
+    "stars": 962,
+    "daily_stars": 13,
     "language": "Python",
     "topics": [
       "agent",
@@ -59,15 +47,15 @@
       "sandbox"
     ],
     "created_at": "2025-07-29T01:54:40",
-    "updated_at": "2025-08-16T12:58:52"
+    "updated_at": "2025-08-16T16:26:53"
   },
   {
     "name": "awesome-claude-code-subagents",
     "full_name": "VoltAgent/awesome-claude-code-subagents",
     "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
     "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-    "stars": 1129,
-    "daily_stars": 6,
+    "stars": 1139,
+    "daily_stars": 10,
     "language": null,
     "topics": [
       "ai-agents",
@@ -77,15 +65,52 @@
       "subagents"
     ],
     "created_at": "2025-07-30T12:31:51",
-    "updated_at": "2025-08-16T11:46:33"
+    "updated_at": "2025-08-16T16:29:23"
+  },
+  {
+    "name": "claude-code-sub-agents",
+    "full_name": "lst97/claude-code-sub-agents",
+    "description": "Collection of specialized AI subagents for Claude Code for personal use.",
+    "url": "https://github.com/lst97/claude-code-sub-agents",
+    "stars": 812,
+    "daily_stars": 4,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "claudecode-config",
+      "claudecode-subagents",
+      "sub-agents",
+      "subagents"
+    ],
+    "created_at": "2025-07-28T13:04:48",
+    "updated_at": "2025-08-16T15:16:26"
+  },
+  {
+    "name": "rag-ecosystem",
+    "full_name": "FareedKhan-dev/rag-ecosystem",
+    "description": "Understand and code every important component of RAG architecture",
+    "url": "https://github.com/FareedKhan-dev/rag-ecosystem",
+    "stars": 109,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "ai-agents",
+      "langchain",
+      "llm",
+      "openai",
+      "rag"
+    ],
+    "created_at": "2025-08-07T07:30:59",
+    "updated_at": "2025-08-16T14:49:26"
   },
   {
     "name": "temporal-ai-agent-pipeline",
     "full_name": "FareedKhan-dev/temporal-ai-agent-pipeline",
     "description": "Optimizing Dynamic Knowledge Base Using AI Agent",
     "url": "https://github.com/FareedKhan-dev/temporal-ai-agent-pipeline",
-    "stars": 15,
-    "daily_stars": 5,
+    "stars": 17,
+    "daily_stars": 2,
     "language": "Jupyter Notebook",
     "topics": [
       "ai-agents",
@@ -96,102 +121,68 @@
       "rag"
     ],
     "created_at": "2025-08-13T12:27:51",
-    "updated_at": "2025-08-16T12:55:09"
+    "updated_at": "2025-08-16T15:33:55"
   },
   {
-    "name": "claude-sub-agent",
-    "full_name": "zhsama/claude-sub-agent",
-    "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
-    "url": "https://github.com/zhsama/claude-sub-agent",
-    "stars": 333,
-    "daily_stars": 4,
-    "language": null,
-    "topics": [
-      "agent",
-      "claude-code",
-      "multi-agent-system",
-      "workflow"
-    ],
-    "created_at": "2025-07-27T14:48:13",
-    "updated_at": "2025-08-16T10:38:56"
-  },
-  {
-    "name": "rag-ecosystem",
-    "full_name": "FareedKhan-dev/rag-ecosystem",
-    "description": "Understand and code every important component of RAG architecture",
-    "url": "https://github.com/FareedKhan-dev/rag-ecosystem",
-    "stars": 107,
-    "daily_stars": 3,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "ai-agents",
-      "langchain",
-      "llm",
-      "openai",
-      "rag"
-    ],
-    "created_at": "2025-08-07T07:30:59",
-    "updated_at": "2025-08-16T12:35:38"
-  },
-  {
-    "name": "omini-kontext",
-    "full_name": "Saquib764/omini-kontext",
-    "description": "An inference and training framework for multiple image input in Flux Kontext dev",
-    "url": "https://github.com/Saquib764/omini-kontext",
-    "stars": 307,
+    "name": "context-compressor",
+    "full_name": "Huzaifa785/context-compressor",
+    "description": "AI-powered text compression library for RAG systems and API calls. Reduce token usage by up to 80% while    preserving semantic meaning with advanced compression strategies.",
+    "url": "https://github.com/Huzaifa785/context-compressor",
+    "stars": 10,
     "daily_stars": 2,
     "language": "Python",
     "topics": [],
-    "created_at": "2025-07-29T23:47:08",
-    "updated_at": "2025-08-16T11:49:42"
+    "created_at": "2025-08-14T19:41:30",
+    "updated_at": "2025-08-16T16:25:24"
   },
   {
-    "name": "contextual-engineering-guide",
-    "full_name": "FareedKhan-dev/contextual-engineering-guide",
-    "description": "Implementation of contextual engineering pipeline with LangChain and LangGraph Agents",
-    "url": "https://github.com/FareedKhan-dev/contextual-engineering-guide",
-    "stars": 39,
-    "daily_stars": 2,
-    "language": "Jupyter Notebook",
+    "name": "UniCoT",
+    "full_name": "Fr0zenCrane/UniCoT",
+    "description": "Uni-CoT: Towards Unified Chain-of-Thought Reasoning Across Text and Vision",
+    "url": "https://github.com/Fr0zenCrane/UniCoT",
+    "stars": 93,
+    "daily_stars": 1,
+    "language": "Python",
     "topics": [
-      "ai",
-      "ai-agents",
-      "claude",
-      "context-engineering",
-      "langchain",
-      "langgraph",
-      "large-language-models",
-      "openai",
-      "prompt-engineering"
-    ],
-    "created_at": "2025-07-24T10:50:35",
-    "updated_at": "2025-08-16T12:54:23"
-  },
-  {
-    "name": "suricata",
-    "full_name": "ostafen/suricata",
-    "description": "Type-safe AI agents for Go. Suricata combines LLM intelligence with Go’s strong typing, declarative YAML specs, and code generation to build safe, maintainable, and production-ready AI agents.",
-    "url": "https://github.com/ostafen/suricata",
-    "stars": 4,
-    "daily_stars": 2,
-    "language": "Go",
-    "topics": [
-      "ai-agents",
-      "ai-framework",
-      "code-generation",
-      "developer-tools",
-      "go",
-      "go-templates",
-      "golang",
-      "large-language-models",
+      "any-to-any",
+      "artificial-intelligence",
+      "chain-of-thought",
+      "chain-of-thought-reasoning",
+      "computer-vision",
+      "cot",
+      "deep-learning",
       "llm",
-      "prompt-engineering",
-      "sdk-go",
-      "structured-prompts",
-      "type-safety",
-      "yaml"
+      "multimodal",
+      "uni-cot",
+      "unicot",
+      "unified-model",
+      "vision-language-pretraining"
     ],
-    "created_at": "2025-08-14T12:55:54",
-    "updated_at": "2025-08-16T09:54:15"
+    "created_at": "2025-07-25T03:31:40",
+    "updated_at": "2025-08-16T13:23:42"
+  },
+  {
+    "name": "ClueoMCP",
+    "full_name": "ClueoFoundation/ClueoMCP",
+    "description": "🎭 The Personality Layer for LLMs- Transform any MCP-compatible AI with rich, consistent personalities powered by Clueo's Big Five personality engine.",
+    "url": "https://github.com/ClueoFoundation/ClueoMCP",
+    "stars": 41,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-07-28T19:02:24",
+    "updated_at": "2025-08-16T16:30:50"
+  },
+  {
+    "name": "GitPilot--VS-code-Extension",
+    "full_name": "InflixOP/GitPilot--VS-code-Extension",
+    "description": "This repository contains the VS Code extension for the main project, GitPilot. You can find the main repository here: https://github.com/InflixOP/GitPilot",
+    "url": "https://github.com/InflixOP/GitPilot--VS-code-Extension",
+    "stars": 7,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-07-27T11:42:50",
+    "updated_at": "2025-08-16T14:50:02"
   }
 ]
