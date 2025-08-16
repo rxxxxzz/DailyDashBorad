@@ -1,11 +1,32 @@
 [
   {
+    "name": "agents",
+    "full_name": "wshobson/agents",
+    "description": "A collection of production-ready subagents for Claude Code",
+    "url": "https://github.com/wshobson/agents",
+    "stars": 8427,
+    "daily_stars": 16,
+    "language": null,
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "automation",
+      "claude",
+      "claude-code",
+      "subagents"
+    ],
+    "created_at": "2025-07-24T23:28:14",
+    "updated_at": "2025-08-16T04:39:55"
+  },
+  {
     "name": "memU",
     "full_name": "NevaMind-AI/memU",
     "description": "MemU is an open-source memory framework for AI companions—high accuracy, fast retrieval, low cost. It acts as an intelligent \"memory folder\" that adapts to different scenarios, from different companions senarios.",
     "url": "https://github.com/NevaMind-AI/memU",
-    "stars": 895,
-    "daily_stars": 20,
+    "stars": 910,
+    "daily_stars": 15,
     "language": "Python",
     "topics": [
       "agent",
@@ -26,47 +47,26 @@
       "sandbox"
     ],
     "created_at": "2025-07-29T01:54:40",
-    "updated_at": "2025-08-16T02:16:36"
+    "updated_at": "2025-08-16T04:43:48"
   },
   {
     "name": "Chronos",
     "full_name": "Kodezi/Chronos",
     "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
     "url": "https://github.com/Kodezi/Chronos",
-    "stars": 2259,
-    "daily_stars": 17,
+    "stars": 2268,
+    "daily_stars": 9,
     "language": "Python",
     "topics": [],
     "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-08-16T02:15:37"
-  },
-  {
-    "name": "agents",
-    "full_name": "wshobson/agents",
-    "description": "A collection of production-ready subagents for Claude Code",
-    "url": "https://github.com/wshobson/agents",
-    "stars": 8411,
-    "daily_stars": 16,
-    "language": null,
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "anthropic",
-      "automation",
-      "claude",
-      "claude-code",
-      "subagents"
-    ],
-    "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-08-16T02:17:22"
+    "updated_at": "2025-08-16T04:42:48"
   },
   {
     "name": "awesome-claude-code-subagents",
     "full_name": "VoltAgent/awesome-claude-code-subagents",
     "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
     "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-    "stars": 1106,
+    "stars": 1112,
     "daily_stars": 6,
     "language": null,
     "topics": [
@@ -77,15 +77,27 @@
       "subagents"
     ],
     "created_at": "2025-07-30T12:31:51",
-    "updated_at": "2025-08-16T02:10:24"
+    "updated_at": "2025-08-16T04:39:34"
+  },
+  {
+    "name": "devops-ai-guidelines",
+    "full_name": "VersusControl/devops-ai-guidelines",
+    "description": "🚀 Your complete toolkit for mastering AI in DevOps - from career advancement to daily productivity hacks",
+    "url": "https://github.com/VersusControl/devops-ai-guidelines",
+    "stars": 280,
+    "daily_stars": 4,
+    "language": null,
+    "topics": [],
+    "created_at": "2025-07-20T11:15:56",
+    "updated_at": "2025-08-16T04:13:34"
   },
   {
     "name": "claude-code-sub-agents",
     "full_name": "lst97/claude-code-sub-agents",
     "description": "Collection of specialized AI subagents for Claude Code for personal use.",
     "url": "https://github.com/lst97/claude-code-sub-agents",
-    "stars": 804,
-    "daily_stars": 5,
+    "stars": 805,
+    "daily_stars": 1,
     "language": null,
     "topics": [
       "ai-agents",
@@ -96,33 +108,15 @@
       "subagents"
     ],
     "created_at": "2025-07-28T13:04:48",
-    "updated_at": "2025-08-16T00:47:55"
-  },
-  {
-    "name": "rag-ecosystem",
-    "full_name": "FareedKhan-dev/rag-ecosystem",
-    "description": "Understand and code every important component of RAG architecture",
-    "url": "https://github.com/FareedKhan-dev/rag-ecosystem",
-    "stars": 103,
-    "daily_stars": 4,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "ai-agents",
-      "langchain",
-      "llm",
-      "openai",
-      "rag"
-    ],
-    "created_at": "2025-08-07T07:30:59",
-    "updated_at": "2025-08-16T02:19:04"
+    "updated_at": "2025-08-16T03:23:20"
   },
   {
     "name": "nanocoder",
     "full_name": "Mote-Software/nanocoder",
     "description": "A local-first coding agent running in your terminal ⚒",
     "url": "https://github.com/Mote-Software/nanocoder",
-    "stars": 68,
-    "daily_stars": 4,
+    "stars": 69,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -136,32 +130,49 @@
       "openrouter"
     ],
     "created_at": "2025-07-30T12:54:15",
-    "updated_at": "2025-08-16T00:36:07"
+    "updated_at": "2025-08-16T03:22:23"
   },
   {
-    "name": "claude-sub-agent",
-    "full_name": "zhsama/claude-sub-agent",
-    "description": "AI-driven development workflow system built on Claude Code Sub-Agents.",
-    "url": "https://github.com/zhsama/claude-sub-agent",
-    "stars": 328,
-    "daily_stars": 3,
+    "name": "my-claude-code-workflow",
+    "full_name": "sbtobb/my-claude-code-workflow",
+    "description": "Contains a complete workflow, sub-agent and command line",
+    "url": "https://github.com/sbtobb/my-claude-code-workflow",
+    "stars": 23,
+    "daily_stars": 1,
     "language": null,
     "topics": [
-      "agent",
+      "ai-agents",
       "claude-code",
-      "multi-agent-system",
+      "slash-commands",
+      "sub-agents",
       "workflow"
     ],
-    "created_at": "2025-07-27T14:48:13",
-    "updated_at": "2025-08-16T01:56:22"
+    "created_at": "2025-08-06T17:24:37",
+    "updated_at": "2025-08-16T02:37:52"
+  },
+  {
+    "name": "resume-sync-action",
+    "full_name": "lapras-inc/resume-sync-action",
+    "description": "GitHubで管理している職務経歴書の内容をLAPRASに同期するGitHub Actions",
+    "url": "https://github.com/lapras-inc/resume-sync-action",
+    "stars": 22,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "github-actions",
+      "lapras"
+    ],
+    "created_at": "2025-07-31T22:19:23",
+    "updated_at": "2025-08-16T03:31:14"
   },
   {
     "name": "temporal-ai-agent-pipeline",
     "full_name": "FareedKhan-dev/temporal-ai-agent-pipeline",
     "description": "Optimizing Dynamic Knowledge Base Using AI Agent",
     "url": "https://github.com/FareedKhan-dev/temporal-ai-agent-pipeline",
-    "stars": 7,
-    "daily_stars": 2,
+    "stars": 8,
+    "daily_stars": 1,
     "language": "Jupyter Notebook",
     "topics": [
       "ai-agents",
@@ -172,29 +183,6 @@
       "rag"
     ],
     "created_at": "2025-08-13T12:27:51",
-    "updated_at": "2025-08-16T02:20:28"
-  },
-  {
-    "name": "Saturn",
-    "full_name": "xyOz-dev/Saturn",
-    "description": "Your personal swarm of employees, without the salary.",
-    "url": "https://github.com/xyOz-dev/Saturn",
-    "stars": 4,
-    "daily_stars": 2,
-    "language": "C#",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "anthropic",
-      "code",
-      "openai",
-      "openrouter",
-      "software",
-      "software-development",
-      "software-tools"
-    ],
-    "created_at": "2025-08-04T11:53:22",
-    "updated_at": "2025-08-16T00:03:19"
+    "updated_at": "2025-08-16T03:11:33"
   }
 ]
