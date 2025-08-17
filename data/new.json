@@ -4,8 +4,8 @@
     "full_name": "tdi/awesome-private-ai",
     "description": "Curated list of tools, frameworks, and resources for running, building, and deploying AI privately — on-prem, air-gapped, or self-hosted.",
     "url": "https://github.com/tdi/awesome-private-ai",
-    "stars": 81,
-    "daily_stars": 0,
+    "stars": 84,
+    "daily_stars": 3,
     "language": null,
     "topics": [
       "ai",
@@ -16,7 +16,26 @@
       "self-hosted"
     ],
     "created_at": "2025-08-13T13:24:53",
-    "updated_at": "2025-08-16T13:19:11"
+    "updated_at": "2025-08-17T02:33:42"
+  },
+  {
+    "name": "temporal-ai-agent-pipeline",
+    "full_name": "FareedKhan-dev/temporal-ai-agent-pipeline",
+    "description": "Optimizing Dynamic Knowledge Base Using AI Agent",
+    "url": "https://github.com/FareedKhan-dev/temporal-ai-agent-pipeline",
+    "stars": 23,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "ai-agents",
+      "database",
+      "langchain",
+      "langgraph",
+      "openai",
+      "rag"
+    ],
+    "created_at": "2025-08-13T12:27:51",
+    "updated_at": "2025-08-17T02:18:36"
   },
   {
     "name": "cli-coding-agent-from-scratch",
@@ -44,25 +63,6 @@
     ],
     "created_at": "2025-08-09T09:10:26",
     "updated_at": "2025-08-16T17:04:41"
-  },
-  {
-    "name": "temporal-ai-agent-pipeline",
-    "full_name": "FareedKhan-dev/temporal-ai-agent-pipeline",
-    "description": "Optimizing Dynamic Knowledge Base Using AI Agent",
-    "url": "https://github.com/FareedKhan-dev/temporal-ai-agent-pipeline",
-    "stars": 21,
-    "daily_stars": 4,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "ai-agents",
-      "database",
-      "langchain",
-      "langgraph",
-      "openai",
-      "rag"
-    ],
-    "created_at": "2025-08-13T12:27:51",
-    "updated_at": "2025-08-16T20:35:43"
   },
   {
     "name": "smart-cardiologist",
@@ -93,32 +93,12 @@
     "full_name": "Huzaifa785/context-compressor",
     "description": "AI-powered text compression library for RAG systems and API calls. Reduce token usage by up to 80% while    preserving semantic meaning with advanced compression strategies.",
     "url": "https://github.com/Huzaifa785/context-compressor",
-    "stars": 10,
-    "daily_stars": 0,
+    "stars": 12,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [],
     "created_at": "2025-08-14T19:41:30",
-    "updated_at": "2025-08-16T16:25:24"
-  },
-  {
-    "name": "clever_searcher",
-    "full_name": "Azzedde/clever_searcher",
-    "description": "Intelligent web discovery agent with LLM-powered planning, multi-source search, smart deduplication, and GRPO preference dataset collection. Autonomously searches, analyzes, and summarizes web content while building training data for model fine-tuning.",
-    "url": "https://github.com/Azzedde/clever_searcher",
-    "stars": 8,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "automation",
-      "crawling",
-      "llm",
-      "openai",
-      "python",
-      "webscraping"
-    ],
-    "created_at": "2025-08-08T22:32:32",
-    "updated_at": "2025-08-13T20:34:39"
+    "updated_at": "2025-08-17T00:03:03"
   },
   {
     "name": "Faceswap",
@@ -180,5 +160,38 @@
     ],
     "created_at": "2025-08-11T08:47:56",
     "updated_at": "2025-08-15T00:14:05"
+  },
+  {
+    "name": "GPT-OSS-MoE-ExpertFingerprinting",
+    "full_name": "AmanPriyanshu/GPT-OSS-MoE-ExpertFingerprinting",
+    "description": "ExpertFingerprinting: Behavioral Pattern Analysis and Specialization Mapping of Experts in GPT-OSS-20B's Mixture-of-Experts Architecture",
+    "url": "https://github.com/AmanPriyanshu/GPT-OSS-MoE-ExpertFingerprinting",
+    "stars": 7,
+    "daily_stars": 0,
+    "language": "HTML",
+    "topics": [
+      "behavioral-analysis",
+      "deep-learning",
+      "expert-routing",
+      "gpt",
+      "gpt-oss",
+      "gpt-oss-120b",
+      "gpt-oss-20b",
+      "llm",
+      "llm-evaluation",
+      "mixture-of-experts",
+      "model",
+      "model-interpretability",
+      "model-observability",
+      "moe",
+      "pruning",
+      "pruning-optimization",
+      "reasoning",
+      "reasoning-agent",
+      "reasoning-language-models",
+      "routing"
+    ],
+    "created_at": "2025-08-12T18:27:17",
+    "updated_at": "2025-08-14T18:46:01"
   }
 ]
