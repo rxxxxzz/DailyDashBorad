@@ -5,7 +5,7 @@
     "description": "Curated list of tools, frameworks, and resources for running, building, and deploying AI privately — on-prem, air-gapped, or self-hosted.",
     "url": "https://github.com/tdi/awesome-private-ai",
     "stars": 113,
-    "daily_stars": 3,
+    "daily_stars": 0,
     "language": null,
     "topics": [
       "ai",
@@ -16,46 +16,15 @@
       "self-hosted"
     ],
     "created_at": "2025-08-13T13:24:53",
-    "updated_at": "2025-08-18T06:05:24"
-  },
-  {
-    "name": "context-compressor",
-    "full_name": "Huzaifa785/context-compressor",
-    "description": "AI-powered text compression library for RAG systems and API calls. Reduce token usage by up to 80% while    preserving semantic meaning with advanced compression strategies.",
-    "url": "https://github.com/Huzaifa785/context-compressor",
-    "stars": 34,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-08-14T19:41:30",
-    "updated_at": "2025-08-18T07:14:02"
-  },
-  {
-    "name": "temporal-ai-agent-pipeline",
-    "full_name": "FareedKhan-dev/temporal-ai-agent-pipeline",
-    "description": "Optimizing Dynamic Knowledge Base Using AI Agent",
-    "url": "https://github.com/FareedKhan-dev/temporal-ai-agent-pipeline",
-    "stars": 30,
-    "daily_stars": 2,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "ai-agents",
-      "database",
-      "langchain",
-      "langgraph",
-      "openai",
-      "rag"
-    ],
-    "created_at": "2025-08-13T12:27:51",
-    "updated_at": "2025-08-18T07:31:50"
+    "updated_at": "2025-08-18T09:51:51"
   },
   {
     "name": "gamestudio-subagents",
     "full_name": "pamirtuna/gamestudio-subagents",
     "description": "AI-Powered Game Development Team in Your Terminal",
     "url": "https://github.com/pamirtuna/gamestudio-subagents",
-    "stars": 27,
-    "daily_stars": 1,
+    "stars": 40,
+    "daily_stars": 13,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -68,7 +37,38 @@
       "unreal-engine"
     ],
     "created_at": "2025-08-15T22:20:42",
-    "updated_at": "2025-08-18T08:42:18"
+    "updated_at": "2025-08-18T12:49:07"
+  },
+  {
+    "name": "context-compressor",
+    "full_name": "Huzaifa785/context-compressor",
+    "description": "AI-powered text compression library for RAG systems and API calls. Reduce token usage by up to 80% while    preserving semantic meaning with advanced compression strategies.",
+    "url": "https://github.com/Huzaifa785/context-compressor",
+    "stars": 40,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-08-14T19:41:30",
+    "updated_at": "2025-08-18T11:32:44"
+  },
+  {
+    "name": "temporal-ai-agent-pipeline",
+    "full_name": "FareedKhan-dev/temporal-ai-agent-pipeline",
+    "description": "Optimizing Dynamic Knowledge Base Using AI Agent",
+    "url": "https://github.com/FareedKhan-dev/temporal-ai-agent-pipeline",
+    "stars": 32,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "ai-agents",
+      "database",
+      "langchain",
+      "langgraph",
+      "openai",
+      "rag"
+    ],
+    "created_at": "2025-08-13T12:27:51",
+    "updated_at": "2025-08-18T11:51:57"
   },
   {
     "name": "smart-cardiologist",
@@ -76,7 +76,7 @@
     "description": "Intelligent Python service with FastAPI for real-time heart disease predictions using machine learning. Features AI-assisted consultations, user authentication, analysis history, RESTful API, and comprehensive error handling. Secure and scalable solution for healthcare applications.",
     "url": "https://github.com/991o2o9/smart-cardiologist",
     "stars": 18,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [],
     "created_at": "2025-08-12T18:22:13",
@@ -93,6 +93,39 @@
     "topics": [],
     "created_at": "2025-08-12T18:22:13",
     "updated_at": "2025-08-18T04:59:12"
+  },
+  {
+    "name": "GPT-OSS-MoE-ExpertFingerprinting",
+    "full_name": "AmanPriyanshu/GPT-OSS-MoE-ExpertFingerprinting",
+    "description": "ExpertFingerprinting: Behavioral Pattern Analysis and Specialization Mapping of Experts in GPT-OSS-20B's Mixture-of-Experts Architecture",
+    "url": "https://github.com/AmanPriyanshu/GPT-OSS-MoE-ExpertFingerprinting",
+    "stars": 8,
+    "daily_stars": 1,
+    "language": "HTML",
+    "topics": [
+      "behavioral-analysis",
+      "deep-learning",
+      "expert-routing",
+      "gpt",
+      "gpt-oss",
+      "gpt-oss-120b",
+      "gpt-oss-20b",
+      "llm",
+      "llm-evaluation",
+      "mixture-of-experts",
+      "model",
+      "model-interpretability",
+      "model-observability",
+      "moe",
+      "pruning",
+      "pruning-optimization",
+      "reasoning",
+      "reasoning-agent",
+      "reasoning-language-models",
+      "routing"
+    ],
+    "created_at": "2025-08-12T18:27:17",
+    "updated_at": "2025-08-18T09:46:01"
   },
   {
     "name": "Faceswap",
@@ -154,17 +187,5 @@
     ],
     "created_at": "2025-08-11T08:47:56",
     "updated_at": "2025-08-15T00:14:05"
-  },
-  {
-    "name": "Daily-Neural-Network-Exercise",
-    "full_name": "zohreazimi/Daily-Neural-Network-Exercise",
-    "description": "My Daily Neural Network Exercise",
-    "url": "https://github.com/zohreazimi/Daily-Neural-Network-Exercise",
-    "stars": 7,
-    "daily_stars": 0,
-    "language": "Jupyter Notebook",
-    "topics": [],
-    "created_at": "2025-08-13T07:33:23",
-    "updated_at": "2025-08-17T17:24:31"
   }
 ]
