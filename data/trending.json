@@ -1,11 +1,23 @@
 [
   {
+    "name": "Chronos",
+    "full_name": "Kodezi/Chronos",
+    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
+    "url": "https://github.com/Kodezi/Chronos",
+    "stars": 2395,
+    "daily_stars": 13,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-21T07:34:10",
+    "updated_at": "2025-08-18T19:47:35"
+  },
+  {
     "name": "agents",
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 8705,
-    "daily_stars": 21,
+    "stars": 8718,
+    "daily_stars": 13,
     "language": null,
     "topics": [
       "agents",
@@ -18,15 +30,15 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-08-18T16:48:26"
+    "updated_at": "2025-08-18T20:37:29"
   },
   {
     "name": "memU",
     "full_name": "NevaMind-AI/memU",
     "description": "MemU is an open-source memory framework for AI companions—high accuracy, fast retrieval, low cost. It acts as an intelligent \"memory folder\" that adapts to different scenarios, from different companions senarios.",
     "url": "https://github.com/NevaMind-AI/memU",
-    "stars": 1135,
-    "daily_stars": 19,
+    "stars": 1147,
+    "daily_stars": 12,
     "language": "Python",
     "topics": [
       "agent",
@@ -47,27 +59,15 @@
       "sandbox"
     ],
     "created_at": "2025-07-29T01:54:40",
-    "updated_at": "2025-08-18T16:49:45"
-  },
-  {
-    "name": "Chronos",
-    "full_name": "Kodezi/Chronos",
-    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
-    "url": "https://github.com/Kodezi/Chronos",
-    "stars": 2382,
-    "daily_stars": 18,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-08-18T16:46:50"
+    "updated_at": "2025-08-18T20:32:09"
   },
   {
     "name": "awesome-claude-code-subagents",
     "full_name": "VoltAgent/awesome-claude-code-subagents",
     "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
     "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-    "stars": 1259,
-    "daily_stars": 12,
+    "stars": 1268,
+    "daily_stars": 9,
     "language": null,
     "topics": [
       "ai-agents",
@@ -77,15 +77,76 @@
       "subagents"
     ],
     "created_at": "2025-07-30T12:31:51",
-    "updated_at": "2025-08-18T16:36:39"
+    "updated_at": "2025-08-18T20:10:22"
+  },
+  {
+    "name": "awesome-ai",
+    "full_name": "teodorgross/awesome-ai",
+    "description": "The world's first automated AI tool discovery platform using the revolutionary .awesome-ai.md standard. Real-time GitHub scanning, automated curation, and live leaderboards for AI tools.",
+    "url": "https://github.com/teodorgross/awesome-ai",
+    "stars": 68,
+    "daily_stars": 6,
+    "language": null,
+    "topics": [],
+    "created_at": "2025-07-31T13:35:38",
+    "updated_at": "2025-08-18T19:30:09"
+  },
+  {
+    "name": "zcf",
+    "full_name": "UfoMiao/zcf",
+    "description": "Zero-Config Claude-Code Flow",
+    "url": "https://github.com/UfoMiao/zcf",
+    "stars": 672,
+    "daily_stars": 4,
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agent",
+      "ccr",
+      "claude",
+      "claude-4",
+      "claude-ai",
+      "claude-api",
+      "claude-code",
+      "cli",
+      "llm",
+      "llm-code",
+      "nodejs",
+      "prompt",
+      "typescript",
+      "workflow",
+      "zcf"
+    ],
+    "created_at": "2025-07-30T06:09:00",
+    "updated_at": "2025-08-18T19:07:33"
+  },
+  {
+    "name": "awesome-private-ai",
+    "full_name": "tdi/awesome-private-ai",
+    "description": "Curated list of tools, frameworks, and resources for running, building, and deploying AI privately — on-prem, air-gapped, or self-hosted.",
+    "url": "https://github.com/tdi/awesome-private-ai",
+    "stars": 116,
+    "daily_stars": 3,
+    "language": null,
+    "topics": [
+      "ai",
+      "ai-agents",
+      "awesome",
+      "awesome-list",
+      "llm",
+      "self-hosted"
+    ],
+    "created_at": "2025-08-13T13:24:53",
+    "updated_at": "2025-08-18T19:42:44"
   },
   {
     "name": "gamestudio-subagents",
     "full_name": "pamirtuna/gamestudio-subagents",
     "description": "AI-Powered Game Development Team in Your Terminal",
     "url": "https://github.com/pamirtuna/gamestudio-subagents",
-    "stars": 46,
-    "daily_stars": 6,
+    "stars": 49,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -98,15 +159,15 @@
       "unreal-engine"
     ],
     "created_at": "2025-08-15T22:20:42",
-    "updated_at": "2025-08-18T16:49:18"
+    "updated_at": "2025-08-18T20:01:36"
   },
   {
     "name": "awesome-n8n-workflows",
     "full_name": "felipfr/awesome-n8n-workflows",
     "description": "A curated collection of awesome n8n workflows for automation, integration, and productivity. Explore ready-to-use JSON workflows for analytics, communication, CRM, e-commerce, finance, HR, marketing, monitoring, security, and more.",
     "url": "https://github.com/felipfr/awesome-n8n-workflows",
-    "stars": 87,
-    "daily_stars": 6,
+    "stars": 90,
+    "daily_stars": 3,
     "language": null,
     "topics": [
       "automation",
@@ -116,61 +177,18 @@
       "workflow"
     ],
     "created_at": "2025-08-07T15:39:26",
-    "updated_at": "2025-08-18T16:37:30"
-  },
-  {
-    "name": "devops-ai-guidelines",
-    "full_name": "VersusControl/devops-ai-guidelines",
-    "description": "🚀 Your complete toolkit for mastering AI in DevOps - from career advancement to daily productivity hacks",
-    "url": "https://github.com/VersusControl/devops-ai-guidelines",
-    "stars": 319,
-    "daily_stars": 5,
-    "language": null,
-    "topics": [],
-    "created_at": "2025-07-20T11:15:56",
-    "updated_at": "2025-08-18T16:26:51"
-  },
-  {
-    "name": "awesome-ai",
-    "full_name": "teodorgross/awesome-ai",
-    "description": "The world's first automated AI tool discovery platform using the revolutionary .awesome-ai.md standard. Real-time GitHub scanning, automated curation, and live leaderboards for AI tools.",
-    "url": "https://github.com/teodorgross/awesome-ai",
-    "stars": 62,
-    "daily_stars": 5,
-    "language": null,
-    "topics": [],
-    "created_at": "2025-07-31T13:35:38",
-    "updated_at": "2025-08-18T15:22:41"
+    "updated_at": "2025-08-18T18:06:29"
   },
   {
     "name": "omini-kontext",
     "full_name": "Saquib764/omini-kontext",
     "description": "An inference and training framework for multiple image input in Flux Kontext dev",
     "url": "https://github.com/Saquib764/omini-kontext",
-    "stars": 319,
+    "stars": 321,
     "daily_stars": 2,
     "language": "Python",
     "topics": [],
     "created_at": "2025-07-29T23:47:08",
-    "updated_at": "2025-08-18T15:08:35"
-  },
-  {
-    "name": "claude-code-sub-agents",
-    "full_name": "lst97/claude-code-sub-agents",
-    "description": "Collection of specialized AI subagents for Claude Code for personal use.",
-    "url": "https://github.com/lst97/claude-code-sub-agents",
-    "stars": 822,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "claudecode-config",
-      "claudecode-subagents",
-      "sub-agents",
-      "subagents"
-    ],
-    "created_at": "2025-07-28T13:04:48",
-    "updated_at": "2025-08-18T15:00:29"
+    "updated_at": "2025-08-18T19:23:43"
   }
 ]
