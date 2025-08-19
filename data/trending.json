@@ -4,8 +4,8 @@
     "full_name": "NevaMind-AI/memU",
     "description": "MemU is an open-source memory framework for AI companions—high accuracy, fast retrieval, low cost. It acts as an intelligent \"memory folder\" that adapts to different scenarios, from different companions senarios.",
     "url": "https://github.com/NevaMind-AI/memU",
-    "stars": 1242,
-    "daily_stars": 32,
+    "stars": 1276,
+    "daily_stars": 34,
     "language": "Python",
     "topics": [
       "agent",
@@ -26,27 +26,15 @@
       "sandbox"
     ],
     "created_at": "2025-07-29T01:54:40",
-    "updated_at": "2025-08-19T08:45:51"
-  },
-  {
-    "name": "Chronos",
-    "full_name": "Kodezi/Chronos",
-    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
-    "url": "https://github.com/Kodezi/Chronos",
-    "stars": 2435,
-    "daily_stars": 16,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-07-21T07:34:10",
-    "updated_at": "2025-08-19T08:45:54"
+    "updated_at": "2025-08-19T12:42:51"
   },
   {
     "name": "agents",
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 8763,
-    "daily_stars": 15,
+    "stars": 8790,
+    "daily_stars": 27,
     "language": null,
     "topics": [
       "agents",
@@ -59,15 +47,15 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-08-19T08:36:36"
+    "updated_at": "2025-08-19T13:03:57"
   },
   {
     "name": "awesome-claude-code-subagents",
     "full_name": "VoltAgent/awesome-claude-code-subagents",
     "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
     "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-    "stars": 1297,
-    "daily_stars": 11,
+    "stars": 1307,
+    "daily_stars": 10,
     "language": null,
     "topics": [
       "ai-agents",
@@ -77,15 +65,15 @@
       "subagents"
     ],
     "created_at": "2025-07-30T12:31:51",
-    "updated_at": "2025-08-19T08:24:26"
+    "updated_at": "2025-08-19T12:49:42"
   },
   {
     "name": "zcf",
     "full_name": "UfoMiao/zcf",
     "description": "Zero-Config Claude-Code Flow",
     "url": "https://github.com/UfoMiao/zcf",
-    "stars": 689,
-    "daily_stars": 7,
+    "stars": 698,
+    "daily_stars": 9,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -107,97 +95,109 @@
       "zcf"
     ],
     "created_at": "2025-07-30T06:09:00",
-    "updated_at": "2025-08-19T08:47:20"
+    "updated_at": "2025-08-19T12:42:31"
+  },
+  {
+    "name": "Chronos",
+    "full_name": "Kodezi/Chronos",
+    "description": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS.",
+    "url": "https://github.com/Kodezi/Chronos",
+    "stars": 2442,
+    "daily_stars": 7,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-21T07:34:10",
+    "updated_at": "2025-08-19T13:00:02"
   },
   {
     "name": "omini-kontext",
     "full_name": "Saquib764/omini-kontext",
     "description": "An inference and training framework for multiple image input in Flux Kontext dev",
     "url": "https://github.com/Saquib764/omini-kontext",
-    "stars": 333,
-    "daily_stars": 3,
+    "stars": 335,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [],
     "created_at": "2025-07-29T23:47:08",
-    "updated_at": "2025-08-19T08:03:57"
+    "updated_at": "2025-08-19T12:22:51"
   },
   {
-    "name": "awesome-n8n-workflows",
-    "full_name": "felipfr/awesome-n8n-workflows",
-    "description": "A curated collection of awesome n8n workflows for automation, integration, and productivity. Explore ready-to-use JSON workflows for analytics, communication, CRM, e-commerce, finance, HR, marketing, monitoring, security, and more.",
-    "url": "https://github.com/felipfr/awesome-n8n-workflows",
-    "stars": 99,
-    "daily_stars": 3,
+    "name": "claude-code-sub-agents",
+    "full_name": "lst97/claude-code-sub-agents",
+    "description": "Collection of specialized AI subagents for Claude Code for personal use.",
+    "url": "https://github.com/lst97/claude-code-sub-agents",
+    "stars": 827,
+    "daily_stars": 2,
     "language": null,
     "topics": [
-      "automation",
-      "integration",
-      "n8n",
-      "productivity",
+      "ai-agents",
+      "claude-code",
+      "claudecode-config",
+      "claudecode-subagents",
+      "sub-agents",
+      "subagents"
+    ],
+    "created_at": "2025-07-28T13:04:48",
+    "updated_at": "2025-08-19T12:18:13"
+  },
+  {
+    "name": "langchain-graphrag-baml",
+    "full_name": "FareedKhan-dev/langchain-graphrag-baml",
+    "description": "Improving langchain knowledge graphs using baml",
+    "url": "https://github.com/FareedKhan-dev/langchain-graphrag-baml",
+    "stars": 27,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "ai-agents",
+      "langchain",
+      "ollama",
+      "openai",
+      "python",
+      "rag"
+    ],
+    "created_at": "2025-08-03T10:41:37",
+    "updated_at": "2025-08-19T11:35:31"
+  },
+  {
+    "name": "Saturn",
+    "full_name": "xyOz-dev/Saturn",
+    "description": "Your personal swarm of employees, without the salary.",
+    "url": "https://github.com/xyOz-dev/Saturn",
+    "stars": 17,
+    "daily_stars": 2,
+    "language": "C#",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "code",
+      "openai",
+      "openrouter",
+      "software",
+      "software-development",
+      "software-tools"
+    ],
+    "created_at": "2025-08-04T11:53:22",
+    "updated_at": "2025-08-19T12:52:05"
+  },
+  {
+    "name": "Open-Wrecks",
+    "full_name": "Alfredredbird/Open-Wrecks",
+    "description": "An Free And Open-Source ShipWreck Tracker And Viewer",
+    "url": "https://github.com/Alfredredbird/Open-Wrecks",
+    "stars": 3,
+    "daily_stars": 2,
+    "language": "JavaScript",
+    "topics": [
+      "osint",
+      "self-hosted",
+      "shipwreck",
+      "shipwrecks",
       "workflow"
     ],
-    "created_at": "2025-08-07T15:39:26",
-    "updated_at": "2025-08-19T08:00:08"
-  },
-  {
-    "name": "awesome-ai",
-    "full_name": "teodorgross/awesome-ai",
-    "description": "The world's first automated AI tool discovery platform using the revolutionary .awesome-ai.md standard. Real-time GitHub scanning, automated curation, and live leaderboards for AI tools.",
-    "url": "https://github.com/teodorgross/awesome-ai",
-    "stars": 73,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [],
-    "created_at": "2025-07-31T13:35:38",
-    "updated_at": "2025-08-19T08:04:12"
-  },
-  {
-    "name": "resume-sync-action",
-    "full_name": "lapras-inc/resume-sync-action",
-    "description": "GitHubで管理している職務経歴書の内容をLAPRASに同期するGitHub Actions",
-    "url": "https://github.com/lapras-inc/resume-sync-action",
-    "stars": 30,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "github-actions",
-      "lapras"
-    ],
-    "created_at": "2025-07-31T22:19:23",
-    "updated_at": "2025-08-19T06:07:34"
-  },
-  {
-    "name": "MCP-Airflow-API",
-    "full_name": "call518/MCP-Airflow-API",
-    "description": "Model Context Protocol (MCP) server for Apache Airflow API integration. Provides comprehensive tools for managing Airflow clusters including service operations, configuration management, status monitoring, and request tracking.",
-    "url": "https://github.com/call518/MCP-Airflow-API",
-    "stars": 9,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "airflow-api",
-      "airflow-client",
-      "airflow-rest-api",
-      "apache-airflow",
-      "dag-management",
-      "docker",
-      "event-logs",
-      "llm-tools",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "openwebui",
-      "pool-management",
-      "python-package",
-      "smithery",
-      "task-instances",
-      "variable-management",
-      "workflow-orchestration",
-      "xcom"
-    ],
-    "created_at": "2025-08-11T17:15:42",
-    "updated_at": "2025-08-19T08:25:00"
+    "created_at": "2025-08-18T23:09:57",
+    "updated_at": "2025-08-19T11:23:32"
   }
 ]
