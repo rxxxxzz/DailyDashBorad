@@ -4,8 +4,8 @@
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 9134,
-    "daily_stars": 67,
+    "stars": 9228,
+    "daily_stars": 94,
     "language": null,
     "topics": [
       "agents",
@@ -18,15 +18,15 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-08-20T04:43:54"
+    "updated_at": "2025-08-20T08:37:15"
   },
   {
     "name": "memU",
     "full_name": "NevaMind-AI/memU",
     "description": "MemU is an open-source memory framework for AI companions—high accuracy, fast retrieval, low cost. It acts as an intelligent \"memory folder\" that adapts to different scenarios, from different companions senarios.",
     "url": "https://github.com/NevaMind-AI/memU",
-    "stars": 1378,
-    "daily_stars": 21,
+    "stars": 1419,
+    "daily_stars": 41,
     "language": "Python",
     "topics": [
       "agent",
@@ -47,15 +47,44 @@
       "sandbox"
     ],
     "created_at": "2025-07-29T01:54:40",
-    "updated_at": "2025-08-20T04:42:02"
+    "updated_at": "2025-08-20T08:41:40"
+  },
+  {
+    "name": "awesome-AI-toolkit",
+    "full_name": "balavenkatesh3322/awesome-AI-toolkit",
+    "description": "A curated, comprehensive collection of open-source AI tools, frameworks, datasets, courses, and seminal papers.",
+    "url": "https://github.com/balavenkatesh3322/awesome-AI-toolkit",
+    "stars": 18,
+    "daily_stars": 14,
+    "language": null,
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-research-and-development",
+      "ai-tools",
+      "ai-tools-directory",
+      "awesome",
+      "awesome-list",
+      "awesome-readme",
+      "deep-learning",
+      "genai",
+      "generative-ai",
+      "llm",
+      "machine-learning",
+      "mlops",
+      "open-source",
+      "production"
+    ],
+    "created_at": "2025-08-19T14:32:04",
+    "updated_at": "2025-08-20T08:44:54"
   },
   {
     "name": "awesome-claude-code-subagents",
     "full_name": "VoltAgent/awesome-claude-code-subagents",
     "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
     "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-    "stars": 1344,
-    "daily_stars": 5,
+    "stars": 1352,
+    "daily_stars": 8,
     "language": null,
     "topics": [
       "ai-agents",
@@ -65,15 +94,15 @@
       "subagents"
     ],
     "created_at": "2025-07-30T12:31:51",
-    "updated_at": "2025-08-20T04:36:32"
+    "updated_at": "2025-08-20T08:11:17"
   },
   {
     "name": "zcf",
     "full_name": "UfoMiao/zcf",
     "description": "Zero-Config Claude-Code Flow",
     "url": "https://github.com/UfoMiao/zcf",
-    "stars": 711,
-    "daily_stars": 5,
+    "stars": 717,
+    "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -95,125 +124,71 @@
       "zcf"
     ],
     "created_at": "2025-07-30T06:09:00",
-    "updated_at": "2025-08-20T04:44:11"
+    "updated_at": "2025-08-20T08:12:32"
   },
   {
-    "name": "awesome-private-ai",
-    "full_name": "tdi/awesome-private-ai",
-    "description": "Curated list of tools, frameworks, and resources for running, building, and deploying AI privately — on-prem, air-gapped, or self-hosted.",
-    "url": "https://github.com/tdi/awesome-private-ai",
-    "stars": 122,
-    "daily_stars": 2,
+    "name": "awesome-n8n-workflows",
+    "full_name": "felipfr/awesome-n8n-workflows",
+    "description": "A curated collection of awesome n8n workflows for automation, integration, and productivity. Explore ready-to-use JSON workflows for analytics, communication, CRM, e-commerce, finance, HR, marketing, monitoring, security, and more.",
+    "url": "https://github.com/felipfr/awesome-n8n-workflows",
+    "stars": 109,
+    "daily_stars": 4,
+    "language": null,
+    "topics": [
+      "automation",
+      "integration",
+      "n8n",
+      "productivity",
+      "workflow"
+    ],
+    "created_at": "2025-08-07T15:39:26",
+    "updated_at": "2025-08-20T08:42:38"
+  },
+  {
+    "name": "claude-code-sub-agents",
+    "full_name": "lst97/claude-code-sub-agents",
+    "description": "Collection of specialized AI subagents for Claude Code for personal use.",
+    "url": "https://github.com/lst97/claude-code-sub-agents",
+    "stars": 833,
+    "daily_stars": 3,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "claudecode-config",
+      "claudecode-subagents",
+      "sub-agents",
+      "subagents"
+    ],
+    "created_at": "2025-07-28T13:04:48",
+    "updated_at": "2025-08-20T07:09:48"
+  },
+  {
+    "name": "claude-agents",
+    "full_name": "Kacep91/claude-agents",
+    "description": "A small collection of Claude agents with my workflow",
+    "url": "https://github.com/Kacep91/claude-agents",
+    "stars": 3,
+    "daily_stars": 3,
     "language": null,
     "topics": [
       "ai",
-      "ai-agents",
-      "awesome",
-      "awesome-list",
-      "llm",
-      "self-hosted"
+      "claude",
+      "claudeagent",
+      "claudecode",
+      "claudecode-subagents",
+      "workflow"
     ],
-    "created_at": "2025-08-13T13:24:53",
-    "updated_at": "2025-08-20T04:36:16"
-  },
-  {
-    "name": "MCP-Checklists",
-    "full_name": "MCP-Manager/MCP-Checklists",
-    "description": null,
-    "url": "https://github.com/MCP-Manager/MCP-Checklists",
-    "stars": 65,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "agentic-ai",
-      "agents",
-      "ai-agent",
-      "ai-agents",
-      "cybersecurity",
-      "mcp",
-      "mcp-client",
-      "mcp-client-security",
-      "mcp-clients",
-      "mcp-host",
-      "mcp-server",
-      "mcp-servers",
-      "model-context-protocol",
-      "model-context-protocol-client",
-      "model-context-protocol-servers"
-    ],
-    "created_at": "2025-07-25T18:49:30",
-    "updated_at": "2025-08-20T03:47:45"
-  },
-  {
-    "name": "agentic-signal",
-    "full_name": "code-forge-temple/agentic-signal",
-    "description": "🤖 Visual AI agent workflow automation platform with local LLM integration - build intelligent workflows using drag-and-drop interface, no cloud dependencies required.",
-    "url": "https://github.com/code-forge-temple/agentic-signal",
-    "stars": 13,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "ai-automation",
-      "gemma",
-      "gemma3n",
-      "llama",
-      "local-ai",
-      "local-llm",
-      "no-code",
-      "ollama",
-      "open-source",
-      "privacy-first",
-      "react-flow",
-      "typescript",
-      "visual-ai",
-      "visual-programming",
-      "workflow-automation",
-      "workflow-builder"
-    ],
-    "created_at": "2025-08-15T12:01:58",
-    "updated_at": "2025-08-20T04:11:02"
-  },
-  {
-    "name": "aiswarm",
-    "full_name": "mrlarson2007/aiswarm",
-    "description": "AI Swarm Agent Launcher - A powerful CLI tool for launching and coordinating AI agents with specialized personas using git worktrees",
-    "url": "https://github.com/mrlarson2007/aiswarm",
-    "stars": 6,
-    "daily_stars": 2,
-    "language": "C#",
-    "topics": [
-      "ai-agents",
-      "automation",
-      "cli-tool",
-      "csharp",
-      "development-tools",
-      "dotnet",
-      "gemini",
-      "git-worktrees"
-    ],
-    "created_at": "2025-07-30T20:39:03",
-    "updated_at": "2025-08-20T04:03:30"
-  },
-  {
-    "name": "swift-ai-agent-demo",
-    "full_name": "banghuazhao/swift-ai-agent-demo",
-    "description": "🤖 Native iOS implementation of the ReAct (Reasoning + Acting) AI agent pattern with SwiftUI. Watch AI think, act, and solve problems step-by-step using OpenAI's GPT models.",
-    "url": "https://github.com/banghuazhao/swift-ai-agent-demo",
-    "stars": 7,
-    "daily_stars": 1,
-    "language": "Swift",
-    "topics": [],
-    "created_at": "2025-07-26T02:28:09",
-    "updated_at": "2025-08-20T04:13:12"
+    "created_at": "2025-08-08T08:49:06",
+    "updated_at": "2025-08-20T08:13:24"
   },
   {
     "name": "hey-aura",
     "full_name": "Huanshere/hey-aura",
     "description": "All-in-One AI Voice Assistant on your Windows/Mac",
     "url": "https://github.com/Huanshere/hey-aura",
-    "stars": 8,
-    "daily_stars": 1,
+    "stars": 10,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -222,6 +197,18 @@
       "voice-assistant"
     ],
     "created_at": "2025-08-18T17:29:35",
-    "updated_at": "2025-08-20T03:03:29"
+    "updated_at": "2025-08-20T06:40:25"
+  },
+  {
+    "name": "omini-kontext",
+    "full_name": "Saquib764/omini-kontext",
+    "description": "An inference and training framework for multiple image input in Flux Kontext dev",
+    "url": "https://github.com/Saquib764/omini-kontext",
+    "stars": 341,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-07-29T23:47:08",
+    "updated_at": "2025-08-20T07:14:27"
   }
 ]
