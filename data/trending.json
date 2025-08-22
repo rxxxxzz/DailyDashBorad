@@ -1,11 +1,30 @@
 [
   {
+    "name": "ccpm",
+    "full_name": "automazeio/ccpm",
+    "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
+    "url": "https://github.com/automazeio/ccpm",
+    "stars": 1274,
+    "daily_stars": 16,
+    "language": "Shell",
+    "topics": [
+      "ai-agents",
+      "ai-coding",
+      "claude",
+      "claude-code",
+      "project-management",
+      "vibe-coding"
+    ],
+    "created_at": "2025-08-18T23:20:08",
+    "updated_at": "2025-08-22T20:38:01"
+  },
+  {
     "name": "agents",
     "full_name": "wshobson/agents",
     "description": "A collection of production-ready subagents for Claude Code",
     "url": "https://github.com/wshobson/agents",
-    "stars": 9828,
-    "daily_stars": 28,
+    "stars": 9842,
+    "daily_stars": 14,
     "language": null,
     "topics": [
       "agents",
@@ -18,63 +37,15 @@
       "subagents"
     ],
     "created_at": "2025-07-24T23:28:14",
-    "updated_at": "2025-08-22T16:40:35"
-  },
-  {
-    "name": "ccpm",
-    "full_name": "automazeio/ccpm",
-    "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
-    "url": "https://github.com/automazeio/ccpm",
-    "stars": 1258,
-    "daily_stars": 23,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
-      "ai-coding",
-      "claude",
-      "claude-code",
-      "project-management",
-      "vibe-coding"
-    ],
-    "created_at": "2025-08-18T23:20:08",
-    "updated_at": "2025-08-22T16:37:36"
-  },
-  {
-    "name": "memU",
-    "full_name": "NevaMind-AI/memU",
-    "description": "MemU is an open-source memory framework for AI companions—high accuracy, fast retrieval, low cost. It acts as an intelligent \"memory folder\" that adapts to different scenarios, from different companions senarios.",
-    "url": "https://github.com/NevaMind-AI/memU",
-    "stars": 1663,
-    "daily_stars": 13,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "agentic-framework",
-      "agentic-workflow",
-      "ai",
-      "ai-agents",
-      "ai-companion",
-      "ai-roleplay",
-      "benchmark",
-      "framework",
-      "llm",
-      "mcp",
-      "memory",
-      "open-source",
-      "python",
-      "sandbox"
-    ],
-    "created_at": "2025-07-29T01:54:40",
-    "updated_at": "2025-08-22T16:42:46"
+    "updated_at": "2025-08-22T20:00:11"
   },
   {
     "name": "awesome-AI-toolkit",
     "full_name": "balavenkatesh3322/awesome-AI-toolkit",
     "description": "A curated, comprehensive collection of open-source AI tools, frameworks, datasets, courses, and seminal papers.",
     "url": "https://github.com/balavenkatesh3322/awesome-AI-toolkit",
-    "stars": 59,
-    "daily_stars": 12,
+    "stars": 68,
+    "daily_stars": 9,
     "language": null,
     "topics": [
       "ai",
@@ -95,15 +66,15 @@
       "production"
     ],
     "created_at": "2025-08-19T14:32:04",
-    "updated_at": "2025-08-22T16:15:21"
+    "updated_at": "2025-08-22T19:46:42"
   },
   {
     "name": "awesome-claude-code-subagents",
     "full_name": "VoltAgent/awesome-claude-code-subagents",
     "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
     "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-    "stars": 1477,
-    "daily_stars": 10,
+    "stars": 1485,
+    "daily_stars": 8,
     "language": null,
     "topics": [
       "ai-agents",
@@ -113,26 +84,55 @@
       "subagents"
     ],
     "created_at": "2025-07-30T12:31:51",
-    "updated_at": "2025-08-22T16:30:10"
+    "updated_at": "2025-08-22T20:11:35"
+  },
+  {
+    "name": "memU",
+    "full_name": "NevaMind-AI/memU",
+    "description": "MemU is an open-source memory framework for AI companions—high accuracy, fast retrieval, low cost. It acts as an intelligent \"memory folder\" that adapts to different scenarios, from different companions senarios.",
+    "url": "https://github.com/NevaMind-AI/memU",
+    "stars": 1669,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "ai-agents",
+      "ai-companion",
+      "ai-roleplay",
+      "benchmark",
+      "framework",
+      "llm",
+      "mcp",
+      "memory",
+      "open-source",
+      "python",
+      "sandbox"
+    ],
+    "created_at": "2025-07-29T01:54:40",
+    "updated_at": "2025-08-22T20:26:14"
   },
   {
     "name": "best-llm-finder-pipeline",
     "full_name": "FareedKhan-dev/best-llm-finder-pipeline",
     "description": "Agentic RAG, Multi-Agent Systems, and Vision Reasoning are three pipelines to find the perfect LLM",
     "url": "https://github.com/FareedKhan-dev/best-llm-finder-pipeline",
-    "stars": 12,
+    "stars": 16,
     "daily_stars": 4,
     "language": "Jupyter Notebook",
     "topics": [],
     "created_at": "2025-08-20T16:26:54",
-    "updated_at": "2025-08-22T16:32:27"
+    "updated_at": "2025-08-22T19:29:00"
   },
   {
     "name": "MCP-Airflow-API",
     "full_name": "call518/MCP-Airflow-API",
     "description": "Model Context Protocol (MCP) server for Apache Airflow API integration. Provides comprehensive tools for managing Airflow clusters including service operations, configuration management, status monitoring, and request tracking.",
     "url": "https://github.com/call518/MCP-Airflow-API",
-    "stars": 21,
+    "stars": 25,
     "daily_stars": 4,
     "language": "Python",
     "topics": [
@@ -158,73 +158,61 @@
       "xcom"
     ],
     "created_at": "2025-08-11T17:15:42",
-    "updated_at": "2025-08-22T15:15:18"
+    "updated_at": "2025-08-22T19:32:00"
   },
   {
-    "name": "claude-code-sub-agents",
-    "full_name": "lst97/claude-code-sub-agents",
-    "description": "Collection of specialized AI subagents for Claude Code for personal use.",
-    "url": "https://github.com/lst97/claude-code-sub-agents",
-    "stars": 853,
-    "daily_stars": 3,
+    "name": "sentiment-app",
+    "full_name": "cs-joy/sentiment-app",
+    "description": "Movie Review Sentiment Analyzer - Through Django Framework",
+    "url": "https://github.com/cs-joy/sentiment-app",
+    "stars": 4,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "deep-learning",
+      "logistic-regression",
+      "lstm",
+      "machine-learning",
+      "nlp",
+      "sentiment-analysis"
+    ],
+    "created_at": "2025-08-13T18:25:18",
+    "updated_at": "2025-08-22T19:19:09"
+  },
+  {
+    "name": "claude-agents",
+    "full_name": "Kacep91/claude-agents",
+    "description": "A small collection of Claude agents with my workflow",
+    "url": "https://github.com/Kacep91/claude-agents",
+    "stars": 13,
+    "daily_stars": 2,
     "language": null,
     "topics": [
-      "ai-agents",
-      "claude-code",
-      "claudecode-config",
-      "claudecode-subagents",
-      "sub-agents",
-      "subagents"
-    ],
-    "created_at": "2025-07-28T13:04:48",
-    "updated_at": "2025-08-22T16:39:45"
-  },
-  {
-    "name": "claude-007-agents",
-    "full_name": "avivl/claude-007-agents",
-    "description": " 🤖 A unified AI agent orchestration system featuring 75+ specialized agents across 14 categories for modern software development. Built with advanced coordination intelligence, resilience engineering, and structured logging   capabilities.",
-    "url": "https://github.com/avivl/claude-007-agents",
-    "stars": 107,
-    "daily_stars": 3,
-    "language": "Shell",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "ai-agents",
-      "claude",
-      "claude-code"
-    ],
-    "created_at": "2025-07-30T13:20:38",
-    "updated_at": "2025-08-22T16:34:38"
-  },
-  {
-    "name": "zcf",
-    "full_name": "UfoMiao/zcf",
-    "description": "Zero-Config Claude-Code Flow",
-    "url": "https://github.com/UfoMiao/zcf",
-    "stars": 763,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
       "ai",
-      "ai-agent",
-      "ccr",
       "claude",
-      "claude-4",
-      "claude-ai",
-      "claude-api",
-      "claude-code",
-      "cli",
-      "llm",
-      "llm-code",
-      "nodejs",
-      "prompt",
-      "typescript",
-      "workflow",
-      "zcf"
+      "claudeagent",
+      "claudecode",
+      "claudecode-subagents",
+      "workflow"
     ],
-    "created_at": "2025-07-30T06:09:00",
-    "updated_at": "2025-08-22T16:13:08"
+    "created_at": "2025-08-08T08:49:06",
+    "updated_at": "2025-08-22T20:24:59"
+  },
+  {
+    "name": "jaf-py",
+    "full_name": "xynehq/jaf-py",
+    "description": "Functional Python agent framework with MCP support, enterprise security, immutable state, and production-ready observability for building scalable AI   systems.",
+    "url": "https://github.com/xynehq/jaf-py",
+    "stars": 7,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "functional-programming",
+      "mcp",
+      "python"
+    ],
+    "created_at": "2025-08-08T10:04:28",
+    "updated_at": "2025-08-22T19:37:03"
   }
 ]
