@@ -4,8 +4,8 @@
     "full_name": "automazeio/ccpm",
     "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
     "url": "https://github.com/automazeio/ccpm",
-    "stars": 1771,
-    "daily_stars": 96,
+    "stars": 1818,
+    "daily_stars": 47,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -16,15 +16,15 @@
       "vibe-coding"
     ],
     "created_at": "2025-08-18T23:20:08",
-    "updated_at": "2025-08-24T16:40:00"
+    "updated_at": "2025-08-24T20:28:35"
   },
   {
     "name": "awesome-claude-code-subagents",
     "full_name": "VoltAgent/awesome-claude-code-subagents",
     "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
     "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-    "stars": 1556,
-    "daily_stars": 13,
+    "stars": 1562,
+    "daily_stars": 6,
     "language": null,
     "topics": [
       "ai-agents",
@@ -34,44 +34,61 @@
       "subagents"
     ],
     "created_at": "2025-07-30T12:31:51",
-    "updated_at": "2025-08-24T16:40:00"
+    "updated_at": "2025-08-24T20:09:16"
   },
   {
-    "name": "memU",
-    "full_name": "NevaMind-AI/memU",
-    "description": "MemU is an open-source memory framework for AI companions—high accuracy, fast retrieval, low cost. It acts as an intelligent \"memory folder\" that adapts to different scenarios, from different companions senarios.",
-    "url": "https://github.com/NevaMind-AI/memU",
-    "stars": 1738,
+    "name": "agentstate",
+    "full_name": "ayushmi/agentstate",
+    "description": "Cloud-native, durable state for AI agents: WAL+snapshots, watch streams, idempotency, leases, TLS/mTLS, capability tokens, Python/TS SDKs, Helm.",
+    "url": "https://github.com/ayushmi/agentstate",
+    "stars": 33,
     "daily_stars": 5,
     "language": "Python",
     "topics": [
-      "agent",
-      "agentic-ai",
-      "agentic-framework",
-      "agentic-workflow",
-      "ai",
       "ai-agents",
-      "ai-companion",
-      "ai-roleplay",
-      "benchmark",
-      "framework",
-      "llm",
-      "mcp",
-      "memory",
-      "open-source",
-      "python",
-      "sandbox"
+      "change-data-capture",
+      "crdt",
+      "database",
+      "grafana",
+      "grpc",
+      "helm-chart",
+      "kubernetes",
+      "observability",
+      "persistence",
+      "prometheus",
+      "rust",
+      "sdk",
+      "vector-search"
     ],
-    "created_at": "2025-07-29T01:54:40",
-    "updated_at": "2025-08-24T15:03:58"
+    "created_at": "2025-08-21T13:05:35",
+    "updated_at": "2025-08-24T19:31:58"
+  },
+  {
+    "name": "claude-code-sub-agents",
+    "full_name": "lst97/claude-code-sub-agents",
+    "description": "Collection of specialized AI subagents for Claude Code for personal use.",
+    "url": "https://github.com/lst97/claude-code-sub-agents",
+    "stars": 872,
+    "daily_stars": 3,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "claudecode-config",
+      "claudecode-subagents",
+      "sub-agents",
+      "subagents"
+    ],
+    "created_at": "2025-07-28T13:04:48",
+    "updated_at": "2025-08-24T18:45:01"
   },
   {
     "name": "best-of-ai",
     "full_name": "best-of-ai/best-of-ai",
     "description": "A curated list of best ai tools",
     "url": "https://github.com/best-of-ai/best-of-ai",
-    "stars": 241,
-    "daily_stars": 5,
+    "stars": 244,
+    "daily_stars": 3,
     "language": null,
     "topics": [
       "ai",
@@ -86,102 +103,15 @@
       "best-of-ai"
     ],
     "created_at": "2025-08-14T08:44:13",
-    "updated_at": "2025-08-24T16:01:53"
-  },
-  {
-    "name": "claude-007-agents",
-    "full_name": "avivl/claude-007-agents",
-    "description": " 🤖 A unified AI agent orchestration system featuring 75+ specialized agents across 14 categories for modern software development. Built with advanced coordination intelligence, resilience engineering, and structured logging   capabilities.",
-    "url": "https://github.com/avivl/claude-007-agents",
-    "stars": 119,
-    "daily_stars": 4,
-    "language": "Shell",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "ai-agents",
-      "claude",
-      "claude-code"
-    ],
-    "created_at": "2025-07-30T13:20:38",
-    "updated_at": "2025-08-24T15:53:11"
-  },
-  {
-    "name": "claude-code-sub-agents",
-    "full_name": "lst97/claude-code-sub-agents",
-    "description": "Collection of specialized AI subagents for Claude Code for personal use.",
-    "url": "https://github.com/lst97/claude-code-sub-agents",
-    "stars": 869,
-    "daily_stars": 3,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "claudecode-config",
-      "claudecode-subagents",
-      "sub-agents",
-      "subagents"
-    ],
-    "created_at": "2025-07-28T13:04:48",
-    "updated_at": "2025-08-24T16:43:28"
-  },
-  {
-    "name": "InfiGUI-G1",
-    "full_name": "InfiXAI/InfiGUI-G1",
-    "description": "Official repository for InfiGUI-G1. We introduce Adaptive Exploration Policy Optimization (AEPO) to overcome semantic alignment bottlenecks in GUI agents through efficient, guided exploration.",
-    "url": "https://github.com/InfiXAI/InfiGUI-G1",
-    "stars": 49,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "computer-vision",
-      "deep-learning",
-      "gui-agent",
-      "gui-grounding",
-      "large-language-models",
-      "multimodal-llm",
-      "reinforcement-learning"
-    ],
-    "created_at": "2025-08-07T06:45:54",
-    "updated_at": "2025-08-24T16:15:17"
-  },
-  {
-    "name": "zcf",
-    "full_name": "UfoMiao/zcf",
-    "description": "Zero-Config Claude-Code Flow",
-    "url": "https://github.com/UfoMiao/zcf",
-    "stars": 798,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agent",
-      "ccr",
-      "claude",
-      "claude-4",
-      "claude-ai",
-      "claude-api",
-      "claude-code",
-      "cli",
-      "llm",
-      "llm-code",
-      "nodejs",
-      "prompt",
-      "typescript",
-      "workflow",
-      "zcf"
-    ],
-    "created_at": "2025-07-30T06:09:00",
-    "updated_at": "2025-08-24T15:40:59"
+    "updated_at": "2025-08-24T20:33:57"
   },
   {
     "name": "awesome-AI-toolkit",
     "full_name": "balavenkatesh3322/awesome-AI-toolkit",
     "description": "A curated, comprehensive collection of open-source AI tools, frameworks, datasets, courses, and seminal papers.",
     "url": "https://github.com/balavenkatesh3322/awesome-AI-toolkit",
-    "stars": 104,
-    "daily_stars": 2,
+    "stars": 107,
+    "daily_stars": 3,
     "language": null,
     "topics": [
       "ai",
@@ -202,24 +132,79 @@
       "production"
     ],
     "created_at": "2025-08-19T14:32:04",
-    "updated_at": "2025-08-24T16:06:57"
+    "updated_at": "2025-08-24T19:01:17"
   },
   {
-    "name": "awesome-n8n-workflows",
-    "full_name": "felipfr/awesome-n8n-workflows",
-    "description": "A curated collection of awesome n8n workflows for automation, integration, and productivity. Explore ready-to-use JSON workflows for analytics, communication, CRM, e-commerce, finance, HR, marketing, monitoring, security, and more.",
-    "url": "https://github.com/felipfr/awesome-n8n-workflows",
-    "stars": 150,
-    "daily_stars": 2,
-    "language": null,
+    "name": "InfiGUI-G1",
+    "full_name": "InfiXAI/InfiGUI-G1",
+    "description": "Official repository for InfiGUI-G1. We introduce Adaptive Exploration Policy Optimization (AEPO) to overcome semantic alignment bottlenecks in GUI agents through efficient, guided exploration.",
+    "url": "https://github.com/InfiXAI/InfiGUI-G1",
+    "stars": 52,
+    "daily_stars": 3,
+    "language": "Python",
     "topics": [
-      "automation",
-      "integration",
-      "n8n",
-      "productivity",
-      "workflow"
+      "computer-vision",
+      "deep-learning",
+      "gui-agent",
+      "gui-grounding",
+      "large-language-models",
+      "multimodal-llm",
+      "reinforcement-learning"
     ],
-    "created_at": "2025-08-07T15:39:26",
-    "updated_at": "2025-08-24T15:27:05"
+    "created_at": "2025-08-07T06:45:54",
+    "updated_at": "2025-08-24T18:43:46"
+  },
+  {
+    "name": "gamestudio-subagents",
+    "full_name": "pamirtuna/gamestudio-subagents",
+    "description": "AI-Powered Game Development Team in Your Terminal",
+    "url": "https://github.com/pamirtuna/gamestudio-subagents",
+    "stars": 77,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "aiworkflow",
+      "game-design",
+      "gamedev",
+      "gamedevelopment",
+      "godot-engine",
+      "unity",
+      "unreal-engine"
+    ],
+    "created_at": "2025-08-15T22:20:42",
+    "updated_at": "2025-08-24T18:50:03"
+  },
+  {
+    "name": "justllms",
+    "full_name": "just-llms/justllms",
+    "description": "Production-ready Python library for multi-provider LLM orchestration",
+    "url": "https://github.com/just-llms/justllms",
+    "stars": 16,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-08-08T04:18:48",
+    "updated_at": "2025-08-24T18:12:40"
+  },
+  {
+    "name": "CryptoMarket_Regime_Classifier",
+    "full_name": "akash-kumar5/CryptoMarket_Regime_Classifier",
+    "description": "CryptoMarket Regime Classifier is a machine learning framework that detects market regimes (Trend, Range, Squeeze, etc.) in crypto markets using multi-timeframe data and Hidden Markov Models. The project provides plug-and-play labeled datasets and trained models (HMM + LSTM) for downstream strategy development, position sizing, and risk management.",
+    "url": "https://github.com/akash-kumar5/CryptoMarket_Regime_Classifier",
+    "stars": 6,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "binance-api",
+      "hidden-markov-model",
+      "hyperparameter-tuning",
+      "lstm",
+      "machine-learning",
+      "pandas",
+      "python"
+    ],
+    "created_at": "2025-08-19T15:22:25",
+    "updated_at": "2025-08-24T17:36:40"
   }
 ]
