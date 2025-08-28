@@ -1,11 +1,30 @@
 [
   {
+    "name": "ccpm",
+    "full_name": "automazeio/ccpm",
+    "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
+    "url": "https://github.com/automazeio/ccpm",
+    "stars": 3145,
+    "daily_stars": 17,
+    "language": "Shell",
+    "topics": [
+      "ai-agents",
+      "ai-coding",
+      "claude",
+      "claude-code",
+      "project-management",
+      "vibe-coding"
+    ],
+    "created_at": "2025-08-18T23:20:08",
+    "updated_at": "2025-08-28T16:37:59"
+  },
+  {
     "name": "nanocoder",
     "full_name": "Mote-Software/nanocoder",
     "description": "A local-first coding agent running in your terminal ⚒",
     "url": "https://github.com/Mote-Software/nanocoder",
-    "stars": 151,
-    "daily_stars": 24,
+    "stars": 166,
+    "daily_stars": 15,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -19,34 +38,15 @@
       "openrouter"
     ],
     "created_at": "2025-07-30T12:54:15",
-    "updated_at": "2025-08-28T13:04:26"
-  },
-  {
-    "name": "ccpm",
-    "full_name": "automazeio/ccpm",
-    "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
-    "url": "https://github.com/automazeio/ccpm",
-    "stars": 3128,
-    "daily_stars": 16,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
-      "ai-coding",
-      "claude",
-      "claude-code",
-      "project-management",
-      "vibe-coding"
-    ],
-    "created_at": "2025-08-18T23:20:08",
-    "updated_at": "2025-08-28T12:54:39"
+    "updated_at": "2025-08-28T16:37:10"
   },
   {
     "name": "awesome-claude-code-subagents",
     "full_name": "VoltAgent/awesome-claude-code-subagents",
     "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
     "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-    "stars": 1762,
-    "daily_stars": 11,
+    "stars": 1770,
+    "daily_stars": 8,
     "language": null,
     "topics": [
       "ai-agents",
@@ -56,15 +56,34 @@
       "subagents"
     ],
     "created_at": "2025-07-30T12:31:51",
-    "updated_at": "2025-08-28T12:16:30"
+    "updated_at": "2025-08-28T16:14:11"
+  },
+  {
+    "name": "actions-up",
+    "full_name": "azat-io/actions-up",
+    "description": "🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA pinning",
+    "url": "https://github.com/azat-io/actions-up",
+    "stars": 25,
+    "daily_stars": 8,
+    "language": "TypeScript",
+    "topics": [
+      "actions",
+      "cli",
+      "dependencies",
+      "github-actions",
+      "security",
+      "workflow"
+    ],
+    "created_at": "2025-08-26T21:52:22",
+    "updated_at": "2025-08-28T16:29:02"
   },
   {
     "name": "zcf",
     "full_name": "UfoMiao/zcf",
     "description": "Zero-Config Claude-Code Flow",
     "url": "https://github.com/UfoMiao/zcf",
-    "stars": 946,
-    "daily_stars": 8,
+    "stars": 953,
+    "daily_stars": 7,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -86,116 +105,118 @@
       "zcf"
     ],
     "created_at": "2025-07-30T06:09:00",
-    "updated_at": "2025-08-28T12:17:30"
+    "updated_at": "2025-08-28T15:27:28"
   },
   {
-    "name": "awesome-n8n-workflows",
-    "full_name": "felipfr/awesome-n8n-workflows",
-    "description": "A curated collection of awesome n8n workflows for automation, integration, and productivity. Explore ready-to-use JSON workflows for analytics, communication, CRM, e-commerce, finance, HR, marketing, monitoring, security, and more.",
-    "url": "https://github.com/felipfr/awesome-n8n-workflows",
-    "stars": 195,
-    "daily_stars": 5,
+    "name": "AgentCheck",
+    "full_name": "devlyai/AgentCheck",
+    "description": "Local AI-powered code review agents for Claude Code",
+    "url": "https://github.com/devlyai/AgentCheck",
+    "stars": 12,
+    "daily_stars": 6,
     "language": null,
     "topics": [
-      "automation",
-      "integration",
-      "n8n",
-      "productivity",
-      "workflow"
-    ],
-    "created_at": "2025-08-07T15:39:26",
-    "updated_at": "2025-08-28T13:00:01"
-  },
-  {
-    "name": "InfiGUI-G1",
-    "full_name": "InfiXAI/InfiGUI-G1",
-    "description": "Official repository for InfiGUI-G1. We introduce Adaptive Exploration Policy Optimization (AEPO) to overcome semantic alignment bottlenecks in GUI agents through efficient, guided exploration.",
-    "url": "https://github.com/InfiXAI/InfiGUI-G1",
-    "stars": 87,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [
-      "computer-vision",
-      "deep-learning",
-      "gui-agent",
-      "gui-grounding",
-      "large-language-models",
-      "multimodal-llm",
-      "reinforcement-learning"
-    ],
-    "created_at": "2025-08-07T06:45:54",
-    "updated_at": "2025-08-28T12:41:49"
-  },
-  {
-    "name": "maverick-mcp",
-    "full_name": "wshobson/maverick-mcp",
-    "description": "MaverickMCP - Personal Stock Analysis MCP Server",
-    "url": "https://github.com/wshobson/maverick-mcp",
-    "stars": 19,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-08-24T15:24:20",
-    "updated_at": "2025-08-28T11:50:18"
-  },
-  {
-    "name": "best-of-ai",
-    "full_name": "best-of-ai/best-of-ai",
-    "description": "A curated list of best ai tools",
-    "url": "https://github.com/best-of-ai/best-of-ai",
-    "stars": 279,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
+      "adlc",
+      "agents",
       "ai",
       "ai-agents",
-      "ai-assistant",
-      "ai-chatbot",
-      "ai-engineering",
-      "ai-tools",
-      "ai-tools-directory",
-      "awesome",
-      "awesome-list",
-      "best-of-ai"
+      "automation",
+      "claude",
+      "code-quality",
+      "code-review",
+      "context-engineering",
+      "productivity",
+      "subagents",
+      "workflows"
     ],
-    "created_at": "2025-08-14T08:44:13",
-    "updated_at": "2025-08-28T11:41:02"
+    "created_at": "2025-08-27T17:04:55",
+    "updated_at": "2025-08-28T16:12:18"
   },
   {
-    "name": "AgentGuard",
-    "full_name": "dipampaul17/AgentGuard",
-    "description": "Real-time guardrail that shows token spend & kills runaway LLM/agent loops.",
-    "url": "https://github.com/dipampaul17/AgentGuard",
-    "stars": 142,
+    "name": "utcp-agent",
+    "full_name": "universal-tool-calling-protocol/utcp-agent",
+    "description": "The easiest way to build an agent that interacts with any tool or native endpoint",
+    "url": "https://github.com/universal-tool-calling-protocol/utcp-agent",
+    "stars": 4,
     "daily_stars": 2,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "anthropic-claude",
-      "cost-monitoring",
-      "debugging",
-      "guardrails",
-      "llm",
-      "observability",
-      "openai",
-      "openai-api",
-      "prompt-engineering",
-      "token-usage"
-    ],
-    "created_at": "2025-07-31T02:46:39",
-    "updated_at": "2025-08-28T12:07:24"
-  },
-  {
-    "name": "MathFlow",
-    "full_name": "Nonanti/MathFlow",
-    "description": "C# math expression library with symbolic computation support",
-    "url": "https://github.com/Nonanti/MathFlow",
-    "stars": 21,
-    "daily_stars": 2,
-    "language": "C#",
+    "language": "Python",
     "topics": [],
-    "created_at": "2025-08-27T10:34:14",
-    "updated_at": "2025-08-28T11:18:09"
+    "created_at": "2025-08-26T14:45:22",
+    "updated_at": "2025-08-28T13:20:12"
+  },
+  {
+    "name": "PaddleOCR-ncnn-CPP",
+    "full_name": "Avafly/PaddleOCR-ncnn-CPP",
+    "description": "C++ implementations of PP-OCRv3 and PP-OCRv5 using ncnn for inference.",
+    "url": "https://github.com/Avafly/PaddleOCR-ncnn-CPP",
+    "stars": 7,
+    "daily_stars": 2,
+    "language": "C++",
+    "topics": [
+      "cpp",
+      "crnn",
+      "db",
+      "deep-learning",
+      "ncnn",
+      "ocr"
+    ],
+    "created_at": "2025-08-23T03:07:58",
+    "updated_at": "2025-08-28T16:18:02"
+  },
+  {
+    "name": "LangExtract-Gemma-Structured-Extraction",
+    "full_name": "kennethleungty/LangExtract-Gemma-Structured-Extraction",
+    "description": "Using LangExtract and Gemma 3 for structured information extraction from unstructured text in insurance polices",
+    "url": "https://github.com/kennethleungty/LangExtract-Gemma-Structured-Extraction",
+    "stars": 8,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "data-science",
+      "deep-learning",
+      "gemini",
+      "gemma",
+      "gemma3-4b",
+      "google",
+      "langextract",
+      "large-language-models",
+      "llm",
+      "llms",
+      "machine-learning",
+      "openai",
+      "structured-data",
+      "unstructured-data"
+    ],
+    "created_at": "2025-08-15T15:48:03",
+    "updated_at": "2025-08-28T16:26:12"
+  },
+  {
+    "name": "keyscan",
+    "full_name": "kevinMEH/keyscan",
+    "description": "Keyscan: AI-powered API key scanner for GitHub Gists.",
+    "url": "https://github.com/kevinMEH/keyscan",
+    "stars": 4,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "api",
+      "artificial-intelligence",
+      "gist",
+      "gists",
+      "github",
+      "key",
+      "keyscan",
+      "llama",
+      "llm",
+      "ollama",
+      "python",
+      "qwen",
+      "scanner",
+      "web-scraping"
+    ],
+    "created_at": "2025-08-11T03:31:33",
+    "updated_at": "2025-08-28T14:39:29"
   }
 ]
