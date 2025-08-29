@@ -4,8 +4,8 @@
     "full_name": "automazeio/ccpm",
     "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
     "url": "https://github.com/automazeio/ccpm",
-    "stars": 3200,
-    "daily_stars": 16,
+    "stars": 3212,
+    "daily_stars": 12,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -16,14 +16,109 @@
       "vibe-coding"
     ],
     "created_at": "2025-08-18T23:20:08",
-    "updated_at": "2025-08-29T08:44:10"
+    "updated_at": "2025-08-29T11:55:40"
+  },
+  {
+    "name": "actions-up",
+    "full_name": "azat-io/actions-up",
+    "description": "🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA pinning",
+    "url": "https://github.com/azat-io/actions-up",
+    "stars": 51,
+    "daily_stars": 6,
+    "language": "TypeScript",
+    "topics": [
+      "actions",
+      "cli",
+      "dependencies",
+      "github-actions",
+      "security",
+      "workflow"
+    ],
+    "created_at": "2025-08-26T21:52:22",
+    "updated_at": "2025-08-29T13:01:39"
+  },
+  {
+    "name": "awesome-n8n-workflows",
+    "full_name": "felipfr/awesome-n8n-workflows",
+    "description": "A curated collection of awesome n8n workflows for automation, integration, and productivity. Explore ready-to-use JSON workflows for analytics, communication, CRM, e-commerce, finance, HR, marketing, monitoring, security, and more.",
+    "url": "https://github.com/felipfr/awesome-n8n-workflows",
+    "stars": 203,
+    "daily_stars": 5,
+    "language": null,
+    "topics": [
+      "automation",
+      "integration",
+      "n8n",
+      "productivity",
+      "workflow"
+    ],
+    "created_at": "2025-08-07T15:39:26",
+    "updated_at": "2025-08-29T13:00:36"
+  },
+  {
+    "name": "prism-mcp-rs",
+    "full_name": "prismworks-ai/prism-mcp-rs",
+    "description": "Enterprise-grade Rust implementation of Anthropic's MCP protocol",
+    "url": "https://github.com/prismworks-ai/prism-mcp-rs",
+    "stars": 23,
+    "daily_stars": 3,
+    "language": "Rust",
+    "topics": [
+      "agentic",
+      "agents",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "api",
+      "assistant",
+      "claude",
+      "cursor",
+      "enterprise",
+      "framework",
+      "integration",
+      "language-models",
+      "llm",
+      "mcp",
+      "model-context-protocol",
+      "plugin-system",
+      "production",
+      "rust",
+      "sdk"
+    ],
+    "created_at": "2025-08-10T01:31:25",
+    "updated_at": "2025-08-29T12:56:07"
+  },
+  {
+    "name": "AgentCheck",
+    "full_name": "devlyai/AgentCheck",
+    "description": "Local AI-powered code review agents for Claude Code",
+    "url": "https://github.com/devlyai/AgentCheck",
+    "stars": 18,
+    "daily_stars": 2,
+    "language": null,
+    "topics": [
+      "adlc",
+      "agents",
+      "ai",
+      "ai-agents",
+      "automation",
+      "claude",
+      "code-quality",
+      "code-review",
+      "context-engineering",
+      "productivity",
+      "subagents",
+      "workflows"
+    ],
+    "created_at": "2025-08-27T17:04:55",
+    "updated_at": "2025-08-29T12:09:48"
   },
   {
     "name": "InfiGUI-G1",
     "full_name": "InfiXAI/InfiGUI-G1",
     "description": "Official repository for InfiGUI-G1. We introduce Adaptive Exploration Policy Optimization (AEPO) to overcome semantic alignment bottlenecks in GUI agents through efficient, guided exploration.",
     "url": "https://github.com/InfiXAI/InfiGUI-G1",
-    "stars": 92,
+    "stars": 94,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
@@ -36,157 +131,91 @@
       "reinforcement-learning"
     ],
     "created_at": "2025-08-07T06:45:54",
-    "updated_at": "2025-08-29T06:56:26"
+    "updated_at": "2025-08-29T12:24:42"
   },
   {
     "name": "best-llm-finder-pipeline",
     "full_name": "FareedKhan-dev/best-llm-finder-pipeline",
     "description": "Agentic RAG, Multi-Agent Systems, and Vision Reasoning are three pipelines to find the perfect LLM",
     "url": "https://github.com/FareedKhan-dev/best-llm-finder-pipeline",
-    "stars": 94,
+    "stars": 95,
     "daily_stars": 1,
     "language": "Jupyter Notebook",
     "topics": [],
     "created_at": "2025-08-20T16:26:54",
-    "updated_at": "2025-08-29T08:33:07"
+    "updated_at": "2025-08-29T10:27:40"
   },
   {
-    "name": "LangExtract-Gemma-Structured-Extraction",
-    "full_name": "kennethleungty/LangExtract-Gemma-Structured-Extraction",
-    "description": "Using LangExtract and Gemma 3 for structured information extraction from unstructured text in insurance polices",
-    "url": "https://github.com/kennethleungty/LangExtract-Gemma-Structured-Extraction",
-    "stars": 11,
+    "name": "AgentGuard",
+    "full_name": "dipampaul17/AgentGuard",
+    "description": "Real-time guardrail that shows token spend & kills runaway LLM/agent loops.",
+    "url": "https://github.com/dipampaul17/AgentGuard",
+    "stars": 143,
     "daily_stars": 1,
-    "language": "Python",
+    "language": "JavaScript",
     "topics": [
-      "artificial-intelligence",
-      "data-science",
-      "deep-learning",
-      "gemini",
-      "gemma",
-      "gemma3-4b",
-      "google",
-      "langextract",
-      "large-language-models",
+      "ai-agents",
+      "anthropic",
+      "anthropic-claude",
+      "cost-monitoring",
+      "debugging",
+      "guardrails",
       "llm",
-      "llms",
-      "machine-learning",
+      "observability",
       "openai",
-      "structured-data",
-      "unstructured-data"
+      "openai-api",
+      "prompt-engineering",
+      "token-usage"
     ],
-    "created_at": "2025-08-15T15:48:03",
-    "updated_at": "2025-08-29T08:09:54"
+    "created_at": "2025-07-31T02:46:39",
+    "updated_at": "2025-08-29T09:07:11"
   },
   {
-    "name": "my-claude-code-workflow",
-    "full_name": "sbtobb/my-claude-code-workflow",
-    "description": "Contains a complete workflow, sub-agent and command line",
-    "url": "https://github.com/sbtobb/my-claude-code-workflow",
-    "stars": 31,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "slash-commands",
-      "sub-agents",
-      "workflow"
-    ],
-    "created_at": "2025-08-06T17:24:37",
-    "updated_at": "2025-08-29T07:28:40"
-  },
-  {
-    "name": "ultrafast-ai-gateway",
-    "full_name": "techgopal/ultrafast-ai-gateway",
-    "description": "AI gateway built in Rust with advanced routing, caching, and monitoring capabilities.",
-    "url": "https://github.com/techgopal/ultrafast-ai-gateway",
-    "stars": 8,
-    "daily_stars": 1,
-    "language": "Rust",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-gateway",
-      "llm"
-    ],
-    "created_at": "2025-08-07T11:35:51",
-    "updated_at": "2025-08-29T08:01:30"
-  },
-  {
-    "name": "Story2Board",
-    "full_name": "DavidDinkevich/Story2Board",
-    "description": "Official implementation for \"Story2Board: A Training‑Free Approach for Expressive Storyboard Generation\"",
-    "url": "https://github.com/DavidDinkevich/Story2Board",
-    "stars": 145,
+    "name": "gamestudio-subagents",
+    "full_name": "pamirtuna/gamestudio-subagents",
+    "description": "AI-Powered Game Development Team in Your Terminal",
+    "url": "https://github.com/pamirtuna/gamestudio-subagents",
+    "stars": 87,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "deep-learning",
-      "diffusion-models",
-      "generative-ai",
-      "machine-learning",
-      "storyboards",
-      "text-to-image",
-      "training-free"
+      "ai-agents",
+      "aiworkflow",
+      "game-design",
+      "gamedev",
+      "gamedevelopment",
+      "godot-engine",
+      "unity",
+      "unreal-engine"
     ],
-    "created_at": "2025-08-09T17:05:36",
-    "updated_at": "2025-08-29T07:01:46"
+    "created_at": "2025-08-15T22:20:42",
+    "updated_at": "2025-08-29T12:59:56"
   },
   {
-    "name": "PaddleOCR-ncnn-CPP",
-    "full_name": "Avafly/PaddleOCR-ncnn-CPP",
-    "description": "C++ implementations of PP-OCRv3 and PP-OCRv5 using ncnn for inference.",
-    "url": "https://github.com/Avafly/PaddleOCR-ncnn-CPP",
-    "stars": 8,
+    "name": "agentstate",
+    "full_name": "ayushmi/agentstate",
+    "description": "Cloud-native, durable state for AI agents: WAL+snapshots, watch streams, idempotency, leases, TLS/mTLS, capability tokens, Python/TS SDKs, Helm.",
+    "url": "https://github.com/ayushmi/agentstate",
+    "stars": 48,
     "daily_stars": 1,
-    "language": "C++",
+    "language": "Python",
     "topics": [
-      "cpp",
-      "crnn",
-      "db",
-      "deep-learning",
-      "ncnn",
-      "ocr"
+      "ai-agents",
+      "change-data-capture",
+      "crdt",
+      "database",
+      "grafana",
+      "grpc",
+      "helm-chart",
+      "kubernetes",
+      "observability",
+      "persistence",
+      "prometheus",
+      "rust",
+      "sdk",
+      "vector-search"
     ],
-    "created_at": "2025-08-23T03:07:58",
-    "updated_at": "2025-08-29T05:05:35"
-  },
-  {
-    "name": "awesome-n8n-workflows",
-    "full_name": "felipfr/awesome-n8n-workflows",
-    "description": "A curated collection of awesome n8n workflows for automation, integration, and productivity. Explore ready-to-use JSON workflows for analytics, communication, CRM, e-commerce, finance, HR, marketing, monitoring, security, and more.",
-    "url": "https://github.com/felipfr/awesome-n8n-workflows",
-    "stars": 198,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "automation",
-      "integration",
-      "n8n",
-      "productivity",
-      "workflow"
-    ],
-    "created_at": "2025-08-07T15:39:26",
-    "updated_at": "2025-08-29T06:49:35"
-  },
-  {
-    "name": "actions-up",
-    "full_name": "azat-io/actions-up",
-    "description": "🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA pinning",
-    "url": "https://github.com/azat-io/actions-up",
-    "stars": 45,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "actions",
-      "cli",
-      "dependencies",
-      "github-actions",
-      "security",
-      "workflow"
-    ],
-    "created_at": "2025-08-26T21:52:22",
-    "updated_at": "2025-08-29T06:13:55"
+    "created_at": "2025-08-21T13:05:35",
+    "updated_at": "2025-08-29T12:27:46"
   }
 ]
