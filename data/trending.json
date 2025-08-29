@@ -4,8 +4,8 @@
     "full_name": "automazeio/ccpm",
     "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
     "url": "https://github.com/automazeio/ccpm",
-    "stars": 3184,
-    "daily_stars": 7,
+    "stars": 3200,
+    "daily_stars": 16,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -16,62 +16,46 @@
       "vibe-coding"
     ],
     "created_at": "2025-08-18T23:20:08",
-    "updated_at": "2025-08-29T04:00:35"
+    "updated_at": "2025-08-29T08:44:10"
   },
   {
-    "name": "MathFlow",
-    "full_name": "Nonanti/MathFlow",
-    "description": "C# math expression library with symbolic computation support",
-    "url": "https://github.com/Nonanti/MathFlow",
-    "stars": 30,
-    "daily_stars": 3,
-    "language": "C#",
-    "topics": [],
-    "created_at": "2025-08-27T10:34:14",
-    "updated_at": "2025-08-29T04:19:35"
-  },
-  {
-    "name": "awesome-ai",
-    "full_name": "teodorgross/awesome-ai",
-    "description": "The world's first automated AI tool discovery platform using the revolutionary .awesome-ai.md standard. Real-time GitHub scanning, automated curation, and live leaderboards for AI tools.",
-    "url": "https://github.com/teodorgross/awesome-ai",
-    "stars": 81,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [],
-    "created_at": "2025-07-31T13:35:38",
-    "updated_at": "2025-08-29T02:51:23"
-  },
-  {
-    "name": "rewind-reward-pytorch",
-    "full_name": "lucidrains/rewind-reward-pytorch",
-    "description": "Implementation of ReWiND, \"Language-Guided Rewards Teach Robot Policies without New Demonstrations\", from USC / Amazon Robotics",
-    "url": "https://github.com/lucidrains/rewind-reward-pytorch",
-    "stars": 32,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [],
-    "created_at": "2025-08-02T13:47:11",
-    "updated_at": "2025-08-29T02:54:01"
-  },
-  {
-    "name": "maverick-mcp",
-    "full_name": "wshobson/maverick-mcp",
-    "description": "MaverickMCP - Personal Stock Analysis MCP Server",
-    "url": "https://github.com/wshobson/maverick-mcp",
-    "stars": 21,
-    "daily_stars": 1,
+    "name": "InfiGUI-G1",
+    "full_name": "InfiXAI/InfiGUI-G1",
+    "description": "Official repository for InfiGUI-G1. We introduce Adaptive Exploration Policy Optimization (AEPO) to overcome semantic alignment bottlenecks in GUI agents through efficient, guided exploration.",
+    "url": "https://github.com/InfiXAI/InfiGUI-G1",
+    "stars": 92,
+    "daily_stars": 2,
     "language": "Python",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "gui-agent",
+      "gui-grounding",
+      "large-language-models",
+      "multimodal-llm",
+      "reinforcement-learning"
+    ],
+    "created_at": "2025-08-07T06:45:54",
+    "updated_at": "2025-08-29T06:56:26"
+  },
+  {
+    "name": "best-llm-finder-pipeline",
+    "full_name": "FareedKhan-dev/best-llm-finder-pipeline",
+    "description": "Agentic RAG, Multi-Agent Systems, and Vision Reasoning are three pipelines to find the perfect LLM",
+    "url": "https://github.com/FareedKhan-dev/best-llm-finder-pipeline",
+    "stars": 94,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
     "topics": [],
-    "created_at": "2025-08-24T15:24:20",
-    "updated_at": "2025-08-29T02:18:53"
+    "created_at": "2025-08-20T16:26:54",
+    "updated_at": "2025-08-29T08:33:07"
   },
   {
     "name": "LangExtract-Gemma-Structured-Extraction",
     "full_name": "kennethleungty/LangExtract-Gemma-Structured-Extraction",
     "description": "Using LangExtract and Gemma 3 for structured information extraction from unstructured text in insurance polices",
     "url": "https://github.com/kennethleungty/LangExtract-Gemma-Structured-Extraction",
-    "stars": 10,
+    "stars": 11,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -92,110 +76,117 @@
       "unstructured-data"
     ],
     "created_at": "2025-08-15T15:48:03",
-    "updated_at": "2025-08-29T03:12:44"
+    "updated_at": "2025-08-29T08:09:54"
   },
   {
-    "name": "keyscan",
-    "full_name": "kevinMEH/keyscan",
-    "description": "Keyscan: AI-powered API key scanner for GitHub Gists.",
-    "url": "https://github.com/kevinMEH/keyscan",
-    "stars": 5,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "api",
-      "artificial-intelligence",
-      "gist",
-      "gists",
-      "github",
-      "key",
-      "keyscan",
-      "llama",
-      "llm",
-      "ollama",
-      "python",
-      "qwen",
-      "scanner",
-      "web-scraping"
-    ],
-    "created_at": "2025-08-11T03:31:33",
-    "updated_at": "2025-08-29T03:56:48"
-  },
-  {
-    "name": "AgentCheck",
-    "full_name": "devlyai/AgentCheck",
-    "description": "Local AI-powered code review agents for Claude Code",
-    "url": "https://github.com/devlyai/AgentCheck",
-    "stars": 16,
+    "name": "my-claude-code-workflow",
+    "full_name": "sbtobb/my-claude-code-workflow",
+    "description": "Contains a complete workflow, sub-agent and command line",
+    "url": "https://github.com/sbtobb/my-claude-code-workflow",
+    "stars": 31,
     "daily_stars": 1,
     "language": null,
     "topics": [
-      "adlc",
-      "agents",
+      "ai-agents",
+      "claude-code",
+      "slash-commands",
+      "sub-agents",
+      "workflow"
+    ],
+    "created_at": "2025-08-06T17:24:37",
+    "updated_at": "2025-08-29T07:28:40"
+  },
+  {
+    "name": "ultrafast-ai-gateway",
+    "full_name": "techgopal/ultrafast-ai-gateway",
+    "description": "AI gateway built in Rust with advanced routing, caching, and monitoring capabilities.",
+    "url": "https://github.com/techgopal/ultrafast-ai-gateway",
+    "stars": 8,
+    "daily_stars": 1,
+    "language": "Rust",
+    "topics": [
       "ai",
       "ai-agents",
-      "automation",
-      "claude",
-      "code-quality",
-      "code-review",
-      "context-engineering",
-      "productivity",
-      "subagents",
-      "workflows"
+      "ai-gateway",
+      "llm"
     ],
-    "created_at": "2025-08-27T17:04:55",
-    "updated_at": "2025-08-29T03:39:00"
+    "created_at": "2025-08-07T11:35:51",
+    "updated_at": "2025-08-29T08:01:30"
   },
   {
-    "name": "product-thinking-with-agents",
-    "full_name": "specstoryai/product-thinking-with-agents",
-    "description": "Maven Lightning Lesson on Product Thinking for Agentic Development - Specflow framework, patterns, and  live tnyOffice demo",
-    "url": "https://github.com/specstoryai/product-thinking-with-agents",
-    "stars": 7,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "maven-lesson",
-      "product-thinking",
-      "specflow",
-      "specstory"
-    ],
-    "created_at": "2025-08-14T00:12:52",
-    "updated_at": "2025-08-29T02:13:24"
-  },
-  {
-    "name": "interview-insight-ai",
-    "full_name": "puneetkakkar/interview-insight-ai",
-    "description": "AI-powered interview transcript analysis platform built with FastAPI, LangGraph, and Next.js 15. Transform interview transcripts into actionable insights using Claude AI with timeline extraction, entity recognition, and sentiment analysis.",
-    "url": "https://github.com/puneetkakkar/interview-insight-ai",
-    "stars": 2,
+    "name": "Story2Board",
+    "full_name": "DavidDinkevich/Story2Board",
+    "description": "Official implementation for \"Story2Board: A Training‑Free Approach for Expressive Storyboard Generation\"",
+    "url": "https://github.com/DavidDinkevich/Story2Board",
+    "stars": 145,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "ai",
-      "ai-agents",
-      "anthropic",
-      "claude-ai",
-      "claude-code",
-      "containerization",
-      "docker",
-      "entity-recognition",
-      "fastapi",
-      "full-stack",
-      "interview-analysis",
-      "langgraph",
-      "multi-agent-ai",
-      "natural-language-processing",
-      "nextjs",
-      "python",
-      "scalable-architecture",
-      "sentiment-analysis",
-      "transcript-analysis",
-      "typescript"
+      "deep-learning",
+      "diffusion-models",
+      "generative-ai",
+      "machine-learning",
+      "storyboards",
+      "text-to-image",
+      "training-free"
     ],
-    "created_at": "2025-08-17T20:32:37",
-    "updated_at": "2025-08-29T03:53:49"
+    "created_at": "2025-08-09T17:05:36",
+    "updated_at": "2025-08-29T07:01:46"
+  },
+  {
+    "name": "PaddleOCR-ncnn-CPP",
+    "full_name": "Avafly/PaddleOCR-ncnn-CPP",
+    "description": "C++ implementations of PP-OCRv3 and PP-OCRv5 using ncnn for inference.",
+    "url": "https://github.com/Avafly/PaddleOCR-ncnn-CPP",
+    "stars": 8,
+    "daily_stars": 1,
+    "language": "C++",
+    "topics": [
+      "cpp",
+      "crnn",
+      "db",
+      "deep-learning",
+      "ncnn",
+      "ocr"
+    ],
+    "created_at": "2025-08-23T03:07:58",
+    "updated_at": "2025-08-29T05:05:35"
+  },
+  {
+    "name": "awesome-n8n-workflows",
+    "full_name": "felipfr/awesome-n8n-workflows",
+    "description": "A curated collection of awesome n8n workflows for automation, integration, and productivity. Explore ready-to-use JSON workflows for analytics, communication, CRM, e-commerce, finance, HR, marketing, monitoring, security, and more.",
+    "url": "https://github.com/felipfr/awesome-n8n-workflows",
+    "stars": 198,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "automation",
+      "integration",
+      "n8n",
+      "productivity",
+      "workflow"
+    ],
+    "created_at": "2025-08-07T15:39:26",
+    "updated_at": "2025-08-29T06:49:35"
+  },
+  {
+    "name": "actions-up",
+    "full_name": "azat-io/actions-up",
+    "description": "🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA pinning",
+    "url": "https://github.com/azat-io/actions-up",
+    "stars": 45,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "actions",
+      "cli",
+      "dependencies",
+      "github-actions",
+      "security",
+      "workflow"
+    ],
+    "created_at": "2025-08-26T21:52:22",
+    "updated_at": "2025-08-29T06:13:55"
   }
 ]
