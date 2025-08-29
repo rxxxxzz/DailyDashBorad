@@ -4,8 +4,8 @@
     "full_name": "automazeio/ccpm",
     "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
     "url": "https://github.com/automazeio/ccpm",
-    "stars": 3158,
-    "daily_stars": 13,
+    "stars": 3177,
+    "daily_stars": 19,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -16,15 +16,15 @@
       "vibe-coding"
     ],
     "created_at": "2025-08-18T23:20:08",
-    "updated_at": "2025-08-28T20:33:54"
+    "updated_at": "2025-08-29T02:10:27"
   },
   {
     "name": "actions-up",
     "full_name": "azat-io/actions-up",
     "description": "🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA pinning",
     "url": "https://github.com/azat-io/actions-up",
-    "stars": 35,
-    "daily_stars": 10,
+    "stars": 44,
+    "daily_stars": 9,
     "language": "TypeScript",
     "topics": [
       "actions",
@@ -35,67 +35,119 @@
       "workflow"
     ],
     "created_at": "2025-08-26T21:52:22",
-    "updated_at": "2025-08-28T20:19:23"
-  },
-  {
-    "name": "nanocoder",
-    "full_name": "Mote-Software/nanocoder",
-    "description": "A local-first coding agent running in your terminal ⚒",
-    "url": "https://github.com/Mote-Software/nanocoder",
-    "stars": 174,
-    "daily_stars": 8,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-coding",
-      "coding-agents",
-      "llm",
-      "llm-inference",
-      "ollama",
-      "openai",
-      "openrouter"
-    ],
-    "created_at": "2025-07-30T12:54:15",
-    "updated_at": "2025-08-28T20:39:47"
-  },
-  {
-    "name": "awesome-claude-code-subagents",
-    "full_name": "VoltAgent/awesome-claude-code-subagents",
-    "description": "Production-ready Claude subagents collection with 77+ specialized AI agents for full-stack development, DevOps, data science, and business operations.",
-    "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-    "stars": 1777,
-    "daily_stars": 7,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "claude",
-      "claude-ai",
-      "claude-subagents",
-      "subagents"
-    ],
-    "created_at": "2025-07-30T12:31:51",
-    "updated_at": "2025-08-28T19:55:42"
+    "updated_at": "2025-08-29T01:26:11"
   },
   {
     "name": "MathFlow",
     "full_name": "Nonanti/MathFlow",
     "description": "C# math expression library with symbolic computation support",
     "url": "https://github.com/Nonanti/MathFlow",
-    "stars": 25,
-    "daily_stars": 3,
+    "stars": 27,
+    "daily_stars": 2,
     "language": "C#",
     "topics": [],
     "created_at": "2025-08-27T10:34:14",
-    "updated_at": "2025-08-28T19:36:08"
+    "updated_at": "2025-08-28T22:55:07"
+  },
+  {
+    "name": "LangExtract-Gemma-Structured-Extraction",
+    "full_name": "kennethleungty/LangExtract-Gemma-Structured-Extraction",
+    "description": "Using LangExtract and Gemma 3 for structured information extraction from unstructured text in insurance polices",
+    "url": "https://github.com/kennethleungty/LangExtract-Gemma-Structured-Extraction",
+    "stars": 9,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "data-science",
+      "deep-learning",
+      "gemini",
+      "gemma",
+      "gemma3-4b",
+      "google",
+      "langextract",
+      "large-language-models",
+      "llm",
+      "llms",
+      "machine-learning",
+      "openai",
+      "structured-data",
+      "unstructured-data"
+    ],
+    "created_at": "2025-08-15T15:48:03",
+    "updated_at": "2025-08-29T00:21:27"
+  },
+  {
+    "name": "langchain-zeusdb",
+    "full_name": "ZeusDB/langchain-zeusdb",
+    "description": "LangChain integration for ZeusDB, a high-performance Rust-powered vector database with lightning-fast search, metadata-aware filtering, and scalable RAG pipelines.",
+    "url": "https://github.com/ZeusDB/langchain-zeusdb",
+    "stars": 4,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-08-18T12:08:17",
+    "updated_at": "2025-08-28T23:29:06"
+  },
+  {
+    "name": "best-of-ai",
+    "full_name": "best-of-ai/best-of-ai",
+    "description": "A curated list of best ai tools",
+    "url": "https://github.com/best-of-ai/best-of-ai",
+    "stars": 281,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-assistant",
+      "ai-chatbot",
+      "ai-engineering",
+      "ai-tools",
+      "ai-tools-directory",
+      "awesome",
+      "awesome-list",
+      "best-of-ai"
+    ],
+    "created_at": "2025-08-14T08:44:13",
+    "updated_at": "2025-08-28T21:03:51"
+  },
+  {
+    "name": "awesome-AI-toolkit",
+    "full_name": "balavenkatesh3322/awesome-AI-toolkit",
+    "description": "A curated, comprehensive collection of open-source AI tools, frameworks, datasets, courses, and seminal papers.",
+    "url": "https://github.com/balavenkatesh3322/awesome-AI-toolkit",
+    "stars": 138,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-research-and-development",
+      "ai-tools",
+      "ai-tools-directory",
+      "awesome",
+      "awesome-list",
+      "awesome-readme",
+      "deep-learning",
+      "genai",
+      "generative-ai",
+      "llm",
+      "machine-learning",
+      "mlops",
+      "open-source",
+      "production"
+    ],
+    "created_at": "2025-08-19T14:32:04",
+    "updated_at": "2025-08-28T21:58:27"
   },
   {
     "name": "AgentCheck",
     "full_name": "devlyai/AgentCheck",
     "description": "Local AI-powered code review agents for Claude Code",
     "url": "https://github.com/devlyai/AgentCheck",
-    "stars": 14,
-    "daily_stars": 2,
+    "stars": 15,
+    "daily_stars": 1,
     "language": null,
     "topics": [
       "adlc",
@@ -112,65 +164,44 @@
       "workflows"
     ],
     "created_at": "2025-08-27T17:04:55",
-    "updated_at": "2025-08-28T18:06:17"
+    "updated_at": "2025-08-28T21:19:14"
   },
   {
-    "name": "PrediChurn",
-    "full_name": "vishnupriyanpr/PrediChurn",
-    "description": "A full ML pipeline for customer churn prediction in telecom, banking, or SaaS. Includes robust data cleaning, automatic feature engineering, model training/tuning (Logistic Regression, RF, XGBoost), interpretability, and interactive dashboards for actionable business retention insights.",
-    "url": "https://github.com/vishnupriyanpr/PrediChurn",
-    "stars": 6,
-    "daily_stars": 2,
-    "language": "HTML",
+    "name": "petk",
+    "full_name": "mihazs/petk",
+    "description": "Petk is an open-source CLI tool for creating, managing, and testing prompts for Large Language Models (LLMs). Streamline your workflow with intuitive features for developers and AI researchers.",
+    "url": "https://github.com/mihazs/petk",
+    "stars": 5,
+    "daily_stars": 1,
+    "language": "TypeScript",
     "topics": [
-      "churn-prediction",
-      "lightbgm",
-      "machine-learning",
-      "optuna",
-      "pandas",
-      "python",
-      "random-forest",
-      "scikit-learn",
-      "shap",
-      "xgboost"
+      "ai",
+      "ai-agents",
+      "code-agent",
+      "llm",
+      "llm-development",
+      "prompt-engineering",
+      "prompt-toolkit",
+      "template-engine"
     ],
-    "created_at": "2025-08-03T15:26:53",
-    "updated_at": "2025-08-28T17:01:26"
+    "created_at": "2025-08-16T03:58:19",
+    "updated_at": "2025-08-29T00:00:26"
   },
   {
-    "name": "maverick-mcp",
-    "full_name": "wshobson/maverick-mcp",
-    "description": "MaverickMCP - Personal Stock Analysis MCP Server",
-    "url": "https://github.com/wshobson/maverick-mcp",
-    "stars": 20,
+    "name": "text2sql-db-genie",
+    "full_name": "HungHsunHan/text2sql-db-genie",
+    "description": "A powerful web application that transforms natural language into SQL queries and data visualizations. Built with LangGraph, FastAPI, and Streamlit, featuring intelligent agent workflows and secure execution environments.",
+    "url": "https://github.com/HungHsunHan/text2sql-db-genie",
+    "stars": 5,
     "daily_stars": 1,
     "language": "Python",
-    "topics": [],
-    "created_at": "2025-08-24T15:24:20",
-    "updated_at": "2025-08-28T18:47:29"
-  },
-  {
-    "name": "water-futures-battle",
-    "full_name": "WaterFutures/water-futures-battle",
-    "description": "Part of the Battle of Water Networks competition series | WDSA/CCWI 2026, May 18-21, Paphos, Cyprus. Design & operate water distribution systems under deep uncertainty, featuring staged interventions, AI & policymaking.",
-    "url": "https://github.com/WaterFutures/water-futures-battle",
-    "stars": 4,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [],
-    "created_at": "2025-08-23T10:07:07",
-    "updated_at": "2025-08-28T18:11:45"
-  },
-  {
-    "name": "artificial-consciousness-blueprint",
-    "full_name": "269652/artificial-consciousness-blueprint",
-    "description": "Always-on, embodied ACI blueprint emulating human consciousness. Features recursive memory graph, DMN loop, neuromodulated associative reasoning, and hierarchical memory consolidation with symbolic abstraction. Enables introspection, autobiographical narrative, mind-wandering, and goal-directed thought.",
-    "url": "https://github.com/269652/artificial-consciousness-blueprint",
-    "stars": 4,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [],
-    "created_at": "2025-08-22T20:51:35",
-    "updated_at": "2025-08-28T20:32:59"
+    "topics": [
+      "ai-agents",
+      "langgraph",
+      "llm",
+      "text-to-sql"
+    ],
+    "created_at": "2025-08-20T00:38:26",
+    "updated_at": "2025-08-28T22:05:03"
   }
 ]
