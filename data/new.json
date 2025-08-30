@@ -4,8 +4,8 @@
     "full_name": "azat-io/actions-up",
     "description": "🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA pinning",
     "url": "https://github.com/azat-io/actions-up",
-    "stars": 74,
-    "daily_stars": 2,
+    "stars": 75,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "actions",
@@ -16,7 +16,7 @@
       "workflow"
     ],
     "created_at": "2025-08-26T21:52:22",
-    "updated_at": "2025-08-30T07:55:32"
+    "updated_at": "2025-08-30T12:43:54"
   },
   {
     "name": "MathFlow",
@@ -24,7 +24,7 @@
     "description": "C# math expression library with symbolic computation support",
     "url": "https://github.com/Nonanti/MathFlow",
     "stars": 33,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "C#",
     "topics": [],
     "created_at": "2025-08-27T10:34:14",
@@ -48,7 +48,7 @@
     "description": "Local AI-powered code review agents for Claude Code",
     "url": "https://github.com/devlyai/AgentCheck",
     "stars": 19,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": null,
     "topics": [
       "adlc",
@@ -68,35 +68,11 @@
     "updated_at": "2025-08-30T07:36:37"
   },
   {
-    "name": "Advanced-Web-Application-Firewall",
-    "full_name": "keusuanl-sec/Advanced-Web-Application-Firewall",
-    "description": "An Advanced Web Application Firewall that protects against threats like SQL injection and XSS by filtering HTTP traffic. It combines signature-based detection and machine learning-based anomaly detection to identify obfuscated, zero-day, and unknown attacks through behavioral analysis.",
-    "url": "https://github.com/keusuanl-sec/Advanced-Web-Application-Firewall",
-    "stars": 15,
-    "daily_stars": 0,
-    "language": "HTML",
-    "topics": [],
-    "created_at": "2025-08-22T12:06:25",
-    "updated_at": "2025-08-28T15:29:40"
-  },
-  {
-    "name": "IT-Supported-Ticketing-System",
-    "full_name": "keusuanl-sec/IT-Supported-Ticketing-System",
-    "description": "A working prototype is implemented for machine learning based ticket assignment that can suggest who is suitable for what type of ticket by taking ticket descriptions as input. This machine learning prototype is implemented using Python and Machine Learning with past records of the ticket assignment data for model training.",
-    "url": "https://github.com/keusuanl-sec/IT-Supported-Ticketing-System",
-    "stars": 13,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-08-22T12:46:35",
-    "updated_at": "2025-08-22T18:17:58"
-  },
-  {
     "name": "nimbletools-core",
     "full_name": "NimbleBrainInc/nimbletools-core",
     "description": "NimbleTools is an open-source MCP runtime. Infrastructure for the agentic web.",
     "url": "https://github.com/NimbleBrainInc/nimbletools-core",
-    "stars": 12,
+    "stars": 14,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
@@ -108,7 +84,19 @@
       "model-context-protocol"
     ],
     "created_at": "2025-08-28T07:19:34",
-    "updated_at": "2025-08-30T07:08:13"
+    "updated_at": "2025-08-30T10:53:09"
+  },
+  {
+    "name": "Web3-AI-Trading-Agent",
+    "full_name": "lorine93s/Web3-AI-Trading-Agent",
+    "description": "AI-Powered Web3 Trading Agent for Solana & Bitcoin — Build autonomous trading bots using machine learning, reinforcement learning, and synthetic data generation. Supports Solana SPL tokens (Serum/DEX) and Bitcoin UTXO/Lightning with full local-first AI pipeline (PyTorch, Ollama, Gymnasium).",
+    "url": "https://github.com/lorine93s/Web3-AI-Trading-Agent",
+    "stars": 11,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-08-23T22:08:49",
+    "updated_at": "2025-08-30T12:35:13"
   },
   {
     "name": "utcp-agent",
@@ -123,24 +111,12 @@
     "updated_at": "2025-08-30T03:11:44"
   },
   {
-    "name": "Web3-AI-Trading-Agent",
-    "full_name": "lorine93s/Web3-AI-Trading-Agent",
-    "description": "AI-Powered Web3 Trading Agent for Solana & Bitcoin — Build autonomous trading bots using machine learning, reinforcement learning, and synthetic data generation. Supports Solana SPL tokens (Serum/DEX) and Bitcoin UTXO/Lightning with full local-first AI pipeline (PyTorch, Ollama, Gymnasium).",
-    "url": "https://github.com/lorine93s/Web3-AI-Trading-Agent",
-    "stars": 10,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-08-23T22:08:49",
-    "updated_at": "2025-08-27T06:17:47"
-  },
-  {
     "name": "PaddleOCR-ncnn-CPP",
     "full_name": "Avafly/PaddleOCR-ncnn-CPP",
     "description": "C++ implementations of PP-OCRv3 and PP-OCRv5 using ncnn for inference.",
     "url": "https://github.com/Avafly/PaddleOCR-ncnn-CPP",
-    "stars": 9,
-    "daily_stars": 0,
+    "stars": 10,
+    "daily_stars": 1,
     "language": "C++",
     "topics": [
       "cpp",
@@ -151,6 +127,35 @@
       "ocr"
     ],
     "created_at": "2025-08-23T03:07:58",
-    "updated_at": "2025-08-30T02:39:05"
+    "updated_at": "2025-08-30T09:38:51"
+  },
+  {
+    "name": "jolt-atlas",
+    "full_name": "ICME-Lab/jolt-atlas",
+    "description": "Fast zkVM born at a16z Crypto modified by NovaNet for verifiable machine learning. ⚡",
+    "url": "https://github.com/ICME-Lab/jolt-atlas",
+    "stars": 8,
+    "daily_stars": 0,
+    "language": "Rust",
+    "topics": [
+      "machine-learning",
+      "verifiable-compute",
+      "zero-knowledge",
+      "zkp"
+    ],
+    "created_at": "2025-08-22T15:29:28",
+    "updated_at": "2025-08-29T14:04:31"
+  },
+  {
+    "name": "energy-optimizer-pro",
+    "full_name": "vinsblack/energy-optimizer-pro",
+    "description": "AI-Powered Building Energy Management System with 91%+ ML Accuracy",
+    "url": "https://github.com/vinsblack/energy-optimizer-pro",
+    "stars": 7,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-08-25T14:01:55",
+    "updated_at": "2025-08-30T03:38:14"
   }
 ]
