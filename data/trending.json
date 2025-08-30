@@ -4,8 +4,8 @@
     "full_name": "automazeio/ccpm",
     "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
     "url": "https://github.com/automazeio/ccpm",
-    "stars": 3264,
-    "daily_stars": 10,
+    "stars": 3268,
+    "daily_stars": 4,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -16,91 +16,133 @@
       "vibe-coding"
     ],
     "created_at": "2025-08-18T23:20:08",
-    "updated_at": "2025-08-30T16:41:59"
+    "updated_at": "2025-08-30T20:24:15"
   },
   {
-    "name": "ai-infrastructure-agent",
-    "full_name": "VersusControl/ai-infrastructure-agent",
-    "description": "AI Infrastructure Agent is an intelligent system that allows you to manage AWS infrastructure using natural language commands.",
-    "url": "https://github.com/VersusControl/ai-infrastructure-agent",
-    "stars": 10,
-    "daily_stars": 6,
-    "language": "Go",
+    "name": "MathFlow",
+    "full_name": "Nonanti/MathFlow",
+    "description": "C# math expression library with symbolic computation support",
+    "url": "https://github.com/Nonanti/MathFlow",
+    "stars": 37,
+    "daily_stars": 3,
+    "language": "C#",
+    "topics": [],
+    "created_at": "2025-08-27T10:34:14",
+    "updated_at": "2025-08-30T19:50:17"
+  },
+  {
+    "name": "actions-up",
+    "full_name": "azat-io/actions-up",
+    "description": "🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA pinning",
+    "url": "https://github.com/azat-io/actions-up",
+    "stars": 79,
+    "daily_stars": 3,
+    "language": "TypeScript",
+    "topics": [
+      "actions",
+      "cli",
+      "dependencies",
+      "github-actions",
+      "security",
+      "workflow"
+    ],
+    "created_at": "2025-08-26T21:52:22",
+    "updated_at": "2025-08-30T20:19:08"
+  },
+  {
+    "name": "LangExtract-Gemma-Structured-Extraction",
+    "full_name": "kennethleungty/LangExtract-Gemma-Structured-Extraction",
+    "description": "Using LangExtract and Gemma 3 for structured information extraction from unstructured text in insurance polices",
+    "url": "https://github.com/kennethleungty/LangExtract-Gemma-Structured-Extraction",
+    "stars": 13,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "data-science",
+      "deep-learning",
+      "gemini",
+      "gemma",
+      "gemma3-4b",
+      "google",
+      "langextract",
+      "large-language-models",
+      "llm",
+      "llms",
+      "machine-learning",
+      "openai",
+      "structured-data",
+      "unstructured-data"
+    ],
+    "created_at": "2025-08-15T15:48:03",
+    "updated_at": "2025-08-30T17:58:26"
+  },
+  {
+    "name": "best-of-ai",
+    "full_name": "best-of-ai/best-of-ai",
+    "description": "A curated list of best ai tools",
+    "url": "https://github.com/best-of-ai/best-of-ai",
+    "stars": 286,
+    "daily_stars": 2,
+    "language": null,
     "topics": [
       "ai",
       "ai-agents",
-      "aws",
-      "devops",
-      "infrastructure",
-      "mcp"
+      "ai-assistant",
+      "ai-chatbot",
+      "ai-engineering",
+      "ai-tools",
+      "ai-tools-directory",
+      "awesome",
+      "awesome-list",
+      "best-of-ai"
     ],
-    "created_at": "2025-08-30T06:49:43",
-    "updated_at": "2025-08-30T15:58:03"
+    "created_at": "2025-08-14T08:44:13",
+    "updated_at": "2025-08-30T19:28:48"
   },
   {
-    "name": "PAM4Receiver",
-    "full_name": "rockyco/PAM4Receiver",
-    "description": "PAM4 Receiver Implementation with AI-Driven HDL Code Generation",
-    "url": "https://github.com/rockyco/PAM4Receiver",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "MATLAB",
-    "topics": [
-      "artificial-intelligence",
-      "dsp",
-      "fpga",
-      "hdlcoder",
-      "matlab",
-      "pam4"
-    ],
-    "created_at": "2025-08-13T11:47:51",
-    "updated_at": "2025-08-30T15:37:48"
-  },
-  {
-    "name": "gamestudio-subagents",
-    "full_name": "pamirtuna/gamestudio-subagents",
-    "description": "AI-Powered Game Development Team in Your Terminal",
-    "url": "https://github.com/pamirtuna/gamestudio-subagents",
-    "stars": 91,
+    "name": "contrastive-rl",
+    "full_name": "lucidrains/contrastive-rl",
+    "description": "Contrastive Reinforcement Learning",
+    "url": "https://github.com/lucidrains/contrastive-rl",
+    "stars": 15,
     "daily_stars": 1,
     "language": "Python",
-    "topics": [
-      "ai-agents",
-      "aiworkflow",
-      "game-design",
-      "gamedev",
-      "gamedevelopment",
-      "godot-engine",
-      "unity",
-      "unreal-engine"
-    ],
-    "created_at": "2025-08-15T22:20:42",
-    "updated_at": "2025-08-30T14:27:37"
+    "topics": [],
+    "created_at": "2025-08-29T19:44:31",
+    "updated_at": "2025-08-30T17:22:31"
   },
   {
-    "name": "my-claude-code-workflow",
-    "full_name": "sbtobb/my-claude-code-workflow",
-    "description": "Contains a complete workflow, sub-agent and command line",
-    "url": "https://github.com/sbtobb/my-claude-code-workflow",
-    "stars": 32,
+    "name": "AgentCheck",
+    "full_name": "devlyai/AgentCheck",
+    "description": "Local AI-powered code review agents for Claude Code",
+    "url": "https://github.com/devlyai/AgentCheck",
+    "stars": 20,
     "daily_stars": 1,
     "language": null,
     "topics": [
+      "adlc",
+      "agents",
+      "ai",
       "ai-agents",
-      "claude-code",
-      "slash-commands",
-      "sub-agents",
-      "workflow"
+      "automation",
+      "claude",
+      "code-quality",
+      "code-review",
+      "context-engineering",
+      "productivity",
+      "subagents",
+      "workflows"
     ],
-    "created_at": "2025-08-06T17:24:37",
-    "updated_at": "2025-08-30T13:23:06"
+    "created_at": "2025-08-27T17:04:55",
+    "updated_at": "2025-08-30T18:24:09"
   },
   {
     "name": "nimbletools-core",
     "full_name": "NimbleBrainInc/nimbletools-core",
     "description": "NimbleTools is an open-source MCP runtime. Infrastructure for the agentic web.",
     "url": "https://github.com/NimbleBrainInc/nimbletools-core",
-    "stars": 15,
+    "stars": 16,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -112,38 +154,33 @@
       "model-context-protocol"
     ],
     "created_at": "2025-08-28T07:19:34",
-    "updated_at": "2025-08-30T16:14:37"
+    "updated_at": "2025-08-30T18:41:18"
   },
   {
-    "name": "context-compressor",
-    "full_name": "Huzaifa785/context-compressor",
-    "description": "AI-powered text compression library for RAG systems and API calls. Reduce token usage by up to 80% while    preserving semantic meaning with advanced compression strategies.",
-    "url": "https://github.com/Huzaifa785/context-compressor",
-    "stars": 62,
+    "name": "ai-infrastructure-agent",
+    "full_name": "VersusControl/ai-infrastructure-agent",
+    "description": "AI Infrastructure Agent is an intelligent system that allows you to manage AWS infrastructure using natural language commands.",
+    "url": "https://github.com/VersusControl/ai-infrastructure-agent",
+    "stars": 11,
     "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-08-14T19:41:30",
-    "updated_at": "2025-08-30T15:23:30"
-  },
-  {
-    "name": "MathFlow",
-    "full_name": "Nonanti/MathFlow",
-    "description": "C# math expression library with symbolic computation support",
-    "url": "https://github.com/Nonanti/MathFlow",
-    "stars": 34,
-    "daily_stars": 1,
-    "language": "C#",
-    "topics": [],
-    "created_at": "2025-08-27T10:34:14",
-    "updated_at": "2025-08-30T14:47:14"
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "aws",
+      "devops",
+      "infrastructure",
+      "mcp"
+    ],
+    "created_at": "2025-08-30T06:49:43",
+    "updated_at": "2025-08-30T18:15:44"
   },
   {
     "name": "InfiGUI-G1",
     "full_name": "InfiXAI/InfiGUI-G1",
     "description": "Official repository for InfiGUI-G1. We introduce Adaptive Exploration Policy Optimization (AEPO) to overcome semantic alignment bottlenecks in GUI agents through efficient, guided exploration.",
     "url": "https://github.com/InfiXAI/InfiGUI-G1",
-    "stars": 102,
+    "stars": 103,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -156,27 +193,6 @@
       "reinforcement-learning"
     ],
     "created_at": "2025-08-07T06:45:54",
-    "updated_at": "2025-08-30T14:53:51"
-  },
-  {
-    "name": "Live-Market-Regime-Classifier",
-    "full_name": "akash-kumar5/Live-Market-Regime-Classifier",
-    "description": "A real-time pipeline that uses a multi-timeframe LSTM model to classify BTCUSDT market behavior (Trend, Range, Volatility Spike) with live, minute-by-minute predictions.",
-    "url": "https://github.com/akash-kumar5/Live-Market-Regime-Classifier",
-    "stars": 6,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "algorithmic-trading",
-      "binance-api",
-      "bitcoin",
-      "deep-learning",
-      "keras",
-      "lstm",
-      "python",
-      "tensorflow"
-    ],
-    "created_at": "2025-08-19T17:43:03",
-    "updated_at": "2025-08-30T15:42:45"
+    "updated_at": "2025-08-30T17:07:19"
   }
 ]
