@@ -4,8 +4,8 @@
     "full_name": "automazeio/ccpm",
     "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
     "url": "https://github.com/automazeio/ccpm",
-    "stars": 3294,
-    "daily_stars": 6,
+    "stars": 3301,
+    "daily_stars": 7,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -16,14 +16,33 @@
       "vibe-coding"
     ],
     "created_at": "2025-08-18T23:20:08",
-    "updated_at": "2025-08-31T12:59:03"
+    "updated_at": "2025-08-31T16:28:13"
+  },
+  {
+    "name": "actions-up",
+    "full_name": "azat-io/actions-up",
+    "description": "🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA pinning",
+    "url": "https://github.com/azat-io/actions-up",
+    "stars": 88,
+    "daily_stars": 7,
+    "language": "TypeScript",
+    "topics": [
+      "actions",
+      "cli",
+      "dependencies",
+      "github-actions",
+      "security",
+      "workflow"
+    ],
+    "created_at": "2025-08-26T21:52:22",
+    "updated_at": "2025-08-31T16:34:38"
   },
   {
     "name": "tmux-minimal-theme",
     "full_name": "binoymanoj/tmux-minimal-theme",
     "description": "A clean, minimal, and highly customizable tmux theme with built-in system monitoring",
     "url": "https://github.com/binoymanoj/tmux-minimal-theme",
-    "stars": 9,
+    "stars": 13,
     "daily_stars": 4,
     "language": "Shell",
     "topics": [
@@ -36,147 +55,15 @@
       "workflow"
     ],
     "created_at": "2025-08-30T17:32:37",
-    "updated_at": "2025-08-31T12:29:39"
-  },
-  {
-    "name": "contrastive-rl",
-    "full_name": "lucidrains/contrastive-rl",
-    "description": "Contrastive Reinforcement Learning",
-    "url": "https://github.com/lucidrains/contrastive-rl",
-    "stars": 20,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-08-29T19:44:31",
-    "updated_at": "2025-08-31T12:58:04"
-  },
-  {
-    "name": "InfiGUI-G1",
-    "full_name": "InfiXAI/InfiGUI-G1",
-    "description": "Official repository for InfiGUI-G1. We introduce Adaptive Exploration Policy Optimization (AEPO) to overcome semantic alignment bottlenecks in GUI agents through efficient, guided exploration.",
-    "url": "https://github.com/InfiXAI/InfiGUI-G1",
-    "stars": 107,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "computer-vision",
-      "deep-learning",
-      "gui-agent",
-      "gui-grounding",
-      "large-language-models",
-      "multimodal-llm",
-      "reinforcement-learning"
-    ],
-    "created_at": "2025-08-07T06:45:54",
-    "updated_at": "2025-08-31T09:51:44"
-  },
-  {
-    "name": "awesome-AI-toolkit",
-    "full_name": "balavenkatesh3322/awesome-AI-toolkit",
-    "description": "A curated, comprehensive collection of open-source AI tools, frameworks, datasets, courses, and seminal papers.",
-    "url": "https://github.com/balavenkatesh3322/awesome-AI-toolkit",
-    "stars": 143,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-research-and-development",
-      "ai-tools",
-      "ai-tools-directory",
-      "awesome",
-      "awesome-list",
-      "awesome-readme",
-      "deep-learning",
-      "genai",
-      "generative-ai",
-      "llm",
-      "machine-learning",
-      "mlops",
-      "open-source",
-      "production"
-    ],
-    "created_at": "2025-08-19T14:32:04",
-    "updated_at": "2025-08-31T10:01:49"
-  },
-  {
-    "name": "ai-infrastructure-agent",
-    "full_name": "VersusControl/ai-infrastructure-agent",
-    "description": "AI Infrastructure Agent is an intelligent system that allows you to manage AWS infrastructure using natural language commands.",
-    "url": "https://github.com/VersusControl/ai-infrastructure-agent",
-    "stars": 22,
-    "daily_stars": 2,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "aws",
-      "devops",
-      "infrastructure",
-      "mcp"
-    ],
-    "created_at": "2025-08-30T06:49:43",
-    "updated_at": "2025-08-31T09:56:29"
-  },
-  {
-    "name": "LangExtract-Gemma-Structured-Extraction",
-    "full_name": "kennethleungty/LangExtract-Gemma-Structured-Extraction",
-    "description": "Using LangExtract and Gemma 3 for structured information extraction from unstructured text in insurance polices",
-    "url": "https://github.com/kennethleungty/LangExtract-Gemma-Structured-Extraction",
-    "stars": 14,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "data-science",
-      "deep-learning",
-      "gemini",
-      "gemma",
-      "gemma3-4b",
-      "google",
-      "langextract",
-      "large-language-models",
-      "llm",
-      "llms",
-      "machine-learning",
-      "openai",
-      "structured-data",
-      "unstructured-data"
-    ],
-    "created_at": "2025-08-15T15:48:03",
-    "updated_at": "2025-08-31T08:48:43"
-  },
-  {
-    "name": "DeepMCPAgent",
-    "full_name": "cryxnet/DeepMCPAgent",
-    "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
-    "url": "https://github.com/cryxnet/DeepMCPAgent",
-    "stars": 5,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-08-29T13:49:43",
-    "updated_at": "2025-08-31T08:46:22"
-  },
-  {
-    "name": "RedDynasty",
-    "full_name": "ctkqiang/RedDynasty",
-    "description": "RedDynasty 是一款为红队行动、渗透测试和网络攻防演练量身定制的大语言模型工具，结合精心打磨的提示工程，让 AI 以战术化、结构化的方式回应，就像一名老道的网络作战军师，协助你分析日志、提炼情报、模拟攻击链、制定作战计划。无论是迅速锁定漏洞、整理入侵痕迹，还是推演渗透路径，RedDynasty 都能在暗潮汹涌的网络战场，为你提供敏锐、精准、贴近红队思维的智力支持。",
-    "url": "https://github.com/ctkqiang/RedDynasty",
-    "stars": 4,
-    "daily_stars": 1,
-    "language": "C",
-    "topics": [],
-    "created_at": "2025-08-13T15:20:08",
-    "updated_at": "2025-08-31T09:17:11"
+    "updated_at": "2025-08-31T13:58:26"
   },
   {
     "name": "prism-mcp-rs",
     "full_name": "prismworks-ai/prism-mcp-rs",
     "description": "Enterprise-grade Rust implementation of Anthropic's MCP protocol",
     "url": "https://github.com/prismworks-ai/prism-mcp-rs",
-    "stars": 25,
-    "daily_stars": 1,
+    "stars": 28,
+    "daily_stars": 3,
     "language": "Rust",
     "topics": [
       "agentic",
@@ -201,6 +88,100 @@
       "sdk"
     ],
     "created_at": "2025-08-10T01:31:25",
-    "updated_at": "2025-08-31T12:07:11"
+    "updated_at": "2025-08-31T15:51:05"
+  },
+  {
+    "name": "ai-infrastructure-agent",
+    "full_name": "VersusControl/ai-infrastructure-agent",
+    "description": "AI Infrastructure Agent is an intelligent system that allows you to manage AWS infrastructure using natural language commands.",
+    "url": "https://github.com/VersusControl/ai-infrastructure-agent",
+    "stars": 24,
+    "daily_stars": 2,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "aws",
+      "devops",
+      "infrastructure",
+      "mcp"
+    ],
+    "created_at": "2025-08-30T06:49:43",
+    "updated_at": "2025-08-31T13:27:31"
+  },
+  {
+    "name": "utcp-agent",
+    "full_name": "universal-tool-calling-protocol/utcp-agent",
+    "description": "The easiest way to build an agent that interacts with any tool or native endpoint",
+    "url": "https://github.com/universal-tool-calling-protocol/utcp-agent",
+    "stars": 12,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-08-26T14:45:22",
+    "updated_at": "2025-08-31T13:41:57"
+  },
+  {
+    "name": "DeepMCPAgent",
+    "full_name": "cryxnet/DeepMCPAgent",
+    "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
+    "url": "https://github.com/cryxnet/DeepMCPAgent",
+    "stars": 6,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-08-29T13:49:43",
+    "updated_at": "2025-08-31T14:49:51"
+  },
+  {
+    "name": "FraudTagger-Cardputer",
+    "full_name": "forshaws/FraudTagger-Cardputer",
+    "description": "M5Stack Cardputer interface for the FraudTagger API",
+    "url": "https://github.com/forshaws/FraudTagger-Cardputer",
+    "stars": 6,
+    "daily_stars": 1,
+    "language": "C++",
+    "topics": [],
+    "created_at": "2025-08-04T20:24:21",
+    "updated_at": "2025-08-31T13:06:29"
+  },
+  {
+    "name": "gamestudio-subagents",
+    "full_name": "pamirtuna/gamestudio-subagents",
+    "description": "AI-Powered Game Development Team in Your Terminal",
+    "url": "https://github.com/pamirtuna/gamestudio-subagents",
+    "stars": 93,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "aiworkflow",
+      "game-design",
+      "gamedev",
+      "gamedevelopment",
+      "godot-engine",
+      "unity",
+      "unreal-engine"
+    ],
+    "created_at": "2025-08-15T22:20:42",
+    "updated_at": "2025-08-31T13:28:07"
+  },
+  {
+    "name": "awesome-n8n-workflows",
+    "full_name": "felipfr/awesome-n8n-workflows",
+    "description": "A curated collection of awesome n8n workflows for automation, integration, and productivity. Explore ready-to-use JSON workflows for analytics, communication, CRM, e-commerce, finance, HR, marketing, monitoring, security, and more.",
+    "url": "https://github.com/felipfr/awesome-n8n-workflows",
+    "stars": 210,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "automation",
+      "integration",
+      "n8n",
+      "productivity",
+      "workflow"
+    ],
+    "created_at": "2025-08-07T15:39:26",
+    "updated_at": "2025-08-31T13:06:10"
   }
 ]
