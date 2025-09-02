@@ -4,8 +4,8 @@
     "full_name": "automazeio/ccpm",
     "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
     "url": "https://github.com/automazeio/ccpm",
-    "stars": 3433,
-    "daily_stars": 11,
+    "stars": 3479,
+    "daily_stars": 46,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -16,15 +16,15 @@
       "vibe-coding"
     ],
     "created_at": "2025-08-18T23:20:08",
-    "updated_at": "2025-09-02T12:25:24"
+    "updated_at": "2025-09-02T16:40:40"
   },
   {
     "name": "actions-up",
     "full_name": "azat-io/actions-up",
     "description": "🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA pinning",
     "url": "https://github.com/azat-io/actions-up",
-    "stars": 168,
-    "daily_stars": 10,
+    "stars": 176,
+    "daily_stars": 8,
     "language": "TypeScript",
     "topics": [
       "actions",
@@ -35,27 +35,151 @@
       "workflow"
     ],
     "created_at": "2025-08-26T21:52:22",
-    "updated_at": "2025-09-02T12:57:55"
+    "updated_at": "2025-09-02T16:33:43"
   },
   {
-    "name": "tmux-minimal-theme",
-    "full_name": "binoymanoj/tmux-minimal-theme",
-    "description": "A clean, minimal, and highly customizable tmux theme with built-in system monitoring",
-    "url": "https://github.com/binoymanoj/tmux-minimal-theme",
-    "stars": 21,
-    "daily_stars": 2,
-    "language": "Shell",
+    "name": "contrastive-rl",
+    "full_name": "lucidrains/contrastive-rl",
+    "description": "Contrastive Reinforcement Learning",
+    "url": "https://github.com/lucidrains/contrastive-rl",
+    "stars": 30,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-08-29T19:44:31",
+    "updated_at": "2025-09-02T15:07:11"
+  },
+  {
+    "name": "voicery",
+    "full_name": "unicodeveloper/voicery",
+    "description": "Play with voices. Speak any language. Clone your vibe.",
+    "url": "https://github.com/unicodeveloper/voicery",
+    "stars": 4,
+    "daily_stars": 1,
+    "language": "TypeScript",
     "topics": [
-      "catppuccin",
-      "dark-theme",
-      "minimal",
-      "status-line",
-      "tmux",
-      "tmux-plugin",
+      "ai",
+      "audio",
+      "elevenlabs",
+      "language",
+      "language-model",
+      "machine-learning",
+      "voice"
+    ],
+    "created_at": "2025-08-06T22:04:45",
+    "updated_at": "2025-09-02T16:03:23"
+  },
+  {
+    "name": "awesome-private-ai",
+    "full_name": "tdi/awesome-private-ai",
+    "description": "Curated list of tools, frameworks, and resources for running, building, and deploying AI privately — on-prem, air-gapped, or self-hosted.",
+    "url": "https://github.com/tdi/awesome-private-ai",
+    "stars": 136,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "ai",
+      "ai-agents",
+      "awesome",
+      "awesome-list",
+      "llm",
+      "self-hosted"
+    ],
+    "created_at": "2025-08-13T13:24:53",
+    "updated_at": "2025-09-02T16:38:27"
+  },
+  {
+    "name": "prism-mcp-rs",
+    "full_name": "prismworks-ai/prism-mcp-rs",
+    "description": "Enterprise-grade Rust implementation of Anthropic's MCP protocol",
+    "url": "https://github.com/prismworks-ai/prism-mcp-rs",
+    "stars": 32,
+    "daily_stars": 1,
+    "language": "Rust",
+    "topics": [
+      "agentic",
+      "agents",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "api",
+      "assistant",
+      "claude",
+      "cursor",
+      "enterprise",
+      "framework",
+      "integration",
+      "language-models",
+      "llm",
+      "mcp",
+      "model-context-protocol",
+      "plugin-system",
+      "production",
+      "rust",
+      "sdk"
+    ],
+    "created_at": "2025-08-10T01:31:25",
+    "updated_at": "2025-09-02T14:57:14"
+  },
+  {
+    "name": "ai-tools-manager",
+    "full_name": "ArshdeepGrover/ai-tools-manager",
+    "description": "A curated collection of powerful AI tools, maintained by the community. This project welcomes contributions from developers worldwide to help build the most comprehensive AI tools directory.",
+    "url": "https://github.com/ArshdeepGrover/ai-tools-manager",
+    "stars": 7,
+    "daily_stars": 1,
+    "language": "CSS",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "ai-tools-directory",
+      "ai-tools-list",
+      "css3",
+      "html",
+      "javascript",
+      "tools"
+    ],
+    "created_at": "2025-08-23T09:12:21",
+    "updated_at": "2025-09-02T16:41:12"
+  },
+  {
+    "name": "notebooks",
+    "full_name": "deep-learning-for-biology/notebooks",
+    "description": "Notebooks to follow along with \"Deep Learning for Biology\" Chapters 2 to 6.",
+    "url": "https://github.com/deep-learning-for-biology/notebooks",
+    "stars": 4,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "biology",
+      "biology-education",
+      "cancer",
+      "deep-learning",
+      "dna",
+      "graphs",
+      "localization",
+      "machine-learning",
+      "proteins"
+    ],
+    "created_at": "2025-08-19T13:29:11",
+    "updated_at": "2025-09-02T16:42:16"
+  },
+  {
+    "name": "medi",
+    "full_name": "cladam/medi",
+    "description": "CLI driven Markdown manager",
+    "url": "https://github.com/cladam/medi",
+    "stars": 4,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "cli",
+      "markdown",
       "workflow"
     ],
-    "created_at": "2025-08-30T17:32:37",
-    "updated_at": "2025-09-02T11:02:00"
+    "created_at": "2025-08-08T08:12:22",
+    "updated_at": "2025-09-02T15:10:05"
   },
   {
     "name": "best-llm-finder-pipeline",
@@ -63,122 +187,10 @@
     "description": "Agentic RAG, Multi-Agent Systems, and Vision Reasoning are three pipelines to find the perfect LLM",
     "url": "https://github.com/FareedKhan-dev/best-llm-finder-pipeline",
     "stars": 100,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Jupyter Notebook",
     "topics": [],
     "created_at": "2025-08-20T16:26:54",
     "updated_at": "2025-09-02T09:45:55"
-  },
-  {
-    "name": "maverick-mcp",
-    "full_name": "wshobson/maverick-mcp",
-    "description": "MaverickMCP - Personal Stock Analysis MCP Server",
-    "url": "https://github.com/wshobson/maverick-mcp",
-    "stars": 29,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-08-24T15:24:20",
-    "updated_at": "2025-09-02T10:51:27"
-  },
-  {
-    "name": "water-futures-battle",
-    "full_name": "WaterFutures/water-futures-battle",
-    "description": "Part of the Battle of Water Networks competition series | WDSA/CCWI 2026, May 18-21, Paphos, Cyprus. Design & operate water distribution systems under deep uncertainty, featuring staged interventions, AI & policymaking.",
-    "url": "https://github.com/WaterFutures/water-futures-battle",
-    "stars": 6,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [],
-    "created_at": "2025-08-23T10:07:07",
-    "updated_at": "2025-09-02T09:01:04"
-  },
-  {
-    "name": "LogiFlow-AI-Intelligent-Logistics-Management-Platform",
-    "full_name": "MiChaelinzo/LogiFlow-AI-Intelligent-Logistics-Management-Platform",
-    "description": "🚀 LogiFlow AI: Intelligent logistics powered by TiDB Serverless vector search & multi-step AI agents. Predictive maintenance, route optimization & emergency response - all automated! 🤖📦",
-    "url": "https://github.com/MiChaelinzo/LogiFlow-AI-Intelligent-Logistics-Management-Platform",
-    "stars": 2,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "artificial-intelligence",
-      "forge-agentic-ai",
-      "logistics",
-      "open-ai",
-      "open-source",
-      "tidb-ai-agent",
-      "tidb-cluster",
-      "tidb-serverless",
-      "tidbcloud",
-      "tidbcloud-provider",
-      "vite"
-    ],
-    "created_at": "2025-08-24T09:39:28",
-    "updated_at": "2025-09-02T09:01:25"
-  },
-  {
-    "name": "ai-infrastructure-agent",
-    "full_name": "VersusControl/ai-infrastructure-agent",
-    "description": "AI Infrastructure Agent is an intelligent system that allows you to manage AWS infrastructure using natural language commands.",
-    "url": "https://github.com/VersusControl/ai-infrastructure-agent",
-    "stars": 38,
-    "daily_stars": 1,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "aws",
-      "devops",
-      "infrastructure",
-      "mcp"
-    ],
-    "created_at": "2025-08-30T06:49:43",
-    "updated_at": "2025-09-02T11:38:23"
-  },
-  {
-    "name": "agentwise",
-    "full_name": "VibeCodingWithPhil/agentwise",
-    "description": "🚀 Multi-Agent Orchestration System for Claude Code - Transform your development with parallel AI agent execution and 30-40% token optimization",
-    "url": "https://github.com/VibeCodingWithPhil/agentwise",
-    "stars": 19,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "ai-powered",
-      "automation",
-      "claude-code",
-      "development-tools",
-      "multi-agent",
-      "nodejs",
-      "orchestration",
-      "typescript",
-      "workflow-automation"
-    ],
-    "created_at": "2025-08-19T17:09:48",
-    "updated_at": "2025-09-02T10:16:42"
-  },
-  {
-    "name": "v0.app",
-    "full_name": "likhonsdev/v0.app",
-    "description": "v0 is now powered by agentic AI: smarter systems that plan, research, and build alongside you.",
-    "url": "https://github.com/likhonsdev/v0.app",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-sdlc",
-      "airflow",
-      "claude",
-      "gemini",
-      "v0",
-      "v0dev",
-      "vercel"
-    ],
-    "created_at": "2025-08-13T11:51:49",
-    "updated_at": "2025-09-02T11:54:53"
   }
 ]
