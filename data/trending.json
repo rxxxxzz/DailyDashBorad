@@ -4,8 +4,8 @@
     "full_name": "automazeio/ccpm",
     "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
     "url": "https://github.com/automazeio/ccpm",
-    "stars": 3508,
-    "daily_stars": 29,
+    "stars": 3561,
+    "daily_stars": 53,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -16,15 +16,15 @@
       "vibe-coding"
     ],
     "created_at": "2025-08-18T23:20:08",
-    "updated_at": "2025-09-02T20:23:47"
+    "updated_at": "2025-09-03T01:57:12"
   },
   {
     "name": "actions-up",
     "full_name": "azat-io/actions-up",
     "description": "🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA pinning",
     "url": "https://github.com/azat-io/actions-up",
-    "stars": 186,
-    "daily_stars": 10,
+    "stars": 199,
+    "daily_stars": 13,
     "language": "TypeScript",
     "topics": [
       "actions",
@@ -35,78 +35,97 @@
       "workflow"
     ],
     "created_at": "2025-08-26T21:52:22",
-    "updated_at": "2025-09-02T20:07:40"
+    "updated_at": "2025-09-03T00:30:36"
   },
   {
-    "name": "flowbaker",
-    "full_name": "flowbaker/flowbaker",
-    "description": "Execution Engine for flowbaker.io",
-    "url": "https://github.com/flowbaker/flowbaker",
-    "stars": 17,
-    "daily_stars": 7,
-    "language": "Go",
+    "name": "rag-ecosystem",
+    "full_name": "FareedKhan-dev/rag-ecosystem",
+    "description": "Understand and code every important component of RAG architecture",
+    "url": "https://github.com/FareedKhan-dev/rag-ecosystem",
+    "stars": 159,
+    "daily_stars": 3,
+    "language": "Jupyter Notebook",
     "topics": [
-      "agents",
-      "ai",
-      "aiagents",
-      "automation",
-      "integrations",
-      "workflow",
-      "workflows"
-    ],
-    "created_at": "2025-08-09T15:53:25",
-    "updated_at": "2025-09-02T20:27:14"
-  },
-  {
-    "name": "best-of-ai",
-    "full_name": "best-of-ai/best-of-ai",
-    "description": "A curated list of best ai tools",
-    "url": "https://github.com/best-of-ai/best-of-ai",
-    "stars": 300,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "ai",
       "ai-agents",
-      "ai-assistant",
-      "ai-chatbot",
-      "ai-engineering",
-      "ai-tools",
-      "ai-tools-directory",
-      "awesome",
-      "awesome-list",
-      "best-of-ai"
-    ],
-    "created_at": "2025-08-14T08:44:13",
-    "updated_at": "2025-09-02T17:01:47"
-  },
-  {
-    "name": "react-native-parlant",
-    "full_name": "watadarkstar/react-native-parlant",
-    "description": "A React Native library for integrating Parlant AI agents into your React Native / Expo / React applications.",
-    "url": "https://github.com/watadarkstar/react-native-parlant",
-    "stars": 26,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "ai-agents",
+      "langchain",
       "llm",
       "openai",
-      "parlant",
-      "react-native",
-      "react-native-parlant",
-      "typescript"
+      "rag"
     ],
-    "created_at": "2025-08-20T23:36:04",
-    "updated_at": "2025-09-02T18:49:18"
+    "created_at": "2025-08-07T07:30:59",
+    "updated_at": "2025-09-03T00:54:25"
+  },
+  {
+    "name": "DeepMCPAgent",
+    "full_name": "cryxnet/DeepMCPAgent",
+    "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
+    "url": "https://github.com/cryxnet/DeepMCPAgent",
+    "stars": 8,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-08-29T13:49:43",
+    "updated_at": "2025-09-02T23:48:01"
+  },
+  {
+    "name": "ZIP",
+    "full_name": "vt-asaplab/ZIP",
+    "description": "Zero-Knowledge AI Inference with High Precision",
+    "url": "https://github.com/vt-asaplab/ZIP",
+    "stars": 3,
+    "daily_stars": 2,
+    "language": "C",
+    "topics": [
+      "aiaas",
+      "artificial-intelligence",
+      "caulk",
+      "go",
+      "high-precision-approximation",
+      "high-precision-zero-knowledge-proofs",
+      "ieee-754-floating-point",
+      "lookup-table",
+      "machine-learning",
+      "numerical-precision",
+      "plonk",
+      "python",
+      "rust",
+      "verifiable-computation",
+      "zero",
+      "zero-knowledge-proofs"
+    ],
+    "created_at": "2025-08-21T15:42:26",
+    "updated_at": "2025-09-03T02:03:55"
+  },
+  {
+    "name": "utcp-agent",
+    "full_name": "universal-tool-calling-protocol/utcp-agent",
+    "description": "The easiest way to build an agent that interacts with any tool or native endpoint",
+    "url": "https://github.com/universal-tool-calling-protocol/utcp-agent",
+    "stars": 18,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-08-26T14:45:22",
+    "updated_at": "2025-09-03T01:55:39"
+  },
+  {
+    "name": "haarf",
+    "full_name": "Task-force-for-AI-agents-in-Healthcare/haarf",
+    "description": "⚕️ the world's first unified, lifecycle-centric regulatory framework specifically designed for autonomous AI agents in medical environments (270+ requirements, 3 risk categories).",
+    "url": "https://github.com/Task-force-for-AI-agents-in-Healthcare/haarf",
+    "stars": 4,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [],
+    "created_at": "2025-08-30T16:42:44",
+    "updated_at": "2025-09-03T00:45:27"
   },
   {
     "name": "PhotoMapAI",
     "full_name": "lstein/PhotoMapAI",
     "description": "A modern image browser and search tool that uses AI to generate a \"semantic map\" of your collection.",
     "url": "https://github.com/lstein/PhotoMapAI",
-    "stars": 10,
+    "stars": 11,
     "daily_stars": 1,
     "language": "JavaScript",
     "topics": [
@@ -127,58 +146,46 @@
       "web-app"
     ],
     "created_at": "2025-08-18T23:09:57",
-    "updated_at": "2025-09-02T19:25:51"
+    "updated_at": "2025-09-03T01:49:57"
   },
   {
-    "name": "dragon-npu",
-    "full_name": "In2infinity/dragon-npu",
-    "description": "🐉 Revolutionary NPU framework for Linux | 24,988 FPS face recognition | AMD XDNA support | World's first complete NPU stack",
-    "url": "https://github.com/In2infinity/dragon-npu",
-    "stars": 8,
+    "name": "tnn",
+    "full_name": "akshathmangudi/tnn",
+    "description": "Faithful reproduction of the paper \"Tversky Neural Networks: Psychologically Plausible Deep Learning with Differentiable Tversky Similarity\"",
+    "url": "https://github.com/akshathmangudi/tnn",
+    "stars": 7,
     "daily_stars": 1,
     "language": "Python",
-    "topics": [],
-    "created_at": "2025-08-06T00:27:16",
-    "updated_at": "2025-09-02T17:37:09"
-  },
-  {
-    "name": "medi",
-    "full_name": "cladam/medi",
-    "description": "CLI driven Markdown manager",
-    "url": "https://github.com/cladam/medi",
-    "stars": 5,
-    "daily_stars": 1,
-    "language": null,
     "topics": [
-      "cli",
-      "markdown",
-      "workflow"
+      "deep-learning",
+      "reproduction",
+      "tversky"
     ],
-    "created_at": "2025-08-08T08:12:22",
-    "updated_at": "2025-09-02T18:09:45"
+    "created_at": "2025-08-14T20:47:37",
+    "updated_at": "2025-09-02T21:50:15"
   },
   {
-    "name": "best-llm-finder-pipeline",
-    "full_name": "FareedKhan-dev/best-llm-finder-pipeline",
-    "description": "Agentic RAG, Multi-Agent Systems, and Vision Reasoning are three pipelines to find the perfect LLM",
-    "url": "https://github.com/FareedKhan-dev/best-llm-finder-pipeline",
-    "stars": 100,
-    "daily_stars": 0,
-    "language": "Jupyter Notebook",
-    "topics": [],
-    "created_at": "2025-08-20T16:26:54",
-    "updated_at": "2025-09-02T09:45:55"
-  },
-  {
-    "name": "contrastive-rl",
-    "full_name": "lucidrains/contrastive-rl",
-    "description": "Contrastive Reinforcement Learning",
-    "url": "https://github.com/lucidrains/contrastive-rl",
-    "stars": 30,
-    "daily_stars": 0,
+    "name": "ML-Optimizer-Benchmark",
+    "full_name": "AidinHamedi/ML-Optimizer-Benchmark",
+    "description": "A benchmark suite for optimization algorithms in pytorch",
+    "url": "https://github.com/AidinHamedi/ML-Optimizer-Benchmark",
+    "stars": 2,
+    "daily_stars": 1,
     "language": "Python",
-    "topics": [],
-    "created_at": "2025-08-29T19:44:31",
-    "updated_at": "2025-09-02T15:07:11"
+    "topics": [
+      "benchmark",
+      "deep-learning",
+      "machine-learning",
+      "ml",
+      "optimization",
+      "optimization-algorithms",
+      "optimizer",
+      "python",
+      "python3",
+      "pytorch",
+      "test"
+    ],
+    "created_at": "2025-08-11T09:14:49",
+    "updated_at": "2025-09-02T22:44:23"
   }
 ]
