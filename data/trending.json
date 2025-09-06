@@ -4,7 +4,7 @@
     "full_name": "Varietyz/Disciplined-AI-Software-Development",
     "description": "This methodology provides a structured approach for collaborating with AI systems on software development projects. It addresses common issues like code bloat, architectural drift, and context dilution through systematic constraints and validation checkpoints.",
     "url": "https://github.com/Varietyz/Disciplined-AI-Software-Development",
-    "stars": 82,
+    "stars": 147,
     "daily_stars": 65,
     "language": "Python",
     "topics": [
@@ -30,15 +30,27 @@
       "workflow"
     ],
     "created_at": "2025-09-04T13:53:02",
-    "updated_at": "2025-09-06T16:35:44"
+    "updated_at": "2025-09-06T20:36:45"
+  },
+  {
+    "name": "DeepMCPAgent",
+    "full_name": "cryxnet/DeepMCPAgent",
+    "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
+    "url": "https://github.com/cryxnet/DeepMCPAgent",
+    "stars": 55,
+    "daily_stars": 46,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-08-29T13:49:43",
+    "updated_at": "2025-09-06T20:28:29"
   },
   {
     "name": "ccpm",
     "full_name": "automazeio/ccpm",
     "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
     "url": "https://github.com/automazeio/ccpm",
-    "stars": 4094,
-    "daily_stars": 18,
+    "stars": 4104,
+    "daily_stars": 10,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -49,169 +61,135 @@
       "vibe-coding"
     ],
     "created_at": "2025-08-18T23:20:08",
-    "updated_at": "2025-09-06T16:30:01"
+    "updated_at": "2025-09-06T20:20:10"
   },
   {
     "name": "log-generator",
     "full_name": "summved/log-generator",
     "description": "This tool will be invaluable for: SIEM Testing - Generate realistic multi-source logs Security Training - Reproducible scenarios for education Development - Consistent test data for log processing systems Research - Controlled log generation for cybersecurity studies",
     "url": "https://github.com/summved/log-generator",
-    "stars": 12,
-    "daily_stars": 9,
+    "stars": 14,
+    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [],
     "created_at": "2025-09-04T07:39:51",
-    "updated_at": "2025-09-06T15:41:14"
+    "updated_at": "2025-09-06T18:32:01"
   },
   {
-    "name": "flowbaker",
-    "full_name": "flowbaker/flowbaker",
-    "description": "Execution Engine for flowbaker.io",
-    "url": "https://github.com/flowbaker/flowbaker",
-    "stars": 25,
-    "daily_stars": 2,
-    "language": "Go",
-    "topics": [
-      "agents",
-      "ai",
-      "aiagents",
-      "automation",
-      "integrations",
-      "workflow",
-      "workflows"
-    ],
-    "created_at": "2025-08-09T15:53:25",
-    "updated_at": "2025-09-06T13:47:25"
-  },
-  {
-    "name": "best-of-ai",
-    "full_name": "best-of-ai/best-of-ai",
-    "description": "A curated list of best ai tools",
-    "url": "https://github.com/best-of-ai/best-of-ai",
-    "stars": 317,
+    "name": "awesome-private-ai",
+    "full_name": "tdi/awesome-private-ai",
+    "description": "Curated list of tools, frameworks, and resources for running, building, and deploying AI privately — on-prem, air-gapped, or self-hosted.",
+    "url": "https://github.com/tdi/awesome-private-ai",
+    "stars": 140,
     "daily_stars": 1,
     "language": null,
     "topics": [
       "ai",
       "ai-agents",
-      "ai-assistant",
-      "ai-chatbot",
-      "ai-engineering",
-      "ai-tools",
-      "ai-tools-directory",
       "awesome",
       "awesome-list",
-      "best-of-ai"
+      "llm",
+      "self-hosted"
     ],
-    "created_at": "2025-08-14T08:44:13",
-    "updated_at": "2025-09-06T13:48:15"
+    "created_at": "2025-08-13T13:24:53",
+    "updated_at": "2025-09-06T17:40:35"
   },
   {
-    "name": "ai-infrastructure-agent",
-    "full_name": "VersusControl/ai-infrastructure-agent",
-    "description": "AI Infrastructure Agent is an intelligent system that allows you to manage AWS infrastructure using natural language commands.",
-    "url": "https://github.com/VersusControl/ai-infrastructure-agent",
-    "stars": 55,
+    "name": "temporal-ai-agent-pipeline",
+    "full_name": "FareedKhan-dev/temporal-ai-agent-pipeline",
+    "description": "Optimizing Dynamic Knowledge Base Using AI Agent",
+    "url": "https://github.com/FareedKhan-dev/temporal-ai-agent-pipeline",
+    "stars": 63,
     "daily_stars": 1,
-    "language": "Go",
+    "language": "Jupyter Notebook",
     "topics": [
-      "ai",
       "ai-agents",
-      "aws",
-      "devops",
-      "infrastructure",
-      "mcp"
+      "database",
+      "langchain",
+      "langgraph",
+      "openai",
+      "rag"
     ],
-    "created_at": "2025-08-30T06:49:43",
-    "updated_at": "2025-09-06T14:01:51"
+    "created_at": "2025-08-13T12:27:51",
+    "updated_at": "2025-09-06T17:31:16"
   },
   {
-    "name": "ai-tools-manager",
-    "full_name": "ArshdeepGrover/ai-tools-manager",
-    "description": "A curated collection of powerful AI tools, maintained by the community. This project welcomes contributions from developers worldwide to help build the most comprehensive AI tools directory.",
-    "url": "https://github.com/ArshdeepGrover/ai-tools-manager",
-    "stars": 9,
+    "name": "agentic-signal",
+    "full_name": "code-forge-temple/agentic-signal",
+    "description": "🤖 Visual AI agent workflow automation platform with local LLM integration - build intelligent workflows using drag-and-drop interface, no cloud dependencies required.",
+    "url": "https://github.com/code-forge-temple/agentic-signal",
+    "stars": 36,
     "daily_stars": 1,
-    "language": "CSS",
+    "language": "TypeScript",
     "topics": [
-      "ai",
       "ai-agents",
-      "ai-tools",
-      "ai-tools-directory",
-      "ai-tools-list",
-      "css3",
-      "html",
-      "javascript",
-      "tools"
+      "ai-automation",
+      "gemma",
+      "gemma3n",
+      "llama",
+      "local-ai",
+      "local-llm",
+      "no-code",
+      "ollama",
+      "open-source",
+      "privacy-first",
+      "react-flow",
+      "typescript",
+      "visual-ai",
+      "visual-programming",
+      "workflow-automation",
+      "workflow-builder"
     ],
-    "created_at": "2025-08-23T09:12:21",
-    "updated_at": "2025-09-06T14:43:09"
+    "created_at": "2025-08-15T12:01:58",
+    "updated_at": "2025-09-06T18:44:07"
   },
   {
-    "name": "hanna",
-    "full_name": "h4ks-com/hanna",
-    "description": "Build sophisticated IRC bots using n8n's visual interface - no coding required",
-    "url": "https://github.com/h4ks-com/hanna",
-    "stars": 4,
-    "daily_stars": 1,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "automation",
-      "h4ks",
-      "homelab",
-      "integration",
-      "irc",
-      "irc-bot",
-      "n8n",
-      "n8n-community-node-package",
-      "workflow",
-      "workflow-automation"
-    ],
-    "created_at": "2025-08-26T01:07:38",
-    "updated_at": "2025-09-06T15:31:48"
-  },
-  {
-    "name": "laravel-travel-agent",
-    "full_name": "neuron-core/laravel-travel-agent",
-    "description": "How to integrate a multi-agent component into a Laravel application with Neuron PHP AI framework",
-    "url": "https://github.com/neuron-core/laravel-travel-agent",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "Blade",
-    "topics": [
-      "agent",
-      "agentic-framework",
-      "agentic-workflow",
-      "ai",
-      "ai-agents",
-      "ai-framework",
-      "ai-workflow",
-      "laravel",
-      "php"
-    ],
-    "created_at": "2025-09-03T15:19:53",
-    "updated_at": "2025-09-06T13:34:45"
-  },
-  {
-    "name": "Story2Board",
-    "full_name": "DavidDinkevich/Story2Board",
-    "description": "Official implementation for \"Story2Board: A Training‑Free Approach for Expressive Storyboard Generation\"",
-    "url": "https://github.com/DavidDinkevich/Story2Board",
-    "stars": 155,
+    "name": "a1facts",
+    "full_name": "shadi-fsai/a1facts",
+    "description": "a1facts - precise knowledge for AI agents",
+    "url": "https://github.com/shadi-fsai/a1facts",
+    "stars": 35,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "deep-learning",
-      "diffusion-models",
-      "generative-ai",
-      "machine-learning",
-      "storyboards",
-      "text-to-image",
-      "training-free"
+      "ai",
+      "ai-agents",
+      "knowledge-base",
+      "knowledge-based-ai",
+      "knowledge-graph"
     ],
-    "created_at": "2025-08-09T17:05:36",
-    "updated_at": "2025-09-06T13:14:54"
+    "created_at": "2025-08-28T23:10:04",
+    "updated_at": "2025-09-06T19:40:21"
+  },
+  {
+    "name": "awesome-code-docs",
+    "full_name": "johnxie/awesome-code-docs",
+    "description": "Technical tutorials that teach how complex systems actually work through production code examples",
+    "url": "https://github.com/johnxie/awesome-code-docs",
+    "stars": 7,
+    "daily_stars": 1,
+    "language": "Clojure",
+    "topics": [
+      "ai-agents",
+      "awesome-list",
+      "awesome-lists",
+      "awesome-readme",
+      "docs",
+      "llm"
+    ],
+    "created_at": "2025-09-04T22:06:29",
+    "updated_at": "2025-09-06T17:08:50"
+  },
+  {
+    "name": "shimmy",
+    "full_name": "Michael-A-Kuykendall/shimmy",
+    "description": "Local-first AI inference server with OpenAI API compatibility, auto-discovery, hot model swapping, and tool calling. Single-binary Rust solution for GGUF models with LoRA support. FREE now, FREE forever.",
+    "url": "https://github.com/Michael-A-Kuykendall/shimmy",
+    "stars": 40,
+    "daily_stars": 1,
+    "language": "Rust",
+    "topics": [],
+    "created_at": "2025-08-28T22:55:46",
+    "updated_at": "2025-09-06T20:26:40"
   }
 ]
