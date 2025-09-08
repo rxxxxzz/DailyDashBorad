@@ -1,10 +1,53 @@
 [
   {
+    "name": "ccpm",
+    "full_name": "automazeio/ccpm",
+    "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
+    "url": "https://github.com/automazeio/ccpm",
+    "stars": 4192,
+    "daily_stars": 21,
+    "language": "Shell",
+    "topics": [
+      "ai-agents",
+      "ai-coding",
+      "claude",
+      "claude-code",
+      "project-management",
+      "vibe-coding"
+    ],
+    "created_at": "2025-08-18T23:20:08",
+    "updated_at": "2025-09-08T02:12:13"
+  },
+  {
+    "name": "shimmy",
+    "full_name": "Michael-A-Kuykendall/shimmy",
+    "description": "Local-first AI inference server with OpenAI API compatibility, auto-discovery, hot model swapping, and tool calling. Single-binary Rust solution for GGUF models with LoRA support. FREE now, FREE forever.",
+    "url": "https://github.com/Michael-A-Kuykendall/shimmy",
+    "stars": 77,
+    "daily_stars": 19,
+    "language": "Rust",
+    "topics": [],
+    "created_at": "2025-08-28T22:55:46",
+    "updated_at": "2025-09-08T02:14:33"
+  },
+  {
+    "name": "DeepMCPAgent",
+    "full_name": "cryxnet/DeepMCPAgent",
+    "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
+    "url": "https://github.com/cryxnet/DeepMCPAgent",
+    "stars": 241,
+    "daily_stars": 15,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-08-29T13:49:43",
+    "updated_at": "2025-09-08T02:12:59"
+  },
+  {
     "name": "Disciplined-AI-Software-Development",
     "full_name": "Varietyz/Disciplined-AI-Software-Development",
     "description": "This methodology provides a structured approach for collaborating with AI systems on software development projects. It addresses common issues like code bloat, architectural drift, and context dilution through systematic constraints and validation checkpoints.",
     "url": "https://github.com/Varietyz/Disciplined-AI-Software-Development",
-    "stars": 231,
+    "stars": 242,
     "daily_stars": 11,
     "language": "Python",
     "topics": [
@@ -30,79 +73,15 @@
       "workflow"
     ],
     "created_at": "2025-09-04T13:53:02",
-    "updated_at": "2025-09-07T20:04:19"
-  },
-  {
-    "name": "DeepMCPAgent",
-    "full_name": "cryxnet/DeepMCPAgent",
-    "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
-    "url": "https://github.com/cryxnet/DeepMCPAgent",
-    "stars": 226,
-    "daily_stars": 10,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-08-29T13:49:43",
-    "updated_at": "2025-09-07T19:41:09"
-  },
-  {
-    "name": "ccpm",
-    "full_name": "automazeio/ccpm",
-    "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
-    "url": "https://github.com/automazeio/ccpm",
-    "stars": 4171,
-    "daily_stars": 10,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
-      "ai-coding",
-      "claude",
-      "claude-code",
-      "project-management",
-      "vibe-coding"
-    ],
-    "created_at": "2025-08-18T23:20:08",
-    "updated_at": "2025-09-07T20:35:24"
-  },
-  {
-    "name": "agentic-design-patterns-book-rus",
-    "full_name": "pridees/agentic-design-patterns-book-rus",
-    "description": "📖 Перевод книги Антонио Гулли - Agentic Design Patterns: Практическое руководство по созданию интеллектуальных систем",
-    "url": "https://github.com/pridees/agentic-design-patterns-book-rus",
-    "stars": 36,
-    "daily_stars": 6,
-    "language": null,
-    "topics": [
-      "adk",
-      "agentic-ai-development",
-      "ai",
-      "ai-agents",
-      "langchain",
-      "langgraph",
-      "prompt-engineering",
-      "python"
-    ],
-    "created_at": "2025-09-04T06:37:27",
-    "updated_at": "2025-09-07T20:36:56"
-  },
-  {
-    "name": "shimmy",
-    "full_name": "Michael-A-Kuykendall/shimmy",
-    "description": "Local-first AI inference server with OpenAI API compatibility, auto-discovery, hot model swapping, and tool calling. Single-binary Rust solution for GGUF models with LoRA support. FREE now, FREE forever.",
-    "url": "https://github.com/Michael-A-Kuykendall/shimmy",
-    "stars": 58,
-    "daily_stars": 5,
-    "language": "Rust",
-    "topics": [],
-    "created_at": "2025-08-28T22:55:46",
-    "updated_at": "2025-09-07T19:23:46"
+    "updated_at": "2025-09-08T01:49:28"
   },
   {
     "name": "awesome-AI-toolkit",
     "full_name": "balavenkatesh3322/awesome-AI-toolkit",
     "description": "A curated, comprehensive collection of open-source AI tools, frameworks, datasets, courses, and seminal papers.",
     "url": "https://github.com/balavenkatesh3322/awesome-AI-toolkit",
-    "stars": 161,
-    "daily_stars": 3,
+    "stars": 165,
+    "daily_stars": 4,
     "language": null,
     "topics": [
       "ai",
@@ -123,83 +102,93 @@
       "production"
     ],
     "created_at": "2025-08-19T14:32:04",
-    "updated_at": "2025-09-07T18:28:03"
+    "updated_at": "2025-09-08T02:13:18"
   },
   {
-    "name": "multi-agent-trading-system",
-    "full_name": "FareedKhan-dev/multi-agent-trading-system",
-    "description": "Implementation of Deep Thinking Trading System",
-    "url": "https://github.com/FareedKhan-dev/multi-agent-trading-system",
-    "stars": 15,
-    "daily_stars": 2,
-    "language": "Jupyter Notebook",
+    "name": "agentic-design-patterns-book-rus",
+    "full_name": "pridees/agentic-design-patterns-book-rus",
+    "description": "📖 Перевод книги Антонио Гулли - Agentic Design Patterns: Практическое руководство по созданию интеллектуальных систем",
+    "url": "https://github.com/pridees/agentic-design-patterns-book-rus",
+    "stars": 39,
+    "daily_stars": 3,
+    "language": null,
     "topics": [
-      "agent",
+      "adk",
+      "agentic-ai-development",
+      "ai",
       "ai-agents",
-      "multi-agent-systems",
-      "openai",
-      "trading"
+      "langchain",
+      "langgraph",
+      "prompt-engineering",
+      "python"
     ],
-    "created_at": "2025-09-04T10:15:22",
-    "updated_at": "2025-09-07T18:20:15"
+    "created_at": "2025-09-04T06:37:27",
+    "updated_at": "2025-09-07T21:32:26"
   },
   {
-    "name": "ai-infrastructure-agent",
-    "full_name": "VersusControl/ai-infrastructure-agent",
-    "description": "AI Infrastructure Agent is an intelligent system that allows you to manage AWS infrastructure using natural language commands.",
-    "url": "https://github.com/VersusControl/ai-infrastructure-agent",
-    "stars": 56,
+    "name": "maverick-mcp",
+    "full_name": "wshobson/maverick-mcp",
+    "description": "MaverickMCP - Personal Stock Analysis MCP Server",
+    "url": "https://github.com/wshobson/maverick-mcp",
+    "stars": 39,
     "daily_stars": 1,
-    "language": "Go",
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-08-24T15:24:20",
+    "updated_at": "2025-09-07T20:53:59"
+  },
+  {
+    "name": "big-brain",
+    "full_name": "probelabs/big-brain",
+    "description": "BigBrain MCP Server - When your AI needs a bigger brain. Intelligent context extraction and round-trip workflow for getting fresh AI insights when stuck.",
+    "url": "https://github.com/probelabs/big-brain",
+    "stars": 4,
+    "daily_stars": 1,
+    "language": "JavaScript",
+    "topics": [],
+    "created_at": "2025-08-13T18:28:46",
+    "updated_at": "2025-09-07T22:45:15"
+  },
+  {
+    "name": "best-of-ai",
+    "full_name": "best-of-ai/best-of-ai",
+    "description": "A curated list of best ai tools",
+    "url": "https://github.com/best-of-ai/best-of-ai",
+    "stars": 320,
+    "daily_stars": 1,
+    "language": null,
     "topics": [
       "ai",
       "ai-agents",
-      "aws",
-      "devops",
-      "infrastructure",
-      "mcp"
+      "ai-assistant",
+      "ai-chatbot",
+      "ai-engineering",
+      "ai-tools",
+      "ai-tools-directory",
+      "awesome",
+      "awesome-list",
+      "best-of-ai"
     ],
-    "created_at": "2025-08-30T06:49:43",
-    "updated_at": "2025-09-07T18:13:57"
+    "created_at": "2025-08-14T08:44:13",
+    "updated_at": "2025-09-07T23:37:26"
   },
   {
-    "name": "a1facts",
-    "full_name": "shadi-fsai/a1facts",
-    "description": "a1facts - precise knowledge for AI agents",
-    "url": "https://github.com/shadi-fsai/a1facts",
-    "stars": 38,
+    "name": "awesome-private-ai",
+    "full_name": "tdi/awesome-private-ai",
+    "description": "Curated list of tools, frameworks, and resources for running, building, and deploying AI privately — on-prem, air-gapped, or self-hosted.",
+    "url": "https://github.com/tdi/awesome-private-ai",
+    "stars": 141,
     "daily_stars": 1,
-    "language": "Python",
+    "language": null,
     "topics": [
       "ai",
       "ai-agents",
-      "knowledge-base",
-      "knowledge-based-ai",
-      "knowledge-graph"
+      "awesome",
+      "awesome-list",
+      "llm",
+      "self-hosted"
     ],
-    "created_at": "2025-08-28T23:10:04",
-    "updated_at": "2025-09-07T18:56:26"
-  },
-  {
-    "name": "FractMorph",
-    "full_name": "shayankebriti/FractMorph",
-    "description": "A 3D Fractional Fourier-Based Multi-Domain Transformer for Deformable Image Registration",
-    "url": "https://github.com/shayankebriti/FractMorph",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "computer-vision",
-      "deep-learning",
-      "fractional-fourier-transfrom",
-      "image-registration",
-      "medical-image-computing",
-      "mri",
-      "multi-domain",
-      "transformer",
-      "vision-transformer"
-    ],
-    "created_at": "2025-08-23T00:54:59",
-    "updated_at": "2025-09-07T18:32:21"
+    "created_at": "2025-08-13T13:24:53",
+    "updated_at": "2025-09-07T22:40:55"
   }
 ]
