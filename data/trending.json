@@ -4,20 +4,72 @@
     "full_name": "Michael-A-Kuykendall/shimmy",
     "description": "Local-first AI inference server with OpenAI API compatibility, auto-discovery, hot model swapping, and tool calling. Single-binary Rust solution for GGUF models with LoRA support. FREE now, FREE forever.",
     "url": "https://github.com/Michael-A-Kuykendall/shimmy",
-    "stars": 103,
-    "daily_stars": 26,
+    "stars": 169,
+    "daily_stars": 66,
     "language": "Rust",
     "topics": [],
     "created_at": "2025-08-28T22:55:46",
-    "updated_at": "2025-09-08T04:40:07"
+    "updated_at": "2025-09-08T08:37:12"
+  },
+  {
+    "name": "agentic-design-patterns-book-rus",
+    "full_name": "pridees/agentic-design-patterns-book-rus",
+    "description": "📖 Перевод книги Антонио Гулли - Agentic Design Patterns: Практическое руководство по созданию интеллектуальных систем",
+    "url": "https://github.com/pridees/agentic-design-patterns-book-rus",
+    "stars": 84,
+    "daily_stars": 43,
+    "language": null,
+    "topics": [
+      "adk",
+      "agentic-ai-development",
+      "ai",
+      "ai-agents",
+      "langchain",
+      "langgraph",
+      "prompt-engineering",
+      "python"
+    ],
+    "created_at": "2025-09-04T06:37:27",
+    "updated_at": "2025-09-08T08:39:14"
+  },
+  {
+    "name": "ccpm",
+    "full_name": "automazeio/ccpm",
+    "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
+    "url": "https://github.com/automazeio/ccpm",
+    "stars": 4224,
+    "daily_stars": 19,
+    "language": "Shell",
+    "topics": [
+      "ai-agents",
+      "ai-coding",
+      "claude",
+      "claude-code",
+      "project-management",
+      "vibe-coding"
+    ],
+    "created_at": "2025-08-18T23:20:08",
+    "updated_at": "2025-09-08T08:27:06"
+  },
+  {
+    "name": "DeepMCPAgent",
+    "full_name": "cryxnet/DeepMCPAgent",
+    "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
+    "url": "https://github.com/cryxnet/DeepMCPAgent",
+    "stars": 264,
+    "daily_stars": 12,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-08-29T13:49:43",
+    "updated_at": "2025-09-08T08:45:37"
   },
   {
     "name": "LLM-Agents-Ecosystem-Handbook",
     "full_name": "oxbshw/LLM-Agents-Ecosystem-Handbook",
     "description": "One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools.",
     "url": "https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook",
-    "stars": 26,
-    "daily_stars": 19,
+    "stars": 37,
+    "daily_stars": 11,
     "language": "Python",
     "topics": [
       "ai",
@@ -36,46 +88,45 @@
       "voice-agent"
     ],
     "created_at": "2025-09-08T01:24:26",
-    "updated_at": "2025-09-08T04:19:30"
+    "updated_at": "2025-09-08T07:13:24"
   },
   {
-    "name": "ccpm",
-    "full_name": "automazeio/ccpm",
-    "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
-    "url": "https://github.com/automazeio/ccpm",
-    "stars": 4205,
-    "daily_stars": 13,
-    "language": "Shell",
+    "name": "gommit",
+    "full_name": "Hangell/gommit",
+    "description": "gommit is a fast, zero-dependency, cross-platform Commitizen-style assistant written in Go. It launches an interactive wizard on git commit and outputs pure Conventional Commits (no emojis in the final message, just in the prompt), so your pipelines and changelog tools recognize everything out of the box.",
+    "url": "https://github.com/Hangell/gommit",
+    "stars": 12,
+    "daily_stars": 10,
+    "language": "Go",
     "topics": [
-      "ai-agents",
-      "ai-coding",
-      "claude",
-      "claude-code",
-      "project-management",
-      "vibe-coding"
+      "automation",
+      "cli",
+      "command-line-tools",
+      "commit-message",
+      "commitizen",
+      "commits",
+      "cross-platform",
+      "developer-tools",
+      "git",
+      "git-hooks",
+      "go",
+      "golang",
+      "gplv3",
+      "open-source",
+      "productivity",
+      "terminal",
+      "workflow"
     ],
-    "created_at": "2025-08-18T23:20:08",
-    "updated_at": "2025-09-08T04:39:03"
-  },
-  {
-    "name": "DeepMCPAgent",
-    "full_name": "cryxnet/DeepMCPAgent",
-    "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
-    "url": "https://github.com/cryxnet/DeepMCPAgent",
-    "stars": 252,
-    "daily_stars": 11,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-08-29T13:49:43",
-    "updated_at": "2025-09-08T04:36:19"
+    "created_at": "2025-09-07T00:11:15",
+    "updated_at": "2025-09-08T08:37:05"
   },
   {
     "name": "Disciplined-AI-Software-Development",
     "full_name": "Varietyz/Disciplined-AI-Software-Development",
     "description": "This methodology provides a structured approach for collaborating with AI systems on software development projects. It addresses common issues like code bloat, architectural drift, and context dilution through systematic constraints and validation checkpoints.",
     "url": "https://github.com/Varietyz/Disciplined-AI-Software-Development",
-    "stars": 244,
-    "daily_stars": 2,
+    "stars": 249,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "ai",
@@ -100,35 +151,43 @@
       "workflow"
     ],
     "created_at": "2025-09-04T13:53:02",
-    "updated_at": "2025-09-08T03:31:42"
+    "updated_at": "2025-09-08T07:29:08"
   },
   {
-    "name": "agentic-design-patterns-book-rus",
-    "full_name": "pridees/agentic-design-patterns-book-rus",
-    "description": "📖 Перевод книги Антонио Гулли - Agentic Design Patterns: Практическое руководство по созданию интеллектуальных систем",
-    "url": "https://github.com/pridees/agentic-design-patterns-book-rus",
-    "stars": 41,
-    "daily_stars": 2,
+    "name": "awesome-AI-toolkit",
+    "full_name": "balavenkatesh3322/awesome-AI-toolkit",
+    "description": "A curated, comprehensive collection of open-source AI tools, frameworks, datasets, courses, and seminal papers.",
+    "url": "https://github.com/balavenkatesh3322/awesome-AI-toolkit",
+    "stars": 168,
+    "daily_stars": 3,
     "language": null,
     "topics": [
-      "adk",
-      "agentic-ai-development",
       "ai",
       "ai-agents",
-      "langchain",
-      "langgraph",
-      "prompt-engineering",
-      "python"
+      "ai-research-and-development",
+      "ai-tools",
+      "ai-tools-directory",
+      "awesome",
+      "awesome-list",
+      "awesome-readme",
+      "deep-learning",
+      "genai",
+      "generative-ai",
+      "llm",
+      "machine-learning",
+      "mlops",
+      "open-source",
+      "production"
     ],
-    "created_at": "2025-09-04T06:37:27",
-    "updated_at": "2025-09-08T03:51:51"
+    "created_at": "2025-08-19T14:32:04",
+    "updated_at": "2025-09-08T07:38:03"
   },
   {
     "name": "multi-agent-trading-system",
     "full_name": "FareedKhan-dev/multi-agent-trading-system",
     "description": "Implementation of Deep Thinking Trading System",
     "url": "https://github.com/FareedKhan-dev/multi-agent-trading-system",
-    "stars": 18,
+    "stars": 20,
     "daily_stars": 2,
     "language": "Jupyter Notebook",
     "topics": [
@@ -139,14 +198,14 @@
       "trading"
     ],
     "created_at": "2025-09-04T10:15:22",
-    "updated_at": "2025-09-08T02:31:44"
+    "updated_at": "2025-09-08T07:42:10"
   },
   {
     "name": "actions-up",
     "full_name": "azat-io/actions-up",
     "description": "🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA pinning",
     "url": "https://github.com/azat-io/actions-up",
-    "stars": 241,
+    "stars": 243,
     "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
@@ -158,33 +217,6 @@
       "workflow"
     ],
     "created_at": "2025-08-26T21:52:22",
-    "updated_at": "2025-09-08T03:32:06"
-  },
-  {
-    "name": "maverick-mcp",
-    "full_name": "wshobson/maverick-mcp",
-    "description": "MaverickMCP - Personal Stock Analysis MCP Server",
-    "url": "https://github.com/wshobson/maverick-mcp",
-    "stars": 40,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-08-24T15:24:20",
-    "updated_at": "2025-09-08T03:09:39"
-  },
-  {
-    "name": "agents",
-    "full_name": "attogram/agents",
-    "description": "AGENTS.md for AI assistants",
-    "url": "https://github.com/attogram/agents",
-    "stars": 4,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "attogram-project"
-    ],
-    "created_at": "2025-08-24T20:38:41",
-    "updated_at": "2025-09-08T02:56:52"
+    "updated_at": "2025-09-08T06:57:34"
   }
 ]
