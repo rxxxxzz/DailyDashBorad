@@ -1,23 +1,42 @@
 [
   {
+    "name": "ccpm",
+    "full_name": "automazeio/ccpm",
+    "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
+    "url": "https://github.com/automazeio/ccpm",
+    "stars": 4534,
+    "daily_stars": 10,
+    "language": "Shell",
+    "topics": [
+      "ai-agents",
+      "ai-coding",
+      "claude",
+      "claude-code",
+      "project-management",
+      "vibe-coding"
+    ],
+    "created_at": "2025-08-18T23:20:08",
+    "updated_at": "2025-09-13T16:38:26"
+  },
+  {
     "name": "shimmy",
     "full_name": "Michael-A-Kuykendall/shimmy",
     "description": "Local-first AI inference server with OpenAI API compatibility, auto-discovery, hot model swapping, and tool calling. Single-binary Rust solution for GGUF models with LoRA support. FREE now, FREE forever.",
     "url": "https://github.com/Michael-A-Kuykendall/shimmy",
-    "stars": 532,
-    "daily_stars": 10,
+    "stars": 539,
+    "daily_stars": 7,
     "language": "Rust",
     "topics": [],
     "created_at": "2025-08-28T22:55:46",
-    "updated_at": "2025-09-13T11:39:55"
+    "updated_at": "2025-09-13T16:37:54"
   },
   {
     "name": "LLM-Agents-Ecosystem-Handbook",
     "full_name": "oxbshw/LLM-Agents-Ecosystem-Handbook",
     "description": "One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools.",
     "url": "https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook",
-    "stars": 243,
-    "daily_stars": 8,
+    "stars": 249,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "ai",
@@ -36,67 +55,75 @@
       "voice-agent"
     ],
     "created_at": "2025-09-08T01:24:26",
-    "updated_at": "2025-09-13T12:45:41"
+    "updated_at": "2025-09-13T16:35:02"
   },
   {
-    "name": "agentic-design-patterns-book-rus",
-    "full_name": "pridees/agentic-design-patterns-book-rus",
-    "description": "📖 Перевод книги Антонио Гулли - Agentic Design Patterns: Практическое руководство по созданию интеллектуальных систем",
-    "url": "https://github.com/pridees/agentic-design-patterns-book-rus",
-    "stars": 261,
-    "daily_stars": 5,
-    "language": null,
-    "topics": [
-      "adk",
-      "agentic-ai-development",
-      "ai",
-      "ai-agents",
-      "langchain",
-      "langgraph",
-      "prompt-engineering",
-      "python"
-    ],
-    "created_at": "2025-09-04T06:37:27",
-    "updated_at": "2025-09-13T11:00:10"
-  },
-  {
-    "name": "maverick-mcp",
-    "full_name": "wshobson/maverick-mcp",
-    "description": "MaverickMCP - Personal Stock Analysis MCP Server",
-    "url": "https://github.com/wshobson/maverick-mcp",
-    "stars": 60,
+    "name": "Adams",
+    "full_name": "imoneoi/Adams",
+    "description": "Adams Optimizer for Stable and Scalable Training",
+    "url": "https://github.com/imoneoi/Adams",
+    "stars": 4,
     "daily_stars": 2,
     "language": "Python",
-    "topics": [],
-    "created_at": "2025-08-24T15:24:20",
-    "updated_at": "2025-09-13T12:51:35"
+    "topics": [
+      "deep-learning",
+      "optimization-algorithms"
+    ],
+    "created_at": "2025-09-12T15:29:57",
+    "updated_at": "2025-09-13T12:26:33"
   },
   {
-    "name": "ccpm",
-    "full_name": "automazeio/ccpm",
-    "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
-    "url": "https://github.com/automazeio/ccpm",
-    "stars": 4524,
+    "name": "Deepfake-Detection-CNN",
+    "full_name": "sjsreehari/Deepfake-Detection-CNN",
+    "description": "A deep learning prototype using Convolutional Neural Networks (CNNs) for deepfake detection, achieving 92% accuracy on the test dataset. Designed as a proof-of-concept for AI-based media verification and research experimentation.",
+    "url": "https://github.com/sjsreehari/Deepfake-Detection-CNN",
+    "stars": 3,
     "daily_stars": 2,
-    "language": "Shell",
+    "language": "Jupyter Notebook",
+    "topics": [],
+    "created_at": "2025-09-10T12:43:28",
+    "updated_at": "2025-09-13T15:05:35"
+  },
+  {
+    "name": "DeepMCPAgent",
+    "full_name": "cryxnet/DeepMCPAgent",
+    "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
+    "url": "https://github.com/cryxnet/DeepMCPAgent",
+    "stars": 371,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-08-29T13:49:43",
+    "updated_at": "2025-09-13T16:16:00"
+  },
+  {
+    "name": "airtable-ai-agent",
+    "full_name": "rashidazarang/airtable-ai-agent",
+    "description": "🤖 The most comprehensive AI Agent for Airtable operations - Natural language interface with 33 MCP tools, complete API knowledge, and production-ready deployment",
+    "url": "https://github.com/rashidazarang/airtable-ai-agent",
+    "stars": 2,
+    "daily_stars": 1,
+    "language": "Python",
     "topics": [
       "ai-agents",
-      "ai-coding",
+      "airtable",
+      "airtable-api",
+      "artificial-intelligence",
       "claude",
       "claude-code",
-      "project-management",
-      "vibe-coding"
+      "nlp",
+      "server"
     ],
-    "created_at": "2025-08-18T23:20:08",
-    "updated_at": "2025-09-13T10:57:53"
+    "created_at": "2025-08-15T08:36:37",
+    "updated_at": "2025-09-13T13:24:27"
   },
   {
     "name": "Disciplined-AI-Software-Development",
     "full_name": "Varietyz/Disciplined-AI-Software-Development",
     "description": "This methodology provides a structured approach for collaborating with AI systems on software development projects. It addresses common issues like code bloat, architectural drift, and context dilution through systematic constraints and validation checkpoints.",
     "url": "https://github.com/Varietyz/Disciplined-AI-Software-Development",
-    "stars": 305,
-    "daily_stars": 2,
+    "stars": 306,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai",
@@ -121,82 +148,48 @@
       "workflow"
     ],
     "created_at": "2025-09-04T13:53:02",
-    "updated_at": "2025-09-13T12:16:13"
+    "updated_at": "2025-09-13T16:37:39"
   },
   {
-    "name": "slimcontext",
-    "full_name": "agentailor/slimcontext",
-    "description": "Lightweight, model-agnostic chat history compression (trim + summarize) for AI assistants.",
-    "url": "https://github.com/agentailor/slimcontext",
-    "stars": 12,
-    "daily_stars": 2,
-    "language": "TypeScript",
+    "name": "agentic-design-patterns-book-rus",
+    "full_name": "pridees/agentic-design-patterns-book-rus",
+    "description": "📖 Перевод книги Антонио Гулли - Agentic Design Patterns: Практическое руководство по созданию интеллектуальных систем",
+    "url": "https://github.com/pridees/agentic-design-patterns-book-rus",
+    "stars": 262,
+    "daily_stars": 1,
+    "language": null,
     "topics": [
+      "adk",
+      "agentic-ai-development",
       "ai",
       "ai-agents",
-      "context-engineering",
-      "llms",
-      "memory"
+      "langchain",
+      "langgraph",
+      "prompt-engineering",
+      "python"
     ],
-    "created_at": "2025-08-22T04:06:49",
-    "updated_at": "2025-09-13T11:54:54"
+    "created_at": "2025-09-04T06:37:27",
+    "updated_at": "2025-09-13T14:39:38"
   },
   {
-    "name": "actions-up",
-    "full_name": "azat-io/actions-up",
-    "description": "🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA pinning",
-    "url": "https://github.com/azat-io/actions-up",
-    "stars": 259,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "actions",
-      "cli",
-      "dependencies",
-      "github-actions",
-      "security",
-      "workflow"
-    ],
-    "created_at": "2025-08-26T21:52:22",
-    "updated_at": "2025-09-13T09:16:52"
-  },
-  {
-    "name": "multi-agent-trading-system",
-    "full_name": "FareedKhan-dev/multi-agent-trading-system",
-    "description": "Implementation of Deep Thinking Trading System",
-    "url": "https://github.com/FareedKhan-dev/multi-agent-trading-system",
-    "stars": 46,
+    "name": "gamestudio-subagents",
+    "full_name": "pamirtuna/gamestudio-subagents",
+    "description": "AI-Powered Game Development Team in Your Terminal",
+    "url": "https://github.com/pamirtuna/gamestudio-subagents",
+    "stars": 96,
     "daily_stars": 1,
-    "language": "Jupyter Notebook",
+    "language": "Python",
     "topics": [
-      "agent",
       "ai-agents",
-      "multi-agent-systems",
-      "openai",
-      "trading"
+      "aiworkflow",
+      "game-design",
+      "gamedev",
+      "gamedevelopment",
+      "godot-engine",
+      "unity",
+      "unreal-engine"
     ],
-    "created_at": "2025-09-04T10:15:22",
-    "updated_at": "2025-09-13T00:56:48"
-  },
-  {
-    "name": "react-native-parlant",
-    "full_name": "watadarkstar/react-native-parlant",
-    "description": "A React Native library for integrating Parlant AI agents into your React Native / Expo / React applications.",
-    "url": "https://github.com/watadarkstar/react-native-parlant",
-    "stars": 34,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "ai-agents",
-      "llm",
-      "openai",
-      "parlant",
-      "react-native",
-      "react-native-parlant",
-      "typescript"
-    ],
-    "created_at": "2025-08-20T23:36:04",
-    "updated_at": "2025-09-12T23:31:15"
+    "created_at": "2025-08-15T22:20:42",
+    "updated_at": "2025-09-13T14:22:46"
   }
 ]
