@@ -4,8 +4,8 @@
     "full_name": "oxbshw/LLM-Agents-Ecosystem-Handbook",
     "description": "One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools.",
     "url": "https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook",
-    "stars": 256,
-    "daily_stars": 7,
+    "stars": 262,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "ai",
@@ -24,26 +24,55 @@
       "voice-agent"
     ],
     "created_at": "2025-09-08T01:24:26",
-    "updated_at": "2025-09-13T19:46:21"
+    "updated_at": "2025-09-14T01:12:43"
   },
   {
     "name": "shimmy",
     "full_name": "Michael-A-Kuykendall/shimmy",
     "description": "Local-first AI inference server with OpenAI API compatibility, auto-discovery, hot model swapping, and tool calling. Single-binary Rust solution for GGUF models with LoRA support. FREE now, FREE forever.",
     "url": "https://github.com/Michael-A-Kuykendall/shimmy",
-    "stars": 543,
-    "daily_stars": 4,
+    "stars": 546,
+    "daily_stars": 3,
     "language": "Rust",
     "topics": [],
     "created_at": "2025-08-28T22:55:46",
-    "updated_at": "2025-09-13T19:35:45"
+    "updated_at": "2025-09-14T01:43:45"
+  },
+  {
+    "name": "ZeroML",
+    "full_name": "ParagGhatage/ZeroML",
+    "description": "ZeroML is a visual-first, end-to-end machine learning platform that lets you build, train, fine-tune, and deploy models effortlessly. Version datasets, optimize pipelines, and monitor training - all in one place, with hybrid deployment support for Hugging Face and RunPod.",
+    "url": "https://github.com/ParagGhatage/ZeroML",
+    "stars": 4,
+    "daily_stars": 3,
+    "language": "TypeScript",
+    "topics": [
+      "deep-learning",
+      "developer-tools",
+      "llms",
+      "machine-learning"
+    ],
+    "created_at": "2025-09-08T14:08:19",
+    "updated_at": "2025-09-13T22:44:26"
+  },
+  {
+    "name": "DeepMCPAgent",
+    "full_name": "cryxnet/DeepMCPAgent",
+    "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
+    "url": "https://github.com/cryxnet/DeepMCPAgent",
+    "stars": 374,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-08-29T13:49:43",
+    "updated_at": "2025-09-14T02:00:35"
   },
   {
     "name": "ccpm",
     "full_name": "automazeio/ccpm",
     "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
     "url": "https://github.com/automazeio/ccpm",
-    "stars": 4536,
+    "stars": 4538,
     "daily_stars": 2,
     "language": "Shell",
     "topics": [
@@ -55,145 +84,101 @@
       "vibe-coding"
     ],
     "created_at": "2025-08-18T23:20:08",
-    "updated_at": "2025-09-13T20:07:17"
+    "updated_at": "2025-09-14T02:13:32"
   },
   {
-    "name": "Disciplined-AI-Software-Development",
-    "full_name": "Varietyz/Disciplined-AI-Software-Development",
-    "description": "This methodology provides a structured approach for collaborating with AI systems on software development projects. It addresses common issues like code bloat, architectural drift, and context dilution through systematic constraints and validation checkpoints.",
-    "url": "https://github.com/Varietyz/Disciplined-AI-Software-Development",
-    "stars": 308,
-    "daily_stars": 2,
-    "language": "Python",
+    "name": "slimcontext",
+    "full_name": "agentailor/slimcontext",
+    "description": "Lightweight, model-agnostic chat history compression (trim + summarize) for AI assistants.",
+    "url": "https://github.com/agentailor/slimcontext",
+    "stars": 13,
+    "daily_stars": 1,
+    "language": "TypeScript",
     "topics": [
       "ai",
       "ai-agents",
-      "ai-collaboration",
-      "best-practices",
-      "collaborate",
-      "collaboration",
-      "collaborative",
-      "context",
-      "documentation",
-      "dry",
-      "educational",
-      "kiss",
+      "context-engineering",
       "llms",
-      "methodology",
-      "methodology-development",
-      "prompt-engineering",
-      "software-architecture",
-      "software-development",
-      "software-engineering",
+      "memory"
+    ],
+    "created_at": "2025-08-22T04:06:49",
+    "updated_at": "2025-09-13T20:52:04"
+  },
+  {
+    "name": "helix",
+    "full_name": "ccarvalho-eng/helix",
+    "description": "AI agent flows blueprinting",
+    "url": "https://github.com/ccarvalho-eng/helix",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "ai-agents-framework",
+      "airflow",
+      "diagramming",
+      "diagramming-library",
+      "elixir",
+      "phoenix-framework",
+      "reactjs"
+    ],
+    "created_at": "2025-08-28T10:32:04",
+    "updated_at": "2025-09-14T01:11:20"
+  },
+  {
+    "name": "LimiX",
+    "full_name": "limix-ldm/LimiX",
+    "description": "LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence https://arxiv.org/abs/2509.03505",
+    "url": "https://github.com/limix-ldm/LimiX",
+    "stars": 219,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "foundation-models",
+      "limix",
+      "machine-learning",
+      "structured-data"
+    ],
+    "created_at": "2025-08-27T07:15:45",
+    "updated_at": "2025-09-14T00:24:37"
+  },
+  {
+    "name": "lerobot-data-studio",
+    "full_name": "jackvial/lerobot-data-studio",
+    "description": "LeRobot Data Studio - Unofficial LeRobot Dataset Editor",
+    "url": "https://github.com/jackvial/lerobot-data-studio",
+    "stars": 23,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "behavioral-cloning",
+      "datasets",
+      "embodied-ai",
+      "lerobot",
+      "machine-learning",
+      "robotics"
+    ],
+    "created_at": "2025-08-22T01:53:24",
+    "updated_at": "2025-09-14T01:40:55"
+  },
+  {
+    "name": "markdown-flow-agent-py",
+    "full_name": "ai-shifu/markdown-flow-agent-py",
+    "description": "Python library to transform MarkdownFlow documents into personalized, interactive pages",
+    "url": "https://github.com/ai-shifu/markdown-flow-agent-py",
+    "stars": 5,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "llm",
+      "markdown-flow",
+      "markdownflow",
+      "mdflow",
+      "python",
       "workflow"
     ],
-    "created_at": "2025-09-04T13:53:02",
-    "updated_at": "2025-09-13T17:57:43"
-  },
-  {
-    "name": "DeepMCPAgent",
-    "full_name": "cryxnet/DeepMCPAgent",
-    "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
-    "url": "https://github.com/cryxnet/DeepMCPAgent",
-    "stars": 372,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-08-29T13:49:43",
-    "updated_at": "2025-09-13T16:58:42"
-  },
-  {
-    "name": "maverick-mcp",
-    "full_name": "wshobson/maverick-mcp",
-    "description": "MaverickMCP - Personal Stock Analysis MCP Server",
-    "url": "https://github.com/wshobson/maverick-mcp",
-    "stars": 61,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-08-24T15:24:20",
-    "updated_at": "2025-09-13T17:53:13"
-  },
-  {
-    "name": "LangExtract-Gemma-Structured-Extraction",
-    "full_name": "kennethleungty/LangExtract-Gemma-Structured-Extraction",
-    "description": "Using LangExtract and Gemma 3 for structured information extraction from unstructured text in insurance polices",
-    "url": "https://github.com/kennethleungty/LangExtract-Gemma-Structured-Extraction",
-    "stars": 20,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "data-science",
-      "deep-learning",
-      "gemini",
-      "gemma",
-      "gemma3-4b",
-      "google",
-      "langextract",
-      "large-language-models",
-      "llm",
-      "llms",
-      "machine-learning",
-      "openai",
-      "structured-data",
-      "unstructured-data"
-    ],
-    "created_at": "2025-08-15T15:48:03",
-    "updated_at": "2025-09-13T18:33:32"
-  },
-  {
-    "name": "DMCPServer",
-    "full_name": "Daniel09Fernandes/DMCPServer",
-    "description": "Dinos MCP Server, make your code, on MCP Action and execute by AI",
-    "url": "https://github.com/Daniel09Fernandes/DMCPServer",
-    "stars": 19,
-    "daily_stars": 1,
-    "language": "Pascal",
-    "topics": [],
-    "created_at": "2025-08-20T21:13:48",
-    "updated_at": "2025-09-13T16:59:43"
-  },
-  {
-    "name": "agentic-design-patterns-book-rus",
-    "full_name": "pridees/agentic-design-patterns-book-rus",
-    "description": "📖 Перевод книги Антонио Гулли - Agentic Design Patterns: Практическое руководство по созданию интеллектуальных систем",
-    "url": "https://github.com/pridees/agentic-design-patterns-book-rus",
-    "stars": 263,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "adk",
-      "agentic-ai-development",
-      "ai",
-      "ai-agents",
-      "langchain",
-      "langgraph",
-      "prompt-engineering",
-      "python"
-    ],
-    "created_at": "2025-09-04T06:37:27",
-    "updated_at": "2025-09-13T20:24:17"
-  },
-  {
-    "name": "gamestudio-subagents",
-    "full_name": "pamirtuna/gamestudio-subagents",
-    "description": "AI-Powered Game Development Team in Your Terminal",
-    "url": "https://github.com/pamirtuna/gamestudio-subagents",
-    "stars": 97,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "aiworkflow",
-      "game-design",
-      "gamedev",
-      "gamedevelopment",
-      "godot-engine",
-      "unity",
-      "unreal-engine"
-    ],
-    "created_at": "2025-08-15T22:20:42",
-    "updated_at": "2025-09-13T19:33:45"
+    "created_at": "2025-08-26T11:55:37",
+    "updated_at": "2025-09-14T01:44:11"
   }
 ]
