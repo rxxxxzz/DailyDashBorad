@@ -1,11 +1,23 @@
 [
   {
+    "name": "tvm-ffi",
+    "full_name": "apache/tvm-ffi",
+    "description": "TVM FFI",
+    "url": "https://github.com/apache/tvm-ffi",
+    "stars": 12,
+    "daily_stars": 8,
+    "language": "C++",
+    "topics": [],
+    "created_at": "2025-09-13T22:21:46",
+    "updated_at": "2025-09-14T04:32:38"
+  },
+  {
     "name": "LLM-Agents-Ecosystem-Handbook",
     "full_name": "oxbshw/LLM-Agents-Ecosystem-Handbook",
     "description": "One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools.",
     "url": "https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook",
-    "stars": 262,
-    "daily_stars": 6,
+    "stars": 266,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "ai",
@@ -24,55 +36,43 @@
       "voice-agent"
     ],
     "created_at": "2025-09-08T01:24:26",
-    "updated_at": "2025-09-14T01:12:43"
+    "updated_at": "2025-09-14T04:09:18"
   },
   {
     "name": "shimmy",
     "full_name": "Michael-A-Kuykendall/shimmy",
     "description": "Local-first AI inference server with OpenAI API compatibility, auto-discovery, hot model swapping, and tool calling. Single-binary Rust solution for GGUF models with LoRA support. FREE now, FREE forever.",
     "url": "https://github.com/Michael-A-Kuykendall/shimmy",
-    "stars": 546,
+    "stars": 549,
     "daily_stars": 3,
     "language": "Rust",
     "topics": [],
     "created_at": "2025-08-28T22:55:46",
-    "updated_at": "2025-09-14T01:43:45"
+    "updated_at": "2025-09-14T02:45:12"
   },
   {
-    "name": "ZeroML",
-    "full_name": "ParagGhatage/ZeroML",
-    "description": "ZeroML is a visual-first, end-to-end machine learning platform that lets you build, train, fine-tune, and deploy models effortlessly. Version datasets, optimize pipelines, and monitor training - all in one place, with hybrid deployment support for Hugging Face and RunPod.",
-    "url": "https://github.com/ParagGhatage/ZeroML",
-    "stars": 4,
+    "name": "LimiX",
+    "full_name": "limix-ldm/LimiX",
+    "description": "LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence https://arxiv.org/abs/2509.03505",
+    "url": "https://github.com/limix-ldm/LimiX",
+    "stars": 222,
     "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "deep-learning",
-      "developer-tools",
-      "llms",
-      "machine-learning"
-    ],
-    "created_at": "2025-09-08T14:08:19",
-    "updated_at": "2025-09-13T22:44:26"
-  },
-  {
-    "name": "DeepMCPAgent",
-    "full_name": "cryxnet/DeepMCPAgent",
-    "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
-    "url": "https://github.com/cryxnet/DeepMCPAgent",
-    "stars": 374,
-    "daily_stars": 2,
     "language": "Python",
-    "topics": [],
-    "created_at": "2025-08-29T13:49:43",
-    "updated_at": "2025-09-14T02:00:35"
+    "topics": [
+      "foundation-models",
+      "limix",
+      "machine-learning",
+      "structured-data"
+    ],
+    "created_at": "2025-08-27T07:15:45",
+    "updated_at": "2025-09-14T04:28:20"
   },
   {
     "name": "ccpm",
     "full_name": "automazeio/ccpm",
     "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
     "url": "https://github.com/automazeio/ccpm",
-    "stars": 4538,
+    "stars": 4540,
     "daily_stars": 2,
     "language": "Shell",
     "topics": [
@@ -84,101 +84,82 @@
       "vibe-coding"
     ],
     "created_at": "2025-08-18T23:20:08",
-    "updated_at": "2025-09-14T02:13:32"
+    "updated_at": "2025-09-14T03:10:13"
   },
   {
-    "name": "slimcontext",
-    "full_name": "agentailor/slimcontext",
-    "description": "Lightweight, model-agnostic chat history compression (trim + summarize) for AI assistants.",
-    "url": "https://github.com/agentailor/slimcontext",
-    "stars": 13,
+    "name": "DeepMCPAgent",
+    "full_name": "cryxnet/DeepMCPAgent",
+    "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
+    "url": "https://github.com/cryxnet/DeepMCPAgent",
+    "stars": 375,
     "daily_stars": 1,
-    "language": "TypeScript",
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-08-29T13:49:43",
+    "updated_at": "2025-09-14T03:00:01"
+  },
+  {
+    "name": "agentic-design-patterns-book-rus",
+    "full_name": "pridees/agentic-design-patterns-book-rus",
+    "description": "📖 Перевод книги Антонио Гулли - Agentic Design Patterns: Практическое руководство по созданию интеллектуальных систем",
+    "url": "https://github.com/pridees/agentic-design-patterns-book-rus",
+    "stars": 264,
+    "daily_stars": 1,
+    "language": null,
     "topics": [
+      "adk",
+      "agentic-ai-development",
       "ai",
       "ai-agents",
-      "context-engineering",
-      "llms",
-      "memory"
+      "langchain",
+      "langgraph",
+      "prompt-engineering",
+      "python"
     ],
-    "created_at": "2025-08-22T04:06:49",
-    "updated_at": "2025-09-13T20:52:04"
+    "created_at": "2025-09-04T06:37:27",
+    "updated_at": "2025-09-14T03:51:02"
   },
   {
-    "name": "helix",
-    "full_name": "ccarvalho-eng/helix",
-    "description": "AI agent flows blueprinting",
-    "url": "https://github.com/ccarvalho-eng/helix",
-    "stars": 3,
+    "name": "actions-up",
+    "full_name": "azat-io/actions-up",
+    "description": "🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA pinning",
+    "url": "https://github.com/azat-io/actions-up",
+    "stars": 261,
     "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
-      "ai-agents",
-      "ai-agents-framework",
-      "airflow",
-      "diagramming",
-      "diagramming-library",
-      "elixir",
-      "phoenix-framework",
-      "reactjs"
-    ],
-    "created_at": "2025-08-28T10:32:04",
-    "updated_at": "2025-09-14T01:11:20"
-  },
-  {
-    "name": "LimiX",
-    "full_name": "limix-ldm/LimiX",
-    "description": "LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence https://arxiv.org/abs/2509.03505",
-    "url": "https://github.com/limix-ldm/LimiX",
-    "stars": 219,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "foundation-models",
-      "limix",
-      "machine-learning",
-      "structured-data"
-    ],
-    "created_at": "2025-08-27T07:15:45",
-    "updated_at": "2025-09-14T00:24:37"
-  },
-  {
-    "name": "lerobot-data-studio",
-    "full_name": "jackvial/lerobot-data-studio",
-    "description": "LeRobot Data Studio - Unofficial LeRobot Dataset Editor",
-    "url": "https://github.com/jackvial/lerobot-data-studio",
-    "stars": 23,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "behavioral-cloning",
-      "datasets",
-      "embodied-ai",
-      "lerobot",
-      "machine-learning",
-      "robotics"
-    ],
-    "created_at": "2025-08-22T01:53:24",
-    "updated_at": "2025-09-14T01:40:55"
-  },
-  {
-    "name": "markdown-flow-agent-py",
-    "full_name": "ai-shifu/markdown-flow-agent-py",
-    "description": "Python library to transform MarkdownFlow documents into personalized, interactive pages",
-    "url": "https://github.com/ai-shifu/markdown-flow-agent-py",
-    "stars": 5,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "llm",
-      "markdown-flow",
-      "markdownflow",
-      "mdflow",
-      "python",
+      "actions",
+      "cli",
+      "dependencies",
+      "github-actions",
+      "security",
       "workflow"
     ],
-    "created_at": "2025-08-26T11:55:37",
-    "updated_at": "2025-09-14T01:44:11"
+    "created_at": "2025-08-26T21:52:22",
+    "updated_at": "2025-09-14T04:15:16"
+  },
+  {
+    "name": "best-llm-finder-pipeline",
+    "full_name": "FareedKhan-dev/best-llm-finder-pipeline",
+    "description": "Agentic RAG, Multi-Agent Systems, and Vision Reasoning are three pipelines to find the perfect LLM",
+    "url": "https://github.com/FareedKhan-dev/best-llm-finder-pipeline",
+    "stars": 105,
+    "daily_stars": 0,
+    "language": "Jupyter Notebook",
+    "topics": [],
+    "created_at": "2025-08-20T16:26:54",
+    "updated_at": "2025-09-13T09:11:56"
+  },
+  {
+    "name": "maverick-mcp",
+    "full_name": "wshobson/maverick-mcp",
+    "description": "MaverickMCP - Personal Stock Analysis MCP Server",
+    "url": "https://github.com/wshobson/maverick-mcp",
+    "stars": 61,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-08-24T15:24:20",
+    "updated_at": "2025-09-13T17:53:13"
   }
 ]
