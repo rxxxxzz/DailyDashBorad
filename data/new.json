@@ -4,8 +4,8 @@
     "full_name": "oxbshw/LLM-Agents-Ecosystem-Handbook",
     "description": "One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools.",
     "url": "https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook",
-    "stars": 292,
-    "daily_stars": 8,
+    "stars": 294,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "ai",
@@ -24,27 +24,27 @@
       "voice-agent"
     ],
     "created_at": "2025-09-08T01:24:26",
-    "updated_at": "2025-09-15T13:01:58"
+    "updated_at": "2025-09-15T14:34:48"
   },
   {
     "name": "tvm-ffi",
     "full_name": "apache/tvm-ffi",
     "description": "TVM FFI",
     "url": "https://github.com/apache/tvm-ffi",
-    "stars": 45,
-    "daily_stars": 2,
+    "stars": 46,
+    "daily_stars": 1,
     "language": "C++",
     "topics": [],
     "created_at": "2025-09-13T22:21:46",
-    "updated_at": "2025-09-15T11:33:35"
+    "updated_at": "2025-09-15T16:28:54"
   },
   {
     "name": "crypto_invest_with_ai",
     "full_name": "2024baibai/crypto_invest_with_ai",
     "description": "基于OpenAI的加密货币投资助手",
     "url": "https://github.com/2024baibai/crypto_invest_with_ai",
-    "stars": 38,
-    "daily_stars": 1,
+    "stars": 40,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -52,7 +52,7 @@
       "investment-analysis"
     ],
     "created_at": "2025-09-09T11:13:05",
-    "updated_at": "2025-09-15T12:58:08"
+    "updated_at": "2025-09-15T13:50:53"
   },
   {
     "name": "lbm-training-framework",
@@ -60,7 +60,7 @@
     "description": "Training framework for Large Behavioral Models",
     "url": "https://github.com/lucidrains/lbm-training-framework",
     "stars": 15,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [],
     "created_at": "2025-09-14T13:56:18",
@@ -79,28 +79,48 @@
     "updated_at": "2025-09-15T11:37:47"
   },
   {
-    "name": "lookahead-keys-attention",
-    "full_name": "lucidrains/lookahead-keys-attention",
-    "description": "Causal Attention with Lookahead Keys",
-    "url": "https://github.com/lucidrains/lookahead-keys-attention",
-    "stars": 9,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-09-11T13:14:41",
-    "updated_at": "2025-09-15T12:33:50"
+    "name": "ConvexHire",
+    "full_name": "devrahulbanjara/ConvexHire",
+    "description": "Multi-Agent Recruitment Automation and Job Marketplace | Transform your hiring process with AI-powered recruitment platform that combines intelligent automation with human expertise",
+    "url": "https://github.com/devrahulbanjara/ConvexHire",
+    "stars": 14,
+    "daily_stars": 0,
+    "language": null,
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "job-search",
+      "langgraph",
+      "react",
+      "recruitment-automation",
+      "workflow"
+    ],
+    "created_at": "2025-09-12T12:46:37",
+    "updated_at": "2025-09-15T16:08:47"
   },
   {
     "name": "lookahead-keys-attention",
     "full_name": "lucidrains/lookahead-keys-attention",
     "description": "Causal Attention with Lookahead Keys",
     "url": "https://github.com/lucidrains/lookahead-keys-attention",
-    "stars": 9,
+    "stars": 10,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-09-11T13:14:41",
+    "updated_at": "2025-09-15T13:50:07"
+  },
+  {
+    "name": "lookahead-keys-attention",
+    "full_name": "lucidrains/lookahead-keys-attention",
+    "description": "Causal Attention with Lookahead Keys",
+    "url": "https://github.com/lucidrains/lookahead-keys-attention",
+    "stars": 10,
     "daily_stars": 0,
     "language": "Python",
     "topics": [],
     "created_at": "2025-09-11T13:14:41",
-    "updated_at": "2025-09-15T12:33:50"
+    "updated_at": "2025-09-15T13:50:07"
   },
   {
     "name": "Image-Captioning-CNN-LSTM",
@@ -108,23 +128,11 @@
     "description": "An end-to-end image captioning project using a CNN encoder (ResNet-50) and LSTM decoder in PyTorch. Includes vocabulary building, preprocessing, training with BLEU evaluation, and inference. Generates natural language captions for images with saved metrics, model checkpoints, and visualization outputs.",
     "url": "https://github.com/AmirhoseinHonardoust/Image-Captioning-CNN-LSTM",
     "stars": 8,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [],
     "created_at": "2025-09-13T22:39:28",
     "updated_at": "2025-09-15T09:17:43"
-  },
-  {
-    "name": "Stock-LSTM-Forecasting",
-    "full_name": "AmirhoseinHonardoust/Stock-LSTM-Forecasting",
-    "description": "Predict stock prices using LSTM networks in PyTorch. This project covers data preprocessing, sliding window creation, model training with early stopping, and evaluation with RMSE/MAE/MAPE. Includes visualizations of training loss, predicted vs actual prices, and short-horizon forecasts.",
-    "url": "https://github.com/AmirhoseinHonardoust/Stock-LSTM-Forecasting",
-    "stars": 8,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-09-13T16:07:50",
-    "updated_at": "2025-09-15T06:10:24"
   },
   {
     "name": "Stock-LSTM-Forecasting",
