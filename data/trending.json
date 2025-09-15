@@ -4,32 +4,32 @@
     "full_name": "Michael-A-Kuykendall/shimmy",
     "description": "Local-first AI inference server with OpenAI API compatibility, auto-discovery, hot model swapping, and tool calling. Single-binary Rust solution for GGUF models with LoRA support. FREE now, FREE forever.",
     "url": "https://github.com/Michael-A-Kuykendall/shimmy",
-    "stars": 948,
-    "daily_stars": 76,
+    "stars": 963,
+    "daily_stars": 15,
     "language": "Rust",
     "topics": [],
     "created_at": "2025-08-28T22:55:46",
-    "updated_at": "2025-09-15T16:41:56"
+    "updated_at": "2025-09-15T20:04:18"
   },
   {
     "name": "DeepMCPAgent",
     "full_name": "cryxnet/DeepMCPAgent",
     "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
     "url": "https://github.com/cryxnet/DeepMCPAgent",
-    "stars": 419,
-    "daily_stars": 15,
+    "stars": 423,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [],
     "created_at": "2025-08-29T13:49:43",
-    "updated_at": "2025-09-15T16:40:52"
+    "updated_at": "2025-09-15T20:08:29"
   },
   {
     "name": "ccpm",
     "full_name": "automazeio/ccpm",
     "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
     "url": "https://github.com/automazeio/ccpm",
-    "stars": 4609,
-    "daily_stars": 6,
+    "stars": 4613,
+    "daily_stars": 4,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -40,15 +40,70 @@
       "vibe-coding"
     ],
     "created_at": "2025-08-18T23:20:08",
-    "updated_at": "2025-09-15T16:28:03"
+    "updated_at": "2025-09-15T18:13:39"
+  },
+  {
+    "name": "lbm-training-framework",
+    "full_name": "lucidrains/lbm-training-framework",
+    "description": "Training framework for Large Behavioral Models",
+    "url": "https://github.com/lucidrains/lbm-training-framework",
+    "stars": 17,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-09-14T13:56:18",
+    "updated_at": "2025-09-15T18:28:54"
+  },
+  {
+    "name": "actions-up",
+    "full_name": "azat-io/actions-up",
+    "description": "🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA pinning",
+    "url": "https://github.com/azat-io/actions-up",
+    "stars": 265,
+    "daily_stars": 2,
+    "language": "TypeScript",
+    "topics": [
+      "actions",
+      "cli",
+      "dependencies",
+      "github-actions",
+      "security",
+      "workflow"
+    ],
+    "created_at": "2025-08-26T21:52:22",
+    "updated_at": "2025-09-15T19:50:54"
+  },
+  {
+    "name": "maverick-mcp",
+    "full_name": "wshobson/maverick-mcp",
+    "description": "MaverickMCP - Personal Stock Analysis MCP Server",
+    "url": "https://github.com/wshobson/maverick-mcp",
+    "stars": 65,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-08-24T15:24:20",
+    "updated_at": "2025-09-15T19:13:04"
+  },
+  {
+    "name": "lookahead-keys-attention",
+    "full_name": "lucidrains/lookahead-keys-attention",
+    "description": "Causal Attention with Lookahead Keys",
+    "url": "https://github.com/lucidrains/lookahead-keys-attention",
+    "stars": 11,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-09-11T13:14:41",
+    "updated_at": "2025-09-15T18:52:34"
   },
   {
     "name": "agentic-design-patterns-book-rus",
     "full_name": "pridees/agentic-design-patterns-book-rus",
     "description": "📖 Перевод книги Антонио Гулли - Agentic Design Patterns: Практическое руководство по созданию интеллектуальных систем",
     "url": "https://github.com/pridees/agentic-design-patterns-book-rus",
-    "stars": 279,
-    "daily_stars": 4,
+    "stars": 280,
+    "daily_stars": 1,
     "language": null,
     "topics": [
       "adk",
@@ -61,102 +116,43 @@
       "python"
     ],
     "created_at": "2025-09-04T06:37:27",
-    "updated_at": "2025-09-15T15:35:14"
+    "updated_at": "2025-09-15T17:44:57"
   },
   {
-    "name": "LLM-Agents-Ecosystem-Handbook",
-    "full_name": "oxbshw/LLM-Agents-Ecosystem-Handbook",
-    "description": "One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools.",
-    "url": "https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook",
-    "stars": 294,
-    "daily_stars": 2,
-    "language": "Python",
+    "name": "ai-infrastructure-agent",
+    "full_name": "VersusControl/ai-infrastructure-agent",
+    "description": "AI Infrastructure Agent is an intelligent system that allows you to manage AWS infrastructure using natural language commands.",
+    "url": "https://github.com/VersusControl/ai-infrastructure-agent",
+    "stars": 69,
+    "daily_stars": 1,
+    "language": "Go",
     "topics": [
       "ai",
-      "ai-agent",
       "ai-agents",
-      "fine-tuning",
-      "finetuning-llms",
-      "freamework",
-      "llm",
-      "llmops",
-      "local-development",
-      "mcp-server",
-      "memory",
-      "rag",
-      "rag-chatbot",
-      "voice-agent"
+      "aws",
+      "devops",
+      "infrastructure",
+      "mcp"
     ],
-    "created_at": "2025-09-08T01:24:26",
-    "updated_at": "2025-09-15T14:34:48"
+    "created_at": "2025-08-30T06:49:43",
+    "updated_at": "2025-09-15T18:29:04"
   },
   {
-    "name": "crypto_invest_with_ai",
-    "full_name": "2024baibai/crypto_invest_with_ai",
-    "description": "基于OpenAI的加密货币投资助手",
-    "url": "https://github.com/2024baibai/crypto_invest_with_ai",
-    "stars": 40,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "cryptocurrency",
-      "investment-analysis"
-    ],
-    "created_at": "2025-09-09T11:13:05",
-    "updated_at": "2025-09-15T13:50:53"
-  },
-  {
-    "name": "LimiX",
-    "full_name": "limix-ldm/LimiX",
-    "description": "LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence https://arxiv.org/abs/2509.03505",
-    "url": "https://github.com/limix-ldm/LimiX",
-    "stars": 244,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "foundation-models",
-      "limix",
-      "machine-learning",
-      "structured-data"
-    ],
-    "created_at": "2025-08-27T07:15:45",
-    "updated_at": "2025-09-15T14:38:07"
-  },
-  {
-    "name": "maverick-mcp",
-    "full_name": "wshobson/maverick-mcp",
-    "description": "MaverickMCP - Personal Stock Analysis MCP Server",
-    "url": "https://github.com/wshobson/maverick-mcp",
-    "stars": 64,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-08-24T15:24:20",
-    "updated_at": "2025-09-15T15:55:23"
-  },
-  {
-    "name": "lookahead-keys-attention",
-    "full_name": "lucidrains/lookahead-keys-attention",
-    "description": "Causal Attention with Lookahead Keys",
-    "url": "https://github.com/lucidrains/lookahead-keys-attention",
-    "stars": 10,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-09-11T13:14:41",
-    "updated_at": "2025-09-15T13:50:07"
-  },
-  {
-    "name": "AI-outlier-detection",
-    "full_name": "FareedKhan-dev/AI-outlier-detection",
-    "description": "Outlier Detection with AI + ML",
-    "url": "https://github.com/FareedKhan-dev/AI-outlier-detection",
-    "stars": 4,
+    "name": "multi-agent-trading-system",
+    "full_name": "FareedKhan-dev/multi-agent-trading-system",
+    "description": "Implementation of Deep Thinking Trading System",
+    "url": "https://github.com/FareedKhan-dev/multi-agent-trading-system",
+    "stars": 51,
     "daily_stars": 1,
     "language": "Jupyter Notebook",
-    "topics": [],
-    "created_at": "2025-09-11T17:49:48",
-    "updated_at": "2025-09-15T15:18:25"
+    "topics": [
+      "agent",
+      "ai-agents",
+      "multi-agent-systems",
+      "openai",
+      "trading"
+    ],
+    "created_at": "2025-09-04T10:15:22",
+    "updated_at": "2025-09-15T17:27:16"
   }
 ]
