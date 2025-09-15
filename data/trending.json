@@ -1,11 +1,40 @@
 [
   {
+    "name": "shimmy",
+    "full_name": "Michael-A-Kuykendall/shimmy",
+    "description": "Local-first AI inference server with OpenAI API compatibility, auto-discovery, hot model swapping, and tool calling. Single-binary Rust solution for GGUF models with LoRA support. FREE now, FREE forever.",
+    "url": "https://github.com/Michael-A-Kuykendall/shimmy",
+    "stars": 619,
+    "daily_stars": 33,
+    "language": "Rust",
+    "topics": [],
+    "created_at": "2025-08-28T22:55:46",
+    "updated_at": "2025-09-15T04:41:00"
+  },
+  {
+    "name": "LimiX",
+    "full_name": "limix-ldm/LimiX",
+    "description": "LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence https://arxiv.org/abs/2509.03505",
+    "url": "https://github.com/limix-ldm/LimiX",
+    "stars": 234,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "foundation-models",
+      "limix",
+      "machine-learning",
+      "structured-data"
+    ],
+    "created_at": "2025-08-27T07:15:45",
+    "updated_at": "2025-09-15T04:23:45"
+  },
+  {
     "name": "ccpm",
     "full_name": "automazeio/ccpm",
     "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
     "url": "https://github.com/automazeio/ccpm",
-    "stars": 4579,
-    "daily_stars": 12,
+    "stars": 4583,
+    "daily_stars": 4,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -16,150 +45,126 @@
       "vibe-coding"
     ],
     "created_at": "2025-08-18T23:20:08",
-    "updated_at": "2025-09-15T01:58:41"
-  },
-  {
-    "name": "shimmy",
-    "full_name": "Michael-A-Kuykendall/shimmy",
-    "description": "Local-first AI inference server with OpenAI API compatibility, auto-discovery, hot model swapping, and tool calling. Single-binary Rust solution for GGUF models with LoRA support. FREE now, FREE forever.",
-    "url": "https://github.com/Michael-A-Kuykendall/shimmy",
-    "stars": 586,
-    "daily_stars": 9,
-    "language": "Rust",
-    "topics": [],
-    "created_at": "2025-08-28T22:55:46",
-    "updated_at": "2025-09-15T02:02:47"
-  },
-  {
-    "name": "DeepMCPAgent",
-    "full_name": "cryxnet/DeepMCPAgent",
-    "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
-    "url": "https://github.com/cryxnet/DeepMCPAgent",
-    "stars": 383,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-08-29T13:49:43",
-    "updated_at": "2025-09-15T01:15:41"
+    "updated_at": "2025-09-15T04:33:36"
   },
   {
     "name": "tvm-ffi",
     "full_name": "apache/tvm-ffi",
     "description": "TVM FFI",
     "url": "https://github.com/apache/tvm-ffi",
-    "stars": 39,
-    "daily_stars": 4,
+    "stars": 42,
+    "daily_stars": 3,
     "language": "C++",
     "topics": [],
     "created_at": "2025-09-13T22:21:46",
-    "updated_at": "2025-09-15T02:16:44"
+    "updated_at": "2025-09-15T02:46:31"
   },
   {
-    "name": "agentic-design-patterns-book-rus",
-    "full_name": "pridees/agentic-design-patterns-book-rus",
-    "description": "📖 Перевод книги Антонио Гулли - Agentic Design Patterns: Практическое руководство по созданию интеллектуальных систем",
-    "url": "https://github.com/pridees/agentic-design-patterns-book-rus",
-    "stars": 272,
-    "daily_stars": 3,
-    "language": null,
-    "topics": [
-      "adk",
-      "agentic-ai-development",
-      "ai",
-      "ai-agents",
-      "langchain",
-      "langgraph",
-      "prompt-engineering",
-      "python"
-    ],
-    "created_at": "2025-09-04T06:37:27",
-    "updated_at": "2025-09-15T00:26:26"
-  },
-  {
-    "name": "flow-nexus",
-    "full_name": "ruvnet/flow-nexus",
-    "description": "Flow Nexus is the first competitive agentic platform built entirely on MCP. Deploy autonomous AI swarms, train   neural networks, and compete in coding challenges while earning rUv credits. Transform agentic engineering mastery into lived experience through gamified cloud development where agents spawn agents and systems improve themselves",
-    "url": "https://github.com/ruvnet/flow-nexus",
-    "stars": 32,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "agentic",
-      "agentic-workflow",
-      "ai",
-      "ai-agents",
-      "neural-networks",
-      "swarm-intelligence"
-    ],
-    "created_at": "2025-08-25T17:16:01",
-    "updated_at": "2025-09-14T22:29:06"
-  },
-  {
-    "name": "LimiX",
-    "full_name": "limix-ldm/LimiX",
-    "description": "LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence https://arxiv.org/abs/2509.03505",
-    "url": "https://github.com/limix-ldm/LimiX",
-    "stars": 228,
+    "name": "DeepMCPAgent",
+    "full_name": "cryxnet/DeepMCPAgent",
+    "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
+    "url": "https://github.com/cryxnet/DeepMCPAgent",
+    "stars": 385,
     "daily_stars": 2,
     "language": "Python",
-    "topics": [
-      "foundation-models",
-      "limix",
-      "machine-learning",
-      "structured-data"
-    ],
-    "created_at": "2025-08-27T07:15:45",
-    "updated_at": "2025-09-15T01:04:14"
-  },
-  {
-    "name": "workflow",
-    "full_name": "The-Asintota/workflow",
-    "description": "Documentación sobre un flujo de trabajo que podrás usar en tu equipo de desarrollo.",
-    "url": "https://github.com/The-Asintota/workflow",
-    "stars": 3,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "documentation",
-      "good-practices",
-      "workflow"
-    ],
-    "created_at": "2025-09-01T15:08:13",
-    "updated_at": "2025-09-15T01:14:11"
-  },
-  {
-    "name": "voyant",
-    "full_name": "chernistry/voyant",
-    "description": "Fact-Verified Travel AI Agent",
-    "url": "https://github.com/chernistry/voyant",
-    "stars": 16,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agent",
-      "artificial-intelligence",
-      "chatbot",
-      "llm",
-      "multimodal",
-      "nodejs",
-      "prompt-engineering",
-      "rag",
-      "travel",
-      "typescript"
-    ],
-    "created_at": "2025-09-02T17:45:03",
-    "updated_at": "2025-09-14T21:02:15"
+    "topics": [],
+    "created_at": "2025-08-29T13:49:43",
+    "updated_at": "2025-09-15T03:58:55"
   },
   {
     "name": "lbm-training-framework",
     "full_name": "lucidrains/lbm-training-framework",
     "description": "Training framework for Large Behavioral Models",
     "url": "https://github.com/lucidrains/lbm-training-framework",
-    "stars": 12,
-    "daily_stars": 1,
+    "stars": 14,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [],
     "created_at": "2025-09-14T13:56:18",
-    "updated_at": "2025-09-14T23:04:18"
+    "updated_at": "2025-09-15T04:12:43"
+  },
+  {
+    "name": "lookahead-keys-attention",
+    "full_name": "lucidrains/lookahead-keys-attention",
+    "description": "Causal Attention with Lookahead Keys",
+    "url": "https://github.com/lucidrains/lookahead-keys-attention",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-09-11T13:14:41",
+    "updated_at": "2025-09-15T03:08:27"
+  },
+  {
+    "name": "LLM-Agents-Ecosystem-Handbook",
+    "full_name": "oxbshw/LLM-Agents-Ecosystem-Handbook",
+    "description": "One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools.",
+    "url": "https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook",
+    "stars": 284,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "fine-tuning",
+      "finetuning-llms",
+      "freamework",
+      "llm",
+      "llmops",
+      "local-development",
+      "mcp-server",
+      "memory",
+      "rag",
+      "rag-chatbot",
+      "voice-agent"
+    ],
+    "created_at": "2025-09-08T01:24:26",
+    "updated_at": "2025-09-15T02:39:57"
+  },
+  {
+    "name": "nEigent8",
+    "full_name": "Jyotibrat/nEigent8",
+    "description": "This Project is for HackSecure Hackathon. This is a n8n based Data Leak Prevention AI Agent Project. This scans files from Discord, Slack, GitHub and Drive and checks for Data Leaks.",
+    "url": "https://github.com/Jyotibrat/nEigent8",
+    "stars": 7,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "discord",
+      "dlp",
+      "drive",
+      "gemini-api",
+      "github",
+      "n8n-workflow",
+      "slack"
+    ],
+    "created_at": "2025-09-11T16:44:52",
+    "updated_at": "2025-09-15T04:08:59"
+  },
+  {
+    "name": "jarvis",
+    "full_name": "isair/jarvis",
+    "description": "Your AI assistant that never forgets, understands context like a human, and runs 100% privately on your computer. Leave it on 24/7 - it learns your preferences, helps with code, manages your health goals, searches the web, and connects to any tool via MCP servers. No subscriptions, no cloud, just say \"Jarvis\" and talk naturally.",
+    "url": "https://github.com/isair/jarvis",
+    "stars": 33,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "assistant",
+      "health",
+      "machine-learning",
+      "mcp",
+      "nutrition",
+      "privacy",
+      "private",
+      "search",
+      "searching",
+      "voice"
+    ],
+    "created_at": "2025-08-19T18:27:53",
+    "updated_at": "2025-09-15T04:04:50"
   }
 ]
