@@ -4,108 +4,79 @@
     "full_name": "Michael-A-Kuykendall/shimmy",
     "description": "Local-first AI inference server with OpenAI API compatibility, auto-discovery, hot model swapping, and tool calling. Single-binary Rust solution for GGUF models with LoRA support. FREE now, FREE forever.",
     "url": "https://github.com/Michael-A-Kuykendall/shimmy",
-    "stars": 2284,
-    "daily_stars": 102,
+    "stars": 2294,
+    "daily_stars": 10,
     "language": "Rust",
     "topics": [],
     "created_at": "2025-08-28T22:55:46",
-    "updated_at": "2025-09-17T12:57:30"
-  },
-  {
-    "name": "LimiX",
-    "full_name": "limix-ldm/LimiX",
-    "description": "LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence https://arxiv.org/abs/2509.03505",
-    "url": "https://github.com/limix-ldm/LimiX",
-    "stars": 273,
-    "daily_stars": 9,
-    "language": "Python",
-    "topics": [
-      "foundation-models",
-      "limix",
-      "machine-learning",
-      "structured-data"
-    ],
-    "created_at": "2025-08-27T07:15:45",
-    "updated_at": "2025-09-17T12:58:18"
-  },
-  {
-    "name": "DeepMCPAgent",
-    "full_name": "cryxnet/DeepMCPAgent",
-    "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
-    "url": "https://github.com/cryxnet/DeepMCPAgent",
-    "stars": 520,
-    "daily_stars": 7,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-08-29T13:49:43",
-    "updated_at": "2025-09-17T12:08:36"
+    "updated_at": "2025-09-17T16:35:22"
   },
   {
     "name": "Stock-LSTM-Forecasting",
     "full_name": "AmirhoseinHonardoust/Stock-LSTM-Forecasting",
     "description": "Predict stock prices using LSTM networks in PyTorch. This project covers data preprocessing, sliding window creation, model training with early stopping, and evaluation with RMSE/MAE/MAPE. Includes visualizations of training loss, predicted vs actual prices, and short-horizon forecasts.",
     "url": "https://github.com/AmirhoseinHonardoust/Stock-LSTM-Forecasting",
-    "stars": 12,
-    "daily_stars": 4,
+    "stars": 17,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [],
     "created_at": "2025-09-13T16:07:50",
-    "updated_at": "2025-09-17T10:39:11"
+    "updated_at": "2025-09-17T16:07:46"
   },
   {
     "name": "Image-Captioning-CNN-LSTM",
     "full_name": "AmirhoseinHonardoust/Image-Captioning-CNN-LSTM",
     "description": "An end-to-end image captioning project using a CNN encoder (ResNet-50) and LSTM decoder in PyTorch. Includes vocabulary building, preprocessing, training with BLEU evaluation, and inference. Generates natural language captions for images with saved metrics, model checkpoints, and visualization outputs.",
     "url": "https://github.com/AmirhoseinHonardoust/Image-Captioning-CNN-LSTM",
-    "stars": 12,
+    "stars": 16,
     "daily_stars": 4,
     "language": "Python",
     "topics": [],
     "created_at": "2025-09-13T22:39:28",
-    "updated_at": "2025-09-17T10:39:10"
+    "updated_at": "2025-09-17T13:43:21"
   },
   {
     "name": "Handwritten-Digit-GAN",
     "full_name": "AmirhoseinHonardoust/Handwritten-Digit-GAN",
     "description": "A PyTorch implementation of a Deep Convolutional GAN (DCGAN) trained on MNIST. Includes training scripts, generator & discriminator models, random sample generation, latent space interpolation, and loss curve visualization to create realistic handwritten digit images.",
     "url": "https://github.com/AmirhoseinHonardoust/Handwritten-Digit-GAN",
-    "stars": 11,
+    "stars": 15,
     "daily_stars": 4,
     "language": "Python",
     "topics": [],
     "created_at": "2025-09-12T21:24:10",
-    "updated_at": "2025-09-17T10:39:12"
+    "updated_at": "2025-09-17T13:43:26"
   },
   {
     "name": "Anomaly-Detection",
     "full_name": "AmirhoseinHonardoust/Anomaly-Detection",
     "description": "Anomaly detection in synthetic transaction and sales data with Python. Generates realistic data, injects unusual events, and applies Isolation Forest, Local Outlier Factor, and Z-score methods to detect outliers. Produces anomaly reports and visualizations for portfolio-ready demonstration of data science skills.",
     "url": "https://github.com/AmirhoseinHonardoust/Anomaly-Detection",
-    "stars": 9,
+    "stars": 13,
     "daily_stars": 4,
     "language": "Python",
     "topics": [],
     "created_at": "2025-09-09T10:37:22",
-    "updated_at": "2025-09-17T10:39:19"
+    "updated_at": "2025-09-17T13:43:33"
   },
   {
     "name": "Image-Classification-CNN",
     "full_name": "AmirhoseinHonardoust/Image-Classification-CNN",
     "description": "Image classification with PyTorch using Convolutional Neural Networks (CNNs). Trains on MNIST with convolution, pooling, and fully connected layers. Achieves over 99% accuracy with early stopping and checkpoints. Includes training/evaluation scripts, metrics, confusion matrix, training curves, and sample prediction visualizations.",
     "url": "https://github.com/AmirhoseinHonardoust/Image-Classification-CNN",
-    "stars": 9,
+    "stars": 13,
     "daily_stars": 4,
     "language": "Python",
     "topics": [],
     "created_at": "2025-09-11T13:32:56",
-    "updated_at": "2025-09-17T10:39:14"
+    "updated_at": "2025-09-17T13:43:29"
   },
   {
     "name": "Customer-Churn-Prediction",
     "full_name": "AmirhoseinHonardoust/Customer-Churn-Prediction",
     "description": "Customer churn prediction with Python using synthetic datasets. Includes data generation, feature engineering, and training with Logistic Regression, Random Forest, and Gradient Boosting. Improved pipeline applies hyperparameter tuning and threshold optimization to boost recall. Outputs metrics, reports, and charts.",
     "url": "https://github.com/AmirhoseinHonardoust/Customer-Churn-Prediction",
-    "stars": 9,
+    "stars": 13,
     "daily_stars": 4,
     "language": "Python",
     "topics": [
@@ -125,14 +96,14 @@
       "roc-auc"
     ],
     "created_at": "2025-09-09T13:40:09",
-    "updated_at": "2025-09-17T10:39:17"
+    "updated_at": "2025-09-17T13:43:34"
   },
   {
     "name": "Sentiment-Analysis-NLP",
     "full_name": "AmirhoseinHonardoust/Sentiment-Analysis-NLP",
     "description": "Customer reviews sentiment analysis with Python and NLP. Generates a synthetic dataset of positive, neutral, and negative reviews, applies preprocessing (tokenization, stopwords, lemmatization), and builds TF-IDF features. Trains classifiers (Naive Bayes, Logistic Regression, Random Forest) with evaluation, confusion matrix and top features.",
     "url": "https://github.com/AmirhoseinHonardoust/Sentiment-Analysis-NLP",
-    "stars": 9,
+    "stars": 13,
     "daily_stars": 4,
     "language": "Python",
     "topics": [
@@ -140,6 +111,30 @@
       "python"
     ],
     "created_at": "2025-09-10T07:24:14",
-    "updated_at": "2025-09-17T10:39:16"
+    "updated_at": "2025-09-17T13:43:31"
+  },
+  {
+    "name": "LSTM-Time-Series-Forecasting",
+    "full_name": "AmirhoseinHonardoust/LSTM-Time-Series-Forecasting",
+    "description": "A hands-on project for forecasting time-series with PyTorch LSTMs. It creates realistic daily data (trend, seasonality, events, noise), prepares it with sliding windows, and trains an LSTM to make multi-step predictions. The project tracks errors with RMSE, MAE, MAPE and shows clear plots of training progress and forecast results.",
+    "url": "https://github.com/AmirhoseinHonardoust/LSTM-Time-Series-Forecasting",
+    "stars": 13,
+    "daily_stars": 4,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-09-11T15:34:53",
+    "updated_at": "2025-09-17T13:43:28"
+  },
+  {
+    "name": "Movie-Recommendation-System",
+    "full_name": "AmirhoseinHonardoust/Movie-Recommendation-System",
+    "description": "Movie recommendation system with Python. Implements content-based filtering (TF-IDF + cosine similarity), collaborative filtering with matrix factorization (TruncatedSVD), and a hybrid approach. Evaluates with Precision@K, Recall@K, and NDCG. Includes rating distribution plots, top movies, and sample recommendations.",
+    "url": "https://github.com/AmirhoseinHonardoust/Movie-Recommendation-System",
+    "stars": 13,
+    "daily_stars": 4,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-09-11T08:20:59",
+    "updated_at": "2025-09-17T13:43:30"
   }
 ]
