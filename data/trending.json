@@ -4,32 +4,86 @@
     "full_name": "subnetmarco/pgmcp",
     "description": "An MCP server to query any Postgres database in natural language.",
     "url": "https://github.com/subnetmarco/pgmcp",
-    "stars": 274,
-    "daily_stars": 20,
+    "stars": 289,
+    "daily_stars": 15,
     "language": "Go",
     "topics": [],
     "created_at": "2025-09-16T19:45:03",
-    "updated_at": "2025-09-19T16:40:26"
+    "updated_at": "2025-09-19T20:32:12"
   },
   {
-    "name": "shimmy",
-    "full_name": "Michael-A-Kuykendall/shimmy",
-    "description": "Local-first AI inference server with OpenAI API compatibility, auto-discovery, hot model swapping, and tool calling. Single-binary Rust solution for GGUF models with LoRA support. FREE now, FREE forever.",
-    "url": "https://github.com/Michael-A-Kuykendall/shimmy",
-    "stars": 2429,
+    "name": "agentic-design-patterns-book-rus",
+    "full_name": "pridees/agentic-design-patterns-book-rus",
+    "description": "📖 Перевод книги Антонио Гулли - Agentic Design Patterns: Практическое руководство по созданию интеллектуальных систем",
+    "url": "https://github.com/pridees/agentic-design-patterns-book-rus",
+    "stars": 307,
     "daily_stars": 5,
-    "language": "Rust",
+    "language": null,
+    "topics": [
+      "adk",
+      "agentic-ai-development",
+      "ai",
+      "ai-agents",
+      "langchain",
+      "langgraph",
+      "prompt-engineering",
+      "python"
+    ],
+    "created_at": "2025-09-04T06:37:27",
+    "updated_at": "2025-09-19T18:41:01"
+  },
+  {
+    "name": "DeepMCPAgent",
+    "full_name": "cryxnet/DeepMCPAgent",
+    "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
+    "url": "https://github.com/cryxnet/DeepMCPAgent",
+    "stars": 548,
+    "daily_stars": 1,
+    "language": "Python",
     "topics": [],
-    "created_at": "2025-08-28T22:55:46",
-    "updated_at": "2025-09-19T15:07:16"
+    "created_at": "2025-08-29T13:49:43",
+    "updated_at": "2025-09-19T16:48:02"
+  },
+  {
+    "name": "Disciplined-AI-Software-Development",
+    "full_name": "Varietyz/Disciplined-AI-Software-Development",
+    "description": "This methodology provides a structured approach for collaborating with AI systems on software development projects. It addresses common issues like code bloat, architectural drift, and context dilution through systematic constraints and validation checkpoints.",
+    "url": "https://github.com/Varietyz/Disciplined-AI-Software-Development",
+    "stars": 320,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-collaboration",
+      "best-practices",
+      "collaborate",
+      "collaboration",
+      "collaborative",
+      "context",
+      "documentation",
+      "dry",
+      "educational",
+      "kiss",
+      "llms",
+      "methodology",
+      "methodology-development",
+      "prompt-engineering",
+      "software-architecture",
+      "software-development",
+      "software-engineering",
+      "workflow"
+    ],
+    "created_at": "2025-09-04T13:53:02",
+    "updated_at": "2025-09-19T20:01:13"
   },
   {
     "name": "CLOV",
     "full_name": "Aihy/CLOV",
     "description": "Valuation of tokens corresponding to influential individuals on social platforms through AI algorithms",
     "url": "https://github.com/Aihy/CLOV",
-    "stars": 124,
-    "daily_stars": 4,
+    "stars": 125,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -37,27 +91,46 @@
       "chatbot"
     ],
     "created_at": "2025-09-17T08:06:46",
-    "updated_at": "2025-09-19T15:14:07"
+    "updated_at": "2025-09-19T17:46:08"
   },
   {
-    "name": "DeepMCPAgent",
-    "full_name": "cryxnet/DeepMCPAgent",
-    "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
-    "url": "https://github.com/cryxnet/DeepMCPAgent",
-    "stars": 547,
-    "daily_stars": 2,
+    "name": "apm",
+    "full_name": "danielmeppiel/apm",
+    "description": "Agent Package Manager",
+    "url": "https://github.com/danielmeppiel/apm",
+    "stars": 5,
+    "daily_stars": 1,
     "language": "Python",
+    "topics": [
+      "ai-agent-framework",
+      "ai-agents",
+      "codex-cli",
+      "context-engineering",
+      "prompt-engineering",
+      "workflow-automation"
+    ],
+    "created_at": "2025-09-18T13:45:22",
+    "updated_at": "2025-09-19T18:52:23"
+  },
+  {
+    "name": "shimmy",
+    "full_name": "Michael-A-Kuykendall/shimmy",
+    "description": "Local-first AI inference server with OpenAI API compatibility, auto-discovery, hot model swapping, and tool calling. Single-binary Rust solution for GGUF models with LoRA support. FREE now, FREE forever.",
+    "url": "https://github.com/Michael-A-Kuykendall/shimmy",
+    "stars": 2430,
+    "daily_stars": 1,
+    "language": "Rust",
     "topics": [],
-    "created_at": "2025-08-29T13:49:43",
-    "updated_at": "2025-09-19T16:00:34"
+    "created_at": "2025-08-28T22:55:46",
+    "updated_at": "2025-09-19T20:28:52"
   },
   {
     "name": "dinov3_ros",
     "full_name": "Raessan/dinov3_ros",
     "description": "ROS 2 integration of Meta’s DINOv3 backbone with lightweight heads for vision tasks.",
     "url": "https://github.com/Raessan/dinov3_ros",
-    "stars": 38,
-    "daily_stars": 2,
+    "stars": 39,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "computer-vision",
@@ -73,101 +146,30 @@
       "visual-perception"
     ],
     "created_at": "2025-08-24T16:23:27",
-    "updated_at": "2025-09-19T13:41:24"
+    "updated_at": "2025-09-19T19:13:51"
   },
   {
-    "name": "agentic-design-patterns-book-rus",
-    "full_name": "pridees/agentic-design-patterns-book-rus",
-    "description": "📖 Перевод книги Антонио Гулли - Agentic Design Patterns: Практическое руководство по созданию интеллектуальных систем",
-    "url": "https://github.com/pridees/agentic-design-patterns-book-rus",
-    "stars": 302,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "adk",
-      "agentic-ai-development",
-      "ai",
-      "ai-agents",
-      "langchain",
-      "langgraph",
-      "prompt-engineering",
-      "python"
-    ],
-    "created_at": "2025-09-04T06:37:27",
-    "updated_at": "2025-09-19T14:09:46"
+    "name": "maverick-mcp",
+    "full_name": "wshobson/maverick-mcp",
+    "description": "MaverickMCP - Personal Stock Analysis MCP Server",
+    "url": "https://github.com/wshobson/maverick-mcp",
+    "stars": 78,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-08-24T15:24:20",
+    "updated_at": "2025-09-18T19:30:09"
   },
   {
-    "name": "ai-infrastructure-agent",
-    "full_name": "VersusControl/ai-infrastructure-agent",
-    "description": "AI Infrastructure Agent is an intelligent system that allows you to manage AWS infrastructure using natural language commands.",
-    "url": "https://github.com/VersusControl/ai-infrastructure-agent",
-    "stars": 83,
-    "daily_stars": 1,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "aws",
-      "devops",
-      "infrastructure",
-      "mcp"
-    ],
-    "created_at": "2025-08-30T06:49:43",
-    "updated_at": "2025-09-19T16:15:19"
-  },
-  {
-    "name": "flow-nexus",
-    "full_name": "ruvnet/flow-nexus",
-    "description": "Flow Nexus is the first competitive agentic platform built entirely on MCP. Deploy autonomous AI swarms, train   neural networks, and compete in coding challenges while earning rUv credits. Transform agentic engineering mastery into lived experience through gamified cloud development where agents spawn agents and systems improve themselves",
-    "url": "https://github.com/ruvnet/flow-nexus",
-    "stars": 37,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "agentic",
-      "agentic-workflow",
-      "ai",
-      "ai-agents",
-      "neural-networks",
-      "swarm-intelligence"
-    ],
-    "created_at": "2025-08-25T17:16:01",
-    "updated_at": "2025-09-19T16:38:38"
-  },
-  {
-    "name": "agentic-rag",
-    "full_name": "FareedKhan-dev/agentic-rag",
-    "description": "Agentic RAG to achieve human like reasoning",
-    "url": "https://github.com/FareedKhan-dev/agentic-rag",
-    "stars": 33,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "agentic-rag",
-      "ai-agents",
-      "llm",
-      "openai",
-      "rag"
-    ],
-    "created_at": "2025-09-16T14:20:47",
-    "updated_at": "2025-09-19T15:18:00"
-  },
-  {
-    "name": "ContextKit",
-    "full_name": "FlineDev/ContextKit",
-    "description": "Claude Code context engineering & planning system for individual AI development workflows",
-    "url": "https://github.com/FlineDev/ContextKit",
-    "stars": 27,
-    "daily_stars": 1,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "ios",
-      "swift",
-      "swiftui"
-    ],
-    "created_at": "2025-09-11T21:59:13",
-    "updated_at": "2025-09-19T13:31:23"
+    "name": "contrastive-rl",
+    "full_name": "lucidrains/contrastive-rl",
+    "description": "Contrastive Reinforcement Learning",
+    "url": "https://github.com/lucidrains/contrastive-rl",
+    "stars": 43,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-08-29T19:44:31",
+    "updated_at": "2025-09-12T02:15:21"
   }
 ]
