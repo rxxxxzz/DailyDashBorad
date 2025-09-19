@@ -4,20 +4,20 @@
     "full_name": "subnetmarco/pgmcp",
     "description": "An MCP server to query any Postgres database in natural language.",
     "url": "https://github.com/subnetmarco/pgmcp",
-    "stars": 108,
-    "daily_stars": 26,
+    "stars": 141,
+    "daily_stars": 33,
     "language": "Go",
     "topics": [],
     "created_at": "2025-09-16T19:45:03",
-    "updated_at": "2025-09-18T20:30:50"
+    "updated_at": "2025-09-19T01:58:50"
   },
   {
     "name": "CLOV",
     "full_name": "Aihy/CLOV",
     "description": "Valuation of tokens corresponding to influential individuals on social platforms through AI algorithms",
     "url": "https://github.com/Aihy/CLOV",
-    "stars": 62,
-    "daily_stars": 22,
+    "stars": 88,
+    "daily_stars": 26,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -25,27 +25,50 @@
       "chatbot"
     ],
     "created_at": "2025-09-17T08:06:46",
-    "updated_at": "2025-09-18T20:30:51"
+    "updated_at": "2025-09-19T02:10:08"
   },
   {
     "name": "shimmy",
     "full_name": "Michael-A-Kuykendall/shimmy",
     "description": "Local-first AI inference server with OpenAI API compatibility, auto-discovery, hot model swapping, and tool calling. Single-binary Rust solution for GGUF models with LoRA support. FREE now, FREE forever.",
     "url": "https://github.com/Michael-A-Kuykendall/shimmy",
-    "stars": 2384,
-    "daily_stars": 6,
+    "stars": 2398,
+    "daily_stars": 14,
     "language": "Rust",
     "topics": [],
     "created_at": "2025-08-28T22:55:46",
-    "updated_at": "2025-09-18T20:13:03"
+    "updated_at": "2025-09-19T01:54:15"
+  },
+  {
+    "name": "voyant",
+    "full_name": "chernistry/voyant",
+    "description": "Fact-Verified Travel AI Agent",
+    "url": "https://github.com/chernistry/voyant",
+    "stars": 25,
+    "daily_stars": 2,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agent",
+      "artificial-intelligence",
+      "chatbot",
+      "llm",
+      "multimodal",
+      "nodejs",
+      "prompt-engineering",
+      "rag",
+      "travel",
+      "typescript"
+    ],
+    "created_at": "2025-09-02T17:45:03",
+    "updated_at": "2025-09-18T22:46:09"
   },
   {
     "name": "agentic-rag",
     "full_name": "FareedKhan-dev/agentic-rag",
     "description": "Agentic RAG to achieve human like reasoning",
     "url": "https://github.com/FareedKhan-dev/agentic-rag",
-    "stars": 27,
-    "daily_stars": 4,
+    "stars": 29,
+    "daily_stars": 2,
     "language": "Jupyter Notebook",
     "topics": [
       "agentic-rag",
@@ -55,99 +78,100 @@
       "rag"
     ],
     "created_at": "2025-09-16T14:20:47",
-    "updated_at": "2025-09-18T17:34:26"
+    "updated_at": "2025-09-19T01:17:41"
   },
   {
-    "name": "agentic-design-patterns-book-rus",
-    "full_name": "pridees/agentic-design-patterns-book-rus",
-    "description": "📖 Перевод книги Антонио Гулли - Agentic Design Patterns: Практическое руководство по созданию интеллектуальных систем",
-    "url": "https://github.com/pridees/agentic-design-patterns-book-rus",
-    "stars": 301,
-    "daily_stars": 3,
+    "name": "DeepMCPAgent",
+    "full_name": "cryxnet/DeepMCPAgent",
+    "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
+    "url": "https://github.com/cryxnet/DeepMCPAgent",
+    "stars": 541,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-08-29T13:49:43",
+    "updated_at": "2025-09-19T01:08:39"
+  },
+  {
+    "name": "awesome-pinecone",
+    "full_name": "aaronkao/awesome-pinecone",
+    "description": "A curated list of awesome Pinecone resources, libraries, tools and applications",
+    "url": "https://github.com/aaronkao/awesome-pinecone",
+    "stars": 13,
+    "daily_stars": 1,
     "language": null,
     "topics": [
-      "adk",
-      "agentic-ai-development",
       "ai",
       "ai-agents",
-      "langchain",
-      "langgraph",
-      "prompt-engineering",
+      "cloud",
+      "retrieval-augmented-generation",
+      "vector-database",
+      "vector-search"
+    ],
+    "created_at": "2025-09-04T14:02:26",
+    "updated_at": "2025-09-18T23:48:56"
+  },
+  {
+    "name": "biblemate",
+    "full_name": "eliranwong/biblemate",
+    "description": "BibleMate AI is an autonomous AI agent able to make plans and execute multiple steps to complete bible-related tasks, like in-depth study on a particular bible passage.",
+    "url": "https://github.com/eliranwong/biblemate",
+    "stars": 4,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "bible",
+      "bible-study",
+      "chatgpt",
+      "gemini",
+      "uniquebible"
+    ],
+    "created_at": "2025-09-08T20:48:34",
+    "updated_at": "2025-09-18T23:06:24"
+  },
+  {
+    "name": "flask-mcp-server",
+    "full_name": "bashar94/flask-mcp-server",
+    "description": "Most advanced Flask-based MCP server",
+    "url": "https://github.com/bashar94/flask-mcp-server",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "django",
+      "flask",
+      "mcp",
+      "mcp-server",
       "python"
     ],
-    "created_at": "2025-09-04T06:37:27",
-    "updated_at": "2025-09-18T17:45:23"
+    "created_at": "2025-08-21T01:43:05",
+    "updated_at": "2025-09-18T20:48:13"
   },
   {
-    "name": "best-llm-finder-pipeline",
-    "full_name": "FareedKhan-dev/best-llm-finder-pipeline",
-    "description": "Agentic RAG, Multi-Agent Systems, and Vision Reasoning are three pipelines to find the perfect LLM",
-    "url": "https://github.com/FareedKhan-dev/best-llm-finder-pipeline",
-    "stars": 110,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [],
-    "created_at": "2025-08-20T16:26:54",
-    "updated_at": "2025-09-18T17:20:21"
-  },
-  {
-    "name": "maverick-mcp",
-    "full_name": "wshobson/maverick-mcp",
-    "description": "MaverickMCP - Personal Stock Analysis MCP Server",
-    "url": "https://github.com/wshobson/maverick-mcp",
-    "stars": 78,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-08-24T15:24:20",
-    "updated_at": "2025-09-18T19:30:09"
-  },
-  {
-    "name": "lookahead-keys-attention",
-    "full_name": "lucidrains/lookahead-keys-attention",
-    "description": "Causal Attention with Lookahead Keys",
-    "url": "https://github.com/lucidrains/lookahead-keys-attention",
-    "stars": 21,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-09-11T13:14:41",
-    "updated_at": "2025-09-18T20:13:10"
-  },
-  {
-    "name": "multi-agent-trading-system",
-    "full_name": "FareedKhan-dev/multi-agent-trading-system",
-    "description": "Implementation of Deep Thinking Trading System",
-    "url": "https://github.com/FareedKhan-dev/multi-agent-trading-system",
-    "stars": 58,
+    "name": "Tim-Maju-Lancar-Datathon-Jatim-2025",
+    "full_name": "FarrelAD/Tim-Maju-Lancar-Datathon-Jatim-2025",
+    "description": "A repository that contain our data analysis in competition Datathon Jatim 2025 by Komdigi Jawa Timur (East Java Ministry of Communication and Digital Affairs)",
+    "url": "https://github.com/FarrelAD/Tim-Maju-Lancar-Datathon-Jatim-2025",
+    "stars": 5,
     "daily_stars": 1,
     "language": "Jupyter Notebook",
     "topics": [
-      "agent",
-      "ai-agents",
-      "multi-agent-systems",
-      "openai",
-      "trading"
+      "algorithm",
+      "data-analisis",
+      "data-analysis",
+      "data-analytics",
+      "data-science",
+      "datathon",
+      "east-java",
+      "jawa-timur",
+      "machine-learning",
+      "sekolah"
     ],
-    "created_at": "2025-09-04T10:15:22",
-    "updated_at": "2025-09-18T17:19:29"
-  },
-  {
-    "name": "ContextKit",
-    "full_name": "FlineDev/ContextKit",
-    "description": "Claude Code context engineering & planning system for individual AI development workflows",
-    "url": "https://github.com/FlineDev/ContextKit",
-    "stars": 26,
-    "daily_stars": 1,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "ios",
-      "swift",
-      "swiftui"
-    ],
-    "created_at": "2025-09-11T21:59:13",
-    "updated_at": "2025-09-18T20:18:38"
+    "created_at": "2025-08-28T04:21:41",
+    "updated_at": "2025-09-19T01:39:05"
   }
 ]
