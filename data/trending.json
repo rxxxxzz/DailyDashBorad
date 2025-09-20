@@ -4,8 +4,8 @@
     "full_name": "Wildcard-Official/deepcontext-mcp",
     "description": "DeepContext is an MCP server that adds symbol-aware semantic search to Claude Code, Codex CLI, and other agents for faster, smarter context on large codebases.",
     "url": "https://github.com/Wildcard-Official/deepcontext-mcp",
-    "stars": 52,
-    "daily_stars": 20,
+    "stars": 64,
+    "daily_stars": 12,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -22,27 +22,39 @@
       "vector-database"
     ],
     "created_at": "2025-09-04T01:07:26",
-    "updated_at": "2025-09-20T08:32:17"
+    "updated_at": "2025-09-20T12:42:26"
+  },
+  {
+    "name": "shimmy",
+    "full_name": "Michael-A-Kuykendall/shimmy",
+    "description": "Local-first AI inference server with OpenAI API compatibility, auto-discovery, hot model swapping, and tool calling. Single-binary Rust solution for GGUF models with LoRA support. FREE now, FREE forever.",
+    "url": "https://github.com/Michael-A-Kuykendall/shimmy",
+    "stars": 2456,
+    "daily_stars": 5,
+    "language": "Rust",
+    "topics": [],
+    "created_at": "2025-08-28T22:55:46",
+    "updated_at": "2025-09-20T11:04:24"
   },
   {
     "name": "pgmcp",
     "full_name": "subnetmarco/pgmcp",
     "description": "An MCP server to query any Postgres database in natural language.",
     "url": "https://github.com/subnetmarco/pgmcp",
-    "stars": 321,
-    "daily_stars": 8,
+    "stars": 324,
+    "daily_stars": 3,
     "language": "Go",
     "topics": [],
     "created_at": "2025-09-16T19:45:03",
-    "updated_at": "2025-09-20T08:28:53"
+    "updated_at": "2025-09-20T12:56:18"
   },
   {
     "name": "CLOV",
     "full_name": "Aihy/CLOV",
     "description": "Valuation of tokens corresponding to influential individuals on social platforms through AI algorithms",
     "url": "https://github.com/Aihy/CLOV",
-    "stars": 136,
-    "daily_stars": 8,
+    "stars": 139,
+    "daily_stars": 3,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -50,62 +62,100 @@
       "chatbot"
     ],
     "created_at": "2025-09-17T08:06:46",
-    "updated_at": "2025-09-20T08:39:27"
+    "updated_at": "2025-09-20T12:52:25"
   },
   {
-    "name": "shimmy",
-    "full_name": "Michael-A-Kuykendall/shimmy",
-    "description": "Local-first AI inference server with OpenAI API compatibility, auto-discovery, hot model swapping, and tool calling. Single-binary Rust solution for GGUF models with LoRA support. FREE now, FREE forever.",
-    "url": "https://github.com/Michael-A-Kuykendall/shimmy",
-    "stars": 2451,
-    "daily_stars": 4,
-    "language": "Rust",
-    "topics": [],
-    "created_at": "2025-08-28T22:55:46",
-    "updated_at": "2025-09-20T08:40:57"
+    "name": "Awesome-AI-For-Security",
+    "full_name": "mikehubers/Awesome-AI-For-Security",
+    "description": "🛡️ Discover essential tools and resources that leverage AI for enhancing cybersecurity, focusing on modern technologies and their applications in security operations.",
+    "url": "https://github.com/mikehubers/Awesome-AI-For-Security",
+    "stars": 2,
+    "daily_stars": 2,
+    "language": null,
+    "topics": [
+      "agent",
+      "awesome",
+      "awesome-readme",
+      "censorship",
+      "china-dictatorship",
+      "covid-19",
+      "falun-gong",
+      "genai",
+      "human-rights",
+      "lists",
+      "llm-agent",
+      "llm-inference",
+      "machine-learning",
+      "mlops",
+      "privacy",
+      "reinforcement-learning",
+      "security-automation",
+      "tiananmen"
+    ],
+    "created_at": "2025-09-10T15:24:45",
+    "updated_at": "2025-09-20T11:33:23"
+  },
+  {
+    "name": "Low-Code-No-Code-Platforms",
+    "full_name": "Mintahandrews/Low-Code-No-Code-Platforms",
+    "description": "Curated list of the best Low-Code and No-Code platforms for rapid application development, automation, and digital transformation. Includes open-source and commercial tools, feature comparisons, and learning resources.",
+    "url": "https://github.com/Mintahandrews/Low-Code-No-Code-Platforms",
+    "stars": 3,
+    "daily_stars": 2,
+    "language": null,
+    "topics": [
+      "ai",
+      "app-builder",
+      "automation",
+      "backend",
+      "builder",
+      "commercial",
+      "comparison",
+      "database",
+      "frontend",
+      "internal-tools-citizen-development",
+      "low-code-no-code",
+      "ml",
+      "mobile",
+      "open-source",
+      "platforms",
+      "rapid-development",
+      "resources",
+      "workflow"
+    ],
+    "created_at": "2025-09-18T02:47:11",
+    "updated_at": "2025-09-20T12:42:43"
   },
   {
     "name": "DeepMCPAgent",
     "full_name": "cryxnet/DeepMCPAgent",
     "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
     "url": "https://github.com/cryxnet/DeepMCPAgent",
-    "stars": 551,
-    "daily_stars": 2,
+    "stars": 552,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [],
     "created_at": "2025-08-29T13:49:43",
-    "updated_at": "2025-09-20T06:16:02"
+    "updated_at": "2025-09-20T11:19:41"
   },
   {
-    "name": "dinov3_ros",
-    "full_name": "Raessan/dinov3_ros",
-    "description": "ROS 2 integration of Meta’s DINOv3 backbone with lightweight heads for vision tasks.",
-    "url": "https://github.com/Raessan/dinov3_ros",
-    "stars": 42,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "computer-vision",
-      "deep-learning",
-      "depth-estimation",
-      "dinov3",
-      "multi-task-learning",
-      "object-detection",
-      "pytorch",
-      "robotics",
-      "ros2",
-      "semantic-segmentation",
-      "visual-perception"
-    ],
-    "created_at": "2025-08-24T16:23:27",
-    "updated_at": "2025-09-20T07:23:01"
+    "name": "AI-outlier-detection",
+    "full_name": "FareedKhan-dev/AI-outlier-detection",
+    "description": "Outlier Detection with AI + ML",
+    "url": "https://github.com/FareedKhan-dev/AI-outlier-detection",
+    "stars": 7,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [],
+    "created_at": "2025-09-11T17:49:48",
+    "updated_at": "2025-09-20T09:22:50"
   },
   {
     "name": "ai-infrastructure-agent",
     "full_name": "VersusControl/ai-infrastructure-agent",
     "description": "AI Infrastructure Agent is an intelligent system that allows you to manage AWS infrastructure using natural language commands.",
     "url": "https://github.com/VersusControl/ai-infrastructure-agent",
-    "stars": 85,
+    "stars": 86,
     "daily_stars": 1,
     "language": "Go",
     "topics": [
@@ -117,65 +167,23 @@
       "mcp"
     ],
     "created_at": "2025-08-30T06:49:43",
-    "updated_at": "2025-09-20T05:41:01"
+    "updated_at": "2025-09-20T10:43:47"
   },
   {
-    "name": "agentic-rag",
-    "full_name": "FareedKhan-dev/agentic-rag",
-    "description": "Agentic RAG to achieve human like reasoning",
-    "url": "https://github.com/FareedKhan-dev/agentic-rag",
-    "stars": 34,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "agentic-rag",
-      "ai-agents",
-      "llm",
-      "openai",
-      "rag"
-    ],
-    "created_at": "2025-09-16T14:20:47",
-    "updated_at": "2025-09-20T05:19:38"
-  },
-  {
-    "name": "ContextKit",
-    "full_name": "FlineDev/ContextKit",
-    "description": "Claude Code context engineering & planning system for individual AI development workflows",
-    "url": "https://github.com/FlineDev/ContextKit",
-    "stars": 29,
-    "daily_stars": 1,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "ios",
-      "swift",
-      "swiftui"
-    ],
-    "created_at": "2025-09-11T21:59:13",
-    "updated_at": "2025-09-20T06:17:39"
-  },
-  {
-    "name": "WhenTrade",
-    "full_name": "foldedcode/WhenTrade",
-    "description": "AI-Powered Multi-Agent Crypto Investment Analysis Platform",
-    "url": "https://github.com/foldedcode/WhenTrade",
-    "stars": 8,
+    "name": "LimiX",
+    "full_name": "limix-ldm/LimiX",
+    "description": "LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence https://arxiv.org/abs/2509.03505",
+    "url": "https://github.com/limix-ldm/LimiX",
+    "stars": 315,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "ai",
-      "ai-agents",
-      "analysis",
-      "crypto",
-      "fastapi",
-      "investment",
-      "multi-agent",
-      "research",
-      "vue3",
-      "web3"
+      "foundation-models",
+      "limix",
+      "machine-learning",
+      "structured-data"
     ],
-    "created_at": "2025-09-04T09:20:36",
-    "updated_at": "2025-09-20T05:59:20"
+    "created_at": "2025-08-27T07:15:45",
+    "updated_at": "2025-09-20T09:01:41"
   }
 ]
