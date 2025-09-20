@@ -4,8 +4,8 @@
     "full_name": "Wildcard-Official/deepcontext-mcp",
     "description": "DeepContext is an MCP server that adds symbol-aware semantic search to Claude Code, Codex CLI, and other agents for faster, smarter context on large codebases.",
     "url": "https://github.com/Wildcard-Official/deepcontext-mcp",
-    "stars": 32,
-    "daily_stars": 8,
+    "stars": 52,
+    "daily_stars": 20,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -22,56 +22,27 @@
       "vector-database"
     ],
     "created_at": "2025-09-04T01:07:26",
-    "updated_at": "2025-09-20T04:32:44"
+    "updated_at": "2025-09-20T08:32:17"
   },
   {
     "name": "pgmcp",
     "full_name": "subnetmarco/pgmcp",
     "description": "An MCP server to query any Postgres database in natural language.",
     "url": "https://github.com/subnetmarco/pgmcp",
-    "stars": 313,
-    "daily_stars": 7,
+    "stars": 321,
+    "daily_stars": 8,
     "language": "Go",
     "topics": [],
     "created_at": "2025-09-16T19:45:03",
-    "updated_at": "2025-09-20T04:32:56"
-  },
-  {
-    "name": "shimmy",
-    "full_name": "Michael-A-Kuykendall/shimmy",
-    "description": "Local-first AI inference server with OpenAI API compatibility, auto-discovery, hot model swapping, and tool calling. Single-binary Rust solution for GGUF models with LoRA support. FREE now, FREE forever.",
-    "url": "https://github.com/Michael-A-Kuykendall/shimmy",
-    "stars": 2447,
-    "daily_stars": 7,
-    "language": "Rust",
-    "topics": [],
-    "created_at": "2025-08-28T22:55:46",
-    "updated_at": "2025-09-20T04:31:06"
-  },
-  {
-    "name": "LimiX",
-    "full_name": "limix-ldm/LimiX",
-    "description": "LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence https://arxiv.org/abs/2509.03505",
-    "url": "https://github.com/limix-ldm/LimiX",
-    "stars": 314,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "foundation-models",
-      "limix",
-      "machine-learning",
-      "structured-data"
-    ],
-    "created_at": "2025-08-27T07:15:45",
-    "updated_at": "2025-09-20T03:20:21"
+    "updated_at": "2025-09-20T08:28:53"
   },
   {
     "name": "CLOV",
     "full_name": "Aihy/CLOV",
     "description": "Valuation of tokens corresponding to influential individuals on social platforms through AI algorithms",
     "url": "https://github.com/Aihy/CLOV",
-    "stars": 128,
-    "daily_stars": 2,
+    "stars": 136,
+    "daily_stars": 8,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -79,38 +50,99 @@
       "chatbot"
     ],
     "created_at": "2025-09-17T08:06:46",
-    "updated_at": "2025-09-20T04:19:14"
+    "updated_at": "2025-09-20T08:39:27"
+  },
+  {
+    "name": "shimmy",
+    "full_name": "Michael-A-Kuykendall/shimmy",
+    "description": "Local-first AI inference server with OpenAI API compatibility, auto-discovery, hot model swapping, and tool calling. Single-binary Rust solution for GGUF models with LoRA support. FREE now, FREE forever.",
+    "url": "https://github.com/Michael-A-Kuykendall/shimmy",
+    "stars": 2451,
+    "daily_stars": 4,
+    "language": "Rust",
+    "topics": [],
+    "created_at": "2025-08-28T22:55:46",
+    "updated_at": "2025-09-20T08:40:57"
   },
   {
     "name": "DeepMCPAgent",
     "full_name": "cryxnet/DeepMCPAgent",
     "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
     "url": "https://github.com/cryxnet/DeepMCPAgent",
-    "stars": 549,
-    "daily_stars": 1,
+    "stars": 551,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [],
     "created_at": "2025-08-29T13:49:43",
-    "updated_at": "2025-09-20T04:28:42"
+    "updated_at": "2025-09-20T06:16:02"
   },
   {
-    "name": "maverick-mcp",
-    "full_name": "wshobson/maverick-mcp",
-    "description": "MaverickMCP - Personal Stock Analysis MCP Server",
-    "url": "https://github.com/wshobson/maverick-mcp",
-    "stars": 79,
-    "daily_stars": 1,
+    "name": "dinov3_ros",
+    "full_name": "Raessan/dinov3_ros",
+    "description": "ROS 2 integration of Meta’s DINOv3 backbone with lightweight heads for vision tasks.",
+    "url": "https://github.com/Raessan/dinov3_ros",
+    "stars": 42,
+    "daily_stars": 2,
     "language": "Python",
-    "topics": [],
-    "created_at": "2025-08-24T15:24:20",
-    "updated_at": "2025-09-20T02:25:19"
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "depth-estimation",
+      "dinov3",
+      "multi-task-learning",
+      "object-detection",
+      "pytorch",
+      "robotics",
+      "ros2",
+      "semantic-segmentation",
+      "visual-perception"
+    ],
+    "created_at": "2025-08-24T16:23:27",
+    "updated_at": "2025-09-20T07:23:01"
+  },
+  {
+    "name": "ai-infrastructure-agent",
+    "full_name": "VersusControl/ai-infrastructure-agent",
+    "description": "AI Infrastructure Agent is an intelligent system that allows you to manage AWS infrastructure using natural language commands.",
+    "url": "https://github.com/VersusControl/ai-infrastructure-agent",
+    "stars": 85,
+    "daily_stars": 1,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "aws",
+      "devops",
+      "infrastructure",
+      "mcp"
+    ],
+    "created_at": "2025-08-30T06:49:43",
+    "updated_at": "2025-09-20T05:41:01"
+  },
+  {
+    "name": "agentic-rag",
+    "full_name": "FareedKhan-dev/agentic-rag",
+    "description": "Agentic RAG to achieve human like reasoning",
+    "url": "https://github.com/FareedKhan-dev/agentic-rag",
+    "stars": 34,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agentic-rag",
+      "ai-agents",
+      "llm",
+      "openai",
+      "rag"
+    ],
+    "created_at": "2025-09-16T14:20:47",
+    "updated_at": "2025-09-20T05:19:38"
   },
   {
     "name": "ContextKit",
     "full_name": "FlineDev/ContextKit",
     "description": "Claude Code context engineering & planning system for individual AI development workflows",
     "url": "https://github.com/FlineDev/ContextKit",
-    "stars": 28,
+    "stars": 29,
     "daily_stars": 1,
     "language": "Shell",
     "topics": [
@@ -121,49 +153,29 @@
       "swiftui"
     ],
     "created_at": "2025-09-11T21:59:13",
-    "updated_at": "2025-09-20T03:20:20"
+    "updated_at": "2025-09-20T06:17:39"
   },
   {
-    "name": "awesome-ai-tools",
-    "full_name": "uvk18/awesome-ai-tools",
-    "description": "🤖 Discover a curated list of AI tools for QA, coding, content creation, design, and more, with clear pricing options for every need.",
-    "url": "https://github.com/uvk18/awesome-ai-tools",
-    "stars": 1,
+    "name": "WhenTrade",
+    "full_name": "foldedcode/WhenTrade",
+    "description": "AI-Powered Multi-Agent Crypto Investment Analysis Platform",
+    "url": "https://github.com/foldedcode/WhenTrade",
+    "stars": 8,
     "daily_stars": 1,
-    "language": null,
+    "language": "Python",
     "topics": [
       "ai",
-      "ai-agent",
-      "ai-assistant",
-      "ai-coding-tools",
-      "ai-devtools",
-      "ai-tools-directory",
-      "awesome",
-      "awesome-ai",
-      "awesome-ai-tools",
-      "cursor",
-      "cursor-ai",
-      "deep-learning",
-      "generative-ai",
-      "llm",
-      "mlops",
-      "openai",
-      "top-ai-tools",
-      "workflow"
+      "ai-agents",
+      "analysis",
+      "crypto",
+      "fastapi",
+      "investment",
+      "multi-agent",
+      "research",
+      "vue3",
+      "web3"
     ],
-    "created_at": "2025-09-17T21:35:08",
-    "updated_at": "2025-09-20T03:57:17"
-  },
-  {
-    "name": "contrastive-rl",
-    "full_name": "lucidrains/contrastive-rl",
-    "description": "Contrastive Reinforcement Learning",
-    "url": "https://github.com/lucidrains/contrastive-rl",
-    "stars": 43,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-08-29T19:44:31",
-    "updated_at": "2025-09-12T02:15:21"
+    "created_at": "2025-09-04T09:20:36",
+    "updated_at": "2025-09-20T05:59:20"
   }
 ]
