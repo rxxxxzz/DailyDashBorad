@@ -4,8 +4,8 @@
     "full_name": "Wildcard-Official/deepcontext-mcp",
     "description": "DeepContext is an MCP server that adds symbol-aware semantic search to Claude Code, Codex CLI, and other agents for faster, smarter context on large codebases.",
     "url": "https://github.com/Wildcard-Official/deepcontext-mcp",
-    "stars": 77,
-    "daily_stars": 13,
+    "stars": 87,
+    "daily_stars": 10,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -22,89 +22,15 @@
       "vector-database"
     ],
     "created_at": "2025-09-04T01:07:26",
-    "updated_at": "2025-09-20T16:38:52"
-  },
-  {
-    "name": "shimmy",
-    "full_name": "Michael-A-Kuykendall/shimmy",
-    "description": "Local-first AI inference server with OpenAI API compatibility, auto-discovery, hot model swapping, and tool calling. Single-binary Rust solution for GGUF models with LoRA support. FREE now, FREE forever.",
-    "url": "https://github.com/Michael-A-Kuykendall/shimmy",
-    "stars": 2466,
-    "daily_stars": 10,
-    "language": "Rust",
-    "topics": [],
-    "created_at": "2025-08-28T22:55:46",
-    "updated_at": "2025-09-20T16:29:04"
-  },
-  {
-    "name": "pgmcp",
-    "full_name": "subnetmarco/pgmcp",
-    "description": "An MCP server to query any Postgres database in natural language.",
-    "url": "https://github.com/subnetmarco/pgmcp",
-    "stars": 330,
-    "daily_stars": 6,
-    "language": "Go",
-    "topics": [],
-    "created_at": "2025-09-16T19:45:03",
-    "updated_at": "2025-09-20T16:22:33"
-  },
-  {
-    "name": "LimiX",
-    "full_name": "limix-ldm/LimiX",
-    "description": "LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence https://arxiv.org/abs/2509.03505",
-    "url": "https://github.com/limix-ldm/LimiX",
-    "stars": 320,
-    "daily_stars": 5,
-    "language": "Python",
-    "topics": [
-      "foundation-models",
-      "limix",
-      "machine-learning",
-      "structured-data"
-    ],
-    "created_at": "2025-08-27T07:15:45",
-    "updated_at": "2025-09-20T15:48:59"
-  },
-  {
-    "name": "Fruit-Veggie-Classifier",
-    "full_name": "NhanPhamThanh-IT/Fruit-Veggie-Classifier",
-    "description": "🍎 Fruit & vegetable image classifier using TensorFlow CNN. 18 categories, Streamlit web app, Jupyter training notebooks, modular Python code. Learn computer vision & deep learning. Automated preprocessing, metrics visualization, easy deployment. Educational ML project with clean architecture.",
-    "url": "https://github.com/NhanPhamThanh-IT/Fruit-Veggie-Classifier",
-    "stars": 11,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "cnn",
-      "computer-vision",
-      "convolutional-neural-networks",
-      "data-science",
-      "deep-learning",
-      "experiments",
-      "fruit-classification",
-      "image-classification",
-      "jupyter-notebook",
-      "keras",
-      "machine-learning",
-      "matplotlib-pyplot",
-      "model-training",
-      "neural-networks",
-      "numpy",
-      "python",
-      "streamlit-webapp",
-      "tensorflow",
-      "vegetable-classification"
-    ],
-    "created_at": "2025-08-26T16:25:29",
-    "updated_at": "2025-09-20T15:10:22"
+    "updated_at": "2025-09-20T20:12:35"
   },
   {
     "name": "CLOV",
     "full_name": "Aihy/CLOV",
     "description": "Valuation of tokens corresponding to influential individuals on social platforms through AI algorithms",
     "url": "https://github.com/Aihy/CLOV",
-    "stars": 142,
-    "daily_stars": 3,
+    "stars": 148,
+    "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -112,14 +38,110 @@
       "chatbot"
     ],
     "created_at": "2025-09-17T08:06:46",
-    "updated_at": "2025-09-20T15:38:51"
+    "updated_at": "2025-09-20T18:56:25"
+  },
+  {
+    "name": "pgmcp",
+    "full_name": "subnetmarco/pgmcp",
+    "description": "An MCP server to query any Postgres database in natural language.",
+    "url": "https://github.com/subnetmarco/pgmcp",
+    "stars": 334,
+    "daily_stars": 4,
+    "language": "Go",
+    "topics": [],
+    "created_at": "2025-09-16T19:45:03",
+    "updated_at": "2025-09-20T20:19:16"
+  },
+  {
+    "name": "LLM-Agents-Ecosystem-Handbook",
+    "full_name": "oxbshw/LLM-Agents-Ecosystem-Handbook",
+    "description": "One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools.",
+    "url": "https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook",
+    "stars": 308,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "fine-tuning",
+      "finetuning-llms",
+      "freamework",
+      "llm",
+      "llmops",
+      "local-development",
+      "mcp-server",
+      "memory",
+      "rag",
+      "rag-chatbot",
+      "voice-agent"
+    ],
+    "created_at": "2025-09-08T01:24:26",
+    "updated_at": "2025-09-20T20:17:37"
+  },
+  {
+    "name": "shimmy",
+    "full_name": "Michael-A-Kuykendall/shimmy",
+    "description": "Local-first AI inference server with OpenAI API compatibility, auto-discovery, hot model swapping, and tool calling. Single-binary Rust solution for GGUF models with LoRA support. FREE now, FREE forever.",
+    "url": "https://github.com/Michael-A-Kuykendall/shimmy",
+    "stars": 2469,
+    "daily_stars": 3,
+    "language": "Rust",
+    "topics": [],
+    "created_at": "2025-08-28T22:55:46",
+    "updated_at": "2025-09-20T18:37:22"
+  },
+  {
+    "name": "DeepMCPAgent",
+    "full_name": "cryxnet/DeepMCPAgent",
+    "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
+    "url": "https://github.com/cryxnet/DeepMCPAgent",
+    "stars": 555,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-08-29T13:49:43",
+    "updated_at": "2025-09-20T17:18:24"
+  },
+  {
+    "name": "Disciplined-AI-Software-Development",
+    "full_name": "Varietyz/Disciplined-AI-Software-Development",
+    "description": "This methodology provides a structured approach for collaborating with AI systems on software development projects. It addresses common issues like code bloat, architectural drift, and context dilution through systematic constraints and validation checkpoints.",
+    "url": "https://github.com/Varietyz/Disciplined-AI-Software-Development",
+    "stars": 322,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-collaboration",
+      "best-practices",
+      "collaborate",
+      "collaboration",
+      "collaborative",
+      "context",
+      "documentation",
+      "dry",
+      "educational",
+      "kiss",
+      "llms",
+      "methodology",
+      "methodology-development",
+      "prompt-engineering",
+      "software-architecture",
+      "software-development",
+      "software-engineering",
+      "workflow"
+    ],
+    "created_at": "2025-09-04T13:53:02",
+    "updated_at": "2025-09-20T20:16:54"
   },
   {
     "name": "agentic-rag",
     "full_name": "FareedKhan-dev/agentic-rag",
     "description": "Agentic RAG to achieve human like reasoning",
     "url": "https://github.com/FareedKhan-dev/agentic-rag",
-    "stars": 36,
+    "stars": 38,
     "daily_stars": 2,
     "language": "Jupyter Notebook",
     "topics": [
@@ -130,57 +152,46 @@
       "rag"
     ],
     "created_at": "2025-09-16T14:20:47",
-    "updated_at": "2025-09-20T16:05:52"
+    "updated_at": "2025-09-20T18:58:55"
   },
   {
-    "name": "DeepMCPAgent",
-    "full_name": "cryxnet/DeepMCPAgent",
-    "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
-    "url": "https://github.com/cryxnet/DeepMCPAgent",
-    "stars": 553,
-    "daily_stars": 1,
+    "name": "LimiX",
+    "full_name": "limix-ldm/LimiX",
+    "description": "LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence https://arxiv.org/abs/2509.03505",
+    "url": "https://github.com/limix-ldm/LimiX",
+    "stars": 322,
+    "daily_stars": 2,
     "language": "Python",
-    "topics": [],
-    "created_at": "2025-08-29T13:49:43",
-    "updated_at": "2025-09-20T16:24:01"
+    "topics": [
+      "foundation-models",
+      "limix",
+      "machine-learning",
+      "structured-data"
+    ],
+    "created_at": "2025-08-27T07:15:45",
+    "updated_at": "2025-09-20T18:30:02"
   },
   {
-    "name": "agentic-design-patterns-book-rus",
-    "full_name": "pridees/agentic-design-patterns-book-rus",
-    "description": "📖 Перевод книги Антонио Гулли - Agentic Design Patterns: Практическое руководство по созданию интеллектуальных систем",
-    "url": "https://github.com/pridees/agentic-design-patterns-book-rus",
-    "stars": 308,
+    "name": "voyant",
+    "full_name": "chernistry/voyant",
+    "description": "Fact-Verified Travel AI Agent",
+    "url": "https://github.com/chernistry/voyant",
+    "stars": 27,
     "daily_stars": 1,
-    "language": null,
+    "language": "TypeScript",
     "topics": [
-      "adk",
-      "agentic-ai-development",
-      "ai",
-      "ai-agents",
-      "langchain",
-      "langgraph",
+      "ai-agent",
+      "artificial-intelligence",
+      "chatbot",
+      "llm",
+      "multimodal",
+      "nodejs",
       "prompt-engineering",
-      "python"
+      "rag",
+      "travel",
+      "typescript"
     ],
-    "created_at": "2025-09-04T06:37:27",
-    "updated_at": "2025-09-20T14:04:39"
-  },
-  {
-    "name": "ContextKit",
-    "full_name": "FlineDev/ContextKit",
-    "description": "Claude Code context engineering & planning system for individual AI development workflows",
-    "url": "https://github.com/FlineDev/ContextKit",
-    "stars": 30,
-    "daily_stars": 1,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "ios",
-      "swift",
-      "swiftui"
-    ],
-    "created_at": "2025-09-11T21:59:13",
-    "updated_at": "2025-09-20T15:13:11"
+    "created_at": "2025-09-02T17:45:03",
+    "updated_at": "2025-09-20T19:23:58"
   }
 ]
