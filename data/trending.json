@@ -4,20 +4,37 @@
     "full_name": "Michael-A-Kuykendall/shimmy",
     "description": "Local-first AI inference server with OpenAI API compatibility, auto-discovery, hot model swapping, and tool calling. Single-binary Rust solution for GGUF models with LoRA support. FREE now, FREE forever.",
     "url": "https://github.com/Michael-A-Kuykendall/shimmy",
-    "stars": 2514,
-    "daily_stars": 8,
+    "stars": 2524,
+    "daily_stars": 10,
     "language": "Rust",
     "topics": [],
     "created_at": "2025-08-28T22:55:46",
-    "updated_at": "2025-09-22T04:40:55"
+    "updated_at": "2025-09-22T08:08:01"
+  },
+  {
+    "name": "LimiX",
+    "full_name": "limix-ldm/LimiX",
+    "description": "LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence https://arxiv.org/abs/2509.03505",
+    "url": "https://github.com/limix-ldm/LimiX",
+    "stars": 360,
+    "daily_stars": 5,
+    "language": "Python",
+    "topics": [
+      "foundation-models",
+      "limix",
+      "machine-learning",
+      "structured-data"
+    ],
+    "created_at": "2025-08-27T07:15:45",
+    "updated_at": "2025-09-22T08:44:17"
   },
   {
     "name": "CLOV",
     "full_name": "Aihy/CLOV",
     "description": "Valuation of tokens corresponding to influential individuals on social platforms through AI algorithms",
     "url": "https://github.com/Aihy/CLOV",
-    "stars": 188,
-    "daily_stars": 4,
+    "stars": 191,
+    "daily_stars": 3,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -25,38 +42,44 @@
       "chatbot"
     ],
     "created_at": "2025-09-17T08:06:46",
-    "updated_at": "2025-09-22T03:53:34"
+    "updated_at": "2025-09-22T08:45:14"
   },
   {
-    "name": "DeepMCPAgent",
-    "full_name": "cryxnet/DeepMCPAgent",
-    "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
-    "url": "https://github.com/cryxnet/DeepMCPAgent",
-    "stars": 563,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-08-29T13:49:43",
-    "updated_at": "2025-09-22T03:17:19"
+    "name": "agentic-rag",
+    "full_name": "FareedKhan-dev/agentic-rag",
+    "description": "Agentic RAG to achieve human like reasoning",
+    "url": "https://github.com/FareedKhan-dev/agentic-rag",
+    "stars": 48,
+    "daily_stars": 3,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agentic-rag",
+      "ai-agents",
+      "llm",
+      "openai",
+      "rag"
+    ],
+    "created_at": "2025-09-16T14:20:47",
+    "updated_at": "2025-09-22T08:26:34"
   },
   {
     "name": "pgmcp",
     "full_name": "subnetmarco/pgmcp",
     "description": "An MCP server to query any Postgres database in natural language.",
     "url": "https://github.com/subnetmarco/pgmcp",
-    "stars": 354,
+    "stars": 356,
     "daily_stars": 2,
     "language": "Go",
     "topics": [],
     "created_at": "2025-09-16T19:45:03",
-    "updated_at": "2025-09-22T02:45:42"
+    "updated_at": "2025-09-22T07:41:51"
   },
   {
     "name": "voyant",
     "full_name": "chernistry/voyant",
     "description": "Fact-Verified Travel AI Agent",
     "url": "https://github.com/chernistry/voyant",
-    "stars": 39,
+    "stars": 41,
     "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
@@ -72,97 +95,81 @@
       "typescript"
     ],
     "created_at": "2025-09-02T17:45:03",
-    "updated_at": "2025-09-22T04:23:09"
+    "updated_at": "2025-09-22T08:29:00"
   },
   {
-    "name": "LimiX",
-    "full_name": "limix-ldm/LimiX",
-    "description": "LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence https://arxiv.org/abs/2509.03505",
-    "url": "https://github.com/limix-ldm/LimiX",
-    "stars": 355,
+    "name": "dinov3_ros",
+    "full_name": "Raessan/dinov3_ros",
+    "description": "ROS 2 integration of Meta’s DINOv3 backbone with lightweight heads for vision tasks.",
+    "url": "https://github.com/Raessan/dinov3_ros",
+    "stars": 49,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
-      "foundation-models",
-      "limix",
-      "machine-learning",
-      "structured-data"
+      "computer-vision",
+      "deep-learning",
+      "depth-estimation",
+      "dinov3",
+      "multi-task-learning",
+      "object-detection",
+      "pytorch",
+      "robotics",
+      "ros2",
+      "semantic-segmentation",
+      "visual-perception"
     ],
-    "created_at": "2025-08-27T07:15:45",
-    "updated_at": "2025-09-22T04:08:10"
+    "created_at": "2025-08-24T16:23:27",
+    "updated_at": "2025-09-22T06:53:51"
   },
   {
-    "name": "lookahead-keys-attention",
-    "full_name": "lucidrains/lookahead-keys-attention",
-    "description": "Causal Attention with Lookahead Keys",
-    "url": "https://github.com/lucidrains/lookahead-keys-attention",
-    "stars": 23,
+    "name": "DeepMCPAgent",
+    "full_name": "cryxnet/DeepMCPAgent",
+    "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
+    "url": "https://github.com/cryxnet/DeepMCPAgent",
+    "stars": 564,
     "daily_stars": 1,
     "language": "Python",
     "topics": [],
-    "created_at": "2025-09-11T13:14:41",
-    "updated_at": "2025-09-22T03:43:55"
+    "created_at": "2025-08-29T13:49:43",
+    "updated_at": "2025-09-22T05:58:06"
   },
   {
-    "name": "deepcontext-mcp",
-    "full_name": "Wildcard-Official/deepcontext-mcp",
-    "description": "DeepContext is an MCP server that adds symbol-aware semantic search to Claude Code, Codex CLI, and other agents for faster, smarter context on large codebases.",
-    "url": "https://github.com/Wildcard-Official/deepcontext-mcp",
-    "stars": 105,
+    "name": "AI-outlier-detection",
+    "full_name": "FareedKhan-dev/AI-outlier-detection",
+    "description": "Outlier Detection with AI + ML",
+    "url": "https://github.com/FareedKhan-dev/AI-outlier-detection",
+    "stars": 8,
     "daily_stars": 1,
-    "language": "TypeScript",
+    "language": "Jupyter Notebook",
+    "topics": [],
+    "created_at": "2025-09-11T17:49:48",
+    "updated_at": "2025-09-22T07:54:58"
+  },
+  {
+    "name": "LLM-Agents-Ecosystem-Handbook",
+    "full_name": "oxbshw/LLM-Agents-Ecosystem-Handbook",
+    "description": "One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools.",
+    "url": "https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook",
+    "stars": 323,
+    "daily_stars": 1,
+    "language": "Python",
     "topics": [
       "ai",
+      "ai-agent",
       "ai-agents",
-      "claude",
-      "claude-code",
-      "code",
-      "code-context",
-      "codex",
-      "developer-tools",
-      "mcp",
+      "fine-tuning",
+      "finetuning-llms",
+      "freamework",
+      "llm",
+      "llmops",
+      "local-development",
+      "mcp-server",
+      "memory",
       "rag",
-      "search",
-      "vector-database"
+      "rag-chatbot",
+      "voice-agent"
     ],
-    "created_at": "2025-09-04T01:07:26",
-    "updated_at": "2025-09-22T03:13:56"
-  },
-  {
-    "name": "ai-infrastructure-agent",
-    "full_name": "VersusControl/ai-infrastructure-agent",
-    "description": "AI Infrastructure Agent is an intelligent system that allows you to manage AWS infrastructure using natural language commands.",
-    "url": "https://github.com/VersusControl/ai-infrastructure-agent",
-    "stars": 87,
-    "daily_stars": 1,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "aws",
-      "devops",
-      "infrastructure",
-      "mcp"
-    ],
-    "created_at": "2025-08-30T06:49:43",
-    "updated_at": "2025-09-22T02:20:03"
-  },
-  {
-    "name": "taskflow-rs",
-    "full_name": "lispking/taskflow-rs",
-    "description": "A modern, async task processing framework written in Rust for building scalable workflow systems with support for multiple task types, dependency management, and distributed execution.",
-    "url": "https://github.com/lispking/taskflow-rs",
-    "stars": 1,
-    "daily_stars": 1,
-    "language": "Rust",
-    "topics": [
-      "async",
-      "distributed",
-      "scheduler",
-      "task",
-      "workflow"
-    ],
-    "created_at": "2025-09-20T17:37:37",
-    "updated_at": "2025-09-22T03:28:36"
+    "created_at": "2025-09-08T01:24:26",
+    "updated_at": "2025-09-22T05:44:10"
   }
 ]
