@@ -1,48 +1,11 @@
 [
   {
-    "name": "heyagent",
-    "full_name": "gergomiklos/heyagent",
-    "description": "Claude Code notifications",
-    "url": "https://github.com/gergomiklos/heyagent",
-    "stars": 24,
-    "daily_stars": 10,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "codex-cli",
-      "notifications",
-      "slack",
-      "telegram",
-      "terminal-app",
-      "whatsapp"
-    ],
-    "created_at": "2025-09-07T01:54:38",
-    "updated_at": "2025-09-23T02:06:45"
-  },
-  {
-    "name": "CLOV",
-    "full_name": "Aihy/CLOV",
-    "description": "Valuation of tokens corresponding to influential individuals on social platforms through AI algorithms",
-    "url": "https://github.com/Aihy/CLOV",
-    "stars": 210,
-    "daily_stars": 9,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "chatbot"
-    ],
-    "created_at": "2025-09-17T08:06:46",
-    "updated_at": "2025-09-23T01:54:08"
-  },
-  {
     "name": "deepcontext-mcp",
     "full_name": "Wildcard-Official/deepcontext-mcp",
     "description": "DeepContext is an MCP server that adds symbol-aware semantic search to Claude Code, Codex CLI, and other agents for faster, smarter context on large codebases.",
     "url": "https://github.com/Wildcard-Official/deepcontext-mcp",
-    "stars": 129,
-    "daily_stars": 9,
+    "stars": 135,
+    "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -59,27 +22,64 @@
       "vector-database"
     ],
     "created_at": "2025-09-04T01:07:26",
-    "updated_at": "2025-09-23T01:39:11"
+    "updated_at": "2025-09-23T04:35:49"
+  },
+  {
+    "name": "CLOV",
+    "full_name": "Aihy/CLOV",
+    "description": "Valuation of tokens corresponding to influential individuals on social platforms through AI algorithms",
+    "url": "https://github.com/Aihy/CLOV",
+    "stars": 214,
+    "daily_stars": 4,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "chatbot"
+    ],
+    "created_at": "2025-09-17T08:06:46",
+    "updated_at": "2025-09-23T04:30:37"
   },
   {
     "name": "pgmcp",
     "full_name": "subnetmarco/pgmcp",
     "description": "An MCP server to query any Postgres database in natural language.",
     "url": "https://github.com/subnetmarco/pgmcp",
-    "stars": 403,
-    "daily_stars": 5,
+    "stars": 405,
+    "daily_stars": 2,
     "language": "Go",
     "topics": [],
     "created_at": "2025-09-16T19:45:03",
-    "updated_at": "2025-09-23T01:31:36"
+    "updated_at": "2025-09-23T02:33:25"
+  },
+  {
+    "name": "heyagent",
+    "full_name": "gergomiklos/heyagent",
+    "description": "Claude Code notifications",
+    "url": "https://github.com/gergomiklos/heyagent",
+    "stars": 26,
+    "daily_stars": 2,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "codex-cli",
+      "notifications",
+      "slack",
+      "telegram",
+      "terminal-app",
+      "whatsapp"
+    ],
+    "created_at": "2025-09-07T01:54:38",
+    "updated_at": "2025-09-23T04:41:33"
   },
   {
     "name": "LimiX",
     "full_name": "limix-ldm/LimiX",
     "description": "LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence https://arxiv.org/abs/2509.03505",
     "url": "https://github.com/limix-ldm/LimiX",
-    "stars": 374,
-    "daily_stars": 4,
+    "stars": 376,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "foundation-models",
@@ -88,42 +88,27 @@
       "structured-data"
     ],
     "created_at": "2025-08-27T07:15:45",
-    "updated_at": "2025-09-23T02:07:18"
+    "updated_at": "2025-09-23T03:48:03"
   },
   {
-    "name": "LLM-Agents-Ecosystem-Handbook",
-    "full_name": "oxbshw/LLM-Agents-Ecosystem-Handbook",
-    "description": "One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools.",
-    "url": "https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook",
-    "stars": 327,
-    "daily_stars": 2,
+    "name": "DeepMCPAgent",
+    "full_name": "cryxnet/DeepMCPAgent",
+    "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
+    "url": "https://github.com/cryxnet/DeepMCPAgent",
+    "stars": 567,
+    "daily_stars": 1,
     "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "fine-tuning",
-      "finetuning-llms",
-      "freamework",
-      "llm",
-      "llmops",
-      "local-development",
-      "mcp-server",
-      "memory",
-      "rag",
-      "rag-chatbot",
-      "voice-agent"
-    ],
-    "created_at": "2025-09-08T01:24:26",
-    "updated_at": "2025-09-22T23:02:29"
+    "topics": [],
+    "created_at": "2025-08-29T13:49:43",
+    "updated_at": "2025-09-23T02:27:14"
   },
   {
     "name": "Disciplined-AI-Software-Development",
     "full_name": "Varietyz/Disciplined-AI-Software-Development",
     "description": "This methodology provides a structured approach for collaborating with AI systems on software development projects. It addresses common issues like code bloat, architectural drift, and context dilution through systematic constraints and validation checkpoints.",
     "url": "https://github.com/Varietyz/Disciplined-AI-Software-Development",
-    "stars": 325,
-    "daily_stars": 2,
+    "stars": 326,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai",
@@ -148,49 +133,77 @@
       "workflow"
     ],
     "created_at": "2025-09-04T13:53:02",
-    "updated_at": "2025-09-22T22:44:58"
+    "updated_at": "2025-09-23T02:15:34"
   },
   {
-    "name": "shimmy",
-    "full_name": "Michael-A-Kuykendall/shimmy",
-    "description": "Local-first AI inference server with OpenAI API compatibility, auto-discovery, hot model swapping, and tool calling. Single-binary Rust solution for GGUF models with LoRA support. FREE now, FREE forever.",
-    "url": "https://github.com/Michael-A-Kuykendall/shimmy",
-    "stars": 2530,
-    "daily_stars": 2,
+    "name": "rustchain-community",
+    "full_name": "Michael-A-Kuykendall/rustchain-community",
+    "description": "🔗Rustchain 🔗   Production-ready AI agent framework built in Rust. 97% faster than Python alternatives with universal workflow transpilation, enterprise compliance, and sub-second mission execution.",
+    "url": "https://github.com/Michael-A-Kuykendall/rustchain-community",
+    "stars": 8,
+    "daily_stars": 1,
     "language": "Rust",
-    "topics": [],
-    "created_at": "2025-08-28T22:55:46",
-    "updated_at": "2025-09-23T00:43:19"
-  },
-  {
-    "name": "Build-AI-Now",
-    "full_name": "rembertdesigns/Build-AI-Now",
-    "description": "A free, community-powered roadmap for mastering AI and machine learning—step-by-step resources, coding practice, math essentials, and real-world project paths for beginners and builders.",
-    "url": "https://github.com/rembertdesigns/Build-AI-Now",
-    "stars": 5,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [],
-    "created_at": "2025-09-02T22:50:39",
-    "updated_at": "2025-09-23T01:49:32"
-  },
-  {
-    "name": "ai-infrastructure-agent",
-    "full_name": "VersusControl/ai-infrastructure-agent",
-    "description": "AI Infrastructure Agent is an intelligent system that allows you to manage AWS infrastructure using natural language commands.",
-    "url": "https://github.com/VersusControl/ai-infrastructure-agent",
-    "stars": 88,
-    "daily_stars": 1,
-    "language": "Go",
     "topics": [
+      "agent-framework",
       "ai",
       "ai-agents",
-      "aws",
+      "anthropic",
+      "automation",
+      "compliance",
       "devops",
-      "infrastructure",
-      "mcp"
+      "gdpr",
+      "hipaa",
+      "llm",
+      "mlops",
+      "open-ai",
+      "rust",
+      "rust-lang",
+      "rust-language",
+      "security-compliance",
+      "workflow-automation",
+      "workflow-transpilation"
     ],
-    "created_at": "2025-08-30T06:49:43",
-    "updated_at": "2025-09-22T22:08:16"
+    "created_at": "2025-08-25T04:06:48",
+    "updated_at": "2025-09-23T04:12:12"
+  },
+  {
+    "name": "Ling-V2",
+    "full_name": "inclusionAI/Ling-V2",
+    "description": "Ling-V2 is a MoE LLM provided and open-sourced by InclusionAI.",
+    "url": "https://github.com/inclusionAI/Ling-V2",
+    "stars": 74,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "llm",
+      "machine-learning",
+      "moe",
+      "pretraining",
+      "rl"
+    ],
+    "created_at": "2025-09-04T06:54:36",
+    "updated_at": "2025-09-23T02:55:33"
+  },
+  {
+    "name": "Nexa_Visualize",
+    "full_name": "DarkStarStrix/Nexa_Visualize",
+    "description": "A Tool to visualize NN training ",
+    "url": "https://github.com/DarkStarStrix/Nexa_Visualize",
+    "stars": 8,
+    "daily_stars": 1,
+    "language": "JavaScript",
+    "topics": [
+      "3d-models",
+      "ai",
+      "docker",
+      "educational-project",
+      "hosted",
+      "learning",
+      "local",
+      "machine-learning",
+      "three-js"
+    ],
+    "created_at": "2025-09-15T17:15:25",
+    "updated_at": "2025-09-23T02:49:27"
   }
 ]
