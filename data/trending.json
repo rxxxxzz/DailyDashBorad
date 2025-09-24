@@ -1,23 +1,103 @@
 [
   {
+    "name": "shimmy",
+    "full_name": "Michael-A-Kuykendall/shimmy",
+    "description": "Local-first AI inference server with OpenAI API compatibility, auto-discovery, hot model swapping, and tool calling. Single-binary Rust solution for GGUF models with LoRA support. FREE now, FREE forever.",
+    "url": "https://github.com/Michael-A-Kuykendall/shimmy",
+    "stars": 2542,
+    "daily_stars": 5,
+    "language": "Rust",
+    "topics": [],
+    "created_at": "2025-08-28T22:55:46",
+    "updated_at": "2025-09-24T01:57:39"
+  },
+  {
+    "name": "LimiX",
+    "full_name": "limix-ldm/LimiX",
+    "description": "LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence https://arxiv.org/abs/2509.03505",
+    "url": "https://github.com/limix-ldm/LimiX",
+    "stars": 394,
+    "daily_stars": 5,
+    "language": "Python",
+    "topics": [
+      "foundation-models",
+      "limix",
+      "machine-learning",
+      "structured-data"
+    ],
+    "created_at": "2025-08-27T07:15:45",
+    "updated_at": "2025-09-24T01:57:55"
+  },
+  {
     "name": "pgmcp",
     "full_name": "subnetmarco/pgmcp",
     "description": "An MCP server to query any Postgres database in natural language.",
     "url": "https://github.com/subnetmarco/pgmcp",
-    "stars": 429,
-    "daily_stars": 8,
+    "stars": 433,
+    "daily_stars": 4,
     "language": "Go",
     "topics": [],
     "created_at": "2025-09-16T19:45:03",
-    "updated_at": "2025-09-23T20:33:41"
+    "updated_at": "2025-09-24T01:07:15"
+  },
+  {
+    "name": "agentic-rag",
+    "full_name": "FareedKhan-dev/agentic-rag",
+    "description": "Agentic RAG to achieve human like reasoning",
+    "url": "https://github.com/FareedKhan-dev/agentic-rag",
+    "stars": 59,
+    "daily_stars": 4,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agentic-rag",
+      "ai-agents",
+      "llm",
+      "openai",
+      "rag"
+    ],
+    "created_at": "2025-09-16T14:20:47",
+    "updated_at": "2025-09-24T02:06:15"
+  },
+  {
+    "name": "heyagent",
+    "full_name": "gergomiklos/heyagent",
+    "description": "Claude Code notifications",
+    "url": "https://github.com/gergomiklos/heyagent",
+    "stars": 40,
+    "daily_stars": 3,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "codex-cli",
+      "notifications",
+      "slack",
+      "telegram",
+      "terminal-app",
+      "whatsapp"
+    ],
+    "created_at": "2025-09-07T01:54:38",
+    "updated_at": "2025-09-24T00:32:14"
+  },
+  {
+    "name": "DeepMCPAgent",
+    "full_name": "cryxnet/DeepMCPAgent",
+    "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
+    "url": "https://github.com/cryxnet/DeepMCPAgent",
+    "stars": 571,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-08-29T13:49:43",
+    "updated_at": "2025-09-24T02:05:59"
   },
   {
     "name": "deepcontext-mcp",
     "full_name": "Wildcard-Official/deepcontext-mcp",
     "description": "DeepContext is an MCP server that adds symbol-aware semantic search to Claude Code, Codex CLI, and other agents for faster, smarter context on large codebases.",
     "url": "https://github.com/Wildcard-Official/deepcontext-mcp",
-    "stars": 147,
-    "daily_stars": 2,
+    "stars": 148,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -34,166 +114,54 @@
       "vector-database"
     ],
     "created_at": "2025-09-04T01:07:26",
-    "updated_at": "2025-09-23T19:38:21"
+    "updated_at": "2025-09-23T21:38:33"
   },
   {
-    "name": "voyant",
-    "full_name": "chernistry/voyant",
-    "description": "Fact-Verified Travel AI Agent",
-    "url": "https://github.com/chernistry/voyant",
-    "stars": 46,
+    "name": "ContextKit",
+    "full_name": "FlineDev/ContextKit",
+    "description": "Claude Code context engineering & planning system for individual AI development workflows",
+    "url": "https://github.com/FlineDev/ContextKit",
+    "stars": 39,
     "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agent",
-      "artificial-intelligence",
-      "chatbot",
-      "llm",
-      "multimodal",
-      "nodejs",
-      "prompt-engineering",
-      "rag",
-      "travel",
-      "typescript"
-    ],
-    "created_at": "2025-09-02T17:45:03",
-    "updated_at": "2025-09-23T19:40:06"
-  },
-  {
-    "name": "ai-infrastructure-agent",
-    "full_name": "VersusControl/ai-infrastructure-agent",
-    "description": "AI Infrastructure Agent is an intelligent system that allows you to manage AWS infrastructure using natural language commands.",
-    "url": "https://github.com/VersusControl/ai-infrastructure-agent",
-    "stars": 92,
-    "daily_stars": 1,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "aws",
-      "devops",
-      "infrastructure",
-      "mcp"
-    ],
-    "created_at": "2025-08-30T06:49:43",
-    "updated_at": "2025-09-23T17:58:06"
-  },
-  {
-    "name": "agentic-rag",
-    "full_name": "FareedKhan-dev/agentic-rag",
-    "description": "Agentic RAG to achieve human like reasoning",
-    "url": "https://github.com/FareedKhan-dev/agentic-rag",
-    "stars": 55,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "agentic-rag",
-      "ai-agents",
-      "llm",
-      "openai",
-      "rag"
-    ],
-    "created_at": "2025-09-16T14:20:47",
-    "updated_at": "2025-09-23T17:47:02"
-  },
-  {
-    "name": "mono-mcp",
-    "full_name": "sin4ch/mono-mcp",
-    "description": "A comprehensive Model Context Protocol (MCP) server for Nigerian banking operations using the Mono Open Banking API.",
-    "url": "https://github.com/sin4ch/mono-mcp",
-    "stars": 51,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "fastmcp",
-      "mcp",
-      "mono-api",
-      "openbanking"
-    ],
-    "created_at": "2025-08-26T14:50:12",
-    "updated_at": "2025-09-23T17:30:54"
-  },
-  {
-    "name": "heyagent",
-    "full_name": "gergomiklos/heyagent",
-    "description": "Claude Code notifications",
-    "url": "https://github.com/gergomiklos/heyagent",
-    "stars": 37,
-    "daily_stars": 1,
-    "language": "JavaScript",
+    "language": "Shell",
     "topics": [
       "ai-agents",
       "claude-code",
-      "codex-cli",
-      "notifications",
-      "slack",
-      "telegram",
-      "terminal-app",
-      "whatsapp"
+      "ios",
+      "swift",
+      "swiftui"
     ],
-    "created_at": "2025-09-07T01:54:38",
-    "updated_at": "2025-09-23T18:34:59"
+    "created_at": "2025-09-11T21:59:13",
+    "updated_at": "2025-09-23T21:52:07"
   },
   {
-    "name": "rustchain-community",
-    "full_name": "Michael-A-Kuykendall/rustchain-community",
-    "description": "🔗Rustchain 🔗   Production-ready AI agent framework built in Rust. 97% faster than Python alternatives with universal workflow transpilation, enterprise compliance, and sub-second mission execution.",
-    "url": "https://github.com/Michael-A-Kuykendall/rustchain-community",
-    "stars": 9,
-    "daily_stars": 1,
-    "language": "Rust",
-    "topics": [
-      "agent-framework",
-      "ai",
-      "ai-agents",
-      "anthropic",
-      "automation",
-      "compliance",
-      "devops",
-      "gdpr",
-      "hipaa",
-      "llm",
-      "mlops",
-      "open-ai",
-      "rust",
-      "rust-lang",
-      "rust-language",
-      "security-compliance",
-      "workflow-automation",
-      "workflow-transpilation"
-    ],
-    "created_at": "2025-08-25T04:06:48",
-    "updated_at": "2025-09-23T19:19:32"
-  },
-  {
-    "name": "shimmy",
-    "full_name": "Michael-A-Kuykendall/shimmy",
-    "description": "Local-first AI inference server with OpenAI API compatibility, auto-discovery, hot model swapping, and tool calling. Single-binary Rust solution for GGUF models with LoRA support. FREE now, FREE forever.",
-    "url": "https://github.com/Michael-A-Kuykendall/shimmy",
-    "stars": 2537,
-    "daily_stars": 1,
-    "language": "Rust",
-    "topics": [],
-    "created_at": "2025-08-28T22:55:46",
-    "updated_at": "2025-09-23T20:21:13"
-  },
-  {
-    "name": "LimiX",
-    "full_name": "limix-ldm/LimiX",
-    "description": "LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence https://arxiv.org/abs/2509.03505",
-    "url": "https://github.com/limix-ldm/LimiX",
-    "stars": 389,
+    "name": "ai-hedge-fund",
+    "full_name": "sharonuigbx/ai-hedge-fund",
+    "description": "This project provides a Graphical User Interface (GUI) for the AI hedge fund analysis software originally developed by virattt. It aims to simplify interaction with the powerful underlying AI-driven financial analysis tools.",
+    "url": "https://github.com/sharonuigbx/ai-hedge-fund",
+    "stars": 5,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "foundation-models",
-      "limix",
-      "machine-learning",
-      "structured-data"
+      "ai-agents",
+      "finance",
+      "hedge-funds",
+      "trading",
+      "trading-algorithms"
     ],
-    "created_at": "2025-08-27T07:15:45",
-    "updated_at": "2025-09-23T17:41:58"
+    "created_at": "2025-09-16T22:28:07",
+    "updated_at": "2025-09-23T21:41:44"
+  },
+  {
+    "name": "ML-powered_resume_analyser",
+    "full_name": "tetratensor/ML-powered_resume_analyser",
+    "description": "Local, privacy-friendly resume analysis: convert, classify, and get advice using TF‑IDF, Logistic Regression, and sentence-transformer embeddings.",
+    "url": "https://github.com/tetratensor/ML-powered_resume_analyser",
+    "stars": 14,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-09-22T09:17:47",
+    "updated_at": "2025-09-23T20:40:50"
   }
 ]
