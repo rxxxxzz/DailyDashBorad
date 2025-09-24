@@ -1,60 +1,11 @@
 [
   {
-    "name": "pgmcp",
-    "full_name": "subnetmarco/pgmcp",
-    "description": "An MCP server to query any Postgres database in natural language.",
-    "url": "https://github.com/subnetmarco/pgmcp",
-    "stars": 439,
-    "daily_stars": 3,
-    "language": "Go",
-    "topics": [],
-    "created_at": "2025-09-16T19:45:03",
-    "updated_at": "2025-09-24T07:34:28"
-  },
-  {
-    "name": "deepcontext-mcp",
-    "full_name": "Wildcard-Official/deepcontext-mcp",
-    "description": "DeepContext is an MCP server that adds symbol-aware semantic search to Claude Code, Codex CLI, and other agents for faster, smarter context on large codebases.",
-    "url": "https://github.com/Wildcard-Official/deepcontext-mcp",
-    "stars": 151,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "code",
-      "code-context",
-      "codex",
-      "developer-tools",
-      "mcp",
-      "rag",
-      "search",
-      "vector-database"
-    ],
-    "created_at": "2025-09-04T01:07:26",
-    "updated_at": "2025-09-24T06:35:03"
-  },
-  {
-    "name": "shimmy",
-    "full_name": "Michael-A-Kuykendall/shimmy",
-    "description": "Local-first AI inference server with OpenAI API compatibility, auto-discovery, hot model swapping, and tool calling. Single-binary Rust solution for GGUF models with LoRA support. FREE now, FREE forever.",
-    "url": "https://github.com/Michael-A-Kuykendall/shimmy",
-    "stars": 2548,
-    "daily_stars": 3,
-    "language": "Rust",
-    "topics": [],
-    "created_at": "2025-08-28T22:55:46",
-    "updated_at": "2025-09-24T08:41:10"
-  },
-  {
     "name": "LimiX",
     "full_name": "limix-ldm/LimiX",
     "description": "LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence https://arxiv.org/abs/2509.03505",
     "url": "https://github.com/limix-ldm/LimiX",
-    "stars": 399,
-    "daily_stars": 2,
+    "stars": 404,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "foundation-models",
@@ -63,77 +14,60 @@
       "structured-data"
     ],
     "created_at": "2025-08-27T07:15:45",
-    "updated_at": "2025-09-24T06:57:01"
+    "updated_at": "2025-09-24T12:07:15"
   },
   {
-    "name": "DeepMCPAgent",
-    "full_name": "cryxnet/DeepMCPAgent",
-    "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
-    "url": "https://github.com/cryxnet/DeepMCPAgent",
-    "stars": 572,
-    "daily_stars": 1,
-    "language": "Python",
+    "name": "shimmy",
+    "full_name": "Michael-A-Kuykendall/shimmy",
+    "description": "Local-first AI inference server with OpenAI API compatibility, auto-discovery, hot model swapping, and tool calling. Single-binary Rust solution for GGUF models with LoRA support. FREE now, FREE forever.",
+    "url": "https://github.com/Michael-A-Kuykendall/shimmy",
+    "stars": 2552,
+    "daily_stars": 4,
+    "language": "Rust",
     "topics": [],
-    "created_at": "2025-08-29T13:49:43",
-    "updated_at": "2025-09-24T05:44:58"
+    "created_at": "2025-08-28T22:55:46",
+    "updated_at": "2025-09-24T12:54:44"
   },
   {
-    "name": "voyant",
-    "full_name": "chernistry/voyant",
-    "description": "Fact-Verified Travel AI Agent",
-    "url": "https://github.com/chernistry/voyant",
-    "stars": 47,
-    "daily_stars": 1,
+    "name": "pgmcp",
+    "full_name": "subnetmarco/pgmcp",
+    "description": "An MCP server to query any Postgres database in natural language.",
+    "url": "https://github.com/subnetmarco/pgmcp",
+    "stars": 442,
+    "daily_stars": 3,
+    "language": "Go",
+    "topics": [],
+    "created_at": "2025-09-16T19:45:03",
+    "updated_at": "2025-09-24T12:48:25"
+  },
+  {
+    "name": "glooit",
+    "full_name": "nikuscs/glooit",
+    "description": "🧴glooit keeps your AI agent rules and MCP configurations in perfect sync across Claude Code, Cursor, Roo Code, and other AI development tools.",
+    "url": "https://github.com/nikuscs/glooit",
+    "stars": 7,
+    "daily_stars": 3,
     "language": "TypeScript",
     "topics": [
-      "ai-agent",
-      "artificial-intelligence",
-      "chatbot",
-      "llm",
-      "multimodal",
-      "nodejs",
-      "prompt-engineering",
-      "rag",
-      "travel",
-      "typescript"
-    ],
-    "created_at": "2025-09-02T17:45:03",
-    "updated_at": "2025-09-24T08:32:55"
-  },
-  {
-    "name": "LLM-Agents-Ecosystem-Handbook",
-    "full_name": "oxbshw/LLM-Agents-Ecosystem-Handbook",
-    "description": "One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools.",
-    "url": "https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook",
-    "stars": 330,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
       "ai",
-      "ai-agent",
       "ai-agents",
-      "fine-tuning",
-      "finetuning-llms",
-      "freamework",
-      "llm",
-      "llmops",
-      "local-development",
-      "mcp-server",
-      "memory",
-      "rag",
-      "rag-chatbot",
-      "voice-agent"
+      "ai-tools",
+      "claude-code",
+      "codex",
+      "cursor",
+      "cursor-ai",
+      "roocode"
     ],
-    "created_at": "2025-09-08T01:24:26",
-    "updated_at": "2025-09-24T08:28:45"
+    "created_at": "2025-09-23T16:31:35",
+    "updated_at": "2025-09-24T10:25:12"
   },
   {
     "name": "agentic-rag",
     "full_name": "FareedKhan-dev/agentic-rag",
     "description": "Agentic RAG to achieve human like reasoning",
     "url": "https://github.com/FareedKhan-dev/agentic-rag",
-    "stars": 63,
-    "daily_stars": 1,
+    "stars": 65,
+    "daily_stars": 2,
     "language": "Jupyter Notebook",
     "topics": [
       "agentic-rag",
@@ -143,48 +77,87 @@
       "rag"
     ],
     "created_at": "2025-09-16T14:20:47",
-    "updated_at": "2025-09-24T08:10:31"
+    "updated_at": "2025-09-24T11:10:26"
   },
   {
-    "name": "heyagent",
-    "full_name": "gergomiklos/heyagent",
-    "description": "Claude Code notifications",
-    "url": "https://github.com/gergomiklos/heyagent",
-    "stars": 41,
-    "daily_stars": 1,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "codex-cli",
-      "notifications",
-      "slack",
-      "telegram",
-      "terminal-app",
-      "whatsapp"
-    ],
-    "created_at": "2025-09-07T01:54:38",
-    "updated_at": "2025-09-24T04:56:54"
-  },
-  {
-    "name": "onerun",
-    "full_name": "onerun-ai/onerun",
-    "description": "Open-source framework for stress-testing LLMs and conversational AI. Identify hallucinations, policy violations, and edge cases with scalable, realistic simulations. Join the discord: https://discord.gg/ssd4S37WNW",
-    "url": "https://github.com/onerun-ai/onerun",
-    "stars": 15,
+    "name": "DeepMCPAgent",
+    "full_name": "cryxnet/DeepMCPAgent",
+    "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
+    "url": "https://github.com/cryxnet/DeepMCPAgent",
+    "stars": 573,
     "daily_stars": 1,
     "language": "Python",
+    "topics": [],
+    "created_at": "2025-08-29T13:49:43",
+    "updated_at": "2025-09-24T09:41:52"
+  },
+  {
+    "name": "agentic-design-patterns-book-rus",
+    "full_name": "pridees/agentic-design-patterns-book-rus",
+    "description": "📖 Перевод книги Антонио Гулли - Agentic Design Patterns: Практическое руководство по созданию интеллектуальных систем",
+    "url": "https://github.com/pridees/agentic-design-patterns-book-rus",
+    "stars": 316,
+    "daily_stars": 1,
+    "language": null,
     "topics": [
+      "adk",
+      "agentic-ai-development",
       "ai",
       "ai-agents",
-      "ai-testing",
-      "chatbot",
-      "chatbot-simulation",
-      "llm-testing",
-      "security",
-      "simulation"
+      "langchain",
+      "langgraph",
+      "prompt-engineering",
+      "python"
     ],
-    "created_at": "2025-09-15T12:17:50",
-    "updated_at": "2025-09-24T06:38:27"
+    "created_at": "2025-09-04T06:37:27",
+    "updated_at": "2025-09-24T13:02:28"
+  },
+  {
+    "name": "MathFlow",
+    "full_name": "Nonanti/MathFlow",
+    "description": "C# math expression library with symbolic computation support",
+    "url": "https://github.com/Nonanti/MathFlow",
+    "stars": 47,
+    "daily_stars": 1,
+    "language": "C#",
+    "topics": [],
+    "created_at": "2025-08-27T10:34:14",
+    "updated_at": "2025-09-24T12:47:56"
+  },
+  {
+    "name": "ZeroML",
+    "full_name": "ParagGhatage/ZeroML",
+    "description": "ZeroML is a visual-first, end-to-end machine learning platform that lets you build, train, fine-tune, and deploy models effortlessly. Version datasets, optimize pipelines, and monitor training - all in one place, with hybrid deployment support for Hugging Face and RunPod.",
+    "url": "https://github.com/ParagGhatage/ZeroML",
+    "stars": 11,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "deep-learning",
+      "developer-tools",
+      "llms",
+      "machine-learning"
+    ],
+    "created_at": "2025-09-08T14:08:19",
+    "updated_at": "2025-09-24T11:45:42"
+  },
+  {
+    "name": "actions-up",
+    "full_name": "azat-io/actions-up",
+    "description": "🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA pinning",
+    "url": "https://github.com/azat-io/actions-up",
+    "stars": 272,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "actions",
+      "cli",
+      "dependencies",
+      "github-actions",
+      "security",
+      "workflow"
+    ],
+    "created_at": "2025-08-26T21:52:22",
+    "updated_at": "2025-09-24T10:15:11"
   }
 ]
