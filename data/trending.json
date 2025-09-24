@@ -1,52 +1,23 @@
 [
   {
-    "name": "shimmy",
-    "full_name": "Michael-A-Kuykendall/shimmy",
-    "description": "Local-first AI inference server with OpenAI API compatibility, auto-discovery, hot model swapping, and tool calling. Single-binary Rust solution for GGUF models with LoRA support. FREE now, FREE forever.",
-    "url": "https://github.com/Michael-A-Kuykendall/shimmy",
-    "stars": 2542,
-    "daily_stars": 5,
-    "language": "Rust",
-    "topics": [],
-    "created_at": "2025-08-28T22:55:46",
-    "updated_at": "2025-09-24T01:57:39"
-  },
-  {
-    "name": "LimiX",
-    "full_name": "limix-ldm/LimiX",
-    "description": "LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence https://arxiv.org/abs/2509.03505",
-    "url": "https://github.com/limix-ldm/LimiX",
-    "stars": 394,
-    "daily_stars": 5,
-    "language": "Python",
-    "topics": [
-      "foundation-models",
-      "limix",
-      "machine-learning",
-      "structured-data"
-    ],
-    "created_at": "2025-08-27T07:15:45",
-    "updated_at": "2025-09-24T01:57:55"
-  },
-  {
     "name": "pgmcp",
     "full_name": "subnetmarco/pgmcp",
     "description": "An MCP server to query any Postgres database in natural language.",
     "url": "https://github.com/subnetmarco/pgmcp",
-    "stars": 433,
-    "daily_stars": 4,
+    "stars": 436,
+    "daily_stars": 3,
     "language": "Go",
     "topics": [],
     "created_at": "2025-09-16T19:45:03",
-    "updated_at": "2025-09-24T01:07:15"
+    "updated_at": "2025-09-24T04:27:26"
   },
   {
     "name": "agentic-rag",
     "full_name": "FareedKhan-dev/agentic-rag",
     "description": "Agentic RAG to achieve human like reasoning",
     "url": "https://github.com/FareedKhan-dev/agentic-rag",
-    "stars": 59,
-    "daily_stars": 4,
+    "stars": 62,
+    "daily_stars": 3,
     "language": "Jupyter Notebook",
     "topics": [
       "agentic-rag",
@@ -56,28 +27,57 @@
       "rag"
     ],
     "created_at": "2025-09-16T14:20:47",
-    "updated_at": "2025-09-24T02:06:15"
+    "updated_at": "2025-09-24T04:16:45"
   },
   {
-    "name": "heyagent",
-    "full_name": "gergomiklos/heyagent",
-    "description": "Claude Code notifications",
-    "url": "https://github.com/gergomiklos/heyagent",
-    "stars": 40,
+    "name": "shimmy",
+    "full_name": "Michael-A-Kuykendall/shimmy",
+    "description": "Local-first AI inference server with OpenAI API compatibility, auto-discovery, hot model swapping, and tool calling. Single-binary Rust solution for GGUF models with LoRA support. FREE now, FREE forever.",
+    "url": "https://github.com/Michael-A-Kuykendall/shimmy",
+    "stars": 2545,
     "daily_stars": 3,
-    "language": "JavaScript",
+    "language": "Rust",
+    "topics": [],
+    "created_at": "2025-08-28T22:55:46",
+    "updated_at": "2025-09-24T03:29:51"
+  },
+  {
+    "name": "LimiX",
+    "full_name": "limix-ldm/LimiX",
+    "description": "LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence https://arxiv.org/abs/2509.03505",
+    "url": "https://github.com/limix-ldm/LimiX",
+    "stars": 397,
+    "daily_stars": 3,
+    "language": "Python",
     "topics": [
-      "ai-agents",
-      "claude-code",
-      "codex-cli",
-      "notifications",
-      "slack",
-      "telegram",
-      "terminal-app",
-      "whatsapp"
+      "foundation-models",
+      "limix",
+      "machine-learning",
+      "structured-data"
     ],
-    "created_at": "2025-09-07T01:54:38",
-    "updated_at": "2025-09-24T00:32:14"
+    "created_at": "2025-08-27T07:15:45",
+    "updated_at": "2025-09-24T04:24:58"
+  },
+  {
+    "name": "glooit",
+    "full_name": "nikuscs/glooit",
+    "description": "🧴glooit keeps your AI agent rules and MCP configurations in perfect sync across Claude Code, Cursor, Roo Code, and other AI development tools.",
+    "url": "https://github.com/nikuscs/glooit",
+    "stars": 4,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "claude-code",
+      "codex",
+      "cursor",
+      "cursor-ai",
+      "roocode"
+    ],
+    "created_at": "2025-09-23T16:31:35",
+    "updated_at": "2025-09-24T03:58:18"
   },
   {
     "name": "DeepMCPAgent",
@@ -85,83 +85,69 @@
     "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
     "url": "https://github.com/cryxnet/DeepMCPAgent",
     "stars": 571,
-    "daily_stars": 2,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [],
     "created_at": "2025-08-29T13:49:43",
     "updated_at": "2025-09-24T02:05:59"
   },
   {
-    "name": "deepcontext-mcp",
-    "full_name": "Wildcard-Official/deepcontext-mcp",
-    "description": "DeepContext is an MCP server that adds symbol-aware semantic search to Claude Code, Codex CLI, and other agents for faster, smarter context on large codebases.",
-    "url": "https://github.com/Wildcard-Official/deepcontext-mcp",
-    "stars": 148,
-    "daily_stars": 1,
+    "name": "voyant",
+    "full_name": "chernistry/voyant",
+    "description": "Fact-Verified Travel AI Agent",
+    "url": "https://github.com/chernistry/voyant",
+    "stars": 46,
+    "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
-      "ai",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "code",
-      "code-context",
-      "codex",
-      "developer-tools",
-      "mcp",
+      "ai-agent",
+      "artificial-intelligence",
+      "chatbot",
+      "llm",
+      "multimodal",
+      "nodejs",
+      "prompt-engineering",
       "rag",
-      "search",
-      "vector-database"
+      "travel",
+      "typescript"
     ],
-    "created_at": "2025-09-04T01:07:26",
-    "updated_at": "2025-09-23T21:38:33"
+    "created_at": "2025-09-02T17:45:03",
+    "updated_at": "2025-09-23T21:23:47"
   },
   {
-    "name": "ContextKit",
-    "full_name": "FlineDev/ContextKit",
-    "description": "Claude Code context engineering & planning system for individual AI development workflows",
-    "url": "https://github.com/FlineDev/ContextKit",
-    "stars": 39,
-    "daily_stars": 1,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "ios",
-      "swift",
-      "swiftui"
-    ],
-    "created_at": "2025-09-11T21:59:13",
-    "updated_at": "2025-09-23T21:52:07"
-  },
-  {
-    "name": "ai-hedge-fund",
-    "full_name": "sharonuigbx/ai-hedge-fund",
-    "description": "This project provides a Graphical User Interface (GUI) for the AI hedge fund analysis software originally developed by virattt. It aims to simplify interaction with the powerful underlying AI-driven financial analysis tools.",
-    "url": "https://github.com/sharonuigbx/ai-hedge-fund",
-    "stars": 5,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "finance",
-      "hedge-funds",
-      "trading",
-      "trading-algorithms"
-    ],
-    "created_at": "2025-09-16T22:28:07",
-    "updated_at": "2025-09-23T21:41:44"
-  },
-  {
-    "name": "ML-powered_resume_analyser",
-    "full_name": "tetratensor/ML-powered_resume_analyser",
-    "description": "Local, privacy-friendly resume analysis: convert, classify, and get advice using TF‑IDF, Logistic Regression, and sentence-transformer embeddings.",
-    "url": "https://github.com/tetratensor/ML-powered_resume_analyser",
-    "stars": 14,
-    "daily_stars": 1,
+    "name": "contrastive-rl",
+    "full_name": "lucidrains/contrastive-rl",
+    "description": "Contrastive Reinforcement Learning",
+    "url": "https://github.com/lucidrains/contrastive-rl",
+    "stars": 44,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [],
-    "created_at": "2025-09-22T09:17:47",
-    "updated_at": "2025-09-23T20:40:50"
+    "created_at": "2025-08-29T19:44:31",
+    "updated_at": "2025-09-21T23:01:57"
+  },
+  {
+    "name": "lbm-training-framework",
+    "full_name": "lucidrains/lbm-training-framework",
+    "description": "Training framework for Large Behavioral Models",
+    "url": "https://github.com/lucidrains/lbm-training-framework",
+    "stars": 24,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-09-14T13:56:18",
+    "updated_at": "2025-09-21T10:40:53"
+  },
+  {
+    "name": "lookahead-keys-attention",
+    "full_name": "lucidrains/lookahead-keys-attention",
+    "description": "Causal Attention with Lookahead Keys",
+    "url": "https://github.com/lucidrains/lookahead-keys-attention",
+    "stars": 23,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-09-11T13:14:41",
+    "updated_at": "2025-09-23T20:38:03"
   }
 ]
