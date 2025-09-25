@@ -1,11 +1,56 @@
 [
   {
+    "name": "agentic-design-patterns-book-rus",
+    "full_name": "pridees/agentic-design-patterns-book-rus",
+    "description": "📖 Перевод книги Антонио Гулли - Agentic Design Patterns: Практическое руководство по созданию интеллектуальных систем",
+    "url": "https://github.com/pridees/agentic-design-patterns-book-rus",
+    "stars": 321,
+    "daily_stars": 5,
+    "language": null,
+    "topics": [
+      "adk",
+      "agentic-ai-development",
+      "ai",
+      "ai-agents",
+      "langchain",
+      "langgraph",
+      "prompt-engineering",
+      "python"
+    ],
+    "created_at": "2025-09-04T06:37:27",
+    "updated_at": "2025-09-25T08:22:54"
+  },
+  {
+    "name": "shimmy",
+    "full_name": "Michael-A-Kuykendall/shimmy",
+    "description": "Local-first AI inference server with OpenAI API compatibility, auto-discovery, hot model swapping, and tool calling. Single-binary Rust solution for GGUF models with LoRA support. FREE now, FREE forever.",
+    "url": "https://github.com/Michael-A-Kuykendall/shimmy",
+    "stars": 2562,
+    "daily_stars": 5,
+    "language": "Rust",
+    "topics": [],
+    "created_at": "2025-08-28T22:55:46",
+    "updated_at": "2025-09-25T07:56:55"
+  },
+  {
+    "name": "pgmcp",
+    "full_name": "subnetmarco/pgmcp",
+    "description": "An MCP server to query any Postgres database in natural language.",
+    "url": "https://github.com/subnetmarco/pgmcp",
+    "stars": 449,
+    "daily_stars": 4,
+    "language": "Go",
+    "topics": [],
+    "created_at": "2025-09-16T19:45:03",
+    "updated_at": "2025-09-25T08:09:56"
+  },
+  {
     "name": "LimiX",
     "full_name": "limix-ldm/LimiX",
     "description": "LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence https://arxiv.org/abs/2509.03505",
     "url": "https://github.com/limix-ldm/LimiX",
-    "stars": 417,
-    "daily_stars": 4,
+    "stars": 420,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "foundation-models",
@@ -14,14 +59,83 @@
       "structured-data"
     ],
     "created_at": "2025-08-27T07:15:45",
-    "updated_at": "2025-09-25T04:14:51"
+    "updated_at": "2025-09-25T08:39:57"
+  },
+  {
+    "name": "os-ai-computer-use",
+    "full_name": "iliyaZelenko/os-ai-computer-use",
+    "description": "AI controls your OS. OS AI Computer Use, OS and API agnostic. For now on Anthropic (Claude) API.",
+    "url": "https://github.com/iliyaZelenko/os-ai-computer-use",
+    "stars": 17,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents-framework",
+      "anthropic",
+      "artificial-intelligence",
+      "browser-use",
+      "claude",
+      "cli",
+      "computer-use",
+      "computer-use-agent",
+      "computer-vision",
+      "desktop-automation",
+      "flutter",
+      "gui",
+      "macos",
+      "os-ai-cross-platform-engineering",
+      "python",
+      "vision",
+      "windows"
+    ],
+    "created_at": "2025-09-14T20:41:09",
+    "updated_at": "2025-09-25T08:26:41"
+  },
+  {
+    "name": "agentic-rag",
+    "full_name": "FareedKhan-dev/agentic-rag",
+    "description": "Agentic RAG to achieve human like reasoning",
+    "url": "https://github.com/FareedKhan-dev/agentic-rag",
+    "stars": 67,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agentic-rag",
+      "ai-agents",
+      "llm",
+      "openai",
+      "rag"
+    ],
+    "created_at": "2025-09-16T14:20:47",
+    "updated_at": "2025-09-25T07:27:50"
+  },
+  {
+    "name": "all-agentic-architectures",
+    "full_name": "FareedKhan-dev/all-agentic-architectures",
+    "description": "Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.",
+    "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
+    "stars": 4,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "langchain",
+      "langgraph",
+      "langsmith",
+      "llm"
+    ],
+    "created_at": "2025-09-24T11:47:58",
+    "updated_at": "2025-09-25T07:46:09"
   },
   {
     "name": "retention",
     "full_name": "m-a-n-i-f-e-s-t/retention",
     "description": "Language modeling with infinite context size",
     "url": "https://github.com/m-a-n-i-f-e-s-t/retention",
-    "stars": 35,
+    "stars": 37,
     "daily_stars": 2,
     "language": "Jupyter Notebook",
     "topics": [
@@ -30,127 +144,46 @@
       "language-model"
     ],
     "created_at": "2025-09-03T19:57:02",
-    "updated_at": "2025-09-25T02:32:56"
+    "updated_at": "2025-09-25T06:30:29"
   },
   {
     "name": "DeepMCPAgent",
     "full_name": "cryxnet/DeepMCPAgent",
     "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
     "url": "https://github.com/cryxnet/DeepMCPAgent",
-    "stars": 578,
+    "stars": 579,
     "daily_stars": 1,
     "language": "Python",
     "topics": [],
     "created_at": "2025-08-29T13:49:43",
-    "updated_at": "2025-09-25T03:48:45"
+    "updated_at": "2025-09-25T08:06:11"
   },
   {
-    "name": "ContextKit",
-    "full_name": "FlineDev/ContextKit",
-    "description": "Claude Code context engineering & planning system for individual AI development workflows",
-    "url": "https://github.com/FlineDev/ContextKit",
-    "stars": 42,
+    "name": "free-augmentcode",
+    "full_name": "imtishalch/free-augmentcode",
+    "description": "🧹 Clean AugmentCode data with this tool, enabling multiple account logins on one device without locking accounts.",
+    "url": "https://github.com/imtishalch/free-augmentcode",
+    "stars": 2,
     "daily_stars": 1,
-    "language": "Shell",
+    "language": "Python",
     "topics": [
-      "ai-agents",
-      "claude-code",
-      "ios",
-      "swift",
-      "swiftui"
-    ],
-    "created_at": "2025-09-11T21:59:13",
-    "updated_at": "2025-09-25T02:47:05"
-  },
-  {
-    "name": "crashedout",
-    "full_name": "crashlabsai/crashedout",
-    "description": " A curated collection of real-world AI failures, mishaps, and cautionary tales. This project documents when AI systems go wrong, from chatbots giving bad legal advice to voice assistants accepting impossible orders.",
-    "url": "https://github.com/crashlabsai/crashedout",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-failures",
-      "react",
-      "tanstack",
-      "vite",
-      "voice-ai"
-    ],
-    "created_at": "2025-09-21T01:53:14",
-    "updated_at": "2025-09-25T04:02:49"
-  },
-  {
-    "name": "shimmy",
-    "full_name": "Michael-A-Kuykendall/shimmy",
-    "description": "Local-first AI inference server with OpenAI API compatibility, auto-discovery, hot model swapping, and tool calling. Single-binary Rust solution for GGUF models with LoRA support. FREE now, FREE forever.",
-    "url": "https://github.com/Michael-A-Kuykendall/shimmy",
-    "stars": 2557,
-    "daily_stars": 1,
-    "language": "Rust",
-    "topics": [],
-    "created_at": "2025-08-28T22:55:46",
-    "updated_at": "2025-09-25T02:31:42"
-  },
-  {
-    "name": "pgmcp",
-    "full_name": "subnetmarco/pgmcp",
-    "description": "An MCP server to query any Postgres database in natural language.",
-    "url": "https://github.com/subnetmarco/pgmcp",
-    "stars": 445,
-    "daily_stars": 0,
-    "language": "Go",
-    "topics": [],
-    "created_at": "2025-09-16T19:45:03",
-    "updated_at": "2025-09-25T00:47:38"
-  },
-  {
-    "name": "voyant",
-    "full_name": "chernistry/voyant",
-    "description": "Fact-Verified Travel AI Agent",
-    "url": "https://github.com/chernistry/voyant",
-    "stars": 47,
-    "daily_stars": 0,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agent",
       "artificial-intelligence",
-      "chatbot",
-      "llm",
-      "multimodal",
-      "nodejs",
-      "prompt-engineering",
-      "rag",
-      "travel",
-      "typescript"
+      "augmentation-techniques",
+      "computer-vision",
+      "data-augmentation",
+      "dataset",
+      "deep-learning",
+      "free-augmentation",
+      "generative-models",
+      "image-processing",
+      "machine-learning",
+      "model-training",
+      "neural-networks",
+      "open-source",
+      "python-library",
+      "transfer-learning"
     ],
-    "created_at": "2025-09-02T17:45:03",
-    "updated_at": "2025-09-24T08:32:55"
-  },
-  {
-    "name": "contrastive-rl",
-    "full_name": "lucidrains/contrastive-rl",
-    "description": "Contrastive Reinforcement Learning",
-    "url": "https://github.com/lucidrains/contrastive-rl",
-    "stars": 44,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-08-29T19:44:31",
-    "updated_at": "2025-09-21T23:01:57"
-  },
-  {
-    "name": "lbm-training-framework",
-    "full_name": "lucidrains/lbm-training-framework",
-    "description": "Training framework for Large Behavioral Models",
-    "url": "https://github.com/lucidrains/lbm-training-framework",
-    "stars": 24,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-09-14T13:56:18",
-    "updated_at": "2025-09-21T10:40:53"
+    "created_at": "2025-09-18T00:58:22",
+    "updated_at": "2025-09-25T07:48:29"
   }
 ]
