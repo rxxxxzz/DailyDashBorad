@@ -4,20 +4,100 @@
     "full_name": "Michael-A-Kuykendall/shimmy",
     "description": "Local-first AI inference server with OpenAI API compatibility, auto-discovery, hot model swapping, and tool calling. Single-binary Rust solution for GGUF models with LoRA support. FREE now, FREE forever.",
     "url": "https://github.com/Michael-A-Kuykendall/shimmy",
-    "stars": 2579,
-    "daily_stars": 7,
+    "stars": 2588,
+    "daily_stars": 9,
     "language": "Rust",
     "topics": [],
     "created_at": "2025-08-28T22:55:46",
-    "updated_at": "2025-09-26T07:47:21"
+    "updated_at": "2025-09-26T12:45:49"
+  },
+  {
+    "name": "locoformer",
+    "full_name": "lucidrains/locoformer",
+    "description": "LocoFormer - Generalist Locomotion via Long-Context Adaptation",
+    "url": "https://github.com/lucidrains/locoformer",
+    "stars": 24,
+    "daily_stars": 4,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-09-25T13:02:18",
+    "updated_at": "2025-09-26T12:39:58"
+  },
+  {
+    "name": "DeepMCPAgent",
+    "full_name": "cryxnet/DeepMCPAgent",
+    "description": "Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.",
+    "url": "https://github.com/cryxnet/DeepMCPAgent",
+    "stars": 585,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-08-29T13:49:43",
+    "updated_at": "2025-09-26T12:42:04"
+  },
+  {
+    "name": "deepcontext-mcp",
+    "full_name": "Wildcard-Official/deepcontext-mcp",
+    "description": "DeepContext is an MCP server that adds symbol-aware semantic search to Claude Code, Codex CLI, and other agents for faster, smarter context on large codebases.",
+    "url": "https://github.com/Wildcard-Official/deepcontext-mcp",
+    "stars": 158,
+    "daily_stars": 2,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "code",
+      "code-context",
+      "codex",
+      "developer-tools",
+      "mcp",
+      "rag",
+      "search",
+      "vector-database"
+    ],
+    "created_at": "2025-09-04T01:07:26",
+    "updated_at": "2025-09-26T10:50:32"
+  },
+  {
+    "name": "all-agentic-architectures",
+    "full_name": "FareedKhan-dev/all-agentic-architectures",
+    "description": "Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.",
+    "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
+    "stars": 10,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "langchain",
+      "langgraph",
+      "langsmith",
+      "llm"
+    ],
+    "created_at": "2025-09-24T11:47:58",
+    "updated_at": "2025-09-26T12:04:52"
+  },
+  {
+    "name": "pgmcp",
+    "full_name": "subnetmarco/pgmcp",
+    "description": "An MCP server to query any Postgres database in natural language.",
+    "url": "https://github.com/subnetmarco/pgmcp",
+    "stars": 459,
+    "daily_stars": 1,
+    "language": "Go",
+    "topics": [],
+    "created_at": "2025-09-16T19:45:03",
+    "updated_at": "2025-09-26T12:43:07"
   },
   {
     "name": "voyant",
     "full_name": "chernistry/voyant",
     "description": "Fact-Verified Travel AI Agent",
     "url": "https://github.com/chernistry/voyant",
-    "stars": 62,
-    "daily_stars": 2,
+    "stars": 63,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "ai-agent",
@@ -32,103 +112,14 @@
       "typescript"
     ],
     "created_at": "2025-09-02T17:45:03",
-    "updated_at": "2025-09-26T07:21:36"
-  },
-  {
-    "name": "locoformer",
-    "full_name": "lucidrains/locoformer",
-    "description": "LocoFormer - Generalist Locomotion via Long-Context Adaptation",
-    "url": "https://github.com/lucidrains/locoformer",
-    "stars": 20,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-09-25T13:02:18",
-    "updated_at": "2025-09-26T07:58:07"
-  },
-  {
-    "name": "agentic-design-patterns-book-rus",
-    "full_name": "pridees/agentic-design-patterns-book-rus",
-    "description": "📖 Перевод книги Антонио Гулли - Agentic Design Patterns: Практическое руководство по созданию интеллектуальных систем",
-    "url": "https://github.com/pridees/agentic-design-patterns-book-rus",
-    "stars": 325,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "adk",
-      "agentic-ai-development",
-      "ai",
-      "ai-agents",
-      "langchain",
-      "langgraph",
-      "prompt-engineering",
-      "python"
-    ],
-    "created_at": "2025-09-04T06:37:27",
-    "updated_at": "2025-09-26T08:44:33"
-  },
-  {
-    "name": "pgmcp",
-    "full_name": "subnetmarco/pgmcp",
-    "description": "An MCP server to query any Postgres database in natural language.",
-    "url": "https://github.com/subnetmarco/pgmcp",
-    "stars": 458,
-    "daily_stars": 1,
-    "language": "Go",
-    "topics": [],
-    "created_at": "2025-09-16T19:45:03",
-    "updated_at": "2025-09-26T06:50:37"
-  },
-  {
-    "name": "os-ai-computer-use",
-    "full_name": "iliyaZelenko/os-ai-computer-use",
-    "description": "AI controls your OS. OS AI Computer Use, OS and API agnostic. For now on Anthropic (Claude) API.",
-    "url": "https://github.com/iliyaZelenko/os-ai-computer-use",
-    "stars": 22,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agents-framework",
-      "anthropic",
-      "artificial-intelligence",
-      "browser-use",
-      "claude",
-      "cli",
-      "computer-use",
-      "computer-use-agent",
-      "computer-vision",
-      "desktop-automation",
-      "flutter",
-      "gui",
-      "macos",
-      "os-ai-cross-platform-engineering",
-      "python",
-      "vision",
-      "windows"
-    ],
-    "created_at": "2025-09-14T20:41:09",
-    "updated_at": "2025-09-26T08:45:48"
-  },
-  {
-    "name": "smart-shop",
-    "full_name": "ystemsrx/smart-shop",
-    "description": "AI 加持的在线智慧商城系统 / AI-powered online Smart Shop system",
-    "url": "https://github.com/ystemsrx/smart-shop",
-    "stars": 2,
-    "daily_stars": 1,
-    "language": "JavaScript",
-    "topics": [],
-    "created_at": "2025-09-25T20:20:23",
-    "updated_at": "2025-09-26T08:06:52"
+    "updated_at": "2025-09-26T11:10:20"
   },
   {
     "name": "LLM-Agents-Ecosystem-Handbook",
     "full_name": "oxbshw/LLM-Agents-Ecosystem-Handbook",
     "description": "One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools.",
     "url": "https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook",
-    "stars": 335,
+    "stars": 336,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -148,33 +139,47 @@
       "voice-agent"
     ],
     "created_at": "2025-09-08T01:24:26",
-    "updated_at": "2025-09-26T06:04:37"
+    "updated_at": "2025-09-26T12:46:36"
   },
   {
-    "name": "ai-infrastructure-agent",
-    "full_name": "VersusControl/ai-infrastructure-agent",
-    "description": "AI Infrastructure Agent is an intelligent system that allows you to manage AWS infrastructure using natural language commands.",
-    "url": "https://github.com/VersusControl/ai-infrastructure-agent",
-    "stars": 93,
+    "name": "Disciplined-AI-Software-Development",
+    "full_name": "Varietyz/Disciplined-AI-Software-Development",
+    "description": "This methodology provides a structured approach for collaborating with AI systems on software development projects. It addresses common issues like code bloat, architectural drift, and context dilution through systematic constraints and validation checkpoints.",
+    "url": "https://github.com/Varietyz/Disciplined-AI-Software-Development",
+    "stars": 331,
     "daily_stars": 1,
-    "language": "Go",
+    "language": "Python",
     "topics": [
       "ai",
       "ai-agents",
-      "aws",
-      "devops",
-      "infrastructure",
-      "mcp"
+      "ai-collaboration",
+      "best-practices",
+      "collaborate",
+      "collaboration",
+      "collaborative",
+      "context",
+      "documentation",
+      "dry",
+      "educational",
+      "kiss",
+      "llms",
+      "methodology",
+      "methodology-development",
+      "prompt-engineering",
+      "software-architecture",
+      "software-development",
+      "software-engineering",
+      "workflow"
     ],
-    "created_at": "2025-08-30T06:49:43",
-    "updated_at": "2025-09-26T07:59:02"
+    "created_at": "2025-09-04T13:53:02",
+    "updated_at": "2025-09-26T10:42:36"
   },
   {
     "name": "agentic-rag",
     "full_name": "FareedKhan-dev/agentic-rag",
     "description": "Agentic RAG to achieve human like reasoning",
     "url": "https://github.com/FareedKhan-dev/agentic-rag",
-    "stars": 73,
+    "stars": 74,
     "daily_stars": 1,
     "language": "Jupyter Notebook",
     "topics": [
@@ -185,6 +190,6 @@
       "rag"
     ],
     "created_at": "2025-09-16T14:20:47",
-    "updated_at": "2025-09-26T07:17:57"
+    "updated_at": "2025-09-26T09:03:55"
   }
 ]
