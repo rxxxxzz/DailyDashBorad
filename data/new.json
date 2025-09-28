@@ -4,8 +4,8 @@
     "full_name": "FareedKhan-dev/all-agentic-architectures",
     "description": "Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.",
     "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
-    "stars": 41,
-    "daily_stars": 8,
+    "stars": 48,
+    "daily_stars": 7,
     "language": "Jupyter Notebook",
     "topics": [
       "agentic-ai",
@@ -16,7 +16,7 @@
       "llm"
     ],
     "created_at": "2025-09-24T11:47:58",
-    "updated_at": "2025-09-27T20:33:59"
+    "updated_at": "2025-09-28T00:28:40"
   },
   {
     "name": "locoformer",
@@ -24,7 +24,7 @@
     "description": "LocoFormer - Generalist Locomotion via Long-Context Adaptation",
     "url": "https://github.com/lucidrains/locoformer",
     "stars": 31,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [],
     "created_at": "2025-09-25T13:02:18",
@@ -41,6 +41,82 @@
     "topics": [],
     "created_at": "2025-09-25T13:02:18",
     "updated_at": "2025-09-27T19:21:20"
+  },
+  {
+    "name": "llm-attention-visualizer",
+    "full_name": "sunnynguyen-ai/llm-attention-visualizer",
+    "description": "Interactive tool for analyzing attention patterns in transformer models with layer-wise visualizations, token importance scoring, and attention flow diagrams",
+    "url": "https://github.com/sunnynguyen-ai/llm-attention-visualizer",
+    "stars": 17,
+    "daily_stars": 13,
+    "language": "Python",
+    "topics": [
+      "ai-research",
+      "attention-visualization",
+      "deep-learning",
+      "hugging-face",
+      "interpretability",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "pytorch",
+      "streamlit",
+      "transformer"
+    ],
+    "created_at": "2025-09-24T21:10:53",
+    "updated_at": "2025-09-28T00:14:21"
+  },
+  {
+    "name": "fraud-detection-system",
+    "full_name": "sunnynguyen-ai/fraud-detection-system",
+    "description": "Real-time fraud detection system using ensemble ML models, featuring streaming data processing, explainable AI with SHAP, and production-ready deployment with FastAPI and Docker.",
+    "url": "https://github.com/sunnynguyen-ai/fraud-detection-system",
+    "stars": 17,
+    "daily_stars": 13,
+    "language": "Python",
+    "topics": [
+      "data-science",
+      "docker",
+      "ensemble-models",
+      "fastapi",
+      "feature-engineering",
+      "fraud-detection",
+      "machine-learning",
+      "mlops",
+      "production-ml",
+      "python",
+      "random-forest",
+      "real-time-ml",
+      "shap",
+      "streamlit",
+      "xgboost"
+    ],
+    "created_at": "2025-09-20T12:14:04",
+    "updated_at": "2025-09-28T00:24:39"
+  },
+  {
+    "name": "llm-attention-visualizer",
+    "full_name": "sunnynguyen-ai/llm-attention-visualizer",
+    "description": "Interactive tool for analyzing attention patterns in transformer models with layer-wise visualizations, token importance scoring, and attention flow diagrams",
+    "url": "https://github.com/sunnynguyen-ai/llm-attention-visualizer",
+    "stars": 17,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [
+      "ai-research",
+      "attention-visualization",
+      "deep-learning",
+      "hugging-face",
+      "interpretability",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "pytorch",
+      "streamlit",
+      "transformer"
+    ],
+    "created_at": "2025-09-24T21:10:53",
+    "updated_at": "2025-09-28T00:14:21"
   },
   {
     "name": "ML-powered_resume_analyser",
@@ -53,6 +129,32 @@
     "topics": [],
     "created_at": "2025-09-22T09:17:47",
     "updated_at": "2025-09-27T10:21:56"
+  },
+  {
+    "name": "medical-image-classifier",
+    "full_name": "sunnynguyen-ai/medical-image-classifier",
+    "description": "Deep learning model for pneumonia detection in chest X-rays using TensorFlow and Streamlit",
+    "url": "https://github.com/sunnynguyen-ai/medical-image-classifier",
+    "stars": 16,
+    "daily_stars": 13,
+    "language": "Python",
+    "topics": [
+      "chest-xray",
+      "cnn-convolutional-neural-networks",
+      "computer-vision",
+      "deep-learning",
+      "healthcare-ai",
+      "image-classification",
+      "medical-ai",
+      "medical-imaging",
+      "pneumonia-detection",
+      "python",
+      "streamlit-docker",
+      "tensorflow",
+      "tensorflow2"
+    ],
+    "created_at": "2025-09-20T11:54:49",
+    "updated_at": "2025-09-28T00:20:07"
   },
   {
     "name": "EV-Vehicle-Trip-Optimizer",
@@ -89,84 +191,5 @@
     ],
     "created_at": "2025-09-22T04:00:20",
     "updated_at": "2025-09-27T14:06:21"
-  },
-  {
-    "name": "claude-code-pytorch",
-    "full_name": "jxtngx/claude-code-pytorch",
-    "description": "A modular, multi-agent based system for PyTorch, Hugging Face, and AWS.",
-    "url": "https://github.com/jxtngx/claude-code-pytorch",
-    "stars": 12,
-    "daily_stars": 0,
-    "language": "HTML",
-    "topics": [
-      "artificial-intelligence",
-      "claude-code",
-      "deep-learning",
-      "pytorch"
-    ],
-    "created_at": "2025-09-22T04:00:20",
-    "updated_at": "2025-09-27T14:06:21"
-  },
-  {
-    "name": "taskflow-rs",
-    "full_name": "lispking/taskflow-rs",
-    "description": "A modern, async task processing framework written in Rust for building scalable workflow systems with support for multiple task types, dependency management, and distributed execution.",
-    "url": "https://github.com/lispking/taskflow-rs",
-    "stars": 12,
-    "daily_stars": 0,
-    "language": "Rust",
-    "topics": [
-      "async",
-      "distributed",
-      "scheduler",
-      "task",
-      "workflow"
-    ],
-    "created_at": "2025-09-20T17:37:37",
-    "updated_at": "2025-09-25T17:31:31"
-  },
-  {
-    "name": "Polyagent-Research-Intelligence",
-    "full_name": "ankitsharma-tech/Polyagent-Research-Intelligence",
-    "description": "A modular, multi-agent AI research and report generation platform. Enter any topic, and PolyAgent Research Intelligence orchestrates multiple AI agents to retrieve literature, analyze data, and generate a polished report. Built for researchers and AI/ML engineers, leveraging LangChain, FastAPI, PostgreSQL, advanced LLMs, and a Next.js front-end.",
-    "url": "https://github.com/ankitsharma-tech/Polyagent-Research-Intelligence",
-    "stars": 11,
-    "daily_stars": 0,
-    "language": "TypeScript",
-    "topics": [
-      "ai-research",
-      "fastapi",
-      "grafana",
-      "machine-learning",
-      "multi-agent-systems",
-      "nextjs",
-      "postgresql",
-      "prometheus",
-      "tailwindcss"
-    ],
-    "created_at": "2025-09-24T15:52:17",
-    "updated_at": "2025-09-25T14:21:24"
-  },
-  {
-    "name": "Laptop-Price-Predictor",
-    "full_name": "ankitsharma-tech/Laptop-Price-Predictor",
-    "description": "A machine learning project that predicts laptop prices based on key specifications using regression modeling.",
-    "url": "https://github.com/ankitsharma-tech/Laptop-Price-Predictor",
-    "stars": 11,
-    "daily_stars": 0,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "data-science",
-      "laptop-pricing",
-      "machine-learning",
-      "model-deployment",
-      "pandas",
-      "price-prediction",
-      "python",
-      "regression",
-      "scikit-learn"
-    ],
-    "created_at": "2025-09-24T15:33:24",
-    "updated_at": "2025-09-25T14:21:22"
   }
 ]
