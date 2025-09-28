@@ -4,8 +4,8 @@
     "full_name": "FareedKhan-dev/all-agentic-architectures",
     "description": "Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.",
     "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
-    "stars": 57,
-    "daily_stars": 7,
+    "stars": 63,
+    "daily_stars": 6,
     "language": "Jupyter Notebook",
     "topics": [
       "agentic-ai",
@@ -16,7 +16,7 @@
       "llm"
     ],
     "created_at": "2025-09-24T11:47:58",
-    "updated_at": "2025-09-28T08:26:57"
+    "updated_at": "2025-09-28T12:48:56"
   },
   {
     "name": "locoformer",
@@ -24,7 +24,7 @@
     "description": "LocoFormer - Generalist Locomotion via Long-Context Adaptation",
     "url": "https://github.com/lucidrains/locoformer",
     "stars": 34,
-    "daily_stars": 2,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [],
     "created_at": "2025-09-25T13:02:18",
@@ -41,58 +41,6 @@
     "topics": [],
     "created_at": "2025-09-25T13:02:18",
     "updated_at": "2025-09-28T06:30:55"
-  },
-  {
-    "name": "llm-attention-visualizer",
-    "full_name": "sunnynguyen-ai/llm-attention-visualizer",
-    "description": "Interactive tool for analyzing attention patterns in transformer models with layer-wise visualizations, token importance scoring, and attention flow diagrams",
-    "url": "https://github.com/sunnynguyen-ai/llm-attention-visualizer",
-    "stars": 18,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-research",
-      "attention-visualization",
-      "deep-learning",
-      "hugging-face",
-      "interpretability",
-      "llm",
-      "machine-learning",
-      "nlp",
-      "pytorch",
-      "streamlit",
-      "transformer"
-    ],
-    "created_at": "2025-09-24T21:10:53",
-    "updated_at": "2025-09-28T06:59:16"
-  },
-  {
-    "name": "fraud-detection-system",
-    "full_name": "sunnynguyen-ai/fraud-detection-system",
-    "description": "Real-time fraud detection system using ensemble ML models, featuring streaming data processing, explainable AI with SHAP, and production-ready deployment with FastAPI and Docker.",
-    "url": "https://github.com/sunnynguyen-ai/fraud-detection-system",
-    "stars": 18,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "data-science",
-      "docker",
-      "ensemble-models",
-      "fastapi",
-      "feature-engineering",
-      "fraud-detection",
-      "machine-learning",
-      "mlops",
-      "production-ml",
-      "python",
-      "random-forest",
-      "real-time-ml",
-      "shap",
-      "streamlit",
-      "xgboost"
-    ],
-    "created_at": "2025-09-20T12:14:04",
-    "updated_at": "2025-09-28T07:00:23"
   },
   {
     "name": "llm-attention-visualizer",
@@ -119,30 +67,28 @@
     "updated_at": "2025-09-28T06:59:16"
   },
   {
-    "name": "medical-image-classifier",
-    "full_name": "sunnynguyen-ai/medical-image-classifier",
-    "description": "Deep learning model for pneumonia detection in chest X-rays using TensorFlow and Streamlit",
-    "url": "https://github.com/sunnynguyen-ai/medical-image-classifier",
-    "stars": 17,
-    "daily_stars": 1,
+    "name": "llm-attention-visualizer",
+    "full_name": "sunnynguyen-ai/llm-attention-visualizer",
+    "description": "Interactive tool for analyzing attention patterns in transformer models with layer-wise visualizations, token importance scoring, and attention flow diagrams",
+    "url": "https://github.com/sunnynguyen-ai/llm-attention-visualizer",
+    "stars": 18,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
-      "chest-xray",
-      "cnn-convolutional-neural-networks",
-      "computer-vision",
+      "ai-research",
+      "attention-visualization",
       "deep-learning",
-      "healthcare-ai",
-      "image-classification",
-      "medical-ai",
-      "medical-imaging",
-      "pneumonia-detection",
-      "python",
-      "streamlit-docker",
-      "tensorflow",
-      "tensorflow2"
+      "hugging-face",
+      "interpretability",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "pytorch",
+      "streamlit",
+      "transformer"
     ],
-    "created_at": "2025-09-20T11:54:49",
-    "updated_at": "2025-09-28T06:59:54"
+    "created_at": "2025-09-24T21:10:53",
+    "updated_at": "2025-09-28T06:59:16"
   },
   {
     "name": "ML-powered_resume_analyser",
@@ -191,5 +137,40 @@
     ],
     "created_at": "2025-09-22T04:00:20",
     "updated_at": "2025-09-27T14:06:21"
+  },
+  {
+    "name": "claude-code-pytorch",
+    "full_name": "jxtngx/claude-code-pytorch",
+    "description": "A modular, multi-agent based system for PyTorch, Hugging Face, and AWS.",
+    "url": "https://github.com/jxtngx/claude-code-pytorch",
+    "stars": 12,
+    "daily_stars": 0,
+    "language": "HTML",
+    "topics": [
+      "artificial-intelligence",
+      "claude-code",
+      "deep-learning",
+      "pytorch"
+    ],
+    "created_at": "2025-09-22T04:00:20",
+    "updated_at": "2025-09-27T14:06:21"
+  },
+  {
+    "name": "taskflow-rs",
+    "full_name": "lispking/taskflow-rs",
+    "description": "A modern, async task processing framework written in Rust for building scalable workflow systems with support for multiple task types, dependency management, and distributed execution.",
+    "url": "https://github.com/lispking/taskflow-rs",
+    "stars": 12,
+    "daily_stars": 0,
+    "language": "Rust",
+    "topics": [
+      "async",
+      "distributed",
+      "scheduler",
+      "task",
+      "workflow"
+    ],
+    "created_at": "2025-09-20T17:37:37",
+    "updated_at": "2025-09-25T17:31:31"
   }
 ]
