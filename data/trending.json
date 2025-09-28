@@ -1,30 +1,11 @@
 [
   {
-    "name": "blades",
-    "full_name": "go-kratos/blades",
-    "description": "Blades is a Go-based multimodal AI Agent framework.",
-    "url": "https://github.com/go-kratos/blades",
-    "stars": 395,
-    "daily_stars": 10,
-    "language": "Go",
-    "topics": [
-      "agent",
-      "agentic-framework",
-      "agentic-workflow",
-      "ai",
-      "golang",
-      "workflow"
-    ],
-    "created_at": "2025-09-15T16:43:22",
-    "updated_at": "2025-09-28T16:38:24"
-  },
-  {
     "name": "all-agentic-architectures",
     "full_name": "FareedKhan-dev/all-agentic-architectures",
     "description": "Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.",
     "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
-    "stars": 71,
-    "daily_stars": 8,
+    "stars": 81,
+    "daily_stars": 10,
     "language": "Jupyter Notebook",
     "topics": [
       "agentic-ai",
@@ -35,15 +16,15 @@
       "llm"
     ],
     "created_at": "2025-09-24T11:47:58",
-    "updated_at": "2025-09-28T16:37:28"
+    "updated_at": "2025-09-28T20:22:59"
   },
   {
     "name": "ai-crawler-py",
     "full_name": "oxylabs/ai-crawler-py",
     "description": "Crawl a website starting from a URL, find relevant pages, and extract data – all guided by your natural language prompt.",
     "url": "https://github.com/oxylabs/ai-crawler-py",
-    "stars": 55,
-    "daily_stars": 6,
+    "stars": 59,
+    "daily_stars": 4,
     "language": null,
     "topics": [
       "ai",
@@ -56,34 +37,77 @@
       "web-crawler"
     ],
     "created_at": "2025-09-17T16:24:04",
-    "updated_at": "2025-09-28T16:12:41"
+    "updated_at": "2025-09-28T20:03:55"
   },
   {
-    "name": "yishape-math",
-    "full_name": "ScaleFree-Tech/yishape-math",
-    "description": "YiShape-Math is a Java math library that provides NumPy-like functionalities including vector and matrix operations, visualization, statistical methods, optimization, and machine learning models.",
-    "url": "https://github.com/ScaleFree-Tech/yishape-math",
-    "stars": 19,
-    "daily_stars": 5,
-    "language": "Java",
+    "name": "ai-infrastructure-agent",
+    "full_name": "VersusControl/ai-infrastructure-agent",
+    "description": "AI Infrastructure Agent is an intelligent system that allows you to manage AWS infrastructure using natural language commands.",
+    "url": "https://github.com/VersusControl/ai-infrastructure-agent",
+    "stars": 104,
+    "daily_stars": 3,
+    "language": "Go",
     "topics": [
-      "java-math-library",
-      "java-statistics",
-      "machine-learning",
-      "mathematical-optimization",
-      "matrix-calculations",
-      "vector-calculation"
+      "ai",
+      "ai-agents",
+      "aws",
+      "devops",
+      "infrastructure",
+      "mcp"
     ],
-    "created_at": "2025-08-30T10:36:54",
-    "updated_at": "2025-09-28T16:36:35"
+    "created_at": "2025-08-30T06:49:43",
+    "updated_at": "2025-09-28T18:22:06"
+  },
+  {
+    "name": "blades",
+    "full_name": "go-kratos/blades",
+    "description": "Blades is a Go-based multimodal AI Agent framework.",
+    "url": "https://github.com/go-kratos/blades",
+    "stars": 397,
+    "daily_stars": 2,
+    "language": "Go",
+    "topics": [
+      "agent",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "golang",
+      "workflow"
+    ],
+    "created_at": "2025-09-15T16:43:22",
+    "updated_at": "2025-09-28T18:49:43"
+  },
+  {
+    "name": "locoformer",
+    "full_name": "lucidrains/locoformer",
+    "description": "LocoFormer - Generalist Locomotion via Long-Context Adaptation",
+    "url": "https://github.com/lucidrains/locoformer",
+    "stars": 35,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-09-25T13:02:18",
+    "updated_at": "2025-09-28T18:03:44"
+  },
+  {
+    "name": "lbm-training-framework",
+    "full_name": "lucidrains/lbm-training-framework",
+    "description": "Training framework for Large Behavioral Models",
+    "url": "https://github.com/lucidrains/lbm-training-framework",
+    "stars": 25,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-09-14T13:56:18",
+    "updated_at": "2025-09-28T18:05:54"
   },
   {
     "name": "claudepro-directory",
     "full_name": "JSONbored/claudepro-directory",
     "description": "🎯 Curated directory of Claude prompts, MCP servers & tools for developers. Open to community contributions!",
     "url": "https://github.com/JSONbored/claudepro-directory",
-    "stars": 20,
-    "daily_stars": 4,
+    "stars": 21,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "ai-directory",
@@ -108,82 +132,63 @@
       "walletconnect"
     ],
     "created_at": "2025-09-15T04:40:32",
-    "updated_at": "2025-09-28T15:41:36"
-  },
-  {
-    "name": "pgmcp",
-    "full_name": "subnetmarco/pgmcp",
-    "description": "An MCP server to query any Postgres database in natural language.",
-    "url": "https://github.com/subnetmarco/pgmcp",
-    "stars": 465,
-    "daily_stars": 2,
-    "language": "Go",
-    "topics": [],
-    "created_at": "2025-09-16T19:45:03",
-    "updated_at": "2025-09-28T15:43:42"
+    "updated_at": "2025-09-28T20:36:09"
   },
   {
     "name": "resfit-pytorch",
     "full_name": "lucidrains/resfit-pytorch",
     "description": "Implementation of ResFit, Residual Off-Policy RL for Finetuning Behavior Cloning Policies",
     "url": "https://github.com/lucidrains/resfit-pytorch",
-    "stars": 10,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [],
-    "created_at": "2025-09-26T19:32:23",
-    "updated_at": "2025-09-28T15:30:39"
-  },
-  {
-    "name": "agentic-design-patterns-book-rus",
-    "full_name": "pridees/agentic-design-patterns-book-rus",
-    "description": "📖 Перевод книги Антонио Гулли - Agentic Design Patterns: Практическое руководство по созданию интеллектуальных систем",
-    "url": "https://github.com/pridees/agentic-design-patterns-book-rus",
-    "stars": 331,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "adk",
-      "agentic-ai-development",
-      "ai",
-      "ai-agents",
-      "langchain",
-      "langgraph",
-      "prompt-engineering",
-      "python"
-    ],
-    "created_at": "2025-09-04T06:37:27",
-    "updated_at": "2025-09-28T16:17:00"
-  },
-  {
-    "name": "ai-infrastructure-agent",
-    "full_name": "VersusControl/ai-infrastructure-agent",
-    "description": "AI Infrastructure Agent is an intelligent system that allows you to manage AWS infrastructure using natural language commands.",
-    "url": "https://github.com/VersusControl/ai-infrastructure-agent",
-    "stars": 101,
-    "daily_stars": 2,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "aws",
-      "devops",
-      "infrastructure",
-      "mcp"
-    ],
-    "created_at": "2025-08-30T06:49:43",
-    "updated_at": "2025-09-28T15:07:09"
-  },
-  {
-    "name": "AI-ML-Core-Foundations",
-    "full_name": "Hazrat-Ali9/AI-ML-Core-Foundations",
-    "description": "🚂 AI ✈ ML 🛫 Core 🛳 Foundations 🚁 is a 🧸 comprehensive 🚋 that 🎁 provides 🚞 a solid 🚀 starting point 🛩 Artificial 🚟 Intelligence 🛸 and Machine 🚝 Learning 🚤 It covers 🏛 the ML 🏘 algorithms 🏬 mathematical 🕌 foundations 🏦 implementations 🏣 helping 🧱 learners 🚌 transition ⚽ from ⚾ theory to 🥎 hands on 🏀 projects 🏐 with 🏆 ease 🎳",
-    "url": "https://github.com/Hazrat-Ali9/AI-ML-Core-Foundations",
-    "stars": 9,
+    "stars": 11,
     "daily_stars": 1,
     "language": null,
     "topics": [],
-    "created_at": "2025-09-14T03:50:06",
-    "updated_at": "2025-09-28T15:51:43"
+    "created_at": "2025-09-26T19:32:23",
+    "updated_at": "2025-09-28T18:38:35"
+  },
+  {
+    "name": "Machine-Learning-AI-Library",
+    "full_name": "rembertdesigns/Machine-Learning-AI-Library",
+    "description": "A curated, up-to-date library of the best free resources for learning machine learning, deep learning, and artificial intelligence—includes playlists, courses, reading, coding tutorials, and interactive demos for all levels.",
+    "url": "https://github.com/rembertdesigns/Machine-Learning-AI-Library",
+    "stars": 8,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [],
+    "created_at": "2025-09-02T23:39:29",
+    "updated_at": "2025-09-28T16:47:47"
+  },
+  {
+    "name": "Log-Danismani",
+    "full_name": "SUmidcyber/Log-Danismani",
+    "description": "AI destekli çoklu platform log analiz ve güvenlik aracı - Windows, Linux, macOS için otomatik log toplama ve güvenlik analizi",
+    "url": "https://github.com/SUmidcyber/Log-Danismani",
+    "stars": 4,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-security",
+      "artificial-intelligence",
+      "cybersecurity",
+      "linux",
+      "linux-logs",
+      "log-analysis",
+      "log-analysis-tool",
+      "macos",
+      "malware-detection",
+      "open-source",
+      "python",
+      "python-tool",
+      "secur",
+      "security-automation",
+      "siber-guvenlik",
+      "system-monitoring",
+      "threat-detection",
+      "vulnerability-scanner",
+      "windows",
+      "windows-logs"
+    ],
+    "created_at": "2025-08-31T10:42:18",
+    "updated_at": "2025-09-28T19:49:16"
   }
 ]
