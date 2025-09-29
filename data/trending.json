@@ -1,30 +1,11 @@
 [
   {
-    "name": "all-agentic-architectures",
-    "full_name": "FareedKhan-dev/all-agentic-architectures",
-    "description": "Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.",
-    "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
-    "stars": 104,
-    "daily_stars": 9,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "langchain",
-      "langgraph",
-      "langsmith",
-      "llm"
-    ],
-    "created_at": "2025-09-24T11:47:58",
-    "updated_at": "2025-09-29T08:22:17"
-  },
-  {
     "name": "blades",
     "full_name": "go-kratos/blades",
     "description": "Blades is a Go-based multimodal AI Agent framework.",
     "url": "https://github.com/go-kratos/blades",
-    "stars": 419,
-    "daily_stars": 6,
+    "stars": 428,
+    "daily_stars": 9,
     "language": "Go",
     "topics": [
       "agent",
@@ -35,14 +16,14 @@
       "workflow"
     ],
     "created_at": "2025-09-15T16:43:22",
-    "updated_at": "2025-09-29T08:38:15"
+    "updated_at": "2025-09-29T12:51:24"
   },
   {
     "name": "ai-crawler-py",
     "full_name": "oxylabs/ai-crawler-py",
     "description": "Crawl a website starting from a URL, find relevant pages, and extract data – all guided by your natural language prompt.",
     "url": "https://github.com/oxylabs/ai-crawler-py",
-    "stars": 64,
+    "stars": 69,
     "daily_stars": 5,
     "language": null,
     "topics": [
@@ -56,14 +37,45 @@
       "web-crawler"
     ],
     "created_at": "2025-09-17T16:24:04",
-    "updated_at": "2025-09-29T06:51:28"
+    "updated_at": "2025-09-29T13:01:58"
+  },
+  {
+    "name": "pgmcp",
+    "full_name": "subnetmarco/pgmcp",
+    "description": "An MCP server to query any Postgres database in natural language.",
+    "url": "https://github.com/subnetmarco/pgmcp",
+    "stars": 470,
+    "daily_stars": 3,
+    "language": "Go",
+    "topics": [],
+    "created_at": "2025-09-16T19:45:03",
+    "updated_at": "2025-09-29T12:45:46"
+  },
+  {
+    "name": "all-agentic-architectures",
+    "full_name": "FareedKhan-dev/all-agentic-architectures",
+    "description": "Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.",
+    "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
+    "stars": 107,
+    "daily_stars": 3,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "langchain",
+      "langgraph",
+      "langsmith",
+      "llm"
+    ],
+    "created_at": "2025-09-24T11:47:58",
+    "updated_at": "2025-09-29T12:02:25"
   },
   {
     "name": "Agenticle",
     "full_name": "A03HCY/Agenticle",
     "description": "A lightweight, extensible Python framework for building and orchestrating single or multi-agent AI systems. | 一个轻量、可扩展的 Python 框架，用于构建和编排单智能体或多智能体 AI 系统。",
     "url": "https://github.com/A03HCY/Agenticle",
-    "stars": 13,
+    "stars": 16,
     "daily_stars": 3,
     "language": "Python",
     "topics": [
@@ -73,144 +85,106 @@
       "python"
     ],
     "created_at": "2025-09-22T04:48:51",
-    "updated_at": "2025-09-29T06:24:36"
+    "updated_at": "2025-09-29T11:40:47"
   },
   {
-    "name": "pgmcp",
-    "full_name": "subnetmarco/pgmcp",
-    "description": "An MCP server to query any Postgres database in natural language.",
-    "url": "https://github.com/subnetmarco/pgmcp",
-    "stars": 467,
+    "name": "agentic-design-patterns-book-rus",
+    "full_name": "pridees/agentic-design-patterns-book-rus",
+    "description": "📖 Перевод книги Антонио Гулли - Agentic Design Patterns: Практическое руководство по созданию интеллектуальных систем",
+    "url": "https://github.com/pridees/agentic-design-patterns-book-rus",
+    "stars": 333,
     "daily_stars": 2,
-    "language": "Go",
-    "topics": [],
-    "created_at": "2025-09-16T19:45:03",
-    "updated_at": "2025-09-29T06:26:18"
-  },
-  {
-    "name": "TagiFLY",
-    "full_name": "dvtlab/TagiFLY",
-    "description": "Labeling Tool for Computer Vision",
-    "url": "https://github.com/dvtlab/TagiFLY",
-    "stars": 5,
-    "daily_stars": 2,
-    "language": "JavaScript",
+    "language": null,
     "topics": [
-      "coco-dataset",
-      "computer-vision",
-      "cross-platform",
-      "dataset-preparation",
-      "image-annotation",
-      "labeling-tool",
-      "machine-learning",
-      "object-detection",
-      "yolo"
-    ],
-    "created_at": "2025-09-25T07:44:01",
-    "updated_at": "2025-09-29T06:27:37"
-  },
-  {
-    "name": "whatsapp-remote",
-    "full_name": "n0d3-plus/whatsapp-remote",
-    "description": "WhatsApp web remote workflow and send to n8n webhook",
-    "url": "https://github.com/n0d3-plus/whatsapp-remote",
-    "stars": 3,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "automation",
-      "n8n",
-      "nodejs",
-      "puppeteer",
-      "whatsapp",
-      "whatsapp-bot",
-      "whatsapp-web",
-      "workflow"
-    ],
-    "created_at": "2025-09-18T06:39:26",
-    "updated_at": "2025-09-29T07:08:35"
-  },
-  {
-    "name": "claudepro-directory",
-    "full_name": "JSONbored/claudepro-directory",
-    "description": "🎯 Curated directory of Claude prompts, MCP servers & tools for developers. Open to community contributions!",
-    "url": "https://github.com/JSONbored/claudepro-directory",
-    "stars": 23,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai-directory",
-      "ai-tools",
-      "anthropic",
-      "artificial-intelligence",
-      "awesome-list",
-      "base",
-      "build-in-public",
-      "claude",
-      "claude-ai",
-      "claude-api",
-      "claude-code",
-      "claude-desktop",
-      "claude-prompts",
-      "developer-tools",
-      "llm",
-      "mcp-servers",
-      "open-source",
+      "adk",
+      "agentic-ai-development",
+      "ai",
+      "ai-agents",
+      "langchain",
+      "langgraph",
       "prompt-engineering",
-      "prompts",
-      "walletconnect"
+      "python"
     ],
-    "created_at": "2025-09-15T04:40:32",
-    "updated_at": "2025-09-29T06:15:08"
+    "created_at": "2025-09-04T06:37:27",
+    "updated_at": "2025-09-29T12:30:59"
   },
   {
-    "name": "Disciplined-AI-Software-Development",
-    "full_name": "Varietyz/Disciplined-AI-Software-Development",
-    "description": "This methodology provides a structured approach for collaborating with AI systems on software development projects. It addresses common issues like code bloat, architectural drift, and context dilution through systematic constraints and validation checkpoints.",
-    "url": "https://github.com/Varietyz/Disciplined-AI-Software-Development",
-    "stars": 337,
-    "daily_stars": 1,
+    "name": "Ling-V2",
+    "full_name": "inclusionAI/Ling-V2",
+    "description": "Ling-V2 is a MoE LLM provided and open-sourced by InclusionAI.",
+    "url": "https://github.com/inclusionAI/Ling-V2",
+    "stars": 83,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
-      "ai",
-      "ai-agents",
-      "ai-collaboration",
-      "best-practices",
-      "collaborate",
-      "collaboration",
-      "collaborative",
-      "context",
-      "documentation",
-      "dry",
-      "educational",
-      "kiss",
-      "llms",
-      "methodology",
-      "methodology-development",
-      "prompt-engineering",
-      "software-architecture",
-      "software-development",
-      "software-engineering",
-      "workflow"
+      "llm",
+      "machine-learning",
+      "moe",
+      "pretraining",
+      "rl"
     ],
-    "created_at": "2025-09-04T13:53:02",
-    "updated_at": "2025-09-29T07:19:52"
+    "created_at": "2025-09-04T06:54:36",
+    "updated_at": "2025-09-29T12:14:01"
   },
   {
-    "name": "xerus",
-    "full_name": "Xerus-ai/xerus",
-    "description": "Xerus is a platform for creating and running custom AI agents as digital teammates.",
-    "url": "https://github.com/Xerus-ai/xerus",
+    "name": "mca-method",
+    "full_name": "chiarorosa/mca-method",
+    "description": "MCA Method (Mentor, Copilot, Agent) - Pedagogical framework to transform LLMs into effective educational mentors for programming learning through structured guidelines.",
+    "url": "https://github.com/chiarorosa/mca-method",
     "stars": 3,
     "daily_stars": 1,
-    "language": "JavaScript",
+    "language": null,
+    "topics": [],
+    "created_at": "2025-09-27T18:20:40",
+    "updated_at": "2025-09-29T12:24:28"
+  },
+  {
+    "name": "agentic-rag",
+    "full_name": "FareedKhan-dev/agentic-rag",
+    "description": "Agentic RAG to achieve human like reasoning",
+    "url": "https://github.com/FareedKhan-dev/agentic-rag",
+    "stars": 81,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
     "topics": [
-      "agent-based",
-      "ai",
+      "agentic-rag",
       "ai-agents",
-      "mcp"
+      "llm",
+      "openai",
+      "rag"
     ],
-    "created_at": "2025-09-28T11:26:42",
-    "updated_at": "2025-09-29T08:01:41"
+    "created_at": "2025-09-16T14:20:47",
+    "updated_at": "2025-09-29T12:06:13"
+  },
+  {
+    "name": "AlgoStockGPT-AI",
+    "full_name": "vimal0156/AlgoStockGPT-AI",
+    "description": "🤖 Your personal AI financial analyst - Advanced stock analysis with GPT-4 | Real-time market insights | Professional trading interface",
+    "url": "https://github.com/vimal0156/AlgoStockGPT-AI",
+    "stars": 7,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "algorithmic-trading",
+      "data-analysis",
+      "finance",
+      "financial-analysis",
+      "fintech",
+      "forex",
+      "gemini",
+      "gpt5",
+      "investment",
+      "machine-learning",
+      "openai",
+      "portfolio",
+      "python",
+      "quant",
+      "quantitative-finance",
+      "react",
+      "stock-market"
+    ],
+    "created_at": "2025-09-21T19:42:47",
+    "updated_at": "2025-09-29T09:47:17"
   }
 ]
