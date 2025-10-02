@@ -4,8 +4,8 @@
     "full_name": "oxylabs/ai-crawler-py",
     "description": "Crawl a website starting from a URL, find relevant pages, and extract data – all guided by your natural language prompt.",
     "url": "https://github.com/oxylabs/ai-crawler-py",
-    "stars": 122,
-    "daily_stars": 6,
+    "stars": 125,
+    "daily_stars": 3,
     "language": null,
     "topics": [
       "ai",
@@ -18,27 +18,81 @@
       "web-crawler"
     ],
     "created_at": "2025-09-17T16:24:04",
-    "updated_at": "2025-10-02T16:40:26"
+    "updated_at": "2025-10-02T20:10:30"
   },
   {
     "name": "dreamer4",
     "full_name": "lucidrains/dreamer4",
     "description": "Implementation of Danijar's latest iteration for his Dreamer line of work, the new SOTA for model-based RL",
     "url": "https://github.com/lucidrains/dreamer4",
-    "stars": 24,
-    "daily_stars": 5,
+    "stars": 26,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [],
     "created_at": "2025-09-30T12:58:16",
-    "updated_at": "2025-10-02T16:43:34"
+    "updated_at": "2025-10-02T19:43:21"
+  },
+  {
+    "name": "upage",
+    "full_name": "halo-dev/upage",
+    "description": "🔥 一款基于大模型的可视化网页构建平台，Lovable 开源替代。",
+    "url": "https://github.com/halo-dev/upage",
+    "stars": 94,
+    "daily_stars": 2,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "deepseek",
+      "llm",
+      "visual-editor"
+    ],
+    "created_at": "2025-09-24T04:59:12",
+    "updated_at": "2025-10-02T18:19:41"
+  },
+  {
+    "name": "Agenticle",
+    "full_name": "A03HCY/Agenticle",
+    "description": "A lightweight, extensible Python framework for building and orchestrating single or multi-agent AI systems. | 一个轻量、可扩展的 Python 框架，用于构建和编排单智能体或多智能体 AI 系统。",
+    "url": "https://github.com/A03HCY/Agenticle",
+    "stars": 34,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "agent-framework",
+      "ai-agents",
+      "mutil-agent",
+      "python"
+    ],
+    "created_at": "2025-09-22T04:48:51",
+    "updated_at": "2025-10-02T20:33:57"
+  },
+  {
+    "name": "apm",
+    "full_name": "danielmeppiel/apm",
+    "description": "Agent Package Manager",
+    "url": "https://github.com/danielmeppiel/apm",
+    "stars": 11,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai-agent-framework",
+      "ai-agents",
+      "codex-cli",
+      "context-engineering",
+      "prompt-engineering",
+      "workflow-automation"
+    ],
+    "created_at": "2025-09-18T13:45:22",
+    "updated_at": "2025-10-02T18:12:55"
   },
   {
     "name": "blades",
     "full_name": "go-kratos/blades",
     "description": "Blades is a Go-based multimodal AI Agent framework.",
     "url": "https://github.com/go-kratos/blades",
-    "stars": 474,
-    "daily_stars": 5,
+    "stars": 476,
+    "daily_stars": 2,
     "language": "Go",
     "topics": [
       "agent",
@@ -49,62 +103,15 @@
       "workflow"
     ],
     "created_at": "2025-09-15T16:43:22",
-    "updated_at": "2025-10-02T15:34:23"
-  },
-  {
-    "name": "Cataract-LMM",
-    "full_name": "MJAHMADEE/Cataract-LMM",
-    "description": "Advanced computer vision framework for surgical video analysis, featuring multi-task learning for cataract surgery procedure understanding, instrument segmentation, and skill assessment.",
-    "url": "https://github.com/MJAHMADEE/Cataract-LMM",
-    "stars": 6,
-    "daily_stars": 4,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "ai-research",
-      "cataract-surgery",
-      "computer-vision",
-      "deep-learning",
-      "healthcare",
-      "instance-segmentation",
-      "machine-learning",
-      "medical-ai",
-      "medical-imaging",
-      "phase-recognition",
-      "pytorch",
-      "skill-assessment",
-      "surgical-analysis",
-      "surgical-robotics",
-      "video-analysis",
-      "video-processing"
-    ],
-    "created_at": "2025-09-09T09:53:22",
-    "updated_at": "2025-10-02T16:15:28"
-  },
-  {
-    "name": "upage",
-    "full_name": "halo-dev/upage",
-    "description": "🔥 一款基于大模型的可视化网页构建平台，Lovable 开源替代。",
-    "url": "https://github.com/halo-dev/upage",
-    "stars": 92,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "deepseek",
-      "llm",
-      "visual-editor"
-    ],
-    "created_at": "2025-09-24T04:59:12",
-    "updated_at": "2025-10-02T16:04:44"
+    "updated_at": "2025-10-02T19:59:32"
   },
   {
     "name": "fuzzforge_ai",
     "full_name": "FuzzingLabs/fuzzforge_ai",
     "description": "AI-powered workflow automation and AI Agents platform for AppSec, Fuzzing & Offensive Security. Automate vulnerability discovery with intelligent fuzzing, AI-driven analysis, and a marketplace of security tools.",
     "url": "https://github.com/FuzzingLabs/fuzzforge_ai",
-    "stars": 151,
-    "daily_stars": 3,
+    "stars": 153,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "agent",
@@ -122,82 +129,51 @@
       "workflow"
     ],
     "created_at": "2025-09-15T10:04:25",
-    "updated_at": "2025-10-02T16:43:29"
-  },
-  {
-    "name": "all-agentic-architectures",
-    "full_name": "FareedKhan-dev/all-agentic-architectures",
-    "description": "Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.",
-    "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
-    "stars": 159,
-    "daily_stars": 2,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "langchain",
-      "langgraph",
-      "langsmith",
-      "llm"
-    ],
-    "created_at": "2025-09-24T11:47:58",
-    "updated_at": "2025-10-02T16:36:08"
+    "updated_at": "2025-10-02T19:15:15"
   },
   {
     "name": "pgmcp",
     "full_name": "subnetmarco/pgmcp",
     "description": "An MCP server to query any Postgres database in natural language.",
     "url": "https://github.com/subnetmarco/pgmcp",
-    "stars": 474,
+    "stars": 475,
     "daily_stars": 1,
     "language": "Go",
     "topics": [],
     "created_at": "2025-09-16T19:45:03",
-    "updated_at": "2025-10-02T13:31:31"
+    "updated_at": "2025-10-02T18:18:21"
   },
   {
-    "name": "locoformer",
-    "full_name": "lucidrains/locoformer",
-    "description": "LocoFormer - Generalist Locomotion via Long-Context Adaptation",
-    "url": "https://github.com/lucidrains/locoformer",
-    "stars": 52,
+    "name": "law_rag_system",
+    "full_name": "notch776/law_rag_system",
+    "description": "A corporate law RAG system with innovative retrieval and contextual strategies",
+    "url": "https://github.com/notch776/law_rag_system",
+    "stars": 15,
     "daily_stars": 1,
     "language": "Python",
     "topics": [],
-    "created_at": "2025-09-25T13:02:18",
-    "updated_at": "2025-10-02T13:44:46"
+    "created_at": "2025-09-28T15:32:07",
+    "updated_at": "2025-10-02T19:41:03"
   },
   {
-    "name": "claudepro-directory",
-    "full_name": "JSONbored/claudepro-directory",
-    "description": "🎯 Curated directory of Claude prompts, MCP servers & tools for developers. Open to community contributions!",
-    "url": "https://github.com/JSONbored/claudepro-directory",
-    "stars": 36,
+    "name": "agentic-design-patterns-book-rus",
+    "full_name": "pridees/agentic-design-patterns-book-rus",
+    "description": "📖 Перевод книги Антонио Гулли - Agentic Design Patterns: Практическое руководство по созданию интеллектуальных систем",
+    "url": "https://github.com/pridees/agentic-design-patterns-book-rus",
+    "stars": 358,
     "daily_stars": 1,
-    "language": "TypeScript",
+    "language": null,
     "topics": [
-      "ai-directory",
-      "ai-tools",
-      "anthropic",
-      "artificial-intelligence",
-      "awesome-list",
-      "base",
-      "build-in-public",
-      "claude",
-      "claude-ai",
-      "claude-api",
-      "claude-code",
-      "claude-desktop",
-      "claude-prompts",
-      "developer-tools",
-      "llm",
-      "mcp-servers",
-      "open-source",
+      "adk",
+      "agentic-ai-development",
+      "ai",
+      "ai-agents",
+      "langchain",
+      "langgraph",
       "prompt-engineering",
-      "prompts",
-      "walletconnect"
+      "python"
     ],
-    "created_at": "2025-09-15T04:40:32",
-    "updated_at": "2025-10-02T15:49:52"
+    "created_at": "2025-09-04T06:37:27",
+    "updated_at": "2025-10-02T19:23:52"
   }
 ]
