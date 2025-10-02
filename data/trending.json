@@ -1,138 +1,32 @@
 [
   {
-    "name": "upage",
-    "full_name": "halo-dev/upage",
-    "description": "🔥 一款基于大模型的可视化网页构建平台，Lovable 开源替代。",
-    "url": "https://github.com/halo-dev/upage",
-    "stars": 82,
+    "name": "ai-crawler-py",
+    "full_name": "oxylabs/ai-crawler-py",
+    "description": "Crawl a website starting from a URL, find relevant pages, and extract data – all guided by your natural language prompt.",
+    "url": "https://github.com/oxylabs/ai-crawler-py",
+    "stars": 114,
     "daily_stars": 4,
-    "language": "TypeScript",
+    "language": null,
     "topics": [
       "ai",
       "ai-agents",
-      "deepseek",
-      "llm",
-      "visual-editor"
+      "ai-crawler",
+      "ai-scraping",
+      "ai-studio",
+      "ai-web-crawler",
+      "crawl-agent",
+      "web-crawler"
     ],
-    "created_at": "2025-09-24T04:59:12",
-    "updated_at": "2025-10-02T04:22:23"
-  },
-  {
-    "name": "blades",
-    "full_name": "go-kratos/blades",
-    "description": "Blades is a Go-based multimodal AI Agent framework.",
-    "url": "https://github.com/go-kratos/blades",
-    "stars": 465,
-    "daily_stars": 2,
-    "language": "Go",
-    "topics": [
-      "agent",
-      "agentic-framework",
-      "agentic-workflow",
-      "ai",
-      "golang",
-      "workflow"
-    ],
-    "created_at": "2025-09-15T16:43:22",
-    "updated_at": "2025-10-02T03:53:19"
-  },
-  {
-    "name": "locoformer",
-    "full_name": "lucidrains/locoformer",
-    "description": "LocoFormer - Generalist Locomotion via Long-Context Adaptation",
-    "url": "https://github.com/lucidrains/locoformer",
-    "stars": 51,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-09-25T13:02:18",
-    "updated_at": "2025-10-02T02:34:23"
-  },
-  {
-    "name": "law_rag_system",
-    "full_name": "notch776/law_rag_system",
-    "description": "A corporate law RAG system with innovative retrieval and contextual strategies",
-    "url": "https://github.com/notch776/law_rag_system",
-    "stars": 12,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-09-28T15:32:07",
-    "updated_at": "2025-10-02T02:53:10"
-  },
-  {
-    "name": "all-agentic-architectures",
-    "full_name": "FareedKhan-dev/all-agentic-architectures",
-    "description": "Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.",
-    "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
-    "stars": 156,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "langchain",
-      "langgraph",
-      "langsmith",
-      "llm"
-    ],
-    "created_at": "2025-09-24T11:47:58",
-    "updated_at": "2025-10-02T03:48:51"
-  },
-  {
-    "name": "agentic-rag",
-    "full_name": "FareedKhan-dev/agentic-rag",
-    "description": "Agentic RAG to achieve human like reasoning",
-    "url": "https://github.com/FareedKhan-dev/agentic-rag",
-    "stars": 82,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "agentic-rag",
-      "ai-agents",
-      "llm",
-      "openai",
-      "rag"
-    ],
-    "created_at": "2025-09-16T14:20:47",
-    "updated_at": "2025-10-02T04:12:51"
-  },
-  {
-    "name": "Agenticle",
-    "full_name": "A03HCY/Agenticle",
-    "description": "A lightweight, extensible Python framework for building and orchestrating single or multi-agent AI systems. | 一个轻量、可扩展的 Python 框架，用于构建和编排单智能体或多智能体 AI 系统。",
-    "url": "https://github.com/A03HCY/Agenticle",
-    "stars": 27,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "agent-framework",
-      "ai-agents",
-      "mutil-agent",
-      "python"
-    ],
-    "created_at": "2025-09-22T04:48:51",
-    "updated_at": "2025-10-02T03:36:25"
-  },
-  {
-    "name": "Image-Captioning-CNN-LSTM",
-    "full_name": "AmirhoseinHonardoust/Image-Captioning-CNN-LSTM",
-    "description": "An end-to-end image captioning project using a CNN encoder (ResNet-50) and LSTM decoder in PyTorch. Includes vocabulary building, preprocessing, training with BLEU evaluation, and inference. Generates natural language captions for images with saved metrics, model checkpoints, and visualization outputs.",
-    "url": "https://github.com/AmirhoseinHonardoust/Image-Captioning-CNN-LSTM",
-    "stars": 13,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-09-13T22:39:28",
-    "updated_at": "2025-10-02T03:37:55"
+    "created_at": "2025-09-17T16:24:04",
+    "updated_at": "2025-10-02T06:46:22"
   },
   {
     "name": "fuzzforge_ai",
     "full_name": "FuzzingLabs/fuzzforge_ai",
     "description": "AI-powered workflow automation and AI Agents platform for AppSec, Fuzzing & Offensive Security. Automate vulnerability discovery with intelligent fuzzing, AI-driven analysis, and a marketplace of security tools.",
     "url": "https://github.com/FuzzingLabs/fuzzforge_ai",
-    "stars": 137,
-    "daily_stars": 1,
+    "stars": 141,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "agent",
@@ -150,18 +44,146 @@
       "workflow"
     ],
     "created_at": "2025-09-15T10:04:25",
-    "updated_at": "2025-10-02T02:10:03"
+    "updated_at": "2025-10-02T06:09:03"
   },
   {
-    "name": "pgmcp",
-    "full_name": "subnetmarco/pgmcp",
-    "description": "An MCP server to query any Postgres database in natural language.",
-    "url": "https://github.com/subnetmarco/pgmcp",
-    "stars": 473,
-    "daily_stars": 0,
+    "name": "Agenticle",
+    "full_name": "A03HCY/Agenticle",
+    "description": "A lightweight, extensible Python framework for building and orchestrating single or multi-agent AI systems. | 一个轻量、可扩展的 Python 框架，用于构建和编排单智能体或多智能体 AI 系统。",
+    "url": "https://github.com/A03HCY/Agenticle",
+    "stars": 30,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "agent-framework",
+      "ai-agents",
+      "mutil-agent",
+      "python"
+    ],
+    "created_at": "2025-09-22T04:48:51",
+    "updated_at": "2025-10-02T06:27:36"
+  },
+  {
+    "name": "blades",
+    "full_name": "go-kratos/blades",
+    "description": "Blades is a Go-based multimodal AI Agent framework.",
+    "url": "https://github.com/go-kratos/blades",
+    "stars": 468,
+    "daily_stars": 3,
     "language": "Go",
+    "topics": [
+      "agent",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "golang",
+      "workflow"
+    ],
+    "created_at": "2025-09-15T16:43:22",
+    "updated_at": "2025-10-02T06:48:13"
+  },
+  {
+    "name": "agentic-design-patterns-book-rus",
+    "full_name": "pridees/agentic-design-patterns-book-rus",
+    "description": "📖 Перевод книги Антонио Гулли - Agentic Design Patterns: Практическое руководство по созданию интеллектуальных систем",
+    "url": "https://github.com/pridees/agentic-design-patterns-book-rus",
+    "stars": 355,
+    "daily_stars": 2,
+    "language": null,
+    "topics": [
+      "adk",
+      "agentic-ai-development",
+      "ai",
+      "ai-agents",
+      "langchain",
+      "langgraph",
+      "prompt-engineering",
+      "python"
+    ],
+    "created_at": "2025-09-04T06:37:27",
+    "updated_at": "2025-10-02T06:41:23"
+  },
+  {
+    "name": "law_rag_system",
+    "full_name": "notch776/law_rag_system",
+    "description": "A corporate law RAG system with innovative retrieval and contextual strategies",
+    "url": "https://github.com/notch776/law_rag_system",
+    "stars": 13,
+    "daily_stars": 1,
+    "language": "Python",
     "topics": [],
-    "created_at": "2025-09-16T19:45:03",
-    "updated_at": "2025-10-01T13:25:32"
+    "created_at": "2025-09-28T15:32:07",
+    "updated_at": "2025-10-02T08:29:02"
+  },
+  {
+    "name": "Ruaroa-AI",
+    "full_name": "vimal0156/Ruaroa-AI",
+    "description": "🧙‍♂️ Zero-Code Machine Learning Wizard - Transform ideas into intelligent solutions without writing code. AI-powered ML pipeline automation with interactive web interface.",
+    "url": "https://github.com/vimal0156/Ruaroa-AI",
+    "stars": 9,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-09-30T14:05:08",
+    "updated_at": "2025-10-02T06:52:47"
+  },
+  {
+    "name": "all-agentic-architectures",
+    "full_name": "FareedKhan-dev/all-agentic-architectures",
+    "description": "Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.",
+    "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
+    "stars": 157,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "langchain",
+      "langgraph",
+      "langsmith",
+      "llm"
+    ],
+    "created_at": "2025-09-24T11:47:58",
+    "updated_at": "2025-10-02T08:03:51"
+  },
+  {
+    "name": "infera",
+    "full_name": "CogitatorTech/infera",
+    "description": "A DuckDB extension for in-database inference",
+    "url": "https://github.com/CogitatorTech/infera",
+    "stars": 7,
+    "daily_stars": 1,
+    "language": "Rust",
+    "topics": [
+      "duckdb",
+      "duckdb-extension",
+      "inference",
+      "machine-learning",
+      "onnx",
+      "rust"
+    ],
+    "created_at": "2025-09-26T07:04:17",
+    "updated_at": "2025-10-02T05:02:01"
+  },
+  {
+    "name": "Lstm-sentiment-analysis",
+    "full_name": "code-alchemist01/Lstm-sentiment-analysis",
+    "description": "LSTM-based sentiment analysis with Streamlit web interface. Real-time text sentiment prediction using PyTorch deep learning model trained on IMDB dataset. Achieves 86.14% accuracy with modern UI and batch processing capabilities.",
+    "url": "https://github.com/code-alchemist01/Lstm-sentiment-analysis",
+    "stars": 5,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "deep-learning",
+      "lstm",
+      "machine-learning",
+      "nlp",
+      "pytorch",
+      "sentiment-analysis",
+      "streamlit",
+      "text-classification"
+    ],
+    "created_at": "2025-09-30T23:51:12",
+    "updated_at": "2025-10-02T08:19:42"
   }
 ]
