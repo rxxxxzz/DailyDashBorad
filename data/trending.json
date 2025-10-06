@@ -1,22 +1,31 @@
 [
   {
-    "name": "volant",
-    "full_name": "volantvm/volant",
-    "description": "Modular orchestration engine for microvms",
-    "url": "https://github.com/volantvm/volant",
-    "stars": 8,
-    "daily_stars": 4,
-    "language": "Go",
-    "topics": [],
-    "created_at": "2025-10-02T23:06:23",
-    "updated_at": "2025-10-06T07:58:34"
+    "name": "ai-crawler-py",
+    "full_name": "oxylabs/ai-crawler-py",
+    "description": "Crawl a website starting from a URL, find relevant pages, and extract data – all guided by your natural language prompt.",
+    "url": "https://github.com/oxylabs/ai-crawler-py",
+    "stars": 161,
+    "daily_stars": 3,
+    "language": null,
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-crawler",
+      "ai-scraping",
+      "ai-studio",
+      "ai-web-crawler",
+      "crawl-agent",
+      "web-crawler"
+    ],
+    "created_at": "2025-09-17T16:24:04",
+    "updated_at": "2025-10-06T12:46:28"
   },
   {
     "name": "upage",
     "full_name": "halo-dev/upage",
     "description": "🔥 一款基于大模型的可视化网页构建平台，Lovable 开源替代。",
     "url": "https://github.com/halo-dev/upage",
-    "stars": 129,
+    "stars": 131,
     "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
@@ -27,15 +36,50 @@
       "visual-editor"
     ],
     "created_at": "2025-09-24T04:59:12",
-    "updated_at": "2025-10-06T07:34:19"
+    "updated_at": "2025-10-06T09:46:14"
+  },
+  {
+    "name": "CLOV",
+    "full_name": "Aihy/CLOV",
+    "description": "Valuation of tokens corresponding to influential individuals on social platforms through AI algorithms",
+    "url": "https://github.com/Aihy/CLOV",
+    "stars": 230,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "chatbot"
+    ],
+    "created_at": "2025-09-17T08:06:46",
+    "updated_at": "2025-10-06T12:02:05"
+  },
+  {
+    "name": "all-agentic-architectures",
+    "full_name": "FareedKhan-dev/all-agentic-architectures",
+    "description": "Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.",
+    "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
+    "stars": 186,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "langchain",
+      "langgraph",
+      "langsmith",
+      "llm"
+    ],
+    "created_at": "2025-09-24T11:47:58",
+    "updated_at": "2025-10-06T09:59:22"
   },
   {
     "name": "Agenticle",
     "full_name": "A03HCY/Agenticle",
     "description": "A lightweight, extensible Python framework for building and orchestrating single or multi-agent AI systems. | 一个轻量、可扩展的 Python 框架，用于构建和编排单智能体或多智能体 AI 系统。",
     "url": "https://github.com/A03HCY/Agenticle",
-    "stars": 66,
-    "daily_stars": 2,
+    "stars": 67,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "agent-framework",
@@ -44,124 +88,84 @@
       "python"
     ],
     "created_at": "2025-09-22T04:48:51",
-    "updated_at": "2025-10-06T05:31:48"
+    "updated_at": "2025-10-06T12:33:24"
   },
   {
-    "name": "BubbleLab",
-    "full_name": "bubblelabai/BubbleLab",
-    "description": "Apache 2.0 workflow automation platform built for developers - full observability and code exportability!",
-    "url": "https://github.com/bubblelabai/BubbleLab",
-    "stars": 30,
-    "daily_stars": 2,
-    "language": "TypeScript",
+    "name": "codecompanion-spinners.nvim",
+    "full_name": "lalitmee/codecompanion-spinners.nvim",
+    "description": "Beautiful, configurable status spinners for codecompanion.nvim",
+    "url": "https://github.com/lalitmee/codecompanion-spinners.nvim",
+    "stars": 13,
+    "daily_stars": 1,
+    "language": "Lua",
     "topics": [
       "ai",
       "ai-agents",
-      "apis",
-      "cli",
-      "code",
-      "developer-tool",
-      "development",
-      "integrations",
-      "open-source",
-      "workflow",
+      "codecompanion",
+      "loaders",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "spinners",
+      "vibe-coding"
+    ],
+    "created_at": "2025-09-11T20:53:09",
+    "updated_at": "2025-10-06T11:01:35"
+  },
+  {
+    "name": "N8N-AI-Agents-Masterclass",
+    "full_name": "ChinmayKaitade/N8N-AI-Agents-Masterclass",
+    "description": "Learn n8n workflow automation with AI Agents 🤖 | Step-by-step guide to build no-code workflows, automate tasks, and create intelligent pipelines 🚀 | Integrate OpenAI, Hugging Face, LLMs, and external APIs 🌐 | Master chatbots, data automation, and smart workflows using n8n. 🧠",
+    "url": "https://github.com/ChinmayKaitade/N8N-AI-Agents-Masterclass",
+    "stars": 11,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "ai-workflows",
+      "api-integration",
+      "automation",
+      "chatbots",
+      "data-automation",
+      "huggingface",
+      "intelligent-automation",
+      "llm",
+      "low-code",
+      "machine-learning",
+      "n8n",
+      "n8n-workflow",
+      "no-code",
+      "openai",
       "workflow-automation"
     ],
-    "created_at": "2025-10-02T22:59:25",
-    "updated_at": "2025-10-06T06:17:51"
+    "created_at": "2025-09-07T01:58:19",
+    "updated_at": "2025-10-06T12:53:32"
   },
   {
-    "name": "fuzzforge_ai",
-    "full_name": "FuzzingLabs/fuzzforge_ai",
-    "description": "AI-powered workflow automation and AI Agents platform for AppSec, Fuzzing & Offensive Security. Automate vulnerability discovery with intelligent fuzzing, AI-driven analysis, and a marketplace of security tools.",
-    "url": "https://github.com/FuzzingLabs/fuzzforge_ai",
-    "stars": 189,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "ai",
-      "appsec",
-      "automation",
-      "dast",
-      "devsecops",
-      "fuzzing",
-      "offensive-security",
-      "sast",
-      "security",
-      "security-tools",
-      "vulnerabilities",
-      "workflow"
-    ],
-    "created_at": "2025-09-15T10:04:25",
-    "updated_at": "2025-10-06T06:56:21"
-  },
-  {
-    "name": "dreamer4",
-    "full_name": "lucidrains/dreamer4",
-    "description": "Implementation of Danijar's latest iteration for his Dreamer line of work, the new SOTA for model-based RL",
-    "url": "https://github.com/lucidrains/dreamer4",
-    "stars": 47,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-09-30T12:58:16",
-    "updated_at": "2025-10-06T05:02:26"
-  },
-  {
-    "name": "law_rag_system",
-    "full_name": "notch776/law_rag_system",
-    "description": "A corporate law RAG system with innovative retrieval and contextual strategies",
-    "url": "https://github.com/notch776/law_rag_system",
-    "stars": 30,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-09-28T15:32:07",
-    "updated_at": "2025-10-06T07:41:12"
-  },
-  {
-    "name": "agentic-rag",
-    "full_name": "FareedKhan-dev/agentic-rag",
-    "description": "Agentic RAG to achieve human like reasoning",
-    "url": "https://github.com/FareedKhan-dev/agentic-rag",
-    "stars": 87,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "agentic-rag",
-      "ai-agents",
-      "llm",
-      "openai",
-      "rag"
-    ],
-    "created_at": "2025-09-16T14:20:47",
-    "updated_at": "2025-10-06T06:01:11"
-  },
-  {
-    "name": "ai-hedge-fund",
-    "full_name": "sharonuigbx/ai-hedge-fund",
-    "description": "This project provides a Graphical User Interface (GUI) for the AI hedge fund analysis software originally developed by virattt. It aims to simplify interaction with the powerful underlying AI-driven financial analysis tools.",
-    "url": "https://github.com/sharonuigbx/ai-hedge-fund",
-    "stars": 8,
+    "name": "copilot-agents-guard",
+    "full_name": "matank001/copilot-agents-guard",
+    "description": "LLM-as-a-Judge security layer for Microsoft Copilot Studio agents",
+    "url": "https://github.com/matank001/copilot-agents-guard",
+    "stars": 6,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai-agents",
-      "finance",
-      "hedge-funds",
-      "trading",
-      "trading-algorithms"
+      "aisec",
+      "copilotstudio",
+      "guardrails",
+      "microsoft"
     ],
-    "created_at": "2025-09-16T22:28:07",
-    "updated_at": "2025-10-06T05:19:42"
+    "created_at": "2025-09-25T18:51:51",
+    "updated_at": "2025-10-06T08:56:49"
   },
   {
     "name": "aport-integrations",
     "full_name": "aporthq/aport-integrations",
     "description": "🛡️ Community-built integrations, SDKs, and tools for APort - the neutral trust rail for AI agents. Join Hacktoberfest 2025!",
     "url": "https://github.com/aporthq/aport-integrations",
-    "stars": 5,
+    "stars": 6,
     "daily_stars": 1,
     "language": "JavaScript",
     "topics": [
@@ -187,6 +191,25 @@
       "stripe"
     ],
     "created_at": "2025-10-01T20:52:17",
-    "updated_at": "2025-10-06T08:29:35"
+    "updated_at": "2025-10-06T10:47:37"
+  },
+  {
+    "name": "langchain-go-vs-python",
+    "full_name": "FareedKhan-dev/langchain-go-vs-python",
+    "description": "Benchmarking RAG and agentic systems in Go vs Python",
+    "url": "https://github.com/FareedKhan-dev/langchain-go-vs-python",
+    "stars": 4,
+    "daily_stars": 1,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "go",
+      "langchain",
+      "python",
+      "rag"
+    ],
+    "created_at": "2025-10-02T03:14:08",
+    "updated_at": "2025-10-06T12:05:48"
   }
 ]
