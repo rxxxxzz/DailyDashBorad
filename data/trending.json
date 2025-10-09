@@ -1,101 +1,32 @@
 [
   {
-    "name": "tiny-recursive-model",
-    "full_name": "lucidrains/tiny-recursive-model",
-    "description": "Implementation of Tiny Recursive Model (TRM), improvement to HRM from Sapient AI, by Alexia Jolicoeur-Martineau",
-    "url": "https://github.com/lucidrains/tiny-recursive-model",
-    "stars": 40,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-10-07T18:19:09",
-    "updated_at": "2025-10-09T13:03:54"
-  },
-  {
-    "name": "ComfyUI-DeepExtractV2",
-    "full_name": "abdozmantar/ComfyUI-DeepExtractV2",
-    "description": "DeepExtractV2 – lightning-fast, high-quality audio separator. Instantly isolate vocals, drums, bass, and more from any track. Ideal for creators, DJs, and audio pros.",
-    "url": "https://github.com/abdozmantar/ComfyUI-DeepExtractV2",
-    "stars": 15,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-10-07T08:18:27",
-    "updated_at": "2025-10-09T12:01:55"
-  },
-  {
-    "name": "upage",
-    "full_name": "halo-dev/upage",
-    "description": "🔥 一款基于大模型的可视化网页构建平台，Lovable 开源替代。",
-    "url": "https://github.com/halo-dev/upage",
-    "stars": 153,
-    "daily_stars": 2,
-    "language": "TypeScript",
+    "name": "ai-crawler-py",
+    "full_name": "oxylabs/ai-crawler-py",
+    "description": "Crawl a website starting from a URL, find relevant pages, and extract data – all guided by your natural language prompt.",
+    "url": "https://github.com/oxylabs/ai-crawler-py",
+    "stars": 206,
+    "daily_stars": 10,
+    "language": null,
     "topics": [
       "ai",
       "ai-agents",
-      "deepseek",
-      "llm",
-      "visual-editor"
+      "ai-crawler",
+      "ai-scraping",
+      "ai-studio",
+      "ai-web-crawler",
+      "crawl-agent",
+      "web-crawler"
     ],
-    "created_at": "2025-09-24T04:59:12",
-    "updated_at": "2025-10-09T12:35:33"
-  },
-  {
-    "name": "ai-hedge-fund",
-    "full_name": "sharonuigbx/ai-hedge-fund",
-    "description": "This project provides a Graphical User Interface (GUI) for the AI hedge fund analysis software originally developed by virattt. It aims to simplify interaction with the powerful underlying AI-driven financial analysis tools.",
-    "url": "https://github.com/sharonuigbx/ai-hedge-fund",
-    "stars": 54,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "finance",
-      "hedge-funds",
-      "trading",
-      "trading-algorithms"
-    ],
-    "created_at": "2025-09-16T22:28:07",
-    "updated_at": "2025-10-09T11:03:31"
-  },
-  {
-    "name": "paris",
-    "full_name": "bageldotcom/paris",
-    "description": "paris - world's first decentralized trained open-weight diffusion model",
-    "url": "https://github.com/bageldotcom/paris",
-    "stars": 40,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [],
-    "created_at": "2025-10-06T03:59:49",
-    "updated_at": "2025-10-09T12:28:22"
-  },
-  {
-    "name": "depth_dinov3",
-    "full_name": "Raessan/depth_dinov3",
-    "description": "Lightweight head for depth estimation using DINOv3 as backbone",
-    "url": "https://github.com/Raessan/depth_dinov3",
-    "stars": 5,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "computer-vision",
-      "deep-learning",
-      "depth-estimation",
-      "dinov3",
-      "pytorch"
-    ],
-    "created_at": "2025-09-12T17:59:28",
-    "updated_at": "2025-10-09T13:04:05"
+    "created_at": "2025-09-17T16:24:04",
+    "updated_at": "2025-10-09T16:40:35"
   },
   {
     "name": "fuzzforge_ai",
     "full_name": "FuzzingLabs/fuzzforge_ai",
     "description": "AI-powered workflow automation and AI Agents platform for AppSec, Fuzzing & Offensive Security. Automate vulnerability discovery with intelligent fuzzing, AI-driven analysis, and a marketplace of security tools.",
     "url": "https://github.com/FuzzingLabs/fuzzforge_ai",
-    "stars": 243,
-    "daily_stars": 2,
+    "stars": 246,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "agent",
@@ -113,54 +44,148 @@
       "workflow"
     ],
     "created_at": "2025-09-15T10:04:25",
-    "updated_at": "2025-10-09T12:30:43"
+    "updated_at": "2025-10-09T16:35:47"
   },
   {
-    "name": "dreamer4",
-    "full_name": "lucidrains/dreamer4",
-    "description": "Implementation of Danijar's latest iteration for his Dreamer line of work, the new SOTA for model-based RL",
-    "url": "https://github.com/lucidrains/dreamer4",
-    "stars": 59,
+    "name": "ai-hedge-fund",
+    "full_name": "sharonuigbx/ai-hedge-fund",
+    "description": "This project provides a Graphical User Interface (GUI) for the AI hedge fund analysis software originally developed by virattt. It aims to simplify interaction with the powerful underlying AI-driven financial analysis tools.",
+    "url": "https://github.com/sharonuigbx/ai-hedge-fund",
+    "stars": 56,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "finance",
+      "hedge-funds",
+      "trading",
+      "trading-algorithms"
+    ],
+    "created_at": "2025-09-16T22:28:07",
+    "updated_at": "2025-10-09T16:07:42"
+  },
+  {
+    "name": "hector",
+    "full_name": "kadirpekel/hector",
+    "description": "Pure A2A-Native Declarative AI Agent Platform",
+    "url": "https://github.com/kadirpekel/hector",
+    "stars": 19,
+    "daily_stars": 2,
+    "language": "Go",
+    "topics": [
+      "a2a-protocol",
+      "ai",
+      "ai-agent-tools",
+      "ai-agents",
+      "ai-agents-framework",
+      "declarative",
+      "golang"
+    ],
+    "created_at": "2025-09-17T11:03:12",
+    "updated_at": "2025-10-09T15:12:10"
+  },
+  {
+    "name": "Spec-Flow",
+    "full_name": "marcusgoll/Spec-Flow",
+    "description": "Turn product ideas into production launches with Spec-Driven Development. Repeatable Claude Code workflows with quality gates, token budgets, and auditable artifacts.",
+    "url": "https://github.com/marcusgoll/Spec-Flow",
+    "stars": 6,
+    "daily_stars": 2,
+    "language": "PowerShell",
+    "topics": [
+      "ai-agents",
+      "ai-assisted-development",
+      "ai-workflows",
+      "automation",
+      "bash",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "developer-tools",
+      "documentation",
+      "powershell",
+      "productivity",
+      "spec-driven-development",
+      "workflow",
+      "workflow-automation"
+    ],
+    "created_at": "2025-10-04T01:21:22",
+    "updated_at": "2025-10-09T15:51:36"
+  },
+  {
+    "name": "adk_training",
+    "full_name": "raphaelmansuy/adk_training",
+    "description": "Google ADK Training Hub / Google ADK Agents from first Principles",
+    "url": "https://github.com/raphaelmansuy/adk_training",
+    "stars": 3,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "adk-python",
+      "ai",
+      "ai-agents",
+      "google",
+      "training-materials"
+    ],
+    "created_at": "2025-10-08T11:23:33",
+    "updated_at": "2025-10-09T16:09:24"
+  },
+  {
+    "name": "tiny-recursive-model",
+    "full_name": "lucidrains/tiny-recursive-model",
+    "description": "Implementation of Tiny Recursive Model (TRM), improvement to HRM from Sapient AI, by Alexia Jolicoeur-Martineau",
+    "url": "https://github.com/lucidrains/tiny-recursive-model",
+    "stars": 41,
     "daily_stars": 1,
     "language": "Python",
     "topics": [],
-    "created_at": "2025-09-30T12:58:16",
-    "updated_at": "2025-10-09T12:05:57"
+    "created_at": "2025-10-07T18:19:09",
+    "updated_at": "2025-10-09T16:40:05"
   },
   {
-    "name": "claude-code-pytorch",
-    "full_name": "jxtngx/claude-code-pytorch",
-    "description": "A modular, multi-agent based system for PyTorch, Hugging Face, and AWS.",
-    "url": "https://github.com/jxtngx/claude-code-pytorch",
-    "stars": 19,
+    "name": "ComfyUI-DeepExtractV2",
+    "full_name": "abdozmantar/ComfyUI-DeepExtractV2",
+    "description": "DeepExtractV2 – lightning-fast, high-quality audio separator. Instantly isolate vocals, drums, bass, and more from any track. Ideal for creators, DJs, and audio pros.",
+    "url": "https://github.com/abdozmantar/ComfyUI-DeepExtractV2",
+    "stars": 16,
     "daily_stars": 1,
-    "language": "HTML",
-    "topics": [
-      "artificial-intelligence",
-      "claude-code",
-      "deep-learning",
-      "pytorch"
-    ],
-    "created_at": "2025-09-22T04:00:20",
-    "updated_at": "2025-10-09T10:19:15"
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-10-07T08:18:27",
+    "updated_at": "2025-10-09T14:16:45"
   },
   {
-    "name": "all-agentic-architectures",
-    "full_name": "FareedKhan-dev/all-agentic-architectures",
-    "description": "Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.",
-    "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
-    "stars": 198,
+    "name": "upage",
+    "full_name": "halo-dev/upage",
+    "description": "🔥 一款基于大模型的可视化网页构建平台，Lovable 开源替代。",
+    "url": "https://github.com/halo-dev/upage",
+    "stars": 154,
     "daily_stars": 1,
-    "language": "Jupyter Notebook",
+    "language": "TypeScript",
     "topics": [
-      "agentic-ai",
+      "ai",
       "ai-agents",
-      "langchain",
-      "langgraph",
-      "langsmith",
-      "llm"
+      "deepseek",
+      "llm",
+      "visual-editor"
     ],
-    "created_at": "2025-09-24T11:47:58",
-    "updated_at": "2025-10-09T09:22:00"
+    "created_at": "2025-09-24T04:59:12",
+    "updated_at": "2025-10-09T14:19:17"
+  },
+  {
+    "name": "nexus",
+    "full_name": "Remote-Skills/nexus",
+    "description": null,
+    "url": "https://github.com/Remote-Skills/nexus",
+    "stars": 5,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "claude-ai",
+      "claude-code"
+    ],
+    "created_at": "2025-10-03T18:56:56",
+    "updated_at": "2025-10-09T14:42:05"
   }
 ]
