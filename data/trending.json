@@ -1,11 +1,51 @@
 [
   {
+    "name": "blades",
+    "full_name": "go-kratos/blades",
+    "description": "Blades is a Go-based multimodal AI Agent framework.",
+    "url": "https://github.com/go-kratos/blades",
+    "stars": 514,
+    "daily_stars": 5,
+    "language": "Go",
+    "topics": [
+      "agent",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "golang",
+      "workflow"
+    ],
+    "created_at": "2025-09-15T16:43:22",
+    "updated_at": "2025-10-10T20:00:02"
+  },
+  {
+    "name": "ai-crawler-py",
+    "full_name": "oxylabs/ai-crawler-py",
+    "description": "Crawl a website starting from a URL, find relevant pages, and extract data – all guided by your natural language prompt.",
+    "url": "https://github.com/oxylabs/ai-crawler-py",
+    "stars": 213,
+    "daily_stars": 4,
+    "language": null,
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-crawler",
+      "ai-scraping",
+      "ai-studio",
+      "ai-web-crawler",
+      "crawl-agent",
+      "web-crawler"
+    ],
+    "created_at": "2025-09-17T16:24:04",
+    "updated_at": "2025-10-10T20:25:39"
+  },
+  {
     "name": "volcano-sdk",
     "full_name": "Kong/volcano-sdk",
     "description": "🌋 Build AI agents that seamlessly combine LLM reasoning with real-world actions via MCP tools — in just a few lines of TypeScript.",
     "url": "https://github.com/Kong/volcano-sdk",
-    "stars": 83,
-    "daily_stars": 11,
+    "stars": 86,
+    "daily_stars": 3,
     "language": "TypeScript",
     "topics": [
       "agentic",
@@ -23,26 +63,89 @@
       "sdk"
     ],
     "created_at": "2025-09-22T22:32:21",
-    "updated_at": "2025-10-10T15:47:31"
+    "updated_at": "2025-10-10T18:32:06"
   },
   {
-    "name": "ComfyUI-DeepExtractV2",
-    "full_name": "abdozmantar/ComfyUI-DeepExtractV2",
-    "description": "DeepExtractV2 – lightning-fast, high-quality audio separator. Instantly isolate vocals, drums, bass, and more from any track. Ideal for creators, DJs, and audio pros.",
-    "url": "https://github.com/abdozmantar/ComfyUI-DeepExtractV2",
-    "stars": 24,
+    "name": "discrete-distribution-network",
+    "full_name": "lucidrains/discrete-distribution-network",
+    "description": "Exploration into Discrete Distribution Network, by Lei Yang out of Beijing",
+    "url": "https://github.com/lucidrains/discrete-distribution-network",
+    "stars": 8,
+    "daily_stars": 3,
+    "language": null,
+    "topics": [],
+    "created_at": "2025-10-10T13:33:24",
+    "updated_at": "2025-10-10T19:11:26"
+  },
+  {
+    "name": "Lstm-sentiment-analysis",
+    "full_name": "code-alchemist01/Lstm-sentiment-analysis",
+    "description": "LSTM-based sentiment analysis with Streamlit web interface. Real-time text sentiment prediction using PyTorch deep learning model trained on IMDB dataset. Achieves 86.14% accuracy with modern UI and batch processing capabilities.",
+    "url": "https://github.com/code-alchemist01/Lstm-sentiment-analysis",
+    "stars": 10,
     "daily_stars": 3,
     "language": "Python",
-    "topics": [],
-    "created_at": "2025-10-07T08:18:27",
-    "updated_at": "2025-10-10T16:29:04"
+    "topics": [
+      "deep-learning",
+      "lstm",
+      "machine-learning",
+      "nlp",
+      "pytorch",
+      "sentiment-analysis",
+      "streamlit",
+      "text-classification"
+    ],
+    "created_at": "2025-09-30T23:51:12",
+    "updated_at": "2025-10-10T19:36:58"
+  },
+  {
+    "name": "CIFAR10-Deep-Learning-Comparison--",
+    "full_name": "code-alchemist01/CIFAR10-Deep-Learning-Comparison--",
+    "description": "🖼️ CIFAR10 image classification project comparing ResNet18, ResNet34, and EfficientNet-B0 models with interactive Streamlit web application. Built with PyTorch, featuring real-time predictions and model performance analysis.",
+    "url": "https://github.com/code-alchemist01/CIFAR10-Deep-Learning-Comparison--",
+    "stars": 10,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "cifar10",
+      "computer-vision",
+      "deep-learning",
+      "efficientnet",
+      "html",
+      "image-classification",
+      "machine-learning",
+      "python",
+      "pytorch",
+      "resnet",
+      "streamlit"
+    ],
+    "created_at": "2025-09-30T22:59:07",
+    "updated_at": "2025-10-10T19:36:59"
+  },
+  {
+    "name": "ai-hedge-fund",
+    "full_name": "sharonuigbx/ai-hedge-fund",
+    "description": "This project provides a Graphical User Interface (GUI) for the AI hedge fund analysis software originally developed by virattt. It aims to simplify interaction with the powerful underlying AI-driven financial analysis tools.",
+    "url": "https://github.com/sharonuigbx/ai-hedge-fund",
+    "stars": 64,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "finance",
+      "hedge-funds",
+      "trading",
+      "trading-algorithms"
+    ],
+    "created_at": "2025-09-16T22:28:07",
+    "updated_at": "2025-10-10T20:15:27"
   },
   {
     "name": "claudepro-directory",
     "full_name": "JSONbored/claudepro-directory",
     "description": "🎯 Curated directory of Claude prompts, MCP servers & tools for developers. Open to community contributions!",
     "url": "https://github.com/JSONbored/claudepro-directory",
-    "stars": 57,
+    "stars": 58,
     "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
@@ -68,124 +171,40 @@
       "walletconnect"
     ],
     "created_at": "2025-09-15T04:40:32",
-    "updated_at": "2025-10-10T16:12:26"
+    "updated_at": "2025-10-10T20:01:14"
   },
   {
     "name": "tiny-recursive-model",
     "full_name": "lucidrains/tiny-recursive-model",
     "description": "Implementation of Tiny Recursive Model (TRM), improvement to HRM from Sapient AI, by Alexia Jolicoeur-Martineau",
     "url": "https://github.com/lucidrains/tiny-recursive-model",
-    "stars": 50,
+    "stars": 51,
     "daily_stars": 1,
     "language": "Python",
     "topics": [],
     "created_at": "2025-10-07T18:19:09",
-    "updated_at": "2025-10-10T15:58:39"
+    "updated_at": "2025-10-10T19:20:11"
   },
   {
-    "name": "optirs",
-    "full_name": "cool-japan/optirs",
-    "description": "OptiRS is a comprehensive optimization library for machine learning",
-    "url": "https://github.com/cool-japan/optirs",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "Rust",
-    "topics": [],
-    "created_at": "2025-09-18T23:37:58",
-    "updated_at": "2025-10-10T16:17:28"
-  },
-  {
-    "name": "ai-crawler-py",
-    "full_name": "oxylabs/ai-crawler-py",
-    "description": "Crawl a website starting from a URL, find relevant pages, and extract data – all guided by your natural language prompt.",
-    "url": "https://github.com/oxylabs/ai-crawler-py",
-    "stars": 209,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-crawler",
-      "ai-scraping",
-      "ai-studio",
-      "ai-web-crawler",
-      "crawl-agent",
-      "web-crawler"
-    ],
-    "created_at": "2025-09-17T16:24:04",
-    "updated_at": "2025-10-10T14:51:21"
-  },
-  {
-    "name": "all-agentic-architectures",
-    "full_name": "FareedKhan-dev/all-agentic-architectures",
-    "description": "Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.",
-    "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
-    "stars": 203,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "langchain",
-      "langgraph",
-      "langsmith",
-      "llm"
-    ],
-    "created_at": "2025-09-24T11:47:58",
-    "updated_at": "2025-10-10T16:32:42"
-  },
-  {
-    "name": "ai-hedge-fund",
-    "full_name": "sharonuigbx/ai-hedge-fund",
-    "description": "This project provides a Graphical User Interface (GUI) for the AI hedge fund analysis software originally developed by virattt. It aims to simplify interaction with the powerful underlying AI-driven financial analysis tools.",
-    "url": "https://github.com/sharonuigbx/ai-hedge-fund",
-    "stars": 62,
+    "name": "llm-use",
+    "full_name": "llm-use/llm-use",
+    "description": "Intelligent routing automatically selects the optimal model (GPT-4/Claude/Llama) for each prompt based on complexity. Production-ready with streaming, caching, and A/B testing.",
+    "url": "https://github.com/llm-use/llm-use",
+    "stars": 5,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "ai-agents",
-      "finance",
-      "hedge-funds",
-      "trading",
-      "trading-algorithms"
+      "ab-testing",
+      "api-gateway",
+      "artificial-intelligence",
+      "claude",
+      "cost-optimization",
+      "monitoring",
+      "openai",
+      "python",
+      "streaming"
     ],
-    "created_at": "2025-09-16T22:28:07",
-    "updated_at": "2025-10-10T14:06:29"
-  },
-  {
-    "name": "ContextKit",
-    "full_name": "FlineDev/ContextKit",
-    "description": "Claude Code context engineering & planning system for individual AI development workflows",
-    "url": "https://github.com/FlineDev/ContextKit",
-    "stars": 49,
-    "daily_stars": 1,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "ios",
-      "swift",
-      "swiftui"
-    ],
-    "created_at": "2025-09-11T21:59:13",
-    "updated_at": "2025-10-10T15:45:36"
-  },
-  {
-    "name": "adk_training",
-    "full_name": "raphaelmansuy/adk_training",
-    "description": "Google ADK Training Hub / Google ADK Agents from first Principles",
-    "url": "https://github.com/raphaelmansuy/adk_training",
-    "stars": 4,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "adk-python",
-      "ai",
-      "ai-agents",
-      "google",
-      "training-materials"
-    ],
-    "created_at": "2025-10-08T11:23:33",
-    "updated_at": "2025-10-10T15:54:11"
+    "created_at": "2025-10-07T14:36:26",
+    "updated_at": "2025-10-10T19:29:53"
   }
 ]
