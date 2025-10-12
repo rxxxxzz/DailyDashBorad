@@ -1,34 +1,118 @@
 [
   {
+    "name": "SEO-Friendly",
+    "full_name": "MainakVerse/SEO-Friendly",
+    "description": "SEO & Page Performance Analyzer is a lightning-fast, AI-enhanced tool that provides instant insights into your website’s performance, SEO compliance, and core web vitals — all in under 15 seconds.",
+    "url": "https://github.com/MainakVerse/SEO-Friendly",
+    "stars": 3,
+    "daily_stars": 2,
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-10-05T07:42:06",
+    "updated_at": "2025-10-12T03:54:32"
+  },
+  {
+    "name": "System-Designer",
+    "full_name": "MainakVerse/System-Designer",
+    "description": "Transform ideas into production-ready UML diagrams, ER schemas, and system architectures with AI.",
+    "url": "https://github.com/MainakVerse/System-Designer",
+    "stars": 3,
+    "daily_stars": 2,
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-10-06T12:02:02",
+    "updated_at": "2025-10-12T03:54:36"
+  },
+  {
+    "name": "pgmcp",
+    "full_name": "subnetmarco/pgmcp",
+    "description": "An MCP server to query any Postgres database in natural language.",
+    "url": "https://github.com/subnetmarco/pgmcp",
+    "stars": 481,
+    "daily_stars": 1,
+    "language": "Go",
+    "topics": [],
+    "created_at": "2025-09-16T19:45:03",
+    "updated_at": "2025-10-12T04:02:27"
+  },
+  {
+    "name": "tiny-recursive-model",
+    "full_name": "lucidrains/tiny-recursive-model",
+    "description": "Implementation of Tiny Recursive Model (TRM), improvement to HRM from Sapient AI, by Alexia Jolicoeur-Martineau",
+    "url": "https://github.com/lucidrains/tiny-recursive-model",
+    "stars": 64,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-10-07T18:19:09",
+    "updated_at": "2025-10-12T03:45:26"
+  },
+  {
     "name": "discrete-distribution-network",
     "full_name": "lucidrains/discrete-distribution-network",
     "description": "Exploration into Discrete Distribution Network, by Lei Yang out of Beijing",
     "url": "https://github.com/lucidrains/discrete-distribution-network",
-    "stars": 25,
-    "daily_stars": 2,
+    "stars": 26,
+    "daily_stars": 1,
     "language": null,
     "topics": [],
     "created_at": "2025-10-10T13:33:24",
-    "updated_at": "2025-10-12T01:42:45"
+    "updated_at": "2025-10-12T03:33:09"
   },
   {
-    "name": "agentic-guardrails",
-    "full_name": "FareedKhan-dev/agentic-guardrails",
-    "description": "Layered guardrails to make agentic AI safer and more reliable.",
-    "url": "https://github.com/FareedKhan-dev/agentic-guardrails",
-    "stars": 14,
-    "daily_stars": 2,
-    "language": "Jupyter Notebook",
+    "name": "agents-sdk",
+    "full_name": "RunEdgeAI/agents-sdk",
+    "description": "A modern, high performance C++ SDK for AI Agents ",
+    "url": "https://github.com/RunEdgeAI/agents-sdk",
+    "stars": 11,
+    "daily_stars": 1,
+    "language": "C++",
+    "topics": [],
+    "created_at": "2025-10-04T17:53:42",
+    "updated_at": "2025-10-12T03:25:05"
+  },
+  {
+    "name": "Google-Cloud-Generative-AI-Leader-Certification",
+    "full_name": "nano-bot01/Google-Cloud-Generative-AI-Leader-Certification",
+    "description": "Google Cloud Generative AI Leader Certification Notes",
+    "url": "https://github.com/nano-bot01/Google-Cloud-Generative-AI-Leader-Certification",
+    "stars": 2,
+    "daily_stars": 1,
+    "language": "HTML",
+    "topics": [
+      "ai",
+      "ai-leadership",
+      "artificial-intelligence",
+      "generative-ai",
+      "generative-ai-leader",
+      "google",
+      "google-cloud",
+      "vertex",
+      "vertex-ai"
+    ],
+    "created_at": "2025-10-05T20:33:22",
+    "updated_at": "2025-10-12T04:32:17"
+  },
+  {
+    "name": "ai-crawler-py",
+    "full_name": "oxylabs/ai-crawler-py",
+    "description": "Crawl a website starting from a URL, find relevant pages, and extract data – all guided by your natural language prompt.",
+    "url": "https://github.com/oxylabs/ai-crawler-py",
+    "stars": 220,
+    "daily_stars": 1,
+    "language": null,
     "topics": [
       "ai",
       "ai-agents",
-      "guardrails",
-      "langchain",
-      "python",
-      "rag"
+      "ai-crawler",
+      "ai-scraping",
+      "ai-studio",
+      "ai-web-crawler",
+      "crawl-agent",
+      "web-crawler"
     ],
-    "created_at": "2025-10-05T18:41:52",
-    "updated_at": "2025-10-12T01:37:27"
+    "created_at": "2025-09-17T16:24:04",
+    "updated_at": "2025-10-12T03:39:38"
   },
   {
     "name": "volcano-sdk",
@@ -36,7 +120,7 @@
     "description": "🌋 Build AI agents that seamlessly combine LLM reasoning with real-world actions via MCP tools — in just a few lines of TypeScript.",
     "url": "https://github.com/Kong/volcano-sdk",
     "stars": 88,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
       "agentic",
@@ -55,112 +139,6 @@
     ],
     "created_at": "2025-09-22T22:32:21",
     "updated_at": "2025-10-12T00:14:58"
-  },
-  {
-    "name": "ai-crawler-py",
-    "full_name": "oxylabs/ai-crawler-py",
-    "description": "Crawl a website starting from a URL, find relevant pages, and extract data – all guided by your natural language prompt.",
-    "url": "https://github.com/oxylabs/ai-crawler-py",
-    "stars": 219,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-crawler",
-      "ai-scraping",
-      "ai-studio",
-      "ai-web-crawler",
-      "crawl-agent",
-      "web-crawler"
-    ],
-    "created_at": "2025-09-17T16:24:04",
-    "updated_at": "2025-10-11T22:27:28"
-  },
-  {
-    "name": "all-agentic-architectures",
-    "full_name": "FareedKhan-dev/all-agentic-architectures",
-    "description": "Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.",
-    "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
-    "stars": 205,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "langchain",
-      "langgraph",
-      "langsmith",
-      "llm"
-    ],
-    "created_at": "2025-09-24T11:47:58",
-    "updated_at": "2025-10-12T01:37:33"
-  },
-  {
-    "name": "BubbleLab",
-    "full_name": "bubblelabai/BubbleLab",
-    "description": "Apache 2.0 workflow automation platform built for developers - full observability and code exportability!",
-    "url": "https://github.com/bubblelabai/BubbleLab",
-    "stars": 41,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "apis",
-      "cli",
-      "code",
-      "developer-tool",
-      "development",
-      "integrations",
-      "open-source",
-      "workflow",
-      "workflow-automation"
-    ],
-    "created_at": "2025-10-02T22:59:25",
-    "updated_at": "2025-10-12T01:53:57"
-  },
-  {
-    "name": "QuantMatrix",
-    "full_name": "cn-vhql/QuantMatrix",
-    "description": "一个基于Python的股票量化交易策略回测和分析平台，提供多种技术指标策略、回测功能以及可视化分析。",
-    "url": "https://github.com/cn-vhql/QuantMatrix",
-    "stars": 10,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "machine-learning",
-      "quantitative-finance",
-      "stock",
-      "stock-market"
-    ],
-    "created_at": "2025-10-02T12:37:56",
-    "updated_at": "2025-10-11T22:14:26"
-  },
-  {
-    "name": "pgmcp",
-    "full_name": "subnetmarco/pgmcp",
-    "description": "An MCP server to query any Postgres database in natural language.",
-    "url": "https://github.com/subnetmarco/pgmcp",
-    "stars": 480,
-    "daily_stars": 0,
-    "language": "Go",
-    "topics": [],
-    "created_at": "2025-09-16T19:45:03",
-    "updated_at": "2025-10-11T00:27:04"
-  },
-  {
-    "name": "tiny-recursive-model",
-    "full_name": "lucidrains/tiny-recursive-model",
-    "description": "Implementation of Tiny Recursive Model (TRM), improvement to HRM from Sapient AI, by Alexia Jolicoeur-Martineau",
-    "url": "https://github.com/lucidrains/tiny-recursive-model",
-    "stars": 63,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-10-07T18:19:09",
-    "updated_at": "2025-10-11T23:47:21"
   },
   {
     "name": "dreamer4",
