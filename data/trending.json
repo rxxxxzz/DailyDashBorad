@@ -4,8 +4,8 @@
     "full_name": "LLmHub-dev/open-computer-use",
     "description": "Autonomous virtual computer agents at scale, fully open-source, safe, auditable, and production-ready.",
     "url": "https://github.com/LLmHub-dev/open-computer-use",
-    "stars": 54,
-    "daily_stars": 18,
+    "stars": 59,
+    "daily_stars": 5,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -30,39 +30,15 @@
       "xai"
     ],
     "created_at": "2025-10-11T18:57:20",
-    "updated_at": "2025-10-13T04:40:11"
-  },
-  {
-    "name": "tiny-recursive-model",
-    "full_name": "lucidrains/tiny-recursive-model",
-    "description": "Implementation of Tiny Recursive Model (TRM), improvement to HRM from Sapient AI, by Alexia Jolicoeur-Martineau",
-    "url": "https://github.com/lucidrains/tiny-recursive-model",
-    "stars": 67,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-10-07T18:19:09",
-    "updated_at": "2025-10-13T04:40:10"
-  },
-  {
-    "name": "agents-sdk",
-    "full_name": "RunEdgeAI/agents-sdk",
-    "description": "A modern, high performance C++ SDK for AI Agents ",
-    "url": "https://github.com/RunEdgeAI/agents-sdk",
-    "stars": 13,
-    "daily_stars": 1,
-    "language": "C++",
-    "topics": [],
-    "created_at": "2025-10-04T17:53:42",
-    "updated_at": "2025-10-13T03:23:19"
+    "updated_at": "2025-10-13T07:59:44"
   },
   {
     "name": "upage",
     "full_name": "halo-dev/upage",
     "description": "🔥 一款基于大模型的可视化网页构建平台，Lovable 开源替代。",
     "url": "https://github.com/halo-dev/upage",
-    "stars": 168,
-    "daily_stars": 1,
+    "stars": 171,
+    "daily_stars": 3,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -72,88 +48,41 @@
       "visual-editor"
     ],
     "created_at": "2025-09-24T04:59:12",
-    "updated_at": "2025-10-13T03:29:09"
+    "updated_at": "2025-10-13T08:10:15"
   },
   {
-    "name": "agentic-rag",
-    "full_name": "FareedKhan-dev/agentic-rag",
-    "description": "Agentic RAG to achieve human like reasoning",
-    "url": "https://github.com/FareedKhan-dev/agentic-rag",
-    "stars": 97,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
+    "name": "volcano-sdk",
+    "full_name": "Kong/volcano-sdk",
+    "description": "🌋 Build AI agents that seamlessly combine LLM reasoning with real-world actions via MCP tools — in just a few lines of TypeScript.",
+    "url": "https://github.com/Kong/volcano-sdk",
+    "stars": 90,
+    "daily_stars": 2,
+    "language": "TypeScript",
     "topics": [
-      "agentic-rag",
-      "ai-agents",
-      "llm",
-      "openai",
-      "rag"
-    ],
-    "created_at": "2025-09-16T14:20:47",
-    "updated_at": "2025-10-13T02:41:19"
-  },
-  {
-    "name": "Agenticle",
-    "full_name": "A03HCY/Agenticle",
-    "description": "A lightweight, extensible Python framework for building and orchestrating single or multi-agent AI systems. | 一个轻量、可扩展的 Python 框架，用于构建和编排单智能体或多智能体 AI 系统。",
-    "url": "https://github.com/A03HCY/Agenticle",
-    "stars": 85,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "agent-framework",
-      "ai-agents",
-      "mutil-agent",
-      "python"
-    ],
-    "created_at": "2025-09-22T04:48:51",
-    "updated_at": "2025-10-13T02:58:46"
-  },
-  {
-    "name": "hector",
-    "full_name": "kadirpekel/hector",
-    "description": "Pure A2A-Native Declarative AI Agent Platform",
-    "url": "https://github.com/kadirpekel/hector",
-    "stars": 21,
-    "daily_stars": 1,
-    "language": "Go",
-    "topics": [
-      "a2a-protocol",
+      "agentic",
+      "agentic-ai",
+      "agentic-framework",
+      "agents",
       "ai",
-      "ai-agent-tools",
-      "ai-agents",
-      "ai-agents-framework",
-      "declarative",
-      "golang"
+      "artificial-intelligence",
+      "automation",
+      "genai",
+      "mcp",
+      "mcp-client",
+      "mcp-server",
+      "mcp-tools",
+      "sdk"
     ],
-    "created_at": "2025-09-17T11:03:12",
-    "updated_at": "2025-10-13T03:54:32"
-  },
-  {
-    "name": "copilot-agents-guard",
-    "full_name": "matank001/copilot-agents-guard",
-    "description": "LLM-as-a-Judge security layer for Microsoft Copilot Studio agents",
-    "url": "https://github.com/matank001/copilot-agents-guard",
-    "stars": 9,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "aisec",
-      "copilotstudio",
-      "guardrails",
-      "microsoft"
-    ],
-    "created_at": "2025-09-25T18:51:51",
-    "updated_at": "2025-10-13T03:51:02"
+    "created_at": "2025-09-22T22:32:21",
+    "updated_at": "2025-10-13T08:29:28"
   },
   {
     "name": "blades",
     "full_name": "go-kratos/blades",
     "description": "Blades is a Go-based multimodal AI Agent framework.",
     "url": "https://github.com/go-kratos/blades",
-    "stars": 524,
-    "daily_stars": 1,
+    "stars": 526,
+    "daily_stars": 2,
     "language": "Go",
     "topics": [
       "agent",
@@ -164,32 +93,126 @@
       "workflow"
     ],
     "created_at": "2025-09-15T16:43:22",
-    "updated_at": "2025-10-13T03:01:53"
+    "updated_at": "2025-10-13T07:04:08"
   },
   {
-    "name": "fuzzforge_ai",
-    "full_name": "FuzzingLabs/fuzzforge_ai",
-    "description": "AI-powered workflow automation and AI Agents platform for AppSec, Fuzzing & Offensive Security. Automate vulnerability discovery with intelligent fuzzing, AI-driven analysis, and a marketplace of security tools.",
-    "url": "https://github.com/FuzzingLabs/fuzzforge_ai",
-    "stars": 255,
+    "name": "ai-crawler-py",
+    "full_name": "oxylabs/ai-crawler-py",
+    "description": "Crawl a website starting from a URL, find relevant pages, and extract data – all guided by your natural language prompt.",
+    "url": "https://github.com/oxylabs/ai-crawler-py",
+    "stars": 231,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-crawler",
+      "ai-scraping",
+      "ai-studio",
+      "ai-web-crawler",
+      "crawl-agent",
+      "web-crawler"
+    ],
+    "created_at": "2025-09-17T16:24:04",
+    "updated_at": "2025-10-13T08:46:04"
+  },
+  {
+    "name": "all-agentic-architectures",
+    "full_name": "FareedKhan-dev/all-agentic-architectures",
+    "description": "Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.",
+    "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
+    "stars": 208,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "langchain",
+      "langgraph",
+      "langsmith",
+      "llm"
+    ],
+    "created_at": "2025-09-24T11:47:58",
+    "updated_at": "2025-10-13T06:30:17"
+  },
+  {
+    "name": "hypercheap-voiceAI",
+    "full_name": "jordan-gibbs/hypercheap-voiceAI",
+    "description": "The most cost-effective, highest performance AI voice agent possible today",
+    "url": "https://github.com/jordan-gibbs/hypercheap-voiceAI",
+    "stars": 56,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "agent",
       "ai",
-      "appsec",
-      "automation",
-      "dast",
-      "devsecops",
-      "fuzzing",
-      "offensive-security",
-      "sast",
-      "security",
-      "security-tools",
-      "vulnerabilities",
-      "workflow"
+      "ai-agents",
+      "voice",
+      "voice-activity-detection",
+      "voice-assistant",
+      "voice-recognition",
+      "voiceai"
     ],
-    "created_at": "2025-09-15T10:04:25",
-    "updated_at": "2025-10-13T04:04:20"
+    "created_at": "2025-09-17T18:58:57",
+    "updated_at": "2025-10-13T05:09:50"
+  },
+  {
+    "name": "BubbleLab",
+    "full_name": "bubblelabai/BubbleLab",
+    "description": "Apache 2.0 workflow automation platform built for developers - full observability and code exportability!",
+    "url": "https://github.com/bubblelabai/BubbleLab",
+    "stars": 51,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "apis",
+      "cli",
+      "code",
+      "developer-tool",
+      "development",
+      "integrations",
+      "open-source",
+      "workflow",
+      "workflow-automation"
+    ],
+    "created_at": "2025-10-02T22:59:25",
+    "updated_at": "2025-10-13T06:14:37"
+  },
+  {
+    "name": "apm",
+    "full_name": "danielmeppiel/apm",
+    "description": "Agent Package Manager",
+    "url": "https://github.com/danielmeppiel/apm",
+    "stars": 23,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-agent-framework",
+      "ai-agents",
+      "codex-cli",
+      "context-engineering",
+      "prompt-engineering",
+      "workflow-automation"
+    ],
+    "created_at": "2025-09-18T13:45:22",
+    "updated_at": "2025-10-13T06:23:23"
+  },
+  {
+    "name": "ai-agents-pattern",
+    "full_name": "learnwithparam/ai-agents-pattern",
+    "description": "AI Agent Patterns for bootcamp students at learnwithparam.com",
+    "url": "https://github.com/learnwithparam/ai-agents-pattern",
+    "stars": 21,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agent-tools",
+      "ai-agents",
+      "architecture"
+    ],
+    "created_at": "2025-10-07T17:59:58",
+    "updated_at": "2025-10-13T07:21:07"
   }
 ]
