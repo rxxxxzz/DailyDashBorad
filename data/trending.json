@@ -1,22 +1,81 @@
 [
   {
+    "name": "Customer_support_agent",
+    "full_name": "marksantiago02/Customer_support_agent",
+    "description": "Customer support AI Agent",
+    "url": "https://github.com/marksantiago02/Customer_support_agent",
+    "stars": 38,
+    "daily_stars": 6,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "customer-support-ai"
+    ],
+    "created_at": "2025-10-03T21:26:03",
+    "updated_at": "2025-10-14T05:37:24"
+  },
+  {
+    "name": "fuzzforge_ai",
+    "full_name": "FuzzingLabs/fuzzforge_ai",
+    "description": "AI-powered workflow automation and AI Agents platform for AppSec, Fuzzing & Offensive Security. Automate vulnerability discovery with intelligent fuzzing, AI-driven analysis, and a marketplace of security tools.",
+    "url": "https://github.com/FuzzingLabs/fuzzforge_ai",
+    "stars": 271,
+    "daily_stars": 5,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "ai",
+      "appsec",
+      "automation",
+      "dast",
+      "devsecops",
+      "fuzzing",
+      "offensive-security",
+      "sast",
+      "security",
+      "security-tools",
+      "vulnerabilities",
+      "workflow"
+    ],
+    "created_at": "2025-09-15T10:04:25",
+    "updated_at": "2025-10-14T08:27:38"
+  },
+  {
     "name": "tiny-recursive-model",
     "full_name": "lucidrains/tiny-recursive-model",
     "description": "Implementation of Tiny Recursive Model (TRM), improvement to HRM from Sapient AI, by Alexia Jolicoeur-Martineau",
     "url": "https://github.com/lucidrains/tiny-recursive-model",
-    "stars": 72,
+    "stars": 74,
     "daily_stars": 2,
     "language": "Python",
     "topics": [],
     "created_at": "2025-10-07T18:19:09",
-    "updated_at": "2025-10-14T02:29:30"
+    "updated_at": "2025-10-14T08:18:25"
+  },
+  {
+    "name": "agentic-rag",
+    "full_name": "FareedKhan-dev/agentic-rag",
+    "description": "Agentic RAG to achieve human like reasoning",
+    "url": "https://github.com/FareedKhan-dev/agentic-rag",
+    "stars": 100,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agentic-rag",
+      "ai-agents",
+      "llm",
+      "openai",
+      "rag"
+    ],
+    "created_at": "2025-09-16T14:20:47",
+    "updated_at": "2025-10-14T07:37:31"
   },
   {
     "name": "open-computer-use",
     "full_name": "LLmHub-dev/open-computer-use",
     "description": "Autonomous virtual computer agents at scale, fully open-source, safe, auditable, and production-ready.",
     "url": "https://github.com/LLmHub-dev/open-computer-use",
-    "stars": 90,
+    "stars": 92,
     "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
@@ -42,65 +101,15 @@
       "xai"
     ],
     "created_at": "2025-10-11T18:57:20",
-    "updated_at": "2025-10-14T02:50:04"
-  },
-  {
-    "name": "volcano-sdk",
-    "full_name": "Kong/volcano-sdk",
-    "description": "🌋 Build AI agents that seamlessly combine LLM reasoning with real-world actions via MCP tools — in just a few lines of TypeScript.",
-    "url": "https://github.com/Kong/volcano-sdk",
-    "stars": 91,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "agentic",
-      "agentic-ai",
-      "agentic-framework",
-      "agents",
-      "ai",
-      "artificial-intelligence",
-      "automation",
-      "genai",
-      "mcp",
-      "mcp-client",
-      "mcp-server",
-      "mcp-tools",
-      "sdk"
-    ],
-    "created_at": "2025-09-22T22:32:21",
-    "updated_at": "2025-10-14T03:27:42"
-  },
-  {
-    "name": "dreamer4",
-    "full_name": "lucidrains/dreamer4",
-    "description": "Implementation of Danijar's latest iteration for his Dreamer line of work, the new SOTA for model-based RL",
-    "url": "https://github.com/lucidrains/dreamer4",
-    "stars": 64,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-09-30T12:58:16",
-    "updated_at": "2025-10-14T02:35:19"
-  },
-  {
-    "name": "resfit-pytorch",
-    "full_name": "lucidrains/resfit-pytorch",
-    "description": "Implementation of ResFit, Residual Off-Policy RL for Finetuning Behavior Cloning Policies",
-    "url": "https://github.com/lucidrains/resfit-pytorch",
-    "stars": 16,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [],
-    "created_at": "2025-09-26T19:32:23",
-    "updated_at": "2025-10-14T04:08:06"
+    "updated_at": "2025-10-14T08:12:24"
   },
   {
     "name": "apm",
     "full_name": "danielmeppiel/apm",
     "description": "Agent Package Manager",
     "url": "https://github.com/danielmeppiel/apm",
-    "stars": 30,
-    "daily_stars": 1,
+    "stars": 32,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "ai-agent-framework",
@@ -111,85 +120,77 @@
       "workflow-automation"
     ],
     "created_at": "2025-09-18T13:45:22",
-    "updated_at": "2025-10-14T04:26:24"
+    "updated_at": "2025-10-14T07:34:51"
   },
   {
-    "name": "langgraph-long-memory",
-    "full_name": "FareedKhan-dev/langgraph-long-memory",
-    "description": "A detail Implementation of handling long-term memory in Agentic AI",
-    "url": "https://github.com/FareedKhan-dev/langgraph-long-memory",
-    "stars": 13,
+    "name": "portfolio",
+    "full_name": "vimal0156/portfolio",
+    "description": "Professional portfolio showcasing AI/ML projects, algorithmic trading systems, and quantitative finance work. Built with Next.js, TypeScript, and TailwindCSS. Features real-time ECG monitoring, stock analysis AI, and ML pipeline automation.",
+    "url": "https://github.com/vimal0156/portfolio",
+    "stars": 5,
     "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "agent",
-      "ai-agents",
-      "langgraph"
-    ],
-    "created_at": "2025-10-09T18:17:11",
-    "updated_at": "2025-10-14T04:30:31"
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-10-13T16:08:46",
+    "updated_at": "2025-10-14T08:42:30"
   },
   {
-    "name": "ncp",
-    "full_name": "portel-dev/ncp",
-    "description": "NCP is an MCP server that acts as an intelligent hub for managing and discovering tools across multiple MCP servers. Instead of connecting to dozens of individual MCP servers, AI assistants can connect to NCP and use natural language to discover the right tools for any task.",
-    "url": "https://github.com/portel-dev/ncp",
-    "stars": 11,
+    "name": "ai-crawler-py",
+    "full_name": "oxylabs/ai-crawler-py",
+    "description": "Crawl a website starting from a URL, find relevant pages, and extract data – all guided by your natural language prompt.",
+    "url": "https://github.com/oxylabs/ai-crawler-py",
+    "stars": 233,
     "daily_stars": 1,
-    "language": "JavaScript",
+    "language": null,
     "topics": [
+      "ai",
       "ai-agents",
-      "claude",
-      "claude-desktop",
-      "gemini",
-      "mcp",
-      "mcp-client",
-      "mcp-server",
-      "openai",
-      "orchestrator",
-      "vector-search"
+      "ai-crawler",
+      "ai-scraping",
+      "ai-studio",
+      "ai-web-crawler",
+      "crawl-agent",
+      "web-crawler"
     ],
-    "created_at": "2025-09-15T08:16:40",
-    "updated_at": "2025-10-14T02:19:33"
+    "created_at": "2025-09-17T16:24:04",
+    "updated_at": "2025-10-14T07:35:09"
   },
   {
-    "name": "lupa",
-    "full_name": "crafter-station/lupa",
-    "description": "The Knowledge API for AI Agents",
-    "url": "https://github.com/crafter-station/lupa",
-    "stars": 10,
+    "name": "upage",
+    "full_name": "halo-dev/upage",
+    "description": "🔥 一款基于大模型的可视化网页构建平台，Lovable 开源替代。",
+    "url": "https://github.com/halo-dev/upage",
+    "stars": 175,
     "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
-      "agent",
-      "agents",
       "ai",
       "ai-agents",
-      "knowledge-base",
-      "rag",
-      "semantic-search",
-      "vector-search"
+      "deepseek",
+      "llm",
+      "visual-editor"
     ],
-    "created_at": "2025-09-16T08:01:33",
-    "updated_at": "2025-10-14T02:48:36"
+    "created_at": "2025-09-24T04:59:12",
+    "updated_at": "2025-10-14T08:04:36"
   },
   {
-    "name": "infera",
-    "full_name": "CogitatorTech/infera",
-    "description": "A DuckDB extension for in-database inference",
-    "url": "https://github.com/CogitatorTech/infera",
-    "stars": 76,
+    "name": "hector",
+    "full_name": "kadirpekel/hector",
+    "description": "Pure A2A-Native Declarative AI Agent Platform",
+    "url": "https://github.com/kadirpekel/hector",
+    "stars": 22,
     "daily_stars": 1,
-    "language": "Rust",
+    "language": "Go",
     "topics": [
-      "duckdb",
-      "duckdb-extension",
-      "inference",
-      "machine-learning",
-      "onnx",
-      "rust"
+      "a2a-protocol",
+      "ai",
+      "ai-agent-tools",
+      "ai-agents",
+      "ai-agents-framework",
+      "declarative",
+      "golang"
     ],
-    "created_at": "2025-09-26T07:04:17",
-    "updated_at": "2025-10-14T03:46:57"
+    "created_at": "2025-09-17T11:03:12",
+    "updated_at": "2025-10-14T06:05:57"
   }
 ]
