@@ -1,63 +1,107 @@
 [
   {
-    "name": "Customer_support_agent",
-    "full_name": "marksantiago02/Customer_support_agent",
-    "description": "Customer support AI Agent",
-    "url": "https://github.com/marksantiago02/Customer_support_agent",
-    "stars": 38,
-    "daily_stars": 6,
+    "name": "volcano-sdk",
+    "full_name": "Kong/volcano-sdk",
+    "description": "🌋 Build AI agents that seamlessly combine LLM reasoning with real-world actions via MCP tools — in just a few lines of TypeScript.",
+    "url": "https://github.com/Kong/volcano-sdk",
+    "stars": 94,
+    "daily_stars": 3,
     "language": "TypeScript",
     "topics": [
-      "ai-agents",
-      "customer-support-ai"
+      "agentic",
+      "agentic-ai",
+      "agentic-framework",
+      "agents",
+      "ai",
+      "artificial-intelligence",
+      "automation",
+      "genai",
+      "mcp",
+      "mcp-client",
+      "mcp-server",
+      "mcp-tools",
+      "sdk"
     ],
-    "created_at": "2025-10-03T21:26:03",
-    "updated_at": "2025-10-14T05:37:24"
+    "created_at": "2025-09-22T22:32:21",
+    "updated_at": "2025-10-14T12:32:25"
   },
   {
-    "name": "fuzzforge_ai",
-    "full_name": "FuzzingLabs/fuzzforge_ai",
-    "description": "AI-powered workflow automation and AI Agents platform for AppSec, Fuzzing & Offensive Security. Automate vulnerability discovery with intelligent fuzzing, AI-driven analysis, and a marketplace of security tools.",
-    "url": "https://github.com/FuzzingLabs/fuzzforge_ai",
-    "stars": 271,
-    "daily_stars": 5,
-    "language": "Python",
+    "name": "agentic-guardrails",
+    "full_name": "FareedKhan-dev/agentic-guardrails",
+    "description": "Layered guardrails to make agentic AI safer and more reliable.",
+    "url": "https://github.com/FareedKhan-dev/agentic-guardrails",
+    "stars": 20,
+    "daily_stars": 3,
+    "language": "Jupyter Notebook",
     "topics": [
-      "agent",
       "ai",
-      "appsec",
-      "automation",
-      "dast",
-      "devsecops",
-      "fuzzing",
-      "offensive-security",
-      "sast",
-      "security",
-      "security-tools",
-      "vulnerabilities",
-      "workflow"
+      "ai-agents",
+      "guardrails",
+      "langchain",
+      "python",
+      "rag"
     ],
-    "created_at": "2025-09-15T10:04:25",
-    "updated_at": "2025-10-14T08:27:38"
+    "created_at": "2025-10-05T18:41:52",
+    "updated_at": "2025-10-14T12:31:32"
   },
   {
     "name": "tiny-recursive-model",
     "full_name": "lucidrains/tiny-recursive-model",
     "description": "Implementation of Tiny Recursive Model (TRM), improvement to HRM from Sapient AI, by Alexia Jolicoeur-Martineau",
     "url": "https://github.com/lucidrains/tiny-recursive-model",
-    "stars": 74,
+    "stars": 76,
     "daily_stars": 2,
     "language": "Python",
     "topics": [],
     "created_at": "2025-10-07T18:19:09",
-    "updated_at": "2025-10-14T08:18:25"
+    "updated_at": "2025-10-14T11:57:34"
+  },
+  {
+    "name": "ai-crawler-py",
+    "full_name": "oxylabs/ai-crawler-py",
+    "description": "Crawl a website starting from a URL, find relevant pages, and extract data – all guided by your natural language prompt.",
+    "url": "https://github.com/oxylabs/ai-crawler-py",
+    "stars": 235,
+    "daily_stars": 2,
+    "language": null,
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-crawler",
+      "ai-scraping",
+      "ai-studio",
+      "ai-web-crawler",
+      "crawl-agent",
+      "web-crawler"
+    ],
+    "created_at": "2025-09-17T16:24:04",
+    "updated_at": "2025-10-14T12:21:55"
+  },
+  {
+    "name": "all-agentic-architectures",
+    "full_name": "FareedKhan-dev/all-agentic-architectures",
+    "description": "Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.",
+    "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
+    "stars": 212,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "langchain",
+      "langgraph",
+      "langsmith",
+      "llm"
+    ],
+    "created_at": "2025-09-24T11:47:58",
+    "updated_at": "2025-10-14T10:08:38"
   },
   {
     "name": "agentic-rag",
     "full_name": "FareedKhan-dev/agentic-rag",
     "description": "Agentic RAG to achieve human like reasoning",
     "url": "https://github.com/FareedKhan-dev/agentic-rag",
-    "stars": 100,
+    "stars": 102,
     "daily_stars": 2,
     "language": "Jupyter Notebook",
     "topics": [
@@ -68,14 +112,14 @@
       "rag"
     ],
     "created_at": "2025-09-16T14:20:47",
-    "updated_at": "2025-10-14T07:37:31"
+    "updated_at": "2025-10-14T10:08:43"
   },
   {
     "name": "open-computer-use",
     "full_name": "LLmHub-dev/open-computer-use",
     "description": "Autonomous virtual computer agents at scale, fully open-source, safe, auditable, and production-ready.",
     "url": "https://github.com/LLmHub-dev/open-computer-use",
-    "stars": 92,
+    "stars": 94,
     "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
@@ -101,96 +145,70 @@
       "xai"
     ],
     "created_at": "2025-10-11T18:57:20",
-    "updated_at": "2025-10-14T08:12:24"
+    "updated_at": "2025-10-14T10:52:16"
   },
   {
-    "name": "apm",
-    "full_name": "danielmeppiel/apm",
-    "description": "Agent Package Manager",
-    "url": "https://github.com/danielmeppiel/apm",
-    "stars": 32,
+    "name": "langchain-go-vs-python",
+    "full_name": "FareedKhan-dev/langchain-go-vs-python",
+    "description": "Benchmarking RAG and agentic systems in Go vs Python",
+    "url": "https://github.com/FareedKhan-dev/langchain-go-vs-python",
+    "stars": 6,
+    "daily_stars": 2,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "go",
+      "langchain",
+      "python",
+      "rag"
+    ],
+    "created_at": "2025-10-02T03:14:08",
+    "updated_at": "2025-10-14T10:08:36"
+  },
+  {
+    "name": "blades",
+    "full_name": "go-kratos/blades",
+    "description": "Blades is a Go-based multimodal AI Agent framework.",
+    "url": "https://github.com/go-kratos/blades",
+    "stars": 530,
+    "daily_stars": 2,
+    "language": "Go",
+    "topics": [
+      "agent",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "golang",
+      "workflow"
+    ],
+    "created_at": "2025-09-15T16:43:22",
+    "updated_at": "2025-10-14T12:35:35"
+  },
+  {
+    "name": "fuzzforge_ai",
+    "full_name": "FuzzingLabs/fuzzforge_ai",
+    "description": "AI-powered workflow automation and AI Agents platform for AppSec, Fuzzing & Offensive Security. Automate vulnerability discovery with intelligent fuzzing, AI-driven analysis, and a marketplace of security tools.",
+    "url": "https://github.com/FuzzingLabs/fuzzforge_ai",
+    "stars": 273,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
-      "ai-agent-framework",
-      "ai-agents",
-      "codex-cli",
-      "context-engineering",
-      "prompt-engineering",
-      "workflow-automation"
-    ],
-    "created_at": "2025-09-18T13:45:22",
-    "updated_at": "2025-10-14T07:34:51"
-  },
-  {
-    "name": "portfolio",
-    "full_name": "vimal0156/portfolio",
-    "description": "Professional portfolio showcasing AI/ML projects, algorithmic trading systems, and quantitative finance work. Built with Next.js, TypeScript, and TailwindCSS. Features real-time ECG monitoring, stock analysis AI, and ML pipeline automation.",
-    "url": "https://github.com/vimal0156/portfolio",
-    "stars": 5,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [],
-    "created_at": "2025-10-13T16:08:46",
-    "updated_at": "2025-10-14T08:42:30"
-  },
-  {
-    "name": "ai-crawler-py",
-    "full_name": "oxylabs/ai-crawler-py",
-    "description": "Crawl a website starting from a URL, find relevant pages, and extract data – all guided by your natural language prompt.",
-    "url": "https://github.com/oxylabs/ai-crawler-py",
-    "stars": 233,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
+      "agent",
       "ai",
-      "ai-agents",
-      "ai-crawler",
-      "ai-scraping",
-      "ai-studio",
-      "ai-web-crawler",
-      "crawl-agent",
-      "web-crawler"
+      "appsec",
+      "automation",
+      "dast",
+      "devsecops",
+      "fuzzing",
+      "offensive-security",
+      "sast",
+      "security",
+      "security-tools",
+      "vulnerabilities",
+      "workflow"
     ],
-    "created_at": "2025-09-17T16:24:04",
-    "updated_at": "2025-10-14T07:35:09"
-  },
-  {
-    "name": "upage",
-    "full_name": "halo-dev/upage",
-    "description": "🔥 一款基于大模型的可视化网页构建平台，Lovable 开源替代。",
-    "url": "https://github.com/halo-dev/upage",
-    "stars": 175,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "deepseek",
-      "llm",
-      "visual-editor"
-    ],
-    "created_at": "2025-09-24T04:59:12",
-    "updated_at": "2025-10-14T08:04:36"
-  },
-  {
-    "name": "hector",
-    "full_name": "kadirpekel/hector",
-    "description": "Pure A2A-Native Declarative AI Agent Platform",
-    "url": "https://github.com/kadirpekel/hector",
-    "stars": 22,
-    "daily_stars": 1,
-    "language": "Go",
-    "topics": [
-      "a2a-protocol",
-      "ai",
-      "ai-agent-tools",
-      "ai-agents",
-      "ai-agents-framework",
-      "declarative",
-      "golang"
-    ],
-    "created_at": "2025-09-17T11:03:12",
-    "updated_at": "2025-10-14T06:05:57"
+    "created_at": "2025-09-15T10:04:25",
+    "updated_at": "2025-10-14T12:18:37"
   }
 ]
