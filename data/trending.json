@@ -1,41 +1,74 @@
 [
   {
-    "name": "all-agentic-architectures",
-    "full_name": "FareedKhan-dev/all-agentic-architectures",
-    "description": "Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.",
-    "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
-    "stars": 216,
-    "daily_stars": 2,
-    "language": "Jupyter Notebook",
+    "name": "upage",
+    "full_name": "halo-dev/upage",
+    "description": "🔥 一款基于大模型的可视化网页构建平台，Lovable 开源替代。",
+    "url": "https://github.com/halo-dev/upage",
+    "stars": 181,
+    "daily_stars": 4,
+    "language": "TypeScript",
     "topics": [
-      "agentic-ai",
+      "ai",
       "ai-agents",
-      "langchain",
-      "langgraph",
-      "langsmith",
-      "llm"
+      "deepseek",
+      "llm",
+      "visual-editor"
     ],
-    "created_at": "2025-09-24T11:47:58",
-    "updated_at": "2025-10-15T03:09:45"
+    "created_at": "2025-09-24T04:59:12",
+    "updated_at": "2025-10-15T06:47:47"
   },
   {
-    "name": "pgmcp",
-    "full_name": "subnetmarco/pgmcp",
-    "description": "An MCP server to query any Postgres database in natural language.",
-    "url": "https://github.com/subnetmarco/pgmcp",
-    "stars": 483,
-    "daily_stars": 1,
-    "language": "Go",
+    "name": "agentic-rag",
+    "full_name": "FareedKhan-dev/agentic-rag",
+    "description": "Agentic RAG to achieve human like reasoning",
+    "url": "https://github.com/FareedKhan-dev/agentic-rag",
+    "stars": 105,
+    "daily_stars": 3,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agentic-rag",
+      "ai-agents",
+      "llm",
+      "openai",
+      "rag"
+    ],
+    "created_at": "2025-09-16T14:20:47",
+    "updated_at": "2025-10-15T07:56:46"
+  },
+  {
+    "name": "phishing-ai-agent",
+    "full_name": "huntoai/phishing-ai-agent",
+    "description": "Red-Team - AI Agent to Phish Employees based on Social Intelligence. ",
+    "url": "https://github.com/huntoai/phishing-ai-agent",
+    "stars": 8,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "red-teaming",
+      "security"
+    ],
+    "created_at": "2025-10-12T18:04:20",
+    "updated_at": "2025-10-15T06:47:12"
+  },
+  {
+    "name": "dreamer4",
+    "full_name": "lucidrains/dreamer4",
+    "description": "Implementation of Danijar's latest iteration for his Dreamer line of work, the new SOTA for model-based RL",
+    "url": "https://github.com/lucidrains/dreamer4",
+    "stars": 68,
+    "daily_stars": 2,
+    "language": "Python",
     "topics": [],
-    "created_at": "2025-09-16T19:45:03",
-    "updated_at": "2025-10-15T04:32:31"
+    "created_at": "2025-09-30T12:58:16",
+    "updated_at": "2025-10-15T08:32:53"
   },
   {
     "name": "volcano-sdk",
     "full_name": "Kong/volcano-sdk",
     "description": "🌋 Build AI agents that seamlessly combine LLM reasoning with real-world actions via MCP tools — in just a few lines of TypeScript.",
     "url": "https://github.com/Kong/volcano-sdk",
-    "stars": 102,
+    "stars": 103,
     "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
@@ -54,100 +87,99 @@
       "sdk"
     ],
     "created_at": "2025-09-22T22:32:21",
-    "updated_at": "2025-10-15T02:51:01"
+    "updated_at": "2025-10-15T05:40:51"
   },
   {
-    "name": "dreamer4",
-    "full_name": "lucidrains/dreamer4",
-    "description": "Implementation of Danijar's latest iteration for his Dreamer line of work, the new SOTA for model-based RL",
-    "url": "https://github.com/lucidrains/dreamer4",
-    "stars": 66,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-09-30T12:58:16",
-    "updated_at": "2025-10-15T02:45:17"
-  },
-  {
-    "name": "upage",
-    "full_name": "halo-dev/upage",
-    "description": "🔥 一款基于大模型的可视化网页构建平台，Lovable 开源替代。",
-    "url": "https://github.com/halo-dev/upage",
-    "stars": 177,
+    "name": "haif",
+    "full_name": "Branexai/haif",
+    "description": "Production-ready microservices framework for AI inference over RPC. It provides a Gateway for client requests, an Orchestrator that schedules work, a Registry for model metadata, Workers that run inference, and a full observability stack (Prometheus, Grafana, Loki, Jaeger) — all wired together with Docker Compose.",
+    "url": "https://github.com/Branexai/haif",
+    "stars": 7,
     "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "ai",
       "ai-agents",
-      "deepseek",
-      "llm",
-      "visual-editor"
+      "huggingface",
+      "huggingface-transformers",
+      "hyperswarm",
+      "nodejs",
+      "rpc"
     ],
-    "created_at": "2025-09-24T04:59:12",
-    "updated_at": "2025-10-15T03:31:54"
+    "created_at": "2025-10-07T14:12:29",
+    "updated_at": "2025-10-15T05:20:24"
   },
   {
-    "name": "phishing-ai-agent",
-    "full_name": "huntoai/phishing-ai-agent",
-    "description": "Red-Team - AI Agent to Phish Employees based on Social Intelligence. ",
-    "url": "https://github.com/huntoai/phishing-ai-agent",
+    "name": "MambaMoE",
+    "full_name": "YichuXu/MambaMoE",
+    "description": "[Information Fusion 2025] MambaMoE: Mixture-of-Spectral-Spatial-Experts State Space Model for Hyperspectral Image Classification",
+    "url": "https://github.com/YichuXu/MambaMoE",
     "stars": 5,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "ai-agents",
-      "red-teaming",
-      "security"
+      "computer-vision",
+      "deep-learning",
+      "hyperspectral-image-classification",
+      "image-processing",
+      "mamba",
+      "mixture-of-experts",
+      "python",
+      "pytorch",
+      "remote-sensing",
+      "semantic-segmentation",
+      "uncertainty"
     ],
-    "created_at": "2025-10-12T18:04:20",
-    "updated_at": "2025-10-15T03:56:40"
+    "created_at": "2025-09-17T15:27:31",
+    "updated_at": "2025-10-15T06:28:01"
   },
   {
-    "name": "tiny-recursive-model",
-    "full_name": "lucidrains/tiny-recursive-model",
-    "description": "Implementation of Tiny Recursive Model (TRM), improvement to HRM from Sapient AI, by Alexia Jolicoeur-Martineau",
-    "url": "https://github.com/lucidrains/tiny-recursive-model",
-    "stars": 82,
-    "daily_stars": 0,
+    "name": "MSFT",
+    "full_name": "zqiao11/MSFT",
+    "description": "Multi-scale Finetuning for Encoder-based Time Series Foundation Models",
+    "url": "https://github.com/zqiao11/MSFT",
+    "stars": 2,
+    "daily_stars": 1,
     "language": "Python",
-    "topics": [],
-    "created_at": "2025-10-07T18:19:09",
-    "updated_at": "2025-10-14T22:25:13"
+    "topics": [
+      "deep-learning",
+      "fine-tuning",
+      "forecasting",
+      "multiscale-modeling",
+      "time-series",
+      "transformer"
+    ],
+    "created_at": "2025-09-22T14:56:17",
+    "updated_at": "2025-10-15T08:44:07"
   },
   {
-    "name": "locoformer",
-    "full_name": "lucidrains/locoformer",
-    "description": "LocoFormer - Generalist Locomotion via Long-Context Adaptation",
-    "url": "https://github.com/lucidrains/locoformer",
-    "stars": 62,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-09-25T13:02:18",
-    "updated_at": "2025-10-14T14:55:06"
+    "name": "Scanyx",
+    "full_name": "xtormin/Scanyx",
+    "description": "SCANYX es una herramienta para automatizar escaneos de red con Nmap. Soporta ejecución paralela, workflows secuenciales, sesiones, hosts sensibles y excluidos, y persistencia de estado, entre otras cosas.",
+    "url": "https://github.com/xtormin/Scanyx",
+    "stars": 2,
+    "daily_stars": 1,
+    "language": "PowerShell",
+    "topics": [
+      "nmap",
+      "pentesting",
+      "scan",
+      "scanner",
+      "workflow"
+    ],
+    "created_at": "2025-10-10T08:59:00",
+    "updated_at": "2025-10-15T06:35:25"
   },
   {
-    "name": "discrete-distribution-network",
-    "full_name": "lucidrains/discrete-distribution-network",
-    "description": "Exploration into Discrete Distribution Network, by Lei Yang out of Beijing",
-    "url": "https://github.com/lucidrains/discrete-distribution-network",
-    "stars": 33,
+    "name": "pgmcp",
+    "full_name": "subnetmarco/pgmcp",
+    "description": "An MCP server to query any Postgres database in natural language.",
+    "url": "https://github.com/subnetmarco/pgmcp",
+    "stars": 483,
     "daily_stars": 0,
-    "language": null,
+    "language": "Go",
     "topics": [],
-    "created_at": "2025-10-10T13:33:24",
-    "updated_at": "2025-10-14T17:49:13"
-  },
-  {
-    "name": "law_rag_system",
-    "full_name": "notch776/law_rag_system",
-    "description": "A corporate law RAG system with innovative retrieval and contextual strategies",
-    "url": "https://github.com/notch776/law_rag_system",
-    "stars": 33,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-09-28T15:32:07",
-    "updated_at": "2025-10-07T06:29:04"
+    "created_at": "2025-09-16T19:45:03",
+    "updated_at": "2025-10-15T04:32:31"
   }
 ]
