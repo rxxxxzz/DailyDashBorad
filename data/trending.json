@@ -1,29 +1,11 @@
 [
   {
-    "name": "rules",
-    "full_name": "project-codeguard/rules",
-    "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
-    "url": "https://github.com/project-codeguard/rules",
-    "stars": 11,
-    "daily_stars": 7,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-security",
-      "coding-agents",
-      "cybersecurity"
-    ],
-    "created_at": "2025-10-12T15:24:53",
-    "updated_at": "2025-10-16T15:34:52"
-  },
-  {
     "name": "open-computer-use",
     "full_name": "LLmHub-dev/open-computer-use",
     "description": "Autonomous virtual computer agents at scale, fully open-source, safe, auditable, and production-ready.",
     "url": "https://github.com/LLmHub-dev/open-computer-use",
-    "stars": 104,
-    "daily_stars": 5,
+    "stars": 111,
+    "daily_stars": 7,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -48,15 +30,54 @@
       "xai"
     ],
     "created_at": "2025-10-11T18:57:20",
-    "updated_at": "2025-10-16T16:35:28"
+    "updated_at": "2025-10-16T20:22:14"
+  },
+  {
+    "name": "ai-crawler-py",
+    "full_name": "oxylabs/ai-crawler-py",
+    "description": "Crawl a website starting from a URL, find relevant pages, and extract data – all guided by your natural language prompt.",
+    "url": "https://github.com/oxylabs/ai-crawler-py",
+    "stars": 254,
+    "daily_stars": 3,
+    "language": null,
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-crawler",
+      "ai-scraping",
+      "ai-studio",
+      "ai-web-crawler",
+      "crawl-agent",
+      "web-crawler"
+    ],
+    "created_at": "2025-09-17T16:24:04",
+    "updated_at": "2025-10-16T20:39:10"
+  },
+  {
+    "name": "rules",
+    "full_name": "project-codeguard/rules",
+    "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
+    "url": "https://github.com/project-codeguard/rules",
+    "stars": 14,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-security",
+      "coding-agents",
+      "cybersecurity"
+    ],
+    "created_at": "2025-10-12T15:24:53",
+    "updated_at": "2025-10-16T19:19:32"
   },
   {
     "name": "volcano-sdk",
     "full_name": "Kong/volcano-sdk",
     "description": "🌋 Build AI agents that seamlessly combine LLM reasoning with real-world actions via MCP tools — in just a few lines of TypeScript.",
     "url": "https://github.com/Kong/volcano-sdk",
-    "stars": 111,
-    "daily_stars": 3,
+    "stars": 112,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "agentic",
@@ -74,15 +95,51 @@
       "sdk"
     ],
     "created_at": "2025-09-22T22:32:21",
-    "updated_at": "2025-10-16T16:14:26"
+    "updated_at": "2025-10-16T17:47:49"
+  },
+  {
+    "name": "tiny-recursive-model",
+    "full_name": "lucidrains/tiny-recursive-model",
+    "description": "Implementation of Tiny Recursive Model (TRM), improvement to HRM from Sapient AI, by Alexia Jolicoeur-Martineau",
+    "url": "https://github.com/lucidrains/tiny-recursive-model",
+    "stars": 86,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-10-07T18:19:09",
+    "updated_at": "2025-10-16T19:32:42"
+  },
+  {
+    "name": "spotdb",
+    "full_name": "aliengiraffe/spotdb",
+    "description": "Give your agents a secure, containerized SQL sandbox with MCP or API access enabled with DuckDB. No infra required, quick spin-up cycle. Push any CSV — query, analyze, and move on.",
+    "url": "https://github.com/aliengiraffe/spotdb",
+    "stars": 11,
+    "daily_stars": 1,
+    "language": "Go",
+    "topics": [
+      "agentic",
+      "agentic-ai",
+      "agentic-workflow",
+      "agents",
+      "ai",
+      "ai-agents",
+      "database",
+      "docker",
+      "duckdb",
+      "lang-chain",
+      "llm"
+    ],
+    "created_at": "2025-10-03T00:10:55",
+    "updated_at": "2025-10-16T18:30:34"
   },
   {
     "name": "haif",
     "full_name": "Branexai/haif",
     "description": "Production-ready microservices framework for AI inference over RPC. It provides a Gateway for client requests, an Orchestrator that schedules work, a Registry for model metadata, Workers that run inference, and a full observability stack (Prometheus, Grafana, Loki, Jaeger) — all wired together with Docker Compose.",
     "url": "https://github.com/Branexai/haif",
-    "stars": 10,
-    "daily_stars": 2,
+    "stars": 11,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -94,66 +151,30 @@
       "rpc"
     ],
     "created_at": "2025-10-07T14:12:29",
-    "updated_at": "2025-10-16T13:49:58"
+    "updated_at": "2025-10-16T19:27:46"
   },
   {
-    "name": "dreamer4",
-    "full_name": "lucidrains/dreamer4",
-    "description": "Implementation of Danijar's latest iteration for his Dreamer line of work, the new SOTA for model-based RL",
-    "url": "https://github.com/lucidrains/dreamer4",
-    "stars": 76,
+    "name": "nexus",
+    "full_name": "Remote-Skills/nexus",
+    "description": null,
+    "url": "https://github.com/Remote-Skills/nexus",
+    "stars": 7,
     "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-09-30T12:58:16",
-    "updated_at": "2025-10-16T16:40:20"
-  },
-  {
-    "name": "ai-crawler-py",
-    "full_name": "oxylabs/ai-crawler-py",
-    "description": "Crawl a website starting from a URL, find relevant pages, and extract data – all guided by your natural language prompt.",
-    "url": "https://github.com/oxylabs/ai-crawler-py",
-    "stars": 251,
-    "daily_stars": 1,
-    "language": null,
+    "language": "TypeScript",
     "topics": [
-      "ai",
       "ai-agents",
-      "ai-crawler",
-      "ai-scraping",
-      "ai-studio",
-      "ai-web-crawler",
-      "crawl-agent",
-      "web-crawler"
+      "claude-ai",
+      "claude-code"
     ],
-    "created_at": "2025-09-17T16:24:04",
-    "updated_at": "2025-10-16T13:20:45"
-  },
-  {
-    "name": "all-agentic-architectures",
-    "full_name": "FareedKhan-dev/all-agentic-architectures",
-    "description": "Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.",
-    "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
-    "stars": 218,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "langchain",
-      "langgraph",
-      "langsmith",
-      "llm"
-    ],
-    "created_at": "2025-09-24T11:47:58",
-    "updated_at": "2025-10-16T15:46:49"
+    "created_at": "2025-10-03T18:56:56",
+    "updated_at": "2025-10-16T16:55:35"
   },
   {
     "name": "PaDT",
     "full_name": "Gorilla-Lab-SCUT/PaDT",
     "description": "The official implementation of \"Patch-as-Decodable-Token: Towards Unified Multi-Modal Vision Tasks in MLLMs\"",
     "url": "https://github.com/Gorilla-Lab-SCUT/PaDT",
-    "stars": 39,
+    "stars": 40,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -164,51 +185,29 @@
       "patch-as-decodable-token"
     ],
     "created_at": "2025-09-26T13:25:18",
-    "updated_at": "2025-10-16T14:22:52"
+    "updated_at": "2025-10-16T18:16:17"
   },
   {
-    "name": "AliFullStack",
-    "full_name": "SFARPak/AliFullStack",
-    "description": "Free Local-first Full-Stack AI App Builder — Build, Test & Deploy with LLMs ✨ Dyad / v0 / lovable / Bolt alternative 🌟 Star if you like it!",
-    "url": "https://github.com/SFARPak/AliFullStack",
-    "stars": 15,
+    "name": "asia",
+    "full_name": "sairajk/asia",
+    "description": "[SIGGRAPH Asia 2025] \"ASIA: Adaptive 3D Segmentation using Few Image Annotations \".",
+    "url": "https://github.com/sairajk/asia",
+    "stars": 14,
     "daily_stars": 1,
-    "language": "TypeScript",
+    "language": null,
     "topics": [
-      "ai",
-      "ai-builder",
-      "automation",
-      "bolt",
-      "code-generation",
-      "devtools",
-      "django",
-      "dyad",
-      "fastapi",
-      "fullstack",
-      "llm",
-      "loveable",
+      "3d",
+      "controlnet",
+      "deep-learning",
+      "few-shot",
+      "few-shot-segmentation",
       "machine-learning",
-      "nextjs",
-      "open-source",
-      "openai",
-      "react",
-      "rust",
-      "typescript",
-      "v0"
+      "mesh-segmentation",
+      "segmentation",
+      "stable-diffusion",
+      "test-time-optimization"
     ],
-    "created_at": "2025-09-21T08:10:43",
-    "updated_at": "2025-10-16T16:21:10"
-  },
-  {
-    "name": "ace-playbook",
-    "full_name": "jmanhype/ace-playbook",
-    "description": "Self-improving LLM system using Generator-Reflector-Curator pattern for online learning from execution feedback",
-    "url": "https://github.com/jmanhype/ace-playbook",
-    "stars": 10,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-10-13T21:27:38",
-    "updated_at": "2025-10-16T15:05:11"
+    "created_at": "2025-09-28T02:20:08",
+    "updated_at": "2025-10-16T19:09:42"
   }
 ]
