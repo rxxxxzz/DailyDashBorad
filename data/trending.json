@@ -1,23 +1,29 @@
 [
   {
-    "name": "dreamer4",
-    "full_name": "lucidrains/dreamer4",
-    "description": "Implementation of Danijar's latest iteration for his Dreamer line of work, the new SOTA for model-based RL",
-    "url": "https://github.com/lucidrains/dreamer4",
-    "stars": 73,
+    "name": "PaDT",
+    "full_name": "Gorilla-Lab-SCUT/PaDT",
+    "description": "The official implementation of \"Patch-as-Decodable-Token: Towards Unified Multi-Modal Vision Tasks in MLLMs\"",
+    "url": "https://github.com/Gorilla-Lab-SCUT/PaDT",
+    "stars": 21,
     "daily_stars": 3,
     "language": "Python",
-    "topics": [],
-    "created_at": "2025-09-30T12:58:16",
-    "updated_at": "2025-10-15T20:36:35"
+    "topics": [
+      "computer-vision",
+      "large-language-models",
+      "machine-learning",
+      "multimodal-large-language-models",
+      "patch-as-decodable-token"
+    ],
+    "created_at": "2025-09-26T13:25:18",
+    "updated_at": "2025-10-16T01:35:52"
   },
   {
     "name": "volcano-sdk",
     "full_name": "Kong/volcano-sdk",
     "description": "🌋 Build AI agents that seamlessly combine LLM reasoning with real-world actions via MCP tools — in just a few lines of TypeScript.",
     "url": "https://github.com/Kong/volcano-sdk",
-    "stars": 105,
-    "daily_stars": 1,
+    "stars": 107,
+    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
       "agentic",
@@ -35,65 +41,59 @@
       "sdk"
     ],
     "created_at": "2025-09-22T22:32:21",
-    "updated_at": "2025-10-15T20:26:32"
+    "updated_at": "2025-10-16T01:55:34"
   },
   {
-    "name": "portfolio",
-    "full_name": "vimal0156/portfolio",
-    "description": "Professional portfolio showcasing AI/ML projects, algorithmic trading systems, and quantitative finance work. Built with Next.js, TypeScript, and TailwindCSS. Features real-time ECG monitoring, stock analysis AI, and ML pipeline automation.",
-    "url": "https://github.com/vimal0156/portfolio",
-    "stars": 6,
+    "name": "dreamer4",
+    "full_name": "lucidrains/dreamer4",
+    "description": "Implementation of Danijar's latest iteration for his Dreamer line of work, the new SOTA for model-based RL",
+    "url": "https://github.com/lucidrains/dreamer4",
+    "stars": 74,
     "daily_stars": 1,
-    "language": "TypeScript",
+    "language": "Python",
     "topics": [],
-    "created_at": "2025-10-13T16:08:46",
-    "updated_at": "2025-10-15T19:54:44"
+    "created_at": "2025-09-30T12:58:16",
+    "updated_at": "2025-10-15T21:18:22"
   },
   {
-    "name": "ai-crawler-py",
-    "full_name": "oxylabs/ai-crawler-py",
-    "description": "Crawl a website starting from a URL, find relevant pages, and extract data – all guided by your natural language prompt.",
-    "url": "https://github.com/oxylabs/ai-crawler-py",
-    "stars": 249,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-crawler",
-      "ai-scraping",
-      "ai-studio",
-      "ai-web-crawler",
-      "crawl-agent",
-      "web-crawler"
-    ],
-    "created_at": "2025-09-17T16:24:04",
-    "updated_at": "2025-10-15T19:23:00"
-  },
-  {
-    "name": "upage",
-    "full_name": "halo-dev/upage",
-    "description": "🔥 一款基于大模型的可视化网页构建平台，Lovable 开源替代。",
-    "url": "https://github.com/halo-dev/upage",
-    "stars": 184,
+    "name": "cli",
+    "full_name": "the-artinet-project/cli",
+    "description": "An interactive command-line interface that uses the Agent2Agent (A2A) & Model Context Protocols (MCP) to manage multi-agent systems.",
+    "url": "https://github.com/the-artinet-project/cli",
+    "stars": 10,
     "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
+      "a2a",
+      "a2a-cli",
+      "a2a-client",
+      "a2a-mcp",
+      "a2a-protocol",
+      "agent2agent",
+      "agentic-ai",
       "ai",
+      "ai-agent",
       "ai-agents",
-      "deepseek",
-      "llm",
-      "visual-editor"
+      "artificial-intelligence",
+      "mcp",
+      "mcp-client",
+      "mcp-tools",
+      "model-context-protocol",
+      "multi-agent",
+      "multi-agent-collaboration",
+      "multi-agent-simulation",
+      "multi-agent-system",
+      "multi-agent-systems"
     ],
-    "created_at": "2025-09-24T04:59:12",
-    "updated_at": "2025-10-15T19:54:15"
+    "created_at": "2025-10-02T05:07:20",
+    "updated_at": "2025-10-15T23:39:05"
   },
   {
     "name": "open-computer-use",
     "full_name": "LLmHub-dev/open-computer-use",
     "description": "Autonomous virtual computer agents at scale, fully open-source, safe, auditable, and production-ready.",
     "url": "https://github.com/LLmHub-dev/open-computer-use",
-    "stars": 98,
+    "stars": 99,
     "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
@@ -119,93 +119,98 @@
       "xai"
     ],
     "created_at": "2025-10-11T18:57:20",
-    "updated_at": "2025-10-15T20:34:33"
+    "updated_at": "2025-10-15T21:22:15"
   },
   {
-    "name": "BubbleLab",
-    "full_name": "bubblelabai/BubbleLab",
-    "description": "Apache 2.0 workflow automation platform built for developers - full observability and code exportability!",
-    "url": "https://github.com/bubblelabai/BubbleLab",
-    "stars": 57,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "apis",
-      "cli",
-      "code",
-      "developer-tool",
-      "development",
-      "integrations",
-      "open-source",
-      "workflow",
-      "workflow-automation"
-    ],
-    "created_at": "2025-10-02T22:59:25",
-    "updated_at": "2025-10-15T18:17:29"
-  },
-  {
-    "name": "lupa",
-    "full_name": "crafter-station/lupa",
-    "description": "The Knowledge API for AI Agents",
-    "url": "https://github.com/crafter-station/lupa",
-    "stars": 11,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "agents",
-      "ai",
-      "ai-agents",
-      "knowledge-base",
-      "rag",
-      "semantic-search",
-      "vector-search"
-    ],
-    "created_at": "2025-09-16T08:01:33",
-    "updated_at": "2025-10-15T16:59:47"
-  },
-  {
-    "name": "spotdb",
-    "full_name": "aliengiraffe/spotdb",
-    "description": "Give your agents a secure, containerized SQL sandbox with MCP or API access enabled with DuckDB. No infra required, quick spin-up cycle. Push any CSV — query, analyze, and move on.",
-    "url": "https://github.com/aliengiraffe/spotdb",
-    "stars": 10,
-    "daily_stars": 1,
-    "language": "Go",
-    "topics": [
-      "agentic",
-      "agentic-ai",
-      "agentic-workflow",
-      "agents",
-      "ai",
-      "ai-agents",
-      "database",
-      "docker",
-      "duckdb",
-      "lang-chain",
-      "llm"
-    ],
-    "created_at": "2025-10-03T00:10:55",
-    "updated_at": "2025-10-15T16:58:11"
-  },
-  {
-    "name": "PaDT",
-    "full_name": "Gorilla-Lab-SCUT/PaDT",
-    "description": "The official implementation of \"Patch-as-Decodable-Token: Towards Unified Multi-Modal Vision Tasks in MLLMs\"",
-    "url": "https://github.com/Gorilla-Lab-SCUT/PaDT",
-    "stars": 18,
+    "name": "apm",
+    "full_name": "danielmeppiel/apm",
+    "description": "Agent Package Manager",
+    "url": "https://github.com/danielmeppiel/apm",
+    "stars": 44,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "computer-vision",
-      "large-language-models",
-      "machine-learning",
-      "multimodal-large-language-models",
-      "patch-as-decodable-token"
+      "ai-agent-framework",
+      "ai-agents",
+      "codex-cli",
+      "context-engineering",
+      "prompt-engineering",
+      "workflow-automation"
     ],
-    "created_at": "2025-09-26T13:25:18",
-    "updated_at": "2025-10-15T16:46:37"
+    "created_at": "2025-09-18T13:45:22",
+    "updated_at": "2025-10-16T01:57:23"
+  },
+  {
+    "name": "fronti",
+    "full_name": "waspdev95/fronti",
+    "description": "Like v0, Bolt, and Lovable - but for your existing local projects. Local, and fully under your control.",
+    "url": "https://github.com/waspdev95/fronti",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "ai-coding",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "cursor",
+      "programming",
+      "vibe-coding"
+    ],
+    "created_at": "2025-10-07T18:37:20",
+    "updated_at": "2025-10-15T23:24:34"
+  },
+  {
+    "name": "volant",
+    "full_name": "volantvm/volant",
+    "description": "Modular orchestration engine for microvms",
+    "url": "https://github.com/volantvm/volant",
+    "stars": 23,
+    "daily_stars": 1,
+    "language": "Go",
+    "topics": [],
+    "created_at": "2025-10-02T23:06:23",
+    "updated_at": "2025-10-16T01:56:25"
+  },
+  {
+    "name": "asia",
+    "full_name": "sairajk/asia",
+    "description": "[SIGGRAPH Asia 2025] \"ASIA: Adaptive 3D Segmentation using Few Image Annotations \".",
+    "url": "https://github.com/sairajk/asia",
+    "stars": 6,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "3d",
+      "controlnet",
+      "deep-learning",
+      "few-shot",
+      "few-shot-segmentation",
+      "machine-learning",
+      "mesh-segmentation",
+      "segmentation",
+      "stable-diffusion",
+      "test-time-optimization"
+    ],
+    "created_at": "2025-09-28T02:20:08",
+    "updated_at": "2025-10-16T00:52:13"
+  },
+  {
+    "name": "SIAFI-2026-1",
+    "full_name": "emilianodesu/SIAFI-2026-1",
+    "description": "Material para el curso propedéutico de SIAFI 2026-1",
+    "url": "https://github.com/emilianodesu/SIAFI-2026-1",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning"
+    ],
+    "created_at": "2025-09-26T04:29:47",
+    "updated_at": "2025-10-16T01:21:16"
   }
 ]
