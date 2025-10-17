@@ -4,7 +4,7 @@
     "full_name": "Kong/volcano-sdk",
     "description": "🌋 Build AI agents that seamlessly combine LLM reasoning with real-world actions via MCP tools — in just a few lines of TypeScript.",
     "url": "https://github.com/Kong/volcano-sdk",
-    "stars": 166,
+    "stars": 170,
     "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
@@ -23,15 +23,117 @@
       "sdk"
     ],
     "created_at": "2025-09-22T22:32:21",
-    "updated_at": "2025-10-17T16:27:51"
+    "updated_at": "2025-10-17T18:20:21"
+  },
+  {
+    "name": "ios-simulator-skill",
+    "full_name": "conorluddy/ios-simulator-skill",
+    "description": "An IOS Simulator Skill for ClaudeCode. Drop it into .claude/skills/ios-simulator-skill and it will let Claude drive the device. Prefers nav via accessibility over screenshots, for perf, but can use both.",
+    "url": "https://github.com/conorluddy/ios-simulator-skill",
+    "stars": 12,
+    "daily_stars": 4,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "ai-agents",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-skills",
+      "claudecode",
+      "claudeskills",
+      "dx",
+      "ios",
+      "iossimulator",
+      "mcp",
+      "mcp-tools",
+      "python",
+      "simulator",
+      "skills",
+      "testing",
+      "tooling",
+      "xcode"
+    ],
+    "created_at": "2025-10-17T12:43:15",
+    "updated_at": "2025-10-17T18:51:12"
+  },
+  {
+    "name": "rules",
+    "full_name": "project-codeguard/rules",
+    "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
+    "url": "https://github.com/project-codeguard/rules",
+    "stars": 30,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-security",
+      "coding-agents",
+      "cybersecurity"
+    ],
+    "created_at": "2025-10-12T15:24:53",
+    "updated_at": "2025-10-17T20:29:37"
+  },
+  {
+    "name": "agentic-context-engine",
+    "full_name": "kayba-ai/agentic-context-engine",
+    "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
+    "url": "https://github.com/kayba-ai/agentic-context-engine",
+    "stars": 14,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "context-engineering",
+      "llm",
+      "python"
+    ],
+    "created_at": "2025-10-15T15:36:20",
+    "updated_at": "2025-10-17T20:22:19"
+  },
+  {
+    "name": "vebgen",
+    "full_name": "vebgenofficial/vebgen",
+    "description": "🤖 World's first AST-powered AI development agent | Autonomous Django/Flask builder | Zero-token intelligence | Military-grade sandbox | Made in India 🇮🇳",
+    "url": "https://github.com/vebgenofficial/vebgen",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-agent",
+      "artificial-intelligence",
+      "ast",
+      "ast-parser",
+      "automation",
+      "autonomous-coding",
+      "chatgpt",
+      "claude",
+      "code-generation",
+      "developer-tools",
+      "devtools",
+      "django",
+      "flask",
+      "gemini",
+      "llm",
+      "machine-learning",
+      "openai",
+      "productivityproductivity",
+      "python",
+      "software-engineering"
+    ],
+    "created_at": "2025-09-23T05:07:11",
+    "updated_at": "2025-10-17T17:45:47"
   },
   {
     "name": "open-computer-use",
     "full_name": "LLmHub-dev/open-computer-use",
     "description": "Autonomous virtual computer agents at scale, fully open-source, safe, auditable, and production-ready.",
     "url": "https://github.com/LLmHub-dev/open-computer-use",
-    "stars": 143,
-    "daily_stars": 4,
+    "stars": 144,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -56,70 +158,57 @@
       "xai"
     ],
     "created_at": "2025-10-11T18:57:20",
-    "updated_at": "2025-10-17T15:11:30"
+    "updated_at": "2025-10-17T17:06:03"
   },
   {
-    "name": "rules",
-    "full_name": "project-codeguard/rules",
-    "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
-    "url": "https://github.com/project-codeguard/rules",
-    "stars": 27,
-    "daily_stars": 4,
-    "language": "Python",
+    "name": "BubbleLab",
+    "full_name": "bubblelabai/BubbleLab",
+    "description": "Apache 2.0 workflow automation platform built for developers - full observability and code exportability!",
+    "url": "https://github.com/bubblelabai/BubbleLab",
+    "stars": 58,
+    "daily_stars": 1,
+    "language": "TypeScript",
     "topics": [
       "ai",
       "ai-agents",
-      "ai-security",
-      "coding-agents",
-      "cybersecurity"
+      "apis",
+      "cli",
+      "code",
+      "developer-tool",
+      "development",
+      "integrations",
+      "open-source",
+      "workflow",
+      "workflow-automation"
     ],
-    "created_at": "2025-10-12T15:24:53",
-    "updated_at": "2025-10-17T16:20:10"
+    "created_at": "2025-10-02T22:59:25",
+    "updated_at": "2025-10-17T20:09:22"
   },
   {
-    "name": "all-agentic-architectures",
-    "full_name": "FareedKhan-dev/all-agentic-architectures",
-    "description": "Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.",
-    "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
-    "stars": 221,
-    "daily_stars": 2,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "langchain",
-      "langgraph",
-      "langsmith",
-      "llm"
-    ],
-    "created_at": "2025-09-24T11:47:58",
-    "updated_at": "2025-10-17T15:48:00"
-  },
-  {
-    "name": "agentic-context-engine",
-    "full_name": "kayba-ai/agentic-context-engine",
-    "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
-    "url": "https://github.com/kayba-ai/agentic-context-engine",
-    "stars": 11,
-    "daily_stars": 2,
+    "name": "adk_training",
+    "full_name": "raphaelmansuy/adk_training",
+    "description": "Google ADK Training Hub / Google ADK Agents from first Principles",
+    "url": "https://github.com/raphaelmansuy/adk_training",
+    "stars": 8,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
+      "adk-python",
+      "ai",
       "ai-agents",
-      "ai-tools",
-      "context-engineering",
-      "llm",
-      "python"
+      "google",
+      "training-materials"
     ],
-    "created_at": "2025-10-15T15:36:20",
-    "updated_at": "2025-10-17T16:06:17"
+    "created_at": "2025-10-08T11:23:33",
+    "updated_at": "2025-10-17T18:12:02"
   },
   {
     "name": "ace-g",
     "full_name": "nianticspatial/ace-g",
     "description": "[ICCV 2025] ACE-G is an architecture and pre-training scheme to improve generalization for scene coordinate regression-based visual relocalization.",
     "url": "https://github.com/nianticspatial/ace-g",
-    "stars": 23,
-    "daily_stars": 2,
+    "stars": 24,
+    "daily_stars": 1,
     "language": null,
     "topics": [
       "camera-relocalization",
@@ -132,72 +221,18 @@
       "visual-relocalization"
     ],
     "created_at": "2025-10-09T13:37:06",
-    "updated_at": "2025-10-17T15:59:07"
+    "updated_at": "2025-10-17T20:26:35"
   },
   {
-    "name": "dreamer4",
-    "full_name": "lucidrains/dreamer4",
-    "description": "Implementation of Danijar's latest iteration for his Dreamer line of work, the new SOTA for model-based RL",
-    "url": "https://github.com/lucidrains/dreamer4",
-    "stars": 79,
-    "daily_stars": 1,
+    "name": "tiny-recursive-model",
+    "full_name": "lucidrains/tiny-recursive-model",
+    "description": "Implementation of Tiny Recursive Model (TRM), improvement to HRM from Sapient AI, by Alexia Jolicoeur-Martineau",
+    "url": "https://github.com/lucidrains/tiny-recursive-model",
+    "stars": 87,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [],
-    "created_at": "2025-09-30T12:58:16",
-    "updated_at": "2025-10-17T15:55:47"
-  },
-  {
-    "name": "awaitter-lite",
-    "full_name": "awaitter/awaitter-lite",
-    "description": "Multi-model AI coding assistant CLI supporting local LLMs, GPT-4, Claude, Gemini, and more",
-    "url": "https://github.com/awaitter/awaitter-lite",
-    "stars": 4,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [],
-    "created_at": "2025-10-16T21:04:36",
-    "updated_at": "2025-10-17T13:58:29"
-  },
-  {
-    "name": "apm",
-    "full_name": "danielmeppiel/apm",
-    "description": "Agent Package Manager",
-    "url": "https://github.com/danielmeppiel/apm",
-    "stars": 50,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-agent-framework",
-      "ai-agents",
-      "codex-cli",
-      "context-engineering",
-      "prompt-engineering",
-      "workflow-automation"
-    ],
-    "created_at": "2025-09-18T13:45:22",
-    "updated_at": "2025-10-17T13:58:43"
-  },
-  {
-    "name": "2ly",
-    "full_name": "AlpinAI/2ly",
-    "description": "AI Tools Platform for Agents Builders.",
-    "url": "https://github.com/AlpinAI/2ly",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "api-rest",
-      "langchain",
-      "langflow",
-      "mcp-gateway",
-      "mcp-server",
-      "mcp-tools",
-      "n8n",
-      "observability"
-    ],
-    "created_at": "2025-10-01T16:04:32",
-    "updated_at": "2025-10-17T16:27:32"
+    "created_at": "2025-10-07T18:19:09",
+    "updated_at": "2025-10-17T12:13:58"
   }
 ]
