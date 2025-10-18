@@ -1,29 +1,61 @@
 [
   {
-    "name": "rules",
-    "full_name": "project-codeguard/rules",
-    "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
-    "url": "https://github.com/project-codeguard/rules",
-    "stars": 37,
-    "daily_stars": 7,
-    "language": "Python",
+    "name": "volcano-sdk",
+    "full_name": "Kong/volcano-sdk",
+    "description": "🌋 Build AI agents that seamlessly combine LLM reasoning with real-world actions via MCP tools — in just a few lines of TypeScript.",
+    "url": "https://github.com/Kong/volcano-sdk",
+    "stars": 175,
+    "daily_stars": 2,
+    "language": "TypeScript",
     "topics": [
+      "agentic",
+      "agentic-ai",
+      "agentic-framework",
+      "agents",
       "ai",
-      "ai-agents",
-      "ai-security",
-      "coding-agents",
-      "cybersecurity"
+      "artificial-intelligence",
+      "automation",
+      "genai",
+      "mcp",
+      "mcp-client",
+      "mcp-server",
+      "mcp-tools",
+      "sdk"
     ],
-    "created_at": "2025-10-12T15:24:53",
-    "updated_at": "2025-10-18T02:00:48"
+    "created_at": "2025-09-22T22:32:21",
+    "updated_at": "2025-10-18T02:49:54"
+  },
+  {
+    "name": "tiny-recursive-model",
+    "full_name": "lucidrains/tiny-recursive-model",
+    "description": "Implementation of Tiny Recursive Model (TRM), improvement to HRM from Sapient AI, by Alexia Jolicoeur-Martineau",
+    "url": "https://github.com/lucidrains/tiny-recursive-model",
+    "stars": 88,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-10-07T18:19:09",
+    "updated_at": "2025-10-18T03:48:11"
+  },
+  {
+    "name": "free-ai-resources-x",
+    "full_name": "CelaDaniel/free-ai-resources-x",
+    "description": "A curated collection of free, high quality AI tools 🤖, APIs 🔗, datasets 📊, and learning resources 📚 covering machine learning 🧠, deep learning 🧩, generative AI 🎨, NLP 💬, and data science 📈. Designed to help developers 👩‍💻, researchers 🔬, and creators ✨ explore and build with AI faster ⚡.",
+    "url": "https://github.com/CelaDaniel/free-ai-resources-x",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [],
+    "created_at": "2025-10-17T17:37:17",
+    "updated_at": "2025-10-18T03:43:31"
   },
   {
     "name": "open-computer-use",
     "full_name": "LLmHub-dev/open-computer-use",
     "description": "Autonomous virtual computer agents at scale, fully open-source, safe, auditable, and production-ready.",
     "url": "https://github.com/LLmHub-dev/open-computer-use",
-    "stars": 149,
-    "daily_stars": 5,
+    "stars": 150,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -48,65 +80,33 @@
       "xai"
     ],
     "created_at": "2025-10-11T18:57:20",
-    "updated_at": "2025-10-18T01:34:26"
+    "updated_at": "2025-10-18T03:04:26"
   },
   {
-    "name": "volcano-sdk",
-    "full_name": "Kong/volcano-sdk",
-    "description": "🌋 Build AI agents that seamlessly combine LLM reasoning with real-world actions via MCP tools — in just a few lines of TypeScript.",
-    "url": "https://github.com/Kong/volcano-sdk",
-    "stars": 173,
-    "daily_stars": 3,
-    "language": "TypeScript",
+    "name": "agentic-context-engine",
+    "full_name": "kayba-ai/agentic-context-engine",
+    "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
+    "url": "https://github.com/kayba-ai/agentic-context-engine",
+    "stars": 16,
+    "daily_stars": 1,
+    "language": "Python",
     "topics": [
-      "agentic",
-      "agentic-ai",
-      "agentic-framework",
-      "agents",
-      "ai",
-      "artificial-intelligence",
-      "automation",
-      "genai",
-      "mcp",
-      "mcp-client",
-      "mcp-server",
-      "mcp-tools",
-      "sdk"
-    ],
-    "created_at": "2025-09-22T22:32:21",
-    "updated_at": "2025-10-18T00:06:40"
-  },
-  {
-    "name": "BubbleLab",
-    "full_name": "bubblelabai/BubbleLab",
-    "description": "Apache 2.0 workflow automation platform built for developers - full observability and code exportability!",
-    "url": "https://github.com/bubblelabai/BubbleLab",
-    "stars": 60,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
       "ai-agents",
-      "apis",
-      "cli",
-      "code",
-      "developer-tool",
-      "development",
-      "integrations",
-      "open-source",
-      "workflow",
-      "workflow-automation"
+      "ai-tools",
+      "context-engineering",
+      "llm",
+      "python"
     ],
-    "created_at": "2025-10-02T22:59:25",
-    "updated_at": "2025-10-17T23:26:59"
+    "created_at": "2025-10-15T15:36:20",
+    "updated_at": "2025-10-18T03:28:46"
   },
   {
     "name": "ios-simulator-skill",
     "full_name": "conorluddy/ios-simulator-skill",
     "description": "An IOS Simulator Skill for ClaudeCode. Drop it into .claude/skills/ios-simulator-skill and it will let Claude drive the device. Prefers nav via accessibility over screenshots, for perf, but can use both.",
     "url": "https://github.com/conorluddy/ios-simulator-skill",
-    "stars": 14,
-    "daily_stars": 2,
+    "stars": 15,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "agent",
@@ -131,67 +131,34 @@
       "xcode"
     ],
     "created_at": "2025-10-17T12:43:15",
-    "updated_at": "2025-10-18T02:02:55"
+    "updated_at": "2025-10-18T03:27:28"
   },
   {
-    "name": "free-ai-resources-x",
-    "full_name": "CelaDaniel/free-ai-resources-x",
-    "description": "A curated collection of free, high quality AI tools 🤖, APIs 🔗, datasets 📊, and learning resources 📚 covering machine learning 🧠, deep learning 🧩, generative AI 🎨, NLP 💬, and data science 📈. Designed to help developers 👩‍💻, researchers 🔬, and creators ✨ explore and build with AI faster ⚡.",
-    "url": "https://github.com/CelaDaniel/free-ai-resources-x",
-    "stars": 2,
+    "name": "GoPredict",
+    "full_name": "harshitaphadtare/GoPredict",
+    "description": "End-to-end machine learning pipeline for trip duration prediction with feature engineering, regression models, and automated evaluation.",
+    "url": "https://github.com/harshitaphadtare/GoPredict",
+    "stars": 12,
     "daily_stars": 1,
-    "language": null,
-    "topics": [],
-    "created_at": "2025-10-17T17:37:17",
-    "updated_at": "2025-10-18T00:30:55"
-  },
-  {
-    "name": "agentic-context-engine",
-    "full_name": "kayba-ai/agentic-context-engine",
-    "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
-    "url": "https://github.com/kayba-ai/agentic-context-engine",
-    "stars": 15,
-    "daily_stars": 1,
-    "language": "Python",
+    "language": "Jupyter Notebook",
     "topics": [
-      "ai-agents",
-      "ai-tools",
-      "context-engineering",
-      "llm",
-      "python"
+      "full-stack-application",
+      "machine-learning"
     ],
-    "created_at": "2025-10-15T15:36:20",
-    "updated_at": "2025-10-17T22:47:21"
+    "created_at": "2025-09-21T13:38:56",
+    "updated_at": "2025-10-18T02:26:09"
   },
   {
-    "name": "adk_training",
-    "full_name": "raphaelmansuy/adk_training",
-    "description": "Google ADK Training Hub / Google ADK Agents from first Principles",
-    "url": "https://github.com/raphaelmansuy/adk_training",
-    "stars": 9,
+    "name": "jarvis",
+    "full_name": "vannu07/jarvis",
+    "description": "🤖 Jarvis - AI Voice Assistant with Face Recognition | Hacktoberfest 2025 Friendly | Built with Python, OpenCV, and Modern Web Technologies",
+    "url": "https://github.com/vannu07/jarvis",
+    "stars": 10,
     "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "adk-python",
-      "ai",
-      "ai-agents",
-      "google",
-      "training-materials"
-    ],
-    "created_at": "2025-10-08T11:23:33",
-    "updated_at": "2025-10-17T21:05:30"
-  },
-  {
-    "name": "tiny-recursive-model",
-    "full_name": "lucidrains/tiny-recursive-model",
-    "description": "Implementation of Tiny Recursive Model (TRM), improvement to HRM from Sapient AI, by Alexia Jolicoeur-Martineau",
-    "url": "https://github.com/lucidrains/tiny-recursive-model",
-    "stars": 87,
-    "daily_stars": 0,
     "language": "Python",
     "topics": [],
-    "created_at": "2025-10-07T18:19:09",
-    "updated_at": "2025-10-17T12:13:58"
+    "created_at": "2025-10-11T17:54:16",
+    "updated_at": "2025-10-18T04:20:26"
   },
   {
     "name": "dreamer4",
@@ -204,5 +171,17 @@
     "topics": [],
     "created_at": "2025-09-30T12:58:16",
     "updated_at": "2025-10-17T21:44:30"
+  },
+  {
+    "name": "locoformer",
+    "full_name": "lucidrains/locoformer",
+    "description": "LocoFormer - Generalist Locomotion via Long-Context Adaptation",
+    "url": "https://github.com/lucidrains/locoformer",
+    "stars": 62,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-09-25T13:02:18",
+    "updated_at": "2025-10-16T01:23:36"
   }
 ]
