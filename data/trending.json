@@ -1,23 +1,41 @@
 [
   {
-    "name": "free-ai-resources-x",
-    "full_name": "CelaDaniel/free-ai-resources-x",
-    "description": "A curated collection of free, high quality AI tools 🤖, APIs 🔗, datasets 📊, and learning resources 📚 covering machine learning 🧠, deep learning 🧩, generative AI 🎨, NLP 💬, and data science 📈. Designed to help developers 👩‍💻, researchers 🔬, and creators ✨ explore and build with AI faster ⚡.",
-    "url": "https://github.com/CelaDaniel/free-ai-resources-x",
-    "stars": 6,
-    "daily_stars": 3,
-    "language": null,
+    "name": "AMH-Tokenizer",
+    "full_name": "sefineh-ai/AMH-Tokenizer",
+    "description": "Syllable-aware BPE tokenizer for the Amharic language (አማርኛ) – fast, accurate, trainable.",
+    "url": "https://github.com/sefineh-ai/AMH-Tokenizer",
+    "stars": 57,
+    "daily_stars": 28,
+    "language": "Python",
     "topics": [],
-    "created_at": "2025-10-17T17:37:17",
-    "updated_at": "2025-10-18T06:43:42"
+    "created_at": "2025-10-14T11:42:42",
+    "updated_at": "2025-10-18T12:37:26"
+  },
+  {
+    "name": "rules",
+    "full_name": "project-codeguard/rules",
+    "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
+    "url": "https://github.com/project-codeguard/rules",
+    "stars": 41,
+    "daily_stars": 4,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-security",
+      "coding-agents",
+      "cybersecurity"
+    ],
+    "created_at": "2025-10-12T15:24:53",
+    "updated_at": "2025-10-18T12:39:01"
   },
   {
     "name": "volcano-sdk",
     "full_name": "Kong/volcano-sdk",
     "description": "🌋 Build AI agents that seamlessly combine LLM reasoning with real-world actions via MCP tools — in just a few lines of TypeScript.",
     "url": "https://github.com/Kong/volcano-sdk",
-    "stars": 177,
-    "daily_stars": 2,
+    "stars": 180,
+    "daily_stars": 3,
     "language": "TypeScript",
     "topics": [
       "agentic",
@@ -35,90 +53,15 @@
       "sdk"
     ],
     "created_at": "2025-09-22T22:32:21",
-    "updated_at": "2025-10-18T07:25:59"
-  },
-  {
-    "name": "ios-simulator-skill",
-    "full_name": "conorluddy/ios-simulator-skill",
-    "description": "An IOS Simulator Skill for ClaudeCode. Drop it into .claude/skills/ios-simulator-skill and it will let Claude drive the device. Prefers nav via accessibility over screenshots, for perf, but can use both.",
-    "url": "https://github.com/conorluddy/ios-simulator-skill",
-    "stars": 17,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "ai-agents",
-      "claude",
-      "claude-ai",
-      "claude-code",
-      "claude-skills",
-      "claudecode",
-      "claudeskills",
-      "dx",
-      "ios",
-      "iossimulator",
-      "mcp",
-      "mcp-tools",
-      "python",
-      "simulator",
-      "skills",
-      "testing",
-      "tooling",
-      "xcode"
-    ],
-    "created_at": "2025-10-17T12:43:15",
-    "updated_at": "2025-10-18T08:23:15"
-  },
-  {
-    "name": "PaDT",
-    "full_name": "Gorilla-Lab-SCUT/PaDT",
-    "description": "The official implementation of \"Patch-as-Decodable-Token: Towards Unified Multi-Modal Vision Tasks in MLLMs\"",
-    "url": "https://github.com/Gorilla-Lab-SCUT/PaDT",
-    "stars": 49,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "computer-vision",
-      "large-language-models",
-      "machine-learning",
-      "multimodal-large-language-models",
-      "patch-as-decodable-token"
-    ],
-    "created_at": "2025-09-26T13:25:18",
-    "updated_at": "2025-10-18T08:30:20"
-  },
-  {
-    "name": "tiny-recursive-model",
-    "full_name": "lucidrains/tiny-recursive-model",
-    "description": "Implementation of Tiny Recursive Model (TRM), improvement to HRM from Sapient AI, by Alexia Jolicoeur-Martineau",
-    "url": "https://github.com/lucidrains/tiny-recursive-model",
-    "stars": 89,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-10-07T18:19:09",
-    "updated_at": "2025-10-18T06:21:48"
-  },
-  {
-    "name": "AI-ML-Expert-With-Phitron",
-    "full_name": "Hazrat-Ali9/AI-ML-Expert-With-Phitron",
-    "description": "🤢 AI 🥶 ML 🤡 Expert 🙆‍♀️ With 👩‍💼 Phitron 🚂 is a 🕍 designed 🚞 to showcase ✈ the journey 🚁 of Artificial 🚀 Intelligence 🚟 and Machine 🛸 through 🛩 the 🚧 Phitron ⏰ program 🚢 It includes 🚠 hands 🛼 on projects 🚈 tutorials 🚚 practical ⚽ exercises that ⚾ cover AI/ML 🏀 concepts 🏐 advanced 🏈 algorithms 🎳 and real 🎁 world applications",
-    "url": "https://github.com/Hazrat-Ali9/AI-ML-Expert-With-Phitron",
-    "stars": 13,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [],
-    "created_at": "2025-09-24T14:59:22",
-    "updated_at": "2025-10-18T08:17:19"
+    "updated_at": "2025-10-18T12:17:20"
   },
   {
     "name": "open-computer-use",
     "full_name": "LLmHub-dev/open-computer-use",
     "description": "Autonomous virtual computer agents at scale, fully open-source, safe, auditable, and production-ready.",
     "url": "https://github.com/LLmHub-dev/open-computer-use",
-    "stars": 151,
-    "daily_stars": 1,
+    "stars": 154,
+    "daily_stars": 3,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -143,66 +86,132 @@
       "xai"
     ],
     "created_at": "2025-10-11T18:57:20",
-    "updated_at": "2025-10-18T07:56:13"
+    "updated_at": "2025-10-18T12:14:09"
   },
   {
-    "name": "python-learning",
-    "full_name": "Paban-1/python-learning",
-    "description": "Python Learning Journey 🐍 A collection of Python scripts and exercises I’m writing while learning the language. This repo includes basic syntax practice, small projects, and experiments covering topics like data structures, OOP, file handling, and problem-solving. It’s a personal space to track progress and improve coding skills step by step.",
-    "url": "https://github.com/Paban-1/python-learning",
-    "stars": 2,
+    "name": "upage",
+    "full_name": "halo-dev/upage",
+    "description": "🔥 一款基于大模型的可视化网页构建平台，Lovable 开源替代。",
+    "url": "https://github.com/halo-dev/upage",
+    "stars": 190,
+    "daily_stars": 2,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "deepseek",
+      "llm",
+      "visual-editor"
+    ],
+    "created_at": "2025-09-24T04:59:12",
+    "updated_at": "2025-10-18T09:39:03"
+  },
+  {
+    "name": "adk_training",
+    "full_name": "raphaelmansuy/adk_training",
+    "description": "Google ADK Training Hub / Google ADK Agents from first Principles",
+    "url": "https://github.com/raphaelmansuy/adk_training",
+    "stars": 11,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "adk-python",
+      "ai",
+      "ai-agents",
+      "google",
+      "training-materials"
+    ],
+    "created_at": "2025-10-08T11:23:33",
+    "updated_at": "2025-10-18T12:47:10"
+  },
+  {
+    "name": "agentic-guardrails",
+    "full_name": "FareedKhan-dev/agentic-guardrails",
+    "description": "Layered guardrails to make agentic AI safer and more reliable.",
+    "url": "https://github.com/FareedKhan-dev/agentic-guardrails",
+    "stars": 22,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "guardrails",
+      "langchain",
+      "python",
+      "rag"
+    ],
+    "created_at": "2025-10-05T18:41:52",
+    "updated_at": "2025-10-18T12:41:54"
+  },
+  {
+    "name": "ios-simulator-skill",
+    "full_name": "conorluddy/ios-simulator-skill",
+    "description": "An IOS Simulator Skill for ClaudeCode. Drop it into .claude/skills/ios-simulator-skill and it will let Claude drive the device. Prefers nav via accessibility over screenshots, for perf, but can use both.",
+    "url": "https://github.com/conorluddy/ios-simulator-skill",
+    "stars": 18,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
+      "agent",
+      "agentic-ai",
       "ai-agents",
-      "aiml",
-      "learing",
-      "learning-by-doing",
-      "py",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-skills",
+      "claudecode",
+      "claudeskills",
+      "dx",
+      "ios",
+      "iossimulator",
+      "mcp",
+      "mcp-tools",
       "python",
-      "python-script"
+      "simulator",
+      "skills",
+      "testing",
+      "tooling",
+      "xcode"
     ],
-    "created_at": "2025-10-10T07:51:07",
-    "updated_at": "2025-10-18T05:08:07"
+    "created_at": "2025-10-17T12:43:15",
+    "updated_at": "2025-10-18T11:46:29"
   },
   {
-    "name": "infera",
-    "full_name": "CogitatorTech/infera",
-    "description": "A DuckDB extension for in-database inference",
-    "url": "https://github.com/CogitatorTech/infera",
-    "stars": 77,
+    "name": "Snake-double-deep-Q-learning",
+    "full_name": "tuan-nv0505/Snake-double-deep-Q-learning",
+    "description": "Deep Q-learning (DQL) for playing Snake game",
+    "url": "https://github.com/tuan-nv0505/Snake-double-deep-Q-learning",
+    "stars": 7,
     "daily_stars": 1,
-    "language": "Rust",
+    "language": "Python",
     "topics": [
-      "duckdb",
-      "duckdb-extension",
-      "inference",
-      "machine-learning",
-      "onnx",
-      "rust"
-    ],
-    "created_at": "2025-09-26T07:04:17",
-    "updated_at": "2025-10-18T05:33:40"
-  },
-  {
-    "name": "ace-g",
-    "full_name": "nianticspatial/ace-g",
-    "description": "[ICCV 2025] ACE-G is an architecture and pre-training scheme to improve generalization for scene coordinate regression-based visual relocalization.",
-    "url": "https://github.com/nianticspatial/ace-g",
-    "stars": 25,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "camera-relocalization",
-      "computer-vision",
+      "ai",
+      "ai-agents",
       "deep-learning",
-      "iccv",
-      "machine-learning",
-      "pose-estimation",
-      "scene-coordinate-regression",
-      "visual-relocalization"
+      "deep-neural-networks",
+      "deep-q-learning",
+      "deep-q-network",
+      "deep-reinforcement-learning",
+      "double-deep-q-network",
+      "dql",
+      "python",
+      "pytorch",
+      "reinforcement-learning",
+      "snake-game"
     ],
-    "created_at": "2025-10-09T13:37:06",
-    "updated_at": "2025-10-18T05:13:13"
+    "created_at": "2025-10-12T15:07:06",
+    "updated_at": "2025-10-18T08:48:56"
+  },
+  {
+    "name": "ace-playbook",
+    "full_name": "jmanhype/ace-playbook",
+    "description": "Self-improving LLM system using Generator-Reflector-Curator pattern for online learning from execution feedback",
+    "url": "https://github.com/jmanhype/ace-playbook",
+    "stars": 14,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-10-13T21:27:38",
+    "updated_at": "2025-10-18T10:20:37"
   }
 ]
