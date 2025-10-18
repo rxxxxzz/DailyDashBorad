@@ -1,23 +1,41 @@
 [
   {
+    "name": "agentic-context-engine",
+    "full_name": "kayba-ai/agentic-context-engine",
+    "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
+    "url": "https://github.com/kayba-ai/agentic-context-engine",
+    "stars": 27,
+    "daily_stars": 10,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "context-engineering",
+      "llm",
+      "python"
+    ],
+    "created_at": "2025-10-15T15:36:20",
+    "updated_at": "2025-10-18T20:26:39"
+  },
+  {
     "name": "AMH-Tokenizer",
     "full_name": "sefineh-ai/AMH-Tokenizer",
     "description": "Syllable-aware BPE tokenizer for the Amharic language (አማርኛ) – fast, accurate, trainable.",
     "url": "https://github.com/sefineh-ai/AMH-Tokenizer",
-    "stars": 65,
-    "daily_stars": 8,
+    "stars": 69,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [],
     "created_at": "2025-10-14T11:42:42",
-    "updated_at": "2025-10-18T16:17:11"
+    "updated_at": "2025-10-18T20:08:35"
   },
   {
     "name": "ios-simulator-skill",
     "full_name": "conorluddy/ios-simulator-skill",
     "description": "An IOS Simulator Skill for ClaudeCode. Drop it into .claude/skills/ios-simulator-skill and it will let Claude drive the device. Prefers nav via accessibility over screenshots, for perf, but can use both.",
     "url": "https://github.com/conorluddy/ios-simulator-skill",
-    "stars": 23,
-    "daily_stars": 5,
+    "stars": 26,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "agent",
@@ -42,15 +60,45 @@
       "xcode"
     ],
     "created_at": "2025-10-17T12:43:15",
-    "updated_at": "2025-10-18T16:12:54"
+    "updated_at": "2025-10-18T20:05:18"
+  },
+  {
+    "name": "tiny-recursive-model",
+    "full_name": "lucidrains/tiny-recursive-model",
+    "description": "Implementation of Tiny Recursive Model (TRM), improvement to HRM from Sapient AI, by Alexia Jolicoeur-Martineau",
+    "url": "https://github.com/lucidrains/tiny-recursive-model",
+    "stars": 92,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-10-07T18:19:09",
+    "updated_at": "2025-10-18T17:47:51"
+  },
+  {
+    "name": "rules",
+    "full_name": "project-codeguard/rules",
+    "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
+    "url": "https://github.com/project-codeguard/rules",
+    "stars": 46,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-security",
+      "coding-agents",
+      "cybersecurity"
+    ],
+    "created_at": "2025-10-12T15:24:53",
+    "updated_at": "2025-10-18T17:09:48"
   },
   {
     "name": "volcano-sdk",
     "full_name": "Kong/volcano-sdk",
     "description": "🌋 Build AI agents that seamlessly combine LLM reasoning with real-world actions via MCP tools — in just a few lines of TypeScript.",
     "url": "https://github.com/Kong/volcano-sdk",
-    "stars": 183,
-    "daily_stars": 3,
+    "stars": 184,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "agentic",
@@ -68,152 +116,77 @@
       "sdk"
     ],
     "created_at": "2025-09-22T22:32:21",
-    "updated_at": "2025-10-18T15:11:46"
+    "updated_at": "2025-10-18T17:00:05"
   },
   {
-    "name": "open-computer-use",
-    "full_name": "LLmHub-dev/open-computer-use",
-    "description": "Autonomous virtual computer agents at scale, fully open-source, safe, auditable, and production-ready.",
-    "url": "https://github.com/LLmHub-dev/open-computer-use",
-    "stars": 157,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "agentic-framework",
-      "ai",
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "cli-tools",
-      "computer-control",
-      "computer-use",
-      "computer-use-agent",
-      "full-stack",
-      "gemini-api",
-      "google-api",
-      "gui-automation",
-      "llm",
-      "llm-agents",
-      "mistral",
-      "openai",
-      "saas-application",
-      "xai"
-    ],
-    "created_at": "2025-10-11T18:57:20",
-    "updated_at": "2025-10-18T16:13:10"
-  },
-  {
-    "name": "rules",
-    "full_name": "project-codeguard/rules",
-    "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
-    "url": "https://github.com/project-codeguard/rules",
-    "stars": 44,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-security",
-      "coding-agents",
-      "cybersecurity"
-    ],
-    "created_at": "2025-10-12T15:24:53",
-    "updated_at": "2025-10-18T16:40:56"
-  },
-  {
-    "name": "free-ai-resources-x",
-    "full_name": "CelaDaniel/free-ai-resources-x",
-    "description": "A curated collection of free, high quality AI tools 🤖, APIs 🔗, datasets 📊, and learning resources 📚 covering machine learning 🧠, deep learning 🧩, generative AI 🎨, NLP 💬, and data science 📈. Designed to help developers 👩‍💻, researchers 🔬, and creators ✨ explore and build with AI faster ⚡.",
-    "url": "https://github.com/CelaDaniel/free-ai-resources-x",
-    "stars": 8,
-    "daily_stars": 2,
+    "name": "neural-grok",
+    "full_name": "lucidrains/neural-grok",
+    "description": "Explorations into the proposed NeuralGrok from Zhou et al. of EPFL",
+    "url": "https://github.com/lucidrains/neural-grok",
+    "stars": 5,
+    "daily_stars": 1,
     "language": null,
     "topics": [],
-    "created_at": "2025-10-17T17:37:17",
-    "updated_at": "2025-10-18T14:39:29"
+    "created_at": "2025-10-18T12:50:38",
+    "updated_at": "2025-10-18T19:47:01"
   },
   {
-    "name": "tiny-recursive-model",
-    "full_name": "lucidrains/tiny-recursive-model",
-    "description": "Implementation of Tiny Recursive Model (TRM), improvement to HRM from Sapient AI, by Alexia Jolicoeur-Martineau",
-    "url": "https://github.com/lucidrains/tiny-recursive-model",
-    "stars": 90,
+    "name": "all-agentic-architectures",
+    "full_name": "FareedKhan-dev/all-agentic-architectures",
+    "description": "Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.",
+    "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
+    "stars": 222,
     "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-10-07T18:19:09",
-    "updated_at": "2025-10-18T14:37:47"
-  },
-  {
-    "name": "agentic-context-engine",
-    "full_name": "kayba-ai/agentic-context-engine",
-    "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
-    "url": "https://github.com/kayba-ai/agentic-context-engine",
-    "stars": 17,
-    "daily_stars": 1,
-    "language": "Python",
+    "language": "Jupyter Notebook",
     "topics": [
+      "agentic-ai",
       "ai-agents",
-      "ai-tools",
-      "context-engineering",
-      "llm",
-      "python"
+      "langchain",
+      "langgraph",
+      "langsmith",
+      "llm"
     ],
-    "created_at": "2025-10-15T15:36:20",
-    "updated_at": "2025-10-18T14:14:55"
+    "created_at": "2025-09-24T11:47:58",
+    "updated_at": "2025-10-18T18:36:24"
   },
   {
-    "name": "fraud-detection-system",
-    "full_name": "sunnynguyen-ai/fraud-detection-system",
-    "description": "Real-time fraud detection system using ensemble ML models, featuring streaming data processing, explainable AI with SHAP, and production-ready deployment with FastAPI and Docker.",
-    "url": "https://github.com/sunnynguyen-ai/fraud-detection-system",
-    "stars": 19,
+    "name": "infera",
+    "full_name": "CogitatorTech/infera",
+    "description": "A DuckDB extension for in-database inference",
+    "url": "https://github.com/CogitatorTech/infera",
+    "stars": 78,
     "daily_stars": 1,
-    "language": "Python",
+    "language": "Rust",
     "topics": [
-      "data-science",
-      "docker",
-      "ensemble-models",
-      "fastapi",
-      "feature-engineering",
-      "fraud-detection",
+      "duckdb",
+      "duckdb-extension",
+      "inference",
       "machine-learning",
-      "mlops",
-      "production-ml",
-      "python",
-      "random-forest",
-      "real-time-ml",
-      "shap",
-      "streamlit",
-      "xgboost"
+      "onnx",
+      "rust"
     ],
-    "created_at": "2025-09-20T12:14:04",
-    "updated_at": "2025-10-18T16:31:52"
+    "created_at": "2025-09-26T07:04:17",
+    "updated_at": "2025-10-18T17:59:20"
   },
   {
-    "name": "Market-Basket-Analysis",
-    "full_name": "AmirhosseinHonardoust/Market-Basket-Analysis",
-    "description": "Python project for Market Basket Analysis. Generates synthetic retail transactions, mines frequent itemsets using Apriori & FP-Growth, derives association rules, and outputs CSVs + visualizations. Portfolio-ready example demonstrating data science methods for uncovering product co-purchase patterns.",
-    "url": "https://github.com/AmirhosseinHonardoust/Market-Basket-Analysis",
-    "stars": 10,
+    "name": "ace-g",
+    "full_name": "nianticspatial/ace-g",
+    "description": "[ICCV 2025] ACE-G is an architecture and pre-training scheme to improve generalization for scene coordinate regression-based visual relocalization.",
+    "url": "https://github.com/nianticspatial/ace-g",
+    "stars": 26,
     "daily_stars": 1,
-    "language": "Python",
+    "language": null,
     "topics": [
-      "apriori",
-      "association-rules",
-      "customer-behavior",
-      "data-science",
-      "fp-growth",
-      "frequent-itemset-mining",
+      "camera-relocalization",
+      "computer-vision",
+      "deep-learning",
+      "iccv",
       "machine-learning",
-      "market-basket-analysis",
-      "mlxtend",
-      "portfolio-project",
-      "python",
-      "retail-analytics"
+      "pose-estimation",
+      "scene-coordinate-regression",
+      "visual-relocalization"
     ],
-    "created_at": "2025-09-25T11:55:48",
-    "updated_at": "2025-10-18T13:07:24"
+    "created_at": "2025-10-09T13:37:06",
+    "updated_at": "2025-10-18T17:42:09"
   }
 ]
