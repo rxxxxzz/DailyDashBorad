@@ -1,37 +1,35 @@
 [
   {
-    "name": "volcano-sdk",
-    "full_name": "Kong/volcano-sdk",
-    "description": "🌋 Build AI agents that seamlessly combine LLM reasoning with real-world actions via MCP tools — in just a few lines of TypeScript.",
-    "url": "https://github.com/Kong/volcano-sdk",
-    "stars": 188,
-    "daily_stars": 4,
-    "language": "TypeScript",
-    "topics": [
-      "agentic",
-      "agentic-ai",
-      "agentic-framework",
-      "agents",
-      "ai",
-      "artificial-intelligence",
-      "automation",
-      "genai",
-      "mcp",
-      "mcp-client",
-      "mcp-server",
-      "mcp-tools",
-      "sdk"
-    ],
-    "created_at": "2025-09-22T22:32:21",
-    "updated_at": "2025-10-19T01:04:04"
+    "name": "dreamer4",
+    "full_name": "lucidrains/dreamer4",
+    "description": "Implementation of Danijar's latest iteration for his Dreamer line of work, the new SOTA for model-based RL",
+    "url": "https://github.com/lucidrains/dreamer4",
+    "stars": 80,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-09-30T12:58:16",
+    "updated_at": "2025-10-19T02:46:49"
+  },
+  {
+    "name": "free-ai-resources-x",
+    "full_name": "CelaDaniel/free-ai-resources-x",
+    "description": "A curated collection of free, high quality AI tools 🤖, APIs 🔗, datasets 📊, and learning resources 📚 covering machine learning 🧠, deep learning 🧩, generative AI 🎨, NLP 💬, and data science 📈. Designed to help developers 👩‍💻, researchers 🔬, and creators ✨ explore and build with AI faster ⚡.",
+    "url": "https://github.com/CelaDaniel/free-ai-resources-x",
+    "stars": 11,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [],
+    "created_at": "2025-10-17T17:37:17",
+    "updated_at": "2025-10-19T03:51:24"
   },
   {
     "name": "open-computer-use",
     "full_name": "LLmHub-dev/open-computer-use",
     "description": "Autonomous virtual computer agents at scale, fully open-source, safe, auditable, and production-ready.",
     "url": "https://github.com/LLmHub-dev/open-computer-use",
-    "stars": 161,
-    "daily_stars": 4,
+    "stars": 162,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -56,15 +54,15 @@
       "xai"
     ],
     "created_at": "2025-10-11T18:57:20",
-    "updated_at": "2025-10-19T00:12:23"
+    "updated_at": "2025-10-19T04:21:33"
   },
   {
     "name": "rules",
     "full_name": "project-codeguard/rules",
     "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
     "url": "https://github.com/project-codeguard/rules",
-    "stars": 50,
-    "daily_stars": 4,
+    "stars": 51,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai",
@@ -74,58 +72,98 @@
       "cybersecurity"
     ],
     "created_at": "2025-10-12T15:24:53",
-    "updated_at": "2025-10-19T01:02:24"
+    "updated_at": "2025-10-19T03:04:01"
   },
   {
-    "name": "ios-simulator-skill",
-    "full_name": "conorluddy/ios-simulator-skill",
-    "description": "An IOS Simulator Skill for ClaudeCode. Drop it into .claude/skills/ios-simulator-skill and it will let Claude drive the device. Prefers nav via accessibility over screenshots, for perf, but can use both.",
-    "url": "https://github.com/conorluddy/ios-simulator-skill",
-    "stars": 30,
-    "daily_stars": 4,
+    "name": "haif",
+    "full_name": "Branexai/haif",
+    "description": "Production-ready microservices framework for AI inference over RPC. It provides a Gateway for client requests, an Orchestrator that schedules work, a Registry for model metadata, Workers that run inference, and a full observability stack (Prometheus, Grafana, Loki, Jaeger) — all wired together with Docker Compose.",
+    "url": "https://github.com/Branexai/haif",
+    "stars": 13,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "huggingface",
+      "huggingface-transformers",
+      "hyperswarm",
+      "nodejs",
+      "rpc"
+    ],
+    "created_at": "2025-10-07T14:12:29",
+    "updated_at": "2025-10-19T04:16:22"
+  },
+  {
+    "name": "ace-playbook",
+    "full_name": "jmanhype/ace-playbook",
+    "description": "Self-improving LLM system using Generator-Reflector-Curator pattern for online learning from execution feedback",
+    "url": "https://github.com/jmanhype/ace-playbook",
+    "stars": 17,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-10-13T21:27:38",
+    "updated_at": "2025-10-19T03:35:52"
+  },
+  {
+    "name": "jarvis",
+    "full_name": "vannu07/jarvis",
+    "description": "🤖 Jarvis - AI Voice Assistant with Face Recognition | Hacktoberfest 2025 Friendly | Built with Python, OpenCV, and Modern Web Technologies",
+    "url": "https://github.com/vannu07/jarvis",
+    "stars": 13,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-10-11T17:54:16",
+    "updated_at": "2025-10-19T02:47:23"
+  },
+  {
+    "name": "adaptive-sparse-training",
+    "full_name": "oluwafemidiakhoa/adaptive-sparse-training",
+    "description": "Energy-efficient deep learning with Adaptive Sparse Training - 89.6% energy savings, 11.5× speedup on CIFAR-10",
+    "url": "https://github.com/oluwafemidiakhoa/adaptive-sparse-training",
+    "stars": 2,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "agent",
+      "adaptive-training",
+      "cifar100",
+      "deep-learning",
+      "energy-efficient",
+      "green-ai",
+      "machine-learning",
+      "production-ready",
+      "pytorch"
+    ],
+    "created_at": "2025-10-15T18:13:25",
+    "updated_at": "2025-10-19T04:08:12"
+  },
+  {
+    "name": "volcano-sdk",
+    "full_name": "Kong/volcano-sdk",
+    "description": "🌋 Build AI agents that seamlessly combine LLM reasoning with real-world actions via MCP tools — in just a few lines of TypeScript.",
+    "url": "https://github.com/Kong/volcano-sdk",
+    "stars": 188,
+    "daily_stars": 0,
+    "language": "TypeScript",
+    "topics": [
+      "agentic",
       "agentic-ai",
-      "ai-agents",
-      "claude",
-      "claude-ai",
-      "claude-code",
-      "claude-skills",
-      "claudecode",
-      "claudeskills",
-      "dx",
-      "ios",
-      "iossimulator",
+      "agentic-framework",
+      "agents",
+      "ai",
+      "artificial-intelligence",
+      "automation",
+      "genai",
       "mcp",
+      "mcp-client",
+      "mcp-server",
       "mcp-tools",
-      "python",
-      "simulator",
-      "skills",
-      "testing",
-      "tooling",
-      "xcode"
+      "sdk"
     ],
-    "created_at": "2025-10-17T12:43:15",
-    "updated_at": "2025-10-19T01:41:05"
-  },
-  {
-    "name": "agentic-context-engine",
-    "full_name": "kayba-ai/agentic-context-engine",
-    "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
-    "url": "https://github.com/kayba-ai/agentic-context-engine",
-    "stars": 30,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "context-engineering",
-      "llm",
-      "python"
-    ],
-    "created_at": "2025-10-15T15:36:20",
-    "updated_at": "2025-10-18T22:50:13"
+    "created_at": "2025-09-22T22:32:21",
+    "updated_at": "2025-10-19T01:04:04"
   },
   {
     "name": "tiny-recursive-model",
@@ -133,65 +171,10 @@
     "description": "Implementation of Tiny Recursive Model (TRM), improvement to HRM from Sapient AI, by Alexia Jolicoeur-Martineau",
     "url": "https://github.com/lucidrains/tiny-recursive-model",
     "stars": 94,
-    "daily_stars": 2,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [],
     "created_at": "2025-10-07T18:19:09",
     "updated_at": "2025-10-19T01:41:45"
-  },
-  {
-    "name": "free-ai-resources-x",
-    "full_name": "CelaDaniel/free-ai-resources-x",
-    "description": "A curated collection of free, high quality AI tools 🤖, APIs 🔗, datasets 📊, and learning resources 📚 covering machine learning 🧠, deep learning 🧩, generative AI 🎨, NLP 💬, and data science 📈. Designed to help developers 👩‍💻, researchers 🔬, and creators ✨ explore and build with AI faster ⚡.",
-    "url": "https://github.com/CelaDaniel/free-ai-resources-x",
-    "stars": 10,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [],
-    "created_at": "2025-10-17T17:37:17",
-    "updated_at": "2025-10-19T00:43:39"
-  },
-  {
-    "name": "AMH-Tokenizer",
-    "full_name": "sefineh-ai/AMH-Tokenizer",
-    "description": "Syllable-aware BPE tokenizer for the Amharic language (አማርኛ) – fast, accurate, trainable.",
-    "url": "https://github.com/sefineh-ai/AMH-Tokenizer",
-    "stars": 71,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-10-14T11:42:42",
-    "updated_at": "2025-10-18T21:03:16"
-  },
-  {
-    "name": "ace-playbook",
-    "full_name": "jmanhype/ace-playbook",
-    "description": "Self-improving LLM system using Generator-Reflector-Curator pattern for online learning from execution feedback",
-    "url": "https://github.com/jmanhype/ace-playbook",
-    "stars": 16,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-10-13T21:27:38",
-    "updated_at": "2025-10-19T02:16:44"
-  },
-  {
-    "name": "all-agentic-architectures",
-    "full_name": "FareedKhan-dev/all-agentic-architectures",
-    "description": "Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.",
-    "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
-    "stars": 223,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "langchain",
-      "langgraph",
-      "langsmith",
-      "llm"
-    ],
-    "created_at": "2025-09-24T11:47:58",
-    "updated_at": "2025-10-19T00:44:40"
   }
 ]
