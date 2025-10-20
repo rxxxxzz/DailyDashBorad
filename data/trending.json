@@ -1,10 +1,46 @@
 [
   {
+    "name": "agentic-context-engine",
+    "full_name": "kayba-ai/agentic-context-engine",
+    "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
+    "url": "https://github.com/kayba-ai/agentic-context-engine",
+    "stars": 77,
+    "daily_stars": 36,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "context-engineering",
+      "llm",
+      "python"
+    ],
+    "created_at": "2025-10-15T15:36:20",
+    "updated_at": "2025-10-20T02:21:18"
+  },
+  {
+    "name": "rules",
+    "full_name": "project-codeguard/rules",
+    "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
+    "url": "https://github.com/project-codeguard/rules",
+    "stars": 84,
+    "daily_stars": 23,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-security",
+      "coding-agents",
+      "cybersecurity"
+    ],
+    "created_at": "2025-10-12T15:24:53",
+    "updated_at": "2025-10-20T02:20:25"
+  },
+  {
     "name": "volcano-sdk",
     "full_name": "Kong/volcano-sdk",
     "description": "🌋 Build AI agents that seamlessly combine LLM reasoning with real-world actions via MCP tools — in just a few lines of TypeScript.",
     "url": "https://github.com/Kong/volcano-sdk",
-    "stars": 249,
+    "stars": 269,
     "daily_stars": 20,
     "language": "TypeScript",
     "topics": [
@@ -23,78 +59,85 @@
       "sdk"
     ],
     "created_at": "2025-09-22T22:32:21",
-    "updated_at": "2025-10-19T20:10:37"
+    "updated_at": "2025-10-20T01:48:26"
   },
   {
-    "name": "agentic-context-engine",
-    "full_name": "kayba-ai/agentic-context-engine",
-    "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
-    "url": "https://github.com/kayba-ai/agentic-context-engine",
-    "stars": 41,
+    "name": "ai-expense-tracker-n8n",
+    "full_name": "matiasvallejosdev/ai-expense-tracker-n8n",
+    "description": "AI-driven personal finance automation using n8n and Google Drive to extract and categorize PDF expenses into Google Sheets.",
+    "url": "https://github.com/matiasvallejosdev/ai-expense-tracker-n8n",
+    "stars": 15,
     "daily_stars": 5,
-    "language": "Python",
+    "language": null,
     "topics": [
       "ai-agents",
-      "ai-tools",
-      "context-engineering",
-      "llm",
-      "python"
+      "automation",
+      "google-sheets",
+      "n8n",
+      "openai",
+      "personal-finance"
     ],
-    "created_at": "2025-10-15T15:36:20",
-    "updated_at": "2025-10-19T20:38:29"
+    "created_at": "2025-10-18T18:22:10",
+    "updated_at": "2025-10-20T01:43:27"
   },
   {
-    "name": "AMH-Tokenizer",
-    "full_name": "sefineh-ai/AMH-Tokenizer",
-    "description": "Syllable-aware BPE tokenizer for the Amharic language (አማርኛ) – fast, accurate, trainable.",
-    "url": "https://github.com/sefineh-ai/AMH-Tokenizer",
-    "stars": 77,
+    "name": "ace-g",
+    "full_name": "nianticspatial/ace-g",
+    "description": "[ICCV 2025] ACE-G is an architecture and pre-training scheme to improve generalization for scene coordinate regression-based visual relocalization.",
+    "url": "https://github.com/nianticspatial/ace-g",
+    "stars": 31,
     "daily_stars": 4,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-10-14T11:42:42",
-    "updated_at": "2025-10-19T20:11:20"
+    "language": null,
+    "topics": [
+      "camera-relocalization",
+      "computer-vision",
+      "deep-learning",
+      "iccv",
+      "machine-learning",
+      "pose-estimation",
+      "scene-coordinate-regression",
+      "visual-relocalization"
+    ],
+    "created_at": "2025-10-09T13:37:06",
+    "updated_at": "2025-10-20T01:17:13"
   },
   {
-    "name": "ios-simulator-skill",
-    "full_name": "conorluddy/ios-simulator-skill",
-    "description": "An IOS Simulator Skill for ClaudeCode. Drop it into .claude/skills/ios-simulator-skill and it will let Claude drive the device. Prefers nav via accessibility over screenshots, for perf, but can use both.",
-    "url": "https://github.com/conorluddy/ios-simulator-skill",
-    "stars": 38,
+    "name": "free-ai-resources-x",
+    "full_name": "CelaDaniel/free-ai-resources-x",
+    "description": "A curated collection of free, high quality AI tools 🤖, APIs 🔗, datasets 📊, and learning resources 📚 covering machine learning 🧠, deep learning 🧩, generative AI 🎨, NLP 💬, and data science 📈. Designed to help developers 👩‍💻, researchers 🔬, and creators ✨ explore and build with AI faster ⚡.",
+    "url": "https://github.com/CelaDaniel/free-ai-resources-x",
+    "stars": 16,
     "daily_stars": 3,
-    "language": "Python",
+    "language": null,
+    "topics": [],
+    "created_at": "2025-10-17T17:37:17",
+    "updated_at": "2025-10-20T01:42:22"
+  },
+  {
+    "name": "upage",
+    "full_name": "halo-dev/upage",
+    "description": "🔥 一款基于大模型的可视化网页构建平台，Lovable 开源替代。",
+    "url": "https://github.com/halo-dev/upage",
+    "stars": 198,
+    "daily_stars": 3,
+    "language": "TypeScript",
     "topics": [
-      "agent",
-      "agentic-ai",
+      "ai",
       "ai-agents",
-      "claude",
-      "claude-ai",
-      "claude-code",
-      "claude-skills",
-      "claudecode",
-      "claudeskills",
-      "dx",
-      "ios",
-      "iossimulator",
-      "mcp",
-      "mcp-tools",
-      "python",
-      "simulator",
-      "skills",
-      "testing",
-      "tooling",
-      "xcode"
+      "deepseek",
+      "llm",
+      "visual-editor"
     ],
-    "created_at": "2025-10-17T12:43:15",
-    "updated_at": "2025-10-19T19:05:25"
+    "created_at": "2025-09-24T04:59:12",
+    "updated_at": "2025-10-20T02:09:37"
   },
   {
     "name": "open-computer-use",
     "full_name": "LLmHub-dev/open-computer-use",
     "description": "Autonomous virtual computer agents at scale, fully open-source, safe, auditable, and production-ready.",
     "url": "https://github.com/LLmHub-dev/open-computer-use",
-    "stars": 167,
-    "daily_stars": 2,
+    "stars": 170,
+    "daily_stars": 3,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -119,88 +162,51 @@
       "xai"
     ],
     "created_at": "2025-10-11T18:57:20",
-    "updated_at": "2025-10-19T18:15:38"
+    "updated_at": "2025-10-20T01:43:45"
   },
   {
-    "name": "rules",
-    "full_name": "project-codeguard/rules",
-    "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
-    "url": "https://github.com/project-codeguard/rules",
-    "stars": 61,
+    "name": "ios-simulator-skill",
+    "full_name": "conorluddy/ios-simulator-skill",
+    "description": "An IOS Simulator Skill for ClaudeCode. Drop it into .claude/skills/ios-simulator-skill and it will let Claude drive the device. Prefers nav via accessibility over screenshots, for perf, but can use both.",
+    "url": "https://github.com/conorluddy/ios-simulator-skill",
+    "stars": 40,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
-      "ai",
+      "agent",
+      "agentic-ai",
       "ai-agents",
-      "ai-security",
-      "coding-agents",
-      "cybersecurity"
-    ],
-    "created_at": "2025-10-12T15:24:53",
-    "updated_at": "2025-10-19T20:14:54"
-  },
-  {
-    "name": "claude-skills-marketplace",
-    "full_name": "mhattingpete/claude-skills-marketplace",
-    "description": "Claude Code Skills for software engineering workflows - Git automation, testing, and code review",
-    "url": "https://github.com/mhattingpete/claude-skills-marketplace",
-    "stars": 8,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "automation",
+      "claude",
+      "claude-ai",
       "claude-code",
       "claude-skills",
-      "developer-tools"
+      "claudecode",
+      "claudeskills",
+      "dx",
+      "ios",
+      "iossimulator",
+      "mcp",
+      "mcp-tools",
+      "python",
+      "simulator",
+      "skills",
+      "testing",
+      "tooling",
+      "xcode"
     ],
-    "created_at": "2025-10-17T12:02:19",
-    "updated_at": "2025-10-19T18:07:43"
+    "created_at": "2025-10-17T12:43:15",
+    "updated_at": "2025-10-20T02:07:00"
   },
   {
-    "name": "tiny-recursive-model",
-    "full_name": "lucidrains/tiny-recursive-model",
-    "description": "Implementation of Tiny Recursive Model (TRM), improvement to HRM from Sapient AI, by Alexia Jolicoeur-Martineau",
-    "url": "https://github.com/lucidrains/tiny-recursive-model",
-    "stars": 98,
-    "daily_stars": 1,
+    "name": "MAPS",
+    "full_name": "ScopeX-ASU/MAPS",
+    "description": "AI-assisted Photonic Device Inverse Design Framework, MAPS DATE 2025",
+    "url": "https://github.com/ScopeX-ASU/MAPS",
+    "stars": 14,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [],
-    "created_at": "2025-10-07T18:19:09",
-    "updated_at": "2025-10-19T19:31:23"
-  },
-  {
-    "name": "upage",
-    "full_name": "halo-dev/upage",
-    "description": "🔥 一款基于大模型的可视化网页构建平台，Lovable 开源替代。",
-    "url": "https://github.com/halo-dev/upage",
-    "stars": 195,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "deepseek",
-      "llm",
-      "visual-editor"
-    ],
-    "created_at": "2025-09-24T04:59:12",
-    "updated_at": "2025-10-19T19:02:12"
-  },
-  {
-    "name": "Customer_support_agent",
-    "full_name": "marksantiago02/Customer_support_agent",
-    "description": "Customer support AI Agent",
-    "url": "https://github.com/marksantiago02/Customer_support_agent",
-    "stars": 22,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "customer-support-ai"
-    ],
-    "created_at": "2025-10-03T21:26:03",
-    "updated_at": "2025-10-19T20:37:29"
+    "created_at": "2025-10-19T06:33:52",
+    "updated_at": "2025-10-20T02:12:02"
   }
 ]
