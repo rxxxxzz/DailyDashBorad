@@ -4,8 +4,8 @@
     "full_name": "project-codeguard/rules",
     "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
     "url": "https://github.com/project-codeguard/rules",
-    "stars": 84,
-    "daily_stars": 23,
+    "stars": 93,
+    "daily_stars": 9,
     "language": "Python",
     "topics": [
       "ai",
@@ -15,7 +15,25 @@
       "cybersecurity"
     ],
     "created_at": "2025-10-12T15:24:53",
-    "updated_at": "2025-10-20T02:20:25"
+    "updated_at": "2025-10-20T04:33:02"
+  },
+  {
+    "name": "agentic-context-engine",
+    "full_name": "kayba-ai/agentic-context-engine",
+    "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
+    "url": "https://github.com/kayba-ai/agentic-context-engine",
+    "stars": 83,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "context-engineering",
+      "llm",
+      "python"
+    ],
+    "created_at": "2025-10-15T15:36:20",
+    "updated_at": "2025-10-20T04:34:53"
   },
   {
     "name": "AMH-Tokenizer",
@@ -23,7 +41,7 @@
     "description": "Syllable-aware BPE tokenizer for the Amharic language (አማርኛ) – fast, accurate, trainable.",
     "url": "https://github.com/sefineh-ai/AMH-Tokenizer",
     "stars": 78,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [],
     "created_at": "2025-10-14T11:42:42",
@@ -42,30 +60,12 @@
     "updated_at": "2025-10-19T22:46:50"
   },
   {
-    "name": "agentic-context-engine",
-    "full_name": "kayba-ai/agentic-context-engine",
-    "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
-    "url": "https://github.com/kayba-ai/agentic-context-engine",
-    "stars": 77,
-    "daily_stars": 36,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "context-engineering",
-      "llm",
-      "python"
-    ],
-    "created_at": "2025-10-15T15:36:20",
-    "updated_at": "2025-10-20T02:21:18"
-  },
-  {
     "name": "ios-simulator-skill",
     "full_name": "conorluddy/ios-simulator-skill",
     "description": "An IOS Simulator Skill for ClaudeCode. Drop it into .claude/skills/ios-simulator-skill and it will let Claude drive the device. Prefers nav via accessibility over screenshots, for perf, but can use both.",
     "url": "https://github.com/conorluddy/ios-simulator-skill",
     "stars": 40,
-    "daily_stars": 2,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "agent",
@@ -93,6 +93,24 @@
     "updated_at": "2025-10-20T02:07:00"
   },
   {
+    "name": "freephdlabor",
+    "full_name": "ltjed/freephdlabor",
+    "description": "freephdlabor: customizing personalized research groups that works 24/7 on your own scientific problem",
+    "url": "https://github.com/ltjed/freephdlabor",
+    "stars": 21,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai4science",
+      "autonomous-agents",
+      "multiagent-systems",
+      "research-automation"
+    ],
+    "created_at": "2025-10-20T01:59:07",
+    "updated_at": "2025-10-20T04:38:35"
+  },
+  {
     "name": "ace-playbook",
     "full_name": "jmanhype/ace-playbook",
     "description": "Self-improving LLM system using Generator-Reflector-Curator pattern for online learning from execution feedback",
@@ -105,12 +123,24 @@
     "updated_at": "2025-10-19T20:43:22"
   },
   {
+    "name": "MAPS",
+    "full_name": "ScopeX-ASU/MAPS",
+    "description": "AI-assisted Photonic Device Inverse Design Framework, MAPS DATE 2025",
+    "url": "https://github.com/ScopeX-ASU/MAPS",
+    "stars": 18,
+    "daily_stars": 4,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-10-19T06:33:52",
+    "updated_at": "2025-10-20T03:49:02"
+  },
+  {
     "name": "free-ai-resources-x",
     "full_name": "CelaDaniel/free-ai-resources-x",
     "description": "A curated collection of free, high quality AI tools 🤖, APIs 🔗, datasets 📊, and learning resources 📚 covering machine learning 🧠, deep learning 🧩, generative AI 🎨, NLP 💬, and data science 📈. Designed to help developers 👩‍💻, researchers 🔬, and creators ✨ explore and build with AI faster ⚡.",
     "url": "https://github.com/CelaDaniel/free-ai-resources-x",
     "stars": 16,
-    "daily_stars": 3,
+    "daily_stars": 0,
     "language": null,
     "topics": [],
     "created_at": "2025-10-17T17:37:17",
@@ -131,29 +161,5 @@
     ],
     "created_at": "2025-10-12T18:04:20",
     "updated_at": "2025-10-18T22:33:53"
-  },
-  {
-    "name": "free-ai-resources-x",
-    "full_name": "CelaDaniel/free-ai-resources-x",
-    "description": "A curated collection of free, high quality AI tools 🤖, APIs 🔗, datasets 📊, and learning resources 📚 covering machine learning 🧠, deep learning 🧩, generative AI 🎨, NLP 💬, and data science 📈. Designed to help developers 👩‍💻, researchers 🔬, and creators ✨ explore and build with AI faster ⚡.",
-    "url": "https://github.com/CelaDaniel/free-ai-resources-x",
-    "stars": 16,
-    "daily_stars": 0,
-    "language": null,
-    "topics": [],
-    "created_at": "2025-10-17T17:37:17",
-    "updated_at": "2025-10-20T01:42:22"
-  },
-  {
-    "name": "free-ai-resources-x",
-    "full_name": "CelaDaniel/free-ai-resources-x",
-    "description": "A curated collection of free, high quality AI tools 🤖, APIs 🔗, datasets 📊, and learning resources 📚 covering machine learning 🧠, deep learning 🧩, generative AI 🎨, NLP 💬, and data science 📈. Designed to help developers 👩‍💻, researchers 🔬, and creators ✨ explore and build with AI faster ⚡.",
-    "url": "https://github.com/CelaDaniel/free-ai-resources-x",
-    "stars": 16,
-    "daily_stars": 0,
-    "language": null,
-    "topics": [],
-    "created_at": "2025-10-17T17:37:17",
-    "updated_at": "2025-10-20T01:42:22"
   }
 ]
