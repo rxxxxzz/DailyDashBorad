@@ -1,29 +1,11 @@
 [
   {
-    "name": "rules",
-    "full_name": "project-codeguard/rules",
-    "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
-    "url": "https://github.com/project-codeguard/rules",
-    "stars": 110,
-    "daily_stars": 11,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-security",
-      "coding-agents",
-      "cybersecurity"
-    ],
-    "created_at": "2025-10-12T15:24:53",
-    "updated_at": "2025-10-20T12:19:27"
-  },
-  {
     "name": "agentic-context-engine",
     "full_name": "kayba-ai/agentic-context-engine",
     "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
     "url": "https://github.com/kayba-ai/agentic-context-engine",
-    "stars": 109,
-    "daily_stars": 14,
+    "stars": 125,
+    "daily_stars": 16,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -33,15 +15,15 @@
       "python"
     ],
     "created_at": "2025-10-15T15:36:20",
-    "updated_at": "2025-10-20T12:57:19"
+    "updated_at": "2025-10-20T16:44:28"
   },
   {
     "name": "freephdlabor",
     "full_name": "ltjed/freephdlabor",
     "description": "freephdlabor: customizing personalized research groups that works 24/7 on your own scientific problem",
     "url": "https://github.com/ltjed/freephdlabor",
-    "stars": 82,
-    "daily_stars": 29,
+    "stars": 109,
+    "daily_stars": 27,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -51,39 +33,39 @@
       "research-automation"
     ],
     "created_at": "2025-10-20T01:59:07",
-    "updated_at": "2025-10-20T12:58:47"
+    "updated_at": "2025-10-20T16:39:54"
   },
   {
     "name": "AMH-Tokenizer",
     "full_name": "sefineh-ai/AMH-Tokenizer",
     "description": "Syllable-aware BPE tokenizer for the Amharic language (አማርኛ) – fast, accurate, trainable.",
     "url": "https://github.com/sefineh-ai/AMH-Tokenizer",
-    "stars": 80,
-    "daily_stars": 0,
+    "stars": 81,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [],
     "created_at": "2025-10-14T11:42:42",
-    "updated_at": "2025-10-20T11:21:11"
+    "updated_at": "2025-10-20T14:47:45"
   },
   {
     "name": "AMH-Tokenizer",
     "full_name": "sefineh-ai/AMH-Tokenizer",
     "description": "Syllable-aware BPE tokenizer for the Amharic language (አማርኛ) – fast, accurate, trainable.",
     "url": "https://github.com/sefineh-ai/AMH-Tokenizer",
-    "stars": 80,
+    "stars": 81,
     "daily_stars": 0,
     "language": "Python",
     "topics": [],
     "created_at": "2025-10-14T11:42:42",
-    "updated_at": "2025-10-20T11:21:11"
+    "updated_at": "2025-10-20T14:47:45"
   },
   {
     "name": "ios-simulator-skill",
     "full_name": "conorluddy/ios-simulator-skill",
     "description": "An IOS Simulator Skill for ClaudeCode. Drop it into .claude/skills/ios-simulator-skill and it will let Claude drive the device. Prefers nav via accessibility over screenshots, for perf, but can use both.",
     "url": "https://github.com/conorluddy/ios-simulator-skill",
-    "stars": 42,
-    "daily_stars": 0,
+    "stars": 43,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "agent",
@@ -108,7 +90,7 @@
       "xcode"
     ],
     "created_at": "2025-10-17T12:43:15",
-    "updated_at": "2025-10-20T07:28:02"
+    "updated_at": "2025-10-20T15:01:49"
   },
   {
     "name": "agentic-rag-for-dummies",
@@ -116,7 +98,7 @@
     "description": "A minimal Agentic RAG demo built with LangGraph — learn Retrieval-Augmented Agents in minutes.",
     "url": "https://github.com/GiovanniPasq/agentic-rag-for-dummies",
     "stars": 33,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Jupyter Notebook",
     "topics": [
       "agent",
@@ -139,42 +121,61 @@
       "retrieval-augmented-generation-rag"
     ],
     "created_at": "2025-10-13T18:51:41",
-    "updated_at": "2025-10-20T11:58:47"
+    "updated_at": "2025-10-20T13:16:25"
+  },
+  {
+    "name": "ai-expense-tracker-n8n",
+    "full_name": "matiasvallejosdev/ai-expense-tracker-n8n",
+    "description": "AI-driven personal finance automation using n8n and Google Drive to extract and categorize PDF expenses into Google Sheets.",
+    "url": "https://github.com/matiasvallejosdev/ai-expense-tracker-n8n",
+    "stars": 24,
+    "daily_stars": 4,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "automation",
+      "google-sheets",
+      "n8n",
+      "openai",
+      "personal-finance"
+    ],
+    "created_at": "2025-10-18T18:22:10",
+    "updated_at": "2025-10-20T16:43:39"
   },
   {
     "name": "MAPS",
     "full_name": "ScopeX-ASU/MAPS",
     "description": "AI-assisted Photonic Device Inverse Design Framework, MAPS DATE 2025",
     "url": "https://github.com/ScopeX-ASU/MAPS",
-    "stars": 23,
-    "daily_stars": 4,
+    "stars": 24,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [],
     "created_at": "2025-10-19T06:33:52",
-    "updated_at": "2025-10-20T12:04:03"
+    "updated_at": "2025-10-20T14:29:37"
   },
   {
     "name": "free-ai-resources-x",
     "full_name": "CelaDaniel/free-ai-resources-x",
     "description": "A curated collection of free, high quality AI tools 🤖, APIs 🔗, datasets 📊, and learning resources 📚 covering machine learning 🧠, deep learning 🧩, generative AI 🎨, NLP 💬, and data science 📈. Designed to help developers 👩‍💻, researchers 🔬, and creators ✨ explore and build with AI faster ⚡.",
     "url": "https://github.com/CelaDaniel/free-ai-resources-x",
-    "stars": 22,
-    "daily_stars": 6,
+    "stars": 23,
+    "daily_stars": 1,
     "language": null,
     "topics": [],
     "created_at": "2025-10-17T17:37:17",
-    "updated_at": "2025-10-20T12:30:44"
+    "updated_at": "2025-10-20T15:43:08"
   },
   {
     "name": "free-ai-resources-x",
     "full_name": "CelaDaniel/free-ai-resources-x",
     "description": "A curated collection of free, high quality AI tools 🤖, APIs 🔗, datasets 📊, and learning resources 📚 covering machine learning 🧠, deep learning 🧩, generative AI 🎨, NLP 💬, and data science 📈. Designed to help developers 👩‍💻, researchers 🔬, and creators ✨ explore and build with AI faster ⚡.",
     "url": "https://github.com/CelaDaniel/free-ai-resources-x",
-    "stars": 22,
+    "stars": 23,
     "daily_stars": 0,
     "language": null,
     "topics": [],
     "created_at": "2025-10-17T17:37:17",
-    "updated_at": "2025-10-20T12:30:44"
+    "updated_at": "2025-10-20T15:43:08"
   }
 ]
