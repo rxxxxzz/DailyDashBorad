@@ -1,29 +1,11 @@
 [
   {
-    "name": "OmniVinci",
-    "full_name": "NVlabs/OmniVinci",
-    "description": "OmniVinci is an omni-modal LLM for joint understanding of vision, audio, and language.",
-    "url": "https://github.com/NVlabs/OmniVinci",
-    "stars": 175,
-    "daily_stars": 22,
-    "language": "Python",
-    "topics": [
-      "audio-language-model",
-      "deep-learning",
-      "large-language-models",
-      "multimodal-large-language-models",
-      "vision-language-model"
-    ],
-    "created_at": "2025-09-24T22:46:36",
-    "updated_at": "2025-10-21T16:45:34"
-  },
-  {
     "name": "agentic-context-engine",
     "full_name": "kayba-ai/agentic-context-engine",
     "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
     "url": "https://github.com/kayba-ai/agentic-context-engine",
-    "stars": 200,
-    "daily_stars": 19,
+    "stars": 221,
+    "daily_stars": 21,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -33,15 +15,15 @@
       "python"
     ],
     "created_at": "2025-10-15T15:36:20",
-    "updated_at": "2025-10-21T16:45:28"
+    "updated_at": "2025-10-21T20:41:23"
   },
   {
     "name": "freephdlabor",
     "full_name": "ltjed/freephdlabor",
     "description": "freephdlabor: customizing personalized research groups that works 24/7 on your own scientific problem",
     "url": "https://github.com/ltjed/freephdlabor",
-    "stars": 190,
-    "daily_stars": 5,
+    "stars": 196,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -51,15 +33,106 @@
       "research-automation"
     ],
     "created_at": "2025-10-20T01:59:07",
-    "updated_at": "2025-10-21T16:31:25"
+    "updated_at": "2025-10-21T20:09:38"
+  },
+  {
+    "name": "n8n-skills",
+    "full_name": "czlonkowski/n8n-skills",
+    "description": "n8n skillset for Claude Code to build flawless n8n workflows",
+    "url": "https://github.com/czlonkowski/n8n-skills",
+    "stars": 22,
+    "daily_stars": 5,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "n8n",
+      "workflow-automation"
+    ],
+    "created_at": "2025-10-20T05:51:27",
+    "updated_at": "2025-10-21T19:47:30"
+  },
+  {
+    "name": "volcano-sdk",
+    "full_name": "Kong/volcano-sdk",
+    "description": "🌋 Build AI agents that seamlessly combine LLM reasoning with real-world actions via MCP tools — in just a few lines of TypeScript.",
+    "url": "https://github.com/Kong/volcano-sdk",
+    "stars": 311,
+    "daily_stars": 3,
+    "language": "TypeScript",
+    "topics": [
+      "agentic",
+      "agentic-ai",
+      "agentic-framework",
+      "agents",
+      "ai",
+      "artificial-intelligence",
+      "automation",
+      "genai",
+      "mcp",
+      "mcp-client",
+      "mcp-server",
+      "mcp-tools",
+      "sdk"
+    ],
+    "created_at": "2025-09-22T22:32:21",
+    "updated_at": "2025-10-21T20:07:54"
+  },
+  {
+    "name": "agentic-rag-for-dummies",
+    "full_name": "GiovanniPasq/agentic-rag-for-dummies",
+    "description": "A minimal Agentic RAG demo built with LangGraph — learn Retrieval-Augmented Agents in minutes.",
+    "url": "https://github.com/GiovanniPasq/agentic-rag-for-dummies",
+    "stars": 37,
+    "daily_stars": 3,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "agentic-rag",
+      "agents",
+      "ai-agents",
+      "bm25",
+      "generative-ai",
+      "gradio",
+      "langchain",
+      "langgraph",
+      "llm",
+      "ollama",
+      "qdrant",
+      "rag",
+      "rag-chatbot",
+      "rag-pipeline",
+      "retrieval-augmented-generation",
+      "retrieval-augmented-generation-rag"
+    ],
+    "created_at": "2025-10-13T18:51:41",
+    "updated_at": "2025-10-21T19:15:26"
+  },
+  {
+    "name": "OmniVinci",
+    "full_name": "NVlabs/OmniVinci",
+    "description": "OmniVinci is an omni-modal LLM for joint understanding of vision, audio, and language.",
+    "url": "https://github.com/NVlabs/OmniVinci",
+    "stars": 178,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "audio-language-model",
+      "deep-learning",
+      "large-language-models",
+      "multimodal-large-language-models",
+      "vision-language-model"
+    ],
+    "created_at": "2025-09-24T22:46:36",
+    "updated_at": "2025-10-21T18:27:38"
   },
   {
     "name": "rules",
     "full_name": "project-codeguard/rules",
     "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
     "url": "https://github.com/project-codeguard/rules",
-    "stars": 178,
-    "daily_stars": 4,
+    "stars": 180,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "ai",
@@ -69,126 +142,47 @@
       "cybersecurity"
     ],
     "created_at": "2025-10-12T15:24:53",
-    "updated_at": "2025-10-21T16:14:05"
+    "updated_at": "2025-10-21T20:42:32"
   },
   {
-    "name": "claude-skills-marketplace",
-    "full_name": "mhattingpete/claude-skills-marketplace",
-    "description": "Claude Code Skills for software engineering workflows - Git automation, testing, and code review",
-    "url": "https://github.com/mhattingpete/claude-skills-marketplace",
-    "stars": 25,
-    "daily_stars": 3,
-    "language": null,
+    "name": "deep-thinking-rag",
+    "full_name": "FareedKhan-dev/deep-thinking-rag",
+    "description": "A Deep Thinking RAG Pipeline to Solve Complex Queries ",
+    "url": "https://github.com/FareedKhan-dev/deep-thinking-rag",
+    "stars": 9,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
     "topics": [
       "ai-agents",
-      "anthropic",
-      "automation",
-      "claude-code",
-      "claude-skills",
-      "developer-tools"
+      "llm",
+      "llms",
+      "rag"
     ],
-    "created_at": "2025-10-17T12:02:19",
-    "updated_at": "2025-10-21T16:17:47"
+    "created_at": "2025-10-19T12:48:26",
+    "updated_at": "2025-10-21T17:35:59"
   },
   {
-    "name": "free-ai-resources-x",
-    "full_name": "CelaDaniel/free-ai-resources-x",
-    "description": "A curated collection of free, high quality AI tools 🤖, APIs 🔗, datasets 📊, and learning resources 📚 covering machine learning 🧠, deep learning 🧩, generative AI 🎨, NLP 💬, and data science 📈. Designed to help developers 👩‍💻, researchers 🔬, and creators ✨ explore and build with AI faster ⚡.",
-    "url": "https://github.com/CelaDaniel/free-ai-resources-x",
-    "stars": 29,
-    "daily_stars": 2,
-    "language": null,
+    "name": "dreamer4",
+    "full_name": "lucidrains/dreamer4",
+    "description": "Implementation of Danijar's latest iteration for his Dreamer line of work, the new SOTA for model-based RL",
+    "url": "https://github.com/lucidrains/dreamer4",
+    "stars": 81,
+    "daily_stars": 1,
+    "language": "Python",
     "topics": [],
-    "created_at": "2025-10-17T17:37:17",
-    "updated_at": "2025-10-21T16:18:36"
+    "created_at": "2025-09-30T12:58:16",
+    "updated_at": "2025-10-21T18:47:48"
   },
   {
     "name": "hippoformer",
     "full_name": "lucidrains/hippoformer",
     "description": "Implementation of Hippoformer, Integrating Hippocampus-inspired Spatial Memory with Transformers",
     "url": "https://github.com/lucidrains/hippoformer",
-    "stars": 23,
-    "daily_stars": 2,
+    "stars": 24,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [],
     "created_at": "2025-10-20T04:18:03",
-    "updated_at": "2025-10-21T15:00:19"
-  },
-  {
-    "name": "ios-simulator-skill",
-    "full_name": "conorluddy/ios-simulator-skill",
-    "description": "An IOS Simulator Skill for ClaudeCode. Drop it into .claude/skills/ios-simulator-skill and it will let Claude drive the device. Prefers nav via accessibility over screenshots, for perf, but can use both.",
-    "url": "https://github.com/conorluddy/ios-simulator-skill",
-    "stars": 52,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "ai-agents",
-      "claude",
-      "claude-ai",
-      "claude-code",
-      "claude-skills",
-      "claudecode",
-      "claudeskills",
-      "dx",
-      "ios",
-      "iossimulator",
-      "mcp",
-      "mcp-tools",
-      "python",
-      "simulator",
-      "skills",
-      "testing",
-      "tooling",
-      "xcode"
-    ],
-    "created_at": "2025-10-17T12:43:15",
-    "updated_at": "2025-10-21T15:54:38"
-  },
-  {
-    "name": "n8n-skills",
-    "full_name": "czlonkowski/n8n-skills",
-    "description": "n8n skillset for Claude Code to build flawless n8n workflows",
-    "url": "https://github.com/czlonkowski/n8n-skills",
-    "stars": 17,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "n8n",
-      "workflow-automation"
-    ],
-    "created_at": "2025-10-20T05:51:27",
-    "updated_at": "2025-10-21T15:54:52"
-  },
-  {
-    "name": "Spec-Flow",
-    "full_name": "marcusgoll/Spec-Flow",
-    "description": "Turn product ideas into production launches with Spec-Driven Development. Repeatable Claude Code workflows with quality gates, token budgets, and auditable artifacts.",
-    "url": "https://github.com/marcusgoll/Spec-Flow",
-    "stars": 9,
-    "daily_stars": 2,
-    "language": "PowerShell",
-    "topics": [
-      "ai-agents",
-      "ai-assisted-development",
-      "ai-workflows",
-      "automation",
-      "bash",
-      "claude",
-      "claude-ai",
-      "claude-code",
-      "developer-tools",
-      "documentation",
-      "powershell",
-      "productivity",
-      "spec-driven-development",
-      "workflow",
-      "workflow-automation"
-    ],
-    "created_at": "2025-10-04T01:21:22",
-    "updated_at": "2025-10-21T16:07:24"
+    "updated_at": "2025-10-21T19:41:14"
   }
 ]
