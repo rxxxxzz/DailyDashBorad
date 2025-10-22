@@ -4,7 +4,7 @@
     "full_name": "kayba-ai/agentic-context-engine",
     "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
     "url": "https://github.com/kayba-ai/agentic-context-engine",
-    "stars": 244,
+    "stars": 256,
     "daily_stars": 12,
     "language": "Python",
     "topics": [
@@ -15,65 +15,69 @@
       "python"
     ],
     "created_at": "2025-10-15T15:36:20",
-    "updated_at": "2025-10-22T04:25:30"
+    "updated_at": "2025-10-22T08:37:42"
   },
   {
-    "name": "rules",
-    "full_name": "project-codeguard/rules",
-    "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
-    "url": "https://github.com/project-codeguard/rules",
-    "stars": 188,
-    "daily_stars": 4,
+    "name": "OmniVinci",
+    "full_name": "NVlabs/OmniVinci",
+    "description": "OmniVinci is an omni-modal LLM for joint understanding of vision, audio, and language.",
+    "url": "https://github.com/NVlabs/OmniVinci",
+    "stars": 194,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
-      "ai",
-      "ai-agents",
-      "ai-security",
-      "coding-agents",
-      "cybersecurity"
+      "audio-language-model",
+      "deep-learning",
+      "large-language-models",
+      "multimodal-large-language-models",
+      "vision-language-model"
     ],
-    "created_at": "2025-10-12T15:24:53",
-    "updated_at": "2025-10-22T03:59:47"
+    "created_at": "2025-09-24T22:46:36",
+    "updated_at": "2025-10-22T08:44:56"
   },
   {
-    "name": "open-computer-use",
-    "full_name": "LLmHub-dev/open-computer-use",
-    "description": "Autonomous virtual computer agents at scale, fully open-source, safe, auditable, and production-ready.",
-    "url": "https://github.com/LLmHub-dev/open-computer-use",
-    "stars": 180,
-    "daily_stars": 3,
-    "language": "TypeScript",
+    "name": "claude-skills-marketplace",
+    "full_name": "mhattingpete/claude-skills-marketplace",
+    "description": "Claude Code Skills for software engineering workflows - Git automation, testing, and code review",
+    "url": "https://github.com/mhattingpete/claude-skills-marketplace",
+    "stars": 29,
+    "daily_stars": 4,
+    "language": null,
     "topics": [
-      "agent",
-      "agentic-framework",
-      "ai",
       "ai-agents",
       "anthropic",
-      "claude",
-      "cli-tools",
-      "computer-control",
-      "computer-use",
-      "computer-use-agent",
-      "full-stack",
-      "gemini-api",
-      "google-api",
-      "gui-automation",
-      "llm",
-      "llm-agents",
-      "mistral",
-      "openai",
-      "saas-application",
-      "xai"
+      "automation",
+      "claude-code",
+      "claude-skills",
+      "developer-tools"
     ],
-    "created_at": "2025-10-11T18:57:20",
-    "updated_at": "2025-10-22T04:16:21"
+    "created_at": "2025-10-17T12:02:19",
+    "updated_at": "2025-10-22T08:48:29"
+  },
+  {
+    "name": "freephdlabor",
+    "full_name": "ltjed/freephdlabor",
+    "description": "freephdlabor: customizing personalized research groups that works 24/7 on your own scientific problem",
+    "url": "https://github.com/ltjed/freephdlabor",
+    "stars": 206,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai4science",
+      "autonomous-agents",
+      "multiagent-systems",
+      "research-automation"
+    ],
+    "created_at": "2025-10-20T01:59:07",
+    "updated_at": "2025-10-22T06:17:41"
   },
   {
     "name": "ContextAgent",
     "full_name": "context-machine-lab/ContextAgent",
     "description": "Context-central multi-agent framework with PyTorch-like API. Build intelligent agent systems with minimal code.",
     "url": "https://github.com/context-machine-lab/ContextAgent",
-    "stars": 36,
+    "stars": 39,
     "daily_stars": 3,
     "language": "Python",
     "topics": [
@@ -89,94 +93,15 @@
       "research"
     ],
     "created_at": "2025-10-01T22:56:56",
-    "updated_at": "2025-10-22T04:36:09"
-  },
-  {
-    "name": "OmniVinci",
-    "full_name": "NVlabs/OmniVinci",
-    "description": "OmniVinci is an omni-modal LLM for joint understanding of vision, audio, and language.",
-    "url": "https://github.com/NVlabs/OmniVinci",
-    "stars": 189,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "audio-language-model",
-      "deep-learning",
-      "large-language-models",
-      "multimodal-large-language-models",
-      "vision-language-model"
-    ],
-    "created_at": "2025-09-24T22:46:36",
-    "updated_at": "2025-10-22T04:02:42"
-  },
-  {
-    "name": "n8n-skills",
-    "full_name": "czlonkowski/n8n-skills",
-    "description": "n8n skillset for Claude Code to build flawless n8n workflows",
-    "url": "https://github.com/czlonkowski/n8n-skills",
-    "stars": 24,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "n8n",
-      "workflow-automation"
-    ],
-    "created_at": "2025-10-20T05:51:27",
-    "updated_at": "2025-10-22T04:13:20"
-  },
-  {
-    "name": "app-maker",
-    "full_name": "lighthought/app-maker",
-    "description": null,
-    "url": "https://github.com/lighthought/app-maker",
-    "stars": 9,
-    "daily_stars": 1,
-    "language": "Go",
-    "topics": [
-      "ai-agents",
-      "aicoding"
-    ],
-    "created_at": "2025-10-03T05:03:31",
-    "updated_at": "2025-10-22T04:31:29"
-  },
-  {
-    "name": "youtube_transcript",
-    "full_name": "maykbrito/youtube_transcript",
-    "description": "API e formulário simples para pegar transcrições de vídeos do Youtube",
-    "url": "https://github.com/maykbrito/youtube_transcript",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "api",
-      "transcription",
-      "youtube"
-    ],
-    "created_at": "2025-10-21T00:15:04",
-    "updated_at": "2025-10-22T02:46:20"
-  },
-  {
-    "name": "ace-playbook",
-    "full_name": "jmanhype/ace-playbook",
-    "description": "Self-improving LLM system using Generator-Reflector-Curator pattern for online learning from execution feedback",
-    "url": "https://github.com/jmanhype/ace-playbook",
-    "stars": 21,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-10-13T21:27:38",
-    "updated_at": "2025-10-22T04:03:29"
+    "updated_at": "2025-10-22T07:56:17"
   },
   {
     "name": "ml-trading-japan",
     "full_name": "xihe-820/ml-trading-japan",
     "description": "Production-Ready ML Trading Framework for Japanese Markets | 72.56% ROI on TOPIX",
     "url": "https://github.com/xihe-820/ml-trading-japan",
-    "stars": 15,
-    "daily_stars": 1,
+    "stars": 18,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "algorithmic-trading",
@@ -187,6 +112,97 @@
       "xgboost"
     ],
     "created_at": "2025-10-19T04:06:21",
-    "updated_at": "2025-10-22T03:41:28"
+    "updated_at": "2025-10-22T06:36:47"
+  },
+  {
+    "name": "xKG",
+    "full_name": "zjunlp/xKG",
+    "description": "Executable Knowledge Graphs for Replicating AI Research",
+    "url": "https://github.com/zjunlp/xKG",
+    "stars": 5,
+    "daily_stars": 2,
+    "language": null,
+    "topics": [
+      "agent",
+      "ai-research",
+      "ai4research",
+      "artificial-intelligence",
+      "executable-knowledge-graph",
+      "knowledge-augmentation",
+      "knowledge-graph",
+      "large-language-models",
+      "natural-language-processing",
+      "paperbench",
+      "xkg"
+    ],
+    "created_at": "2025-10-04T12:23:28",
+    "updated_at": "2025-10-22T08:09:26"
+  },
+  {
+    "name": "rules",
+    "full_name": "project-codeguard/rules",
+    "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
+    "url": "https://github.com/project-codeguard/rules",
+    "stars": 190,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-security",
+      "coding-agents",
+      "cybersecurity"
+    ],
+    "created_at": "2025-10-12T15:24:53",
+    "updated_at": "2025-10-22T05:11:19"
+  },
+  {
+    "name": "ios-simulator-skill",
+    "full_name": "conorluddy/ios-simulator-skill",
+    "description": "An IOS Simulator Skill for ClaudeCode. Drop it into .claude/skills/ios-simulator-skill and it will let Claude drive the device. Prefers nav via accessibility over screenshots, for perf, but can use both.",
+    "url": "https://github.com/conorluddy/ios-simulator-skill",
+    "stars": 56,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "ai-agents",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-skills",
+      "claudecode",
+      "claudeskills",
+      "dx",
+      "ios",
+      "iossimulator",
+      "mcp",
+      "mcp-tools",
+      "python",
+      "simulator",
+      "skills",
+      "testing",
+      "tooling",
+      "xcode"
+    ],
+    "created_at": "2025-10-17T12:43:15",
+    "updated_at": "2025-10-22T08:19:09"
+  },
+  {
+    "name": "n8n-skills",
+    "full_name": "czlonkowski/n8n-skills",
+    "description": "n8n skillset for Claude Code to build flawless n8n workflows",
+    "url": "https://github.com/czlonkowski/n8n-skills",
+    "stars": 26,
+    "daily_stars": 2,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "n8n",
+      "workflow-automation"
+    ],
+    "created_at": "2025-10-20T05:51:27",
+    "updated_at": "2025-10-22T08:17:39"
   }
 ]
