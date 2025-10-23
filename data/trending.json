@@ -1,29 +1,11 @@
 [
   {
-    "name": "PaDT",
-    "full_name": "Gorilla-Lab-SCUT/PaDT",
-    "description": "The official implementation of \"Patch-as-Decodable-Token: Towards Unified Multi-Modal Vision Tasks in MLLMs\"",
-    "url": "https://github.com/Gorilla-Lab-SCUT/PaDT",
-    "stars": 180,
-    "daily_stars": 40,
-    "language": "Python",
-    "topics": [
-      "computer-vision",
-      "large-language-models",
-      "machine-learning",
-      "multimodal-large-language-models",
-      "patch-as-decodable-token"
-    ],
-    "created_at": "2025-09-26T13:25:18",
-    "updated_at": "2025-10-23T09:31:38"
-  },
-  {
     "name": "OmniVinci",
     "full_name": "NVlabs/OmniVinci",
     "description": "OmniVinci is an omni-modal LLM for joint understanding of vision, audio, and language.",
     "url": "https://github.com/NVlabs/OmniVinci",
-    "stars": 238,
-    "daily_stars": 8,
+    "stars": 245,
+    "daily_stars": 7,
     "language": "Python",
     "topics": [
       "audio-language-model",
@@ -33,15 +15,15 @@
       "vision-language-model"
     ],
     "created_at": "2025-09-24T22:46:36",
-    "updated_at": "2025-10-23T12:29:10"
+    "updated_at": "2025-10-23T15:13:52"
   },
   {
     "name": "agentic-context-engine",
     "full_name": "kayba-ai/agentic-context-engine",
     "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
     "url": "https://github.com/kayba-ai/agentic-context-engine",
-    "stars": 305,
-    "daily_stars": 5,
+    "stars": 309,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -51,68 +33,15 @@
       "python"
     ],
     "created_at": "2025-10-15T15:36:20",
-    "updated_at": "2025-10-23T12:54:26"
-  },
-  {
-    "name": "upage",
-    "full_name": "halo-dev/upage",
-    "description": "🔥 一款基于大模型的可视化网页构建平台，Lovable 开源替代。",
-    "url": "https://github.com/halo-dev/upage",
-    "stars": 216,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "deepseek",
-      "llm",
-      "visual-editor"
-    ],
-    "created_at": "2025-09-24T04:59:12",
-    "updated_at": "2025-10-23T09:37:13"
-  },
-  {
-    "name": "libcube-public",
-    "full_name": "cslr/libcube-public",
-    "description": "Freeware DLL binary repository of (audio synthesizer) parameter reduction library for Windows (Visual C++, MSYS2 MINGW)",
-    "url": "https://github.com/cslr/libcube-public",
-    "stars": 18,
-    "daily_stars": 3,
-    "language": "C++",
-    "topics": [
-      "freeware",
-      "machine-learning",
-      "vst-plugin",
-      "windows"
-    ],
-    "created_at": "2025-10-17T18:08:36",
-    "updated_at": "2025-10-23T13:06:15"
-  },
-  {
-    "name": "freephdlabor",
-    "full_name": "ltjed/freephdlabor",
-    "description": "freephdlabor: customizing personalized research groups that works 24/7 on your own scientific problem",
-    "url": "https://github.com/ltjed/freephdlabor",
-    "stars": 220,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai4science",
-      "autonomous-agents",
-      "multiagent-systems",
-      "research-automation"
-    ],
-    "created_at": "2025-10-20T01:59:07",
-    "updated_at": "2025-10-23T12:13:58"
+    "updated_at": "2025-10-23T15:46:56"
   },
   {
     "name": "rules",
     "full_name": "project-codeguard/rules",
     "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
     "url": "https://github.com/project-codeguard/rules",
-    "stars": 208,
-    "daily_stars": 2,
+    "stars": 211,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "ai",
@@ -122,86 +51,147 @@
       "cybersecurity"
     ],
     "created_at": "2025-10-12T15:24:53",
-    "updated_at": "2025-10-23T10:42:55"
+    "updated_at": "2025-10-23T15:51:25"
   },
   {
-    "name": "ios-simulator-skill",
-    "full_name": "conorluddy/ios-simulator-skill",
-    "description": "An IOS Simulator Skill for ClaudeCode. Drop it into .claude/skills/ios-simulator-skill and it will let Claude drive the device. Prefers nav via accessibility over screenshots, for perf, but can use both.",
-    "url": "https://github.com/conorluddy/ios-simulator-skill",
-    "stars": 60,
+    "name": "ml-trading-japan",
+    "full_name": "xihe-820/ml-trading-japan",
+    "description": "Production-Ready ML Trading Framework for Japanese Markets | 72.56% ROI on TOPIX",
+    "url": "https://github.com/xihe-820/ml-trading-japan",
+    "stars": 29,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
-      "agent",
-      "agentic-ai",
-      "ai-agents",
-      "claude",
-      "claude-ai",
-      "claude-code",
-      "claude-skills",
-      "claudecode",
-      "claudeskills",
-      "dx",
-      "ios",
-      "iossimulator",
-      "mcp",
-      "mcp-tools",
+      "algorithmic-trading",
+      "machine-learning",
       "python",
-      "simulator",
-      "skills",
-      "testing",
-      "tooling",
-      "xcode"
+      "topix",
+      "trading",
+      "xgboost"
     ],
-    "created_at": "2025-10-17T12:43:15",
-    "updated_at": "2025-10-23T12:58:55"
+    "created_at": "2025-10-19T04:06:21",
+    "updated_at": "2025-10-23T14:15:40"
   },
   {
-    "name": "agentic-rag-for-dummies",
-    "full_name": "GiovanniPasq/agentic-rag-for-dummies",
-    "description": "A minimal Agentic RAG demo built with LangGraph — learn Retrieval-Augmented Agents in minutes.",
-    "url": "https://github.com/GiovanniPasq/agentic-rag-for-dummies",
-    "stars": 44,
-    "daily_stars": 2,
+    "name": "tiny-recursive-model",
+    "full_name": "lucidrains/tiny-recursive-model",
+    "description": "Implementation of Tiny Recursive Model (TRM), improvement to HRM from Sapient AI, by Alexia Jolicoeur-Martineau",
+    "url": "https://github.com/lucidrains/tiny-recursive-model",
+    "stars": 106,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-10-07T18:19:09",
+    "updated_at": "2025-10-23T13:52:14"
+  },
+  {
+    "name": "OpenMemory",
+    "full_name": "CaviraOSS/OpenMemory",
+    "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
+    "url": "https://github.com/CaviraOSS/OpenMemory",
+    "stars": 11,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-10-19T16:12:49",
+    "updated_at": "2025-10-23T14:04:47"
+  },
+  {
+    "name": "cli",
+    "full_name": "the-artinet-project/cli",
+    "description": "An interactive command-line interface that uses the Agent2Agent (A2A) & Model Context Protocols (MCP) to manage multi-agent systems.",
+    "url": "https://github.com/the-artinet-project/cli",
+    "stars": 11,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "a2a",
+      "a2a-cli",
+      "a2a-client",
+      "a2a-mcp",
+      "a2a-protocol",
+      "agent2agent",
+      "agentic-ai",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "artificial-intelligence",
+      "mcp",
+      "mcp-client",
+      "mcp-tools",
+      "model-context-protocol",
+      "multi-agent",
+      "multi-agent-collaboration",
+      "multi-agent-simulation",
+      "multi-agent-system",
+      "multi-agent-systems"
+    ],
+    "created_at": "2025-10-02T05:07:20",
+    "updated_at": "2025-10-23T13:20:33"
+  },
+  {
+    "name": "w5-football-prediction",
+    "full_name": "Winner12-AI/w5-football-prediction",
+    "description": "🏆 Research implementation of W-5 Multi-Agent AI Consensus Framework for football match outcome prediction | AI-powered sports analytics using LLMs + Machine Learning | 85.9% accuracy",
+    "url": "https://github.com/Winner12-AI/w5-football-prediction",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-consensus",
+      "artificial-intelligence",
+      "deep-learning",
+      "ensemble-learning",
+      "football-prediction",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "multi-agent-systems",
+      "predictive-analytics",
+      "python",
+      "research",
+      "soccer-prediction",
+      "sports-analytics",
+      "xgboost"
+    ],
+    "created_at": "2025-10-17T05:12:18",
+    "updated_at": "2025-10-23T16:10:33"
+  },
+  {
+    "name": "all-agentic-architectures",
+    "full_name": "FareedKhan-dev/all-agentic-architectures",
+    "description": "Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.",
+    "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
+    "stars": 228,
+    "daily_stars": 1,
     "language": "Jupyter Notebook",
     "topics": [
-      "agent",
       "agentic-ai",
-      "agentic-rag",
-      "agents",
       "ai-agents",
-      "bm25",
-      "generative-ai",
-      "gradio",
       "langchain",
       "langgraph",
-      "llm",
-      "ollama",
-      "qdrant",
-      "rag",
-      "rag-chatbot",
-      "rag-pipeline",
-      "retrieval-augmented-generation",
-      "retrieval-augmented-generation-rag"
+      "langsmith",
+      "llm"
     ],
-    "created_at": "2025-10-13T18:51:41",
-    "updated_at": "2025-10-23T12:28:53"
+    "created_at": "2025-09-24T11:47:58",
+    "updated_at": "2025-10-23T14:19:13"
   },
   {
-    "name": "DiyAgent",
-    "full_name": "neil-peng/DiyAgent",
-    "description": "A very simple agentic agent code implementation (lightweight framework). The goal of this project is to enable beginners to quickly understand the essence of how an agentic agent is implemented, without any complex encapsulation or abstract comprehension. Plus, this is a show of long story ai ",
-    "url": "https://github.com/neil-peng/DiyAgent",
-    "stars": 20,
-    "daily_stars": 2,
-    "language": "JavaScript",
+    "name": "freephdlabor",
+    "full_name": "ltjed/freephdlabor",
+    "description": "freephdlabor: customizing personalized research groups that works 24/7 on your own scientific problem",
+    "url": "https://github.com/ltjed/freephdlabor",
+    "stars": 221,
+    "daily_stars": 1,
+    "language": "Python",
     "topics": [
-      "agentic-ai",
       "ai-agents",
-      "story"
+      "ai4science",
+      "autonomous-agents",
+      "multiagent-systems",
+      "research-automation"
     ],
-    "created_at": "2025-10-17T01:47:20",
-    "updated_at": "2025-10-23T09:48:06"
+    "created_at": "2025-10-20T01:59:07",
+    "updated_at": "2025-10-23T13:32:02"
   }
 ]
