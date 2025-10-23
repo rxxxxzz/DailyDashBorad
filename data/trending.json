@@ -4,8 +4,8 @@
     "full_name": "Gorilla-Lab-SCUT/PaDT",
     "description": "The official implementation of \"Patch-as-Decodable-Token: Towards Unified Multi-Modal Vision Tasks in MLLMs\"",
     "url": "https://github.com/Gorilla-Lab-SCUT/PaDT",
-    "stars": 140,
-    "daily_stars": 68,
+    "stars": 180,
+    "daily_stars": 40,
     "language": "Python",
     "topics": [
       "computer-vision",
@@ -15,15 +15,15 @@
       "patch-as-decodable-token"
     ],
     "created_at": "2025-09-26T13:25:18",
-    "updated_at": "2025-10-23T08:08:07"
+    "updated_at": "2025-10-23T09:31:38"
   },
   {
     "name": "OmniVinci",
     "full_name": "NVlabs/OmniVinci",
     "description": "OmniVinci is an omni-modal LLM for joint understanding of vision, audio, and language.",
     "url": "https://github.com/NVlabs/OmniVinci",
-    "stars": 230,
-    "daily_stars": 14,
+    "stars": 238,
+    "daily_stars": 8,
     "language": "Python",
     "topics": [
       "audio-language-model",
@@ -33,15 +33,15 @@
       "vision-language-model"
     ],
     "created_at": "2025-09-24T22:46:36",
-    "updated_at": "2025-10-23T08:30:40"
+    "updated_at": "2025-10-23T12:29:10"
   },
   {
     "name": "agentic-context-engine",
     "full_name": "kayba-ai/agentic-context-engine",
     "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
     "url": "https://github.com/kayba-ai/agentic-context-engine",
-    "stars": 300,
-    "daily_stars": 9,
+    "stars": 305,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -51,15 +51,33 @@
       "python"
     ],
     "created_at": "2025-10-15T15:36:20",
-    "updated_at": "2025-10-23T08:20:12"
+    "updated_at": "2025-10-23T12:54:26"
+  },
+  {
+    "name": "upage",
+    "full_name": "halo-dev/upage",
+    "description": "🔥 一款基于大模型的可视化网页构建平台，Lovable 开源替代。",
+    "url": "https://github.com/halo-dev/upage",
+    "stars": 216,
+    "daily_stars": 3,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "deepseek",
+      "llm",
+      "visual-editor"
+    ],
+    "created_at": "2025-09-24T04:59:12",
+    "updated_at": "2025-10-23T09:37:13"
   },
   {
     "name": "libcube-public",
     "full_name": "cslr/libcube-public",
     "description": "Freeware DLL binary repository of (audio synthesizer) parameter reduction library for Windows (Visual C++, MSYS2 MINGW)",
     "url": "https://github.com/cslr/libcube-public",
-    "stars": 15,
-    "daily_stars": 9,
+    "stars": 18,
+    "daily_stars": 3,
     "language": "C++",
     "topics": [
       "freeware",
@@ -68,49 +86,14 @@
       "windows"
     ],
     "created_at": "2025-10-17T18:08:36",
-    "updated_at": "2025-10-23T08:20:41"
-  },
-  {
-    "name": "deep-thinking-rag",
-    "full_name": "FareedKhan-dev/deep-thinking-rag",
-    "description": "A Deep Thinking RAG Pipeline to Solve Complex Queries ",
-    "url": "https://github.com/FareedKhan-dev/deep-thinking-rag",
-    "stars": 16,
-    "daily_stars": 5,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "ai-agents",
-      "llm",
-      "llms",
-      "rag"
-    ],
-    "created_at": "2025-10-19T12:48:26",
-    "updated_at": "2025-10-23T07:48:31"
-  },
-  {
-    "name": "rules",
-    "full_name": "project-codeguard/rules",
-    "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
-    "url": "https://github.com/project-codeguard/rules",
-    "stars": 206,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-security",
-      "coding-agents",
-      "cybersecurity"
-    ],
-    "created_at": "2025-10-12T15:24:53",
-    "updated_at": "2025-10-23T08:38:11"
+    "updated_at": "2025-10-23T13:06:15"
   },
   {
     "name": "freephdlabor",
     "full_name": "ltjed/freephdlabor",
     "description": "freephdlabor: customizing personalized research groups that works 24/7 on your own scientific problem",
     "url": "https://github.com/ltjed/freephdlabor",
-    "stars": 218,
+    "stars": 220,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
@@ -121,59 +104,104 @@
       "research-automation"
     ],
     "created_at": "2025-10-20T01:59:07",
-    "updated_at": "2025-10-23T06:31:54"
+    "updated_at": "2025-10-23T12:13:58"
   },
   {
-    "name": "hippoformer",
-    "full_name": "lucidrains/hippoformer",
-    "description": "Implementation of Hippoformer, Integrating Hippocampus-inspired Spatial Memory with Transformers",
-    "url": "https://github.com/lucidrains/hippoformer",
-    "stars": 33,
-    "daily_stars": 1,
+    "name": "rules",
+    "full_name": "project-codeguard/rules",
+    "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
+    "url": "https://github.com/project-codeguard/rules",
+    "stars": 208,
+    "daily_stars": 2,
     "language": "Python",
-    "topics": [],
-    "created_at": "2025-10-20T04:18:03",
-    "updated_at": "2025-10-23T07:46:53"
-  },
-  {
-    "name": "AI_arXiv_Portal",
-    "full_name": "hongsong-wang/AI_arXiv_Portal",
-    "description": "arXiv Paper Portal for Computer Vision, Machine Learning and Artificial Intelligence",
-    "url": "https://github.com/hongsong-wang/AI_arXiv_Portal",
-    "stars": 24,
-    "daily_stars": 1,
-    "language": null,
     "topics": [
-      "artificial-intelligence",
-      "arxiv-paper",
-      "computer-vision",
-      "machine-learning"
+      "ai",
+      "ai-agents",
+      "ai-security",
+      "coding-agents",
+      "cybersecurity"
     ],
-    "created_at": "2025-09-27T14:16:47",
-    "updated_at": "2025-10-23T06:46:04"
+    "created_at": "2025-10-12T15:24:53",
+    "updated_at": "2025-10-23T10:42:55"
   },
   {
-    "name": "xKG",
-    "full_name": "zjunlp/xKG",
-    "description": "Executable Knowledge Graphs for Replicating AI Research",
-    "url": "https://github.com/zjunlp/xKG",
-    "stars": 7,
-    "daily_stars": 1,
-    "language": null,
+    "name": "ios-simulator-skill",
+    "full_name": "conorluddy/ios-simulator-skill",
+    "description": "An IOS Simulator Skill for ClaudeCode. Drop it into .claude/skills/ios-simulator-skill and it will let Claude drive the device. Prefers nav via accessibility over screenshots, for perf, but can use both.",
+    "url": "https://github.com/conorluddy/ios-simulator-skill",
+    "stars": 60,
+    "daily_stars": 2,
+    "language": "Python",
     "topics": [
       "agent",
-      "ai-research",
-      "ai4research",
-      "artificial-intelligence",
-      "executable-knowledge-graph",
-      "knowledge-augmentation",
-      "knowledge-graph",
-      "large-language-models",
-      "natural-language-processing",
-      "paperbench",
-      "xkg"
+      "agentic-ai",
+      "ai-agents",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-skills",
+      "claudecode",
+      "claudeskills",
+      "dx",
+      "ios",
+      "iossimulator",
+      "mcp",
+      "mcp-tools",
+      "python",
+      "simulator",
+      "skills",
+      "testing",
+      "tooling",
+      "xcode"
     ],
-    "created_at": "2025-10-04T12:23:28",
-    "updated_at": "2025-10-23T05:44:59"
+    "created_at": "2025-10-17T12:43:15",
+    "updated_at": "2025-10-23T12:58:55"
+  },
+  {
+    "name": "agentic-rag-for-dummies",
+    "full_name": "GiovanniPasq/agentic-rag-for-dummies",
+    "description": "A minimal Agentic RAG demo built with LangGraph — learn Retrieval-Augmented Agents in minutes.",
+    "url": "https://github.com/GiovanniPasq/agentic-rag-for-dummies",
+    "stars": 44,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "agentic-rag",
+      "agents",
+      "ai-agents",
+      "bm25",
+      "generative-ai",
+      "gradio",
+      "langchain",
+      "langgraph",
+      "llm",
+      "ollama",
+      "qdrant",
+      "rag",
+      "rag-chatbot",
+      "rag-pipeline",
+      "retrieval-augmented-generation",
+      "retrieval-augmented-generation-rag"
+    ],
+    "created_at": "2025-10-13T18:51:41",
+    "updated_at": "2025-10-23T12:28:53"
+  },
+  {
+    "name": "DiyAgent",
+    "full_name": "neil-peng/DiyAgent",
+    "description": "A very simple agentic agent code implementation (lightweight framework). The goal of this project is to enable beginners to quickly understand the essence of how an agentic agent is implemented, without any complex encapsulation or abstract comprehension. Plus, this is a show of long story ai ",
+    "url": "https://github.com/neil-peng/DiyAgent",
+    "stars": 20,
+    "daily_stars": 2,
+    "language": "JavaScript",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "story"
+    ],
+    "created_at": "2025-10-17T01:47:20",
+    "updated_at": "2025-10-23T09:48:06"
   }
 ]
