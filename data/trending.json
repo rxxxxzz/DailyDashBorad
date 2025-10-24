@@ -4,8 +4,8 @@
     "full_name": "pguso/ai-agents-from-scratch",
     "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
     "url": "https://github.com/pguso/ai-agents-from-scratch",
-    "stars": 243,
-    "daily_stars": 34,
+    "stars": 287,
+    "daily_stars": 44,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -18,15 +18,15 @@
       "tutorial"
     ],
     "created_at": "2025-10-23T19:39:04",
-    "updated_at": "2025-10-24T16:41:01"
+    "updated_at": "2025-10-24T20:33:47"
   },
   {
     "name": "freephdlabor",
     "full_name": "ltjed/freephdlabor",
     "description": "freephdlabor: customizing personalized research groups that works 24/7 on your own scientific problem",
     "url": "https://github.com/ltjed/freephdlabor",
-    "stars": 252,
-    "daily_stars": 5,
+    "stars": 258,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -36,15 +36,66 @@
       "research-automation"
     ],
     "created_at": "2025-10-20T01:59:07",
-    "updated_at": "2025-10-24T16:20:45"
+    "updated_at": "2025-10-24T20:33:17"
+  },
+  {
+    "name": "agentic-context-engine",
+    "full_name": "kayba-ai/agentic-context-engine",
+    "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
+    "url": "https://github.com/kayba-ai/agentic-context-engine",
+    "stars": 328,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "context-engineering",
+      "llm",
+      "python"
+    ],
+    "created_at": "2025-10-15T15:36:20",
+    "updated_at": "2025-10-24T19:43:44"
+  },
+  {
+    "name": "open-computer-use",
+    "full_name": "LLmHub-dev/open-computer-use",
+    "description": "Autonomous virtual computer agents at scale, fully open-source, safe, auditable, and production-ready.",
+    "url": "https://github.com/LLmHub-dev/open-computer-use",
+    "stars": 188,
+    "daily_stars": 2,
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "agentic-framework",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "cli-tools",
+      "computer-control",
+      "computer-use",
+      "computer-use-agent",
+      "full-stack",
+      "gemini-api",
+      "google-api",
+      "gui-automation",
+      "llm",
+      "llm-agents",
+      "mistral",
+      "openai",
+      "saas-application",
+      "xai"
+    ],
+    "created_at": "2025-10-11T18:57:20",
+    "updated_at": "2025-10-24T19:42:00"
   },
   {
     "name": "w5-football-prediction",
     "full_name": "Winner12-AI/w5-football-prediction",
     "description": "🏆 Research implementation of W-5 Multi-Agent AI Consensus Framework for football match outcome prediction | AI-powered sports analytics using LLMs + Machine Learning | 85.9% accuracy",
     "url": "https://github.com/Winner12-AI/w5-football-prediction",
-    "stars": 22,
-    "daily_stars": 4,
+    "stars": 23,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai-consensus",
@@ -64,33 +115,15 @@
       "xgboost"
     ],
     "created_at": "2025-10-17T05:12:18",
-    "updated_at": "2025-10-24T15:53:43"
-  },
-  {
-    "name": "agentic-context-engine",
-    "full_name": "kayba-ai/agentic-context-engine",
-    "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
-    "url": "https://github.com/kayba-ai/agentic-context-engine",
-    "stars": 326,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "context-engineering",
-      "llm",
-      "python"
-    ],
-    "created_at": "2025-10-15T15:36:20",
-    "updated_at": "2025-10-24T16:15:09"
+    "updated_at": "2025-10-24T17:07:26"
   },
   {
     "name": "deep-thinking-rag",
     "full_name": "FareedKhan-dev/deep-thinking-rag",
     "description": "A Deep Thinking RAG Pipeline to Solve Complex Queries ",
     "url": "https://github.com/FareedKhan-dev/deep-thinking-rag",
-    "stars": 27,
-    "daily_stars": 4,
+    "stars": 28,
+    "daily_stars": 1,
     "language": "Jupyter Notebook",
     "topics": [
       "ai-agents",
@@ -99,86 +132,78 @@
       "rag"
     ],
     "created_at": "2025-10-19T12:48:26",
-    "updated_at": "2025-10-24T14:57:36"
+    "updated_at": "2025-10-24T17:10:06"
   },
   {
-    "name": "rules",
-    "full_name": "project-codeguard/rules",
-    "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
-    "url": "https://github.com/project-codeguard/rules",
-    "stars": 232,
-    "daily_stars": 2,
-    "language": "Python",
+    "name": "DiyAgent",
+    "full_name": "neil-peng/DiyAgent",
+    "description": "A very simple agentic agent code implementation (lightweight framework). The goal of this project is to enable beginners to quickly understand the essence of how an agentic agent is implemented, without any complex encapsulation or abstract comprehension. Plus, this is a show of long story ai ",
+    "url": "https://github.com/neil-peng/DiyAgent",
+    "stars": 24,
+    "daily_stars": 1,
+    "language": "JavaScript",
     "topics": [
-      "ai",
+      "agentic-ai",
       "ai-agents",
-      "ai-security",
-      "coding-agents",
-      "cybersecurity"
+      "story"
     ],
-    "created_at": "2025-10-12T15:24:53",
-    "updated_at": "2025-10-24T14:58:08"
+    "created_at": "2025-10-17T01:47:20",
+    "updated_at": "2025-10-24T17:35:44"
   },
   {
-    "name": "n8n-skills",
-    "full_name": "czlonkowski/n8n-skills",
-    "description": "n8n skillset for Claude Code to build flawless n8n workflows",
-    "url": "https://github.com/czlonkowski/n8n-skills",
-    "stars": 40,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "n8n",
-      "workflow-automation"
-    ],
-    "created_at": "2025-10-20T05:51:27",
-    "updated_at": "2025-10-24T14:49:13"
-  },
-  {
-    "name": "relai-sdk",
-    "full_name": "relai-ai/relai-sdk",
-    "description": "A platform for building reliable AI agents",
-    "url": "https://github.com/relai-ai/relai-sdk",
-    "stars": 10,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-reliability"
-    ],
-    "created_at": "2025-10-21T20:28:18",
-    "updated_at": "2025-10-24T16:45:07"
-  },
-  {
-    "name": "ai-agent-platform",
-    "full_name": "VoltAgent/ai-agent-platform",
-    "description": "VoltAgent: Open-source TypeScript AI agent platform for building  multi-agent systems with orchestration, memory, RAG, workflows, and enterprise observability.",
-    "url": "https://github.com/VoltAgent/ai-agent-platform",
-    "stars": 4,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-agent-platform",
-      "ai-agents",
-      "ai-agents-framework",
-      "llm-agent",
-      "llm-observability"
-    ],
-    "created_at": "2025-10-23T09:01:26",
-    "updated_at": "2025-10-24T16:01:37"
-  },
-  {
-    "name": "OpenMemory",
-    "full_name": "CaviraOSS/OpenMemory",
-    "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
-    "url": "https://github.com/CaviraOSS/OpenMemory",
-    "stars": 13,
+    "name": "vibecheck",
+    "full_name": "hev/vibecheck",
+    "description": "Easy and intuitive LLM evals",
+    "url": "https://github.com/hev/vibecheck",
+    "stars": 6,
     "daily_stars": 1,
     "language": "TypeScript",
-    "topics": [],
-    "created_at": "2025-10-19T16:12:49",
-    "updated_at": "2025-10-24T14:28:58"
+    "topics": [
+      "agent-framework",
+      "ai-agents",
+      "evals",
+      "hacktoberfest",
+      "llm"
+    ],
+    "created_at": "2025-10-07T15:16:03",
+    "updated_at": "2025-10-24T16:47:43"
+  },
+  {
+    "name": "amazon-bedrock-copilot-chat",
+    "full_name": "tinovyatkin/amazon-bedrock-copilot-chat",
+    "description": "A VSCode Language Model Chat Provider to use Amazon Bedrock in Copilot Chat",
+    "url": "https://github.com/tinovyatkin/amazon-bedrock-copilot-chat",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "aws",
+      "bedrock",
+      "vscode",
+      "vscode-extension"
+    ],
+    "created_at": "2025-10-12T23:14:29",
+    "updated_at": "2025-10-24T20:13:53"
+  },
+  {
+    "name": "ml-trading-japan",
+    "full_name": "xihe-820/ml-trading-japan",
+    "description": "Production-Ready ML Trading Framework for Japanese Markets | 72.56% ROI on TOPIX",
+    "url": "https://github.com/xihe-820/ml-trading-japan",
+    "stars": 32,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "algorithmic-trading",
+      "machine-learning",
+      "python",
+      "topix",
+      "trading",
+      "xgboost"
+    ],
+    "created_at": "2025-10-19T04:06:21",
+    "updated_at": "2025-10-24T17:18:43"
   }
 ]
