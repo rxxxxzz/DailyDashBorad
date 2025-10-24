@@ -4,8 +4,8 @@
     "full_name": "pguso/ai-agents-from-scratch",
     "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
     "url": "https://github.com/pguso/ai-agents-from-scratch",
-    "stars": 100,
-    "daily_stars": 96,
+    "stars": 114,
+    "daily_stars": 14,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -18,33 +18,33 @@
       "tutorial"
     ],
     "created_at": "2025-10-23T19:39:04",
-    "updated_at": "2025-10-24T01:49:06"
+    "updated_at": "2025-10-24T04:36:22"
   },
   {
-    "name": "freephdlabor",
-    "full_name": "ltjed/freephdlabor",
-    "description": "freephdlabor: customizing personalized research groups that works 24/7 on your own scientific problem",
-    "url": "https://github.com/ltjed/freephdlabor",
-    "stars": 234,
-    "daily_stars": 6,
+    "name": "agentic-context-engine",
+    "full_name": "kayba-ai/agentic-context-engine",
+    "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
+    "url": "https://github.com/kayba-ai/agentic-context-engine",
+    "stars": 318,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "ai-agents",
-      "ai4science",
-      "autonomous-agents",
-      "multiagent-systems",
-      "research-automation"
+      "ai-tools",
+      "context-engineering",
+      "llm",
+      "python"
     ],
-    "created_at": "2025-10-20T01:59:07",
-    "updated_at": "2025-10-24T02:08:12"
+    "created_at": "2025-10-15T15:36:20",
+    "updated_at": "2025-10-24T04:23:42"
   },
   {
     "name": "w5-football-prediction",
     "full_name": "Winner12-AI/w5-football-prediction",
     "description": "🏆 Research implementation of W-5 Multi-Agent AI Consensus Framework for football match outcome prediction | AI-powered sports analytics using LLMs + Machine Learning | 85.9% accuracy",
     "url": "https://github.com/Winner12-AI/w5-football-prediction",
-    "stars": 9,
-    "daily_stars": 5,
+    "stars": 11,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "ai-consensus",
@@ -64,58 +64,14 @@
       "xgboost"
     ],
     "created_at": "2025-10-17T05:12:18",
-    "updated_at": "2025-10-24T01:43:42"
-  },
-  {
-    "name": "AI-prompt",
-    "full_name": "1Haschwalth/AI-prompt",
-    "description": "自撰作品《AI精准操作手册：从Prompt工程到认知导航》",
-    "url": "https://github.com/1Haschwalth/AI-prompt",
-    "stars": 9,
-    "daily_stars": 3,
-    "language": null,
-    "topics": [
-      "agent",
-      "ai",
-      "chatgpt",
-      "cognitive-science",
-      "deepseek",
-      "llm",
-      "machine-learning",
-      "nlp",
-      "openai",
-      "philosophy",
-      "prompt-engineering",
-      "technology",
-      "workflow"
-    ],
-    "created_at": "2025-10-15T05:02:18",
-    "updated_at": "2025-10-24T01:44:49"
-  },
-  {
-    "name": "agentic-context-engine",
-    "full_name": "kayba-ai/agentic-context-engine",
-    "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
-    "url": "https://github.com/kayba-ai/agentic-context-engine",
-    "stars": 313,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "context-engineering",
-      "llm",
-      "python"
-    ],
-    "created_at": "2025-10-15T15:36:20",
-    "updated_at": "2025-10-24T01:22:48"
+    "updated_at": "2025-10-24T03:57:01"
   },
   {
     "name": "rules",
     "full_name": "project-codeguard/rules",
     "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
     "url": "https://github.com/project-codeguard/rules",
-    "stars": 216,
+    "stars": 218,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
@@ -126,94 +82,125 @@
       "cybersecurity"
     ],
     "created_at": "2025-10-12T15:24:53",
-    "updated_at": "2025-10-24T01:55:36"
+    "updated_at": "2025-10-24T04:40:32"
   },
   {
-    "name": "ios-simulator-skill",
-    "full_name": "conorluddy/ios-simulator-skill",
-    "description": "An IOS Simulator Skill for ClaudeCode. Drop it into .claude/skills/ios-simulator-skill and it will let Claude drive the device. Prefers nav via accessibility over screenshots, for perf, but can use both.",
-    "url": "https://github.com/conorluddy/ios-simulator-skill",
-    "stars": 63,
+    "name": "ContextAgent",
+    "full_name": "context-machine-lab/ContextAgent",
+    "description": "Context-central multi-agent framework with PyTorch-like API. Build intelligent agent systems with minimal code.",
+    "url": "https://github.com/context-machine-lab/ContextAgent",
+    "stars": 44,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
-      "agent",
-      "agentic-ai",
       "ai-agents",
-      "claude",
-      "claude-ai",
-      "claude-code",
-      "claude-skills",
-      "claudecode",
-      "claudeskills",
-      "dx",
-      "ios",
-      "iossimulator",
-      "mcp",
-      "mcp-tools",
+      "autonomous-agents",
+      "context-engineering",
+      "llm",
+      "machine-learning",
+      "multi-agent-systems",
+      "openai",
       "python",
-      "simulator",
-      "skills",
-      "testing",
-      "tooling",
-      "xcode"
+      "pytorch-like",
+      "research"
     ],
-    "created_at": "2025-10-17T12:43:15",
-    "updated_at": "2025-10-24T01:53:44"
+    "created_at": "2025-10-01T22:56:56",
+    "updated_at": "2025-10-24T04:21:25"
   },
   {
-    "name": "dylem-grid",
-    "full_name": "LookUpMark/dylem-grid",
-    "description": "DYLEM-GRID is a deep learning project for dynamic hand gesture recognition using a Bidirectional LSTM network with Attention mechanism. The repository implements a model trained on the DYLEM-GRID dataset (Dynamic Leap Motion Gesture Recognition Indexed Dataset), which contains 400 recordings of four distinct dynamic hand gestures.",
-    "url": "https://github.com/LookUpMark/dylem-grid",
-    "stars": 4,
+    "name": "relai-sdk",
+    "full_name": "relai-ai/relai-sdk",
+    "description": "A platform for building reliable AI agents",
+    "url": "https://github.com/relai-ai/relai-sdk",
+    "stars": 7,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
-      "dataset",
-      "deep-learning",
-      "gesture-recognition",
-      "pytorch",
-      "recurrent-neural-networks"
+      "ai-agents",
+      "ai-reliability"
     ],
-    "created_at": "2025-10-09T19:32:16",
-    "updated_at": "2025-10-23T21:01:44"
+    "created_at": "2025-10-21T20:28:18",
+    "updated_at": "2025-10-24T04:40:15"
   },
   {
-    "name": "tiny-recursive-model",
-    "full_name": "lucidrains/tiny-recursive-model",
-    "description": "Implementation of Tiny Recursive Model (TRM), improvement to HRM from Sapient AI, by Alexia Jolicoeur-Martineau",
-    "url": "https://github.com/lucidrains/tiny-recursive-model",
-    "stars": 107,
+    "name": "dreamer4",
+    "full_name": "lucidrains/dreamer4",
+    "description": "Implementation of Danijar's latest iteration for his Dreamer line of work, the new SOTA for model-based RL",
+    "url": "https://github.com/lucidrains/dreamer4",
+    "stars": 82,
     "daily_stars": 1,
     "language": "Python",
     "topics": [],
-    "created_at": "2025-10-07T18:19:09",
-    "updated_at": "2025-10-23T21:01:37"
+    "created_at": "2025-09-30T12:58:16",
+    "updated_at": "2025-10-24T02:35:04"
   },
   {
-    "name": "go-agent-development-kit",
-    "full_name": "Raezil/go-agent-development-kit",
-    "description": "Go agent framework for hybrid RAG + Graph systems: modular memory engine, pluggable models/tools, Qdrant/pgvector backends, multi-agent swarms, and UTCP tool calling",
-    "url": "https://github.com/Raezil/go-agent-development-kit",
-    "stars": 42,
+    "name": "xKG",
+    "full_name": "zjunlp/xKG",
+    "description": "Executable Knowledge Graphs for Replicating AI Research",
+    "url": "https://github.com/zjunlp/xKG",
+    "stars": 9,
     "daily_stars": 1,
-    "language": "Go",
+    "language": null,
     "topics": [
-      "adk",
       "agent",
+      "ai-research",
+      "ai4research",
       "artificial-intelligence",
-      "development",
-      "golang",
-      "graph",
-      "mongodb",
-      "postgres",
-      "qdrant-vector-database",
-      "rag",
-      "swarm",
-      "swarm-intelligence"
+      "executable-knowledge-graph",
+      "knowledge-augmentation",
+      "knowledge-graph",
+      "large-language-models",
+      "natural-language-processing",
+      "paperbench",
+      "xkg"
     ],
-    "created_at": "2025-10-13T08:28:36",
-    "updated_at": "2025-10-23T22:51:45"
+    "created_at": "2025-10-04T12:23:28",
+    "updated_at": "2025-10-24T03:47:31"
+  },
+  {
+    "name": "EggAI",
+    "full_name": "EggyEgged/EggAI",
+    "description": "EggAI is repository with everything I have made and will make regarding Google Gemini and ChatGPT, Jailbreaks and otherthings,",
+    "url": "https://github.com/EggyEgged/EggAI",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "artificial-intelligence",
+      "chatgpt",
+      "cybersecurity",
+      "gemini",
+      "gemini-ai",
+      "hacking",
+      "hacks",
+      "jailbreak",
+      "llm",
+      "llms",
+      "prompt",
+      "prompt-engineering",
+      "prompts",
+      "roleplay"
+    ],
+    "created_at": "2025-10-08T23:01:55",
+    "updated_at": "2025-10-24T03:38:30"
+  },
+  {
+    "name": "freephdlabor",
+    "full_name": "ltjed/freephdlabor",
+    "description": "freephdlabor: customizing personalized research groups that works 24/7 on your own scientific problem",
+    "url": "https://github.com/ltjed/freephdlabor",
+    "stars": 235,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai4science",
+      "autonomous-agents",
+      "multiagent-systems",
+      "research-automation"
+    ],
+    "created_at": "2025-10-20T01:59:07",
+    "updated_at": "2025-10-24T02:34:07"
   }
 ]
