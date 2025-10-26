@@ -4,20 +4,20 @@
     "full_name": "CaviraOSS/OpenMemory",
     "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
     "url": "https://github.com/CaviraOSS/OpenMemory",
-    "stars": 448,
-    "daily_stars": 58,
+    "stars": 475,
+    "daily_stars": 27,
     "language": "TypeScript",
     "topics": [],
     "created_at": "2025-10-19T16:12:49",
-    "updated_at": "2025-10-26T16:31:16"
+    "updated_at": "2025-10-26T20:37:40"
   },
   {
     "name": "ai-agents-from-scratch",
     "full_name": "pguso/ai-agents-from-scratch",
     "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
     "url": "https://github.com/pguso/ai-agents-from-scratch",
-    "stars": 625,
-    "daily_stars": 36,
+    "stars": 641,
+    "daily_stars": 16,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -30,15 +30,15 @@
       "tutorial"
     ],
     "created_at": "2025-10-23T19:39:04",
-    "updated_at": "2025-10-26T16:28:02"
+    "updated_at": "2025-10-26T20:36:12"
   },
   {
     "name": "agentic-context-engine",
     "full_name": "kayba-ai/agentic-context-engine",
     "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
     "url": "https://github.com/kayba-ai/agentic-context-engine",
-    "stars": 359,
-    "daily_stars": 4,
+    "stars": 362,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -48,118 +48,106 @@
       "python"
     ],
     "created_at": "2025-10-15T15:36:20",
-    "updated_at": "2025-10-26T16:39:32"
+    "updated_at": "2025-10-26T20:21:39"
+  },
+  {
+    "name": "rules",
+    "full_name": "project-codeguard/rules",
+    "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
+    "url": "https://github.com/project-codeguard/rules",
+    "stars": 248,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-security",
+      "coding-agents",
+      "cybersecurity"
+    ],
+    "created_at": "2025-10-12T15:24:53",
+    "updated_at": "2025-10-26T18:43:14"
+  },
+  {
+    "name": "conduit8",
+    "full_name": "conduit8/conduit8",
+    "description": "Easiest way to discover, share and use agent capabilities and skills",
+    "url": "https://github.com/conduit8/conduit8",
+    "stars": 4,
+    "daily_stars": 2,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "anthropics",
+      "claude-code",
+      "claude-skills"
+    ],
+    "created_at": "2025-10-23T17:47:38",
+    "updated_at": "2025-10-26T20:03:20"
   },
   {
     "name": "Coffee-Shop-Profit-Predictor",
     "full_name": "AmirhosseinHonardoust/Coffee-Shop-Profit-Predictor",
     "description": "Predict the profitability of potential coffee shop locations using SQL and Python. Combines data engineering with feature-rich regression modeling, visual analytics, and business insights to support data-driven site selection and retail decision-making.",
     "url": "https://github.com/AmirhosseinHonardoust/Coffee-Shop-Profit-Predictor",
-    "stars": 15,
-    "daily_stars": 3,
+    "stars": 17,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [],
     "created_at": "2025-10-23T07:29:10",
-    "updated_at": "2025-10-26T15:39:25"
+    "updated_at": "2025-10-26T18:03:51"
   },
   {
     "name": "Fake-News-Detector",
     "full_name": "AmirhosseinHonardoust/Fake-News-Detector",
     "description": "A complete NLP and Machine Learning project to detect fake and real news using TF-IDF and Logistic Regression. Includes full training pipeline, evaluation charts, and an interactive Streamlit web app for real-time credibility analysis. Dataset adapted from Kaggle’s Fake and Real News Dataset.",
     "url": "https://github.com/AmirhosseinHonardoust/Fake-News-Detector",
-    "stars": 14,
-    "daily_stars": 3,
+    "stars": 16,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [],
     "created_at": "2025-10-25T13:56:18",
-    "updated_at": "2025-10-26T15:41:39"
+    "updated_at": "2025-10-26T18:03:03"
   },
   {
-    "name": "w5-football-prediction",
-    "full_name": "Winner12-AI/w5-football-prediction",
-    "description": "🏆 Research implementation of W-5 Multi-Agent AI Consensus Framework for football match outcome prediction | AI-powered sports analytics using LLMs + Machine Learning | 85.9% accuracy",
-    "url": "https://github.com/Winner12-AI/w5-football-prediction",
-    "stars": 36,
-    "daily_stars": 2,
+    "name": "tiny-recursive-model",
+    "full_name": "lucidrains/tiny-recursive-model",
+    "description": "Implementation of Tiny Recursive Model (TRM), improvement to HRM from Sapient AI, by Alexia Jolicoeur-Martineau",
+    "url": "https://github.com/lucidrains/tiny-recursive-model",
+    "stars": 111,
+    "daily_stars": 1,
     "language": "Python",
+    "topics": [],
+    "created_at": "2025-10-07T18:19:09",
+    "updated_at": "2025-10-26T17:40:31"
+  },
+  {
+    "name": "dreamer4",
+    "full_name": "lucidrains/dreamer4",
+    "description": "Implementation of Danijar's latest iteration for his Dreamer line of work, the new SOTA for model-based RL",
+    "url": "https://github.com/lucidrains/dreamer4",
+    "stars": 84,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-09-30T12:58:16",
+    "updated_at": "2025-10-26T20:19:46"
+  },
+  {
+    "name": "robotics-stepper-motor",
+    "full_name": "leandre000/robotics-stepper-motor",
+    "description": "Intelligent-robotics-stepper-motor ",
+    "url": "https://github.com/leandre000/robotics-stepper-motor",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "C++",
     "topics": [
-      "ai-consensus",
+      "arduino-library",
       "artificial-intelligence",
-      "deep-learning",
-      "ensemble-learning",
-      "football-prediction",
-      "large-language-models",
-      "llm",
-      "machine-learning",
-      "multi-agent-systems",
-      "predictive-analytics",
-      "python",
-      "research",
-      "soccer-prediction",
-      "sports-analytics",
-      "xgboost"
+      "ino",
+      "intelligent-robotics"
     ],
-    "created_at": "2025-10-17T05:12:18",
-    "updated_at": "2025-10-26T14:16:31"
-  },
-  {
-    "name": "AI-Powered-Vulnerability-Management",
-    "full_name": "ritesh-gupta-git/AI-Powered-Vulnerability-Management",
-    "description": "AI-VMF: AI-Powered Vulnerability Management Framework demo (ensemble exploit prediction + risk scoring)",
-    "url": "https://github.com/ritesh-gupta-git/AI-Powered-Vulnerability-Management",
-    "stars": 101,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-10-24T04:39:47",
-    "updated_at": "2025-10-26T14:23:13"
-  },
-  {
-    "name": "ml-trading-japan",
-    "full_name": "xihe-820/ml-trading-japan",
-    "description": "Production-Ready ML Trading Framework for Japanese Markets | 72.56% ROI on TOPIX",
-    "url": "https://github.com/xihe-820/ml-trading-japan",
-    "stars": 40,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "algorithmic-trading",
-      "machine-learning",
-      "python",
-      "topix",
-      "trading",
-      "xgboost"
-    ],
-    "created_at": "2025-10-19T04:06:21",
-    "updated_at": "2025-10-26T15:47:24"
-  },
-  {
-    "name": "handwritten-digit-recognition",
-    "full_name": "hoffhannisyan/handwritten-digit-recognition",
-    "description": "✨ Draw handwritten digits and get instant AI predictions! Neural network implemented in pure Node.js. Zero dependencies",
-    "url": "https://github.com/hoffhannisyan/handwritten-digit-recognition",
-    "stars": 28,
-    "daily_stars": 2,
-    "language": "JavaScript",
-    "topics": [],
-    "created_at": "2025-10-09T05:45:37",
-    "updated_at": "2025-10-26T13:45:02"
-  },
-  {
-    "name": "Fraud-Detection-SQL-Supervised",
-    "full_name": "AmirhosseinHonardoust/Fraud-Detection-SQL-Supervised",
-    "description": "Detect and classify fraudulent transactions using SQL and Python. Generate behavioral features with SQLite, train a Logistic Regression model, and evaluate performance with AUC, precision, recall, and ROC analysis. A complete supervised fraud detection workflow.",
-    "url": "https://github.com/AmirhosseinHonardoust/Fraud-Detection-SQL-Supervised",
-    "stars": 13,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "data-science",
-      "machine-learning",
-      "python",
-      "sql"
-    ],
-    "created_at": "2025-10-21T12:56:43",
-    "updated_at": "2025-10-26T15:39:34"
+    "created_at": "2025-10-03T10:00:19",
+    "updated_at": "2025-10-26T18:31:09"
   }
 ]
