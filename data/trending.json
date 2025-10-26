@@ -4,20 +4,20 @@
     "full_name": "CaviraOSS/OpenMemory",
     "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
     "url": "https://github.com/CaviraOSS/OpenMemory",
-    "stars": 271,
-    "daily_stars": 41,
+    "stars": 336,
+    "daily_stars": 65,
     "language": "TypeScript",
     "topics": [],
     "created_at": "2025-10-19T16:12:49",
-    "updated_at": "2025-10-26T04:34:22"
+    "updated_at": "2025-10-26T08:40:10"
   },
   {
     "name": "ai-agents-from-scratch",
     "full_name": "pguso/ai-agents-from-scratch",
     "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
     "url": "https://github.com/pguso/ai-agents-from-scratch",
-    "stars": 538,
-    "daily_stars": 18,
+    "stars": 562,
+    "daily_stars": 24,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -30,39 +30,33 @@
       "tutorial"
     ],
     "created_at": "2025-10-23T19:39:04",
-    "updated_at": "2025-10-26T04:33:07"
+    "updated_at": "2025-10-26T07:54:37"
   },
   {
-    "name": "AI-Powered-Vulnerability-Management",
-    "full_name": "ritesh-gupta-git/AI-Powered-Vulnerability-Management",
-    "description": "AI-VMF: AI-Powered Vulnerability Management Framework demo (ensemble exploit prediction + risk scoring)",
-    "url": "https://github.com/ritesh-gupta-git/AI-Powered-Vulnerability-Management",
-    "stars": 97,
-    "daily_stars": 14,
+    "name": "agentic-context-engine",
+    "full_name": "kayba-ai/agentic-context-engine",
+    "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
+    "url": "https://github.com/kayba-ai/agentic-context-engine",
+    "stars": 351,
+    "daily_stars": 5,
     "language": "Python",
-    "topics": [],
-    "created_at": "2025-10-24T04:39:47",
-    "updated_at": "2025-10-26T04:07:58"
-  },
-  {
-    "name": "tiny-recursive-model",
-    "full_name": "lucidrains/tiny-recursive-model",
-    "description": "Implementation of Tiny Recursive Model (TRM), improvement to HRM from Sapient AI, by Alexia Jolicoeur-Martineau",
-    "url": "https://github.com/lucidrains/tiny-recursive-model",
-    "stars": 110,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-10-07T18:19:09",
-    "updated_at": "2025-10-26T04:28:40"
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "context-engineering",
+      "llm",
+      "python"
+    ],
+    "created_at": "2025-10-15T15:36:20",
+    "updated_at": "2025-10-26T08:29:00"
   },
   {
     "name": "w5-football-prediction",
     "full_name": "Winner12-AI/w5-football-prediction",
     "description": "🏆 Research implementation of W-5 Multi-Agent AI Consensus Framework for football match outcome prediction | AI-powered sports analytics using LLMs + Machine Learning | 85.9% accuracy",
     "url": "https://github.com/Winner12-AI/w5-football-prediction",
-    "stars": 29,
-    "daily_stars": 1,
+    "stars": 32,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "ai-consensus",
@@ -82,33 +76,15 @@
       "xgboost"
     ],
     "created_at": "2025-10-17T05:12:18",
-    "updated_at": "2025-10-26T02:20:00"
-  },
-  {
-    "name": "agentic-context-engine",
-    "full_name": "kayba-ai/agentic-context-engine",
-    "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
-    "url": "https://github.com/kayba-ai/agentic-context-engine",
-    "stars": 346,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "context-engineering",
-      "llm",
-      "python"
-    ],
-    "created_at": "2025-10-15T15:36:20",
-    "updated_at": "2025-10-26T02:53:56"
+    "updated_at": "2025-10-26T08:30:12"
   },
   {
     "name": "rules",
     "full_name": "project-codeguard/rules",
     "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
     "url": "https://github.com/project-codeguard/rules",
-    "stars": 240,
-    "daily_stars": 1,
+    "stars": 243,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "ai",
@@ -118,14 +94,77 @@
       "cybersecurity"
     ],
     "created_at": "2025-10-12T15:24:53",
-    "updated_at": "2025-10-26T02:57:41"
+    "updated_at": "2025-10-26T07:15:59"
+  },
+  {
+    "name": "AI-Powered-Vulnerability-Management",
+    "full_name": "ritesh-gupta-git/AI-Powered-Vulnerability-Management",
+    "description": "AI-VMF: AI-Powered Vulnerability Management Framework demo (ensemble exploit prediction + risk scoring)",
+    "url": "https://github.com/ritesh-gupta-git/AI-Powered-Vulnerability-Management",
+    "stars": 99,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-10-24T04:39:47",
+    "updated_at": "2025-10-26T06:36:11"
+  },
+  {
+    "name": "freephdlabor",
+    "full_name": "ltjed/freephdlabor",
+    "description": "freephdlabor: customizing personalized research groups that works 24/7 on your own scientific problem",
+    "url": "https://github.com/ltjed/freephdlabor",
+    "stars": 268,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai4science",
+      "autonomous-agents",
+      "multiagent-systems",
+      "research-automation"
+    ],
+    "created_at": "2025-10-20T01:59:07",
+    "updated_at": "2025-10-26T07:43:18"
+  },
+  {
+    "name": "ios-simulator-skill",
+    "full_name": "conorluddy/ios-simulator-skill",
+    "description": "An IOS Simulator Skill for ClaudeCode. Drop it into .claude/skills/ios-simulator-skill and it will let Claude drive the device. Prefers nav via accessibility over screenshots, for perf, but can use both.",
+    "url": "https://github.com/conorluddy/ios-simulator-skill",
+    "stars": 66,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "ai-agents",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-skills",
+      "claudecode",
+      "claudeskills",
+      "dx",
+      "ios",
+      "iossimulator",
+      "mcp",
+      "mcp-tools",
+      "python",
+      "simulator",
+      "skills",
+      "testing",
+      "tooling",
+      "xcode"
+    ],
+    "created_at": "2025-10-17T12:43:15",
+    "updated_at": "2025-10-26T08:33:59"
   },
   {
     "name": "ContextAgent",
     "full_name": "context-machine-lab/ContextAgent",
     "description": "Context-central multi-agent framework with PyTorch-like API. Build intelligent agent systems with minimal code.",
     "url": "https://github.com/context-machine-lab/ContextAgent",
-    "stars": 50,
+    "stars": 51,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -141,41 +180,22 @@
       "research"
     ],
     "created_at": "2025-10-01T22:56:56",
-    "updated_at": "2025-10-26T03:15:45"
+    "updated_at": "2025-10-26T05:32:08"
   },
   {
-    "name": "DiyAgent",
-    "full_name": "neil-peng/DiyAgent",
-    "description": "A very simple agentic agent code implementation (lightweight framework). The goal of this project is to enable beginners to quickly understand the essence of how an agentic agent is implemented, without any complex encapsulation or abstract comprehension. Plus, this is a show of long story ai ",
-    "url": "https://github.com/neil-peng/DiyAgent",
-    "stars": 28,
+    "name": "xor",
+    "full_name": "sql-hkr/xor",
+    "description": "XOR is designed to help students and beginners learn about neural networks through step-by-step visualization of the training process.",
+    "url": "https://github.com/sql-hkr/xor",
+    "stars": 3,
     "daily_stars": 1,
-    "language": "JavaScript",
+    "language": "TypeScript",
     "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "story"
+      "deep-learning",
+      "neural-network",
+      "visualization"
     ],
-    "created_at": "2025-10-17T01:47:20",
-    "updated_at": "2025-10-26T03:25:49"
-  },
-  {
-    "name": "claude-code-skill-factory",
-    "full_name": "alirezarezvani/claude-code-skill-factory",
-    "description": "A comprehensive toolkit for generating production-ready Claude Skills and Claude Code Agents at scale.",
-    "url": "https://github.com/alirezarezvani/claude-code-skill-factory",
-    "stars": 5,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "claude-ai",
-      "claude-code",
-      "claude-skills",
-      "claude-skills-creator"
-    ],
-    "created_at": "2025-10-21T15:20:47",
-    "updated_at": "2025-10-26T03:10:24"
+    "created_at": "2025-10-14T11:56:25",
+    "updated_at": "2025-10-26T04:59:10"
   }
 ]
