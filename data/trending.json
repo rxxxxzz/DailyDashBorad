@@ -1,11 +1,23 @@
 [
   {
+    "name": "OpenMemory",
+    "full_name": "CaviraOSS/OpenMemory",
+    "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
+    "url": "https://github.com/CaviraOSS/OpenMemory",
+    "stars": 639,
+    "daily_stars": 50,
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-10-19T16:12:49",
+    "updated_at": "2025-10-27T16:36:46"
+  },
+  {
     "name": "ai-agents-from-scratch",
     "full_name": "pguso/ai-agents-from-scratch",
     "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
     "url": "https://github.com/pguso/ai-agents-from-scratch",
-    "stars": 802,
-    "daily_stars": 52,
+    "stars": 850,
+    "daily_stars": 48,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -18,27 +30,42 @@
       "tutorial"
     ],
     "created_at": "2025-10-23T19:39:04",
-    "updated_at": "2025-10-27T13:04:31"
+    "updated_at": "2025-10-27T16:45:09"
   },
   {
-    "name": "OpenMemory",
-    "full_name": "CaviraOSS/OpenMemory",
-    "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
-    "url": "https://github.com/CaviraOSS/OpenMemory",
-    "stars": 589,
-    "daily_stars": 35,
-    "language": "TypeScript",
+    "name": "relai-sdk",
+    "full_name": "relai-ai/relai-sdk",
+    "description": "A platform for building reliable AI agents",
+    "url": "https://github.com/relai-ai/relai-sdk",
+    "stars": 26,
+    "daily_stars": 12,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-reliability"
+    ],
+    "created_at": "2025-10-21T20:28:18",
+    "updated_at": "2025-10-27T16:35:43"
+  },
+  {
+    "name": "PkBoost",
+    "full_name": "Pushp-Kharat1/PkBoost",
+    "description": "PKBoost: Adaptive GBDT for Concept Drift, Built from scratch in Rust, PKBoost manages changing data distributions in fraud detection with a fraud rate of 0.2%. It shows less than 2% degradation under drift. In comparison, XGBoost experiences a 31.8% drop and LightGBM a 42.5% drop",
+    "url": "https://github.com/Pushp-Kharat1/PkBoost",
+    "stars": 14,
+    "daily_stars": 7,
+    "language": "Rust",
     "topics": [],
-    "created_at": "2025-10-19T16:12:49",
-    "updated_at": "2025-10-27T13:05:58"
+    "created_at": "2025-10-24T12:03:59",
+    "updated_at": "2025-10-27T16:42:44"
   },
   {
     "name": "agentic-context-engine",
     "full_name": "kayba-ai/agentic-context-engine",
     "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
     "url": "https://github.com/kayba-ai/agentic-context-engine",
-    "stars": 378,
-    "daily_stars": 4,
+    "stars": 381,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -48,65 +75,72 @@
       "python"
     ],
     "created_at": "2025-10-15T15:36:20",
-    "updated_at": "2025-10-27T12:11:32"
+    "updated_at": "2025-10-27T15:00:50"
   },
   {
-    "name": "law_rag_system",
-    "full_name": "notch776/law_rag_system",
-    "description": "A corporate law RAG system with innovative retrieval and contextual strategies",
-    "url": "https://github.com/notch776/law_rag_system",
-    "stars": 35,
+    "name": "Customer_support_agent",
+    "full_name": "marksantiago02/Customer_support_agent",
+    "description": "Customer support AI Agent",
+    "url": "https://github.com/marksantiago02/Customer_support_agent",
+    "stars": 26,
+    "daily_stars": 3,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "customer-support-ai"
+    ],
+    "created_at": "2025-10-03T21:26:03",
+    "updated_at": "2025-10-27T15:27:46"
+  },
+  {
+    "name": "free-ai-resources-x",
+    "full_name": "CelaDaniel/free-ai-resources-x",
+    "description": "A curated collection of free, high quality AI tools 🤖, APIs 🔗, datasets 📊, and learning resources 📚 covering machine learning 🧠, deep learning 🧩, generative AI 🎨, NLP 💬, and data science 📈. Designed to help developers 👩‍💻, researchers 🔬, and creators ✨ explore and build with AI faster ⚡.",
+    "url": "https://github.com/CelaDaniel/free-ai-resources-x",
+    "stars": 38,
+    "daily_stars": 2,
+    "language": null,
+    "topics": [],
+    "created_at": "2025-10-17T17:37:17",
+    "updated_at": "2025-10-27T14:31:54"
+  },
+  {
+    "name": "claude-code-skill-factory",
+    "full_name": "alirezarezvani/claude-code-skill-factory",
+    "description": "A comprehensive toolkit for generating production-ready Claude Skills and Claude Code Agents at scale.",
+    "url": "https://github.com/alirezarezvani/claude-code-skill-factory",
+    "stars": 10,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "claude-ai",
+      "claude-code",
+      "claude-skills",
+      "claude-skills-creator"
+    ],
+    "created_at": "2025-10-21T15:20:47",
+    "updated_at": "2025-10-27T15:32:09"
+  },
+  {
+    "name": "AI-Powered-Vulnerability-Management",
+    "full_name": "ritesh-gupta-git/AI-Powered-Vulnerability-Management",
+    "description": "AI-VMF: AI-Powered Vulnerability Management Framework demo (ensemble exploit prediction + risk scoring)",
+    "url": "https://github.com/ritesh-gupta-git/AI-Powered-Vulnerability-Management",
+    "stars": 103,
     "daily_stars": 2,
     "language": "Python",
     "topics": [],
-    "created_at": "2025-09-28T15:32:07",
-    "updated_at": "2025-10-27T12:51:05"
-  },
-  {
-    "name": "rules",
-    "full_name": "project-codeguard/rules",
-    "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
-    "url": "https://github.com/project-codeguard/rules",
-    "stars": 253,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-security",
-      "coding-agents",
-      "cybersecurity"
-    ],
-    "created_at": "2025-10-12T15:24:53",
-    "updated_at": "2025-10-27T12:54:05"
-  },
-  {
-    "name": "aicw",
-    "full_name": "aichatwatch/aicw",
-    "description": "AI Chat Watch (AICW) - free and open-soruce tool for marketers for monitoring what AI chats say",
-    "url": "https://github.com/aichatwatch/aicw",
-    "stars": 9,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-observability",
-      "chatgpt",
-      "claude",
-      "llama",
-      "marketing",
-      "marketing-analytics"
-    ],
-    "created_at": "2025-10-08T14:14:37",
-    "updated_at": "2025-10-27T09:27:20"
+    "created_at": "2025-10-24T04:39:47",
+    "updated_at": "2025-10-27T15:44:04"
   },
   {
     "name": "ml-trading-japan",
     "full_name": "xihe-820/ml-trading-japan",
     "description": "Production-Ready ML Trading Framework for Japanese Markets | 72.56% ROI on TOPIX",
     "url": "https://github.com/xihe-820/ml-trading-japan",
-    "stars": 45,
+    "stars": 47,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
@@ -118,58 +152,6 @@
       "xgboost"
     ],
     "created_at": "2025-10-19T04:06:21",
-    "updated_at": "2025-10-27T11:13:33"
-  },
-  {
-    "name": "PkBoost",
-    "full_name": "Pushp-Kharat1/PkBoost",
-    "description": "PKBoost: Adaptive GBDT for Concept Drift, Built from scratch in Rust, PKBoost manages changing data distributions in fraud detection with a fraud rate of 0.2%. It shows less than 2% degradation under drift. In comparison, XGBoost experiences a 31.8% drop and LightGBM a 42.5% drop",
-    "url": "https://github.com/Pushp-Kharat1/PkBoost",
-    "stars": 7,
-    "daily_stars": 2,
-    "language": "Rust",
-    "topics": [],
-    "created_at": "2025-10-24T12:03:59",
-    "updated_at": "2025-10-27T12:08:44"
-  },
-  {
-    "name": "dreamer4",
-    "full_name": "lucidrains/dreamer4",
-    "description": "Implementation of Danijar's latest iteration for his Dreamer line of work, the new SOTA for model-based RL",
-    "url": "https://github.com/lucidrains/dreamer4",
-    "stars": 85,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-09-30T12:58:16",
-    "updated_at": "2025-10-27T09:20:30"
-  },
-  {
-    "name": "w5-football-prediction",
-    "full_name": "Winner12-AI/w5-football-prediction",
-    "description": "🏆 Research implementation of W-5 Multi-Agent AI Consensus Framework for football match outcome prediction | AI-powered sports analytics using LLMs + Machine Learning | 85.9% accuracy",
-    "url": "https://github.com/Winner12-AI/w5-football-prediction",
-    "stars": 44,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-consensus",
-      "artificial-intelligence",
-      "deep-learning",
-      "ensemble-learning",
-      "football-prediction",
-      "large-language-models",
-      "llm",
-      "machine-learning",
-      "multi-agent-systems",
-      "predictive-analytics",
-      "python",
-      "research",
-      "soccer-prediction",
-      "sports-analytics",
-      "xgboost"
-    ],
-    "created_at": "2025-10-17T05:12:18",
-    "updated_at": "2025-10-27T12:56:27"
+    "updated_at": "2025-10-27T15:51:16"
   }
 ]
