@@ -4,8 +4,8 @@
     "full_name": "pguso/ai-agents-from-scratch",
     "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
     "url": "https://github.com/pguso/ai-agents-from-scratch",
-    "stars": 750,
-    "daily_stars": 42,
+    "stars": 802,
+    "daily_stars": 52,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -18,27 +18,27 @@
       "tutorial"
     ],
     "created_at": "2025-10-23T19:39:04",
-    "updated_at": "2025-10-27T08:39:57"
+    "updated_at": "2025-10-27T13:04:31"
   },
   {
     "name": "OpenMemory",
     "full_name": "CaviraOSS/OpenMemory",
     "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
     "url": "https://github.com/CaviraOSS/OpenMemory",
-    "stars": 554,
-    "daily_stars": 32,
+    "stars": 589,
+    "daily_stars": 35,
     "language": "TypeScript",
     "topics": [],
     "created_at": "2025-10-19T16:12:49",
-    "updated_at": "2025-10-27T08:45:58"
+    "updated_at": "2025-10-27T13:05:58"
   },
   {
     "name": "agentic-context-engine",
     "full_name": "kayba-ai/agentic-context-engine",
     "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
     "url": "https://github.com/kayba-ai/agentic-context-engine",
-    "stars": 374,
-    "daily_stars": 5,
+    "stars": 378,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -48,27 +48,109 @@
       "python"
     ],
     "created_at": "2025-10-15T15:36:20",
-    "updated_at": "2025-10-27T08:04:27"
+    "updated_at": "2025-10-27T12:11:32"
   },
   {
-    "name": "mlops-workflow",
-    "full_name": "willyfh/mlops-workflow",
-    "description": "A MLOps workflow for training, inference, experiment tracking, model registry, and deployment.",
-    "url": "https://github.com/willyfh/mlops-workflow",
-    "stars": 10,
-    "daily_stars": 3,
+    "name": "law_rag_system",
+    "full_name": "notch776/law_rag_system",
+    "description": "A corporate law RAG system with innovative retrieval and contextual strategies",
+    "url": "https://github.com/notch776/law_rag_system",
+    "stars": 35,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [],
-    "created_at": "2025-10-26T12:37:51",
-    "updated_at": "2025-10-27T08:24:40"
+    "created_at": "2025-09-28T15:32:07",
+    "updated_at": "2025-10-27T12:51:05"
+  },
+  {
+    "name": "rules",
+    "full_name": "project-codeguard/rules",
+    "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
+    "url": "https://github.com/project-codeguard/rules",
+    "stars": 253,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-security",
+      "coding-agents",
+      "cybersecurity"
+    ],
+    "created_at": "2025-10-12T15:24:53",
+    "updated_at": "2025-10-27T12:54:05"
+  },
+  {
+    "name": "aicw",
+    "full_name": "aichatwatch/aicw",
+    "description": "AI Chat Watch (AICW) - free and open-soruce tool for marketers for monitoring what AI chats say",
+    "url": "https://github.com/aichatwatch/aicw",
+    "stars": 9,
+    "daily_stars": 2,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-observability",
+      "chatgpt",
+      "claude",
+      "llama",
+      "marketing",
+      "marketing-analytics"
+    ],
+    "created_at": "2025-10-08T14:14:37",
+    "updated_at": "2025-10-27T09:27:20"
+  },
+  {
+    "name": "ml-trading-japan",
+    "full_name": "xihe-820/ml-trading-japan",
+    "description": "Production-Ready ML Trading Framework for Japanese Markets | 72.56% ROI on TOPIX",
+    "url": "https://github.com/xihe-820/ml-trading-japan",
+    "stars": 45,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "algorithmic-trading",
+      "machine-learning",
+      "python",
+      "topix",
+      "trading",
+      "xgboost"
+    ],
+    "created_at": "2025-10-19T04:06:21",
+    "updated_at": "2025-10-27T11:13:33"
+  },
+  {
+    "name": "PkBoost",
+    "full_name": "Pushp-Kharat1/PkBoost",
+    "description": "PKBoost: Adaptive GBDT for Concept Drift, Built from scratch in Rust, PKBoost manages changing data distributions in fraud detection with a fraud rate of 0.2%. It shows less than 2% degradation under drift. In comparison, XGBoost experiences a 31.8% drop and LightGBM a 42.5% drop",
+    "url": "https://github.com/Pushp-Kharat1/PkBoost",
+    "stars": 7,
+    "daily_stars": 2,
+    "language": "Rust",
+    "topics": [],
+    "created_at": "2025-10-24T12:03:59",
+    "updated_at": "2025-10-27T12:08:44"
+  },
+  {
+    "name": "dreamer4",
+    "full_name": "lucidrains/dreamer4",
+    "description": "Implementation of Danijar's latest iteration for his Dreamer line of work, the new SOTA for model-based RL",
+    "url": "https://github.com/lucidrains/dreamer4",
+    "stars": 85,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-09-30T12:58:16",
+    "updated_at": "2025-10-27T09:20:30"
   },
   {
     "name": "w5-football-prediction",
     "full_name": "Winner12-AI/w5-football-prediction",
     "description": "🏆 Research implementation of W-5 Multi-Agent AI Consensus Framework for football match outcome prediction | AI-powered sports analytics using LLMs + Machine Learning | 85.9% accuracy",
     "url": "https://github.com/Winner12-AI/w5-football-prediction",
-    "stars": 43,
-    "daily_stars": 2,
+    "stars": 44,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai-consensus",
@@ -88,76 +170,6 @@
       "xgboost"
     ],
     "created_at": "2025-10-17T05:12:18",
-    "updated_at": "2025-10-27T07:10:44"
-  },
-  {
-    "name": "SEO-Friendly",
-    "full_name": "MainakVerse/SEO-Friendly",
-    "description": "SEO & Page Performance Analyzer is a lightning-fast, AI-enhanced tool that provides instant insights into your website’s performance, SEO compliance, and core web vitals — all in under 15 seconds.",
-    "url": "https://github.com/MainakVerse/SEO-Friendly",
-    "stars": 8,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [],
-    "created_at": "2025-10-05T07:42:06",
-    "updated_at": "2025-10-27T07:34:30"
-  },
-  {
-    "name": "System-Designer",
-    "full_name": "MainakVerse/System-Designer",
-    "description": "Transform ideas into production-ready UML diagrams, ER schemas, and system architectures with AI.",
-    "url": "https://github.com/MainakVerse/System-Designer",
-    "stars": 8,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [],
-    "created_at": "2025-10-06T12:02:02",
-    "updated_at": "2025-10-27T07:34:27"
-  },
-  {
-    "name": "a2a-x402-typescript",
-    "full_name": "dabit3/a2a-x402-typescript",
-    "description": "A complete TypeScript implementation of the Python x402 payment protocol extension for A2A (Agent-to-Agent) communication. Enable your AI agents to request, verify, and settle crypto payments seamlessly.",
-    "url": "https://github.com/dabit3/a2a-x402-typescript",
-    "stars": 59,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "a2a",
-      "ai",
-      "ai-agents",
-      "x402"
-    ],
-    "created_at": "2025-10-06T23:43:13",
-    "updated_at": "2025-10-27T07:53:04"
-  },
-  {
-    "name": "deep-thinking-rag",
-    "full_name": "FareedKhan-dev/deep-thinking-rag",
-    "description": "A Deep Thinking RAG Pipeline to Solve Complex Queries ",
-    "url": "https://github.com/FareedKhan-dev/deep-thinking-rag",
-    "stars": 39,
-    "daily_stars": 2,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "ai-agents",
-      "llm",
-      "llms",
-      "rag"
-    ],
-    "created_at": "2025-10-19T12:48:26",
-    "updated_at": "2025-10-27T07:57:15"
-  },
-  {
-    "name": "handwritten-digit-recognition",
-    "full_name": "hoffhannisyan/handwritten-digit-recognition",
-    "description": "✨ Draw handwritten digits and get instant AI predictions! Neural network implemented in pure Node.js. Zero dependencies",
-    "url": "https://github.com/hoffhannisyan/handwritten-digit-recognition",
-    "stars": 30,
-    "daily_stars": 2,
-    "language": "JavaScript",
-    "topics": [],
-    "created_at": "2025-10-09T05:45:37",
-    "updated_at": "2025-10-27T07:04:01"
+    "updated_at": "2025-10-27T12:56:27"
   }
 ]
