@@ -1,23 +1,11 @@
 [
   {
-    "name": "OpenMemory",
-    "full_name": "CaviraOSS/OpenMemory",
-    "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
-    "url": "https://github.com/CaviraOSS/OpenMemory",
-    "stars": 639,
-    "daily_stars": 50,
-    "language": "TypeScript",
-    "topics": [],
-    "created_at": "2025-10-19T16:12:49",
-    "updated_at": "2025-10-27T16:36:46"
-  },
-  {
     "name": "ai-agents-from-scratch",
     "full_name": "pguso/ai-agents-from-scratch",
     "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
     "url": "https://github.com/pguso/ai-agents-from-scratch",
-    "stars": 850,
-    "daily_stars": 48,
+    "stars": 884,
+    "daily_stars": 34,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -30,42 +18,42 @@
       "tutorial"
     ],
     "created_at": "2025-10-23T19:39:04",
-    "updated_at": "2025-10-27T16:45:09"
+    "updated_at": "2025-10-27T20:30:14"
+  },
+  {
+    "name": "OpenMemory",
+    "full_name": "CaviraOSS/OpenMemory",
+    "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
+    "url": "https://github.com/CaviraOSS/OpenMemory",
+    "stars": 666,
+    "daily_stars": 27,
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-10-19T16:12:49",
+    "updated_at": "2025-10-27T20:38:13"
   },
   {
     "name": "relai-sdk",
     "full_name": "relai-ai/relai-sdk",
     "description": "A platform for building reliable AI agents",
     "url": "https://github.com/relai-ai/relai-sdk",
-    "stars": 26,
-    "daily_stars": 12,
+    "stars": 37,
+    "daily_stars": 11,
     "language": "Python",
     "topics": [
       "ai-agents",
       "ai-reliability"
     ],
     "created_at": "2025-10-21T20:28:18",
-    "updated_at": "2025-10-27T16:35:43"
-  },
-  {
-    "name": "PkBoost",
-    "full_name": "Pushp-Kharat1/PkBoost",
-    "description": "PKBoost: Adaptive GBDT for Concept Drift, Built from scratch in Rust, PKBoost manages changing data distributions in fraud detection with a fraud rate of 0.2%. It shows less than 2% degradation under drift. In comparison, XGBoost experiences a 31.8% drop and LightGBM a 42.5% drop",
-    "url": "https://github.com/Pushp-Kharat1/PkBoost",
-    "stars": 14,
-    "daily_stars": 7,
-    "language": "Rust",
-    "topics": [],
-    "created_at": "2025-10-24T12:03:59",
-    "updated_at": "2025-10-27T16:42:44"
+    "updated_at": "2025-10-27T19:53:23"
   },
   {
     "name": "agentic-context-engine",
     "full_name": "kayba-ai/agentic-context-engine",
     "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
     "url": "https://github.com/kayba-ai/agentic-context-engine",
-    "stars": 381,
-    "daily_stars": 3,
+    "stars": 383,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -75,83 +63,104 @@
       "python"
     ],
     "created_at": "2025-10-15T15:36:20",
-    "updated_at": "2025-10-27T15:00:50"
+    "updated_at": "2025-10-27T19:53:57"
   },
   {
-    "name": "Customer_support_agent",
-    "full_name": "marksantiago02/Customer_support_agent",
-    "description": "Customer support AI Agent",
-    "url": "https://github.com/marksantiago02/Customer_support_agent",
-    "stars": 26,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "customer-support-ai"
-    ],
-    "created_at": "2025-10-03T21:26:03",
-    "updated_at": "2025-10-27T15:27:46"
-  },
-  {
-    "name": "free-ai-resources-x",
-    "full_name": "CelaDaniel/free-ai-resources-x",
-    "description": "A curated collection of free, high quality AI tools 🤖, APIs 🔗, datasets 📊, and learning resources 📚 covering machine learning 🧠, deep learning 🧩, generative AI 🎨, NLP 💬, and data science 📈. Designed to help developers 👩‍💻, researchers 🔬, and creators ✨ explore and build with AI faster ⚡.",
-    "url": "https://github.com/CelaDaniel/free-ai-resources-x",
-    "stars": 38,
+    "name": "claude-skills-marketplace",
+    "full_name": "mhattingpete/claude-skills-marketplace",
+    "description": "Claude Code Skills for software engineering workflows - Git automation, testing, and code review",
+    "url": "https://github.com/mhattingpete/claude-skills-marketplace",
+    "stars": 41,
     "daily_stars": 2,
     "language": null,
-    "topics": [],
-    "created_at": "2025-10-17T17:37:17",
-    "updated_at": "2025-10-27T14:31:54"
-  },
-  {
-    "name": "claude-code-skill-factory",
-    "full_name": "alirezarezvani/claude-code-skill-factory",
-    "description": "A comprehensive toolkit for generating production-ready Claude Skills and Claude Code Agents at scale.",
-    "url": "https://github.com/alirezarezvani/claude-code-skill-factory",
-    "stars": 10,
-    "daily_stars": 2,
-    "language": "Python",
     "topics": [
       "ai-agents",
-      "ai-tools",
-      "claude-ai",
+      "anthropic",
+      "automation",
       "claude-code",
       "claude-skills",
-      "claude-skills-creator"
+      "developer-tools"
     ],
-    "created_at": "2025-10-21T15:20:47",
-    "updated_at": "2025-10-27T15:32:09"
+    "created_at": "2025-10-17T12:02:19",
+    "updated_at": "2025-10-27T19:42:51"
   },
   {
-    "name": "AI-Powered-Vulnerability-Management",
-    "full_name": "ritesh-gupta-git/AI-Powered-Vulnerability-Management",
-    "description": "AI-VMF: AI-Powered Vulnerability Management Framework demo (ensemble exploit prediction + risk scoring)",
-    "url": "https://github.com/ritesh-gupta-git/AI-Powered-Vulnerability-Management",
-    "stars": 103,
+    "name": "Coffee-Shop-Profit-Predictor",
+    "full_name": "AmirhosseinHonardoust/Coffee-Shop-Profit-Predictor",
+    "description": "Predict the profitability of potential coffee shop locations using SQL and Python. Combines data engineering with feature-rich regression modeling, visual analytics, and business insights to support data-driven site selection and retail decision-making.",
+    "url": "https://github.com/AmirhosseinHonardoust/Coffee-Shop-Profit-Predictor",
+    "stars": 21,
     "daily_stars": 2,
     "language": "Python",
     "topics": [],
-    "created_at": "2025-10-24T04:39:47",
-    "updated_at": "2025-10-27T15:44:04"
+    "created_at": "2025-10-23T07:29:10",
+    "updated_at": "2025-10-27T18:53:15"
   },
   {
-    "name": "ml-trading-japan",
-    "full_name": "xihe-820/ml-trading-japan",
-    "description": "Production-Ready ML Trading Framework for Japanese Markets | 72.56% ROI on TOPIX",
-    "url": "https://github.com/xihe-820/ml-trading-japan",
-    "stars": 47,
+    "name": "Fake-News-Detector",
+    "full_name": "AmirhosseinHonardoust/Fake-News-Detector",
+    "description": "A complete NLP and Machine Learning project to detect fake and real news using TF-IDF and Logistic Regression. Includes full training pipeline, evaluation charts, and an interactive Streamlit web app for real-time credibility analysis. Dataset adapted from Kaggle’s Fake and Real News Dataset.",
+    "url": "https://github.com/AmirhosseinHonardoust/Fake-News-Detector",
+    "stars": 20,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-10-25T13:56:18",
+    "updated_at": "2025-10-27T18:53:13"
+  },
+  {
+    "name": "Fraud-Detection-SQL-Supervised",
+    "full_name": "AmirhosseinHonardoust/Fraud-Detection-SQL-Supervised",
+    "description": "Detect and classify fraudulent transactions using SQL and Python. Generate behavioral features with SQLite, train a Logistic Regression model, and evaluate performance with AUC, precision, recall, and ROC analysis. A complete supervised fraud detection workflow.",
+    "url": "https://github.com/AmirhosseinHonardoust/Fraud-Detection-SQL-Supervised",
+    "stars": 19,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
-      "algorithmic-trading",
+      "data-science",
       "machine-learning",
       "python",
-      "topix",
-      "trading",
-      "xgboost"
+      "sql"
     ],
-    "created_at": "2025-10-19T04:06:21",
-    "updated_at": "2025-10-27T15:51:16"
+    "created_at": "2025-10-21T12:56:43",
+    "updated_at": "2025-10-27T18:53:17"
+  },
+  {
+    "name": "AI-Productivity-Tracker",
+    "full_name": "AmirhosseinHonardoust/AI-Productivity-Tracker",
+    "description": "Analyze and predict daily productivity using SQL, machine learning, and psychology. This project combines behavioral data, circadian rhythm analysis, and ElasticNet regression to model focus, stress, and performance, transforming work patterns into actionable insights.",
+    "url": "https://github.com/AmirhosseinHonardoust/AI-Productivity-Tracker",
+    "stars": 17,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-10-24T08:11:06",
+    "updated_at": "2025-10-27T18:53:14"
+  },
+  {
+    "name": "Fraud-Detection-SQL-Unsupervised",
+    "full_name": "AmirhosseinHonardoust/Fraud-Detection-SQL-Unsupervised",
+    "description": "Detect suspicious financial transactions using SQL and Python. Build user-level behavioral features in SQLite, apply Isolation Forest for anomaly detection, and visualize high-risk patterns. Demonstrates unsupervised fraud analytics and SQL-driven data science workflow.",
+    "url": "https://github.com/AmirhosseinHonardoust/Fraud-Detection-SQL-Unsupervised",
+    "stars": 14,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "anomaly-detection",
+      "banking-data",
+      "data-analysis",
+      "data-science",
+      "financial-analytics",
+      "fraud-detection",
+      "isolation-forest",
+      "machine-learning",
+      "portfolio-project",
+      "python",
+      "sql",
+      "sqlite",
+      "unsupervised-learning"
+    ],
+    "created_at": "2025-10-21T12:42:22",
+    "updated_at": "2025-10-27T18:53:18"
   }
 ]
