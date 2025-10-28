@@ -1,23 +1,11 @@
 [
   {
-    "name": "OpenMemory",
-    "full_name": "CaviraOSS/OpenMemory",
-    "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
-    "url": "https://github.com/CaviraOSS/OpenMemory",
-    "stars": 762,
-    "daily_stars": 96,
-    "language": "TypeScript",
-    "topics": [],
-    "created_at": "2025-10-19T16:12:49",
-    "updated_at": "2025-10-28T02:03:27"
-  },
-  {
     "name": "ai-agents-from-scratch",
     "full_name": "pguso/ai-agents-from-scratch",
     "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
     "url": "https://github.com/pguso/ai-agents-from-scratch",
-    "stars": 916,
-    "daily_stars": 32,
+    "stars": 938,
+    "daily_stars": 22,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -30,112 +18,58 @@
       "tutorial"
     ],
     "created_at": "2025-10-23T19:39:04",
-    "updated_at": "2025-10-28T02:11:15"
+    "updated_at": "2025-10-28T04:37:27"
+  },
+  {
+    "name": "OpenMemory",
+    "full_name": "CaviraOSS/OpenMemory",
+    "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
+    "url": "https://github.com/CaviraOSS/OpenMemory",
+    "stars": 780,
+    "daily_stars": 18,
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-10-19T16:12:49",
+    "updated_at": "2025-10-28T04:40:03"
   },
   {
     "name": "relai-sdk",
     "full_name": "relai-ai/relai-sdk",
     "description": "A platform for building reliable AI agents",
     "url": "https://github.com/relai-ai/relai-sdk",
-    "stars": 45,
-    "daily_stars": 8,
+    "stars": 51,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "ai-agents",
       "ai-reliability"
     ],
     "created_at": "2025-10-21T20:28:18",
-    "updated_at": "2025-10-28T01:00:39"
+    "updated_at": "2025-10-28T04:40:36"
   },
   {
-    "name": "agentic-context-engine",
-    "full_name": "kayba-ai/agentic-context-engine",
-    "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
-    "url": "https://github.com/kayba-ai/agentic-context-engine",
-    "stars": 390,
-    "daily_stars": 7,
-    "language": "Python",
+    "name": "deep-thinking-rag",
+    "full_name": "FareedKhan-dev/deep-thinking-rag",
+    "description": "A Deep Thinking RAG Pipeline to Solve Complex Queries ",
+    "url": "https://github.com/FareedKhan-dev/deep-thinking-rag",
+    "stars": 45,
+    "daily_stars": 3,
+    "language": "Jupyter Notebook",
     "topics": [
       "ai-agents",
-      "ai-tools",
-      "context-engineering",
       "llm",
-      "python"
+      "llms",
+      "rag"
     ],
-    "created_at": "2025-10-15T15:36:20",
-    "updated_at": "2025-10-28T00:51:04"
-  },
-  {
-    "name": "rules",
-    "full_name": "project-codeguard/rules",
-    "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
-    "url": "https://github.com/project-codeguard/rules",
-    "stars": 260,
-    "daily_stars": 6,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-security",
-      "coding-agents",
-      "cybersecurity"
-    ],
-    "created_at": "2025-10-12T15:24:53",
-    "updated_at": "2025-10-28T01:41:40"
-  },
-  {
-    "name": "PkBoost",
-    "full_name": "Pushp-Kharat1/PkBoost",
-    "description": "PKBoost: Adaptive GBDT for Concept Drift, Built from scratch in Rust, PKBoost manages changing data distributions in fraud detection with a fraud rate of 0.2%. It shows less than 2% degradation under drift. In comparison, XGBoost experiences a 31.8% drop and LightGBM a 42.5% drop",
-    "url": "https://github.com/Pushp-Kharat1/PkBoost",
-    "stars": 19,
-    "daily_stars": 5,
-    "language": "Rust",
-    "topics": [],
-    "created_at": "2025-10-24T12:03:59",
-    "updated_at": "2025-10-28T00:47:47"
-  },
-  {
-    "name": "n8n-skills",
-    "full_name": "czlonkowski/n8n-skills",
-    "description": "n8n skillset for Claude Code to build flawless n8n workflows",
-    "url": "https://github.com/czlonkowski/n8n-skills",
-    "stars": 58,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "n8n",
-      "workflow-automation"
-    ],
-    "created_at": "2025-10-20T05:51:27",
-    "updated_at": "2025-10-27T21:47:55"
-  },
-  {
-    "name": "amazon-bedrock-copilot-chat",
-    "full_name": "tinovyatkin/amazon-bedrock-copilot-chat",
-    "description": "A VSCode Language Model Chat Provider to use Amazon Bedrock in Copilot Chat",
-    "url": "https://github.com/tinovyatkin/amazon-bedrock-copilot-chat",
-    "stars": 5,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "aws",
-      "bedrock",
-      "vscode",
-      "vscode-extension"
-    ],
-    "created_at": "2025-10-12T23:14:29",
-    "updated_at": "2025-10-28T01:00:10"
+    "created_at": "2025-10-19T12:48:26",
+    "updated_at": "2025-10-28T03:11:13"
   },
   {
     "name": "ml-trading-japan",
     "full_name": "xihe-820/ml-trading-japan",
     "description": "Production-Ready ML Trading Framework for Japanese Markets | 72.56% ROI on TOPIX",
     "url": "https://github.com/xihe-820/ml-trading-japan",
-    "stars": 50,
+    "stars": 52,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
@@ -147,28 +81,106 @@
       "xgboost"
     ],
     "created_at": "2025-10-19T04:06:21",
-    "updated_at": "2025-10-28T02:12:53"
+    "updated_at": "2025-10-28T04:23:53"
   },
   {
-    "name": "linax",
-    "full_name": "camail-official/linax",
-    "description": "`linax` is a light weight collection of state space models implemented in JAX ⚡️",
-    "url": "https://github.com/camail-official/linax",
-    "stars": 10,
+    "name": "PkBoost",
+    "full_name": "Pushp-Kharat1/PkBoost",
+    "description": "PKBoost: Adaptive GBDT for Concept Drift, Built from scratch in Rust, PKBoost manages changing data distributions in fraud detection with a fraud rate of 0.2%. It shows less than 2% degradation under drift. In comparison, XGBoost experiences a 31.8% drop and LightGBM a 42.5% drop",
+    "url": "https://github.com/Pushp-Kharat1/PkBoost",
+    "stars": 21,
     "daily_stars": 2,
+    "language": "Rust",
+    "topics": [],
+    "created_at": "2025-10-24T12:03:59",
+    "updated_at": "2025-10-28T04:05:54"
+  },
+  {
+    "name": "agentic-context-engine",
+    "full_name": "kayba-ai/agentic-context-engine",
+    "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
+    "url": "https://github.com/kayba-ai/agentic-context-engine",
+    "stars": 391,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "deep-learning",
-      "equinox",
-      "jax",
-      "linax",
-      "machine-learning",
-      "neural-networks",
-      "sequence-modeling",
-      "ssm",
-      "state-space-models"
+      "ai-agents",
+      "ai-tools",
+      "context-engineering",
+      "llm",
+      "python"
     ],
-    "created_at": "2025-10-15T10:52:58",
-    "updated_at": "2025-10-27T22:50:48"
+    "created_at": "2025-10-15T15:36:20",
+    "updated_at": "2025-10-28T03:29:12"
+  },
+  {
+    "name": "rules",
+    "full_name": "project-codeguard/rules",
+    "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
+    "url": "https://github.com/project-codeguard/rules",
+    "stars": 261,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-security",
+      "coding-agents",
+      "cybersecurity"
+    ],
+    "created_at": "2025-10-12T15:24:53",
+    "updated_at": "2025-10-28T03:13:39"
+  },
+  {
+    "name": "AI-prompt",
+    "full_name": "1Haschwalth/AI-prompt",
+    "description": "自撰作品《AI精准操作手册：从Prompt工程到认知导航》",
+    "url": "https://github.com/1Haschwalth/AI-prompt",
+    "stars": 21,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "agent",
+      "ai",
+      "chatgpt",
+      "cognitive-science",
+      "deepseek",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "openai",
+      "philosophy",
+      "prompt-engineering",
+      "technology",
+      "workflow"
+    ],
+    "created_at": "2025-10-15T05:02:18",
+    "updated_at": "2025-10-28T02:25:39"
+  },
+  {
+    "name": "WeatherForecast",
+    "full_name": "Runoi/WeatherForecast",
+    "description": "E2E Time Series Forecasting project comparing ARIMA, N-BEATS, and a custom PyTorch LSTM on real weather data.",
+    "url": "https://github.com/Runoi/WeatherForecast",
+    "stars": 2,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "arima",
+      "data-analysis",
+      "data-engineering",
+      "data-science",
+      "deep-learning",
+      "jupyter-notebook",
+      "lstm",
+      "machine-learning",
+      "python",
+      "pytorch",
+      "sqlite",
+      "time-series-forecasting",
+      "web-scraping"
+    ],
+    "created_at": "2025-10-27T14:12:47",
+    "updated_at": "2025-10-28T04:21:31"
   }
 ]
