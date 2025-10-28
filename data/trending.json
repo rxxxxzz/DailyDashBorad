@@ -1,11 +1,23 @@
 [
   {
+    "name": "OpenMemory",
+    "full_name": "CaviraOSS/OpenMemory",
+    "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
+    "url": "https://github.com/CaviraOSS/OpenMemory",
+    "stars": 762,
+    "daily_stars": 96,
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-10-19T16:12:49",
+    "updated_at": "2025-10-28T02:03:27"
+  },
+  {
     "name": "ai-agents-from-scratch",
     "full_name": "pguso/ai-agents-from-scratch",
     "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
     "url": "https://github.com/pguso/ai-agents-from-scratch",
-    "stars": 884,
-    "daily_stars": 34,
+    "stars": 916,
+    "daily_stars": 32,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -18,42 +30,30 @@
       "tutorial"
     ],
     "created_at": "2025-10-23T19:39:04",
-    "updated_at": "2025-10-27T20:30:14"
-  },
-  {
-    "name": "OpenMemory",
-    "full_name": "CaviraOSS/OpenMemory",
-    "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
-    "url": "https://github.com/CaviraOSS/OpenMemory",
-    "stars": 666,
-    "daily_stars": 27,
-    "language": "TypeScript",
-    "topics": [],
-    "created_at": "2025-10-19T16:12:49",
-    "updated_at": "2025-10-27T20:38:13"
+    "updated_at": "2025-10-28T02:11:15"
   },
   {
     "name": "relai-sdk",
     "full_name": "relai-ai/relai-sdk",
     "description": "A platform for building reliable AI agents",
     "url": "https://github.com/relai-ai/relai-sdk",
-    "stars": 37,
-    "daily_stars": 11,
+    "stars": 45,
+    "daily_stars": 8,
     "language": "Python",
     "topics": [
       "ai-agents",
       "ai-reliability"
     ],
     "created_at": "2025-10-21T20:28:18",
-    "updated_at": "2025-10-27T19:53:23"
+    "updated_at": "2025-10-28T01:00:39"
   },
   {
     "name": "agentic-context-engine",
     "full_name": "kayba-ai/agentic-context-engine",
     "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
     "url": "https://github.com/kayba-ai/agentic-context-engine",
-    "stars": 383,
-    "daily_stars": 2,
+    "stars": 390,
+    "daily_stars": 7,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -63,104 +63,112 @@
       "python"
     ],
     "created_at": "2025-10-15T15:36:20",
-    "updated_at": "2025-10-27T19:53:57"
+    "updated_at": "2025-10-28T00:51:04"
   },
   {
-    "name": "claude-skills-marketplace",
-    "full_name": "mhattingpete/claude-skills-marketplace",
-    "description": "Claude Code Skills for software engineering workflows - Git automation, testing, and code review",
-    "url": "https://github.com/mhattingpete/claude-skills-marketplace",
-    "stars": 41,
+    "name": "rules",
+    "full_name": "project-codeguard/rules",
+    "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
+    "url": "https://github.com/project-codeguard/rules",
+    "stars": 260,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-security",
+      "coding-agents",
+      "cybersecurity"
+    ],
+    "created_at": "2025-10-12T15:24:53",
+    "updated_at": "2025-10-28T01:41:40"
+  },
+  {
+    "name": "PkBoost",
+    "full_name": "Pushp-Kharat1/PkBoost",
+    "description": "PKBoost: Adaptive GBDT for Concept Drift, Built from scratch in Rust, PKBoost manages changing data distributions in fraud detection with a fraud rate of 0.2%. It shows less than 2% degradation under drift. In comparison, XGBoost experiences a 31.8% drop and LightGBM a 42.5% drop",
+    "url": "https://github.com/Pushp-Kharat1/PkBoost",
+    "stars": 19,
+    "daily_stars": 5,
+    "language": "Rust",
+    "topics": [],
+    "created_at": "2025-10-24T12:03:59",
+    "updated_at": "2025-10-28T00:47:47"
+  },
+  {
+    "name": "n8n-skills",
+    "full_name": "czlonkowski/n8n-skills",
+    "description": "n8n skillset for Claude Code to build flawless n8n workflows",
+    "url": "https://github.com/czlonkowski/n8n-skills",
+    "stars": 58,
     "daily_stars": 2,
     "language": null,
     "topics": [
       "ai-agents",
-      "anthropic",
-      "automation",
-      "claude-code",
-      "claude-skills",
-      "developer-tools"
+      "n8n",
+      "workflow-automation"
     ],
-    "created_at": "2025-10-17T12:02:19",
-    "updated_at": "2025-10-27T19:42:51"
+    "created_at": "2025-10-20T05:51:27",
+    "updated_at": "2025-10-27T21:47:55"
   },
   {
-    "name": "Coffee-Shop-Profit-Predictor",
-    "full_name": "AmirhosseinHonardoust/Coffee-Shop-Profit-Predictor",
-    "description": "Predict the profitability of potential coffee shop locations using SQL and Python. Combines data engineering with feature-rich regression modeling, visual analytics, and business insights to support data-driven site selection and retail decision-making.",
-    "url": "https://github.com/AmirhosseinHonardoust/Coffee-Shop-Profit-Predictor",
-    "stars": 21,
+    "name": "amazon-bedrock-copilot-chat",
+    "full_name": "tinovyatkin/amazon-bedrock-copilot-chat",
+    "description": "A VSCode Language Model Chat Provider to use Amazon Bedrock in Copilot Chat",
+    "url": "https://github.com/tinovyatkin/amazon-bedrock-copilot-chat",
+    "stars": 5,
     "daily_stars": 2,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-10-23T07:29:10",
-    "updated_at": "2025-10-27T18:53:15"
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "aws",
+      "bedrock",
+      "vscode",
+      "vscode-extension"
+    ],
+    "created_at": "2025-10-12T23:14:29",
+    "updated_at": "2025-10-28T01:00:10"
   },
   {
-    "name": "Fake-News-Detector",
-    "full_name": "AmirhosseinHonardoust/Fake-News-Detector",
-    "description": "A complete NLP and Machine Learning project to detect fake and real news using TF-IDF and Logistic Regression. Includes full training pipeline, evaluation charts, and an interactive Streamlit web app for real-time credibility analysis. Dataset adapted from Kaggle’s Fake and Real News Dataset.",
-    "url": "https://github.com/AmirhosseinHonardoust/Fake-News-Detector",
-    "stars": 20,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-10-25T13:56:18",
-    "updated_at": "2025-10-27T18:53:13"
-  },
-  {
-    "name": "Fraud-Detection-SQL-Supervised",
-    "full_name": "AmirhosseinHonardoust/Fraud-Detection-SQL-Supervised",
-    "description": "Detect and classify fraudulent transactions using SQL and Python. Generate behavioral features with SQLite, train a Logistic Regression model, and evaluate performance with AUC, precision, recall, and ROC analysis. A complete supervised fraud detection workflow.",
-    "url": "https://github.com/AmirhosseinHonardoust/Fraud-Detection-SQL-Supervised",
-    "stars": 19,
+    "name": "ml-trading-japan",
+    "full_name": "xihe-820/ml-trading-japan",
+    "description": "Production-Ready ML Trading Framework for Japanese Markets | 72.56% ROI on TOPIX",
+    "url": "https://github.com/xihe-820/ml-trading-japan",
+    "stars": 50,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
-      "data-science",
+      "algorithmic-trading",
       "machine-learning",
       "python",
-      "sql"
+      "topix",
+      "trading",
+      "xgboost"
     ],
-    "created_at": "2025-10-21T12:56:43",
-    "updated_at": "2025-10-27T18:53:17"
+    "created_at": "2025-10-19T04:06:21",
+    "updated_at": "2025-10-28T02:12:53"
   },
   {
-    "name": "AI-Productivity-Tracker",
-    "full_name": "AmirhosseinHonardoust/AI-Productivity-Tracker",
-    "description": "Analyze and predict daily productivity using SQL, machine learning, and psychology. This project combines behavioral data, circadian rhythm analysis, and ElasticNet regression to model focus, stress, and performance, transforming work patterns into actionable insights.",
-    "url": "https://github.com/AmirhosseinHonardoust/AI-Productivity-Tracker",
-    "stars": 17,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-10-24T08:11:06",
-    "updated_at": "2025-10-27T18:53:14"
-  },
-  {
-    "name": "Fraud-Detection-SQL-Unsupervised",
-    "full_name": "AmirhosseinHonardoust/Fraud-Detection-SQL-Unsupervised",
-    "description": "Detect suspicious financial transactions using SQL and Python. Build user-level behavioral features in SQLite, apply Isolation Forest for anomaly detection, and visualize high-risk patterns. Demonstrates unsupervised fraud analytics and SQL-driven data science workflow.",
-    "url": "https://github.com/AmirhosseinHonardoust/Fraud-Detection-SQL-Unsupervised",
-    "stars": 14,
+    "name": "linax",
+    "full_name": "camail-official/linax",
+    "description": "`linax` is a light weight collection of state space models implemented in JAX ⚡️",
+    "url": "https://github.com/camail-official/linax",
+    "stars": 10,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
-      "anomaly-detection",
-      "banking-data",
-      "data-analysis",
-      "data-science",
-      "financial-analytics",
-      "fraud-detection",
-      "isolation-forest",
+      "deep-learning",
+      "equinox",
+      "jax",
+      "linax",
       "machine-learning",
-      "portfolio-project",
-      "python",
-      "sql",
-      "sqlite",
-      "unsupervised-learning"
+      "neural-networks",
+      "sequence-modeling",
+      "ssm",
+      "state-space-models"
     ],
-    "created_at": "2025-10-21T12:42:22",
-    "updated_at": "2025-10-27T18:53:18"
+    "created_at": "2025-10-15T10:52:58",
+    "updated_at": "2025-10-27T22:50:48"
   }
 ]
