@@ -4,8 +4,8 @@
     "full_name": "pguso/ai-agents-from-scratch",
     "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
     "url": "https://github.com/pguso/ai-agents-from-scratch",
-    "stars": 1131,
-    "daily_stars": 21,
+    "stars": 1155,
+    "daily_stars": 24,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -18,7 +18,7 @@
       "tutorial"
     ],
     "created_at": "2025-10-23T19:39:04",
-    "updated_at": "2025-10-29T08:36:45"
+    "updated_at": "2025-10-29T13:03:18"
   },
   {
     "name": "AI-Powered-Vulnerability-Management",
@@ -26,7 +26,7 @@
     "description": "AI-VMF: AI-Powered Vulnerability Management Framework demo (ensemble exploit prediction + risk scoring)",
     "url": "https://github.com/ritesh-gupta-git/AI-Powered-Vulnerability-Management",
     "stars": 96,
-    "daily_stars": -7,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [],
     "created_at": "2025-10-24T04:39:47",
@@ -52,12 +52,24 @@
     "full_name": "Pushp-Kharat1/PkBoost",
     "description": "PKBoost: Adaptive GBDT for Concept Drift, Built from scratch in Rust, PKBoost manages changing data distributions in fraud detection with a fraud rate of 0.2%. It shows less than 2% degradation under drift. In comparison, XGBoost experiences a 31.8% drop and LightGBM a 42.5% drop",
     "url": "https://github.com/Pushp-Kharat1/PkBoost",
-    "stars": 31,
-    "daily_stars": 0,
+    "stars": 33,
+    "daily_stars": 2,
     "language": "Rust",
     "topics": [],
     "created_at": "2025-10-24T12:03:59",
-    "updated_at": "2025-10-29T07:02:01"
+    "updated_at": "2025-10-29T12:12:20"
+  },
+  {
+    "name": "VieNeu-TTS",
+    "full_name": "pnnbao97/VieNeu-TTS",
+    "description": "Vietnamese Text-to-Speech ",
+    "url": "https://github.com/pnnbao97/VieNeu-TTS",
+    "stars": 22,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-10-28T14:07:23",
+    "updated_at": "2025-10-29T12:56:52"
   },
   {
     "name": "Coffee-Shop-Profit-Predictor",
@@ -70,23 +82,6 @@
     "topics": [],
     "created_at": "2025-10-23T07:29:10",
     "updated_at": "2025-10-27T18:53:15"
-  },
-  {
-    "name": "Fraud-Detection-SQL-Supervised",
-    "full_name": "AmirhosseinHonardoust/Fraud-Detection-SQL-Supervised",
-    "description": "Detect and classify fraudulent transactions using SQL and Python. Generate behavioral features with SQLite, train a Logistic Regression model, and evaluate performance with AUC, precision, recall, and ROC analysis. A complete supervised fraud detection workflow.",
-    "url": "https://github.com/AmirhosseinHonardoust/Fraud-Detection-SQL-Supervised",
-    "stars": 20,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "data-science",
-      "machine-learning",
-      "python",
-      "sql"
-    ],
-    "created_at": "2025-10-21T12:56:43",
-    "updated_at": "2025-10-28T15:13:50"
   },
   {
     "name": "Fake-News-Detector",
@@ -105,8 +100,8 @@
     "full_name": "K-Dense-AI/claude-scientific-writer",
     "description": "A general purpose scientific writer",
     "url": "https://github.com/K-Dense-AI/claude-scientific-writer",
-    "stars": 17,
-    "daily_stars": 0,
+    "stars": 18,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -117,7 +112,7 @@
       "writer"
     ],
     "created_at": "2025-10-27T06:52:45",
-    "updated_at": "2025-10-29T07:04:58"
+    "updated_at": "2025-10-29T12:50:13"
   },
   {
     "name": "AI-Productivity-Tracker",
@@ -132,29 +127,22 @@
     "updated_at": "2025-10-27T18:53:14"
   },
   {
-    "name": "Fraud-Detection-SQL-Unsupervised",
-    "full_name": "AmirhosseinHonardoust/Fraud-Detection-SQL-Unsupervised",
-    "description": "Detect suspicious financial transactions using SQL and Python. Build user-level behavioral features in SQLite, apply Isolation Forest for anomaly detection, and visualize high-risk patterns. Demonstrates unsupervised fraud analytics and SQL-driven data science workflow.",
-    "url": "https://github.com/AmirhosseinHonardoust/Fraud-Detection-SQL-Unsupervised",
-    "stars": 15,
+    "name": "claude-code-skill-factory",
+    "full_name": "alirezarezvani/claude-code-skill-factory",
+    "description": "A comprehensive toolkit for generating production-ready Claude Skills and Claude Code Agents at scale.",
+    "url": "https://github.com/alirezarezvani/claude-code-skill-factory",
+    "stars": 14,
     "daily_stars": 0,
     "language": "Python",
     "topics": [
-      "anomaly-detection",
-      "banking-data",
-      "data-analysis",
-      "data-science",
-      "financial-analytics",
-      "fraud-detection",
-      "isolation-forest",
-      "machine-learning",
-      "portfolio-project",
-      "python",
-      "sql",
-      "sqlite",
-      "unsupervised-learning"
+      "ai-agents",
+      "ai-tools",
+      "claude-ai",
+      "claude-code",
+      "claude-skills",
+      "claude-skills-creator"
     ],
-    "created_at": "2025-10-21T12:42:22",
-    "updated_at": "2025-10-28T15:13:51"
+    "created_at": "2025-10-21T15:20:47",
+    "updated_at": "2025-10-29T12:52:32"
   }
 ]
