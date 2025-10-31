@@ -4,8 +4,8 @@
     "full_name": "pguso/ai-agents-from-scratch",
     "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
     "url": "https://github.com/pguso/ai-agents-from-scratch",
-    "stars": 1287,
-    "daily_stars": 6,
+    "stars": 1290,
+    "daily_stars": 3,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -18,70 +18,78 @@
       "tutorial"
     ],
     "created_at": "2025-10-23T19:39:04",
-    "updated_at": "2025-10-30T23:56:35"
+    "updated_at": "2025-10-31T03:55:39"
   },
   {
-    "name": "OpenMemory",
-    "full_name": "CaviraOSS/OpenMemory",
-    "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
-    "url": "https://github.com/CaviraOSS/OpenMemory",
-    "stars": 918,
-    "daily_stars": 5,
-    "language": "TypeScript",
-    "topics": [],
-    "created_at": "2025-10-19T16:12:49",
-    "updated_at": "2025-10-31T02:08:22"
-  },
-  {
-    "name": "sora2-api",
-    "full_name": "jun6ry/sora2-api",
-    "description": "A tool for generating videos using the Sora 2 API.",
-    "url": "https://github.com/jun6ry/sora2-api",
-    "stars": 295,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-10-29T09:29:16",
-    "updated_at": "2025-10-31T01:19:25"
-  },
-  {
-    "name": "agentic-rag-for-dummies",
-    "full_name": "GiovanniPasq/agentic-rag-for-dummies",
-    "description": "A minimal Agentic RAG demo built with LangGraph — learn Retrieval-Augmented Agents in minutes.",
-    "url": "https://github.com/GiovanniPasq/agentic-rag-for-dummies",
-    "stars": 65,
+    "name": "agentic-context-engine",
+    "full_name": "kayba-ai/agentic-context-engine",
+    "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
+    "url": "https://github.com/kayba-ai/agentic-context-engine",
+    "stars": 431,
     "daily_stars": 3,
-    "language": "Jupyter Notebook",
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "context-engineering",
+      "llm",
+      "python"
+    ],
+    "created_at": "2025-10-15T15:36:20",
+    "updated_at": "2025-10-31T03:43:24"
+  },
+  {
+    "name": "claude-scientific-writer",
+    "full_name": "K-Dense-AI/claude-scientific-writer",
+    "description": "A general purpose scientific writer",
+    "url": "https://github.com/K-Dense-AI/claude-scientific-writer",
+    "stars": 23,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "skills",
+      "tools",
+      "writer"
+    ],
+    "created_at": "2025-10-27T06:52:45",
+    "updated_at": "2025-10-31T04:27:03"
+  },
+  {
+    "name": "AI-prompt",
+    "full_name": "1Haschwalth/AI-prompt",
+    "description": "自撰作品《AI精准操作手册：从Prompt工程到认知导航》",
+    "url": "https://github.com/1Haschwalth/AI-prompt",
+    "stars": 27,
+    "daily_stars": 2,
+    "language": null,
     "topics": [
       "agent",
-      "agentic-ai",
-      "agentic-rag",
-      "agents",
-      "ai-agents",
-      "bm25",
-      "generative-ai",
-      "gradio",
-      "langchain",
-      "langgraph",
+      "ai",
+      "chatgpt",
+      "cognitive-science",
+      "deepseek",
       "llm",
-      "ollama",
-      "qdrant",
-      "rag",
-      "rag-chatbot",
-      "rag-pipeline",
-      "retrieval-augmented-generation",
-      "retrieval-augmented-generation-rag"
+      "machine-learning",
+      "nlp",
+      "openai",
+      "philosophy",
+      "prompt-engineering",
+      "technology",
+      "workflow"
     ],
-    "created_at": "2025-10-13T18:51:41",
-    "updated_at": "2025-10-31T01:56:44"
+    "created_at": "2025-10-15T05:02:18",
+    "updated_at": "2025-10-31T03:43:30"
   },
   {
     "name": "FIBO",
     "full_name": "Bria-AI/FIBO",
     "description": "FIBO is a SOTA, first open-source, JSON-native text-to-image model built for controllable, predictable, and legally safe image generation.",
     "url": "https://github.com/Bria-AI/FIBO",
-    "stars": 106,
-    "daily_stars": 3,
+    "stars": 108,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -101,43 +109,26 @@
       "text-to-image"
     ],
     "created_at": "2025-10-26T12:26:27",
-    "updated_at": "2025-10-31T02:07:46"
+    "updated_at": "2025-10-31T03:50:31"
   },
   {
-    "name": "PkBoost",
-    "full_name": "Pushp-Kharat1/PkBoost",
-    "description": "PKBoost: Adaptive GBDT for Concept Drift, Built from scratch in Rust, PKBoost manages changing data distributions in fraud detection with a fraud rate of 0.2%. It shows less than 2% degradation under drift. In comparison, XGBoost experiences a 31.8% drop and LightGBM a 42.5% drop",
-    "url": "https://github.com/Pushp-Kharat1/PkBoost",
-    "stars": 39,
-    "daily_stars": 2,
-    "language": "Rust",
+    "name": "OpenMemory",
+    "full_name": "CaviraOSS/OpenMemory",
+    "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
+    "url": "https://github.com/CaviraOSS/OpenMemory",
+    "stars": 919,
+    "daily_stars": 1,
+    "language": "TypeScript",
     "topics": [],
-    "created_at": "2025-10-24T12:03:59",
-    "updated_at": "2025-10-30T22:36:14"
-  },
-  {
-    "name": "repo-template",
-    "full_name": "meraki-digital/repo-template",
-    "description": "AI-assisted development template with structured SRS/PRD/task workflows",
-    "url": "https://github.com/meraki-digital/repo-template",
-    "stars": 2,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "ai-agent",
-      "development-template",
-      "requirements",
-      "workflow"
-    ],
-    "created_at": "2025-10-29T14:49:18",
-    "updated_at": "2025-10-31T01:27:53"
+    "created_at": "2025-10-19T16:12:49",
+    "updated_at": "2025-10-31T02:41:37"
   },
   {
     "name": "w5-football-prediction",
     "full_name": "Winner12-AI/w5-football-prediction",
     "description": "🏆 Research implementation of W-5 Multi-Agent AI Consensus Framework for football match outcome prediction | AI-powered sports analytics using LLMs + Machine Learning | 85.9% accuracy",
     "url": "https://github.com/Winner12-AI/w5-football-prediction",
-    "stars": 70,
+    "stars": 71,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -158,34 +149,69 @@
       "xgboost"
     ],
     "created_at": "2025-10-17T05:12:18",
-    "updated_at": "2025-10-30T20:47:24"
+    "updated_at": "2025-10-31T04:17:18"
   },
   {
     "name": "free-ai-resources-x",
     "full_name": "CelaDaniel/free-ai-resources-x",
     "description": "A curated collection of free, high quality AI tools 🤖, APIs 🔗, datasets 📊, and learning resources 📚 covering machine learning 🧠, deep learning 🧩, generative AI 🎨, NLP 💬, and data science 📈. Designed to help developers 👩‍💻, researchers 🔬, and creators ✨ explore and build with AI faster ⚡.",
     "url": "https://github.com/CelaDaniel/free-ai-resources-x",
-    "stars": 50,
+    "stars": 51,
     "daily_stars": 1,
     "language": null,
     "topics": [],
     "created_at": "2025-10-17T17:37:17",
-    "updated_at": "2025-10-31T01:49:53"
+    "updated_at": "2025-10-31T02:50:14"
   },
   {
-    "name": "CS_arXiv_Paper",
-    "full_name": "hongsong-wang/CS_arXiv_Paper",
-    "description": "arXiv Paper Portal in Computer Science of 2025",
-    "url": "https://github.com/hongsong-wang/CS_arXiv_Paper",
-    "stars": 17,
+    "name": "freephdlabor",
+    "full_name": "ltjed/freephdlabor",
+    "description": "freephdlabor: customizing personalized research groups that works 24/7 on your own scientific problem",
+    "url": "https://github.com/ltjed/freephdlabor",
+    "stars": 279,
     "daily_stars": 1,
-    "language": null,
+    "language": "Python",
     "topics": [
-      "artificial-intelligence",
-      "arxiv-paper",
-      "computer-science"
+      "ai-agents",
+      "ai4science",
+      "autonomous-agents",
+      "multiagent-systems",
+      "research-automation"
     ],
-    "created_at": "2025-10-11T15:37:09",
-    "updated_at": "2025-10-31T00:57:17"
+    "created_at": "2025-10-20T01:59:07",
+    "updated_at": "2025-10-31T02:32:49"
+  },
+  {
+    "name": "open-computer-use",
+    "full_name": "LLmHub-dev/open-computer-use",
+    "description": "Autonomous virtual computer agents at scale, fully open-source, safe, auditable, and production-ready.",
+    "url": "https://github.com/LLmHub-dev/open-computer-use",
+    "stars": 195,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "agentic-framework",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "cli-tools",
+      "computer-control",
+      "computer-use",
+      "computer-use-agent",
+      "full-stack",
+      "gemini-api",
+      "google-api",
+      "gui-automation",
+      "llm",
+      "llm-agents",
+      "mistral",
+      "openai",
+      "saas-application",
+      "xai"
+    ],
+    "created_at": "2025-10-11T18:57:20",
+    "updated_at": "2025-10-31T03:30:27"
   }
 ]
