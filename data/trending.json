@@ -1,11 +1,35 @@
 [
   {
+    "name": "OpenMemory",
+    "full_name": "CaviraOSS/OpenMemory",
+    "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
+    "url": "https://github.com/CaviraOSS/OpenMemory",
+    "stars": 942,
+    "daily_stars": 2,
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-10-19T16:12:49",
+    "updated_at": "2025-11-01T04:29:21"
+  },
+  {
+    "name": "sora2-api",
+    "full_name": "jun6ry/sora2-api",
+    "description": "A tool for generating videos using the Sora 2 API.",
+    "url": "https://github.com/jun6ry/sora2-api",
+    "stars": 338,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-10-29T09:29:16",
+    "updated_at": "2025-11-01T04:20:37"
+  },
+  {
     "name": "agentic-context-engine",
     "full_name": "kayba-ai/agentic-context-engine",
     "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
     "url": "https://github.com/kayba-ai/agentic-context-engine",
-    "stars": 453,
-    "daily_stars": 7,
+    "stars": 455,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -15,60 +39,52 @@
       "python"
     ],
     "created_at": "2025-10-15T15:36:20",
-    "updated_at": "2025-11-01T02:14:58"
+    "updated_at": "2025-11-01T03:28:56"
   },
   {
-    "name": "sora2-api",
-    "full_name": "jun6ry/sora2-api",
-    "description": "A tool for generating videos using the Sora 2 API.",
-    "url": "https://github.com/jun6ry/sora2-api",
-    "stars": 336,
-    "daily_stars": 6,
+    "name": "rules",
+    "full_name": "project-codeguard/rules",
+    "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
+    "url": "https://github.com/project-codeguard/rules",
+    "stars": 279,
+    "daily_stars": 2,
     "language": "Python",
-    "topics": [],
-    "created_at": "2025-10-29T09:29:16",
-    "updated_at": "2025-11-01T01:44:34"
-  },
-  {
-    "name": "OpenMemory",
-    "full_name": "CaviraOSS/OpenMemory",
-    "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
-    "url": "https://github.com/CaviraOSS/OpenMemory",
-    "stars": 940,
-    "daily_stars": 4,
-    "language": "TypeScript",
-    "topics": [],
-    "created_at": "2025-10-19T16:12:49",
-    "updated_at": "2025-11-01T00:54:36"
-  },
-  {
-    "name": "ai-agents-from-scratch",
-    "full_name": "pguso/ai-agents-from-scratch",
-    "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
-    "url": "https://github.com/pguso/ai-agents-from-scratch",
-    "stars": 1310,
-    "daily_stars": 4,
-    "language": "JavaScript",
     "topics": [
+      "ai",
       "ai-agents",
-      "educational",
-      "function-calling",
-      "llm",
-      "llm-agent",
-      "node-llama-cpp",
-      "react-agent",
-      "tutorial"
+      "ai-security",
+      "coding-agents",
+      "cybersecurity"
     ],
-    "created_at": "2025-10-23T19:39:04",
-    "updated_at": "2025-11-01T01:39:23"
+    "created_at": "2025-10-12T15:24:53",
+    "updated_at": "2025-11-01T03:27:51"
+  },
+  {
+    "name": "apehost-mikrotik-controller",
+    "full_name": "JungleM0nkey/apehost-mikrotik-controller",
+    "description": "Mikrotik RouterOS dashboard with built-in AI Assistant and analytics",
+    "url": "https://github.com/JungleM0nkey/apehost-mikrotik-controller",
+    "stars": 5,
+    "daily_stars": 2,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "gateway-api",
+      "mikrotik",
+      "networking",
+      "rog"
+    ],
+    "created_at": "2025-10-25T12:14:31",
+    "updated_at": "2025-11-01T04:26:05"
   },
   {
     "name": "w5-football-prediction",
     "full_name": "Winner12-AI/w5-football-prediction",
     "description": "🏆 Research implementation of W-5 Multi-Agent AI Consensus Framework for football match outcome prediction | AI-powered sports analytics using LLMs + Machine Learning | 85.9% accuracy",
     "url": "https://github.com/Winner12-AI/w5-football-prediction",
-    "stars": 78,
-    "daily_stars": 3,
+    "stars": 79,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai-consensus",
@@ -88,63 +104,71 @@
       "xgboost"
     ],
     "created_at": "2025-10-17T05:12:18",
-    "updated_at": "2025-11-01T01:30:39"
+    "updated_at": "2025-11-01T03:16:32"
   },
   {
-    "name": "claude-code-skill-factory",
-    "full_name": "alirezarezvani/claude-code-skill-factory",
-    "description": "A comprehensive toolkit for generating production-ready Claude Skills and Claude Code Agents at scale.",
-    "url": "https://github.com/alirezarezvani/claude-code-skill-factory",
-    "stars": 29,
-    "daily_stars": 3,
+    "name": "free-ai-resources-x",
+    "full_name": "CelaDaniel/free-ai-resources-x",
+    "description": "A curated collection of free, high quality AI tools 🤖, APIs 🔗, datasets 📊, and learning resources 📚 covering machine learning 🧠, deep learning 🧩, generative AI 🎨, NLP 💬, and data science 📈. Designed to help developers 👩‍💻, researchers 🔬, and creators ✨ explore and build with AI faster ⚡.",
+    "url": "https://github.com/CelaDaniel/free-ai-resources-x",
+    "stars": 56,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [],
+    "created_at": "2025-10-17T17:37:17",
+    "updated_at": "2025-11-01T03:13:35"
+  },
+  {
+    "name": "smartflat-ai",
+    "full_name": "seehiong/smartflat-ai",
+    "description": "🏆 AWS AI Agent Hackathon Entry: Multi-agent HDB advisor using Amazon Bedrock AgentCore, Nova Lite, and intelligent cost optimization. Find your perfect Singapore home with AI.",
+    "url": "https://github.com/seehiong/smartflat-ai",
+    "stars": 10,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-10-21T13:59:06",
+    "updated_at": "2025-11-01T03:39:17"
+  },
+  {
+    "name": "ios-simulator-skill",
+    "full_name": "conorluddy/ios-simulator-skill",
+    "description": "An IOS Simulator Skill for ClaudeCode. Drop it into .claude/skills/ios-simulator-skill and it will let Claude drive the device. Prefers nav via accessibility over screenshots, for perf, but can use both.",
+    "url": "https://github.com/conorluddy/ios-simulator-skill",
+    "stars": 78,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
+      "agent",
+      "agentic-ai",
       "ai-agents",
-      "ai-tools",
+      "claude",
       "claude-ai",
       "claude-code",
       "claude-skills",
-      "claude-skills-creator"
+      "claudecode",
+      "claudeskills",
+      "dx",
+      "ios",
+      "iossimulator",
+      "mcp",
+      "mcp-tools",
+      "python",
+      "simulator",
+      "skills",
+      "testing",
+      "tooling",
+      "xcode"
     ],
-    "created_at": "2025-10-21T15:20:47",
-    "updated_at": "2025-11-01T01:13:34"
-  },
-  {
-    "name": "adk_training",
-    "full_name": "raphaelmansuy/adk_training",
-    "description": "Google ADK Training Hub / Google ADK Agents from first Principles",
-    "url": "https://github.com/raphaelmansuy/adk_training",
-    "stars": 25,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "adk-python",
-      "ai",
-      "ai-agents",
-      "google",
-      "training-materials"
-    ],
-    "created_at": "2025-10-08T11:23:33",
-    "updated_at": "2025-10-31T22:34:02"
-  },
-  {
-    "name": "PkBoost",
-    "full_name": "Pushp-Kharat1/PkBoost",
-    "description": "PKBoost: Adaptive GBDT for Concept Drift, Built from scratch in Rust, PKBoost manages changing data distributions in fraud detection with a fraud rate of 0.2%. It shows less than 2% degradation under drift. In comparison, XGBoost experiences a 31.8% drop and LightGBM a 42.5% drop",
-    "url": "https://github.com/Pushp-Kharat1/PkBoost",
-    "stars": 43,
-    "daily_stars": 2,
-    "language": "Rust",
-    "topics": [],
-    "created_at": "2025-10-24T12:03:59",
-    "updated_at": "2025-11-01T01:04:14"
+    "created_at": "2025-10-17T12:43:15",
+    "updated_at": "2025-11-01T04:11:58"
   },
   {
     "name": "agentic-rag-for-dummies",
     "full_name": "GiovanniPasq/agentic-rag-for-dummies",
     "description": "A minimal Agentic RAG demo built with LangGraph — learn Retrieval-Augmented Agents in minutes.",
     "url": "https://github.com/GiovanniPasq/agentic-rag-for-dummies",
-    "stars": 67,
+    "stars": 68,
     "daily_stars": 1,
     "language": "Jupyter Notebook",
     "topics": [
@@ -168,37 +192,6 @@
       "retrieval-augmented-generation-rag"
     ],
     "created_at": "2025-10-13T18:51:41",
-    "updated_at": "2025-11-01T01:28:35"
-  },
-  {
-    "name": "claude-code-pro",
-    "full_name": "maxritter/claude-code-pro",
-    "description": "Automated Dev Container, Spec-Driven Development, TDD, Semantic Search, Persistent Memory, and much more 🚀 ",
-    "url": "https://github.com/maxritter/claude-code-pro",
-    "stars": 33,
-    "daily_stars": 1,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
-      "ai-assistant",
-      "ai-coding",
-      "ai-engineering",
-      "ai-tools",
-      "anthropic",
-      "claude",
-      "claude-ai",
-      "claude-code",
-      "claudecode",
-      "ide",
-      "mcp",
-      "memory-layer",
-      "model-context-protocol",
-      "software-development",
-      "software-engineering",
-      "spec-driven-development",
-      "visual-studio-code"
-    ],
-    "created_at": "2025-10-18T08:30:23",
-    "updated_at": "2025-10-31T20:57:13"
+    "updated_at": "2025-11-01T04:04:19"
   }
 ]
