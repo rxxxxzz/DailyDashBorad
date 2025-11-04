@@ -4,8 +4,8 @@
     "full_name": "Bria-AI/FIBO",
     "description": "FIBO is a SOTA, first open-source, JSON-native text-to-image model built for controllable, predictable, and legally safe image generation.",
     "url": "https://github.com/Bria-AI/FIBO",
-    "stars": 158,
-    "daily_stars": 10,
+    "stars": 170,
+    "daily_stars": 12,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -25,64 +25,27 @@
       "text-to-image"
     ],
     "created_at": "2025-10-26T12:26:27",
-    "updated_at": "2025-11-03T20:36:57"
+    "updated_at": "2025-11-04T02:03:02"
   },
   {
     "name": "OpenMemory",
     "full_name": "CaviraOSS/OpenMemory",
     "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
     "url": "https://github.com/CaviraOSS/OpenMemory",
-    "stars": 1406,
-    "daily_stars": 3,
+    "stars": 1413,
+    "daily_stars": 7,
     "language": "TypeScript",
     "topics": [],
     "created_at": "2025-10-19T16:12:49",
-    "updated_at": "2025-11-03T20:34:50"
-  },
-  {
-    "name": "ai-agents-from-scratch",
-    "full_name": "pguso/ai-agents-from-scratch",
-    "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
-    "url": "https://github.com/pguso/ai-agents-from-scratch",
-    "stars": 1339,
-    "daily_stars": 3,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "educational",
-      "function-calling",
-      "llm",
-      "llm-agent",
-      "node-llama-cpp",
-      "react-agent",
-      "tutorial"
-    ],
-    "created_at": "2025-10-23T19:39:04",
-    "updated_at": "2025-11-03T19:03:36"
-  },
-  {
-    "name": "n8n-skills",
-    "full_name": "czlonkowski/n8n-skills",
-    "description": "n8n skillset for Claude Code to build flawless n8n workflows",
-    "url": "https://github.com/czlonkowski/n8n-skills",
-    "stars": 90,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "n8n",
-      "workflow-automation"
-    ],
-    "created_at": "2025-10-20T05:51:27",
-    "updated_at": "2025-11-03T17:53:00"
+    "updated_at": "2025-11-04T01:24:05"
   },
   {
     "name": "agentic-rag-for-dummies",
     "full_name": "GiovanniPasq/agentic-rag-for-dummies",
     "description": "A minimal Agentic RAG demo built with LangGraph — learn Retrieval-Augmented Agents in minutes.",
     "url": "https://github.com/GiovanniPasq/agentic-rag-for-dummies",
-    "stars": 79,
-    "daily_stars": 2,
+    "stars": 85,
+    "daily_stars": 6,
     "language": "Jupyter Notebook",
     "topics": [
       "agent",
@@ -105,117 +68,142 @@
       "retrieval-augmented-generation-rag"
     ],
     "created_at": "2025-10-13T18:51:41",
-    "updated_at": "2025-11-03T17:11:13"
+    "updated_at": "2025-11-04T01:37:33"
   },
   {
-    "name": "HippocampAI",
-    "full_name": "rexdivakar/HippocampAI",
-    "description": "HippocampAI — Autonomous Memory Engine for LLM Agents",
-    "url": "https://github.com/rexdivakar/HippocampAI",
-    "stars": 4,
+    "name": "ai-agents-from-scratch",
+    "full_name": "pguso/ai-agents-from-scratch",
+    "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
+    "url": "https://github.com/pguso/ai-agents-from-scratch",
+    "stars": 1342,
+    "daily_stars": 3,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "educational",
+      "function-calling",
+      "llm",
+      "llm-agent",
+      "node-llama-cpp",
+      "react-agent",
+      "tutorial"
+    ],
+    "created_at": "2025-10-23T19:39:04",
+    "updated_at": "2025-11-04T01:31:15"
+  },
+  {
+    "name": "claude-code-skill-factory",
+    "full_name": "alirezarezvani/claude-code-skill-factory",
+    "description": "A comprehensive toolkit for generating production-ready Claude Skills and Claude Code Agents at scale.",
+    "url": "https://github.com/alirezarezvani/claude-code-skill-factory",
+    "stars": 45,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
-      "agentic-ai",
       "ai-agents",
-      "ai-memory",
-      "hacktoberfest",
-      "hacktoberfest-accepted",
-      "hacktoberfest2025",
-      "long-short-term-memory",
-      "memory-management"
+      "ai-tools",
+      "claude-ai",
+      "claude-code",
+      "claude-skills",
+      "claude-skills-creator"
     ],
-    "created_at": "2025-10-19T00:04:48",
-    "updated_at": "2025-11-03T20:06:11"
+    "created_at": "2025-10-21T15:20:47",
+    "updated_at": "2025-11-04T01:59:24"
+  },
+  {
+    "name": "claude-scientific-writer",
+    "full_name": "K-Dense-AI/claude-scientific-writer",
+    "description": "A general purpose scientific writer",
+    "url": "https://github.com/K-Dense-AI/claude-scientific-writer",
+    "stars": 31,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "skills",
+      "tools",
+      "writer"
+    ],
+    "created_at": "2025-10-27T06:52:45",
+    "updated_at": "2025-11-04T01:09:43"
+  },
+  {
+    "name": "Awesome-Vibecoding-Guide",
+    "full_name": "Bob5k/Awesome-Vibecoding-Guide",
+    "description": "A compendium drawn from real commercial projects and hundreds of thousands of lines of AI‑assisted code. Read it end‑to‑end or feed this repo to your AI agent for summaries and Q&A. Stars and watches appreciated! ⭐",
+    "url": "https://github.com/Bob5k/Awesome-Vibecoding-Guide",
+    "stars": 22,
+    "daily_stars": 2,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "awesome",
+      "coding-standards",
+      "guide",
+      "vibe-coded",
+      "vibe-coding",
+      "vibecoder",
+      "vibecoding"
+    ],
+    "created_at": "2025-10-28T13:21:50",
+    "updated_at": "2025-11-04T01:45:30"
+  },
+  {
+    "name": "ai-coding-agents",
+    "full_name": "Exadra37/ai-coding-agents",
+    "description": "A colection of markdonw files to instruct and guide AI Coding Agents, AI CodingAssistants, and LLMs on Intent Driven Development (IDD).",
+    "url": "https://github.com/Exadra37/ai-coding-agents",
+    "stars": 9,
+    "daily_stars": 2,
+    "language": "Shell",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-assistant",
+      "ai-code-assistant",
+      "ai-coding",
+      "ai-coding-agents",
+      "ai-coding-assistant",
+      "ai-engineering",
+      "ai-tools",
+      "elixir",
+      "elixir-lang",
+      "elixir-phoenix",
+      "elixir-phoenix-framework",
+      "intent-driven-development",
+      "vibe-code",
+      "vibe-coding",
+      "vibe-coding-a",
+      "vibe-coding-assistant"
+    ],
+    "created_at": "2025-10-22T19:19:32",
+    "updated_at": "2025-11-04T01:45:17"
+  },
+  {
+    "name": "sora2-api",
+    "full_name": "jun6ry/sora2-api",
+    "description": "A tool for generating videos using the Sora 2 API.",
+    "url": "https://github.com/jun6ry/sora2-api",
+    "stars": 317,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-10-29T09:29:16",
+    "updated_at": "2025-11-04T01:13:45"
   },
   {
     "name": "free-ai-resources-x",
     "full_name": "CelaDaniel/free-ai-resources-x",
     "description": "A curated collection of free, high quality AI tools 🤖, APIs 🔗, datasets 📊, and learning resources 📚 covering machine learning 🧠, deep learning 🧩, generative AI 🎨, NLP 💬, and data science 📈. Designed to help developers 👩‍💻, researchers 🔬, and creators ✨ explore and build with AI faster ⚡.",
     "url": "https://github.com/CelaDaniel/free-ai-resources-x",
-    "stars": 65,
+    "stars": 66,
     "daily_stars": 1,
     "language": null,
     "topics": [],
     "created_at": "2025-10-17T17:37:17",
-    "updated_at": "2025-11-03T20:41:33"
-  },
-  {
-    "name": "EggAI",
-    "full_name": "EggyEgged/EggAI",
-    "description": "EggAI is repository with everything I have made and will make regarding Google Gemini and ChatGPT, Jailbreaks and otherthings,",
-    "url": "https://github.com/EggyEgged/EggAI",
-    "stars": 5,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "artificial-intelligence",
-      "chatgpt",
-      "cybersecurity",
-      "gemini",
-      "gemini-ai",
-      "hacking",
-      "hacks",
-      "jailbreak",
-      "llm",
-      "llms",
-      "prompt",
-      "prompt-engineering",
-      "prompts",
-      "roleplay"
-    ],
-    "created_at": "2025-10-08T23:01:55",
-    "updated_at": "2025-11-03T18:57:25"
-  },
-  {
-    "name": "jessy",
-    "full_name": "gokselozgur5/jessy",
-    "description": "Jessy (Just Enough Semantic System, Y'know) is a revolutionary multidimensional AI consciousness architecture that processes human queries through frequency-based resonance patterns across 14 dimensional layers of understanding.",
-    "url": "https://github.com/gokselozgur5/jessy",
-    "stars": 4,
-    "daily_stars": 1,
-    "language": "Rust",
-    "topics": [
-      "ai-agent",
-      "ai-agents",
-      "ai-assistant",
-      "ai-consciousness",
-      "artificial",
-      "artificial-general-intelligence",
-      "artificial-intelligence",
-      "artificial-intelligence-algorithms",
-      "artificial-life",
-      "artificial-neural-networks"
-    ],
-    "created_at": "2025-10-24T07:33:10",
-    "updated_at": "2025-11-03T18:22:00"
-  },
-  {
-    "name": "deepnote-toolkit",
-    "full_name": "deepnote/deepnote-toolkit",
-    "description": "Essential Python toolkit for Deepnote environments",
-    "url": "https://github.com/deepnote/deepnote-toolkit",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "data",
-      "data-analysis",
-      "data-science",
-      "data-visualization",
-      "deepnote",
-      "eda",
-      "jupyter",
-      "jupyterhub",
-      "jupyterlab",
-      "machine-learning",
-      "notebooks",
-      "python",
-      "r",
-      "sql"
-    ],
-    "created_at": "2025-10-30T16:51:48",
-    "updated_at": "2025-11-03T18:00:36"
+    "updated_at": "2025-11-03T23:47:05"
   }
 ]
