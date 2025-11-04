@@ -4,20 +4,20 @@
     "full_name": "CaviraOSS/OpenMemory",
     "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
     "url": "https://github.com/CaviraOSS/OpenMemory",
-    "stars": 1417,
-    "daily_stars": 4,
+    "stars": 1425,
+    "daily_stars": 8,
     "language": "TypeScript",
     "topics": [],
     "created_at": "2025-10-19T16:12:49",
-    "updated_at": "2025-11-04T04:43:26"
+    "updated_at": "2025-11-04T08:47:43"
   },
   {
     "name": "agentic-rag-for-dummies",
     "full_name": "GiovanniPasq/agentic-rag-for-dummies",
     "description": "A minimal Agentic RAG demo built with LangGraph — learn Retrieval-Augmented Agents in minutes.",
     "url": "https://github.com/GiovanniPasq/agentic-rag-for-dummies",
-    "stars": 89,
-    "daily_stars": 4,
+    "stars": 96,
+    "daily_stars": 7,
     "language": "Jupyter Notebook",
     "topics": [
       "agent",
@@ -40,15 +40,110 @@
       "retrieval-augmented-generation-rag"
     ],
     "created_at": "2025-10-13T18:51:41",
-    "updated_at": "2025-11-04T04:32:57"
+    "updated_at": "2025-11-04T08:43:09"
+  },
+  {
+    "name": "agentic-context-engine",
+    "full_name": "kayba-ai/agentic-context-engine",
+    "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
+    "url": "https://github.com/kayba-ai/agentic-context-engine",
+    "stars": 485,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "context-engineering",
+      "llm",
+      "python"
+    ],
+    "created_at": "2025-10-15T15:36:20",
+    "updated_at": "2025-11-04T07:06:47"
+  },
+  {
+    "name": "HippocampAI",
+    "full_name": "rexdivakar/HippocampAI",
+    "description": "HippocampAI — Autonomous Memory Engine for LLM Agents",
+    "url": "https://github.com/rexdivakar/HippocampAI",
+    "stars": 8,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "ai-memory",
+      "hacktoberfest",
+      "hacktoberfest-accepted",
+      "hacktoberfest2025",
+      "long-short-term-memory",
+      "memory-management"
+    ],
+    "created_at": "2025-10-19T00:04:48",
+    "updated_at": "2025-11-04T07:43:40"
+  },
+  {
+    "name": "ultra-mem",
+    "full_name": "lucidrains/ultra-mem",
+    "description": "Implementation of UltraMem, improved Product Key Memory design, from Bytedance AI labs",
+    "url": "https://github.com/lucidrains/ultra-mem",
+    "stars": 20,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "memory"
+    ],
+    "created_at": "2025-11-01T16:32:24",
+    "updated_at": "2025-11-04T07:30:54"
+  },
+  {
+    "name": "ai-agents-from-scratch",
+    "full_name": "pguso/ai-agents-from-scratch",
+    "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
+    "url": "https://github.com/pguso/ai-agents-from-scratch",
+    "stars": 1345,
+    "daily_stars": 2,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "educational",
+      "function-calling",
+      "llm",
+      "llm-agent",
+      "node-llama-cpp",
+      "react-agent",
+      "tutorial"
+    ],
+    "created_at": "2025-10-23T19:39:04",
+    "updated_at": "2025-11-04T07:50:31"
+  },
+  {
+    "name": "claude-code-workflows",
+    "full_name": "shinpr/claude-code-workflows",
+    "description": "Claude Code plugin for automated development workflows - Context-aware quality assurance",
+    "url": "https://github.com/shinpr/claude-code-workflows",
+    "stars": 18,
+    "daily_stars": 2,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "code-quality",
+      "productivity",
+      "workflow-automation"
+    ],
+    "created_at": "2025-10-10T10:11:27",
+    "updated_at": "2025-11-04T05:09:03"
   },
   {
     "name": "FIBO",
     "full_name": "Bria-AI/FIBO",
     "description": "FIBO is a SOTA, first open-source, JSON-native text-to-image model built for controllable, predictable, and legally safe image generation.",
     "url": "https://github.com/Bria-AI/FIBO",
-    "stars": 173,
-    "daily_stars": 3,
+    "stars": 175,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -68,137 +163,30 @@
       "text-to-image"
     ],
     "created_at": "2025-10-26T12:26:27",
-    "updated_at": "2025-11-04T04:31:14"
+    "updated_at": "2025-11-04T07:33:14"
   },
   {
-    "name": "ai-agents-from-scratch",
-    "full_name": "pguso/ai-agents-from-scratch",
-    "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
-    "url": "https://github.com/pguso/ai-agents-from-scratch",
-    "stars": 1343,
-    "daily_stars": 1,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "educational",
-      "function-calling",
-      "llm",
-      "llm-agent",
-      "node-llama-cpp",
-      "react-agent",
-      "tutorial"
-    ],
-    "created_at": "2025-10-23T19:39:04",
-    "updated_at": "2025-11-04T03:22:24"
-  },
-  {
-    "name": "agentic-context-engine",
-    "full_name": "kayba-ai/agentic-context-engine",
-    "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
-    "url": "https://github.com/kayba-ai/agentic-context-engine",
-    "stars": 482,
+    "name": "sora2-api",
+    "full_name": "jun6ry/sora2-api",
+    "description": "A tool for generating videos using the Sora 2 API.",
+    "url": "https://github.com/jun6ry/sora2-api",
+    "stars": 313,
     "daily_stars": 1,
     "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "context-engineering",
-      "llm",
-      "python"
-    ],
-    "created_at": "2025-10-15T15:36:20",
-    "updated_at": "2025-11-04T02:42:38"
+    "topics": [],
+    "created_at": "2025-10-29T09:29:16",
+    "updated_at": "2025-11-04T07:25:07"
   },
   {
-    "name": "n8n-skills",
-    "full_name": "czlonkowski/n8n-skills",
-    "description": "n8n skillset for Claude Code to build flawless n8n workflows",
-    "url": "https://github.com/czlonkowski/n8n-skills",
-    "stars": 92,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "n8n",
-      "workflow-automation"
-    ],
-    "created_at": "2025-10-20T05:51:27",
-    "updated_at": "2025-11-04T04:15:40"
-  },
-  {
-    "name": "relai-sdk",
-    "full_name": "relai-ai/relai-sdk",
-    "description": "A platform for building reliable AI agents",
-    "url": "https://github.com/relai-ai/relai-sdk",
-    "stars": 67,
+    "name": "llm-use-agentic",
+    "full_name": "llm-use/llm-use-agentic",
+    "description": "Fully agentic LLM orchestrator with autonomous decision-making. This agentic system self-discovers models, learns from usage, and adapts routing strategies. Save 67% on API costs through intelligent agentic behavior. Production-ready with monitoring and self-healing.",
+    "url": "https://github.com/llm-use/llm-use-agentic",
+    "stars": 9,
     "daily_stars": 1,
     "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-reliability"
-    ],
-    "created_at": "2025-10-21T20:28:18",
-    "updated_at": "2025-11-04T03:29:03"
-  },
-  {
-    "name": "claude-scientific-writer",
-    "full_name": "K-Dense-AI/claude-scientific-writer",
-    "description": "A general purpose scientific writer",
-    "url": "https://github.com/K-Dense-AI/claude-scientific-writer",
-    "stars": 32,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "skills",
-      "tools",
-      "writer"
-    ],
-    "created_at": "2025-10-27T06:52:45",
-    "updated_at": "2025-11-04T04:21:16"
-  },
-  {
-    "name": "Awesome-Vibecoding-Guide",
-    "full_name": "Bob5k/Awesome-Vibecoding-Guide",
-    "description": "A compendium drawn from real commercial projects and hundreds of thousands of lines of AI‑assisted code. Read it end‑to‑end or feed this repo to your AI agent for summaries and Q&A. Stars and watches appreciated! ⭐",
-    "url": "https://github.com/Bob5k/Awesome-Vibecoding-Guide",
-    "stars": 23,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "awesome",
-      "coding-standards",
-      "guide",
-      "vibe-coded",
-      "vibe-coding",
-      "vibecoder",
-      "vibecoding"
-    ],
-    "created_at": "2025-10-28T13:21:50",
-    "updated_at": "2025-11-04T04:16:06"
-  },
-  {
-    "name": "HippocampAI",
-    "full_name": "rexdivakar/HippocampAI",
-    "description": "HippocampAI — Autonomous Memory Engine for LLM Agents",
-    "url": "https://github.com/rexdivakar/HippocampAI",
-    "stars": 5,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "ai-memory",
-      "hacktoberfest",
-      "hacktoberfest-accepted",
-      "hacktoberfest2025",
-      "long-short-term-memory",
-      "memory-management"
-    ],
-    "created_at": "2025-10-19T00:04:48",
-    "updated_at": "2025-11-04T02:52:10"
+    "topics": [],
+    "created_at": "2025-10-09T14:05:34",
+    "updated_at": "2025-11-04T08:36:12"
   }
 ]
