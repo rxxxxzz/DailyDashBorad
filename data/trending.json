@@ -1,113 +1,160 @@
 [
   {
-    "name": "n8n-self-host-on-gcp-pulumi",
-    "full_name": "ve-115/n8n-self-host-on-gcp-pulumi",
-    "description": "Self-host n8n on Google Cloud via Pulumi IaaC - own your data, keep costs at minimum!",
-    "url": "https://github.com/ve-115/n8n-self-host-on-gcp-pulumi",
-    "stars": 8,
-    "daily_stars": 5,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "google-cloud-platform",
-      "google-cloud-run",
-      "google-cloud-sql",
-      "n8n",
-      "n8n-automation",
-      "n8n-self-hosting",
-      "pulumi",
-      "self-hosted",
-      "serverless"
-    ],
-    "created_at": "2025-11-06T03:25:07",
-    "updated_at": "2025-11-07T18:02:51"
-  },
-  {
     "name": "OpenMemory",
     "full_name": "CaviraOSS/OpenMemory",
     "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
     "url": "https://github.com/CaviraOSS/OpenMemory",
-    "stars": 1724,
-    "daily_stars": 3,
+    "stars": 1728,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [],
     "created_at": "2025-10-19T16:12:49",
-    "updated_at": "2025-11-07T20:22:46"
+    "updated_at": "2025-11-08T01:52:17"
   },
   {
-    "name": "rules",
-    "full_name": "project-codeguard/rules",
-    "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
-    "url": "https://github.com/project-codeguard/rules",
-    "stars": 294,
-    "daily_stars": 2,
+    "name": "deepnote-toolkit",
+    "full_name": "deepnote/deepnote-toolkit",
+    "description": "Essential Python toolkit for Deepnote environments",
+    "url": "https://github.com/deepnote/deepnote-toolkit",
+    "stars": 8,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
-      "ai",
-      "ai-agents",
-      "ai-security",
-      "coding-agents",
-      "cybersecurity"
-    ],
-    "created_at": "2025-10-12T15:24:53",
-    "updated_at": "2025-11-07T17:59:28"
-  },
-  {
-    "name": "tasktronaut",
-    "full_name": "virtualstaticvoid/tasktronaut",
-    "description": "A simple task orchestration library for running complex processes or workflows in Python",
-    "url": "https://github.com/virtualstaticvoid/tasktronaut",
-    "stars": 2,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "dagster",
-      "django",
-      "python",
-      "python3",
-      "rq",
-      "workflow"
-    ],
-    "created_at": "2025-11-05T09:28:15",
-    "updated_at": "2025-11-07T19:21:25"
-  },
-  {
-    "name": "sora2-watermark-remover",
-    "full_name": "rakkiez/sora2-watermark-remover",
-    "description": "Sora 2 AI generated videos gentle watermark remover",
-    "url": "https://github.com/rakkiez/sora2-watermark-remover",
-    "stars": 395,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
       "artificial-intelligence",
-      "sora-video",
-      "sora2-ai",
-      "watermark-remover"
+      "data",
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "deepnote",
+      "eda",
+      "jupyter",
+      "jupyterhub",
+      "jupyterlab",
+      "machine-learning",
+      "notebooks",
+      "python",
+      "r",
+      "sql"
     ],
-    "created_at": "2025-11-05T15:20:06",
-    "updated_at": "2025-11-07T18:00:36"
+    "created_at": "2025-10-30T16:51:48",
+    "updated_at": "2025-11-07T22:15:17"
+  },
+  {
+    "name": "FIBO",
+    "full_name": "Bria-AI/FIBO",
+    "description": "FIBO is a SOTA, first open-source, JSON-native text-to-image model built for controllable, predictable, and legally safe image generation.",
+    "url": "https://github.com/Bria-AI/FIBO",
+    "stars": 209,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "controlable-image-generation",
+      "creative-ai",
+      "deep-learning",
+      "enterprise-ready",
+      "ethical-ai",
+      "image-generation",
+      "image-generation-ai",
+      "licensed-data",
+      "responsible-ai",
+      "safe-ai",
+      "smollm3",
+      "sota",
+      "text-to-image"
+    ],
+    "created_at": "2025-10-26T12:26:27",
+    "updated_at": "2025-11-08T01:13:28"
+  },
+  {
+    "name": "claude-code-pro",
+    "full_name": "maxritter/claude-code-pro",
+    "description": "Automated Dev Container, Spec-Driven Development, TDD, Semantic Search, Persistent Memory, and much more 🚀 ",
+    "url": "https://github.com/maxritter/claude-code-pro",
+    "stars": 75,
+    "daily_stars": 2,
+    "language": "Shell",
+    "topics": [
+      "ai-agents",
+      "ai-assistant",
+      "ai-coding",
+      "ai-engineering",
+      "ai-tools",
+      "anthropic",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claudecode",
+      "ide",
+      "mcp",
+      "memory-layer",
+      "model-context-protocol",
+      "software-development",
+      "software-engineering",
+      "spec-driven-development",
+      "visual-studio-code"
+    ],
+    "created_at": "2025-10-18T08:30:23",
+    "updated_at": "2025-11-07T23:31:53"
+  },
+  {
+    "name": "nlcli-wizard",
+    "full_name": "pranavkumaarofficial/nlcli-wizard",
+    "description": "Natural language control for Python CLI tools using locally-trained SLMs (CPU inference)",
+    "url": "https://github.com/pranavkumaarofficial/nlcli-wizard",
+    "stars": 6,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "cli-tools",
+      "fine-tuning",
+      "gemma",
+      "llama-cpp",
+      "llm",
+      "local-first",
+      "machine-learning",
+      "qlora",
+      "slm",
+      "unsloth"
+    ],
+    "created_at": "2025-10-23T18:43:43",
+    "updated_at": "2025-11-08T02:04:14"
   },
   {
     "name": "free-ai-resources-x",
     "full_name": "CelaDaniel/free-ai-resources-x",
     "description": "A curated collection of free, high quality AI tools 🤖, APIs 🔗, datasets 📊, and learning resources 📚 covering machine learning 🧠, deep learning 🧩, generative AI 🎨, NLP 💬, and data science 📈. Designed to help developers 👩‍💻, researchers 🔬, and creators ✨ explore and build with AI faster ⚡.",
     "url": "https://github.com/CelaDaniel/free-ai-resources-x",
-    "stars": 78,
+    "stars": 79,
     "daily_stars": 1,
     "language": null,
     "topics": [],
     "created_at": "2025-10-17T17:37:17",
-    "updated_at": "2025-11-07T17:39:31"
+    "updated_at": "2025-11-08T00:19:35"
+  },
+  {
+    "name": "ultra-mem",
+    "full_name": "lucidrains/ultra-mem",
+    "description": "Implementation of UltraMem, improved Product Key Memory design, from Bytedance AI labs",
+    "url": "https://github.com/lucidrains/ultra-mem",
+    "stars": 25,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "memory"
+    ],
+    "created_at": "2025-11-01T16:32:24",
+    "updated_at": "2025-11-08T01:13:30"
   },
   {
     "name": "agentic-rag-for-dummies",
     "full_name": "GiovanniPasq/agentic-rag-for-dummies",
     "description": "A minimal Agentic RAG demo built with LangGraph — learn Retrieval-Augmented Agents in minutes.",
     "url": "https://github.com/GiovanniPasq/agentic-rag-for-dummies",
-    "stars": 144,
+    "stars": 145,
     "daily_stars": 1,
     "language": "Jupyter Notebook",
     "topics": [
@@ -131,61 +178,42 @@
       "retrieval-augmented-generation-rag"
     ],
     "created_at": "2025-10-13T18:51:41",
-    "updated_at": "2025-11-07T16:49:53"
+    "updated_at": "2025-11-08T01:22:48"
   },
   {
-    "name": "n8n-skills",
-    "full_name": "czlonkowski/n8n-skills",
-    "description": "n8n skillset for Claude Code to build flawless n8n workflows",
-    "url": "https://github.com/czlonkowski/n8n-skills",
-    "stars": 105,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "n8n",
-      "workflow-automation"
-    ],
-    "created_at": "2025-10-20T05:51:27",
-    "updated_at": "2025-11-07T20:20:15"
-  },
-  {
-    "name": "Awesome-Vibecoding-Guide",
-    "full_name": "Bob5k/Awesome-Vibecoding-Guide",
-    "description": "A compendium drawn from real commercial projects and hundreds of thousands of lines of AI‑assisted code. Read it end‑to‑end or feed this repo to your AI agent for summaries and Q&A. Stars and watches appreciated! ⭐",
-    "url": "https://github.com/Bob5k/Awesome-Vibecoding-Guide",
-    "stars": 47,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "awesome",
-      "coding-standards",
-      "guide",
-      "vibe-coded",
-      "vibe-coding",
-      "vibecoder",
-      "vibecoding"
-    ],
-    "created_at": "2025-10-28T13:21:50",
-    "updated_at": "2025-11-07T18:31:06"
-  },
-  {
-    "name": "training-ai-agents",
-    "full_name": "FareedKhan-dev/training-ai-agents",
-    "description": "Training architecture for self-improving AI agents.",
-    "url": "https://github.com/FareedKhan-dev/training-ai-agents",
-    "stars": 14,
+    "name": "deep-thinking-rag",
+    "full_name": "FareedKhan-dev/deep-thinking-rag",
+    "description": "A Deep Thinking RAG Pipeline to Solve Complex Queries ",
+    "url": "https://github.com/FareedKhan-dev/deep-thinking-rag",
+    "stars": 73,
     "daily_stars": 1,
     "language": "Jupyter Notebook",
     "topics": [
-      "agentic-ai",
       "ai-agents",
-      "openai",
-      "reinforcement-learning",
-      "training-project"
+      "llm",
+      "llms",
+      "rag"
     ],
-    "created_at": "2025-11-04T03:26:21",
-    "updated_at": "2025-11-07T19:19:33"
+    "created_at": "2025-10-19T12:48:26",
+    "updated_at": "2025-11-08T02:00:15"
+  },
+  {
+    "name": "claude-skills-marketplace",
+    "full_name": "mhattingpete/claude-skills-marketplace",
+    "description": "Claude Code Skills for software engineering workflows - Git automation, testing, and code review",
+    "url": "https://github.com/mhattingpete/claude-skills-marketplace",
+    "stars": 58,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "automation",
+      "claude-code",
+      "claude-skills",
+      "developer-tools"
+    ],
+    "created_at": "2025-10-17T12:02:19",
+    "updated_at": "2025-11-07T21:45:08"
   }
 ]
