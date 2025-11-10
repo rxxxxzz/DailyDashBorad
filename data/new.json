@@ -1,21 +1,26 @@
 [
   {
-    "name": "sora2-watermark-remover",
-    "full_name": "rakkiez/sora2-watermark-remover",
-    "description": "Sora 2 AI generated videos gentle watermark remover",
-    "url": "https://github.com/rakkiez/sora2-watermark-remover",
-    "stars": 406,
-    "daily_stars": 0,
-    "language": "Python",
+    "name": "livewire-workflows",
+    "full_name": "pixelworxio/livewire-workflows",
+    "description": "Build multi-step workflows in Laravel / Livewire with zero boilerplate",
+    "url": "https://github.com/pixelworxio/livewire-workflows",
+    "stars": 45,
+    "daily_stars": 2,
+    "language": "PHP",
     "topics": [
-      "ai",
-      "artificial-intelligence",
-      "sora-video",
-      "sora2-ai",
-      "watermark-remover"
+      "laravel",
+      "livewire",
+      "livewire-laravel",
+      "livewire-packages",
+      "livewire3",
+      "multi-step",
+      "multi-step-form",
+      "php",
+      "workflow",
+      "workflows"
     ],
-    "created_at": "2025-11-05T15:20:06",
-    "updated_at": "2025-11-10T13:07:23"
+    "created_at": "2025-11-04T17:04:00",
+    "updated_at": "2025-11-10T19:50:50"
   },
   {
     "name": "Ciphey",
@@ -42,29 +47,6 @@
     "updated_at": "2025-11-05T15:27:37"
   },
   {
-    "name": "livewire-workflows",
-    "full_name": "pixelworxio/livewire-workflows",
-    "description": "Build multi-step workflows in Laravel / Livewire with zero boilerplate",
-    "url": "https://github.com/pixelworxio/livewire-workflows",
-    "stars": 43,
-    "daily_stars": 4,
-    "language": "PHP",
-    "topics": [
-      "laravel",
-      "livewire",
-      "livewire-laravel",
-      "livewire-packages",
-      "livewire3",
-      "multi-step",
-      "multi-step-form",
-      "php",
-      "workflow",
-      "workflows"
-    ],
-    "created_at": "2025-11-04T17:04:00",
-    "updated_at": "2025-11-10T16:38:14"
-  },
-  {
     "name": "DeepAgent_Food_Tour",
     "full_name": "muratcankoylan/DeepAgent_Food_Tour",
     "description": "Food tour planner using LangChain DeepAgents, Google Maps API, and Tavily research. Explore  multi-agent coordination patterns: task delegation via SubAgentMiddleware, planning with TodoListMiddleware",
@@ -87,8 +69,8 @@
     "full_name": "FahzainAhmad/agent-hill-climb-supervised",
     "description": "This project implements a supervised deep learning system that learns to autonomously control a vehicle in the Countryside level of Hill Climb Racing. Using computer vision and a convolutional neural network (CNN), the model observes raw gameplay frames and predicts the correct driving action in real time — mimicking human input.",
     "url": "https://github.com/FahzainAhmad/agent-hill-climb-supervised",
-    "stars": 36,
-    "daily_stars": 6,
+    "stars": 37,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "classification",
@@ -98,33 +80,15 @@
       "supervised-learning"
     ],
     "created_at": "2025-11-06T11:06:51",
-    "updated_at": "2025-11-10T16:32:53"
-  },
-  {
-    "name": "training-ai-agents",
-    "full_name": "FareedKhan-dev/training-ai-agents",
-    "description": "Training architecture for self-improving AI agents.",
-    "url": "https://github.com/FareedKhan-dev/training-ai-agents",
-    "stars": 23,
-    "daily_stars": 0,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "openai",
-      "reinforcement-learning",
-      "training-project"
-    ],
-    "created_at": "2025-11-04T03:26:21",
-    "updated_at": "2025-11-10T08:58:35"
+    "updated_at": "2025-11-10T16:59:39"
   },
   {
     "name": "mcp-checkpoint",
     "full_name": "aira-security/mcp-checkpoint",
     "description": "MCP Checkpoint continuously secures and monitors Model Context Protocol operations through static and dynamic scans, revealing hidden risks in agent-to-tool communications.",
     "url": "https://github.com/aira-security/mcp-checkpoint",
-    "stars": 21,
-    "daily_stars": 3,
+    "stars": 25,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -136,14 +100,59 @@
       "security"
     ],
     "created_at": "2025-11-07T21:35:56",
-    "updated_at": "2025-11-10T15:47:38"
+    "updated_at": "2025-11-10T19:39:20"
+  },
+  {
+    "name": "training-ai-agents",
+    "full_name": "FareedKhan-dev/training-ai-agents",
+    "description": "Training architecture for self-improving AI agents.",
+    "url": "https://github.com/FareedKhan-dev/training-ai-agents",
+    "stars": 24,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "openai",
+      "reinforcement-learning",
+      "training-project"
+    ],
+    "created_at": "2025-11-04T03:26:21",
+    "updated_at": "2025-11-10T18:33:20"
+  },
+  {
+    "name": "mcp-gearbox",
+    "full_name": "rohitsoni007/mcp-gearbox",
+    "description": "A modern desktop application for managing Model Context Protocol (MCP) servers across multiple AI agents",
+    "url": "https://github.com/rohitsoni007/mcp-gearbox",
+    "stars": 17,
+    "daily_stars": 8,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "claude-code",
+      "desktop-app",
+      "developer-tools",
+      "electron",
+      "kiro",
+      "mcp",
+      "mcp-servers",
+      "model-context-protocol",
+      "react",
+      "shadcn-ui",
+      "tailwindcss",
+      "typescript"
+    ],
+    "created_at": "2025-11-03T10:53:53",
+    "updated_at": "2025-11-10T20:42:38"
   },
   {
     "name": "x-evolution",
     "full_name": "lucidrains/x-evolution",
     "description": "Implementation of various evolutionary algorithms, starting with evolutionary strategies",
     "url": "https://github.com/lucidrains/x-evolution",
-    "stars": 15,
+    "stars": 16,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -152,58 +161,55 @@
       "evolutionary-algorithms"
     ],
     "created_at": "2025-11-09T14:37:30",
-    "updated_at": "2025-11-10T14:24:27"
+    "updated_at": "2025-11-10T17:14:51"
   },
   {
-    "name": "Quiet-Machines-Minimalist-AI",
-    "full_name": "AmirhosseinHonardoust/Quiet-Machines-Minimalist-AI",
-    "description": "A long-form essay exploring the philosophy of minimalist AI, how future intelligent systems can be calm, ethical, and invisible. Inspired by calm technology, design minimalism, and cognitive science, Quiet Machines envisions a world where the best technology listens more than it speaks.",
-    "url": "https://github.com/AmirhosseinHonardoust/Quiet-Machines-Minimalist-AI",
-    "stars": 12,
-    "daily_stars": 0,
-    "language": null,
-    "topics": [
-      "ai-ethics",
-      "ai-futures",
-      "artificial-intelligence",
-      "attention-economy",
-      "calm-technology",
-      "data-storytelling",
-      "design-philosophy",
-      "digital-minimalism",
-      "human-computer-interaction",
-      "minimalism",
-      "technology-and-society"
-    ],
-    "created_at": "2025-11-02T21:56:07",
-    "updated_at": "2025-11-06T10:40:01"
-  },
-  {
-    "name": "The-Future-of-Interactive-ML",
-    "full_name": "AmirhosseinHonardoust/The-Future-of-Interactive-ML",
-    "description": "An in-depth exploration of the rise of human-centered, interactive machine learning. This article examines how Streamlit enables collaborative AI design by merging UX, visualization, and automation. Includes theory, architecture, and design insights from the ML Playground project.",
-    "url": "https://github.com/AmirhosseinHonardoust/The-Future-of-Interactive-ML",
-    "stars": 12,
-    "daily_stars": 0,
-    "language": null,
+    "name": "opensearch-ai",
+    "full_name": "bet360/opensearch-ai",
+    "description": null,
+    "url": "https://github.com/bet360/opensearch-ai",
+    "stars": 16,
+    "daily_stars": 7,
+    "language": "TypeScript",
     "topics": [
       "ai",
-      "ai-ethics",
-      "data-science",
-      "explainable-ai",
-      "human-centered-ai",
-      "interactive-ml",
-      "machine-learning",
-      "mlops",
-      "plotly",
-      "python",
-      "research",
-      "scikit-learn",
-      "streamlit",
-      "ux-design",
-      "visualization"
+      "ai-agents",
+      "chatbot",
+      "chatgpt",
+      "chatgpt-bot",
+      "chatgpt4",
+      "gpt-4",
+      "openai",
+      "openai-agents-sdk",
+      "openai-api",
+      "openai-chatgpt"
     ],
-    "created_at": "2025-11-03T21:42:47",
-    "updated_at": "2025-11-06T10:39:58"
+    "created_at": "2025-11-05T06:02:37",
+    "updated_at": "2025-11-10T20:13:15"
+  },
+  {
+    "name": "Flutter-AI-Rubik-Cube",
+    "full_name": "bet360/Flutter-AI-Rubik-Cube",
+    "description": null,
+    "url": "https://github.com/bet360/Flutter-AI-Rubik-Cube",
+    "stars": 16,
+    "daily_stars": 7,
+    "language": "Dart",
+    "topics": [
+      "ai-agents",
+      "ai-chatbots",
+      "ai-cube",
+      "ai-r",
+      "ai-rubik",
+      "ai-tools",
+      "cube",
+      "cube-portal-application",
+      "flutter",
+      "flutter-application",
+      "flutter-apps",
+      "flutter-ui"
+    ],
+    "created_at": "2025-11-05T06:00:06",
+    "updated_at": "2025-11-10T20:13:27"
   }
 ]
