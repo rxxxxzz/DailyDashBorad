@@ -1,64 +1,131 @@
 [
   {
-    "name": "mcp-checkpoint",
-    "full_name": "aira-security/mcp-checkpoint",
-    "description": "MCP Checkpoint continuously secures and monitors Model Context Protocol operations through static and dynamic scans, revealing hidden risks in agent-to-tool communications.",
-    "url": "https://github.com/aira-security/mcp-checkpoint",
-    "stars": 31,
-    "daily_stars": 6,
+    "name": "lean-spec",
+    "full_name": "codervisor/lean-spec",
+    "description": "Lightweight, flexible Spec-Driven Development (SDD) for modern AI-powered development",
+    "url": "https://github.com/codervisor/lean-spec",
+    "stars": 19,
+    "daily_stars": 11,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "project-management",
+      "spec-driven-development"
+    ],
+    "created_at": "2025-10-31T08:59:00",
+    "updated_at": "2025-11-11T04:12:37"
+  },
+  {
+    "name": "mcp-gearbox",
+    "full_name": "rohitsoni007/mcp-gearbox",
+    "description": "A modern desktop application for managing Model Context Protocol (MCP) servers across multiple AI agents",
+    "url": "https://github.com/rohitsoni007/mcp-gearbox",
+    "stars": 22,
+    "daily_stars": 2,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "claude-code",
+      "desktop-app",
+      "developer-tools",
+      "electron",
+      "kiro",
+      "mcp",
+      "mcp-servers",
+      "model-context-protocol",
+      "react",
+      "shadcn-ui",
+      "tailwindcss",
+      "typescript"
+    ],
+    "created_at": "2025-11-03T10:53:53",
+    "updated_at": "2025-11-11T03:59:37"
+  },
+  {
+    "name": "FIBO",
+    "full_name": "Bria-AI/FIBO",
+    "description": "FIBO is a SOTA, first open-source, JSON-native text-to-image model built for controllable, predictable, and legally safe image generation.",
+    "url": "https://github.com/Bria-AI/FIBO",
+    "stars": 226,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "agentic-ai",
       "ai",
-      "ai-agents",
-      "aira",
-      "mcp",
-      "model-context-protocol",
-      "security"
+      "controlable-image-generation",
+      "creative-ai",
+      "deep-learning",
+      "enterprise-ready",
+      "ethical-ai",
+      "image-generation",
+      "image-generation-ai",
+      "licensed-data",
+      "responsible-ai",
+      "safe-ai",
+      "smollm3",
+      "sota",
+      "text-to-image"
     ],
-    "created_at": "2025-11-07T21:35:56",
-    "updated_at": "2025-11-11T01:46:11"
+    "created_at": "2025-10-26T12:26:27",
+    "updated_at": "2025-11-11T04:36:02"
   },
   {
     "name": "OpenMemory",
     "full_name": "CaviraOSS/OpenMemory",
     "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
     "url": "https://github.com/CaviraOSS/OpenMemory",
-    "stars": 1816,
-    "daily_stars": 5,
+    "stars": 1817,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [],
     "created_at": "2025-10-19T16:12:49",
-    "updated_at": "2025-11-11T00:50:02"
+    "updated_at": "2025-11-11T03:03:00"
   },
   {
-    "name": "Units_of_Measure_Harmonization-intelligence-platform",
-    "full_name": "JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform",
-    "description": "   Production-Grade ML System for Automated Unit of Measure Error Detection | 88-92% Accuracy | 94% Autonomy | KNIME Workflow",
-    "url": "https://github.com/JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform",
-    "stars": 274,
-    "daily_stars": 4,
-    "language": "PowerShell",
+    "name": "comparison-ai-tools-frameworks-models",
+    "full_name": "Marktechpost/comparison-ai-tools-frameworks-models",
+    "description": "A directory of comparison insights on various AI Dev Tools/Frameworks/LLM Models/Products",
+    "url": "https://github.com/Marktechpost/comparison-ai-tools-frameworks-models",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": null,
     "topics": [
       "artificial-intelligence",
-      "automation",
-      "data-cleaning",
-      "data-quality",
-      "knime",
+      "data-science",
+      "llm",
       "machine-learning",
-      "manufacturing",
-      "supply-chain"
+      "open-source"
     ],
-    "created_at": "2025-10-20T20:10:32",
-    "updated_at": "2025-11-11T01:51:24"
+    "created_at": "2025-11-07T09:42:55",
+    "updated_at": "2025-11-11T02:36:29"
+  },
+  {
+    "name": "agentic-context-engine",
+    "full_name": "kayba-ai/agentic-context-engine",
+    "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
+    "url": "https://github.com/kayba-ai/agentic-context-engine",
+    "stars": 555,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "context-engineering",
+      "llm",
+      "python"
+    ],
+    "created_at": "2025-10-15T15:36:20",
+    "updated_at": "2025-11-11T04:00:54"
   },
   {
     "name": "agentic-rag-for-dummies",
     "full_name": "GiovanniPasq/agentic-rag-for-dummies",
     "description": "A minimal Agentic RAG demo built with LangGraph — learn Retrieval-Augmented Agents in minutes.",
     "url": "https://github.com/GiovanniPasq/agentic-rag-for-dummies",
-    "stars": 185,
-    "daily_stars": 4,
+    "stars": 186,
+    "daily_stars": 1,
     "language": "Jupyter Notebook",
     "topics": [
       "agent",
@@ -81,59 +148,31 @@
       "retrieval-augmented-generation-rag"
     ],
     "created_at": "2025-10-13T18:51:41",
-    "updated_at": "2025-11-10T22:45:25"
+    "updated_at": "2025-11-11T03:05:51"
   },
   {
-    "name": "lean-spec",
-    "full_name": "codervisor/lean-spec",
-    "description": "Lightweight, flexible Spec-Driven Development (SDD) for modern AI-powered development",
-    "url": "https://github.com/codervisor/lean-spec",
-    "stars": 8,
-    "daily_stars": 4,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "project-management",
-      "spec-driven-development"
-    ],
-    "created_at": "2025-10-31T08:59:00",
-    "updated_at": "2025-11-11T02:14:44"
-  },
-  {
-    "name": "mcp-gearbox",
-    "full_name": "rohitsoni007/mcp-gearbox",
-    "description": "A modern desktop application for managing Model Context Protocol (MCP) servers across multiple AI agents",
-    "url": "https://github.com/rohitsoni007/mcp-gearbox",
-    "stars": 20,
-    "daily_stars": 3,
-    "language": "TypeScript",
+    "name": "n8n-skills",
+    "full_name": "czlonkowski/n8n-skills",
+    "description": "n8n skillset for Claude Code to build flawless n8n workflows",
+    "url": "https://github.com/czlonkowski/n8n-skills",
+    "stars": 113,
+    "daily_stars": 1,
+    "language": null,
     "topics": [
       "ai-agents",
-      "ai-tools",
-      "claude-code",
-      "desktop-app",
-      "developer-tools",
-      "electron",
-      "kiro",
-      "mcp",
-      "mcp-servers",
-      "model-context-protocol",
-      "react",
-      "shadcn-ui",
-      "tailwindcss",
-      "typescript"
+      "n8n",
+      "workflow-automation"
     ],
-    "created_at": "2025-11-03T10:53:53",
-    "updated_at": "2025-11-10T21:22:54"
+    "created_at": "2025-10-20T05:51:27",
+    "updated_at": "2025-11-11T03:15:59"
   },
   {
     "name": "ios-simulator-skill",
     "full_name": "conorluddy/ios-simulator-skill",
     "description": "An IOS Simulator Skill for ClaudeCode. Drop it into .claude/skills/ios-simulator-skill and it will let Claude drive the device. Prefers nav via accessibility over screenshots, for perf, but can use both.",
     "url": "https://github.com/conorluddy/ios-simulator-skill",
-    "stars": 92,
-    "daily_stars": 2,
+    "stars": 93,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "agent",
@@ -158,57 +197,25 @@
       "xcode"
     ],
     "created_at": "2025-10-17T12:43:15",
-    "updated_at": "2025-11-11T02:15:38"
+    "updated_at": "2025-11-11T03:33:01"
   },
   {
-    "name": "livewire-workflows",
-    "full_name": "pixelworxio/livewire-workflows",
-    "description": "Build multi-step workflows in Laravel / Livewire with zero boilerplate",
-    "url": "https://github.com/pixelworxio/livewire-workflows",
-    "stars": 47,
-    "daily_stars": 2,
-    "language": "PHP",
-    "topics": [
-      "laravel",
-      "livewire",
-      "livewire-laravel",
-      "livewire-packages",
-      "livewire3",
-      "multi-step",
-      "multi-step-form",
-      "php",
-      "workflow",
-      "workflows"
-    ],
-    "created_at": "2025-11-04T17:04:00",
-    "updated_at": "2025-11-11T02:08:41"
-  },
-  {
-    "name": "x-evolution",
-    "full_name": "lucidrains/x-evolution",
-    "description": "Implementation of various evolutionary algorithms, starting with evolutionary strategies",
-    "url": "https://github.com/lucidrains/x-evolution",
-    "stars": 17,
+    "name": "claude-code-skill-factory",
+    "full_name": "alirezarezvani/claude-code-skill-factory",
+    "description": "A comprehensive toolkit for generating production-ready Claude Skills and Claude Code Agents at scale.",
+    "url": "https://github.com/alirezarezvani/claude-code-skill-factory",
+    "stars": 80,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "artificial-intelligence",
-      "evolution",
-      "evolutionary-algorithms"
+      "ai-agents",
+      "ai-tools",
+      "claude-ai",
+      "claude-code",
+      "claude-skills",
+      "claude-skills-creator"
     ],
-    "created_at": "2025-11-09T14:37:30",
-    "updated_at": "2025-11-11T01:45:29"
-  },
-  {
-    "name": "foundation-alignment-cross-architecture",
-    "full_name": "davfd/foundation-alignment-cross-architecture",
-    "description": " Complete elimination of instrumental self-preservation across AI architectures: Cross-model validation from 4,312 adversarial   scenarios. 0% harmful behaviors (p<10⁻¹⁵) across GPT-4o, Gemini 2.5 Pro, and Claude Opus 4.1 using Foundation Alignment Seed v2.6.",
-    "url": "https://github.com/davfd/foundation-alignment-cross-architecture",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [],
-    "created_at": "2025-10-13T02:26:34",
-    "updated_at": "2025-11-11T00:37:52"
+    "created_at": "2025-10-21T15:20:47",
+    "updated_at": "2025-11-11T04:01:33"
   }
 ]
