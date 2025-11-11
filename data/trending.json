@@ -1,11 +1,43 @@
 [
   {
+    "name": "OpenMemory",
+    "full_name": "CaviraOSS/OpenMemory",
+    "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
+    "url": "https://github.com/CaviraOSS/OpenMemory",
+    "stars": 1821,
+    "daily_stars": 4,
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-10-19T16:12:49",
+    "updated_at": "2025-11-11T07:33:22"
+  },
+  {
+    "name": "mcp-checkpoint",
+    "full_name": "aira-security/mcp-checkpoint",
+    "description": "MCP Checkpoint continuously secures and monitors Model Context Protocol operations through static and dynamic scans, revealing hidden risks in agent-to-tool communications.",
+    "url": "https://github.com/aira-security/mcp-checkpoint",
+    "stars": 34,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "aira",
+      "mcp",
+      "model-context-protocol",
+      "security"
+    ],
+    "created_at": "2025-11-07T21:35:56",
+    "updated_at": "2025-11-11T06:48:10"
+  },
+  {
     "name": "lean-spec",
     "full_name": "codervisor/lean-spec",
     "description": "Lightweight, flexible Spec-Driven Development (SDD) for modern AI-powered development",
     "url": "https://github.com/codervisor/lean-spec",
-    "stars": 19,
-    "daily_stars": 11,
+    "stars": 22,
+    "daily_stars": 3,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -14,118 +46,32 @@
       "spec-driven-development"
     ],
     "created_at": "2025-10-31T08:59:00",
-    "updated_at": "2025-11-11T04:12:37"
+    "updated_at": "2025-11-11T07:24:50"
   },
   {
-    "name": "mcp-gearbox",
-    "full_name": "rohitsoni007/mcp-gearbox",
-    "description": "A modern desktop application for managing Model Context Protocol (MCP) servers across multiple AI agents",
-    "url": "https://github.com/rohitsoni007/mcp-gearbox",
-    "stars": 22,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "claude-code",
-      "desktop-app",
-      "developer-tools",
-      "electron",
-      "kiro",
-      "mcp",
-      "mcp-servers",
-      "model-context-protocol",
-      "react",
-      "shadcn-ui",
-      "tailwindcss",
-      "typescript"
-    ],
-    "created_at": "2025-11-03T10:53:53",
-    "updated_at": "2025-11-11T03:59:37"
-  },
-  {
-    "name": "FIBO",
-    "full_name": "Bria-AI/FIBO",
-    "description": "FIBO is a SOTA, first open-source, JSON-native text-to-image model built for controllable, predictable, and legally safe image generation.",
-    "url": "https://github.com/Bria-AI/FIBO",
-    "stars": 226,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "ai",
-      "controlable-image-generation",
-      "creative-ai",
-      "deep-learning",
-      "enterprise-ready",
-      "ethical-ai",
-      "image-generation",
-      "image-generation-ai",
-      "licensed-data",
-      "responsible-ai",
-      "safe-ai",
-      "smollm3",
-      "sota",
-      "text-to-image"
-    ],
-    "created_at": "2025-10-26T12:26:27",
-    "updated_at": "2025-11-11T04:36:02"
-  },
-  {
-    "name": "OpenMemory",
-    "full_name": "CaviraOSS/OpenMemory",
-    "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
-    "url": "https://github.com/CaviraOSS/OpenMemory",
-    "stars": 1817,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [],
-    "created_at": "2025-10-19T16:12:49",
-    "updated_at": "2025-11-11T03:03:00"
-  },
-  {
-    "name": "comparison-ai-tools-frameworks-models",
-    "full_name": "Marktechpost/comparison-ai-tools-frameworks-models",
-    "description": "A directory of comparison insights on various AI Dev Tools/Frameworks/LLM Models/Products",
-    "url": "https://github.com/Marktechpost/comparison-ai-tools-frameworks-models",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "artificial-intelligence",
-      "data-science",
-      "llm",
-      "machine-learning",
-      "open-source"
-    ],
-    "created_at": "2025-11-07T09:42:55",
-    "updated_at": "2025-11-11T02:36:29"
-  },
-  {
-    "name": "agentic-context-engine",
-    "full_name": "kayba-ai/agentic-context-engine",
-    "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
-    "url": "https://github.com/kayba-ai/agentic-context-engine",
-    "stars": 555,
-    "daily_stars": 1,
+    "name": "syncause-benchmark",
+    "full_name": "Syncause/syncause-benchmark",
+    "description": "AI-driven RCA benchmark evaluating Syncause’s accuracy, interpretability, and cost efficiency across diverse scenarios.",
+    "url": "https://github.com/Syncause/syncause-benchmark",
+    "stars": 7,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "ai-agents",
-      "ai-tools",
-      "context-engineering",
-      "llm",
-      "python"
+      "ebpf",
+      "observability",
+      "root-cause-analysis"
     ],
-    "created_at": "2025-10-15T15:36:20",
-    "updated_at": "2025-11-11T04:00:54"
+    "created_at": "2025-10-24T07:34:14",
+    "updated_at": "2025-11-11T05:48:24"
   },
   {
     "name": "agentic-rag-for-dummies",
     "full_name": "GiovanniPasq/agentic-rag-for-dummies",
     "description": "A minimal Agentic RAG demo built with LangGraph — learn Retrieval-Augmented Agents in minutes.",
     "url": "https://github.com/GiovanniPasq/agentic-rag-for-dummies",
-    "stars": 186,
-    "daily_stars": 1,
+    "stars": 188,
+    "daily_stars": 2,
     "language": "Jupyter Notebook",
     "topics": [
       "agent",
@@ -148,64 +94,15 @@
       "retrieval-augmented-generation-rag"
     ],
     "created_at": "2025-10-13T18:51:41",
-    "updated_at": "2025-11-11T03:05:51"
-  },
-  {
-    "name": "n8n-skills",
-    "full_name": "czlonkowski/n8n-skills",
-    "description": "n8n skillset for Claude Code to build flawless n8n workflows",
-    "url": "https://github.com/czlonkowski/n8n-skills",
-    "stars": 113,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "n8n",
-      "workflow-automation"
-    ],
-    "created_at": "2025-10-20T05:51:27",
-    "updated_at": "2025-11-11T03:15:59"
-  },
-  {
-    "name": "ios-simulator-skill",
-    "full_name": "conorluddy/ios-simulator-skill",
-    "description": "An IOS Simulator Skill for ClaudeCode. Drop it into .claude/skills/ios-simulator-skill and it will let Claude drive the device. Prefers nav via accessibility over screenshots, for perf, but can use both.",
-    "url": "https://github.com/conorluddy/ios-simulator-skill",
-    "stars": 93,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "ai-agents",
-      "claude",
-      "claude-ai",
-      "claude-code",
-      "claude-skills",
-      "claudecode",
-      "claudeskills",
-      "dx",
-      "ios",
-      "iossimulator",
-      "mcp",
-      "mcp-tools",
-      "python",
-      "simulator",
-      "skills",
-      "testing",
-      "tooling",
-      "xcode"
-    ],
-    "created_at": "2025-10-17T12:43:15",
-    "updated_at": "2025-11-11T03:33:01"
+    "updated_at": "2025-11-11T08:13:01"
   },
   {
     "name": "claude-code-skill-factory",
     "full_name": "alirezarezvani/claude-code-skill-factory",
     "description": "A comprehensive toolkit for generating production-ready Claude Skills and Claude Code Agents at scale.",
     "url": "https://github.com/alirezarezvani/claude-code-skill-factory",
-    "stars": 80,
-    "daily_stars": 1,
+    "stars": 82,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -216,6 +113,65 @@
       "claude-skills-creator"
     ],
     "created_at": "2025-10-21T15:20:47",
-    "updated_at": "2025-11-11T04:01:33"
+    "updated_at": "2025-11-11T07:41:18"
+  },
+  {
+    "name": "VieNeu-TTS",
+    "full_name": "pnnbao97/VieNeu-TTS",
+    "description": "Vietnamese Text-to-Speech ",
+    "url": "https://github.com/pnnbao97/VieNeu-TTS",
+    "stars": 65,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-10-28T14:07:23",
+    "updated_at": "2025-11-11T08:07:44"
+  },
+  {
+    "name": "build-apps",
+    "full_name": "DokiTeam/build-apps",
+    "description": "Doki APKs, built and distributed automatically by GitHub Actions",
+    "url": "https://github.com/DokiTeam/build-apps",
+    "stars": 5,
+    "daily_stars": 2,
+    "language": null,
+    "topics": [
+      "actions",
+      "automation",
+      "cd",
+      "ci",
+      "github",
+      "workflow"
+    ],
+    "created_at": "2025-11-06T20:26:11",
+    "updated_at": "2025-11-11T08:42:10"
+  },
+  {
+    "name": "free-ai-resources-x",
+    "full_name": "CelaDaniel/free-ai-resources-x",
+    "description": "A curated collection of free, high quality AI tools 🤖, APIs 🔗, datasets 📊, and learning resources 📚 covering machine learning 🧠, deep learning 🧩, generative AI 🎨, NLP 💬, and data science 📈. Designed to help developers 👩‍💻, researchers 🔬, and creators ✨ explore and build with AI faster ⚡.",
+    "url": "https://github.com/CelaDaniel/free-ai-resources-x",
+    "stars": 92,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [],
+    "created_at": "2025-10-17T17:37:17",
+    "updated_at": "2025-11-11T06:46:06"
+  },
+  {
+    "name": "x-evolution",
+    "full_name": "lucidrains/x-evolution",
+    "description": "Implementation of various evolutionary algorithms, starting with evolutionary strategies",
+    "url": "https://github.com/lucidrains/x-evolution",
+    "stars": 18,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "evolution",
+      "evolutionary-algorithms"
+    ],
+    "created_at": "2025-11-09T14:37:30",
+    "updated_at": "2025-11-11T06:05:22"
   }
 ]
