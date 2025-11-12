@@ -1,11 +1,30 @@
 [
   {
+    "name": "build-apps",
+    "full_name": "DokiTeam/build-apps",
+    "description": "Doki APKs, built and distributed automatically by GitHub Actions",
+    "url": "https://github.com/DokiTeam/build-apps",
+    "stars": 37,
+    "daily_stars": 31,
+    "language": null,
+    "topics": [
+      "actions",
+      "automation",
+      "cd",
+      "ci",
+      "github",
+      "workflow"
+    ],
+    "created_at": "2025-11-06T20:26:11",
+    "updated_at": "2025-11-12T13:01:42"
+  },
+  {
     "name": "n8n-skills",
     "full_name": "czlonkowski/n8n-skills",
     "description": "n8n skillset for Claude Code to build flawless n8n workflows",
     "url": "https://github.com/czlonkowski/n8n-skills",
-    "stars": 120,
-    "daily_stars": 6,
+    "stars": 124,
+    "daily_stars": 4,
     "language": null,
     "topics": [
       "ai-agents",
@@ -13,15 +32,36 @@
       "workflow-automation"
     ],
     "created_at": "2025-10-20T05:51:27",
-    "updated_at": "2025-11-12T08:22:33"
+    "updated_at": "2025-11-12T12:36:37"
+  },
+  {
+    "name": "Awesome-Vibecoding-Guide",
+    "full_name": "Bob5k/Awesome-Vibecoding-Guide",
+    "description": "A compendium drawn from real commercial projects and hundreds of thousands of lines of AI‑assisted code. Read it end‑to‑end or feed this repo to your AI agent for summaries and Q&A. Stars and watches appreciated! ⭐",
+    "url": "https://github.com/Bob5k/Awesome-Vibecoding-Guide",
+    "stars": 72,
+    "daily_stars": 4,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "awesome",
+      "coding-standards",
+      "guide",
+      "vibe-coded",
+      "vibe-coding",
+      "vibecoder",
+      "vibecoding"
+    ],
+    "created_at": "2025-10-28T13:21:50",
+    "updated_at": "2025-11-12T12:27:19"
   },
   {
     "name": "FIBO",
     "full_name": "Bria-AI/FIBO",
     "description": "FIBO is a SOTA, first open-source, JSON-native text-to-image model built for controllable, predictable, and legally safe image generation.",
     "url": "https://github.com/Bria-AI/FIBO",
-    "stars": 236,
-    "daily_stars": 5,
+    "stars": 240,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -41,54 +81,33 @@
       "text-to-image"
     ],
     "created_at": "2025-10-26T12:26:27",
-    "updated_at": "2025-11-12T08:09:00"
+    "updated_at": "2025-11-12T12:59:52"
   },
   {
-    "name": "agentic-context-engine",
-    "full_name": "kayba-ai/agentic-context-engine",
-    "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
-    "url": "https://github.com/kayba-ai/agentic-context-engine",
-    "stars": 566,
-    "daily_stars": 4,
+    "name": "claude-scientific-writer",
+    "full_name": "K-Dense-AI/claude-scientific-writer",
+    "description": "A general purpose scientific writer",
+    "url": "https://github.com/K-Dense-AI/claude-scientific-writer",
+    "stars": 55,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "ai-agents",
-      "ai-tools",
-      "context-engineering",
-      "llm",
-      "python"
+      "anthropic",
+      "claude",
+      "skills",
+      "tools",
+      "writer"
     ],
-    "created_at": "2025-10-15T15:36:20",
-    "updated_at": "2025-11-12T08:30:41"
-  },
-  {
-    "name": "ai-agent-team",
-    "full_name": "peterfei/ai-agent-team",
-    "description": "AI Agent Team-拥有24/7专业AI开发团队：产品经理、前端开发、后端开发、测试工程师、DevOps工程师、技术负责人。一键安装，支持中英文命令，大幅提升开发效率！",
-    "url": "https://github.com/peterfei/ai-agent-team",
-    "stars": 30,
-    "daily_stars": 4,
-    "language": "JavaScript",
-    "topics": [
-      "24886",
-      "ai",
-      "ai-agents",
-      "claude-code",
-      "claude-code-skill",
-      "drawnotes",
-      "ide",
-      "notebook",
-      "skill"
-    ],
-    "created_at": "2025-11-07T15:22:33",
-    "updated_at": "2025-11-12T07:52:43"
+    "created_at": "2025-10-27T06:52:45",
+    "updated_at": "2025-11-12T13:09:04"
   },
   {
     "name": "agent-hill-climb-supervised",
     "full_name": "FahzainAhmad/agent-hill-climb-supervised",
     "description": "This project implements a supervised deep learning system that learns to autonomously control a vehicle in the Countryside level of Hill Climb Racing. Using computer vision and a convolutional neural network (CNN), the model observes raw gameplay frames and predicts the correct driving action in real time — mimicking human input.",
     "url": "https://github.com/FahzainAhmad/agent-hill-climb-supervised",
-    "stars": 50,
+    "stars": 53,
     "daily_stars": 3,
     "language": "Python",
     "topics": [
@@ -99,27 +118,56 @@
       "supervised-learning"
     ],
     "created_at": "2025-11-06T11:06:51",
-    "updated_at": "2025-11-12T07:29:09"
+    "updated_at": "2025-11-12T12:40:31"
   },
   {
-    "name": "OpenMemory",
-    "full_name": "CaviraOSS/OpenMemory",
-    "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
-    "url": "https://github.com/CaviraOSS/OpenMemory",
-    "stars": 1839,
+    "name": "station",
+    "full_name": "dualverse-ai/station",
+    "description": "The Station, an open-world multi-agent environment that models a miniature scientific ecosystem.",
+    "url": "https://github.com/dualverse-ai/station",
+    "stars": 17,
     "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [],
-    "created_at": "2025-10-19T16:12:49",
-    "updated_at": "2025-11-12T08:10:33"
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-agents-framework",
+      "ai-scientist",
+      "artificial-intelligence",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "open-world"
+    ],
+    "created_at": "2025-11-09T13:50:09",
+    "updated_at": "2025-11-12T11:37:53"
+  },
+  {
+    "name": "agentic-context-engine",
+    "full_name": "kayba-ai/agentic-context-engine",
+    "description": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.",
+    "url": "https://github.com/kayba-ai/agentic-context-engine",
+    "stars": 568,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "context-engineering",
+      "llm",
+      "python"
+    ],
+    "created_at": "2025-10-15T15:36:20",
+    "updated_at": "2025-11-12T10:37:37"
   },
   {
     "name": "ai-agents-from-scratch",
     "full_name": "pguso/ai-agents-from-scratch",
     "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
     "url": "https://github.com/pguso/ai-agents-from-scratch",
-    "stars": 1417,
-    "daily_stars": 2,
+    "stars": 1418,
+    "daily_stars": 1,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -132,71 +180,24 @@
       "tutorial"
     ],
     "created_at": "2025-10-23T19:39:04",
-    "updated_at": "2025-11-12T07:43:00"
+    "updated_at": "2025-11-12T11:23:42"
   },
   {
-    "name": "Awesome-Vibecoding-Guide",
-    "full_name": "Bob5k/Awesome-Vibecoding-Guide",
-    "description": "A compendium drawn from real commercial projects and hundreds of thousands of lines of AI‑assisted code. Read it end‑to‑end or feed this repo to your AI agent for summaries and Q&A. Stars and watches appreciated! ⭐",
-    "url": "https://github.com/Bob5k/Awesome-Vibecoding-Guide",
-    "stars": 68,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "awesome",
-      "coding-standards",
-      "guide",
-      "vibe-coded",
-      "vibe-coding",
-      "vibecoder",
-      "vibecoding"
-    ],
-    "created_at": "2025-10-28T13:21:50",
-    "updated_at": "2025-11-12T08:42:07"
-  },
-  {
-    "name": "mcp-gearbox",
-    "full_name": "rohitsoni007/mcp-gearbox",
-    "description": "A modern desktop application for managing Model Context Protocol (MCP) servers across multiple AI agents",
-    "url": "https://github.com/rohitsoni007/mcp-gearbox",
-    "stars": 28,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "claude-code",
-      "desktop-app",
-      "developer-tools",
-      "electron",
-      "kiro",
-      "mcp",
-      "mcp-servers",
-      "model-context-protocol",
-      "react",
-      "shadcn-ui",
-      "tailwindcss",
-      "typescript"
-    ],
-    "created_at": "2025-11-03T10:53:53",
-    "updated_at": "2025-11-12T07:26:09"
-  },
-  {
-    "name": "claude-code-voice-hooks",
-    "full_name": "shanraisshan/claude-code-voice-hooks",
-    "description": "adding voice to claude code - plays #ding 🔊 on PreToolUse and #dong 🔊 on PostToolUse #claudecode",
-    "url": "https://github.com/shanraisshan/claude-code-voice-hooks",
-    "stars": 7,
-    "daily_stars": 2,
+    "name": "freephdlabor",
+    "full_name": "ltjed/freephdlabor",
+    "description": "freephdlabor: customizing personalized research groups that works 24/7 on your own scientific problem",
+    "url": "https://github.com/ltjed/freephdlabor",
+    "stars": 304,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai-agents",
-      "claudecode",
-      "ding",
-      "dong"
+      "ai4science",
+      "autonomous-agents",
+      "multiagent-systems",
+      "research-automation"
     ],
-    "created_at": "2025-11-05T08:06:15",
-    "updated_at": "2025-11-12T06:51:50"
+    "created_at": "2025-10-20T01:59:07",
+    "updated_at": "2025-11-12T09:31:03"
   }
 ]
