@@ -4,8 +4,8 @@
     "full_name": "markmdev/meridian",
     "description": "Zero-config Claude Code setup with enforced task scaffolding, structured memory, persistent context after compaction, plug-in code standards, optional TDD mode, and zero behavior changes for developers.",
     "url": "https://github.com/markmdev/meridian",
-    "stars": 26,
-    "daily_stars": 13,
+    "stars": 36,
+    "daily_stars": 10,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -27,58 +27,15 @@
       "zero-config"
     ],
     "created_at": "2025-11-13T07:51:57",
-    "updated_at": "2025-11-14T16:16:42"
-  },
-  {
-    "name": "OpenMemory",
-    "full_name": "CaviraOSS/OpenMemory",
-    "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
-    "url": "https://github.com/CaviraOSS/OpenMemory",
-    "stars": 1864,
-    "daily_stars": 4,
-    "language": "TypeScript",
-    "topics": [],
-    "created_at": "2025-10-19T16:12:49",
-    "updated_at": "2025-11-14T15:36:18"
-  },
-  {
-    "name": "VieNeu-TTS",
-    "full_name": "pnnbao97/VieNeu-TTS",
-    "description": "Vietnamese Text-to-Speech ",
-    "url": "https://github.com/pnnbao97/VieNeu-TTS",
-    "stars": 71,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-10-28T14:07:23",
-    "updated_at": "2025-11-14T16:11:34"
-  },
-  {
-    "name": "build-apps",
-    "full_name": "DokiTeam/build-apps",
-    "description": "Doki APKs, built and distributed automatically by GitHub Actions",
-    "url": "https://github.com/DokiTeam/build-apps",
-    "stars": 96,
-    "daily_stars": 3,
-    "language": null,
-    "topics": [
-      "actions",
-      "automation",
-      "cd",
-      "ci",
-      "github",
-      "workflow"
-    ],
-    "created_at": "2025-11-06T20:26:11",
-    "updated_at": "2025-11-14T16:41:53"
+    "updated_at": "2025-11-14T19:52:23"
   },
   {
     "name": "mcp-checkpoint",
     "full_name": "aira-security/mcp-checkpoint",
     "description": "MCP Checkpoint continuously secures and monitors Model Context Protocol operations through static and dynamic scans, revealing hidden risks in agent-to-tool communications.",
     "url": "https://github.com/aira-security/mcp-checkpoint",
-    "stars": 54,
-    "daily_stars": 2,
+    "stars": 58,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -90,15 +47,15 @@
       "security"
     ],
     "created_at": "2025-11-07T21:35:56",
-    "updated_at": "2025-11-14T16:22:38"
+    "updated_at": "2025-11-14T20:06:36"
   },
   {
     "name": "DeepAgent_Food_Tour",
     "full_name": "muratcankoylan/DeepAgent_Food_Tour",
     "description": "Food tour planner using LangChain DeepAgents, Google Maps API, and Tavily research. Explore  multi-agent coordination patterns: task delegation via SubAgentMiddleware, planning with TodoListMiddleware",
     "url": "https://github.com/muratcankoylan/DeepAgent_Food_Tour",
-    "stars": 46,
-    "daily_stars": 2,
+    "stars": 50,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -108,33 +65,35 @@
       "nodejs"
     ],
     "created_at": "2025-11-05T05:51:54",
-    "updated_at": "2025-11-14T16:21:54"
+    "updated_at": "2025-11-14T20:14:32"
   },
   {
-    "name": "RecLib",
-    "full_name": "zerolovesea/RecLib",
-    "description": "A unified, efficient, and extensible PyTorch-based recommendation library",
-    "url": "https://github.com/zerolovesea/RecLib",
-    "stars": 19,
-    "daily_stars": 2,
-    "language": "Python",
+    "name": "pctx",
+    "full_name": "portofcontext/pctx",
+    "description": "The pctx framework replaces tool-calling with deterministically generated, type-safe code that runs in secure sandboxes.",
+    "url": "https://github.com/portofcontext/pctx",
+    "stars": 32,
+    "daily_stars": 4,
+    "language": "Rust",
     "topics": [
-      "ctr-prediction",
-      "deep-learning",
-      "pytorch",
-      "recomendation-system",
-      "recommendation-algorithms"
+      "ai-agents",
+      "api",
+      "framework",
+      "local-development",
+      "mcp",
+      "mcp-server",
+      "open-source"
     ],
-    "created_at": "2025-11-11T12:33:00",
-    "updated_at": "2025-11-14T15:29:34"
+    "created_at": "2025-11-04T16:54:23",
+    "updated_at": "2025-11-14T20:38:01"
   },
   {
     "name": "PyTorch-HighSierra-CUDA-Revival",
     "full_name": "careunix/PyTorch-HighSierra-CUDA-Revival",
     "description": "Revives the last functional CUDA deep-learning stack on macOS High Sierra. NVIDIA CUDA 10.2 + cuDNN 7.6.5 + PyTorch 1.7.0 fully working on GTX Pascal GPUs — a discontinued ecosystem resurrected.",
     "url": "https://github.com/careunix/PyTorch-HighSierra-CUDA-Revival",
-    "stars": 14,
-    "daily_stars": 2,
+    "stars": 17,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "cuda",
@@ -159,50 +118,111 @@
       "reverse-engineering"
     ],
     "created_at": "2025-11-14T00:03:07",
-    "updated_at": "2025-11-14T16:05:21"
+    "updated_at": "2025-11-14T20:24:16"
   },
   {
-    "name": "livewire-workflows",
-    "full_name": "pixelworxio/livewire-workflows",
-    "description": "Build multi-step workflows in Laravel / Livewire with zero boilerplate",
-    "url": "https://github.com/pixelworxio/livewire-workflows",
-    "stars": 54,
-    "daily_stars": 2,
-    "language": "PHP",
+    "name": "build-apps",
+    "full_name": "DokiTeam/build-apps",
+    "description": "Doki APKs, built and distributed automatically by GitHub Actions",
+    "url": "https://github.com/DokiTeam/build-apps",
+    "stars": 99,
+    "daily_stars": 3,
+    "language": null,
     "topics": [
-      "laravel",
-      "livewire",
-      "livewire-laravel",
-      "livewire-packages",
-      "livewire3",
-      "multi-step",
-      "multi-step-form",
-      "php",
-      "workflow",
-      "workflows"
+      "actions",
+      "automation",
+      "cd",
+      "ci",
+      "github",
+      "workflow"
     ],
-    "created_at": "2025-11-04T17:04:00",
-    "updated_at": "2025-11-14T15:27:01"
+    "created_at": "2025-11-06T20:26:11",
+    "updated_at": "2025-11-14T19:58:04"
   },
   {
-    "name": "ai-agents-from-scratch",
-    "full_name": "pguso/ai-agents-from-scratch",
-    "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
-    "url": "https://github.com/pguso/ai-agents-from-scratch",
-    "stars": 1427,
-    "daily_stars": 1,
-    "language": "JavaScript",
+    "name": "autonomous-agentic-rag",
+    "full_name": "FareedKhan-dev/autonomous-agentic-rag",
+    "description": "Self improving agentic rag pipeline",
+    "url": "https://github.com/FareedKhan-dev/autonomous-agentic-rag",
+    "stars": 5,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "artificial-intelligence",
+      "langchain",
+      "rag"
+    ],
+    "created_at": "2025-11-13T18:10:48",
+    "updated_at": "2025-11-14T20:26:34"
+  },
+  {
+    "name": "claude-skills-marketplace",
+    "full_name": "mhattingpete/claude-skills-marketplace",
+    "description": "Claude Code Skills for software engineering workflows - Git automation, testing, and code review",
+    "url": "https://github.com/mhattingpete/claude-skills-marketplace",
+    "stars": 77,
+    "daily_stars": 2,
+    "language": null,
     "topics": [
       "ai-agents",
-      "educational",
-      "function-calling",
-      "llm",
-      "llm-agent",
-      "node-llama-cpp",
-      "react-agent",
-      "tutorial"
+      "anthropic",
+      "automation",
+      "claude-code",
+      "claude-skills",
+      "developer-tools"
     ],
-    "created_at": "2025-10-23T19:39:04",
-    "updated_at": "2025-11-14T13:26:16"
+    "created_at": "2025-10-17T12:02:19",
+    "updated_at": "2025-11-14T20:35:48"
+  },
+  {
+    "name": "claude-code-pro",
+    "full_name": "maxritter/claude-code-pro",
+    "description": "Automated Dev Container, Spec-Driven Development, TDD, Semantic Search, Persistent Memory, and much more 🚀 ",
+    "url": "https://github.com/maxritter/claude-code-pro",
+    "stars": 71,
+    "daily_stars": 2,
+    "language": "Shell",
+    "topics": [
+      "ai-agents",
+      "ai-assistant",
+      "ai-coding",
+      "ai-engineering",
+      "ai-tools",
+      "anthropic",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claudecode",
+      "ide",
+      "mcp",
+      "memory-layer",
+      "model-context-protocol",
+      "software-development",
+      "software-engineering",
+      "spec-driven-development",
+      "visual-studio-code"
+    ],
+    "created_at": "2025-10-18T08:30:23",
+    "updated_at": "2025-11-14T20:10:41"
+  },
+  {
+    "name": "RecLib",
+    "full_name": "zerolovesea/RecLib",
+    "description": "A unified, efficient, and extensible PyTorch-based recommendation library",
+    "url": "https://github.com/zerolovesea/RecLib",
+    "stars": 21,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ctr-prediction",
+      "deep-learning",
+      "pytorch",
+      "recomendation-system",
+      "recommendation-algorithms"
+    ],
+    "created_at": "2025-11-11T12:33:00",
+    "updated_at": "2025-11-14T19:05:03"
   }
 ]
