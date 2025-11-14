@@ -1,23 +1,11 @@
 [
   {
-    "name": "sora2-api",
-    "full_name": "jun6ry/sora2-api",
-    "description": "A tool for generating videos using the Sora 2 API.",
-    "url": "https://github.com/jun6ry/sora2-api",
-    "stars": 129,
-    "daily_stars": 15,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-10-29T09:29:16",
-    "updated_at": "2025-11-14T12:12:47"
-  },
-  {
     "name": "meridian",
     "full_name": "markmdev/meridian",
     "description": "Zero-config Claude Code setup with enforced task scaffolding, structured memory, persistent context after compaction, plug-in code standards, optional TDD mode, and zero behavior changes for developers.",
     "url": "https://github.com/markmdev/meridian",
-    "stars": 13,
-    "daily_stars": 7,
+    "stars": 26,
+    "daily_stars": 13,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -39,15 +27,114 @@
       "zero-config"
     ],
     "created_at": "2025-11-13T07:51:57",
-    "updated_at": "2025-11-14T12:15:49"
+    "updated_at": "2025-11-14T16:16:42"
+  },
+  {
+    "name": "OpenMemory",
+    "full_name": "CaviraOSS/OpenMemory",
+    "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
+    "url": "https://github.com/CaviraOSS/OpenMemory",
+    "stars": 1864,
+    "daily_stars": 4,
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-10-19T16:12:49",
+    "updated_at": "2025-11-14T15:36:18"
+  },
+  {
+    "name": "VieNeu-TTS",
+    "full_name": "pnnbao97/VieNeu-TTS",
+    "description": "Vietnamese Text-to-Speech ",
+    "url": "https://github.com/pnnbao97/VieNeu-TTS",
+    "stars": 71,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-10-28T14:07:23",
+    "updated_at": "2025-11-14T16:11:34"
+  },
+  {
+    "name": "build-apps",
+    "full_name": "DokiTeam/build-apps",
+    "description": "Doki APKs, built and distributed automatically by GitHub Actions",
+    "url": "https://github.com/DokiTeam/build-apps",
+    "stars": 96,
+    "daily_stars": 3,
+    "language": null,
+    "topics": [
+      "actions",
+      "automation",
+      "cd",
+      "ci",
+      "github",
+      "workflow"
+    ],
+    "created_at": "2025-11-06T20:26:11",
+    "updated_at": "2025-11-14T16:41:53"
+  },
+  {
+    "name": "mcp-checkpoint",
+    "full_name": "aira-security/mcp-checkpoint",
+    "description": "MCP Checkpoint continuously secures and monitors Model Context Protocol operations through static and dynamic scans, revealing hidden risks in agent-to-tool communications.",
+    "url": "https://github.com/aira-security/mcp-checkpoint",
+    "stars": 54,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "aira",
+      "mcp",
+      "model-context-protocol",
+      "security"
+    ],
+    "created_at": "2025-11-07T21:35:56",
+    "updated_at": "2025-11-14T16:22:38"
+  },
+  {
+    "name": "DeepAgent_Food_Tour",
+    "full_name": "muratcankoylan/DeepAgent_Food_Tour",
+    "description": "Food tour planner using LangChain DeepAgents, Google Maps API, and Tavily research. Explore  multi-agent coordination patterns: task delegation via SubAgentMiddleware, planning with TodoListMiddleware",
+    "url": "https://github.com/muratcankoylan/DeepAgent_Food_Tour",
+    "stars": 46,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "deepagents",
+      "google-maps",
+      "langchain",
+      "nodejs"
+    ],
+    "created_at": "2025-11-05T05:51:54",
+    "updated_at": "2025-11-14T16:21:54"
+  },
+  {
+    "name": "RecLib",
+    "full_name": "zerolovesea/RecLib",
+    "description": "A unified, efficient, and extensible PyTorch-based recommendation library",
+    "url": "https://github.com/zerolovesea/RecLib",
+    "stars": 19,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ctr-prediction",
+      "deep-learning",
+      "pytorch",
+      "recomendation-system",
+      "recommendation-algorithms"
+    ],
+    "created_at": "2025-11-11T12:33:00",
+    "updated_at": "2025-11-14T15:29:34"
   },
   {
     "name": "PyTorch-HighSierra-CUDA-Revival",
     "full_name": "careunix/PyTorch-HighSierra-CUDA-Revival",
     "description": "Revives the last functional CUDA deep-learning stack on macOS High Sierra. NVIDIA CUDA 10.2 + cuDNN 7.6.5 + PyTorch 1.7.0 fully working on GTX Pascal GPUs — a discontinued ecosystem resurrected.",
     "url": "https://github.com/careunix/PyTorch-HighSierra-CUDA-Revival",
-    "stars": 12,
-    "daily_stars": 4,
+    "stars": 14,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "cuda",
@@ -72,137 +159,50 @@
       "reverse-engineering"
     ],
     "created_at": "2025-11-14T00:03:07",
-    "updated_at": "2025-11-14T12:30:20"
+    "updated_at": "2025-11-14T16:05:21"
   },
   {
-    "name": "build-apps",
-    "full_name": "DokiTeam/build-apps",
-    "description": "Doki APKs, built and distributed automatically by GitHub Actions",
-    "url": "https://github.com/DokiTeam/build-apps",
-    "stars": 93,
-    "daily_stars": 4,
-    "language": null,
-    "topics": [
-      "actions",
-      "automation",
-      "cd",
-      "ci",
-      "github",
-      "workflow"
-    ],
-    "created_at": "2025-11-06T20:26:11",
-    "updated_at": "2025-11-14T12:21:52"
-  },
-  {
-    "name": "5-Day-AI-Agents-Intensive-Course-with-Google",
-    "full_name": "sdivyanshu90/5-Day-AI-Agents-Intensive-Course-with-Google",
-    "description": null,
-    "url": "https://github.com/sdivyanshu90/5-Day-AI-Agents-Intensive-Course-with-Google",
-    "stars": 13,
+    "name": "livewire-workflows",
+    "full_name": "pixelworxio/livewire-workflows",
+    "description": "Build multi-step workflows in Laravel / Livewire with zero boilerplate",
+    "url": "https://github.com/pixelworxio/livewire-workflows",
+    "stars": 54,
     "daily_stars": 2,
-    "language": "Jupyter Notebook",
+    "language": "PHP",
+    "topics": [
+      "laravel",
+      "livewire",
+      "livewire-laravel",
+      "livewire-packages",
+      "livewire3",
+      "multi-step",
+      "multi-step-form",
+      "php",
+      "workflow",
+      "workflows"
+    ],
+    "created_at": "2025-11-04T17:04:00",
+    "updated_at": "2025-11-14T15:27:01"
+  },
+  {
+    "name": "ai-agents-from-scratch",
+    "full_name": "pguso/ai-agents-from-scratch",
+    "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
+    "url": "https://github.com/pguso/ai-agents-from-scratch",
+    "stars": 1427,
+    "daily_stars": 1,
+    "language": "JavaScript",
     "topics": [
       "ai-agents",
-      "google",
-      "kaggle",
-      "mcp"
+      "educational",
+      "function-calling",
+      "llm",
+      "llm-agent",
+      "node-llama-cpp",
+      "react-agent",
+      "tutorial"
     ],
-    "created_at": "2025-11-11T06:12:37",
-    "updated_at": "2025-11-14T10:59:00"
-  },
-  {
-    "name": "agent-hill-climb-supervised",
-    "full_name": "FahzainAhmad/agent-hill-climb-supervised",
-    "description": "This project implements a supervised deep learning system that learns to autonomously control a vehicle in the Countryside level of Hill Climb Racing. Using computer vision and a convolutional neural network (CNN), the model observes raw gameplay frames and predicts the correct driving action in real time — mimicking human input.",
-    "url": "https://github.com/FahzainAhmad/agent-hill-climb-supervised",
-    "stars": 62,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "classification",
-      "computer-vision",
-      "machine-learning",
-      "opencv",
-      "supervised-learning"
-    ],
-    "created_at": "2025-11-06T11:06:51",
-    "updated_at": "2025-11-14T12:38:03"
-  },
-  {
-    "name": "Kani-TTS-Vie",
-    "full_name": "pnnbao97/Kani-TTS-Vie",
-    "description": "Fast Vietnamese TTS. 370M params, 3-second inference.",
-    "url": "https://github.com/pnnbao97/Kani-TTS-Vie",
-    "stars": 28,
-    "daily_stars": 2,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "deep-learning",
-      "huggingface",
-      "realtime-ml",
-      "text-to-speech",
-      "tts",
-      "vietnamese"
-    ],
-    "created_at": "2025-11-10T13:45:55",
-    "updated_at": "2025-11-14T12:28:12"
-  },
-  {
-    "name": "RecLib",
-    "full_name": "zerolovesea/RecLib",
-    "description": "A unified, efficient, and extensible PyTorch-based recommendation library",
-    "url": "https://github.com/zerolovesea/RecLib",
-    "stars": 17,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "ctr-prediction",
-      "deep-learning",
-      "pytorch",
-      "recomendation-system",
-      "recommendation-algorithms"
-    ],
-    "created_at": "2025-11-11T12:33:00",
-    "updated_at": "2025-11-14T11:53:09"
-  },
-  {
-    "name": "OpenMemory",
-    "full_name": "CaviraOSS/OpenMemory",
-    "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
-    "url": "https://github.com/CaviraOSS/OpenMemory",
-    "stars": 1860,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [],
-    "created_at": "2025-10-19T16:12:49",
-    "updated_at": "2025-11-14T10:04:49"
-  },
-  {
-    "name": "deepnote-toolkit",
-    "full_name": "deepnote/deepnote-toolkit",
-    "description": "Essential Python toolkit for Deepnote environments",
-    "url": "https://github.com/deepnote/deepnote-toolkit",
-    "stars": 14,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "data",
-      "data-analysis",
-      "data-science",
-      "data-visualization",
-      "deepnote",
-      "eda",
-      "jupyter",
-      "jupyterhub",
-      "jupyterlab",
-      "machine-learning",
-      "notebooks",
-      "python",
-      "r",
-      "sql"
-    ],
-    "created_at": "2025-10-30T16:51:48",
-    "updated_at": "2025-11-14T10:01:34"
+    "created_at": "2025-10-23T19:39:04",
+    "updated_at": "2025-11-14T13:26:16"
   }
 ]
