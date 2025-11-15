@@ -4,8 +4,8 @@
     "full_name": "universal-tool-calling-protocol/code-mode",
     "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
     "url": "https://github.com/universal-tool-calling-protocol/code-mode",
-    "stars": 168,
-    "daily_stars": 48,
+    "stars": 213,
+    "daily_stars": 45,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -16,27 +16,27 @@
       "utcp"
     ],
     "created_at": "2025-11-11T09:35:44",
-    "updated_at": "2025-11-15T12:59:11"
+    "updated_at": "2025-11-15T16:42:09"
   },
   {
     "name": "sora2-api",
     "full_name": "jun6ry/sora2-api",
     "description": "A tool for generating videos using the Sora 2 API.",
     "url": "https://github.com/jun6ry/sora2-api",
-    "stars": 177,
-    "daily_stars": 9,
+    "stars": 185,
+    "daily_stars": 8,
     "language": "Python",
     "topics": [],
     "created_at": "2025-10-29T09:29:16",
-    "updated_at": "2025-11-15T12:46:18"
+    "updated_at": "2025-11-15T14:18:40"
   },
   {
     "name": "meridian",
     "full_name": "markmdev/meridian",
     "description": "Zero-config Claude Code setup with enforced task scaffolding, structured memory, persistent context after compaction, plug-in code standards, optional TDD mode, and zero behavior changes for developers.",
     "url": "https://github.com/markmdev/meridian",
-    "stars": 52,
-    "daily_stars": 4,
+    "stars": 57,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -58,65 +58,89 @@
       "zero-config"
     ],
     "created_at": "2025-11-13T07:51:57",
-    "updated_at": "2025-11-15T12:41:01"
+    "updated_at": "2025-11-15T16:31:53"
   },
   {
-    "name": "OpenMemory",
-    "full_name": "CaviraOSS/OpenMemory",
-    "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
-    "url": "https://github.com/CaviraOSS/OpenMemory",
-    "stars": 1874,
+    "name": "Units_of_Measure_Harmonization-intelligence-platform",
+    "full_name": "JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform",
+    "description": "   Production-Grade ML System for Automated Unit of Measure Error Detection | 88-92% Accuracy | 94% Autonomy | KNIME Workflow",
+    "url": "https://github.com/JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform",
+    "stars": 314,
     "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [],
-    "created_at": "2025-10-19T16:12:49",
-    "updated_at": "2025-11-15T12:11:33"
-  },
-  {
-    "name": "pctx",
-    "full_name": "portofcontext/pctx",
-    "description": "The pctx framework replaces tool-calling with deterministically generated, type-safe code that runs in secure sandboxes.",
-    "url": "https://github.com/portofcontext/pctx",
-    "stars": 35,
-    "daily_stars": 3,
-    "language": "Rust",
+    "language": "PowerShell",
     "topics": [
-      "ai-agents",
-      "api",
-      "framework",
-      "local-development",
-      "mcp",
-      "mcp-server",
-      "open-source"
+      "artificial-intelligence",
+      "automation",
+      "data-cleaning",
+      "data-quality",
+      "knime",
+      "machine-learning",
+      "manufacturing",
+      "supply-chain"
     ],
-    "created_at": "2025-11-04T16:54:23",
-    "updated_at": "2025-11-15T11:06:46"
+    "created_at": "2025-10-20T20:10:32",
+    "updated_at": "2025-11-15T14:16:46"
   },
   {
-    "name": "build-apps",
-    "full_name": "DokiTeam/build-apps",
-    "description": "Doki APKs, built and distributed automatically by GitHub Actions",
-    "url": "https://github.com/DokiTeam/build-apps",
-    "stars": 110,
+    "name": "RL-100",
+    "full_name": "lucidrains/RL-100",
+    "description": "Implementation of RL-100, Performant Robotic Manipulation with Real-World Reinforcement Learning",
+    "url": "https://github.com/lucidrains/RL-100",
+    "stars": 9,
     "daily_stars": 3,
     "language": null,
     "topics": [
-      "actions",
-      "automation",
-      "cd",
-      "ci",
-      "github",
-      "workflow"
+      "artificial-intelligence",
+      "deep-learning",
+      "reinforcement-learning",
+      "robotics"
     ],
-    "created_at": "2025-11-06T20:26:11",
-    "updated_at": "2025-11-15T10:17:58"
+    "created_at": "2025-11-15T03:01:03",
+    "updated_at": "2025-11-15T15:51:47"
+  },
+  {
+    "name": "5-Day-AI-Agents-Intensive-Course-with-Google",
+    "full_name": "sdivyanshu90/5-Day-AI-Agents-Intensive-Course-with-Google",
+    "description": null,
+    "url": "https://github.com/sdivyanshu90/5-Day-AI-Agents-Intensive-Course-with-Google",
+    "stars": 20,
+    "daily_stars": 3,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "ai-agents",
+      "google",
+      "kaggle",
+      "mcp"
+    ],
+    "created_at": "2025-11-11T06:12:37",
+    "updated_at": "2025-11-15T14:35:22"
+  },
+  {
+    "name": "mcp-checkpoint",
+    "full_name": "aira-security/mcp-checkpoint",
+    "description": "MCP Checkpoint continuously secures and monitors Model Context Protocol operations through static and dynamic scans, revealing hidden risks in agent-to-tool communications.",
+    "url": "https://github.com/aira-security/mcp-checkpoint",
+    "stars": 65,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "aira",
+      "mcp",
+      "model-context-protocol",
+      "security"
+    ],
+    "created_at": "2025-11-07T21:35:56",
+    "updated_at": "2025-11-15T16:03:12"
   },
   {
     "name": "RecLib",
     "full_name": "zerolovesea/RecLib",
     "description": "A unified, efficient, and extensible PyTorch-based recommendation library",
     "url": "https://github.com/zerolovesea/RecLib",
-    "stars": 32,
+    "stars": 34,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
@@ -127,78 +151,37 @@
       "recommendation-algorithms"
     ],
     "created_at": "2025-11-11T12:33:00",
-    "updated_at": "2025-11-15T11:18:38"
+    "updated_at": "2025-11-15T14:54:43"
   },
   {
-    "name": "Kani-TTS-Vie",
-    "full_name": "pnnbao97/Kani-TTS-Vie",
-    "description": "Fast Vietnamese TTS. 370M params, 3-second inference.",
-    "url": "https://github.com/pnnbao97/Kani-TTS-Vie",
-    "stars": 30,
+    "name": "build-apps",
+    "full_name": "DokiTeam/build-apps",
+    "description": "Doki APKs, built and distributed automatically by GitHub Actions",
+    "url": "https://github.com/DokiTeam/build-apps",
+    "stars": 112,
     "daily_stars": 2,
-    "language": "Jupyter Notebook",
+    "language": null,
     "topics": [
-      "deep-learning",
-      "huggingface",
-      "realtime-ml",
-      "text-to-speech",
-      "tts",
-      "vietnamese"
+      "actions",
+      "automation",
+      "cd",
+      "ci",
+      "github",
+      "workflow"
     ],
-    "created_at": "2025-11-10T13:45:55",
-    "updated_at": "2025-11-15T10:49:16"
+    "created_at": "2025-11-06T20:26:11",
+    "updated_at": "2025-11-15T16:28:14"
   },
   {
-    "name": "station",
-    "full_name": "dualverse-ai/station",
-    "description": "The Station, an open-world multi-agent environment that models a miniature scientific ecosystem.",
-    "url": "https://github.com/dualverse-ai/station",
-    "stars": 33,
+    "name": "OpenMemory",
+    "full_name": "CaviraOSS/OpenMemory",
+    "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
+    "url": "https://github.com/CaviraOSS/OpenMemory",
+    "stars": 1875,
     "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "ai-agents-framework",
-      "ai-scientist",
-      "artificial-intelligence",
-      "large-language-models",
-      "llm",
-      "machine-learning",
-      "open-world"
-    ],
-    "created_at": "2025-11-09T13:50:09",
-    "updated_at": "2025-11-15T12:37:35"
-  },
-  {
-    "name": "firefox-annoyances",
-    "full_name": "Tiagoquix/firefox-annoyances",
-    "description": "Quick user.js customization to disable annoyances introduced by Mozilla in Firefox",
-    "url": "https://github.com/Tiagoquix/firefox-annoyances",
-    "stars": 7,
-    "daily_stars": 1,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "annoyance",
-      "annoyances",
-      "artificial-intelligence",
-      "artificialintelligence",
-      "browser",
-      "browsers",
-      "disable",
-      "firefox",
-      "firefox-browser",
-      "firefox-tweaks",
-      "gecko",
-      "machine-learning",
-      "machinelearning",
-      "remove",
-      "tweak",
-      "tweaks"
-    ],
-    "created_at": "2025-10-27T21:52:44",
-    "updated_at": "2025-11-15T10:08:23"
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-10-19T16:12:49",
+    "updated_at": "2025-11-15T14:20:54"
   }
 ]
