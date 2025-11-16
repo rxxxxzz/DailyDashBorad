@@ -4,8 +4,8 @@
     "full_name": "universal-tool-calling-protocol/code-mode",
     "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
     "url": "https://github.com/universal-tool-calling-protocol/code-mode",
-    "stars": 244,
-    "daily_stars": 31,
+    "stars": 296,
+    "daily_stars": 52,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -16,15 +16,42 @@
       "utcp"
     ],
     "created_at": "2025-11-11T09:35:44",
-    "updated_at": "2025-11-15T20:12:38"
+    "updated_at": "2025-11-16T02:21:09"
+  },
+  {
+    "name": "RAG-Boilerplate",
+    "full_name": "mburaksayici/RAG-Boilerplate",
+    "description": "RAG boilerplate with semantic/propositional chunking, hybrid search (BM25 + dense), LLM reranking, query enhancement agents, CrewAI orchestration, Qdrant vector search, Redis/Mongo sessioning, Celery ingestion pipeline, Gradio UI, and an evaluation suite (Hit-Rate, MRR, hybrid configs).",
+    "url": "https://github.com/mburaksayici/RAG-Boilerplate",
+    "stars": 11,
+    "daily_stars": 8,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "crewai",
+      "hybrid-search",
+      "llm",
+      "propositional-models",
+      "qdrant",
+      "query-enhancement",
+      "rag",
+      "rag-evaluation",
+      "rag-pipeline",
+      "reranking",
+      "retrieval-augmented-generation",
+      "semantic-chunking",
+      "vector-database"
+    ],
+    "created_at": "2025-10-30T09:41:14",
+    "updated_at": "2025-11-16T01:25:00"
   },
   {
     "name": "build-apps",
     "full_name": "DokiTeam/build-apps",
     "description": "Doki APKs, built and distributed automatically by GitHub Actions",
     "url": "https://github.com/DokiTeam/build-apps",
-    "stars": 117,
-    "daily_stars": 5,
+    "stars": 125,
+    "daily_stars": 8,
     "language": null,
     "topics": [
       "actions",
@@ -35,32 +62,15 @@
       "workflow"
     ],
     "created_at": "2025-11-06T20:26:11",
-    "updated_at": "2025-11-15T20:36:34"
-  },
-  {
-    "name": "RL-100",
-    "full_name": "lucidrains/RL-100",
-    "description": "Implementation of RL-100, Performant Robotic Manipulation with Real-World Reinforcement Learning",
-    "url": "https://github.com/lucidrains/RL-100",
-    "stars": 13,
-    "daily_stars": 4,
-    "language": null,
-    "topics": [
-      "artificial-intelligence",
-      "deep-learning",
-      "reinforcement-learning",
-      "robotics"
-    ],
-    "created_at": "2025-11-15T03:01:03",
-    "updated_at": "2025-11-15T20:05:01"
+    "updated_at": "2025-11-16T02:14:19"
   },
   {
     "name": "autonomous-agentic-rag",
     "full_name": "FareedKhan-dev/autonomous-agentic-rag",
     "description": "Self improving agentic rag pipeline",
     "url": "https://github.com/FareedKhan-dev/autonomous-agentic-rag",
-    "stars": 12,
-    "daily_stars": 3,
+    "stars": 17,
+    "daily_stars": 5,
     "language": "Jupyter Notebook",
     "topics": [
       "agentic-ai",
@@ -70,33 +80,15 @@
       "rag"
     ],
     "created_at": "2025-11-13T18:10:48",
-    "updated_at": "2025-11-15T20:03:21"
-  },
-  {
-    "name": "RecLib",
-    "full_name": "zerolovesea/RecLib",
-    "description": "A unified, efficient, and extensible PyTorch-based recommendation library",
-    "url": "https://github.com/zerolovesea/RecLib",
-    "stars": 37,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "ctr-prediction",
-      "deep-learning",
-      "pytorch",
-      "recomendation-system",
-      "recommendation-algorithms"
-    ],
-    "created_at": "2025-11-11T12:33:00",
-    "updated_at": "2025-11-15T20:18:29"
+    "updated_at": "2025-11-16T02:07:09"
   },
   {
     "name": "ai-agents-from-scratch",
     "full_name": "pguso/ai-agents-from-scratch",
     "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
     "url": "https://github.com/pguso/ai-agents-from-scratch",
-    "stars": 1429,
-    "daily_stars": 2,
+    "stars": 1433,
+    "daily_stars": 4,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -109,69 +101,15 @@
       "tutorial"
     ],
     "created_at": "2025-10-23T19:39:04",
-    "updated_at": "2025-11-15T20:23:31"
-  },
-  {
-    "name": "claude-code-skill-factory",
-    "full_name": "alirezarezvani/claude-code-skill-factory",
-    "description": "A comprehensive toolkit for generating production-ready Claude Skills and Claude Code Agents at scale.",
-    "url": "https://github.com/alirezarezvani/claude-code-skill-factory",
-    "stars": 99,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "claude-ai",
-      "claude-code",
-      "claude-skills",
-      "claude-skills-creator"
-    ],
-    "created_at": "2025-10-21T15:20:47",
-    "updated_at": "2025-11-15T19:45:00"
-  },
-  {
-    "name": "OpenMemory",
-    "full_name": "CaviraOSS/OpenMemory",
-    "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
-    "url": "https://github.com/CaviraOSS/OpenMemory",
-    "stars": 1876,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [],
-    "created_at": "2025-10-19T16:12:49",
-    "updated_at": "2025-11-15T19:50:11"
-  },
-  {
-    "name": "station",
-    "full_name": "dualverse-ai/station",
-    "description": "The Station, an open-world multi-agent environment that models a miniature scientific ecosystem.",
-    "url": "https://github.com/dualverse-ai/station",
-    "stars": 34,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "ai-agents-framework",
-      "ai-scientist",
-      "artificial-intelligence",
-      "large-language-models",
-      "llm",
-      "machine-learning",
-      "open-world"
-    ],
-    "created_at": "2025-11-09T13:50:09",
-    "updated_at": "2025-11-15T18:17:27"
+    "updated_at": "2025-11-16T01:39:32"
   },
   {
     "name": "n8n-skills",
     "full_name": "czlonkowski/n8n-skills",
     "description": "n8n skillset for Claude Code to build flawless n8n workflows",
     "url": "https://github.com/czlonkowski/n8n-skills",
-    "stars": 138,
-    "daily_stars": 1,
+    "stars": 142,
+    "daily_stars": 4,
     "language": null,
     "topics": [
       "ai-agents",
@@ -179,6 +117,93 @@
       "workflow-automation"
     ],
     "created_at": "2025-10-20T05:51:27",
-    "updated_at": "2025-11-15T19:47:48"
+    "updated_at": "2025-11-16T02:21:25"
+  },
+  {
+    "name": "Awesome-Vibecoding-Guide",
+    "full_name": "Bob5k/Awesome-Vibecoding-Guide",
+    "description": "A compendium drawn from real commercial projects and hundreds of thousands of lines of AI‑assisted code. Read it end‑to‑end or feed this repo to your AI agent for summaries and Q&A. Stars and watches appreciated! ⭐",
+    "url": "https://github.com/Bob5k/Awesome-Vibecoding-Guide",
+    "stars": 122,
+    "daily_stars": 4,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "awesome",
+      "coding-standards",
+      "guide",
+      "vibe-coded",
+      "vibe-coding",
+      "vibecoder",
+      "vibecoding"
+    ],
+    "created_at": "2025-10-28T13:21:50",
+    "updated_at": "2025-11-16T01:49:20"
+  },
+  {
+    "name": "pctx",
+    "full_name": "portofcontext/pctx",
+    "description": "The pctx framework replaces tool-calling with deterministically generated, type-safe code that runs in secure sandboxes.",
+    "url": "https://github.com/portofcontext/pctx",
+    "stars": 39,
+    "daily_stars": 3,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "api",
+      "framework",
+      "local-development",
+      "mcp",
+      "mcp-server",
+      "open-source"
+    ],
+    "created_at": "2025-11-04T16:54:23",
+    "updated_at": "2025-11-16T01:08:15"
+  },
+  {
+    "name": "FIBO",
+    "full_name": "Bria-AI/FIBO",
+    "description": "FIBO is a SOTA, first open-source, JSON-native text-to-image model built for controllable, predictable, and legally safe image generation.",
+    "url": "https://github.com/Bria-AI/FIBO",
+    "stars": 256,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "controlable-image-generation",
+      "creative-ai",
+      "deep-learning",
+      "enterprise-ready",
+      "ethical-ai",
+      "image-generation",
+      "image-generation-ai",
+      "licensed-data",
+      "responsible-ai",
+      "safe-ai",
+      "smollm3",
+      "sota",
+      "text-to-image"
+    ],
+    "created_at": "2025-10-26T12:26:27",
+    "updated_at": "2025-11-16T00:49:03"
+  },
+  {
+    "name": "RecLib",
+    "full_name": "zerolovesea/RecLib",
+    "description": "A unified, efficient, and extensible PyTorch-based recommendation library",
+    "url": "https://github.com/zerolovesea/RecLib",
+    "stars": 40,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "ctr-prediction",
+      "deep-learning",
+      "pytorch",
+      "recomendation-system",
+      "recommendation-algorithms"
+    ],
+    "created_at": "2025-11-11T12:33:00",
+    "updated_at": "2025-11-16T01:42:28"
   }
 ]
