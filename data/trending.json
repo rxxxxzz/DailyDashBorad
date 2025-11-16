@@ -4,8 +4,8 @@
     "full_name": "universal-tool-calling-protocol/code-mode",
     "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
     "url": "https://github.com/universal-tool-calling-protocol/code-mode",
-    "stars": 516,
-    "daily_stars": 75,
+    "stars": 574,
+    "daily_stars": 58,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -16,36 +16,48 @@
       "utcp"
     ],
     "created_at": "2025-11-11T09:35:44",
-    "updated_at": "2025-11-16T16:39:15"
+    "updated_at": "2025-11-16T20:39:58"
   },
   {
-    "name": "Units_of_Measure_Harmonization-intelligence-platform",
-    "full_name": "JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform",
-    "description": "   Production-Grade ML System for Automated Unit of Measure Error Detection | 88-92% Accuracy | 94% Autonomy | KNIME Workflow",
-    "url": "https://github.com/JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform",
-    "stars": 327,
-    "daily_stars": 13,
-    "language": "PowerShell",
+    "name": "agent-scripts",
+    "full_name": "steipete/agent-scripts",
+    "description": "Scripts for agents, shared between my repositories.",
+    "url": "https://github.com/steipete/agent-scripts",
+    "stars": 194,
+    "daily_stars": 7,
+    "language": "TypeScript",
     "topics": [
-      "artificial-intelligence",
-      "automation",
-      "data-cleaning",
-      "data-quality",
-      "knime",
-      "machine-learning",
-      "manufacturing",
-      "supply-chain"
+      "ai-agents"
     ],
-    "created_at": "2025-10-20T20:10:32",
-    "updated_at": "2025-11-16T16:27:22"
+    "created_at": "2025-11-08T02:55:55",
+    "updated_at": "2025-11-16T20:13:09"
+  },
+  {
+    "name": "build-apps",
+    "full_name": "DokiTeam/build-apps",
+    "description": "Doki APKs, built and distributed automatically by GitHub Actions",
+    "url": "https://github.com/DokiTeam/build-apps",
+    "stars": 137,
+    "daily_stars": 6,
+    "language": null,
+    "topics": [
+      "actions",
+      "automation",
+      "cd",
+      "ci",
+      "github",
+      "workflow"
+    ],
+    "created_at": "2025-11-06T20:26:11",
+    "updated_at": "2025-11-16T20:25:31"
   },
   {
     "name": "autonomous-agentic-rag",
     "full_name": "FareedKhan-dev/autonomous-agentic-rag",
     "description": "Self improving agentic rag pipeline",
     "url": "https://github.com/FareedKhan-dev/autonomous-agentic-rag",
-    "stars": 34,
-    "daily_stars": 6,
+    "stars": 36,
+    "daily_stars": 2,
     "language": "Jupyter Notebook",
     "topics": [
       "agentic-ai",
@@ -55,40 +67,14 @@
       "rag"
     ],
     "created_at": "2025-11-13T18:10:48",
-    "updated_at": "2025-11-16T15:25:52"
-  },
-  {
-    "name": "sora2-api",
-    "full_name": "jun6ry/sora2-api",
-    "description": "A tool for generating videos using the Sora 2 API.",
-    "url": "https://github.com/jun6ry/sora2-api",
-    "stars": 193,
-    "daily_stars": 5,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-10-29T09:29:16",
-    "updated_at": "2025-11-16T14:50:19"
-  },
-  {
-    "name": "agent-scripts",
-    "full_name": "steipete/agent-scripts",
-    "description": "Scripts for agents, shared between my repositories.",
-    "url": "https://github.com/steipete/agent-scripts",
-    "stars": 187,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents"
-    ],
-    "created_at": "2025-11-08T02:55:55",
-    "updated_at": "2025-11-16T16:35:09"
+    "updated_at": "2025-11-16T18:06:55"
   },
   {
     "name": "ai-agents-from-scratch",
     "full_name": "pguso/ai-agents-from-scratch",
     "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
     "url": "https://github.com/pguso/ai-agents-from-scratch",
-    "stars": 1444,
+    "stars": 1446,
     "daily_stars": 2,
     "language": "JavaScript",
     "topics": [
@@ -102,36 +88,103 @@
       "tutorial"
     ],
     "created_at": "2025-10-23T19:39:04",
-    "updated_at": "2025-11-16T15:46:17"
+    "updated_at": "2025-11-16T19:04:30"
   },
   {
-    "name": "Awesome-Vibecoding-Guide",
-    "full_name": "Bob5k/Awesome-Vibecoding-Guide",
-    "description": "A compendium drawn from real commercial projects and hundreds of thousands of lines of AI‑assisted code. Read it end‑to‑end or feed this repo to your AI agent for summaries and Q&A. Stars and watches appreciated! ⭐",
-    "url": "https://github.com/Bob5k/Awesome-Vibecoding-Guide",
-    "stars": 128,
+    "name": "RAG-Boilerplate",
+    "full_name": "mburaksayici/RAG-Boilerplate",
+    "description": "RAG boilerplate with semantic/propositional chunking, hybrid search (BM25 + dense), LLM reranking, query enhancement agents, CrewAI orchestration, Qdrant vector search, Redis/Mongo sessioning, Celery ingestion pipeline, Gradio UI, and an evaluation suite (Hit-Rate, MRR, hybrid configs).",
+    "url": "https://github.com/mburaksayici/RAG-Boilerplate",
+    "stars": 28,
     "daily_stars": 2,
-    "language": null,
+    "language": "Python",
     "topics": [
       "ai-agents",
-      "awesome",
-      "coding-standards",
-      "guide",
-      "vibe-coded",
-      "vibe-coding",
-      "vibecoder",
-      "vibecoding"
+      "crewai",
+      "hybrid-search",
+      "llm",
+      "propositional-models",
+      "qdrant",
+      "query-enhancement",
+      "rag",
+      "rag-evaluation",
+      "rag-pipeline",
+      "reranking",
+      "retrieval-augmented-generation",
+      "semantic-chunking",
+      "vector-database"
     ],
-    "created_at": "2025-10-28T13:21:50",
-    "updated_at": "2025-11-16T15:38:26"
+    "created_at": "2025-10-30T09:41:14",
+    "updated_at": "2025-11-16T20:20:33"
+  },
+  {
+    "name": "RecLib",
+    "full_name": "zerolovesea/RecLib",
+    "description": "A unified, efficient, and extensible PyTorch-based recommendation library",
+    "url": "https://github.com/zerolovesea/RecLib",
+    "stars": 50,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ctr-prediction",
+      "deep-learning",
+      "pytorch",
+      "recomendation-system",
+      "recommendation-algorithms"
+    ],
+    "created_at": "2025-11-11T12:33:00",
+    "updated_at": "2025-11-16T19:42:09"
+  },
+  {
+    "name": "x-evolution",
+    "full_name": "lucidrains/x-evolution",
+    "description": "Implementation of various evolutionary algorithms, starting with evolutionary strategies",
+    "url": "https://github.com/lucidrains/x-evolution",
+    "stars": 24,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "evolution",
+      "evolutionary-algorithms"
+    ],
+    "created_at": "2025-11-09T14:37:30",
+    "updated_at": "2025-11-16T17:56:52"
+  },
+  {
+    "name": "CIEL-Omega-General-Quantum-Consciousness",
+    "full_name": "AdrianLipa90/CIEL-Omega-General-Quantum-Consciousness",
+    "description": "CIEL-Omega AGI with Ethical and Conscious Core: Resonant Entity (ResEnt) made out of geometry and information based on Intention Lab's Framework of Reality",
+    "url": "https://github.com/AdrianLipa90/CIEL-Omega-General-Quantum-Consciousness",
+    "stars": 2,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "algebraic-topology",
+      "artificial-intelligence",
+      "conscious-ai",
+      "consciousness-research",
+      "ethical-artificial-intelligence",
+      "ethics-by-design",
+      "ethics-in-ai",
+      "ethics-in-technology",
+      "ethics-resources",
+      "lie-groups",
+      "quantum-algorithms",
+      "quantum-computing",
+      "quantum-teleportation",
+      "relativistic-hydrodynamics"
+    ],
+    "created_at": "2025-11-12T23:00:15",
+    "updated_at": "2025-11-16T20:34:00"
   },
   {
     "name": "claude-code-skill-factory",
     "full_name": "alirezarezvani/claude-code-skill-factory",
     "description": "A comprehensive toolkit for generating production-ready Claude Skills and Claude Code Agents at scale.",
     "url": "https://github.com/alirezarezvani/claude-code-skill-factory",
-    "stars": 104,
-    "daily_stars": 2,
+    "stars": 105,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -142,40 +195,6 @@
       "claude-skills-creator"
     ],
     "created_at": "2025-10-21T15:20:47",
-    "updated_at": "2025-11-16T16:07:36"
-  },
-  {
-    "name": "deep-thinking-rag",
-    "full_name": "FareedKhan-dev/deep-thinking-rag",
-    "description": "A Deep Thinking RAG Pipeline to Solve Complex Queries ",
-    "url": "https://github.com/FareedKhan-dev/deep-thinking-rag",
-    "stars": 85,
-    "daily_stars": 2,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "ai-agents",
-      "llm",
-      "llms",
-      "rag"
-    ],
-    "created_at": "2025-10-19T12:48:26",
-    "updated_at": "2025-11-16T16:08:45"
-  },
-  {
-    "name": "lean-spec",
-    "full_name": "codervisor/lean-spec",
-    "description": "Lightweight, flexible Spec-Driven Development (SDD) for modern AI-powered development",
-    "url": "https://github.com/codervisor/lean-spec",
-    "stars": 35,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "project-management",
-      "spec-driven-development"
-    ],
-    "created_at": "2025-10-31T08:59:00",
-    "updated_at": "2025-11-16T16:03:25"
+    "updated_at": "2025-11-16T17:40:17"
   }
 ]
