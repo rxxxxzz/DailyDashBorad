@@ -4,8 +4,8 @@
     "full_name": "universal-tool-calling-protocol/code-mode",
     "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
     "url": "https://github.com/universal-tool-calling-protocol/code-mode",
-    "stars": 668,
-    "daily_stars": 28,
+    "stars": 697,
+    "daily_stars": 29,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -16,107 +16,89 @@
       "utcp"
     ],
     "created_at": "2025-11-11T09:35:44",
-    "updated_at": "2025-11-17T08:44:11"
+    "updated_at": "2025-11-17T12:59:13"
   },
   {
     "name": "agent-scripts",
     "full_name": "steipete/agent-scripts",
     "description": "Scripts for agents, shared between my repositories.",
     "url": "https://github.com/steipete/agent-scripts",
-    "stars": 207,
-    "daily_stars": 4,
+    "stars": 217,
+    "daily_stars": 10,
     "language": "TypeScript",
     "topics": [
       "ai-agents"
     ],
     "created_at": "2025-11-08T02:55:55",
-    "updated_at": "2025-11-17T08:10:09"
+    "updated_at": "2025-11-17T12:50:23"
   },
   {
-    "name": "RAG-Boilerplate",
-    "full_name": "mburaksayici/RAG-Boilerplate",
-    "description": "RAG boilerplate with semantic/propositional chunking, hybrid search (BM25 + dense), LLM reranking, query enhancement agents, CrewAI orchestration, Qdrant vector search, Redis/Mongo sessioning, Celery ingestion pipeline, Gradio UI, and an evaluation suite (Hit-Rate, MRR, hybrid configs).",
-    "url": "https://github.com/mburaksayici/RAG-Boilerplate",
-    "stars": 35,
+    "name": "free-aiml-learning",
+    "full_name": "rahulkolekardev/free-aiml-learning",
+    "description": "Free AI/ML learning. Code-first courses, labs, and projects plus books, docs, and datasets. Beginner to advanced. Community curated.",
+    "url": "https://github.com/rahulkolekardev/free-aiml-learning",
+    "stars": 7,
     "daily_stars": 4,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "crewai",
-      "hybrid-search",
-      "llm",
-      "propositional-models",
-      "qdrant",
-      "query-enhancement",
-      "rag",
-      "rag-evaluation",
-      "rag-pipeline",
-      "reranking",
-      "retrieval-augmented-generation",
-      "semantic-chunking",
-      "vector-database"
-    ],
-    "created_at": "2025-10-30T09:41:14",
-    "updated_at": "2025-11-17T08:11:59"
-  },
-  {
-    "name": "Awesome-Vibecoding-Guide",
-    "full_name": "Bob5k/Awesome-Vibecoding-Guide",
-    "description": "A compendium drawn from real commercial projects and hundreds of thousands of lines of AI‑assisted code. Read it end‑to‑end or feed this repo to your AI agent for summaries and Q&A. Stars and watches appreciated! ⭐",
-    "url": "https://github.com/Bob5k/Awesome-Vibecoding-Guide",
-    "stars": 133,
-    "daily_stars": 3,
     "language": null,
     "topics": [
-      "ai-agents",
-      "awesome",
-      "coding-standards",
-      "guide",
-      "vibe-coded",
-      "vibe-coding",
-      "vibecoder",
-      "vibecoding"
+      "ai",
+      "artificial-intelligence",
+      "computer-vision",
+      "deep-learning",
+      "education",
+      "machine-learning",
+      "neural-network",
+      "nlp",
+      "python",
+      "reinforcement-learning"
     ],
-    "created_at": "2025-10-28T13:21:50",
-    "updated_at": "2025-11-17T07:57:44"
+    "created_at": "2025-11-01T10:15:44",
+    "updated_at": "2025-11-17T11:46:20"
   },
   {
-    "name": "OpenMemory",
-    "full_name": "CaviraOSS/OpenMemory",
-    "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
-    "url": "https://github.com/CaviraOSS/OpenMemory",
-    "stars": 1891,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [],
-    "created_at": "2025-10-19T16:12:49",
-    "updated_at": "2025-11-17T06:35:03"
-  },
-  {
-    "name": "claude-code-skill-factory",
-    "full_name": "alirezarezvani/claude-code-skill-factory",
-    "description": "A comprehensive toolkit for generating production-ready Claude Skills and Claude Code Agents at scale.",
-    "url": "https://github.com/alirezarezvani/claude-code-skill-factory",
-    "stars": 109,
-    "daily_stars": 2,
-    "language": "Python",
+    "name": "pctx",
+    "full_name": "portofcontext/pctx",
+    "description": "The pctx framework replaces tool-calling with deterministically generated, type-safe code that runs in secure sandboxes.",
+    "url": "https://github.com/portofcontext/pctx",
+    "stars": 50,
+    "daily_stars": 3,
+    "language": "Rust",
     "topics": [
       "ai-agents",
-      "ai-tools",
-      "claude-ai",
-      "claude-code",
-      "claude-skills",
-      "claude-skills-creator"
+      "api",
+      "framework",
+      "local-development",
+      "mcp",
+      "mcp-server",
+      "open-source"
     ],
-    "created_at": "2025-10-21T15:20:47",
-    "updated_at": "2025-11-17T07:12:13"
+    "created_at": "2025-11-04T16:54:23",
+    "updated_at": "2025-11-17T11:42:10"
+  },
+  {
+    "name": "autonomous-agentic-rag",
+    "full_name": "FareedKhan-dev/autonomous-agentic-rag",
+    "description": "Self improving agentic rag pipeline",
+    "url": "https://github.com/FareedKhan-dev/autonomous-agentic-rag",
+    "stars": 42,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "artificial-intelligence",
+      "langchain",
+      "rag"
+    ],
+    "created_at": "2025-11-13T18:10:48",
+    "updated_at": "2025-11-17T11:09:18"
   },
   {
     "name": "meridian",
     "full_name": "markmdev/meridian",
     "description": "Zero-config Claude Code setup with enforced task scaffolding, structured memory, persistent context after compaction, plug-in code standards, optional TDD mode, and zero behavior changes for developers.",
     "url": "https://github.com/markmdev/meridian",
-    "stars": 61,
+    "stars": 63,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
@@ -139,14 +121,69 @@
       "zero-config"
     ],
     "created_at": "2025-11-13T07:51:57",
-    "updated_at": "2025-11-17T06:35:58"
+    "updated_at": "2025-11-17T09:36:05"
+  },
+  {
+    "name": "RAG-Boilerplate",
+    "full_name": "mburaksayici/RAG-Boilerplate",
+    "description": "RAG boilerplate with semantic/propositional chunking, hybrid search (BM25 + dense), LLM reranking, query enhancement agents, CrewAI orchestration, Qdrant vector search, Redis/Mongo sessioning, Celery ingestion pipeline, Gradio UI, and an evaluation suite (Hit-Rate, MRR, hybrid configs).",
+    "url": "https://github.com/mburaksayici/RAG-Boilerplate",
+    "stars": 37,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "crewai",
+      "hybrid-search",
+      "llm",
+      "propositional-models",
+      "qdrant",
+      "query-enhancement",
+      "rag",
+      "rag-evaluation",
+      "rag-pipeline",
+      "reranking",
+      "retrieval-augmented-generation",
+      "semantic-chunking",
+      "vector-database"
+    ],
+    "created_at": "2025-10-30T09:41:14",
+    "updated_at": "2025-11-17T10:34:19"
+  },
+  {
+    "name": "FIBO",
+    "full_name": "Bria-AI/FIBO",
+    "description": "FIBO is a SOTA, first open-source, JSON-native text-to-image model built for controllable, predictable, and legally safe image generation.",
+    "url": "https://github.com/Bria-AI/FIBO",
+    "stars": 259,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "controlable-image-generation",
+      "creative-ai",
+      "deep-learning",
+      "enterprise-ready",
+      "ethical-ai",
+      "image-generation",
+      "image-generation-ai",
+      "licensed-data",
+      "responsible-ai",
+      "safe-ai",
+      "smollm3",
+      "sota",
+      "text-to-image"
+    ],
+    "created_at": "2025-10-26T12:26:27",
+    "updated_at": "2025-11-17T12:40:11"
   },
   {
     "name": "RecLib",
     "full_name": "zerolovesea/RecLib",
     "description": "A unified, efficient, and extensible PyTorch-based recommendation library",
     "url": "https://github.com/zerolovesea/RecLib",
-    "stars": 57,
+    "stars": 59,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
@@ -157,37 +194,18 @@
       "recommendation-algorithms"
     ],
     "created_at": "2025-11-11T12:33:00",
-    "updated_at": "2025-11-17T08:18:41"
+    "updated_at": "2025-11-17T11:54:05"
   },
   {
-    "name": "build-apps",
-    "full_name": "DokiTeam/build-apps",
-    "description": "Doki APKs, built and distributed automatically by GitHub Actions",
-    "url": "https://github.com/DokiTeam/build-apps",
-    "stars": 144,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "actions",
-      "automation",
-      "cd",
-      "ci",
-      "github",
-      "workflow"
-    ],
-    "created_at": "2025-11-06T20:26:11",
-    "updated_at": "2025-11-17T06:10:20"
-  },
-  {
-    "name": "sora2-api",
-    "full_name": "jun6ry/sora2-api",
-    "description": "A tool for generating videos using the Sora 2 API.",
-    "url": "https://github.com/jun6ry/sora2-api",
-    "stars": 194,
+    "name": "OpenMemory",
+    "full_name": "CaviraOSS/OpenMemory",
+    "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
+    "url": "https://github.com/CaviraOSS/OpenMemory",
+    "stars": 1892,
     "daily_stars": 1,
-    "language": "Python",
+    "language": "TypeScript",
     "topics": [],
-    "created_at": "2025-10-29T09:29:16",
-    "updated_at": "2025-11-17T07:19:51"
+    "created_at": "2025-10-19T16:12:49",
+    "updated_at": "2025-11-17T12:08:39"
   }
 ]
