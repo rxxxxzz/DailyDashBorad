@@ -4,7 +4,7 @@
     "full_name": "universal-tool-calling-protocol/code-mode",
     "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
     "url": "https://github.com/universal-tool-calling-protocol/code-mode",
-    "stars": 574,
+    "stars": 632,
     "daily_stars": 58,
     "language": "TypeScript",
     "topics": [
@@ -16,66 +16,58 @@
       "utcp"
     ],
     "created_at": "2025-11-11T09:35:44",
-    "updated_at": "2025-11-16T20:39:58"
+    "updated_at": "2025-11-17T02:18:35"
   },
   {
     "name": "agent-scripts",
     "full_name": "steipete/agent-scripts",
     "description": "Scripts for agents, shared between my repositories.",
     "url": "https://github.com/steipete/agent-scripts",
-    "stars": 194,
-    "daily_stars": 7,
+    "stars": 202,
+    "daily_stars": 8,
     "language": "TypeScript",
     "topics": [
       "ai-agents"
     ],
     "created_at": "2025-11-08T02:55:55",
-    "updated_at": "2025-11-16T20:13:09"
+    "updated_at": "2025-11-17T01:37:23"
   },
   {
-    "name": "build-apps",
-    "full_name": "DokiTeam/build-apps",
-    "description": "Doki APKs, built and distributed automatically by GitHub Actions",
-    "url": "https://github.com/DokiTeam/build-apps",
-    "stars": 137,
+    "name": "RL-100",
+    "full_name": "lucidrains/RL-100",
+    "description": "Implementation of RL-100, Performant Robotic Manipulation with Real-World Reinforcement Learning",
+    "url": "https://github.com/lucidrains/RL-100",
+    "stars": 24,
     "daily_stars": 6,
     "language": null,
     "topics": [
-      "actions",
-      "automation",
-      "cd",
-      "ci",
-      "github",
-      "workflow"
+      "artificial-intelligence",
+      "deep-learning",
+      "reinforcement-learning",
+      "robotics"
     ],
-    "created_at": "2025-11-06T20:26:11",
-    "updated_at": "2025-11-16T20:25:31"
+    "created_at": "2025-11-15T03:01:03",
+    "updated_at": "2025-11-17T02:11:48"
   },
   {
-    "name": "autonomous-agentic-rag",
-    "full_name": "FareedKhan-dev/autonomous-agentic-rag",
-    "description": "Self improving agentic rag pipeline",
-    "url": "https://github.com/FareedKhan-dev/autonomous-agentic-rag",
-    "stars": 36,
-    "daily_stars": 2,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "agentic-ai",
-      "ai",
-      "artificial-intelligence",
-      "langchain",
-      "rag"
-    ],
-    "created_at": "2025-11-13T18:10:48",
-    "updated_at": "2025-11-16T18:06:55"
+    "name": "OpenMemory",
+    "full_name": "CaviraOSS/OpenMemory",
+    "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
+    "url": "https://github.com/CaviraOSS/OpenMemory",
+    "stars": 1889,
+    "daily_stars": 5,
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-10-19T16:12:49",
+    "updated_at": "2025-11-17T02:15:07"
   },
   {
     "name": "ai-agents-from-scratch",
     "full_name": "pguso/ai-agents-from-scratch",
     "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
     "url": "https://github.com/pguso/ai-agents-from-scratch",
-    "stars": 1446,
-    "daily_stars": 2,
+    "stars": 1450,
+    "daily_stars": 4,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -88,15 +80,32 @@
       "tutorial"
     ],
     "created_at": "2025-10-23T19:39:04",
-    "updated_at": "2025-11-16T19:04:30"
+    "updated_at": "2025-11-17T01:26:56"
+  },
+  {
+    "name": "5-Day-AI-Agents-Intensive-Course-with-Google",
+    "full_name": "sdivyanshu90/5-Day-AI-Agents-Intensive-Course-with-Google",
+    "description": null,
+    "url": "https://github.com/sdivyanshu90/5-Day-AI-Agents-Intensive-Course-with-Google",
+    "stars": 33,
+    "daily_stars": 4,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "ai-agents",
+      "google",
+      "kaggle",
+      "mcp"
+    ],
+    "created_at": "2025-11-11T06:12:37",
+    "updated_at": "2025-11-17T01:08:17"
   },
   {
     "name": "RAG-Boilerplate",
     "full_name": "mburaksayici/RAG-Boilerplate",
     "description": "RAG boilerplate with semantic/propositional chunking, hybrid search (BM25 + dense), LLM reranking, query enhancement agents, CrewAI orchestration, Qdrant vector search, Redis/Mongo sessioning, Celery ingestion pipeline, Gradio UI, and an evaluation suite (Hit-Rate, MRR, hybrid configs).",
     "url": "https://github.com/mburaksayici/RAG-Boilerplate",
-    "stars": 28,
-    "daily_stars": 2,
+    "stars": 31,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -115,15 +124,15 @@
       "vector-database"
     ],
     "created_at": "2025-10-30T09:41:14",
-    "updated_at": "2025-11-16T20:20:33"
+    "updated_at": "2025-11-17T01:45:52"
   },
   {
     "name": "RecLib",
     "full_name": "zerolovesea/RecLib",
     "description": "A unified, efficient, and extensible PyTorch-based recommendation library",
     "url": "https://github.com/zerolovesea/RecLib",
-    "stars": 50,
-    "daily_stars": 2,
+    "stars": 53,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "ctr-prediction",
@@ -133,68 +142,45 @@
       "recommendation-algorithms"
     ],
     "created_at": "2025-11-11T12:33:00",
-    "updated_at": "2025-11-16T19:42:09"
+    "updated_at": "2025-11-17T01:06:33"
   },
   {
-    "name": "x-evolution",
-    "full_name": "lucidrains/x-evolution",
-    "description": "Implementation of various evolutionary algorithms, starting with evolutionary strategies",
-    "url": "https://github.com/lucidrains/x-evolution",
-    "stars": 24,
-    "daily_stars": 1,
-    "language": "Python",
+    "name": "build-apps",
+    "full_name": "DokiTeam/build-apps",
+    "description": "Doki APKs, built and distributed automatically by GitHub Actions",
+    "url": "https://github.com/DokiTeam/build-apps",
+    "stars": 140,
+    "daily_stars": 3,
+    "language": null,
     "topics": [
+      "actions",
+      "automation",
+      "cd",
+      "ci",
+      "github",
+      "workflow"
+    ],
+    "created_at": "2025-11-06T20:26:11",
+    "updated_at": "2025-11-17T01:05:50"
+  },
+  {
+    "name": "PolyAgora",
+    "full_name": "Takeshi-Sakamoto5/PolyAgora",
+    "description": "Six-agent conversational architecture with dynamic reasoning, conflict cycles, and emergent dialogue.",
+    "url": "https://github.com/Takeshi-Sakamoto5/PolyAgora",
+    "stars": 3,
+    "daily_stars": 2,
+    "language": null,
+    "topics": [
+      "ai-philosophy",
       "artificial-intelligence",
-      "evolution",
-      "evolutionary-algorithms"
+      "conversational-ai",
+      "gpt-5",
+      "multi-agent",
+      "natural-language",
+      "os"
     ],
-    "created_at": "2025-11-09T14:37:30",
-    "updated_at": "2025-11-16T17:56:52"
-  },
-  {
-    "name": "CIEL-Omega-General-Quantum-Consciousness",
-    "full_name": "AdrianLipa90/CIEL-Omega-General-Quantum-Consciousness",
-    "description": "CIEL-Omega AGI with Ethical and Conscious Core: Resonant Entity (ResEnt) made out of geometry and information based on Intention Lab's Framework of Reality",
-    "url": "https://github.com/AdrianLipa90/CIEL-Omega-General-Quantum-Consciousness",
-    "stars": 2,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "algebraic-topology",
-      "artificial-intelligence",
-      "conscious-ai",
-      "consciousness-research",
-      "ethical-artificial-intelligence",
-      "ethics-by-design",
-      "ethics-in-ai",
-      "ethics-in-technology",
-      "ethics-resources",
-      "lie-groups",
-      "quantum-algorithms",
-      "quantum-computing",
-      "quantum-teleportation",
-      "relativistic-hydrodynamics"
-    ],
-    "created_at": "2025-11-12T23:00:15",
-    "updated_at": "2025-11-16T20:34:00"
-  },
-  {
-    "name": "claude-code-skill-factory",
-    "full_name": "alirezarezvani/claude-code-skill-factory",
-    "description": "A comprehensive toolkit for generating production-ready Claude Skills and Claude Code Agents at scale.",
-    "url": "https://github.com/alirezarezvani/claude-code-skill-factory",
-    "stars": 105,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "claude-ai",
-      "claude-code",
-      "claude-skills",
-      "claude-skills-creator"
-    ],
-    "created_at": "2025-10-21T15:20:47",
-    "updated_at": "2025-11-16T17:40:17"
+    "created_at": "2025-11-16T11:35:41",
+    "updated_at": "2025-11-17T01:19:10"
   }
 ]
