@@ -1,10 +1,26 @@
 [
   {
+    "name": "karpathy",
+    "full_name": "K-Dense-AI/karpathy",
+    "description": "An agentic Machine Learning Engineer",
+    "url": "https://github.com/K-Dense-AI/karpathy",
+    "stars": 205,
+    "daily_stars": 68,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "automl",
+      "machine-learning"
+    ],
+    "created_at": "2025-11-16T22:39:26",
+    "updated_at": "2025-11-18T13:05:15"
+  },
+  {
     "name": "continuous-claude",
     "full_name": "AnandChowdhary/continuous-claude",
     "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
     "url": "https://github.com/AnandChowdhary/continuous-claude",
-    "stars": 252,
+    "stars": 308,
     "daily_stars": 56,
     "language": "Shell",
     "topics": [
@@ -15,30 +31,14 @@
       "continuous-ai"
     ],
     "created_at": "2025-11-15T08:59:04",
-    "updated_at": "2025-11-18T08:48:55"
-  },
-  {
-    "name": "karpathy",
-    "full_name": "K-Dense-AI/karpathy",
-    "description": "An agentic Machine Learning Engineer",
-    "url": "https://github.com/K-Dense-AI/karpathy",
-    "stars": 137,
-    "daily_stars": 42,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "automl",
-      "machine-learning"
-    ],
-    "created_at": "2025-11-16T22:39:26",
-    "updated_at": "2025-11-18T08:46:17"
+    "updated_at": "2025-11-18T13:00:46"
   },
   {
     "name": "code-mode",
     "full_name": "universal-tool-calling-protocol/code-mode",
     "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
     "url": "https://github.com/universal-tool-calling-protocol/code-mode",
-    "stars": 801,
+    "stars": 812,
     "daily_stars": 11,
     "language": "TypeScript",
     "topics": [
@@ -50,36 +50,53 @@
       "utcp"
     ],
     "created_at": "2025-11-11T09:35:44",
-    "updated_at": "2025-11-18T08:31:20"
+    "updated_at": "2025-11-18T13:05:07"
   },
   {
-    "name": "Units_of_Measure_Harmonization-intelligence-platform",
-    "full_name": "JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform",
-    "description": "   Production-Grade ML System for Automated Unit of Measure Error Detection | 88-92% Accuracy | 94% Autonomy | KNIME Workflow",
-    "url": "https://github.com/JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform",
-    "stars": 344,
-    "daily_stars": 9,
-    "language": "PowerShell",
+    "name": "mcp-checkpoint",
+    "full_name": "aira-security/mcp-checkpoint",
+    "description": "MCP Checkpoint continuously secures and monitors Model Context Protocol operations through static and dynamic scans, revealing hidden risks in agent-to-tool communications.",
+    "url": "https://github.com/aira-security/mcp-checkpoint",
+    "stars": 72,
+    "daily_stars": 3,
+    "language": "Python",
     "topics": [
-      "artificial-intelligence",
-      "automation",
-      "data-cleaning",
-      "data-quality",
-      "knime",
-      "machine-learning",
-      "manufacturing",
-      "supply-chain"
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "aira",
+      "mcp",
+      "model-context-protocol",
+      "security"
     ],
-    "created_at": "2025-10-20T20:10:32",
-    "updated_at": "2025-11-18T07:19:05"
+    "created_at": "2025-11-07T21:35:56",
+    "updated_at": "2025-11-18T12:56:40"
+  },
+  {
+    "name": "DeepAgent_Food_Tour",
+    "full_name": "muratcankoylan/DeepAgent_Food_Tour",
+    "description": "Food tour planner using LangChain DeepAgents, Google Maps API, and Tavily research. Explore  multi-agent coordination patterns: task delegation via SubAgentMiddleware, planning with TodoListMiddleware",
+    "url": "https://github.com/muratcankoylan/DeepAgent_Food_Tour",
+    "stars": 65,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "deepagents",
+      "google-maps",
+      "langchain",
+      "nodejs"
+    ],
+    "created_at": "2025-11-05T05:51:54",
+    "updated_at": "2025-11-18T11:34:34"
   },
   {
     "name": "SAG",
     "full_name": "Zleap-AI/SAG",
     "description": "SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying",
     "url": "https://github.com/Zleap-AI/SAG",
-    "stars": 58,
-    "daily_stars": 5,
+    "stars": 61,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "ai",
@@ -99,47 +116,14 @@
       "vector-search"
     ],
     "created_at": "2025-11-07T07:33:35",
-    "updated_at": "2025-11-18T07:04:53"
-  },
-  {
-    "name": "ai-agents-from-scratch",
-    "full_name": "pguso/ai-agents-from-scratch",
-    "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
-    "url": "https://github.com/pguso/ai-agents-from-scratch",
-    "stars": 1460,
-    "daily_stars": 3,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "educational",
-      "function-calling",
-      "llm",
-      "llm-agent",
-      "node-llama-cpp",
-      "react-agent",
-      "tutorial"
-    ],
-    "created_at": "2025-10-23T19:39:04",
-    "updated_at": "2025-11-18T07:50:27"
-  },
-  {
-    "name": "VieNeu-TTS",
-    "full_name": "pnnbao97/VieNeu-TTS",
-    "description": "Vietnamese Text-to-Speech ",
-    "url": "https://github.com/pnnbao97/VieNeu-TTS",
-    "stars": 81,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-10-28T14:07:23",
-    "updated_at": "2025-11-18T08:01:39"
+    "updated_at": "2025-11-18T11:17:24"
   },
   {
     "name": "build-apps",
     "full_name": "DokiTeam/build-apps",
     "description": "Doki APKs, built and distributed automatically by GitHub Actions",
     "url": "https://github.com/DokiTeam/build-apps",
-    "stars": 152,
+    "stars": 155,
     "daily_stars": 3,
     "language": null,
     "topics": [
@@ -151,37 +135,63 @@
       "workflow"
     ],
     "created_at": "2025-11-06T20:26:11",
-    "updated_at": "2025-11-18T08:48:44"
+    "updated_at": "2025-11-18T13:07:33"
   },
   {
-    "name": "agent-scripts",
-    "full_name": "steipete/agent-scripts",
-    "description": "Scripts for agents, shared between my repositories.",
-    "url": "https://github.com/steipete/agent-scripts",
-    "stars": 230,
+    "name": "claude-code-skill-factory",
+    "full_name": "alirezarezvani/claude-code-skill-factory",
+    "description": "A comprehensive toolkit for generating production-ready Claude Skills and Claude Code Agents at scale.",
+    "url": "https://github.com/alirezarezvani/claude-code-skill-factory",
+    "stars": 116,
     "daily_stars": 2,
-    "language": "TypeScript",
+    "language": "Python",
     "topics": [
-      "ai-agents"
-    ],
-    "created_at": "2025-11-08T02:55:55",
-    "updated_at": "2025-11-18T08:21:50"
-  },
-  {
-    "name": "lean-spec",
-    "full_name": "codervisor/lean-spec",
-    "description": "Lightweight, flexible Spec-Driven Development (SDD) for modern AI-powered development",
-    "url": "https://github.com/codervisor/lean-spec",
-    "stars": 44,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
       "ai-agents",
-      "project-management",
-      "spec-driven-development"
+      "ai-tools",
+      "claude-ai",
+      "claude-code",
+      "claude-skills",
+      "claude-skills-creator"
     ],
-    "created_at": "2025-10-31T08:59:00",
-    "updated_at": "2025-11-18T08:00:52"
+    "created_at": "2025-10-21T15:20:47",
+    "updated_at": "2025-11-18T10:08:03"
+  },
+  {
+    "name": "5-Day-AI-Agents-Intensive-Course-with-Google",
+    "full_name": "sdivyanshu90/5-Day-AI-Agents-Intensive-Course-with-Google",
+    "description": null,
+    "url": "https://github.com/sdivyanshu90/5-Day-AI-Agents-Intensive-Course-with-Google",
+    "stars": 42,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "ai-agents",
+      "google",
+      "kaggle",
+      "mcp"
+    ],
+    "created_at": "2025-11-11T06:12:37",
+    "updated_at": "2025-11-18T11:14:49"
+  },
+  {
+    "name": "Units_of_Measure_Harmonization-intelligence-platform",
+    "full_name": "JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform",
+    "description": "   Production-Grade ML System for Automated Unit of Measure Error Detection | 88-92% Accuracy | 94% Autonomy | KNIME Workflow",
+    "url": "https://github.com/JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform",
+    "stars": 345,
+    "daily_stars": 1,
+    "language": "PowerShell",
+    "topics": [
+      "artificial-intelligence",
+      "automation",
+      "data-cleaning",
+      "data-quality",
+      "knime",
+      "machine-learning",
+      "manufacturing",
+      "supply-chain"
+    ],
+    "created_at": "2025-10-20T20:10:32",
+    "updated_at": "2025-11-18T11:55:01"
   }
 ]
