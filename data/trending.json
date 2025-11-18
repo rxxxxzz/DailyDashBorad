@@ -4,8 +4,8 @@
     "full_name": "AnandChowdhary/continuous-claude",
     "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
     "url": "https://github.com/AnandChowdhary/continuous-claude",
-    "stars": 154,
-    "daily_stars": 124,
+    "stars": 196,
+    "daily_stars": 42,
     "language": "Shell",
     "topics": [
       "ai",
@@ -15,15 +15,15 @@
       "continuous-ai"
     ],
     "created_at": "2025-11-15T08:59:04",
-    "updated_at": "2025-11-18T02:16:25"
+    "updated_at": "2025-11-18T04:38:37"
   },
   {
     "name": "karpathy",
     "full_name": "K-Dense-AI/karpathy",
     "description": "An agentic Machine Learning Engineer",
     "url": "https://github.com/K-Dense-AI/karpathy",
-    "stars": 64,
-    "daily_stars": 41,
+    "stars": 95,
+    "daily_stars": 31,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -31,15 +31,15 @@
       "machine-learning"
     ],
     "created_at": "2025-11-16T22:39:26",
-    "updated_at": "2025-11-18T02:12:52"
+    "updated_at": "2025-11-18T04:31:55"
   },
   {
     "name": "code-mode",
     "full_name": "universal-tool-calling-protocol/code-mode",
     "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
     "url": "https://github.com/universal-tool-calling-protocol/code-mode",
-    "stars": 778,
-    "daily_stars": 21,
+    "stars": 790,
+    "daily_stars": 12,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -50,32 +50,118 @@
       "utcp"
     ],
     "created_at": "2025-11-11T09:35:44",
-    "updated_at": "2025-11-18T02:10:03"
+    "updated_at": "2025-11-18T04:32:16"
   },
   {
-    "name": "5-Day-AI-Agents-Intensive-Course-with-Google",
-    "full_name": "sdivyanshu90/5-Day-AI-Agents-Intensive-Course-with-Google",
-    "description": null,
-    "url": "https://github.com/sdivyanshu90/5-Day-AI-Agents-Intensive-Course-with-Google",
+    "name": "SAG",
+    "full_name": "Zleap-AI/SAG",
+    "description": "SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying",
+    "url": "https://github.com/Zleap-AI/SAG",
+    "stars": 53,
+    "daily_stars": 5,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "data-engineering",
+      "fastapi",
+      "graphrag",
+      "information-retrieval",
+      "knowledge-base",
+      "knowledge-graph",
+      "knowledge-graphs",
+      "llm",
+      "machine-learning",
+      "nextjs",
+      "python",
+      "rag",
+      "retrieval-augmented-generation",
+      "vector-search"
+    ],
+    "created_at": "2025-11-07T07:33:35",
+    "updated_at": "2025-11-18T03:50:12"
+  },
+  {
+    "name": "lean-spec",
+    "full_name": "codervisor/lean-spec",
+    "description": "Lightweight, flexible Spec-Driven Development (SDD) for modern AI-powered development",
+    "url": "https://github.com/codervisor/lean-spec",
+    "stars": 42,
+    "daily_stars": 3,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "project-management",
+      "spec-driven-development"
+    ],
+    "created_at": "2025-10-31T08:59:00",
+    "updated_at": "2025-11-18T03:51:02"
+  },
+  {
+    "name": "station",
+    "full_name": "dualverse-ai/station",
+    "description": "The Station, an open-world multi-agent environment that models a miniature scientific ecosystem.",
+    "url": "https://github.com/dualverse-ai/station",
     "stars": 39,
-    "daily_stars": 4,
-    "language": "Jupyter Notebook",
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-agents-framework",
+      "ai-scientist",
+      "artificial-intelligence",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "open-world"
+    ],
+    "created_at": "2025-11-09T13:50:09",
+    "updated_at": "2025-11-18T03:44:15"
+  },
+  {
+    "name": "ai-agents-from-scratch",
+    "full_name": "pguso/ai-agents-from-scratch",
+    "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
+    "url": "https://github.com/pguso/ai-agents-from-scratch",
+    "stars": 1457,
+    "daily_stars": 2,
+    "language": "JavaScript",
     "topics": [
       "ai-agents",
-      "google",
-      "kaggle",
-      "mcp"
+      "educational",
+      "function-calling",
+      "llm",
+      "llm-agent",
+      "node-llama-cpp",
+      "react-agent",
+      "tutorial"
     ],
-    "created_at": "2025-11-11T06:12:37",
-    "updated_at": "2025-11-18T01:37:48"
+    "created_at": "2025-10-23T19:39:04",
+    "updated_at": "2025-11-18T03:46:47"
+  },
+  {
+    "name": "agent-scripts",
+    "full_name": "steipete/agent-scripts",
+    "description": "Scripts for agents, shared between my repositories.",
+    "url": "https://github.com/steipete/agent-scripts",
+    "stars": 228,
+    "daily_stars": 2,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents"
+    ],
+    "created_at": "2025-11-08T02:55:55",
+    "updated_at": "2025-11-18T04:14:08"
   },
   {
     "name": "meridian",
     "full_name": "markmdev/meridian",
     "description": "Zero-config Claude Code setup with enforced task scaffolding, structured memory, persistent context after compaction, plug-in code standards, optional TDD mode, and zero behavior changes for developers.",
     "url": "https://github.com/markmdev/meridian",
-    "stars": 73,
-    "daily_stars": 3,
+    "stars": 75,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -97,108 +183,24 @@
       "zero-config"
     ],
     "created_at": "2025-11-13T07:51:57",
-    "updated_at": "2025-11-17T22:03:37"
+    "updated_at": "2025-11-18T02:28:56"
   },
   {
-    "name": "RecLib",
-    "full_name": "zerolovesea/RecLib",
-    "description": "A unified, efficient, and extensible PyTorch-based recommendation library",
-    "url": "https://github.com/zerolovesea/RecLib",
-    "stars": 66,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "ctr-prediction",
-      "deep-learning",
-      "pytorch",
-      "recomendation-system",
-      "recommendation-algorithms"
-    ],
-    "created_at": "2025-11-11T12:33:00",
-    "updated_at": "2025-11-18T00:31:22"
-  },
-  {
-    "name": "ai-agents-from-scratch",
-    "full_name": "pguso/ai-agents-from-scratch",
-    "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
-    "url": "https://github.com/pguso/ai-agents-from-scratch",
-    "stars": 1455,
-    "daily_stars": 2,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "educational",
-      "function-calling",
-      "llm",
-      "llm-agent",
-      "node-llama-cpp",
-      "react-agent",
-      "tutorial"
-    ],
-    "created_at": "2025-10-23T19:39:04",
-    "updated_at": "2025-11-17T23:08:02"
-  },
-  {
-    "name": "claude-code-skill-factory",
-    "full_name": "alirezarezvani/claude-code-skill-factory",
-    "description": "A comprehensive toolkit for generating production-ready Claude Skills and Claude Code Agents at scale.",
-    "url": "https://github.com/alirezarezvani/claude-code-skill-factory",
-    "stars": 114,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "claude-ai",
-      "claude-code",
-      "claude-skills",
-      "claude-skills-creator"
-    ],
-    "created_at": "2025-10-21T15:20:47",
-    "updated_at": "2025-11-17T21:55:28"
-  },
-  {
-    "name": "RAG-Boilerplate",
-    "full_name": "mburaksayici/RAG-Boilerplate",
-    "description": "RAG boilerplate with semantic/propositional chunking, hybrid search (BM25 + dense), LLM reranking, query enhancement agents, CrewAI orchestration, Qdrant vector search, Redis/Mongo sessioning, Celery ingestion pipeline, Gradio UI, and an evaluation suite (Hit-Rate, MRR, hybrid configs).",
-    "url": "https://github.com/mburaksayici/RAG-Boilerplate",
-    "stars": 42,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "crewai",
-      "hybrid-search",
-      "llm",
-      "propositional-models",
-      "qdrant",
-      "query-enhancement",
-      "rag",
-      "rag-evaluation",
-      "rag-pipeline",
-      "reranking",
-      "retrieval-augmented-generation",
-      "semantic-chunking",
-      "vector-database"
-    ],
-    "created_at": "2025-10-30T09:41:14",
-    "updated_at": "2025-11-18T01:07:33"
-  },
-  {
-    "name": "5-Day-AI-Agents-Intensive-Course-with-Google",
-    "full_name": "anxiong2025/5-Day-AI-Agents-Intensive-Course-with-Google",
-    "description": "谷歌5天AI Agents强化课程",
-    "url": "https://github.com/anxiong2025/5-Day-AI-Agents-Intensive-Course-with-Google",
-    "stars": 5,
-    "daily_stars": 2,
+    "name": "autonomous-agentic-rag",
+    "full_name": "FareedKhan-dev/autonomous-agentic-rag",
+    "description": "Self improving agentic rag pipeline",
+    "url": "https://github.com/FareedKhan-dev/autonomous-agentic-rag",
+    "stars": 47,
+    "daily_stars": 1,
     "language": "Jupyter Notebook",
     "topics": [
-      "ai-agents",
-      "google",
-      "kaggle",
-      "mcp"
+      "agentic-ai",
+      "ai",
+      "artificial-intelligence",
+      "langchain",
+      "rag"
     ],
-    "created_at": "2025-11-15T05:42:06",
-    "updated_at": "2025-11-18T01:23:29"
+    "created_at": "2025-11-13T18:10:48",
+    "updated_at": "2025-11-18T02:38:09"
   }
 ]
