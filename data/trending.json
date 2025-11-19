@@ -4,8 +4,8 @@
     "full_name": "K-Dense-AI/karpathy",
     "description": "An agentic Machine Learning Engineer",
     "url": "https://github.com/K-Dense-AI/karpathy",
-    "stars": 274,
-    "daily_stars": 69,
+    "stars": 369,
+    "daily_stars": 95,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -13,15 +13,15 @@
       "machine-learning"
     ],
     "created_at": "2025-11-16T22:39:26",
-    "updated_at": "2025-11-18T16:39:47"
+    "updated_at": "2025-11-19T01:31:10"
   },
   {
     "name": "continuous-claude",
     "full_name": "AnandChowdhary/continuous-claude",
     "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
     "url": "https://github.com/AnandChowdhary/continuous-claude",
-    "stars": 348,
-    "daily_stars": 40,
+    "stars": 400,
+    "daily_stars": 52,
     "language": "Shell",
     "topics": [
       "ai",
@@ -31,15 +31,15 @@
       "continuous-ai"
     ],
     "created_at": "2025-11-15T08:59:04",
-    "updated_at": "2025-11-18T16:51:24"
+    "updated_at": "2025-11-19T01:11:01"
   },
   {
     "name": "code-mode",
     "full_name": "universal-tool-calling-protocol/code-mode",
     "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
     "url": "https://github.com/universal-tool-calling-protocol/code-mode",
-    "stars": 819,
-    "daily_stars": 7,
+    "stars": 849,
+    "daily_stars": 30,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -50,29 +50,15 @@
       "utcp"
     ],
     "created_at": "2025-11-11T09:35:44",
-    "updated_at": "2025-11-18T16:44:55"
-  },
-  {
-    "name": "agent-scripts",
-    "full_name": "steipete/agent-scripts",
-    "description": "Scripts for agents, shared between my repositories.",
-    "url": "https://github.com/steipete/agent-scripts",
-    "stars": 235,
-    "daily_stars": 4,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents"
-    ],
-    "created_at": "2025-11-08T02:55:55",
-    "updated_at": "2025-11-18T16:28:20"
+    "updated_at": "2025-11-19T01:21:38"
   },
   {
     "name": "SAG",
     "full_name": "Zleap-AI/SAG",
     "description": "SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying",
     "url": "https://github.com/Zleap-AI/SAG",
-    "stars": 65,
-    "daily_stars": 4,
+    "stars": 79,
+    "daily_stars": 14,
     "language": "Python",
     "topics": [
       "ai",
@@ -92,15 +78,101 @@
       "vector-search"
     ],
     "created_at": "2025-11-07T07:33:35",
-    "updated_at": "2025-11-18T16:11:35"
+    "updated_at": "2025-11-19T01:38:47"
+  },
+  {
+    "name": "agent-scripts",
+    "full_name": "steipete/agent-scripts",
+    "description": "Scripts for agents, shared between my repositories.",
+    "url": "https://github.com/steipete/agent-scripts",
+    "stars": 240,
+    "daily_stars": 5,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents"
+    ],
+    "created_at": "2025-11-08T02:55:55",
+    "updated_at": "2025-11-18T22:56:49"
+  },
+  {
+    "name": "station",
+    "full_name": "dualverse-ai/station",
+    "description": "The Station, an open-world multi-agent environment that models a miniature scientific ecosystem.",
+    "url": "https://github.com/dualverse-ai/station",
+    "stars": 44,
+    "daily_stars": 4,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-agents-framework",
+      "ai-scientist",
+      "artificial-intelligence",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "open-world"
+    ],
+    "created_at": "2025-11-09T13:50:09",
+    "updated_at": "2025-11-19T00:31:00"
+  },
+  {
+    "name": "meridian",
+    "full_name": "markmdev/meridian",
+    "description": "Zero-config Claude Code setup with enforced task scaffolding, structured memory, persistent context after compaction, plug-in code standards, optional TDD mode, and zero behavior changes for developers.",
+    "url": "https://github.com/markmdev/meridian",
+    "stars": 81,
+    "daily_stars": 4,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "automation",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "developer-workflow",
+      "nextjs",
+      "nodejs",
+      "open-source",
+      "productivity",
+      "software-engineering",
+      "task-runner",
+      "tdd",
+      "typescript",
+      "workflow-automation",
+      "zero-config"
+    ],
+    "created_at": "2025-11-13T07:51:57",
+    "updated_at": "2025-11-18T23:21:50"
+  },
+  {
+    "name": "claude-scientific-writer",
+    "full_name": "K-Dense-AI/claude-scientific-writer",
+    "description": "A general purpose scientific writer",
+    "url": "https://github.com/K-Dense-AI/claude-scientific-writer",
+    "stars": 84,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "skills",
+      "tools",
+      "writer"
+    ],
+    "created_at": "2025-10-27T06:52:45",
+    "updated_at": "2025-11-18T23:57:33"
   },
   {
     "name": "build-apps",
     "full_name": "DokiTeam/build-apps",
     "description": "Doki APKs, built and distributed automatically by GitHub Actions",
     "url": "https://github.com/DokiTeam/build-apps",
-    "stars": 159,
-    "daily_stars": 4,
+    "stars": 161,
+    "daily_stars": 2,
     "language": null,
     "topics": [
       "actions",
@@ -111,15 +183,15 @@
       "workflow"
     ],
     "created_at": "2025-11-06T20:26:11",
-    "updated_at": "2025-11-18T14:34:15"
+    "updated_at": "2025-11-18T23:01:28"
   },
   {
     "name": "autonomous-agentic-rag",
     "full_name": "FareedKhan-dev/autonomous-agentic-rag",
     "description": "Self improving agentic rag pipeline",
     "url": "https://github.com/FareedKhan-dev/autonomous-agentic-rag",
-    "stars": 51,
-    "daily_stars": 3,
+    "stars": 52,
+    "daily_stars": 1,
     "language": "Jupyter Notebook",
     "topics": [
       "agentic-ai",
@@ -129,64 +201,6 @@
       "rag"
     ],
     "created_at": "2025-11-13T18:10:48",
-    "updated_at": "2025-11-18T15:49:22"
-  },
-  {
-    "name": "VieNeu-TTS",
-    "full_name": "pnnbao97/VieNeu-TTS",
-    "description": "Vietnamese Text-to-Speech ",
-    "url": "https://github.com/pnnbao97/VieNeu-TTS",
-    "stars": 84,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-10-28T14:07:23",
-    "updated_at": "2025-11-18T16:49:06"
-  },
-  {
-    "name": "ARMT",
-    "full_name": "lucidrains/ARMT",
-    "description": "Implementation of the Associative Recurrent Memory Transformer from Mikhail Burtsev's group",
-    "url": "https://github.com/lucidrains/ARMT",
-    "stars": 8,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "artificial-intelligence",
-      "attention-mechanisms",
-      "deep-learning",
-      "memory",
-      "recurrence",
-      "transformers"
-    ],
-    "created_at": "2025-11-17T15:03:03",
-    "updated_at": "2025-11-18T15:49:55"
-  },
-  {
-    "name": "RAG-Boilerplate",
-    "full_name": "mburaksayici/RAG-Boilerplate",
-    "description": "RAG boilerplate with semantic/propositional chunking, hybrid search (BM25 + dense), LLM reranking, query enhancement agents, CrewAI orchestration, Qdrant vector search, Redis/Mongo sessioning, Celery ingestion pipeline, Gradio UI, and an evaluation suite (Hit-Rate, MRR, hybrid configs).",
-    "url": "https://github.com/mburaksayici/RAG-Boilerplate",
-    "stars": 46,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "crewai",
-      "hybrid-search",
-      "llm",
-      "propositional-models",
-      "qdrant",
-      "query-enhancement",
-      "rag",
-      "rag-evaluation",
-      "rag-pipeline",
-      "reranking",
-      "retrieval-augmented-generation",
-      "semantic-chunking",
-      "vector-database"
-    ],
-    "created_at": "2025-10-30T09:41:14",
-    "updated_at": "2025-11-18T15:49:03"
+    "updated_at": "2025-11-19T00:59:16"
   }
 ]
