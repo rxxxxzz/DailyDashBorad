@@ -4,8 +4,8 @@
     "full_name": "K-Dense-AI/karpathy",
     "description": "An agentic Machine Learning Engineer",
     "url": "https://github.com/K-Dense-AI/karpathy",
-    "stars": 513,
-    "daily_stars": 47,
+    "stars": 555,
+    "daily_stars": 42,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -13,15 +13,52 @@
       "machine-learning"
     ],
     "created_at": "2025-11-16T22:39:26",
-    "updated_at": "2025-11-19T13:01:22"
+    "updated_at": "2025-11-19T16:46:42"
+  },
+  {
+    "name": "continuous-claude",
+    "full_name": "AnandChowdhary/continuous-claude",
+    "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
+    "url": "https://github.com/AnandChowdhary/continuous-claude",
+    "stars": 445,
+    "daily_stars": 9,
+    "language": "Shell",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "continuous-ai"
+    ],
+    "created_at": "2025-11-15T08:59:04",
+    "updated_at": "2025-11-19T16:32:00"
+  },
+  {
+    "name": "code-mode",
+    "full_name": "universal-tool-calling-protocol/code-mode",
+    "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
+    "url": "https://github.com/universal-tool-calling-protocol/code-mode",
+    "stars": 895,
+    "daily_stars": 6,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "codemode",
+      "mcp",
+      "model-context-protocol",
+      "toolchain",
+      "utcp"
+    ],
+    "created_at": "2025-11-11T09:35:44",
+    "updated_at": "2025-11-19T16:44:58"
   },
   {
     "name": "SAG",
     "full_name": "Zleap-AI/SAG",
     "description": "SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying",
     "url": "https://github.com/Zleap-AI/SAG",
-    "stars": 103,
-    "daily_stars": 12,
+    "stars": 109,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "ai",
@@ -41,52 +78,15 @@
       "vector-search"
     ],
     "created_at": "2025-11-07T07:33:35",
-    "updated_at": "2025-11-19T12:50:30"
-  },
-  {
-    "name": "code-mode",
-    "full_name": "universal-tool-calling-protocol/code-mode",
-    "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
-    "url": "https://github.com/universal-tool-calling-protocol/code-mode",
-    "stars": 889,
-    "daily_stars": 11,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "codemode",
-      "mcp",
-      "model-context-protocol",
-      "toolchain",
-      "utcp"
-    ],
-    "created_at": "2025-11-11T09:35:44",
-    "updated_at": "2025-11-19T12:21:20"
-  },
-  {
-    "name": "continuous-claude",
-    "full_name": "AnandChowdhary/continuous-claude",
-    "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-    "url": "https://github.com/AnandChowdhary/continuous-claude",
-    "stars": 436,
-    "daily_stars": 10,
-    "language": "Shell",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "continuous-ai"
-    ],
-    "created_at": "2025-11-15T08:59:04",
-    "updated_at": "2025-11-19T12:41:51"
+    "updated_at": "2025-11-19T15:53:06"
   },
   {
     "name": "flowctl",
     "full_name": "cvhariharan/flowctl",
     "description": "An open-source self-service workflow execution platform",
     "url": "https://github.com/cvhariharan/flowctl",
-    "stars": 20,
-    "daily_stars": 9,
+    "stars": 24,
+    "daily_stars": 4,
     "language": "Svelte",
     "topics": [
       "automation",
@@ -99,107 +99,109 @@
       "workflow-automation"
     ],
     "created_at": "2025-10-30T17:11:23",
-    "updated_at": "2025-11-19T12:26:48"
+    "updated_at": "2025-11-19T16:30:00"
   },
   {
-    "name": "VieNeu-TTS",
-    "full_name": "pnnbao97/VieNeu-TTS",
-    "description": "Vietnamese Text-to-Speech ",
-    "url": "https://github.com/pnnbao97/VieNeu-TTS",
-    "stars": 92,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-10-28T14:07:23",
-    "updated_at": "2025-11-19T11:36:12"
-  },
-  {
-    "name": "seurigiotto-benchmark-framework",
-    "full_name": "Nuiter/seurigiotto-benchmark-framework",
-    "description": "Optimized pipelines for Spatial Transcriptomics (ST) data analysis using Seurat & Giotto, designed for reproducible benchmarking and biological insight.",
-    "url": "https://github.com/Nuiter/seurigiotto-benchmark-framework",
-    "stars": 5,
-    "daily_stars": 2,
-    "language": "R",
-    "topics": [
-      "10x-genomics",
-      "benchmark",
-      "bioinformatics",
-      "computational-biology",
-      "data-analysis",
-      "data-visualization",
-      "deconvolution",
-      "genomics",
-      "giotto",
-      "lung-cancer",
-      "oncology",
-      "pipeline",
-      "r",
-      "reproducible-science",
-      "seurat",
-      "spatial-transcriptomics",
-      "transcriptomics",
-      "tumor-microenvironment",
-      "visium-hd",
-      "workflow"
-    ],
-    "created_at": "2025-11-15T10:30:15",
-    "updated_at": "2025-11-19T10:53:27"
-  },
-  {
-    "name": "station",
-    "full_name": "dualverse-ai/station",
-    "description": "The Station, an open-world multi-agent environment that models a miniature scientific ecosystem.",
-    "url": "https://github.com/dualverse-ai/station",
-    "stars": 47,
-    "daily_stars": 1,
+    "name": "RecLib",
+    "full_name": "zerolovesea/RecLib",
+    "description": "A unified, efficient, and extensible PyTorch-based recommendation library",
+    "url": "https://github.com/zerolovesea/RecLib",
+    "stars": 76,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "ai-agents-framework",
-      "ai-scientist",
-      "artificial-intelligence",
-      "large-language-models",
-      "llm",
-      "machine-learning",
-      "open-world"
-    ],
-    "created_at": "2025-11-09T13:50:09",
-    "updated_at": "2025-11-19T11:13:22"
-  },
-  {
-    "name": "RL-100",
-    "full_name": "lucidrains/RL-100",
-    "description": "Implementation of RL-100, Performant Robotic Manipulation with Real-World Reinforcement Learning",
-    "url": "https://github.com/lucidrains/RL-100",
-    "stars": 35,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "artificial-intelligence",
+      "ctr-prediction",
       "deep-learning",
-      "reinforcement-learning",
-      "robotics"
+      "pytorch",
+      "recomendation-system",
+      "recommendation-algorithms"
     ],
-    "created_at": "2025-11-15T03:01:03",
-    "updated_at": "2025-11-19T11:34:33"
+    "created_at": "2025-11-11T12:33:00",
+    "updated_at": "2025-11-19T16:02:31"
   },
   {
-    "name": "x-evolution",
-    "full_name": "lucidrains/x-evolution",
-    "description": "Implementation of various evolutionary algorithms, starting with evolutionary strategies",
-    "url": "https://github.com/lucidrains/x-evolution",
-    "stars": 28,
-    "daily_stars": 1,
+    "name": "claude-code-skill-factory",
+    "full_name": "alirezarezvani/claude-code-skill-factory",
+    "description": "A comprehensive toolkit for generating production-ready Claude Skills and Claude Code Agents at scale.",
+    "url": "https://github.com/alirezarezvani/claude-code-skill-factory",
+    "stars": 121,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
-      "artificial-intelligence",
-      "evolution",
-      "evolutionary-algorithms"
+      "ai-agents",
+      "ai-tools",
+      "claude-ai",
+      "claude-code",
+      "claude-skills",
+      "claude-skills-creator"
     ],
-    "created_at": "2025-11-09T14:37:30",
-    "updated_at": "2025-11-19T10:55:27"
+    "created_at": "2025-10-21T15:20:47",
+    "updated_at": "2025-11-19T15:11:36"
+  },
+  {
+    "name": "autonomous-agentic-rag",
+    "full_name": "FareedKhan-dev/autonomous-agentic-rag",
+    "description": "Self improving agentic rag pipeline",
+    "url": "https://github.com/FareedKhan-dev/autonomous-agentic-rag",
+    "stars": 54,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "artificial-intelligence",
+      "langchain",
+      "rag"
+    ],
+    "created_at": "2025-11-13T18:10:48",
+    "updated_at": "2025-11-19T13:33:54"
+  },
+  {
+    "name": "ai-agents-from-scratch",
+    "full_name": "pguso/ai-agents-from-scratch",
+    "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
+    "url": "https://github.com/pguso/ai-agents-from-scratch",
+    "stars": 1465,
+    "daily_stars": 1,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "educational",
+      "function-calling",
+      "llm",
+      "llm-agent",
+      "node-llama-cpp",
+      "react-agent",
+      "tutorial"
+    ],
+    "created_at": "2025-10-23T19:39:04",
+    "updated_at": "2025-11-19T16:27:36"
+  },
+  {
+    "name": "mcp-gearbox",
+    "full_name": "rohitsoni007/mcp-gearbox",
+    "description": "A modern desktop application for managing Model Context Protocol (MCP) servers across multiple AI agents",
+    "url": "https://github.com/rohitsoni007/mcp-gearbox",
+    "stars": 40,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "claude-code",
+      "desktop-app",
+      "developer-tools",
+      "electron",
+      "kiro",
+      "mcp",
+      "mcp-servers",
+      "model-context-protocol",
+      "react",
+      "shadcn-ui",
+      "tailwindcss",
+      "typescript"
+    ],
+    "created_at": "2025-11-03T10:53:53",
+    "updated_at": "2025-11-19T15:39:02"
   }
 ]
