@@ -1,11 +1,37 @@
 [
   {
+    "name": "asystem-awex",
+    "full_name": "inclusionAI/asystem-awex",
+    "description": "A high-performance RL training-inference weight synchronization framework, designed to enable second-level parameter updates from training to inference in RL workflows",
+    "url": "https://github.com/inclusionAI/asystem-awex",
+    "stars": 45,
+    "daily_stars": 16,
+    "language": "Python",
+    "topics": [
+      "cuda",
+      "deep-learning",
+      "gpu",
+      "inference",
+      "llm",
+      "machine-learning",
+      "moe",
+      "pytorch",
+      "reasoning",
+      "reinforcement-learning",
+      "rl",
+      "training",
+      "transformers"
+    ],
+    "created_at": "2025-11-17T02:43:55",
+    "updated_at": "2025-11-20T04:12:11"
+  },
+  {
     "name": "karpathy",
     "full_name": "K-Dense-AI/karpathy",
     "description": "An agentic Machine Learning Engineer",
     "url": "https://github.com/K-Dense-AI/karpathy",
-    "stars": 596,
-    "daily_stars": 25,
+    "stars": 606,
+    "daily_stars": 10,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -13,15 +39,15 @@
       "machine-learning"
     ],
     "created_at": "2025-11-16T22:39:26",
-    "updated_at": "2025-11-20T02:05:09"
+    "updated_at": "2025-11-20T04:13:44"
   },
   {
     "name": "continuous-claude",
     "full_name": "AnandChowdhary/continuous-claude",
     "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
     "url": "https://github.com/AnandChowdhary/continuous-claude",
-    "stars": 469,
-    "daily_stars": 13,
+    "stars": 474,
+    "daily_stars": 5,
     "language": "Shell",
     "topics": [
       "ai",
@@ -31,15 +57,15 @@
       "continuous-ai"
     ],
     "created_at": "2025-11-15T08:59:04",
-    "updated_at": "2025-11-20T01:54:13"
+    "updated_at": "2025-11-20T04:40:18"
   },
   {
     "name": "SAG",
     "full_name": "Zleap-AI/SAG",
     "description": "SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying",
     "url": "https://github.com/Zleap-AI/SAG",
-    "stars": 127,
-    "daily_stars": 13,
+    "stars": 132,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "ai",
@@ -59,15 +85,33 @@
       "vector-search"
     ],
     "created_at": "2025-11-07T07:33:35",
-    "updated_at": "2025-11-20T01:52:23"
+    "updated_at": "2025-11-20T04:28:06"
+  },
+  {
+    "name": "autonomous-agentic-rag",
+    "full_name": "FareedKhan-dev/autonomous-agentic-rag",
+    "description": "Self improving agentic rag pipeline",
+    "url": "https://github.com/FareedKhan-dev/autonomous-agentic-rag",
+    "stars": 55,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "artificial-intelligence",
+      "langchain",
+      "rag"
+    ],
+    "created_at": "2025-11-13T18:10:48",
+    "updated_at": "2025-11-20T03:57:17"
   },
   {
     "name": "code-mode",
     "full_name": "universal-tool-calling-protocol/code-mode",
     "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
     "url": "https://github.com/universal-tool-calling-protocol/code-mode",
-    "stars": 913,
-    "daily_stars": 8,
+    "stars": 914,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -78,149 +122,79 @@
       "utcp"
     ],
     "created_at": "2025-11-11T09:35:44",
-    "updated_at": "2025-11-20T02:04:21"
+    "updated_at": "2025-11-20T04:38:53"
   },
   {
-    "name": "pctx",
-    "full_name": "portofcontext/pctx",
-    "description": "The pctx framework replaces tool-calling with deterministically generated, type-safe code that runs in secure sandboxes.",
-    "url": "https://github.com/portofcontext/pctx",
-    "stars": 60,
-    "daily_stars": 4,
-    "language": "Rust",
+    "name": "5-Day-AI-Agents-Intensive-Course-with-Google",
+    "full_name": "sdivyanshu90/5-Day-AI-Agents-Intensive-Course-with-Google",
+    "description": null,
+    "url": "https://github.com/sdivyanshu90/5-Day-AI-Agents-Intensive-Course-with-Google",
+    "stars": 49,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
     "topics": [
       "ai-agents",
-      "api",
-      "framework",
-      "local-development",
-      "mcp",
-      "mcp-server",
-      "open-source"
+      "google",
+      "kaggle",
+      "mcp"
     ],
-    "created_at": "2025-11-04T16:54:23",
-    "updated_at": "2025-11-20T00:25:31"
+    "created_at": "2025-11-11T06:12:37",
+    "updated_at": "2025-11-20T02:25:07"
   },
   {
-    "name": "Awesome-Vibecoding-Guide",
-    "full_name": "Bob5k/Awesome-Vibecoding-Guide",
-    "description": "A compendium drawn from real commercial projects and hundreds of thousands of lines of AI‑assisted code. Read it end‑to‑end or feed this repo to your AI agent for summaries and Q&A. Stars and watches appreciated! ⭐",
-    "url": "https://github.com/Bob5k/Awesome-Vibecoding-Guide",
-    "stars": 142,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "awesome",
-      "coding-standards",
-      "guide",
-      "vibe-coded",
-      "vibe-coding",
-      "vibecoder",
-      "vibecoding"
-    ],
-    "created_at": "2025-10-28T13:21:50",
-    "updated_at": "2025-11-20T00:05:32"
+    "name": "Fake-News-Detector",
+    "full_name": "AmirhosseinHonardoust/Fake-News-Detector",
+    "description": "A complete NLP and Machine Learning project to detect fake and real news using TF-IDF and Logistic Regression. Includes full training pipeline, evaluation charts, and an interactive Streamlit web app for real-time credibility analysis. Dataset adapted from Kaggle’s Fake and Real News Dataset.",
+    "url": "https://github.com/AmirhosseinHonardoust/Fake-News-Detector",
+    "stars": 28,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-10-25T13:56:18",
+    "updated_at": "2025-11-20T04:33:11"
   },
   {
-    "name": "LLMKube",
-    "full_name": "defilantech/LLMKube",
-    "description": "Kubernetes operator for GPU-accelerated LLM inference - air-gapped, edge-native, production-ready",
-    "url": "https://github.com/defilantech/LLMKube",
-    "stars": 10,
-    "daily_stars": 2,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "edge-ai",
-      "edge-computing",
-      "gguf",
-      "gpu",
-      "inference",
-      "kubernetes",
-      "kubernetes-operator",
-      "llama-cpp",
-      "llm",
-      "local-llm",
-      "machine-learning",
-      "mlops",
-      "nvidia",
-      "operator"
-    ],
-    "created_at": "2025-11-12T22:53:23",
-    "updated_at": "2025-11-19T21:52:22"
+    "name": "s3od",
+    "full_name": "KupynOrest/s3od",
+    "description": "Official repo for S3OD: Towards Generalizable Salient Object Detection with Synthetic Data",
+    "url": "https://github.com/KupynOrest/s3od",
+    "stars": 20,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-10-26T18:28:45",
+    "updated_at": "2025-11-20T03:40:59"
   },
   {
-    "name": "station",
-    "full_name": "dualverse-ai/station",
-    "description": "The Station, an open-world multi-agent environment that models a miniature scientific ecosystem.",
-    "url": "https://github.com/dualverse-ai/station",
-    "stars": 48,
+    "name": "X-AnyLabeling-Server",
+    "full_name": "CVHub520/X-AnyLabeling-Server",
+    "description": "A Simple, Lightweight, and Extensible Serving Framework for X-AnyLabeling",
+    "url": "https://github.com/CVHub520/X-AnyLabeling-Server",
+    "stars": 15,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "ai-agents-framework",
-      "ai-scientist",
-      "artificial-intelligence",
-      "large-language-models",
-      "llm",
+      "annotation-tool",
+      "clip",
+      "computer-vision",
+      "deep-learning",
+      "grounding-dino",
+      "image-classification",
+      "image-labeling-tool",
+      "instance-segmentation",
+      "labeling-tool",
       "machine-learning",
-      "open-world"
+      "object-detection",
+      "pose-estimation",
+      "pytorch",
+      "rotated-object-detection",
+      "segment-anything",
+      "transformers",
+      "vision-language-model",
+      "x-anylabeling",
+      "yolo"
     ],
-    "created_at": "2025-11-09T13:50:09",
-    "updated_at": "2025-11-20T00:05:33"
-  },
-  {
-    "name": "firefox-annoyances",
-    "full_name": "Tiagoquix/firefox-annoyances",
-    "description": "Quick user.js customization to disable annoyances introduced by Mozilla in Firefox",
-    "url": "https://github.com/Tiagoquix/firefox-annoyances",
-    "stars": 9,
-    "daily_stars": 1,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "annoyance",
-      "annoyances",
-      "artificial-intelligence",
-      "artificialintelligence",
-      "browser",
-      "browsers",
-      "disable",
-      "firefox",
-      "firefox-browser",
-      "firefox-tweaks",
-      "gecko",
-      "machine-learning",
-      "machinelearning",
-      "remove",
-      "tweak",
-      "tweaks"
-    ],
-    "created_at": "2025-10-27T21:52:44",
-    "updated_at": "2025-11-19T23:31:45"
-  },
-  {
-    "name": "ai-agents-from-scratch",
-    "full_name": "pguso/ai-agents-from-scratch",
-    "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
-    "url": "https://github.com/pguso/ai-agents-from-scratch",
-    "stars": 1466,
-    "daily_stars": 1,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "educational",
-      "function-calling",
-      "llm",
-      "llm-agent",
-      "node-llama-cpp",
-      "react-agent",
-      "tutorial"
-    ],
-    "created_at": "2025-10-23T19:39:04",
-    "updated_at": "2025-11-20T02:09:18"
+    "created_at": "2025-11-04T09:00:29",
+    "updated_at": "2025-11-20T02:42:51"
   }
 ]
