@@ -1,27 +1,11 @@
 [
   {
-    "name": "karpathy",
-    "full_name": "K-Dense-AI/karpathy",
-    "description": "An agentic Machine Learning Engineer",
-    "url": "https://github.com/K-Dense-AI/karpathy",
-    "stars": 620,
-    "daily_stars": 14,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "automl",
-      "machine-learning"
-    ],
-    "created_at": "2025-11-16T22:39:26",
-    "updated_at": "2025-11-20T08:35:49"
-  },
-  {
     "name": "SAG",
     "full_name": "Zleap-AI/SAG",
     "description": "SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying",
     "url": "https://github.com/Zleap-AI/SAG",
-    "stars": 142,
-    "daily_stars": 10,
+    "stars": 151,
+    "daily_stars": 9,
     "language": "Python",
     "topics": [
       "ai",
@@ -41,15 +25,31 @@
       "vector-search"
     ],
     "created_at": "2025-11-07T07:33:35",
-    "updated_at": "2025-11-20T08:26:36"
+    "updated_at": "2025-11-20T13:01:37"
+  },
+  {
+    "name": "karpathy",
+    "full_name": "K-Dense-AI/karpathy",
+    "description": "An agentic Machine Learning Engineer",
+    "url": "https://github.com/K-Dense-AI/karpathy",
+    "stars": 628,
+    "daily_stars": 8,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "automl",
+      "machine-learning"
+    ],
+    "created_at": "2025-11-16T22:39:26",
+    "updated_at": "2025-11-20T13:02:35"
   },
   {
     "name": "asystem-awex",
     "full_name": "inclusionAI/asystem-awex",
     "description": "A high-performance RL training-inference weight synchronization framework, designed to enable second-level parameter updates from training to inference in RL workflows",
     "url": "https://github.com/inclusionAI/asystem-awex",
-    "stars": 55,
-    "daily_stars": 10,
+    "stars": 63,
+    "daily_stars": 8,
     "language": "Python",
     "topics": [
       "cuda",
@@ -67,15 +67,15 @@
       "transformers"
     ],
     "created_at": "2025-11-17T02:43:55",
-    "updated_at": "2025-11-20T08:45:14"
+    "updated_at": "2025-11-20T12:42:01"
   },
   {
     "name": "code-mode",
     "full_name": "universal-tool-calling-protocol/code-mode",
     "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
     "url": "https://github.com/universal-tool-calling-protocol/code-mode",
-    "stars": 923,
-    "daily_stars": 9,
+    "stars": 930,
+    "daily_stars": 7,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -86,15 +86,15 @@
       "utcp"
     ],
     "created_at": "2025-11-11T09:35:44",
-    "updated_at": "2025-11-20T08:48:17"
+    "updated_at": "2025-11-20T13:06:12"
   },
   {
     "name": "continuous-claude",
     "full_name": "AnandChowdhary/continuous-claude",
     "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
     "url": "https://github.com/AnandChowdhary/continuous-claude",
-    "stars": 477,
-    "daily_stars": 3,
+    "stars": 484,
+    "daily_stars": 7,
     "language": "Shell",
     "topics": [
       "ai",
@@ -104,53 +104,68 @@
       "continuous-ai"
     ],
     "created_at": "2025-11-15T08:59:04",
-    "updated_at": "2025-11-20T07:41:21"
+    "updated_at": "2025-11-20T12:59:59"
   },
   {
-    "name": "flowctl",
-    "full_name": "cvhariharan/flowctl",
-    "description": "An open-source self-service workflow execution platform",
-    "url": "https://github.com/cvhariharan/flowctl",
-    "stars": 27,
-    "daily_stars": 3,
-    "language": "Svelte",
+    "name": "autonomous-agentic-rag",
+    "full_name": "FareedKhan-dev/autonomous-agentic-rag",
+    "description": "Self improving agentic rag pipeline",
+    "url": "https://github.com/FareedKhan-dev/autonomous-agentic-rag",
+    "stars": 58,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
     "topics": [
-      "automation",
-      "devops",
-      "orchestration",
-      "platform-engineering",
-      "scheduler",
-      "self-service",
-      "workflow",
-      "workflow-automation"
+      "agentic-ai",
+      "ai",
+      "artificial-intelligence",
+      "langchain",
+      "rag"
     ],
-    "created_at": "2025-10-30T17:11:23",
-    "updated_at": "2025-11-20T08:16:39"
+    "created_at": "2025-11-13T18:10:48",
+    "updated_at": "2025-11-20T10:05:56"
   },
   {
-    "name": "RL-100",
-    "full_name": "lucidrains/RL-100",
-    "description": "Implementation of RL-100, Performant Robotic Manipulation with Real-World Reinforcement Learning",
-    "url": "https://github.com/lucidrains/RL-100",
-    "stars": 37,
+    "name": "build-apps",
+    "full_name": "DokiTeam/build-apps",
+    "description": "Doki APKs, built and distributed automatically by GitHub Actions",
+    "url": "https://github.com/DokiTeam/build-apps",
+    "stars": 170,
     "daily_stars": 2,
     "language": null,
     "topics": [
-      "artificial-intelligence",
-      "deep-learning",
-      "reinforcement-learning",
-      "robotics"
+      "actions",
+      "automation",
+      "cd",
+      "ci",
+      "github",
+      "workflow"
     ],
-    "created_at": "2025-11-15T03:01:03",
-    "updated_at": "2025-11-20T07:38:31"
+    "created_at": "2025-11-06T20:26:11",
+    "updated_at": "2025-11-20T12:40:45"
+  },
+  {
+    "name": "x-evolution",
+    "full_name": "lucidrains/x-evolution",
+    "description": "Implementation of various evolutionary algorithms, starting with evolutionary strategies",
+    "url": "https://github.com/lucidrains/x-evolution",
+    "stars": 29,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "evolution",
+      "evolutionary-algorithms"
+    ],
+    "created_at": "2025-11-09T14:37:30",
+    "updated_at": "2025-11-20T09:05:19"
   },
   {
     "name": "ai-agents-from-scratch",
     "full_name": "pguso/ai-agents-from-scratch",
     "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
     "url": "https://github.com/pguso/ai-agents-from-scratch",
-    "stars": 1468,
-    "daily_stars": 2,
+    "stars": 1469,
+    "daily_stars": 1,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -163,47 +178,27 @@
       "tutorial"
     ],
     "created_at": "2025-10-23T19:39:04",
-    "updated_at": "2025-11-20T08:06:51"
+    "updated_at": "2025-11-20T10:43:10"
   },
   {
-    "name": "autonomous-agentic-rag",
-    "full_name": "FareedKhan-dev/autonomous-agentic-rag",
-    "description": "Self improving agentic rag pipeline",
-    "url": "https://github.com/FareedKhan-dev/autonomous-agentic-rag",
-    "stars": 56,
+    "name": "Awesome-Vibecoding-Guide",
+    "full_name": "Bob5k/Awesome-Vibecoding-Guide",
+    "description": "A compendium drawn from real commercial projects and hundreds of thousands of lines of AI‑assisted code. Read it end‑to‑end or feed this repo to your AI agent for summaries and Q&A. Stars and watches appreciated! ⭐",
+    "url": "https://github.com/Bob5k/Awesome-Vibecoding-Guide",
+    "stars": 144,
     "daily_stars": 1,
-    "language": "Jupyter Notebook",
+    "language": null,
     "topics": [
-      "agentic-ai",
-      "ai",
-      "artificial-intelligence",
-      "langchain",
-      "rag"
-    ],
-    "created_at": "2025-11-13T18:10:48",
-    "updated_at": "2025-11-20T07:22:14"
-  },
-  {
-    "name": "station",
-    "full_name": "dualverse-ai/station",
-    "description": "The Station, an open-world multi-agent environment that models a miniature scientific ecosystem.",
-    "url": "https://github.com/dualverse-ai/station",
-    "stars": 49,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agent",
       "ai-agents",
-      "ai-agents-framework",
-      "ai-scientist",
-      "artificial-intelligence",
-      "large-language-models",
-      "llm",
-      "machine-learning",
-      "open-world"
+      "awesome",
+      "coding-standards",
+      "guide",
+      "vibe-coded",
+      "vibe-coding",
+      "vibecoder",
+      "vibecoding"
     ],
-    "created_at": "2025-11-09T13:50:09",
-    "updated_at": "2025-11-20T07:12:35"
+    "created_at": "2025-10-28T13:21:50",
+    "updated_at": "2025-11-20T09:04:35"
   }
 ]
