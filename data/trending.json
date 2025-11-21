@@ -1,27 +1,31 @@
 [
   {
-    "name": "karpathy",
-    "full_name": "K-Dense-AI/karpathy",
-    "description": "An agentic Machine Learning Engineer",
-    "url": "https://github.com/K-Dense-AI/karpathy",
-    "stars": 790,
-    "daily_stars": 26,
-    "language": "Python",
+    "name": "pctx",
+    "full_name": "portofcontext/pctx",
+    "description": "The pctx framework replaces tool-calling with deterministically generated, type-safe code that runs in secure sandboxes.",
+    "url": "https://github.com/portofcontext/pctx",
+    "stars": 105,
+    "daily_stars": 37,
+    "language": "Rust",
     "topics": [
-      "agentic-ai",
-      "automl",
-      "machine-learning"
+      "ai-agents",
+      "api",
+      "framework",
+      "local-development",
+      "mcp",
+      "mcp-server",
+      "open-source"
     ],
-    "created_at": "2025-11-16T22:39:26",
-    "updated_at": "2025-11-21T12:47:44"
+    "created_at": "2025-11-04T16:54:23",
+    "updated_at": "2025-11-21T16:35:01"
   },
   {
     "name": "continuous-claude",
     "full_name": "AnandChowdhary/continuous-claude",
     "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
     "url": "https://github.com/AnandChowdhary/continuous-claude",
-    "stars": 542,
-    "daily_stars": 11,
+    "stars": 556,
+    "daily_stars": 14,
     "language": "Shell",
     "topics": [
       "ai",
@@ -31,35 +35,121 @@
       "continuous-ai"
     ],
     "created_at": "2025-11-15T08:59:04",
-    "updated_at": "2025-11-21T11:56:42"
+    "updated_at": "2025-11-21T16:44:16"
   },
   {
-    "name": "CyberStrikeAI",
-    "full_name": "Ed1s0nZ/CyberStrikeAI",
-    "description": "AI-Powered Autonomous Penetration Testing Platform - Built with Golang, featuring hundreds of built-in security tools, flexible custom tool extensions, and intelligent AI decision-making through MCP protocol, making security testing as simple as a conversation.",
-    "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
-    "stars": 213,
+    "name": "karpathy",
+    "full_name": "K-Dense-AI/karpathy",
+    "description": "An agentic Machine Learning Engineer",
+    "url": "https://github.com/K-Dense-AI/karpathy",
+    "stars": 804,
+    "daily_stars": 14,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "automl",
+      "machine-learning"
+    ],
+    "created_at": "2025-11-16T22:39:26",
+    "updated_at": "2025-11-21T16:24:44"
+  },
+  {
+    "name": "agentic-data-scientist",
+    "full_name": "K-Dense-AI/agentic-data-scientist",
+    "description": "An end-to-end Data Scientist",
+    "url": "https://github.com/K-Dense-AI/agentic-data-scientist",
+    "stars": 11,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "data-science",
+      "machine-learning"
+    ],
+    "created_at": "2025-11-04T07:29:49",
+    "updated_at": "2025-11-21T16:44:28"
+  },
+  {
+    "name": "code-mode",
+    "full_name": "universal-tool-calling-protocol/code-mode",
+    "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
+    "url": "https://github.com/universal-tool-calling-protocol/code-mode",
+    "stars": 958,
     "daily_stars": 5,
-    "language": "Go",
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "codemode",
+      "mcp",
+      "model-context-protocol",
+      "toolchain",
+      "utcp"
+    ],
+    "created_at": "2025-11-11T09:35:44",
+    "updated_at": "2025-11-21T15:09:45"
+  },
+  {
+    "name": "autonomous-agentic-rag",
+    "full_name": "FareedKhan-dev/autonomous-agentic-rag",
+    "description": "Self improving agentic rag pipeline",
+    "url": "https://github.com/FareedKhan-dev/autonomous-agentic-rag",
+    "stars": 65,
+    "daily_stars": 3,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "artificial-intelligence",
+      "langchain",
+      "rag"
+    ],
+    "created_at": "2025-11-13T18:10:48",
+    "updated_at": "2025-11-21T16:17:16"
+  },
+  {
+    "name": "ai-cli-edit",
+    "full_name": "istarkov/ai-cli-edit",
+    "description": "How I Met Your AI CLI",
+    "url": "https://github.com/istarkov/ai-cli-edit",
+    "stars": 9,
+    "daily_stars": 3,
+    "language": "HTML",
     "topics": [
       "ai",
+      "ai-agent-framework",
       "ai-agents",
-      "ai-cybersecurity",
-      "ai-penetration-testing",
-      "ai-security-tool",
-      "ctf-tools",
-      "mcp"
+      "claude-code",
+      "opencode"
     ],
-    "created_at": "2025-11-08T10:41:23",
-    "updated_at": "2025-11-21T12:57:42"
+    "created_at": "2025-11-20T03:04:13",
+    "updated_at": "2025-11-21T14:16:47"
+  },
+  {
+    "name": "claude-scientific-writer",
+    "full_name": "K-Dense-AI/claude-scientific-writer",
+    "description": "A general purpose scientific writer",
+    "url": "https://github.com/K-Dense-AI/claude-scientific-writer",
+    "stars": 106,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "skills",
+      "tools",
+      "writer"
+    ],
+    "created_at": "2025-10-27T06:52:45",
+    "updated_at": "2025-11-21T15:47:54"
   },
   {
     "name": "SAG",
     "full_name": "Zleap-AI/SAG",
     "description": "SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying",
     "url": "https://github.com/Zleap-AI/SAG",
-    "stars": 172,
-    "daily_stars": 5,
+    "stars": 174,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "ai",
@@ -79,114 +169,39 @@
       "vector-search"
     ],
     "created_at": "2025-11-07T07:33:35",
-    "updated_at": "2025-11-21T12:30:51"
+    "updated_at": "2025-11-21T14:34:08"
   },
   {
-    "name": "claude-scientific-writer",
-    "full_name": "K-Dense-AI/claude-scientific-writer",
-    "description": "A general purpose scientific writer",
-    "url": "https://github.com/K-Dense-AI/claude-scientific-writer",
-    "stars": 104,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "skills",
-      "tools",
-      "writer"
-    ],
-    "created_at": "2025-10-27T06:52:45",
-    "updated_at": "2025-11-21T12:46:42"
-  },
-  {
-    "name": "pctx",
-    "full_name": "portofcontext/pctx",
-    "description": "The pctx framework replaces tool-calling with deterministically generated, type-safe code that runs in secure sandboxes.",
-    "url": "https://github.com/portofcontext/pctx",
-    "stars": 68,
-    "daily_stars": 3,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "api",
-      "framework",
-      "local-development",
-      "mcp",
-      "mcp-server",
-      "open-source"
-    ],
-    "created_at": "2025-11-04T16:54:23",
-    "updated_at": "2025-11-21T12:59:00"
-  },
-  {
-    "name": "code-mode",
-    "full_name": "universal-tool-calling-protocol/code-mode",
-    "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
-    "url": "https://github.com/universal-tool-calling-protocol/code-mode",
-    "stars": 953,
+    "name": "Think-Like-a-Data-Scientist",
+    "full_name": "AmirhosseinHonardoust/Think-Like-a-Data-Scientist",
+    "description": "A thought-provoking article exploring how to think like a data scientist, without writing a single line of code. Covers the mental framework behind curiosity, structured reasoning, hypothesis testing, and data-driven storytelling, helping readers build analytical intuition beyond tools or syntax.",
+    "url": "https://github.com/AmirhosseinHonardoust/Think-Like-a-Data-Scientist",
+    "stars": 16,
     "daily_stars": 2,
-    "language": "TypeScript",
+    "language": null,
     "topics": [
-      "ai-agents",
-      "codemode",
-      "mcp",
-      "model-context-protocol",
-      "toolchain",
-      "utcp"
+      "ai-philosophy",
+      "analytics",
+      "career-advice",
+      "communication",
+      "critical-thinking",
+      "data-driven-decision",
+      "data-ethics",
+      "data-literacy",
+      "data-science",
+      "data-storytelling",
+      "evidence-based-reasoning",
+      "experimentation",
+      "insight-generation",
+      "knowledge-sharing",
+      "learning",
+      "machine-learning",
+      "mindset",
+      "open-source",
+      "problem-solving",
+      "scientific-thinking"
     ],
-    "created_at": "2025-11-11T09:35:44",
-    "updated_at": "2025-11-21T12:42:45"
-  },
-  {
-    "name": "agent-scripts",
-    "full_name": "steipete/agent-scripts",
-    "description": "Scripts for agents, shared between my repositories.",
-    "url": "https://github.com/steipete/agent-scripts",
-    "stars": 248,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents"
-    ],
-    "created_at": "2025-11-08T02:55:55",
-    "updated_at": "2025-11-21T09:56:40"
-  },
-  {
-    "name": "ai-cli-edit",
-    "full_name": "istarkov/ai-cli-edit",
-    "description": "How I Met Your AI CLI",
-    "url": "https://github.com/istarkov/ai-cli-edit",
-    "stars": 6,
-    "daily_stars": 2,
-    "language": "HTML",
-    "topics": [
-      "ai",
-      "ai-agent-framework",
-      "ai-agents",
-      "claude-code",
-      "opencode"
-    ],
-    "created_at": "2025-11-20T03:04:13",
-    "updated_at": "2025-11-21T09:24:59"
-  },
-  {
-    "name": "autonomous-agentic-rag",
-    "full_name": "FareedKhan-dev/autonomous-agentic-rag",
-    "description": "Self improving agentic rag pipeline",
-    "url": "https://github.com/FareedKhan-dev/autonomous-agentic-rag",
-    "stars": 62,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "agentic-ai",
-      "ai",
-      "artificial-intelligence",
-      "langchain",
-      "rag"
-    ],
-    "created_at": "2025-11-13T18:10:48",
-    "updated_at": "2025-11-21T09:16:27"
+    "created_at": "2025-11-09T15:38:59",
+    "updated_at": "2025-11-21T15:26:33"
   }
 ]
