@@ -4,8 +4,8 @@
     "full_name": "K-Dense-AI/karpathy",
     "description": "An agentic Machine Learning Engineer",
     "url": "https://github.com/K-Dense-AI/karpathy",
-    "stars": 764,
-    "daily_stars": 42,
+    "stars": 790,
+    "daily_stars": 26,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -13,15 +13,15 @@
       "machine-learning"
     ],
     "created_at": "2025-11-16T22:39:26",
-    "updated_at": "2025-11-21T08:48:16"
+    "updated_at": "2025-11-21T12:47:44"
   },
   {
     "name": "continuous-claude",
     "full_name": "AnandChowdhary/continuous-claude",
     "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
     "url": "https://github.com/AnandChowdhary/continuous-claude",
-    "stars": 531,
-    "daily_stars": 6,
+    "stars": 542,
+    "daily_stars": 11,
     "language": "Shell",
     "topics": [
       "ai",
@@ -31,14 +31,34 @@
       "continuous-ai"
     ],
     "created_at": "2025-11-15T08:59:04",
-    "updated_at": "2025-11-21T07:46:16"
+    "updated_at": "2025-11-21T11:56:42"
+  },
+  {
+    "name": "CyberStrikeAI",
+    "full_name": "Ed1s0nZ/CyberStrikeAI",
+    "description": "AI-Powered Autonomous Penetration Testing Platform - Built with Golang, featuring hundreds of built-in security tools, flexible custom tool extensions, and intelligent AI decision-making through MCP protocol, making security testing as simple as a conversation.",
+    "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+    "stars": 213,
+    "daily_stars": 5,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-cybersecurity",
+      "ai-penetration-testing",
+      "ai-security-tool",
+      "ctf-tools",
+      "mcp"
+    ],
+    "created_at": "2025-11-08T10:41:23",
+    "updated_at": "2025-11-21T12:57:42"
   },
   {
     "name": "SAG",
     "full_name": "Zleap-AI/SAG",
     "description": "SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying",
     "url": "https://github.com/Zleap-AI/SAG",
-    "stars": 167,
+    "stars": 172,
     "daily_stars": 5,
     "language": "Python",
     "topics": [
@@ -59,72 +79,15 @@
       "vector-search"
     ],
     "created_at": "2025-11-07T07:33:35",
-    "updated_at": "2025-11-21T08:43:18"
-  },
-  {
-    "name": "code-mode",
-    "full_name": "universal-tool-calling-protocol/code-mode",
-    "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
-    "url": "https://github.com/universal-tool-calling-protocol/code-mode",
-    "stars": 951,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "codemode",
-      "mcp",
-      "model-context-protocol",
-      "toolchain",
-      "utcp"
-    ],
-    "created_at": "2025-11-11T09:35:44",
-    "updated_at": "2025-11-21T07:28:21"
-  },
-  {
-    "name": "CyberStrikeAI",
-    "full_name": "Ed1s0nZ/CyberStrikeAI",
-    "description": "AI-Powered Autonomous Penetration Testing Platform - Built with Golang, featuring hundreds of built-in security tools, flexible custom tool extensions, and intelligent AI decision-making through MCP protocol, making security testing as simple as a conversation.",
-    "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
-    "stars": 208,
-    "daily_stars": 3,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-cybersecurity",
-      "ai-penetration-testing",
-      "ai-security-tool",
-      "ctf-tools",
-      "mcp"
-    ],
-    "created_at": "2025-11-08T10:41:23",
-    "updated_at": "2025-11-21T07:57:47"
-  },
-  {
-    "name": "RecLib",
-    "full_name": "zerolovesea/RecLib",
-    "description": "A unified, efficient, and extensible PyTorch-based recommendation library",
-    "url": "https://github.com/zerolovesea/RecLib",
-    "stars": 89,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "ctr-prediction",
-      "deep-learning",
-      "pytorch",
-      "recomendation-system",
-      "recommendation-algorithms"
-    ],
-    "created_at": "2025-11-11T12:33:00",
-    "updated_at": "2025-11-21T07:50:09"
+    "updated_at": "2025-11-21T12:30:51"
   },
   {
     "name": "claude-scientific-writer",
     "full_name": "K-Dense-AI/claude-scientific-writer",
     "description": "A general purpose scientific writer",
     "url": "https://github.com/K-Dense-AI/claude-scientific-writer",
-    "stars": 101,
-    "daily_stars": 2,
+    "stars": 104,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -135,55 +98,95 @@
       "writer"
     ],
     "created_at": "2025-10-27T06:52:45",
-    "updated_at": "2025-11-21T05:38:24"
+    "updated_at": "2025-11-21T12:46:42"
   },
   {
-    "name": "iLTM",
-    "full_name": "AI-sandbox/iLTM",
-    "description": "iLTM: Integrated Large Tabular Model",
-    "url": "https://github.com/AI-sandbox/iLTM",
-    "stars": 4,
-    "daily_stars": 2,
-    "language": "Python",
+    "name": "pctx",
+    "full_name": "portofcontext/pctx",
+    "description": "The pctx framework replaces tool-calling with deterministically generated, type-safe code that runs in secure sandboxes.",
+    "url": "https://github.com/portofcontext/pctx",
+    "stars": 68,
+    "daily_stars": 3,
+    "language": "Rust",
     "topics": [
-      "deep-learning",
-      "machine-learning",
-      "meta-learning",
-      "pretraining",
-      "python",
-      "pytorch",
-      "tabular-data"
+      "ai-agents",
+      "api",
+      "framework",
+      "local-development",
+      "mcp",
+      "mcp-server",
+      "open-source"
     ],
-    "created_at": "2025-11-18T01:10:01",
-    "updated_at": "2025-11-21T08:24:44"
+    "created_at": "2025-11-04T16:54:23",
+    "updated_at": "2025-11-21T12:59:00"
   },
   {
-    "name": "VieNeu-TTS",
-    "full_name": "pnnbao97/VieNeu-TTS",
-    "description": "Vietnamese Text-to-Speech ",
-    "url": "https://github.com/pnnbao97/VieNeu-TTS",
-    "stars": 100,
+    "name": "code-mode",
+    "full_name": "universal-tool-calling-protocol/code-mode",
+    "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
+    "url": "https://github.com/universal-tool-calling-protocol/code-mode",
+    "stars": 953,
     "daily_stars": 2,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-10-28T14:07:23",
-    "updated_at": "2025-11-21T07:52:38"
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "codemode",
+      "mcp",
+      "model-context-protocol",
+      "toolchain",
+      "utcp"
+    ],
+    "created_at": "2025-11-11T09:35:44",
+    "updated_at": "2025-11-21T12:42:45"
   },
   {
-    "name": "5-Day-AI-Agents-Intensive-Course-with-Google",
-    "full_name": "anxiong2025/5-Day-AI-Agents-Intensive-Course-with-Google",
-    "description": "谷歌5天AI Agents强化课程",
-    "url": "https://github.com/anxiong2025/5-Day-AI-Agents-Intensive-Course-with-Google",
-    "stars": 13,
+    "name": "agent-scripts",
+    "full_name": "steipete/agent-scripts",
+    "description": "Scripts for agents, shared between my repositories.",
+    "url": "https://github.com/steipete/agent-scripts",
+    "stars": 248,
+    "daily_stars": 2,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents"
+    ],
+    "created_at": "2025-11-08T02:55:55",
+    "updated_at": "2025-11-21T09:56:40"
+  },
+  {
+    "name": "ai-cli-edit",
+    "full_name": "istarkov/ai-cli-edit",
+    "description": "How I Met Your AI CLI",
+    "url": "https://github.com/istarkov/ai-cli-edit",
+    "stars": 6,
+    "daily_stars": 2,
+    "language": "HTML",
+    "topics": [
+      "ai",
+      "ai-agent-framework",
+      "ai-agents",
+      "claude-code",
+      "opencode"
+    ],
+    "created_at": "2025-11-20T03:04:13",
+    "updated_at": "2025-11-21T09:24:59"
+  },
+  {
+    "name": "autonomous-agentic-rag",
+    "full_name": "FareedKhan-dev/autonomous-agentic-rag",
+    "description": "Self improving agentic rag pipeline",
+    "url": "https://github.com/FareedKhan-dev/autonomous-agentic-rag",
+    "stars": 62,
     "daily_stars": 1,
     "language": "Jupyter Notebook",
     "topics": [
-      "ai-agents",
-      "google",
-      "kaggle",
-      "mcp"
+      "agentic-ai",
+      "ai",
+      "artificial-intelligence",
+      "langchain",
+      "rag"
     ],
-    "created_at": "2025-11-15T05:42:06",
-    "updated_at": "2025-11-21T04:57:40"
+    "created_at": "2025-11-13T18:10:48",
+    "updated_at": "2025-11-21T09:16:27"
   }
 ]
