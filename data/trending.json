@@ -1,30 +1,11 @@
 [
   {
-    "name": "code-mode",
-    "full_name": "universal-tool-calling-protocol/code-mode",
-    "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
-    "url": "https://github.com/universal-tool-calling-protocol/code-mode",
-    "stars": 1004,
-    "daily_stars": 13,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "codemode",
-      "mcp",
-      "model-context-protocol",
-      "toolchain",
-      "utcp"
-    ],
-    "created_at": "2025-11-11T09:35:44",
-    "updated_at": "2025-11-23T16:21:38"
-  },
-  {
     "name": "karpathy",
     "full_name": "K-Dense-AI/karpathy",
     "description": "An agentic Machine Learning Engineer",
     "url": "https://github.com/K-Dense-AI/karpathy",
-    "stars": 972,
-    "daily_stars": 11,
+    "stars": 986,
+    "daily_stars": 14,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -32,30 +13,14 @@
       "machine-learning"
     ],
     "created_at": "2025-11-16T22:39:26",
-    "updated_at": "2025-11-23T16:06:15"
-  },
-  {
-    "name": "agentic-data-scientist",
-    "full_name": "K-Dense-AI/agentic-data-scientist",
-    "description": "An end-to-end Data Scientist",
-    "url": "https://github.com/K-Dense-AI/agentic-data-scientist",
-    "stars": 261,
-    "daily_stars": 10,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "data-science",
-      "machine-learning"
-    ],
-    "created_at": "2025-11-04T07:29:49",
-    "updated_at": "2025-11-23T16:43:46"
+    "updated_at": "2025-11-23T20:05:30"
   },
   {
     "name": "SAG",
     "full_name": "Zleap-AI/SAG",
     "description": "SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying",
     "url": "https://github.com/Zleap-AI/SAG",
-    "stars": 267,
+    "stars": 276,
     "daily_stars": 9,
     "language": "Python",
     "topics": [
@@ -76,15 +41,31 @@
       "vector-search"
     ],
     "created_at": "2025-11-07T07:33:35",
-    "updated_at": "2025-11-23T16:13:34"
+    "updated_at": "2025-11-23T20:36:05"
+  },
+  {
+    "name": "agentic-data-scientist",
+    "full_name": "K-Dense-AI/agentic-data-scientist",
+    "description": "An end-to-end Data Scientist",
+    "url": "https://github.com/K-Dense-AI/agentic-data-scientist",
+    "stars": 267,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "data-science",
+      "machine-learning"
+    ],
+    "created_at": "2025-11-04T07:29:49",
+    "updated_at": "2025-11-23T20:23:19"
   },
   {
     "name": "continuous-claude",
     "full_name": "AnandChowdhary/continuous-claude",
     "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
     "url": "https://github.com/AnandChowdhary/continuous-claude",
-    "stars": 611,
-    "daily_stars": 7,
+    "stars": 613,
+    "daily_stars": 2,
     "language": "Shell",
     "topics": [
       "ai",
@@ -94,52 +75,15 @@
       "continuous-ai"
     ],
     "created_at": "2025-11-15T08:59:04",
-    "updated_at": "2025-11-23T15:30:12"
-  },
-  {
-    "name": "CyberStrikeAI",
-    "full_name": "Ed1s0nZ/CyberStrikeAI",
-    "description": "AI-Powered Autonomous Penetration Testing Platform - Built with Golang, featuring hundreds of built-in security tools, flexible custom tool extensions, and intelligent AI decision-making through MCP protocol, making security testing as simple as a conversation.",
-    "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
-    "stars": 228,
-    "daily_stars": 7,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-cybersecurity",
-      "ai-penetration-testing",
-      "ai-security-tool",
-      "ctf-tools",
-      "mcp"
-    ],
-    "created_at": "2025-11-08T10:41:23",
-    "updated_at": "2025-11-23T16:43:38"
-  },
-  {
-    "name": "agentic-parallelism",
-    "full_name": "FareedKhan-dev/agentic-parallelism",
-    "description": "Core concepts - where to apply parallelism in agentic solution",
-    "url": "https://github.com/FareedKhan-dev/agentic-parallelism",
-    "stars": 23,
-    "daily_stars": 5,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "langchain",
-      "langgraph"
-    ],
-    "created_at": "2025-11-20T08:08:31",
-    "updated_at": "2025-11-23T15:56:28"
+    "updated_at": "2025-11-23T19:48:29"
   },
   {
     "name": "vue-grab",
     "full_name": "EnderRomantice/vue-grab",
     "description": "Vue implementation of react-grab: Grab any element on in your app and give it to opencode, Claude Code, etc",
     "url": "https://github.com/EnderRomantice/vue-grab",
-    "stars": 28,
-    "daily_stars": 3,
+    "stars": 30,
+    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -148,15 +92,61 @@
       "vue-grab"
     ],
     "created_at": "2025-10-29T13:25:34",
-    "updated_at": "2025-11-23T16:06:08"
+    "updated_at": "2025-11-23T19:35:17"
+  },
+  {
+    "name": "n8n_nginx",
+    "full_name": "rjsears/n8n_nginx",
+    "description": "Production-ready self-hosted n8n deployment with HTTPS, automated SSL certificates via Let's Encrypt DNS-01 challenge, PostgreSQL with pgvector for AI/RAG workflows",
+    "url": "https://github.com/rjsears/n8n_nginx",
+    "stars": 9,
+    "daily_stars": 2,
+    "language": "Shell",
+    "topics": [
+      "automation",
+      "certbot",
+      "cloudflare",
+      "docker",
+      "docker-compose",
+      "https",
+      "letsencrypt",
+      "n8n",
+      "nginx",
+      "pgvector",
+      "postgresql",
+      "self-hosted",
+      "ssl",
+      "workflow"
+    ],
+    "created_at": "2025-11-22T21:23:43",
+    "updated_at": "2025-11-23T20:36:51"
+  },
+  {
+    "name": "code-mode",
+    "full_name": "universal-tool-calling-protocol/code-mode",
+    "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
+    "url": "https://github.com/universal-tool-calling-protocol/code-mode",
+    "stars": 1005,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "codemode",
+      "mcp",
+      "model-context-protocol",
+      "toolchain",
+      "utcp"
+    ],
+    "created_at": "2025-11-11T09:35:44",
+    "updated_at": "2025-11-23T17:14:50"
   },
   {
     "name": "Awesome-Vibecoding-Guide",
     "full_name": "Bob5k/Awesome-Vibecoding-Guide",
     "description": "A compendium drawn from real commercial projects and hundreds of thousands of lines of AI‑assisted code. Read it end‑to‑end or feed this repo to your AI agent for summaries and Q&A. Stars and watches appreciated! ⭐",
     "url": "https://github.com/Bob5k/Awesome-Vibecoding-Guide",
-    "stars": 153,
-    "daily_stars": 2,
+    "stars": 154,
+    "daily_stars": 1,
     "language": null,
     "topics": [
       "ai-agents",
@@ -169,32 +159,44 @@
       "vibecoding"
     ],
     "created_at": "2025-10-28T13:21:50",
-    "updated_at": "2025-11-23T16:18:09"
+    "updated_at": "2025-11-23T18:16:06"
   },
   {
-    "name": "asystem-awex",
-    "full_name": "inclusionAI/asystem-awex",
-    "description": "A high-performance RL training-inference weight synchronization framework, designed to enable second-level parameter updates from training to inference in RL workflows",
-    "url": "https://github.com/inclusionAI/asystem-awex",
-    "stars": 85,
-    "daily_stars": 2,
+    "name": "deep-research-agent",
+    "full_name": "tarun7r/deep-research-agent",
+    "description": "Multi-agent autonomous research system using LangGraph and LangChain. Generates citation-backed reports with credibility scoring and web search",
+    "url": "https://github.com/tarun7r/deep-research-agent",
+    "stars": 58,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "cuda",
-      "deep-learning",
-      "gpu",
-      "inference",
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "deepresearch",
+      "langchain",
+      "langgraph",
       "llm",
-      "machine-learning",
-      "moe",
-      "pytorch",
-      "reasoning",
-      "reinforcement-learning",
-      "rl",
-      "training",
-      "transformers"
+      "ollama"
     ],
-    "created_at": "2025-11-17T02:43:55",
-    "updated_at": "2025-11-23T14:48:27"
+    "created_at": "2025-11-13T17:34:28",
+    "updated_at": "2025-11-23T18:11:07"
+  },
+  {
+    "name": "agentic-parallelism",
+    "full_name": "FareedKhan-dev/agentic-parallelism",
+    "description": "Core concepts - where to apply parallelism in agentic solution",
+    "url": "https://github.com/FareedKhan-dev/agentic-parallelism",
+    "stars": 24,
+    "daily_stars": 1,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "langchain",
+      "langgraph"
+    ],
+    "created_at": "2025-11-20T08:08:31",
+    "updated_at": "2025-11-23T18:16:03"
   }
 ]
