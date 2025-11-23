@@ -4,8 +4,8 @@
     "full_name": "K-Dense-AI/agentic-data-scientist",
     "description": "An end-to-end Data Scientist",
     "url": "https://github.com/K-Dense-AI/agentic-data-scientist",
-    "stars": 227,
-    "daily_stars": 15,
+    "stars": 246,
+    "daily_stars": 19,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -13,15 +13,15 @@
       "machine-learning"
     ],
     "created_at": "2025-11-04T07:29:49",
-    "updated_at": "2025-11-23T04:44:40"
+    "updated_at": "2025-11-23T08:21:45"
   },
   {
     "name": "karpathy",
     "full_name": "K-Dense-AI/karpathy",
     "description": "An agentic Machine Learning Engineer",
     "url": "https://github.com/K-Dense-AI/karpathy",
-    "stars": 946,
-    "daily_stars": 9,
+    "stars": 957,
+    "daily_stars": 11,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -29,15 +29,94 @@
       "machine-learning"
     ],
     "created_at": "2025-11-16T22:39:26",
-    "updated_at": "2025-11-23T04:20:26"
+    "updated_at": "2025-11-23T08:38:41"
+  },
+  {
+    "name": "vue-grab",
+    "full_name": "EnderRomantice/vue-grab",
+    "description": "Vue implementation of react-grab: Grab any element on in your app and give it to opencode, Claude Code, etc",
+    "url": "https://github.com/EnderRomantice/vue-grab",
+    "stars": 21,
+    "daily_stars": 7,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "coding",
+      "vue",
+      "vue-grab"
+    ],
+    "created_at": "2025-10-29T13:25:34",
+    "updated_at": "2025-11-23T08:05:55"
+  },
+  {
+    "name": "continuous-claude",
+    "full_name": "AnandChowdhary/continuous-claude",
+    "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
+    "url": "https://github.com/AnandChowdhary/continuous-claude",
+    "stars": 604,
+    "daily_stars": 6,
+    "language": "Shell",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "continuous-ai"
+    ],
+    "created_at": "2025-11-15T08:59:04",
+    "updated_at": "2025-11-23T07:19:15"
+  },
+  {
+    "name": "agentic-parallelism",
+    "full_name": "FareedKhan-dev/agentic-parallelism",
+    "description": "Core concepts - where to apply parallelism in agentic solution",
+    "url": "https://github.com/FareedKhan-dev/agentic-parallelism",
+    "stars": 17,
+    "daily_stars": 4,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "langchain",
+      "langgraph"
+    ],
+    "created_at": "2025-11-20T08:08:31",
+    "updated_at": "2025-11-23T08:19:46"
+  },
+  {
+    "name": "n8n_nginx",
+    "full_name": "rjsears/n8n_nginx",
+    "description": "Production-ready self-hosted n8n deployment with HTTPS, automated SSL certificates via Let's Encrypt DNS-01 challenge, PostgreSQL with pgvector for AI/RAG workflows",
+    "url": "https://github.com/rjsears/n8n_nginx",
+    "stars": 6,
+    "daily_stars": 4,
+    "language": "Shell",
+    "topics": [
+      "automation",
+      "certbot",
+      "cloudflare",
+      "docker",
+      "docker-compose",
+      "https",
+      "letsencrypt",
+      "n8n",
+      "nginx",
+      "pgvector",
+      "postgresql",
+      "self-hosted",
+      "ssl",
+      "workflow"
+    ],
+    "created_at": "2025-11-22T21:23:43",
+    "updated_at": "2025-11-23T06:30:30"
   },
   {
     "name": "SAG",
     "full_name": "Zleap-AI/SAG",
     "description": "SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying",
     "url": "https://github.com/Zleap-AI/SAG",
-    "stars": 246,
-    "daily_stars": 5,
+    "stars": 249,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "ai",
@@ -57,87 +136,15 @@
       "vector-search"
     ],
     "created_at": "2025-11-07T07:33:35",
-    "updated_at": "2025-11-23T04:29:03"
-  },
-  {
-    "name": "vue-grab",
-    "full_name": "EnderRomantice/vue-grab",
-    "description": "Vue implementation of react-grab: Grab any element on in your app and give it to opencode, Claude Code, etc",
-    "url": "https://github.com/EnderRomantice/vue-grab",
-    "stars": 14,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "coding",
-      "vue",
-      "vue-grab"
-    ],
-    "created_at": "2025-10-29T13:25:34",
-    "updated_at": "2025-11-23T04:17:30"
-  },
-  {
-    "name": "autonomous-agentic-rag",
-    "full_name": "FareedKhan-dev/autonomous-agentic-rag",
-    "description": "Self improving agentic rag pipeline",
-    "url": "https://github.com/FareedKhan-dev/autonomous-agentic-rag",
-    "stars": 74,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "agentic-ai",
-      "ai",
-      "artificial-intelligence",
-      "langchain",
-      "rag"
-    ],
-    "created_at": "2025-11-13T18:10:48",
-    "updated_at": "2025-11-23T04:12:45"
-  },
-  {
-    "name": "nofyai",
-    "full_name": "osbrain/nofyai",
-    "description": "🤖 AI-powered algorithmic trading system with multi-agent competition. Built with Next.js 16, React 19, and TypeScript. Trade transparently with DeepSeek, Qwen, and Kimi AI models on Aster DEX.",
-    "url": "https://github.com/osbrain/nofyai",
-    "stars": 5,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai-trading",
-      "algorithmic-trading",
-      "artificial-intelligence",
-      "aster-dex",
-      "cryptocurrence",
-      "decentralized-exchange",
-      "deepseek",
-      "defi",
-      "llm",
-      "nextjs",
-      "open-source",
-      "trading-bot"
-    ],
-    "created_at": "2025-11-14T15:44:44",
-    "updated_at": "2025-11-23T03:42:32"
-  },
-  {
-    "name": "aether-trading-agent",
-    "full_name": "Suh0161/aether-trading-agent",
-    "description": "Autonomous AI cryptocurrency trading agent powered by DeepSeek AI. Features multi-timeframe analysis, adaptive swing/scalp strategies, intelligent risk management, and real-time web dashboard.",
-    "url": "https://github.com/Suh0161/aether-trading-agent",
-    "stars": 2,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-11-01T03:51:32",
-    "updated_at": "2025-11-23T03:44:54"
+    "updated_at": "2025-11-23T08:31:08"
   },
   {
     "name": "code-mode",
     "full_name": "universal-tool-calling-protocol/code-mode",
     "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
     "url": "https://github.com/universal-tool-calling-protocol/code-mode",
-    "stars": 981,
-    "daily_stars": 1,
+    "stars": 983,
+    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -148,29 +155,15 @@
       "utcp"
     ],
     "created_at": "2025-11-11T09:35:44",
-    "updated_at": "2025-11-23T03:54:16"
-  },
-  {
-    "name": "agent-scripts",
-    "full_name": "steipete/agent-scripts",
-    "description": "Scripts for agents, shared between my repositories.",
-    "url": "https://github.com/steipete/agent-scripts",
-    "stars": 260,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents"
-    ],
-    "created_at": "2025-11-08T02:55:55",
-    "updated_at": "2025-11-23T03:10:42"
+    "updated_at": "2025-11-23T08:20:33"
   },
   {
     "name": "CyberStrikeAI",
     "full_name": "Ed1s0nZ/CyberStrikeAI",
     "description": "AI-Powered Autonomous Penetration Testing Platform - Built with Golang, featuring hundreds of built-in security tools, flexible custom tool extensions, and intelligent AI decision-making through MCP protocol, making security testing as simple as a conversation.",
     "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
-    "stars": 217,
-    "daily_stars": 1,
+    "stars": 219,
+    "daily_stars": 2,
     "language": "Go",
     "topics": [
       "ai",
@@ -182,6 +175,25 @@
       "mcp"
     ],
     "created_at": "2025-11-08T10:41:23",
-    "updated_at": "2025-11-23T03:07:32"
+    "updated_at": "2025-11-23T08:24:48"
+  },
+  {
+    "name": "claude-scientific-writer",
+    "full_name": "K-Dense-AI/claude-scientific-writer",
+    "description": "A general purpose scientific writer",
+    "url": "https://github.com/K-Dense-AI/claude-scientific-writer",
+    "stars": 124,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "skills",
+      "tools",
+      "writer"
+    ],
+    "created_at": "2025-10-27T06:52:45",
+    "updated_at": "2025-11-23T08:00:29"
   }
 ]
