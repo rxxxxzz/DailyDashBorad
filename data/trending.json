@@ -1,11 +1,80 @@
 [
   {
+    "name": "karpathy",
+    "full_name": "K-Dense-AI/karpathy",
+    "description": "An agentic Machine Learning Engineer",
+    "url": "https://github.com/K-Dense-AI/karpathy",
+    "stars": 1033,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "automl",
+      "machine-learning"
+    ],
+    "created_at": "2025-11-16T22:39:26",
+    "updated_at": "2025-11-24T20:27:47"
+  },
+  {
+    "name": "agentic-data-scientist",
+    "full_name": "K-Dense-AI/agentic-data-scientist",
+    "description": "An end-to-end Data Scientist",
+    "url": "https://github.com/K-Dense-AI/agentic-data-scientist",
+    "stars": 297,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "data-science",
+      "machine-learning"
+    ],
+    "created_at": "2025-11-04T07:29:49",
+    "updated_at": "2025-11-24T20:02:44"
+  },
+  {
+    "name": "code-mode",
+    "full_name": "universal-tool-calling-protocol/code-mode",
+    "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
+    "url": "https://github.com/universal-tool-calling-protocol/code-mode",
+    "stars": 1027,
+    "daily_stars": 5,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "codemode",
+      "mcp",
+      "model-context-protocol",
+      "toolchain",
+      "utcp"
+    ],
+    "created_at": "2025-11-11T09:35:44",
+    "updated_at": "2025-11-24T20:16:49"
+  },
+  {
+    "name": "continuous-claude",
+    "full_name": "AnandChowdhary/continuous-claude",
+    "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
+    "url": "https://github.com/AnandChowdhary/continuous-claude",
+    "stars": 632,
+    "daily_stars": 5,
+    "language": "Shell",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "continuous-ai"
+    ],
+    "created_at": "2025-11-15T08:59:04",
+    "updated_at": "2025-11-24T19:57:51"
+  },
+  {
     "name": "SAG",
     "full_name": "Zleap-AI/SAG",
     "description": "SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying",
     "url": "https://github.com/Zleap-AI/SAG",
-    "stars": 311,
-    "daily_stars": 8,
+    "stars": 315,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "ai",
@@ -25,158 +94,47 @@
       "vector-search"
     ],
     "created_at": "2025-11-07T07:33:35",
-    "updated_at": "2025-11-24T16:42:40"
+    "updated_at": "2025-11-24T20:32:35"
   },
   {
-    "name": "agentic-data-scientist",
-    "full_name": "K-Dense-AI/agentic-data-scientist",
-    "description": "An end-to-end Data Scientist",
-    "url": "https://github.com/K-Dense-AI/agentic-data-scientist",
-    "stars": 291,
-    "daily_stars": 8,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "data-science",
-      "machine-learning"
-    ],
-    "created_at": "2025-11-04T07:29:49",
-    "updated_at": "2025-11-24T16:12:27"
-  },
-  {
-    "name": "continuous-claude",
-    "full_name": "AnandChowdhary/continuous-claude",
-    "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-    "url": "https://github.com/AnandChowdhary/continuous-claude",
-    "stars": 627,
-    "daily_stars": 4,
-    "language": "Shell",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "continuous-ai"
-    ],
-    "created_at": "2025-11-15T08:59:04",
-    "updated_at": "2025-11-24T16:41:49"
-  },
-  {
-    "name": "pctx",
-    "full_name": "portofcontext/pctx",
-    "description": "The pctx framework replaces tool-calling with deterministically generated, type-safe code that runs in secure sandboxes.",
-    "url": "https://github.com/portofcontext/pctx",
-    "stars": 144,
-    "daily_stars": 3,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "api",
-      "framework",
-      "local-development",
-      "mcp",
-      "mcp-server",
-      "open-source"
-    ],
-    "created_at": "2025-11-04T16:54:23",
-    "updated_at": "2025-11-24T15:58:38"
-  },
-  {
-    "name": "karpathy",
-    "full_name": "K-Dense-AI/karpathy",
-    "description": "An agentic Machine Learning Engineer",
-    "url": "https://github.com/K-Dense-AI/karpathy",
-    "stars": 1027,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "automl",
-      "machine-learning"
-    ],
-    "created_at": "2025-11-16T22:39:26",
-    "updated_at": "2025-11-24T15:49:24"
-  },
-  {
-    "name": "CyberStrikeAI",
-    "full_name": "Ed1s0nZ/CyberStrikeAI",
-    "description": "AI-Powered Autonomous Penetration Testing Platform - Built with Golang, featuring hundreds of built-in security tools, flexible custom tool extensions, and intelligent AI decision-making through MCP protocol, making security testing as simple as a conversation.",
-    "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
-    "stars": 255,
+    "name": "build-apps",
+    "full_name": "DokiTeam/build-apps",
+    "description": "Doki APKs, built and distributed automatically by GitHub Actions",
+    "url": "https://github.com/DokiTeam/build-apps",
+    "stars": 187,
     "daily_stars": 2,
-    "language": "Go",
+    "language": null,
     "topics": [
-      "ai",
-      "ai-agents",
-      "ai-cybersecurity",
-      "ai-penetration-testing",
-      "ai-security-tool",
-      "ctf-tools",
-      "mcp"
+      "actions",
+      "automation",
+      "cd",
+      "ci",
+      "github",
+      "workflow"
     ],
-    "created_at": "2025-11-08T10:41:23",
-    "updated_at": "2025-11-24T15:19:36"
+    "created_at": "2025-11-06T20:26:11",
+    "updated_at": "2025-11-24T18:22:39"
   },
   {
-    "name": "claude-scientific-writer",
-    "full_name": "K-Dense-AI/claude-scientific-writer",
-    "description": "A general purpose scientific writer",
-    "url": "https://github.com/K-Dense-AI/claude-scientific-writer",
-    "stars": 134,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "skills",
-      "tools",
-      "writer"
-    ],
-    "created_at": "2025-10-27T06:52:45",
-    "updated_at": "2025-11-24T15:21:10"
-  },
-  {
-    "name": "agentic-parallelism",
-    "full_name": "FareedKhan-dev/agentic-parallelism",
-    "description": "Core concepts - where to apply parallelism in agentic solution",
-    "url": "https://github.com/FareedKhan-dev/agentic-parallelism",
-    "stars": 29,
-    "daily_stars": 2,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "langchain",
-      "langgraph"
-    ],
-    "created_at": "2025-11-20T08:08:31",
-    "updated_at": "2025-11-24T15:26:00"
-  },
-  {
-    "name": "autonomous-agentic-rag",
-    "full_name": "FareedKhan-dev/autonomous-agentic-rag",
-    "description": "Self improving agentic rag pipeline",
-    "url": "https://github.com/FareedKhan-dev/autonomous-agentic-rag",
-    "stars": 78,
+    "name": "agent-scripts",
+    "full_name": "steipete/agent-scripts",
+    "description": "Scripts for agents, shared between my repositories.",
+    "url": "https://github.com/steipete/agent-scripts",
+    "stars": 264,
     "daily_stars": 1,
-    "language": "Jupyter Notebook",
+    "language": "TypeScript",
     "topics": [
-      "agentic-ai",
-      "ai",
-      "artificial-intelligence",
-      "langchain",
-      "rag"
+      "ai-agents"
     ],
-    "created_at": "2025-11-13T18:10:48",
-    "updated_at": "2025-11-24T16:06:55"
+    "created_at": "2025-11-08T02:55:55",
+    "updated_at": "2025-11-24T18:36:23"
   },
   {
     "name": "Awesome-Vibecoding-Guide",
     "full_name": "Bob5k/Awesome-Vibecoding-Guide",
     "description": "A compendium drawn from real commercial projects and hundreds of thousands of lines of AI‑assisted code. Read it end‑to‑end or feed this repo to your AI agent for summaries and Q&A. Stars and watches appreciated! ⭐",
     "url": "https://github.com/Bob5k/Awesome-Vibecoding-Guide",
-    "stars": 156,
+    "stars": 157,
     "daily_stars": 1,
     "language": null,
     "topics": [
@@ -190,6 +148,45 @@
       "vibecoding"
     ],
     "created_at": "2025-10-28T13:21:50",
-    "updated_at": "2025-11-24T13:19:52"
+    "updated_at": "2025-11-24T17:51:19"
+  },
+  {
+    "name": "pctx",
+    "full_name": "portofcontext/pctx",
+    "description": "The pctx framework replaces tool-calling with deterministically generated, type-safe code that runs in secure sandboxes.",
+    "url": "https://github.com/portofcontext/pctx",
+    "stars": 145,
+    "daily_stars": 1,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "api",
+      "framework",
+      "local-development",
+      "mcp",
+      "mcp-server",
+      "open-source"
+    ],
+    "created_at": "2025-11-04T16:54:23",
+    "updated_at": "2025-11-24T20:06:05"
+  },
+  {
+    "name": "claude-scientific-writer",
+    "full_name": "K-Dense-AI/claude-scientific-writer",
+    "description": "A general purpose scientific writer",
+    "url": "https://github.com/K-Dense-AI/claude-scientific-writer",
+    "stars": 135,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "skills",
+      "tools",
+      "writer"
+    ],
+    "created_at": "2025-10-27T06:52:45",
+    "updated_at": "2025-11-24T20:27:49"
   }
 ]
