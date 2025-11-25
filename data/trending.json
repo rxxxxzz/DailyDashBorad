@@ -1,27 +1,32 @@
 [
   {
-    "name": "agentic-data-scientist",
-    "full_name": "K-Dense-AI/agentic-data-scientist",
-    "description": "An end-to-end Data Scientist",
-    "url": "https://github.com/K-Dense-AI/agentic-data-scientist",
-    "stars": 331,
-    "daily_stars": 10,
-    "language": "Python",
+    "name": "Awesome-Vibecoding-Guide",
+    "full_name": "Bob5k/Awesome-Vibecoding-Guide",
+    "description": "A compendium drawn from real commercial projects and hundreds of thousands of lines of AI‑assisted code. Read it end‑to‑end or feed this repo to your AI agent for summaries and Q&A. Stars and watches appreciated! ⭐",
+    "url": "https://github.com/Bob5k/Awesome-Vibecoding-Guide",
+    "stars": 164,
+    "daily_stars": 5,
+    "language": null,
     "topics": [
-      "agentic-ai",
-      "data-science",
-      "machine-learning"
+      "ai-agents",
+      "awesome",
+      "coding-standards",
+      "guide",
+      "vibe-coded",
+      "vibe-coding",
+      "vibecoder",
+      "vibecoding"
     ],
-    "created_at": "2025-11-04T07:29:49",
-    "updated_at": "2025-11-25T16:50:20"
+    "created_at": "2025-10-28T13:21:50",
+    "updated_at": "2025-11-25T20:15:33"
   },
   {
     "name": "SAG",
     "full_name": "Zleap-AI/SAG",
     "description": "SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying",
     "url": "https://github.com/Zleap-AI/SAG",
-    "stars": 352,
-    "daily_stars": 7,
+    "stars": 357,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "ai",
@@ -41,15 +46,15 @@
       "vector-search"
     ],
     "created_at": "2025-11-07T07:33:35",
-    "updated_at": "2025-11-25T16:45:56"
+    "updated_at": "2025-11-25T19:46:07"
   },
   {
     "name": "karpathy",
     "full_name": "K-Dense-AI/karpathy",
     "description": "An agentic Machine Learning Engineer",
     "url": "https://github.com/K-Dense-AI/karpathy",
-    "stars": 1056,
-    "daily_stars": 6,
+    "stars": 1059,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -57,15 +62,54 @@
       "machine-learning"
     ],
     "created_at": "2025-11-16T22:39:26",
-    "updated_at": "2025-11-25T16:43:20"
+    "updated_at": "2025-11-25T18:49:28"
+  },
+  {
+    "name": "agentic-data-scientist",
+    "full_name": "K-Dense-AI/agentic-data-scientist",
+    "description": "An end-to-end Data Scientist",
+    "url": "https://github.com/K-Dense-AI/agentic-data-scientist",
+    "stars": 334,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "data-science",
+      "machine-learning"
+    ],
+    "created_at": "2025-11-04T07:29:49",
+    "updated_at": "2025-11-25T20:18:04"
+  },
+  {
+    "name": "station",
+    "full_name": "dualverse-ai/station",
+    "description": "The Station, an open-world multi-agent environment that models a miniature scientific ecosystem.",
+    "url": "https://github.com/dualverse-ai/station",
+    "stars": 58,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-agents-framework",
+      "ai-scientist",
+      "artificial-intelligence",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "open-world"
+    ],
+    "created_at": "2025-11-09T13:50:09",
+    "updated_at": "2025-11-25T18:35:10"
   },
   {
     "name": "code-mode",
     "full_name": "universal-tool-calling-protocol/code-mode",
     "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
     "url": "https://github.com/universal-tool-calling-protocol/code-mode",
-    "stars": 1042,
-    "daily_stars": 3,
+    "stars": 1044,
+    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -76,15 +120,63 @@
       "utcp"
     ],
     "created_at": "2025-11-11T09:35:44",
-    "updated_at": "2025-11-25T16:19:09"
+    "updated_at": "2025-11-25T19:36:27"
+  },
+  {
+    "name": "academic-thesis-ai",
+    "full_name": "federicodeponte/academic-thesis-ai",
+    "description": "🎓 AI-powered academic thesis and research paper writer with 14 specialized agents. Write 20k+ word theses 10x faster. FREE tier available (Gemini). Export to PDF/DOCX. Python-based with comprehensive documentation.",
+    "url": "https://github.com/federicodeponte/academic-thesis-ai",
+    "stars": 4,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "academic-writing",
+      "ai-agents",
+      "artificial-intelligence",
+      "automation",
+      "claude",
+      "gemini",
+      "machine-learning",
+      "openai",
+      "pdf-generation",
+      "python",
+      "research",
+      "thesis"
+    ],
+    "created_at": "2025-10-30T16:45:10",
+    "updated_at": "2025-11-25T20:39:02"
+  },
+  {
+    "name": "octoroute",
+    "full_name": "slb350/octoroute",
+    "description": "Smart HTTP router for local LLMs (Ollama, LM Studio, llama.cpp). Rule-based + LLM-powered routing, health checks, load   balancing, Prometheus metrics. Rust-native, zero-overhead.",
+    "url": "https://github.com/slb350/octoroute",
+    "stars": 2,
+    "daily_stars": 1,
+    "language": "Rust",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "homelab",
+      "llama-cpp",
+      "llm",
+      "lm-studio",
+      "local-llm",
+      "ollama",
+      "prometheus",
+      "rust"
+    ],
+    "created_at": "2025-11-18T06:30:08",
+    "updated_at": "2025-11-25T16:55:50"
   },
   {
     "name": "continuous-claude",
     "full_name": "AnandChowdhary/continuous-claude",
     "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
     "url": "https://github.com/AnandChowdhary/continuous-claude",
-    "stars": 642,
-    "daily_stars": 3,
+    "stars": 643,
+    "daily_stars": 1,
     "language": "Shell",
     "topics": [
       "ai",
@@ -94,15 +186,15 @@
       "continuous-ai"
     ],
     "created_at": "2025-11-15T08:59:04",
-    "updated_at": "2025-11-25T16:38:28"
+    "updated_at": "2025-11-25T19:17:02"
   },
   {
     "name": "CyberStrikeAI",
     "full_name": "Ed1s0nZ/CyberStrikeAI",
     "description": "AI-Powered Autonomous Penetration Testing Platform - Built with Golang, featuring hundreds of built-in security tools, flexible custom tool extensions, and intelligent AI decision-making through MCP protocol, making security testing as simple as a conversation.",
     "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
-    "stars": 269,
-    "daily_stars": 3,
+    "stars": 270,
+    "daily_stars": 1,
     "language": "Go",
     "topics": [
       "ai",
@@ -114,76 +206,6 @@
       "mcp"
     ],
     "created_at": "2025-11-08T10:41:23",
-    "updated_at": "2025-11-25T16:34:31"
-  },
-  {
-    "name": "agentic-parallelism",
-    "full_name": "FareedKhan-dev/agentic-parallelism",
-    "description": "Core concepts - where to apply parallelism in agentic solution",
-    "url": "https://github.com/FareedKhan-dev/agentic-parallelism",
-    "stars": 39,
-    "daily_stars": 2,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "langchain",
-      "langgraph"
-    ],
-    "created_at": "2025-11-20T08:08:31",
-    "updated_at": "2025-11-25T16:15:12"
-  },
-  {
-    "name": "universal-agents",
-    "full_name": "leochiu-a/universal-agents",
-    "description": "This repository hosts the canonical rules and skills every AI Agent must follow so that behavior stays consistent across runtimes. ",
-    "url": "https://github.com/leochiu-a/universal-agents",
-    "stars": 11,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "claude-code",
-      "codex",
-      "gemini-cli"
-    ],
-    "created_at": "2025-11-14T07:16:40",
-    "updated_at": "2025-11-25T16:41:24"
-  },
-  {
-    "name": "aster",
-    "full_name": "astercloud/aster",
-    "description": "星尘云枢 - 星尘汇聚，智能成枢。生产级 AI Agent 平台，原生支持多语言执行（Python/TS/Bash），Go 性能基底。",
-    "url": "https://github.com/astercloud/aster",
-    "stars": 6,
-    "daily_stars": 2,
-    "language": "Go",
-    "topics": [
-      "ai-agent",
-      "ai-agents"
-    ],
-    "created_at": "2025-11-18T01:21:18",
-    "updated_at": "2025-11-25T16:12:02"
-  },
-  {
-    "name": "smle",
-    "full_name": "blkdmr/smle",
-    "description": "SMLE - A simple framework that takes care of the boring stuff in ML projects. ",
-    "url": "https://github.com/blkdmr/smle",
-    "stars": 14,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "beginner-friendly",
-      "beginner-project",
-      "deep-learning",
-      "deep-neural-networks",
-      "machine-learning",
-      "open-source",
-      "python"
-    ],
-    "created_at": "2025-11-17T15:14:07",
-    "updated_at": "2025-11-25T16:39:39"
+    "updated_at": "2025-11-25T19:11:59"
   }
 ]
