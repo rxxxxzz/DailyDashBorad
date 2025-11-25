@@ -1,11 +1,63 @@
 [
   {
+    "name": "karpathy",
+    "full_name": "K-Dense-AI/karpathy",
+    "description": "An agentic Machine Learning Engineer",
+    "url": "https://github.com/K-Dense-AI/karpathy",
+    "stars": 1050,
+    "daily_stars": 8,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "automl",
+      "machine-learning"
+    ],
+    "created_at": "2025-11-16T22:39:26",
+    "updated_at": "2025-11-25T12:32:19"
+  },
+  {
+    "name": "agentic-data-scientist",
+    "full_name": "K-Dense-AI/agentic-data-scientist",
+    "description": "An end-to-end Data Scientist",
+    "url": "https://github.com/K-Dense-AI/agentic-data-scientist",
+    "stars": 321,
+    "daily_stars": 8,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "data-science",
+      "machine-learning"
+    ],
+    "created_at": "2025-11-04T07:29:49",
+    "updated_at": "2025-11-25T12:44:26"
+  },
+  {
+    "name": "CyberStrikeAI",
+    "full_name": "Ed1s0nZ/CyberStrikeAI",
+    "description": "AI-Powered Autonomous Penetration Testing Platform - Built with Golang, featuring hundreds of built-in security tools, flexible custom tool extensions, and intelligent AI decision-making through MCP protocol, making security testing as simple as a conversation.",
+    "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+    "stars": 266,
+    "daily_stars": 6,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-cybersecurity",
+      "ai-penetration-testing",
+      "ai-security-tool",
+      "ctf-tools",
+      "mcp"
+    ],
+    "created_at": "2025-11-08T10:41:23",
+    "updated_at": "2025-11-25T13:01:52"
+  },
+  {
     "name": "SAG",
     "full_name": "Zleap-AI/SAG",
     "description": "SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying",
     "url": "https://github.com/Zleap-AI/SAG",
-    "stars": 339,
-    "daily_stars": 7,
+    "stars": 345,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "ai",
@@ -25,30 +77,44 @@
       "vector-search"
     ],
     "created_at": "2025-11-07T07:33:35",
-    "updated_at": "2025-11-25T07:58:36"
+    "updated_at": "2025-11-25T11:52:51"
   },
   {
-    "name": "agentic-data-scientist",
-    "full_name": "K-Dense-AI/agentic-data-scientist",
-    "description": "An end-to-end Data Scientist",
-    "url": "https://github.com/K-Dense-AI/agentic-data-scientist",
-    "stars": 313,
-    "daily_stars": 5,
-    "language": "Python",
+    "name": "continuous-claude",
+    "full_name": "AnandChowdhary/continuous-claude",
+    "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
+    "url": "https://github.com/AnandChowdhary/continuous-claude",
+    "stars": 639,
+    "daily_stars": 4,
+    "language": "Shell",
     "topics": [
-      "agentic-ai",
-      "data-science",
-      "machine-learning"
+      "ai",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "continuous-ai"
     ],
-    "created_at": "2025-11-04T07:29:49",
-    "updated_at": "2025-11-25T08:28:41"
+    "created_at": "2025-11-15T08:59:04",
+    "updated_at": "2025-11-25T12:54:33"
+  },
+  {
+    "name": "VieNeu-TTS",
+    "full_name": "pnnbao97/VieNeu-TTS",
+    "description": "Vietnamese Text-to-Speech ",
+    "url": "https://github.com/pnnbao97/VieNeu-TTS",
+    "stars": 129,
+    "daily_stars": 4,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2025-10-28T14:07:23",
+    "updated_at": "2025-11-25T11:59:07"
   },
   {
     "name": "code-mode",
     "full_name": "universal-tool-calling-protocol/code-mode",
     "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
     "url": "https://github.com/universal-tool-calling-protocol/code-mode",
-    "stars": 1036,
+    "stars": 1039,
     "daily_stars": 3,
     "language": "TypeScript",
     "topics": [
@@ -60,137 +126,62 @@
       "utcp"
     ],
     "created_at": "2025-11-11T09:35:44",
-    "updated_at": "2025-11-25T07:33:31"
+    "updated_at": "2025-11-25T12:34:59"
   },
   {
-    "name": "CyberStrikeAI",
-    "full_name": "Ed1s0nZ/CyberStrikeAI",
-    "description": "AI-Powered Autonomous Penetration Testing Platform - Built with Golang, featuring hundreds of built-in security tools, flexible custom tool extensions, and intelligent AI decision-making through MCP protocol, making security testing as simple as a conversation.",
-    "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
-    "stars": 260,
+    "name": "agentic-parallelism",
+    "full_name": "FareedKhan-dev/agentic-parallelism",
+    "description": "Core concepts - where to apply parallelism in agentic solution",
+    "url": "https://github.com/FareedKhan-dev/agentic-parallelism",
+    "stars": 37,
     "daily_stars": 3,
-    "language": "Go",
+    "language": "Jupyter Notebook",
     "topics": [
-      "ai",
+      "agentic-ai",
       "ai-agents",
-      "ai-cybersecurity",
-      "ai-penetration-testing",
-      "ai-security-tool",
-      "ctf-tools",
-      "mcp"
+      "langchain",
+      "langgraph"
     ],
-    "created_at": "2025-11-08T10:41:23",
-    "updated_at": "2025-11-25T07:30:25"
+    "created_at": "2025-11-20T08:08:31",
+    "updated_at": "2025-11-25T11:05:03"
   },
   {
-    "name": "claude-scientific-writer",
-    "full_name": "K-Dense-AI/claude-scientific-writer",
-    "description": "A general purpose scientific writer",
-    "url": "https://github.com/K-Dense-AI/claude-scientific-writer",
-    "stars": 143,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "skills",
-      "tools",
-      "writer"
-    ],
-    "created_at": "2025-10-27T06:52:45",
-    "updated_at": "2025-11-25T06:45:45"
-  },
-  {
-    "name": "karpathy",
-    "full_name": "K-Dense-AI/karpathy",
-    "description": "An agentic Machine Learning Engineer",
-    "url": "https://github.com/K-Dense-AI/karpathy",
-    "stars": 1042,
-    "daily_stars": 3,
+    "name": "deep-research-agent",
+    "full_name": "tarun7r/deep-research-agent",
+    "description": "Multi-agent autonomous research system using LangGraph and LangChain. Generates citation-backed reports with credibility scoring and web search",
+    "url": "https://github.com/tarun7r/deep-research-agent",
+    "stars": 70,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "agentic-ai",
-      "automl",
-      "machine-learning"
-    ],
-    "created_at": "2025-11-16T22:39:26",
-    "updated_at": "2025-11-25T08:33:32"
-  },
-  {
-    "name": "Awesome-KV-Cache-Optimization",
-    "full_name": "jjiantong/Awesome-KV-Cache-Optimization",
-    "description": "[Survey] Towards Efficient Large Language Model Serving: A Survey on System-Aware KV Cache Optimization",
-    "url": "https://github.com/jjiantong/Awesome-KV-Cache-Optimization",
-    "stars": 153,
-    "daily_stars": 3,
-    "language": null,
-    "topics": [
       "ai",
-      "computer-architecture",
-      "kv-cache",
-      "llm",
-      "llm-inference",
-      "llm-serving",
-      "machine-learning",
-      "mlsys",
-      "neural-language-processing",
-      "serving-ml",
-      "system"
-    ],
-    "created_at": "2025-10-29T10:05:46",
-    "updated_at": "2025-11-25T08:18:09"
-  },
-  {
-    "name": "pctx",
-    "full_name": "portofcontext/pctx",
-    "description": "The pctx framework replaces tool-calling with deterministically generated, type-safe code that runs in secure sandboxes.",
-    "url": "https://github.com/portofcontext/pctx",
-    "stars": 148,
-    "daily_stars": 2,
-    "language": "Rust",
-    "topics": [
       "ai-agents",
-      "api",
-      "framework",
-      "local-development",
-      "mcp",
-      "mcp-server",
-      "open-source"
+      "deepresearch",
+      "langchain",
+      "langgraph",
+      "llm",
+      "ollama"
     ],
-    "created_at": "2025-11-04T16:54:23",
-    "updated_at": "2025-11-25T08:43:46"
+    "created_at": "2025-11-13T17:34:28",
+    "updated_at": "2025-11-25T12:17:56"
   },
   {
-    "name": "VieNeu-TTS",
-    "full_name": "pnnbao97/VieNeu-TTS",
-    "description": "Vietnamese Text-to-Speech ",
-    "url": "https://github.com/pnnbao97/VieNeu-TTS",
-    "stars": 125,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [],
-    "created_at": "2025-10-28T14:07:23",
-    "updated_at": "2025-11-25T06:50:22"
-  },
-  {
-    "name": "llmattack",
-    "full_name": "demianarc/llmattack",
-    "description": null,
-    "url": "https://github.com/demianarc/llmattack",
-    "stars": 4,
+    "name": "autonomous-agentic-rag",
+    "full_name": "FareedKhan-dev/autonomous-agentic-rag",
+    "description": "Self improving agentic rag pipeline",
+    "url": "https://github.com/FareedKhan-dev/autonomous-agentic-rag",
+    "stars": 79,
     "daily_stars": 1,
-    "language": "TypeScript",
+    "language": "Jupyter Notebook",
     "topics": [
+      "agentic-ai",
       "ai",
-      "artificial",
       "artificial-intelligence",
-      "cybersecurity",
-      "prompt",
-      "prompt-engineering",
-      "prompts"
+      "langchain",
+      "rag"
     ],
-    "created_at": "2025-11-14T11:49:44",
-    "updated_at": "2025-11-25T05:18:57"
+    "created_at": "2025-11-13T18:10:48",
+    "updated_at": "2025-11-25T09:23:15"
   }
 ]
