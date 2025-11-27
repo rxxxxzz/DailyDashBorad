@@ -1,11 +1,46 @@
 [
   {
+    "name": "continuous-claude",
+    "full_name": "AnandChowdhary/continuous-claude",
+    "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
+    "url": "https://github.com/AnandChowdhary/continuous-claude",
+    "stars": 698,
+    "daily_stars": 5,
+    "language": "Shell",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "continuous-ai"
+    ],
+    "created_at": "2025-11-15T08:59:04",
+    "updated_at": "2025-11-27T07:30:59"
+  },
+  {
+    "name": "agentic-parallelism",
+    "full_name": "FareedKhan-dev/agentic-parallelism",
+    "description": "Core concepts - where to apply parallelism in agentic solution",
+    "url": "https://github.com/FareedKhan-dev/agentic-parallelism",
+    "stars": 56,
+    "daily_stars": 4,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "langchain",
+      "langgraph"
+    ],
+    "created_at": "2025-11-20T08:08:31",
+    "updated_at": "2025-11-27T07:52:23"
+  },
+  {
     "name": "SAG",
     "full_name": "Zleap-AI/SAG",
     "description": "SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying",
     "url": "https://github.com/Zleap-AI/SAG",
-    "stars": 404,
-    "daily_stars": 6,
+    "stars": 408,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "ai",
@@ -25,51 +60,95 @@
       "vector-search"
     ],
     "created_at": "2025-11-07T07:33:35",
-    "updated_at": "2025-11-27T04:42:56"
+    "updated_at": "2025-11-27T08:12:16"
   },
   {
-    "name": "claude-secure-coding-rules",
-    "full_name": "TikiTribe/claude-secure-coding-rules",
-    "description": "Secure Coding Rules for Claude Code with a particular emphasis on AIML projects",
-    "url": "https://github.com/TikiTribe/claude-secure-coding-rules",
-    "stars": 8,
+    "name": "claude-agentic-patterns",
+    "full_name": "ThibautMelen/claude-agentic-patterns",
+    "description": "🤖 7 official agentic patterns from Anthropic docs - Subagents, Skills, Parallel Tools, Master-Clone & more. With Mermaid diagrams and code examples.",
+    "url": "https://github.com/ThibautMelen/claude-agentic-patterns",
+    "stars": 19,
+    "daily_stars": 3,
+    "language": null,
+    "topics": [
+      "agent-sdk",
+      "agentic",
+      "agentic-patterns",
+      "ai-agents",
+      "anthropic",
+      "awesome",
+      "claude",
+      "claude-code",
+      "design-patterns",
+      "llm",
+      "llm-patterns",
+      "mcp",
+      "orchestration",
+      "subagents",
+      "tool-use",
+      "workflows"
+    ],
+    "created_at": "2025-11-25T12:38:23",
+    "updated_at": "2025-11-27T08:39:32"
+  },
+  {
+    "name": "X-AnyLabeling-Server",
+    "full_name": "CVHub520/X-AnyLabeling-Server",
+    "description": "A Simple, Lightweight, and Extensible Serving Framework for X-AnyLabeling",
+    "url": "https://github.com/CVHub520/X-AnyLabeling-Server",
+    "stars": 21,
     "daily_stars": 3,
     "language": "Python",
     "topics": [
-      "ai",
-      "ai-agents",
-      "artificial-intelligence",
+      "annotation-tool",
+      "clip",
+      "computer-vision",
+      "deep-learning",
+      "grounding-dino",
+      "image-classification",
+      "image-labeling-tool",
+      "instance-segmentation",
+      "labeling-tool",
       "machine-learning",
-      "ml",
-      "security"
+      "object-detection",
+      "pose-estimation",
+      "pytorch",
+      "rotated-object-detection",
+      "segment-anything",
+      "transformers",
+      "vision-language-model",
+      "x-anylabeling",
+      "yolo"
     ],
-    "created_at": "2025-11-20T00:32:43",
-    "updated_at": "2025-11-27T04:33:53"
+    "created_at": "2025-11-04T09:00:29",
+    "updated_at": "2025-11-27T06:03:39"
   },
   {
-    "name": "continuous-claude",
-    "full_name": "AnandChowdhary/continuous-claude",
-    "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-    "url": "https://github.com/AnandChowdhary/continuous-claude",
-    "stars": 693,
-    "daily_stars": 3,
-    "language": "Shell",
+    "name": "pctx",
+    "full_name": "portofcontext/pctx",
+    "description": "The pctx framework replaces tool-calling with deterministically generated, type-safe code that runs in secure sandboxes.",
+    "url": "https://github.com/portofcontext/pctx",
+    "stars": 154,
+    "daily_stars": 2,
+    "language": "Rust",
     "topics": [
-      "ai",
       "ai-agents",
-      "claude",
-      "claude-code",
-      "continuous-ai"
+      "api",
+      "framework",
+      "local-development",
+      "mcp",
+      "mcp-server",
+      "open-source"
     ],
-    "created_at": "2025-11-15T08:59:04",
-    "updated_at": "2025-11-27T04:29:36"
+    "created_at": "2025-11-04T16:54:23",
+    "updated_at": "2025-11-27T08:31:44"
   },
   {
     "name": "lean-spec",
     "full_name": "codervisor/lean-spec",
     "description": "Lightweight, flexible Spec-Driven Development (SDD) for modern AI-powered development",
     "url": "https://github.com/codervisor/lean-spec",
-    "stars": 57,
+    "stars": 59,
     "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
@@ -79,131 +158,61 @@
       "spec-driven-development"
     ],
     "created_at": "2025-10-31T08:59:00",
-    "updated_at": "2025-11-27T04:00:02"
+    "updated_at": "2025-11-27T08:42:35"
   },
   {
-    "name": "vue-grab",
-    "full_name": "EnderRomantice/vue-grab",
-    "description": "Vue implementation of react-grab: Grab any element on in your app and give it to opencode, Claude Code, etc",
-    "url": "https://github.com/EnderRomantice/vue-grab",
-    "stars": 48,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "coding",
-      "vue",
-      "vue-grab"
-    ],
-    "created_at": "2025-10-29T13:25:34",
-    "updated_at": "2025-11-27T03:49:19"
-  },
-  {
-    "name": "agentic-data-scientist",
-    "full_name": "K-Dense-AI/agentic-data-scientist",
-    "description": "An end-to-end Data Scientist",
-    "url": "https://github.com/K-Dense-AI/agentic-data-scientist",
-    "stars": 376,
+    "name": "ToolOrchestra",
+    "full_name": "NVlabs/ToolOrchestra",
+    "description": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.",
+    "url": "https://github.com/NVlabs/ToolOrchestra",
+    "stars": 4,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
+      "agent",
       "agentic-ai",
-      "data-science",
-      "machine-learning"
+      "deep-learning",
+      "large-language-models"
     ],
-    "created_at": "2025-11-04T07:29:49",
-    "updated_at": "2025-11-27T03:27:26"
+    "created_at": "2025-11-25T23:53:41",
+    "updated_at": "2025-11-27T08:10:45"
   },
   {
-    "name": "splintr",
-    "full_name": "farhan-syah/splintr",
-    "description": "A high-performance BPE tokenizer built with Rust with Python bindings, focused on speed, safety, and resource optimization.",
-    "url": "https://github.com/farhan-syah/splintr",
-    "stars": 19,
+    "name": "build-apps",
+    "full_name": "DokiTeam/build-apps",
+    "description": "Doki APKs, built and distributed automatically by GitHub Actions",
+    "url": "https://github.com/DokiTeam/build-apps",
+    "stars": 190,
     "daily_stars": 2,
-    "language": "Rust",
+    "language": null,
     "topics": [
-      "huggingface",
-      "llm",
-      "machine-learning",
-      "openai",
-      "rust",
-      "tokenizer"
-    ],
-    "created_at": "2025-11-26T00:25:17",
-    "updated_at": "2025-11-27T04:30:35"
-  },
-  {
-    "name": "AuViMa",
-    "full_name": "tsaijamey/AuViMa",
-    "description": "🎬 AI-powered automated video creation pipeline using Claude Code. Transform topics into professional videos with smart storyboarding, screen recording, and voice synthesis.",
-    "url": "https://github.com/tsaijamey/AuViMa",
-    "stars": 2,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
+      "actions",
       "automation",
-      "chrome-automation",
-      "claude-ai",
-      "content-creation",
-      "ffmpeg",
-      "machine-learning",
-      "macos",
-      "python",
-      "text-to-video",
-      "video-editing",
-      "video-generation",
-      "video-maker",
-      "youtube-shorts"
+      "cd",
+      "ci",
+      "github",
+      "workflow"
     ],
-    "created_at": "2025-11-15T10:57:52",
-    "updated_at": "2025-11-27T03:25:00"
+    "created_at": "2025-11-06T20:26:11",
+    "updated_at": "2025-11-27T06:14:31"
   },
   {
-    "name": "code-mode",
-    "full_name": "universal-tool-calling-protocol/code-mode",
-    "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
-    "url": "https://github.com/universal-tool-calling-protocol/code-mode",
-    "stars": 1058,
+    "name": "I-Passed-AI-102-",
+    "full_name": "johnbro101/I-Passed-AI-102-",
+    "description": " Just passed my exam through this site :) https://www.itexamspro.com/microsoft/ai-102-dumps.html",
+    "url": "https://github.com/johnbro101/I-Passed-AI-102-",
+    "stars": 9,
     "daily_stars": 1,
-    "language": "TypeScript",
+    "language": null,
     "topics": [
-      "ai-agents",
-      "codemode",
-      "mcp",
-      "model-context-protocol",
-      "toolchain",
-      "utcp"
+      "ai-102-questions",
+      "ai-102-questions-answers",
+      "artificial-intelligence",
+      "certification",
+      "microsoft",
+      "microsoft-azure"
     ],
-    "created_at": "2025-11-11T09:35:44",
-    "updated_at": "2025-11-27T02:50:38"
-  },
-  {
-    "name": "ReNovel-AI",
-    "full_name": "BiranSama/ReNovel-AI",
-    "description": "本地化 AI 小说精修工作台🚀。内置 RAG 长时记忆🧠、三模态协作（作家/主编/助手）🖋️、卡片流式编辑器⚡。支持酒馆卡导入、全书自动化精修与扩写🎭。AI小说加料 小说精修 AI文本修改 小说扩写 小说总结",
-    "url": "https://github.com/BiranSama/ReNovel-AI",
-    "stars": 7,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-writing",
-      "airflow",
-      "chromadb",
-      "creative-writing",
-      "llm",
-      "nicegui",
-      "novel-writing",
-      "python",
-      "rag",
-      "sillytavern",
-      "text-expansion"
-    ],
-    "created_at": "2025-11-20T19:35:45",
-    "updated_at": "2025-11-27T02:25:03"
+    "created_at": "2025-11-18T08:56:46",
+    "updated_at": "2025-11-27T08:13:11"
   }
 ]
