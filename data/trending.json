@@ -1,65 +1,10 @@
 [
   {
-    "name": "spacepigeon",
-    "full_name": "louivers/spacepigeon",
-    "description": "Workspace manager for macOS",
-    "url": "https://github.com/louivers/spacepigeon",
-    "stars": 33,
-    "daily_stars": 9,
-    "language": "Swift",
-    "topics": [
-      "hammerspoon",
-      "lua",
-      "macos",
-      "open-source",
-      "productivity",
-      "spaces",
-      "window-manager",
-      "workflow"
-    ],
-    "created_at": "2025-11-23T09:57:05",
-    "updated_at": "2025-11-28T02:09:21"
-  },
-  {
-    "name": "continuous-claude",
-    "full_name": "AnandChowdhary/continuous-claude",
-    "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-    "url": "https://github.com/AnandChowdhary/continuous-claude",
-    "stars": 711,
-    "daily_stars": 7,
-    "language": "Shell",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "continuous-ai"
-    ],
-    "created_at": "2025-11-15T08:59:04",
-    "updated_at": "2025-11-28T01:18:09"
-  },
-  {
-    "name": "agentic-data-scientist",
-    "full_name": "K-Dense-AI/agentic-data-scientist",
-    "description": "An end-to-end Data Scientist",
-    "url": "https://github.com/K-Dense-AI/agentic-data-scientist",
-    "stars": 390,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "data-science",
-      "machine-learning"
-    ],
-    "created_at": "2025-11-04T07:29:49",
-    "updated_at": "2025-11-27T22:18:11"
-  },
-  {
     "name": "ToolOrchestra",
     "full_name": "NVlabs/ToolOrchestra",
     "description": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.",
     "url": "https://github.com/NVlabs/ToolOrchestra",
-    "stars": 21,
+    "stars": 25,
     "daily_stars": 4,
     "language": "Python",
     "topics": [
@@ -69,15 +14,32 @@
       "large-language-models"
     ],
     "created_at": "2025-11-25T23:53:41",
-    "updated_at": "2025-11-28T01:36:06"
+    "updated_at": "2025-11-28T04:23:57"
+  },
+  {
+    "name": "lean-spec",
+    "full_name": "codervisor/lean-spec",
+    "description": "Lightweight, flexible Spec-Driven Development (SDD) for modern AI-powered development",
+    "url": "https://github.com/codervisor/lean-spec",
+    "stars": 68,
+    "daily_stars": 3,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "project-management",
+      "spec-driven-development"
+    ],
+    "created_at": "2025-10-31T08:59:00",
+    "updated_at": "2025-11-28T03:23:51"
   },
   {
     "name": "claude-secure-coding-rules",
     "full_name": "TikiTribe/claude-secure-coding-rules",
     "description": "Secure Coding Rules for Claude Code with a particular emphasis on AIML projects",
     "url": "https://github.com/TikiTribe/claude-secure-coding-rules",
-    "stars": 16,
-    "daily_stars": 3,
+    "stars": 17,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai",
@@ -88,15 +50,145 @@
       "security"
     ],
     "created_at": "2025-11-20T00:32:43",
-    "updated_at": "2025-11-28T01:54:49"
+    "updated_at": "2025-11-28T02:39:38"
+  },
+  {
+    "name": "deepnote-toolkit",
+    "full_name": "deepnote/deepnote-toolkit",
+    "description": "Essential Python toolkit for Deepnote environments",
+    "url": "https://github.com/deepnote/deepnote-toolkit",
+    "stars": 15,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "data",
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "deepnote",
+      "eda",
+      "jupyter",
+      "jupyterhub",
+      "jupyterlab",
+      "machine-learning",
+      "notebooks",
+      "python",
+      "r",
+      "sql"
+    ],
+    "created_at": "2025-10-30T16:51:48",
+    "updated_at": "2025-11-28T03:55:56"
+  },
+  {
+    "name": "code-mode",
+    "full_name": "universal-tool-calling-protocol/code-mode",
+    "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
+    "url": "https://github.com/universal-tool-calling-protocol/code-mode",
+    "stars": 1064,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "codemode",
+      "mcp",
+      "model-context-protocol",
+      "toolchain",
+      "utcp"
+    ],
+    "created_at": "2025-11-11T09:35:44",
+    "updated_at": "2025-11-28T04:14:54"
+  },
+  {
+    "name": "continuous-claude",
+    "full_name": "AnandChowdhary/continuous-claude",
+    "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
+    "url": "https://github.com/AnandChowdhary/continuous-claude",
+    "stars": 712,
+    "daily_stars": 1,
+    "language": "Shell",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "continuous-ai"
+    ],
+    "created_at": "2025-11-15T08:59:04",
+    "updated_at": "2025-11-28T03:24:20"
+  },
+  {
+    "name": "claude-agentic-patterns",
+    "full_name": "ThibautMelen/claude-agentic-patterns",
+    "description": "🤖 7 official agentic patterns from Anthropic docs - Subagents, Skills, Parallel Tools, Master-Clone & more. With Mermaid diagrams and code examples.",
+    "url": "https://github.com/ThibautMelen/claude-agentic-patterns",
+    "stars": 26,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "agent-sdk",
+      "agentic",
+      "agentic-patterns",
+      "ai-agents",
+      "anthropic",
+      "awesome",
+      "claude",
+      "claude-code",
+      "design-patterns",
+      "llm",
+      "llm-patterns",
+      "mcp",
+      "orchestration",
+      "subagents",
+      "tool-use",
+      "workflows"
+    ],
+    "created_at": "2025-11-25T12:38:23",
+    "updated_at": "2025-11-28T04:38:11"
+  },
+  {
+    "name": "nautilus_AItrader",
+    "full_name": "Patrick-code-Bot/nautilus_AItrader",
+    "description": "AI-powered cryptocurrency trading bot using DeepSeek and NautilusTrader",
+    "url": "https://github.com/Patrick-code-Bot/nautilus_AItrader",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "binance",
+      "cryptocurrency",
+      "deepseek",
+      "nautilus-trader",
+      "trading",
+      "trading-algorithms"
+    ],
+    "created_at": "2025-11-02T16:12:55",
+    "updated_at": "2025-11-28T02:56:59"
+  },
+  {
+    "name": "karpathy",
+    "full_name": "K-Dense-AI/karpathy",
+    "description": "An agentic Machine Learning Engineer",
+    "url": "https://github.com/K-Dense-AI/karpathy",
+    "stars": 1086,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "automl",
+      "machine-learning"
+    ],
+    "created_at": "2025-11-16T22:39:26",
+    "updated_at": "2025-11-28T02:36:21"
   },
   {
     "name": "SAG",
     "full_name": "Zleap-AI/SAG",
     "description": "SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying",
     "url": "https://github.com/Zleap-AI/SAG",
-    "stars": 432,
-    "daily_stars": 3,
+    "stars": 433,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai",
@@ -116,98 +208,6 @@
       "vector-search"
     ],
     "created_at": "2025-11-07T07:33:35",
-    "updated_at": "2025-11-28T02:03:24"
-  },
-  {
-    "name": "station",
-    "full_name": "dualverse-ai/station",
-    "description": "The Station, an open-world multi-agent environment that models a miniature scientific ecosystem.",
-    "url": "https://github.com/dualverse-ai/station",
-    "stars": 67,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "ai-agents-framework",
-      "ai-scientist",
-      "artificial-intelligence",
-      "large-language-models",
-      "llm",
-      "machine-learning",
-      "open-world"
-    ],
-    "created_at": "2025-11-09T13:50:09",
-    "updated_at": "2025-11-28T00:58:19"
-  },
-  {
-    "name": "lean-spec",
-    "full_name": "codervisor/lean-spec",
-    "description": "Lightweight, flexible Spec-Driven Development (SDD) for modern AI-powered development",
-    "url": "https://github.com/codervisor/lean-spec",
-    "stars": 65,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "project-management",
-      "spec-driven-development"
-    ],
-    "created_at": "2025-10-31T08:59:00",
-    "updated_at": "2025-11-28T02:10:16"
-  },
-  {
-    "name": "mxp-protocol",
-    "full_name": "yafatek/mxp-protocol",
-    "description": "MXP: The Linux of Agent Protocols. High-performance A2A-compatible transport for AI agents. 37x faster than JSON, built-in tracing, native streaming. Open source (MIT/Apache-2.0).",
-    "url": "https://github.com/yafatek/mxp-protocol",
-    "stars": 8,
-    "daily_stars": 2,
-    "language": "Rust",
-    "topics": [
-      "a2a-protocol",
-      "agent",
-      "agent-protocol",
-      "agentic-ai",
-      "agentic-framework",
-      "agentic-workflow",
-      "agents",
-      "ai",
-      "ai-agents",
-      "binary-protocol",
-      "distributed-tracing",
-      "high-performance",
-      "llm",
-      "multi-agent",
-      "protocol",
-      "runtime",
-      "rust",
-      "rust-lang",
-      "sdk",
-      "udp"
-    ],
-    "created_at": "2025-11-01T11:17:53",
-    "updated_at": "2025-11-27T22:51:43"
-  },
-  {
-    "name": "splintr",
-    "full_name": "farhan-syah/splintr",
-    "description": "A high-performance BPE tokenizer built with Rust with Python bindings, focused on speed, safety, and resource optimization.",
-    "url": "https://github.com/farhan-syah/splintr",
-    "stars": 33,
-    "daily_stars": 2,
-    "language": "Rust",
-    "topics": [
-      "huggingface",
-      "llm",
-      "machine-learning",
-      "openai",
-      "rust",
-      "tokenizer"
-    ],
-    "created_at": "2025-11-26T00:25:17",
-    "updated_at": "2025-11-28T02:13:18"
+    "updated_at": "2025-11-28T04:19:43"
   }
 ]
