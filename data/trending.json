@@ -4,8 +4,8 @@
     "full_name": "Zleap-AI/SAG",
     "description": "SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying",
     "url": "https://github.com/Zleap-AI/SAG",
-    "stars": 476,
-    "daily_stars": 8,
+    "stars": 483,
+    "daily_stars": 7,
     "language": "Python",
     "topics": [
       "ai",
@@ -25,15 +25,15 @@
       "vector-search"
     ],
     "created_at": "2025-11-07T07:33:35",
-    "updated_at": "2025-11-29T08:32:38"
+    "updated_at": "2025-11-29T12:30:07"
   },
   {
     "name": "ToolOrchestra",
     "full_name": "NVlabs/ToolOrchestra",
     "description": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.",
     "url": "https://github.com/NVlabs/ToolOrchestra",
-    "stars": 57,
-    "daily_stars": 8,
+    "stars": 64,
+    "daily_stars": 7,
     "language": "Python",
     "topics": [
       "agent",
@@ -42,15 +42,35 @@
       "large-language-models"
     ],
     "created_at": "2025-11-25T23:53:41",
-    "updated_at": "2025-11-29T08:37:15"
+    "updated_at": "2025-11-29T12:44:02"
+  },
+  {
+    "name": "CyberStrikeAI",
+    "full_name": "Ed1s0nZ/CyberStrikeAI",
+    "description": "AI-Powered Autonomous Penetration Testing Platform - Built with Golang, featuring hundreds of built-in security tools, flexible custom tool extensions, and intelligent AI decision-making through MCP protocol, making security testing as simple as a conversation.",
+    "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+    "stars": 291,
+    "daily_stars": 2,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-cybersecurity",
+      "ai-penetration-testing",
+      "ai-security-tool",
+      "ctf-tools",
+      "mcp"
+    ],
+    "created_at": "2025-11-08T10:41:23",
+    "updated_at": "2025-11-29T11:31:54"
   },
   {
     "name": "fixxer",
     "full_name": "BandwagonVibes/fixxer",
     "description": "AI-powered photography workflow automation",
     "url": "https://github.com/BandwagonVibes/fixxer",
-    "stars": 3,
-    "daily_stars": 3,
+    "stars": 5,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "automation",
@@ -70,75 +90,41 @@
       "workflow"
     ],
     "created_at": "2025-11-10T02:14:45",
-    "updated_at": "2025-11-29T08:28:39"
+    "updated_at": "2025-11-29T11:48:04"
   },
   {
-    "name": "code-mode",
-    "full_name": "universal-tool-calling-protocol/code-mode",
-    "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
-    "url": "https://github.com/universal-tool-calling-protocol/code-mode",
-    "stars": 1074,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "codemode",
-      "mcp",
-      "model-context-protocol",
-      "toolchain",
-      "utcp"
-    ],
-    "created_at": "2025-11-11T09:35:44",
-    "updated_at": "2025-11-29T07:07:18"
-  },
-  {
-    "name": "splintr",
-    "full_name": "farhan-syah/splintr",
-    "description": "A high-performance BPE tokenizer built with Rust with Python bindings, focused on speed, safety, and resource optimization.",
-    "url": "https://github.com/farhan-syah/splintr",
-    "stars": 36,
-    "daily_stars": 2,
-    "language": "Rust",
-    "topics": [
-      "huggingface",
-      "llm",
-      "machine-learning",
-      "openai",
-      "rust",
-      "tokenizer"
-    ],
-    "created_at": "2025-11-26T00:25:17",
-    "updated_at": "2025-11-29T05:54:55"
-  },
-  {
-    "name": "station",
-    "full_name": "dualverse-ai/station",
-    "description": "The Station, an open-world multi-agent environment that models a miniature scientific ecosystem.",
-    "url": "https://github.com/dualverse-ai/station",
-    "stars": 72,
+    "name": "ollama-chat-application",
+    "full_name": "EliAbdiel/ollama-chat-application",
+    "description": "A sophisticated conversational AI application built with Chainlit and Ollama, featuring multi-modal document processing, MCP (Model Context Protocol) tool integration, and persistent chat sessions. Supports voice input, file analysis (PDF, DOCX, images), and seamless LLM model switching through customizable chat profiles.",
+    "url": "https://github.com/EliAbdiel/ollama-chat-application",
+    "stars": 5,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "ai-agents-framework",
-      "ai-scientist",
+      "agent",
       "artificial-intelligence",
-      "large-language-models",
-      "llm",
-      "machine-learning",
-      "open-world"
+      "assistant",
+      "chainlit",
+      "chatbot",
+      "github",
+      "learn",
+      "mcp",
+      "nlp",
+      "oauth",
+      "ollama",
+      "open-source",
+      "postgresql",
+      "python"
     ],
-    "created_at": "2025-11-09T13:50:09",
-    "updated_at": "2025-11-29T08:38:43"
+    "created_at": "2025-11-23T19:12:52",
+    "updated_at": "2025-11-29T10:27:14"
   },
   {
     "name": "continuous-claude",
     "full_name": "AnandChowdhary/continuous-claude",
     "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
     "url": "https://github.com/AnandChowdhary/continuous-claude",
-    "stars": 721,
+    "stars": 722,
     "daily_stars": 1,
     "language": "Shell",
     "topics": [
@@ -149,57 +135,92 @@
       "continuous-ai"
     ],
     "created_at": "2025-11-15T08:59:04",
-    "updated_at": "2025-11-29T06:15:50"
+    "updated_at": "2025-11-29T12:44:37"
   },
   {
-    "name": "lean-spec",
-    "full_name": "codervisor/lean-spec",
-    "description": "Lightweight, flexible Spec-Driven Development (SDD) for modern AI-powered development",
-    "url": "https://github.com/codervisor/lean-spec",
-    "stars": 72,
+    "name": "agent-scripts",
+    "full_name": "steipete/agent-scripts",
+    "description": "Scripts for agents, shared between my repositories.",
+    "url": "https://github.com/steipete/agent-scripts",
+    "stars": 271,
     "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
-      "ai",
-      "ai-agents",
-      "project-management",
-      "spec-driven-development"
+      "ai-agents"
     ],
-    "created_at": "2025-10-31T08:59:00",
-    "updated_at": "2025-11-29T08:11:39"
+    "created_at": "2025-11-08T02:55:55",
+    "updated_at": "2025-11-29T12:44:06"
   },
   {
-    "name": "5-Day-AI-Agents-Intensive-Course-with-Google",
-    "full_name": "sdivyanshu90/5-Day-AI-Agents-Intensive-Course-with-Google",
-    "description": null,
-    "url": "https://github.com/sdivyanshu90/5-Day-AI-Agents-Intensive-Course-with-Google",
-    "stars": 62,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "ai-agents",
-      "google",
-      "kaggle",
-      "mcp"
-    ],
-    "created_at": "2025-11-11T06:12:37",
-    "updated_at": "2025-11-29T08:04:57"
-  },
-  {
-    "name": "langgraph-travel-agent",
-    "full_name": "HarimxChoi/langgraph-travel-agent",
-    "description": "✨ Open-source AI travel agent: LangGraph multi-agent system ✨",
-    "url": "https://github.com/HarimxChoi/langgraph-travel-agent",
-    "stars": 3,
+    "name": "meridian",
+    "full_name": "markmdev/meridian",
+    "description": "Zero-config Claude Code setup with enforced task scaffolding, structured memory, persistent context after compaction, plug-in code standards, optional TDD mode, and zero behavior changes for developers.",
+    "url": "https://github.com/markmdev/meridian",
+    "stars": 103,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
+      "ai-agents",
+      "anthropic",
+      "automation",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "developer-workflow",
+      "nextjs",
+      "nodejs",
+      "open-source",
+      "productivity",
+      "software-engineering",
+      "task-runner",
+      "tdd",
+      "typescript",
+      "workflow-automation",
+      "zero-config"
+    ],
+    "created_at": "2025-11-13T07:51:57",
+    "updated_at": "2025-11-29T11:37:18"
+  },
+  {
+    "name": "mcp-checkpoint",
+    "full_name": "aira-security/mcp-checkpoint",
+    "description": "MCP Checkpoint continuously secures and monitors Model Context Protocol operations through static and dynamic scans, revealing hidden risks in agent-to-tool communications.",
+    "url": "https://github.com/aira-security/mcp-checkpoint",
+    "stars": 82,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
       "ai",
       "ai-agents",
-      "langchain",
-      "langgraph"
+      "aira",
+      "mcp",
+      "model-context-protocol",
+      "security"
     ],
-    "created_at": "2025-11-09T15:11:55",
-    "updated_at": "2025-11-29T06:00:12"
+    "created_at": "2025-11-07T21:35:56",
+    "updated_at": "2025-11-29T10:51:30"
+  },
+  {
+    "name": "ai-agent-team",
+    "full_name": "peterfei/ai-agent-team",
+    "description": "AI Agent Team-拥有24/7专业AI开发团队：产品经理、前端开发、后端开发、测试工程师、DevOps工程师、技术负责人。一键安装，支持中英文命令，大幅提升开发效率！",
+    "url": "https://github.com/peterfei/ai-agent-team",
+    "stars": 42,
+    "daily_stars": 1,
+    "language": "JavaScript",
+    "topics": [
+      "24886",
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "claude-code-skill",
+      "drawnotes",
+      "ide",
+      "notebook",
+      "skill"
+    ],
+    "created_at": "2025-11-07T15:22:33",
+    "updated_at": "2025-11-29T11:58:48"
   }
 ]
