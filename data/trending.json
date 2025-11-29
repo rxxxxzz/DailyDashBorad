@@ -4,8 +4,8 @@
     "full_name": "Zleap-AI/SAG",
     "description": "SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying",
     "url": "https://github.com/Zleap-AI/SAG",
-    "stars": 458,
-    "daily_stars": 4,
+    "stars": 467,
+    "daily_stars": 9,
     "language": "Python",
     "topics": [
       "ai",
@@ -25,50 +25,15 @@
       "vector-search"
     ],
     "created_at": "2025-11-07T07:33:35",
-    "updated_at": "2025-11-28T18:31:43"
-  },
-  {
-    "name": "ToolOrchestra",
-    "full_name": "NVlabs/ToolOrchestra",
-    "description": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.",
-    "url": "https://github.com/NVlabs/ToolOrchestra",
-    "stars": 44,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "deep-learning",
-      "large-language-models"
-    ],
-    "created_at": "2025-11-25T23:53:41",
-    "updated_at": "2025-11-28T20:17:28"
-  },
-  {
-    "name": "continuous-claude",
-    "full_name": "AnandChowdhary/continuous-claude",
-    "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-    "url": "https://github.com/AnandChowdhary/continuous-claude",
-    "stars": 717,
-    "daily_stars": 3,
-    "language": "Shell",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "continuous-ai"
-    ],
-    "created_at": "2025-11-15T08:59:04",
-    "updated_at": "2025-11-28T19:42:35"
+    "updated_at": "2025-11-29T02:16:12"
   },
   {
     "name": "claude-agentic-patterns",
     "full_name": "ThibautMelen/claude-agentic-patterns",
     "description": "🤖 7 official agentic patterns from Anthropic docs - Subagents, Skills, Parallel Tools, Master-Clone & more. With Mermaid diagrams and code examples.",
     "url": "https://github.com/ThibautMelen/claude-agentic-patterns",
-    "stars": 31,
-    "daily_stars": 3,
+    "stars": 38,
+    "daily_stars": 7,
     "language": null,
     "topics": [
       "agent-sdk",
@@ -89,83 +54,138 @@
       "workflows"
     ],
     "created_at": "2025-11-25T12:38:23",
-    "updated_at": "2025-11-28T20:10:31"
+    "updated_at": "2025-11-29T01:12:28"
   },
   {
-    "name": "claude-secure-coding-rules",
-    "full_name": "TikiTribe/claude-secure-coding-rules",
-    "description": "Secure Coding Rules for Claude Code with a particular emphasis on AIML projects",
-    "url": "https://github.com/TikiTribe/claude-secure-coding-rules",
-    "stars": 23,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "artificial-intelligence",
-      "machine-learning",
-      "ml",
-      "security"
-    ],
-    "created_at": "2025-11-20T00:32:43",
-    "updated_at": "2025-11-28T20:33:31"
-  },
-  {
-    "name": "station",
-    "full_name": "dualverse-ai/station",
-    "description": "The Station, an open-world multi-agent environment that models a miniature scientific ecosystem.",
-    "url": "https://github.com/dualverse-ai/station",
-    "stars": 71,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "ai-agents-framework",
-      "ai-scientist",
-      "artificial-intelligence",
-      "large-language-models",
-      "llm",
-      "machine-learning",
-      "open-world"
-    ],
-    "created_at": "2025-11-09T13:50:09",
-    "updated_at": "2025-11-28T19:54:01"
-  },
-  {
-    "name": "ollama-chat-application",
-    "full_name": "EliAbdiel/ollama-chat-application",
-    "description": "A sophisticated conversational AI application built with Chainlit and Ollama, featuring multi-modal document processing, MCP (Model Context Protocol) tool integration, and persistent chat sessions. Supports voice input, file analysis (PDF, DOCX, images), and seamless LLM model switching through customizable chat profiles.",
-    "url": "https://github.com/EliAbdiel/ollama-chat-application",
-    "stars": 4,
-    "daily_stars": 1,
+    "name": "ToolOrchestra",
+    "full_name": "NVlabs/ToolOrchestra",
+    "description": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.",
+    "url": "https://github.com/NVlabs/ToolOrchestra",
+    "stars": 48,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "agent",
-      "artificial-intelligence",
-      "assistant",
-      "chainlit",
-      "chatbot",
-      "github",
-      "learn",
-      "mcp",
-      "nlp",
-      "oauth",
-      "ollama",
-      "open-source",
-      "postgresql",
-      "python"
+      "agentic-ai",
+      "deep-learning",
+      "large-language-models"
     ],
-    "created_at": "2025-11-23T19:12:52",
-    "updated_at": "2025-11-28T17:20:40"
+    "created_at": "2025-11-25T23:53:41",
+    "updated_at": "2025-11-29T01:20:49"
+  },
+  {
+    "name": "meridian",
+    "full_name": "markmdev/meridian",
+    "description": "Zero-config Claude Code setup with enforced task scaffolding, structured memory, persistent context after compaction, plug-in code standards, optional TDD mode, and zero behavior changes for developers.",
+    "url": "https://github.com/markmdev/meridian",
+    "stars": 98,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "automation",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "developer-workflow",
+      "nextjs",
+      "nodejs",
+      "open-source",
+      "productivity",
+      "software-engineering",
+      "task-runner",
+      "tdd",
+      "typescript",
+      "workflow-automation",
+      "zero-config"
+    ],
+    "created_at": "2025-11-13T07:51:57",
+    "updated_at": "2025-11-29T01:38:03"
+  },
+  {
+    "name": "continuous-claude",
+    "full_name": "AnandChowdhary/continuous-claude",
+    "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
+    "url": "https://github.com/AnandChowdhary/continuous-claude",
+    "stars": 719,
+    "daily_stars": 2,
+    "language": "Shell",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "continuous-ai"
+    ],
+    "created_at": "2025-11-15T08:59:04",
+    "updated_at": "2025-11-28T22:39:24"
+  },
+  {
+    "name": "universal-agents",
+    "full_name": "leochiu-a/universal-agents",
+    "description": "This repository hosts the canonical rules and skills every AI Agent must follow so that behavior stays consistent across runtimes. ",
+    "url": "https://github.com/leochiu-a/universal-agents",
+    "stars": 13,
+    "daily_stars": 2,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "gemini-cli"
+    ],
+    "created_at": "2025-11-14T07:16:40",
+    "updated_at": "2025-11-29T01:50:30"
+  },
+  {
+    "name": "comparison-ai-tools-frameworks-models",
+    "full_name": "Marktechpost/comparison-ai-tools-frameworks-models",
+    "description": "A directory of comparison insights on various AI Dev Tools/Frameworks/LLM Models/Products",
+    "url": "https://github.com/Marktechpost/comparison-ai-tools-frameworks-models",
+    "stars": 6,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "artificial-intelligence",
+      "data-science",
+      "llm",
+      "machine-learning",
+      "open-source"
+    ],
+    "created_at": "2025-11-07T09:42:55",
+    "updated_at": "2025-11-29T00:17:43"
+  },
+  {
+    "name": "octoroute",
+    "full_name": "slb350/octoroute",
+    "description": "Smart HTTP router for local LLMs (Ollama, LM Studio, llama.cpp). Rule-based + LLM-powered routing, health checks, load   balancing, Prometheus metrics. Rust-native, zero-overhead.",
+    "url": "https://github.com/slb350/octoroute",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "Rust",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "homelab",
+      "llama-cpp",
+      "llm",
+      "lm-studio",
+      "local-llm",
+      "ollama",
+      "prometheus",
+      "rust"
+    ],
+    "created_at": "2025-11-18T06:30:08",
+    "updated_at": "2025-11-28T22:37:52"
   },
   {
     "name": "code-mode",
     "full_name": "universal-tool-calling-protocol/code-mode",
     "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
     "url": "https://github.com/universal-tool-calling-protocol/code-mode",
-    "stars": 1071,
+    "stars": 1072,
     "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
@@ -177,40 +197,23 @@
       "utcp"
     ],
     "created_at": "2025-11-11T09:35:44",
-    "updated_at": "2025-11-28T17:06:13"
+    "updated_at": "2025-11-28T23:51:24"
   },
   {
-    "name": "agent-scripts",
-    "full_name": "steipete/agent-scripts",
-    "description": "Scripts for agents, shared between my repositories.",
-    "url": "https://github.com/steipete/agent-scripts",
-    "stars": 270,
+    "name": "agentic-parallelism",
+    "full_name": "FareedKhan-dev/agentic-parallelism",
+    "description": "Core concepts - where to apply parallelism in agentic solution",
+    "url": "https://github.com/FareedKhan-dev/agentic-parallelism",
+    "stars": 63,
     "daily_stars": 1,
-    "language": "TypeScript",
+    "language": "Jupyter Notebook",
     "topics": [
-      "ai-agents"
-    ],
-    "created_at": "2025-11-08T02:55:55",
-    "updated_at": "2025-11-28T18:07:16"
-  },
-  {
-    "name": "codex-swarm",
-    "full_name": "basilisk-labs/codex-swarm",
-    "description": "Prompt-defined swarm of local agents for the OpenAI Codex plugin with git-level task tracking.",
-    "url": "https://github.com/basilisk-labs/codex-swarm",
-    "stars": 4,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
+      "agentic-ai",
       "ai-agents",
-      "codex",
-      "devtools",
-      "git-workflow",
-      "openai",
-      "prompt-engineering",
-      "task-tracking"
+      "langchain",
+      "langgraph"
     ],
-    "created_at": "2025-11-18T04:56:39",
-    "updated_at": "2025-11-28T18:52:34"
+    "created_at": "2025-11-20T08:08:31",
+    "updated_at": "2025-11-28T22:07:06"
   }
 ]
