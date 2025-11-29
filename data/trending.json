@@ -1,85 +1,11 @@
 [
   {
-    "name": "SAG",
-    "full_name": "Zleap-AI/SAG",
-    "description": "SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying",
-    "url": "https://github.com/Zleap-AI/SAG",
-    "stars": 467,
-    "daily_stars": 9,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "data-engineering",
-      "fastapi",
-      "graphrag",
-      "information-retrieval",
-      "knowledge-base",
-      "knowledge-graph",
-      "knowledge-graphs",
-      "llm",
-      "machine-learning",
-      "nextjs",
-      "python",
-      "rag",
-      "retrieval-augmented-generation",
-      "vector-search"
-    ],
-    "created_at": "2025-11-07T07:33:35",
-    "updated_at": "2025-11-29T02:16:12"
-  },
-  {
-    "name": "claude-agentic-patterns",
-    "full_name": "ThibautMelen/claude-agentic-patterns",
-    "description": "🤖 7 official agentic patterns from Anthropic docs - Subagents, Skills, Parallel Tools, Master-Clone & more. With Mermaid diagrams and code examples.",
-    "url": "https://github.com/ThibautMelen/claude-agentic-patterns",
-    "stars": 38,
-    "daily_stars": 7,
-    "language": null,
-    "topics": [
-      "agent-sdk",
-      "agentic",
-      "agentic-patterns",
-      "ai-agents",
-      "anthropic",
-      "awesome",
-      "claude",
-      "claude-code",
-      "design-patterns",
-      "llm",
-      "llm-patterns",
-      "mcp",
-      "orchestration",
-      "subagents",
-      "tool-use",
-      "workflows"
-    ],
-    "created_at": "2025-11-25T12:38:23",
-    "updated_at": "2025-11-29T01:12:28"
-  },
-  {
-    "name": "ToolOrchestra",
-    "full_name": "NVlabs/ToolOrchestra",
-    "description": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.",
-    "url": "https://github.com/NVlabs/ToolOrchestra",
-    "stars": 48,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "deep-learning",
-      "large-language-models"
-    ],
-    "created_at": "2025-11-25T23:53:41",
-    "updated_at": "2025-11-29T01:20:49"
-  },
-  {
     "name": "meridian",
     "full_name": "markmdev/meridian",
     "description": "Zero-config Claude Code setup with enforced task scaffolding, structured memory, persistent context after compaction, plug-in code standards, optional TDD mode, and zero behavior changes for developers.",
     "url": "https://github.com/markmdev/meridian",
-    "stars": 98,
-    "daily_stars": 3,
+    "stars": 102,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -101,15 +27,15 @@
       "zero-config"
     ],
     "created_at": "2025-11-13T07:51:57",
-    "updated_at": "2025-11-29T01:38:03"
+    "updated_at": "2025-11-29T04:11:19"
   },
   {
     "name": "continuous-claude",
     "full_name": "AnandChowdhary/continuous-claude",
     "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
     "url": "https://github.com/AnandChowdhary/continuous-claude",
-    "stars": 719,
-    "daily_stars": 2,
+    "stars": 720,
+    "daily_stars": 1,
     "language": "Shell",
     "topics": [
       "ai",
@@ -119,101 +45,171 @@
       "continuous-ai"
     ],
     "created_at": "2025-11-15T08:59:04",
-    "updated_at": "2025-11-28T22:39:24"
+    "updated_at": "2025-11-29T03:00:44"
   },
   {
-    "name": "universal-agents",
-    "full_name": "leochiu-a/universal-agents",
-    "description": "This repository hosts the canonical rules and skills every AI Agent must follow so that behavior stays consistent across runtimes. ",
-    "url": "https://github.com/leochiu-a/universal-agents",
-    "stars": 13,
-    "daily_stars": 2,
-    "language": "TypeScript",
+    "name": "deep-research-agent",
+    "full_name": "tarun7r/deep-research-agent",
+    "description": "Multi-agent autonomous research system using LangGraph and LangChain. Generates citation-backed reports with credibility scoring and web search",
+    "url": "https://github.com/tarun7r/deep-research-agent",
+    "stars": 73,
+    "daily_stars": 1,
+    "language": "Python",
     "topics": [
+      "agentic-ai",
       "ai",
       "ai-agents",
-      "claude-code",
-      "codex",
-      "gemini-cli"
-    ],
-    "created_at": "2025-11-14T07:16:40",
-    "updated_at": "2025-11-29T01:50:30"
-  },
-  {
-    "name": "comparison-ai-tools-frameworks-models",
-    "full_name": "Marktechpost/comparison-ai-tools-frameworks-models",
-    "description": "A directory of comparison insights on various AI Dev Tools/Frameworks/LLM Models/Products",
-    "url": "https://github.com/Marktechpost/comparison-ai-tools-frameworks-models",
-    "stars": 6,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "artificial-intelligence",
-      "data-science",
+      "deepresearch",
+      "langchain",
+      "langgraph",
       "llm",
-      "machine-learning",
-      "open-source"
+      "ollama"
     ],
-    "created_at": "2025-11-07T09:42:55",
-    "updated_at": "2025-11-29T00:17:43"
+    "created_at": "2025-11-13T17:34:28",
+    "updated_at": "2025-11-29T04:06:04"
   },
   {
-    "name": "octoroute",
-    "full_name": "slb350/octoroute",
-    "description": "Smart HTTP router for local LLMs (Ollama, LM Studio, llama.cpp). Rule-based + LLM-powered routing, health checks, load   balancing, Prometheus metrics. Rust-native, zero-overhead.",
-    "url": "https://github.com/slb350/octoroute",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "Rust",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "homelab",
-      "llama-cpp",
-      "llm",
-      "lm-studio",
-      "local-llm",
-      "ollama",
-      "prometheus",
-      "rust"
-    ],
-    "created_at": "2025-11-18T06:30:08",
-    "updated_at": "2025-11-28T22:37:52"
-  },
-  {
-    "name": "code-mode",
-    "full_name": "universal-tool-calling-protocol/code-mode",
-    "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
-    "url": "https://github.com/universal-tool-calling-protocol/code-mode",
-    "stars": 1072,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "codemode",
-      "mcp",
-      "model-context-protocol",
-      "toolchain",
-      "utcp"
-    ],
-    "created_at": "2025-11-11T09:35:44",
-    "updated_at": "2025-11-28T23:51:24"
-  },
-  {
-    "name": "agentic-parallelism",
-    "full_name": "FareedKhan-dev/agentic-parallelism",
-    "description": "Core concepts - where to apply parallelism in agentic solution",
-    "url": "https://github.com/FareedKhan-dev/agentic-parallelism",
-    "stars": 63,
+    "name": "5-Day-AI-Agents-Intensive-Course-with-Google",
+    "full_name": "anxiong2025/5-Day-AI-Agents-Intensive-Course-with-Google",
+    "description": "谷歌5天AI Agents强化课程",
+    "url": "https://github.com/anxiong2025/5-Day-AI-Agents-Intensive-Course-with-Google",
+    "stars": 22,
     "daily_stars": 1,
     "language": "Jupyter Notebook",
     "topics": [
-      "agentic-ai",
       "ai-agents",
-      "langchain",
-      "langgraph"
+      "google",
+      "kaggle",
+      "mcp"
     ],
-    "created_at": "2025-11-20T08:08:31",
-    "updated_at": "2025-11-28T22:07:06"
+    "created_at": "2025-11-15T05:42:06",
+    "updated_at": "2025-11-29T02:32:57"
+  },
+  {
+    "name": "aster",
+    "full_name": "astercloud/aster",
+    "description": "星尘云枢 - 星尘汇聚，智能成枢。生产级 AI Agent 平台，原生支持多语言执行（Python/TS/Bash），Go 性能基底。",
+    "url": "https://github.com/astercloud/aster",
+    "stars": 14,
+    "daily_stars": 1,
+    "language": "Go",
+    "topics": [
+      "ai-agent",
+      "ai-agents"
+    ],
+    "created_at": "2025-11-18T01:21:18",
+    "updated_at": "2025-11-29T02:40:29"
+  },
+  {
+    "name": "ai-assisted-dev-ops",
+    "full_name": "marcusquinn/ai-assisted-dev-ops",
+    "description": "AI Assisted Dev-Ops to give you and your AI assistant the superpowers of managed infrastructure",
+    "url": "https://github.com/marcusquinn/ai-assisted-dev-ops",
+    "stars": 7,
+    "daily_stars": 1,
+    "language": "Shell",
+    "topics": [
+      "agents",
+      "agents-folder",
+      "agents-md",
+      "ai",
+      "ai-agents",
+      "ai-assistant",
+      "ai-assistants",
+      "ai-assisted",
+      "ai-assisted-development",
+      "ai-code-review",
+      "ai-coding",
+      "ai-dev-ops",
+      "ai-devops",
+      "ai-system-admin",
+      "devops",
+      "devops-tools"
+    ],
+    "created_at": "2025-11-09T05:15:11",
+    "updated_at": "2025-11-29T04:41:34"
+  },
+  {
+    "name": "SAG",
+    "full_name": "Zleap-AI/SAG",
+    "description": "SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying",
+    "url": "https://github.com/Zleap-AI/SAG",
+    "stars": 468,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "data-engineering",
+      "fastapi",
+      "graphrag",
+      "information-retrieval",
+      "knowledge-base",
+      "knowledge-graph",
+      "knowledge-graphs",
+      "llm",
+      "machine-learning",
+      "nextjs",
+      "python",
+      "rag",
+      "retrieval-augmented-generation",
+      "vector-search"
+    ],
+    "created_at": "2025-11-07T07:33:35",
+    "updated_at": "2025-11-29T02:42:56"
+  },
+  {
+    "name": "agentic-data-scientist",
+    "full_name": "K-Dense-AI/agentic-data-scientist",
+    "description": "An end-to-end Data Scientist",
+    "url": "https://github.com/K-Dense-AI/agentic-data-scientist",
+    "stars": 392,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "data-science",
+      "machine-learning"
+    ],
+    "created_at": "2025-11-04T07:29:49",
+    "updated_at": "2025-11-29T02:43:14"
+  },
+  {
+    "name": "PSRN",
+    "full_name": "x66ccff/PSRN",
+    "description": "PSE/PSRN: Fast and efficient symbolic expression discovery through parallelized symbolic enumeration. Evaluates millions of expressions simultaneously on GPU with automated subtree reuse.",
+    "url": "https://github.com/x66ccff/PSRN",
+    "stars": 11,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-for-science",
+      "ai4science",
+      "explainable-ai",
+      "interpretable-machine-learning",
+      "machine-learning",
+      "sci-ml",
+      "symbolic",
+      "symbolic-computation",
+      "symbolic-regression"
+    ],
+    "created_at": "2025-11-19T14:38:16",
+    "updated_at": "2025-11-29T03:41:23"
+  },
+  {
+    "name": "ToolOrchestra",
+    "full_name": "NVlabs/ToolOrchestra",
+    "description": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.",
+    "url": "https://github.com/NVlabs/ToolOrchestra",
+    "stars": 49,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "deep-learning",
+      "large-language-models"
+    ],
+    "created_at": "2025-11-25T23:53:41",
+    "updated_at": "2025-11-29T03:54:25"
   }
 ]
