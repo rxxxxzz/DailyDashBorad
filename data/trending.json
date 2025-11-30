@@ -1,68 +1,11 @@
 [
   {
-    "name": "qilbeeDB",
-    "full_name": "aicubetechnology/qilbeeDB",
-    "description": "QilbeeDB is a cloud-agnostic, high-performance graph database built for autonomous AI agents, real-time memory, and enterprise automation.",
-    "url": "https://github.com/aicubetechnology/qilbeeDB",
-    "stars": 16,
-    "daily_stars": 12,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "autonomous-ai",
-      "distributed-systems",
-      "embeddings",
-      "enterprise-automation",
-      "graph-database",
-      "knowledge-graph",
-      "real-time-memory",
-      "vector-database"
-    ],
-    "created_at": "2025-11-25T02:18:08",
-    "updated_at": "2025-11-29T20:24:00"
-  },
-  {
-    "name": "ToolOrchestra",
-    "full_name": "NVlabs/ToolOrchestra",
-    "description": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.",
-    "url": "https://github.com/NVlabs/ToolOrchestra",
-    "stars": 82,
-    "daily_stars": 9,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "deep-learning",
-      "large-language-models"
-    ],
-    "created_at": "2025-11-25T23:53:41",
-    "updated_at": "2025-11-29T20:21:22"
-  },
-  {
-    "name": "claude-skill-homeassistant",
-    "full_name": "komal-SkyNET/claude-skill-homeassistant",
-    "description": "Claude Code skill to supercharge and manage all Home Assistant workflows",
-    "url": "https://github.com/komal-SkyNET/claude-skill-homeassistant",
-    "stars": 59,
-    "daily_stars": 6,
-    "language": null,
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "automation",
-      "claude-code",
-      "home-assistant"
-    ],
-    "created_at": "2025-11-29T00:45:14",
-    "updated_at": "2025-11-29T19:30:18"
-  },
-  {
     "name": "SAG",
     "full_name": "Zleap-AI/SAG",
     "description": "SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying",
     "url": "https://github.com/Zleap-AI/SAG",
-    "stars": 494,
-    "daily_stars": 6,
+    "stars": 507,
+    "daily_stars": 13,
     "language": "Python",
     "topics": [
       "ai",
@@ -82,34 +25,148 @@
       "vector-search"
     ],
     "created_at": "2025-11-07T07:33:35",
-    "updated_at": "2025-11-29T19:24:13"
+    "updated_at": "2025-11-30T02:15:13"
   },
   {
-    "name": "splintr",
-    "full_name": "farhan-syah/splintr",
-    "description": "A high-performance BPE tokenizer built with Rust with Python bindings, focused on speed, safety, and resource optimization.",
-    "url": "https://github.com/farhan-syah/splintr",
-    "stars": 41,
-    "daily_stars": 4,
+    "name": "aprender",
+    "full_name": "paiml/aprender",
+    "description": "Next Generation Machine Learning, Statistics and Deep Learning in PURE Rust",
+    "url": "https://github.com/paiml/aprender",
+    "stars": 25,
+    "daily_stars": 8,
     "language": "Rust",
     "topics": [
-      "huggingface",
-      "llm",
-      "machine-learning",
-      "openai",
+      "deep-learning",
+      "ml",
+      "models",
       "rust",
-      "tokenizer"
+      "statistics"
     ],
-    "created_at": "2025-11-26T00:25:17",
-    "updated_at": "2025-11-29T18:13:08"
+    "created_at": "2025-11-18T09:42:05",
+    "updated_at": "2025-11-30T00:30:56"
+  },
+  {
+    "name": "claude-skill-homeassistant",
+    "full_name": "komal-SkyNET/claude-skill-homeassistant",
+    "description": "Claude Code skill to supercharge and manage all Home Assistant workflows",
+    "url": "https://github.com/komal-SkyNET/claude-skill-homeassistant",
+    "stars": 66,
+    "daily_stars": 7,
+    "language": null,
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "automation",
+      "claude-code",
+      "home-assistant"
+    ],
+    "created_at": "2025-11-29T00:45:14",
+    "updated_at": "2025-11-30T02:32:23"
+  },
+  {
+    "name": "ToolOrchestra",
+    "full_name": "NVlabs/ToolOrchestra",
+    "description": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.",
+    "url": "https://github.com/NVlabs/ToolOrchestra",
+    "stars": 89,
+    "daily_stars": 7,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "deep-learning",
+      "large-language-models"
+    ],
+    "created_at": "2025-11-25T23:53:41",
+    "updated_at": "2025-11-30T01:43:15"
+  },
+  {
+    "name": "qilbeeDB",
+    "full_name": "aicubetechnology/qilbeeDB",
+    "description": "QilbeeDB is a cloud-agnostic, high-performance graph database built for autonomous AI agents, real-time memory, and enterprise automation.",
+    "url": "https://github.com/aicubetechnology/qilbeeDB",
+    "stars": 21,
+    "daily_stars": 5,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "autonomous-ai",
+      "distributed-systems",
+      "embeddings",
+      "enterprise-automation",
+      "graph-database",
+      "knowledge-graph",
+      "real-time-memory",
+      "vector-database"
+    ],
+    "created_at": "2025-11-25T02:18:08",
+    "updated_at": "2025-11-30T00:22:04"
+  },
+  {
+    "name": "MIND-News-RecSys",
+    "full_name": "JiaxiWong/MIND-News-RecSys",
+    "description": "A Deep Interest Network (DIN) implementation for MIND News Recommendation with BERT semantic warm-up.",
+    "url": "https://github.com/JiaxiWong/MIND-News-RecSys",
+    "stars": 12,
+    "daily_stars": 4,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "attention-mechanism",
+      "bert",
+      "ctr-prediction",
+      "deep-learning",
+      "din",
+      "pytorch",
+      "recommender-system"
+    ],
+    "created_at": "2025-11-29T08:46:56",
+    "updated_at": "2025-11-30T01:45:41"
+  },
+  {
+    "name": "continuous-claude",
+    "full_name": "AnandChowdhary/continuous-claude",
+    "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
+    "url": "https://github.com/AnandChowdhary/continuous-claude",
+    "stars": 725,
+    "daily_stars": 2,
+    "language": "Shell",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "continuous-ai"
+    ],
+    "created_at": "2025-11-15T08:59:04",
+    "updated_at": "2025-11-30T00:36:23"
+  },
+  {
+    "name": "mcp-checkpoint",
+    "full_name": "aira-security/mcp-checkpoint",
+    "description": "MCP Checkpoint continuously secures and monitors Model Context Protocol operations through static and dynamic scans, revealing hidden risks in agent-to-tool communications.",
+    "url": "https://github.com/aira-security/mcp-checkpoint",
+    "stars": 84,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "aira",
+      "mcp",
+      "model-context-protocol",
+      "security"
+    ],
+    "created_at": "2025-11-07T21:35:56",
+    "updated_at": "2025-11-29T21:03:38"
   },
   {
     "name": "auth-agent",
     "full_name": "auth-agent/auth-agent",
     "description": "OpenID Connect (OIDC) Provider + OAuth 2.1 for AI Agents. Give AI Agents like Browser Use, Perplexity Comet, ChatGPT Atlas, Browserbase, their own credentials to authenticate. In other words, sign in with google but for AI Agents. ",
     "url": "https://github.com/auth-agent/auth-agent",
-    "stars": 16,
-    "daily_stars": 3,
+    "stars": 18,
+    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
       "agents",
@@ -121,87 +178,25 @@
       "oidc-provider"
     ],
     "created_at": "2025-11-01T03:59:13",
-    "updated_at": "2025-11-29T18:59:04"
+    "updated_at": "2025-11-30T01:47:42"
   },
   {
-    "name": "build-apps",
-    "full_name": "DokiTeam/build-apps",
-    "description": "Doki APKs, built and distributed automatically by GitHub Actions",
-    "url": "https://github.com/DokiTeam/build-apps",
-    "stars": 194,
+    "name": "splintr",
+    "full_name": "farhan-syah/splintr",
+    "description": "A high-performance BPE tokenizer built with Rust with Python bindings, focused on speed, safety, and resource optimization.",
+    "url": "https://github.com/farhan-syah/splintr",
+    "stars": 43,
     "daily_stars": 2,
-    "language": null,
+    "language": "Rust",
     "topics": [
-      "actions",
-      "automation",
-      "cd",
-      "ci",
-      "github",
-      "workflow"
+      "huggingface",
+      "llm",
+      "machine-learning",
+      "openai",
+      "rust",
+      "tokenizer"
     ],
-    "created_at": "2025-11-06T20:26:11",
-    "updated_at": "2025-11-29T19:23:55"
-  },
-  {
-    "name": "fixxer",
-    "full_name": "BandwagonVibes/fixxer",
-    "description": "AI-powered photography workflow automation",
-    "url": "https://github.com/BandwagonVibes/fixxer",
-    "stars": 11,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "automation",
-      "cli",
-      "computer-vision",
-      "digital-asset-management",
-      "local-ai",
-      "offline",
-      "ollama",
-      "opensource",
-      "photography",
-      "privacy-focused",
-      "python",
-      "terminal",
-      "textual",
-      "tui",
-      "workflow"
-    ],
-    "created_at": "2025-11-10T02:14:45",
-    "updated_at": "2025-11-29T17:53:59"
-  },
-  {
-    "name": "x-evolution",
-    "full_name": "lucidrains/x-evolution",
-    "description": "Implementation of various evolutionary algorithms, starting with evolutionary strategies",
-    "url": "https://github.com/lucidrains/x-evolution",
-    "stars": 33,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "evolution",
-      "evolutionary-algorithms"
-    ],
-    "created_at": "2025-11-09T14:37:30",
-    "updated_at": "2025-11-29T19:17:17"
-  },
-  {
-    "name": "continuous-claude",
-    "full_name": "AnandChowdhary/continuous-claude",
-    "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-    "url": "https://github.com/AnandChowdhary/continuous-claude",
-    "stars": 723,
-    "daily_stars": 1,
-    "language": "Shell",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "continuous-ai"
-    ],
-    "created_at": "2025-11-15T08:59:04",
-    "updated_at": "2025-11-29T20:39:27"
+    "created_at": "2025-11-26T00:25:17",
+    "updated_at": "2025-11-30T01:22:11"
   }
 ]
