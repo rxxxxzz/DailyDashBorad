@@ -1,11 +1,47 @@
 [
   {
+    "name": "code-mode",
+    "full_name": "universal-tool-calling-protocol/code-mode",
+    "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
+    "url": "https://github.com/universal-tool-calling-protocol/code-mode",
+    "stars": 1091,
+    "daily_stars": 9,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "codemode",
+      "mcp",
+      "model-context-protocol",
+      "toolchain",
+      "utcp"
+    ],
+    "created_at": "2025-11-11T09:35:44",
+    "updated_at": "2025-11-30T19:46:06"
+  },
+  {
+    "name": "ToolOrchestra",
+    "full_name": "NVlabs/ToolOrchestra",
+    "description": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.",
+    "url": "https://github.com/NVlabs/ToolOrchestra",
+    "stars": 118,
+    "daily_stars": 8,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "deep-learning",
+      "large-language-models"
+    ],
+    "created_at": "2025-11-25T23:53:41",
+    "updated_at": "2025-11-30T20:05:45"
+  },
+  {
     "name": "SAG",
     "full_name": "Zleap-AI/SAG",
     "description": "SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying",
     "url": "https://github.com/Zleap-AI/SAG",
-    "stars": 534,
-    "daily_stars": 7,
+    "stars": 539,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "ai",
@@ -25,52 +61,112 @@
       "vector-search"
     ],
     "created_at": "2025-11-07T07:33:35",
-    "updated_at": "2025-11-30T16:05:30"
+    "updated_at": "2025-11-30T20:15:28"
   },
   {
-    "name": "code-mode",
-    "full_name": "universal-tool-calling-protocol/code-mode",
-    "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
-    "url": "https://github.com/universal-tool-calling-protocol/code-mode",
-    "stars": 1082,
-    "daily_stars": 4,
-    "language": "TypeScript",
+    "name": "qilbeeDB",
+    "full_name": "aicubetechnology/qilbeeDB",
+    "description": "QilbeeDB is a cloud-agnostic, high-performance graph database built for autonomous AI agents, real-time memory, and enterprise automation.",
+    "url": "https://github.com/aicubetechnology/qilbeeDB",
+    "stars": 33,
+    "daily_stars": 3,
+    "language": "Rust",
     "topics": [
       "ai-agents",
-      "codemode",
-      "mcp",
-      "model-context-protocol",
-      "toolchain",
-      "utcp"
+      "autonomous-ai",
+      "distributed-systems",
+      "embeddings",
+      "enterprise-automation",
+      "graph-database",
+      "knowledge-graph",
+      "real-time-memory",
+      "vector-database"
     ],
-    "created_at": "2025-11-11T09:35:44",
-    "updated_at": "2025-11-30T15:54:07"
+    "created_at": "2025-11-25T02:18:08",
+    "updated_at": "2025-11-30T18:37:05"
   },
   {
-    "name": "claude-skill-homeassistant",
-    "full_name": "komal-SkyNET/claude-skill-homeassistant",
-    "description": "Claude Code skill to supercharge and manage all Home Assistant workflows",
-    "url": "https://github.com/komal-SkyNET/claude-skill-homeassistant",
-    "stars": 78,
-    "daily_stars": 4,
+    "name": "build-apps",
+    "full_name": "DokiTeam/build-apps",
+    "description": "Doki APKs, built and distributed automatically by GitHub Actions",
+    "url": "https://github.com/DokiTeam/build-apps",
+    "stars": 198,
+    "daily_stars": 3,
     "language": null,
     "topics": [
-      "agentic-ai",
-      "ai-agents",
+      "actions",
       "automation",
-      "claude-code",
-      "home-assistant"
+      "cd",
+      "ci",
+      "github",
+      "workflow"
     ],
-    "created_at": "2025-11-29T00:45:14",
-    "updated_at": "2025-11-30T16:35:02"
+    "created_at": "2025-11-06T20:26:11",
+    "updated_at": "2025-11-30T19:57:38"
+  },
+  {
+    "name": "claude-secure-coding-rules",
+    "full_name": "TikiTribe/claude-secure-coding-rules",
+    "description": "Secure Coding Rules for Claude Code with a particular emphasis on AIML projects",
+    "url": "https://github.com/TikiTribe/claude-secure-coding-rules",
+    "stars": 29,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "artificial-intelligence",
+      "machine-learning",
+      "ml",
+      "security"
+    ],
+    "created_at": "2025-11-20T00:32:43",
+    "updated_at": "2025-11-30T18:51:18"
+  },
+  {
+    "name": "universal-agents",
+    "full_name": "leochiu-a/universal-agents",
+    "description": "This repository hosts the canonical rules and skills every AI Agent must follow so that behavior stays consistent across runtimes. ",
+    "url": "https://github.com/leochiu-a/universal-agents",
+    "stars": 17,
+    "daily_stars": 2,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "gemini-cli"
+    ],
+    "created_at": "2025-11-14T07:16:40",
+    "updated_at": "2025-11-30T17:57:02"
+  },
+  {
+    "name": "splintr",
+    "full_name": "farhan-syah/splintr",
+    "description": "A high-performance BPE tokenizer built with Rust with Python bindings, focused on speed, safety, and resource optimization.",
+    "url": "https://github.com/farhan-syah/splintr",
+    "stars": 48,
+    "daily_stars": 2,
+    "language": "Rust",
+    "topics": [
+      "huggingface",
+      "llm",
+      "machine-learning",
+      "openai",
+      "rust",
+      "tokenizer"
+    ],
+    "created_at": "2025-11-26T00:25:17",
+    "updated_at": "2025-11-30T19:50:33"
   },
   {
     "name": "openadserver",
     "full_name": "seanZhang414/openadserver",
     "description": "Open Source Ad Serving Platform with ML-Powered CTR Prediction | Self-hosted alternative to Google Ad Manager | Python, FastAPI, PyTorch",
     "url": "https://github.com/seanZhang414/openadserver",
-    "stars": 34,
-    "daily_stars": 4,
+    "stars": 36,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "ad-network",
@@ -90,109 +186,14 @@
       "self-hosted"
     ],
     "created_at": "2025-11-30T02:07:43",
-    "updated_at": "2025-11-30T15:49:24"
-  },
-  {
-    "name": "fara-agent",
-    "full_name": "pmbstyle/fara-agent",
-    "description": "A local browser automation agent based on Microsoft Fara-7B model optimized for LM Studio inference.",
-    "url": "https://github.com/pmbstyle/fara-agent",
-    "stars": 14,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "browser-automation",
-      "browser-use",
-      "computer-use",
-      "fara",
-      "lm-studio",
-      "playwright",
-      "vision-agents"
-    ],
-    "created_at": "2025-11-25T23:21:05",
-    "updated_at": "2025-11-30T16:36:48"
-  },
-  {
-    "name": "ToolOrchestra",
-    "full_name": "NVlabs/ToolOrchestra",
-    "description": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.",
-    "url": "https://github.com/NVlabs/ToolOrchestra",
-    "stars": 110,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "deep-learning",
-      "large-language-models"
-    ],
-    "created_at": "2025-11-25T23:53:41",
-    "updated_at": "2025-11-30T16:10:59"
-  },
-  {
-    "name": "claude-secure-coding-rules",
-    "full_name": "TikiTribe/claude-secure-coding-rules",
-    "description": "Secure Coding Rules for Claude Code with a particular emphasis on AIML projects",
-    "url": "https://github.com/TikiTribe/claude-secure-coding-rules",
-    "stars": 27,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "artificial-intelligence",
-      "machine-learning",
-      "ml",
-      "security"
-    ],
-    "created_at": "2025-11-20T00:32:43",
-    "updated_at": "2025-11-30T16:33:14"
-  },
-  {
-    "name": "qilbeeDB",
-    "full_name": "aicubetechnology/qilbeeDB",
-    "description": "QilbeeDB is a cloud-agnostic, high-performance graph database built for autonomous AI agents, real-time memory, and enterprise automation.",
-    "url": "https://github.com/aicubetechnology/qilbeeDB",
-    "stars": 30,
-    "daily_stars": 2,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "autonomous-ai",
-      "distributed-systems",
-      "embeddings",
-      "enterprise-automation",
-      "graph-database",
-      "knowledge-graph",
-      "real-time-memory",
-      "vector-database"
-    ],
-    "created_at": "2025-11-25T02:18:08",
-    "updated_at": "2025-11-30T16:43:08"
-  },
-  {
-    "name": "karpathy",
-    "full_name": "K-Dense-AI/karpathy",
-    "description": "An agentic Machine Learning Engineer",
-    "url": "https://github.com/K-Dense-AI/karpathy",
-    "stars": 1099,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "automl",
-      "machine-learning"
-    ],
-    "created_at": "2025-11-16T22:39:26",
-    "updated_at": "2025-11-30T15:36:00"
+    "updated_at": "2025-11-30T18:59:45"
   },
   {
     "name": "aprender",
     "full_name": "paiml/aprender",
     "description": "Next Generation Machine Learning, Statistics and Deep Learning in PURE Rust",
     "url": "https://github.com/paiml/aprender",
-    "stars": 30,
+    "stars": 32,
     "daily_stars": 2,
     "language": "Rust",
     "topics": [
@@ -203,6 +204,6 @@
       "statistics"
     ],
     "created_at": "2025-11-18T09:42:05",
-    "updated_at": "2025-11-30T15:41:59"
+    "updated_at": "2025-11-30T19:45:54"
   }
 ]
