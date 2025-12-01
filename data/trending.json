@@ -1,43 +1,11 @@
 [
   {
-    "name": "ToolOrchestra",
-    "full_name": "NVlabs/ToolOrchestra",
-    "description": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.",
-    "url": "https://github.com/NVlabs/ToolOrchestra",
-    "stars": 139,
-    "daily_stars": 8,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "deep-learning",
-      "large-language-models"
-    ],
-    "created_at": "2025-11-25T23:53:41",
-    "updated_at": "2025-12-01T08:06:58"
-  },
-  {
-    "name": "aster",
-    "full_name": "astercloud/aster",
-    "description": "星尘云枢 - 星尘汇聚，智能成枢。生产级 AI Agent 平台，原生支持多语言执行（Python/TS/Bash），Go 性能基底。",
-    "url": "https://github.com/astercloud/aster",
-    "stars": 18,
-    "daily_stars": 3,
-    "language": "Go",
-    "topics": [
-      "ai-agent",
-      "ai-agents"
-    ],
-    "created_at": "2025-11-18T01:21:18",
-    "updated_at": "2025-12-01T07:58:16"
-  },
-  {
     "name": "SAG",
     "full_name": "Zleap-AI/SAG",
     "description": "SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying",
     "url": "https://github.com/Zleap-AI/SAG",
-    "stars": 552,
-    "daily_stars": 3,
+    "stars": 562,
+    "daily_stars": 10,
     "language": "Python",
     "topics": [
       "ai",
@@ -57,70 +25,32 @@
       "vector-search"
     ],
     "created_at": "2025-11-07T07:33:35",
-    "updated_at": "2025-12-01T07:16:35"
+    "updated_at": "2025-12-01T13:09:50"
   },
   {
-    "name": "code-mode",
-    "full_name": "universal-tool-calling-protocol/code-mode",
-    "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
-    "url": "https://github.com/universal-tool-calling-protocol/code-mode",
-    "stars": 1100,
-    "daily_stars": 2,
-    "language": "TypeScript",
+    "name": "ToolOrchestra",
+    "full_name": "NVlabs/ToolOrchestra",
+    "description": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.",
+    "url": "https://github.com/NVlabs/ToolOrchestra",
+    "stars": 148,
+    "daily_stars": 9,
+    "language": "Python",
     "topics": [
-      "ai-agents",
-      "codemode",
-      "mcp",
-      "model-context-protocol",
-      "toolchain",
-      "utcp"
-    ],
-    "created_at": "2025-11-11T09:35:44",
-    "updated_at": "2025-12-01T07:18:22"
-  },
-  {
-    "name": "continuous-claude",
-    "full_name": "AnandChowdhary/continuous-claude",
-    "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-    "url": "https://github.com/AnandChowdhary/continuous-claude",
-    "stars": 734,
-    "daily_stars": 2,
-    "language": "Shell",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "continuous-ai"
-    ],
-    "created_at": "2025-11-15T08:59:04",
-    "updated_at": "2025-12-01T08:41:35"
-  },
-  {
-    "name": "claude-skill-homeassistant",
-    "full_name": "komal-SkyNET/claude-skill-homeassistant",
-    "description": "Claude Code skill to supercharge and manage all Home Assistant workflows",
-    "url": "https://github.com/komal-SkyNET/claude-skill-homeassistant",
-    "stars": 88,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
+      "agent",
       "agentic-ai",
-      "ai-agents",
-      "automation",
-      "claude-code",
-      "home-assistant"
+      "deep-learning",
+      "large-language-models"
     ],
-    "created_at": "2025-11-29T00:45:14",
-    "updated_at": "2025-12-01T08:24:18"
+    "created_at": "2025-11-25T23:53:41",
+    "updated_at": "2025-12-01T11:59:21"
   },
   {
     "name": "claude-agentic-patterns",
     "full_name": "ThibautMelen/claude-agentic-patterns",
     "description": "🤖 7 official agentic patterns from Anthropic docs - Subagents, Skills, Parallel Tools, Master-Clone & more. With Mermaid diagrams and code examples.",
     "url": "https://github.com/ThibautMelen/claude-agentic-patterns",
-    "stars": 48,
-    "daily_stars": 2,
+    "stars": 52,
+    "daily_stars": 4,
     "language": null,
     "topics": [
       "agent-sdk",
@@ -141,62 +71,148 @@
       "workflows"
     ],
     "created_at": "2025-11-25T12:38:23",
-    "updated_at": "2025-12-01T08:18:10"
+    "updated_at": "2025-12-01T12:00:53"
   },
   {
-    "name": "qilbeeDB",
-    "full_name": "aicubetechnology/qilbeeDB",
-    "description": "QilbeeDB is a cloud-agnostic, high-performance graph database built for autonomous AI agents, real-time memory, and enterprise automation.",
-    "url": "https://github.com/aicubetechnology/qilbeeDB",
-    "stars": 35,
-    "daily_stars": 2,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "autonomous-ai",
-      "distributed-systems",
-      "embeddings",
-      "enterprise-automation",
-      "graph-database",
-      "knowledge-graph",
-      "real-time-memory",
-      "vector-database"
-    ],
-    "created_at": "2025-11-25T02:18:08",
-    "updated_at": "2025-12-01T08:32:04"
-  },
-  {
-    "name": "universal-agents",
-    "full_name": "leochiu-a/universal-agents",
-    "description": "This repository hosts the canonical rules and skills every AI Agent must follow so that behavior stays consistent across runtimes. ",
-    "url": "https://github.com/leochiu-a/universal-agents",
-    "stars": 20,
+    "name": "code-mode",
+    "full_name": "universal-tool-calling-protocol/code-mode",
+    "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
+    "url": "https://github.com/universal-tool-calling-protocol/code-mode",
+    "stars": 1102,
     "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
-      "ai",
       "ai-agents",
-      "claude-code",
-      "codex",
-      "gemini-cli"
+      "codemode",
+      "mcp",
+      "model-context-protocol",
+      "toolchain",
+      "utcp"
     ],
-    "created_at": "2025-11-14T07:16:40",
-    "updated_at": "2025-12-01T08:22:29"
+    "created_at": "2025-11-11T09:35:44",
+    "updated_at": "2025-12-01T11:15:29"
   },
   {
-    "name": "karpathy",
-    "full_name": "K-Dense-AI/karpathy",
-    "description": "An agentic Machine Learning Engineer",
-    "url": "https://github.com/K-Dense-AI/karpathy",
-    "stars": 1102,
+    "name": "aster",
+    "full_name": "astercloud/aster",
+    "description": "星尘云枢 - 星尘汇聚，智能成枢。生产级 AI Agent 平台，原生支持多语言执行（Python/TS/Bash），Go 性能基底。",
+    "url": "https://github.com/astercloud/aster",
+    "stars": 20,
+    "daily_stars": 2,
+    "language": "Go",
+    "topics": [
+      "ai-agent",
+      "ai-agents"
+    ],
+    "created_at": "2025-11-18T01:21:18",
+    "updated_at": "2025-12-01T10:58:34"
+  },
+  {
+    "name": "openadserver",
+    "full_name": "seanZhang414/openadserver",
+    "description": "Open Source Ad Serving Platform with ML-Powered CTR Prediction | Self-hosted alternative to Google Ad Manager | Python, FastAPI, PyTorch",
+    "url": "https://github.com/seanZhang414/openadserver",
+    "stars": 42,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
-      "agentic-ai",
-      "automl",
-      "machine-learning"
+      "ad-network",
+      "ad-server",
+      "ad-tech",
+      "advertising",
+      "ctr-prediction",
+      "deepfm",
+      "digital-advertising",
+      "dsp",
+      "fastapi",
+      "machine-learning",
+      "open-source",
+      "programmatic-advertising",
+      "python",
+      "pytorch",
+      "self-hosted"
     ],
-    "created_at": "2025-11-16T22:39:26",
-    "updated_at": "2025-12-01T07:41:25"
+    "created_at": "2025-11-30T02:07:43",
+    "updated_at": "2025-12-01T12:42:19"
+  },
+  {
+    "name": "claude-secure-coding-rules",
+    "full_name": "TikiTribe/claude-secure-coding-rules",
+    "description": "Secure Coding Rules for Claude Code with a particular emphasis on AIML projects",
+    "url": "https://github.com/TikiTribe/claude-secure-coding-rules",
+    "stars": 30,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "artificial-intelligence",
+      "machine-learning",
+      "ml",
+      "security"
+    ],
+    "created_at": "2025-11-20T00:32:43",
+    "updated_at": "2025-12-01T12:31:34"
+  },
+  {
+    "name": "automcp",
+    "full_name": "lirantal/automcp",
+    "description": "AutoMCP scaffolds your Model Context Protocol config from package.json deps",
+    "url": "https://github.com/lirantal/automcp",
+    "stars": 3,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "artificial-intelligence",
+      "claude-code",
+      "cursor-ai",
+      "github-copilot",
+      "mcp",
+      "model-context-protocol",
+      "modelcontextprotocol"
+    ],
+    "created_at": "2025-11-03T19:34:47",
+    "updated_at": "2025-12-01T09:37:33"
+  },
+  {
+    "name": "CyberStrikeAI",
+    "full_name": "Ed1s0nZ/CyberStrikeAI",
+    "description": "AI-Powered Autonomous Penetration Testing Platform - Built with Golang, featuring hundreds of built-in security tools, flexible custom tool extensions, and intelligent AI decision-making through MCP protocol, making security testing as simple as a conversation.",
+    "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+    "stars": 300,
+    "daily_stars": 1,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-cybersecurity",
+      "ai-penetration-testing",
+      "ai-security-tool",
+      "ctf-tools",
+      "mcp"
+    ],
+    "created_at": "2025-11-08T10:41:23",
+    "updated_at": "2025-12-01T09:24:56"
+  },
+  {
+    "name": "claude-skill-homeassistant",
+    "full_name": "komal-SkyNET/claude-skill-homeassistant",
+    "description": "Claude Code skill to supercharge and manage all Home Assistant workflows",
+    "url": "https://github.com/komal-SkyNET/claude-skill-homeassistant",
+    "stars": 89,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "automation",
+      "claude-code",
+      "home-assistant"
+    ],
+    "created_at": "2025-11-29T00:45:14",
+    "updated_at": "2025-12-01T09:50:48"
   }
 ]
