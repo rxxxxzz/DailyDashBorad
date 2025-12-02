@@ -1,11 +1,85 @@
 [
   {
+    "name": "ToolOrchestra",
+    "full_name": "NVlabs/ToolOrchestra",
+    "description": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.",
+    "url": "https://github.com/NVlabs/ToolOrchestra",
+    "stars": 194,
+    "daily_stars": 5,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "deep-learning",
+      "large-language-models"
+    ],
+    "created_at": "2025-11-25T23:53:41",
+    "updated_at": "2025-12-02T15:37:05"
+  },
+  {
+    "name": "code-mode",
+    "full_name": "universal-tool-calling-protocol/code-mode",
+    "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
+    "url": "https://github.com/universal-tool-calling-protocol/code-mode",
+    "stars": 1117,
+    "daily_stars": 4,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "codemode",
+      "mcp",
+      "model-context-protocol",
+      "toolchain",
+      "utcp"
+    ],
+    "created_at": "2025-11-11T09:35:44",
+    "updated_at": "2025-12-02T16:43:34"
+  },
+  {
+    "name": "continuous-claude",
+    "full_name": "AnandChowdhary/continuous-claude",
+    "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
+    "url": "https://github.com/AnandChowdhary/continuous-claude",
+    "stars": 741,
+    "daily_stars": 3,
+    "language": "Shell",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "continuous-ai"
+    ],
+    "created_at": "2025-11-15T08:59:04",
+    "updated_at": "2025-12-02T16:05:59"
+  },
+  {
+    "name": "CyberStrikeAI",
+    "full_name": "Ed1s0nZ/CyberStrikeAI",
+    "description": "AI-Powered Autonomous Penetration Testing Platform - Built with Golang, featuring hundreds of built-in security tools, flexible custom tool extensions, and intelligent AI decision-making through MCP protocol, making security testing as simple as a conversation.",
+    "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+    "stars": 308,
+    "daily_stars": 3,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-cybersecurity",
+      "ai-penetration-testing",
+      "ai-security-tool",
+      "ctf-tools",
+      "mcp"
+    ],
+    "created_at": "2025-11-08T10:41:23",
+    "updated_at": "2025-12-02T15:02:58"
+  },
+  {
     "name": "SAG",
     "full_name": "Zleap-AI/SAG",
     "description": "SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying",
     "url": "https://github.com/Zleap-AI/SAG",
-    "stars": 591,
-    "daily_stars": 7,
+    "stars": 594,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "ai",
@@ -25,150 +99,32 @@
       "vector-search"
     ],
     "created_at": "2025-11-07T07:33:35",
-    "updated_at": "2025-12-02T12:02:21"
+    "updated_at": "2025-12-02T16:31:06"
   },
   {
-    "name": "Agent-Kernel",
-    "full_name": "ZJU-LLMs/Agent-Kernel",
-    "description": "A MicroKernel Multi-Agents System Framework for Adaptive Social Simulation Powered by LLMs",
-    "url": "https://github.com/ZJU-LLMs/Agent-Kernel",
-    "stars": 14,
-    "daily_stars": 5,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "large-language-models",
-      "multi-agent-systems",
-      "social-simulation"
-    ],
-    "created_at": "2025-11-30T03:08:20",
-    "updated_at": "2025-12-02T12:28:04"
-  },
-  {
-    "name": "openadserver",
-    "full_name": "seanZhang414/openadserver",
-    "description": "Open Source Ad Serving Platform with ML-Powered CTR Prediction | Self-hosted alternative to Google Ad Manager | Python, FastAPI, PyTorch",
-    "url": "https://github.com/seanZhang414/openadserver",
-    "stars": 65,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [
-      "ad-network",
-      "ad-server",
-      "ad-tech",
-      "advertising",
-      "ctr-prediction",
-      "deepfm",
-      "digital-advertising",
-      "dsp",
-      "fastapi",
-      "machine-learning",
-      "open-source",
-      "programmatic-advertising",
-      "python",
-      "pytorch",
-      "self-hosted"
-    ],
-    "created_at": "2025-11-30T02:07:43",
-    "updated_at": "2025-12-02T12:15:46"
-  },
-  {
-    "name": "continuous-claude",
-    "full_name": "AnandChowdhary/continuous-claude",
-    "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-    "url": "https://github.com/AnandChowdhary/continuous-claude",
-    "stars": 738,
+    "name": "low-rank-decay",
+    "full_name": "Chunjiang-Intelligence/low-rank-decay",
+    "description": "「Low-Rank Decay」的官方实现。",
+    "url": "https://github.com/Chunjiang-Intelligence/low-rank-decay",
+    "stars": 8,
     "daily_stars": 3,
-    "language": "Shell",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "continuous-ai"
-    ],
-    "created_at": "2025-11-15T08:59:04",
-    "updated_at": "2025-12-02T12:21:42"
-  },
-  {
-    "name": "station",
-    "full_name": "dualverse-ai/station",
-    "description": "The Station, an open-world multi-agent environment that models a miniature scientific ecosystem.",
-    "url": "https://github.com/dualverse-ai/station",
-    "stars": 76,
-    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "ai",
-      "ai-agent",
-      "ai-agents",
-      "ai-agents-framework",
-      "ai-scientist",
-      "artificial-intelligence",
-      "large-language-models",
-      "llm",
-      "machine-learning",
-      "open-world"
-    ],
-    "created_at": "2025-11-09T13:50:09",
-    "updated_at": "2025-12-02T12:01:54"
-  },
-  {
-    "name": "upscalemp3_v2",
-    "full_name": "matthewmcq/upscalemp3_v2",
-    "description": "Mp3 to wav super resolution model for audio restoration & enhancement. U-Net + Discrete Wavelet Transform (DWT) Architecture",
-    "url": "https://github.com/matthewmcq/upscalemp3_v2",
-    "stars": 10,
-    "daily_stars": 2,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "artificial-intelligence",
-      "audio-enhancement",
-      "audio-processing",
-      "audio-restoration",
-      "cnn",
       "deep-learning",
-      "deep-neural-networks",
-      "dwt",
-      "machine-learning",
-      "mp3",
-      "super-resolution",
-      "tensorflow",
-      "unet",
-      "upscale",
-      "upscale-mp3",
-      "wav",
-      "wavelet",
-      "wavelet-transform"
+      "grokking",
+      "low-rank",
+      "machine-learning"
     ],
-    "created_at": "2025-11-30T22:27:43",
-    "updated_at": "2025-12-02T09:33:27"
-  },
-  {
-    "name": "code-mode",
-    "full_name": "universal-tool-calling-protocol/code-mode",
-    "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
-    "url": "https://github.com/universal-tool-calling-protocol/code-mode",
-    "stars": 1113,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "codemode",
-      "mcp",
-      "model-context-protocol",
-      "toolchain",
-      "utcp"
-    ],
-    "created_at": "2025-11-11T09:35:44",
-    "updated_at": "2025-12-02T12:39:22"
+    "created_at": "2025-11-25T15:28:55",
+    "updated_at": "2025-12-02T15:46:57"
   },
   {
     "name": "claude-agentic-patterns",
     "full_name": "ThibautMelen/claude-agentic-patterns",
     "description": "🤖 7 official agentic patterns from Anthropic docs - Subagents, Skills, Parallel Tools, Master-Clone & more. With Mermaid diagrams and code examples.",
     "url": "https://github.com/ThibautMelen/claude-agentic-patterns",
-    "stars": 58,
+    "stars": 60,
     "daily_stars": 2,
     "language": null,
     "topics": [
@@ -190,41 +146,61 @@
       "workflows"
     ],
     "created_at": "2025-11-25T12:38:23",
-    "updated_at": "2025-12-02T09:40:15"
+    "updated_at": "2025-12-02T16:37:08"
   },
   {
-    "name": "ToolOrchestra",
-    "full_name": "NVlabs/ToolOrchestra",
-    "description": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.",
-    "url": "https://github.com/NVlabs/ToolOrchestra",
-    "stars": 189,
+    "name": "ai-agent-team",
+    "full_name": "peterfei/ai-agent-team",
+    "description": "AI Agent Team-拥有24/7专业AI开发团队：产品经理、前端开发、后端开发、测试工程师、DevOps工程师、技术负责人。一键安装，支持中英文命令，大幅提升开发效率！",
+    "url": "https://github.com/peterfei/ai-agent-team",
+    "stars": 45,
+    "daily_stars": 2,
+    "language": "JavaScript",
+    "topics": [
+      "24886",
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "claude-code-skill",
+      "drawnotes",
+      "ide",
+      "notebook",
+      "skill"
+    ],
+    "created_at": "2025-11-07T15:22:33",
+    "updated_at": "2025-12-02T14:59:17"
+  },
+  {
+    "name": "agentic-data-scientist",
+    "full_name": "K-Dense-AI/agentic-data-scientist",
+    "description": "An end-to-end Data Scientist",
+    "url": "https://github.com/K-Dense-AI/agentic-data-scientist",
+    "stars": 415,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
-      "agent",
       "agentic-ai",
-      "deep-learning",
-      "large-language-models"
+      "data-science",
+      "machine-learning"
     ],
-    "created_at": "2025-11-25T23:53:41",
-    "updated_at": "2025-12-02T11:52:16"
+    "created_at": "2025-11-04T07:29:49",
+    "updated_at": "2025-12-02T14:53:12"
   },
   {
-    "name": "comparison-ai-tools-frameworks-models",
-    "full_name": "Marktechpost/comparison-ai-tools-frameworks-models",
-    "description": "A directory of comparison insights on various AI Dev Tools/Frameworks/LLM Models/Products",
-    "url": "https://github.com/Marktechpost/comparison-ai-tools-frameworks-models",
-    "stars": 7,
+    "name": "Agent-Kernel",
+    "full_name": "ZJU-LLMs/Agent-Kernel",
+    "description": "A MicroKernel Multi-Agents System Framework for Adaptive Social Simulation Powered by LLMs",
+    "url": "https://github.com/ZJU-LLMs/Agent-Kernel",
+    "stars": 15,
     "daily_stars": 1,
-    "language": null,
+    "language": "Python",
     "topics": [
       "artificial-intelligence",
-      "data-science",
-      "llm",
-      "machine-learning",
-      "open-source"
+      "large-language-models",
+      "multi-agent-systems",
+      "social-simulation"
     ],
-    "created_at": "2025-11-07T09:42:55",
-    "updated_at": "2025-12-02T12:26:39"
+    "created_at": "2025-11-30T03:08:20",
+    "updated_at": "2025-12-02T13:56:50"
   }
 ]
