@@ -1,33 +1,30 @@
 [
   {
-    "name": "Brainwave-Modern-Animated-SaaS-Generative-AI-Landing-Page",
-    "full_name": "fantasy-3136/Brainwave-Modern-Animated-SaaS-Generative-AI-Landing-Page",
-    "description": "A modern, animated SaaS landing page powered by Generative AI, featuring dynamic visuals, smooth motion effects, and an elegant, conversion-focused layout. Designed to showcase AI capabilities with engaging interactions, responsive design, and a premium user experience.",
-    "url": "https://github.com/fantasy-3136/Brainwave-Modern-Animated-SaaS-Generative-AI-Landing-Page",
-    "stars": 17,
-    "daily_stars": 13,
-    "language": "JavaScript",
+    "name": "talkcody",
+    "full_name": "talkcody/talkcody",
+    "description": "TalkCody - Code is cheap, show me your talk.  🚀 Free Open Source AI Coding Agent.",
+    "url": "https://github.com/talkcody/talkcody",
+    "stars": 101,
+    "daily_stars": 9,
+    "language": "TypeScript",
     "topics": [
-      "css",
-      "css-animations",
-      "generative-ai",
-      "javascript",
-      "machine-learning",
-      "nodejs",
-      "react",
-      "reactjs",
-      "typescript"
+      "ai-agents",
+      "coding-agent",
+      "coding-assistant",
+      "rust",
+      "tauri2",
+      "vercel-ai-sdk"
     ],
-    "created_at": "2025-11-18T08:47:07",
-    "updated_at": "2025-12-03T03:03:56"
+    "created_at": "2025-11-07T14:42:04",
+    "updated_at": "2025-12-03T08:47:50"
   },
   {
     "name": "SAG",
     "full_name": "Zleap-AI/SAG",
     "description": "SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying",
     "url": "https://github.com/Zleap-AI/SAG",
-    "stars": 613,
-    "daily_stars": 8,
+    "stars": 622,
+    "daily_stars": 9,
     "language": "Python",
     "topics": [
       "ai",
@@ -47,34 +44,50 @@
       "vector-search"
     ],
     "created_at": "2025-11-07T07:33:35",
-    "updated_at": "2025-12-03T04:25:59"
+    "updated_at": "2025-12-03T08:42:17"
   },
   {
-    "name": "talkcody",
-    "full_name": "talkcody/talkcody",
-    "description": "TalkCody - Code is cheap, show me your talk.  🚀 Free Open Source AI Coding Agent.",
-    "url": "https://github.com/talkcody/talkcody",
-    "stars": 92,
-    "daily_stars": 4,
-    "language": "TypeScript",
+    "name": "continuous-claude",
+    "full_name": "AnandChowdhary/continuous-claude",
+    "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
+    "url": "https://github.com/AnandChowdhary/continuous-claude",
+    "stars": 759,
+    "daily_stars": 6,
+    "language": "Shell",
     "topics": [
+      "ai",
       "ai-agents",
-      "coding-agent",
-      "coding-assistant",
-      "rust",
-      "tauri2",
-      "vercel-ai-sdk"
+      "claude",
+      "claude-code",
+      "continuous-ai"
     ],
-    "created_at": "2025-11-07T14:42:04",
-    "updated_at": "2025-12-03T03:46:34"
+    "created_at": "2025-11-15T08:59:04",
+    "updated_at": "2025-12-03T06:36:41"
+  },
+  {
+    "name": "ToolOrchestra",
+    "full_name": "NVlabs/ToolOrchestra",
+    "description": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.",
+    "url": "https://github.com/NVlabs/ToolOrchestra",
+    "stars": 210,
+    "daily_stars": 5,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "deep-learning",
+      "large-language-models"
+    ],
+    "created_at": "2025-11-25T23:53:41",
+    "updated_at": "2025-12-03T08:30:39"
   },
   {
     "name": "Agent-Kernel",
     "full_name": "ZJU-LLMs/Agent-Kernel",
     "description": "A MicroKernel Multi-Agents System Framework for Adaptive Social Simulation Powered by LLMs",
     "url": "https://github.com/ZJU-LLMs/Agent-Kernel",
-    "stars": 19,
-    "daily_stars": 3,
+    "stars": 23,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "artificial-intelligence",
@@ -83,14 +96,14 @@
       "social-simulation"
     ],
     "created_at": "2025-11-30T03:08:20",
-    "updated_at": "2025-12-03T04:47:44"
+    "updated_at": "2025-12-03T07:51:27"
   },
   {
     "name": "CyberStrikeAI",
     "full_name": "Ed1s0nZ/CyberStrikeAI",
     "description": "AI-Powered Autonomous Penetration Testing Platform - Built with Golang, featuring hundreds of built-in security tools, flexible custom tool extensions, and intelligent AI decision-making through MCP protocol, making security testing as simple as a conversation.",
     "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
-    "stars": 311,
+    "stars": 313,
     "daily_stars": 2,
     "language": "Go",
     "topics": [
@@ -103,109 +116,90 @@
       "mcp"
     ],
     "created_at": "2025-11-08T10:41:23",
-    "updated_at": "2025-12-03T03:46:18"
+    "updated_at": "2025-12-03T08:12:44"
   },
   {
-    "name": "upscalemp3_v2",
-    "full_name": "matthewmcq/upscalemp3_v2",
-    "description": "Mp3 to wav super resolution model for audio restoration & enhancement. U-Net + Discrete Wavelet Transform (DWT) Architecture",
-    "url": "https://github.com/matthewmcq/upscalemp3_v2",
+    "name": "agent-sessions",
+    "full_name": "ozankasikci/agent-sessions",
+    "description": "Agent Sessions is a desktop app for managing multiple agent sessions at once, written in Rust.",
+    "url": "https://github.com/ozankasikci/agent-sessions",
     "stars": 11,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "artificial-intelligence",
-      "audio-enhancement",
-      "audio-processing",
-      "audio-restoration",
-      "cnn",
-      "deep-learning",
-      "deep-neural-networks",
-      "dwt",
-      "machine-learning",
-      "mp3",
-      "super-resolution",
-      "tensorflow",
-      "unet",
-      "upscale",
-      "upscale-mp3",
-      "wav",
-      "wavelet",
-      "wavelet-transform"
-    ],
-    "created_at": "2025-11-30T22:27:43",
-    "updated_at": "2025-12-03T04:37:04"
-  },
-  {
-    "name": "continuous-claude",
-    "full_name": "AnandChowdhary/continuous-claude",
-    "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-    "url": "https://github.com/AnandChowdhary/continuous-claude",
-    "stars": 753,
-    "daily_stars": 1,
-    "language": "Shell",
+    "daily_stars": 2,
+    "language": "Rust",
     "topics": [
       "ai",
       "ai-agents",
       "claude",
-      "claude-code",
-      "continuous-ai"
+      "developer-tools",
+      "llm",
+      "macos",
+      "rust",
+      "rust-lang",
+      "tauri"
     ],
-    "created_at": "2025-11-15T08:59:04",
-    "updated_at": "2025-12-03T02:25:09"
+    "created_at": "2025-12-02T16:20:58",
+    "updated_at": "2025-12-03T07:57:01"
   },
   {
-    "name": "5-Day-AI-Agents-Intensive-Course-with-Google",
-    "full_name": "sdivyanshu90/5-Day-AI-Agents-Intensive-Course-with-Google",
-    "description": null,
-    "url": "https://github.com/sdivyanshu90/5-Day-AI-Agents-Intensive-Course-with-Google",
-    "stars": 65,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
+    "name": "openadserver",
+    "full_name": "seanZhang414/openadserver",
+    "description": "Open Source Ad Serving Platform with ML-Powered CTR Prediction | Self-hosted alternative to Google Ad Manager | Python, FastAPI, PyTorch",
+    "url": "https://github.com/seanZhang414/openadserver",
+    "stars": 74,
+    "daily_stars": 2,
+    "language": "Python",
     "topics": [
-      "ai-agents",
-      "google",
-      "kaggle",
-      "mcp"
+      "ad-network",
+      "ad-server",
+      "ad-tech",
+      "advertising",
+      "ctr-prediction",
+      "deepfm",
+      "digital-advertising",
+      "dsp",
+      "fastapi",
+      "machine-learning",
+      "open-source",
+      "programmatic-advertising",
+      "python",
+      "pytorch",
+      "self-hosted"
     ],
-    "created_at": "2025-11-11T06:12:37",
-    "updated_at": "2025-12-03T03:33:18"
+    "created_at": "2025-11-30T02:07:43",
+    "updated_at": "2025-12-03T08:11:50"
   },
   {
-    "name": "ai-agent-team",
-    "full_name": "peterfei/ai-agent-team",
-    "description": "AI Agent Team-拥有24/7专业AI开发团队：产品经理、前端开发、后端开发、测试工程师、DevOps工程师、技术负责人。一键安装，支持中英文命令，大幅提升开发效率！",
-    "url": "https://github.com/peterfei/ai-agent-team",
-    "stars": 47,
+    "name": "sora-watermark-cleaner",
+    "full_name": "wannalie/sora-watermark-cleaner",
+    "description": "Sora2 Watermark Cleaner (GUI) is a graphical application for removing your own technical or test watermarks from images and videos during development or internal workflows.",
+    "url": "https://github.com/wannalie/sora-watermark-cleaner",
+    "stars": 312,
     "daily_stars": 1,
-    "language": "JavaScript",
+    "language": "Python",
     "topics": [
-      "24886",
-      "ai",
-      "ai-agents",
-      "claude-code",
-      "claude-code-skill",
-      "drawnotes",
-      "ide",
-      "notebook",
-      "skill"
+      "artificial-intelligence",
+      "python",
+      "sora-ai",
+      "sora-watermark-remover",
+      "sora2"
     ],
-    "created_at": "2025-11-07T15:22:33",
-    "updated_at": "2025-12-03T03:49:44"
+    "created_at": "2025-12-02T16:41:39",
+    "updated_at": "2025-12-03T08:51:13"
   },
   {
-    "name": "aster",
-    "full_name": "astercloud/aster",
-    "description": "星尘云枢 - 星尘汇聚，智能成枢。生产级 AI Agent 平台，原生支持多语言执行（Python/TS/Bash），Go 性能基底。",
-    "url": "https://github.com/astercloud/aster",
-    "stars": 21,
+    "name": "x-evolution",
+    "full_name": "lucidrains/x-evolution",
+    "description": "Implementation of various evolutionary algorithms, starting with evolutionary strategies",
+    "url": "https://github.com/lucidrains/x-evolution",
+    "stars": 34,
     "daily_stars": 1,
-    "language": "Go",
+    "language": "Python",
     "topics": [
-      "ai-agent",
-      "ai-agents"
+      "artificial-intelligence",
+      "evolution",
+      "evolutionary-algorithms"
     ],
-    "created_at": "2025-11-18T01:21:18",
-    "updated_at": "2025-12-03T03:57:35"
+    "created_at": "2025-11-09T14:37:30",
+    "updated_at": "2025-12-03T05:56:59"
   }
 ]
