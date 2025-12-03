@@ -4,7 +4,7 @@
     "full_name": "talkcody/talkcody",
     "description": "TalkCody - Code is cheap, show me your talk.  🚀 Free Open Source AI Coding Agent.",
     "url": "https://github.com/talkcody/talkcody",
-    "stars": 101,
+    "stars": 110,
     "daily_stars": 9,
     "language": "TypeScript",
     "topics": [
@@ -16,15 +16,15 @@
       "vercel-ai-sdk"
     ],
     "created_at": "2025-11-07T14:42:04",
-    "updated_at": "2025-12-03T08:47:50"
+    "updated_at": "2025-12-03T12:42:46"
   },
   {
     "name": "SAG",
     "full_name": "Zleap-AI/SAG",
     "description": "SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying",
     "url": "https://github.com/Zleap-AI/SAG",
-    "stars": 622,
-    "daily_stars": 9,
+    "stars": 628,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "ai",
@@ -44,15 +44,51 @@
       "vector-search"
     ],
     "created_at": "2025-11-07T07:33:35",
-    "updated_at": "2025-12-03T08:42:17"
+    "updated_at": "2025-12-03T12:22:45"
+  },
+  {
+    "name": "ToolOrchestra",
+    "full_name": "NVlabs/ToolOrchestra",
+    "description": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.",
+    "url": "https://github.com/NVlabs/ToolOrchestra",
+    "stars": 216,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "deep-learning",
+      "large-language-models"
+    ],
+    "created_at": "2025-11-25T23:53:41",
+    "updated_at": "2025-12-03T12:42:37"
+  },
+  {
+    "name": "code-mode",
+    "full_name": "universal-tool-calling-protocol/code-mode",
+    "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
+    "url": "https://github.com/universal-tool-calling-protocol/code-mode",
+    "stars": 1124,
+    "daily_stars": 5,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "codemode",
+      "mcp",
+      "model-context-protocol",
+      "toolchain",
+      "utcp"
+    ],
+    "created_at": "2025-11-11T09:35:44",
+    "updated_at": "2025-12-03T12:56:31"
   },
   {
     "name": "continuous-claude",
     "full_name": "AnandChowdhary/continuous-claude",
     "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
     "url": "https://github.com/AnandChowdhary/continuous-claude",
-    "stars": 759,
-    "daily_stars": 6,
+    "stars": 762,
+    "daily_stars": 3,
     "language": "Shell",
     "topics": [
       "ai",
@@ -62,144 +98,121 @@
       "continuous-ai"
     ],
     "created_at": "2025-11-15T08:59:04",
-    "updated_at": "2025-12-03T06:36:41"
+    "updated_at": "2025-12-03T12:09:14"
   },
   {
-    "name": "ToolOrchestra",
-    "full_name": "NVlabs/ToolOrchestra",
-    "description": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.",
-    "url": "https://github.com/NVlabs/ToolOrchestra",
-    "stars": 210,
-    "daily_stars": 5,
+    "name": "agentic-data-scientist",
+    "full_name": "K-Dense-AI/agentic-data-scientist",
+    "description": "An end-to-end Data Scientist",
+    "url": "https://github.com/K-Dense-AI/agentic-data-scientist",
+    "stars": 422,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
-      "agent",
       "agentic-ai",
-      "deep-learning",
-      "large-language-models"
+      "data-science",
+      "machine-learning"
     ],
-    "created_at": "2025-11-25T23:53:41",
-    "updated_at": "2025-12-03T08:30:39"
+    "created_at": "2025-11-04T07:29:49",
+    "updated_at": "2025-12-03T12:36:30"
   },
   {
-    "name": "Agent-Kernel",
-    "full_name": "ZJU-LLMs/Agent-Kernel",
-    "description": "A MicroKernel Multi-Agents System Framework for Adaptive Social Simulation Powered by LLMs",
-    "url": "https://github.com/ZJU-LLMs/Agent-Kernel",
-    "stars": 23,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "large-language-models",
-      "multi-agent-systems",
-      "social-simulation"
-    ],
-    "created_at": "2025-11-30T03:08:20",
-    "updated_at": "2025-12-03T07:51:27"
-  },
-  {
-    "name": "CyberStrikeAI",
-    "full_name": "Ed1s0nZ/CyberStrikeAI",
-    "description": "AI-Powered Autonomous Penetration Testing Platform - Built with Golang, featuring hundreds of built-in security tools, flexible custom tool extensions, and intelligent AI decision-making through MCP protocol, making security testing as simple as a conversation.",
-    "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
-    "stars": 313,
-    "daily_stars": 2,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-cybersecurity",
-      "ai-penetration-testing",
-      "ai-security-tool",
-      "ctf-tools",
-      "mcp"
-    ],
-    "created_at": "2025-11-08T10:41:23",
-    "updated_at": "2025-12-03T08:12:44"
-  },
-  {
-    "name": "agent-sessions",
-    "full_name": "ozankasikci/agent-sessions",
-    "description": "Agent Sessions is a desktop app for managing multiple agent sessions at once, written in Rust.",
-    "url": "https://github.com/ozankasikci/agent-sessions",
-    "stars": 11,
+    "name": "qilbeeDB",
+    "full_name": "aicubetechnology/qilbeeDB",
+    "description": "QilbeeDB is a cloud-agnostic, high-performance graph database built for autonomous AI agents, real-time memory, and enterprise automation.",
+    "url": "https://github.com/aicubetechnology/qilbeeDB",
+    "stars": 45,
     "daily_stars": 2,
     "language": "Rust",
     "topics": [
-      "ai",
       "ai-agents",
-      "claude",
-      "developer-tools",
-      "llm",
-      "macos",
-      "rust",
-      "rust-lang",
-      "tauri"
+      "autonomous-ai",
+      "distributed-systems",
+      "embeddings",
+      "enterprise-automation",
+      "graph-database",
+      "knowledge-graph",
+      "real-time-memory",
+      "vector-database"
     ],
-    "created_at": "2025-12-02T16:20:58",
-    "updated_at": "2025-12-03T07:57:01"
+    "created_at": "2025-11-25T02:18:08",
+    "updated_at": "2025-12-03T12:39:18"
   },
   {
-    "name": "openadserver",
-    "full_name": "seanZhang414/openadserver",
-    "description": "Open Source Ad Serving Platform with ML-Powered CTR Prediction | Self-hosted alternative to Google Ad Manager | Python, FastAPI, PyTorch",
-    "url": "https://github.com/seanZhang414/openadserver",
-    "stars": 74,
+    "name": "asystem-awex",
+    "full_name": "inclusionAI/asystem-awex",
+    "description": "A high-performance RL training-inference weight synchronization framework, designed to enable second-level parameter updates from training to inference in RL workflows",
+    "url": "https://github.com/inclusionAI/asystem-awex",
+    "stars": 106,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
-      "ad-network",
-      "ad-server",
-      "ad-tech",
-      "advertising",
-      "ctr-prediction",
-      "deepfm",
-      "digital-advertising",
-      "dsp",
-      "fastapi",
+      "cuda",
+      "deep-learning",
+      "gpu",
+      "inference",
+      "llm",
       "machine-learning",
-      "open-source",
-      "programmatic-advertising",
-      "python",
+      "moe",
       "pytorch",
-      "self-hosted"
+      "reasoning",
+      "reinforcement-learning",
+      "rl",
+      "training",
+      "transformers"
     ],
-    "created_at": "2025-11-30T02:07:43",
-    "updated_at": "2025-12-03T08:11:50"
+    "created_at": "2025-11-17T02:43:55",
+    "updated_at": "2025-12-03T11:22:40"
   },
   {
-    "name": "sora-watermark-cleaner",
-    "full_name": "wannalie/sora-watermark-cleaner",
-    "description": "Sora2 Watermark Cleaner (GUI) is a graphical application for removing your own technical or test watermarks from images and videos during development or internal workflows.",
-    "url": "https://github.com/wannalie/sora-watermark-cleaner",
-    "stars": 312,
+    "name": "locus",
+    "full_name": "alpkeskin/locus",
+    "description": "Turn street photos into GPS coordinates using AI",
+    "url": "https://github.com/alpkeskin/locus",
+    "stars": 11,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
       "artificial-intelligence",
-      "python",
-      "sora-ai",
-      "sora-watermark-remover",
-      "sora2"
+      "geoint",
+      "geolocation",
+      "geospy",
+      "gps",
+      "image-recognition",
+      "osint",
+      "osint-tool",
+      "sam3"
     ],
-    "created_at": "2025-12-02T16:41:39",
-    "updated_at": "2025-12-03T08:51:13"
+    "created_at": "2025-11-22T08:40:19",
+    "updated_at": "2025-12-03T09:33:41"
   },
   {
-    "name": "x-evolution",
-    "full_name": "lucidrains/x-evolution",
-    "description": "Implementation of various evolutionary algorithms, starting with evolutionary strategies",
-    "url": "https://github.com/lucidrains/x-evolution",
-    "stars": 34,
+    "name": "claude-agentic-patterns",
+    "full_name": "ThibautMelen/claude-agentic-patterns",
+    "description": "🤖 7 official agentic patterns from Anthropic docs - Subagents, Skills, Parallel Tools, Master-Clone & more. With Mermaid diagrams and code examples.",
+    "url": "https://github.com/ThibautMelen/claude-agentic-patterns",
+    "stars": 63,
     "daily_stars": 1,
-    "language": "Python",
+    "language": null,
     "topics": [
-      "artificial-intelligence",
-      "evolution",
-      "evolutionary-algorithms"
+      "agent-sdk",
+      "agentic",
+      "agentic-patterns",
+      "ai-agents",
+      "anthropic",
+      "awesome",
+      "claude",
+      "claude-code",
+      "design-patterns",
+      "llm",
+      "llm-patterns",
+      "mcp",
+      "orchestration",
+      "subagents",
+      "tool-use",
+      "workflows"
     ],
-    "created_at": "2025-11-09T14:37:30",
-    "updated_at": "2025-12-03T05:56:59"
+    "created_at": "2025-11-25T12:38:23",
+    "updated_at": "2025-12-03T12:08:08"
   }
 ]
