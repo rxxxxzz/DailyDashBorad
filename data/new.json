@@ -1,28 +1,11 @@
 [
   {
-    "name": "ToolOrchestra",
-    "full_name": "NVlabs/ToolOrchestra",
-    "description": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.",
-    "url": "https://github.com/NVlabs/ToolOrchestra",
-    "stars": 196,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "deep-learning",
-      "large-language-models"
-    ],
-    "created_at": "2025-11-25T23:53:41",
-    "updated_at": "2025-12-02T19:08:51"
-  },
-  {
     "name": "sora-watermark-cleaner",
     "full_name": "wannalie/sora-watermark-cleaner",
     "description": "Sora2 Watermark Cleaner (GUI) is a graphical application for removing your own technical or test watermarks from images and videos during development or internal workflows.",
     "url": "https://github.com/wannalie/sora-watermark-cleaner",
-    "stars": 125,
-    "daily_stars": 0,
+    "stars": 311,
+    "daily_stars": 186,
     "language": "Python",
     "topics": [
       "artificial-intelligence",
@@ -32,7 +15,24 @@
       "sora2"
     ],
     "created_at": "2025-12-02T16:41:39",
-    "updated_at": "2025-12-02T20:44:09"
+    "updated_at": "2025-12-03T01:47:52"
+  },
+  {
+    "name": "ToolOrchestra",
+    "full_name": "NVlabs/ToolOrchestra",
+    "description": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.",
+    "url": "https://github.com/NVlabs/ToolOrchestra",
+    "stars": 204,
+    "daily_stars": 8,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "deep-learning",
+      "large-language-models"
+    ],
+    "created_at": "2025-11-25T23:53:41",
+    "updated_at": "2025-12-03T01:43:41"
   },
   {
     "name": "claude-skill-homeassistant",
@@ -57,8 +57,8 @@
     "full_name": "seanZhang414/openadserver",
     "description": "Open Source Ad Serving Platform with ML-Powered CTR Prediction | Self-hosted alternative to Google Ad Manager | Python, FastAPI, PyTorch",
     "url": "https://github.com/seanZhang414/openadserver",
-    "stars": 70,
-    "daily_stars": 4,
+    "stars": 71,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ad-network",
@@ -78,15 +78,15 @@
       "self-hosted"
     ],
     "created_at": "2025-11-30T02:07:43",
-    "updated_at": "2025-12-02T20:18:25"
+    "updated_at": "2025-12-02T22:09:51"
   },
   {
     "name": "claude-agentic-patterns",
     "full_name": "ThibautMelen/claude-agentic-patterns",
     "description": "🤖 7 official agentic patterns from Anthropic docs - Subagents, Skills, Parallel Tools, Master-Clone & more. With Mermaid diagrams and code examples.",
     "url": "https://github.com/ThibautMelen/claude-agentic-patterns",
-    "stars": 60,
-    "daily_stars": 0,
+    "stars": 62,
+    "daily_stars": 2,
     "language": null,
     "topics": [
       "agent-sdk",
@@ -107,7 +107,7 @@
       "workflows"
     ],
     "created_at": "2025-11-25T12:38:23",
-    "updated_at": "2025-12-02T16:37:08"
+    "updated_at": "2025-12-02T22:53:37"
   },
   {
     "name": "splintr",
@@ -129,28 +129,6 @@
     "updated_at": "2025-12-02T17:45:41"
   },
   {
-    "name": "qilbeeDB",
-    "full_name": "aicubetechnology/qilbeeDB",
-    "description": "QilbeeDB is a cloud-agnostic, high-performance graph database built for autonomous AI agents, real-time memory, and enterprise automation.",
-    "url": "https://github.com/aicubetechnology/qilbeeDB",
-    "stars": 42,
-    "daily_stars": 1,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "autonomous-ai",
-      "distributed-systems",
-      "embeddings",
-      "enterprise-automation",
-      "graph-database",
-      "knowledge-graph",
-      "real-time-memory",
-      "vector-database"
-    ],
-    "created_at": "2025-11-25T02:18:08",
-    "updated_at": "2025-12-02T18:21:13"
-  },
-  {
     "name": "MIND-News-RecSys",
     "full_name": "JiaxiWong/MIND-News-RecSys",
     "description": "A Deep Interest Network (DIN) implementation for MIND News Recommendation with BERT semantic warm-up.",
@@ -169,6 +147,23 @@
     ],
     "created_at": "2025-11-29T08:46:56",
     "updated_at": "2025-12-02T15:35:07"
+  },
+  {
+    "name": "Agent-Kernel",
+    "full_name": "ZJU-LLMs/Agent-Kernel",
+    "description": "A MicroKernel Multi-Agents System Framework for Adaptive Social Simulation Powered by LLMs",
+    "url": "https://github.com/ZJU-LLMs/Agent-Kernel",
+    "stars": 16,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "large-language-models",
+      "multi-agent-systems",
+      "social-simulation"
+    ],
+    "created_at": "2025-11-30T03:08:20",
+    "updated_at": "2025-12-03T01:35:43"
   },
   {
     "name": "fara-agent",
@@ -192,20 +187,32 @@
     "updated_at": "2025-12-01T07:37:24"
   },
   {
-    "name": "Agent-Kernel",
-    "full_name": "ZJU-LLMs/Agent-Kernel",
-    "description": "A MicroKernel Multi-Agents System Framework for Adaptive Social Simulation Powered by LLMs",
-    "url": "https://github.com/ZJU-LLMs/Agent-Kernel",
-    "stars": 15,
+    "name": "doc2dataset",
+    "full_name": "3DCF-Labs/doc2dataset",
+    "description": "3DCF / doc2dataset: token-efficient document layer with NumGuard numeric integrity and multi-framework exports for RAG & fine-tuning.",
+    "url": "https://github.com/3DCF-Labs/doc2dataset",
+    "stars": 14,
     "daily_stars": 0,
-    "language": "Python",
+    "language": "Rust",
     "topics": [
-      "artificial-intelligence",
-      "large-language-models",
-      "multi-agent-systems",
-      "social-simulation"
+      "3dcf",
+      "cli",
+      "data-pipeline",
+      "dataset-generation",
+      "doc2dataset",
+      "document-processing",
+      "document-understanding",
+      "evaluation",
+      "fine-tuning",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "numguard",
+      "ocr",
+      "rag",
+      "rust"
     ],
-    "created_at": "2025-11-30T03:08:20",
-    "updated_at": "2025-12-02T13:56:50"
+    "created_at": "2025-11-27T18:52:43",
+    "updated_at": "2025-11-29T21:21:32"
   }
 ]
