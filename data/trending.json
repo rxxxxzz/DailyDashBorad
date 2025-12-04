@@ -1,28 +1,11 @@
 [
   {
-    "name": "ToolOrchestra",
-    "full_name": "NVlabs/ToolOrchestra",
-    "description": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.",
-    "url": "https://github.com/NVlabs/ToolOrchestra",
-    "stars": 234,
-    "daily_stars": 10,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "deep-learning",
-      "large-language-models"
-    ],
-    "created_at": "2025-11-25T23:53:41",
-    "updated_at": "2025-12-04T02:22:21"
-  },
-  {
     "name": "SAG",
     "full_name": "Zleap-AI/SAG",
     "description": "SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying",
     "url": "https://github.com/Zleap-AI/SAG",
-    "stars": 641,
-    "daily_stars": 5,
+    "stars": 648,
+    "daily_stars": 7,
     "language": "Python",
     "topics": [
       "ai",
@@ -42,101 +25,60 @@
       "vector-search"
     ],
     "created_at": "2025-11-07T07:33:35",
-    "updated_at": "2025-12-04T01:46:01"
+    "updated_at": "2025-12-04T04:38:50"
   },
   {
-    "name": "mcp-checkpoint",
-    "full_name": "aira-security/mcp-checkpoint",
-    "description": "MCP Checkpoint continuously secures and monitors Model Context Protocol operations through static and dynamic scans, revealing hidden risks in agent-to-tool communications.",
-    "url": "https://github.com/aira-security/mcp-checkpoint",
-    "stars": 90,
-    "daily_stars": 3,
+    "name": "ToolOrchestra",
+    "full_name": "NVlabs/ToolOrchestra",
+    "description": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.",
+    "url": "https://github.com/NVlabs/ToolOrchestra",
+    "stars": 240,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
+      "agent",
       "agentic-ai",
-      "ai",
-      "ai-agents",
-      "aira",
-      "mcp",
-      "model-context-protocol",
-      "security"
+      "deep-learning",
+      "large-language-models"
     ],
-    "created_at": "2025-11-07T21:35:56",
-    "updated_at": "2025-12-03T22:28:51"
+    "created_at": "2025-11-25T23:53:41",
+    "updated_at": "2025-12-04T04:08:25"
   },
   {
-    "name": "openadserver",
-    "full_name": "seanZhang414/openadserver",
-    "description": "Open Source Ad Serving Platform with ML-Powered CTR Prediction | Self-hosted alternative to Google Ad Manager | Python, FastAPI, PyTorch",
-    "url": "https://github.com/seanZhang414/openadserver",
-    "stars": 80,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "ad-network",
-      "ad-server",
-      "ad-tech",
-      "advertising",
-      "ctr-prediction",
-      "deepfm",
-      "digital-advertising",
-      "dsp",
-      "fastapi",
-      "machine-learning",
-      "open-source",
-      "programmatic-advertising",
-      "python",
-      "pytorch",
-      "self-hosted"
-    ],
-    "created_at": "2025-11-30T02:07:43",
-    "updated_at": "2025-12-04T01:36:26"
-  },
-  {
-    "name": "code-mode",
-    "full_name": "universal-tool-calling-protocol/code-mode",
-    "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
-    "url": "https://github.com/universal-tool-calling-protocol/code-mode",
-    "stars": 1131,
+    "name": "dotfiles",
+    "full_name": "blackwell-systems/dotfiles",
+    "description": "Enterprise-grade dotfiles • Multi-vault secrets • Machine-specific templates • Cross-platform (macOS/Lima/Linux/WSL2/Windows) • Portable Claude Code sessions",
+    "url": "https://github.com/blackwell-systems/dotfiles",
+    "stars": 3,
     "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "codemode",
-      "mcp",
-      "model-context-protocol",
-      "toolchain",
-      "utcp"
-    ],
-    "created_at": "2025-11-11T09:35:44",
-    "updated_at": "2025-12-04T00:27:15"
-  },
-  {
-    "name": "CyberStrikeAI",
-    "full_name": "Ed1s0nZ/CyberStrikeAI",
-    "description": "AI-Powered Autonomous Penetration Testing Platform - Built with Golang, featuring hundreds of built-in security tools, flexible custom tool extensions, and intelligent AI decision-making through MCP protocol, making security testing as simple as a conversation.",
-    "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
-    "stars": 315,
-    "daily_stars": 2,
-    "language": "Go",
+    "language": "Shell",
     "topics": [
       "ai",
-      "ai-agents",
-      "ai-cybersecurity",
-      "ai-penetration-testing",
-      "ai-security-tool",
-      "ctf-tools",
-      "mcp"
+      "artificial-intelligence",
+      "automation",
+      "bitwarden",
+      "bitwarden-cli",
+      "claude",
+      "developer-tools",
+      "devtools",
+      "dotfiles",
+      "dotfiles-linux",
+      "dotfiles-macos",
+      "dotfiles-wsl",
+      "homebrew",
+      "linux",
+      "macos",
+      "zsh"
     ],
-    "created_at": "2025-11-08T10:41:23",
-    "updated_at": "2025-12-04T02:08:06"
+    "created_at": "2025-11-25T04:48:07",
+    "updated_at": "2025-12-04T04:07:15"
   },
   {
     "name": "talkcody",
     "full_name": "talkcody/talkcody",
     "description": "TalkCody - Code is cheap, show me your talk.  🚀 Free Open Source AI Coding Agent.",
     "url": "https://github.com/talkcody/talkcody",
-    "stars": 113,
+    "stars": 115,
     "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
@@ -148,43 +90,14 @@
       "vercel-ai-sdk"
     ],
     "created_at": "2025-11-07T14:42:04",
-    "updated_at": "2025-12-04T02:21:55"
-  },
-  {
-    "name": "claude-agentic-patterns",
-    "full_name": "ThibautMelen/claude-agentic-patterns",
-    "description": "🤖 7 official agentic patterns from Anthropic docs - Subagents, Skills, Parallel Tools, Master-Clone & more. With Mermaid diagrams and code examples.",
-    "url": "https://github.com/ThibautMelen/claude-agentic-patterns",
-    "stars": 69,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "agent-sdk",
-      "agentic",
-      "agentic-patterns",
-      "ai-agents",
-      "anthropic",
-      "awesome",
-      "claude",
-      "claude-code",
-      "design-patterns",
-      "llm",
-      "llm-patterns",
-      "mcp",
-      "orchestration",
-      "subagents",
-      "tool-use",
-      "workflows"
-    ],
-    "created_at": "2025-11-25T12:38:23",
-    "updated_at": "2025-12-03T23:57:24"
+    "updated_at": "2025-12-04T03:30:10"
   },
   {
     "name": "5-Day-AI-Agents-Intensive-Course-with-Google",
     "full_name": "anxiong2025/5-Day-AI-Agents-Intensive-Course-with-Google",
     "description": "谷歌5天AI Agents强化课程",
     "url": "https://github.com/anxiong2025/5-Day-AI-Agents-Intensive-Course-with-Google",
-    "stars": 27,
+    "stars": 29,
     "daily_stars": 2,
     "language": "Jupyter Notebook",
     "topics": [
@@ -194,34 +107,102 @@
       "mcp"
     ],
     "created_at": "2025-11-15T05:42:06",
-    "updated_at": "2025-12-04T01:50:00"
+    "updated_at": "2025-12-04T03:03:57"
   },
   {
-    "name": "neuromorphic-bird-classifier-desktop-app-dvs-stream-cli-and-gui",
-    "full_name": "Neuromorphicism/neuromorphic-bird-classifier-desktop-app-dvs-stream-cli-and-gui",
-    "description": "Neuromorphic Bird Classifier Desktop App (NeuroBCDA) bundled with Live Event Camera Simulator",
-    "url": "https://github.com/Neuromorphicism/neuromorphic-bird-classifier-desktop-app-dvs-stream-cli-and-gui",
-    "stars": 6,
-    "daily_stars": 2,
+    "name": "x-evolution",
+    "full_name": "lucidrains/x-evolution",
+    "description": "Implementation of various evolutionary algorithms, starting with evolutionary strategies",
+    "url": "https://github.com/lucidrains/x-evolution",
+    "stars": 35,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "birds",
-      "customtkinter",
-      "customtkinter-project",
-      "dat-files",
-      "event-data",
-      "event-driven",
-      "gui-application",
-      "huggingface-models",
-      "machine-learning",
-      "neuromorphic-computing",
-      "neuromorphic-engineering",
-      "norse",
-      "ornithology",
-      "python",
-      "spiking-neural-network"
+      "artificial-intelligence",
+      "evolution",
+      "evolutionary-algorithms"
     ],
-    "created_at": "2025-11-29T01:20:18",
-    "updated_at": "2025-12-04T00:08:51"
+    "created_at": "2025-11-09T14:37:30",
+    "updated_at": "2025-12-04T03:37:08"
+  },
+  {
+    "name": "Semantic-Compressor",
+    "full_name": "BruinGrowly/Semantic-Compressor",
+    "description": "DNA-inspired semantic compression for AI reasoning at scale. Compress codebases 1000x while preserving meaning. 99.8% token reduction.",
+    "url": "https://github.com/BruinGrowly/Semantic-Compressor",
+    "stars": 5,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-tools",
+      "artificial-intelligence",
+      "code-analysis",
+      "code-quality",
+      "compression",
+      "developer-tools",
+      "dna-inspired",
+      "natural-language-processing",
+      "python",
+      "semantic-compression"
+    ],
+    "created_at": "2025-11-14T09:02:23",
+    "updated_at": "2025-12-04T03:59:36"
+  },
+  {
+    "name": "mcp-checkpoint",
+    "full_name": "aira-security/mcp-checkpoint",
+    "description": "MCP Checkpoint continuously secures and monitors Model Context Protocol operations through static and dynamic scans, revealing hidden risks in agent-to-tool communications.",
+    "url": "https://github.com/aira-security/mcp-checkpoint",
+    "stars": 91,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "aira",
+      "mcp",
+      "model-context-protocol",
+      "security"
+    ],
+    "created_at": "2025-11-07T21:35:56",
+    "updated_at": "2025-12-04T03:58:39"
+  },
+  {
+    "name": "peargent",
+    "full_name": "Quanta-Naut/peargent",
+    "description": "Lightweight Python framework for creating intelligent AI agents with ease.",
+    "url": "https://github.com/Quanta-Naut/peargent",
+    "stars": 7,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "developer-tools",
+      "framework",
+      "llms",
+      "python"
+    ],
+    "created_at": "2025-11-07T13:46:50",
+    "updated_at": "2025-12-04T03:12:04"
+  },
+  {
+    "name": "agents_hub",
+    "full_name": "Hycky/agents_hub",
+    "description": "🤖 Hub de acesso para aplicações de IA - Dify, Langflow, N8N, Langfuse, Kestra e mais",
+    "url": "https://github.com/Hycky/agents_hub",
+    "stars": 5,
+    "daily_stars": 1,
+    "language": "HTML",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "dashboard",
+      "docker",
+      "hub",
+      "monitoring"
+    ],
+    "created_at": "2025-12-03T13:07:00",
+    "updated_at": "2025-12-04T04:22:07"
   }
 ]
