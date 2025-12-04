@@ -1,11 +1,82 @@
 [
   {
+    "name": "jax_generative_models",
+    "full_name": "MizuhoAOKI/jax_generative_models",
+    "description": "Minimal JAX implementation unifying Diffusion and Flow Matching algorithms.",
+    "url": "https://github.com/MizuhoAOKI/jax_generative_models",
+    "stars": 25,
+    "daily_stars": 8,
+    "language": "Python",
+    "topics": [
+      "deep-learning",
+      "diffusion",
+      "flow-matching",
+      "jax",
+      "machine-learning"
+    ],
+    "created_at": "2025-11-29T09:35:46",
+    "updated_at": "2025-12-04T16:08:37"
+  },
+  {
+    "name": "5-Day-AI-Agents-Intensive-Course-with-Google",
+    "full_name": "anxiong2025/5-Day-AI-Agents-Intensive-Course-with-Google",
+    "description": "谷歌5天AI Agents强化课程",
+    "url": "https://github.com/anxiong2025/5-Day-AI-Agents-Intensive-Course-with-Google",
+    "stars": 38,
+    "daily_stars": 4,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "ai-agents",
+      "google",
+      "kaggle",
+      "mcp"
+    ],
+    "created_at": "2025-11-15T05:42:06",
+    "updated_at": "2025-12-04T15:18:35"
+  },
+  {
+    "name": "ToolOrchestra",
+    "full_name": "NVlabs/ToolOrchestra",
+    "description": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.",
+    "url": "https://github.com/NVlabs/ToolOrchestra",
+    "stars": 252,
+    "daily_stars": 4,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "deep-learning",
+      "large-language-models"
+    ],
+    "created_at": "2025-11-25T23:53:41",
+    "updated_at": "2025-12-04T15:44:19"
+  },
+  {
+    "name": "code-mode",
+    "full_name": "universal-tool-calling-protocol/code-mode",
+    "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
+    "url": "https://github.com/universal-tool-calling-protocol/code-mode",
+    "stars": 1137,
+    "daily_stars": 3,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "codemode",
+      "mcp",
+      "model-context-protocol",
+      "toolchain",
+      "utcp"
+    ],
+    "created_at": "2025-11-11T09:35:44",
+    "updated_at": "2025-12-04T15:26:46"
+  },
+  {
     "name": "SAG",
     "full_name": "Zleap-AI/SAG",
     "description": "SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying",
     "url": "https://github.com/Zleap-AI/SAG",
-    "stars": 657,
-    "daily_stars": 7,
+    "stars": 660,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "ai",
@@ -25,74 +96,103 @@
       "vector-search"
     ],
     "created_at": "2025-11-07T07:33:35",
-    "updated_at": "2025-12-04T12:44:15"
+    "updated_at": "2025-12-04T15:51:15"
   },
   {
-    "name": "code-mode",
-    "full_name": "universal-tool-calling-protocol/code-mode",
-    "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
-    "url": "https://github.com/universal-tool-calling-protocol/code-mode",
-    "stars": 1134,
-    "daily_stars": 3,
+    "name": "talkcody",
+    "full_name": "talkcody/talkcody",
+    "description": "TalkCody - Code is cheap, show me your talk.  🚀 Free Open Source AI Coding Agent.",
+    "url": "https://github.com/talkcody/talkcody",
+    "stars": 119,
+    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "codemode",
-      "mcp",
-      "model-context-protocol",
-      "toolchain",
-      "utcp"
+      "coding-agent",
+      "coding-assistant",
+      "rust",
+      "tauri2",
+      "vercel-ai-sdk"
     ],
-    "created_at": "2025-11-11T09:35:44",
-    "updated_at": "2025-12-04T12:28:58"
+    "created_at": "2025-11-07T14:42:04",
+    "updated_at": "2025-12-04T16:19:46"
   },
   {
-    "name": "ToolOrchestra",
-    "full_name": "NVlabs/ToolOrchestra",
-    "description": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.",
-    "url": "https://github.com/NVlabs/ToolOrchestra",
-    "stars": 248,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "deep-learning",
-      "large-language-models"
-    ],
-    "created_at": "2025-11-25T23:53:41",
-    "updated_at": "2025-12-04T10:53:16"
-  },
-  {
-    "name": "station",
-    "full_name": "dualverse-ai/station",
-    "description": "The Station, an open-world multi-agent environment that models a miniature scientific ecosystem.",
-    "url": "https://github.com/dualverse-ai/station",
-    "stars": 81,
+    "name": "claude-agentic-patterns",
+    "full_name": "ThibautMelen/claude-agentic-patterns",
+    "description": "🤖 7 official agentic patterns from Anthropic docs - Subagents, Skills, Parallel Tools, Master-Clone & more. With Mermaid diagrams and code examples.",
+    "url": "https://github.com/ThibautMelen/claude-agentic-patterns",
+    "stars": 72,
     "daily_stars": 2,
-    "language": "Python",
+    "language": null,
+    "topics": [
+      "agent-sdk",
+      "agentic",
+      "agentic-patterns",
+      "ai-agents",
+      "anthropic",
+      "awesome",
+      "claude",
+      "claude-code",
+      "design-patterns",
+      "llm",
+      "llm-patterns",
+      "mcp",
+      "orchestration",
+      "subagents",
+      "tool-use",
+      "workflows"
+    ],
+    "created_at": "2025-11-25T12:38:23",
+    "updated_at": "2025-12-04T16:29:18"
+  },
+  {
+    "name": "agent-sessions",
+    "full_name": "ozankasikci/agent-sessions",
+    "description": "Agent Sessions is a desktop app for managing multiple agent sessions at once, written in Rust.",
+    "url": "https://github.com/ozankasikci/agent-sessions",
+    "stars": 16,
+    "daily_stars": 2,
+    "language": "Rust",
     "topics": [
       "ai",
-      "ai-agent",
       "ai-agents",
-      "ai-agents-framework",
-      "ai-scientist",
-      "artificial-intelligence",
-      "large-language-models",
+      "claude",
+      "developer-tools",
       "llm",
-      "machine-learning",
-      "open-world"
+      "macos",
+      "rust",
+      "rust-lang",
+      "tauri"
     ],
-    "created_at": "2025-11-09T13:50:09",
-    "updated_at": "2025-12-04T12:25:53"
+    "created_at": "2025-12-02T16:20:58",
+    "updated_at": "2025-12-04T16:34:28"
+  },
+  {
+    "name": "neural-netz",
+    "full_name": "edgaremy/neural-netz",
+    "description": "A Typst package for visualizing Neural Network Architectures with high-quality diagrams.",
+    "url": "https://github.com/edgaremy/neural-netz",
+    "stars": 22,
+    "daily_stars": 2,
+    "language": "Typst",
+    "topics": [
+      "deep-learning",
+      "design",
+      "neural-networks",
+      "typst",
+      "visualization"
+    ],
+    "created_at": "2025-11-26T10:37:50",
+    "updated_at": "2025-12-04T15:29:21"
   },
   {
     "name": "continuous-claude",
     "full_name": "AnandChowdhary/continuous-claude",
     "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
     "url": "https://github.com/AnandChowdhary/continuous-claude",
-    "stars": 769,
-    "daily_stars": 2,
+    "stars": 770,
+    "daily_stars": 1,
     "language": "Shell",
     "topics": [
       "ai",
@@ -102,109 +202,6 @@
       "continuous-ai"
     ],
     "created_at": "2025-11-15T08:59:04",
-    "updated_at": "2025-12-04T11:25:30"
-  },
-  {
-    "name": "CyberStrikeAI",
-    "full_name": "Ed1s0nZ/CyberStrikeAI",
-    "description": "AI-Powered Autonomous Penetration Testing Platform - Built with Golang, featuring hundreds of built-in security tools, flexible custom tool extensions, and intelligent AI decision-making through MCP protocol, making security testing as simple as a conversation.",
-    "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
-    "stars": 317,
-    "daily_stars": 2,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-cybersecurity",
-      "ai-penetration-testing",
-      "ai-security-tool",
-      "ctf-tools",
-      "mcp"
-    ],
-    "created_at": "2025-11-08T10:41:23",
-    "updated_at": "2025-12-04T10:44:44"
-  },
-  {
-    "name": "5-Day-AI-Agents-Intensive-Course-with-Google",
-    "full_name": "anxiong2025/5-Day-AI-Agents-Intensive-Course-with-Google",
-    "description": "谷歌5天AI Agents强化课程",
-    "url": "https://github.com/anxiong2025/5-Day-AI-Agents-Intensive-Course-with-Google",
-    "stars": 34,
-    "daily_stars": 2,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "ai-agents",
-      "google",
-      "kaggle",
-      "mcp"
-    ],
-    "created_at": "2025-11-15T05:42:06",
-    "updated_at": "2025-12-04T09:57:29"
-  },
-  {
-    "name": "doc2dataset",
-    "full_name": "3DCF-Labs/doc2dataset",
-    "description": "3DCF / doc2dataset: token-efficient document layer with NumGuard numeric integrity and multi-framework exports for RAG & fine-tuning.",
-    "url": "https://github.com/3DCF-Labs/doc2dataset",
-    "stars": 19,
-    "daily_stars": 2,
-    "language": "Rust",
-    "topics": [
-      "3dcf",
-      "cli",
-      "data-pipeline",
-      "dataset-generation",
-      "doc2dataset",
-      "document-processing",
-      "document-understanding",
-      "evaluation",
-      "fine-tuning",
-      "llm",
-      "machine-learning",
-      "nlp",
-      "numguard",
-      "ocr",
-      "rag",
-      "rust"
-    ],
-    "created_at": "2025-11-27T18:52:43",
-    "updated_at": "2025-12-04T10:44:10"
-  },
-  {
-    "name": "I-Passed-AI-102-",
-    "full_name": "johnbro101/I-Passed-AI-102-",
-    "description": " Just passed my exam through this site :) https://www.itexamspro.com/microsoft/ai-102-dumps.html",
-    "url": "https://github.com/johnbro101/I-Passed-AI-102-",
-    "stars": 10,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "ai-102-questions",
-      "ai-102-questions-answers",
-      "artificial-intelligence",
-      "certification",
-      "microsoft",
-      "microsoft-azure"
-    ],
-    "created_at": "2025-11-18T08:56:46",
-    "updated_at": "2025-12-04T11:38:48"
-  },
-  {
-    "name": "Significance-Hypothesis-Based-ARC-AGI-2-puzzle-solver",
-    "full_name": "Judahmeek/Significance-Hypothesis-Based-ARC-AGI-2-puzzle-solver",
-    "description": "A proof of concept for specifying how humans solve ARC-AGI-2 puzzles",
-    "url": "https://github.com/Judahmeek/Significance-Hypothesis-Based-ARC-AGI-2-puzzle-solver",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "arc-agi",
-      "arc-agi-2",
-      "artificial-intelligence",
-      "artificial-intelligence-algorithms",
-      "search-heuristics"
-    ],
-    "created_at": "2025-12-01T05:07:24",
-    "updated_at": "2025-12-04T12:55:57"
+    "updated_at": "2025-12-04T15:04:26"
   }
 ]
