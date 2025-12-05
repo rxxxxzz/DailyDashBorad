@@ -4,8 +4,8 @@
     "full_name": "Zleap-AI/SAG",
     "description": "SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying",
     "url": "https://github.com/Zleap-AI/SAG",
-    "stars": 690,
-    "daily_stars": 8,
+    "stars": 697,
+    "daily_stars": 7,
     "language": "Python",
     "topics": [
       "ai",
@@ -25,15 +25,34 @@
       "vector-search"
     ],
     "created_at": "2025-11-07T07:33:35",
-    "updated_at": "2025-12-05T04:29:49"
+    "updated_at": "2025-12-05T08:35:54"
+  },
+  {
+    "name": "code-mode",
+    "full_name": "universal-tool-calling-protocol/code-mode",
+    "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
+    "url": "https://github.com/universal-tool-calling-protocol/code-mode",
+    "stars": 1145,
+    "daily_stars": 4,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "codemode",
+      "mcp",
+      "model-context-protocol",
+      "toolchain",
+      "utcp"
+    ],
+    "created_at": "2025-11-11T09:35:44",
+    "updated_at": "2025-12-05T08:41:04"
   },
   {
     "name": "jax_generative_models",
     "full_name": "MizuhoAOKI/jax_generative_models",
     "description": "Minimal JAX implementation unifying Diffusion and Flow Matching algorithms.",
     "url": "https://github.com/MizuhoAOKI/jax_generative_models",
-    "stars": 43,
-    "daily_stars": 3,
+    "stars": 47,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "deep-learning",
@@ -43,78 +62,15 @@
       "machine-learning"
     ],
     "created_at": "2025-11-29T09:35:46",
-    "updated_at": "2025-12-05T03:44:38"
-  },
-  {
-    "name": "doc2dataset",
-    "full_name": "3DCF-Labs/doc2dataset",
-    "description": "3DCF / doc2dataset: token-efficient document layer with NumGuard numeric integrity and multi-framework exports for RAG & fine-tuning.",
-    "url": "https://github.com/3DCF-Labs/doc2dataset",
-    "stars": 24,
-    "daily_stars": 3,
-    "language": "Rust",
-    "topics": [
-      "3dcf",
-      "cli",
-      "data-pipeline",
-      "dataset-generation",
-      "doc2dataset",
-      "document-processing",
-      "document-understanding",
-      "evaluation",
-      "fine-tuning",
-      "llm",
-      "machine-learning",
-      "nlp",
-      "numguard",
-      "ocr",
-      "rag",
-      "rust"
-    ],
-    "created_at": "2025-11-27T18:52:43",
-    "updated_at": "2025-12-05T03:23:11"
-  },
-  {
-    "name": "Agent-Kernel",
-    "full_name": "ZJU-LLMs/Agent-Kernel",
-    "description": "A MicroKernel Multi-Agents System Framework for Adaptive Social Simulation Powered by LLMs",
-    "url": "https://github.com/ZJU-LLMs/Agent-Kernel",
-    "stars": 27,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "large-language-models",
-      "multi-agent-systems",
-      "social-simulation"
-    ],
-    "created_at": "2025-11-30T03:08:20",
-    "updated_at": "2025-12-05T03:35:09"
-  },
-  {
-    "name": "5-Day-AI-Agents-Intensive-Course-with-Google",
-    "full_name": "anxiong2025/5-Day-AI-Agents-Intensive-Course-with-Google",
-    "description": "谷歌5天AI Agents强化课程",
-    "url": "https://github.com/anxiong2025/5-Day-AI-Agents-Intensive-Course-with-Google",
-    "stars": 41,
-    "daily_stars": 2,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "ai-agents",
-      "google",
-      "kaggle",
-      "mcp"
-    ],
-    "created_at": "2025-11-15T05:42:06",
-    "updated_at": "2025-12-05T04:14:27"
+    "updated_at": "2025-12-05T08:23:58"
   },
   {
     "name": "ToolOrchestra",
     "full_name": "NVlabs/ToolOrchestra",
     "description": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.",
     "url": "https://github.com/NVlabs/ToolOrchestra",
-    "stars": 258,
-    "daily_stars": 2,
+    "stars": 261,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "agent",
@@ -123,74 +79,62 @@
       "large-language-models"
     ],
     "created_at": "2025-11-25T23:53:41",
-    "updated_at": "2025-12-05T04:44:54"
+    "updated_at": "2025-12-05T08:25:02"
   },
   {
-    "name": "awesome-ai-eval",
-    "full_name": "Vvkmnn/awesome-ai-eval",
-    "description": "☑️ A curated list of tools, methods & platforms for evaluating AI reliability in real applications.",
-    "url": "https://github.com/Vvkmnn/awesome-ai-eval",
-    "stars": 16,
-    "daily_stars": 1,
+    "name": "claude-agentic-patterns",
+    "full_name": "ThibautMelen/claude-agentic-patterns",
+    "description": "🤖 7 official agentic patterns from Anthropic docs - Subagents, Skills, Parallel Tools, Master-Clone & more. With Mermaid diagrams and code examples.",
+    "url": "https://github.com/ThibautMelen/claude-agentic-patterns",
+    "stars": 76,
+    "daily_stars": 2,
     "language": null,
     "topics": [
-      "ai-evaluation",
-      "ai-evaluation-framework",
-      "ai-evaluation-metrics",
-      "ai-evaluation-tools",
+      "agent-sdk",
+      "agentic",
+      "agentic-patterns",
+      "ai-agents",
+      "anthropic",
       "awesome",
-      "awesome-list",
-      "awesome-lists",
-      "chatgpt",
       "claude",
-      "evaluation",
-      "evaluation-framework",
-      "evaluation-metrics",
-      "gemini",
-      "grok",
-      "large-language-model",
-      "large-language-models",
+      "claude-code",
+      "design-patterns",
       "llm",
-      "machine-learning",
-      "nlp",
-      "qwen"
+      "llm-patterns",
+      "mcp",
+      "orchestration",
+      "subagents",
+      "tool-use",
+      "workflows"
     ],
-    "created_at": "2025-11-18T15:44:07",
-    "updated_at": "2025-12-05T04:28:43"
+    "created_at": "2025-11-25T12:38:23",
+    "updated_at": "2025-12-05T08:23:09"
   },
   {
-    "name": "born",
-    "full_name": "born-ml/born",
-    "description": "Production-ready ML framework for Go with zero dependencies. Train and deploy neural networks as single binaries. PyTorch-like API, type-safe tensors, automatic differentiation.",
-    "url": "https://github.com/born-ml/born",
-    "stars": 11,
-    "daily_stars": 1,
-    "language": "Go",
+    "name": "steer",
+    "full_name": "imtt-dev/steer",
+    "description": "The Active Reliability Layer for AI Agents. Catch failures, teach fixes, and automate reliability",
+    "url": "https://github.com/imtt-dev/steer",
+    "stars": 8,
+    "daily_stars": 2,
+    "language": "Python",
     "topics": [
-      "autodiff",
-      "automatic-differentiation",
-      "cpu-backend",
-      "cross-platform",
-      "deep-learning",
-      "go",
-      "golang",
-      "high-performance",
-      "machine-learning",
-      "neural-networks",
-      "pure-go",
-      "tensor",
-      "type-safety"
+      "ai-agents",
+      "llm",
+      "observability",
+      "python",
+      "reliability"
     ],
-    "created_at": "2025-11-17T01:04:23",
-    "updated_at": "2025-12-05T03:12:07"
+    "created_at": "2025-11-23T00:15:26",
+    "updated_at": "2025-12-05T08:31:29"
   },
   {
     "name": "awesome-ml-for-scientists",
     "full_name": "breadboardfoundry/awesome-ml-for-scientists",
     "description": "Resources for research teams running machine learning experiments.",
     "url": "https://github.com/breadboardfoundry/awesome-ml-for-scientists",
-    "stars": 6,
-    "daily_stars": 1,
+    "stars": 8,
+    "daily_stars": 2,
     "language": null,
     "topics": [
       "awesome",
@@ -200,24 +144,67 @@
       "research"
     ],
     "created_at": "2025-12-04T06:38:35",
-    "updated_at": "2025-12-05T04:16:06"
+    "updated_at": "2025-12-05T06:03:28"
   },
   {
-    "name": "autonomous-agentic-rag",
-    "full_name": "FareedKhan-dev/autonomous-agentic-rag",
-    "description": "Self improving agentic rag pipeline",
-    "url": "https://github.com/FareedKhan-dev/autonomous-agentic-rag",
-    "stars": 88,
-    "daily_stars": 0,
+    "name": "qilbeeDB",
+    "full_name": "aicubetechnology/qilbeeDB",
+    "description": "QilbeeDB is a cloud-agnostic, high-performance graph database built for autonomous AI agents, real-time memory, and enterprise automation.",
+    "url": "https://github.com/aicubetechnology/qilbeeDB",
+    "stars": 54,
+    "daily_stars": 1,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "autonomous-ai",
+      "distributed-systems",
+      "embeddings",
+      "enterprise-automation",
+      "graph-database",
+      "knowledge-graph",
+      "real-time-memory",
+      "vector-database"
+    ],
+    "created_at": "2025-11-25T02:18:08",
+    "updated_at": "2025-12-05T07:36:31"
+  },
+  {
+    "name": "ai-agent-team",
+    "full_name": "peterfei/ai-agent-team",
+    "description": "AI Agent Team-拥有24/7专业AI开发团队：产品经理、前端开发、后端开发、测试工程师、DevOps工程师、技术负责人。一键安装，支持中英文命令，大幅提升开发效率！",
+    "url": "https://github.com/peterfei/ai-agent-team",
+    "stars": 49,
+    "daily_stars": 1,
+    "language": "JavaScript",
+    "topics": [
+      "24886",
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "claude-code-skill",
+      "drawnotes",
+      "ide",
+      "notebook",
+      "skill"
+    ],
+    "created_at": "2025-11-07T15:22:33",
+    "updated_at": "2025-12-05T07:58:00"
+  },
+  {
+    "name": "5-Day-AI-Agents-Intensive-Course-with-Google",
+    "full_name": "anxiong2025/5-Day-AI-Agents-Intensive-Course-with-Google",
+    "description": "谷歌5天AI Agents强化课程",
+    "url": "https://github.com/anxiong2025/5-Day-AI-Agents-Intensive-Course-with-Google",
+    "stars": 42,
+    "daily_stars": 1,
     "language": "Jupyter Notebook",
     "topics": [
-      "agentic-ai",
-      "ai",
-      "artificial-intelligence",
-      "langchain",
-      "rag"
+      "ai-agents",
+      "google",
+      "kaggle",
+      "mcp"
     ],
-    "created_at": "2025-11-13T18:10:48",
-    "updated_at": "2025-12-01T23:24:50"
+    "created_at": "2025-11-15T05:42:06",
+    "updated_at": "2025-12-05T06:28:54"
   }
 ]
