@@ -4,8 +4,8 @@
     "full_name": "Zleap-AI/SAG",
     "description": "SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying",
     "url": "https://github.com/Zleap-AI/SAG",
-    "stars": 682,
-    "daily_stars": 11,
+    "stars": 690,
+    "daily_stars": 8,
     "language": "Python",
     "topics": [
       "ai",
@@ -25,15 +25,15 @@
       "vector-search"
     ],
     "created_at": "2025-11-07T07:33:35",
-    "updated_at": "2025-12-05T02:13:19"
+    "updated_at": "2025-12-05T04:29:49"
   },
   {
     "name": "jax_generative_models",
     "full_name": "MizuhoAOKI/jax_generative_models",
     "description": "Minimal JAX implementation unifying Diffusion and Flow Matching algorithms.",
     "url": "https://github.com/MizuhoAOKI/jax_generative_models",
-    "stars": 40,
-    "daily_stars": 8,
+    "stars": 43,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "deep-learning",
@@ -43,33 +43,77 @@
       "machine-learning"
     ],
     "created_at": "2025-11-29T09:35:46",
-    "updated_at": "2025-12-05T01:07:06"
+    "updated_at": "2025-12-05T03:44:38"
   },
   {
-    "name": "code-mode",
-    "full_name": "universal-tool-calling-protocol/code-mode",
-    "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
-    "url": "https://github.com/universal-tool-calling-protocol/code-mode",
-    "stars": 1141,
+    "name": "doc2dataset",
+    "full_name": "3DCF-Labs/doc2dataset",
+    "description": "3DCF / doc2dataset: token-efficient document layer with NumGuard numeric integrity and multi-framework exports for RAG & fine-tuning.",
+    "url": "https://github.com/3DCF-Labs/doc2dataset",
+    "stars": 24,
+    "daily_stars": 3,
+    "language": "Rust",
+    "topics": [
+      "3dcf",
+      "cli",
+      "data-pipeline",
+      "dataset-generation",
+      "doc2dataset",
+      "document-processing",
+      "document-understanding",
+      "evaluation",
+      "fine-tuning",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "numguard",
+      "ocr",
+      "rag",
+      "rust"
+    ],
+    "created_at": "2025-11-27T18:52:43",
+    "updated_at": "2025-12-05T03:23:11"
+  },
+  {
+    "name": "Agent-Kernel",
+    "full_name": "ZJU-LLMs/Agent-Kernel",
+    "description": "A MicroKernel Multi-Agents System Framework for Adaptive Social Simulation Powered by LLMs",
+    "url": "https://github.com/ZJU-LLMs/Agent-Kernel",
+    "stars": 27,
     "daily_stars": 2,
-    "language": "TypeScript",
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "large-language-models",
+      "multi-agent-systems",
+      "social-simulation"
+    ],
+    "created_at": "2025-11-30T03:08:20",
+    "updated_at": "2025-12-05T03:35:09"
+  },
+  {
+    "name": "5-Day-AI-Agents-Intensive-Course-with-Google",
+    "full_name": "anxiong2025/5-Day-AI-Agents-Intensive-Course-with-Google",
+    "description": "谷歌5天AI Agents强化课程",
+    "url": "https://github.com/anxiong2025/5-Day-AI-Agents-Intensive-Course-with-Google",
+    "stars": 41,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
     "topics": [
       "ai-agents",
-      "codemode",
-      "mcp",
-      "model-context-protocol",
-      "toolchain",
-      "utcp"
+      "google",
+      "kaggle",
+      "mcp"
     ],
-    "created_at": "2025-11-11T09:35:44",
-    "updated_at": "2025-12-04T23:57:09"
+    "created_at": "2025-11-15T05:42:06",
+    "updated_at": "2025-12-05T04:14:27"
   },
   {
     "name": "ToolOrchestra",
     "full_name": "NVlabs/ToolOrchestra",
     "description": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.",
     "url": "https://github.com/NVlabs/ToolOrchestra",
-    "stars": 256,
+    "stars": 258,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
@@ -79,114 +123,101 @@
       "large-language-models"
     ],
     "created_at": "2025-11-25T23:53:41",
-    "updated_at": "2025-12-05T01:16:54"
+    "updated_at": "2025-12-05T04:44:54"
   },
   {
-    "name": "CyberStrikeAI",
-    "full_name": "Ed1s0nZ/CyberStrikeAI",
-    "description": "AI-Powered Autonomous Penetration Testing Platform - Built with Golang, featuring hundreds of built-in security tools, flexible custom tool extensions, and intelligent AI decision-making through MCP protocol, making security testing as simple as a conversation.",
-    "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
-    "stars": 319,
+    "name": "awesome-ai-eval",
+    "full_name": "Vvkmnn/awesome-ai-eval",
+    "description": "☑️ A curated list of tools, methods & platforms for evaluating AI reliability in real applications.",
+    "url": "https://github.com/Vvkmnn/awesome-ai-eval",
+    "stars": 16,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "ai-evaluation",
+      "ai-evaluation-framework",
+      "ai-evaluation-metrics",
+      "ai-evaluation-tools",
+      "awesome",
+      "awesome-list",
+      "awesome-lists",
+      "chatgpt",
+      "claude",
+      "evaluation",
+      "evaluation-framework",
+      "evaluation-metrics",
+      "gemini",
+      "grok",
+      "large-language-model",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "qwen"
+    ],
+    "created_at": "2025-11-18T15:44:07",
+    "updated_at": "2025-12-05T04:28:43"
+  },
+  {
+    "name": "born",
+    "full_name": "born-ml/born",
+    "description": "Production-ready ML framework for Go with zero dependencies. Train and deploy neural networks as single binaries. PyTorch-like API, type-safe tensors, automatic differentiation.",
+    "url": "https://github.com/born-ml/born",
+    "stars": 11,
     "daily_stars": 1,
     "language": "Go",
     "topics": [
-      "ai",
-      "ai-agents",
-      "ai-cybersecurity",
-      "ai-penetration-testing",
-      "ai-security-tool",
-      "ctf-tools",
-      "mcp"
+      "autodiff",
+      "automatic-differentiation",
+      "cpu-backend",
+      "cross-platform",
+      "deep-learning",
+      "go",
+      "golang",
+      "high-performance",
+      "machine-learning",
+      "neural-networks",
+      "pure-go",
+      "tensor",
+      "type-safety"
     ],
-    "created_at": "2025-11-08T10:41:23",
-    "updated_at": "2025-12-05T01:14:27"
+    "created_at": "2025-11-17T01:04:23",
+    "updated_at": "2025-12-05T03:12:07"
   },
   {
-    "name": "agent-scripts",
-    "full_name": "steipete/agent-scripts",
-    "description": "Scripts for agents, shared between my repositories.",
-    "url": "https://github.com/steipete/agent-scripts",
-    "stars": 276,
+    "name": "awesome-ml-for-scientists",
+    "full_name": "breadboardfoundry/awesome-ml-for-scientists",
+    "description": "Resources for research teams running machine learning experiments.",
+    "url": "https://github.com/breadboardfoundry/awesome-ml-for-scientists",
+    "stars": 6,
     "daily_stars": 1,
-    "language": "TypeScript",
+    "language": null,
     "topics": [
-      "ai-agents"
+      "awesome",
+      "awesome-list",
+      "awesome-lists",
+      "machine-learning",
+      "research"
     ],
-    "created_at": "2025-11-08T02:55:55",
-    "updated_at": "2025-12-04T22:43:03"
+    "created_at": "2025-12-04T06:38:35",
+    "updated_at": "2025-12-05T04:16:06"
   },
   {
-    "name": "mcp-checkpoint",
-    "full_name": "aira-security/mcp-checkpoint",
-    "description": "MCP Checkpoint continuously secures and monitors Model Context Protocol operations through static and dynamic scans, revealing hidden risks in agent-to-tool communications.",
-    "url": "https://github.com/aira-security/mcp-checkpoint",
-    "stars": 92,
-    "daily_stars": 1,
-    "language": "Python",
+    "name": "autonomous-agentic-rag",
+    "full_name": "FareedKhan-dev/autonomous-agentic-rag",
+    "description": "Self improving agentic rag pipeline",
+    "url": "https://github.com/FareedKhan-dev/autonomous-agentic-rag",
+    "stars": 88,
+    "daily_stars": 0,
+    "language": "Jupyter Notebook",
     "topics": [
       "agentic-ai",
       "ai",
-      "ai-agents",
-      "aira",
-      "mcp",
-      "model-context-protocol",
-      "security"
+      "artificial-intelligence",
+      "langchain",
+      "rag"
     ],
-    "created_at": "2025-11-07T21:35:56",
-    "updated_at": "2025-12-05T00:42:24"
-  },
-  {
-    "name": "5-Day-AI-Agents-Intensive-Course-with-Google",
-    "full_name": "sdivyanshu90/5-Day-AI-Agents-Intensive-Course-with-Google",
-    "description": null,
-    "url": "https://github.com/sdivyanshu90/5-Day-AI-Agents-Intensive-Course-with-Google",
-    "stars": 70,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "ai-agents",
-      "google",
-      "kaggle",
-      "mcp"
-    ],
-    "created_at": "2025-11-11T06:12:37",
-    "updated_at": "2025-12-04T22:04:40"
-  },
-  {
-    "name": "aster",
-    "full_name": "astercloud/aster",
-    "description": "星尘云枢 - 星尘汇聚，智能成枢。生产级 AI Agent 平台，原生支持多语言执行（Python/TS/Bash），Go 性能基底。",
-    "url": "https://github.com/astercloud/aster",
-    "stars": 25,
-    "daily_stars": 1,
-    "language": "Go",
-    "topics": [
-      "ai-agent",
-      "ai-agents"
-    ],
-    "created_at": "2025-11-18T01:21:18",
-    "updated_at": "2025-12-05T01:36:18"
-  },
-  {
-    "name": "claude-cto-team",
-    "full_name": "alirezarezvani/claude-cto-team",
-    "description": "Your personal CTO Team for Claude Code . These Subagents will help you challenging yourself while you plan and execute. ",
-    "url": "https://github.com/alirezarezvani/claude-cto-team",
-    "stars": 8,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-workflow",
-      "ai-workflow-automation",
-      "claude-ai",
-      "claude-code",
-      "claude-subagents",
-      "cto",
-      "cto-office",
-      "roadmap"
-    ],
-    "created_at": "2025-12-04T08:55:16",
-    "updated_at": "2025-12-05T00:18:31"
+    "created_at": "2025-11-13T18:10:48",
+    "updated_at": "2025-12-01T23:24:50"
   }
 ]
