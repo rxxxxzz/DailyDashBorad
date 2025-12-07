@@ -4,8 +4,8 @@
     "full_name": "firecrawl/open-scouts",
     "description": "  AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for. ",
     "url": "https://github.com/firecrawl/open-scouts",
-    "stars": 109,
-    "daily_stars": 7,
+    "stars": 133,
+    "daily_stars": 24,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -27,15 +27,15 @@
       "web-scraping"
     ],
     "created_at": "2025-11-28T14:46:39",
-    "updated_at": "2025-12-07T04:39:28"
+    "updated_at": "2025-12-07T08:30:52"
   },
   {
     "name": "ai-agent-tools",
     "full_name": "cporter202/ai-agent-tools",
     "description": "A curated collection of AI tools, utilities, and resources for developers and creators",
     "url": "https://github.com/cporter202/ai-agent-tools",
-    "stars": 98,
-    "daily_stars": 5,
+    "stars": 107,
+    "daily_stars": 9,
     "language": null,
     "topics": [
       "ai",
@@ -52,15 +52,15 @@
       "vibe-coding"
     ],
     "created_at": "2025-12-05T16:12:53",
-    "updated_at": "2025-12-07T04:47:29"
+    "updated_at": "2025-12-07T08:05:58"
   },
   {
     "name": "continuous-claude",
     "full_name": "AnandChowdhary/continuous-claude",
     "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
     "url": "https://github.com/AnandChowdhary/continuous-claude",
-    "stars": 804,
-    "daily_stars": 3,
+    "stars": 808,
+    "daily_stars": 4,
     "language": "Shell",
     "topics": [
       "ai",
@@ -70,34 +70,30 @@
       "continuous-ai"
     ],
     "created_at": "2025-11-15T08:59:04",
-    "updated_at": "2025-12-07T04:48:27"
+    "updated_at": "2025-12-07T06:46:45"
   },
   {
-    "name": "MCAF",
-    "full_name": "managedcode/MCAF",
-    "description": "MCAF is a framework for building software products together with AI coding agents.",
-    "url": "https://github.com/managedcode/MCAF",
+    "name": "ERC-8004-explorer",
+    "full_name": "Eversmile12/ERC-8004-explorer",
+    "description": "Web explorer for discovering AI agents registered on the ERC-8004 protocol (Ethereum Sepolia)",
+    "url": "https://github.com/Eversmile12/ERC-8004-explorer",
     "stars": 7,
     "daily_stars": 2,
-    "language": "CSS",
+    "language": "TypeScript",
     "topics": [
-      "ai",
+      "8004",
       "ai-agents",
-      "ai-framework",
-      "claude-code",
-      "codex",
-      "gemini",
-      "mcaf"
+      "erc-8004"
     ],
-    "created_at": "2025-12-01T17:44:26",
-    "updated_at": "2025-12-07T03:50:52"
+    "created_at": "2025-12-06T11:40:06",
+    "updated_at": "2025-12-07T07:33:46"
   },
   {
     "name": "ToolOrchestra",
     "full_name": "NVlabs/ToolOrchestra",
     "description": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.",
     "url": "https://github.com/NVlabs/ToolOrchestra",
-    "stars": 283,
+    "stars": 285,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
@@ -107,105 +103,53 @@
       "large-language-models"
     ],
     "created_at": "2025-11-25T23:53:41",
-    "updated_at": "2025-12-07T04:27:09"
+    "updated_at": "2025-12-07T08:14:59"
   },
   {
-    "name": "locus",
-    "full_name": "alpkeskin/locus",
-    "description": "Turn street photos into GPS coordinates using AI",
-    "url": "https://github.com/alpkeskin/locus",
-    "stars": 15,
+    "name": "agentic-parallelism",
+    "full_name": "FareedKhan-dev/agentic-parallelism",
+    "description": "Core concepts - where to apply parallelism in agentic solution",
+    "url": "https://github.com/FareedKhan-dev/agentic-parallelism",
+    "stars": 70,
     "daily_stars": 1,
-    "language": "Python",
+    "language": "Jupyter Notebook",
     "topics": [
-      "artificial-intelligence",
-      "geoint",
-      "geolocation",
-      "geospy",
-      "gps",
-      "image-recognition",
-      "osint",
-      "osint-tool",
-      "sam3"
-    ],
-    "created_at": "2025-11-22T08:40:19",
-    "updated_at": "2025-12-07T04:41:29"
-  },
-  {
-    "name": "tgo",
-    "full_name": "tgoai/tgo",
-    "description": "Open-source AI Agent Customer Service Platform. Build AI agent teams with LLM orchestration, RAG knowledge base, multi-channel support, and human collaboration.",
-    "url": "https://github.com/tgoai/tgo",
-    "stars": 4,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-agent",
-      "artificial-intelligence",
-      "chatbot",
-      "customer-service",
-      "customer-support",
-      "llm",
-      "rag"
-    ],
-    "created_at": "2025-11-18T08:47:29",
-    "updated_at": "2025-12-07T02:56:08"
-  },
-  {
-    "name": "claude-agentic-patterns",
-    "full_name": "ThibautMelen/claude-agentic-patterns",
-    "description": "🤖 7 official agentic patterns from Anthropic docs - Subagents, Skills, Parallel Tools, Master-Clone & more. With Mermaid diagrams and code examples.",
-    "url": "https://github.com/ThibautMelen/claude-agentic-patterns",
-    "stars": 79,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "agent-sdk",
-      "agentic",
-      "agentic-patterns",
+      "agentic-ai",
       "ai-agents",
-      "anthropic",
-      "awesome",
-      "claude",
-      "claude-code",
-      "design-patterns",
-      "llm",
-      "llm-patterns",
-      "mcp",
-      "orchestration",
-      "subagents",
-      "tool-use",
-      "workflows"
+      "langchain",
+      "langgraph"
     ],
-    "created_at": "2025-11-25T12:38:23",
-    "updated_at": "2025-12-07T03:04:33"
+    "created_at": "2025-11-20T08:08:31",
+    "updated_at": "2025-12-07T06:25:45"
   },
   {
-    "name": "Lumina-Note",
-    "full_name": "blueberrycongee/Lumina-Note",
-    "description": "Lumina Note - A modern Markdown note-taking app with live preview, bidirectional links, and AI assistant",
-    "url": "https://github.com/blueberrycongee/Lumina-Note",
-    "stars": 32,
+    "name": "qilbeeDB",
+    "full_name": "aicubetechnology/qilbeeDB",
+    "description": "QilbeeDB is a cloud-agnostic, high-performance graph database built for autonomous AI agents, real-time memory, and enterprise automation.",
+    "url": "https://github.com/aicubetechnology/qilbeeDB",
+    "stars": 60,
     "daily_stars": 1,
-    "language": "TypeScript",
+    "language": "Rust",
     "topics": [
-      "ai",
       "ai-agents",
-      "markdown",
-      "note-taking",
-      "react",
-      "tauri",
-      "typescript"
+      "autonomous-ai",
+      "distributed-systems",
+      "embeddings",
+      "enterprise-automation",
+      "graph-database",
+      "knowledge-graph",
+      "real-time-memory",
+      "vector-database"
     ],
-    "created_at": "2025-11-28T12:34:30",
-    "updated_at": "2025-12-07T04:37:18"
+    "created_at": "2025-11-25T02:18:08",
+    "updated_at": "2025-12-07T06:03:24"
   },
   {
     "name": "agent-sessions",
     "full_name": "ozankasikci/agent-sessions",
     "description": "Agent Sessions is a desktop app for managing multiple agent sessions at once, written in Rust.",
     "url": "https://github.com/ozankasikci/agent-sessions",
-    "stars": 30,
+    "stars": 31,
     "daily_stars": 1,
     "language": "Rust",
     "topics": [
@@ -220,6 +164,58 @@
       "tauri"
     ],
     "created_at": "2025-12-02T16:20:58",
-    "updated_at": "2025-12-07T03:09:41"
+    "updated_at": "2025-12-07T07:20:55"
+  },
+  {
+    "name": "aish",
+    "full_name": "sammwyy/aish",
+    "description": "AI-powered shell assistant that helps you execute commands and file operations through natural language.",
+    "url": "https://github.com/sammwyy/aish",
+    "stars": 14,
+    "daily_stars": 1,
+    "language": "Rust",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-assistant",
+      "ai-shell",
+      "ai-terminal",
+      "llm",
+      "llm-agent",
+      "llm-agents",
+      "openai",
+      "shell",
+      "shell-scripts",
+      "terminal",
+      "terminal-app"
+    ],
+    "created_at": "2025-12-06T17:51:20",
+    "updated_at": "2025-12-07T08:40:06"
+  },
+  {
+    "name": "ReNovel-AI",
+    "full_name": "BiranSama/ReNovel-AI",
+    "description": "本地化 AI 小说精修工作台🚀。内置 RAG 长时记忆🧠、三模态协作（作家/主编/助手）🖋️、卡片流式编辑器⚡。支持酒馆卡导入、全书自动化精修与扩写🎭。AI小说加料 小说精修 AI文本修改 小说扩写 小说总结",
+    "url": "https://github.com/BiranSama/ReNovel-AI",
+    "stars": 10,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-writing",
+      "airflow",
+      "chromadb",
+      "creative-writing",
+      "llm",
+      "nicegui",
+      "novel-writing",
+      "python",
+      "rag",
+      "sillytavern",
+      "text-expansion"
+    ],
+    "created_at": "2025-11-20T19:35:45",
+    "updated_at": "2025-12-07T06:46:19"
   }
 ]
