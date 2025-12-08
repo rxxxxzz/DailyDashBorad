@@ -1,10 +1,28 @@
 [
   {
+    "name": "steer",
+    "full_name": "imtt-dev/steer",
+    "description": "The Active Reliability Layer for AI Agents. Catch failures, teach fixes, and automate reliability",
+    "url": "https://github.com/imtt-dev/steer",
+    "stars": 42,
+    "daily_stars": 29,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "llm",
+      "observability",
+      "python",
+      "reliability"
+    ],
+    "created_at": "2025-11-23T00:15:26",
+    "updated_at": "2025-12-08T16:49:47"
+  },
+  {
     "name": "open-scouts",
     "full_name": "firecrawl/open-scouts",
     "description": "  AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for. ",
     "url": "https://github.com/firecrawl/open-scouts",
-    "stars": 250,
+    "stars": 271,
     "daily_stars": 21,
     "language": "TypeScript",
     "topics": [
@@ -27,15 +45,15 @@
       "web-scraping"
     ],
     "created_at": "2025-11-28T14:46:39",
-    "updated_at": "2025-12-08T13:06:38"
+    "updated_at": "2025-12-08T16:44:40"
   },
   {
     "name": "ai-agent-tools",
     "full_name": "cporter202/ai-agent-tools",
     "description": "A curated collection of AI tools, utilities, and resources for developers and creators",
     "url": "https://github.com/cporter202/ai-agent-tools",
-    "stars": 157,
-    "daily_stars": 9,
+    "stars": 164,
+    "daily_stars": 7,
     "language": null,
     "topics": [
       "ai",
@@ -52,65 +70,34 @@
       "vibe-coding"
     ],
     "created_at": "2025-12-05T16:12:53",
-    "updated_at": "2025-12-08T12:33:11"
+    "updated_at": "2025-12-08T16:46:14"
   },
   {
-    "name": "behavior-1k-solution",
-    "full_name": "IliaLarchenko/behavior-1k-solution",
-    "description": "1st place solution of 2025 BEHAVIOR Challenge",
-    "url": "https://github.com/IliaLarchenko/behavior-1k-solution",
-    "stars": 29,
-    "daily_stars": 7,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "competition",
-      "machine-learning",
-      "robotics",
-      "vla"
-    ],
-    "created_at": "2025-11-14T17:13:49",
-    "updated_at": "2025-12-08T12:59:27"
-  },
-  {
-    "name": "paulgraham-ai",
-    "full_name": "nozomio-labs/paulgraham-ai",
-    "description": "Paul Graham AI Agent powered by Nia API. Ask questions about startups, writing, technology, and life — grounded in 120+ essays.",
-    "url": "https://github.com/nozomio-labs/paulgraham-ai",
-    "stars": 27,
+    "name": "Puzld.ai",
+    "full_name": "MedChaouch/Puzld.ai",
+    "description": "Multi-LLM orchestration framework",
+    "url": "https://github.com/MedChaouch/Puzld.ai",
+    "stars": 16,
     "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
       "ai",
-      "ai-agents"
-    ],
-    "created_at": "2025-12-07T08:31:18",
-    "updated_at": "2025-12-08T13:05:25"
-  },
-  {
-    "name": "steer",
-    "full_name": "imtt-dev/steer",
-    "description": "The Active Reliability Layer for AI Agents. Catch failures, teach fixes, and automate reliability",
-    "url": "https://github.com/imtt-dev/steer",
-    "stars": 13,
-    "daily_stars": 5,
-    "language": "Python",
-    "topics": [
       "ai-agents",
-      "llm",
-      "observability",
-      "python",
-      "reliability"
+      "claude-code",
+      "codex",
+      "gemini",
+      "gemini-cli",
+      "llm"
     ],
-    "created_at": "2025-11-23T00:15:26",
-    "updated_at": "2025-12-08T13:08:26"
+    "created_at": "2025-12-04T19:05:42",
+    "updated_at": "2025-12-08T16:50:32"
   },
   {
     "name": "ToolOrchestra",
     "full_name": "NVlabs/ToolOrchestra",
     "description": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.",
     "url": "https://github.com/NVlabs/ToolOrchestra",
-    "stars": 304,
+    "stars": 308,
     "daily_stars": 4,
     "language": "Python",
     "topics": [
@@ -120,112 +107,105 @@
       "large-language-models"
     ],
     "created_at": "2025-11-25T23:53:41",
-    "updated_at": "2025-12-08T11:36:33"
+    "updated_at": "2025-12-08T16:51:46"
   },
   {
-    "name": "Promethium",
-    "full_name": "olaflaitinen/Promethium",
-    "description": "Promethium is a state-of-the-art, AI-driven framework for seismic signal reconstruction, denoising, and geophysical data enhancement, integrating cutting-edge deep learning architectures with production-grade data engineering.",
-    "url": "https://github.com/olaflaitinen/Promethium",
-    "stars": 6,
-    "daily_stars": 3,
+    "name": "Agent-Kernel",
+    "full_name": "ZJU-LLMs/Agent-Kernel",
+    "description": "A MicroKernel Multi-Agents System Framework for Adaptive Social Simulation Powered by LLMs",
+    "url": "https://github.com/ZJU-LLMs/Agent-Kernel",
+    "stars": 42,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
-      "angular",
-      "data-engineering",
-      "deep-learning",
-      "denoising",
-      "docker",
-      "earthquake-monitoring",
-      "fastapi",
-      "geophysics",
-      "kubernetes",
-      "machine-learning",
-      "neural-network",
-      "physics-informed-neural-networks",
-      "pytorch",
-      "reconstruction",
-      "scientific-computing",
-      "seismic",
-      "seismology",
-      "signal-processing",
-      "transformer",
-      "u-net"
+      "artificial-intelligence",
+      "large-language-models",
+      "multi-agent-systems",
+      "social-simulation"
     ],
-    "created_at": "2025-12-07T15:52:38",
-    "updated_at": "2025-12-08T11:48:13"
+    "created_at": "2025-11-30T03:08:20",
+    "updated_at": "2025-12-08T14:15:41"
   },
   {
-    "name": "fixxer",
-    "full_name": "BandwagonVibes/fixxer",
-    "description": "AI-powered photography workflow automation",
-    "url": "https://github.com/BandwagonVibes/fixxer",
-    "stars": 18,
-    "daily_stars": 3,
-    "language": "Python",
+    "name": "paulgraham-ai",
+    "full_name": "nozomio-labs/paulgraham-ai",
+    "description": "Paul Graham AI Agent powered by Nia API. Ask questions about startups, writing, technology, and life — grounded in 120+ essays.",
+    "url": "https://github.com/nozomio-labs/paulgraham-ai",
+    "stars": 29,
+    "daily_stars": 2,
+    "language": "TypeScript",
     "topics": [
-      "automation",
-      "cli",
-      "computer-vision",
-      "digital-asset-management",
-      "local-ai",
-      "offline",
-      "ollama",
-      "opensource",
-      "photography",
-      "privacy-focused",
-      "python",
-      "terminal",
-      "textual",
-      "tui",
-      "workflow"
+      "ai",
+      "ai-agents"
     ],
-    "created_at": "2025-11-10T02:14:45",
-    "updated_at": "2025-12-08T11:41:09"
+    "created_at": "2025-12-07T08:31:18",
+    "updated_at": "2025-12-08T15:28:50"
   },
   {
-    "name": "claude-cto-team",
-    "full_name": "alirezarezvani/claude-cto-team",
-    "description": "Your personal CTO Team for Claude Code . These Subagents will help you challenging yourself while you plan and execute. ",
-    "url": "https://github.com/alirezarezvani/claude-cto-team",
+    "name": "smle",
+    "full_name": "blkdmr/smle",
+    "description": "SMLE - A simple framework that takes care of the boring stuff in ML projects. ",
+    "url": "https://github.com/blkdmr/smle",
     "stars": 23,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
-      "ai-agents",
-      "ai-workflow",
-      "ai-workflow-automation",
-      "claude-ai",
-      "claude-code",
-      "claude-subagents",
-      "cto",
-      "cto-office",
-      "roadmap"
+      "beginner-friendly",
+      "beginner-project",
+      "deep-learning",
+      "deep-neural-networks",
+      "machine-learning",
+      "open-source",
+      "python"
     ],
-    "created_at": "2025-12-04T08:55:16",
-    "updated_at": "2025-12-08T10:24:43"
+    "created_at": "2025-11-17T15:14:07",
+    "updated_at": "2025-12-08T16:20:28"
   },
   {
-    "name": "local_faiss_mcp",
-    "full_name": "nonatofabio/local_faiss_mcp",
-    "description": "Local FAISS vector store as an MCP server – drop-in local RAG for Claude / Copilot / Agents.",
-    "url": "https://github.com/nonatofabio/local_faiss_mcp",
-    "stars": 6,
-    "daily_stars": 2,
-    "language": "Python",
+    "name": "continuous-claude",
+    "full_name": "AnandChowdhary/continuous-claude",
+    "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
+    "url": "https://github.com/AnandChowdhary/continuous-claude",
+    "stars": 825,
+    "daily_stars": 1,
+    "language": "Shell",
     "topics": [
+      "ai",
       "ai-agents",
-      "ai-tools",
-      "faiss",
-      "llm-tools",
-      "local-rag",
-      "mcp-server",
-      "model-context-protocol",
-      "rag",
-      "semantic-search",
-      "vector-database"
+      "claude",
+      "claude-code",
+      "continuous-ai"
     ],
-    "created_at": "2025-11-27T06:32:21",
-    "updated_at": "2025-12-08T11:24:35"
+    "created_at": "2025-11-15T08:59:04",
+    "updated_at": "2025-12-08T13:57:26"
+  },
+  {
+    "name": "claude-agentic-patterns",
+    "full_name": "ThibautMelen/claude-agentic-patterns",
+    "description": "🤖 7 official agentic patterns from Anthropic docs - Subagents, Skills, Parallel Tools, Master-Clone & more. With Mermaid diagrams and code examples.",
+    "url": "https://github.com/ThibautMelen/claude-agentic-patterns",
+    "stars": 81,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "agent-sdk",
+      "agentic",
+      "agentic-patterns",
+      "ai-agents",
+      "anthropic",
+      "awesome",
+      "claude",
+      "claude-code",
+      "design-patterns",
+      "llm",
+      "llm-patterns",
+      "mcp",
+      "orchestration",
+      "subagents",
+      "tool-use",
+      "workflows"
+    ],
+    "created_at": "2025-11-25T12:38:23",
+    "updated_at": "2025-12-08T16:10:33"
   }
 ]
