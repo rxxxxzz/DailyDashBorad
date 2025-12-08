@@ -1,29 +1,11 @@
 [
   {
-    "name": "steer",
-    "full_name": "imtt-dev/steer",
-    "description": "The Active Reliability Layer for AI Agents. Catch failures, teach fixes, and automate reliability",
-    "url": "https://github.com/imtt-dev/steer",
-    "stars": 42,
-    "daily_stars": 29,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "llm",
-      "observability",
-      "python",
-      "reliability"
-    ],
-    "created_at": "2025-11-23T00:15:26",
-    "updated_at": "2025-12-08T16:49:47"
-  },
-  {
     "name": "open-scouts",
     "full_name": "firecrawl/open-scouts",
     "description": "  AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for. ",
     "url": "https://github.com/firecrawl/open-scouts",
-    "stars": 271,
-    "daily_stars": 21,
+    "stars": 298,
+    "daily_stars": 27,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -45,15 +27,89 @@
       "web-scraping"
     ],
     "created_at": "2025-11-28T14:46:39",
-    "updated_at": "2025-12-08T16:44:40"
+    "updated_at": "2025-12-08T20:45:23"
+  },
+  {
+    "name": "Puzld.ai",
+    "full_name": "MedChaouch/Puzld.ai",
+    "description": "Multi-LLM orchestration framework",
+    "url": "https://github.com/MedChaouch/Puzld.ai",
+    "stars": 41,
+    "daily_stars": 25,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "gemini",
+      "gemini-cli",
+      "llm"
+    ],
+    "created_at": "2025-12-04T19:05:42",
+    "updated_at": "2025-12-08T20:44:26"
+  },
+  {
+    "name": "steer",
+    "full_name": "imtt-dev/steer",
+    "description": "The Active Reliability Layer for AI Agents. Catch failures, teach fixes, and automate reliability",
+    "url": "https://github.com/imtt-dev/steer",
+    "stars": 56,
+    "daily_stars": 14,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "llm",
+      "observability",
+      "python",
+      "reliability"
+    ],
+    "created_at": "2025-11-23T00:15:26",
+    "updated_at": "2025-12-08T20:40:12"
+  },
+  {
+    "name": "sora2-watermark-remover",
+    "full_name": "lightsue/sora2-watermark-remover",
+    "description": "Sora 2 AI generated videos gentle watermark remover",
+    "url": "https://github.com/lightsue/sora2-watermark-remover",
+    "stars": 11,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "sora-ai",
+      "sora2",
+      "sora2-ai",
+      "sora2-watermark-remover"
+    ],
+    "created_at": "2025-12-04T17:33:31",
+    "updated_at": "2025-12-08T20:30:18"
+  },
+  {
+    "name": "opencode-swarm-plugin",
+    "full_name": "joelhooks/opencode-swarm-plugin",
+    "description": "Multi-agent swarm coordination for OpenCode with learning capabilities, beads integration, and Agent Mail",
+    "url": "https://github.com/joelhooks/opencode-swarm-plugin",
+    "stars": 34,
+    "daily_stars": 6,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "machine-learning",
+      "multi-agent",
+      "opencode",
+      "swarm"
+    ],
+    "created_at": "2025-12-08T03:01:51",
+    "updated_at": "2025-12-08T20:19:46"
   },
   {
     "name": "ai-agent-tools",
     "full_name": "cporter202/ai-agent-tools",
     "description": "A curated collection of AI tools, utilities, and resources for developers and creators",
     "url": "https://github.com/cporter202/ai-agent-tools",
-    "stars": 164,
-    "daily_stars": 7,
+    "stars": 170,
+    "daily_stars": 6,
     "language": null,
     "topics": [
       "ai",
@@ -70,104 +126,65 @@
       "vibe-coding"
     ],
     "created_at": "2025-12-05T16:12:53",
-    "updated_at": "2025-12-08T16:46:14"
-  },
-  {
-    "name": "Puzld.ai",
-    "full_name": "MedChaouch/Puzld.ai",
-    "description": "Multi-LLM orchestration framework",
-    "url": "https://github.com/MedChaouch/Puzld.ai",
-    "stars": 16,
-    "daily_stars": 6,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "claude-code",
-      "codex",
-      "gemini",
-      "gemini-cli",
-      "llm"
-    ],
-    "created_at": "2025-12-04T19:05:42",
-    "updated_at": "2025-12-08T16:50:32"
-  },
-  {
-    "name": "ToolOrchestra",
-    "full_name": "NVlabs/ToolOrchestra",
-    "description": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.",
-    "url": "https://github.com/NVlabs/ToolOrchestra",
-    "stars": 308,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "deep-learning",
-      "large-language-models"
-    ],
-    "created_at": "2025-11-25T23:53:41",
-    "updated_at": "2025-12-08T16:51:46"
-  },
-  {
-    "name": "Agent-Kernel",
-    "full_name": "ZJU-LLMs/Agent-Kernel",
-    "description": "A MicroKernel Multi-Agents System Framework for Adaptive Social Simulation Powered by LLMs",
-    "url": "https://github.com/ZJU-LLMs/Agent-Kernel",
-    "stars": 42,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "large-language-models",
-      "multi-agent-systems",
-      "social-simulation"
-    ],
-    "created_at": "2025-11-30T03:08:20",
-    "updated_at": "2025-12-08T14:15:41"
+    "updated_at": "2025-12-08T20:30:43"
   },
   {
     "name": "paulgraham-ai",
     "full_name": "nozomio-labs/paulgraham-ai",
     "description": "Paul Graham AI Agent powered by Nia API. Ask questions about startups, writing, technology, and life — grounded in 120+ essays.",
     "url": "https://github.com/nozomio-labs/paulgraham-ai",
-    "stars": 29,
-    "daily_stars": 2,
+    "stars": 32,
+    "daily_stars": 3,
     "language": "TypeScript",
     "topics": [
       "ai",
       "ai-agents"
     ],
     "created_at": "2025-12-07T08:31:18",
-    "updated_at": "2025-12-08T15:28:50"
+    "updated_at": "2025-12-08T19:49:48"
   },
   {
-    "name": "smle",
-    "full_name": "blkdmr/smle",
-    "description": "SMLE - A simple framework that takes care of the boring stuff in ML projects. ",
-    "url": "https://github.com/blkdmr/smle",
-    "stars": 23,
-    "daily_stars": 2,
+    "name": "behavior-1k-solution",
+    "full_name": "IliaLarchenko/behavior-1k-solution",
+    "description": "1st place solution of 2025 BEHAVIOR Challenge",
+    "url": "https://github.com/IliaLarchenko/behavior-1k-solution",
+    "stars": 33,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
-      "beginner-friendly",
-      "beginner-project",
-      "deep-learning",
-      "deep-neural-networks",
+      "ai",
+      "competition",
       "machine-learning",
-      "open-source",
-      "python"
+      "robotics",
+      "vla"
     ],
-    "created_at": "2025-11-17T15:14:07",
-    "updated_at": "2025-12-08T16:20:28"
+    "created_at": "2025-11-14T17:13:49",
+    "updated_at": "2025-12-08T20:34:41"
+  },
+  {
+    "name": "shamba-smart-scan",
+    "full_name": "mwakidenis/shamba-smart-scan",
+    "description": "The AI Crop Doctor is a smart platform empowering farmers and gardeners to monitor and manage plant health with ease. Leveraging advanced machine learning and computer vision, it delivers instant, accurate diagnoses with just a single photo 📸. Receive expert-validated treatment recommendations and actionable insights to keep your crops thriving.",
+    "url": "https://github.com/mwakidenis/shamba-smart-scan",
+    "stars": 3,
+    "daily_stars": 2,
+    "language": "TypeScript",
+    "topics": [
+      "artificial-intelligence",
+      "computer-vision",
+      "machine-learning",
+      "typescript"
+    ],
+    "created_at": "2025-12-07T15:00:24",
+    "updated_at": "2025-12-08T17:18:49"
   },
   {
     "name": "continuous-claude",
     "full_name": "AnandChowdhary/continuous-claude",
     "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
     "url": "https://github.com/AnandChowdhary/continuous-claude",
-    "stars": 825,
-    "daily_stars": 1,
+    "stars": 827,
+    "daily_stars": 2,
     "language": "Shell",
     "topics": [
       "ai",
@@ -177,35 +194,6 @@
       "continuous-ai"
     ],
     "created_at": "2025-11-15T08:59:04",
-    "updated_at": "2025-12-08T13:57:26"
-  },
-  {
-    "name": "claude-agentic-patterns",
-    "full_name": "ThibautMelen/claude-agentic-patterns",
-    "description": "🤖 7 official agentic patterns from Anthropic docs - Subagents, Skills, Parallel Tools, Master-Clone & more. With Mermaid diagrams and code examples.",
-    "url": "https://github.com/ThibautMelen/claude-agentic-patterns",
-    "stars": 81,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "agent-sdk",
-      "agentic",
-      "agentic-patterns",
-      "ai-agents",
-      "anthropic",
-      "awesome",
-      "claude",
-      "claude-code",
-      "design-patterns",
-      "llm",
-      "llm-patterns",
-      "mcp",
-      "orchestration",
-      "subagents",
-      "tool-use",
-      "workflows"
-    ],
-    "created_at": "2025-11-25T12:38:23",
-    "updated_at": "2025-12-08T16:10:33"
+    "updated_at": "2025-12-08T17:41:40"
   }
 ]
