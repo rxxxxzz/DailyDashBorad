@@ -1,11 +1,29 @@
 [
   {
+    "name": "behavior-1k-solution",
+    "full_name": "IliaLarchenko/behavior-1k-solution",
+    "description": "1st place solution of 2025 BEHAVIOR Challenge",
+    "url": "https://github.com/IliaLarchenko/behavior-1k-solution",
+    "stars": 22,
+    "daily_stars": 16,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "competition",
+      "machine-learning",
+      "robotics",
+      "vla"
+    ],
+    "created_at": "2025-11-14T17:13:49",
+    "updated_at": "2025-12-08T08:41:39"
+  },
+  {
     "name": "open-scouts",
     "full_name": "firecrawl/open-scouts",
     "description": "  AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for. ",
     "url": "https://github.com/firecrawl/open-scouts",
-    "stars": 220,
-    "daily_stars": 8,
+    "stars": 229,
+    "daily_stars": 9,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -27,29 +45,31 @@
       "web-scraping"
     ],
     "created_at": "2025-11-28T14:46:39",
-    "updated_at": "2025-12-08T04:38:11"
+    "updated_at": "2025-12-08T08:40:46"
   },
   {
-    "name": "paulgraham-ai",
-    "full_name": "nozomio-labs/paulgraham-ai",
-    "description": "Paul Graham AI Agent powered by Nia API. Ask questions about startups, writing, technology, and life — grounded in 120+ essays.",
-    "url": "https://github.com/nozomio-labs/paulgraham-ai",
-    "stars": 18,
-    "daily_stars": 6,
-    "language": "TypeScript",
+    "name": "Agent-Kernel",
+    "full_name": "ZJU-LLMs/Agent-Kernel",
+    "description": "A MicroKernel Multi-Agents System Framework for Adaptive Social Simulation Powered by LLMs",
+    "url": "https://github.com/ZJU-LLMs/Agent-Kernel",
+    "stars": 39,
+    "daily_stars": 8,
+    "language": "Python",
     "topics": [
-      "ai",
-      "ai-agents"
+      "artificial-intelligence",
+      "large-language-models",
+      "multi-agent-systems",
+      "social-simulation"
     ],
-    "created_at": "2025-12-07T08:31:18",
-    "updated_at": "2025-12-08T04:51:44"
+    "created_at": "2025-11-30T03:08:20",
+    "updated_at": "2025-12-08T08:24:10"
   },
   {
     "name": "ai-agent-tools",
     "full_name": "cporter202/ai-agent-tools",
     "description": "A curated collection of AI tools, utilities, and resources for developers and creators",
     "url": "https://github.com/cporter202/ai-agent-tools",
-    "stars": 143,
+    "stars": 148,
     "daily_stars": 5,
     "language": null,
     "topics": [
@@ -67,64 +87,15 @@
       "vibe-coding"
     ],
     "created_at": "2025-12-05T16:12:53",
-    "updated_at": "2025-12-08T04:20:38"
-  },
-  {
-    "name": "genmimic",
-    "full_name": "lucidrains/genmimic",
-    "description": "Implementation of GenMimic, \"From Generated Human Videos to Physically Plausible Robot Trajectories\"",
-    "url": "https://github.com/lucidrains/genmimic",
-    "stars": 8,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "artificial-intelligence",
-      "deep-learning",
-      "robotics"
-    ],
-    "created_at": "2025-12-07T17:20:00",
-    "updated_at": "2025-12-08T03:15:03"
-  },
-  {
-    "name": "x-evolution",
-    "full_name": "lucidrains/x-evolution",
-    "description": "Implementation of various evolutionary algorithms, starting with evolutionary strategies",
-    "url": "https://github.com/lucidrains/x-evolution",
-    "stars": 38,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "evolution",
-      "evolutionary-algorithms"
-    ],
-    "created_at": "2025-11-09T14:37:30",
-    "updated_at": "2025-12-08T04:18:08"
-  },
-  {
-    "name": "Agent-Kernel",
-    "full_name": "ZJU-LLMs/Agent-Kernel",
-    "description": "A MicroKernel Multi-Agents System Framework for Adaptive Social Simulation Powered by LLMs",
-    "url": "https://github.com/ZJU-LLMs/Agent-Kernel",
-    "stars": 31,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "large-language-models",
-      "multi-agent-systems",
-      "social-simulation"
-    ],
-    "created_at": "2025-11-30T03:08:20",
-    "updated_at": "2025-12-08T03:30:48"
+    "updated_at": "2025-12-08T08:39:47"
   },
   {
     "name": "continuous-claude",
     "full_name": "AnandChowdhary/continuous-claude",
     "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
     "url": "https://github.com/AnandChowdhary/continuous-claude",
-    "stars": 821,
-    "daily_stars": 1,
+    "stars": 824,
+    "daily_stars": 3,
     "language": "Shell",
     "topics": [
       "ai",
@@ -134,82 +105,101 @@
       "continuous-ai"
     ],
     "created_at": "2025-11-15T08:59:04",
-    "updated_at": "2025-12-08T02:54:58"
+    "updated_at": "2025-12-08T06:58:09"
   },
   {
-    "name": "meridian",
-    "full_name": "markmdev/meridian",
-    "description": "Zero-config Claude Code setup with enforced task scaffolding, structured memory, persistent context after compaction, plug-in code standards, optional TDD mode, and zero behavior changes for developers.",
-    "url": "https://github.com/markmdev/meridian",
-    "stars": 108,
-    "daily_stars": 1,
-    "language": "Python",
+    "name": "paulgraham-ai",
+    "full_name": "nozomio-labs/paulgraham-ai",
+    "description": "Paul Graham AI Agent powered by Nia API. Ask questions about startups, writing, technology, and life — grounded in 120+ essays.",
+    "url": "https://github.com/nozomio-labs/paulgraham-ai",
+    "stars": 21,
+    "daily_stars": 3,
+    "language": "TypeScript",
     "topics": [
-      "ai-agents",
-      "anthropic",
-      "automation",
-      "claude",
-      "claude-code",
-      "developer-tools",
-      "developer-workflow",
-      "nextjs",
-      "nodejs",
-      "open-source",
-      "productivity",
-      "software-engineering",
-      "task-runner",
-      "tdd",
-      "typescript",
-      "workflow-automation",
-      "zero-config"
+      "ai",
+      "ai-agents"
     ],
-    "created_at": "2025-11-13T07:51:57",
-    "updated_at": "2025-12-08T03:57:21"
+    "created_at": "2025-12-07T08:31:18",
+    "updated_at": "2025-12-08T08:39:53"
   },
   {
-    "name": "claude-agentic-patterns",
-    "full_name": "ThibautMelen/claude-agentic-patterns",
-    "description": "🤖 7 official agentic patterns from Anthropic docs - Subagents, Skills, Parallel Tools, Master-Clone & more. With Mermaid diagrams and code examples.",
-    "url": "https://github.com/ThibautMelen/claude-agentic-patterns",
-    "stars": 80,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "agent-sdk",
-      "agentic",
-      "agentic-patterns",
-      "ai-agents",
-      "anthropic",
-      "awesome",
-      "claude",
-      "claude-code",
-      "design-patterns",
-      "llm",
-      "llm-patterns",
-      "mcp",
-      "orchestration",
-      "subagents",
-      "tool-use",
-      "workflows"
-    ],
-    "created_at": "2025-11-25T12:38:23",
-    "updated_at": "2025-12-08T04:16:12"
-  },
-  {
-    "name": "wukong",
-    "full_name": "Moonveil-AI/wukong",
-    "description": "A plug-and-play Next.js Agent Library that enables developers to add trustworthy AI Agents to their applications in 5 minutes",
-    "url": "https://github.com/Moonveil-AI/wukong",
-    "stars": 3,
-    "daily_stars": 1,
+    "name": "code-mode",
+    "full_name": "universal-tool-calling-protocol/code-mode",
+    "description": "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. ",
+    "url": "https://github.com/universal-tool-calling-protocol/code-mode",
+    "stars": 1157,
+    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "nextjs",
-      "trustworthy-ai",
-      "wukong"
+      "codemode",
+      "mcp",
+      "model-context-protocol",
+      "toolchain",
+      "utcp"
     ],
-    "created_at": "2025-11-12T04:42:37",
-    "updated_at": "2025-12-08T02:35:56"
+    "created_at": "2025-11-11T09:35:44",
+    "updated_at": "2025-12-08T08:27:38"
+  },
+  {
+    "name": "AI-agent-solana",
+    "full_name": "pongpong-zigzag/AI-agent-solana",
+    "description": "AI agent for solana",
+    "url": "https://github.com/pongpong-zigzag/AI-agent-solana",
+    "stars": 13,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai-agent",
+      "ai-agent-framework",
+      "ai-agents",
+      "ai-agents-framework",
+      "ai-swarm",
+      "ai-swarms",
+      "openai",
+      "python",
+      "solana"
+    ],
+    "created_at": "2025-11-21T15:37:21",
+    "updated_at": "2025-12-08T06:56:35"
+  },
+  {
+    "name": "Compuchem_selflearn_resources",
+    "full_name": "EasonYD88/Compuchem_selflearn_resources",
+    "description": "A structured, community-driven learning hub for computational chemistry, covering foundations, methods, tools, practical workflows, and hands-on examples to help learners build a clear and systematic understanding of the field.",
+    "url": "https://github.com/EasonYD88/Compuchem_selflearn_resources",
+    "stars": 26,
+    "daily_stars": 2,
+    "language": null,
+    "topics": [
+      "computational-chemistry",
+      "deep-learning",
+      "dft-calculations",
+      "drug-design",
+      "drug-discovery",
+      "machine-learning",
+      "molecular-dynamics-simulation"
+    ],
+    "created_at": "2025-12-02T18:13:23",
+    "updated_at": "2025-12-08T08:15:04"
+  },
+  {
+    "name": "Kani-TTS-Vie",
+    "full_name": "pnnbao97/Kani-TTS-Vie",
+    "description": "Fast Vietnamese TTS. 370M params, 3-second inference.",
+    "url": "https://github.com/pnnbao97/Kani-TTS-Vie",
+    "stars": 53,
+    "daily_stars": 2,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "deep-learning",
+      "huggingface",
+      "realtime-ml",
+      "text-to-speech",
+      "tts",
+      "vietnamese"
+    ],
+    "created_at": "2025-11-10T13:45:55",
+    "updated_at": "2025-12-08T06:32:08"
   }
 ]
