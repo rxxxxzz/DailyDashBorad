@@ -1,11 +1,32 @@
 [
   {
+    "name": "RFX",
+    "full_name": "chriskuchar/RFX",
+    "description": "GPU-accelerated Random Forest library with advanced interpretability, proximity analysis, and interactive visualization. Python + C++/CUDA. Scales to 1M+ samples.",
+    "url": "https://github.com/chriskuchar/RFX",
+    "stars": 13,
+    "daily_stars": 11,
+    "language": "C++",
+    "topics": [
+      "cuda",
+      "data-science",
+      "explainable-ai",
+      "gpu-acceleration",
+      "interpretability",
+      "machine-learning",
+      "python",
+      "random-forest"
+    ],
+    "created_at": "2025-11-23T11:25:43",
+    "updated_at": "2025-12-09T18:33:25"
+  },
+  {
     "name": "open-scouts",
     "full_name": "firecrawl/open-scouts",
     "description": "  AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for. ",
     "url": "https://github.com/firecrawl/open-scouts",
-    "stars": 461,
-    "daily_stars": 23,
+    "stars": 467,
+    "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -27,15 +48,15 @@
       "web-scraping"
     ],
     "created_at": "2025-11-28T14:46:39",
-    "updated_at": "2025-12-09T16:48:50"
+    "updated_at": "2025-12-09T20:30:54"
   },
   {
     "name": "Puzld.ai",
     "full_name": "MedChaouch/Puzld.ai",
     "description": "Multi-LLM orchestration framework",
     "url": "https://github.com/MedChaouch/Puzld.ai",
-    "stars": 115,
-    "daily_stars": 9,
+    "stars": 121,
+    "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -47,49 +68,15 @@
       "llm"
     ],
     "created_at": "2025-12-04T19:05:42",
-    "updated_at": "2025-12-09T16:44:20"
-  },
-  {
-    "name": "behavior-1k-solution",
-    "full_name": "IliaLarchenko/behavior-1k-solution",
-    "description": "1st place solution of 2025 BEHAVIOR Challenge",
-    "url": "https://github.com/IliaLarchenko/behavior-1k-solution",
-    "stars": 56,
-    "daily_stars": 7,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "competition",
-      "machine-learning",
-      "robotics",
-      "vla"
-    ],
-    "created_at": "2025-11-14T17:13:49",
-    "updated_at": "2025-12-09T16:13:52"
-  },
-  {
-    "name": "symbolic-circuit-distillation",
-    "full_name": "neelsomani/symbolic-circuit-distillation",
-    "description": "Automatically extract executable programs from pruned mechanistic circuits, extending OpenAI's Sparse Circuits",
-    "url": "https://github.com/neelsomani/symbolic-circuit-distillation",
-    "stars": 20,
-    "daily_stars": 7,
-    "language": "Python",
-    "topics": [
-      "formal-verification",
-      "machine-learning",
-      "mechanistic-interpretability"
-    ],
-    "created_at": "2025-11-21T00:41:54",
-    "updated_at": "2025-12-09T15:19:10"
+    "updated_at": "2025-12-09T20:29:53"
   },
   {
     "name": "GRAPE",
     "full_name": "model-architectures/GRAPE",
     "description": "Official implementation of GRAPE: Group Representational Position Encoding",
     "url": "https://github.com/model-architectures/GRAPE",
-    "stars": 26,
-    "daily_stars": 7,
+    "stars": 32,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "deep-learning",
@@ -101,33 +88,58 @@
       "pretraining"
     ],
     "created_at": "2025-12-08T18:44:59",
-    "updated_at": "2025-12-09T16:03:13"
+    "updated_at": "2025-12-09T20:38:39"
   },
   {
-    "name": "continuous-claude",
-    "full_name": "AnandChowdhary/continuous-claude",
-    "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-    "url": "https://github.com/AnandChowdhary/continuous-claude",
-    "stars": 892,
-    "daily_stars": 5,
-    "language": "Shell",
+    "name": "behavior-1k-solution",
+    "full_name": "IliaLarchenko/behavior-1k-solution",
+    "description": "1st place solution of 2025 BEHAVIOR Challenge",
+    "url": "https://github.com/IliaLarchenko/behavior-1k-solution",
+    "stars": 60,
+    "daily_stars": 4,
+    "language": "Python",
     "topics": [
       "ai",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "continuous-ai"
+      "competition",
+      "machine-learning",
+      "robotics",
+      "vla"
     ],
-    "created_at": "2025-11-15T08:59:04",
-    "updated_at": "2025-12-09T16:32:27"
+    "created_at": "2025-11-14T17:13:49",
+    "updated_at": "2025-12-09T18:27:09"
+  },
+  {
+    "name": "PolyMarket-trading-AI-model",
+    "full_name": "BlackSky-Jose/PolyMarket-trading-AI-model",
+    "description": "Polymarket Trading Bot – AI Prediction Market Agent (Python, LangChain). polymarket trading bot",
+    "url": "https://github.com/BlackSky-Jose/PolyMarket-trading-AI-model",
+    "stars": 315,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "ai-agent",
+      "autonomous-agents",
+      "bot",
+      "langhain",
+      "machine-learning",
+      "polymarket",
+      "prediction-markets",
+      "python-project",
+      "rag",
+      "superforecasting",
+      "trading",
+      "trading-bot-framwork"
+    ],
+    "created_at": "2025-11-12T15:44:52",
+    "updated_at": "2025-12-09T20:11:14"
   },
   {
     "name": "ai-agent-tools",
     "full_name": "cporter202/ai-agent-tools",
     "description": "A curated collection of AI tools, utilities, and resources for developers and creators",
     "url": "https://github.com/cporter202/ai-agent-tools",
-    "stars": 190,
-    "daily_stars": 4,
+    "stars": 193,
+    "daily_stars": 3,
     "language": null,
     "topics": [
       "ai",
@@ -144,31 +156,30 @@
       "vibe-coding"
     ],
     "created_at": "2025-12-05T16:12:53",
-    "updated_at": "2025-12-09T15:30:06"
+    "updated_at": "2025-12-09T17:38:47"
   },
   {
-    "name": "ToolOrchestra",
-    "full_name": "NVlabs/ToolOrchestra",
-    "description": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.",
-    "url": "https://github.com/NVlabs/ToolOrchestra",
-    "stars": 323,
+    "name": "symbolic-circuit-distillation",
+    "full_name": "neelsomani/symbolic-circuit-distillation",
+    "description": "Automatically extract executable programs from pruned mechanistic circuits, extending OpenAI's Sparse Circuits",
+    "url": "https://github.com/neelsomani/symbolic-circuit-distillation",
+    "stars": 23,
     "daily_stars": 3,
     "language": "Python",
     "topics": [
-      "agent",
-      "agentic-ai",
-      "deep-learning",
-      "large-language-models"
+      "formal-verification",
+      "machine-learning",
+      "mechanistic-interpretability"
     ],
-    "created_at": "2025-11-25T23:53:41",
-    "updated_at": "2025-12-09T15:58:17"
+    "created_at": "2025-11-21T00:41:54",
+    "updated_at": "2025-12-09T19:47:55"
   },
   {
     "name": "sora2-watermark-remover",
     "full_name": "lightsue/sora2-watermark-remover",
     "description": "Sora 2 AI generated videos gentle watermark remover",
     "url": "https://github.com/lightsue/sora2-watermark-remover",
-    "stars": 42,
+    "stars": 44,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
@@ -179,26 +190,24 @@
       "sora2-watermark-remover"
     ],
     "created_at": "2025-12-04T17:33:31",
-    "updated_at": "2025-12-09T13:21:19"
+    "updated_at": "2025-12-09T20:36:12"
   },
   {
-    "name": "Lumina-Note",
-    "full_name": "blueberrycongee/Lumina-Note",
-    "description": "Lumina Note - A modern Markdown note-taking app with live preview, bidirectional links, and AI assistant",
-    "url": "https://github.com/blueberrycongee/Lumina-Note",
-    "stars": 41,
+    "name": "continuous-claude",
+    "full_name": "AnandChowdhary/continuous-claude",
+    "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
+    "url": "https://github.com/AnandChowdhary/continuous-claude",
+    "stars": 894,
     "daily_stars": 2,
-    "language": "TypeScript",
+    "language": "Shell",
     "topics": [
       "ai",
       "ai-agents",
-      "markdown",
-      "note-taking",
-      "react",
-      "tauri",
-      "typescript"
+      "claude",
+      "claude-code",
+      "continuous-ai"
     ],
-    "created_at": "2025-11-28T12:34:30",
-    "updated_at": "2025-12-09T16:42:50"
+    "created_at": "2025-11-15T08:59:04",
+    "updated_at": "2025-12-09T19:09:56"
   }
 ]
