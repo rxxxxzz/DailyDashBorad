@@ -4,8 +4,8 @@
     "full_name": "code-yeongyu/oh-my-opencode",
     "description": "Background agents · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. Literally Everything, More then Everything is here",
     "url": "https://github.com/code-yeongyu/oh-my-opencode",
-    "stars": 181,
-    "daily_stars": 24,
+    "stars": 211,
+    "daily_stars": 30,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -27,32 +27,85 @@
       "typescript"
     ],
     "created_at": "2025-12-03T01:40:05",
-    "updated_at": "2025-12-14T16:43:11"
+    "updated_at": "2025-12-14T20:30:19"
   },
   {
-    "name": "ml-mastery-guide",
-    "full_name": "khanhney/ml-mastery-guide",
-    "description": "A comprehensive, practical roadmap for mastering Machine Learning and Deep Learning.",
-    "url": "https://github.com/khanhney/ml-mastery-guide",
-    "stars": 17,
-    "daily_stars": 9,
-    "language": null,
+    "name": "MCPNext",
+    "full_name": "HKUDS/MCPNext",
+    "description": "\"MCPNext: Universal Tool-Use Layer for AI Agents\"",
+    "url": "https://github.com/HKUDS/MCPNext",
+    "stars": 175,
+    "daily_stars": 12,
+    "language": "Python",
     "topics": [
-      "deeplearning",
-      "feature-engineering",
-      "machine-learning",
-      "mlops"
+      "ai-agents",
+      "mcp"
     ],
-    "created_at": "2025-12-11T15:23:06",
-    "updated_at": "2025-12-14T15:41:47"
+    "created_at": "2025-12-09T18:18:08",
+    "updated_at": "2025-12-14T20:02:25"
+  },
+  {
+    "name": "open-scouts",
+    "full_name": "firecrawl/open-scouts",
+    "description": "  AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for. ",
+    "url": "https://github.com/firecrawl/open-scouts",
+    "stars": 698,
+    "daily_stars": 3,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "alerts",
+      "automation",
+      "email-notifications",
+      "firecrawl",
+      "nextjs",
+      "open-source",
+      "openai",
+      "posthog",
+      "react",
+      "resend",
+      "supabase",
+      "tailwindcss",
+      "typescript",
+      "vercel",
+      "web-monitoring",
+      "web-scraping"
+    ],
+    "created_at": "2025-11-28T14:46:39",
+    "updated_at": "2025-12-14T18:09:26"
+  },
+  {
+    "name": "crucible-code",
+    "full_name": "m0n0x41d/crucible-code",
+    "description": "Structured reasoning commands for Claude Code — hypothesis-driven decision making with auditable evidence trails",
+    "url": "https://github.com/m0n0x41d/crucible-code",
+    "stars": 36,
+    "daily_stars": 3,
+    "language": "Shell",
+    "topics": [
+      "ai-agents",
+      "ai-coding",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "cli",
+      "developer-tools",
+      "first-principles",
+      "prompt-engineering",
+      "reasoning",
+      "structured-reasoning",
+      "systems-thinking"
+    ],
+    "created_at": "2025-12-10T19:16:51",
+    "updated_at": "2025-12-14T19:54:26"
   },
   {
     "name": "pydantic-deepagents",
     "full_name": "vstorm-co/pydantic-deepagents",
     "description": "Python Deep Agent framework built on top of Pydantic-AI designed to help you quickly build production-grade autonomous agents with planning, filesystem operations, subagent delegation, and skills.",
     "url": "https://github.com/vstorm-co/pydantic-deepagents",
-    "stars": 22,
-    "daily_stars": 5,
+    "stars": 24,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "agent-framework",
@@ -76,159 +129,112 @@
       "python"
     ],
     "created_at": "2025-11-29T14:36:36",
-    "updated_at": "2025-12-14T16:41:17"
+    "updated_at": "2025-12-14T19:08:24"
   },
   {
-    "name": "open-scouts",
-    "full_name": "firecrawl/open-scouts",
-    "description": "  AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for. ",
-    "url": "https://github.com/firecrawl/open-scouts",
-    "stars": 695,
-    "daily_stars": 5,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "alerts",
-      "automation",
-      "email-notifications",
-      "firecrawl",
-      "nextjs",
-      "open-source",
-      "openai",
-      "posthog",
-      "react",
-      "resend",
-      "supabase",
-      "tailwindcss",
-      "typescript",
-      "vercel",
-      "web-monitoring",
-      "web-scraping"
-    ],
-    "created_at": "2025-11-28T14:46:39",
-    "updated_at": "2025-12-14T15:18:48"
-  },
-  {
-    "name": "roubao",
-    "full_name": "Turbo1123/roubao",
-    "description": "Android Automation Tool Based on Vision-Language Models",
-    "url": "https://github.com/Turbo1123/roubao",
-    "stars": 176,
-    "daily_stars": 5,
-    "language": "Kotlin",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "android",
-      "android-automation",
-      "kotlin",
-      "mobile-agents",
-      "mobileagent",
-      "phone-automation"
-    ],
-    "created_at": "2025-12-09T07:11:42",
-    "updated_at": "2025-12-14T16:24:01"
-  },
-  {
-    "name": "MCPNext",
-    "full_name": "HKUDS/MCPNext",
-    "description": "\"MCPNext: Universal Tool-Use Layer for AI Agents\"",
-    "url": "https://github.com/HKUDS/MCPNext",
-    "stars": 163,
-    "daily_stars": 5,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "mcp"
-    ],
-    "created_at": "2025-12-09T18:18:08",
-    "updated_at": "2025-12-14T16:37:29"
-  },
-  {
-    "name": "sora2-watermark-remover",
-    "full_name": "lightsue/sora2-watermark-remover",
-    "description": "Sora 2 AI generated videos gentle watermark remover",
-    "url": "https://github.com/lightsue/sora2-watermark-remover",
-    "stars": 129,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "sora-ai",
-      "sora2",
-      "sora2-ai",
-      "sora2-watermark-remover"
-    ],
-    "created_at": "2025-12-04T17:33:31",
-    "updated_at": "2025-12-14T14:29:06"
-  },
-  {
-    "name": "Agent-Kernel",
-    "full_name": "ZJU-LLMs/Agent-Kernel",
-    "description": "A MicroKernel Multi-Agents System Framework for Adaptive Social Simulation Powered by LLMs",
-    "url": "https://github.com/ZJU-LLMs/Agent-Kernel",
-    "stars": 88,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "large-language-models",
-      "multi-agent-systems",
-      "social-simulation"
-    ],
-    "created_at": "2025-11-30T03:08:20",
-    "updated_at": "2025-12-14T16:28:08"
-  },
-  {
-    "name": "RelaMind",
-    "full_name": "El-12stu/RelaMind",
-    "description": "基于 AI 的个人成长轨迹分析系统，通过记录生活、回顾历史、分析模式帮助用户更好地理解自己，实现持续成长。包含智能路由、RAG 检索、自主任务智能体等功能。",
-    "url": "https://github.com/El-12stu/RelaMind",
-    "stars": 13,
-    "daily_stars": 3,
-    "language": "Java",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "cassandra-database",
-      "chatbot",
-      "docker",
-      "java",
-      "langchain4j",
-      "manus-ai",
-      "mcp",
-      "rag",
-      "reactagent",
-      "sensitiveword",
-      "smart-routing",
-      "spring-boot",
-      "springai",
-      "springai-alibaba",
-      "toolcalling",
-      "vector-database",
-      "vue3"
-    ],
-    "created_at": "2025-11-29T10:21:27",
-    "updated_at": "2025-12-14T16:37:54"
-  },
-  {
-    "name": "Lumina-Note",
-    "full_name": "blueberrycongee/Lumina-Note",
-    "description": "Lumina Note - A modern Markdown note-taking app with live preview, bidirectional links, and AI assistant",
-    "url": "https://github.com/blueberrycongee/Lumina-Note",
-    "stars": 284,
+    "name": "Puzld.ai",
+    "full_name": "MedChaouch/Puzld.ai",
+    "description": "Multi-LLM orchestration framework",
+    "url": "https://github.com/MedChaouch/Puzld.ai",
+    "stars": 213,
     "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
       "ai",
       "ai-agents",
-      "markdown",
-      "note-taking",
-      "react",
-      "tauri",
-      "typescript"
+      "claude-code",
+      "codex",
+      "gemini",
+      "gemini-cli",
+      "llm"
     ],
-    "created_at": "2025-11-28T12:34:30",
-    "updated_at": "2025-12-14T13:27:30"
+    "created_at": "2025-12-04T19:05:42",
+    "updated_at": "2025-12-14T20:23:03"
+  },
+  {
+    "name": "continuous-claude",
+    "full_name": "AnandChowdhary/continuous-claude",
+    "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
+    "url": "https://github.com/AnandChowdhary/continuous-claude",
+    "stars": 952,
+    "daily_stars": 1,
+    "language": "Shell",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "continuous-ai"
+    ],
+    "created_at": "2025-11-15T08:59:04",
+    "updated_at": "2025-12-14T20:41:02"
+  },
+  {
+    "name": "Stirrup",
+    "full_name": "ArtificialAnalysis/Stirrup",
+    "description": "The lightweight framework for building agents",
+    "url": "https://github.com/ArtificialAnalysis/Stirrup",
+    "stars": 95,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agent",
+      "ai-agents"
+    ],
+    "created_at": "2025-12-10T03:10:49",
+    "updated_at": "2025-12-14T20:21:52"
+  },
+  {
+    "name": "claude-agentic-patterns",
+    "full_name": "ThibautMelen/claude-agentic-patterns",
+    "description": "🤖 7 official agentic patterns from Anthropic docs - Subagents, Skills, Parallel Tools, Master-Clone & more. With Mermaid diagrams and code examples.",
+    "url": "https://github.com/ThibautMelen/claude-agentic-patterns",
+    "stars": 91,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "agent-sdk",
+      "agentic",
+      "agentic-patterns",
+      "ai-agents",
+      "anthropic",
+      "awesome",
+      "claude",
+      "claude-code",
+      "design-patterns",
+      "llm",
+      "llm-patterns",
+      "mcp",
+      "orchestration",
+      "subagents",
+      "tool-use",
+      "workflows"
+    ],
+    "created_at": "2025-11-25T12:38:23",
+    "updated_at": "2025-12-14T18:04:01"
+  },
+  {
+    "name": "qilbeeDB",
+    "full_name": "aicubetechnology/qilbeeDB",
+    "description": "QilbeeDB is a cloud-agnostic, high-performance graph database built for autonomous AI agents, real-time memory, and enterprise automation.",
+    "url": "https://github.com/aicubetechnology/qilbeeDB",
+    "stars": 73,
+    "daily_stars": 1,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "autonomous-ai",
+      "distributed-systems",
+      "embeddings",
+      "enterprise-automation",
+      "graph-database",
+      "knowledge-graph",
+      "real-time-memory",
+      "vector-database"
+    ],
+    "created_at": "2025-11-25T02:18:08",
+    "updated_at": "2025-12-14T17:14:43"
   }
 ]
