@@ -4,8 +4,8 @@
     "full_name": "code-yeongyu/oh-my-opencode",
     "description": "Background agents · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. Literally Everything, More then Everything is here",
     "url": "https://github.com/code-yeongyu/oh-my-opencode",
-    "stars": 211,
-    "daily_stars": 30,
+    "stars": 254,
+    "daily_stars": 43,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -27,85 +27,105 @@
       "typescript"
     ],
     "created_at": "2025-12-03T01:40:05",
-    "updated_at": "2025-12-14T20:30:19"
+    "updated_at": "2025-12-15T02:31:07"
   },
   {
     "name": "MCPNext",
     "full_name": "HKUDS/MCPNext",
     "description": "\"MCPNext: Universal Tool-Use Layer for AI Agents\"",
     "url": "https://github.com/HKUDS/MCPNext",
-    "stars": 175,
-    "daily_stars": 12,
+    "stars": 183,
+    "daily_stars": 8,
     "language": "Python",
     "topics": [
       "ai-agents",
       "mcp"
     ],
     "created_at": "2025-12-09T18:18:08",
-    "updated_at": "2025-12-14T20:02:25"
+    "updated_at": "2025-12-15T02:16:05"
   },
   {
-    "name": "open-scouts",
-    "full_name": "firecrawl/open-scouts",
-    "description": "  AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for. ",
-    "url": "https://github.com/firecrawl/open-scouts",
-    "stars": 698,
-    "daily_stars": 3,
+    "name": "mtywatch",
+    "full_name": "jufeng-2022/mtywatch",
+    "description": "一句话监控网页内容变化，AI | 爬虫 | 网页监控 | 网页更新提醒 | 网页内容订阅",
+    "url": "https://github.com/jufeng-2022/mtywatch",
+    "stars": 13,
+    "daily_stars": 6,
+    "language": null,
+    "topics": [
+      "ai",
+      "ai-agents",
+      "crawler",
+      "scrapy",
+      "scrapy-crawler",
+      "scrapy-spider"
+    ],
+    "created_at": "2025-12-14T14:02:31",
+    "updated_at": "2025-12-15T02:13:14"
+  },
+  {
+    "name": "Agent-Kernel",
+    "full_name": "ZJU-LLMs/Agent-Kernel",
+    "description": "A MicroKernel Multi-Agents System Framework for Adaptive Social Simulation Powered by LLMs",
+    "url": "https://github.com/ZJU-LLMs/Agent-Kernel",
+    "stars": 93,
+    "daily_stars": 5,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "large-language-models",
+      "multi-agent-systems",
+      "social-simulation"
+    ],
+    "created_at": "2025-11-30T03:08:20",
+    "updated_at": "2025-12-15T01:55:57"
+  },
+  {
+    "name": "roubao",
+    "full_name": "Turbo1123/roubao",
+    "description": "Android Automation Tool Based on Vision-Language Models",
+    "url": "https://github.com/Turbo1123/roubao",
+    "stars": 180,
+    "daily_stars": 4,
+    "language": "Kotlin",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "android",
+      "android-automation",
+      "kotlin",
+      "mobile-agents",
+      "mobileagent",
+      "phone-automation"
+    ],
+    "created_at": "2025-12-09T07:11:42",
+    "updated_at": "2025-12-15T02:30:54"
+  },
+  {
+    "name": "opencode-swarm-plugin",
+    "full_name": "joelhooks/opencode-swarm-plugin",
+    "description": "Multi-agent swarm coordination for OpenCode with learning capabilities, beads integration, and Agent Mail",
+    "url": "https://github.com/joelhooks/opencode-swarm-plugin",
+    "stars": 71,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "alerts",
-      "automation",
-      "email-notifications",
-      "firecrawl",
-      "nextjs",
-      "open-source",
-      "openai",
-      "posthog",
-      "react",
-      "resend",
-      "supabase",
-      "tailwindcss",
-      "typescript",
-      "vercel",
-      "web-monitoring",
-      "web-scraping"
+      "machine-learning",
+      "multi-agent",
+      "opencode",
+      "swarm"
     ],
-    "created_at": "2025-11-28T14:46:39",
-    "updated_at": "2025-12-14T18:09:26"
-  },
-  {
-    "name": "crucible-code",
-    "full_name": "m0n0x41d/crucible-code",
-    "description": "Structured reasoning commands for Claude Code — hypothesis-driven decision making with auditable evidence trails",
-    "url": "https://github.com/m0n0x41d/crucible-code",
-    "stars": 36,
-    "daily_stars": 3,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
-      "ai-coding",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "cli",
-      "developer-tools",
-      "first-principles",
-      "prompt-engineering",
-      "reasoning",
-      "structured-reasoning",
-      "systems-thinking"
-    ],
-    "created_at": "2025-12-10T19:16:51",
-    "updated_at": "2025-12-14T19:54:26"
+    "created_at": "2025-12-08T03:01:51",
+    "updated_at": "2025-12-15T02:13:31"
   },
   {
     "name": "pydantic-deepagents",
     "full_name": "vstorm-co/pydantic-deepagents",
     "description": "Python Deep Agent framework built on top of Pydantic-AI designed to help you quickly build production-grade autonomous agents with planning, filesystem operations, subagent delegation, and skills.",
     "url": "https://github.com/vstorm-co/pydantic-deepagents",
-    "stars": 24,
-    "daily_stars": 2,
+    "stars": 27,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "agent-framework",
@@ -129,112 +149,74 @@
       "python"
     ],
     "created_at": "2025-11-29T14:36:36",
-    "updated_at": "2025-12-14T19:08:24"
+    "updated_at": "2025-12-15T00:23:17"
   },
   {
-    "name": "Puzld.ai",
-    "full_name": "MedChaouch/Puzld.ai",
-    "description": "Multi-LLM orchestration framework",
-    "url": "https://github.com/MedChaouch/Puzld.ai",
-    "stars": 213,
+    "name": "open-scouts",
+    "full_name": "firecrawl/open-scouts",
+    "description": "  AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for. ",
+    "url": "https://github.com/firecrawl/open-scouts",
+    "stars": 701,
+    "daily_stars": 3,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "alerts",
+      "automation",
+      "email-notifications",
+      "firecrawl",
+      "nextjs",
+      "open-source",
+      "openai",
+      "posthog",
+      "react",
+      "resend",
+      "supabase",
+      "tailwindcss",
+      "typescript",
+      "vercel",
+      "web-monitoring",
+      "web-scraping"
+    ],
+    "created_at": "2025-11-28T14:46:39",
+    "updated_at": "2025-12-15T01:53:59"
+  },
+  {
+    "name": "Domain-Specific-RAG-Chat-Course-Helper",
+    "full_name": "olioDuan/Domain-Specific-RAG-Chat-Course-Helper",
+    "description": "This project is a Local RAG system built for the NYU Machine Learning course.",
+    "url": "https://github.com/olioDuan/Domain-Specific-RAG-Chat-Course-Helper",
+    "stars": 7,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "faiss",
+      "llm",
+      "machine-learning",
+      "python",
+      "rag"
+    ],
+    "created_at": "2025-12-14T03:24:03",
+    "updated_at": "2025-12-15T01:52:54"
+  },
+  {
+    "name": "Lumina-Note",
+    "full_name": "blueberrycongee/Lumina-Note",
+    "description": "Lumina Note - A modern Markdown note-taking app with live preview, bidirectional links, and AI assistant",
+    "url": "https://github.com/blueberrycongee/Lumina-Note",
+    "stars": 286,
     "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
       "ai",
       "ai-agents",
-      "claude-code",
-      "codex",
-      "gemini",
-      "gemini-cli",
-      "llm"
+      "markdown",
+      "note-taking",
+      "react",
+      "tauri",
+      "typescript"
     ],
-    "created_at": "2025-12-04T19:05:42",
-    "updated_at": "2025-12-14T20:23:03"
-  },
-  {
-    "name": "continuous-claude",
-    "full_name": "AnandChowdhary/continuous-claude",
-    "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-    "url": "https://github.com/AnandChowdhary/continuous-claude",
-    "stars": 952,
-    "daily_stars": 1,
-    "language": "Shell",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "continuous-ai"
-    ],
-    "created_at": "2025-11-15T08:59:04",
-    "updated_at": "2025-12-14T20:41:02"
-  },
-  {
-    "name": "Stirrup",
-    "full_name": "ArtificialAnalysis/Stirrup",
-    "description": "The lightweight framework for building agents",
-    "url": "https://github.com/ArtificialAnalysis/Stirrup",
-    "stars": 95,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agent",
-      "ai-agents"
-    ],
-    "created_at": "2025-12-10T03:10:49",
-    "updated_at": "2025-12-14T20:21:52"
-  },
-  {
-    "name": "claude-agentic-patterns",
-    "full_name": "ThibautMelen/claude-agentic-patterns",
-    "description": "🤖 7 official agentic patterns from Anthropic docs - Subagents, Skills, Parallel Tools, Master-Clone & more. With Mermaid diagrams and code examples.",
-    "url": "https://github.com/ThibautMelen/claude-agentic-patterns",
-    "stars": 91,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "agent-sdk",
-      "agentic",
-      "agentic-patterns",
-      "ai-agents",
-      "anthropic",
-      "awesome",
-      "claude",
-      "claude-code",
-      "design-patterns",
-      "llm",
-      "llm-patterns",
-      "mcp",
-      "orchestration",
-      "subagents",
-      "tool-use",
-      "workflows"
-    ],
-    "created_at": "2025-11-25T12:38:23",
-    "updated_at": "2025-12-14T18:04:01"
-  },
-  {
-    "name": "qilbeeDB",
-    "full_name": "aicubetechnology/qilbeeDB",
-    "description": "QilbeeDB is a cloud-agnostic, high-performance graph database built for autonomous AI agents, real-time memory, and enterprise automation.",
-    "url": "https://github.com/aicubetechnology/qilbeeDB",
-    "stars": 73,
-    "daily_stars": 1,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "autonomous-ai",
-      "distributed-systems",
-      "embeddings",
-      "enterprise-automation",
-      "graph-database",
-      "knowledge-graph",
-      "real-time-memory",
-      "vector-database"
-    ],
-    "created_at": "2025-11-25T02:18:08",
-    "updated_at": "2025-12-14T17:14:43"
+    "created_at": "2025-11-28T12:34:30",
+    "updated_at": "2025-12-15T01:48:44"
   }
 ]
