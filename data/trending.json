@@ -4,8 +4,8 @@
     "full_name": "code-yeongyu/oh-my-opencode",
     "description": "Background agents · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. Literally Everything, More then Everything is here",
     "url": "https://github.com/code-yeongyu/oh-my-opencode",
-    "stars": 867,
-    "daily_stars": 150,
+    "stars": 994,
+    "daily_stars": 127,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -27,14 +27,14 @@
       "typescript"
     ],
     "created_at": "2025-12-03T01:40:05",
-    "updated_at": "2025-12-17T08:53:32"
+    "updated_at": "2025-12-17T13:11:34"
   },
   {
     "name": "crucible-code",
     "full_name": "m0n0x41d/crucible-code",
     "description": "Structured reasoning commands for Claude Code — hypothesis-driven decision making with auditable evidence trails",
     "url": "https://github.com/m0n0x41d/crucible-code",
-    "stars": 85,
+    "stars": 113,
     "daily_stars": 28,
     "language": "Shell",
     "topics": [
@@ -52,55 +52,15 @@
       "systems-thinking"
     ],
     "created_at": "2025-12-10T19:16:51",
-    "updated_at": "2025-12-17T08:53:12"
-  },
-  {
-    "name": "roubao",
-    "full_name": "Turbo1123/roubao",
-    "description": "Android Automation Tool Based on Vision-Language Models",
-    "url": "https://github.com/Turbo1123/roubao",
-    "stars": 385,
-    "daily_stars": 18,
-    "language": "Kotlin",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "android",
-      "android-automation",
-      "kotlin",
-      "mobile-agents",
-      "mobileagent",
-      "phone-automation"
-    ],
-    "created_at": "2025-12-09T07:11:42",
-    "updated_at": "2025-12-17T08:47:06"
-  },
-  {
-    "name": "boxlite",
-    "full_name": "boxlite-labs/boxlite",
-    "description": "Embed. Sandbox. Ship.",
-    "url": "https://github.com/boxlite-labs/boxlite",
-    "stars": 42,
-    "daily_stars": 11,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "containers",
-      "sandbox",
-      "security",
-      "serverless",
-      "virtualization"
-    ],
-    "created_at": "2025-12-07T22:49:32",
-    "updated_at": "2025-12-17T08:49:05"
+    "updated_at": "2025-12-17T13:04:18"
   },
   {
     "name": "cordon",
     "full_name": "calebevans/cordon",
     "description": "Reduce logs to their semantic anomalies",
     "url": "https://github.com/calebevans/cordon",
-    "stars": 74,
-    "daily_stars": 7,
+    "stars": 89,
+    "daily_stars": 15,
     "language": "Python",
     "topics": [
       "anomaly-detection",
@@ -119,46 +79,86 @@
       "transformers"
     ],
     "created_at": "2025-11-21T21:52:05",
-    "updated_at": "2025-12-17T08:01:53"
+    "updated_at": "2025-12-17T12:52:40"
   },
   {
-    "name": "Agent-Kernel",
-    "full_name": "ZJU-LLMs/Agent-Kernel",
-    "description": "A MicroKernel Multi-Agents System Framework for Adaptive Social Simulation Powered by LLMs",
-    "url": "https://github.com/ZJU-LLMs/Agent-Kernel",
-    "stars": 138,
-    "daily_stars": 4,
+    "name": "roubao",
+    "full_name": "Turbo1123/roubao",
+    "description": "Android Automation Tool Based on Vision-Language Models",
+    "url": "https://github.com/Turbo1123/roubao",
+    "stars": 396,
+    "daily_stars": 11,
+    "language": "Kotlin",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "android",
+      "android-automation",
+      "kotlin",
+      "mobile-agents",
+      "mobileagent",
+      "phone-automation"
+    ],
+    "created_at": "2025-12-09T07:11:42",
+    "updated_at": "2025-12-17T12:17:31"
+  },
+  {
+    "name": "EVA",
+    "full_name": "ARCANGEL0/EVA",
+    "description": "EVA is an AI-assisted penetration testing agent that enhances offensive security workflows by providing structured attack guidance, contextual analysis, and multi-backend AI integration.",
+    "url": "https://github.com/ARCANGEL0/EVA",
+    "stars": 30,
+    "daily_stars": 7,
     "language": "Python",
     "topics": [
+      "ai-agent",
       "artificial-intelligence",
-      "large-language-models",
-      "multi-agent-systems",
-      "social-simulation"
+      "automation",
+      "cli",
+      "ctf",
+      "cybersecurity",
+      "ethical-hacking",
+      "linux",
+      "llm",
+      "llm-agent",
+      "offensive-security",
+      "ollama",
+      "pentest",
+      "pentesting",
+      "post-exploitation",
+      "privilege-escalation",
+      "python",
+      "python3",
+      "vulnerability-assessment",
+      "workflow-engine"
     ],
-    "created_at": "2025-11-30T03:08:20",
-    "updated_at": "2025-12-17T06:37:50"
+    "created_at": "2025-12-15T01:34:30",
+    "updated_at": "2025-12-17T11:27:22"
   },
   {
-    "name": "MCPNext",
-    "full_name": "HKUDS/MCPNext",
-    "description": "\"MCPNext: Universal Tool-Use Layer for AI Agents\"",
-    "url": "https://github.com/HKUDS/MCPNext",
-    "stars": 359,
-    "daily_stars": 4,
-    "language": "Python",
+    "name": "opencode-swarm-plugin",
+    "full_name": "joelhooks/opencode-swarm-plugin",
+    "description": "Multi-agent swarm coordination for OpenCode with learning capabilities, beads integration, and Agent Mail",
+    "url": "https://github.com/joelhooks/opencode-swarm-plugin",
+    "stars": 119,
+    "daily_stars": 6,
+    "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "mcp"
+      "machine-learning",
+      "multi-agent",
+      "opencode",
+      "swarm"
     ],
-    "created_at": "2025-12-09T18:18:08",
-    "updated_at": "2025-12-17T08:01:19"
+    "created_at": "2025-12-08T03:01:51",
+    "updated_at": "2025-12-17T13:10:54"
   },
   {
     "name": "airbyte-ai-connectors",
     "full_name": "airbytehq/airbyte-ai-connectors",
     "description": "🐙 Drop-in tools that give AI agents reliable, permission-aware access to external systems.",
     "url": "https://github.com/airbytehq/airbyte-ai-connectors",
-    "stars": 76,
+    "stars": 80,
     "daily_stars": 4,
     "language": "Python",
     "topics": [
@@ -180,14 +180,14 @@
       "rag"
     ],
     "created_at": "2025-11-26T19:18:54",
-    "updated_at": "2025-12-17T08:16:13"
+    "updated_at": "2025-12-17T11:52:41"
   },
   {
     "name": "RelaMind",
     "full_name": "El-12stu/RelaMind",
     "description": "基于 AI 的个人成长轨迹分析系统，通过记录生活、回顾历史、分析模式帮助用户更好地理解自己，实现持续成长。包含智能路由、RAG 检索、自主任务智能体等功能。",
     "url": "https://github.com/El-12stu/RelaMind",
-    "stars": 43,
+    "stars": 47,
     "daily_stars": 4,
     "language": "Java",
     "topics": [
@@ -212,23 +212,49 @@
       "vue3"
     ],
     "created_at": "2025-11-29T10:21:27",
-    "updated_at": "2025-12-17T08:34:55"
+    "updated_at": "2025-12-17T12:00:19"
   },
   {
-    "name": "25-Day-Agents-Course-by-Google",
-    "full_name": "anxiong2025/25-Day-Agents-Course-by-Google",
-    "description": "谷歌推出25天AI Agents课程，作为 2025 年最昂贵圣诞节礼物！",
-    "url": "https://github.com/anxiong2025/25-Day-Agents-Course-by-Google",
-    "stars": 38,
+    "name": "OpenConstructionEstimate-DDC-CWICR",
+    "full_name": "datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR",
+    "description": "Open multilingual construction cost database — 55K+ work items, 27K+ resources, 9 languages. Semantic search via Qdrant vector DB",
+    "url": "https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR",
+    "stars": 35,
     "daily_stars": 4,
-    "language": "Jupyter Notebook",
+    "language": null,
     "topics": [
-      "ai",
-      "ai-agents",
-      "gemini",
-      "google"
+      "bim",
+      "cad",
+      "construction",
+      "cost-estimation",
+      "dwg",
+      "estimation",
+      "ifc",
+      "n8n",
+      "pipeline",
+      "qdrant",
+      "revit",
+      "vector-database",
+      "workflow"
     ],
-    "created_at": "2025-12-10T14:18:55",
-    "updated_at": "2025-12-17T08:32:00"
+    "created_at": "2025-12-09T06:19:41",
+    "updated_at": "2025-12-17T11:50:05"
+  },
+  {
+    "name": "Agent-Kernel",
+    "full_name": "ZJU-LLMs/Agent-Kernel",
+    "description": "A MicroKernel Multi-Agents System Framework for Adaptive Social Simulation Powered by LLMs",
+    "url": "https://github.com/ZJU-LLMs/Agent-Kernel",
+    "stars": 141,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "large-language-models",
+      "multi-agent-systems",
+      "social-simulation"
+    ],
+    "created_at": "2025-11-30T03:08:20",
+    "updated_at": "2025-12-17T12:28:15"
   }
 ]
