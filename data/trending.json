@@ -1,10 +1,35 @@
 [
   {
+    "name": "crucible-code",
+    "full_name": "m0n0x41d/crucible-code",
+    "description": "Structured reasoning commands for Claude Code — hypothesis-driven decision making with auditable evidence trails",
+    "url": "https://github.com/m0n0x41d/crucible-code",
+    "stars": 804,
+    "daily_stars": 38,
+    "language": "Shell",
+    "topics": [
+      "ai-agents",
+      "ai-coding",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "cli",
+      "developer-tools",
+      "first-principles",
+      "prompt-engineering",
+      "reasoning",
+      "structured-reasoning",
+      "systems-thinking"
+    ],
+    "created_at": "2025-12-10T19:16:51",
+    "updated_at": "2025-12-21T02:32:42"
+  },
+  {
     "name": "oh-my-opencode",
     "full_name": "code-yeongyu/oh-my-opencode",
     "description": "Background agents · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. Literally Everything, More then Everything is here",
     "url": "https://github.com/code-yeongyu/oh-my-opencode",
-    "stars": 2218,
+    "stars": 2242,
     "daily_stars": 24,
     "language": "TypeScript",
     "topics": [
@@ -27,40 +52,15 @@
       "typescript"
     ],
     "created_at": "2025-12-03T01:40:05",
-    "updated_at": "2025-12-20T20:37:11"
-  },
-  {
-    "name": "crucible-code",
-    "full_name": "m0n0x41d/crucible-code",
-    "description": "Structured reasoning commands for Claude Code — hypothesis-driven decision making with auditable evidence trails",
-    "url": "https://github.com/m0n0x41d/crucible-code",
-    "stars": 766,
-    "daily_stars": 15,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
-      "ai-coding",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "cli",
-      "developer-tools",
-      "first-principles",
-      "prompt-engineering",
-      "reasoning",
-      "structured-reasoning",
-      "systems-thinking"
-    ],
-    "created_at": "2025-12-10T19:16:51",
-    "updated_at": "2025-12-20T20:39:32"
+    "updated_at": "2025-12-21T01:57:41"
   },
   {
     "name": "zagi",
     "full_name": "mattzcarey/zagi",
     "description": "better git for agents",
     "url": "https://github.com/mattzcarey/zagi",
-    "stars": 22,
-    "daily_stars": 13,
+    "stars": 44,
+    "daily_stars": 22,
     "language": "Zig",
     "topics": [
       "agents",
@@ -80,15 +80,64 @@
       "zig"
     ],
     "created_at": "2025-11-27T21:53:22",
-    "updated_at": "2025-12-20T20:31:28"
+    "updated_at": "2025-12-21T02:04:23"
+  },
+  {
+    "name": "Maestro",
+    "full_name": "pedramamini/Maestro",
+    "description": "Agent Orchestration Command Center",
+    "url": "https://github.com/pedramamini/Maestro",
+    "stars": 188,
+    "daily_stars": 8,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "generative-ai"
+    ],
+    "created_at": "2025-11-23T01:59:55",
+    "updated_at": "2025-12-21T02:27:33"
+  },
+  {
+    "name": "MCPNext",
+    "full_name": "HKUDS/MCPNext",
+    "description": "\"MCPNext: Universal Tool-Use Layer for AI Agents\"",
+    "url": "https://github.com/HKUDS/MCPNext",
+    "stars": 418,
+    "daily_stars": 5,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "mcp"
+    ],
+    "created_at": "2025-12-09T18:18:08",
+    "updated_at": "2025-12-21T01:48:18"
+  },
+  {
+    "name": "Domain-Specific-RAG-Chat-Course-Helper",
+    "full_name": "olioDuan/Domain-Specific-RAG-Chat-Course-Helper",
+    "description": "This project is a Local RAG system built for the NYU Machine Learning course.",
+    "url": "https://github.com/olioDuan/Domain-Specific-RAG-Chat-Course-Helper",
+    "stars": 73,
+    "daily_stars": 4,
+    "language": "Python",
+    "topics": [
+      "faiss",
+      "llm",
+      "machine-learning",
+      "python",
+      "rag"
+    ],
+    "created_at": "2025-12-14T03:24:03",
+    "updated_at": "2025-12-21T02:27:25"
   },
   {
     "name": "roubao",
     "full_name": "Turbo1123/roubao",
     "description": "Android Automation Tool Based on Vision-Language Models",
     "url": "https://github.com/Turbo1123/roubao",
-    "stars": 556,
-    "daily_stars": 7,
+    "stars": 559,
+    "daily_stars": 3,
     "language": "Kotlin",
     "topics": [
       "ai",
@@ -101,63 +150,15 @@
       "phone-automation"
     ],
     "created_at": "2025-12-09T07:11:42",
-    "updated_at": "2025-12-20T19:20:11"
-  },
-  {
-    "name": "MCPNext",
-    "full_name": "HKUDS/MCPNext",
-    "description": "\"MCPNext: Universal Tool-Use Layer for AI Agents\"",
-    "url": "https://github.com/HKUDS/MCPNext",
-    "stars": 413,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "mcp"
-    ],
-    "created_at": "2025-12-09T18:18:08",
-    "updated_at": "2025-12-20T18:12:35"
-  },
-  {
-    "name": "Maestro",
-    "full_name": "pedramamini/Maestro",
-    "description": "Agent Orchestration Command Center",
-    "url": "https://github.com/pedramamini/Maestro",
-    "stars": 180,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "generative-ai"
-    ],
-    "created_at": "2025-11-23T01:59:55",
-    "updated_at": "2025-12-20T20:29:24"
-  },
-  {
-    "name": "Stirrup",
-    "full_name": "ArtificialAnalysis/Stirrup",
-    "description": "The lightweight framework for building agents",
-    "url": "https://github.com/ArtificialAnalysis/Stirrup",
-    "stars": 123,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agent",
-      "ai-agents"
-    ],
-    "created_at": "2025-12-10T03:10:49",
-    "updated_at": "2025-12-20T20:31:46"
+    "updated_at": "2025-12-21T02:22:30"
   },
   {
     "name": "mtywatch",
     "full_name": "jufeng-2022/mtywatch",
     "description": "一句话监控网页内容变化，AI | 爬虫 | 网页监控 | 网页更新提醒 | 网页内容订阅",
     "url": "https://github.com/jufeng-2022/mtywatch",
-    "stars": 101,
-    "daily_stars": 2,
+    "stars": 104,
+    "daily_stars": 3,
     "language": null,
     "topics": [
       "ai",
@@ -168,41 +169,40 @@
       "scrapy-spider"
     ],
     "created_at": "2025-12-14T14:02:31",
-    "updated_at": "2025-12-20T19:46:44"
+    "updated_at": "2025-12-21T00:59:53"
   },
   {
-    "name": "Domain-Specific-RAG-Chat-Course-Helper",
-    "full_name": "olioDuan/Domain-Specific-RAG-Chat-Course-Helper",
-    "description": "This project is a Local RAG system built for the NYU Machine Learning course.",
-    "url": "https://github.com/olioDuan/Domain-Specific-RAG-Chat-Course-Helper",
+    "name": "portal",
+    "full_name": "hosenur/portal",
+    "description": "Access OpenCode through TailScale on your web browser. (Mobile First)",
+    "url": "https://github.com/hosenur/portal",
     "stars": 69,
     "daily_stars": 2,
-    "language": "Python",
+    "language": "TypeScript",
     "topics": [
-      "faiss",
-      "llm",
-      "machine-learning",
-      "python",
-      "rag"
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "opencode"
     ],
-    "created_at": "2025-12-14T03:24:03",
-    "updated_at": "2025-12-20T18:09:45"
+    "created_at": "2025-12-09T20:32:16",
+    "updated_at": "2025-12-21T00:59:56"
   },
   {
-    "name": "AI-Engineering-Awesome",
-    "full_name": "SuperIntelligenceAI/AI-Engineering-Awesome",
-    "description": "Awesome List of AI Engineering topics and learning resources. Learn basics to advanced topics to become an AI engineer at top research labs like OpenAI and DeepSeek",
-    "url": "https://github.com/SuperIntelligenceAI/AI-Engineering-Awesome",
-    "stars": 15,
+    "name": "Agent-Kernel",
+    "full_name": "ZJU-LLMs/Agent-Kernel",
+    "description": "A MicroKernel Multi-Agents System Framework for Adaptive Social Simulation Powered by LLMs",
+    "url": "https://github.com/ZJU-LLMs/Agent-Kernel",
+    "stars": 151,
     "daily_stars": 1,
-    "language": null,
+    "language": "Python",
     "topics": [
-      "ai-engineering",
       "artificial-intelligence",
-      "deep-learning",
-      "machine-learning"
+      "large-language-models",
+      "multi-agent-systems",
+      "social-simulation"
     ],
-    "created_at": "2025-12-02T19:32:13",
-    "updated_at": "2025-12-20T20:15:01"
+    "created_at": "2025-11-30T03:08:20",
+    "updated_at": "2025-12-20T23:13:03"
   }
 ]
