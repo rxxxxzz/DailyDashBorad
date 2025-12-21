@@ -1,11 +1,36 @@
 [
   {
+    "name": "crucible-code",
+    "full_name": "m0n0x41d/crucible-code",
+    "description": "Structured reasoning commands for Claude Code — hypothesis-driven decision making with auditable evidence trails",
+    "url": "https://github.com/m0n0x41d/crucible-code",
+    "stars": 826,
+    "daily_stars": 14,
+    "language": "Shell",
+    "topics": [
+      "ai-agents",
+      "ai-coding",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "cli",
+      "developer-tools",
+      "first-principles",
+      "prompt-engineering",
+      "reasoning",
+      "structured-reasoning",
+      "systems-thinking"
+    ],
+    "created_at": "2025-12-10T19:16:51",
+    "updated_at": "2025-12-21T08:32:49"
+  },
+  {
     "name": "oh-my-opencode",
     "full_name": "code-yeongyu/oh-my-opencode",
     "description": "Background agents · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. Literally Everything, More then Everything is here",
     "url": "https://github.com/code-yeongyu/oh-my-opencode",
-    "stars": 2252,
-    "daily_stars": 10,
+    "stars": 2265,
+    "daily_stars": 13,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -27,96 +52,15 @@
       "typescript"
     ],
     "created_at": "2025-12-03T01:40:05",
-    "updated_at": "2025-12-21T04:48:11"
-  },
-  {
-    "name": "crucible-code",
-    "full_name": "m0n0x41d/crucible-code",
-    "description": "Structured reasoning commands for Claude Code — hypothesis-driven decision making with auditable evidence trails",
-    "url": "https://github.com/m0n0x41d/crucible-code",
-    "stars": 812,
-    "daily_stars": 8,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
-      "ai-coding",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "cli",
-      "developer-tools",
-      "first-principles",
-      "prompt-engineering",
-      "reasoning",
-      "structured-reasoning",
-      "systems-thinking"
-    ],
-    "created_at": "2025-12-10T19:16:51",
-    "updated_at": "2025-12-21T04:48:28"
-  },
-  {
-    "name": "roubao",
-    "full_name": "Turbo1123/roubao",
-    "description": "Android Automation Tool Based on Vision-Language Models",
-    "url": "https://github.com/Turbo1123/roubao",
-    "stars": 563,
-    "daily_stars": 4,
-    "language": "Kotlin",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "android",
-      "android-automation",
-      "kotlin",
-      "mobile-agents",
-      "mobileagent",
-      "phone-automation"
-    ],
-    "created_at": "2025-12-09T07:11:42",
-    "updated_at": "2025-12-21T04:49:59"
-  },
-  {
-    "name": "Maestro",
-    "full_name": "pedramamini/Maestro",
-    "description": "Agent Orchestration Command Center",
-    "url": "https://github.com/pedramamini/Maestro",
-    "stars": 190,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "generative-ai"
-    ],
-    "created_at": "2025-11-23T01:59:55",
-    "updated_at": "2025-12-21T03:29:06"
-  },
-  {
-    "name": "boxlite",
-    "full_name": "boxlite-labs/boxlite",
-    "description": "Embed. Sandbox. Ship.",
-    "url": "https://github.com/boxlite-labs/boxlite",
-    "stars": 83,
-    "daily_stars": 2,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "containers",
-      "sandbox",
-      "security",
-      "serverless",
-      "virtualization"
-    ],
-    "created_at": "2025-12-07T22:49:32",
-    "updated_at": "2025-12-21T04:48:57"
+    "updated_at": "2025-12-21T08:45:13"
   },
   {
     "name": "zagi",
     "full_name": "mattzcarey/zagi",
     "description": "better git for agents",
     "url": "https://github.com/mattzcarey/zagi",
-    "stars": 46,
-    "daily_stars": 2,
+    "stars": 53,
+    "daily_stars": 7,
     "language": "Zig",
     "topics": [
       "agents",
@@ -136,14 +80,119 @@
       "zig"
     ],
     "created_at": "2025-11-27T21:53:22",
-    "updated_at": "2025-12-21T04:02:25"
+    "updated_at": "2025-12-21T07:35:25"
+  },
+  {
+    "name": "Maestro",
+    "full_name": "pedramamini/Maestro",
+    "description": "Agent Orchestration Command Center",
+    "url": "https://github.com/pedramamini/Maestro",
+    "stars": 194,
+    "daily_stars": 4,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "generative-ai"
+    ],
+    "created_at": "2025-11-23T01:59:55",
+    "updated_at": "2025-12-21T08:45:30"
+  },
+  {
+    "name": "pydantic-deepagents",
+    "full_name": "vstorm-co/pydantic-deepagents",
+    "description": "Python Deep Agent framework built on top of Pydantic-AI designed to help you quickly build production-grade autonomous agents with planning, filesystem operations, subagent delegation, and skills.",
+    "url": "https://github.com/vstorm-co/pydantic-deepagents",
+    "stars": 81,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "agent-framework",
+      "ai-agent-framework",
+      "aiagentframework",
+      "anthropic",
+      "artificial-intelligence",
+      "business-intelligence",
+      "chatgpt",
+      "enterprise",
+      "framework",
+      "gemini",
+      "genai",
+      "llms",
+      "mcp",
+      "multiagent",
+      "open-source",
+      "openai",
+      "pydantic",
+      "pydantic-ai",
+      "python"
+    ],
+    "created_at": "2025-11-29T14:36:36",
+    "updated_at": "2025-12-21T08:28:01"
+  },
+  {
+    "name": "roubao",
+    "full_name": "Turbo1123/roubao",
+    "description": "Android Automation Tool Based on Vision-Language Models",
+    "url": "https://github.com/Turbo1123/roubao",
+    "stars": 566,
+    "daily_stars": 3,
+    "language": "Kotlin",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "android",
+      "android-automation",
+      "kotlin",
+      "mobile-agents",
+      "mobileagent",
+      "phone-automation"
+    ],
+    "created_at": "2025-12-09T07:11:42",
+    "updated_at": "2025-12-21T08:27:04"
+  },
+  {
+    "name": "mtywatch",
+    "full_name": "jufeng-2022/mtywatch",
+    "description": "一句话监控网页内容变化，AI | 爬虫 | 网页监控 | 网页更新提醒 | 网页内容订阅",
+    "url": "https://github.com/jufeng-2022/mtywatch",
+    "stars": 108,
+    "daily_stars": 3,
+    "language": null,
+    "topics": [
+      "ai",
+      "ai-agents",
+      "crawler",
+      "scrapy",
+      "scrapy-crawler",
+      "scrapy-spider"
+    ],
+    "created_at": "2025-12-14T14:02:31",
+    "updated_at": "2025-12-21T08:33:15"
+  },
+  {
+    "name": "portal",
+    "full_name": "hosenur/portal",
+    "description": "Access OpenCode through TailScale on your web browser. (Mobile First)",
+    "url": "https://github.com/hosenur/portal",
+    "stars": 71,
+    "daily_stars": 2,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "opencode"
+    ],
+    "created_at": "2025-12-09T20:32:16",
+    "updated_at": "2025-12-21T08:42:36"
   },
   {
     "name": "Agent-Kernel",
     "full_name": "ZJU-LLMs/Agent-Kernel",
     "description": "A MicroKernel Multi-Agents System Framework for Adaptive Social Simulation Powered by LLMs",
     "url": "https://github.com/ZJU-LLMs/Agent-Kernel",
-    "stars": 152,
+    "stars": 153,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -153,72 +202,37 @@
       "social-simulation"
     ],
     "created_at": "2025-11-30T03:08:20",
-    "updated_at": "2025-12-21T03:58:04"
+    "updated_at": "2025-12-21T07:47:04"
   },
   {
-    "name": "CorpGuideAI-HR-Policy-Assistant",
-    "full_name": "yousefmohtady1/CorpGuideAI-HR-Policy-Assistant",
-    "description": "CorpGuide AI Backend: An intelligent HR Policy Assistant powered by RAG, Groq, and LangChain. Features a FastAPI server, ChromaDB vector search, and self-healing database logic for context-aware document retrieval.",
-    "url": "https://github.com/yousefmohtady1/CorpGuideAI-HR-Policy-Assistant",
-    "stars": 3,
+    "name": "upscalemp3_v2",
+    "full_name": "matthewmcq/upscalemp3_v2",
+    "description": "Mp3 to wav super resolution model for audio restoration & enhancement. U-Net + Discrete Wavelet Transform (DWT) Architecture",
+    "url": "https://github.com/matthewmcq/upscalemp3_v2",
+    "stars": 12,
     "daily_stars": 1,
-    "language": "Python",
+    "language": "Jupyter Notebook",
     "topics": [
-      "ai",
       "artificial-intelligence",
-      "chatbot",
-      "chromadb",
-      "docker",
-      "fastapi",
-      "groq",
-      "hr-assistant",
-      "huggingface",
-      "langchain",
-      "llm",
-      "open-source",
-      "python",
-      "rag",
-      "semantic-search",
-      "vector-database"
+      "audio-enhancement",
+      "audio-processing",
+      "audio-restoration",
+      "cnn",
+      "deep-learning",
+      "deep-neural-networks",
+      "dwt",
+      "machine-learning",
+      "mp3",
+      "super-resolution",
+      "tensorflow",
+      "unet",
+      "upscale",
+      "upscale-mp3",
+      "wav",
+      "wavelet",
+      "wavelet-transform"
     ],
-    "created_at": "2025-12-11T23:29:18",
-    "updated_at": "2025-12-21T03:16:43"
-  },
-  {
-    "name": "ainomaly",
-    "full_name": "Xardimods/ainomaly",
-    "description": "This is AInomaly, an AI project that detetcs anomalies using cameras. ",
-    "url": "https://github.com/Xardimods/ainomaly",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "JavaScript",
-    "topics": [
-      "ainomaly",
-      "anomaly-detection",
-      "artificial-intelligence",
-      "electron",
-      "hackathon-project",
-      "javascript",
-      "opencv",
-      "opencv-python",
-      "python"
-    ],
-    "created_at": "2025-12-08T03:10:09",
-    "updated_at": "2025-12-21T03:19:17"
-  },
-  {
-    "name": "MCPNext",
-    "full_name": "HKUDS/MCPNext",
-    "description": "\"MCPNext: Universal Tool-Use Layer for AI Agents\"",
-    "url": "https://github.com/HKUDS/MCPNext",
-    "stars": 419,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "mcp"
-    ],
-    "created_at": "2025-12-09T18:18:08",
-    "updated_at": "2025-12-21T03:50:52"
+    "created_at": "2025-11-30T22:27:43",
+    "updated_at": "2025-12-21T07:47:22"
   }
 ]
