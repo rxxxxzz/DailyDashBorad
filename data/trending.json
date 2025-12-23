@@ -4,8 +4,8 @@
     "full_name": "code-yeongyu/oh-my-opencode",
     "description": "Background agents · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. Literally Everything, More then Everything is here",
     "url": "https://github.com/code-yeongyu/oh-my-opencode",
-    "stars": 2431,
-    "daily_stars": 10,
+    "stars": 2442,
+    "daily_stars": 11,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -27,43 +27,82 @@
       "typescript"
     ],
     "created_at": "2025-12-03T01:40:05",
-    "updated_at": "2025-12-23T04:53:59"
+    "updated_at": "2025-12-23T08:40:46"
   },
   {
-    "name": "zagi",
-    "full_name": "mattzcarey/zagi",
-    "description": "better git for agents",
-    "url": "https://github.com/mattzcarey/zagi",
-    "stars": 110,
-    "daily_stars": 8,
-    "language": "Zig",
+    "name": "KnowNote",
+    "full_name": "MrSibe/KnowNote",
+    "description": "一个类似于Notebook LM，以用户自有知识为中心的 AI 工作空间，帮助你思考、研究与写作。更方便，更轻量，更懂你！",
+    "url": "https://github.com/MrSibe/KnowNote",
+    "stars": 262,
+    "daily_stars": 11,
+    "language": "TypeScript",
     "topics": [
-      "agents",
+      "ai",
+      "deep-learning",
+      "deepseek",
+      "dll",
+      "electron",
+      "notebook",
+      "notebooklm",
+      "openai"
+    ],
+    "created_at": "2025-12-15T11:56:42",
+    "updated_at": "2025-12-23T08:47:14"
+  },
+  {
+    "name": "roubao",
+    "full_name": "Turbo1123/roubao",
+    "description": "Android Automation Tool Based on Vision-Language Models",
+    "url": "https://github.com/Turbo1123/roubao",
+    "stars": 684,
+    "daily_stars": 10,
+    "language": "Kotlin",
+    "topics": [
       "ai",
       "ai-agents",
-      "bugbot",
-      "claude",
-      "claude-code",
-      "cli",
-      "cursor",
-      "git",
-      "github",
-      "gitworktrees",
-      "opencode",
-      "trajectory",
-      "vcs",
-      "zig"
+      "android",
+      "android-automation",
+      "kotlin",
+      "mobile-agents",
+      "mobileagent",
+      "phone-automation"
     ],
-    "created_at": "2025-11-27T21:53:22",
-    "updated_at": "2025-12-23T04:54:08"
+    "created_at": "2025-12-09T07:11:42",
+    "updated_at": "2025-12-23T08:48:19"
+  },
+  {
+    "name": "WaveDL",
+    "full_name": "ductho-le/WaveDL",
+    "description": "A Scalable Deep Learning Framework for Wave-Based Inverse Problems",
+    "url": "https://github.com/ductho-le/WaveDL",
+    "stars": 19,
+    "daily_stars": 10,
+    "language": "Python",
+    "topics": [
+      "biomedical-informatics",
+      "deep-learning",
+      "elastography",
+      "geophysical-inversions",
+      "hpc-clusters",
+      "inversion",
+      "material-characterization",
+      "nondestructive-evaluation",
+      "regression",
+      "seismic-inversion",
+      "structural-health-monitoring",
+      "wave-propagation"
+    ],
+    "created_at": "2025-12-05T20:08:47",
+    "updated_at": "2025-12-23T08:32:34"
   },
   {
     "name": "aiflowy",
     "full_name": "aiflowy/aiflowy",
     "description": "AIFlowy is an enterprise-grade AI application development platform based on Java, comparable to products like Dify and Coze.",
     "url": "https://github.com/aiflowy/aiflowy",
-    "stars": 399,
-    "daily_stars": 8,
+    "stars": 409,
+    "daily_stars": 10,
     "language": "Vue",
     "topics": [
       "agentic-ai",
@@ -79,55 +118,15 @@
       "workflow"
     ],
     "created_at": "2025-12-15T07:39:51",
-    "updated_at": "2025-12-23T04:52:05"
-  },
-  {
-    "name": "boxlite",
-    "full_name": "boxlite-labs/boxlite",
-    "description": "Embed. Sandbox. Ship.",
-    "url": "https://github.com/boxlite-labs/boxlite",
-    "stars": 155,
-    "daily_stars": 7,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "containers",
-      "sandbox",
-      "security",
-      "serverless",
-      "virtualization"
-    ],
-    "created_at": "2025-12-07T22:49:32",
-    "updated_at": "2025-12-23T04:49:18"
-  },
-  {
-    "name": "roubao",
-    "full_name": "Turbo1123/roubao",
-    "description": "Android Automation Tool Based on Vision-Language Models",
-    "url": "https://github.com/Turbo1123/roubao",
-    "stars": 674,
-    "daily_stars": 6,
-    "language": "Kotlin",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "android",
-      "android-automation",
-      "kotlin",
-      "mobile-agents",
-      "mobileagent",
-      "phone-automation"
-    ],
-    "created_at": "2025-12-09T07:11:42",
-    "updated_at": "2025-12-23T04:49:56"
+    "updated_at": "2025-12-23T08:52:03"
   },
   {
     "name": "full-stack-fastapi-nextjs-llm-template",
     "full_name": "vstorm-co/full-stack-fastapi-nextjs-llm-template",
     "description": "Full-stack FastAPI + Next.js template generator with PydanticAI agents, WebSocket streaming, 20+ enterprise integrations, and Logfire observability. Ship AI apps fast. CLI tool to generate production-ready FastAPI + Next.js projects with AI agents, auth, and observability out of the box.",
     "url": "https://github.com/vstorm-co/full-stack-fastapi-nextjs-llm-template",
-    "stars": 128,
-    "daily_stars": 4,
+    "stars": 136,
+    "daily_stars": 8,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -152,14 +151,96 @@
       "typescript"
     ],
     "created_at": "2025-12-19T12:23:15",
-    "updated_at": "2025-12-23T04:53:10"
+    "updated_at": "2025-12-23T08:26:03"
+  },
+  {
+    "name": "spring-ai-playground",
+    "full_name": "spring-ai-community/spring-ai-playground",
+    "description": "Spring AI Playground is a self-hosted web UI for low-code AI tool development with live MCP server registration. It includes MCP server inspection, agentic chat, and integrated LLM and RAG workflows, enabling real-time experimentation and evolution of tool-enabled AI systems without redeployment.",
+    "url": "https://github.com/spring-ai-community/spring-ai-playground",
+    "stars": 42,
+    "daily_stars": 6,
+    "language": "Java",
+    "topics": [
+      "agentic-chat",
+      "ai-agents",
+      "ai-playground",
+      "low-code-platform",
+      "mcp-client",
+      "mcp-server",
+      "rag",
+      "tool-development"
+    ],
+    "created_at": "2025-12-10T05:18:38",
+    "updated_at": "2025-12-23T08:38:41"
+  },
+  {
+    "name": "zagi",
+    "full_name": "mattzcarey/zagi",
+    "description": "better git for agents",
+    "url": "https://github.com/mattzcarey/zagi",
+    "stars": 115,
+    "daily_stars": 5,
+    "language": "Zig",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "bugbot",
+      "claude",
+      "claude-code",
+      "cli",
+      "cursor",
+      "git",
+      "github",
+      "gitworktrees",
+      "opencode",
+      "trajectory",
+      "vcs",
+      "zig"
+    ],
+    "created_at": "2025-11-27T21:53:22",
+    "updated_at": "2025-12-23T08:37:07"
+  },
+  {
+    "name": "EVA",
+    "full_name": "ARCANGEL0/EVA",
+    "description": "EVA is an AI-assisted penetration testing agent that enhances offensive security workflows by providing structured attack guidance, contextual analysis, and multi-backend AI integration.",
+    "url": "https://github.com/ARCANGEL0/EVA",
+    "stars": 59,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "ai-agent",
+      "artificial-intelligence",
+      "automation",
+      "cli",
+      "ctf",
+      "cybersecurity",
+      "ethical-hacking",
+      "linux",
+      "llm",
+      "llm-agent",
+      "offensive-security",
+      "ollama",
+      "pentest",
+      "pentesting",
+      "post-exploitation",
+      "privilege-escalation",
+      "python",
+      "python3",
+      "vulnerability-assessment",
+      "workflow-engine"
+    ],
+    "created_at": "2025-12-15T01:34:30",
+    "updated_at": "2025-12-23T08:47:16"
   },
   {
     "name": "crucible-code",
     "full_name": "m0n0x41d/crucible-code",
     "description": "Structured reasoning commands for Claude Code — hypothesis-driven decision making with auditable evidence trails",
     "url": "https://github.com/m0n0x41d/crucible-code",
-    "stars": 924,
+    "stars": 927,
     "daily_stars": 3,
     "language": "Shell",
     "topics": [
@@ -177,84 +258,6 @@
       "systems-thinking"
     ],
     "created_at": "2025-12-10T19:16:51",
-    "updated_at": "2025-12-23T04:55:38"
-  },
-  {
-    "name": "RelaMind",
-    "full_name": "El-12stu/RelaMind",
-    "description": "基于 AI 的个人成长轨迹分析系统，通过记录生活、回顾历史、分析模式帮助用户更好地理解自己，实现持续成长。包含智能路由、RAG 检索、自主任务智能体等功能。",
-    "url": "https://github.com/El-12stu/RelaMind",
-    "stars": 105,
-    "daily_stars": 3,
-    "language": "Java",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "cassandra-database",
-      "chatbot",
-      "docker",
-      "java",
-      "langchain4j",
-      "manus-ai",
-      "mcp",
-      "rag",
-      "reactagent",
-      "sensitiveword",
-      "smart-routing",
-      "spring-boot",
-      "springai",
-      "springai-alibaba",
-      "toolcalling",
-      "vector-database",
-      "vue3"
-    ],
-    "created_at": "2025-11-29T10:21:27",
-    "updated_at": "2025-12-23T04:40:15"
-  },
-  {
-    "name": "WaveDL",
-    "full_name": "ductho-le/WaveDL",
-    "description": "A Scalable Deep Learning Framework for Wave-Based Inverse Problems",
-    "url": "https://github.com/ductho-le/WaveDL",
-    "stars": 9,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "biomedical-informatics",
-      "deep-learning",
-      "elastography",
-      "geophysical-inversions",
-      "hpc-clusters",
-      "inversion",
-      "material-characterization",
-      "nondestructive-evaluation",
-      "regression",
-      "seismic-inversion",
-      "structural-health-monitoring",
-      "wave-propagation"
-    ],
-    "created_at": "2025-12-05T20:08:47",
-    "updated_at": "2025-12-23T04:28:28"
-  },
-  {
-    "name": "spring-ai-playground",
-    "full_name": "spring-ai-community/spring-ai-playground",
-    "description": "Spring AI Playground is a self-hosted web UI for low-code AI tool development with live MCP server registration. It includes MCP server inspection, agentic chat, and integrated LLM and RAG workflows, enabling real-time experimentation and evolution of tool-enabled AI systems without redeployment.",
-    "url": "https://github.com/spring-ai-community/spring-ai-playground",
-    "stars": 36,
-    "daily_stars": 2,
-    "language": "Java",
-    "topics": [
-      "agentic-chat",
-      "ai-agents",
-      "ai-playground",
-      "low-code-platform",
-      "mcp-client",
-      "mcp-server",
-      "rag",
-      "tool-development"
-    ],
-    "created_at": "2025-12-10T05:18:38",
-    "updated_at": "2025-12-23T03:43:52"
+    "updated_at": "2025-12-23T06:20:37"
   }
 ]
