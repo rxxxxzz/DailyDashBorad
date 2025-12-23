@@ -4,8 +4,8 @@
     "full_name": "code-yeongyu/oh-my-opencode",
     "description": "Background agents · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. Literally Everything, More then Everything is here",
     "url": "https://github.com/code-yeongyu/oh-my-opencode",
-    "stars": 2503,
-    "daily_stars": 24,
+    "stars": 2539,
+    "daily_stars": 36,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -27,14 +27,14 @@
       "typescript"
     ],
     "created_at": "2025-12-03T01:40:05",
-    "updated_at": "2025-12-23T16:34:13"
+    "updated_at": "2025-12-23T20:42:27"
   },
   {
     "name": "EVA",
     "full_name": "ARCANGEL0/EVA",
     "description": "EVA is an AI-assisted penetration testing agent that enhances offensive security workflows by providing structured attack guidance, contextual analysis, and multi-backend AI integration.",
     "url": "https://github.com/ARCANGEL0/EVA",
-    "stars": 87,
+    "stars": 103,
     "daily_stars": 16,
     "language": "Python",
     "topics": [
@@ -60,14 +60,42 @@
       "workflow-engine"
     ],
     "created_at": "2025-12-15T01:34:30",
-    "updated_at": "2025-12-23T16:41:14"
+    "updated_at": "2025-12-23T19:49:52"
+  },
+  {
+    "name": "zagi",
+    "full_name": "mattzcarey/zagi",
+    "description": "better git for agents",
+    "url": "https://github.com/mattzcarey/zagi",
+    "stars": 139,
+    "daily_stars": 14,
+    "language": "Zig",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "bugbot",
+      "claude",
+      "claude-code",
+      "cli",
+      "cursor",
+      "git",
+      "github",
+      "gitworktrees",
+      "opencode",
+      "trajectory",
+      "vcs",
+      "zig"
+    ],
+    "created_at": "2025-11-27T21:53:22",
+    "updated_at": "2025-12-23T20:20:42"
   },
   {
     "name": "aiflowy",
     "full_name": "aiflowy/aiflowy",
     "description": "AIFlowy is an enterprise-grade AI application development platform based on Java, comparable to products like Dify and Coze.",
     "url": "https://github.com/aiflowy/aiflowy",
-    "stars": 429,
+    "stars": 438,
     "daily_stars": 9,
     "language": "Vue",
     "topics": [
@@ -84,15 +112,33 @@
       "workflow"
     ],
     "created_at": "2025-12-15T07:39:51",
-    "updated_at": "2025-12-23T16:50:43"
+    "updated_at": "2025-12-23T20:34:47"
+  },
+  {
+    "name": "opencode-swarm-plugin",
+    "full_name": "joelhooks/opencode-swarm-plugin",
+    "description": "Multi-agent swarm coordination for OpenCode with learning capabilities, beads integration, and Agent Mail",
+    "url": "https://github.com/joelhooks/opencode-swarm-plugin",
+    "stars": 166,
+    "daily_stars": 6,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "machine-learning",
+      "multi-agent",
+      "opencode",
+      "swarm"
+    ],
+    "created_at": "2025-12-08T03:01:51",
+    "updated_at": "2025-12-23T20:31:47"
   },
   {
     "name": "full-stack-fastapi-nextjs-llm-template",
     "full_name": "vstorm-co/full-stack-fastapi-nextjs-llm-template",
     "description": "Full-stack FastAPI + Next.js template generator with PydanticAI agents, WebSocket streaming, 20+ enterprise integrations, and Logfire observability. Ship AI apps fast. CLI tool to generate production-ready FastAPI + Next.js projects with AI agents, auth, and observability out of the box.",
     "url": "https://github.com/vstorm-co/full-stack-fastapi-nextjs-llm-template",
-    "stars": 152,
-    "daily_stars": 8,
+    "stars": 157,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -117,43 +163,72 @@
       "typescript"
     ],
     "created_at": "2025-12-19T12:23:15",
-    "updated_at": "2025-12-23T16:18:22"
+    "updated_at": "2025-12-23T20:31:35"
   },
   {
-    "name": "zagi",
-    "full_name": "mattzcarey/zagi",
-    "description": "better git for agents",
-    "url": "https://github.com/mattzcarey/zagi",
-    "stars": 125,
-    "daily_stars": 7,
-    "language": "Zig",
+    "name": "crucible-code",
+    "full_name": "m0n0x41d/crucible-code",
+    "description": "Structured reasoning commands for Claude Code — hypothesis-driven decision making with auditable evidence trails",
+    "url": "https://github.com/m0n0x41d/crucible-code",
+    "stars": 938,
+    "daily_stars": 4,
+    "language": "Shell",
     "topics": [
-      "agents",
-      "ai",
       "ai-agents",
-      "bugbot",
+      "ai-coding",
+      "anthropic",
       "claude",
       "claude-code",
       "cli",
-      "cursor",
-      "git",
-      "github",
-      "gitworktrees",
-      "opencode",
-      "trajectory",
-      "vcs",
-      "zig"
+      "developer-tools",
+      "first-principles",
+      "prompt-engineering",
+      "reasoning",
+      "structured-reasoning",
+      "systems-thinking"
     ],
-    "created_at": "2025-11-27T21:53:22",
-    "updated_at": "2025-12-23T15:44:50"
+    "created_at": "2025-12-10T19:16:51",
+    "updated_at": "2025-12-23T19:48:15"
+  },
+  {
+    "name": "RelaMind",
+    "full_name": "El-12stu/RelaMind",
+    "description": "基于 AI 的个人成长轨迹分析系统，通过记录生活、回顾历史、分析模式帮助用户更好地理解自己，实现持续成长。包含智能路由、RAG 检索、自主任务智能体等功能。",
+    "url": "https://github.com/El-12stu/RelaMind",
+    "stars": 109,
+    "daily_stars": 2,
+    "language": "Java",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "cassandra-database",
+      "chatbot",
+      "docker",
+      "java",
+      "langchain4j",
+      "manus-ai",
+      "mcp",
+      "rag",
+      "reactagent",
+      "sensitiveword",
+      "smart-routing",
+      "spring-boot",
+      "springai",
+      "springai-alibaba",
+      "toolcalling",
+      "vector-database",
+      "vue3"
+    ],
+    "created_at": "2025-11-29T10:21:27",
+    "updated_at": "2025-12-23T17:25:38"
   },
   {
     "name": "pydantic-deepagents",
     "full_name": "vstorm-co/pydantic-deepagents",
     "description": "Python Deep Agent framework built on top of Pydantic-AI designed to help you quickly build production-grade autonomous agents with planning, filesystem operations, subagent delegation, and skills.",
     "url": "https://github.com/vstorm-co/pydantic-deepagents",
-    "stars": 100,
-    "daily_stars": 5,
+    "stars": 101,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "agent-framework",
@@ -177,92 +252,36 @@
       "python"
     ],
     "created_at": "2025-11-29T14:36:36",
-    "updated_at": "2025-12-23T16:14:00"
+    "updated_at": "2025-12-23T19:23:41"
   },
   {
-    "name": "roubao",
-    "full_name": "Turbo1123/roubao",
-    "description": "Android Automation Tool Based on Vision-Language Models",
-    "url": "https://github.com/Turbo1123/roubao",
-    "stars": 699,
-    "daily_stars": 5,
-    "language": "Kotlin",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "android",
-      "android-automation",
-      "kotlin",
-      "mobile-agents",
-      "mobileagent",
-      "phone-automation"
-    ],
-    "created_at": "2025-12-09T07:11:42",
-    "updated_at": "2025-12-23T16:38:08"
-  },
-  {
-    "name": "spring-ai-playground",
-    "full_name": "spring-ai-community/spring-ai-playground",
-    "description": "Spring AI Playground is a self-hosted web UI for low-code AI tool development with live MCP server registration. It includes MCP server inspection, agentic chat, and integrated LLM and RAG workflows, enabling real-time experimentation and evolution of tool-enabled AI systems without redeployment.",
-    "url": "https://github.com/spring-ai-community/spring-ai-playground",
-    "stars": 49,
-    "daily_stars": 4,
-    "language": "Java",
-    "topics": [
-      "agentic-chat",
-      "ai-agents",
-      "ai-playground",
-      "low-code-platform",
-      "mcp-client",
-      "mcp-server",
-      "rag",
-      "tool-development"
-    ],
-    "created_at": "2025-12-10T05:18:38",
-    "updated_at": "2025-12-23T16:28:07"
-  },
-  {
-    "name": "crucible-code",
-    "full_name": "m0n0x41d/crucible-code",
-    "description": "Structured reasoning commands for Claude Code — hypothesis-driven decision making with auditable evidence trails",
-    "url": "https://github.com/m0n0x41d/crucible-code",
-    "stars": 934,
-    "daily_stars": 3,
-    "language": "Shell",
+    "name": "open-scouts",
+    "full_name": "firecrawl/open-scouts",
+    "description": "  AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for. ",
+    "url": "https://github.com/firecrawl/open-scouts",
+    "stars": 826,
+    "daily_stars": 1,
+    "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "ai-coding",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "cli",
-      "developer-tools",
-      "first-principles",
-      "prompt-engineering",
-      "reasoning",
-      "structured-reasoning",
-      "systems-thinking"
+      "alerts",
+      "automation",
+      "email-notifications",
+      "firecrawl",
+      "nextjs",
+      "open-source",
+      "openai",
+      "posthog",
+      "react",
+      "resend",
+      "supabase",
+      "tailwindcss",
+      "typescript",
+      "vercel",
+      "web-monitoring",
+      "web-scraping"
     ],
-    "created_at": "2025-12-10T19:16:51",
-    "updated_at": "2025-12-23T16:14:04"
-  },
-  {
-    "name": "mtywatch",
-    "full_name": "jufeng-2022/mtywatch",
-    "description": "一句话监控网页内容变化，AI | 爬虫 | 网页监控 | 网页更新提醒 | 网页内容订阅",
-    "url": "https://github.com/jufeng-2022/mtywatch",
-    "stars": 135,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-agents",
-      "crawler",
-      "scrapy",
-      "scrapy-crawler",
-      "scrapy-spider"
-    ],
-    "created_at": "2025-12-14T14:02:31",
-    "updated_at": "2025-12-23T16:00:06"
+    "created_at": "2025-11-28T14:46:39",
+    "updated_at": "2025-12-23T19:22:50"
   }
 ]
