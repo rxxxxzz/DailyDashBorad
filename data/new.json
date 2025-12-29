@@ -5,7 +5,7 @@
     "description": "Cheat Engine MCP Bridge - AI-powered memory analysis and game reverse engineering via Model Context Protocol",
     "url": "https://github.com/miscusi-peek/cheatengine-mcp-bridge",
     "stars": 102,
-    "daily_stars": 2,
+    "daily_stars": 0,
     "language": "Lua",
     "topics": [
       "ai-agents",
@@ -76,15 +76,15 @@
       "web-search"
     ],
     "created_at": "2025-12-26T06:14:33",
-    "updated_at": "2025-12-28T20:42:03"
+    "updated_at": "2025-12-29T02:29:37"
   },
   {
     "name": "BlueGuardian",
     "full_name": "CyberSecurityUP/BlueGuardian",
     "description": "Advanced Blue Team Security Analysis Framework powered by Multiple AI Models",
     "url": "https://github.com/CyberSecurityUP/BlueGuardian",
-    "stars": 30,
-    "daily_stars": 0,
+    "stars": 31,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "artificial-intelligence",
@@ -95,7 +95,39 @@
       "llm"
     ],
     "created_at": "2025-12-23T01:35:12",
-    "updated_at": "2025-12-28T10:41:27"
+    "updated_at": "2025-12-28T22:33:03"
+  },
+  {
+    "name": "metacontroller",
+    "full_name": "lucidrains/metacontroller",
+    "description": "Implementation of the MetaController proposed in \"Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning\"",
+    "url": "https://github.com/lucidrains/metacontroller",
+    "stars": 22,
+    "daily_stars": 3,
+    "language": null,
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "hierarchical-reinforcement-learning"
+    ],
+    "created_at": "2025-12-27T04:21:30",
+    "updated_at": "2025-12-29T01:01:27"
+  },
+  {
+    "name": "metacontroller",
+    "full_name": "lucidrains/metacontroller",
+    "description": "Implementation of the MetaController proposed in \"Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning\"",
+    "url": "https://github.com/lucidrains/metacontroller",
+    "stars": 22,
+    "daily_stars": 0,
+    "language": null,
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "hierarchical-reinforcement-learning"
+    ],
+    "created_at": "2025-12-27T04:21:30",
+    "updated_at": "2025-12-29T01:01:27"
   },
   {
     "name": "nocturne_memory",
@@ -138,36 +170,25 @@
     "updated_at": "2025-12-28T05:11:25"
   },
   {
-    "name": "metacontroller",
-    "full_name": "lucidrains/metacontroller",
-    "description": "Implementation of the MetaController proposed in \"Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning\"",
-    "url": "https://github.com/lucidrains/metacontroller",
-    "stars": 19,
-    "daily_stars": 1,
-    "language": null,
+    "name": "Multi-omics",
+    "full_name": "Trhova/Multi-omics",
+    "description": "Intuitive guide to multi-omics integration with toy examples: supervised latent components (DIABLO), unsupervised shared/partial/unique structure (DIVAS), VAEs/conditional VAEs, and key baselines (MOFA, JIVE, SNF) with practical tips + code.",
+    "url": "https://github.com/Trhova/Multi-omics",
+    "stars": 20,
+    "daily_stars": 10,
+    "language": "Python",
     "topics": [
-      "artificial-intelligence",
-      "deep-learning",
-      "hierarchical-reinforcement-learning"
+      "bioinformatics",
+      "data-integration",
+      "diablo",
+      "latent-variables",
+      "machine-learning",
+      "microbiome",
+      "multiomics",
+      "variational-autoencoder"
     ],
-    "created_at": "2025-12-27T04:21:30",
-    "updated_at": "2025-12-28T17:10:26"
-  },
-  {
-    "name": "metacontroller",
-    "full_name": "lucidrains/metacontroller",
-    "description": "Implementation of the MetaController proposed in \"Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning\"",
-    "url": "https://github.com/lucidrains/metacontroller",
-    "stars": 19,
-    "daily_stars": 0,
-    "language": null,
-    "topics": [
-      "artificial-intelligence",
-      "deep-learning",
-      "hierarchical-reinforcement-learning"
-    ],
-    "created_at": "2025-12-27T04:21:30",
-    "updated_at": "2025-12-28T17:10:26"
+    "created_at": "2025-12-28T12:24:37",
+    "updated_at": "2025-12-29T01:32:20"
   },
   {
     "name": "refrag",
@@ -192,30 +213,5 @@
     ],
     "created_at": "2025-12-22T00:47:03",
     "updated_at": "2025-12-28T16:19:21"
-  },
-  {
-    "name": "reward-scope",
-    "full_name": "reward-scope-ai/reward-scope",
-    "description": "Real-time reward debugging and hacking detection for reinforcement learning",
-    "url": "https://github.com/reward-scope-ai/reward-scope",
-    "stars": 15,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "ai-safety",
-      "debugging",
-      "gymnasium",
-      "machine-learning",
-      "ml-tools",
-      "monitoring",
-      "observability",
-      "reinforcement-learning",
-      "reward-hacking",
-      "rlhf",
-      "robotics",
-      "stable-baselines3"
-    ],
-    "created_at": "2025-12-23T02:25:46",
-    "updated_at": "2025-12-28T11:44:25"
   }
 ]
