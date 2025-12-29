@@ -4,8 +4,8 @@
     "full_name": "code-yeongyu/oh-my-opencode",
     "description": "Background agents · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. Literally Everything, More then Everything is here",
     "url": "https://github.com/code-yeongyu/oh-my-opencode",
-    "stars": 3637,
-    "daily_stars": 25,
+    "stars": 3693,
+    "daily_stars": 56,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -27,15 +27,55 @@
       "typescript"
     ],
     "created_at": "2025-12-03T01:40:05",
-    "updated_at": "2025-12-29T04:48:36"
+    "updated_at": "2025-12-29T08:53:52"
+  },
+  {
+    "name": "claude_life_assistant",
+    "full_name": "lout33/claude_life_assistant",
+    "description": "A personal coach that remembers, notices patterns, and holds you accountable.",
+    "url": "https://github.com/lout33/claude_life_assistant",
+    "stars": 250,
+    "daily_stars": 44,
+    "language": null,
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "assistant",
+      "claude",
+      "claude-code"
+    ],
+    "created_at": "2025-12-16T22:58:33",
+    "updated_at": "2025-12-29T08:52:57"
+  },
+  {
+    "name": "KnowNote",
+    "full_name": "MrSibe/KnowNote",
+    "description": "一个类似于Notebook LM，以用户自有知识为中心的 AI 工作空间，帮助你思考、研究与写作。更方便，更轻量，更懂你！",
+    "url": "https://github.com/MrSibe/KnowNote",
+    "stars": 405,
+    "daily_stars": 29,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "deep-learning",
+      "deepseek",
+      "dll",
+      "electron",
+      "notebook",
+      "notebooklm",
+      "openai"
+    ],
+    "created_at": "2025-12-15T11:56:42",
+    "updated_at": "2025-12-29T08:46:04"
   },
   {
     "name": "agent-deck",
     "full_name": "asheshgoplani/agent-deck",
     "description": "Terminal session manager for AI coding agents. Built with Go + Bubble Tea.",
     "url": "https://github.com/asheshgoplani/agent-deck",
-    "stars": 145,
-    "daily_stars": 18,
+    "stars": 166,
+    "daily_stars": 21,
     "language": "Go",
     "topics": [
       "ai-agents",
@@ -55,15 +95,36 @@
       "tui"
     ],
     "created_at": "2025-12-03T17:08:12",
-    "updated_at": "2025-12-29T04:56:12"
+    "updated_at": "2025-12-29T08:26:27"
+  },
+  {
+    "name": "SRE-Agent-App",
+    "full_name": "qicesun/SRE-Agent-App",
+    "description": "An Autonomous AI SRE Agent for Kubernetes, built with Java Spring Boot & LangChain4j. Implements OODA loop for self-healing.",
+    "url": "https://github.com/qicesun/SRE-Agent-App",
+    "stars": 20,
+    "daily_stars": 16,
+    "language": "Java",
+    "topics": [
+      "ai-agents",
+      "devops",
+      "java",
+      "kubernetes",
+      "langchain4j",
+      "openai",
+      "spring-boot",
+      "sre"
+    ],
+    "created_at": "2025-12-28T07:11:36",
+    "updated_at": "2025-12-29T08:28:41"
   },
   {
     "name": "aiflowy",
     "full_name": "aiflowy/aiflowy",
     "description": "AIFlowy is an enterprise-grade AI application development platform based on Java, comparable to products like Dify and Coze.",
     "url": "https://github.com/aiflowy/aiflowy",
-    "stars": 750,
-    "daily_stars": 7,
+    "stars": 766,
+    "daily_stars": 16,
     "language": "Vue",
     "topics": [
       "agentic-ai",
@@ -79,69 +140,77 @@
       "workflow"
     ],
     "created_at": "2025-12-15T07:39:51",
-    "updated_at": "2025-12-29T05:00:12"
+    "updated_at": "2025-12-29T08:36:47"
   },
   {
-    "name": "metacontroller",
-    "full_name": "lucidrains/metacontroller",
-    "description": "Implementation of the MetaController proposed in \"Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning\"",
-    "url": "https://github.com/lucidrains/metacontroller",
-    "stars": 28,
-    "daily_stars": 6,
+    "name": "Multi-omics",
+    "full_name": "Trhova/Multi-omics",
+    "description": "Intuitive guide to multi-omics integration with toy examples: supervised latent components (DIABLO), unsupervised shared/partial/unique structure (DIVAS), VAEs/conditional VAEs, and key baselines (MOFA, JIVE, SNF) with practical tips + code.",
+    "url": "https://github.com/Trhova/Multi-omics",
+    "stars": 27,
+    "daily_stars": 5,
+    "language": "Python",
+    "topics": [
+      "bioinformatics",
+      "data-integration",
+      "diablo",
+      "latent-variables",
+      "machine-learning",
+      "microbiome",
+      "multiomics",
+      "variational-autoencoder"
+    ],
+    "created_at": "2025-12-28T12:24:37",
+    "updated_at": "2025-12-29T08:52:19"
+  },
+  {
+    "name": "AI-ML-Book-References",
+    "full_name": "Ramakm/AI-ML-Book-References",
+    "description": "This repository is for all those AI enthusiastics who actually loves to read books and learn.",
+    "url": "https://github.com/Ramakm/AI-ML-Book-References",
+    "stars": 16,
+    "daily_stars": 4,
     "language": null,
     "topics": [
+      "ai",
+      "aibooks",
       "artificial-intelligence",
+      "books",
       "deep-learning",
-      "hierarchical-reinforcement-learning"
+      "machine-learning",
+      "ml",
+      "neural-network",
+      "nlp",
+      "python",
+      "system-design"
     ],
-    "created_at": "2025-12-27T04:21:30",
-    "updated_at": "2025-12-29T04:36:50"
+    "created_at": "2025-12-26T12:50:11",
+    "updated_at": "2025-12-29T08:48:10"
   },
   {
-    "name": "KnowNote",
-    "full_name": "MrSibe/KnowNote",
-    "description": "一个类似于Notebook LM，以用户自有知识为中心的 AI 工作空间，帮助你思考、研究与写作。更方便，更轻量，更懂你！",
-    "url": "https://github.com/MrSibe/KnowNote",
-    "stars": 376,
-    "daily_stars": 3,
+    "name": "screen.vision",
+    "full_name": "bullmeza/screen.vision",
+    "description": "Share your screen with AI. Get a guided tour for anything, right on your screen.",
+    "url": "https://github.com/bullmeza/screen.vision",
+    "stars": 144,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
       "ai",
-      "deep-learning",
-      "deepseek",
-      "dll",
-      "electron",
-      "notebook",
-      "notebooklm",
-      "openai"
+      "ai-agents",
+      "llms",
+      "typescript"
     ],
-    "created_at": "2025-12-15T11:56:42",
-    "updated_at": "2025-12-29T04:14:49"
-  },
-  {
-    "name": "Agent-Kernel",
-    "full_name": "ZJU-LLMs/Agent-Kernel",
-    "description": "A MicroKernel Multi-Agents System Framework for Adaptive Social Simulation Powered by LLMs",
-    "url": "https://github.com/ZJU-LLMs/Agent-Kernel",
-    "stars": 195,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "large-language-models",
-      "multi-agent-systems",
-      "social-simulation"
-    ],
-    "created_at": "2025-11-30T03:08:20",
-    "updated_at": "2025-12-29T04:51:31"
+    "created_at": "2025-12-11T06:14:38",
+    "updated_at": "2025-12-29T08:32:08"
   },
   {
     "name": "roubao",
     "full_name": "Turbo1123/roubao",
     "description": "Android Automation Tool Based on Vision-Language Models",
     "url": "https://github.com/Turbo1123/roubao",
-    "stars": 784,
-    "daily_stars": 2,
+    "stars": 787,
+    "daily_stars": 3,
     "language": "Kotlin",
     "topics": [
       "ai",
@@ -154,73 +223,6 @@
       "phone-automation"
     ],
     "created_at": "2025-12-09T07:11:42",
-    "updated_at": "2025-12-29T03:38:21"
-  },
-  {
-    "name": "full-stack-fastapi-nextjs-llm-template",
-    "full_name": "vstorm-co/full-stack-fastapi-nextjs-llm-template",
-    "description": "Full-stack FastAPI + Next.js template generator with PydanticAI agents, WebSocket streaming, 20+ enterprise integrations, and Logfire observability. Ship AI apps fast. CLI tool to generate production-ready FastAPI + Next.js projects with AI agents, auth, and observability out of the box.",
-    "url": "https://github.com/vstorm-co/full-stack-fastapi-nextjs-llm-template",
-    "stars": 215,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "celery",
-      "cookiecutter",
-      "docker",
-      "fastapi",
-      "full-stack",
-      "kubernates",
-      "langchain",
-      "langgraph",
-      "llm",
-      "logfire",
-      "mongodb",
-      "nextjs",
-      "postgresql",
-      "pydantic-ai",
-      "python",
-      "react",
-      "redis",
-      "template",
-      "typescript"
-    ],
-    "created_at": "2025-12-19T12:23:15",
-    "updated_at": "2025-12-29T04:02:31"
-  },
-  {
-    "name": "Stirrup",
-    "full_name": "ArtificialAnalysis/Stirrup",
-    "description": "The lightweight framework for building agents",
-    "url": "https://github.com/ArtificialAnalysis/Stirrup",
-    "stars": 193,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agent",
-      "ai-agents"
-    ],
-    "created_at": "2025-12-10T03:10:49",
-    "updated_at": "2025-12-29T05:02:55"
-  },
-  {
-    "name": "portal",
-    "full_name": "hosenur/portal",
-    "description": "Access OpenCode through TailScale on your web browser. (Mobile First)",
-    "url": "https://github.com/hosenur/portal",
-    "stars": 119,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "opencode"
-    ],
-    "created_at": "2025-12-09T20:32:16",
-    "updated_at": "2025-12-29T04:55:38"
+    "updated_at": "2025-12-29T07:49:13"
   }
 ]
