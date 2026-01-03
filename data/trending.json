@@ -1,11 +1,58 @@
 [
   {
+    "name": "langchain_data_agent",
+    "full_name": "eosho/langchain_data_agent",
+    "description": "NL2SQL - Ask questions in plain English, get SQL queries and results. Powered by LangGraph.",
+    "url": "https://github.com/eosho/langchain_data_agent",
+    "stars": 39,
+    "daily_stars": 32,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "azure",
+      "data-agent",
+      "database",
+      "langchain",
+      "langchain-python",
+      "langgraph",
+      "nl2sql",
+      "postgres",
+      "sql",
+      "synapse"
+    ],
+    "created_at": "2025-12-22T19:18:49",
+    "updated_at": "2026-01-03T20:29:30"
+  },
+  {
+    "name": "sentinel",
+    "full_name": "aqstack/sentinel",
+    "description": "Self-healing edge computing agent with predictive failure detection and partition-resilient orchestration for Kubernetes",
+    "url": "https://github.com/aqstack/sentinel",
+    "stars": 263,
+    "daily_stars": 32,
+    "language": "Go",
+    "topics": [
+      "aiops",
+      "distributed-systems",
+      "edge-computing",
+      "failure-prediction",
+      "golang",
+      "kubernetes",
+      "machine-learning",
+      "prometheus",
+      "raft",
+      "self-healing"
+    ],
+    "created_at": "2025-12-25T05:22:51",
+    "updated_at": "2026-01-03T20:40:53"
+  },
+  {
     "name": "talk-to-girlfriend-ai",
     "full_name": "arlanrakh/talk-to-girlfriend-ai",
     "description": "im busy building ai agents so why not let an ai talk to my girlfriend? ",
     "url": "https://github.com/arlanrakh/talk-to-girlfriend-ai",
-    "stars": 26,
-    "daily_stars": 9,
+    "stars": 44,
+    "daily_stars": 18,
     "language": "Python",
     "topics": [
       "ai",
@@ -14,15 +61,32 @@
       "mcp"
     ],
     "created_at": "2025-12-28T08:51:06",
-    "updated_at": "2026-01-03T16:25:44"
+    "updated_at": "2026-01-03T20:18:19"
+  },
+  {
+    "name": "go-highway",
+    "full_name": "ajroetker/go-highway",
+    "description": "Write SIMD once, run everywhere. AVX2, AVX-512, or pure Go fallback. Like Google Highway, but for Go.",
+    "url": "https://github.com/ajroetker/go-highway",
+    "stars": 30,
+    "daily_stars": 7,
+    "language": "Go",
+    "topics": [
+      "machine-learning",
+      "math",
+      "performance",
+      "simd"
+    ],
+    "created_at": "2025-12-24T08:26:16",
+    "updated_at": "2026-01-03T19:36:30"
   },
   {
     "name": "DeepTutor",
     "full_name": "HKUDS/DeepTutor",
     "description": "\"DeepTutor: AI-Powered Personalized Learning Assistant\"",
     "url": "https://github.com/HKUDS/DeepTutor",
-    "stars": 1449,
-    "daily_stars": 6,
+    "stars": 1454,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -37,14 +101,14 @@
       "rag"
     ],
     "created_at": "2025-12-28T15:35:54",
-    "updated_at": "2026-01-03T16:27:09"
+    "updated_at": "2026-01-03T19:57:08"
   },
   {
     "name": "crucible-code",
     "full_name": "m0n0x41d/crucible-code",
     "description": "Structured reasoning commands for Claude Code — hypothesis-driven decision making with auditable evidence trails",
     "url": "https://github.com/m0n0x41d/crucible-code",
-    "stars": 1044,
+    "stars": 1049,
     "daily_stars": 5,
     "language": "Shell",
     "topics": [
@@ -62,75 +126,37 @@
       "systems-thinking"
     ],
     "created_at": "2025-12-10T19:16:51",
-    "updated_at": "2026-01-03T16:39:05"
+    "updated_at": "2026-01-03T20:39:58"
   },
   {
-    "name": "portal",
-    "full_name": "hosenur/portal",
-    "description": "Access OpenCode through TailScale on your web browser. (Mobile First)",
-    "url": "https://github.com/hosenur/portal",
-    "stars": 155,
-    "daily_stars": 4,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "opencode"
-    ],
-    "created_at": "2025-12-09T20:32:16",
-    "updated_at": "2026-01-03T15:30:06"
-  },
-  {
-    "name": "QuantDinger",
-    "full_name": "brokermr810/QuantDinger",
-    "description": "All-in-One Local-first Quant Workspace: Market Data, AI Multi-agent Analysis, Backtesting & Strategy Execution. Support Crypto/Stocks/Forex/Futures.",
-    "url": "https://github.com/brokermr810/QuantDinger",
-    "stars": 100,
-    "daily_stars": 4,
-    "language": "JavaScript",
+    "name": "idle",
+    "full_name": "evil-mind-evil-sword/idle",
+    "description": "Review gate for Claude Code with adversarial multi-agent reviews.",
+    "url": "https://github.com/evil-mind-evil-sword/idle",
+    "stars": 13,
+    "daily_stars": 3,
+    "language": "Shell",
     "topics": [
       "ai-agents",
-      "algorithmic-trading",
-      "algotrading",
-      "algtrading",
-      "backtesting",
-      "crypto-trading-agent",
-      "flask",
-      "local-first",
-      "market-data",
-      "quant-trading",
-      "stock-market",
-      "technical-indicators",
-      "trading-bot-",
-      "vue2"
+      "anthropic",
+      "claude",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "gemini",
+      "llm",
+      "multi-model"
     ],
-    "created_at": "2025-12-28T18:39:26",
-    "updated_at": "2026-01-03T16:39:51"
-  },
-  {
-    "name": "deep-delta-learning",
-    "full_name": "yifanzhang-pro/deep-delta-learning",
-    "description": "Official Project Page for \"Deep Delta Learning\"",
-    "url": "https://github.com/yifanzhang-pro/deep-delta-learning",
-    "stars": 172,
-    "daily_stars": 4,
-    "language": null,
-    "topics": [
-      "deep-learning",
-      "foundation-models",
-      "llms"
-    ],
-    "created_at": "2026-01-01T10:25:45",
-    "updated_at": "2026-01-03T15:29:10"
+    "created_at": "2025-12-27T06:25:52",
+    "updated_at": "2026-01-03T19:47:09"
   },
   {
     "name": "awesome-agent-skills",
     "full_name": "heilcheng/awesome-agent-skills",
     "description": "A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)",
     "url": "https://github.com/heilcheng/awesome-agent-skills",
-    "stars": 828,
-    "daily_stars": 3,
+    "stars": 830,
+    "daily_stars": 2,
     "language": null,
     "topics": [
       "agent-skills",
@@ -150,65 +176,42 @@
       "vscode"
     ],
     "created_at": "2025-12-29T21:13:40",
-    "updated_at": "2026-01-03T16:07:33"
+    "updated_at": "2026-01-03T18:58:56"
   },
   {
-    "name": "go-highway",
-    "full_name": "ajroetker/go-highway",
-    "description": "Write SIMD once, run everywhere. AVX2, AVX-512, or pure Go fallback. Like Google Highway, but for Go.",
-    "url": "https://github.com/ajroetker/go-highway",
-    "stars": 23,
-    "daily_stars": 3,
-    "language": "Go",
-    "topics": [
-      "machine-learning",
-      "math",
-      "performance",
-      "simd"
-    ],
-    "created_at": "2025-12-24T08:26:16",
-    "updated_at": "2026-01-03T16:07:22"
-  },
-  {
-    "name": "KnowNote",
-    "full_name": "MrSibe/KnowNote",
-    "description": "一个类似于Notebook LM，以用户自有知识为中心的 AI 工作空间，帮助你思考、研究与写作。更方便，更轻量，更懂你！",
-    "url": "https://github.com/MrSibe/KnowNote",
-    "stars": 703,
-    "daily_stars": 3,
+    "name": "portal",
+    "full_name": "hosenur/portal",
+    "description": "Access OpenCode through TailScale on your web browser. (Mobile First)",
+    "url": "https://github.com/hosenur/portal",
+    "stars": 157,
+    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
       "ai",
-      "deep-learning",
-      "deepseek",
-      "dll",
-      "electron",
-      "notebook",
-      "notebooklm",
-      "openai"
+      "ai-agent",
+      "ai-agents",
+      "opencode"
     ],
-    "created_at": "2025-12-15T11:56:42",
-    "updated_at": "2026-01-03T15:54:15"
+    "created_at": "2025-12-09T20:32:16",
+    "updated_at": "2026-01-03T17:20:42"
   },
   {
-    "name": "zai-shell",
-    "full_name": "TaklaXBR/zai-shell",
-    "description": "Command Line telepathy. An Autonomous Al Agent for your Terminal that turns intent into Execution (Windows/Linux/Mac)",
-    "url": "https://github.com/TaklaXBR/zai-shell",
-    "stars": 16,
+    "name": "scalable-rag-pipeline",
+    "full_name": "FareedKhan-dev/scalable-rag-pipeline",
+    "description": "A scalable RAG platform combining LangGraph agents, hybrid retrieval (Vector+Graph), and Ray orchestration on Kubernetes.",
+    "url": "https://github.com/FareedKhan-dev/scalable-rag-pipeline",
+    "stars": 33,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
-      "agent",
-      "artificial-intelligence",
-      "automation",
-      "cli",
-      "devops",
-      "gemini-api",
+      "ai-agents",
+      "aws",
+      "langchain",
+      "multi-agent-systems",
       "python",
-      "terminal"
+      "rag-pipeline"
     ],
-    "created_at": "2025-12-13T08:50:16",
-    "updated_at": "2026-01-03T15:44:46"
+    "created_at": "2025-12-27T10:54:35",
+    "updated_at": "2026-01-03T17:48:59"
   }
 ]
