@@ -1,11 +1,34 @@
 [
   {
+    "name": "sentinel",
+    "full_name": "aqstack/sentinel",
+    "description": "Self-healing edge computing agent with predictive failure detection and partition-resilient orchestration for Kubernetes",
+    "url": "https://github.com/aqstack/sentinel",
+    "stars": 226,
+    "daily_stars": 15,
+    "language": "Go",
+    "topics": [
+      "aiops",
+      "distributed-systems",
+      "edge-computing",
+      "failure-prediction",
+      "golang",
+      "kubernetes",
+      "machine-learning",
+      "prometheus",
+      "raft",
+      "self-healing"
+    ],
+    "created_at": "2025-12-25T05:22:51",
+    "updated_at": "2026-01-03T08:47:49"
+  },
+  {
     "name": "deep-delta-learning",
     "full_name": "yifanzhang-pro/deep-delta-learning",
     "description": "Official Project Page for \"Deep Delta Learning\"",
     "url": "https://github.com/yifanzhang-pro/deep-delta-learning",
-    "stars": 150,
-    "daily_stars": 11,
+    "stars": 160,
+    "daily_stars": 10,
     "language": null,
     "topics": [
       "deep-learning",
@@ -13,42 +36,15 @@
       "llms"
     ],
     "created_at": "2026-01-01T10:25:45",
-    "updated_at": "2026-01-03T04:50:32"
-  },
-  {
-    "name": "QuantDinger",
-    "full_name": "brokermr810/QuantDinger",
-    "description": "All-in-One Local-first Quant Workspace: Market Data, AI Multi-agent Analysis, Backtesting & Strategy Execution. Support Crypto/Stocks/Forex/Futures.",
-    "url": "https://github.com/brokermr810/QuantDinger",
-    "stars": 93,
-    "daily_stars": 4,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "algorithmic-trading",
-      "algotrading",
-      "algtrading",
-      "backtesting",
-      "crypto-trading-agent",
-      "flask",
-      "local-first",
-      "market-data",
-      "quant-trading",
-      "stock-market",
-      "technical-indicators",
-      "trading-bot-",
-      "vue2"
-    ],
-    "created_at": "2025-12-28T18:39:26",
-    "updated_at": "2026-01-03T04:09:29"
+    "updated_at": "2026-01-03T08:46:09"
   },
   {
     "name": "DeepTutor",
     "full_name": "HKUDS/DeepTutor",
     "description": "\"DeepTutor: AI-Powered Personalized Learning Assistant\"",
     "url": "https://github.com/HKUDS/DeepTutor",
-    "stars": 1430,
-    "daily_stars": 3,
+    "stars": 1437,
+    "daily_stars": 7,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -63,58 +59,51 @@
       "rag"
     ],
     "created_at": "2025-12-28T15:35:54",
-    "updated_at": "2026-01-03T04:24:03"
+    "updated_at": "2026-01-03T08:20:25"
   },
   {
-    "name": "roubao",
-    "full_name": "Turbo1123/roubao",
-    "description": "Android Automation Tool Based on Vision-Language Models",
-    "url": "https://github.com/Turbo1123/roubao",
-    "stars": 839,
-    "daily_stars": 3,
-    "language": "Kotlin",
+    "name": "go-highway",
+    "full_name": "ajroetker/go-highway",
+    "description": "Write SIMD once, run everywhere. AVX2, AVX-512, or pure Go fallback. Like Google Highway, but for Go.",
+    "url": "https://github.com/ajroetker/go-highway",
+    "stars": 17,
+    "daily_stars": 7,
+    "language": "Go",
     "topics": [
-      "ai",
-      "ai-agents",
-      "android",
-      "android-automation",
-      "kotlin",
-      "mobile-agents",
-      "mobileagent",
-      "phone-automation"
+      "machine-learning",
+      "math",
+      "performance",
+      "simd"
     ],
-    "created_at": "2025-12-09T07:11:42",
-    "updated_at": "2026-01-03T03:57:03"
+    "created_at": "2025-12-24T08:26:16",
+    "updated_at": "2026-01-03T08:40:51"
   },
   {
-    "name": "opencode-vibe",
-    "full_name": "joelhooks/opencode-vibe",
-    "description": "🏄‍♂️ Next.js 16 web UI for OpenCode - real-time chat with streaming, SSE sync, and React Server Components",
-    "url": "https://github.com/joelhooks/opencode-vibe",
-    "stars": 143,
-    "daily_stars": 3,
-    "language": "TypeScript",
+    "name": "boxlite",
+    "full_name": "boxlite-labs/boxlite",
+    "description": "Embed. Sandbox. Ship.",
+    "url": "https://github.com/boxlite-labs/boxlite",
+    "stars": 359,
+    "daily_stars": 6,
+    "language": "Rust",
     "topics": [
-      "agentic-ai",
-      "ai",
       "ai-agents",
-      "biomejs",
-      "bun",
-      "nextjs",
-      "opencode",
-      "oxlint",
-      "typescript"
+      "containers",
+      "sandbox",
+      "security",
+      "serverless",
+      "virtualization"
     ],
-    "created_at": "2025-12-27T02:49:49",
-    "updated_at": "2026-01-03T04:46:24"
+    "created_at": "2025-12-07T22:49:32",
+    "updated_at": "2026-01-03T08:36:18"
   },
   {
     "name": "z80ai",
     "full_name": "HarryR/z80ai",
     "description": "Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage computer.",
     "url": "https://github.com/HarryR/z80ai",
-    "stars": 848,
-    "daily_stars": 3,
+    "stars": 852,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "chatbot",
@@ -130,87 +119,97 @@
       "z80"
     ],
     "created_at": "2025-12-21T14:26:48",
-    "updated_at": "2026-01-03T04:05:48"
+    "updated_at": "2026-01-03T08:16:00"
   },
   {
-    "name": "go-highway",
-    "full_name": "ajroetker/go-highway",
-    "description": "Write SIMD once, run everywhere. AVX2, AVX-512, or pure Go fallback. Like Google Highway, but for Go.",
-    "url": "https://github.com/ajroetker/go-highway",
-    "stars": 10,
+    "name": "awesome-agent-skills",
+    "full_name": "heilcheng/awesome-agent-skills",
+    "description": "A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)",
+    "url": "https://github.com/heilcheng/awesome-agent-skills",
+    "stars": 823,
     "daily_stars": 3,
-    "language": "Go",
+    "language": null,
     "topics": [
-      "machine-learning",
-      "math",
-      "performance",
-      "simd"
+      "agent-skills",
+      "ai-agents",
+      "ai-development",
+      "anthropic",
+      "automation",
+      "awesome-list",
+      "claude",
+      "codex",
+      "github-copilot",
+      "llm",
+      "mcp",
+      "openai",
+      "productivity",
+      "skill-md",
+      "vscode"
     ],
-    "created_at": "2025-12-24T08:26:16",
-    "updated_at": "2026-01-03T04:38:15"
+    "created_at": "2025-12-29T21:13:40",
+    "updated_at": "2026-01-03T08:34:41"
   },
   {
-    "name": "cheatengine-mcp-bridge",
-    "full_name": "miscusi-peek/cheatengine-mcp-bridge",
-    "description": "Cheat Engine MCP Bridge - AI-powered memory analysis and game reverse engineering via Model Context Protocol",
-    "url": "https://github.com/miscusi-peek/cheatengine-mcp-bridge",
-    "stars": 114,
-    "daily_stars": 1,
-    "language": "Lua",
+    "name": "opencode-vibe",
+    "full_name": "joelhooks/opencode-vibe",
+    "description": "🏄‍♂️ Next.js 16 web UI for OpenCode - real-time chat with streaming, SSE sync, and React Server Components",
+    "url": "https://github.com/joelhooks/opencode-vibe",
+    "stars": 146,
+    "daily_stars": 3,
+    "language": "TypeScript",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "biomejs",
+      "bun",
+      "nextjs",
+      "opencode",
+      "oxlint",
+      "typescript"
+    ],
+    "created_at": "2025-12-27T02:49:49",
+    "updated_at": "2026-01-03T07:39:37"
+  },
+  {
+    "name": "mcpc",
+    "full_name": "apify/mcpc",
+    "description": "Universal command-line client for the Model Context Protocol (MCP)",
+    "url": "https://github.com/apify/mcpc",
+    "stars": 18,
+    "daily_stars": 3,
+    "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "ai-tools",
-      "cheat-engine",
-      "debugging",
-      "game-hacking",
-      "game-research",
-      "mcp",
-      "memory-analysis",
-      "model-context-protocol",
-      "reverse-engineering"
-    ],
-    "created_at": "2025-12-24T11:22:53",
-    "updated_at": "2026-01-03T03:00:45"
-  },
-  {
-    "name": "zai-shell",
-    "full_name": "TaklaXBR/zai-shell",
-    "description": "Command Line telepathy. An Autonomous Al Agent for your Terminal that turns intent into Execution (Windows/Linux/Mac)",
-    "url": "https://github.com/TaklaXBR/zai-shell",
-    "stars": 13,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "artificial-intelligence",
-      "automation",
       "cli",
-      "devops",
-      "gemini-api",
-      "python",
-      "terminal"
+      "code-mode",
+      "mcp",
+      "mcp-client",
+      "shell"
     ],
-    "created_at": "2025-12-13T08:50:16",
-    "updated_at": "2026-01-03T03:42:39"
+    "created_at": "2025-12-09T03:00:11",
+    "updated_at": "2026-01-03T07:44:30"
   },
   {
-    "name": "GenZERO",
-    "full_name": "VarunKumar-05/GenZERO",
-    "description": "Tri-modular AI framework for real-time adolescent mental health monitoring via speech, actigraphy, and fMRI analysis. ",
-    "url": "https://github.com/VarunKumar-05/GenZERO",
-    "stars": 3,
-    "daily_stars": 1,
-    "language": "Jupyter Notebook",
+    "name": "idle",
+    "full_name": "evil-mind-evil-sword/idle",
+    "description": "Review gate for Claude Code with adversarial multi-agent reviews.",
+    "url": "https://github.com/evil-mind-evil-sword/idle",
+    "stars": 9,
+    "daily_stars": 3,
+    "language": "Shell",
     "topics": [
-      "artificial-intelligence",
-      "hackathon2025",
-      "medical-image-analysis",
-      "medical-image-processing",
-      "neural-engineering",
-      "pathway-bdh",
-      "spiking-neural-networks"
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "gemini",
+      "llm",
+      "multi-model"
     ],
-    "created_at": "2025-12-28T03:31:17",
-    "updated_at": "2026-01-03T02:43:10"
+    "created_at": "2025-12-27T06:25:52",
+    "updated_at": "2026-01-03T06:52:14"
   }
 ]
