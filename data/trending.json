@@ -1,34 +1,28 @@
 [
   {
-    "name": "sentinel",
-    "full_name": "aqstack/sentinel",
-    "description": "Self-healing edge computing agent with predictive failure detection and partition-resilient orchestration for Kubernetes",
-    "url": "https://github.com/aqstack/sentinel",
-    "stars": 226,
-    "daily_stars": 15,
-    "language": "Go",
+    "name": "talk-to-girlfriend-ai",
+    "full_name": "arlanrakh/talk-to-girlfriend-ai",
+    "description": "im busy building ai agents so why not let an ai talk to my girlfriend? ",
+    "url": "https://github.com/arlanrakh/talk-to-girlfriend-ai",
+    "stars": 17,
+    "daily_stars": 12,
+    "language": "Python",
     "topics": [
-      "aiops",
-      "distributed-systems",
-      "edge-computing",
-      "failure-prediction",
-      "golang",
-      "kubernetes",
-      "machine-learning",
-      "prometheus",
-      "raft",
-      "self-healing"
+      "ai",
+      "ai-agents",
+      "indexing",
+      "mcp"
     ],
-    "created_at": "2025-12-25T05:22:51",
-    "updated_at": "2026-01-03T08:47:49"
+    "created_at": "2025-12-28T08:51:06",
+    "updated_at": "2026-01-03T12:36:36"
   },
   {
     "name": "deep-delta-learning",
     "full_name": "yifanzhang-pro/deep-delta-learning",
     "description": "Official Project Page for \"Deep Delta Learning\"",
     "url": "https://github.com/yifanzhang-pro/deep-delta-learning",
-    "stars": 160,
-    "daily_stars": 10,
+    "stars": 168,
+    "daily_stars": 8,
     "language": null,
     "topics": [
       "deep-learning",
@@ -36,15 +30,38 @@
       "llms"
     ],
     "created_at": "2026-01-01T10:25:45",
-    "updated_at": "2026-01-03T08:46:09"
+    "updated_at": "2026-01-03T12:50:22"
+  },
+  {
+    "name": "cheatengine-mcp-bridge",
+    "full_name": "miscusi-peek/cheatengine-mcp-bridge",
+    "description": "Cheat Engine MCP Bridge - AI-powered memory analysis and game reverse engineering via Model Context Protocol",
+    "url": "https://github.com/miscusi-peek/cheatengine-mcp-bridge",
+    "stars": 122,
+    "daily_stars": 6,
+    "language": "Lua",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "cheat-engine",
+      "debugging",
+      "game-hacking",
+      "game-research",
+      "mcp",
+      "memory-analysis",
+      "model-context-protocol",
+      "reverse-engineering"
+    ],
+    "created_at": "2025-12-24T11:22:53",
+    "updated_at": "2026-01-03T12:36:57"
   },
   {
     "name": "DeepTutor",
     "full_name": "HKUDS/DeepTutor",
     "description": "\"DeepTutor: AI-Powered Personalized Learning Assistant\"",
     "url": "https://github.com/HKUDS/DeepTutor",
-    "stars": 1437,
-    "daily_stars": 7,
+    "stars": 1443,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -59,51 +76,15 @@
       "rag"
     ],
     "created_at": "2025-12-28T15:35:54",
-    "updated_at": "2026-01-03T08:20:25"
-  },
-  {
-    "name": "go-highway",
-    "full_name": "ajroetker/go-highway",
-    "description": "Write SIMD once, run everywhere. AVX2, AVX-512, or pure Go fallback. Like Google Highway, but for Go.",
-    "url": "https://github.com/ajroetker/go-highway",
-    "stars": 17,
-    "daily_stars": 7,
-    "language": "Go",
-    "topics": [
-      "machine-learning",
-      "math",
-      "performance",
-      "simd"
-    ],
-    "created_at": "2025-12-24T08:26:16",
-    "updated_at": "2026-01-03T08:40:51"
-  },
-  {
-    "name": "boxlite",
-    "full_name": "boxlite-labs/boxlite",
-    "description": "Embed. Sandbox. Ship.",
-    "url": "https://github.com/boxlite-labs/boxlite",
-    "stars": 359,
-    "daily_stars": 6,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "containers",
-      "sandbox",
-      "security",
-      "serverless",
-      "virtualization"
-    ],
-    "created_at": "2025-12-07T22:49:32",
-    "updated_at": "2026-01-03T08:36:18"
+    "updated_at": "2026-01-03T11:05:44"
   },
   {
     "name": "z80ai",
     "full_name": "HarryR/z80ai",
     "description": "Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage computer.",
     "url": "https://github.com/HarryR/z80ai",
-    "stars": 852,
-    "daily_stars": 4,
+    "stars": 855,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "chatbot",
@@ -119,15 +100,80 @@
       "z80"
     ],
     "created_at": "2025-12-21T14:26:48",
-    "updated_at": "2026-01-03T08:16:00"
+    "updated_at": "2026-01-03T12:41:23"
+  },
+  {
+    "name": "sentinel",
+    "full_name": "aqstack/sentinel",
+    "description": "Self-healing edge computing agent with predictive failure detection and partition-resilient orchestration for Kubernetes",
+    "url": "https://github.com/aqstack/sentinel",
+    "stars": 229,
+    "daily_stars": 3,
+    "language": "Go",
+    "topics": [
+      "aiops",
+      "distributed-systems",
+      "edge-computing",
+      "failure-prediction",
+      "golang",
+      "kubernetes",
+      "machine-learning",
+      "prometheus",
+      "raft",
+      "self-healing"
+    ],
+    "created_at": "2025-12-25T05:22:51",
+    "updated_at": "2026-01-03T09:01:11"
+  },
+  {
+    "name": "go-highway",
+    "full_name": "ajroetker/go-highway",
+    "description": "Write SIMD once, run everywhere. AVX2, AVX-512, or pure Go fallback. Like Google Highway, but for Go.",
+    "url": "https://github.com/ajroetker/go-highway",
+    "stars": 20,
+    "daily_stars": 3,
+    "language": "Go",
+    "topics": [
+      "machine-learning",
+      "math",
+      "performance",
+      "simd"
+    ],
+    "created_at": "2025-12-24T08:26:16",
+    "updated_at": "2026-01-03T12:50:01"
+  },
+  {
+    "name": "crucible-code",
+    "full_name": "m0n0x41d/crucible-code",
+    "description": "Structured reasoning commands for Claude Code — hypothesis-driven decision making with auditable evidence trails",
+    "url": "https://github.com/m0n0x41d/crucible-code",
+    "stars": 1039,
+    "daily_stars": 2,
+    "language": "Shell",
+    "topics": [
+      "ai-agents",
+      "ai-coding",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "cli",
+      "developer-tools",
+      "first-principles",
+      "prompt-engineering",
+      "reasoning",
+      "structured-reasoning",
+      "systems-thinking"
+    ],
+    "created_at": "2025-12-10T19:16:51",
+    "updated_at": "2026-01-03T10:25:43"
   },
   {
     "name": "awesome-agent-skills",
     "full_name": "heilcheng/awesome-agent-skills",
     "description": "A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)",
     "url": "https://github.com/heilcheng/awesome-agent-skills",
-    "stars": 823,
-    "daily_stars": 3,
+    "stars": 825,
+    "daily_stars": 2,
     "language": null,
     "topics": [
       "agent-skills",
@@ -147,69 +193,25 @@
       "vscode"
     ],
     "created_at": "2025-12-29T21:13:40",
-    "updated_at": "2026-01-03T08:34:41"
+    "updated_at": "2026-01-03T10:32:20"
   },
   {
-    "name": "opencode-vibe",
-    "full_name": "joelhooks/opencode-vibe",
-    "description": "🏄‍♂️ Next.js 16 web UI for OpenCode - real-time chat with streaming, SSE sync, and React Server Components",
-    "url": "https://github.com/joelhooks/opencode-vibe",
-    "stars": 146,
-    "daily_stars": 3,
-    "language": "TypeScript",
+    "name": "claude_life_assistant",
+    "full_name": "lout33/claude_life_assistant",
+    "description": "A personal coach that remembers, notices patterns, and holds you accountable.",
+    "url": "https://github.com/lout33/claude_life_assistant",
+    "stars": 607,
+    "daily_stars": 2,
+    "language": null,
     "topics": [
-      "agentic-ai",
+      "agent",
       "ai",
       "ai-agents",
-      "biomejs",
-      "bun",
-      "nextjs",
-      "opencode",
-      "oxlint",
-      "typescript"
-    ],
-    "created_at": "2025-12-27T02:49:49",
-    "updated_at": "2026-01-03T07:39:37"
-  },
-  {
-    "name": "mcpc",
-    "full_name": "apify/mcpc",
-    "description": "Universal command-line client for the Model Context Protocol (MCP)",
-    "url": "https://github.com/apify/mcpc",
-    "stars": 18,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "cli",
-      "code-mode",
-      "mcp",
-      "mcp-client",
-      "shell"
-    ],
-    "created_at": "2025-12-09T03:00:11",
-    "updated_at": "2026-01-03T07:44:30"
-  },
-  {
-    "name": "idle",
-    "full_name": "evil-mind-evil-sword/idle",
-    "description": "Review gate for Claude Code with adversarial multi-agent reviews.",
-    "url": "https://github.com/evil-mind-evil-sword/idle",
-    "stars": 9,
-    "daily_stars": 3,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
-      "anthropic",
+      "assistant",
       "claude",
-      "claude-code",
-      "codex",
-      "developer-tools",
-      "gemini",
-      "llm",
-      "multi-model"
+      "claude-code"
     ],
-    "created_at": "2025-12-27T06:25:52",
-    "updated_at": "2026-01-03T06:52:14"
+    "created_at": "2025-12-16T22:58:33",
+    "updated_at": "2026-01-03T09:44:47"
   }
 ]
