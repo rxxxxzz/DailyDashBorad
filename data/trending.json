@@ -1,10 +1,33 @@
 [
   {
+    "name": "sentinel",
+    "full_name": "aqstack/sentinel",
+    "description": "Self-healing edge computing agent with predictive failure detection and partition-resilient orchestration for Kubernetes",
+    "url": "https://github.com/aqstack/sentinel",
+    "stars": 291,
+    "daily_stars": 26,
+    "language": "Go",
+    "topics": [
+      "aiops",
+      "distributed-systems",
+      "edge-computing",
+      "failure-prediction",
+      "golang",
+      "kubernetes",
+      "machine-learning",
+      "prometheus",
+      "raft",
+      "self-healing"
+    ],
+    "created_at": "2025-12-25T05:22:51",
+    "updated_at": "2026-01-04T08:39:35"
+  },
+  {
     "name": "langchain_data_agent",
     "full_name": "eosho/langchain_data_agent",
     "description": "NL2SQL - Ask questions in plain English, get SQL queries and results. Powered by LangGraph.",
     "url": "https://github.com/eosho/langchain_data_agent",
-    "stars": 91,
+    "stars": 107,
     "daily_stars": 16,
     "language": "Python",
     "topics": [
@@ -21,31 +44,64 @@
       "synapse"
     ],
     "created_at": "2025-12-22T19:18:49",
-    "updated_at": "2026-01-04T04:53:43"
+    "updated_at": "2026-01-04T08:39:24"
   },
   {
-    "name": "deep-delta-learning",
-    "full_name": "yifanzhang-pro/deep-delta-learning",
-    "description": "Official Project Page for \"Deep Delta Learning\"",
-    "url": "https://github.com/yifanzhang-pro/deep-delta-learning",
-    "stars": 183,
-    "daily_stars": 8,
-    "language": null,
+    "name": "stabilize",
+    "full_name": "rodmena-limited/stabilize",
+    "description": "Queue-Based State Machine - A lightweight  workflow execution engine with DAG-based stage orchestration.",
+    "url": "https://github.com/rodmena-limited/stabilize",
+    "stars": 22,
+    "daily_stars": 12,
+    "language": "Python",
     "topics": [
-      "deep-learning",
-      "foundation-models",
-      "llms"
+      "agentic-ai",
+      "agentic-workflow",
+      "ai-agents",
+      "highway",
+      "highway-workflow-engine",
+      "hwe",
+      "ocra",
+      "orchestration",
+      "orchestrator",
+      "spinnaker",
+      "workflow",
+      "workflow-automation",
+      "workflow-engine"
     ],
-    "created_at": "2026-01-01T10:25:45",
-    "updated_at": "2026-01-04T04:37:51"
+    "created_at": "2025-12-30T11:23:35",
+    "updated_at": "2026-01-04T08:31:14"
+  },
+  {
+    "name": "DeepTutor",
+    "full_name": "HKUDS/DeepTutor",
+    "description": "\"DeepTutor: AI-Powered Personalized Learning Assistant\"",
+    "url": "https://github.com/HKUDS/DeepTutor",
+    "stars": 1475,
+    "daily_stars": 11,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-assistant",
+      "ai-tutor",
+      "deepresearch",
+      "idea-generation",
+      "interactive-learning",
+      "knowledge-graph",
+      "large-language-models",
+      "multi-agent-systems",
+      "rag"
+    ],
+    "created_at": "2025-12-28T15:35:54",
+    "updated_at": "2026-01-04T08:43:38"
   },
   {
     "name": "aiflowy",
     "full_name": "aiflowy/aiflowy",
     "description": "AIFlowy is an enterprise-grade AI application development platform based on Java, comparable to products like Dify and Coze.",
     "url": "https://github.com/aiflowy/aiflowy",
-    "stars": 986,
-    "daily_stars": 6,
+    "stars": 996,
+    "daily_stars": 10,
     "language": "Vue",
     "topics": [
       "agentic-ai",
@@ -61,15 +117,15 @@
       "workflow"
     ],
     "created_at": "2025-12-15T07:39:51",
-    "updated_at": "2026-01-04T04:58:53"
+    "updated_at": "2026-01-04T08:41:23"
   },
   {
     "name": "awesome-agent-skills",
     "full_name": "heilcheng/awesome-agent-skills",
     "description": "A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)",
     "url": "https://github.com/heilcheng/awesome-agent-skills",
-    "stars": 839,
-    "daily_stars": 4,
+    "stars": 848,
+    "daily_stars": 9,
     "language": null,
     "topics": [
       "agent-skills",
@@ -89,15 +145,50 @@
       "vscode"
     ],
     "created_at": "2025-12-29T21:13:40",
-    "updated_at": "2026-01-04T04:35:34"
+    "updated_at": "2026-01-04T08:36:50"
+  },
+  {
+    "name": "deep-delta-learning",
+    "full_name": "yifanzhang-pro/deep-delta-learning",
+    "description": "Official Project Page for \"Deep Delta Learning\"",
+    "url": "https://github.com/yifanzhang-pro/deep-delta-learning",
+    "stars": 191,
+    "daily_stars": 8,
+    "language": null,
+    "topics": [
+      "deep-learning",
+      "foundation-models",
+      "llms"
+    ],
+    "created_at": "2026-01-01T10:25:45",
+    "updated_at": "2026-01-04T08:41:36"
+  },
+  {
+    "name": "boxlite",
+    "full_name": "boxlite-labs/boxlite",
+    "description": "Embed. Sandbox. Ship.",
+    "url": "https://github.com/boxlite-labs/boxlite",
+    "stars": 376,
+    "daily_stars": 7,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "containers",
+      "sandbox",
+      "security",
+      "serverless",
+      "virtualization"
+    ],
+    "created_at": "2025-12-07T22:49:32",
+    "updated_at": "2026-01-04T08:03:25"
   },
   {
     "name": "QuantDinger",
     "full_name": "brokermr810/QuantDinger",
     "description": "All-in-One Local-first Quant Workspace: Market Data, AI Multi-agent Analysis, Backtesting & Strategy Execution. Support Crypto/Stocks/Forex/Futures.",
     "url": "https://github.com/brokermr810/QuantDinger",
-    "stars": 106,
-    "daily_stars": 3,
+    "stars": 113,
+    "daily_stars": 7,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -116,98 +207,15 @@
       "vue2"
     ],
     "created_at": "2025-12-28T18:39:26",
-    "updated_at": "2026-01-04T04:30:54"
-  },
-  {
-    "name": "talk-to-girlfriend-ai",
-    "full_name": "arlanrakh/talk-to-girlfriend-ai",
-    "description": "im busy building ai agents so why not let an ai talk to my girlfriend? ",
-    "url": "https://github.com/arlanrakh/talk-to-girlfriend-ai",
-    "stars": 66,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "indexing",
-      "mcp"
-    ],
-    "created_at": "2025-12-28T08:51:06",
-    "updated_at": "2026-01-04T04:57:08"
-  },
-  {
-    "name": "SRE-Agent-App",
-    "full_name": "qicesun/SRE-Agent-App",
-    "description": "An Autonomous AI SRE Agent for Kubernetes, built with Java Spring Boot & LangChain4j. Implements OODA loop for self-healing.",
-    "url": "https://github.com/qicesun/SRE-Agent-App",
-    "stars": 53,
-    "daily_stars": 3,
-    "language": "Java",
-    "topics": [
-      "ai-agents",
-      "devops",
-      "java",
-      "kubernetes",
-      "langchain4j",
-      "openai",
-      "spring-boot",
-      "sre"
-    ],
-    "created_at": "2025-12-28T07:11:36",
-    "updated_at": "2026-01-04T03:53:52"
-  },
-  {
-    "name": "mcpc",
-    "full_name": "apify/mcpc",
-    "description": "Universal command-line client for the Model Context Protocol (MCP)",
-    "url": "https://github.com/apify/mcpc",
-    "stars": 29,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "cli",
-      "code-mode",
-      "mcp",
-      "mcp-client",
-      "shell"
-    ],
-    "created_at": "2025-12-09T03:00:11",
-    "updated_at": "2026-01-04T04:43:09"
-  },
-  {
-    "name": "stabilize",
-    "full_name": "rodmena-limited/stabilize",
-    "description": "Queue-Based State Machine - A lightweight  workflow execution engine with DAG-based stage orchestration.",
-    "url": "https://github.com/rodmena-limited/stabilize",
-    "stars": 10,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "agentic-workflow",
-      "ai-agents",
-      "highway",
-      "highway-workflow-engine",
-      "hwe",
-      "ocra",
-      "orchestration",
-      "orchestrator",
-      "spinnaker",
-      "workflow",
-      "workflow-automation",
-      "workflow-engine"
-    ],
-    "created_at": "2025-12-30T11:23:35",
-    "updated_at": "2026-01-04T04:20:37"
+    "updated_at": "2026-01-04T08:31:54"
   },
   {
     "name": "z80ai",
     "full_name": "HarryR/z80ai",
     "description": "Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage computer.",
     "url": "https://github.com/HarryR/z80ai",
-    "stars": 864,
-    "daily_stars": 2,
+    "stars": 870,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "chatbot",
@@ -223,6 +231,6 @@
       "z80"
     ],
     "created_at": "2025-12-21T14:26:48",
-    "updated_at": "2026-01-04T04:20:33"
+    "updated_at": "2026-01-04T07:35:46"
   }
 ]
