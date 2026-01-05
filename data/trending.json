@@ -4,8 +4,8 @@
     "full_name": "HKUDS/DeepTutor",
     "description": "\"DeepTutor: AI-Powered Personalized Learning Assistant\"",
     "url": "https://github.com/HKUDS/DeepTutor",
-    "stars": 2670,
-    "daily_stars": 499,
+    "stars": 3138,
+    "daily_stars": 468,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -20,15 +20,15 @@
       "rag"
     ],
     "created_at": "2025-12-28T15:35:54",
-    "updated_at": "2026-01-04T20:42:52"
+    "updated_at": "2026-01-05T02:42:41"
   },
   {
     "name": "full-stack-fastapi-nextjs-llm-template",
     "full_name": "vstorm-co/full-stack-fastapi-nextjs-llm-template",
     "description": "Full-stack FastAPI + Next.js template generator with PydanticAI agents, WebSocket streaming, 20+ enterprise integrations, and Logfire observability. Ship AI apps fast. CLI tool to generate production-ready FastAPI + Next.js projects with AI agents, auth, and observability out of the box.",
     "url": "https://github.com/vstorm-co/full-stack-fastapi-nextjs-llm-template",
-    "stars": 299,
-    "daily_stars": 32,
+    "stars": 324,
+    "daily_stars": 25,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -53,62 +53,15 @@
       "typescript"
     ],
     "created_at": "2025-12-19T12:23:15",
-    "updated_at": "2026-01-04T20:43:14"
-  },
-  {
-    "name": "sentinel",
-    "full_name": "aqstack/sentinel",
-    "description": "Self-healing edge computing agent with predictive failure detection and partition-resilient orchestration for Kubernetes",
-    "url": "https://github.com/aqstack/sentinel",
-    "stars": 339,
-    "daily_stars": 24,
-    "language": "Go",
-    "topics": [
-      "aiops",
-      "distributed-systems",
-      "edge-computing",
-      "failure-prediction",
-      "golang",
-      "kubernetes",
-      "machine-learning",
-      "prometheus",
-      "raft",
-      "self-healing"
-    ],
-    "created_at": "2025-12-25T05:22:51",
-    "updated_at": "2026-01-04T20:07:55"
-  },
-  {
-    "name": "aiflowy",
-    "full_name": "aiflowy/aiflowy",
-    "description": "AIFlowy is an enterprise-grade AI application development platform based on Java, comparable to products like Dify and Coze.",
-    "url": "https://github.com/aiflowy/aiflowy",
-    "stars": 1027,
-    "daily_stars": 10,
-    "language": "Vue",
-    "topics": [
-      "agentic-ai",
-      "ai-agent",
-      "aiflowy",
-      "coze",
-      "dify",
-      "langchain4j",
-      "n8n",
-      "n8n-workflow",
-      "ragflow",
-      "springai",
-      "workflow"
-    ],
-    "created_at": "2025-12-15T07:39:51",
-    "updated_at": "2026-01-04T20:41:58"
+    "updated_at": "2026-01-05T02:33:55"
   },
   {
     "name": "awesome-agent-skills",
     "full_name": "heilcheng/awesome-agent-skills",
     "description": "A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)",
     "url": "https://github.com/heilcheng/awesome-agent-skills",
-    "stars": 871,
-    "daily_stars": 7,
+    "stars": 885,
+    "daily_stars": 14,
     "language": null,
     "topics": [
       "agent-skills",
@@ -128,15 +81,88 @@
       "vscode"
     ],
     "created_at": "2025-12-29T21:13:40",
-    "updated_at": "2026-01-04T19:17:57"
+    "updated_at": "2026-01-05T02:27:46"
+  },
+  {
+    "name": "sentinel",
+    "full_name": "aqstack/sentinel",
+    "description": "Self-healing edge computing agent with predictive failure detection and partition-resilient orchestration for Kubernetes",
+    "url": "https://github.com/aqstack/sentinel",
+    "stars": 351,
+    "daily_stars": 12,
+    "language": "Go",
+    "topics": [
+      "aiops",
+      "distributed-systems",
+      "edge-computing",
+      "failure-prediction",
+      "golang",
+      "kubernetes",
+      "machine-learning",
+      "prometheus",
+      "raft",
+      "self-healing"
+    ],
+    "created_at": "2025-12-25T05:22:51",
+    "updated_at": "2026-01-04T22:25:10"
+  },
+  {
+    "name": "aiflowy",
+    "full_name": "aiflowy/aiflowy",
+    "description": "AIFlowy is an enterprise-grade AI application development platform based on Java, comparable to products like Dify and Coze.",
+    "url": "https://github.com/aiflowy/aiflowy",
+    "stars": 1039,
+    "daily_stars": 12,
+    "language": "Vue",
+    "topics": [
+      "agentic-ai",
+      "ai-agent",
+      "aiflowy",
+      "coze",
+      "dify",
+      "langchain4j",
+      "n8n",
+      "n8n-workflow",
+      "ragflow",
+      "springai",
+      "workflow"
+    ],
+    "created_at": "2025-12-15T07:39:51",
+    "updated_at": "2026-01-05T02:28:40"
+  },
+  {
+    "name": "stabilize",
+    "full_name": "rodmena-limited/stabilize",
+    "description": "Queue-Based State Machine - A lightweight  workflow execution engine with DAG-based stage orchestration.",
+    "url": "https://github.com/rodmena-limited/stabilize",
+    "stars": 78,
+    "daily_stars": 11,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "agentic-workflow",
+      "ai-agents",
+      "highway",
+      "highway-workflow-engine",
+      "hwe",
+      "ocra",
+      "orchestration",
+      "orchestrator",
+      "spinnaker",
+      "workflow",
+      "workflow-automation",
+      "workflow-engine"
+    ],
+    "created_at": "2025-12-30T11:23:35",
+    "updated_at": "2026-01-05T02:22:35"
   },
   {
     "name": "langchain_data_agent",
     "full_name": "eosho/langchain_data_agent",
     "description": "NL2SQL - Ask questions in plain English, get SQL queries and results. Powered by LangGraph.",
     "url": "https://github.com/eosho/langchain_data_agent",
-    "stars": 141,
-    "daily_stars": 7,
+    "stars": 151,
+    "daily_stars": 10,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -152,14 +178,14 @@
       "synapse"
     ],
     "created_at": "2025-12-22T19:18:49",
-    "updated_at": "2026-01-04T20:36:58"
+    "updated_at": "2026-01-05T01:56:25"
   },
   {
     "name": "talk-to-girlfriend-ai",
     "full_name": "arlanrakh/talk-to-girlfriend-ai",
     "description": "im busy building ai agents so why not let an ai talk to my girlfriend? ",
     "url": "https://github.com/arlanrakh/talk-to-girlfriend-ai",
-    "stars": 86,
+    "stars": 93,
     "daily_stars": 7,
     "language": "Python",
     "topics": [
@@ -169,41 +195,15 @@
       "mcp"
     ],
     "created_at": "2025-12-28T08:51:06",
-    "updated_at": "2026-01-04T20:15:39"
-  },
-  {
-    "name": "agents-from-scratch",
-    "full_name": "pguso/agents-from-scratch",
-    "description": "Build AI agents from first principles using a local LLM - no frameworks, no cloud APIs, no hidden reasoning.",
-    "url": "https://github.com/pguso/agents-from-scratch",
-    "stars": 8,
-    "daily_stars": 6,
-    "language": "Python",
-    "topics": [
-      "agent-architecture",
-      "ai-agents",
-      "ai-education",
-      "ai-from-scratch",
-      "artificial-intelligence",
-      "llama",
-      "llm",
-      "local-llm",
-      "machine-learning",
-      "no-framework",
-      "open-source-education",
-      "prompt-engineering",
-      "python"
-    ],
-    "created_at": "2025-12-22T09:09:42",
-    "updated_at": "2026-01-04T18:45:22"
+    "updated_at": "2026-01-04T23:53:47"
   },
   {
     "name": "mcpc",
     "full_name": "apify/mcpc",
     "description": "Universal command-line client for the Model Context Protocol (MCP)",
     "url": "https://github.com/apify/mcpc",
-    "stars": 40,
-    "daily_stars": 3,
+    "stars": 47,
+    "daily_stars": 7,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -214,29 +214,30 @@
       "shell"
     ],
     "created_at": "2025-12-09T03:00:11",
-    "updated_at": "2026-01-04T20:37:27"
+    "updated_at": "2026-01-05T00:49:47"
   },
   {
-    "name": "cheatengine-mcp-bridge",
-    "full_name": "miscusi-peek/cheatengine-mcp-bridge",
-    "description": "Cheat Engine MCP Bridge - AI-powered memory analysis and game reverse engineering via Model Context Protocol",
-    "url": "https://github.com/miscusi-peek/cheatengine-mcp-bridge",
-    "stars": 133,
-    "daily_stars": 2,
-    "language": "Lua",
+    "name": "z80ai",
+    "full_name": "HarryR/z80ai",
+    "description": "Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage computer.",
+    "url": "https://github.com/HarryR/z80ai",
+    "stars": 886,
+    "daily_stars": 5,
+    "language": "Python",
     "topics": [
-      "ai-agents",
-      "ai-tools",
-      "cheat-engine",
-      "debugging",
-      "game-hacking",
-      "game-research",
-      "mcp",
-      "memory-analysis",
-      "model-context-protocol",
-      "reverse-engineering"
+      "chatbot",
+      "code-golf",
+      "cpm",
+      "language-model",
+      "machine-learning",
+      "nlp",
+      "quantization",
+      "retro",
+      "retrocomputing",
+      "tinyml",
+      "z80"
     ],
-    "created_at": "2025-12-24T11:22:53",
-    "updated_at": "2026-01-04T17:06:49"
+    "created_at": "2025-12-21T14:26:48",
+    "updated_at": "2026-01-05T02:16:10"
   }
 ]
