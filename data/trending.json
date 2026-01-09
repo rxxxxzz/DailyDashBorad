@@ -1,31 +1,11 @@
 [
   {
-    "name": "oh-my-claude-sisyphus",
-    "full_name": "Yeachan-Heo/oh-my-claude-sisyphus",
-    "description": "Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?",
-    "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
-    "stars": 103,
-    "daily_stars": 73,
-    "language": "TypeScript",
-    "topics": [
-      "agentic-coding",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "oh-my-opencode",
-      "opencode",
-      "vibe-coding"
-    ],
-    "created_at": "2026-01-09T03:36:29",
-    "updated_at": "2026-01-09T08:41:28"
-  },
-  {
     "name": "DeepTutor",
     "full_name": "HKUDS/DeepTutor",
     "description": "\"DeepTutor: AI-Powered Personalized Learning Assistant\"",
     "url": "https://github.com/HKUDS/DeepTutor",
-    "stars": 7194,
-    "daily_stars": 64,
+    "stars": 7269,
+    "daily_stars": 75,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -40,45 +20,65 @@
       "rag"
     ],
     "created_at": "2025-12-28T15:35:54",
-    "updated_at": "2026-01-09T08:46:10"
+    "updated_at": "2026-01-09T13:08:28"
+  },
+  {
+    "name": "oh-my-claude-sisyphus",
+    "full_name": "Yeachan-Heo/oh-my-claude-sisyphus",
+    "description": "Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?",
+    "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
+    "stars": 139,
+    "daily_stars": 36,
+    "language": "TypeScript",
+    "topics": [
+      "agentic-coding",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "oh-my-opencode",
+      "opencode",
+      "vibe-coding"
+    ],
+    "created_at": "2026-01-09T03:36:29",
+    "updated_at": "2026-01-09T13:09:43"
   },
   {
     "name": "zeroshot",
     "full_name": "covibes/zeroshot",
     "description": "Autonomous engineering teams for Claude Code. Point Zeroshot at a GitHub issue, walk away, and return to verified, production-ready PRs.",
     "url": "https://github.com/covibes/zeroshot",
-    "stars": 138,
-    "daily_stars": 20,
+    "stars": 156,
+    "daily_stars": 18,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
       "vibe-coding"
     ],
     "created_at": "2025-12-25T17:12:45",
-    "updated_at": "2026-01-09T08:51:17"
+    "updated_at": "2026-01-09T12:34:15"
   },
   {
     "name": "kuato",
     "full_name": "alexknowshtml/kuato",
     "description": "Built for Claude Code but works in any agent that supports skills, easily recall what you discussed with your favorite coding agents, what decisions you made, and where you left off so you can pick up where you left off as easily as asking \"where did we leave off on XYZ...\"",
     "url": "https://github.com/alexknowshtml/kuato",
-    "stars": 50,
-    "daily_stars": 15,
+    "stars": 67,
+    "daily_stars": 17,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
       "claude"
     ],
     "created_at": "2025-12-31T15:34:22",
-    "updated_at": "2026-01-09T08:25:24"
+    "updated_at": "2026-01-09T13:11:05"
   },
   {
     "name": "awesome-agent-skills",
     "full_name": "heilcheng/awesome-agent-skills",
     "description": "A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)",
     "url": "https://github.com/heilcheng/awesome-agent-skills",
-    "stars": 1101,
-    "daily_stars": 6,
+    "stars": 1110,
+    "daily_stars": 9,
     "language": null,
     "topics": [
       "agent-skills",
@@ -98,36 +98,94 @@
       "vscode"
     ],
     "created_at": "2025-12-29T21:13:40",
-    "updated_at": "2026-01-09T08:45:59"
+    "updated_at": "2026-01-09T12:59:13"
   },
   {
-    "name": "AlphaGPT",
-    "full_name": "imbue-bit/AlphaGPT",
-    "description": "使用符号回归在中国股市上进行高效因子挖掘。/ By the way，Leverage the novel features and advanced financial mathematics introduced in Uniswap V4 to effectively mitigate just-in-time (JIT) liquidity provision issues.",
-    "url": "https://github.com/imbue-bit/AlphaGPT",
-    "stars": 86,
+    "name": "talk-to-girlfriend-ai",
+    "full_name": "arlanrakh/talk-to-girlfriend-ai",
+    "description": "im busy building ai agents so why not let an ai talk to my girlfriend? ",
+    "url": "https://github.com/arlanrakh/talk-to-girlfriend-ai",
+    "stars": 397,
     "daily_stars": 4,
     "language": "Python",
     "topics": [
-      "deep-learning",
-      "finance",
-      "math",
-      "quant",
-      "quantitative-finance",
-      "sr",
-      "transformer",
-      "uniswap-v4"
+      "ai",
+      "ai-agents",
+      "indexing",
+      "mcp"
     ],
-    "created_at": "2026-01-08T02:05:21",
-    "updated_at": "2026-01-09T07:47:40"
+    "created_at": "2025-12-28T08:51:06",
+    "updated_at": "2026-01-09T12:11:10"
+  },
+  {
+    "name": "ocx",
+    "full_name": "kdcokenny/ocx",
+    "description": "The missing package manager for OpenCode extensions.",
+    "url": "https://github.com/kdcokenny/ocx",
+    "stars": 15,
+    "daily_stars": 3,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "bun",
+      "cli",
+      "ocx",
+      "opencode",
+      "package-manager",
+      "shadcn",
+      "typescript"
+    ],
+    "created_at": "2025-12-28T22:05:08",
+    "updated_at": "2026-01-09T12:34:33"
+  },
+  {
+    "name": "SubgroupX",
+    "full_name": "n-WN/SubgroupX",
+    "description": "正规子群.AI Agent | SubgroupX: A high-performance AI Agent for offensive security, CTF operations, and active defense protocols. Architected by Normal Subgroup. 这里在倒计时结束后会替换为 Agent 源码",
+    "url": "https://github.com/n-WN/SubgroupX",
+    "stars": 50,
+    "daily_stars": 2,
+    "language": "HTML",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "ctf",
+      "pentest"
+    ],
+    "created_at": "2026-01-07T10:08:38",
+    "updated_at": "2026-01-09T12:39:54"
+  },
+  {
+    "name": "cheatengine-mcp-bridge",
+    "full_name": "miscusi-peek/cheatengine-mcp-bridge",
+    "description": "Cheat Engine MCP Bridge - AI-powered memory analysis and game reverse engineering via Model Context Protocol",
+    "url": "https://github.com/miscusi-peek/cheatengine-mcp-bridge",
+    "stars": 171,
+    "daily_stars": 1,
+    "language": "Lua",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "cheat-engine",
+      "debugging",
+      "game-hacking",
+      "game-research",
+      "mcp",
+      "memory-analysis",
+      "model-context-protocol",
+      "reverse-engineering"
+    ],
+    "created_at": "2025-12-24T11:22:53",
+    "updated_at": "2026-01-09T12:18:38"
   },
   {
     "name": "full-stack-fastapi-nextjs-llm-template",
     "full_name": "vstorm-co/full-stack-fastapi-nextjs-llm-template",
     "description": "Full-stack FastAPI + Next.js template generator with PydanticAI agents, WebSocket streaming, 20+ enterprise integrations, and Logfire observability. Ship AI apps fast. CLI tool to generate production-ready FastAPI + Next.js projects with AI agents, auth, and observability out of the box.",
     "url": "https://github.com/vstorm-co/full-stack-fastapi-nextjs-llm-template",
-    "stars": 452,
-    "daily_stars": 2,
+    "stars": 453,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -152,72 +210,6 @@
       "typescript"
     ],
     "created_at": "2025-12-19T12:23:15",
-    "updated_at": "2026-01-09T07:24:42"
-  },
-  {
-    "name": "talk-to-girlfriend-ai",
-    "full_name": "arlanrakh/talk-to-girlfriend-ai",
-    "description": "im busy building ai agents so why not let an ai talk to my girlfriend? ",
-    "url": "https://github.com/arlanrakh/talk-to-girlfriend-ai",
-    "stars": 393,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "indexing",
-      "mcp"
-    ],
-    "created_at": "2025-12-28T08:51:06",
-    "updated_at": "2026-01-09T07:10:42"
-  },
-  {
-    "name": "QuantDinger",
-    "full_name": "brokermr810/QuantDinger",
-    "description": "All-in-One Local-first Quant Workspace: Market Data, AI Multi-agent Analysis, Backtesting & Strategy Execution. Support Crypto/Stocks/Forex/Futures.",
-    "url": "https://github.com/brokermr810/QuantDinger",
-    "stars": 196,
-    "daily_stars": 2,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "algorithmic-trading",
-      "algotrading",
-      "algtrading",
-      "backtesting",
-      "crypto-trading-agent",
-      "flask",
-      "local-first",
-      "market-data",
-      "quant-trading",
-      "stock-market",
-      "technical-indicators",
-      "trading-bot-",
-      "vue2"
-    ],
-    "created_at": "2025-12-28T18:39:26",
-    "updated_at": "2026-01-09T08:26:31"
-  },
-  {
-    "name": "kindly-web-search-mcp-server",
-    "full_name": "Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server",
-    "description": "Kindly Web Search MCP Server: Web search + robust content retrieval for AI coding tools (Claude Code, Codex, Cursor, GitHub Copilot, Gemini, etc.)",
-    "url": "https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server",
-    "stars": 67,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-tools",
-      "claude-code",
-      "codex",
-      "gemini",
-      "github-copilot",
-      "mcp-server",
-      "web-search"
-    ],
-    "created_at": "2026-01-02T17:27:27",
-    "updated_at": "2026-01-09T08:43:36"
+    "updated_at": "2026-01-09T11:51:04"
   }
 ]
