@@ -4,8 +4,8 @@
     "full_name": "Yeachan-Heo/oh-my-claude-sisyphus",
     "description": "Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?",
     "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
-    "stars": 200,
-    "daily_stars": 61,
+    "stars": 238,
+    "daily_stars": 38,
     "language": "TypeScript",
     "topics": [
       "agentic-coding",
@@ -17,15 +17,15 @@
       "vibe-coding"
     ],
     "created_at": "2026-01-09T03:36:29",
-    "updated_at": "2026-01-09T16:51:28"
+    "updated_at": "2026-01-09T20:45:39"
   },
   {
     "name": "DeepTutor",
     "full_name": "HKUDS/DeepTutor",
     "description": "\"DeepTutor: AI-Powered Personalized Learning Assistant\"",
     "url": "https://github.com/HKUDS/DeepTutor",
-    "stars": 7324,
-    "daily_stars": 55,
+    "stars": 7356,
+    "daily_stars": 32,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -40,45 +40,83 @@
       "rag"
     ],
     "created_at": "2025-12-28T15:35:54",
-    "updated_at": "2026-01-09T16:50:34"
-  },
-  {
-    "name": "zeroshot",
-    "full_name": "covibes/zeroshot",
-    "description": "Autonomous engineering teams for Claude Code. Point Zeroshot at a GitHub issue, walk away, and return to verified, production-ready PRs.",
-    "url": "https://github.com/covibes/zeroshot",
-    "stars": 179,
-    "daily_stars": 23,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "vibe-coding"
-    ],
-    "created_at": "2025-12-25T17:12:45",
-    "updated_at": "2026-01-09T16:41:48"
+    "updated_at": "2026-01-09T20:31:55"
   },
   {
     "name": "kuato",
     "full_name": "alexknowshtml/kuato",
     "description": "Built for Claude Code but works in any agent that supports skills, easily recall what you discussed with your favorite coding agents, what decisions you made, and where you left off so you can pick up where you left off as easily as asking \"where did we leave off on XYZ...\"",
     "url": "https://github.com/alexknowshtml/kuato",
-    "stars": 89,
-    "daily_stars": 22,
+    "stars": 103,
+    "daily_stars": 14,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
       "claude"
     ],
     "created_at": "2025-12-31T15:34:22",
-    "updated_at": "2026-01-09T16:53:27"
+    "updated_at": "2026-01-09T20:41:25"
+  },
+  {
+    "name": "zeroshot",
+    "full_name": "covibes/zeroshot",
+    "description": "Autonomous engineering teams for Claude Code. Point Zeroshot at a GitHub issue, walk away, and return to verified, production-ready PRs.",
+    "url": "https://github.com/covibes/zeroshot",
+    "stars": 188,
+    "daily_stars": 9,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "vibe-coding"
+    ],
+    "created_at": "2025-12-25T17:12:45",
+    "updated_at": "2026-01-09T20:43:17"
+  },
+  {
+    "name": "docx-corpus",
+    "full_name": "superdoc-dev/docx-corpus",
+    "description": "The largest open corpus of .docx files for document processing research",
+    "url": "https://github.com/superdoc-dev/docx-corpus",
+    "stars": 13,
+    "daily_stars": 6,
+    "language": "TypeScript",
+    "topics": [
+      "bun",
+      "common-crawl",
+      "corpus",
+      "dataset",
+      "document-processing",
+      "docx",
+      "machine-learning",
+      "nlp",
+      "typescript",
+      "word-documents"
+    ],
+    "created_at": "2026-01-09T11:10:21",
+    "updated_at": "2026-01-09T20:44:13"
+  },
+  {
+    "name": "torch-einops-utils",
+    "full_name": "lucidrains/torch-einops-utils",
+    "description": "Some utility functions to help myself (and perhaps others) to go faster with ML/AI work",
+    "url": "https://github.com/lucidrains/torch-einops-utils",
+    "stars": 13,
+    "daily_stars": 4,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning"
+    ],
+    "created_at": "2026-01-09T15:11:25",
+    "updated_at": "2026-01-09T20:45:47"
   },
   {
     "name": "awesome-agent-skills",
     "full_name": "heilcheng/awesome-agent-skills",
     "description": "A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)",
     "url": "https://github.com/heilcheng/awesome-agent-skills",
-    "stars": 1113,
-    "daily_stars": 3,
+    "stars": 1117,
+    "daily_stars": 4,
     "language": null,
     "topics": [
       "agent-skills",
@@ -98,115 +136,15 @@
       "vscode"
     ],
     "created_at": "2025-12-29T21:13:40",
-    "updated_at": "2026-01-09T15:29:41"
-  },
-  {
-    "name": "UCAI",
-    "full_name": "nirholas/UCAI",
-    "description": "Universal Contract AI Interface (UCAI) 🔗 ABI to MCP | The open standard for connecting AI agents to blockchain. MCP server generator for Ethereum smart contracts. Claude + Uniswap, Aave, ERC20, NFTs, DeFi. Python CLI, Web3 integration, transaction simulation. Polygon, Arbitrum, Base, EVM chains. Claude, GPT, LLM tooling, Solidity, OpenAI.",
-    "url": "https://github.com/nirholas/UCAI",
-    "stars": 9,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "abi",
-      "ai-agents",
-      "arbitrum",
-      "blockchain",
-      "claude",
-      "defi",
-      "erc20",
-      "ethereum",
-      "evm",
-      "llm",
-      "mcp",
-      "model-context-protocol",
-      "nft",
-      "polygon",
-      "python",
-      "smart-contracts",
-      "solidity",
-      "uniswap",
-      "web3"
-    ],
-    "created_at": "2026-01-04T22:31:46",
-    "updated_at": "2026-01-09T15:46:46"
-  },
-  {
-    "name": "cheatengine-mcp-bridge",
-    "full_name": "miscusi-peek/cheatengine-mcp-bridge",
-    "description": "Cheat Engine MCP Bridge - AI-powered memory analysis and game reverse engineering via Model Context Protocol",
-    "url": "https://github.com/miscusi-peek/cheatengine-mcp-bridge",
-    "stars": 172,
-    "daily_stars": 1,
-    "language": "Lua",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "cheat-engine",
-      "debugging",
-      "game-hacking",
-      "game-research",
-      "mcp",
-      "memory-analysis",
-      "model-context-protocol",
-      "reverse-engineering"
-    ],
-    "created_at": "2025-12-24T11:22:53",
-    "updated_at": "2026-01-09T14:00:10"
-  },
-  {
-    "name": "knn-cat-dog-demo",
-    "full_name": "yogender-ai/knn-cat-dog-demo",
-    "description": "KNN algorithm from scratch for cat vs dog image classification using Python. Machine learning, distance-based classification, and computer vision experiment.",
-    "url": "https://github.com/yogender-ai/knn-cat-dog-demo",
-    "stars": 4,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-project",
-      "artificial-intelligence",
-      "cat-vs-dog",
-      "classification-experiment",
-      "computer-vision",
-      "data-science",
-      "distance-metrics",
-      "image-classification",
-      "knn",
-      "machine-learning",
-      "ml-from-scratch",
-      "python",
-      "supervised-learning"
-    ],
-    "created_at": "2026-01-06T18:42:16",
-    "updated_at": "2026-01-09T15:51:39"
-  },
-  {
-    "name": "claude_life_assistant",
-    "full_name": "lout33/claude_life_assistant",
-    "description": "A personal coach that remembers, notices patterns, and holds you accountable.",
-    "url": "https://github.com/lout33/claude_life_assistant",
-    "stars": 622,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agents",
-      "assistant",
-      "claude",
-      "claude-code"
-    ],
-    "created_at": "2025-12-16T22:58:33",
-    "updated_at": "2026-01-09T15:29:39"
+    "updated_at": "2026-01-09T20:34:12"
   },
   {
     "name": "talk-to-girlfriend-ai",
     "full_name": "arlanrakh/talk-to-girlfriend-ai",
     "description": "im busy building ai agents so why not let an ai talk to my girlfriend? ",
     "url": "https://github.com/arlanrakh/talk-to-girlfriend-ai",
-    "stars": 398,
-    "daily_stars": 1,
+    "stars": 402,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "ai",
@@ -215,6 +153,50 @@
       "mcp"
     ],
     "created_at": "2025-12-28T08:51:06",
-    "updated_at": "2026-01-09T15:34:28"
+    "updated_at": "2026-01-09T20:14:58"
+  },
+  {
+    "name": "ai-long-task",
+    "full_name": "FareedKhan-dev/ai-long-task",
+    "description": null,
+    "url": "https://github.com/FareedKhan-dev/ai-long-task",
+    "stars": 10,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "long-horizon-ai",
+      "openai",
+      "rag"
+    ],
+    "created_at": "2026-01-05T15:21:07",
+    "updated_at": "2026-01-09T20:13:33"
+  },
+  {
+    "name": "VisionQuant-Pro",
+    "full_name": "panyisheng095-ux/VisionQuant-Pro",
+    "description": "🤖 基于深度学习的AI量化投资系统 | Vision-Based Quantitative Trading System with Deep Learning",
+    "url": "https://github.com/panyisheng095-ux/VisionQuant-Pro",
+    "stars": 6,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "algorithmic-trading",
+      "computer-vision",
+      "deep-learning",
+      "faiss",
+      "fintech",
+      "machine-learning",
+      "portfolio-optimization",
+      "python",
+      "quantitative-trading",
+      "stock-analysis",
+      "streamlit",
+      "tensorflow"
+    ],
+    "created_at": "2026-01-08T11:56:53",
+    "updated_at": "2026-01-09T20:19:10"
   }
 ]
