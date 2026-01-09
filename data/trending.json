@@ -4,8 +4,8 @@
     "full_name": "HKUDS/DeepTutor",
     "description": "\"DeepTutor: AI-Powered Personalized Learning Assistant\"",
     "url": "https://github.com/HKUDS/DeepTutor",
-    "stars": 7096,
-    "daily_stars": 43,
+    "stars": 7130,
+    "daily_stars": 34,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -20,53 +20,51 @@
       "rag"
     ],
     "created_at": "2025-12-28T15:35:54",
-    "updated_at": "2026-01-09T02:26:28"
+    "updated_at": "2026-01-09T04:55:33"
   },
   {
     "name": "zeroshot",
     "full_name": "covibes/zeroshot",
     "description": "Autonomous engineering teams for Claude Code. Point Zeroshot at a GitHub issue, walk away, and return to verified, production-ready PRs.",
     "url": "https://github.com/covibes/zeroshot",
-    "stars": 108,
-    "daily_stars": 24,
+    "stars": 118,
+    "daily_stars": 10,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
       "vibe-coding"
     ],
     "created_at": "2025-12-25T17:12:45",
-    "updated_at": "2026-01-09T02:18:17"
+    "updated_at": "2026-01-09T04:43:43"
   },
   {
-    "name": "sentinel",
-    "full_name": "aqstack/sentinel",
-    "description": "Self-healing edge computing agent with predictive failure detection and partition-resilient orchestration for Kubernetes",
-    "url": "https://github.com/aqstack/sentinel",
-    "stars": 371,
+    "name": "AlphaGPT",
+    "full_name": "imbue-bit/AlphaGPT",
+    "description": "使用符号回归在中国股市上进行高效因子挖掘。/ By the way，Leverage the novel features and advanced financial mathematics introduced in Uniswap V4 to effectively mitigate just-in-time (JIT) liquidity provision issues.",
+    "url": "https://github.com/imbue-bit/AlphaGPT",
+    "stars": 82,
     "daily_stars": 7,
-    "language": "Go",
+    "language": "Python",
     "topics": [
-      "aiops",
-      "distributed-systems",
-      "edge-computing",
-      "failure-prediction",
-      "golang",
-      "kubernetes",
-      "machine-learning",
-      "prometheus",
-      "raft",
-      "self-healing"
+      "deep-learning",
+      "finance",
+      "math",
+      "quant",
+      "quantitative-finance",
+      "sr",
+      "transformer",
+      "uniswap-v4"
     ],
-    "created_at": "2025-12-25T05:22:51",
-    "updated_at": "2026-01-08T21:37:03"
+    "created_at": "2026-01-08T02:05:21",
+    "updated_at": "2026-01-09T04:28:41"
   },
   {
     "name": "textual-sticky-notes-tui",
     "full_name": "dengo07/textual-sticky-notes-tui",
     "description": "A keyboard-centric sticky notes TUI built with Python and Textual ",
     "url": "https://github.com/dengo07/textual-sticky-notes-tui",
-    "stars": 60,
-    "daily_stars": 6,
+    "stars": 64,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "keyboard-centric",
@@ -85,15 +83,32 @@
       "workflow"
     ],
     "created_at": "2026-01-04T20:11:32",
-    "updated_at": "2026-01-09T01:52:35"
+    "updated_at": "2026-01-09T04:08:22"
+  },
+  {
+    "name": "talk-to-girlfriend-ai",
+    "full_name": "arlanrakh/talk-to-girlfriend-ai",
+    "description": "im busy building ai agents so why not let an ai talk to my girlfriend? ",
+    "url": "https://github.com/arlanrakh/talk-to-girlfriend-ai",
+    "stars": 391,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "indexing",
+      "mcp"
+    ],
+    "created_at": "2025-12-28T08:51:06",
+    "updated_at": "2026-01-09T04:38:00"
   },
   {
     "name": "awesome-agent-skills",
     "full_name": "heilcheng/awesome-agent-skills",
     "description": "A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)",
     "url": "https://github.com/heilcheng/awesome-agent-skills",
-    "stars": 1093,
-    "daily_stars": 4,
+    "stars": 1095,
+    "daily_stars": 2,
     "language": null,
     "topics": [
       "agent-skills",
@@ -113,15 +128,41 @@
       "vscode"
     ],
     "created_at": "2025-12-29T21:13:40",
-    "updated_at": "2026-01-09T02:21:37"
+    "updated_at": "2026-01-09T04:19:47"
+  },
+  {
+    "name": "agents-from-scratch",
+    "full_name": "pguso/agents-from-scratch",
+    "description": "Build AI agents from first principles using a local LLM - no frameworks, no cloud APIs, no hidden reasoning.",
+    "url": "https://github.com/pguso/agents-from-scratch",
+    "stars": 37,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "agent-architecture",
+      "ai-agents",
+      "ai-education",
+      "ai-from-scratch",
+      "artificial-intelligence",
+      "llama",
+      "llm",
+      "local-llm",
+      "machine-learning",
+      "no-framework",
+      "open-source-education",
+      "prompt-engineering",
+      "python"
+    ],
+    "created_at": "2025-12-22T09:09:42",
+    "updated_at": "2026-01-09T04:46:55"
   },
   {
     "name": "full-stack-fastapi-nextjs-llm-template",
     "full_name": "vstorm-co/full-stack-fastapi-nextjs-llm-template",
     "description": "Full-stack FastAPI + Next.js template generator with PydanticAI agents, WebSocket streaming, 20+ enterprise integrations, and Logfire observability. Ship AI apps fast. CLI tool to generate production-ready FastAPI + Next.js projects with AI agents, auth, and observability out of the box.",
     "url": "https://github.com/vstorm-co/full-stack-fastapi-nextjs-llm-template",
-    "stars": 449,
-    "daily_stars": 4,
+    "stars": 450,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -146,15 +187,15 @@
       "typescript"
     ],
     "created_at": "2025-12-19T12:23:15",
-    "updated_at": "2026-01-09T02:23:22"
+    "updated_at": "2026-01-09T04:40:08"
   },
   {
     "name": "kindly-web-search-mcp-server",
     "full_name": "Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server",
     "description": "Kindly Web Search MCP Server: Web search + robust content retrieval for AI coding tools (Claude Code, Codex, Cursor, GitHub Copilot, Gemini, etc.)",
     "url": "https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server",
-    "stars": 64,
-    "daily_stars": 3,
+    "stars": 65,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai",
@@ -168,76 +209,39 @@
       "web-search"
     ],
     "created_at": "2026-01-02T17:27:27",
-    "updated_at": "2026-01-09T02:12:29"
+    "updated_at": "2026-01-09T02:57:35"
   },
   {
-    "name": "talk-to-girlfriend-ai",
-    "full_name": "arlanrakh/talk-to-girlfriend-ai",
-    "description": "im busy building ai agents so why not let an ai talk to my girlfriend? ",
-    "url": "https://github.com/arlanrakh/talk-to-girlfriend-ai",
-    "stars": 388,
-    "daily_stars": 2,
+    "name": "DTS",
+    "full_name": "MVPandey/DTS",
+    "description": "  🌳 MCTS-inspired parallel beam search for conversation optimization. Explore multiple dialogue strategies simultaneously, stress-test against diverse user personas, score with multi-judge consensus, and discover winning conversation paths that single-shot LLMs miss.",
+    "url": "https://github.com/MVPandey/DTS",
+    "stars": 25,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
-      "ai",
       "ai-agents",
-      "indexing",
-      "mcp"
+      "asyncio",
+      "beam-search",
+      "conversational-ai",
+      "deep-research",
+      "dialogue-generation",
+      "fastapi",
+      "game-theory",
+      "gpt-researcher",
+      "llm",
+      "llm-evaluation",
+      "mcts",
+      "multi-agent-systems",
+      "openai",
+      "openrouter",
+      "prompt-engineering",
+      "pydantic",
+      "python",
+      "tree-search",
+      "websocket"
     ],
-    "created_at": "2025-12-28T08:51:06",
-    "updated_at": "2026-01-08T23:28:40"
-  },
-  {
-    "name": "QuantDinger",
-    "full_name": "brokermr810/QuantDinger",
-    "description": "All-in-One Local-first Quant Workspace: Market Data, AI Multi-agent Analysis, Backtesting & Strategy Execution. Support Crypto/Stocks/Forex/Futures.",
-    "url": "https://github.com/brokermr810/QuantDinger",
-    "stars": 194,
-    "daily_stars": 2,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "algorithmic-trading",
-      "algotrading",
-      "algtrading",
-      "backtesting",
-      "crypto-trading-agent",
-      "flask",
-      "local-first",
-      "market-data",
-      "quant-trading",
-      "stock-market",
-      "technical-indicators",
-      "trading-bot-",
-      "vue2"
-    ],
-    "created_at": "2025-12-28T18:39:26",
-    "updated_at": "2026-01-09T02:17:11"
-  },
-  {
-    "name": "stabilize",
-    "full_name": "rodmena-limited/stabilize",
-    "description": "Queue-Based State Machine - A lightweight  workflow execution engine with DAG-based stage orchestration.",
-    "url": "https://github.com/rodmena-limited/stabilize",
-    "stars": 88,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "agentic-workflow",
-      "ai-agents",
-      "highway",
-      "highway-workflow-engine",
-      "hwe",
-      "ocra",
-      "orchestration",
-      "orchestrator",
-      "spinnaker",
-      "workflow",
-      "workflow-automation",
-      "workflow-engine"
-    ],
-    "created_at": "2025-12-30T11:23:35",
-    "updated_at": "2026-01-09T02:26:29"
+    "created_at": "2026-01-01T00:17:53",
+    "updated_at": "2026-01-09T03:07:35"
   }
 ]
