@@ -1,11 +1,46 @@
 [
   {
+    "name": "claude-delegator",
+    "full_name": "jarrodwatts/claude-delegator",
+    "description": "Delegate tasks to Codex GPT 5.2 directly from within Claude Code.",
+    "url": "https://github.com/jarrodwatts/claude-delegator",
+    "stars": 108,
+    "daily_stars": 56,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "codex",
+      "gpt",
+      "mcp",
+      "plugin"
+    ],
+    "created_at": "2026-01-08T00:14:22",
+    "updated_at": "2026-01-10T20:42:51"
+  },
+  {
+    "name": "zeroshot",
+    "full_name": "covibes/zeroshot",
+    "description": "Autonomous engineering teams for Claude Code. Point Zeroshot at a GitHub issue, walk away, and return to verified, production-ready PRs.",
+    "url": "https://github.com/covibes/zeroshot",
+    "stars": 294,
+    "daily_stars": 44,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "vibe-coding"
+    ],
+    "created_at": "2025-12-25T17:12:45",
+    "updated_at": "2026-01-10T20:39:54"
+  },
+  {
     "name": "oh-my-claude-sisyphus",
     "full_name": "Yeachan-Heo/oh-my-claude-sisyphus",
     "description": "Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?",
     "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
-    "stars": 407,
-    "daily_stars": 35,
+    "stars": 422,
+    "daily_stars": 15,
     "language": "TypeScript",
     "topics": [
       "agentic-coding",
@@ -17,15 +52,15 @@
       "vibe-coding"
     ],
     "created_at": "2026-01-09T03:36:29",
-    "updated_at": "2026-01-10T16:47:36"
+    "updated_at": "2026-01-10T20:26:48"
   },
   {
     "name": "DeepTutor",
     "full_name": "HKUDS/DeepTutor",
     "description": "\"DeepTutor: AI-Powered Personalized Learning Assistant\"",
     "url": "https://github.com/HKUDS/DeepTutor",
-    "stars": 7553,
-    "daily_stars": 34,
+    "stars": 7566,
+    "daily_stars": 13,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -40,106 +75,15 @@
       "rag"
     ],
     "created_at": "2025-12-28T15:35:54",
-    "updated_at": "2026-01-10T16:27:27"
-  },
-  {
-    "name": "zeroshot",
-    "full_name": "covibes/zeroshot",
-    "description": "Autonomous engineering teams for Claude Code. Point Zeroshot at a GitHub issue, walk away, and return to verified, production-ready PRs.",
-    "url": "https://github.com/covibes/zeroshot",
-    "stars": 250,
-    "daily_stars": 34,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "vibe-coding"
-    ],
-    "created_at": "2025-12-25T17:12:45",
-    "updated_at": "2026-01-10T16:47:27"
-  },
-  {
-    "name": "full-stack-fastapi-nextjs-llm-template",
-    "full_name": "vstorm-co/full-stack-fastapi-nextjs-llm-template",
-    "description": "Full-stack FastAPI + Next.js template generator with PydanticAI agents, WebSocket streaming, 20+ enterprise integrations, and Logfire observability. Ship AI apps fast. CLI tool to generate production-ready FastAPI + Next.js projects with AI agents, auth, and observability out of the box.",
-    "url": "https://github.com/vstorm-co/full-stack-fastapi-nextjs-llm-template",
-    "stars": 462,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "celery",
-      "cookiecutter",
-      "docker",
-      "fastapi",
-      "full-stack",
-      "kubernates",
-      "langchain",
-      "langgraph",
-      "llm",
-      "logfire",
-      "mongodb",
-      "nextjs",
-      "postgresql",
-      "pydantic-ai",
-      "python",
-      "react",
-      "redis",
-      "template",
-      "typescript"
-    ],
-    "created_at": "2025-12-19T12:23:15",
-    "updated_at": "2026-01-10T15:28:08"
-  },
-  {
-    "name": "Few-Word",
-    "full_name": "sheeki03/Few-Word",
-    "description": "Claude Code plugin that offloads large outputs to filesystem and retrieves when required.",
-    "url": "https://github.com/sheeki03/Few-Word",
-    "stars": 21,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "claude-code-hooks",
-      "claude-code-plugin",
-      "claude-code-plugins",
-      "claude-code-skill",
-      "claude-code-skills",
-      "context-engineering",
-      "token-optimization"
-    ],
-    "created_at": "2026-01-07T20:10:01",
-    "updated_at": "2026-01-10T14:39:07"
-  },
-  {
-    "name": "KnowNote",
-    "full_name": "MrSibe/KnowNote",
-    "description": "一个类似于Notebook LM，以用户自有知识为中心的 AI 工作空间，帮助你思考、研究与写作。更方便，更轻量，更懂你！",
-    "url": "https://github.com/MrSibe/KnowNote",
-    "stars": 739,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "deep-learning",
-      "deepseek",
-      "dll",
-      "electron",
-      "notebook",
-      "notebooklm",
-      "openai"
-    ],
-    "created_at": "2025-12-15T11:56:42",
-    "updated_at": "2026-01-10T14:35:46"
+    "updated_at": "2026-01-10T20:43:07"
   },
   {
     "name": "talk-to-girlfriend-ai",
     "full_name": "arlanrakh/talk-to-girlfriend-ai",
     "description": "im busy building ai agents so why not let an ai talk to my girlfriend? ",
     "url": "https://github.com/arlanrakh/talk-to-girlfriend-ai",
-    "stars": 405,
-    "daily_stars": 2,
+    "stars": 409,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "ai",
@@ -148,76 +92,119 @@
       "mcp"
     ],
     "created_at": "2025-12-28T08:51:06",
-    "updated_at": "2026-01-10T16:16:35"
+    "updated_at": "2026-01-10T20:34:41"
   },
   {
-    "name": "QuantDinger",
-    "full_name": "brokermr810/QuantDinger",
-    "description": "All-in-One Local-first Quant Workspace: Market Data, AI Multi-agent Analysis, Backtesting & Strategy Execution. Support Crypto/Stocks/Forex/Futures.",
-    "url": "https://github.com/brokermr810/QuantDinger",
-    "stars": 202,
-    "daily_stars": 2,
-    "language": "JavaScript",
+    "name": "ai-long-task",
+    "full_name": "FareedKhan-dev/ai-long-task",
+    "description": null,
+    "url": "https://github.com/FareedKhan-dev/ai-long-task",
+    "stars": 19,
+    "daily_stars": 4,
+    "language": "Python",
     "topics": [
-      "ai-agents",
-      "algorithmic-trading",
-      "algotrading",
-      "algtrading",
-      "backtesting",
-      "crypto-trading-agent",
-      "flask",
-      "local-first",
-      "market-data",
-      "quant-trading",
-      "stock-market",
-      "technical-indicators",
-      "trading-bot-",
-      "vue2"
-    ],
-    "created_at": "2025-12-28T18:39:26",
-    "updated_at": "2026-01-10T13:43:07"
-  },
-  {
-    "name": "opencode-vibe",
-    "full_name": "joelhooks/opencode-vibe",
-    "description": "🏄‍♂️ Next.js 16 web UI for OpenCode - real-time chat with streaming, SSE sync, and React Server Components",
-    "url": "https://github.com/joelhooks/opencode-vibe",
-    "stars": 157,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "agentic-ai",
       "ai",
       "ai-agents",
-      "biomejs",
-      "bun",
-      "nextjs",
-      "opencode",
-      "oxlint",
-      "typescript"
+      "long-horizon-ai",
+      "openai",
+      "rag"
     ],
-    "created_at": "2025-12-27T02:49:49",
-    "updated_at": "2026-01-10T15:14:00"
+    "created_at": "2026-01-05T15:21:07",
+    "updated_at": "2026-01-10T19:43:32"
   },
   {
-    "name": "Local-Cocoa",
-    "full_name": "synvo-ai/Local-Cocoa",
-    "description": "Your Private, Local AI Workspace. Turns your files into actionable memory.",
-    "url": "https://github.com/synvo-ai/Local-Cocoa",
-    "stars": 41,
-    "daily_stars": 2,
+    "name": "awesome-mistral",
+    "full_name": "samouraiworld/awesome-mistral",
+    "description": "A curated list of awesome resources, tools, libraries, and projects for the Mistral AI ecosystem.",
+    "url": "https://github.com/samouraiworld/awesome-mistral",
+    "stars": 11,
+    "daily_stars": 4,
+    "language": null,
+    "topics": [
+      "ai",
+      "ai-agents",
+      "awesome",
+      "awesome-list",
+      "ecosystem",
+      "llm",
+      "machine-learning",
+      "mistral",
+      "mistral-ai",
+      "opensource",
+      "opensource-ai"
+    ],
+    "created_at": "2026-01-10T11:02:48",
+    "updated_at": "2026-01-10T20:29:56"
+  },
+  {
+    "name": "docx-corpus",
+    "full_name": "superdoc-dev/docx-corpus",
+    "description": "The largest open corpus of .docx files for document processing research",
+    "url": "https://github.com/superdoc-dev/docx-corpus",
+    "stars": 21,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
-      "ai-agents",
-      "ai-memory",
-      "ai-tools",
-      "contextual-ai",
-      "large-language-models",
-      "llm",
-      "multimodal-large-language-models",
-      "vlm"
+      "bun",
+      "common-crawl",
+      "corpus",
+      "dataset",
+      "document-processing",
+      "docx",
+      "machine-learning",
+      "nlp",
+      "typescript",
+      "word-documents"
     ],
-    "created_at": "2026-01-03T07:28:31",
-    "updated_at": "2026-01-10T15:05:56"
+    "created_at": "2026-01-09T11:10:21",
+    "updated_at": "2026-01-10T20:27:26"
+  },
+  {
+    "name": "awesome-agent-skills",
+    "full_name": "libukai/awesome-agent-skills",
+    "description": "The Definitive Agent Skills Hub: Quickstart,  News & Best Practices | Agent Skills 权威指南：快速入门、最新资讯与实战案例",
+    "url": "https://github.com/libukai/awesome-agent-skills",
+    "stars": 26,
+    "daily_stars": 3,
+    "language": null,
+    "topics": [
+      "agent",
+      "agentskills",
+      "ai-agents",
+      "anthropic",
+      "anthropic-skills",
+      "awesome-list",
+      "mcp-protocol"
+    ],
+    "created_at": "2025-12-21T12:45:15",
+    "updated_at": "2026-01-10T20:20:44"
+  },
+  {
+    "name": "awesome-agent-skills",
+    "full_name": "heilcheng/awesome-agent-skills",
+    "description": "A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)",
+    "url": "https://github.com/heilcheng/awesome-agent-skills",
+    "stars": 1139,
+    "daily_stars": 2,
+    "language": null,
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-development",
+      "anthropic",
+      "automation",
+      "awesome-list",
+      "claude",
+      "codex",
+      "github-copilot",
+      "llm",
+      "mcp",
+      "openai",
+      "productivity",
+      "skill-md",
+      "vscode"
+    ],
+    "created_at": "2025-12-29T21:13:40",
+    "updated_at": "2026-01-10T16:59:57"
   }
 ]
