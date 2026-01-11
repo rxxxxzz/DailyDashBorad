@@ -4,8 +4,8 @@
     "full_name": "HKUDS/DeepTutor",
     "description": "\"DeepTutor: AI-Powered Personalized Learning Assistant\"",
     "url": "https://github.com/HKUDS/DeepTutor",
-    "stars": 7702,
-    "daily_stars": 80,
+    "stars": 7811,
+    "daily_stars": 109,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -20,15 +20,15 @@
       "rag"
     ],
     "created_at": "2025-12-28T15:35:54",
-    "updated_at": "2026-01-11T08:46:49"
+    "updated_at": "2026-01-11T13:05:45"
   },
   {
     "name": "oh-my-claude-sisyphus",
     "full_name": "Yeachan-Heo/oh-my-claude-sisyphus",
     "description": "Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?",
     "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
-    "stars": 561,
-    "daily_stars": 65,
+    "stars": 627,
+    "daily_stars": 66,
     "language": "TypeScript",
     "topics": [
       "agentic-coding",
@@ -40,30 +40,15 @@
       "vibe-coding"
     ],
     "created_at": "2026-01-09T03:36:29",
-    "updated_at": "2026-01-11T08:48:07"
-  },
-  {
-    "name": "zeroshot",
-    "full_name": "covibes/zeroshot",
-    "description": "Autonomous engineering teams for Claude Code. Point Zeroshot at a GitHub issue, walk away, and return to verified, production-ready PRs.",
-    "url": "https://github.com/covibes/zeroshot",
-    "stars": 384,
-    "daily_stars": 33,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "vibe-coding"
-    ],
-    "created_at": "2025-12-25T17:12:45",
-    "updated_at": "2026-01-11T08:46:59"
+    "updated_at": "2026-01-11T13:03:23"
   },
   {
     "name": "gmickel-claude-marketplace",
     "full_name": "gmickel/gmickel-claude-marketplace",
     "description": "Claude Code plugin marketplace for focused workflows (planning, execution, and more).",
     "url": "https://github.com/gmickel/gmickel-claude-marketplace",
-    "stars": 75,
-    "daily_stars": 33,
+    "stars": 116,
+    "daily_stars": 41,
     "language": "Shell",
     "topics": [
       "claude-code",
@@ -74,15 +59,30 @@
       "workflow"
     ],
     "created_at": "2025-12-26T22:27:07",
-    "updated_at": "2026-01-11T08:40:07"
+    "updated_at": "2026-01-11T13:02:03"
+  },
+  {
+    "name": "zeroshot",
+    "full_name": "covibes/zeroshot",
+    "description": "Autonomous engineering teams for Claude Code. Point Zeroshot at a GitHub issue, walk away, and return to verified, production-ready PRs.",
+    "url": "https://github.com/covibes/zeroshot",
+    "stars": 411,
+    "daily_stars": 27,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "vibe-coding"
+    ],
+    "created_at": "2025-12-25T17:12:45",
+    "updated_at": "2026-01-11T13:03:13"
   },
   {
     "name": "claude-delegator",
     "full_name": "jarrodwatts/claude-delegator",
     "description": "Delegate tasks to Codex GPT 5.2 directly from within Claude Code.",
     "url": "https://github.com/jarrodwatts/claude-delegator",
-    "stars": 204,
-    "daily_stars": 31,
+    "stars": 224,
+    "daily_stars": 20,
     "language": null,
     "topics": [
       "ai-agents",
@@ -94,75 +94,100 @@
       "plugin"
     ],
     "created_at": "2026-01-08T00:14:22",
-    "updated_at": "2026-01-11T08:41:05"
+    "updated_at": "2026-01-11T12:52:16"
   },
   {
-    "name": "full-stack-fastapi-nextjs-llm-template",
-    "full_name": "vstorm-co/full-stack-fastapi-nextjs-llm-template",
-    "description": "Full-stack FastAPI + Next.js template generator with PydanticAI agents, WebSocket streaming, 20+ enterprise integrations, and Logfire observability. Ship AI apps fast. CLI tool to generate production-ready FastAPI + Next.js projects with AI agents, auth, and observability out of the box.",
-    "url": "https://github.com/vstorm-co/full-stack-fastapi-nextjs-llm-template",
-    "stars": 467,
-    "daily_stars": 4,
+    "name": "torch-einops-utils",
+    "full_name": "lucidrains/torch-einops-utils",
+    "description": "Some utility functions to help myself (and perhaps others) to go faster with ML/AI work",
+    "url": "https://github.com/lucidrains/torch-einops-utils",
+    "stars": 29,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning"
+    ],
+    "created_at": "2026-01-09T15:11:25",
+    "updated_at": "2026-01-11T10:54:46"
+  },
+  {
+    "name": "awesome-agent-skills",
+    "full_name": "heilcheng/awesome-agent-skills",
+    "description": "A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)",
+    "url": "https://github.com/heilcheng/awesome-agent-skills",
+    "stars": 1150,
+    "daily_stars": 3,
+    "language": null,
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-development",
+      "anthropic",
+      "automation",
+      "awesome-list",
+      "claude",
+      "codex",
+      "github-copilot",
+      "llm",
+      "mcp",
+      "openai",
+      "productivity",
+      "skill-md",
+      "vscode"
+    ],
+    "created_at": "2025-12-29T21:13:40",
+    "updated_at": "2026-01-11T12:12:23"
+  },
+  {
+    "name": "docx-corpus",
+    "full_name": "superdoc-dev/docx-corpus",
+    "description": "The largest open corpus of .docx files for document processing research",
+    "url": "https://github.com/superdoc-dev/docx-corpus",
+    "stars": 26,
+    "daily_stars": 3,
+    "language": "TypeScript",
+    "topics": [
+      "bun",
+      "common-crawl",
+      "corpus",
+      "dataset",
+      "document-processing",
+      "docx",
+      "machine-learning",
+      "nlp",
+      "typescript",
+      "word-documents"
+    ],
+    "created_at": "2026-01-09T11:10:21",
+    "updated_at": "2026-01-11T12:23:48"
+  },
+  {
+    "name": "scalable-rag-pipeline",
+    "full_name": "FareedKhan-dev/scalable-rag-pipeline",
+    "description": "A scalable RAG platform combining LangGraph agents, hybrid retrieval (Vector+Graph), and Ray orchestration on Kubernetes.",
+    "url": "https://github.com/FareedKhan-dev/scalable-rag-pipeline",
+    "stars": 66,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "ai-agents",
-      "celery",
-      "cookiecutter",
-      "docker",
-      "fastapi",
-      "full-stack",
-      "kubernates",
+      "aws",
       "langchain",
-      "langgraph",
-      "llm",
-      "logfire",
-      "mongodb",
-      "nextjs",
-      "postgresql",
-      "pydantic-ai",
+      "multi-agent-systems",
       "python",
-      "react",
-      "redis",
-      "template",
-      "typescript"
+      "rag-pipeline"
     ],
-    "created_at": "2025-12-19T12:23:15",
-    "updated_at": "2026-01-11T08:48:13"
-  },
-  {
-    "name": "QuantDinger",
-    "full_name": "brokermr810/QuantDinger",
-    "description": "All-in-One Local-first Quant Workspace: Market Data, AI Multi-agent Analysis, Backtesting & Strategy Execution. Support Crypto/Stocks/Forex/Futures.",
-    "url": "https://github.com/brokermr810/QuantDinger",
-    "stars": 213,
-    "daily_stars": 4,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "algorithmic-trading",
-      "algotrading",
-      "algtrading",
-      "backtesting",
-      "crypto-trading-agent",
-      "flask",
-      "local-first",
-      "market-data",
-      "quant-trading",
-      "stock-market",
-      "technical-indicators",
-      "trading-bot-",
-      "vue2"
-    ],
-    "created_at": "2025-12-28T18:39:26",
-    "updated_at": "2026-01-11T08:23:57"
+    "created_at": "2025-12-27T10:54:35",
+    "updated_at": "2026-01-11T10:12:14"
   },
   {
     "name": "VisionQuant-Pro",
     "full_name": "panyisheng095-ux/VisionQuant-Pro",
     "description": "🤖 基于深度学习的AI量化投资系统 | Vision-Based Quantitative Trading System with Deep Learning",
     "url": "https://github.com/panyisheng095-ux/VisionQuant-Pro",
-    "stars": 33,
-    "daily_stars": 3,
+    "stars": 35,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "ai",
@@ -180,70 +205,6 @@
       "tensorflow"
     ],
     "created_at": "2026-01-08T11:56:53",
-    "updated_at": "2026-01-11T08:13:34"
-  },
-  {
-    "name": "reticle",
-    "full_name": "LabTerminal/reticle",
-    "description": "Reticle intercepts, visualizes, and profiles JSON-RPC traffic between your LLM and MCP servers in real-time, with zero latency overhead. Stop debugging blind. Start seeing everything.",
-    "url": "https://github.com/LabTerminal/reticle",
-    "stars": 24,
-    "daily_stars": 2,
-    "language": "Rust",
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agents",
-      "analytics",
-      "anthropic-claude",
-      "awesome",
-      "debugging",
-      "debugging-tool",
-      "devops",
-      "mcp",
-      "mcp-client",
-      "mcp-security",
-      "mcp-server",
-      "mcp-tools",
-      "model-context-protocol",
-      "security",
-      "security-tools",
-      "tools"
-    ],
-    "created_at": "2025-12-22T19:44:27",
-    "updated_at": "2026-01-11T06:38:06"
-  },
-  {
-    "name": "EVA",
-    "full_name": "ARCANGEL0/EVA",
-    "description": "EVA is an AI-assisted penetration testing agent that enhances offensive security workflows by providing structured attack guidance, contextual analysis, and multi-backend AI integration.",
-    "url": "https://github.com/ARCANGEL0/EVA",
-    "stars": 266,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-agent",
-      "artificial-intelligence",
-      "automation",
-      "cli",
-      "ctf",
-      "cybersecurity",
-      "ethical-hacking",
-      "linux",
-      "llm",
-      "llm-agent",
-      "offensive-security",
-      "ollama",
-      "pentest",
-      "pentesting",
-      "post-exploitation",
-      "privilege-escalation",
-      "python",
-      "python3",
-      "vulnerability-assessment",
-      "workflow-engine"
-    ],
-    "created_at": "2025-12-15T01:34:30",
-    "updated_at": "2026-01-11T07:45:03"
+    "updated_at": "2026-01-11T09:49:40"
   }
 ]
