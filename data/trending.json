@@ -1,50 +1,11 @@
 [
   {
-    "name": "oh-my-claude-sisyphus",
-    "full_name": "Yeachan-Heo/oh-my-claude-sisyphus",
-    "description": "Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?",
-    "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
-    "stars": 693,
-    "daily_stars": 36,
-    "language": "TypeScript",
-    "topics": [
-      "agentic-coding",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "oh-my-opencode",
-      "opencode",
-      "vibe-coding"
-    ],
-    "created_at": "2026-01-09T03:36:29",
-    "updated_at": "2026-01-11T20:29:57"
-  },
-  {
-    "name": "gmickel-claude-marketplace",
-    "full_name": "gmickel/gmickel-claude-marketplace",
-    "description": "Claude Code plugin marketplace for focused workflows (planning, execution, and more).",
-    "url": "https://github.com/gmickel/gmickel-claude-marketplace",
-    "stars": 203,
-    "daily_stars": 36,
-    "language": "Shell",
-    "topics": [
-      "claude-code",
-      "execution",
-      "marketplace",
-      "planning",
-      "plugin",
-      "workflow"
-    ],
-    "created_at": "2025-12-26T22:27:07",
-    "updated_at": "2026-01-11T20:42:50"
-  },
-  {
     "name": "DeepTutor",
     "full_name": "HKUDS/DeepTutor",
     "description": "\"DeepTutor: AI-Powered Personalized Learning Assistant\"",
     "url": "https://github.com/HKUDS/DeepTutor",
-    "stars": 7904,
-    "daily_stars": 31,
+    "stars": 7973,
+    "daily_stars": 69,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -59,30 +20,34 @@
       "rag"
     ],
     "created_at": "2025-12-28T15:35:54",
-    "updated_at": "2026-01-11T20:36:30"
+    "updated_at": "2026-01-12T02:31:51"
   },
   {
-    "name": "zeroshot",
-    "full_name": "covibes/zeroshot",
-    "description": "Autonomous engineering teams for Claude Code. Point Zeroshot at a GitHub issue, walk away, and return to verified, production-ready PRs.",
-    "url": "https://github.com/covibes/zeroshot",
-    "stars": 487,
-    "daily_stars": 30,
-    "language": "JavaScript",
+    "name": "gmickel-claude-marketplace",
+    "full_name": "gmickel/gmickel-claude-marketplace",
+    "description": "Claude Code plugin marketplace for focused workflows (planning, execution, and more).",
+    "url": "https://github.com/gmickel/gmickel-claude-marketplace",
+    "stars": 246,
+    "daily_stars": 43,
+    "language": "Shell",
     "topics": [
-      "ai-agents",
-      "vibe-coding"
+      "claude-code",
+      "execution",
+      "marketplace",
+      "planning",
+      "plugin",
+      "workflow"
     ],
-    "created_at": "2025-12-25T17:12:45",
-    "updated_at": "2026-01-11T20:36:30"
+    "created_at": "2025-12-26T22:27:07",
+    "updated_at": "2026-01-12T02:32:27"
   },
   {
     "name": "claude-delegator",
     "full_name": "jarrodwatts/claude-delegator",
     "description": "Delegate tasks to Codex GPT 5.2 directly from within Claude Code.",
     "url": "https://github.com/jarrodwatts/claude-delegator",
-    "stars": 268,
-    "daily_stars": 12,
+    "stars": 305,
+    "daily_stars": 37,
     "language": null,
     "topics": [
       "ai-agents",
@@ -94,78 +59,99 @@
       "plugin"
     ],
     "created_at": "2026-01-08T00:14:22",
-    "updated_at": "2026-01-11T20:32:57"
+    "updated_at": "2026-01-12T02:31:00"
   },
   {
-    "name": "ai-long-task",
-    "full_name": "FareedKhan-dev/ai-long-task",
-    "description": null,
-    "url": "https://github.com/FareedKhan-dev/ai-long-task",
-    "stars": 28,
-    "daily_stars": 4,
-    "language": "Python",
+    "name": "oh-my-claude-sisyphus",
+    "full_name": "Yeachan-Heo/oh-my-claude-sisyphus",
+    "description": "Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?",
+    "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
+    "stars": 724,
+    "daily_stars": 31,
+    "language": "TypeScript",
+    "topics": [
+      "agentic-coding",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "oh-my-opencode",
+      "opencode",
+      "vibe-coding"
+    ],
+    "created_at": "2026-01-09T03:36:29",
+    "updated_at": "2026-01-12T02:37:12"
+  },
+  {
+    "name": "zeroshot",
+    "full_name": "covibes/zeroshot",
+    "description": "Autonomous engineering teams for Claude Code. Point Zeroshot at a GitHub issue, walk away, and return to verified, production-ready PRs.",
+    "url": "https://github.com/covibes/zeroshot",
+    "stars": 516,
+    "daily_stars": 29,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "vibe-coding"
+    ],
+    "created_at": "2025-12-25T17:12:45",
+    "updated_at": "2026-01-12T02:31:08"
+  },
+  {
+    "name": "claude-code-supervisor",
+    "full_name": "guyskk/claude-code-supervisor",
+    "description": "Auto-review and iterate until quality work is delivered - a better alternative to ralph-claude-code. Switch between multiple Claude Code providers (Kimi, GLM, MiniMax, etc.) with a single command.",
+    "url": "https://github.com/guyskk/claude-code-supervisor",
+    "stars": 13,
+    "daily_stars": 5,
+    "language": "Go",
     "topics": [
       "ai",
       "ai-agents",
-      "long-horizon-ai",
-      "openai",
-      "rag"
+      "ai-development-tools",
+      "ai-tools",
+      "claude-code",
+      "claude-code-cli",
+      "claude-code-plugin",
+      "codex",
+      "developer-tools",
+      "glm",
+      "kimi-k2",
+      "minimax",
+      "opencode",
+      "provider-management",
+      "zhipuai"
     ],
-    "created_at": "2026-01-05T15:21:07",
-    "updated_at": "2026-01-11T19:36:02"
+    "created_at": "2025-12-27T14:38:47",
+    "updated_at": "2026-01-12T02:07:26"
   },
   {
-    "name": "SLIIT-AI-Engineer-Stage-I",
-    "full_name": "dyneth02/SLIIT-AI-Engineer-Stage-I",
-    "description": "AI/ML Engineer – Stage 1 provides the fundamental building blocks to create a professional Artificial Intelligence Engineer. This journey begins with the understanding of the theoretical underpinnings of AI/ML, which will provide the learner with an understanding of how each area of expertise is used in the industry. ",
-    "url": "https://github.com/dyneth02/SLIIT-AI-Engineer-Stage-I",
-    "stars": 4,
-    "daily_stars": 3,
-    "language": "Jupyter Notebook",
+    "name": "AlphaGPT",
+    "full_name": "imbue-bit/AlphaGPT",
+    "description": "使用符号回归在中国股市上进行高效因子挖掘。/ By the way，Leverage the novel features and advanced financial mathematics introduced in Uniswap V4 to effectively mitigate just-in-time (JIT) liquidity provision issues.",
+    "url": "https://github.com/imbue-bit/AlphaGPT",
+    "stars": 98,
+    "daily_stars": 5,
+    "language": "Python",
     "topics": [
-      "ai",
-      "artificial-intelligence",
-      "code",
-      "machine-learning",
-      "ml-engineering",
-      "natural-language-processing",
-      "nlp-machine-learning",
-      "sliit"
+      "deep-learning",
+      "finance",
+      "math",
+      "quant",
+      "quantitative-finance",
+      "sr",
+      "transformer",
+      "uniswap-v4"
     ],
-    "created_at": "2026-01-07T19:00:30",
-    "updated_at": "2026-01-11T17:31:46"
-  },
-  {
-    "name": "SLIIT-AI-Engineer-Stage-II",
-    "full_name": "dyneth02/SLIIT-AI-Engineer-Stage-II",
-    "description": "AI/ML Engineer – Stage 2 provides in-depth knowledge about supervised learning algorithms, also known as supervised machine learning, which is a subcategory of machine learning and artificial intelligence. It is defined by its use of labelled datasets to train algorithms to classify data or predict outcomes accurately.",
-    "url": "https://github.com/dyneth02/SLIIT-AI-Engineer-Stage-II",
-    "stars": 4,
-    "daily_stars": 3,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "artificial-intelligence",
-      "convolutional-neural-networks",
-      "decision-trees",
-      "linear-regression",
-      "logistic-regression",
-      "naive-bayes-classifier",
-      "neural-network",
-      "non-linear-regression",
-      "random-forest",
-      "recurrent-neural-networks",
-      "support-vector-machines"
-    ],
-    "created_at": "2026-01-07T19:00:55",
-    "updated_at": "2026-01-11T17:31:36"
+    "created_at": "2026-01-08T02:05:21",
+    "updated_at": "2026-01-12T01:41:52"
   },
   {
     "name": "awesome-agent-skills",
     "full_name": "heilcheng/awesome-agent-skills",
     "description": "A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)",
     "url": "https://github.com/heilcheng/awesome-agent-skills",
-    "stars": 1156,
-    "daily_stars": 3,
+    "stars": 1160,
+    "daily_stars": 4,
     "language": null,
     "topics": [
       "agent-skills",
@@ -185,21 +171,54 @@
       "vscode"
     ],
     "created_at": "2025-12-29T21:13:40",
-    "updated_at": "2026-01-11T18:02:46"
+    "updated_at": "2026-01-12T01:57:53"
   },
   {
-    "name": "torch-einops-utils",
-    "full_name": "lucidrains/torch-einops-utils",
-    "description": "Some utility functions to help myself (and perhaps others) to go faster with ML/AI work",
-    "url": "https://github.com/lucidrains/torch-einops-utils",
-    "stars": 31,
-    "daily_stars": 2,
-    "language": "Python",
+    "name": "QuantDinger",
+    "full_name": "brokermr810/QuantDinger",
+    "description": "All-in-One Local-first Quant Workspace: Market Data, AI Multi-agent Analysis, Backtesting & Strategy Execution. Support Crypto/Stocks/Forex/Futures.",
+    "url": "https://github.com/brokermr810/QuantDinger",
+    "stars": 221,
+    "daily_stars": 3,
+    "language": "JavaScript",
     "topics": [
-      "artificial-intelligence",
-      "deep-learning"
+      "ai-agents",
+      "algorithmic-trading",
+      "algotrading",
+      "algtrading",
+      "backtesting",
+      "crypto-trading-agent",
+      "flask",
+      "local-first",
+      "market-data",
+      "quant-trading",
+      "stock-market",
+      "technical-indicators",
+      "trading-bot-",
+      "vue2"
     ],
-    "created_at": "2026-01-09T15:11:25",
-    "updated_at": "2026-01-11T19:05:04"
+    "created_at": "2025-12-28T18:39:26",
+    "updated_at": "2026-01-12T01:46:16"
+  },
+  {
+    "name": "SAM",
+    "full_name": "SyntheticAutonomicMind/SAM",
+    "description": "Synthetic Autonomic Mind",
+    "url": "https://github.com/SyntheticAutonomicMind/SAM",
+    "stars": 40,
+    "daily_stars": 2,
+    "language": "Swift",
+    "topics": [
+      "ai-assistant",
+      "ai-tools",
+      "artificial-intelligence",
+      "copilot-enabled",
+      "llm",
+      "local-llm",
+      "openai",
+      "stable-diffusion"
+    ],
+    "created_at": "2025-12-20T15:01:37",
+    "updated_at": "2026-01-12T01:22:46"
   }
 ]
