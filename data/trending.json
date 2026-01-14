@@ -1,11 +1,31 @@
 [
   {
+    "name": "claude-delegator",
+    "full_name": "jarrodwatts/claude-delegator",
+    "description": "Delegate tasks to Codex GPT 5.2 directly from within Claude Code.",
+    "url": "https://github.com/jarrodwatts/claude-delegator",
+    "stars": 581,
+    "daily_stars": 13,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "codex",
+      "gpt",
+      "mcp",
+      "plugin"
+    ],
+    "created_at": "2026-01-08T00:14:22",
+    "updated_at": "2026-01-14T20:43:02"
+  },
+  {
     "name": "awesome-agent-skills",
     "full_name": "libukai/awesome-agent-skills",
     "description": "The Definitive Agent Skills Hub: Quickstart,  News & Best Practices | Agent Skills 权威指南：快速入门、最新资讯与实战案例",
     "url": "https://github.com/libukai/awesome-agent-skills",
-    "stars": 77,
-    "daily_stars": 34,
+    "stars": 89,
+    "daily_stars": 12,
     "language": null,
     "topics": [
       "agent",
@@ -17,37 +37,14 @@
       "mcp-protocol"
     ],
     "created_at": "2025-12-21T12:45:15",
-    "updated_at": "2026-01-14T16:49:31"
-  },
-  {
-    "name": "DeepTutor",
-    "full_name": "HKUDS/DeepTutor",
-    "description": "\"DeepTutor: AI-Powered Personalized Learning Assistant\"",
-    "url": "https://github.com/HKUDS/DeepTutor",
-    "stars": 8468,
-    "daily_stars": 20,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-assistant",
-      "ai-tutor",
-      "deepresearch",
-      "idea-generation",
-      "interactive-learning",
-      "knowledge-graph",
-      "large-language-models",
-      "multi-agent-systems",
-      "rag"
-    ],
-    "created_at": "2025-12-28T15:35:54",
-    "updated_at": "2026-01-14T16:38:59"
+    "updated_at": "2026-01-14T20:34:16"
   },
   {
     "name": "oh-my-claude-sisyphus",
     "full_name": "Yeachan-Heo/oh-my-claude-sisyphus",
     "description": "Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?",
     "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
-    "stars": 1109,
+    "stars": 1120,
     "daily_stars": 11,
     "language": "TypeScript",
     "topics": [
@@ -60,35 +57,15 @@
       "vibe-coding"
     ],
     "created_at": "2026-01-09T03:36:29",
-    "updated_at": "2026-01-14T16:55:01"
-  },
-  {
-    "name": "claude-delegator",
-    "full_name": "jarrodwatts/claude-delegator",
-    "description": "Delegate tasks to Codex GPT 5.2 directly from within Claude Code.",
-    "url": "https://github.com/jarrodwatts/claude-delegator",
-    "stars": 568,
-    "daily_stars": 7,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "codex",
-      "gpt",
-      "mcp",
-      "plugin"
-    ],
-    "created_at": "2026-01-08T00:14:22",
-    "updated_at": "2026-01-14T16:53:09"
+    "updated_at": "2026-01-14T20:43:27"
   },
   {
     "name": "agents-from-scratch",
     "full_name": "pguso/agents-from-scratch",
     "description": "Build AI agents from first principles using a local LLM - no frameworks, no cloud APIs, no hidden reasoning.",
     "url": "https://github.com/pguso/agents-from-scratch",
-    "stars": 249,
-    "daily_stars": 6,
+    "stars": 257,
+    "daily_stars": 8,
     "language": "Python",
     "topics": [
       "agent-architecture",
@@ -106,74 +83,30 @@
       "python"
     ],
     "created_at": "2025-12-22T09:09:42",
-    "updated_at": "2026-01-14T16:45:38"
+    "updated_at": "2026-01-14T20:31:57"
   },
   {
     "name": "zeroshot",
     "full_name": "covibes/zeroshot",
     "description": "Autonomous engineering teams for Claude Code. Point Zeroshot at a GitHub issue, walk away, and return to verified, production-ready PRs.",
     "url": "https://github.com/covibes/zeroshot",
-    "stars": 723,
-    "daily_stars": 6,
+    "stars": 731,
+    "daily_stars": 8,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
       "vibe-coding"
     ],
     "created_at": "2025-12-25T17:12:45",
-    "updated_at": "2026-01-14T16:37:29"
-  },
-  {
-    "name": "surogate",
-    "full_name": "invergent-ai/surogate",
-    "description": "Insanely fast LLM pre-training and fine-tuning for modern NVIDIA GPUs.",
-    "url": "https://github.com/invergent-ai/surogate",
-    "stars": 41,
-    "daily_stars": 6,
-    "language": "C++",
-    "topics": [
-      "cuda",
-      "deep-learning",
-      "fine-tuning",
-      "generative-ai",
-      "llama",
-      "llm",
-      "llms",
-      "nvidia-gpu",
-      "qwen",
-      "sft"
-    ],
-    "created_at": "2026-01-02T06:32:04",
-    "updated_at": "2026-01-14T16:12:41"
-  },
-  {
-    "name": "AlphaGPT",
-    "full_name": "imbue-bit/AlphaGPT",
-    "description": "使用符号回归在中国股市上进行高效因子挖掘。/ By the way，Leverage the novel features and advanced financial mathematics introduced in Uniswap V4 to effectively mitigate just-in-time (JIT) liquidity provision issues.",
-    "url": "https://github.com/imbue-bit/AlphaGPT",
-    "stars": 464,
-    "daily_stars": 5,
-    "language": "Python",
-    "topics": [
-      "deep-learning",
-      "finance",
-      "math",
-      "quant",
-      "quantitative-finance",
-      "sr",
-      "transformer",
-      "uniswap-v4"
-    ],
-    "created_at": "2026-01-08T02:05:21",
-    "updated_at": "2026-01-14T16:30:49"
+    "updated_at": "2026-01-14T20:18:50"
   },
   {
     "name": "awesome-agent-skills",
     "full_name": "heilcheng/awesome-agent-skills",
     "description": "A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)",
     "url": "https://github.com/heilcheng/awesome-agent-skills",
-    "stars": 1237,
-    "daily_stars": 4,
+    "stars": 1244,
+    "daily_stars": 7,
     "language": null,
     "topics": [
       "agent-skills",
@@ -193,39 +126,99 @@
       "vscode"
     ],
     "created_at": "2025-12-29T21:13:40",
-    "updated_at": "2026-01-14T16:10:24"
+    "updated_at": "2026-01-14T20:13:39"
   },
   {
-    "name": "easy-vibe",
-    "full_name": "datawhalechina/easy-vibe",
-    "description": "Learn vibe coding from 0 to 1 | 从实战中学会 vibe coding",
-    "url": "https://github.com/datawhalechina/easy-vibe",
-    "stars": 1604,
-    "daily_stars": 4,
-    "language": "JavaScript",
+    "name": "DeepTutor",
+    "full_name": "HKUDS/DeepTutor",
+    "description": "\"DeepTutor: AI-Powered Personalized Learning Assistant\"",
+    "url": "https://github.com/HKUDS/DeepTutor",
+    "stars": 8474,
+    "daily_stars": 6,
+    "language": "Python",
     "topics": [
-      "agent",
+      "ai-agents",
+      "ai-assistant",
+      "ai-tutor",
+      "deepresearch",
+      "idea-generation",
+      "interactive-learning",
+      "knowledge-graph",
+      "large-language-models",
+      "multi-agent-systems",
+      "rag"
+    ],
+    "created_at": "2025-12-28T15:35:54",
+    "updated_at": "2026-01-14T20:42:23"
+  },
+  {
+    "name": "midnight-mcp",
+    "full_name": "Olanetsoft/midnight-mcp",
+    "description": "Midnight MCP server giving AI assistants access to Midnight blockchain — search contracts, analyze code, explore docs",
+    "url": "https://github.com/Olanetsoft/midnight-mcp",
+    "stars": 14,
+    "daily_stars": 3,
+    "language": "TypeScript",
+    "topics": [
       "ai",
-      "coding",
-      "course",
-      "gemini",
-      "genai",
-      "gpt",
-      "gpt-4",
-      "llm",
-      "low-code",
+      "ai-agent",
+      "artificial-intelligence",
+      "blockchain",
+      "claude",
+      "compact",
+      "cursor",
+      "javascript",
       "mcp",
-      "nextjs",
-      "no-code",
-      "openai",
-      "programming",
-      "tutorial",
-      "vibe-coding",
-      "vibecoding",
-      "vscode",
+      "mcp-server",
+      "midnight",
+      "smart-contracts",
+      "typescript",
+      "zero-knowledge",
+      "zk"
+    ],
+    "created_at": "2025-12-18T18:15:03",
+    "updated_at": "2026-01-14T20:28:15"
+  },
+  {
+    "name": "surogate",
+    "full_name": "invergent-ai/surogate",
+    "description": "Insanely fast LLM pre-training and fine-tuning for modern NVIDIA GPUs.",
+    "url": "https://github.com/invergent-ai/surogate",
+    "stars": 44,
+    "daily_stars": 3,
+    "language": "C++",
+    "topics": [
+      "cuda",
+      "deep-learning",
+      "fine-tuning",
+      "generative-ai",
+      "llama",
+      "llm",
+      "llms",
+      "nvidia-gpu",
+      "qwen",
+      "sft"
+    ],
+    "created_at": "2026-01-02T06:32:04",
+    "updated_at": "2026-01-14T20:24:51"
+  },
+  {
+    "name": "gmickel-claude-marketplace",
+    "full_name": "gmickel/gmickel-claude-marketplace",
+    "description": "Claude Code plugin marketplace for focused workflows (planning, execution, and more).",
+    "url": "https://github.com/gmickel/gmickel-claude-marketplace",
+    "stars": 342,
+    "daily_stars": 3,
+    "language": "Shell",
+    "topics": [
+      "claude-code",
+      "execution",
+      "marketplace",
+      "planning",
+      "plugin",
       "workflow"
     ],
-    "created_at": "2025-12-28T16:45:28",
-    "updated_at": "2026-01-14T15:46:42"
+    "created_at": "2025-12-26T22:27:07",
+    "updated_at": "2026-01-14T19:40:23"
   }
 ]
