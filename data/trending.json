@@ -4,8 +4,8 @@
     "full_name": "libukai/awesome-agent-skills",
     "description": "The Definitive Agent Skills Hub: Quickstart,  News & Best Practices | Agent Skills 权威指南：快速入门、最新资讯与实战案例",
     "url": "https://github.com/libukai/awesome-agent-skills",
-    "stars": 124,
-    "daily_stars": 35,
+    "stars": 151,
+    "daily_stars": 27,
     "language": null,
     "topics": [
       "agent",
@@ -17,15 +17,15 @@
       "mcp-protocol"
     ],
     "created_at": "2025-12-21T12:45:15",
-    "updated_at": "2026-01-15T02:27:17"
+    "updated_at": "2026-01-15T04:47:59"
   },
   {
     "name": "DeepTutor",
     "full_name": "HKUDS/DeepTutor",
     "description": "\"DeepTutor: AI-Powered Personalized Learning Assistant\"",
     "url": "https://github.com/HKUDS/DeepTutor",
-    "stars": 8498,
-    "daily_stars": 24,
+    "stars": 8517,
+    "daily_stars": 19,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -40,15 +40,52 @@
       "rag"
     ],
     "created_at": "2025-12-28T15:35:54",
-    "updated_at": "2026-01-15T02:28:46"
+    "updated_at": "2026-01-15T04:53:41"
+  },
+  {
+    "name": "claude-code-mastery",
+    "full_name": "TheDecipherist/claude-code-mastery",
+    "description": "The complete guide to Claude Code: CLAUDE.md, hooks, skills, MCP servers, and commands",
+    "url": "https://github.com/TheDecipherist/claude-code-mastery",
+    "stars": 59,
+    "daily_stars": 12,
+    "language": "Shell",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "claude-md",
+      "coding-assistant",
+      "developer-tools",
+      "llm",
+      "mcp-servers"
+    ],
+    "created_at": "2026-01-14T18:19:47",
+    "updated_at": "2026-01-15T04:54:08"
+  },
+  {
+    "name": "zeroshot",
+    "full_name": "covibes/zeroshot",
+    "description": "Autonomous engineering teams for Claude Code. Point Zeroshot at a GitHub issue, walk away, and return to verified, production-ready PRs.",
+    "url": "https://github.com/covibes/zeroshot",
+    "stars": 748,
+    "daily_stars": 8,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "vibe-coding"
+    ],
+    "created_at": "2025-12-25T17:12:45",
+    "updated_at": "2026-01-15T04:42:11"
   },
   {
     "name": "oh-my-claude-sisyphus",
     "full_name": "Yeachan-Heo/oh-my-claude-sisyphus",
     "description": "Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?",
     "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
-    "stars": 1139,
-    "daily_stars": 19,
+    "stars": 1146,
+    "daily_stars": 7,
     "language": "TypeScript",
     "topics": [
       "agentic-coding",
@@ -60,76 +97,48 @@
       "vibe-coding"
     ],
     "created_at": "2026-01-09T03:36:29",
-    "updated_at": "2026-01-15T02:24:58"
+    "updated_at": "2026-01-15T04:46:41"
   },
   {
-    "name": "claude-delegator",
-    "full_name": "jarrodwatts/claude-delegator",
-    "description": "Delegate tasks to Codex GPT 5.2 directly from within Claude Code.",
-    "url": "https://github.com/jarrodwatts/claude-delegator",
-    "stars": 591,
-    "daily_stars": 10,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "codex",
-      "gpt",
-      "mcp",
-      "plugin"
-    ],
-    "created_at": "2026-01-08T00:14:22",
-    "updated_at": "2026-01-15T01:53:17"
-  },
-  {
-    "name": "zeroshot",
-    "full_name": "covibes/zeroshot",
-    "description": "Autonomous engineering teams for Claude Code. Point Zeroshot at a GitHub issue, walk away, and return to verified, production-ready PRs.",
-    "url": "https://github.com/covibes/zeroshot",
-    "stars": 740,
-    "daily_stars": 9,
+    "name": "easy-vibe",
+    "full_name": "datawhalechina/easy-vibe",
+    "description": "Learn vibe coding from 0 to 1 | 从实战中学会 vibe coding",
+    "url": "https://github.com/datawhalechina/easy-vibe",
+    "stars": 1615,
+    "daily_stars": 7,
     "language": "JavaScript",
     "topics": [
-      "ai-agents",
-      "vibe-coding"
-    ],
-    "created_at": "2025-12-25T17:12:45",
-    "updated_at": "2026-01-15T01:31:41"
-  },
-  {
-    "name": "agents-from-scratch",
-    "full_name": "pguso/agents-from-scratch",
-    "description": "Build AI agents from first principles using a local LLM - no frameworks, no cloud APIs, no hidden reasoning.",
-    "url": "https://github.com/pguso/agents-from-scratch",
-    "stars": 263,
-    "daily_stars": 6,
-    "language": "Python",
-    "topics": [
-      "agent-architecture",
-      "ai-agents",
-      "ai-education",
-      "ai-from-scratch",
-      "artificial-intelligence",
-      "llama",
+      "agent",
+      "ai",
+      "coding",
+      "course",
+      "gemini",
+      "genai",
+      "gpt",
+      "gpt-4",
       "llm",
-      "local-llm",
-      "machine-learning",
-      "no-framework",
-      "open-source-education",
-      "prompt-engineering",
-      "python"
+      "low-code",
+      "mcp",
+      "nextjs",
+      "no-code",
+      "openai",
+      "programming",
+      "tutorial",
+      "vibe-coding",
+      "vibecoding",
+      "vscode",
+      "workflow"
     ],
-    "created_at": "2025-12-22T09:09:42",
-    "updated_at": "2026-01-14T22:40:10"
+    "created_at": "2025-12-28T16:45:28",
+    "updated_at": "2026-01-15T04:34:02"
   },
   {
     "name": "awesome-agent-skills",
     "full_name": "heilcheng/awesome-agent-skills",
     "description": "A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)",
     "url": "https://github.com/heilcheng/awesome-agent-skills",
-    "stars": 1250,
-    "daily_stars": 6,
+    "stars": 1255,
+    "daily_stars": 5,
     "language": null,
     "topics": [
       "agent-skills",
@@ -149,76 +158,73 @@
       "vscode"
     ],
     "created_at": "2025-12-29T21:13:40",
-    "updated_at": "2026-01-15T02:27:34"
+    "updated_at": "2026-01-15T04:50:09"
   },
   {
-    "name": "bridgerust",
-    "full_name": "bridgerust/bridgerust",
-    "description": "High-performance infrastructure libraries built in Rust, with seamless bindings for Python, Node.js, and WebAssembly.",
-    "url": "https://github.com/bridgerust/bridgerust",
-    "stars": 11,
-    "daily_stars": 4,
-    "language": "Rust",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "bindings",
-      "chromadb",
-      "embeddings",
-      "lancedb",
-      "machine-learning",
-      "napi-rs",
-      "nodejs",
-      "orm",
-      "pinecode",
-      "pyo3",
-      "python",
-      "qdrant",
-      "rag",
-      "rust",
-      "rust-bindings",
-      "semantic-search",
-      "vector-database",
-      "weaviate"
-    ],
-    "created_at": "2025-12-25T12:02:29",
-    "updated_at": "2026-01-15T01:48:35"
-  },
-  {
-    "name": "gmickel-claude-marketplace",
-    "full_name": "gmickel/gmickel-claude-marketplace",
-    "description": "Claude Code plugin marketplace for focused workflows (planning, execution, and more).",
-    "url": "https://github.com/gmickel/gmickel-claude-marketplace",
-    "stars": 346,
-    "daily_stars": 4,
-    "language": "Shell",
-    "topics": [
-      "claude-code",
-      "execution",
-      "marketplace",
-      "planning",
-      "plugin",
-      "workflow"
-    ],
-    "created_at": "2025-12-26T22:27:07",
-    "updated_at": "2026-01-15T01:44:05"
-  },
-  {
-    "name": "flutter-agent-panel",
-    "full_name": "Aykahshi/flutter-agent-panel",
-    "description": "A modern, user-friendly terminal emulator designed to enhance your AI pair‑coding experience.",
-    "url": "https://github.com/Aykahshi/flutter-agent-panel",
-    "stars": 10,
+    "name": "claude-delegator",
+    "full_name": "jarrodwatts/claude-delegator",
+    "description": "Delegate tasks to Codex GPT 5.2 directly from within Claude Code.",
+    "url": "https://github.com/jarrodwatts/claude-delegator",
+    "stars": 594,
     "daily_stars": 3,
-    "language": "Dart",
+    "language": null,
     "topics": [
       "ai-agents",
-      "ai-tools",
-      "flutter",
-      "shadcn-ui",
-      "terminal"
+      "claude",
+      "claude-code",
+      "codex",
+      "gpt",
+      "mcp",
+      "plugin"
     ],
-    "created_at": "2025-12-18T06:39:47",
-    "updated_at": "2026-01-15T02:03:09"
+    "created_at": "2026-01-08T00:14:22",
+    "updated_at": "2026-01-15T04:05:57"
+  },
+  {
+    "name": "neuron-laravel",
+    "full_name": "neuron-core/neuron-laravel",
+    "description": "Official Neuron AI Laravel SDK",
+    "url": "https://github.com/neuron-core/neuron-laravel",
+    "stars": 49,
+    "daily_stars": 3,
+    "language": "PHP",
+    "topics": [
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "ai-agents",
+      "llm",
+      "rag"
+    ],
+    "created_at": "2025-12-23T15:27:20",
+    "updated_at": "2026-01-15T04:34:34"
+  },
+  {
+    "name": "QuantDinger",
+    "full_name": "brokermr810/QuantDinger",
+    "description": "All-in-One Local-first Quant Workspace: Market Data, AI Multi-agent Analysis, Backtesting & Strategy Execution. Support Crypto/Stocks/Forex/Futures.",
+    "url": "https://github.com/brokermr810/QuantDinger",
+    "stars": 254,
+    "daily_stars": 2,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "algorithmic-trading",
+      "algotrading",
+      "algtrading",
+      "backtesting",
+      "crypto-trading-agent",
+      "flask",
+      "local-first",
+      "market-data",
+      "quant-trading",
+      "stock-market",
+      "technical-indicators",
+      "trading-bot-",
+      "vue2"
+    ],
+    "created_at": "2025-12-28T18:39:26",
+    "updated_at": "2026-01-15T03:39:18"
   }
 ]
