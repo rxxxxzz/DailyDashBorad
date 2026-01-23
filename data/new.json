@@ -4,8 +4,8 @@
     "full_name": "affaan-m/everything-claude-code",
     "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
     "url": "https://github.com/affaan-m/everything-claude-code",
-    "stars": 19523,
-    "daily_stars": 1316,
+    "stars": 20649,
+    "daily_stars": 1126,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -18,7 +18,7 @@
       "productivity"
     ],
     "created_at": "2026-01-18T00:51:51",
-    "updated_at": "2026-01-23T08:54:30"
+    "updated_at": "2026-01-23T13:23:52"
   },
   {
     "name": "ralph-claude-code",
@@ -40,12 +40,29 @@
     "updated_at": "2026-01-22T20:28:02"
   },
   {
+    "name": "agent-skills",
+    "full_name": "supabase/agent-skills",
+    "description": "Agent Skills to help developers using AI agents with Supabase",
+    "url": "https://github.com/supabase/agent-skills",
+    "stars": 316,
+    "daily_stars": 71,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "skills",
+      "supabase"
+    ],
+    "created_at": "2026-01-16T07:28:01",
+    "updated_at": "2026-01-23T13:20:21"
+  },
+  {
     "name": "figma-use",
     "full_name": "dannote/figma-use",
     "description": "Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 100+ commands.",
     "url": "https://github.com/dannote/figma-use",
-    "stars": 283,
-    "daily_stars": 3,
+    "stars": 290,
+    "daily_stars": 7,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -55,65 +72,15 @@
       "figma"
     ],
     "created_at": "2026-01-17T14:29:36",
-    "updated_at": "2026-01-23T08:47:14"
-  },
-  {
-    "name": "agent-skills",
-    "full_name": "supabase/agent-skills",
-    "description": "Agent Skills to help developers using AI agents with Supabase",
-    "url": "https://github.com/supabase/agent-skills",
-    "stars": 245,
-    "daily_stars": 48,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "skills",
-      "supabase"
-    ],
-    "created_at": "2026-01-16T07:28:01",
-    "updated_at": "2026-01-23T08:49:03"
-  },
-  {
-    "name": "awesome-slash",
-    "full_name": "avifenesh/awesome-slash",
-    "description": "Professional-grade slash commands for Claude Code that work across any project",
-    "url": "https://github.com/avifenesh/awesome-slash",
-    "stars": 236,
-    "daily_stars": 5,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "ci-cd",
-      "claude-code",
-      "claude-code-plugin",
-      "claude-marketplace",
-      "code-review",
-      "codex",
-      "codex-cli",
-      "developer-productivity",
-      "github-actions",
-      "golang",
-      "java",
-      "js",
-      "opencode",
-      "railway",
-      "rust",
-      "slash-commands",
-      "ts",
-      "vercel",
-      "zero-configuration"
-    ],
-    "created_at": "2026-01-15T09:33:05",
-    "updated_at": "2026-01-23T08:38:37"
+    "updated_at": "2026-01-23T13:23:42"
   },
   {
     "name": "fullstack-solution-template-for-agentcore",
     "full_name": "awslabs/fullstack-solution-template-for-agentcore",
     "description": "Flexible Fullstack solution template for production-ready deployments of any use case on Amazon Bedrock AgentCore.",
     "url": "https://github.com/awslabs/fullstack-solution-template-for-agentcore",
-    "stars": 206,
-    "daily_stars": 3,
+    "stars": 208,
+    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -131,7 +98,7 @@
       "template"
     ],
     "created_at": "2026-01-15T19:10:52",
-    "updated_at": "2026-01-23T08:08:07"
+    "updated_at": "2026-01-23T11:10:36"
   },
   {
     "name": "verdict-community",
@@ -150,22 +117,6 @@
     ],
     "created_at": "2026-01-18T12:59:22",
     "updated_at": "2026-01-22T18:23:42"
-  },
-  {
-    "name": "free-ai-agents-resources",
-    "full_name": "avinash201199/free-ai-agents-resources",
-    "description": "Free AI Agents Resources – Your All-in-One 2026 Learning Hub",
-    "url": "https://github.com/avinash201199/free-ai-agents-resources",
-    "stars": 44,
-    "daily_stars": 0,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-agents",
-      "llms"
-    ],
-    "created_at": "2026-01-15T10:39:35",
-    "updated_at": "2026-01-23T04:52:57"
   },
   {
     "name": "PoPE-pytorch",
@@ -203,5 +154,49 @@
     ],
     "created_at": "2026-01-17T06:58:52",
     "updated_at": "2026-01-22T15:23:59"
+  },
+  {
+    "name": "PoPE-pytorch",
+    "full_name": "lucidrains/PoPE-pytorch",
+    "description": "Efficient implementation (and explorations) into polar coordinate positional embedding (PoPE) - from Gopalakrishnan et al. under Schmidhuber",
+    "url": "https://github.com/lucidrains/PoPE-pytorch",
+    "stars": 39,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "positional-embeddings"
+    ],
+    "created_at": "2026-01-19T19:28:26",
+    "updated_at": "2026-01-22T19:01:26"
+  },
+  {
+    "name": "Psychosis-of-AI",
+    "full_name": "fangchenantek/Psychosis-of-AI",
+    "description": "一份来自2026年的AI精神病理学诊断报告 / A Pathological Diagnosis of AI Civilization",
+    "url": "https://github.com/fangchenantek/Psychosis-of-AI",
+    "stars": 30,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "ai-safety",
+      "artificial-intelligence",
+      "constitutional-ai",
+      "digital-humanities",
+      "generative-ai",
+      "jung",
+      "lacan",
+      "llm",
+      "machine-learning",
+      "mythomani",
+      "philosophy",
+      "prompt-engineering",
+      "psychoanalysis",
+      "psychology",
+      "rlhf"
+    ],
+    "created_at": "2026-01-22T14:19:39",
+    "updated_at": "2026-01-23T12:21:54"
   }
 ]
