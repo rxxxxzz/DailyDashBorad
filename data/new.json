@@ -1,26 +1,44 @@
 [
   {
+    "name": "crabwalk",
+    "full_name": "luccast/crabwalk",
+    "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents.",
+    "url": "https://github.com/luccast/crabwalk",
+    "stars": 239,
+    "daily_stars": 0,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "clawdbot",
+      "moltbot",
+      "monitoring"
+    ],
+    "created_at": "2026-01-25T23:00:59",
+    "updated_at": "2026-01-27T20:47:11"
+  },
+  {
     "name": "gradscii-art",
     "full_name": "stong/gradscii-art",
     "description": "An extremely good ASCII art generator, based on machine learning",
     "url": "https://github.com/stong/gradscii-art",
-    "stars": 171,
-    "daily_stars": 0,
+    "stars": 172,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ascii-art",
       "machine-learning"
     ],
     "created_at": "2026-01-23T04:08:51",
-    "updated_at": "2026-01-27T06:52:38"
+    "updated_at": "2026-01-27T20:43:17"
   },
   {
     "name": "arc-protocol",
     "full_name": "AshishOP/arc-protocol",
     "description": "🚀 High-discipline agentic workflow for AI-assisted development. Analyze, Run, Confirm (ARC) project execution with persistent context.",
     "url": "https://github.com/AshishOP/arc-protocol",
-    "stars": 52,
-    "daily_stars": 2,
+    "stars": 56,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "ai-agent",
@@ -30,39 +48,7 @@
       "workflow"
     ],
     "created_at": "2026-01-21T22:13:38",
-    "updated_at": "2026-01-27T16:13:12"
-  },
-  {
-    "name": "PoPE-pytorch",
-    "full_name": "lucidrains/PoPE-pytorch",
-    "description": "Efficient implementation (and explorations) into polar coordinate positional embedding (PoPE) - from Gopalakrishnan et al. under Schmidhuber",
-    "url": "https://github.com/lucidrains/PoPE-pytorch",
-    "stars": 44,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "deep-learning",
-      "positional-embeddings"
-    ],
-    "created_at": "2026-01-19T19:28:26",
-    "updated_at": "2026-01-27T16:55:59"
-  },
-  {
-    "name": "PoPE-pytorch",
-    "full_name": "lucidrains/PoPE-pytorch",
-    "description": "Efficient implementation (and explorations) into polar coordinate positional embedding (PoPE) - from Gopalakrishnan et al. under Schmidhuber",
-    "url": "https://github.com/lucidrains/PoPE-pytorch",
-    "stars": 44,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "deep-learning",
-      "positional-embeddings"
-    ],
-    "created_at": "2026-01-19T19:28:26",
-    "updated_at": "2026-01-27T16:55:59"
+    "updated_at": "2026-01-27T19:53:43"
   },
   {
     "name": "Psychosis-of-AI",
@@ -126,7 +112,7 @@
     "description": "AI learns to play Pokemon Red entirely in your browser. WebGPU LLM + TensorFlow.js neural network + WASM emulator. No servers required.",
     "url": "https://github.com/sidmohan0/tesserack",
     "stars": 28,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "JavaScript",
     "topics": [
       "artificial-intelligence",
@@ -144,7 +130,7 @@
       "webgpu"
     ],
     "created_at": "2026-01-23T03:09:51",
-    "updated_at": "2026-01-27T14:00:54"
+    "updated_at": "2026-01-27T19:41:43"
   },
   {
     "name": "tesserack",
@@ -170,15 +156,15 @@
       "webgpu"
     ],
     "created_at": "2026-01-23T03:09:51",
-    "updated_at": "2026-01-27T14:00:54"
+    "updated_at": "2026-01-27T19:41:43"
   },
   {
     "name": "nano-vllm-v1",
     "full_name": "slwang-ustc/nano-vllm-v1",
     "description": "Nano vLLM with v1's request scheduling strategy and chunked prefill",
     "url": "https://github.com/slwang-ustc/nano-vllm-v1",
-    "stars": 27,
-    "daily_stars": 0,
+    "stars": 28,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "deep-learning",
@@ -190,7 +176,7 @@
       "transformer"
     ],
     "created_at": "2026-01-22T19:20:16",
-    "updated_at": "2026-01-27T08:36:43"
+    "updated_at": "2026-01-27T17:46:26"
   },
   {
     "name": "takt",
@@ -198,7 +184,7 @@
     "description": "Task Agent Koordination Tool - Multi-agent orchestration system for Claude Code (Codex support planned).",
     "url": "https://github.com/nrslib/takt",
     "stars": 16,
-    "daily_stars": 4,
+    "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
       "agent-orchestration",
@@ -208,5 +194,24 @@
     ],
     "created_at": "2026-01-25T04:05:48",
     "updated_at": "2026-01-27T15:51:02"
+  },
+  {
+    "name": "small-gpu",
+    "full_name": "FareedKhan-dev/small-gpu",
+    "description": "Building a Tiny GPU to understand AI hardware engineering",
+    "url": "https://github.com/FareedKhan-dev/small-gpu",
+    "stars": 15,
+    "daily_stars": 1,
+    "language": "SystemVerilog",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "gpu",
+      "llms",
+      "openai",
+      "rag"
+    ],
+    "created_at": "2026-01-22T08:55:18",
+    "updated_at": "2026-01-27T18:52:13"
   }
 ]
