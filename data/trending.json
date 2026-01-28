@@ -4,8 +4,8 @@
     "full_name": "affaan-m/everything-claude-code",
     "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
     "url": "https://github.com/affaan-m/everything-claude-code",
-    "stars": 32787,
-    "daily_stars": 184,
+    "stars": 33068,
+    "daily_stars": 281,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -18,15 +18,15 @@
       "productivity"
     ],
     "created_at": "2026-01-18T00:51:51",
-    "updated_at": "2026-01-28T04:59:13"
+    "updated_at": "2026-01-28T08:58:06"
   },
   {
     "name": "antigravity-awesome-skills",
     "full_name": "sickn33/antigravity-awesome-skills",
     "description": "The Ultimate Collection of 60+ Agentic Skills for Claude Code (Antigravity). Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.",
     "url": "https://github.com/sickn33/antigravity-awesome-skills",
-    "stars": 4530,
-    "daily_stars": 66,
+    "stars": 4622,
+    "daily_stars": 92,
     "language": "Python",
     "topics": [
       "agentic-skills",
@@ -39,15 +39,15 @@
       "security-auditing"
     ],
     "created_at": "2026-01-14T17:48:09",
-    "updated_at": "2026-01-28T04:59:30"
+    "updated_at": "2026-01-28T08:55:44"
   },
   {
     "name": "oh-my-claude-sisyphus",
     "full_name": "Yeachan-Heo/oh-my-claude-sisyphus",
     "description": "Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?",
     "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
-    "stars": 3136,
-    "daily_stars": 24,
+    "stars": 3188,
+    "daily_stars": 52,
     "language": "TypeScript",
     "topics": [
       "agentic-coding",
@@ -59,32 +59,15 @@
       "vibe-coding"
     ],
     "created_at": "2026-01-09T03:36:29",
-    "updated_at": "2026-01-28T04:53:41"
-  },
-  {
-    "name": "agent-skills",
-    "full_name": "supabase/agent-skills",
-    "description": "Agent Skills to help developers using AI agents with Supabase",
-    "url": "https://github.com/supabase/agent-skills",
-    "stars": 812,
-    "daily_stars": 17,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "skills",
-      "supabase"
-    ],
-    "created_at": "2026-01-16T07:28:01",
-    "updated_at": "2026-01-28T04:51:13"
+    "updated_at": "2026-01-28T08:57:24"
   },
   {
     "name": "crabwalk",
     "full_name": "luccast/crabwalk",
     "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents.",
     "url": "https://github.com/luccast/crabwalk",
-    "stars": 299,
-    "daily_stars": 11,
+    "stars": 319,
+    "daily_stars": 20,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -94,15 +77,32 @@
       "monitoring"
     ],
     "created_at": "2026-01-25T23:00:59",
-    "updated_at": "2026-01-28T04:49:13"
+    "updated_at": "2026-01-28T08:47:04"
+  },
+  {
+    "name": "agent-skills",
+    "full_name": "supabase/agent-skills",
+    "description": "Agent Skills to help developers using AI agents with Supabase",
+    "url": "https://github.com/supabase/agent-skills",
+    "stars": 822,
+    "daily_stars": 10,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "skills",
+      "supabase"
+    ],
+    "created_at": "2026-01-16T07:28:01",
+    "updated_at": "2026-01-28T08:44:55"
   },
   {
     "name": "AlphaGPT",
     "full_name": "imbue-bit/AlphaGPT",
     "description": "使用符号回归在中国股市上进行高效因子挖掘。/ By the way，Leverage the novel features and advanced financial mathematics introduced in Uniswap V4 to effectively mitigate just-in-time (JIT) liquidity provision issues.",
     "url": "https://github.com/imbue-bit/AlphaGPT",
-    "stars": 1420,
-    "daily_stars": 6,
+    "stars": 1429,
+    "daily_stars": 9,
     "language": "Python",
     "topics": [
       "deep-learning",
@@ -115,54 +115,74 @@
       "uniswap-v4"
     ],
     "created_at": "2026-01-08T02:05:21",
-    "updated_at": "2026-01-28T04:56:00"
+    "updated_at": "2026-01-28T08:21:14"
   },
   {
-    "name": "PyFlame",
-    "full_name": "CTO92/PyFlame",
-    "description": "A Python deep learning framework with lazy evaluation, automatic differentiation, and a PyTorch-like API. Features include neural network modules, data loading, training utilities, model serving, and integrations with MLflow, W&B, ONNX, and Jupyter.",
-    "url": "https://github.com/CTO92/PyFlame",
-    "stars": 64,
-    "daily_stars": 3,
-    "language": "C++",
+    "name": "vibetensor",
+    "full_name": "NVlabs/vibetensor",
+    "description": "The first fully AI generated DL framework",
+    "url": "https://github.com/NVlabs/vibetensor",
+    "stars": 370,
+    "daily_stars": 4,
+    "language": "Python",
     "topics": [
-      "artificial-intelligence",
-      "cerebras",
-      "cerebras-ai",
-      "cerebras-llm",
-      "cerebras-wse",
+      "cuda",
+      "cutlass",
       "machine-learning",
-      "machine-learning-algorithms",
-      "machinelearning",
-      "ml",
-      "pytorch"
+      "pytorch",
+      "vibe-coding"
     ],
-    "created_at": "2026-01-10T20:07:41",
-    "updated_at": "2026-01-28T04:41:45"
+    "created_at": "2026-01-05T03:19:03",
+    "updated_at": "2026-01-28T08:17:48"
   },
   {
-    "name": "takt",
-    "full_name": "nrslib/takt",
-    "description": "Task Agent Koordination Tool - Multi-agent orchestration system for Claude Code (Codex support planned).",
-    "url": "https://github.com/nrslib/takt",
-    "stars": 24,
+    "name": "haagenti",
+    "full_name": "Daemoniorum-LLC/haagenti",
+    "description": "High-performance compression library for Rust with LZ4, Zstd, Brotli, and Deflate. Features SIMD acceleration, streaming API, and no_std support.",
+    "url": "https://github.com/Daemoniorum-LLC/haagenti",
+    "stars": 6,
     "daily_stars": 3,
-    "language": "TypeScript",
+    "language": "Rust",
     "topics": [
-      "agent-orchestration",
+      "brotli",
+      "cuda",
+      "deflate",
+      "hct",
+      "holotensor",
+      "lz4",
+      "machine-learning",
+      "simd",
+      "tensor",
+      "zstd"
+    ],
+    "created_at": "2026-01-19T19:38:45",
+    "updated_at": "2026-01-28T07:03:28"
+  },
+  {
+    "name": "ralph-claude-code",
+    "full_name": "DmitrySolana/ralph-claude-code",
+    "description": "Autonomous AI development loop for Claude Code with intelligent exit detection",
+    "url": "https://github.com/DmitrySolana/ralph-claude-code",
+    "stars": 1158,
+    "daily_stars": 2,
+    "language": "Shell",
+    "topics": [
+      "ai-agent",
       "ai-agents",
       "claude-code",
-      "multi-agent"
+      "claude-code-cli",
+      "development-tools",
+      "development-workflow"
     ],
-    "created_at": "2026-01-25T04:05:48",
-    "updated_at": "2026-01-28T04:55:54"
+    "created_at": "2026-01-16T06:32:50",
+    "updated_at": "2026-01-28T08:29:59"
   },
   {
     "name": "youwee",
     "full_name": "vanloctech/youwee",
     "description": "A beautifull YouTube, TikTok, Instagram and 1800+ sites downloader (yt-dlp GUI) and AI summary video content for cross-platform",
     "url": "https://github.com/vanloctech/youwee",
-    "stars": 207,
+    "stars": 209,
     "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
@@ -184,22 +204,6 @@
       "yt-dlp-gui"
     ],
     "created_at": "2026-01-18T10:30:15",
-    "updated_at": "2026-01-28T02:59:58"
-  },
-  {
-    "name": "ai-quant-book",
-    "full_name": "waylandzhang/ai-quant-book",
-    "description": "《AI Quant Trading - From Zero to One》",
-    "url": "https://github.com/waylandzhang/ai-quant-book",
-    "stars": 169,
-    "daily_stars": 2,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "quant",
-      "quant-trading"
-    ],
-    "created_at": "2026-01-02T12:13:42",
-    "updated_at": "2026-01-28T04:22:35"
+    "updated_at": "2026-01-28T08:51:24"
   }
 ]
