@@ -1,11 +1,26 @@
 [
   {
+    "name": "moltworker",
+    "full_name": "cloudflare/moltworker",
+    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
+    "url": "https://github.com/cloudflare/moltworker",
+    "stars": 511,
+    "daily_stars": 346,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "cloudflare-workers"
+    ],
+    "created_at": "2026-01-27T11:09:39",
+    "updated_at": "2026-01-29T20:52:16"
+  },
+  {
     "name": "everything-claude-code",
     "full_name": "affaan-m/everything-claude-code",
     "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
     "url": "https://github.com/affaan-m/everything-claude-code",
-    "stars": 34416,
-    "daily_stars": 115,
+    "stars": 34488,
+    "daily_stars": 72,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -18,15 +33,15 @@
       "productivity"
     ],
     "created_at": "2026-01-18T00:51:51",
-    "updated_at": "2026-01-29T17:01:01"
+    "updated_at": "2026-01-29T20:52:10"
   },
   {
     "name": "antigravity-awesome-skills",
     "full_name": "sickn33/antigravity-awesome-skills",
     "description": "The Ultimate Collection of 60+ Agentic Skills for Claude Code (Antigravity). Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.",
     "url": "https://github.com/sickn33/antigravity-awesome-skills",
-    "stars": 5231,
-    "daily_stars": 64,
+    "stars": 5271,
+    "daily_stars": 40,
     "language": "Python",
     "topics": [
       "agentic-skills",
@@ -39,14 +54,14 @@
       "security-auditing"
     ],
     "created_at": "2026-01-14T17:48:09",
-    "updated_at": "2026-01-29T17:04:09"
+    "updated_at": "2026-01-29T20:46:26"
   },
   {
     "name": "oh-my-claude-sisyphus",
     "full_name": "Yeachan-Heo/oh-my-claude-sisyphus",
     "description": "Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?",
     "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
-    "stars": 3456,
+    "stars": 3482,
     "daily_stars": 26,
     "language": "TypeScript",
     "topics": [
@@ -59,44 +74,32 @@
       "vibe-coding"
     ],
     "created_at": "2026-01-09T03:36:29",
-    "updated_at": "2026-01-29T17:05:19"
+    "updated_at": "2026-01-29T20:48:52"
   },
   {
-    "name": "youwee",
-    "full_name": "vanloctech/youwee",
-    "description": "A beautifull YouTube, TikTok, Instagram and 1800+ sites downloader (yt-dlp GUI) and AI summary video content for cross-platform",
-    "url": "https://github.com/vanloctech/youwee",
-    "stars": 322,
-    "daily_stars": 12,
+    "name": "agent-skills",
+    "full_name": "supabase/agent-skills",
+    "description": "Agent Skills to help developers using AI agents with Supabase",
+    "url": "https://github.com/supabase/agent-skills",
+    "stars": 918,
+    "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
       "ai",
       "ai-agents",
-      "facebook-downloader",
-      "ffmpeg",
-      "ffmpeg-agent",
-      "instagram-downloader",
-      "llm",
-      "open-source",
-      "react",
-      "summary-video",
-      "tauri",
-      "tiktok",
-      "tiktok-downloader-app",
-      "youtube-dl",
-      "yt-dlp",
-      "yt-dlp-gui"
+      "skills",
+      "supabase"
     ],
-    "created_at": "2026-01-18T10:30:15",
-    "updated_at": "2026-01-29T16:58:09"
+    "created_at": "2026-01-16T07:28:01",
+    "updated_at": "2026-01-29T20:22:45"
   },
   {
     "name": "crabwalk",
     "full_name": "luccast/crabwalk",
     "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents.",
     "url": "https://github.com/luccast/crabwalk",
-    "stars": 455,
-    "daily_stars": 8,
+    "stars": 461,
+    "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -106,15 +109,15 @@
       "monitoring"
     ],
     "created_at": "2026-01-25T23:00:59",
-    "updated_at": "2026-01-29T16:18:31"
+    "updated_at": "2026-01-29T20:53:06"
   },
   {
     "name": "fashn-vton-1.5",
     "full_name": "fashn-AI/fashn-vton-1.5",
     "description": "FASHN VTON v1.5: Efficient Maskless Virtual Try-On in Pixel Space",
     "url": "https://github.com/fashn-AI/fashn-vton-1.5",
-    "stars": 53,
-    "daily_stars": 7,
+    "stars": 59,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "computer-vision",
@@ -131,68 +134,47 @@
       "virtual-try-on"
     ],
     "created_at": "2026-01-09T18:58:06",
-    "updated_at": "2026-01-29T16:42:41"
+    "updated_at": "2026-01-29T20:37:01"
   },
   {
-    "name": "agent-skills",
-    "full_name": "supabase/agent-skills",
-    "description": "Agent Skills to help developers using AI agents with Supabase",
-    "url": "https://github.com/supabase/agent-skills",
-    "stars": 912,
-    "daily_stars": 5,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "skills",
-      "supabase"
-    ],
-    "created_at": "2026-01-16T07:28:01",
-    "updated_at": "2026-01-29T16:47:29"
-  },
-  {
-    "name": "vibetensor",
-    "full_name": "NVlabs/vibetensor",
-    "description": "The first fully AI generated DL framework",
-    "url": "https://github.com/NVlabs/vibetensor",
-    "stars": 408,
+    "name": "polymarket-copy-trading-bots",
+    "full_name": "sircatavax/polymarket-copy-trading-bots",
+    "description": "This repository is inspired by community implementations of Polymarket copy-trading and automated bots that monitor and mirror top market players in real time. Such projects typically include monitoring, scaling based on wallet size, and execution logic to replicate successful strategies.",
+    "url": "https://github.com/sircatavax/polymarket-copy-trading-bots",
+    "stars": 9,
     "daily_stars": 5,
     "language": "Python",
     "topics": [
-      "cuda",
-      "cutlass",
+      "algorithmic-trading",
+      "app-polymarket",
+      "arbitrage",
+      "arbitragebot",
+      "crypto-bot",
+      "defi-arbitrage",
+      "gambling-bot",
       "machine-learning",
-      "pytorch",
-      "vibe-coding"
+      "onchain-arbitrage",
+      "polymarket-api-bot",
+      "polymarket-bots-api",
+      "polymarket-copy-bot",
+      "polymarket-sniper-bot",
+      "prediction-markets",
+      "prediction-markets-bot",
+      "prediction-markets-trading",
+      "risk-management",
+      "trading-strategies",
+      "web3-bot"
     ],
-    "created_at": "2026-01-05T03:19:03",
-    "updated_at": "2026-01-29T16:10:59"
-  },
-  {
-    "name": "SubgroupX",
-    "full_name": "n-WN/SubgroupX",
-    "description": "正规子群.AI Agent | SubgroupX: A high-performance AI Agent for offensive security, CTF operations, and active defense protocols. Architected by Normal Subgroup. 这里在倒计时结束后会替换为 Agent 源码",
-    "url": "https://github.com/n-WN/SubgroupX",
-    "stars": 209,
-    "daily_stars": 4,
-    "language": "HTML",
-    "topics": [
-      "agentic-ai",
-      "ai",
-      "ai-agents",
-      "ctf",
-      "pentest"
-    ],
-    "created_at": "2026-01-07T10:08:38",
-    "updated_at": "2026-01-29T15:56:56"
+    "created_at": "2026-01-25T18:54:47",
+    "updated_at": "2026-01-29T20:10:29"
   },
   {
     "name": "Awesome-FDE-Roadmap",
     "full_name": "pierpaolo28/Awesome-FDE-Roadmap",
     "description": "🚀 The definitive roadmap to becoming a Forward Deployment Engineer (FDE). Master AI Agents, Enterprise Data Architecture, and Strategic Consulting. Bridging the gap between HQ and the field. Inspired by the \"Delta\" role at Palantir, OpenAI, and Scale AI.",
     "url": "https://github.com/pierpaolo28/Awesome-FDE-Roadmap",
-    "stars": 157,
-    "daily_stars": 4,
+    "stars": 160,
+    "daily_stars": 3,
     "language": null,
     "topics": [
       "ai-agents",
@@ -202,6 +184,39 @@
       "roadmap"
     ],
     "created_at": "2026-01-14T18:43:01",
-    "updated_at": "2026-01-29T15:36:32"
+    "updated_at": "2026-01-29T18:32:02"
+  },
+  {
+    "name": "The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations",
+    "full_name": "tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations",
+    "description": "A book on the mathematical foundations of AI from an engineering perspective.",
+    "url": "https://github.com/tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations",
+    "stars": 109,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "adam-optimizer",
+      "ai",
+      "artificial-intelligence",
+      "book",
+      "books",
+      "calculus",
+      "convergence",
+      "deep-learning",
+      "derivatives",
+      "educational",
+      "integrals",
+      "knowledge",
+      "linear-algebra",
+      "linear-regression",
+      "machine-learning",
+      "mathematics",
+      "matrix",
+      "ml",
+      "neural-network",
+      "optimization"
+    ],
+    "created_at": "2025-12-31T00:08:55",
+    "updated_at": "2026-01-29T19:58:35"
   }
 ]
