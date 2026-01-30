@@ -4,23 +4,23 @@
     "full_name": "cloudflare/moltworker",
     "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
     "url": "https://github.com/cloudflare/moltworker",
-    "stars": 2548,
-    "daily_stars": 252,
+    "stars": 2731,
+    "daily_stars": 183,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
       "cloudflare-workers"
     ],
     "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-01-30T17:05:28"
+    "updated_at": "2026-01-30T20:53:37"
   },
   {
     "name": "everything-claude-code",
     "full_name": "affaan-m/everything-claude-code",
     "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
     "url": "https://github.com/affaan-m/everything-claude-code",
-    "stars": 35253,
-    "daily_stars": 132,
+    "stars": 35312,
+    "daily_stars": 59,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -33,35 +33,15 @@
       "productivity"
     ],
     "created_at": "2026-01-18T00:51:51",
-    "updated_at": "2026-01-30T17:05:53"
-  },
-  {
-    "name": "oh-my-claude-sisyphus",
-    "full_name": "Yeachan-Heo/oh-my-claude-sisyphus",
-    "description": "Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?",
-    "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
-    "stars": 3706,
-    "daily_stars": 50,
-    "language": "TypeScript",
-    "topics": [
-      "agentic-coding",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "oh-my-opencode",
-      "opencode",
-      "vibe-coding"
-    ],
-    "created_at": "2026-01-09T03:36:29",
-    "updated_at": "2026-01-30T17:03:53"
+    "updated_at": "2026-01-30T20:54:39"
   },
   {
     "name": "antigravity-awesome-skills",
     "full_name": "sickn33/antigravity-awesome-skills",
     "description": "The Ultimate Collection of 60+ Agentic Skills for Claude Code (Antigravity). Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.",
     "url": "https://github.com/sickn33/antigravity-awesome-skills",
-    "stars": 5543,
-    "daily_stars": 45,
+    "stars": 5571,
+    "daily_stars": 28,
     "language": "Python",
     "topics": [
       "agentic-skills",
@@ -74,15 +54,15 @@
       "security-auditing"
     ],
     "created_at": "2026-01-14T17:48:09",
-    "updated_at": "2026-01-30T17:02:46"
+    "updated_at": "2026-01-30T20:49:10"
   },
   {
     "name": "veritas-kanban",
     "full_name": "BradGroux/veritas-kanban",
     "description": "The unfiltered truth about where your project stands. Lightweight kanban built for the agentic era.",
     "url": "https://github.com/BradGroux/veritas-kanban",
-    "stars": 104,
-    "daily_stars": 30,
+    "stars": 127,
+    "daily_stars": 23,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -97,33 +77,63 @@
       "vite"
     ],
     "created_at": "2026-01-26T08:35:20",
-    "updated_at": "2026-01-30T17:05:40"
+    "updated_at": "2026-01-30T20:38:18"
   },
   {
-    "name": "crabwalk",
-    "full_name": "luccast/crabwalk",
-    "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents.",
-    "url": "https://github.com/luccast/crabwalk",
-    "stars": 492,
-    "daily_stars": 9,
+    "name": "ultracontext-node",
+    "full_name": "ultracontext/ultracontext-node",
+    "description": "The context API for AI agents",
+    "url": "https://github.com/ultracontext/ultracontext-node",
+    "stars": 40,
+    "daily_stars": 22,
     "language": "TypeScript",
     "topics": [
+      "agents",
       "ai",
       "ai-agents",
-      "clawdbot",
-      "moltbot",
-      "monitoring"
+      "api",
+      "context-api",
+      "context-engineering",
+      "context-management",
+      "context-window",
+      "llm",
+      "llm-ops",
+      "nodejs",
+      "sdk",
+      "typescript",
+      "ultracontext",
+      "versioning"
     ],
-    "created_at": "2026-01-25T23:00:59",
-    "updated_at": "2026-01-30T16:48:32"
+    "created_at": "2026-01-07T06:06:31",
+    "updated_at": "2026-01-30T20:39:52"
+  },
+  {
+    "name": "oh-my-claude-sisyphus",
+    "full_name": "Yeachan-Heo/oh-my-claude-sisyphus",
+    "description": "Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?",
+    "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
+    "stars": 3722,
+    "daily_stars": 16,
+    "language": "TypeScript",
+    "topics": [
+      "agentic-coding",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "oh-my-opencode",
+      "opencode",
+      "vibe-coding"
+    ],
+    "created_at": "2026-01-09T03:36:29",
+    "updated_at": "2026-01-30T20:48:08"
   },
   {
     "name": "bkit-claude-code",
     "full_name": "popup-studio-ai/bkit-claude-code",
     "description": "bkit Vibecoding Kit - PDCA methodology + Claude Code mastery for AI-native development",
     "url": "https://github.com/popup-studio-ai/bkit-claude-code",
-    "stars": 71,
-    "daily_stars": 9,
+    "stars": 76,
+    "daily_stars": 5,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -136,68 +146,79 @@
       "plugin-repo"
     ],
     "created_at": "2026-01-09T06:25:08",
-    "updated_at": "2026-01-30T16:50:04"
+    "updated_at": "2026-01-30T20:15:04"
   },
   {
-    "name": "claude-code-mastery",
-    "full_name": "TheDecipherist/claude-code-mastery",
-    "description": "The complete guide to Claude Code: CLAUDE.md, hooks, skills, MCP servers, and commands",
-    "url": "https://github.com/TheDecipherist/claude-code-mastery",
-    "stars": 272,
-    "daily_stars": 5,
+    "name": "moltbot-coolify",
+    "full_name": "essamamdani/moltbot-coolify",
+    "description": "OpenClaw aka (Clawdbot, MoltBot) is a private, always-on AI assistant that runs on your own server and talks to you on the channels you already use.",
+    "url": "https://github.com/essamamdani/moltbot-coolify",
+    "stars": 13,
+    "daily_stars": 4,
     "language": "Shell",
     "topics": [
       "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "claude-md",
-      "coding-assistant",
-      "developer-tools",
-      "llm",
-      "mcp-servers"
+      "ai-assistant",
+      "aiassistant",
+      "clawdbot",
+      "coolify",
+      "coolifytemplate",
+      "moltbot",
+      "openclaw",
+      "tunnel",
+      "vercel"
     ],
-    "created_at": "2026-01-14T18:19:47",
-    "updated_at": "2026-01-30T16:02:13"
+    "created_at": "2026-01-27T12:59:24",
+    "updated_at": "2026-01-30T20:46:11"
   },
   {
-    "name": "Parfait",
-    "full_name": "Chunjiang-Intelligence/Parfait",
-    "description": "Generate market simulation data as perfect as Parfait. ✨",
-    "url": "https://github.com/Chunjiang-Intelligence/Parfait",
-    "stars": 12,
-    "daily_stars": 5,
+    "name": "AlphaGPT",
+    "full_name": "imbue-bit/AlphaGPT",
+    "description": "使用符号回归在中国股市上进行高效因子挖掘。/ By the way，Leverage the novel features and advanced financial mathematics introduced in Uniswap V4 to effectively mitigate just-in-time (JIT) liquidity provision issues.",
+    "url": "https://github.com/imbue-bit/AlphaGPT",
+    "stars": 1483,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
-      "ai",
       "deep-learning",
       "finance",
-      "language-model",
-      "llm",
-      "mathematics",
+      "math",
+      "quant",
       "quantitative-finance",
-      "qwen",
-      "sde",
-      "world-model"
+      "sr",
+      "transformer",
+      "uniswap-v4"
     ],
-    "created_at": "2026-01-30T00:09:01",
-    "updated_at": "2026-01-30T17:04:06"
+    "created_at": "2026-01-08T02:05:21",
+    "updated_at": "2026-01-30T19:17:33"
   },
   {
-    "name": "agent-skills",
-    "full_name": "supabase/agent-skills",
-    "description": "Agent Skills to help developers using AI agents with Supabase",
-    "url": "https://github.com/supabase/agent-skills",
-    "stars": 943,
-    "daily_stars": 4,
+    "name": "youwee",
+    "full_name": "vanloctech/youwee",
+    "description": "A beautifull YouTube, TikTok, Instagram and 1800+ sites downloader (yt-dlp GUI) and AI summary video content for cross-platform",
+    "url": "https://github.com/vanloctech/youwee",
+    "stars": 354,
+    "daily_stars": 3,
     "language": "TypeScript",
     "topics": [
       "ai",
       "ai-agents",
-      "skills",
-      "supabase"
+      "facebook-downloader",
+      "ffmpeg",
+      "ffmpeg-agent",
+      "instagram-downloader",
+      "llm",
+      "open-source",
+      "react",
+      "summary-video",
+      "tauri",
+      "tiktok",
+      "tiktok-downloader-app",
+      "youtube-dl",
+      "yt-dlp",
+      "yt-dlp-gui"
     ],
-    "created_at": "2026-01-16T07:28:01",
-    "updated_at": "2026-01-30T16:34:40"
+    "created_at": "2026-01-18T10:30:15",
+    "updated_at": "2026-01-30T20:03:02"
   }
 ]
