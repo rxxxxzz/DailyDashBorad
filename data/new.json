@@ -4,23 +4,23 @@
     "full_name": "cloudflare/moltworker",
     "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
     "url": "https://github.com/cloudflare/moltworker",
-    "stars": 2731,
-    "daily_stars": 183,
+    "stars": 2977,
+    "daily_stars": 246,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
       "cloudflare-workers"
     ],
     "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-01-30T20:53:37"
+    "updated_at": "2026-01-31T03:03:06"
   },
   {
     "name": "crabwalk",
     "full_name": "luccast/crabwalk",
     "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents.",
     "url": "https://github.com/luccast/crabwalk",
-    "stars": 494,
-    "daily_stars": 2,
+    "stars": 497,
+    "daily_stars": 3,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -30,7 +30,7 @@
       "monitoring"
     ],
     "created_at": "2026-01-25T23:00:59",
-    "updated_at": "2026-01-30T20:32:58"
+    "updated_at": "2026-01-31T02:30:56"
   },
   {
     "name": "gradscii-art",
@@ -45,15 +45,15 @@
       "machine-learning"
     ],
     "created_at": "2026-01-23T04:08:51",
-    "updated_at": "2026-01-30T11:33:38"
+    "updated_at": "2026-01-31T01:02:43"
   },
   {
     "name": "veritas-kanban",
     "full_name": "BradGroux/veritas-kanban",
     "description": "The unfiltered truth about where your project stands. Lightweight kanban built for the agentic era.",
     "url": "https://github.com/BradGroux/veritas-kanban",
-    "stars": 127,
-    "daily_stars": 23,
+    "stars": 140,
+    "daily_stars": 13,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -68,15 +68,15 @@
       "vite"
     ],
     "created_at": "2026-01-26T08:35:20",
-    "updated_at": "2026-01-30T20:38:18"
+    "updated_at": "2026-01-31T02:18:00"
   },
   {
     "name": "takt",
     "full_name": "nrslib/takt",
     "description": "Task Agent Koordination Tool - Multi-agent orchestration system for Claude Code (Codex support planned).",
     "url": "https://github.com/nrslib/takt",
-    "stars": 55,
-    "daily_stars": 2,
+    "stars": 59,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
       "agent-orchestration",
@@ -85,7 +85,7 @@
       "multi-agent"
     ],
     "created_at": "2026-01-25T04:05:48",
-    "updated_at": "2026-01-30T17:45:39"
+    "updated_at": "2026-01-31T02:23:05"
   },
   {
     "name": "tesserack",
@@ -129,6 +129,26 @@
     "updated_at": "2026-01-30T09:15:51"
   },
   {
+    "name": "MyAgents",
+    "full_name": "hAcKlyc/MyAgents",
+    "description": " MyAgents - 桌面版通用Agent，让非开发者也能体会到来自 AI 智能的推背感，成就更好的自己。",
+    "url": "https://github.com/hAcKlyc/MyAgents",
+    "stars": 25,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "code-agent",
+      "desktop",
+      "manus",
+      "skills"
+    ],
+    "created_at": "2026-01-23T10:41:42",
+    "updated_at": "2026-01-31T00:56:42"
+  },
+  {
     "name": "octopus-parallel",
     "full_name": "matthewlam721/octopus-parallel",
     "description": "Pre-balanced GPU workload distribution inspired by octopus neural coordination. Achieves up to 252x speedup on real-world image processing (validated on medical imaging & web images).",
@@ -150,47 +170,38 @@
       "python"
     ],
     "created_at": "2026-01-28T00:26:33",
-    "updated_at": "2026-01-30T18:53:41"
+    "updated_at": "2026-01-30T21:50:39"
   },
   {
-    "name": "MyAgents",
-    "full_name": "hAcKlyc/MyAgents",
-    "description": " MyAgents - 桌面版通用Agent，让非开发者也能体会到来自 AI 智能的推背感，成就更好的自己。",
-    "url": "https://github.com/hAcKlyc/MyAgents",
-    "stars": 24,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "claude-code",
-      "code-agent",
-      "desktop",
-      "manus",
-      "skills"
-    ],
-    "created_at": "2026-01-23T10:41:42",
-    "updated_at": "2026-01-30T20:25:53"
-  },
-  {
-    "name": "ml-ralph",
-    "full_name": "pentoai/ml-ralph",
-    "description": "Autonomous ML agent for running experiments using Claude or Codex.",
-    "url": "https://github.com/pentoai/ml-ralph",
-    "stars": 18,
-    "daily_stars": 0,
+    "name": "polymarket-copy-trading-bots",
+    "full_name": "sircatavax/polymarket-copy-trading-bots",
+    "description": "This repository is inspired by community implementations of Polymarket copy-trading and automated bots that monitor and mirror top market players in real time. Such projects typically include monitoring, scaling based on wallet size, and execution logic to replicate successful strategies.",
+    "url": "https://github.com/sircatavax/polymarket-copy-trading-bots",
+    "stars": 20,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
-      "agents",
-      "aicoding",
-      "claude-code",
-      "codex",
+      "algorithmic-trading",
+      "app-polymarket",
+      "arbitrage",
+      "arbitragebot",
+      "crypto-bot",
+      "defi-arbitrage",
+      "gambling-bot",
       "machine-learning",
-      "python",
-      "ralph",
-      "wandb"
+      "onchain-arbitrage",
+      "polymarket-api-bot",
+      "polymarket-bots-api",
+      "polymarket-copy-bot",
+      "polymarket-sniper-bot",
+      "prediction-markets",
+      "prediction-markets-bot",
+      "prediction-markets-trading",
+      "risk-management",
+      "trading-strategies",
+      "web3-bot"
     ],
-    "created_at": "2026-01-26T17:21:37",
-    "updated_at": "2026-01-30T07:59:38"
+    "created_at": "2026-01-25T18:54:47",
+    "updated_at": "2026-01-30T21:40:47"
   }
 ]
