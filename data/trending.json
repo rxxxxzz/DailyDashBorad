@@ -4,8 +4,8 @@
     "full_name": "affaan-m/everything-claude-code",
     "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
     "url": "https://github.com/affaan-m/everything-claude-code",
-    "stars": 36089,
-    "daily_stars": 197,
+    "stars": 36192,
+    "daily_stars": 103,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -18,30 +18,30 @@
       "productivity"
     ],
     "created_at": "2026-01-18T00:51:51",
-    "updated_at": "2026-01-31T16:51:47"
+    "updated_at": "2026-01-31T20:48:32"
   },
   {
     "name": "moltworker",
     "full_name": "cloudflare/moltworker",
     "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
     "url": "https://github.com/cloudflare/moltworker",
-    "stars": 3489,
-    "daily_stars": 155,
+    "stars": 3584,
+    "daily_stars": 95,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
       "cloudflare-workers"
     ],
     "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-01-31T16:53:01"
+    "updated_at": "2026-01-31T20:47:49"
   },
   {
     "name": "antigravity-awesome-skills",
     "full_name": "sickn33/antigravity-awesome-skills",
     "description": "The Ultimate Collection of 60+ Agentic Skills for Claude Code (Antigravity). Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.",
     "url": "https://github.com/sickn33/antigravity-awesome-skills",
-    "stars": 5766,
-    "daily_stars": 48,
+    "stars": 5820,
+    "daily_stars": 54,
     "language": "Python",
     "topics": [
       "agentic-skills",
@@ -54,15 +54,38 @@
       "security-auditing"
     ],
     "created_at": "2026-01-14T17:48:09",
-    "updated_at": "2026-01-31T16:45:14"
+    "updated_at": "2026-01-31T20:45:40"
+  },
+  {
+    "name": "veritas-kanban",
+    "full_name": "BradGroux/veritas-kanban",
+    "description": "The unfiltered truth about where your project stands. Lightweight kanban built for the agentic era.",
+    "url": "https://github.com/BradGroux/veritas-kanban",
+    "stars": 180,
+    "daily_stars": 21,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "developer-tools",
+      "kanban",
+      "local-first",
+      "pino",
+      "project-management",
+      "react",
+      "task-management",
+      "typescript",
+      "vite"
+    ],
+    "created_at": "2026-01-26T08:35:20",
+    "updated_at": "2026-01-31T20:44:23"
   },
   {
     "name": "oh-my-claude-sisyphus",
     "full_name": "Yeachan-Heo/oh-my-claude-sisyphus",
     "description": "Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?",
     "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
-    "stars": 3881,
-    "daily_stars": 42,
+    "stars": 3898,
+    "daily_stars": 17,
     "language": "TypeScript",
     "topics": [
       "agentic-coding",
@@ -74,15 +97,15 @@
       "vibe-coding"
     ],
     "created_at": "2026-01-09T03:36:29",
-    "updated_at": "2026-01-31T16:53:19"
+    "updated_at": "2026-01-31T20:43:00"
   },
   {
     "name": "crabwalk",
     "full_name": "luccast/crabwalk",
     "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents.",
     "url": "https://github.com/luccast/crabwalk",
-    "stars": 516,
-    "daily_stars": 11,
+    "stars": 521,
+    "daily_stars": 5,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -92,15 +115,32 @@
       "monitoring"
     ],
     "created_at": "2026-01-25T23:00:59",
-    "updated_at": "2026-01-31T16:39:54"
+    "updated_at": "2026-01-31T20:37:22"
+  },
+  {
+    "name": "agent-skills",
+    "full_name": "supabase/agent-skills",
+    "description": "Agent Skills to help developers using AI agents with Supabase",
+    "url": "https://github.com/supabase/agent-skills",
+    "stars": 965,
+    "daily_stars": 4,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "skills",
+      "supabase"
+    ],
+    "created_at": "2026-01-16T07:28:01",
+    "updated_at": "2026-01-31T19:22:22"
   },
   {
     "name": "ultracontext-node",
     "full_name": "ultracontext/ultracontext-node",
     "description": "The context API for AI agents",
     "url": "https://github.com/ultracontext/ultracontext-node",
-    "stars": 87,
-    "daily_stars": 7,
+    "stars": 91,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
       "agents",
@@ -120,88 +160,52 @@
       "versioning"
     ],
     "created_at": "2026-01-07T06:06:31",
-    "updated_at": "2026-01-31T16:54:05"
+    "updated_at": "2026-01-31T17:56:20"
   },
   {
-    "name": "AlphaGPT",
-    "full_name": "imbue-bit/AlphaGPT",
-    "description": "使用符号回归在中国股市上进行高效因子挖掘。/ By the way，Leverage the novel features and advanced financial mathematics introduced in Uniswap V4 to effectively mitigate just-in-time (JIT) liquidity provision issues.",
-    "url": "https://github.com/imbue-bit/AlphaGPT",
-    "stars": 1503,
-    "daily_stars": 7,
-    "language": "Python",
-    "topics": [
-      "deep-learning",
-      "finance",
-      "math",
-      "quant",
-      "quantitative-finance",
-      "sr",
-      "transformer",
-      "uniswap-v4"
-    ],
-    "created_at": "2026-01-08T02:05:21",
-    "updated_at": "2026-01-31T16:45:50"
-  },
-  {
-    "name": "agent-skills",
-    "full_name": "supabase/agent-skills",
-    "description": "Agent Skills to help developers using AI agents with Supabase",
-    "url": "https://github.com/supabase/agent-skills",
-    "stars": 961,
-    "daily_stars": 5,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "skills",
-      "supabase"
-    ],
-    "created_at": "2026-01-16T07:28:01",
-    "updated_at": "2026-01-31T16:35:37"
-  },
-  {
-    "name": "veritas-kanban",
-    "full_name": "BradGroux/veritas-kanban",
-    "description": "The unfiltered truth about where your project stands. Lightweight kanban built for the agentic era.",
-    "url": "https://github.com/BradGroux/veritas-kanban",
-    "stars": 159,
-    "daily_stars": 5,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "developer-tools",
-      "kanban",
-      "local-first",
-      "pino",
-      "project-management",
-      "react",
-      "task-management",
-      "typescript",
-      "vite"
-    ],
-    "created_at": "2026-01-26T08:35:20",
-    "updated_at": "2026-01-31T16:44:11"
-  },
-  {
-    "name": "bkit-claude-code",
-    "full_name": "popup-studio-ai/bkit-claude-code",
-    "description": "bkit Vibecoding Kit - PDCA methodology + Claude Code mastery for AI-native development",
-    "url": "https://github.com/popup-studio-ai/bkit-claude-code",
-    "stars": 100,
+    "name": "moltbot-coolify",
+    "full_name": "essamamdani/moltbot-coolify",
+    "description": "OpenClaw aka (Clawdbot, MoltBot) is a private, always-on AI assistant that runs on your own server and talks to you on the channels you already use.",
+    "url": "https://github.com/essamamdani/moltbot-coolify",
+    "stars": 32,
     "daily_stars": 4,
     "language": "Shell",
     "topics": [
       "ai-agents",
-      "ai-driven-work",
-      "ai-native-development",
-      "claude-code",
-      "multi-language",
-      "pdca",
-      "pipeline",
-      "plugin-repo"
+      "ai-assistant",
+      "aiassistant",
+      "clawdbot",
+      "coolify",
+      "coolifytemplate",
+      "moltbot",
+      "openclaw",
+      "tunnel",
+      "vercel"
     ],
-    "created_at": "2026-01-09T06:25:08",
-    "updated_at": "2026-01-31T15:22:45"
+    "created_at": "2026-01-27T12:59:24",
+    "updated_at": "2026-01-31T20:38:06"
+  },
+  {
+    "name": "lenny-skills",
+    "full_name": "RefoundAI/lenny-skills",
+    "description": "86 product management skills from Lenny's Podcast for Claude Code and AI agents. Hiring, user research, strategy, shipping, and more.",
+    "url": "https://github.com/RefoundAI/lenny-skills",
+    "stars": 26,
+    "daily_stars": 4,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "ai-assistant",
+      "claude",
+      "claude-code",
+      "lenny-rachitsky",
+      "llm",
+      "pm-tools",
+      "product-management",
+      "product-skills",
+      "skills"
+    ],
+    "created_at": "2026-01-29T16:14:48",
+    "updated_at": "2026-01-31T18:57:43"
   }
 ]
