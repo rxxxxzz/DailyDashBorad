@@ -4,23 +4,23 @@
     "full_name": "cloudflare/moltworker",
     "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
     "url": "https://github.com/cloudflare/moltworker",
-    "stars": 4078,
-    "daily_stars": 246,
+    "stars": 4454,
+    "daily_stars": 376,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
       "cloudflare-workers"
     ],
     "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-01T13:24:08"
+    "updated_at": "2026-02-01T16:55:09"
   },
   {
     "name": "everything-claude-code",
     "full_name": "affaan-m/everything-claude-code",
     "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
     "url": "https://github.com/affaan-m/everything-claude-code",
-    "stars": 36768,
-    "daily_stars": 171,
+    "stars": 36919,
+    "daily_stars": 151,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -33,32 +33,15 @@
       "productivity"
     ],
     "created_at": "2026-01-18T00:51:51",
-    "updated_at": "2026-02-01T13:23:37"
-  },
-  {
-    "name": "takt",
-    "full_name": "nrslib/takt",
-    "description": "Task Agent Koordination Tool - Multi-agent orchestration system for Claude Code (Codex support planned).",
-    "url": "https://github.com/nrslib/takt",
-    "stars": 133,
-    "daily_stars": 54,
-    "language": "TypeScript",
-    "topics": [
-      "agent-orchestration",
-      "ai-agents",
-      "claude-code",
-      "multi-agent"
-    ],
-    "created_at": "2026-01-25T04:05:48",
-    "updated_at": "2026-02-01T13:24:17"
+    "updated_at": "2026-02-01T16:53:05"
   },
   {
     "name": "antigravity-awesome-skills",
     "full_name": "sickn33/antigravity-awesome-skills",
     "description": "The Ultimate Collection of 60+ Agentic Skills for Claude Code (Antigravity). Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.",
     "url": "https://github.com/sickn33/antigravity-awesome-skills",
-    "stars": 5990,
-    "daily_stars": 48,
+    "stars": 6023,
+    "daily_stars": 33,
     "language": "Python",
     "topics": [
       "agentic-skills",
@@ -71,15 +54,15 @@
       "security-auditing"
     ],
     "created_at": "2026-01-14T17:48:09",
-    "updated_at": "2026-02-01T13:19:49"
+    "updated_at": "2026-02-01T16:52:20"
   },
   {
     "name": "oh-my-claude-sisyphus",
     "full_name": "Yeachan-Heo/oh-my-claude-sisyphus",
     "description": "Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?",
     "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
-    "stars": 3993,
-    "daily_stars": 30,
+    "stars": 4022,
+    "daily_stars": 29,
     "language": "TypeScript",
     "topics": [
       "agentic-coding",
@@ -91,43 +74,66 @@
       "vibe-coding"
     ],
     "created_at": "2026-01-09T03:36:29",
-    "updated_at": "2026-02-01T13:19:02"
+    "updated_at": "2026-02-01T16:52:08"
   },
   {
-    "name": "Deep-Live-Cam-Multi-Camera-Object-Tracking-Webui",
-    "full_name": "Stelteryz/Deep-Live-Cam-Multi-Camera-Object-Tracking-Webui",
-    "description": "Uses deepfake tech to bypass ID verification and 2FA by simulating a user’s face in real time during live webcam checks, tricking biometric systems into granting unauthorized access through realistic facial mimicry. machine-learning, webcam, faceswap, artificial-intelligence, deepfake, 2fa-bypass, identity-theft, spoofing",
-    "url": "https://github.com/Stelteryz/Deep-Live-Cam-Multi-Camera-Object-Tracking-Webui",
-    "stars": 46,
+    "name": "takt",
+    "full_name": "nrslib/takt",
+    "description": "Task Agent Koordination Tool - Multi-agent orchestration system for Claude Code (Codex support planned).",
+    "url": "https://github.com/nrslib/takt",
+    "stars": 160,
+    "daily_stars": 27,
+    "language": "TypeScript",
+    "topics": [
+      "agent-orchestration",
+      "ai-agents",
+      "claude-code",
+      "multi-agent"
+    ],
+    "created_at": "2026-01-25T04:05:48",
+    "updated_at": "2026-02-01T16:25:01"
+  },
+  {
+    "name": "SubgroupX",
+    "full_name": "n-WN/SubgroupX",
+    "description": "正规子群.AI Agent | SubgroupX: A high-performance AI Agent for offensive security, CTF operations, and active defense protocols. Architected by Normal Subgroup. 这里在倒计时结束后会替换为 Agent 源码",
+    "url": "https://github.com/n-WN/SubgroupX",
+    "stars": 239,
+    "daily_stars": 10,
+    "language": "HTML",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "ctf",
+      "pentest"
+    ],
+    "created_at": "2026-01-07T10:08:38",
+    "updated_at": "2026-02-01T16:21:19"
+  },
+  {
+    "name": "agent-skills",
+    "full_name": "supabase/agent-skills",
+    "description": "Agent Skills to help developers using AI agents with Supabase",
+    "url": "https://github.com/supabase/agent-skills",
+    "stars": 983,
     "daily_stars": 6,
-    "language": "C#",
+    "language": "TypeScript",
     "topics": [
       "ai",
-      "artificial-intelligence",
-      "authentication",
-      "cybersecurity",
-      "deepfake",
-      "face-recognition",
-      "faceswap",
-      "gan",
-      "livestream",
-      "machine-learning",
-      "privacy",
-      "realtime",
-      "streaming",
-      "tracking",
-      "traffic",
-      "webcam"
+      "ai-agents",
+      "skills",
+      "supabase"
     ],
-    "created_at": "2026-01-26T21:01:48",
-    "updated_at": "2026-02-01T11:12:05"
+    "created_at": "2026-01-16T07:28:01",
+    "updated_at": "2026-02-01T16:42:49"
   },
   {
     "name": "crabwalk",
     "full_name": "luccast/crabwalk",
     "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents.",
     "url": "https://github.com/luccast/crabwalk",
-    "stars": 541,
+    "stars": 547,
     "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
@@ -138,14 +144,14 @@
       "monitoring"
     ],
     "created_at": "2026-01-25T23:00:59",
-    "updated_at": "2026-02-01T12:30:49"
+    "updated_at": "2026-02-01T16:36:05"
   },
   {
     "name": "veritas-kanban",
     "full_name": "BradGroux/veritas-kanban",
     "description": "The unfiltered truth about where your project stands. Lightweight kanban built for the agentic era.",
     "url": "https://github.com/BradGroux/veritas-kanban",
-    "stars": 210,
+    "stars": 216,
     "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
@@ -161,72 +167,32 @@
       "vite"
     ],
     "created_at": "2026-01-26T08:35:20",
-    "updated_at": "2026-02-01T12:51:05"
+    "updated_at": "2026-02-01T16:46:39"
   },
   {
-    "name": "OpenBB-finance-AIPowered-Analysis-Agents",
-    "full_name": "Proxemnn/OpenBB-finance-AIPowered-Analysis-Agents",
-    "description": "Custom agents for OpenBB Workspace, plugins",
-    "url": "https://github.com/Proxemnn/OpenBB-finance-AIPowered-Analysis-Agents",
-    "stars": 46,
-    "daily_stars": 6,
-    "language": "C#",
+    "name": "oh-my-ag",
+    "full_name": "first-fluke/oh-my-ag",
+    "description": "Professional agent skills for Google Antigravity IDE featuring specialized PM, Frontend, Backend, Mobile, QA, and Debug agents",
+    "url": "https://github.com/first-fluke/oh-my-ag",
+    "stars": 25,
+    "daily_stars": 3,
+    "language": "TypeScript",
     "topics": [
-      "accounting",
-      "ai",
-      "algorithmic-trading",
-      "budgeting",
-      "crypto",
-      "cryptocurrency",
-      "deep-learning",
-      "economics",
-      "equity",
-      "finance",
-      "financial-analysis",
-      "investment",
-      "investment-strategies",
-      "machine-learning",
-      "money-tracker",
-      "personal-finance",
-      "portfolio-management",
-      "python",
-      "quantitative-finance",
-      "stocks"
+      "ai-agents",
+      "antigravity",
+      "backend-agent",
+      "collaborative-development",
+      "debug-agent",
+      "frontend-agent",
+      "mobile-agent",
+      "multi-agent",
+      "orchestrator",
+      "pm-agent",
+      "qa-agent",
+      "serena-memory",
+      "task-coordination"
     ],
-    "created_at": "2026-01-26T20:12:26",
-    "updated_at": "2026-02-01T11:57:36"
-  },
-  {
-    "name": "blankly-finance-plugins-RSI-Based-Crypto-Trading",
-    "full_name": "Proxemnn/blankly-finance-plugins-RSI-Based-Crypto-Trading",
-    "description": "financial machine learning tools and applications, trading strategies Financial portfolio optimisation.",
-    "url": "https://github.com/Proxemnn/blankly-finance-plugins-RSI-Based-Crypto-Trading",
-    "stars": 45,
-    "daily_stars": 6,
-    "language": "C#",
-    "topics": [
-      "accounting",
-      "ai",
-      "algorithmic-trading",
-      "budgeting",
-      "crypto",
-      "cryptocurrency",
-      "deep-learning",
-      "economics",
-      "equity",
-      "finance",
-      "financial-analysis",
-      "investment",
-      "investment-strategies",
-      "machine-learning",
-      "money-tracker",
-      "personal-finance",
-      "portfolio-management",
-      "python",
-      "quantitative-finance",
-      "stocks"
-    ],
-    "created_at": "2026-01-26T20:12:25",
-    "updated_at": "2026-02-01T11:55:02"
+    "created_at": "2026-01-30T11:29:46",
+    "updated_at": "2026-02-01T14:42:46"
   }
 ]
