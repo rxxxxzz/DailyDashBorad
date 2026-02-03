@@ -1,32 +1,11 @@
 [
   {
-    "name": "everything-claude-code",
-    "full_name": "affaan-m/everything-claude-code",
-    "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
-    "url": "https://github.com/affaan-m/everything-claude-code",
-    "stars": 38854,
-    "daily_stars": 134,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "developer-tools",
-      "llm",
-      "mcp",
-      "productivity"
-    ],
-    "created_at": "2026-01-18T00:51:51",
-    "updated_at": "2026-02-03T17:26:12"
-  },
-  {
     "name": "antigravity-awesome-skills",
     "full_name": "sickn33/antigravity-awesome-skills",
     "description": "The Ultimate Collection of 60+ Agentic Skills for Claude Code (Antigravity). Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.",
     "url": "https://github.com/sickn33/antigravity-awesome-skills",
-    "stars": 6757,
-    "daily_stars": 66,
+    "stars": 6814,
+    "daily_stars": 57,
     "language": "Python",
     "topics": [
       "agentic-skills",
@@ -39,30 +18,51 @@
       "security-auditing"
     ],
     "created_at": "2026-01-14T17:48:09",
-    "updated_at": "2026-02-03T17:21:22"
+    "updated_at": "2026-02-03T20:59:01"
+  },
+  {
+    "name": "everything-claude-code",
+    "full_name": "affaan-m/everything-claude-code",
+    "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
+    "url": "https://github.com/affaan-m/everything-claude-code",
+    "stars": 38906,
+    "daily_stars": 52,
+    "language": "Shell",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ],
+    "created_at": "2026-01-18T00:51:51",
+    "updated_at": "2026-02-03T21:01:38"
   },
   {
     "name": "moltworker",
     "full_name": "cloudflare/moltworker",
     "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
     "url": "https://github.com/cloudflare/moltworker",
-    "stars": 7385,
-    "daily_stars": 63,
+    "stars": 7422,
+    "daily_stars": 37,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
       "cloudflare-workers"
     ],
     "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-03T17:19:56"
+    "updated_at": "2026-02-03T21:00:51"
   },
   {
     "name": "oh-my-claude-sisyphus",
     "full_name": "Yeachan-Heo/oh-my-claude-sisyphus",
     "description": "Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?",
     "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
-    "stars": 4358,
-    "daily_stars": 21,
+    "stars": 4381,
+    "daily_stars": 23,
     "language": "TypeScript",
     "topics": [
       "agentic-coding",
@@ -74,15 +74,34 @@
       "vibe-coding"
     ],
     "created_at": "2026-01-09T03:36:29",
-    "updated_at": "2026-02-03T17:24:52"
+    "updated_at": "2026-02-03T20:39:04"
+  },
+  {
+    "name": "nono",
+    "full_name": "lukehinds/nono",
+    "description": "all your base does belong to us. ",
+    "url": "https://github.com/lukehinds/nono",
+    "stars": 174,
+    "daily_stars": 13,
+    "language": "Rust",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "isolation",
+      "openclaw",
+      "sandbox",
+      "security"
+    ],
+    "created_at": "2026-01-31T09:25:45",
+    "updated_at": "2026-02-03T20:57:15"
   },
   {
     "name": "OpenViking",
     "full_name": "volcengine/OpenViking",
     "description": "OpenViking is an open-source context database designed specifically for AI Agents. OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
     "url": "https://github.com/volcengine/OpenViking",
-    "stars": 681,
-    "daily_stars": 13,
+    "stars": 692,
+    "daily_stars": 11,
     "language": "Python",
     "topics": [
       "agent",
@@ -96,55 +115,71 @@
       "skill"
     ],
     "created_at": "2026-01-05T07:11:17",
-    "updated_at": "2026-02-03T17:18:18"
+    "updated_at": "2026-02-03T20:50:06"
   },
   {
-    "name": "nono",
-    "full_name": "lukehinds/nono",
-    "description": "all your base does belong to us. ",
-    "url": "https://github.com/lukehinds/nono",
-    "stars": 161,
-    "daily_stars": 11,
-    "language": "Rust",
+    "name": "workflow",
+    "full_name": "joelfokou/workflow",
+    "description": "Simplified workflow orchestration for developer and CI pipelines",
+    "url": "https://github.com/joelfokou/workflow",
+    "stars": 11,
+    "daily_stars": 5,
+    "language": "Go",
+    "topics": [
+      "cli",
+      "dag",
+      "git-native",
+      "go",
+      "orchestration",
+      "workflow"
+    ],
+    "created_at": "2026-01-10T19:29:17",
+    "updated_at": "2026-02-03T20:37:47"
+  },
+  {
+    "name": "skills",
+    "full_name": "elevenlabs/skills",
+    "description": "Collections of Skills to assist building with ElevenLabs",
+    "url": "https://github.com/elevenlabs/skills",
+    "stars": 14,
+    "daily_stars": 4,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "elevenlabs",
+      "music",
+      "sfx",
+      "skills",
+      "stt",
+      "tts"
+    ],
+    "created_at": "2026-01-24T16:05:10",
+    "updated_at": "2026-02-03T20:31:16"
+  },
+  {
+    "name": "agent-skills",
+    "full_name": "supabase/agent-skills",
+    "description": "Agent Skills to help developers using AI agents with Supabase",
+    "url": "https://github.com/supabase/agent-skills",
+    "stars": 1050,
+    "daily_stars": 3,
+    "language": "TypeScript",
     "topics": [
       "ai",
       "ai-agents",
-      "isolation",
-      "openclaw",
-      "sandbox",
-      "security"
+      "skills",
+      "supabase"
     ],
-    "created_at": "2026-01-31T09:25:45",
-    "updated_at": "2026-02-03T17:25:46"
-  },
-  {
-    "name": "Trellis",
-    "full_name": "mindfold-ai/Trellis",
-    "description": "All-in-one AI framework & toolkit for Claude Code & Cursor",
-    "url": "https://github.com/mindfold-ai/Trellis",
-    "stars": 1680,
-    "daily_stars": 7,
-    "language": "Shell",
-    "topics": [
-      "ai-agent",
-      "ai-coding",
-      "claude-code",
-      "cli",
-      "cursor",
-      "developer-tools",
-      "typescript",
-      "workflow"
-    ],
-    "created_at": "2026-01-26T11:49:10",
-    "updated_at": "2026-02-03T17:06:14"
+    "created_at": "2026-01-16T07:28:01",
+    "updated_at": "2026-02-03T19:59:59"
   },
   {
     "name": "crabwalk",
     "full_name": "luccast/crabwalk",
     "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents.",
     "url": "https://github.com/luccast/crabwalk",
-    "stars": 615,
-    "daily_stars": 4,
+    "stars": 618,
+    "daily_stars": 3,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -154,62 +189,6 @@
       "monitoring"
     ],
     "created_at": "2026-01-25T23:00:59",
-    "updated_at": "2026-02-03T17:23:56"
-  },
-  {
-    "name": "veritas-kanban",
-    "full_name": "BradGroux/veritas-kanban",
-    "description": "The unfiltered truth about where your project stands. Lightweight kanban built for the agentic era.",
-    "url": "https://github.com/BradGroux/veritas-kanban",
-    "stars": 269,
-    "daily_stars": 4,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "developer-tools",
-      "kanban",
-      "local-first",
-      "pino",
-      "project-management",
-      "react",
-      "task-management",
-      "typescript",
-      "vite"
-    ],
-    "created_at": "2026-01-26T08:35:20",
-    "updated_at": "2026-02-03T15:46:46"
-  },
-  {
-    "name": "awesome-slash",
-    "full_name": "avifenesh/awesome-slash",
-    "description": "Professional-grade slash commands for Claude Code that work across any project",
-    "url": "https://github.com/avifenesh/awesome-slash",
-    "stars": 320,
-    "daily_stars": 4,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "ci-cd",
-      "claude-code",
-      "claude-code-plugin",
-      "claude-marketplace",
-      "code-review",
-      "codex",
-      "codex-cli",
-      "developer-productivity",
-      "github-actions",
-      "golang",
-      "java",
-      "js",
-      "opencode",
-      "railway",
-      "rust",
-      "slash-commands",
-      "ts",
-      "vercel",
-      "zero-configuration"
-    ],
-    "created_at": "2026-01-15T09:33:05",
-    "updated_at": "2026-02-03T15:56:51"
+    "updated_at": "2026-02-03T20:30:14"
   }
 ]
