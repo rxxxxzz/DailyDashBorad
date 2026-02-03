@@ -1,26 +1,11 @@
 [
   {
-    "name": "moltworker",
-    "full_name": "cloudflare/moltworker",
-    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
-    "url": "https://github.com/cloudflare/moltworker",
-    "stars": 7006,
-    "daily_stars": 116,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "cloudflare-workers"
-    ],
-    "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-03T05:33:53"
-  },
-  {
     "name": "everything-claude-code",
     "full_name": "affaan-m/everything-claude-code",
     "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
     "url": "https://github.com/affaan-m/everything-claude-code",
-    "stars": 38307,
-    "daily_stars": 111,
+    "stars": 38513,
+    "daily_stars": 206,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -33,15 +18,30 @@
       "productivity"
     ],
     "created_at": "2026-01-18T00:51:51",
-    "updated_at": "2026-02-03T05:33:01"
+    "updated_at": "2026-02-03T09:03:57"
+  },
+  {
+    "name": "moltworker",
+    "full_name": "cloudflare/moltworker",
+    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
+    "url": "https://github.com/cloudflare/moltworker",
+    "stars": 7187,
+    "daily_stars": 181,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "cloudflare-workers"
+    ],
+    "created_at": "2026-01-27T11:09:39",
+    "updated_at": "2026-02-03T09:04:18"
   },
   {
     "name": "antigravity-awesome-skills",
     "full_name": "sickn33/antigravity-awesome-skills",
     "description": "The Ultimate Collection of 60+ Agentic Skills for Claude Code (Antigravity). Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.",
     "url": "https://github.com/sickn33/antigravity-awesome-skills",
-    "stars": 6489,
-    "daily_stars": 44,
+    "stars": 6576,
+    "daily_stars": 87,
     "language": "Python",
     "topics": [
       "agentic-skills",
@@ -54,15 +54,35 @@
       "security-auditing"
     ],
     "created_at": "2026-01-14T17:48:09",
-    "updated_at": "2026-02-03T05:33:05"
+    "updated_at": "2026-02-03T09:03:29"
+  },
+  {
+    "name": "oh-my-claude-sisyphus",
+    "full_name": "Yeachan-Heo/oh-my-claude-sisyphus",
+    "description": "Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?",
+    "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
+    "stars": 4299,
+    "daily_stars": 43,
+    "language": "TypeScript",
+    "topics": [
+      "agentic-coding",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "oh-my-opencode",
+      "opencode",
+      "vibe-coding"
+    ],
+    "created_at": "2026-01-09T03:36:29",
+    "updated_at": "2026-02-03T09:04:29"
   },
   {
     "name": "Trellis",
     "full_name": "mindfold-ai/Trellis",
     "description": "All-in-one AI framework & toolkit for Claude Code & Cursor",
     "url": "https://github.com/mindfold-ai/Trellis",
-    "stars": 1604,
-    "daily_stars": 15,
+    "stars": 1647,
+    "daily_stars": 43,
     "language": "Shell",
     "topics": [
       "ai-agent",
@@ -75,52 +95,34 @@
       "workflow"
     ],
     "created_at": "2026-01-26T11:49:10",
-    "updated_at": "2026-02-03T05:23:20"
+    "updated_at": "2026-02-03T09:01:12"
   },
   {
-    "name": "oh-my-claude-sisyphus",
-    "full_name": "Yeachan-Heo/oh-my-claude-sisyphus",
-    "description": "Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?",
-    "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
-    "stars": 4256,
-    "daily_stars": 12,
-    "language": "TypeScript",
-    "topics": [
-      "agentic-coding",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "oh-my-opencode",
-      "opencode",
-      "vibe-coding"
-    ],
-    "created_at": "2026-01-09T03:36:29",
-    "updated_at": "2026-02-03T05:22:56"
-  },
-  {
-    "name": "agent-skills",
-    "full_name": "supabase/agent-skills",
-    "description": "Agent Skills to help developers using AI agents with Supabase",
-    "url": "https://github.com/supabase/agent-skills",
-    "stars": 1032,
-    "daily_stars": 7,
-    "language": "TypeScript",
+    "name": "nono",
+    "full_name": "lukehinds/nono",
+    "description": "all your base does belong to us. ",
+    "url": "https://github.com/lukehinds/nono",
+    "stars": 142,
+    "daily_stars": 14,
+    "language": "Rust",
     "topics": [
       "ai",
       "ai-agents",
-      "skills",
-      "supabase"
+      "isolation",
+      "openclaw",
+      "sandbox",
+      "security"
     ],
-    "created_at": "2026-01-16T07:28:01",
-    "updated_at": "2026-02-03T05:20:47"
+    "created_at": "2026-01-31T09:25:45",
+    "updated_at": "2026-02-03T08:47:48"
   },
   {
     "name": "crabwalk",
     "full_name": "luccast/crabwalk",
     "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents.",
     "url": "https://github.com/luccast/crabwalk",
-    "stars": 598,
-    "daily_stars": 3,
+    "stars": 605,
+    "daily_stars": 7,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -130,87 +132,64 @@
       "monitoring"
     ],
     "created_at": "2026-01-25T23:00:59",
-    "updated_at": "2026-02-03T05:07:55"
+    "updated_at": "2026-02-03T08:47:14"
   },
   {
-    "name": "shipyard",
-    "full_name": "lgbarn/shipyard",
-    "description": "Structured project lifecycle plugin for Claude Code — from idea to production with discipline, parallel agents, and quality gates.",
-    "url": "https://github.com/lgbarn/shipyard",
-    "stars": 17,
-    "daily_stars": 3,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "claude-code-plugin",
-      "cli-plugin",
-      "code-review",
-      "developer-tools",
-      "infrastructure-as-code",
-      "project-management",
-      "security-audit",
-      "tdd"
-    ],
-    "created_at": "2026-01-31T17:58:23",
-    "updated_at": "2026-02-03T04:50:26"
-  },
-  {
-    "name": "violit",
-    "full_name": "violit-dev/violit",
-    "description": "The High-Performance Python Web Framework. The simplicity of Streamlit, minus the reruns",
-    "url": "https://github.com/violit-dev/violit",
-    "stars": 241,
-    "daily_stars": 3,
+    "name": "AlphaGPT",
+    "full_name": "imbue-bit/AlphaGPT",
+    "description": "使用符号回归在中国股市上进行高效因子挖掘。/ By the way，Leverage the novel features and advanced financial mathematics introduced in Uniswap V4 to effectively mitigate just-in-time (JIT) liquidity provision issues.",
+    "url": "https://github.com/imbue-bit/AlphaGPT",
+    "stars": 1546,
+    "daily_stars": 7,
     "language": "Python",
     "topics": [
-      "ai",
-      "data-application",
-      "data-science",
-      "fastapi",
-      "framework",
-      "fullstack",
-      "gui",
+      "deep-learning",
+      "finance",
+      "math",
+      "quant",
+      "quantitative-finance",
+      "sr",
+      "transformer",
+      "uniswap-v4"
+    ],
+    "created_at": "2026-01-08T02:05:21",
+    "updated_at": "2026-02-03T08:55:04"
+  },
+  {
+    "name": "vibetensor",
+    "full_name": "NVlabs/vibetensor",
+    "description": "The first fully AI generated DL framework",
+    "url": "https://github.com/NVlabs/vibetensor",
+    "stars": 456,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "cuda",
+      "cutlass",
       "machine-learning",
-      "mvp",
-      "python",
-      "python-web-development",
-      "reactive",
-      "streamlit-alternative",
-      "ui",
-      "webapp"
+      "pytorch",
+      "vibe-coding"
     ],
-    "created_at": "2026-01-18T15:07:06",
-    "updated_at": "2026-02-03T04:56:44"
+    "created_at": "2026-01-05T03:19:03",
+    "updated_at": "2026-02-03T08:10:26"
   },
   {
-    "name": "antigravity-skills",
-    "full_name": "guanyang/antigravity-skills",
-    "description": "通过模块化的 Skills 定义，赋予 Agent 在特定领域的专业能力（如全栈开发、复杂逻辑规划、多媒体处理等），让 Agent 能够像人类专家一样系统性地解决复杂问题。",
-    "url": "https://github.com/guanyang/antigravity-skills",
-    "stars": 140,
-    "daily_stars": 2,
+    "name": "ai-agent-skill-for-video-workflow",
+    "full_name": "dean9703111/ai-agent-skill-for-video-workflow",
+    "description": "這是一個專為影片字幕處理設計的 AI Agent Skills 集合，提供從音訊轉字幕、優化字幕、設計字卡到生成社群媒體摘要的完整工作流程。",
+    "url": "https://github.com/dean9703111/ai-agent-skill-for-video-workflow",
+    "stars": 26,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
-      "agent",
-      "ai-agents",
-      "ai-skills",
-      "anthropic-skills",
+      "agent-skills",
+      "ai",
+      "ai-agent",
+      "ai-agent-skills",
       "antigravity",
-      "antigravity-ai",
-      "antigravity-ide",
-      "claude-code",
-      "claude-code-plugin",
-      "context-engineering",
-      "full-stack",
-      "notebooklm",
-      "planning",
-      "skills",
-      "superpowers",
-      "ui-ux-design",
-      "workflows"
+      "workflow"
     ],
-    "created_at": "2026-01-13T04:29:34",
-    "updated_at": "2026-02-03T04:25:11"
+    "created_at": "2026-01-27T16:24:40",
+    "updated_at": "2026-02-03T08:48:40"
   }
 ]
