@@ -1,32 +1,11 @@
 [
   {
-    "name": "antigravity-awesome-skills",
-    "full_name": "sickn33/antigravity-awesome-skills",
-    "description": "The Ultimate Collection of 60+ Agentic Skills for Claude Code (Antigravity). Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.",
-    "url": "https://github.com/sickn33/antigravity-awesome-skills",
-    "stars": 6814,
-    "daily_stars": 57,
-    "language": "Python",
-    "topics": [
-      "agentic-skills",
-      "ai-agents",
-      "antigravity",
-      "autonomous-coding",
-      "claude-code",
-      "mcp",
-      "react-patterns",
-      "security-auditing"
-    ],
-    "created_at": "2026-01-14T17:48:09",
-    "updated_at": "2026-02-03T20:59:01"
-  },
-  {
     "name": "everything-claude-code",
     "full_name": "affaan-m/everything-claude-code",
     "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
     "url": "https://github.com/affaan-m/everything-claude-code",
-    "stars": 38906,
-    "daily_stars": 52,
+    "stars": 39125,
+    "daily_stars": 219,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -39,30 +18,36 @@
       "productivity"
     ],
     "created_at": "2026-01-18T00:51:51",
-    "updated_at": "2026-02-03T21:01:38"
+    "updated_at": "2026-02-04T03:14:44"
   },
   {
-    "name": "moltworker",
-    "full_name": "cloudflare/moltworker",
-    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
-    "url": "https://github.com/cloudflare/moltworker",
-    "stars": 7422,
-    "daily_stars": 37,
-    "language": "TypeScript",
+    "name": "antigravity-awesome-skills",
+    "full_name": "sickn33/antigravity-awesome-skills",
+    "description": "The Ultimate Collection of 60+ Agentic Skills for Claude Code (Antigravity). Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.",
+    "url": "https://github.com/sickn33/antigravity-awesome-skills",
+    "stars": 6911,
+    "daily_stars": 97,
+    "language": "Python",
     "topics": [
+      "agentic-skills",
       "ai-agents",
-      "cloudflare-workers"
+      "antigravity",
+      "autonomous-coding",
+      "claude-code",
+      "mcp",
+      "react-patterns",
+      "security-auditing"
     ],
-    "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-03T21:00:51"
+    "created_at": "2026-01-14T17:48:09",
+    "updated_at": "2026-02-04T03:12:43"
   },
   {
     "name": "oh-my-claude-sisyphus",
     "full_name": "Yeachan-Heo/oh-my-claude-sisyphus",
     "description": "Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?",
     "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
-    "stars": 4381,
-    "daily_stars": 23,
+    "stars": 4448,
+    "daily_stars": 67,
     "language": "TypeScript",
     "topics": [
       "agentic-coding",
@@ -74,15 +59,30 @@
       "vibe-coding"
     ],
     "created_at": "2026-01-09T03:36:29",
-    "updated_at": "2026-02-03T20:39:04"
+    "updated_at": "2026-02-04T03:10:16"
+  },
+  {
+    "name": "moltworker",
+    "full_name": "cloudflare/moltworker",
+    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
+    "url": "https://github.com/cloudflare/moltworker",
+    "stars": 7486,
+    "daily_stars": 64,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "cloudflare-workers"
+    ],
+    "created_at": "2026-01-27T11:09:39",
+    "updated_at": "2026-02-04T03:13:34"
   },
   {
     "name": "nono",
     "full_name": "lukehinds/nono",
     "description": "all your base does belong to us. ",
     "url": "https://github.com/lukehinds/nono",
-    "stars": 174,
-    "daily_stars": 13,
+    "stars": 193,
+    "daily_stars": 19,
     "language": "Rust",
     "topics": [
       "ai",
@@ -93,56 +93,76 @@
       "security"
     ],
     "created_at": "2026-01-31T09:25:45",
-    "updated_at": "2026-02-03T20:57:15"
+    "updated_at": "2026-02-04T02:27:45"
   },
   {
-    "name": "OpenViking",
-    "full_name": "volcengine/OpenViking",
-    "description": "OpenViking is an open-source context database designed specifically for AI Agents. OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
-    "url": "https://github.com/volcengine/OpenViking",
-    "stars": 692,
-    "daily_stars": 11,
-    "language": "Python",
+    "name": "agent-skills",
+    "full_name": "supabase/agent-skills",
+    "description": "Agent Skills to help developers using AI agents with Supabase",
+    "url": "https://github.com/supabase/agent-skills",
+    "stars": 1059,
+    "daily_stars": 9,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "skills",
+      "supabase"
+    ],
+    "created_at": "2026-01-16T07:28:01",
+    "updated_at": "2026-02-04T02:15:09"
+  },
+  {
+    "name": "fullstack-solution-template-for-agentcore",
+    "full_name": "awslabs/fullstack-solution-template-for-agentcore",
+    "description": "Flexible Fullstack solution template for production-ready deployments of any use case on Amazon Bedrock AgentCore.",
+    "url": "https://github.com/awslabs/fullstack-solution-template-for-agentcore",
+    "stars": 241,
+    "daily_stars": 8,
+    "language": "TypeScript",
     "topics": [
       "agent",
-      "ai-agents",
-      "context-database",
-      "context-engineering",
-      "filesystem",
-      "llm",
-      "memory",
-      "rag",
-      "skill"
+      "agentcore",
+      "agentic-ai",
+      "ai",
+      "artificial-intelligence",
+      "aws",
+      "cdk",
+      "full-stack",
+      "fullstack",
+      "infrastructure-as-code",
+      "react",
+      "runtime",
+      "template"
     ],
-    "created_at": "2026-01-05T07:11:17",
-    "updated_at": "2026-02-03T20:50:06"
+    "created_at": "2026-01-15T19:10:52",
+    "updated_at": "2026-02-04T03:02:26"
   },
   {
-    "name": "workflow",
-    "full_name": "joelfokou/workflow",
-    "description": "Simplified workflow orchestration for developer and CI pipelines",
-    "url": "https://github.com/joelfokou/workflow",
-    "stars": 11,
-    "daily_stars": 5,
-    "language": "Go",
+    "name": "crabwalk",
+    "full_name": "luccast/crabwalk",
+    "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents.",
+    "url": "https://github.com/luccast/crabwalk",
+    "stars": 626,
+    "daily_stars": 8,
+    "language": "TypeScript",
     "topics": [
-      "cli",
-      "dag",
-      "git-native",
-      "go",
-      "orchestration",
-      "workflow"
+      "ai",
+      "ai-agents",
+      "clawdbot",
+      "moltbot",
+      "monitoring"
     ],
-    "created_at": "2026-01-10T19:29:17",
-    "updated_at": "2026-02-03T20:37:47"
+    "created_at": "2026-01-25T23:00:59",
+    "updated_at": "2026-02-04T02:16:40"
   },
   {
     "name": "skills",
     "full_name": "elevenlabs/skills",
     "description": "Collections of Skills to assist building with ElevenLabs",
     "url": "https://github.com/elevenlabs/skills",
-    "stars": 14,
-    "daily_stars": 4,
+    "stars": 22,
+    "daily_stars": 8,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -154,41 +174,27 @@
       "tts"
     ],
     "created_at": "2026-01-24T16:05:10",
-    "updated_at": "2026-02-03T20:31:16"
+    "updated_at": "2026-02-04T02:54:26"
   },
   {
-    "name": "agent-skills",
-    "full_name": "supabase/agent-skills",
-    "description": "Agent Skills to help developers using AI agents with Supabase",
-    "url": "https://github.com/supabase/agent-skills",
-    "stars": 1050,
-    "daily_stars": 3,
-    "language": "TypeScript",
+    "name": "Trellis",
+    "full_name": "mindfold-ai/Trellis",
+    "description": "All-in-one AI framework & toolkit for Claude Code & Cursor",
+    "url": "https://github.com/mindfold-ai/Trellis",
+    "stars": 1688,
+    "daily_stars": 8,
+    "language": "Shell",
     "topics": [
-      "ai",
-      "ai-agents",
-      "skills",
-      "supabase"
+      "ai-agent",
+      "ai-coding",
+      "claude-code",
+      "cli",
+      "cursor",
+      "developer-tools",
+      "typescript",
+      "workflow"
     ],
-    "created_at": "2026-01-16T07:28:01",
-    "updated_at": "2026-02-03T19:59:59"
-  },
-  {
-    "name": "crabwalk",
-    "full_name": "luccast/crabwalk",
-    "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents.",
-    "url": "https://github.com/luccast/crabwalk",
-    "stars": 618,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "clawdbot",
-      "moltbot",
-      "monitoring"
-    ],
-    "created_at": "2026-01-25T23:00:59",
-    "updated_at": "2026-02-03T20:30:14"
+    "created_at": "2026-01-26T11:49:10",
+    "updated_at": "2026-02-04T03:06:42"
   }
 ]
