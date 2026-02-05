@@ -4,8 +4,8 @@
     "full_name": "affaan-m/everything-claude-code",
     "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
     "url": "https://github.com/affaan-m/everything-claude-code",
-    "stars": 40175,
-    "daily_stars": 276,
+    "stars": 40353,
+    "daily_stars": 178,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -18,35 +18,15 @@
       "productivity"
     ],
     "created_at": "2026-01-18T00:51:51",
-    "updated_at": "2026-02-05T09:08:02"
-  },
-  {
-    "name": "oh-my-claude-sisyphus",
-    "full_name": "Yeachan-Heo/oh-my-claude-sisyphus",
-    "description": "Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?",
-    "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
-    "stars": 4683,
-    "daily_stars": 47,
-    "language": "TypeScript",
-    "topics": [
-      "agentic-coding",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "oh-my-opencode",
-      "opencode",
-      "vibe-coding"
-    ],
-    "created_at": "2026-01-09T03:36:29",
-    "updated_at": "2026-02-05T09:08:10"
+    "updated_at": "2026-02-05T13:38:54"
   },
   {
     "name": "antigravity-awesome-skills",
     "full_name": "sickn33/antigravity-awesome-skills",
     "description": "The Ultimate Collection of 60+ Agentic Skills for Claude Code (Antigravity). Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.",
     "url": "https://github.com/sickn33/antigravity-awesome-skills",
-    "stars": 7233,
-    "daily_stars": 43,
+    "stars": 7282,
+    "daily_stars": 49,
     "language": "Python",
     "topics": [
       "agentic-skills",
@@ -59,15 +39,15 @@
       "security-auditing"
     ],
     "created_at": "2026-01-14T17:48:09",
-    "updated_at": "2026-02-05T09:06:32"
+    "updated_at": "2026-02-05T13:40:40"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 302,
-    "daily_stars": 43,
+    "stars": 349,
+    "daily_stars": 47,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -87,30 +67,50 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-05T09:06:26"
+    "updated_at": "2026-02-05T13:44:22"
+  },
+  {
+    "name": "oh-my-claude-sisyphus",
+    "full_name": "Yeachan-Heo/oh-my-claude-sisyphus",
+    "description": "Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?",
+    "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
+    "stars": 4727,
+    "daily_stars": 44,
+    "language": "TypeScript",
+    "topics": [
+      "agentic-coding",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "oh-my-opencode",
+      "opencode",
+      "vibe-coding"
+    ],
+    "created_at": "2026-01-09T03:36:29",
+    "updated_at": "2026-02-05T13:38:55"
   },
   {
     "name": "moltworker",
     "full_name": "cloudflare/moltworker",
     "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
     "url": "https://github.com/cloudflare/moltworker",
-    "stars": 7779,
-    "daily_stars": 30,
+    "stars": 7805,
+    "daily_stars": 26,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
       "cloudflare-workers"
     ],
     "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-05T08:57:17"
+    "updated_at": "2026-02-05T13:35:20"
   },
   {
     "name": "Trellis",
     "full_name": "mindfold-ai/Trellis",
     "description": "All-in-one AI framework & toolkit for Claude Code & Cursor",
     "url": "https://github.com/mindfold-ai/Trellis",
-    "stars": 1802,
-    "daily_stars": 27,
+    "stars": 1817,
+    "daily_stars": 15,
     "language": "Shell",
     "topics": [
       "ai-agent",
@@ -123,33 +123,60 @@
       "workflow"
     ],
     "created_at": "2026-01-26T11:49:10",
-    "updated_at": "2026-02-05T09:08:09"
+    "updated_at": "2026-02-05T13:42:17"
   },
   {
-    "name": "moltbook-agent-guard",
-    "full_name": "NirDiamant/moltbook-agent-guard",
-    "description": "Real-time security for AI agents on Moltbook",
-    "url": "https://github.com/NirDiamant/moltbook-agent-guard",
-    "stars": 30,
-    "daily_stars": 7,
-    "language": "Python",
+    "name": "riphook",
+    "full_name": "merciagents/riphook",
+    "description": "Deterministic security layer for Openclaw(Clawdbot), Cursor and Claude Code. Write secure code, prevent data exfil, and more",
+    "url": "https://github.com/merciagents/riphook",
+    "stars": 23,
+    "daily_stars": 6,
+    "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "llm",
+      "clawdbot",
+      "hooks",
       "moltbook",
-      "prompt-injection",
+      "moltbot",
+      "openclaw",
+      "openclaw-security",
       "security"
     ],
-    "created_at": "2026-02-04T15:02:13",
-    "updated_at": "2026-02-05T08:08:59"
+    "created_at": "2026-02-04T05:26:35",
+    "updated_at": "2026-02-05T13:19:07"
+  },
+  {
+    "name": "chatgpt-graph-navigator",
+    "full_name": "Robbings/chatgpt-graph-navigator",
+    "description": "Transform ChatGPT into a navigable knowledge graph.  Visualize complex branches with the spatial Graph View, manage history via the Git-style Timeline Tree, and enjoy a growing toolkit of workflow utilities.",
+    "url": "https://github.com/Robbings/chatgpt-graph-navigator",
+    "stars": 44,
+    "daily_stars": 6,
+    "language": "JavaScript",
+    "topics": [
+      "browser-extension",
+      "chat-history",
+      "chatgpt",
+      "chrome-extension",
+      "mindmap",
+      "navigation",
+      "openai",
+      "productivity-tools",
+      "timeline",
+      "visualization-tools",
+      "workflow"
+    ],
+    "created_at": "2026-01-25T15:22:24",
+    "updated_at": "2026-02-05T12:39:22"
   },
   {
     "name": "nono",
     "full_name": "lukehinds/nono",
     "description": "all your base does belong to us. ",
     "url": "https://github.com/lukehinds/nono",
-    "stars": 240,
-    "daily_stars": 6,
+    "stars": 245,
+    "daily_stars": 5,
     "language": "Rust",
     "topics": [
       "ai",
@@ -160,38 +187,15 @@
       "security"
     ],
     "created_at": "2026-01-31T09:25:45",
-    "updated_at": "2026-02-05T08:53:00"
-  },
-  {
-    "name": "lenny-skills",
-    "full_name": "RefoundAI/lenny-skills",
-    "description": "86 product management skills from Lenny's Podcast for Claude Code and AI agents. Hiring, user research, strategy, shipping, and more.",
-    "url": "https://github.com/RefoundAI/lenny-skills",
-    "stars": 89,
-    "daily_stars": 4,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "ai-assistant",
-      "claude",
-      "claude-code",
-      "lenny-rachitsky",
-      "llm",
-      "pm-tools",
-      "product-management",
-      "product-skills",
-      "skills"
-    ],
-    "created_at": "2026-01-29T16:14:48",
-    "updated_at": "2026-02-05T09:06:17"
+    "updated_at": "2026-02-05T12:57:07"
   },
   {
     "name": "AlphaGPT",
     "full_name": "imbue-bit/AlphaGPT",
     "description": "使用符号回归在中国股市上进行高效因子挖掘。/ By the way，Leverage the novel features and advanced financial mathematics introduced in Uniswap V4 to effectively mitigate just-in-time (JIT) liquidity provision issues.",
     "url": "https://github.com/imbue-bit/AlphaGPT",
-    "stars": 1574,
-    "daily_stars": 4,
+    "stars": 1579,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "deep-learning",
@@ -204,6 +208,6 @@
       "uniswap-v4"
     ],
     "created_at": "2026-01-08T02:05:21",
-    "updated_at": "2026-02-05T08:20:09"
+    "updated_at": "2026-02-05T13:24:17"
   }
 ]
