@@ -1,30 +1,11 @@
 [
   {
-    "name": "nono",
-    "full_name": "lukehinds/nono",
-    "description": "all your base does belong to us. ",
-    "url": "https://github.com/lukehinds/nono",
-    "stars": 223,
-    "daily_stars": 3,
-    "language": "Rust",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "isolation",
-      "openclaw",
-      "sandbox",
-      "security"
-    ],
-    "created_at": "2026-01-31T09:25:45",
-    "updated_at": "2026-02-04T20:17:27"
-  },
-  {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 199,
-    "daily_stars": 20,
+    "stars": 236,
+    "daily_stars": 37,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -44,15 +25,34 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-04T20:56:33"
+    "updated_at": "2026-02-05T03:15:59"
+  },
+  {
+    "name": "nono",
+    "full_name": "lukehinds/nono",
+    "description": "all your base does belong to us. ",
+    "url": "https://github.com/lukehinds/nono",
+    "stars": 233,
+    "daily_stars": 10,
+    "language": "Rust",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "isolation",
+      "openclaw",
+      "sandbox",
+      "security"
+    ],
+    "created_at": "2026-01-31T09:25:45",
+    "updated_at": "2026-02-05T01:00:41"
   },
   {
     "name": "oh-my-ag",
     "full_name": "first-fluke/oh-my-ag",
     "description": "Professional agent skills for Google Antigravity IDE featuring specialized PM, Frontend, Backend, Mobile, QA, and Debug agents",
     "url": "https://github.com/first-fluke/oh-my-ag",
-    "stars": 132,
-    "daily_stars": 0,
+    "stars": 136,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -70,15 +70,15 @@
       "task-coordination"
     ],
     "created_at": "2026-01-30T11:29:46",
-    "updated_at": "2026-02-04T20:03:58"
+    "updated_at": "2026-02-05T03:05:49"
   },
   {
     "name": "lenny-skills",
     "full_name": "RefoundAI/lenny-skills",
     "description": "86 product management skills from Lenny's Podcast for Claude Code and AI agents. Hiring, user research, strategy, shipping, and more.",
     "url": "https://github.com/RefoundAI/lenny-skills",
-    "stars": 76,
-    "daily_stars": 2,
+    "stars": 81,
+    "daily_stars": 5,
     "language": null,
     "topics": [
       "ai-agents",
@@ -93,7 +93,30 @@
       "skills"
     ],
     "created_at": "2026-01-29T16:14:48",
-    "updated_at": "2026-02-04T20:08:52"
+    "updated_at": "2026-02-05T03:07:13"
+  },
+  {
+    "name": "shipyard",
+    "full_name": "lgbarn/shipyard",
+    "description": "Structured project lifecycle plugin for Claude Code — from idea to production with discipline, parallel agents, and quality gates.",
+    "url": "https://github.com/lgbarn/shipyard",
+    "stars": 31,
+    "daily_stars": 1,
+    "language": "Shell",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "cli-plugin",
+      "code-review",
+      "developer-tools",
+      "infrastructure-as-code",
+      "project-management",
+      "security-audit",
+      "tdd"
+    ],
+    "created_at": "2026-01-31T17:58:23",
+    "updated_at": "2026-02-05T01:11:21"
   },
   {
     "name": "Parfait",
@@ -119,35 +142,12 @@
     "updated_at": "2026-02-03T14:55:30"
   },
   {
-    "name": "shipyard",
-    "full_name": "lgbarn/shipyard",
-    "description": "Structured project lifecycle plugin for Claude Code — from idea to production with discipline, parallel agents, and quality gates.",
-    "url": "https://github.com/lgbarn/shipyard",
-    "stars": 30,
-    "daily_stars": 1,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "claude-code-plugin",
-      "cli-plugin",
-      "code-review",
-      "developer-tools",
-      "infrastructure-as-code",
-      "project-management",
-      "security-audit",
-      "tdd"
-    ],
-    "created_at": "2026-01-31T17:58:23",
-    "updated_at": "2026-02-04T17:40:55"
-  },
-  {
     "name": "Nemp-memory",
     "full_name": "SukinShetty/Nemp-memory",
     "description": "Nemp - The memory plugin for Claude Code that remembers everything.",
     "url": "https://github.com/SukinShetty/Nemp-memory",
     "stars": 29,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": null,
     "topics": [
       "ai",
@@ -191,6 +191,22 @@
     "updated_at": "2026-02-04T17:11:38"
   },
   {
+    "name": "sdft-pytorch",
+    "full_name": "lucidrains/sdft-pytorch",
+    "description": "Explorations into the proposed SDFT, Self-Distillation Enables Continual Learning, from Shenfeld et al. of MIT",
+    "url": "https://github.com/lucidrains/sdft-pytorch",
+    "stars": 26,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "continual-learning",
+      "deep-learning"
+    ],
+    "created_at": "2026-02-01T14:04:03",
+    "updated_at": "2026-02-05T00:39:25"
+  },
+  {
     "name": "MarketBot",
     "full_name": "EthanAlgoX/MarketBot",
     "description": "MarketBot — a dedicated AI for market and trading analysis.",
@@ -210,21 +226,5 @@
     ],
     "created_at": "2026-01-29T17:56:08",
     "updated_at": "2026-02-04T14:17:15"
-  },
-  {
-    "name": "sdft-pytorch",
-    "full_name": "lucidrains/sdft-pytorch",
-    "description": "Explorations into the proposed SDFT, Self-Distillation Enables Continual Learning, from Shenfeld et al. of MIT",
-    "url": "https://github.com/lucidrains/sdft-pytorch",
-    "stars": 25,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "continual-learning",
-      "deep-learning"
-    ],
-    "created_at": "2026-02-01T14:04:03",
-    "updated_at": "2026-02-04T18:01:44"
   }
 ]
