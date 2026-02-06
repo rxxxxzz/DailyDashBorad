@@ -4,8 +4,8 @@
     "full_name": "affaan-m/everything-claude-code",
     "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
     "url": "https://github.com/affaan-m/everything-claude-code",
-    "stars": 40522,
-    "daily_stars": 80,
+    "stars": 40728,
+    "daily_stars": 206,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -18,36 +18,15 @@
       "productivity"
     ],
     "created_at": "2026-01-18T00:51:51",
-    "updated_at": "2026-02-05T20:58:54"
-  },
-  {
-    "name": "antigravity-awesome-skills",
-    "full_name": "sickn33/antigravity-awesome-skills",
-    "description": "The Ultimate Collection of 60+ Agentic Skills for Claude Code (Antigravity). Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.",
-    "url": "https://github.com/sickn33/antigravity-awesome-skills",
-    "stars": 7376,
-    "daily_stars": 38,
-    "language": "Python",
-    "topics": [
-      "agentic-skills",
-      "ai-agents",
-      "antigravity",
-      "autonomous-coding",
-      "claude-code",
-      "mcp",
-      "react-patterns",
-      "security-auditing"
-    ],
-    "created_at": "2026-01-14T17:48:09",
-    "updated_at": "2026-02-05T20:53:21"
+    "updated_at": "2026-02-06T03:14:38"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 420,
-    "daily_stars": 34,
+    "stars": 506,
+    "daily_stars": 86,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -67,30 +46,36 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-05T20:50:51"
+    "updated_at": "2026-02-06T03:13:06"
   },
   {
-    "name": "moltworker",
-    "full_name": "cloudflare/moltworker",
-    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
-    "url": "https://github.com/cloudflare/moltworker",
-    "stars": 7842,
-    "daily_stars": 19,
-    "language": "TypeScript",
+    "name": "antigravity-awesome-skills",
+    "full_name": "sickn33/antigravity-awesome-skills",
+    "description": "The Ultimate Collection of 60+ Agentic Skills for Claude Code (Antigravity). Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.",
+    "url": "https://github.com/sickn33/antigravity-awesome-skills",
+    "stars": 7434,
+    "daily_stars": 58,
+    "language": "Python",
     "topics": [
+      "agentic-skills",
       "ai-agents",
-      "cloudflare-workers"
+      "antigravity",
+      "autonomous-coding",
+      "claude-code",
+      "mcp",
+      "react-patterns",
+      "security-auditing"
     ],
-    "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-05T20:48:32"
+    "created_at": "2026-01-14T17:48:09",
+    "updated_at": "2026-02-06T03:02:35"
   },
   {
     "name": "oh-my-claude-sisyphus",
     "full_name": "Yeachan-Heo/oh-my-claude-sisyphus",
     "description": "Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?",
     "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
-    "stars": 4766,
-    "daily_stars": 11,
+    "stars": 4821,
+    "daily_stars": 55,
     "language": "TypeScript",
     "topics": [
       "agentic-coding",
@@ -102,35 +87,48 @@
       "vibe-coding"
     ],
     "created_at": "2026-01-09T03:36:29",
-    "updated_at": "2026-02-05T20:40:21"
+    "updated_at": "2026-02-06T03:07:18"
   },
   {
-    "name": "skills",
-    "full_name": "elevenlabs/skills",
-    "description": "Collections of Skills to assist building with ElevenLabs",
-    "url": "https://github.com/elevenlabs/skills",
-    "stars": 76,
-    "daily_stars": 7,
-    "language": "Python",
+    "name": "moltworker",
+    "full_name": "cloudflare/moltworker",
+    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
+    "url": "https://github.com/cloudflare/moltworker",
+    "stars": 7871,
+    "daily_stars": 29,
+    "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "elevenlabs",
-      "music",
-      "sfx",
-      "skills",
-      "stt",
-      "tts"
+      "cloudflare-workers"
     ],
-    "created_at": "2026-01-24T16:05:10",
-    "updated_at": "2026-02-05T20:41:50"
+    "created_at": "2026-01-27T11:09:39",
+    "updated_at": "2026-02-06T02:47:05"
+  },
+  {
+    "name": "crabwalk",
+    "full_name": "luccast/crabwalk",
+    "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents.",
+    "url": "https://github.com/luccast/crabwalk",
+    "stars": 672,
+    "daily_stars": 11,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "clawdbot",
+      "moltbot",
+      "monitoring"
+    ],
+    "created_at": "2026-01-25T23:00:59",
+    "updated_at": "2026-02-06T02:42:40"
   },
   {
     "name": "Trellis",
     "full_name": "mindfold-ai/Trellis",
     "description": "All-in-one AI framework & toolkit for Claude Code & Cursor",
     "url": "https://github.com/mindfold-ai/Trellis",
-    "stars": 1829,
-    "daily_stars": 4,
+    "stars": 1840,
+    "daily_stars": 11,
     "language": "Shell",
     "topics": [
       "ai-agent",
@@ -143,33 +141,52 @@
       "workflow"
     ],
     "created_at": "2026-01-26T11:49:10",
-    "updated_at": "2026-02-05T19:47:59"
+    "updated_at": "2026-02-06T02:37:10"
   },
   {
-    "name": "crabwalk",
-    "full_name": "luccast/crabwalk",
-    "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents.",
-    "url": "https://github.com/luccast/crabwalk",
-    "stars": 661,
-    "daily_stars": 3,
+    "name": "skills",
+    "full_name": "elevenlabs/skills",
+    "description": "Collections of Skills to assist building with ElevenLabs",
+    "url": "https://github.com/elevenlabs/skills",
+    "stars": 82,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "elevenlabs",
+      "music",
+      "sfx",
+      "skills",
+      "stt",
+      "tts"
+    ],
+    "created_at": "2026-01-24T16:05:10",
+    "updated_at": "2026-02-06T02:19:11"
+  },
+  {
+    "name": "agent-skills",
+    "full_name": "supabase/agent-skills",
+    "description": "Agent Skills to help developers using AI agents with Supabase",
+    "url": "https://github.com/supabase/agent-skills",
+    "stars": 1098,
+    "daily_stars": 5,
     "language": "TypeScript",
     "topics": [
       "ai",
       "ai-agents",
-      "clawdbot",
-      "moltbot",
-      "monitoring"
+      "skills",
+      "supabase"
     ],
-    "created_at": "2026-01-25T23:00:59",
-    "updated_at": "2026-02-05T20:51:49"
+    "created_at": "2026-01-16T07:28:01",
+    "updated_at": "2026-02-06T02:30:20"
   },
   {
     "name": "nono",
     "full_name": "lukehinds/nono",
     "description": "all your base does belong to us. ",
     "url": "https://github.com/lukehinds/nono",
-    "stars": 252,
-    "daily_stars": 3,
+    "stars": 257,
+    "daily_stars": 5,
     "language": "Rust",
     "topics": [
       "ai",
@@ -180,23 +197,6 @@
       "security"
     ],
     "created_at": "2026-01-31T09:25:45",
-    "updated_at": "2026-02-05T20:57:10"
-  },
-  {
-    "name": "agent-skills",
-    "full_name": "supabase/agent-skills",
-    "description": "Agent Skills to help developers using AI agents with Supabase",
-    "url": "https://github.com/supabase/agent-skills",
-    "stars": 1093,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "skills",
-      "supabase"
-    ],
-    "created_at": "2026-01-16T07:28:01",
-    "updated_at": "2026-02-05T18:42:30"
+    "updated_at": "2026-02-06T03:13:20"
   }
 ]
