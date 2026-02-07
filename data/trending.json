@@ -4,8 +4,8 @@
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 1090,
-    "daily_stars": 146,
+    "stars": 1152,
+    "daily_stars": 62,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -25,15 +25,15 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-07T03:03:43"
+    "updated_at": "2026-02-07T05:23:22"
   },
   {
     "name": "everything-claude-code",
     "full_name": "affaan-m/everything-claude-code",
     "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
     "url": "https://github.com/affaan-m/everything-claude-code",
-    "stars": 41331,
-    "daily_stars": 98,
+    "stars": 41383,
+    "daily_stars": 52,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -46,15 +46,35 @@
       "productivity"
     ],
     "created_at": "2026-01-18T00:51:51",
-    "updated_at": "2026-02-07T03:08:36"
+    "updated_at": "2026-02-07T05:23:31"
+  },
+  {
+    "name": "oh-my-claude-sisyphus",
+    "full_name": "Yeachan-Heo/oh-my-claude-sisyphus",
+    "description": "Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?",
+    "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
+    "stars": 5053,
+    "daily_stars": 17,
+    "language": "TypeScript",
+    "topics": [
+      "agentic-coding",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "oh-my-opencode",
+      "opencode",
+      "vibe-coding"
+    ],
+    "created_at": "2026-01-09T03:36:29",
+    "updated_at": "2026-02-07T05:11:41"
   },
   {
     "name": "antigravity-awesome-skills",
     "full_name": "sickn33/antigravity-awesome-skills",
     "description": "The Ultimate Collection of 60+ Agentic Skills for Claude Code (Antigravity). Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.",
     "url": "https://github.com/sickn33/antigravity-awesome-skills",
-    "stars": 7639,
-    "daily_stars": 47,
+    "stars": 7653,
+    "daily_stars": 14,
     "language": "Python",
     "topics": [
       "agentic-skills",
@@ -67,50 +87,37 @@
       "security-auditing"
     ],
     "created_at": "2026-01-14T17:48:09",
-    "updated_at": "2026-02-07T03:03:45"
+    "updated_at": "2026-02-07T05:22:29"
   },
   {
-    "name": "oh-my-claude-sisyphus",
-    "full_name": "Yeachan-Heo/oh-my-claude-sisyphus",
-    "description": "Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?",
-    "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
-    "stars": 5036,
-    "daily_stars": 40,
-    "language": "TypeScript",
+    "name": "claude-code-mastery",
+    "full_name": "TheDecipherist/claude-code-mastery",
+    "description": "The complete guide to Claude Code: CLAUDE.md, hooks, skills, MCP servers, and commands",
+    "url": "https://github.com/TheDecipherist/claude-code-mastery",
+    "stars": 324,
+    "daily_stars": 7,
+    "language": "Shell",
     "topics": [
-      "agentic-coding",
       "ai-agents",
+      "anthropic",
       "claude",
       "claude-code",
-      "oh-my-opencode",
-      "opencode",
-      "vibe-coding"
+      "claude-md",
+      "coding-assistant",
+      "developer-tools",
+      "llm",
+      "mcp-servers"
     ],
-    "created_at": "2026-01-09T03:36:29",
-    "updated_at": "2026-02-07T03:07:58"
-  },
-  {
-    "name": "moltworker",
-    "full_name": "cloudflare/moltworker",
-    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
-    "url": "https://github.com/cloudflare/moltworker",
-    "stars": 7970,
-    "daily_stars": 14,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "cloudflare-workers"
-    ],
-    "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-07T02:49:33"
+    "created_at": "2026-01-14T18:19:47",
+    "updated_at": "2026-02-07T05:11:44"
   },
   {
     "name": "Trellis",
     "full_name": "mindfold-ai/Trellis",
     "description": "All-in-one AI framework & toolkit for Claude Code & Cursor",
     "url": "https://github.com/mindfold-ai/Trellis",
-    "stars": 1930,
-    "daily_stars": 7,
+    "stars": 1935,
+    "daily_stars": 5,
     "language": "Shell",
     "topics": [
       "ai-agent",
@@ -123,96 +130,77 @@
       "workflow"
     ],
     "created_at": "2026-01-26T11:49:10",
-    "updated_at": "2026-02-07T03:08:24"
+    "updated_at": "2026-02-07T05:17:35"
   },
   {
-    "name": "crabwalk",
-    "full_name": "luccast/crabwalk",
-    "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents.",
-    "url": "https://github.com/luccast/crabwalk",
-    "stars": 699,
-    "daily_stars": 6,
+    "name": "moltworker",
+    "full_name": "cloudflare/moltworker",
+    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
+    "url": "https://github.com/cloudflare/moltworker",
+    "stars": 7973,
+    "daily_stars": 3,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "cloudflare-workers"
+    ],
+    "created_at": "2026-01-27T11:09:39",
+    "updated_at": "2026-02-07T05:20:53"
+  },
+  {
+    "name": "Loupe",
+    "full_name": "smughead/Loupe",
+    "description": "macOS accessibility inspector for AI-agent workflows. Hover, annotate, copy structured output.",
+    "url": "https://github.com/smughead/Loupe",
+    "stars": 73,
+    "daily_stars": 3,
+    "language": "Swift",
+    "topics": [
+      "accessibility",
+      "ai-agents",
+      "developer-tools",
+      "inspector",
+      "macos",
+      "swift",
+      "swiftui"
+    ],
+    "created_at": "2026-01-24T21:34:01",
+    "updated_at": "2026-02-07T05:05:46"
+  },
+  {
+    "name": "modernaicourse",
+    "full_name": "marimo-team/modernaicourse",
+    "description": "A companion to CMU professor Zico Kolter's Intro to Modern AI. Learn the basics of machine learning, then train your own LLM from scratch.",
+    "url": "https://github.com/marimo-team/modernaicourse",
+    "stars": 13,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "deep-learning",
+      "llm",
+      "machine-learning",
+      "neural-network",
+      "pytorch"
+    ],
+    "created_at": "2026-01-31T15:56:39",
+    "updated_at": "2026-02-07T04:50:42"
+  },
+  {
+    "name": "agent-skills",
+    "full_name": "supabase/agent-skills",
+    "description": "Agent Skills to help developers using AI agents with Supabase",
+    "url": "https://github.com/supabase/agent-skills",
+    "stars": 1115,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "ai",
       "ai-agents",
-      "clawdbot",
-      "moltbot",
-      "monitoring"
+      "skills",
+      "supabase"
     ],
-    "created_at": "2026-01-25T23:00:59",
-    "updated_at": "2026-02-07T00:11:44"
-  },
-  {
-    "name": "veritas-kanban",
-    "full_name": "BradGroux/veritas-kanban",
-    "description": "The unfiltered truth about where your project stands. Lightweight kanban built for the agentic era.",
-    "url": "https://github.com/BradGroux/veritas-kanban",
-    "stars": 301,
-    "daily_stars": 6,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "developer-tools",
-      "kanban",
-      "local-first",
-      "pino",
-      "project-management",
-      "react",
-      "task-management",
-      "typescript",
-      "vite"
-    ],
-    "created_at": "2026-01-26T08:35:20",
-    "updated_at": "2026-02-07T03:08:38"
-  },
-  {
-    "name": "oh-my-ag",
-    "full_name": "first-fluke/oh-my-ag",
-    "description": "Professional agent skills for Google Antigravity IDE featuring specialized PM, Frontend, Backend, Mobile, QA, and Debug agents",
-    "url": "https://github.com/first-fluke/oh-my-ag",
-    "stars": 159,
-    "daily_stars": 6,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "antigravity",
-      "backend-agent",
-      "collaborative-development",
-      "debug-agent",
-      "frontend-agent",
-      "mobile-agent",
-      "multi-agent",
-      "orchestrator",
-      "pm-agent",
-      "qa-agent",
-      "serena-memory",
-      "task-coordination"
-    ],
-    "created_at": "2026-01-30T11:29:46",
-    "updated_at": "2026-02-07T03:02:04"
-  },
-  {
-    "name": "antigravity-link-extension",
-    "full_name": "cafeTechne/antigravity-link-extension",
-    "description": "VS Code extension that bridges Antigravity sessions to mobile for uploads and voice-to-text",
-    "url": "https://github.com/cafeTechne/antigravity-link-extension",
-    "stars": 44,
-    "daily_stars": 6,
-    "language": "HTML",
-    "topics": [
-      "ai-agents",
-      "antigravity",
-      "antigravity-ide",
-      "antigravity-tools",
-      "google",
-      "mobile",
-      "qr-code",
-      "vscode-extension",
-      "vscode-extensions",
-      "websocket"
-    ],
-    "created_at": "2026-01-26T01:47:51",
-    "updated_at": "2026-02-07T02:29:42"
+    "created_at": "2026-01-16T07:28:01",
+    "updated_at": "2026-02-07T03:38:06"
   }
 ]
