@@ -4,8 +4,8 @@
     "full_name": "affaan-m/everything-claude-code",
     "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
     "url": "https://github.com/affaan-m/everything-claude-code",
-    "stars": 41874,
-    "daily_stars": 144,
+    "stars": 41923,
+    "daily_stars": 49,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -18,15 +18,15 @@
       "productivity"
     ],
     "created_at": "2026-01-18T00:51:51",
-    "updated_at": "2026-02-08T03:41:32"
+    "updated_at": "2026-02-08T05:44:37"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 1616,
-    "daily_stars": 121,
+    "stars": 1650,
+    "daily_stars": 34,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -46,15 +46,30 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-08T03:38:56"
+    "updated_at": "2026-02-08T05:43:04"
+  },
+  {
+    "name": "moltworker",
+    "full_name": "cloudflare/moltworker",
+    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
+    "url": "https://github.com/cloudflare/moltworker",
+    "stars": 8084,
+    "daily_stars": 9,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "cloudflare-workers"
+    ],
+    "created_at": "2026-01-27T11:09:39",
+    "updated_at": "2026-02-08T05:40:47"
   },
   {
     "name": "antigravity-awesome-skills",
     "full_name": "sickn33/antigravity-awesome-skills",
     "description": "The Ultimate Collection of 60+ Agentic Skills for Claude Code (Antigravity). Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.",
     "url": "https://github.com/sickn33/antigravity-awesome-skills",
-    "stars": 7801,
-    "daily_stars": 40,
+    "stars": 7810,
+    "daily_stars": 9,
     "language": "Python",
     "topics": [
       "agentic-skills",
@@ -67,30 +82,15 @@
       "security-auditing"
     ],
     "created_at": "2026-01-14T17:48:09",
-    "updated_at": "2026-02-08T03:14:22"
-  },
-  {
-    "name": "moltworker",
-    "full_name": "cloudflare/moltworker",
-    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
-    "url": "https://github.com/cloudflare/moltworker",
-    "stars": 8075,
-    "daily_stars": 31,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "cloudflare-workers"
-    ],
-    "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-08T03:22:24"
+    "updated_at": "2026-02-08T05:42:31"
   },
   {
     "name": "chargen",
     "full_name": "Karmacoke/chargen",
     "description": "AI-powered character generator built with React. Create detailed TRPG/Novel characters, NPC system prompts, and visual tags using Gemini, OpenAI, or Local LLMs.",
     "url": "https://github.com/Karmacoke/chargen",
-    "stars": 40,
-    "daily_stars": 16,
+    "stars": 45,
+    "daily_stars": 5,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -101,15 +101,15 @@
       "writing-tool"
     ],
     "created_at": "2026-02-06T06:29:33",
-    "updated_at": "2026-02-08T03:17:24"
+    "updated_at": "2026-02-08T05:39:25"
   },
   {
     "name": "agent-skills",
     "full_name": "supabase/agent-skills",
     "description": "Agent Skills to help developers using AI agents with Supabase",
     "url": "https://github.com/supabase/agent-skills",
-    "stars": 1135,
-    "daily_stars": 7,
+    "stars": 1138,
+    "daily_stars": 3,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -118,80 +118,40 @@
       "supabase"
     ],
     "created_at": "2026-01-16T07:28:01",
-    "updated_at": "2026-02-08T03:39:02"
+    "updated_at": "2026-02-08T05:02:53"
   },
   {
-    "name": "veritas-kanban",
-    "full_name": "BradGroux/veritas-kanban",
-    "description": "The unfiltered truth about where your project stands. Lightweight kanban built for the agentic era.",
-    "url": "https://github.com/BradGroux/veritas-kanban",
-    "stars": 319,
-    "daily_stars": 5,
-    "language": "TypeScript",
+    "name": "mega-data-factory",
+    "full_name": "duoan/mega-data-factory",
+    "description": "Mega Scale Multimodal DataPipeline for SOTA models",
+    "url": "https://github.com/duoan/mega-data-factory",
+    "stars": 102,
+    "daily_stars": 3,
+    "language": "Python",
     "topics": [
-      "ai-agents",
-      "developer-tools",
-      "kanban",
-      "local-first",
-      "pino",
-      "project-management",
-      "react",
-      "task-management",
-      "typescript",
-      "vite"
+      "data-curation",
+      "datapipeline",
+      "datapipelines",
+      "deeplearning",
+      "image-editing",
+      "llm",
+      "machine-learning",
+      "mllm",
+      "multimodal",
+      "ray",
+      "rust",
+      "vlm"
     ],
-    "created_at": "2026-01-26T08:35:20",
-    "updated_at": "2026-02-08T01:59:09"
-  },
-  {
-    "name": "riphook",
-    "full_name": "merciagents/riphook",
-    "description": "Deterministic security layer for Openclaw(Clawdbot), Cursor and Claude Code. Write secure code, prevent data exfil, and more",
-    "url": "https://github.com/merciagents/riphook",
-    "stars": 31,
-    "daily_stars": 5,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "clawdbot",
-      "hooks",
-      "moltbook",
-      "moltbot",
-      "openclaw",
-      "openclaw-security",
-      "security"
-    ],
-    "created_at": "2026-02-04T05:26:35",
-    "updated_at": "2026-02-08T03:32:12"
-  },
-  {
-    "name": "Trellis",
-    "full_name": "mindfold-ai/Trellis",
-    "description": "All-in-one AI framework & toolkit for Claude Code & Cursor",
-    "url": "https://github.com/mindfold-ai/Trellis",
-    "stars": 1958,
-    "daily_stars": 4,
-    "language": "Shell",
-    "topics": [
-      "ai-agent",
-      "ai-coding",
-      "claude-code",
-      "cli",
-      "cursor",
-      "developer-tools",
-      "typescript",
-      "workflow"
-    ],
-    "created_at": "2026-01-26T11:49:10",
-    "updated_at": "2026-02-08T01:43:14"
+    "created_at": "2026-01-17T21:51:33",
+    "updated_at": "2026-02-08T05:19:53"
   },
   {
     "name": "crabwalk",
     "full_name": "luccast/crabwalk",
     "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents.",
     "url": "https://github.com/luccast/crabwalk",
-    "stars": 710,
-    "daily_stars": 3,
+    "stars": 712,
+    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -201,6 +161,48 @@
       "monitoring"
     ],
     "created_at": "2026-01-25T23:00:59",
-    "updated_at": "2026-02-08T02:16:44"
+    "updated_at": "2026-02-08T04:56:36"
+  },
+  {
+    "name": "nono",
+    "full_name": "lukehinds/nono",
+    "description": "all your base does belong to us. ",
+    "url": "https://github.com/lukehinds/nono",
+    "stars": 281,
+    "daily_stars": 2,
+    "language": "Rust",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "isolation",
+      "openclaw",
+      "sandbox",
+      "security"
+    ],
+    "created_at": "2026-01-31T09:25:45",
+    "updated_at": "2026-02-08T05:24:18"
+  },
+  {
+    "name": "ai-networking",
+    "full_name": "vaamonde/ai-networking",
+    "description": "NOVO CURSO - AI (Artificial Intelligence - IA Inteligência Artificial) para Redes de Computadores (Networking)",
+    "url": "https://github.com/vaamonde/ai-networking",
+    "stars": 8,
+    "daily_stars": 1,
+    "language": null,
+    "topics": [
+      "ai",
+      "ai-network",
+      "ai-networking",
+      "artificial-intelligence",
+      "ia",
+      "ia-redes",
+      "inteligencia-artificial",
+      "network",
+      "networking",
+      "redes-de-computadores"
+    ],
+    "created_at": "2026-01-12T23:53:01",
+    "updated_at": "2026-02-08T04:22:15"
   }
 ]
