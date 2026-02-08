@@ -4,8 +4,8 @@
     "full_name": "affaan-m/everything-claude-code",
     "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
     "url": "https://github.com/affaan-m/everything-claude-code",
-    "stars": 41923,
-    "daily_stars": 49,
+    "stars": 42028,
+    "daily_stars": 105,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -18,15 +18,15 @@
       "productivity"
     ],
     "created_at": "2026-01-18T00:51:51",
-    "updated_at": "2026-02-08T05:44:37"
+    "updated_at": "2026-02-08T08:57:14"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 1650,
-    "daily_stars": 34,
+    "stars": 1683,
+    "daily_stars": 33,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -46,30 +46,15 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-08T05:43:04"
-  },
-  {
-    "name": "moltworker",
-    "full_name": "cloudflare/moltworker",
-    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
-    "url": "https://github.com/cloudflare/moltworker",
-    "stars": 8084,
-    "daily_stars": 9,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "cloudflare-workers"
-    ],
-    "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-08T05:40:47"
+    "updated_at": "2026-02-08T08:43:18"
   },
   {
     "name": "antigravity-awesome-skills",
     "full_name": "sickn33/antigravity-awesome-skills",
     "description": "The Ultimate Collection of 60+ Agentic Skills for Claude Code (Antigravity). Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.",
     "url": "https://github.com/sickn33/antigravity-awesome-skills",
-    "stars": 7810,
-    "daily_stars": 9,
+    "stars": 7831,
+    "daily_stars": 21,
     "language": "Python",
     "topics": [
       "agentic-skills",
@@ -82,14 +67,50 @@
       "security-auditing"
     ],
     "created_at": "2026-01-14T17:48:09",
-    "updated_at": "2026-02-08T05:42:31"
+    "updated_at": "2026-02-08T08:54:15"
+  },
+  {
+    "name": "moltworker",
+    "full_name": "cloudflare/moltworker",
+    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
+    "url": "https://github.com/cloudflare/moltworker",
+    "stars": 8097,
+    "daily_stars": 13,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "cloudflare-workers"
+    ],
+    "created_at": "2026-01-27T11:09:39",
+    "updated_at": "2026-02-08T08:41:54"
+  },
+  {
+    "name": "Trellis",
+    "full_name": "mindfold-ai/Trellis",
+    "description": "All-in-one AI framework & toolkit for Claude Code & Cursor",
+    "url": "https://github.com/mindfold-ai/Trellis",
+    "stars": 1964,
+    "daily_stars": 6,
+    "language": "Shell",
+    "topics": [
+      "ai-agent",
+      "ai-coding",
+      "claude-code",
+      "cli",
+      "cursor",
+      "developer-tools",
+      "typescript",
+      "workflow"
+    ],
+    "created_at": "2026-01-26T11:49:10",
+    "updated_at": "2026-02-08T08:53:22"
   },
   {
     "name": "chargen",
     "full_name": "Karmacoke/chargen",
     "description": "AI-powered character generator built with React. Create detailed TRPG/Novel characters, NPC system prompts, and visual tags using Gemini, OpenAI, or Local LLMs.",
     "url": "https://github.com/Karmacoke/chargen",
-    "stars": 45,
+    "stars": 50,
     "daily_stars": 5,
     "language": "JavaScript",
     "topics": [
@@ -101,75 +122,38 @@
       "writing-tool"
     ],
     "created_at": "2026-02-06T06:29:33",
-    "updated_at": "2026-02-08T05:39:25"
+    "updated_at": "2026-02-08T08:17:44"
   },
   {
-    "name": "agent-skills",
-    "full_name": "supabase/agent-skills",
-    "description": "Agent Skills to help developers using AI agents with Supabase",
-    "url": "https://github.com/supabase/agent-skills",
-    "stars": 1138,
-    "daily_stars": 3,
+    "name": "veritas-kanban",
+    "full_name": "BradGroux/veritas-kanban",
+    "description": "The unfiltered truth about where your project stands. Lightweight kanban built for the agentic era.",
+    "url": "https://github.com/BradGroux/veritas-kanban",
+    "stars": 323,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
-      "ai",
       "ai-agents",
-      "skills",
-      "supabase"
+      "developer-tools",
+      "kanban",
+      "local-first",
+      "pino",
+      "project-management",
+      "react",
+      "task-management",
+      "typescript",
+      "vite"
     ],
-    "created_at": "2026-01-16T07:28:01",
-    "updated_at": "2026-02-08T05:02:53"
-  },
-  {
-    "name": "mega-data-factory",
-    "full_name": "duoan/mega-data-factory",
-    "description": "Mega Scale Multimodal DataPipeline for SOTA models",
-    "url": "https://github.com/duoan/mega-data-factory",
-    "stars": 102,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "data-curation",
-      "datapipeline",
-      "datapipelines",
-      "deeplearning",
-      "image-editing",
-      "llm",
-      "machine-learning",
-      "mllm",
-      "multimodal",
-      "ray",
-      "rust",
-      "vlm"
-    ],
-    "created_at": "2026-01-17T21:51:33",
-    "updated_at": "2026-02-08T05:19:53"
-  },
-  {
-    "name": "crabwalk",
-    "full_name": "luccast/crabwalk",
-    "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents.",
-    "url": "https://github.com/luccast/crabwalk",
-    "stars": 712,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "clawdbot",
-      "moltbot",
-      "monitoring"
-    ],
-    "created_at": "2026-01-25T23:00:59",
-    "updated_at": "2026-02-08T04:56:36"
+    "created_at": "2026-01-26T08:35:20",
+    "updated_at": "2026-02-08T08:56:46"
   },
   {
     "name": "nono",
     "full_name": "lukehinds/nono",
     "description": "all your base does belong to us. ",
     "url": "https://github.com/lukehinds/nono",
-    "stars": 281,
-    "daily_stars": 2,
+    "stars": 285,
+    "daily_stars": 4,
     "language": "Rust",
     "topics": [
       "ai",
@@ -180,29 +164,43 @@
       "security"
     ],
     "created_at": "2026-01-31T09:25:45",
-    "updated_at": "2026-02-08T05:24:18"
+    "updated_at": "2026-02-08T08:40:18"
   },
   {
-    "name": "ai-networking",
-    "full_name": "vaamonde/ai-networking",
-    "description": "NOVO CURSO - AI (Artificial Intelligence - IA Inteligência Artificial) para Redes de Computadores (Networking)",
-    "url": "https://github.com/vaamonde/ai-networking",
-    "stars": 8,
-    "daily_stars": 1,
-    "language": null,
+    "name": "google-antigravity",
+    "full_name": "Dokhacgiakhoa/google-antigravity",
+    "description": "Google AntiGravity IDE for Vibe Coding",
+    "url": "https://github.com/Dokhacgiakhoa/google-antigravity",
+    "stars": 194,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "cli",
+      "developer-tools",
+      "google-antigravity",
+      "prompt-engineering",
+      "scaffolding",
+      "vibe-coding"
+    ],
+    "created_at": "2026-01-27T21:22:16",
+    "updated_at": "2026-02-08T08:34:35"
+  },
+  {
+    "name": "agent-skills",
+    "full_name": "supabase/agent-skills",
+    "description": "Agent Skills to help developers using AI agents with Supabase",
+    "url": "https://github.com/supabase/agent-skills",
+    "stars": 1140,
+    "daily_stars": 2,
+    "language": "TypeScript",
     "topics": [
       "ai",
-      "ai-network",
-      "ai-networking",
-      "artificial-intelligence",
-      "ia",
-      "ia-redes",
-      "inteligencia-artificial",
-      "network",
-      "networking",
-      "redes-de-computadores"
+      "ai-agents",
+      "skills",
+      "supabase"
     ],
-    "created_at": "2026-01-12T23:53:01",
-    "updated_at": "2026-02-08T04:22:15"
+    "created_at": "2026-01-16T07:28:01",
+    "updated_at": "2026-02-08T08:53:30"
   }
 ]
