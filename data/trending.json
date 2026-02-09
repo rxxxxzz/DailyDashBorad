@@ -4,8 +4,8 @@
     "full_name": "affaan-m/everything-claude-code",
     "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
     "url": "https://github.com/affaan-m/everything-claude-code",
-    "stars": 42500,
-    "daily_stars": 148,
+    "stars": 42553,
+    "daily_stars": 53,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -18,15 +18,33 @@
       "productivity"
     ],
     "created_at": "2026-01-18T00:51:51",
-    "updated_at": "2026-02-09T03:24:59"
+    "updated_at": "2026-02-09T05:51:36"
+  },
+  {
+    "name": "nanoclaw",
+    "full_name": "gavrielc/nanoclaw",
+    "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
+    "url": "https://github.com/gavrielc/nanoclaw",
+    "stars": 6438,
+    "daily_stars": 42,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "ai-assistant",
+      "claude-code",
+      "claude-skills",
+      "clawdbot"
+    ],
+    "created_at": "2026-01-31T15:47:22",
+    "updated_at": "2026-02-09T05:50:28"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 1848,
-    "daily_stars": 61,
+    "stars": 1865,
+    "daily_stars": 17,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -46,15 +64,15 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-09T03:25:53"
+    "updated_at": "2026-02-09T05:44:21"
   },
   {
     "name": "antigravity-awesome-skills",
     "full_name": "sickn33/antigravity-awesome-skills",
     "description": "The Ultimate Collection of 60+ Agentic Skills for Claude Code (Antigravity). Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.",
     "url": "https://github.com/sickn33/antigravity-awesome-skills",
-    "stars": 7959,
-    "daily_stars": 42,
+    "stars": 7974,
+    "daily_stars": 15,
     "language": "Python",
     "topics": [
       "agentic-skills",
@@ -67,87 +85,15 @@
       "security-auditing"
     ],
     "created_at": "2026-01-14T17:48:09",
-    "updated_at": "2026-02-09T03:22:15"
-  },
-  {
-    "name": "moltworker",
-    "full_name": "cloudflare/moltworker",
-    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
-    "url": "https://github.com/cloudflare/moltworker",
-    "stars": 8187,
-    "daily_stars": 35,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "cloudflare-workers"
-    ],
-    "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-09T03:07:36"
-  },
-  {
-    "name": "chargen",
-    "full_name": "Karmacoke/chargen",
-    "description": "AI-powered character generator built with React. Create detailed TRPG/Novel characters, NPC system prompts, and visual tags using Gemini, OpenAI, or Local LLMs.",
-    "url": "https://github.com/Karmacoke/chargen",
-    "stars": 88,
-    "daily_stars": 16,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "character",
-      "designer-tool",
-      "gamedesign",
-      "writing-tool"
-    ],
-    "created_at": "2026-02-06T06:29:33",
-    "updated_at": "2026-02-09T03:01:27"
-  },
-  {
-    "name": "Trellis",
-    "full_name": "mindfold-ai/Trellis",
-    "description": "All-in-one AI framework & toolkit for Claude Code & Cursor",
-    "url": "https://github.com/mindfold-ai/Trellis",
-    "stars": 1989,
-    "daily_stars": 9,
-    "language": "Shell",
-    "topics": [
-      "ai-agent",
-      "ai-coding",
-      "claude-code",
-      "cli",
-      "cursor",
-      "developer-tools",
-      "typescript",
-      "workflow"
-    ],
-    "created_at": "2026-01-26T11:49:10",
-    "updated_at": "2026-02-09T03:23:08"
-  },
-  {
-    "name": "agent-skills",
-    "full_name": "supabase/agent-skills",
-    "description": "Agent Skills to help developers using AI agents with Supabase",
-    "url": "https://github.com/supabase/agent-skills",
-    "stars": 1158,
-    "daily_stars": 8,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "skills",
-      "supabase"
-    ],
-    "created_at": "2026-01-16T07:28:01",
-    "updated_at": "2026-02-09T03:22:47"
+    "updated_at": "2026-02-09T05:48:45"
   },
   {
     "name": "lenny-skills",
     "full_name": "RefoundAI/lenny-skills",
     "description": "86 product management skills from Lenny's Podcast for Claude Code and AI agents. Hiring, user research, strategy, shipping, and more.",
     "url": "https://github.com/RefoundAI/lenny-skills",
-    "stars": 130,
-    "daily_stars": 8,
+    "stars": 140,
+    "daily_stars": 10,
     "language": null,
     "topics": [
       "ai-agents",
@@ -162,47 +108,93 @@
       "skills"
     ],
     "created_at": "2026-01-29T16:14:48",
-    "updated_at": "2026-02-09T03:18:28"
+    "updated_at": "2026-02-09T05:49:34"
   },
   {
-    "name": "llama3pure",
-    "full_name": "lrusso/llama3pure",
-    "description": "Three inference engines for Llama 3: pure C for desktop systems, pure JavaScript for Node.js, and pure JavaScript for Web environments.",
-    "url": "https://github.com/lrusso/llama3pure",
-    "stars": 7,
-    "daily_stars": 4,
-    "language": "HTML",
+    "name": "moltworker",
+    "full_name": "cloudflare/moltworker",
+    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
+    "url": "https://github.com/cloudflare/moltworker",
+    "stars": 8195,
+    "daily_stars": 8,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "cloudflare-workers"
+    ],
+    "created_at": "2026-01-27T11:09:39",
+    "updated_at": "2026-02-09T05:26:41"
+  },
+  {
+    "name": "chargen",
+    "full_name": "Karmacoke/chargen",
+    "description": "AI-powered character generator built with React. Create detailed TRPG/Novel characters, NPC system prompts, and visual tags using Gemini, OpenAI, or Local LLMs.",
+    "url": "https://github.com/Karmacoke/chargen",
+    "stars": 93,
+    "daily_stars": 5,
+    "language": "JavaScript",
     "topics": [
       "ai",
-      "artificial-intelligence",
-      "backend",
-      "browser",
-      "c",
-      "file",
-      "gemma",
-      "gguf",
-      "inference",
-      "javascript",
-      "llama",
-      "llama3",
-      "loader",
-      "model",
-      "models",
-      "nodejs",
-      "online",
-      "pure",
-      "web"
+      "ai-agents",
+      "character",
+      "designer-tool",
+      "gamedesign",
+      "writing-tool"
     ],
-    "created_at": "2026-01-16T02:47:38",
-    "updated_at": "2026-02-09T02:34:35"
+    "created_at": "2026-02-06T06:29:33",
+    "updated_at": "2026-02-09T05:39:17"
+  },
+  {
+    "name": "Agentic-Web-Starter",
+    "full_name": "mindfiredigital/Agentic-Web-Starter",
+    "description": "A FastAPI-based backend scaffold for building agentic applications and pipelines. It exposes ingestion, retrieval, and chat APIs, integrating Qdrant for vector-based similarity search and Redis for persistent, session-scoped conversation memory.",
+    "url": "https://github.com/mindfiredigital/Agentic-Web-Starter",
+    "stars": 12,
+    "daily_stars": 5,
+    "language": null,
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "aiagent",
+      "fastapi",
+      "machine-learning",
+      "ml",
+      "python",
+      "qdrant",
+      "vectordb"
+    ],
+    "created_at": "2026-02-03T11:55:04",
+    "updated_at": "2026-02-09T05:44:25"
+  },
+  {
+    "name": "Trellis",
+    "full_name": "mindfold-ai/Trellis",
+    "description": "All-in-one AI framework & toolkit for Claude Code & Cursor",
+    "url": "https://github.com/mindfold-ai/Trellis",
+    "stars": 1994,
+    "daily_stars": 5,
+    "language": "Shell",
+    "topics": [
+      "ai-agent",
+      "ai-coding",
+      "claude-code",
+      "cli",
+      "cursor",
+      "developer-tools",
+      "typescript",
+      "workflow"
+    ],
+    "created_at": "2026-01-26T11:49:10",
+    "updated_at": "2026-02-09T05:51:15"
   },
   {
     "name": "crabwalk",
     "full_name": "luccast/crabwalk",
     "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents.",
     "url": "https://github.com/luccast/crabwalk",
-    "stars": 724,
-    "daily_stars": 3,
+    "stars": 728,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -212,6 +204,6 @@
       "monitoring"
     ],
     "created_at": "2026-01-25T23:00:59",
-    "updated_at": "2026-02-09T03:21:21"
+    "updated_at": "2026-02-09T05:29:19"
   }
 ]
