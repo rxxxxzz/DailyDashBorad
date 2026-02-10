@@ -4,8 +4,8 @@
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 2009,
-    "daily_stars": 19,
+    "stars": 2033,
+    "daily_stars": 24,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -25,15 +25,15 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-10T13:52:48"
+    "updated_at": "2026-02-10T17:33:00"
   },
   {
     "name": "alphora",
     "full_name": "opencmit/alphora",
     "description": "A Production-Ready Framework for Building Composable AI Agents",
     "url": "https://github.com/opencmit/alphora",
-    "stars": 179,
-    "daily_stars": 0,
+    "stars": 181,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "agent-framework",
@@ -42,7 +42,7 @@
       "multi-agent-systems"
     ],
     "created_at": "2026-02-03T07:18:35",
-    "updated_at": "2026-02-10T05:58:23"
+    "updated_at": "2026-02-10T17:26:06"
   },
   {
     "name": "chargen",
@@ -68,8 +68,8 @@
     "full_name": "harrymunro/nelson",
     "description": "A Claude Code skill for coordinating agent work using a Royal Navy themed workflow. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to parallel subagent squadrons.",
     "url": "https://github.com/harrymunro/nelson",
-    "stars": 75,
-    "daily_stars": 7,
+    "stars": 84,
+    "daily_stars": 9,
     "language": null,
     "topics": [
       "agent-coordination",
@@ -79,31 +79,15 @@
       "claude-code-skill"
     ],
     "created_at": "2026-02-09T15:29:44",
-    "updated_at": "2026-02-10T13:38:04"
-  },
-  {
-    "name": "Boba-CLI",
-    "full_name": "Able-labs-xyz/Boba-CLI",
-    "description": "Boba CLI - The bridge between agents and decentralized trading.",
-    "url": "https://github.com/Able-labs-xyz/Boba-CLI",
-    "stars": 49,
-    "daily_stars": 1,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "cryptocurrency"
-    ],
-    "created_at": "2026-02-05T04:37:50",
-    "updated_at": "2026-02-10T09:42:58"
+    "updated_at": "2026-02-10T17:10:09"
   },
   {
     "name": "pipelock",
     "full_name": "luckyPipewrench/pipelock",
     "description": "Security harness for AI agents — egress proxy with DLP scanning, SSRF protection, MCP response scanning, and workspace integrity monitoring",
     "url": "https://github.com/luckyPipewrench/pipelock",
-    "stars": 47,
-    "daily_stars": 0,
+    "stars": 61,
+    "daily_stars": 14,
     "language": "Go",
     "topics": [
       "ai-agents",
@@ -119,7 +103,23 @@
       "ssrf-protection"
     ],
     "created_at": "2026-02-08T00:40:18",
-    "updated_at": "2026-02-10T13:33:20"
+    "updated_at": "2026-02-10T17:22:00"
+  },
+  {
+    "name": "Boba-CLI",
+    "full_name": "Able-labs-xyz/Boba-CLI",
+    "description": "Boba CLI - The bridge between agents and decentralized trading.",
+    "url": "https://github.com/Able-labs-xyz/Boba-CLI",
+    "stars": 49,
+    "daily_stars": 0,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "cryptocurrency"
+    ],
+    "created_at": "2026-02-05T04:37:50",
+    "updated_at": "2026-02-10T09:42:58"
   },
   {
     "name": "moltbook-agent-guard",
@@ -166,7 +166,7 @@
     "description": "iphone+AI, open source apple intelligence, let agent take over your iPhone",
     "url": "https://github.com/NoEdgeAI/iphoneclaw",
     "stars": 29,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "agent",
@@ -179,25 +179,28 @@
     "updated_at": "2026-02-10T09:40:46"
   },
   {
-    "name": "hypervault",
-    "full_name": "Pardesco/hypervault",
-    "description": "  3D cyberpunk city dashboard for Obsidian — visualize projects as buildings, monitor AI agents in real-time, launch Claude Code with a right-click",
-    "url": "https://github.com/Pardesco/hypervault",
-    "stars": 28,
+    "name": "kanban-md",
+    "full_name": "antopolskiy/kanban-md",
+    "description": "File-based kanban board CLI and TUI for multi-agent workflows. Skills included.",
+    "url": "https://github.com/antopolskiy/kanban-md",
+    "stars": 29,
     "daily_stars": 0,
-    "language": "TypeScript",
+    "language": "Go",
     "topics": [
+      "agent-skills",
       "ai-agents",
-      "claude",
-      "code",
-      "code-city",
-      "obsidian",
-      "obsidian-plugin",
-      "personal-knowledge-management",
-      "threejs",
-      "typescript"
+      "cli",
+      "developer-tools",
+      "go",
+      "kanban",
+      "markdown",
+      "multi-agent",
+      "project-management",
+      "task-management",
+      "terminal",
+      "tui"
     ],
-    "created_at": "2026-02-05T12:05:22",
-    "updated_at": "2026-02-10T06:48:34"
+    "created_at": "2026-02-07T13:09:55",
+    "updated_at": "2026-02-10T17:26:14"
   }
 ]
