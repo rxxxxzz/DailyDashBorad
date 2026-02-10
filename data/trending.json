@@ -4,8 +4,8 @@
     "full_name": "affaan-m/everything-claude-code",
     "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
     "url": "https://github.com/affaan-m/everything-claude-code",
-    "stars": 43237,
-    "daily_stars": 145,
+    "stars": 43364,
+    "daily_stars": 127,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -18,33 +18,15 @@
       "productivity"
     ],
     "created_at": "2026-01-18T00:51:51",
-    "updated_at": "2026-02-10T09:29:32"
-  },
-  {
-    "name": "nanoclaw",
-    "full_name": "gavrielc/nanoclaw",
-    "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
-    "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 6794,
-    "daily_stars": 51,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "ai-assistant",
-      "claude-code",
-      "claude-skills",
-      "clawdbot"
-    ],
-    "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-10T09:31:47"
+    "updated_at": "2026-02-10T13:58:11"
   },
   {
     "name": "antigravity-awesome-skills",
     "full_name": "sickn33/antigravity-awesome-skills",
     "description": "The Ultimate Collection of 60+ Agentic Skills for Claude Code (Antigravity). Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.",
     "url": "https://github.com/sickn33/antigravity-awesome-skills",
-    "stars": 8180,
-    "daily_stars": 38,
+    "stars": 8220,
+    "daily_stars": 40,
     "language": "Python",
     "topics": [
       "agentic-skills",
@@ -57,30 +39,33 @@
       "security-auditing"
     ],
     "created_at": "2026-01-14T17:48:09",
-    "updated_at": "2026-02-10T09:26:11"
+    "updated_at": "2026-02-10T13:57:49"
   },
   {
-    "name": "moltworker",
-    "full_name": "cloudflare/moltworker",
-    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
-    "url": "https://github.com/cloudflare/moltworker",
-    "stars": 8327,
-    "daily_stars": 24,
+    "name": "nanoclaw",
+    "full_name": "gavrielc/nanoclaw",
+    "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
+    "url": "https://github.com/gavrielc/nanoclaw",
+    "stars": 6831,
+    "daily_stars": 37,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "cloudflare-workers"
+      "ai-assistant",
+      "claude-code",
+      "claude-skills",
+      "clawdbot"
     ],
-    "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-10T09:18:12"
+    "created_at": "2026-01-31T15:47:22",
+    "updated_at": "2026-02-10T13:58:53"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 1990,
-    "daily_stars": 23,
+    "stars": 2009,
+    "daily_stars": 19,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -100,15 +85,30 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-10T09:14:43"
+    "updated_at": "2026-02-10T13:52:48"
+  },
+  {
+    "name": "moltworker",
+    "full_name": "cloudflare/moltworker",
+    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
+    "url": "https://github.com/cloudflare/moltworker",
+    "stars": 8345,
+    "daily_stars": 18,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "cloudflare-workers"
+    ],
+    "created_at": "2026-01-27T11:09:39",
+    "updated_at": "2026-02-10T13:54:53"
   },
   {
     "name": "Trellis",
     "full_name": "mindfold-ai/Trellis",
     "description": "All-in-one AI framework & toolkit for Claude Code & Cursor",
     "url": "https://github.com/mindfold-ai/Trellis",
-    "stars": 2069,
-    "daily_stars": 18,
+    "stars": 2079,
+    "daily_stars": 10,
     "language": "Shell",
     "topics": [
       "ai-agent",
@@ -121,15 +121,36 @@
       "workflow"
     ],
     "created_at": "2026-01-26T11:49:10",
-    "updated_at": "2026-02-10T09:29:51"
+    "updated_at": "2026-02-10T13:32:07"
+  },
+  {
+    "name": "Probe-TheRepo0fTesting",
+    "full_name": "SagarBiswas-MultiHAT/Probe-TheRepo0fTesting",
+    "description": "Probe-TheRepo0fTesting is a lightweight experimental repository designed for testing workflows, commits, and GitHub features in a controlled environment. Ideal for learners and developers, it serves as a sandbox to explore version control, CI/CD pipelines, and repo management without affecting production projects. ",
+    "url": "https://github.com/SagarBiswas-MultiHAT/Probe-TheRepo0fTesting",
+    "stars": 10,
+    "daily_stars": 9,
+    "language": null,
+    "topics": [
+      "ci-cd",
+      "developer-tools",
+      "github",
+      "repository-management",
+      "sandbox",
+      "testing",
+      "version-control",
+      "workflow"
+    ],
+    "created_at": "2026-02-03T20:49:06",
+    "updated_at": "2026-02-10T12:39:28"
   },
   {
     "name": "nelson",
     "full_name": "harrymunro/nelson",
     "description": "A Claude Code skill for coordinating agent work using a Royal Navy themed workflow. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to parallel subagent squadrons.",
     "url": "https://github.com/harrymunro/nelson",
-    "stars": 68,
-    "daily_stars": 8,
+    "stars": 75,
+    "daily_stars": 7,
     "language": null,
     "topics": [
       "agent-coordination",
@@ -139,73 +160,46 @@
       "claude-code-skill"
     ],
     "created_at": "2026-02-09T15:29:44",
-    "updated_at": "2026-02-10T08:12:37"
+    "updated_at": "2026-02-10T13:38:04"
   },
   {
-    "name": "fullstack-solution-template-for-agentcore",
-    "full_name": "awslabs/fullstack-solution-template-for-agentcore",
-    "description": "Flexible Fullstack solution template for production-ready deployments of any use case on Amazon Bedrock AgentCore.",
-    "url": "https://github.com/awslabs/fullstack-solution-template-for-agentcore",
-    "stars": 272,
+    "name": "agent-skills",
+    "full_name": "supabase/agent-skills",
+    "description": "Agent Skills to help developers using AI agents with Supabase",
+    "url": "https://github.com/supabase/agent-skills",
+    "stars": 1197,
     "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
-      "agent",
-      "agentcore",
-      "agentic-ai",
       "ai",
-      "artificial-intelligence",
-      "aws",
-      "cdk",
-      "full-stack",
-      "fullstack",
-      "infrastructure-as-code",
-      "react",
-      "runtime",
-      "template"
+      "ai-agents",
+      "skills",
+      "supabase"
     ],
-    "created_at": "2026-01-15T19:10:52",
-    "updated_at": "2026-02-10T09:29:57"
+    "created_at": "2026-01-16T07:28:01",
+    "updated_at": "2026-02-10T11:59:43"
   },
   {
-    "name": "Awesome-FDE-Roadmap",
-    "full_name": "pierpaolo28/Awesome-FDE-Roadmap",
-    "description": "🚀 The definitive roadmap to becoming a Forward Deployment Engineer (FDE). Master AI Agents, Enterprise Data Architecture, and Strategic Consulting. Bridging the gap between HQ and the field. Inspired by the \"Delta\" role at Palantir, OpenAI, and Scale AI.",
-    "url": "https://github.com/pierpaolo28/Awesome-FDE-Roadmap",
-    "stars": 212,
+    "name": "consultralph",
+    "full_name": "unicodeveloper/consultralph",
+    "description": "The Ultimate AI-powered app for consultants worldwide (EY, Deloitte, PwC, KPMG, McKinsey, BCG, Bain, etc) to do their research and complete work in hours instead of days, weeks and months.",
+    "url": "https://github.com/unicodeveloper/consultralph",
+    "stars": 23,
     "daily_stars": 6,
-    "language": null,
+    "language": "TypeScript",
     "topics": [
+      "ai",
       "ai-agents",
-      "awesome-list",
-      "forward-deployed-engineering",
-      "gcp",
-      "roadmap"
+      "consultant",
+      "consultant-as-a-service",
+      "consulting",
+      "consultralph",
+      "management",
+      "management-consulting",
+      "ralph",
+      "ralph-wiggum"
     ],
-    "created_at": "2026-01-14T18:43:01",
-    "updated_at": "2026-02-10T09:23:09"
-  },
-  {
-    "name": "lenny-skills",
-    "full_name": "RefoundAI/lenny-skills",
-    "description": "86 product management skills from Lenny's Podcast for Claude Code and AI agents. Hiring, user research, strategy, shipping, and more.",
-    "url": "https://github.com/RefoundAI/lenny-skills",
-    "stars": 179,
-    "daily_stars": 6,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "ai-assistant",
-      "claude",
-      "claude-code",
-      "lenny-rachitsky",
-      "llm",
-      "pm-tools",
-      "product-management",
-      "product-skills",
-      "skills"
-    ],
-    "created_at": "2026-01-29T16:14:48",
-    "updated_at": "2026-02-10T09:24:32"
+    "created_at": "2026-02-04T22:05:51",
+    "updated_at": "2026-02-10T13:34:07"
   }
 ]
