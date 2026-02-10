@@ -4,8 +4,8 @@
     "full_name": "affaan-m/everything-claude-code",
     "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
     "url": "https://github.com/affaan-m/everything-claude-code",
-    "stars": 43034,
-    "daily_stars": 123,
+    "stars": 43092,
+    "daily_stars": 58,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -18,15 +18,15 @@
       "productivity"
     ],
     "created_at": "2026-01-18T00:51:51",
-    "updated_at": "2026-02-10T03:37:44"
+    "updated_at": "2026-02-10T05:55:59"
   },
   {
     "name": "nanoclaw",
     "full_name": "gavrielc/nanoclaw",
     "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
     "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 6711,
-    "daily_stars": 77,
+    "stars": 6743,
+    "daily_stars": 32,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -36,15 +36,15 @@
       "clawdbot"
     ],
     "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-10T03:31:26"
+    "updated_at": "2026-02-10T05:51:47"
   },
   {
     "name": "antigravity-awesome-skills",
     "full_name": "sickn33/antigravity-awesome-skills",
     "description": "The Ultimate Collection of 60+ Agentic Skills for Claude Code (Antigravity). Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.",
     "url": "https://github.com/sickn33/antigravity-awesome-skills",
-    "stars": 8126,
-    "daily_stars": 42,
+    "stars": 8142,
+    "daily_stars": 16,
     "language": "Python",
     "topics": [
       "agentic-skills",
@@ -57,15 +57,30 @@
       "security-auditing"
     ],
     "created_at": "2026-01-14T17:48:09",
-    "updated_at": "2026-02-10T03:37:33"
+    "updated_at": "2026-02-10T05:48:43"
+  },
+  {
+    "name": "moltworker",
+    "full_name": "cloudflare/moltworker",
+    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
+    "url": "https://github.com/cloudflare/moltworker",
+    "stars": 8303,
+    "daily_stars": 13,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "cloudflare-workers"
+    ],
+    "created_at": "2026-01-27T11:09:39",
+    "updated_at": "2026-02-10T05:43:25"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 1957,
-    "daily_stars": 26,
+    "stars": 1967,
+    "daily_stars": 10,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -85,15 +100,38 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-10T03:32:21"
+    "updated_at": "2026-02-10T05:44:15"
+  },
+  {
+    "name": "lenny-skills",
+    "full_name": "RefoundAI/lenny-skills",
+    "description": "86 product management skills from Lenny's Podcast for Claude Code and AI agents. Hiring, user research, strategy, shipping, and more.",
+    "url": "https://github.com/RefoundAI/lenny-skills",
+    "stars": 173,
+    "daily_stars": 6,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "ai-assistant",
+      "claude",
+      "claude-code",
+      "lenny-rachitsky",
+      "llm",
+      "pm-tools",
+      "product-management",
+      "product-skills",
+      "skills"
+    ],
+    "created_at": "2026-01-29T16:14:48",
+    "updated_at": "2026-02-10T05:40:58"
   },
   {
     "name": "nelson",
     "full_name": "harrymunro/nelson",
     "description": "A Claude Code skill for coordinating agent work using a Royal Navy themed workflow. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to parallel subagent squadrons.",
     "url": "https://github.com/harrymunro/nelson",
-    "stars": 54,
-    "daily_stars": 25,
+    "stars": 60,
+    "daily_stars": 6,
     "language": null,
     "topics": [
       "agent-coordination",
@@ -103,30 +141,40 @@
       "claude-code-skill"
     ],
     "created_at": "2026-02-09T15:29:44",
-    "updated_at": "2026-02-10T03:38:08"
+    "updated_at": "2026-02-10T05:38:38"
   },
   {
-    "name": "moltworker",
-    "full_name": "cloudflare/moltworker",
-    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
-    "url": "https://github.com/cloudflare/moltworker",
-    "stars": 8290,
-    "daily_stars": 19,
-    "language": "TypeScript",
+    "name": "allama",
+    "full_name": "digitranslab/allama",
+    "description": "🔥🔥🔥 AI security automation platform. Build visual workflows, deploy autonomous agents, and automate threat detection and response. 80+ integrations with SIEM, EDR, ticketing, and cloud tools. Self-hosted SOAR alternative.",
+    "url": "https://github.com/digitranslab/allama",
+    "stars": 15,
+    "daily_stars": 4,
+    "language": "Python",
     "topics": [
+      "ai",
       "ai-agents",
-      "cloudflare-workers"
+      "ai-agents-framework",
+      "automation",
+      "cybersecurity",
+      "llm",
+      "security",
+      "security-automation",
+      "siem",
+      "soar",
+      "threat-detection",
+      "workflow"
     ],
-    "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-10T03:14:25"
+    "created_at": "2026-01-30T07:43:29",
+    "updated_at": "2026-02-10T05:12:19"
   },
   {
     "name": "Trellis",
     "full_name": "mindfold-ai/Trellis",
     "description": "All-in-one AI framework & toolkit for Claude Code & Cursor",
     "url": "https://github.com/mindfold-ai/Trellis",
-    "stars": 2048,
-    "daily_stars": 10,
+    "stars": 2051,
+    "daily_stars": 3,
     "language": "Shell",
     "topics": [
       "ai-agent",
@@ -139,57 +187,32 @@
       "workflow"
     ],
     "created_at": "2026-01-26T11:49:10",
-    "updated_at": "2026-02-10T03:21:38"
+    "updated_at": "2026-02-10T05:44:21"
   },
   {
-    "name": "crabwalk",
-    "full_name": "luccast/crabwalk",
-    "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents.",
-    "url": "https://github.com/luccast/crabwalk",
-    "stars": 738,
-    "daily_stars": 6,
+    "name": "fullstack-solution-template-for-agentcore",
+    "full_name": "awslabs/fullstack-solution-template-for-agentcore",
+    "description": "Flexible Fullstack solution template for production-ready deployments of any use case on Amazon Bedrock AgentCore.",
+    "url": "https://github.com/awslabs/fullstack-solution-template-for-agentcore",
+    "stars": 266,
+    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
+      "agent",
+      "agentcore",
+      "agentic-ai",
       "ai",
-      "ai-agents",
-      "clawdbot",
-      "moltbot",
-      "monitoring"
+      "artificial-intelligence",
+      "aws",
+      "cdk",
+      "full-stack",
+      "fullstack",
+      "infrastructure-as-code",
+      "react",
+      "runtime",
+      "template"
     ],
-    "created_at": "2026-01-25T23:00:59",
-    "updated_at": "2026-02-10T03:31:57"
-  },
-  {
-    "name": "alphora",
-    "full_name": "opencmit/alphora",
-    "description": "A Production-Ready Framework for Building Composable AI Agents",
-    "url": "https://github.com/opencmit/alphora",
-    "stars": 177,
-    "daily_stars": 6,
-    "language": "Python",
-    "topics": [
-      "agent-framework",
-      "ai-agents",
-      "llm",
-      "multi-agent-systems"
-    ],
-    "created_at": "2026-02-03T07:18:35",
-    "updated_at": "2026-02-10T02:31:57"
-  },
-  {
-    "name": "Boba-CLI",
-    "full_name": "Able-labs-xyz/Boba-CLI",
-    "description": "Boba CLI - The bridge between agents and decentralized trading.",
-    "url": "https://github.com/Able-labs-xyz/Boba-CLI",
-    "stars": 48,
-    "daily_stars": 6,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "cryptocurrency"
-    ],
-    "created_at": "2026-02-05T04:37:50",
-    "updated_at": "2026-02-10T01:00:54"
+    "created_at": "2026-01-15T19:10:52",
+    "updated_at": "2026-02-10T05:12:55"
   }
 ]
