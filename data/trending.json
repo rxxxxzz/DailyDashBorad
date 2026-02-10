@@ -4,8 +4,8 @@
     "full_name": "affaan-m/everything-claude-code",
     "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
     "url": "https://github.com/affaan-m/everything-claude-code",
-    "stars": 43437,
-    "daily_stars": 73,
+    "stars": 43568,
+    "daily_stars": 131,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -18,15 +18,15 @@
       "productivity"
     ],
     "created_at": "2026-01-18T00:51:51",
-    "updated_at": "2026-02-10T17:31:39"
+    "updated_at": "2026-02-10T21:07:28"
   },
   {
     "name": "nanoclaw",
     "full_name": "gavrielc/nanoclaw",
     "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
     "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 6871,
-    "daily_stars": 40,
+    "stars": 6905,
+    "daily_stars": 34,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -36,15 +36,15 @@
       "clawdbot"
     ],
     "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-10T17:25:58"
+    "updated_at": "2026-02-10T21:06:56"
   },
   {
     "name": "antigravity-awesome-skills",
     "full_name": "sickn33/antigravity-awesome-skills",
     "description": "The Ultimate Collection of 60+ Agentic Skills for Claude Code (Antigravity). Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.",
     "url": "https://github.com/sickn33/antigravity-awesome-skills",
-    "stars": 8254,
-    "daily_stars": 34,
+    "stars": 8281,
+    "daily_stars": 27,
     "language": "Python",
     "topics": [
       "agentic-skills",
@@ -57,15 +57,15 @@
       "security-auditing"
     ],
     "created_at": "2026-01-14T17:48:09",
-    "updated_at": "2026-02-10T17:30:49"
+    "updated_at": "2026-02-10T20:49:39"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 2033,
-    "daily_stars": 24,
+    "stars": 2045,
+    "daily_stars": 12,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -85,54 +85,113 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-10T17:33:00"
+    "updated_at": "2026-02-10T20:55:13"
   },
   {
     "name": "moltworker",
     "full_name": "cloudflare/moltworker",
     "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
     "url": "https://github.com/cloudflare/moltworker",
-    "stars": 8359,
-    "daily_stars": 14,
+    "stars": 8370,
+    "daily_stars": 11,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
       "cloudflare-workers"
     ],
     "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-10T17:13:33"
+    "updated_at": "2026-02-10T20:29:32"
   },
   {
-    "name": "pipelock",
-    "full_name": "luckyPipewrench/pipelock",
-    "description": "Security harness for AI agents — egress proxy with DLP scanning, SSRF protection, MCP response scanning, and workspace integrity monitoring",
-    "url": "https://github.com/luckyPipewrench/pipelock",
-    "stars": 61,
-    "daily_stars": 14,
+    "name": "kanban-md",
+    "full_name": "antopolskiy/kanban-md",
+    "description": "File-based kanban board CLI and TUI for multi-agent workflows. Skills included.",
+    "url": "https://github.com/antopolskiy/kanban-md",
+    "stars": 40,
+    "daily_stars": 11,
     "language": "Go",
     "topics": [
+      "agent-skills",
       "ai-agents",
-      "ai-security",
-      "dlp",
-      "egress-proxy",
-      "fetch-proxy",
-      "golang",
-      "integrity-monitoring",
-      "llm-security",
-      "mcp",
-      "security",
-      "ssrf-protection"
+      "cli",
+      "developer-tools",
+      "go",
+      "kanban",
+      "markdown",
+      "multi-agent",
+      "project-management",
+      "task-management",
+      "terminal",
+      "tui"
     ],
-    "created_at": "2026-02-08T00:40:18",
-    "updated_at": "2026-02-10T17:22:00"
+    "created_at": "2026-02-07T13:09:55",
+    "updated_at": "2026-02-10T20:50:29"
+  },
+  {
+    "name": "nelson",
+    "full_name": "harrymunro/nelson",
+    "description": "A Claude Code skill for coordinating agent work using a Royal Navy themed workflow. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to parallel subagent squadrons.",
+    "url": "https://github.com/harrymunro/nelson",
+    "stars": 91,
+    "daily_stars": 7,
+    "language": null,
+    "topics": [
+      "agent-coordination",
+      "ai-agents",
+      "anthropic",
+      "claude-code",
+      "claude-code-skill"
+    ],
+    "created_at": "2026-02-09T15:29:44",
+    "updated_at": "2026-02-10T20:55:23"
+  },
+  {
+    "name": "consultralph",
+    "full_name": "unicodeveloper/consultralph",
+    "description": "The Ultimate AI-powered app for consultants worldwide (EY, Deloitte, PwC, KPMG, McKinsey, BCG, Bain, etc) to do their research and complete work in hours instead of days, weeks and months.",
+    "url": "https://github.com/unicodeveloper/consultralph",
+    "stars": 31,
+    "daily_stars": 5,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "consultant",
+      "consultant-as-a-service",
+      "consulting",
+      "consultralph",
+      "management",
+      "management-consulting",
+      "ralph",
+      "ralph-wiggum"
+    ],
+    "created_at": "2026-02-04T22:05:51",
+    "updated_at": "2026-02-10T20:47:14"
+  },
+  {
+    "name": "pocket-agent",
+    "full_name": "KenKaiii/pocket-agent",
+    "description": "An AI personal assistant done the right way.",
+    "url": "https://github.com/KenKaiii/pocket-agent",
+    "stars": 14,
+    "daily_stars": 3,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agent",
+      "ai-agents",
+      "ai-assistant",
+      "personal-assistant"
+    ],
+    "created_at": "2026-01-25T08:09:22",
+    "updated_at": "2026-02-10T19:38:19"
   },
   {
     "name": "Trellis",
     "full_name": "mindfold-ai/Trellis",
     "description": "All-in-one AI framework & toolkit for Claude Code & Cursor",
     "url": "https://github.com/mindfold-ai/Trellis",
-    "stars": 2090,
-    "daily_stars": 11,
+    "stars": 2093,
+    "daily_stars": 3,
     "language": "Shell",
     "topics": [
       "ai-agent",
@@ -145,57 +204,6 @@
       "workflow"
     ],
     "created_at": "2026-01-26T11:49:10",
-    "updated_at": "2026-02-10T17:21:35"
-  },
-  {
-    "name": "nelson",
-    "full_name": "harrymunro/nelson",
-    "description": "A Claude Code skill for coordinating agent work using a Royal Navy themed workflow. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to parallel subagent squadrons.",
-    "url": "https://github.com/harrymunro/nelson",
-    "stars": 84,
-    "daily_stars": 9,
-    "language": null,
-    "topics": [
-      "agent-coordination",
-      "ai-agents",
-      "anthropic",
-      "claude-code",
-      "claude-code-skill"
-    ],
-    "created_at": "2026-02-09T15:29:44",
-    "updated_at": "2026-02-10T17:10:09"
-  },
-  {
-    "name": "agent-skills",
-    "full_name": "supabase/agent-skills",
-    "description": "Agent Skills to help developers using AI agents with Supabase",
-    "url": "https://github.com/supabase/agent-skills",
-    "stars": 1205,
-    "daily_stars": 8,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "skills",
-      "supabase"
-    ],
-    "created_at": "2026-01-16T07:28:01",
-    "updated_at": "2026-02-10T17:17:25"
-  },
-  {
-    "name": "free-ai-agents-resources",
-    "full_name": "avinash201199/free-ai-agents-resources",
-    "description": "Free AI Agents Resources – Your All-in-One 2026 Learning Hub",
-    "url": "https://github.com/avinash201199/free-ai-agents-resources",
-    "stars": 199,
-    "daily_stars": 6,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-agents",
-      "llms"
-    ],
-    "created_at": "2026-01-15T10:39:35",
-    "updated_at": "2026-02-10T16:37:53"
+    "updated_at": "2026-02-10T20:02:34"
   }
 ]
