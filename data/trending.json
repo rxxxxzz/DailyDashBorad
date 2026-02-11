@@ -4,8 +4,8 @@
     "full_name": "affaan-m/everything-claude-code",
     "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
     "url": "https://github.com/affaan-m/everything-claude-code",
-    "stars": 43745,
-    "daily_stars": 177,
+    "stars": 43796,
+    "daily_stars": 51,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -18,15 +18,54 @@
       "productivity"
     ],
     "created_at": "2026-01-18T00:51:51",
-    "updated_at": "2026-02-11T03:32:44"
+    "updated_at": "2026-02-11T05:49:37"
+  },
+  {
+    "name": "nanoclaw",
+    "full_name": "gavrielc/nanoclaw",
+    "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
+    "url": "https://github.com/gavrielc/nanoclaw",
+    "stars": 6973,
+    "daily_stars": 20,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "ai-assistant",
+      "claude-code",
+      "claude-skills",
+      "clawdbot"
+    ],
+    "created_at": "2026-01-31T15:47:22",
+    "updated_at": "2026-02-11T05:49:58"
+  },
+  {
+    "name": "antigravity-awesome-skills",
+    "full_name": "sickn33/antigravity-awesome-skills",
+    "description": "The Ultimate Collection of 60+ Agentic Skills for Claude Code (Antigravity). Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.",
+    "url": "https://github.com/sickn33/antigravity-awesome-skills",
+    "stars": 8348,
+    "daily_stars": 18,
+    "language": "Python",
+    "topics": [
+      "agentic-skills",
+      "ai-agents",
+      "antigravity",
+      "autonomous-coding",
+      "claude-code",
+      "mcp",
+      "react-patterns",
+      "security-auditing"
+    ],
+    "created_at": "2026-01-14T17:48:09",
+    "updated_at": "2026-02-11T05:51:07"
   },
   {
     "name": "clawe",
     "full_name": "getclawe/clawe",
     "description": "Multi-agent coordination system powered by OpenClaw. Good for automating weekly SEO review, editing, and publishing workflows for agencies.",
     "url": "https://github.com/getclawe/clawe",
-    "stars": 103,
-    "daily_stars": 73,
+    "stars": 115,
+    "daily_stars": 12,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -36,15 +75,15 @@
       "openclaw"
     ],
     "created_at": "2026-02-02T14:35:09",
-    "updated_at": "2026-02-11T03:33:44"
+    "updated_at": "2026-02-11T05:30:45"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 2104,
-    "daily_stars": 59,
+    "stars": 2114,
+    "daily_stars": 10,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -64,54 +103,30 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-11T03:23:25"
+    "updated_at": "2026-02-11T05:47:19"
   },
   {
-    "name": "antigravity-awesome-skills",
-    "full_name": "sickn33/antigravity-awesome-skills",
-    "description": "The Ultimate Collection of 60+ Agentic Skills for Claude Code (Antigravity). Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.",
-    "url": "https://github.com/sickn33/antigravity-awesome-skills",
-    "stars": 8330,
-    "daily_stars": 49,
-    "language": "Python",
-    "topics": [
-      "agentic-skills",
-      "ai-agents",
-      "antigravity",
-      "autonomous-coding",
-      "claude-code",
-      "mcp",
-      "react-patterns",
-      "security-auditing"
-    ],
-    "created_at": "2026-01-14T17:48:09",
-    "updated_at": "2026-02-11T03:27:07"
-  },
-  {
-    "name": "nanoclaw",
-    "full_name": "gavrielc/nanoclaw",
-    "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
-    "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 6953,
-    "daily_stars": 48,
+    "name": "moltworker",
+    "full_name": "cloudflare/moltworker",
+    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
+    "url": "https://github.com/cloudflare/moltworker",
+    "stars": 8385,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "ai-assistant",
-      "claude-code",
-      "claude-skills",
-      "clawdbot"
+      "cloudflare-workers"
     ],
-    "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-11T03:31:54"
+    "created_at": "2026-01-27T11:09:39",
+    "updated_at": "2026-02-11T05:08:08"
   },
   {
     "name": "Trellis",
     "full_name": "mindfold-ai/Trellis",
     "description": "All-in-one AI framework & toolkit for Claude Code & Cursor",
     "url": "https://github.com/mindfold-ai/Trellis",
-    "stars": 2112,
-    "daily_stars": 19,
+    "stars": 2116,
+    "daily_stars": 4,
     "language": "Shell",
     "topics": [
       "ai-agent",
@@ -124,70 +139,39 @@
       "workflow"
     ],
     "created_at": "2026-01-26T11:49:10",
-    "updated_at": "2026-02-11T03:34:16"
+    "updated_at": "2026-02-11T05:25:37"
   },
   {
-    "name": "moltworker",
-    "full_name": "cloudflare/moltworker",
-    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
-    "url": "https://github.com/cloudflare/moltworker",
-    "stars": 8381,
-    "daily_stars": 11,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "cloudflare-workers"
-    ],
-    "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-11T03:24:02"
-  },
-  {
-    "name": "consultralph",
-    "full_name": "unicodeveloper/consultralph",
-    "description": "The Ultimate AI-powered app for consultants worldwide (EY, Deloitte, PwC, KPMG, McKinsey, BCG, Bain, etc) to do their research and complete work in hours instead of days, weeks and months.",
-    "url": "https://github.com/unicodeveloper/consultralph",
-    "stars": 40,
-    "daily_stars": 9,
-    "language": "TypeScript",
+    "name": "SILENTCHAIN",
+    "full_name": "silentchainai/SILENTCHAIN",
+    "description": "AI-powered vulnerability scanner extension for Burp Suite with multi-provider support (Ollama, OpenAI, Claude, Gemini)",
+    "url": "https://github.com/silentchainai/SILENTCHAIN",
+    "stars": 6,
+    "daily_stars": 3,
+    "language": "Python",
     "topics": [
       "ai",
-      "ai-agents",
-      "consultant",
-      "consultant-as-a-service",
-      "consulting",
-      "consultralph",
-      "management",
-      "management-consulting",
-      "ralph",
-      "ralph-wiggum"
+      "appsec",
+      "artificial-intelligence",
+      "bug-bounty",
+      "burp-extension",
+      "burp-suite",
+      "owasp",
+      "penetration-testing",
+      "security",
+      "security-tools",
+      "vulnerability-scanner"
     ],
-    "created_at": "2026-02-04T22:05:51",
-    "updated_at": "2026-02-11T03:28:43"
-  },
-  {
-    "name": "takt",
-    "full_name": "nrslib/takt",
-    "description": "Task Agent Koordination Tool - Multi-agent orchestration system for Claude Code (Codex support planned).",
-    "url": "https://github.com/nrslib/takt",
-    "stars": 313,
-    "daily_stars": 7,
-    "language": "TypeScript",
-    "topics": [
-      "agent-orchestration",
-      "ai-agents",
-      "claude-code",
-      "multi-agent"
-    ],
-    "created_at": "2026-01-25T04:05:48",
-    "updated_at": "2026-02-11T03:26:21"
+    "created_at": "2026-02-03T16:14:30",
+    "updated_at": "2026-02-11T05:30:04"
   },
   {
     "name": "nelson",
     "full_name": "harrymunro/nelson",
     "description": "A Claude Code skill for coordinating agent work using a Royal Navy themed workflow. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to parallel subagent squadrons.",
     "url": "https://github.com/harrymunro/nelson",
-    "stars": 98,
-    "daily_stars": 7,
+    "stars": 101,
+    "daily_stars": 3,
     "language": null,
     "topics": [
       "agent-coordination",
@@ -197,6 +181,31 @@
       "claude-code-skill"
     ],
     "created_at": "2026-02-09T15:29:44",
-    "updated_at": "2026-02-11T02:36:58"
+    "updated_at": "2026-02-11T04:28:12"
+  },
+  {
+    "name": "blueprint-ai-first-company",
+    "full_name": "saurav-yirifi/blueprint-ai-first-company",
+    "description": "Free 81K-word book on building AI-first companies. 12 chapters, 775 citations, 20 frameworks, 14 Python code examples. Agent architecture, microsite patterns, data flywheels, team models, and governance. CC BY-NC-SA 4.0.",
+    "url": "https://github.com/saurav-yirifi/blueprint-ai-first-company",
+    "stars": 8,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-first",
+      "architecture",
+      "book",
+      "claude",
+      "llm",
+      "machine-learning",
+      "mkdocs",
+      "open-access",
+      "python",
+      "startups"
+    ],
+    "created_at": "2026-02-06T21:58:30",
+    "updated_at": "2026-02-11T05:32:28"
   }
 ]
