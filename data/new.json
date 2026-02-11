@@ -4,8 +4,8 @@
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 2114,
-    "daily_stars": 10,
+    "stars": 2147,
+    "daily_stars": 33,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -25,24 +25,25 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-11T05:47:19"
+    "updated_at": "2026-02-11T09:20:21"
   },
   {
-    "name": "alphora",
-    "full_name": "opencmit/alphora",
-    "description": "A Production-Ready Framework for Building Composable AI Agents",
-    "url": "https://github.com/opencmit/alphora",
-    "stars": 183,
-    "daily_stars": 0,
-    "language": "Python",
+    "name": "nelson",
+    "full_name": "harrymunro/nelson",
+    "description": "A Claude Code skill for coordinating agent work using a Royal Navy themed workflow. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to parallel subagent squadrons.",
+    "url": "https://github.com/harrymunro/nelson",
+    "stars": 104,
+    "daily_stars": 3,
+    "language": null,
     "topics": [
-      "agent-framework",
+      "agent-coordination",
       "ai-agents",
-      "llm",
-      "multi-agent-systems"
+      "anthropic",
+      "claude-code",
+      "claude-code-skill"
     ],
-    "created_at": "2026-02-03T07:18:35",
-    "updated_at": "2026-02-11T02:32:56"
+    "created_at": "2026-02-09T15:29:44",
+    "updated_at": "2026-02-11T09:09:20"
   },
   {
     "name": "chargen",
@@ -64,30 +65,12 @@
     "updated_at": "2026-02-09T22:08:37"
   },
   {
-    "name": "nelson",
-    "full_name": "harrymunro/nelson",
-    "description": "A Claude Code skill for coordinating agent work using a Royal Navy themed workflow. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to parallel subagent squadrons.",
-    "url": "https://github.com/harrymunro/nelson",
-    "stars": 101,
-    "daily_stars": 3,
-    "language": null,
-    "topics": [
-      "agent-coordination",
-      "ai-agents",
-      "anthropic",
-      "claude-code",
-      "claude-code-skill"
-    ],
-    "created_at": "2026-02-09T15:29:44",
-    "updated_at": "2026-02-11T04:28:12"
-  },
-  {
     "name": "pipelock",
     "full_name": "luckyPipewrench/pipelock",
     "description": "Security harness for AI agents — egress proxy with DLP scanning, SSRF protection, MCP response scanning, and workspace integrity monitoring",
     "url": "https://github.com/luckyPipewrench/pipelock",
-    "stars": 64,
-    "daily_stars": 0,
+    "stars": 68,
+    "daily_stars": 4,
     "language": "Go",
     "topics": [
       "ai-agents",
@@ -103,15 +86,15 @@
       "ssrf-protection"
     ],
     "created_at": "2026-02-08T00:40:18",
-    "updated_at": "2026-02-11T00:52:36"
+    "updated_at": "2026-02-11T08:32:58"
   },
   {
     "name": "Boba-CLI",
     "full_name": "Able-labs-xyz/Boba-CLI",
     "description": "Boba CLI - The bridge between agents and decentralized trading.",
     "url": "https://github.com/Able-labs-xyz/Boba-CLI",
-    "stars": 51,
-    "daily_stars": 0,
+    "stars": 52,
+    "daily_stars": 1,
     "language": "Go",
     "topics": [
       "ai",
@@ -119,14 +102,14 @@
       "cryptocurrency"
     ],
     "created_at": "2026-02-05T04:37:50",
-    "updated_at": "2026-02-10T23:18:33"
+    "updated_at": "2026-02-11T07:30:53"
   },
   {
     "name": "kanban-md",
     "full_name": "antopolskiy/kanban-md",
     "description": "File-based kanban board CLI and TUI for multi-agent workflows. Skills included.",
     "url": "https://github.com/antopolskiy/kanban-md",
-    "stars": 47,
+    "stars": 49,
     "daily_stars": 2,
     "language": "Go",
     "topics": [
@@ -144,7 +127,7 @@
       "tui"
     ],
     "created_at": "2026-02-07T13:09:55",
-    "updated_at": "2026-02-11T05:36:53"
+    "updated_at": "2026-02-11T09:16:43"
   },
   {
     "name": "moltbook-agent-guard",
@@ -169,8 +152,8 @@
     "full_name": "unicodeveloper/consultralph",
     "description": "The Ultimate AI-powered app for consultants worldwide (EY, Deloitte, PwC, KPMG, McKinsey, BCG, Bain, etc) to do their research and complete work in hours instead of days, weeks and months.",
     "url": "https://github.com/unicodeveloper/consultralph",
-    "stars": 41,
-    "daily_stars": 1,
+    "stars": 43,
+    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -185,7 +168,7 @@
       "ralph-wiggum"
     ],
     "created_at": "2026-02-04T22:05:51",
-    "updated_at": "2026-02-11T05:37:43"
+    "updated_at": "2026-02-11T09:08:17"
   },
   {
     "name": "riphook",
@@ -207,5 +190,23 @@
     ],
     "created_at": "2026-02-04T05:26:35",
     "updated_at": "2026-02-10T00:21:23"
+  },
+  {
+    "name": "iphoneclaw",
+    "full_name": "NoEdgeAI/iphoneclaw",
+    "description": "iphone+AI, open source apple intelligence, let agent take over your iPhone",
+    "url": "https://github.com/NoEdgeAI/iphoneclaw",
+    "stars": 33,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "ai-agents",
+      "apple",
+      "clawdbot",
+      "iphone"
+    ],
+    "created_at": "2026-02-07T18:29:09",
+    "updated_at": "2026-02-11T07:17:25"
   }
 ]
