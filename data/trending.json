@@ -4,8 +4,8 @@
     "full_name": "affaan-m/everything-claude-code",
     "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
     "url": "https://github.com/affaan-m/everything-claude-code",
-    "stars": 44194,
-    "daily_stars": 51,
+    "stars": 44431,
+    "daily_stars": 237,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -18,15 +18,15 @@
       "productivity"
     ],
     "created_at": "2026-01-18T00:51:51",
-    "updated_at": "2026-02-11T20:57:07"
+    "updated_at": "2026-02-12T03:26:36"
   },
   {
     "name": "nanoclaw",
     "full_name": "gavrielc/nanoclaw",
     "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
     "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 7153,
-    "daily_stars": 45,
+    "stars": 7217,
+    "daily_stars": 64,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -36,15 +36,15 @@
       "clawdbot"
     ],
     "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-11T20:58:30"
+    "updated_at": "2026-02-12T03:25:17"
   },
   {
     "name": "antigravity-awesome-skills",
     "full_name": "sickn33/antigravity-awesome-skills",
     "description": "The Ultimate Collection of 60+ Agentic Skills for Claude Code (Antigravity). Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.",
     "url": "https://github.com/sickn33/antigravity-awesome-skills",
-    "stars": 8453,
-    "daily_stars": 20,
+    "stars": 8495,
+    "daily_stars": 42,
     "language": "Python",
     "topics": [
       "agentic-skills",
@@ -57,30 +57,15 @@
       "security-auditing"
     ],
     "created_at": "2026-01-14T17:48:09",
-    "updated_at": "2026-02-11T20:14:02"
-  },
-  {
-    "name": "moltworker",
-    "full_name": "cloudflare/moltworker",
-    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
-    "url": "https://github.com/cloudflare/moltworker",
-    "stars": 8439,
-    "daily_stars": 10,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "cloudflare-workers"
-    ],
-    "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-11T20:51:11"
+    "updated_at": "2026-02-12T03:25:22"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 2198,
-    "daily_stars": 5,
+    "stars": 2214,
+    "daily_stars": 16,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -100,116 +85,120 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-11T20:25:50"
+    "updated_at": "2026-02-12T03:15:31"
   },
   {
-    "name": "antigravity-skills",
-    "full_name": "guanyang/antigravity-skills",
-    "description": "通过模块化的 Skills 定义，赋予 Agent 在特定领域的专业能力（如全栈开发、复杂逻辑规划、多媒体处理等），让 Agent 能够像人类专家一样系统性地解决复杂问题。",
-    "url": "https://github.com/guanyang/antigravity-skills",
-    "stars": 215,
-    "daily_stars": 4,
-    "language": "Python",
+    "name": "agent-skills",
+    "full_name": "supabase/agent-skills",
+    "description": "Agent Skills to help developers using AI agents with Supabase",
+    "url": "https://github.com/supabase/agent-skills",
+    "stars": 1246,
+    "daily_stars": 12,
+    "language": "TypeScript",
     "topics": [
-      "agent",
+      "ai",
       "ai-agents",
-      "ai-skills",
-      "anthropic-skills",
-      "antigravity",
-      "antigravity-ai",
-      "antigravity-ide",
-      "claude-code",
-      "claude-code-plugin",
-      "context-engineering",
-      "full-stack",
-      "notebooklm",
-      "planning",
       "skills",
-      "superpowers",
-      "ui-ux-design",
-      "workflows"
+      "supabase"
     ],
-    "created_at": "2026-01-13T04:29:34",
-    "updated_at": "2026-02-11T20:44:00"
+    "created_at": "2026-01-16T07:28:01",
+    "updated_at": "2026-02-12T02:53:25"
   },
   {
-    "name": "nelson",
-    "full_name": "harrymunro/nelson",
-    "description": "A Claude Code skill for coordinating agent work using a Royal Navy themed workflow. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to parallel subagent squadrons.",
-    "url": "https://github.com/harrymunro/nelson",
-    "stars": 112,
-    "daily_stars": 4,
-    "language": null,
+    "name": "google-antigravity",
+    "full_name": "Dokhacgiakhoa/google-antigravity",
+    "description": "Google AntiGravity IDE for Vibe Coding",
+    "url": "https://github.com/Dokhacgiakhoa/google-antigravity",
+    "stars": 226,
+    "daily_stars": 12,
+    "language": "Python",
     "topics": [
-      "agent-coordination",
       "ai-agents",
-      "anthropic",
+      "cli",
+      "developer-tools",
+      "google-antigravity",
+      "prompt-engineering",
+      "scaffolding",
+      "vibe-coding"
+    ],
+    "created_at": "2026-01-27T21:22:16",
+    "updated_at": "2026-02-12T02:57:44"
+  },
+  {
+    "name": "moltworker",
+    "full_name": "cloudflare/moltworker",
+    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
+    "url": "https://github.com/cloudflare/moltworker",
+    "stars": 8450,
+    "daily_stars": 11,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "cloudflare-workers"
+    ],
+    "created_at": "2026-01-27T11:09:39",
+    "updated_at": "2026-02-12T03:24:08"
+  },
+  {
+    "name": "clawe",
+    "full_name": "getclawe/clawe",
+    "description": "Multi-agent coordination system powered by OpenClaw. Good for automating weekly SEO review, editing, and publishing workflows for agencies.",
+    "url": "https://github.com/getclawe/clawe",
+    "stars": 158,
+    "daily_stars": 8,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "ai-assistant",
       "claude-code",
-      "claude-code-skill"
+      "clawbot",
+      "openclaw"
     ],
-    "created_at": "2026-02-09T15:29:44",
-    "updated_at": "2026-02-11T20:27:50"
+    "created_at": "2026-02-02T14:35:09",
+    "updated_at": "2026-02-12T02:52:16"
   },
   {
-    "name": "memv",
-    "full_name": "vstorm-co/memv",
-    "description": "Structured, temporal memory for AI agents.",
-    "url": "https://github.com/vstorm-co/memv",
-    "stars": 29,
-    "daily_stars": 4,
-    "language": "Python",
+    "name": "crabwalk",
+    "full_name": "luccast/crabwalk",
+    "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents.",
+    "url": "https://github.com/luccast/crabwalk",
+    "stars": 760,
+    "daily_stars": 5,
+    "language": "TypeScript",
     "topics": [
-      "agentic",
-      "agentic-ai",
-      "agentic-framework",
+      "ai",
       "ai-agents",
-      "ai-memory",
-      "llm-agents",
-      "open-source"
+      "clawdbot",
+      "moltbot",
+      "monitoring"
     ],
-    "created_at": "2026-01-26T14:18:26",
-    "updated_at": "2026-02-11T20:34:09"
+    "created_at": "2026-01-25T23:00:59",
+    "updated_at": "2026-02-12T03:13:47"
   },
   {
-    "name": "mega-data-factory",
-    "full_name": "duoan/mega-data-factory",
-    "description": "Mega Scale Multimodal DataPipeline for SOTA models",
-    "url": "https://github.com/duoan/mega-data-factory",
-    "stars": 145,
-    "daily_stars": 4,
-    "language": "Python",
+    "name": "oh-my-ag",
+    "full_name": "first-fluke/oh-my-ag",
+    "description": "Professional agent skills for Google Antigravity IDE featuring specialized PM, Frontend, Backend, Mobile, QA, and Debug agents",
+    "url": "https://github.com/first-fluke/oh-my-ag",
+    "stars": 198,
+    "daily_stars": 5,
+    "language": "TypeScript",
     "topics": [
-      "data-curation",
-      "datapipeline",
-      "datapipelines",
-      "deeplearning",
-      "image-editing",
-      "llm",
-      "machine-learning",
-      "mllm",
-      "multimodal",
-      "ray",
-      "rust",
-      "vlm"
-    ],
-    "created_at": "2026-01-17T21:51:33",
-    "updated_at": "2026-02-11T20:32:37"
-  },
-  {
-    "name": "alphora",
-    "full_name": "opencmit/alphora",
-    "description": "A Production-Ready Framework for Building Composable AI Agents",
-    "url": "https://github.com/opencmit/alphora",
-    "stars": 187,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "agent-framework",
       "ai-agents",
-      "llm",
-      "multi-agent-systems"
+      "antigravity",
+      "backend-agent",
+      "collaborative-development",
+      "debug-agent",
+      "frontend-agent",
+      "mobile-agent",
+      "multi-agent",
+      "orchestrator",
+      "pm-agent",
+      "qa-agent",
+      "serena-memory",
+      "task-coordination"
     ],
-    "created_at": "2026-02-03T07:18:35",
-    "updated_at": "2026-02-11T20:32:26"
+    "created_at": "2026-01-30T11:29:46",
+    "updated_at": "2026-02-12T02:27:12"
   }
 ]

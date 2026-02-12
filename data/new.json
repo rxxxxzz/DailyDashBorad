@@ -5,7 +5,7 @@
     "description": "A Claude Code skill for coordinating agent work using a Royal Navy themed workflow. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to parallel subagent squadrons.",
     "url": "https://github.com/harrymunro/nelson",
     "stars": 112,
-    "daily_stars": 4,
+    "daily_stars": 0,
     "language": null,
     "topics": [
       "agent-coordination",
@@ -41,8 +41,8 @@
     "full_name": "luckyPipewrench/pipelock",
     "description": "Security harness for AI agents — egress proxy with DLP scanning, SSRF protection, MCP response scanning, and workspace integrity monitoring",
     "url": "https://github.com/luckyPipewrench/pipelock",
-    "stars": 75,
-    "daily_stars": 0,
+    "stars": 76,
+    "daily_stars": 1,
     "language": "Go",
     "topics": [
       "ai-agents",
@@ -58,7 +58,7 @@
       "ssrf-protection"
     ],
     "created_at": "2026-02-08T00:40:18",
-    "updated_at": "2026-02-11T16:53:54"
+    "updated_at": "2026-02-12T03:03:41"
   },
   {
     "name": "kanban-md",
@@ -102,6 +102,29 @@
     "updated_at": "2026-02-11T17:10:48"
   },
   {
+    "name": "weave",
+    "full_name": "Ataraxy-Labs/weave",
+    "description": "Entity-level semantic merge driver for Git. Resolves conflicts that git can't by understanding code structure via tree-sitter. 31/31 clean merges vs git's 15/31.",
+    "url": "https://github.com/Ataraxy-Labs/weave",
+    "stars": 48,
+    "daily_stars": 5,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "conflict-resolution",
+      "developer-tools",
+      "git",
+      "mcp",
+      "merge",
+      "merge-driver",
+      "rust",
+      "semantic-merge",
+      "tree-sitter"
+    ],
+    "created_at": "2026-02-06T18:15:59",
+    "updated_at": "2026-02-11T23:38:22"
+  },
+  {
     "name": "consultralph",
     "full_name": "unicodeveloper/consultralph",
     "description": "The Ultimate AI-powered app for consultants worldwide (EY, Deloitte, PwC, KPMG, McKinsey, BCG, Bain, etc) to do their research and complete work in hours instead of days, weeks and months.",
@@ -143,75 +166,65 @@
     "updated_at": "2026-02-10T02:01:08"
   },
   {
-    "name": "weave",
-    "full_name": "Ataraxy-Labs/weave",
-    "description": "Entity-level semantic merge driver for Git. Resolves conflicts that git can't by understanding code structure via tree-sitter. 31/31 clean merges vs git's 15/31.",
-    "url": "https://github.com/Ataraxy-Labs/weave",
-    "stars": 43,
-    "daily_stars": 1,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "conflict-resolution",
-      "developer-tools",
-      "git",
-      "mcp",
-      "merge",
-      "merge-driver",
-      "rust",
-      "semantic-merge",
-      "tree-sitter"
-    ],
-    "created_at": "2026-02-06T18:15:59",
-    "updated_at": "2026-02-11T18:26:21"
-  },
-  {
-    "name": "riphook",
-    "full_name": "merciagents/riphook",
-    "description": "Deterministic security layer for Openclaw(Clawdbot), Cursor and Claude Code. Write secure code, prevent data exfil, and more",
-    "url": "https://github.com/merciagents/riphook",
-    "stars": 37,
+    "name": "nothumanallowed",
+    "full_name": "adoslabsproject-gif/nothumanallowed",
+    "description": "42 AI agents. 9-layer consensus. One prompt. | Multi-agent orchestrator with ONNX neural routing, semantic convergence, and cross-LLM validation.",
+    "url": "https://github.com/adoslabsproject-gif/nothumanallowed",
+    "stars": 39,
     "daily_stars": 0,
-    "language": "TypeScript",
+    "language": "JavaScript",
     "topics": [
-      "ai-agents",
-      "clawdbot",
-      "hooks",
-      "moltbook",
-      "moltbot",
-      "openclaw",
-      "openclaw-security",
-      "security"
-    ],
-    "created_at": "2026-02-04T05:26:35",
-    "updated_at": "2026-02-10T00:21:23"
-  },
-  {
-    "name": "MegaMemory",
-    "full_name": "0xK3vin/MegaMemory",
-    "description": "Persistent project knowledge graph for coding agents. MCP server with semantic search, in-process embeddings, and web explorer.",
-    "url": "https://github.com/0xK3vin/MegaMemory",
-    "stars": 33,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "agentic-coding",
+      "agent",
+      "agentai",
       "ai",
       "ai-agents",
-      "claude-code",
-      "code-context",
-      "coding-agent",
-      "embeddings",
-      "knowledge-graph",
+      "anthropic",
+      "automation",
+      "cli",
+      "consensus",
       "llm",
+      "machine-learning",
       "mcp",
-      "mcp-server",
-      "opencode",
-      "persistent-memory",
-      "sqlite",
+      "multi-agent",
+      "nodejs",
+      "onnx",
+      "openai",
+      "orchestration",
+      "security",
       "typescript"
     ],
-    "created_at": "2026-02-06T07:40:49",
-    "updated_at": "2026-02-11T19:17:36"
+    "created_at": "2026-02-07T12:19:18",
+    "updated_at": "2026-02-12T01:20:56"
+  },
+  {
+    "name": "nothumanallowed",
+    "full_name": "adoslabsproject-gif/nothumanallowed",
+    "description": "42 AI agents. 9-layer consensus. One prompt. | Multi-agent orchestrator with ONNX neural routing, semantic convergence, and cross-LLM validation.",
+    "url": "https://github.com/adoslabsproject-gif/nothumanallowed",
+    "stars": 39,
+    "daily_stars": 0,
+    "language": "JavaScript",
+    "topics": [
+      "agent",
+      "agentai",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "automation",
+      "cli",
+      "consensus",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "multi-agent",
+      "nodejs",
+      "onnx",
+      "openai",
+      "orchestration",
+      "security",
+      "typescript"
+    ],
+    "created_at": "2026-02-07T12:19:18",
+    "updated_at": "2026-02-12T01:20:56"
   }
 ]
