@@ -4,8 +4,8 @@
     "full_name": "affaan-m/everything-claude-code",
     "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
     "url": "https://github.com/affaan-m/everything-claude-code",
-    "stars": 44695,
-    "daily_stars": 177,
+    "stars": 44847,
+    "daily_stars": 152,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -18,15 +18,15 @@
       "productivity"
     ],
     "created_at": "2026-01-18T00:51:51",
-    "updated_at": "2026-02-12T09:11:55"
+    "updated_at": "2026-02-12T13:49:21"
   },
   {
     "name": "nanoclaw",
     "full_name": "gavrielc/nanoclaw",
     "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
     "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 7299,
-    "daily_stars": 52,
+    "stars": 7387,
+    "daily_stars": 88,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -36,15 +36,15 @@
       "clawdbot"
     ],
     "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-12T09:10:04"
+    "updated_at": "2026-02-12T13:48:35"
   },
   {
     "name": "antigravity-awesome-skills",
     "full_name": "sickn33/antigravity-awesome-skills",
     "description": "The Ultimate Collection of 60+ Agentic Skills for Claude Code (Antigravity). Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.",
     "url": "https://github.com/sickn33/antigravity-awesome-skills",
-    "stars": 8529,
-    "daily_stars": 21,
+    "stars": 8570,
+    "daily_stars": 41,
     "language": "Python",
     "topics": [
       "agentic-skills",
@@ -57,55 +57,50 @@
       "security-auditing"
     ],
     "created_at": "2026-01-14T17:48:09",
-    "updated_at": "2026-02-12T09:06:43"
+    "updated_at": "2026-02-12T13:48:28"
   },
   {
-    "name": "Trellis",
-    "full_name": "mindfold-ai/Trellis",
-    "description": "All-in-one AI framework & toolkit for Claude Code & Cursor",
-    "url": "https://github.com/mindfold-ai/Trellis",
-    "stars": 2159,
-    "daily_stars": 13,
-    "language": "Shell",
+    "name": "clawd-control",
+    "full_name": "Temaki-AI/clawd-control",
+    "description": "🏰 Real-time dashboard for monitoring and managing Clawdbot AI agents",
+    "url": "https://github.com/Temaki-AI/clawd-control",
+    "stars": 50,
+    "daily_stars": 28,
+    "language": "JavaScript",
     "topics": [
-      "ai-agent",
-      "ai-coding",
-      "claude-code",
-      "cli",
-      "cursor",
-      "developer-tools",
-      "typescript",
-      "workflow"
+      "agent-management",
+      "ai-agents",
+      "ai-ops",
+      "claude",
+      "clawdbot",
+      "dashboard",
+      "llm",
+      "monitoring"
     ],
-    "created_at": "2026-01-26T11:49:10",
-    "updated_at": "2026-02-12T09:04:56"
+    "created_at": "2026-02-01T16:39:27",
+    "updated_at": "2026-02-12T13:46:46"
   },
   {
-    "name": "google-antigravity",
-    "full_name": "Dokhacgiakhoa/google-antigravity",
-    "description": "Google AntiGravity IDE for Vibe Coding",
-    "url": "https://github.com/Dokhacgiakhoa/google-antigravity",
-    "stars": 249,
+    "name": "moltworker",
+    "full_name": "cloudflare/moltworker",
+    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
+    "url": "https://github.com/cloudflare/moltworker",
+    "stars": 8481,
     "daily_stars": 12,
-    "language": "Python",
+    "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "cli",
-      "developer-tools",
-      "google-antigravity",
-      "prompt-engineering",
-      "scaffolding",
-      "vibe-coding"
+      "cloudflare-workers"
     ],
-    "created_at": "2026-01-27T21:22:16",
-    "updated_at": "2026-02-12T08:52:55"
+    "created_at": "2026-01-27T11:09:39",
+    "updated_at": "2026-02-12T12:53:58"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 2233,
+    "stars": 2244,
     "daily_stars": 11,
     "language": "TypeScript",
     "topics": [
@@ -126,51 +121,75 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-12T08:33:46"
+    "updated_at": "2026-02-12T13:31:26"
   },
   {
-    "name": "moltworker",
-    "full_name": "cloudflare/moltworker",
-    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
-    "url": "https://github.com/cloudflare/moltworker",
-    "stars": 8469,
+    "name": "quant-python-ai",
+    "full_name": "aidatatools/quant-python-ai",
+    "description": "量化投資研究 AI Agent — 透過 CLI 互動介面，自動搜尋財經新聞、分析市場情緒、產生風險評估報告。",
+    "url": "https://github.com/aidatatools/quant-python-ai",
+    "stars": 36,
     "daily_stars": 10,
+    "language": "Python",
+    "topics": [
+      "ai-agents"
+    ],
+    "created_at": "2026-02-12T02:58:32",
+    "updated_at": "2026-02-12T13:15:39"
+  },
+  {
+    "name": "google-antigravity",
+    "full_name": "Dokhacgiakhoa/google-antigravity",
+    "description": "Google AntiGravity IDE for Vibe Coding",
+    "url": "https://github.com/Dokhacgiakhoa/google-antigravity",
+    "stars": 258,
+    "daily_stars": 9,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "cli",
+      "developer-tools",
+      "google-antigravity",
+      "prompt-engineering",
+      "scaffolding",
+      "vibe-coding"
+    ],
+    "created_at": "2026-01-27T21:22:16",
+    "updated_at": "2026-02-12T12:58:28"
+  },
+  {
+    "name": "oh-my-ag",
+    "full_name": "first-fluke/oh-my-ag",
+    "description": "Professional agent skills for Google Antigravity IDE featuring specialized PM, Frontend, Backend, Mobile, QA, and Debug agents",
+    "url": "https://github.com/first-fluke/oh-my-ag",
+    "stars": 208,
+    "daily_stars": 8,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "cloudflare-workers"
+      "antigravity",
+      "backend-agent",
+      "collaborative-development",
+      "debug-agent",
+      "frontend-agent",
+      "mobile-agent",
+      "multi-agent",
+      "orchestrator",
+      "pm-agent",
+      "qa-agent",
+      "serena-memory",
+      "task-coordination"
     ],
-    "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-12T08:56:49"
-  },
-  {
-    "name": "clawd-control",
-    "full_name": "Temaki-AI/clawd-control",
-    "description": "🏰 Real-time dashboard for monitoring and managing Clawdbot AI agents",
-    "url": "https://github.com/Temaki-AI/clawd-control",
-    "stars": 22,
-    "daily_stars": 9,
-    "language": "JavaScript",
-    "topics": [
-      "agent-management",
-      "ai-agents",
-      "ai-ops",
-      "claude",
-      "clawdbot",
-      "dashboard",
-      "llm",
-      "monitoring"
-    ],
-    "created_at": "2026-02-01T16:39:27",
-    "updated_at": "2026-02-12T09:08:43"
+    "created_at": "2026-01-30T11:29:46",
+    "updated_at": "2026-02-12T13:33:42"
   },
   {
     "name": "agent-skills",
     "full_name": "supabase/agent-skills",
     "description": "Agent Skills to help developers using AI agents with Supabase",
     "url": "https://github.com/supabase/agent-skills",
-    "stars": 1255,
-    "daily_stars": 6,
+    "stars": 1262,
+    "daily_stars": 7,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -179,24 +198,6 @@
       "supabase"
     ],
     "created_at": "2026-01-16T07:28:01",
-    "updated_at": "2026-02-12T09:12:15"
-  },
-  {
-    "name": "clawe",
-    "full_name": "getclawe/clawe",
-    "description": "Multi-agent coordination system powered by OpenClaw. Good for automating weekly SEO review, editing, and publishing workflows for agencies.",
-    "url": "https://github.com/getclawe/clawe",
-    "stars": 165,
-    "daily_stars": 5,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "ai-assistant",
-      "claude-code",
-      "clawbot",
-      "openclaw"
-    ],
-    "created_at": "2026-02-02T14:35:09",
-    "updated_at": "2026-02-12T09:07:30"
+    "updated_at": "2026-02-12T13:43:29"
   }
 ]

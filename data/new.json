@@ -4,8 +4,8 @@
     "full_name": "harrymunro/nelson",
     "description": "A Claude Code skill for coordinating agent work using a Royal Navy themed workflow. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to parallel subagent squadrons.",
     "url": "https://github.com/harrymunro/nelson",
-    "stars": 113,
-    "daily_stars": 0,
+    "stars": 115,
+    "daily_stars": 2,
     "language": null,
     "topics": [
       "agent-coordination",
@@ -15,15 +15,15 @@
       "claude-code-skill"
     ],
     "created_at": "2026-02-09T15:29:44",
-    "updated_at": "2026-02-12T05:28:07"
+    "updated_at": "2026-02-12T12:33:13"
   },
   {
     "name": "chargen",
     "full_name": "Karmacoke/chargen",
     "description": "AI-powered character generator built with React. Create detailed TRPG/Novel characters, NPC system prompts, and visual tags using Gemini, OpenAI, or Local LLMs.",
     "url": "https://github.com/Karmacoke/chargen",
-    "stars": 102,
-    "daily_stars": 1,
+    "stars": 105,
+    "daily_stars": 3,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -34,14 +34,14 @@
       "writing-tool"
     ],
     "created_at": "2026-02-06T06:29:33",
-    "updated_at": "2026-02-12T08:58:25"
+    "updated_at": "2026-02-12T13:22:32"
   },
   {
     "name": "pipelock",
     "full_name": "luckyPipewrench/pipelock",
     "description": "Security harness for AI agents — egress proxy with DLP scanning, SSRF protection, MCP response scanning, and workspace integrity monitoring",
     "url": "https://github.com/luckyPipewrench/pipelock",
-    "stars": 77,
+    "stars": 78,
     "daily_stars": 1,
     "language": "Go",
     "topics": [
@@ -58,15 +58,15 @@
       "ssrf-protection"
     ],
     "created_at": "2026-02-08T00:40:18",
-    "updated_at": "2026-02-12T05:51:58"
+    "updated_at": "2026-02-12T10:45:49"
   },
   {
     "name": "kanban-md",
     "full_name": "antopolskiy/kanban-md",
     "description": "File-based kanban board CLI and TUI for multi-agent workflows. Skills included.",
     "url": "https://github.com/antopolskiy/kanban-md",
-    "stars": 58,
-    "daily_stars": 3,
+    "stars": 59,
+    "daily_stars": 1,
     "language": "Go",
     "topics": [
       "agent-skills",
@@ -83,7 +83,30 @@
       "tui"
     ],
     "created_at": "2026-02-07T13:09:55",
-    "updated_at": "2026-02-12T09:08:16"
+    "updated_at": "2026-02-12T09:41:17"
+  },
+  {
+    "name": "weave",
+    "full_name": "Ataraxy-Labs/weave",
+    "description": "Entity-level semantic merge driver for Git. Resolves conflicts that git can't by understanding code structure via tree-sitter. 31/31 clean merges vs git's 15/31.",
+    "url": "https://github.com/Ataraxy-Labs/weave",
+    "stars": 55,
+    "daily_stars": 2,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "conflict-resolution",
+      "developer-tools",
+      "git",
+      "mcp",
+      "merge",
+      "merge-driver",
+      "rust",
+      "semantic-merge",
+      "tree-sitter"
+    ],
+    "created_at": "2026-02-06T18:15:59",
+    "updated_at": "2026-02-12T12:46:56"
   },
   {
     "name": "Boba-CLI",
@@ -100,29 +123,6 @@
     ],
     "created_at": "2026-02-05T04:37:50",
     "updated_at": "2026-02-11T17:10:48"
-  },
-  {
-    "name": "weave",
-    "full_name": "Ataraxy-Labs/weave",
-    "description": "Entity-level semantic merge driver for Git. Resolves conflicts that git can't by understanding code structure via tree-sitter. 31/31 clean merges vs git's 15/31.",
-    "url": "https://github.com/Ataraxy-Labs/weave",
-    "stars": 53,
-    "daily_stars": 3,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "conflict-resolution",
-      "developer-tools",
-      "git",
-      "mcp",
-      "merge",
-      "merge-driver",
-      "rust",
-      "semantic-merge",
-      "tree-sitter"
-    ],
-    "created_at": "2026-02-06T18:15:59",
-    "updated_at": "2026-02-12T08:26:53"
   },
   {
     "name": "consultralph",
@@ -170,8 +170,8 @@
     "full_name": "adoslabsproject-gif/nothumanallowed",
     "description": "42 AI agents. 9-layer consensus. One prompt. | Multi-agent orchestrator with ONNX neural routing, semantic convergence, and cross-LLM validation.",
     "url": "https://github.com/adoslabsproject-gif/nothumanallowed",
-    "stars": 42,
-    "daily_stars": 2,
+    "stars": 43,
+    "daily_stars": 1,
     "language": "JavaScript",
     "topics": [
       "agent",
@@ -194,14 +194,14 @@
       "typescript"
     ],
     "created_at": "2026-02-07T12:19:18",
-    "updated_at": "2026-02-12T08:43:21"
+    "updated_at": "2026-02-12T11:55:52"
   },
   {
     "name": "nothumanallowed",
     "full_name": "adoslabsproject-gif/nothumanallowed",
     "description": "42 AI agents. 9-layer consensus. One prompt. | Multi-agent orchestrator with ONNX neural routing, semantic convergence, and cross-LLM validation.",
     "url": "https://github.com/adoslabsproject-gif/nothumanallowed",
-    "stars": 42,
+    "stars": 43,
     "daily_stars": 0,
     "language": "JavaScript",
     "topics": [
@@ -225,6 +225,6 @@
       "typescript"
     ],
     "created_at": "2026-02-07T12:19:18",
-    "updated_at": "2026-02-12T08:43:21"
+    "updated_at": "2026-02-12T11:55:52"
   }
 ]
