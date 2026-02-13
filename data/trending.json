@@ -4,8 +4,8 @@
     "full_name": "affaan-m/everything-claude-code",
     "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
     "url": "https://github.com/affaan-m/everything-claude-code",
-    "stars": 45468,
-    "daily_stars": 86,
+    "stars": 45521,
+    "daily_stars": 53,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -18,15 +18,15 @@
       "productivity"
     ],
     "created_at": "2026-01-18T00:51:51",
-    "updated_at": "2026-02-13T17:21:42"
+    "updated_at": "2026-02-13T21:01:39"
   },
   {
     "name": "nanoclaw",
     "full_name": "gavrielc/nanoclaw",
     "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
     "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 7916,
-    "daily_stars": 51,
+    "stars": 7958,
+    "daily_stars": 42,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -36,39 +36,29 @@
       "clawdbot"
     ],
     "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-13T17:12:39"
+    "updated_at": "2026-02-13T21:00:06"
   },
   {
-    "name": "DeepSeek-V3-Windows-Local-Fix",
-    "full_name": "bossnameless308wp/DeepSeek-V3-Windows-Local-Fix",
-    "description": "DeepSeek-V3 Windows Deployment Fixer: Resolves CUDA_ERROR_OUT_OF_MEMORY, missing cublas64_12.dll, and Triton compiler errors. Optimized for RTX 30/40 series GPUs.",
-    "url": "https://github.com/bossnameless308wp/DeepSeek-V3-Windows-Local-Fix",
-    "stars": 35,
-    "daily_stars": 20,
-    "language": null,
+    "name": "moltworker",
+    "full_name": "cloudflare/moltworker",
+    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
+    "url": "https://github.com/cloudflare/moltworker",
+    "stars": 8585,
+    "daily_stars": 24,
+    "language": "TypeScript",
     "topics": [
-      "ai-deployment",
-      "cuda-fix",
-      "deepseek-r1",
-      "deepseek-v3",
-      "dll-repair",
-      "llm-optimization",
-      "machine-learning",
-      "nvidia-gpu",
-      "ollama",
-      "python",
-      "pytorch",
-      "windows-fix"
+      "ai-agents",
+      "cloudflare-workers"
     ],
-    "created_at": "2026-02-09T11:00:51",
-    "updated_at": "2026-02-13T16:44:10"
+    "created_at": "2026-01-27T11:09:39",
+    "updated_at": "2026-02-13T20:51:12"
   },
   {
     "name": "AutoGrad-Engine",
     "full_name": "milanm/AutoGrad-Engine",
     "description": "A complete GPT language model (training and inference) in pure C# with zero dependencies. ",
     "url": "https://github.com/milanm/AutoGrad-Engine",
-    "stars": 137,
+    "stars": 153,
     "daily_stars": 16,
     "language": "C#",
     "topics": [
@@ -79,30 +69,15 @@
       "machine-learning"
     ],
     "created_at": "2026-02-12T20:30:41",
-    "updated_at": "2026-02-13T17:12:56"
-  },
-  {
-    "name": "moltworker",
-    "full_name": "cloudflare/moltworker",
-    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
-    "url": "https://github.com/cloudflare/moltworker",
-    "stars": 8561,
-    "daily_stars": 13,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "cloudflare-workers"
-    ],
-    "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-13T16:37:40"
+    "updated_at": "2026-02-13T21:01:19"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 2343,
-    "daily_stars": 10,
+    "stars": 2358,
+    "daily_stars": 15,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -122,56 +97,36 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-13T17:15:04"
+    "updated_at": "2026-02-13T20:51:46"
   },
   {
-    "name": "motive",
-    "full_name": "geezerrrr/motive",
-    "description": "A personal AI agent for macOS. Turns intent into completed work, running from your menu bar.",
-    "url": "https://github.com/geezerrrr/motive",
-    "stars": 25,
-    "daily_stars": 10,
-    "language": "Swift",
+    "name": "awesome-ai-agent-papers",
+    "full_name": "VoltAgent/awesome-ai-agent-papers",
+    "description": "A curated collection of AI agent research papers released in 2026, covering agent engineering, memory, evaluation, workflows, and autonomous systems.",
+    "url": "https://github.com/VoltAgent/awesome-ai-agent-papers",
+    "stars": 102,
+    "daily_stars": 13,
+    "language": null,
     "topics": [
-      "ai-agent",
       "ai-agents",
-      "ai-tools",
-      "claude-code",
-      "codex",
-      "cowork",
-      "gemini-cli",
-      "macos",
-      "openai",
-      "opencode",
-      "openwork"
+      "awesome",
+      "awesome-list",
+      "llm",
+      "llm-agents",
+      "memory",
+      "rag",
+      "research-paper"
     ],
-    "created_at": "2026-01-20T03:37:30",
-    "updated_at": "2026-02-13T15:44:04"
-  },
-  {
-    "name": "agent-skills",
-    "full_name": "supabase/agent-skills",
-    "description": "Agent Skills to help developers using AI agents with Supabase",
-    "url": "https://github.com/supabase/agent-skills",
-    "stars": 1298,
-    "daily_stars": 8,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "skills",
-      "supabase"
-    ],
-    "created_at": "2026-01-16T07:28:01",
-    "updated_at": "2026-02-13T17:14:53"
+    "created_at": "2026-02-10T10:58:31",
+    "updated_at": "2026-02-13T20:41:13"
   },
   {
     "name": "pocketpaw",
     "full_name": "pocketpaw/pocketpaw",
     "description": "Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source personal AI with desktop installer, multi-agent Command Center(Deep Work), and 7-layer security. Anthropic, OpenAI, or Ollama.Your Pocket Paw",
     "url": "https://github.com/pocketpaw/pocketpaw",
-    "stars": 123,
-    "daily_stars": 6,
+    "stars": 127,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -187,27 +142,63 @@
       "telegram-bot-ai-assistant"
     ],
     "created_at": "2026-02-02T19:48:57",
-    "updated_at": "2026-02-13T16:57:59"
+    "updated_at": "2026-02-13T20:12:24"
   },
   {
-    "name": "awesome-ai-agent-papers",
-    "full_name": "VoltAgent/awesome-ai-agent-papers",
-    "description": "A curated collection of AI agent research papers released in 2026, covering agent engineering, memory, evaluation, workflows, and autonomous systems.",
-    "url": "https://github.com/VoltAgent/awesome-ai-agent-papers",
-    "stars": 89,
-    "daily_stars": 6,
-    "language": null,
+    "name": "picogpt",
+    "full_name": "Kuberwastaken/picogpt",
+    "description": "GPT in a QR Code ; The actual most atomic way to train and inference a GPT in pure, dependency-free Python.",
+    "url": "https://github.com/Kuberwastaken/picogpt",
+    "stars": 35,
+    "daily_stars": 3,
+    "language": "Python",
     "topics": [
-      "ai-agents",
-      "awesome",
-      "awesome-list",
-      "llm",
-      "llm-agents",
-      "memory",
-      "rag",
-      "research-paper"
+      "ai",
+      "artificial-intelligence",
+      "gpt",
+      "karpathy",
+      "machine-learning",
+      "microgpt",
+      "picogpt"
     ],
-    "created_at": "2026-02-10T10:58:31",
-    "updated_at": "2026-02-13T17:10:56"
+    "created_at": "2026-02-12T17:53:46",
+    "updated_at": "2026-02-13T18:42:12"
+  },
+  {
+    "name": "chargen",
+    "full_name": "Karmacoke/chargen",
+    "description": "AI-powered character generator built with React. Create detailed TRPG/Novel characters, NPC system prompts, and visual tags using Gemini, OpenAI, or Local LLMs.",
+    "url": "https://github.com/Karmacoke/chargen",
+    "stars": 130,
+    "daily_stars": 3,
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "character",
+      "designer-tool",
+      "gamedesign",
+      "writing-tool"
+    ],
+    "created_at": "2026-02-06T06:29:33",
+    "updated_at": "2026-02-13T20:35:34"
+  },
+  {
+    "name": "Versor",
+    "full_name": "Concode0/Versor",
+    "description": "Versor: Stop Projecting, Start Rotating. GBN (Geometric Blade Network) - A new era of AI beyond Linear Algebra.",
+    "url": "https://github.com/Concode0/Versor",
+    "stars": 34,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "clifford-algebras",
+      "deep-learning",
+      "geometric-algebra",
+      "geometric-blade-network",
+      "pytorch"
+    ],
+    "created_at": "2026-02-04T06:50:06",
+    "updated_at": "2026-02-13T18:16:40"
   }
 ]
