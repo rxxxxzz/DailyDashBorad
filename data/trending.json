@@ -4,8 +4,8 @@
     "full_name": "affaan-m/everything-claude-code",
     "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
     "url": "https://github.com/affaan-m/everything-claude-code",
-    "stars": 45891,
-    "daily_stars": 79,
+    "stars": 45943,
+    "daily_stars": 52,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -18,15 +18,15 @@
       "productivity"
     ],
     "created_at": "2026-01-18T00:51:51",
-    "updated_at": "2026-02-14T16:52:55"
+    "updated_at": "2026-02-14T20:45:59"
   },
   {
     "name": "nanoclaw",
     "full_name": "gavrielc/nanoclaw",
     "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
     "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 8221,
-    "daily_stars": 42,
+    "stars": 8249,
+    "daily_stars": 28,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -36,15 +36,33 @@
       "clawdbot"
     ],
     "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-14T16:48:59"
+    "updated_at": "2026-02-14T20:42:48"
+  },
+  {
+    "name": "Product-Manager-Skills",
+    "full_name": "deanpeters/Product-Manager-Skills",
+    "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
+    "url": "https://github.com/deanpeters/Product-Manager-Skills",
+    "stars": 47,
+    "daily_stars": 14,
+    "language": "Shell",
+    "topics": [
+      "ai-agents",
+      "ai-product-management",
+      "claude-skills",
+      "pm-frameworks",
+      "product-management"
+    ],
+    "created_at": "2026-02-05T02:16:46",
+    "updated_at": "2026-02-14T20:45:58"
   },
   {
     "name": "AutoGrad-Engine",
     "full_name": "milanm/AutoGrad-Engine",
     "description": "A complete GPT language model (training and inference) in pure C# with zero dependencies. ",
     "url": "https://github.com/milanm/AutoGrad-Engine",
-    "stars": 213,
-    "daily_stars": 24,
+    "stars": 226,
+    "daily_stars": 13,
     "language": "C#",
     "topics": [
       "ai",
@@ -54,30 +72,30 @@
       "machine-learning"
     ],
     "created_at": "2026-02-12T20:30:41",
-    "updated_at": "2026-02-14T16:45:22"
+    "updated_at": "2026-02-14T20:06:45"
   },
   {
     "name": "moltworker",
     "full_name": "cloudflare/moltworker",
     "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
     "url": "https://github.com/cloudflare/moltworker",
-    "stars": 8654,
-    "daily_stars": 15,
+    "stars": 8661,
+    "daily_stars": 7,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
       "cloudflare-workers"
     ],
     "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-14T15:56:22"
+    "updated_at": "2026-02-14T19:58:30"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 2424,
-    "daily_stars": 15,
+    "stars": 2429,
+    "daily_stars": 5,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -97,15 +115,15 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-14T16:35:20"
+    "updated_at": "2026-02-14T19:48:37"
   },
   {
     "name": "picogpt",
     "full_name": "Kuberwastaken/picogpt",
     "description": "GPT in a QR Code ; The actual most atomic way to train and inference a GPT in pure, dependency-free Python.",
     "url": "https://github.com/Kuberwastaken/picogpt",
-    "stars": 49,
-    "daily_stars": 8,
+    "stars": 53,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "ai",
@@ -117,15 +135,15 @@
       "picogpt"
     ],
     "created_at": "2026-02-12T17:53:46",
-    "updated_at": "2026-02-14T16:55:18"
+    "updated_at": "2026-02-14T19:11:48"
   },
   {
     "name": "pocketpaw",
     "full_name": "pocketpaw/pocketpaw",
     "description": "Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source personal AI with desktop installer, multi-agent Command Center(Deep Work), and 7-layer security. Anthropic, OpenAI, or Ollama.Your Pocket Paw",
     "url": "https://github.com/pocketpaw/pocketpaw",
-    "stars": 184,
-    "daily_stars": 7,
+    "stars": 188,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -141,54 +159,14 @@
       "telegram-bot-ai-assistant"
     ],
     "created_at": "2026-02-02T19:48:57",
-    "updated_at": "2026-02-14T16:44:25"
-  },
-  {
-    "name": "Parfait",
-    "full_name": "Chunjiang-Intelligence/Parfait",
-    "description": "Generate market simulation data as perfect as Parfait. ✨",
-    "url": "https://github.com/Chunjiang-Intelligence/Parfait",
-    "stars": 43,
-    "daily_stars": 6,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "deep-learning",
-      "finance",
-      "language-model",
-      "llm",
-      "mathematics",
-      "quantitative-finance",
-      "qwen",
-      "sde",
-      "world-model"
-    ],
-    "created_at": "2026-01-30T00:09:01",
-    "updated_at": "2026-02-14T16:46:45"
-  },
-  {
-    "name": "agent-skills",
-    "full_name": "supabase/agent-skills",
-    "description": "Agent Skills to help developers using AI agents with Supabase",
-    "url": "https://github.com/supabase/agent-skills",
-    "stars": 1316,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "skills",
-      "supabase"
-    ],
-    "created_at": "2026-01-16T07:28:01",
-    "updated_at": "2026-02-14T15:16:42"
+    "updated_at": "2026-02-14T20:27:57"
   },
   {
     "name": "chargen",
     "full_name": "Karmacoke/chargen",
     "description": "AI-powered character generator built with React. Create detailed TRPG/Novel characters, NPC system prompts, and visual tags using Gemini, OpenAI, or Local LLMs.",
     "url": "https://github.com/Karmacoke/chargen",
-    "stars": 146,
+    "stars": 149,
     "daily_stars": 3,
     "language": "JavaScript",
     "topics": [
@@ -200,6 +178,23 @@
       "writing-tool"
     ],
     "created_at": "2026-02-06T06:29:33",
-    "updated_at": "2026-02-14T16:44:47"
+    "updated_at": "2026-02-14T20:44:24"
+  },
+  {
+    "name": "openclaw-mission-control",
+    "full_name": "abhi1693/openclaw-mission-control",
+    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
+    "url": "https://github.com/abhi1693/openclaw-mission-control",
+    "stars": 61,
+    "daily_stars": 3,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "openclaw",
+      "orchestration"
+    ],
+    "created_at": "2026-02-01T16:53:45",
+    "updated_at": "2026-02-14T20:46:23"
   }
 ]
