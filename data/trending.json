@@ -4,8 +4,8 @@
     "full_name": "affaan-m/everything-claude-code",
     "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
     "url": "https://github.com/affaan-m/everything-claude-code",
-    "stars": 45661,
-    "daily_stars": 34,
+    "stars": 45739,
+    "daily_stars": 78,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -18,15 +18,15 @@
       "productivity"
     ],
     "created_at": "2026-01-18T00:51:51",
-    "updated_at": "2026-02-14T05:25:06"
+    "updated_at": "2026-02-14T08:55:15"
   },
   {
     "name": "nanoclaw",
     "full_name": "gavrielc/nanoclaw",
     "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
     "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 8044,
-    "daily_stars": 18,
+    "stars": 8103,
+    "daily_stars": 59,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -36,15 +36,39 @@
       "clawdbot"
     ],
     "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-14T05:20:42"
+    "updated_at": "2026-02-14T08:57:02"
+  },
+  {
+    "name": "pocketpaw",
+    "full_name": "pocketpaw/pocketpaw",
+    "description": "Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source personal AI with desktop installer, multi-agent Command Center(Deep Work), and 7-layer security. Anthropic, OpenAI, or Ollama.Your Pocket Paw",
+    "url": "https://github.com/pocketpaw/pocketpaw",
+    "stars": 164,
+    "daily_stars": 14,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "cli",
+      "jarvis-assistant",
+      "multi-agent-systems",
+      "ollama",
+      "open-source",
+      "personal-assistant",
+      "python",
+      "security",
+      "self-hosted",
+      "telegram-bot-ai-assistant"
+    ],
+    "created_at": "2026-02-02T19:48:57",
+    "updated_at": "2026-02-14T08:51:55"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 2383,
-    "daily_stars": 10,
+    "stars": 2396,
+    "daily_stars": 13,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -64,72 +88,71 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-14T05:15:49"
+    "updated_at": "2026-02-14T08:46:14"
   },
   {
     "name": "moltworker",
     "full_name": "cloudflare/moltworker",
     "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
     "url": "https://github.com/cloudflare/moltworker",
-    "stars": 8616,
-    "daily_stars": 8,
+    "stars": 8626,
+    "daily_stars": 10,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
       "cloudflare-workers"
     ],
     "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-14T05:26:59"
+    "updated_at": "2026-02-14T08:07:32"
   },
   {
-    "name": "pocketpaw",
-    "full_name": "pocketpaw/pocketpaw",
-    "description": "Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source personal AI with desktop installer, multi-agent Command Center(Deep Work), and 7-layer security. Anthropic, OpenAI, or Ollama.Your Pocket Paw",
-    "url": "https://github.com/pocketpaw/pocketpaw",
-    "stars": 150,
-    "daily_stars": 3,
-    "language": "Python",
+    "name": "AutoGrad-Engine",
+    "full_name": "milanm/AutoGrad-Engine",
+    "description": "A complete GPT language model (training and inference) in pure C# with zero dependencies. ",
+    "url": "https://github.com/milanm/AutoGrad-Engine",
+    "stars": 174,
+    "daily_stars": 9,
+    "language": "C#",
     "topics": [
-      "ai-agents",
-      "cli",
-      "jarvis-assistant",
-      "multi-agent-systems",
-      "ollama",
-      "open-source",
-      "personal-assistant",
-      "python",
-      "security",
-      "self-hosted",
-      "telegram-bot-ai-assistant"
+      "ai",
+      "csharp",
+      "dotnet",
+      "gpt",
+      "machine-learning"
     ],
-    "created_at": "2026-02-02T19:48:57",
-    "updated_at": "2026-02-14T05:26:58"
+    "created_at": "2026-02-12T20:30:41",
+    "updated_at": "2026-02-14T08:54:52"
   },
   {
-    "name": "nelson",
-    "full_name": "harrymunro/nelson",
-    "description": "A Claude Code skill for coordinating agent work using a Royal Navy themed workflow. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to parallel subagent squadrons.",
-    "url": "https://github.com/harrymunro/nelson",
-    "stars": 126,
-    "daily_stars": 3,
+    "name": "lenny-skills",
+    "full_name": "RefoundAI/lenny-skills",
+    "description": "86 product management skills from Lenny's Podcast for Claude Code and AI agents. Hiring, user research, strategy, shipping, and more.",
+    "url": "https://github.com/RefoundAI/lenny-skills",
+    "stars": 227,
+    "daily_stars": 4,
     "language": null,
     "topics": [
-      "agent-coordination",
       "ai-agents",
-      "anthropic",
+      "ai-assistant",
+      "claude",
       "claude-code",
-      "claude-code-skill"
+      "lenny-rachitsky",
+      "llm",
+      "pm-tools",
+      "product-management",
+      "product-skills",
+      "skills"
     ],
-    "created_at": "2026-02-09T15:29:44",
-    "updated_at": "2026-02-14T05:21:25"
+    "created_at": "2026-01-29T16:14:48",
+    "updated_at": "2026-02-14T08:42:44"
   },
   {
     "name": "awesome-ai-agent-papers",
     "full_name": "VoltAgent/awesome-ai-agent-papers",
     "description": "A curated collection of AI agent research papers released in 2026, covering agent engineering, memory, evaluation, workflows, and autonomous systems.",
     "url": "https://github.com/VoltAgent/awesome-ai-agent-papers",
-    "stars": 115,
-    "daily_stars": 3,
+    "stars": 119,
+    "daily_stars": 4,
     "language": null,
     "topics": [
       "ai-agents",
@@ -142,58 +165,42 @@
       "research-paper"
     ],
     "created_at": "2026-02-10T10:58:31",
-    "updated_at": "2026-02-14T05:25:37"
+    "updated_at": "2026-02-14T08:24:43"
   },
   {
-    "name": "AutoGrad-Engine",
-    "full_name": "milanm/AutoGrad-Engine",
-    "description": "A complete GPT language model (training and inference) in pure C# with zero dependencies. ",
-    "url": "https://github.com/milanm/AutoGrad-Engine",
-    "stars": 165,
+    "name": "figma-use",
+    "full_name": "dannote/figma-use",
+    "description": "Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 100+ commands.",
+    "url": "https://github.com/dannote/figma-use",
+    "stars": 389,
     "daily_stars": 3,
-    "language": "C#",
-    "topics": [
-      "ai",
-      "csharp",
-      "dotnet",
-      "gpt",
-      "machine-learning"
-    ],
-    "created_at": "2026-02-12T20:30:41",
-    "updated_at": "2026-02-14T04:47:02"
-  },
-  {
-    "name": "agent-skills",
-    "full_name": "supabase/agent-skills",
-    "description": "Agent Skills to help developers using AI agents with Supabase",
-    "url": "https://github.com/supabase/agent-skills",
-    "stars": 1308,
-    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
-      "ai",
       "ai-agents",
-      "skills",
-      "supabase"
+      "automation",
+      "cli",
+      "design",
+      "figma"
     ],
-    "created_at": "2026-01-16T07:28:01",
-    "updated_at": "2026-02-14T04:43:22"
+    "created_at": "2026-01-17T14:29:36",
+    "updated_at": "2026-02-14T07:35:45"
   },
   {
-    "name": "takt",
-    "full_name": "nrslib/takt",
-    "description": "Task Agent Koordination Tool - Multi-agent orchestration system for Claude Code (Codex support planned).",
-    "url": "https://github.com/nrslib/takt",
-    "stars": 333,
-    "daily_stars": 2,
-    "language": "TypeScript",
+    "name": "nelson",
+    "full_name": "harrymunro/nelson",
+    "description": "A Claude Code skill for coordinating agent work using a Royal Navy themed workflow. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to parallel subagent squadrons.",
+    "url": "https://github.com/harrymunro/nelson",
+    "stars": 129,
+    "daily_stars": 3,
+    "language": null,
     "topics": [
-      "agent-orchestration",
+      "agent-coordination",
       "ai-agents",
+      "anthropic",
       "claude-code",
-      "multi-agent"
+      "claude-code-skill"
     ],
-    "created_at": "2026-01-25T04:05:48",
-    "updated_at": "2026-02-14T03:56:21"
+    "created_at": "2026-02-09T15:29:44",
+    "updated_at": "2026-02-14T07:10:56"
   }
 ]
