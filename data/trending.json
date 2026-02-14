@@ -1,29 +1,11 @@
 [
   {
-    "name": "nanoclaw",
-    "full_name": "gavrielc/nanoclaw",
-    "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
-    "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 8179,
-    "daily_stars": 76,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "ai-assistant",
-      "claude-code",
-      "claude-skills",
-      "clawdbot"
-    ],
-    "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-14T13:24:14"
-  },
-  {
     "name": "everything-claude-code",
     "full_name": "affaan-m/everything-claude-code",
     "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
     "url": "https://github.com/affaan-m/everything-claude-code",
-    "stars": 45812,
-    "daily_stars": 73,
+    "stars": 45891,
+    "daily_stars": 79,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -36,15 +18,33 @@
       "productivity"
     ],
     "created_at": "2026-01-18T00:51:51",
-    "updated_at": "2026-02-14T13:25:36"
+    "updated_at": "2026-02-14T16:52:55"
+  },
+  {
+    "name": "nanoclaw",
+    "full_name": "gavrielc/nanoclaw",
+    "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
+    "url": "https://github.com/gavrielc/nanoclaw",
+    "stars": 8221,
+    "daily_stars": 42,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "ai-assistant",
+      "claude-code",
+      "claude-skills",
+      "clawdbot"
+    ],
+    "created_at": "2026-01-31T15:47:22",
+    "updated_at": "2026-02-14T16:48:59"
   },
   {
     "name": "AutoGrad-Engine",
     "full_name": "milanm/AutoGrad-Engine",
     "description": "A complete GPT language model (training and inference) in pure C# with zero dependencies. ",
     "url": "https://github.com/milanm/AutoGrad-Engine",
-    "stars": 189,
-    "daily_stars": 15,
+    "stars": 213,
+    "daily_stars": 24,
     "language": "C#",
     "topics": [
       "ai",
@@ -54,30 +54,30 @@
       "machine-learning"
     ],
     "created_at": "2026-02-12T20:30:41",
-    "updated_at": "2026-02-14T13:02:25"
+    "updated_at": "2026-02-14T16:45:22"
   },
   {
     "name": "moltworker",
     "full_name": "cloudflare/moltworker",
     "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
     "url": "https://github.com/cloudflare/moltworker",
-    "stars": 8639,
-    "daily_stars": 13,
+    "stars": 8654,
+    "daily_stars": 15,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
       "cloudflare-workers"
     ],
     "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-14T13:20:59"
+    "updated_at": "2026-02-14T15:56:22"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 2409,
-    "daily_stars": 13,
+    "stars": 2424,
+    "daily_stars": 15,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -97,15 +97,35 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-14T13:25:44"
+    "updated_at": "2026-02-14T16:35:20"
+  },
+  {
+    "name": "picogpt",
+    "full_name": "Kuberwastaken/picogpt",
+    "description": "GPT in a QR Code ; The actual most atomic way to train and inference a GPT in pure, dependency-free Python.",
+    "url": "https://github.com/Kuberwastaken/picogpt",
+    "stars": 49,
+    "daily_stars": 8,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "gpt",
+      "karpathy",
+      "machine-learning",
+      "microgpt",
+      "picogpt"
+    ],
+    "created_at": "2026-02-12T17:53:46",
+    "updated_at": "2026-02-14T16:55:18"
   },
   {
     "name": "pocketpaw",
     "full_name": "pocketpaw/pocketpaw",
     "description": "Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source personal AI with desktop installer, multi-agent Command Center(Deep Work), and 7-layer security. Anthropic, OpenAI, or Ollama.Your Pocket Paw",
     "url": "https://github.com/pocketpaw/pocketpaw",
-    "stars": 177,
-    "daily_stars": 13,
+    "stars": 184,
+    "daily_stars": 7,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -121,36 +141,55 @@
       "telegram-bot-ai-assistant"
     ],
     "created_at": "2026-02-02T19:48:57",
-    "updated_at": "2026-02-14T13:10:16"
+    "updated_at": "2026-02-14T16:44:25"
   },
   {
-    "name": "Trellis",
-    "full_name": "mindfold-ai/Trellis",
-    "description": "All-in-one AI framework & toolkit for Claude Code & Cursor",
-    "url": "https://github.com/mindfold-ai/Trellis",
-    "stars": 2200,
-    "daily_stars": 10,
-    "language": "Shell",
+    "name": "Parfait",
+    "full_name": "Chunjiang-Intelligence/Parfait",
+    "description": "Generate market simulation data as perfect as Parfait. ✨",
+    "url": "https://github.com/Chunjiang-Intelligence/Parfait",
+    "stars": 43,
+    "daily_stars": 6,
+    "language": "Python",
     "topics": [
-      "ai-agent",
-      "ai-coding",
-      "claude-code",
-      "cli",
-      "cursor",
-      "developer-tools",
-      "typescript",
-      "workflow"
+      "ai",
+      "deep-learning",
+      "finance",
+      "language-model",
+      "llm",
+      "mathematics",
+      "quantitative-finance",
+      "qwen",
+      "sde",
+      "world-model"
     ],
-    "created_at": "2026-01-26T11:49:10",
-    "updated_at": "2026-02-14T12:52:39"
+    "created_at": "2026-01-30T00:09:01",
+    "updated_at": "2026-02-14T16:46:45"
+  },
+  {
+    "name": "agent-skills",
+    "full_name": "supabase/agent-skills",
+    "description": "Agent Skills to help developers using AI agents with Supabase",
+    "url": "https://github.com/supabase/agent-skills",
+    "stars": 1316,
+    "daily_stars": 3,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "skills",
+      "supabase"
+    ],
+    "created_at": "2026-01-16T07:28:01",
+    "updated_at": "2026-02-14T15:16:42"
   },
   {
     "name": "chargen",
     "full_name": "Karmacoke/chargen",
     "description": "AI-powered character generator built with React. Create detailed TRPG/Novel characters, NPC system prompts, and visual tags using Gemini, OpenAI, or Local LLMs.",
     "url": "https://github.com/Karmacoke/chargen",
-    "stars": 143,
-    "daily_stars": 4,
+    "stars": 146,
+    "daily_stars": 3,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -161,46 +200,6 @@
       "writing-tool"
     ],
     "created_at": "2026-02-06T06:29:33",
-    "updated_at": "2026-02-14T12:26:43"
-  },
-  {
-    "name": "agent-skills",
-    "full_name": "supabase/agent-skills",
-    "description": "Agent Skills to help developers using AI agents with Supabase",
-    "url": "https://github.com/supabase/agent-skills",
-    "stars": 1313,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "skills",
-      "supabase"
-    ],
-    "created_at": "2026-01-16T07:28:01",
-    "updated_at": "2026-02-14T13:19:37"
-  },
-  {
-    "name": "veritas-kanban",
-    "full_name": "BradGroux/veritas-kanban",
-    "description": "The unfiltered truth about where your project stands. Lightweight kanban built for the agentic era.",
-    "url": "https://github.com/BradGroux/veritas-kanban",
-    "stars": 332,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "developer-tools",
-      "kanban",
-      "local-first",
-      "pino",
-      "project-management",
-      "react",
-      "task-management",
-      "typescript",
-      "vite"
-    ],
-    "created_at": "2026-01-26T08:35:20",
-    "updated_at": "2026-02-14T13:17:36"
+    "updated_at": "2026-02-14T16:44:47"
   }
 ]
