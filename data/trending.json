@@ -4,8 +4,8 @@
     "full_name": "affaan-m/everything-claude-code",
     "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
     "url": "https://github.com/affaan-m/everything-claude-code",
-    "stars": 45521,
-    "daily_stars": 53,
+    "stars": 45627,
+    "daily_stars": 106,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -18,15 +18,15 @@
       "productivity"
     ],
     "created_at": "2026-01-18T00:51:51",
-    "updated_at": "2026-02-13T21:01:39"
+    "updated_at": "2026-02-14T03:11:54"
   },
   {
     "name": "nanoclaw",
     "full_name": "gavrielc/nanoclaw",
     "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
     "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 7958,
-    "daily_stars": 42,
+    "stars": 8026,
+    "daily_stars": 68,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -36,47 +36,53 @@
       "clawdbot"
     ],
     "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-13T21:00:06"
+    "updated_at": "2026-02-14T03:07:06"
   },
   {
     "name": "moltworker",
     "full_name": "cloudflare/moltworker",
     "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
     "url": "https://github.com/cloudflare/moltworker",
-    "stars": 8585,
-    "daily_stars": 24,
+    "stars": 8608,
+    "daily_stars": 23,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
       "cloudflare-workers"
     ],
     "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-13T20:51:12"
+    "updated_at": "2026-02-14T02:57:57"
   },
   {
-    "name": "AutoGrad-Engine",
-    "full_name": "milanm/AutoGrad-Engine",
-    "description": "A complete GPT language model (training and inference) in pure C# with zero dependencies. ",
-    "url": "https://github.com/milanm/AutoGrad-Engine",
-    "stars": 153,
-    "daily_stars": 16,
-    "language": "C#",
+    "name": "pocketpaw",
+    "full_name": "pocketpaw/pocketpaw",
+    "description": "Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source personal AI with desktop installer, multi-agent Command Center(Deep Work), and 7-layer security. Anthropic, OpenAI, or Ollama.Your Pocket Paw",
+    "url": "https://github.com/pocketpaw/pocketpaw",
+    "stars": 147,
+    "daily_stars": 20,
+    "language": "Python",
     "topics": [
-      "ai",
-      "csharp",
-      "dotnet",
-      "gpt",
-      "machine-learning"
+      "ai-agents",
+      "cli",
+      "jarvis-assistant",
+      "multi-agent-systems",
+      "ollama",
+      "open-source",
+      "personal-assistant",
+      "python",
+      "security",
+      "self-hosted",
+      "telegram-bot-ai-assistant"
     ],
-    "created_at": "2026-02-12T20:30:41",
-    "updated_at": "2026-02-13T21:01:19"
+    "created_at": "2026-02-02T19:48:57",
+    "updated_at": "2026-02-14T02:34:11"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 2358,
+    "stars": 2373,
     "daily_stars": 15,
     "language": "TypeScript",
     "topics": [
@@ -97,15 +103,15 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-13T20:51:46"
+    "updated_at": "2026-02-14T03:09:28"
   },
   {
     "name": "awesome-ai-agent-papers",
     "full_name": "VoltAgent/awesome-ai-agent-papers",
     "description": "A curated collection of AI agent research papers released in 2026, covering agent engineering, memory, evaluation, workflows, and autonomous systems.",
     "url": "https://github.com/VoltAgent/awesome-ai-agent-papers",
-    "stars": 102,
-    "daily_stars": 13,
+    "stars": 112,
+    "daily_stars": 10,
     "language": null,
     "topics": [
       "ai-agents",
@@ -118,59 +124,50 @@
       "research-paper"
     ],
     "created_at": "2026-02-10T10:58:31",
-    "updated_at": "2026-02-13T20:41:13"
+    "updated_at": "2026-02-14T03:10:38"
   },
   {
-    "name": "pocketpaw",
-    "full_name": "pocketpaw/pocketpaw",
-    "description": "Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source personal AI with desktop installer, multi-agent Command Center(Deep Work), and 7-layer security. Anthropic, OpenAI, or Ollama.Your Pocket Paw",
-    "url": "https://github.com/pocketpaw/pocketpaw",
-    "stars": 127,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "cli",
-      "jarvis-assistant",
-      "multi-agent-systems",
-      "ollama",
-      "open-source",
-      "personal-assistant",
-      "python",
-      "security",
-      "self-hosted",
-      "telegram-bot-ai-assistant"
-    ],
-    "created_at": "2026-02-02T19:48:57",
-    "updated_at": "2026-02-13T20:12:24"
-  },
-  {
-    "name": "picogpt",
-    "full_name": "Kuberwastaken/picogpt",
-    "description": "GPT in a QR Code ; The actual most atomic way to train and inference a GPT in pure, dependency-free Python.",
-    "url": "https://github.com/Kuberwastaken/picogpt",
-    "stars": 35,
-    "daily_stars": 3,
-    "language": "Python",
+    "name": "AutoGrad-Engine",
+    "full_name": "milanm/AutoGrad-Engine",
+    "description": "A complete GPT language model (training and inference) in pure C# with zero dependencies. ",
+    "url": "https://github.com/milanm/AutoGrad-Engine",
+    "stars": 162,
+    "daily_stars": 9,
+    "language": "C#",
     "topics": [
       "ai",
-      "artificial-intelligence",
+      "csharp",
+      "dotnet",
       "gpt",
-      "karpathy",
-      "machine-learning",
-      "microgpt",
-      "picogpt"
+      "machine-learning"
     ],
-    "created_at": "2026-02-12T17:53:46",
-    "updated_at": "2026-02-13T18:42:12"
+    "created_at": "2026-02-12T20:30:41",
+    "updated_at": "2026-02-14T01:14:36"
+  },
+  {
+    "name": "agent-skills",
+    "full_name": "supabase/agent-skills",
+    "description": "Agent Skills to help developers using AI agents with Supabase",
+    "url": "https://github.com/supabase/agent-skills",
+    "stars": 1306,
+    "daily_stars": 7,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "skills",
+      "supabase"
+    ],
+    "created_at": "2026-01-16T07:28:01",
+    "updated_at": "2026-02-14T03:08:49"
   },
   {
     "name": "chargen",
     "full_name": "Karmacoke/chargen",
     "description": "AI-powered character generator built with React. Create detailed TRPG/Novel characters, NPC system prompts, and visual tags using Gemini, OpenAI, or Local LLMs.",
     "url": "https://github.com/Karmacoke/chargen",
-    "stars": 130,
-    "daily_stars": 3,
+    "stars": 135,
+    "daily_stars": 5,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -181,24 +178,24 @@
       "writing-tool"
     ],
     "created_at": "2026-02-06T06:29:33",
-    "updated_at": "2026-02-13T20:35:34"
+    "updated_at": "2026-02-14T02:31:01"
   },
   {
-    "name": "Versor",
-    "full_name": "Concode0/Versor",
-    "description": "Versor: Stop Projecting, Start Rotating. GBN (Geometric Blade Network) - A new era of AI beyond Linear Algebra.",
-    "url": "https://github.com/Concode0/Versor",
-    "stars": 34,
-    "daily_stars": 3,
-    "language": "Python",
+    "name": "nelson",
+    "full_name": "harrymunro/nelson",
+    "description": "A Claude Code skill for coordinating agent work using a Royal Navy themed workflow. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to parallel subagent squadrons.",
+    "url": "https://github.com/harrymunro/nelson",
+    "stars": 123,
+    "daily_stars": 4,
+    "language": null,
     "topics": [
-      "clifford-algebras",
-      "deep-learning",
-      "geometric-algebra",
-      "geometric-blade-network",
-      "pytorch"
+      "agent-coordination",
+      "ai-agents",
+      "anthropic",
+      "claude-code",
+      "claude-code-skill"
     ],
-    "created_at": "2026-02-04T06:50:06",
-    "updated_at": "2026-02-13T18:16:40"
+    "created_at": "2026-02-09T15:29:44",
+    "updated_at": "2026-02-14T02:36:48"
   }
 ]
