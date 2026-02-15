@@ -4,8 +4,8 @@
     "full_name": "affaan-m/everything-claude-code",
     "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
     "url": "https://github.com/affaan-m/everything-claude-code",
-    "stars": 46299,
-    "daily_stars": 133,
+    "stars": 46407,
+    "daily_stars": 108,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -18,15 +18,15 @@
       "productivity"
     ],
     "created_at": "2026-01-18T00:51:51",
-    "updated_at": "2026-02-15T13:26:05"
+    "updated_at": "2026-02-15T16:55:53"
   },
   {
     "name": "nanoclaw",
     "full_name": "gavrielc/nanoclaw",
     "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
     "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 8410,
-    "daily_stars": 46,
+    "stars": 8459,
+    "daily_stars": 49,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -36,15 +36,51 @@
       "clawdbot"
     ],
     "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-15T13:26:20"
+    "updated_at": "2026-02-15T16:53:32"
+  },
+  {
+    "name": "microgpt-c",
+    "full_name": "vixhal-baraiya/microgpt-c",
+    "description": "The most atomic way to train and inference a GPT in pure, dependency-free C",
+    "url": "https://github.com/vixhal-baraiya/microgpt-c",
+    "stars": 55,
+    "daily_stars": 16,
+    "language": "C",
+    "topics": [
+      "artificial-intelligence",
+      "c",
+      "c-programming",
+      "deep-learning",
+      "gpt",
+      "llm",
+      "machine-learning",
+      "microgpt"
+    ],
+    "created_at": "2026-02-14T17:29:50",
+    "updated_at": "2026-02-15T16:40:43"
+  },
+  {
+    "name": "moltworker",
+    "full_name": "cloudflare/moltworker",
+    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
+    "url": "https://github.com/cloudflare/moltworker",
+    "stars": 8711,
+    "daily_stars": 13,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "cloudflare-workers"
+    ],
+    "created_at": "2026-01-27T11:09:39",
+    "updated_at": "2026-02-15T16:56:14"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 2482,
-    "daily_stars": 9,
+    "stars": 2490,
+    "daily_stars": 8,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -64,89 +100,15 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-15T13:18:25"
-  },
-  {
-    "name": "moltworker",
-    "full_name": "cloudflare/moltworker",
-    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
-    "url": "https://github.com/cloudflare/moltworker",
-    "stars": 8698,
-    "daily_stars": 8,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "cloudflare-workers"
-    ],
-    "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-15T13:17:22"
-  },
-  {
-    "name": "AutoGrad-Engine",
-    "full_name": "milanm/AutoGrad-Engine",
-    "description": "A complete GPT language model (training and inference) in pure C# with zero dependencies. ",
-    "url": "https://github.com/milanm/AutoGrad-Engine",
-    "stars": 258,
-    "daily_stars": 8,
-    "language": "C#",
-    "topics": [
-      "ai",
-      "csharp",
-      "dotnet",
-      "gpt",
-      "machine-learning"
-    ],
-    "created_at": "2026-02-12T20:30:41",
-    "updated_at": "2026-02-15T12:08:08"
-  },
-  {
-    "name": "openclaw-mission-control",
-    "full_name": "abhi1693/openclaw-mission-control",
-    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
-    "url": "https://github.com/abhi1693/openclaw-mission-control",
-    "stars": 79,
-    "daily_stars": 7,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "automation",
-      "openclaw",
-      "orchestration"
-    ],
-    "created_at": "2026-02-01T16:53:45",
-    "updated_at": "2026-02-15T12:46:10"
-  },
-  {
-    "name": "motive",
-    "full_name": "geezerrrr/motive",
-    "description": "A personal AI agent for macOS. Turns intent into completed work, running from your menu bar.",
-    "url": "https://github.com/geezerrrr/motive",
-    "stars": 65,
-    "daily_stars": 7,
-    "language": "Swift",
-    "topics": [
-      "ai-agent",
-      "ai-agents",
-      "ai-tools",
-      "claude-code",
-      "codex",
-      "cowork",
-      "gemini-cli",
-      "macos",
-      "openai",
-      "opencode",
-      "openwork"
-    ],
-    "created_at": "2026-01-20T03:37:30",
-    "updated_at": "2026-02-15T12:44:20"
+    "updated_at": "2026-02-15T16:11:47"
   },
   {
     "name": "pocketpaw",
     "full_name": "pocketpaw/pocketpaw",
     "description": "Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source personal AI with desktop installer, multi-agent Command Center(Deep Work), and 7-layer security. Anthropic, OpenAI, or Ollama.Your Pocket Paw",
     "url": "https://github.com/pocketpaw/pocketpaw",
-    "stars": 218,
-    "daily_stars": 6,
+    "stars": 226,
+    "daily_stars": 8,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -162,14 +124,61 @@
       "telegram-bot-ai-assistant"
     ],
     "created_at": "2026-02-02T19:48:57",
-    "updated_at": "2026-02-15T13:06:52"
+    "updated_at": "2026-02-15T16:04:47"
+  },
+  {
+    "name": "nono",
+    "full_name": "lukehinds/nono",
+    "description": "all your base does belong to us. ",
+    "url": "https://github.com/lukehinds/nono",
+    "stars": 362,
+    "daily_stars": 7,
+    "language": "Rust",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "isolation",
+      "openclaw",
+      "sandbox",
+      "security"
+    ],
+    "created_at": "2026-01-31T09:25:45",
+    "updated_at": "2026-02-15T15:53:44"
+  },
+  {
+    "name": "AITuberFlow",
+    "full_name": "oboroge0/AITuberFlow",
+    "description": "Visual workflow editor for building AI-powered VTubers",
+    "url": "https://github.com/oboroge0/AITuberFlow",
+    "stars": 18,
+    "daily_stars": 7,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "aituber",
+      "fastapi",
+      "llm",
+      "nextjs",
+      "obs",
+      "python",
+      "react-flow",
+      "streaming",
+      "text-to-speech",
+      "typescript",
+      "visual-editor",
+      "voicevox",
+      "vtuber",
+      "workflow"
+    ],
+    "created_at": "2026-01-18T18:18:52",
+    "updated_at": "2026-02-15T16:24:56"
   },
   {
     "name": "Product-Manager-Skills",
     "full_name": "deanpeters/Product-Manager-Skills",
     "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
     "url": "https://github.com/deanpeters/Product-Manager-Skills",
-    "stars": 76,
+    "stars": 81,
     "daily_stars": 5,
     "language": "Shell",
     "topics": [
@@ -180,26 +189,23 @@
       "product-management"
     ],
     "created_at": "2026-02-05T02:16:46",
-    "updated_at": "2026-02-15T13:09:22"
+    "updated_at": "2026-02-15T15:53:01"
   },
   {
-    "name": "GenAI-NLP",
-    "full_name": "mirzayasirabdullahbaig07/GenAI-NLP",
-    "description": "This repository contains structured notes, implementations, and projects based on a complete Natural Language Processing (NLP) course.",
-    "url": "https://github.com/mirzayasirabdullahbaig07/GenAI-NLP",
-    "stars": 9,
-    "daily_stars": 5,
-    "language": null,
+    "name": "alphora",
+    "full_name": "opencmit/alphora",
+    "description": "A Production-Ready Framework for Building Composable AI Agents",
+    "url": "https://github.com/opencmit/alphora",
+    "stars": 220,
+    "daily_stars": 4,
+    "language": "Python",
     "topics": [
-      "coding",
-      "gen-ai",
-      "genai-nlp",
-      "generative",
-      "machine-learning",
-      "nlp",
-      "system-design"
+      "agent-framework",
+      "ai-agents",
+      "llm",
+      "multi-agent-systems"
     ],
-    "created_at": "2026-02-10T14:45:10",
-    "updated_at": "2026-02-15T11:52:38"
+    "created_at": "2026-02-03T07:18:35",
+    "updated_at": "2026-02-15T16:13:40"
   }
 ]
