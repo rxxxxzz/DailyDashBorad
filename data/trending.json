@@ -4,8 +4,8 @@
     "full_name": "affaan-m/everything-claude-code",
     "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
     "url": "https://github.com/affaan-m/everything-claude-code",
-    "stars": 46894,
-    "daily_stars": 74,
+    "stars": 46950,
+    "daily_stars": 56,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -18,31 +18,15 @@
       "productivity"
     ],
     "created_at": "2026-01-18T00:51:51",
-    "updated_at": "2026-02-16T17:04:43"
-  },
-  {
-    "name": "klaw.sh",
-    "full_name": "klawsh/klaw.sh",
-    "description": "kubectl for AI Agents",
-    "url": "https://github.com/klawsh/klaw.sh",
-    "stars": 257,
-    "daily_stars": 58,
-    "language": "Go",
-    "topics": [
-      "agents",
-      "ai-agents",
-      "orchestration"
-    ],
-    "created_at": "2026-02-15T04:18:19",
-    "updated_at": "2026-02-16T17:02:00"
+    "updated_at": "2026-02-16T20:51:13"
   },
   {
     "name": "nanoclaw",
     "full_name": "gavrielc/nanoclaw",
     "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
     "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 8729,
-    "daily_stars": 43,
+    "stars": 8781,
+    "daily_stars": 52,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -52,15 +36,31 @@
       "clawdbot"
     ],
     "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-16T17:09:56"
+    "updated_at": "2026-02-16T20:52:35"
+  },
+  {
+    "name": "klaw.sh",
+    "full_name": "klawsh/klaw.sh",
+    "description": "kubectl for AI Agents",
+    "url": "https://github.com/klawsh/klaw.sh",
+    "stars": 302,
+    "daily_stars": 45,
+    "language": "Go",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "orchestration"
+    ],
+    "created_at": "2026-02-15T04:18:19",
+    "updated_at": "2026-02-16T20:48:42"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 2579,
-    "daily_stars": 24,
+    "stars": 2594,
+    "daily_stars": 15,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -80,30 +80,30 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-16T17:08:04"
+    "updated_at": "2026-02-16T20:52:02"
   },
   {
     "name": "moltworker",
     "full_name": "cloudflare/moltworker",
     "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
     "url": "https://github.com/cloudflare/moltworker",
-    "stars": 8791,
-    "daily_stars": 16,
+    "stars": 8803,
+    "daily_stars": 12,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
       "cloudflare-workers"
     ],
     "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-16T16:52:26"
+    "updated_at": "2026-02-16T20:52:27"
   },
   {
     "name": "login-machine",
     "full_name": "RichardHruby/login-machine",
     "description": "AI-powered login automation. Uses Claude to classify login pages and Playwright to interact with them.",
     "url": "https://github.com/RichardHruby/login-machine",
-    "stars": 205,
-    "daily_stars": 14,
+    "stars": 215,
+    "daily_stars": 10,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -118,35 +118,14 @@
       "web-agent"
     ],
     "created_at": "2026-02-09T22:46:45",
-    "updated_at": "2026-02-16T17:04:27"
-  },
-  {
-    "name": "microgpt-c",
-    "full_name": "vixhal-baraiya/microgpt-c",
-    "description": "The most atomic way to train and inference a GPT in pure, dependency-free C",
-    "url": "https://github.com/vixhal-baraiya/microgpt-c",
-    "stars": 144,
-    "daily_stars": 11,
-    "language": "C",
-    "topics": [
-      "artificial-intelligence",
-      "c",
-      "c-programming",
-      "deep-learning",
-      "gpt",
-      "llm",
-      "machine-learning",
-      "microgpt"
-    ],
-    "created_at": "2026-02-14T17:29:50",
-    "updated_at": "2026-02-16T16:39:21"
+    "updated_at": "2026-02-16T20:52:49"
   },
   {
     "name": "pocketpaw",
     "full_name": "pocketpaw/pocketpaw",
     "description": "Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source personal AI with desktop installer, multi-agent Command Center(Deep Work), and 7-layer security. Anthropic, OpenAI, or Ollama.Your Pocket Paw",
     "url": "https://github.com/pocketpaw/pocketpaw",
-    "stars": 260,
+    "stars": 268,
     "daily_stars": 8,
     "language": "Python",
     "topics": [
@@ -163,46 +142,74 @@
       "telegram-bot-ai-assistant"
     ],
     "created_at": "2026-02-02T19:48:57",
-    "updated_at": "2026-02-16T16:53:34"
+    "updated_at": "2026-02-16T20:12:44"
   },
   {
-    "name": "lenny-skills",
-    "full_name": "RefoundAI/lenny-skills",
-    "description": "86 product management skills from Lenny's Podcast for Claude Code and AI agents. Hiring, user research, strategy, shipping, and more.",
-    "url": "https://github.com/RefoundAI/lenny-skills",
-    "stars": 240,
-    "daily_stars": 3,
-    "language": null,
+    "name": "microgpt-c",
+    "full_name": "vixhal-baraiya/microgpt-c",
+    "description": "The most atomic way to train and inference a GPT in pure, dependency-free C",
+    "url": "https://github.com/vixhal-baraiya/microgpt-c",
+    "stars": 150,
+    "daily_stars": 6,
+    "language": "C",
     "topics": [
-      "ai-agents",
-      "ai-assistant",
-      "claude",
-      "claude-code",
-      "lenny-rachitsky",
+      "artificial-intelligence",
+      "c",
+      "c-programming",
+      "deep-learning",
+      "gpt",
       "llm",
-      "pm-tools",
-      "product-management",
-      "product-skills",
-      "skills"
+      "machine-learning",
+      "microgpt"
     ],
-    "created_at": "2026-01-29T16:14:48",
-    "updated_at": "2026-02-16T16:43:32"
+    "created_at": "2026-02-14T17:29:50",
+    "updated_at": "2026-02-16T20:38:27"
   },
   {
-    "name": "openclaw-mission-control",
-    "full_name": "abhi1693/openclaw-mission-control",
-    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
-    "url": "https://github.com/abhi1693/openclaw-mission-control",
-    "stars": 104,
-    "daily_stars": 3,
+    "name": "AITuberFlow",
+    "full_name": "oboroge0/AITuberFlow",
+    "description": "Visual workflow editor for building AI-powered VTubers",
+    "url": "https://github.com/oboroge0/AITuberFlow",
+    "stars": 44,
+    "daily_stars": 5,
     "language": "TypeScript",
     "topics": [
-      "ai-agents",
-      "automation",
-      "openclaw",
-      "orchestration"
+      "ai",
+      "aituber",
+      "fastapi",
+      "llm",
+      "nextjs",
+      "obs",
+      "python",
+      "react-flow",
+      "streaming",
+      "text-to-speech",
+      "typescript",
+      "visual-editor",
+      "voicevox",
+      "vtuber",
+      "workflow"
     ],
-    "created_at": "2026-02-01T16:53:45",
-    "updated_at": "2026-02-16T16:08:47"
+    "created_at": "2026-01-18T18:18:52",
+    "updated_at": "2026-02-16T18:49:50"
+  },
+  {
+    "name": "chargen",
+    "full_name": "Karmacoke/chargen",
+    "description": "AI-powered character generator built with React. Create detailed TRPG/Novel characters, NPC system prompts, and visual tags using Gemini, OpenAI, or Local LLMs.",
+    "url": "https://github.com/Karmacoke/chargen",
+    "stars": 186,
+    "daily_stars": 3,
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "character",
+      "designer-tool",
+      "gamedesign",
+      "writing-tool"
+    ],
+    "created_at": "2026-02-06T06:29:33",
+    "updated_at": "2026-02-16T19:55:59"
   }
 ]
