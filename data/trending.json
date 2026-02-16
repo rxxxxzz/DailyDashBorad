@@ -4,8 +4,8 @@
     "full_name": "affaan-m/everything-claude-code",
     "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
     "url": "https://github.com/affaan-m/everything-claude-code",
-    "stars": 46658,
-    "daily_stars": 52,
+    "stars": 46742,
+    "daily_stars": 84,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -18,15 +18,15 @@
       "productivity"
     ],
     "created_at": "2026-01-18T00:51:51",
-    "updated_at": "2026-02-16T05:49:23"
+    "updated_at": "2026-02-16T09:11:59"
   },
   {
     "name": "nanoclaw",
     "full_name": "gavrielc/nanoclaw",
     "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
     "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 8590,
-    "daily_stars": 22,
+    "stars": 8637,
+    "daily_stars": 47,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -36,15 +36,52 @@
       "clawdbot"
     ],
     "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-16T05:48:52"
+    "updated_at": "2026-02-16T09:10:26"
+  },
+  {
+    "name": "klaw.sh",
+    "full_name": "klawsh/klaw.sh",
+    "description": "kubectl for AI Agents",
+    "url": "https://github.com/klawsh/klaw.sh",
+    "stars": 139,
+    "daily_stars": 31,
+    "language": "Go",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "orchestration"
+    ],
+    "created_at": "2026-02-15T04:18:19",
+    "updated_at": "2026-02-16T09:08:06"
+  },
+  {
+    "name": "microgpt-c",
+    "full_name": "vixhal-baraiya/microgpt-c",
+    "description": "The most atomic way to train and inference a GPT in pure, dependency-free C",
+    "url": "https://github.com/vixhal-baraiya/microgpt-c",
+    "stars": 116,
+    "daily_stars": 19,
+    "language": "C",
+    "topics": [
+      "artificial-intelligence",
+      "c",
+      "c-programming",
+      "deep-learning",
+      "gpt",
+      "llm",
+      "machine-learning",
+      "microgpt"
+    ],
+    "created_at": "2026-02-14T17:29:50",
+    "updated_at": "2026-02-16T09:08:36"
   },
   {
     "name": "login-machine",
     "full_name": "RichardHruby/login-machine",
     "description": "AI-powered login automation. Uses Claude to classify login pages and Playwright to interact with them.",
     "url": "https://github.com/RichardHruby/login-machine",
-    "stars": 158,
-    "daily_stars": 21,
+    "stars": 173,
+    "daily_stars": 15,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -59,30 +96,54 @@
       "web-agent"
     ],
     "created_at": "2026-02-09T22:46:45",
-    "updated_at": "2026-02-16T05:49:37"
+    "updated_at": "2026-02-16T08:59:15"
   },
   {
     "name": "moltworker",
     "full_name": "cloudflare/moltworker",
     "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
     "url": "https://github.com/cloudflare/moltworker",
-    "stars": 8748,
-    "daily_stars": 8,
+    "stars": 8759,
+    "daily_stars": 11,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
       "cloudflare-workers"
     ],
     "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-16T05:43:36"
+    "updated_at": "2026-02-16T08:20:28"
+  },
+  {
+    "name": "pocketpaw",
+    "full_name": "pocketpaw/pocketpaw",
+    "description": "Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source personal AI with desktop installer, multi-agent Command Center(Deep Work), and 7-layer security. Anthropic, OpenAI, or Ollama.Your Pocket Paw",
+    "url": "https://github.com/pocketpaw/pocketpaw",
+    "stars": 248,
+    "daily_stars": 11,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "cli",
+      "jarvis-assistant",
+      "multi-agent-systems",
+      "ollama",
+      "open-source",
+      "personal-assistant",
+      "python",
+      "security",
+      "self-hosted",
+      "telegram-bot-ai-assistant"
+    ],
+    "created_at": "2026-02-02T19:48:57",
+    "updated_at": "2026-02-16T09:03:15"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 2528,
-    "daily_stars": 7,
+    "stars": 2534,
+    "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -102,72 +163,42 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-16T05:33:04"
+    "updated_at": "2026-02-16T09:12:10"
   },
   {
-    "name": "microgpt-c",
-    "full_name": "vixhal-baraiya/microgpt-c",
-    "description": "The most atomic way to train and inference a GPT in pure, dependency-free C",
-    "url": "https://github.com/vixhal-baraiya/microgpt-c",
-    "stars": 97,
-    "daily_stars": 4,
-    "language": "C",
+    "name": "agentic-ai-roadmap",
+    "full_name": "romanyn36/agentic-ai-roadmap",
+    "description": "A comprehensive AI learning roadmap covering Python fundamentals, mathematics, machine learning, deep learning, LLMs, and agentic systems — focused on hands-on projects, practical tools, and real-world deployment.",
+    "url": "https://github.com/romanyn36/agentic-ai-roadmap",
+    "stars": 16,
+    "daily_stars": 5,
+    "language": null,
     "topics": [
-      "artificial-intelligence",
-      "c",
-      "c-programming",
+      "agentic",
+      "agentic-ai-roadmap",
+      "ai",
+      "ai-roadmap",
       "deep-learning",
-      "gpt",
+      "langchain",
+      "langgraph",
+      "lear",
       "llm",
       "machine-learning",
-      "microgpt"
+      "mathematics",
+      "oopenai",
+      "roadmap",
+      "transformer"
     ],
-    "created_at": "2026-02-14T17:29:50",
-    "updated_at": "2026-02-16T05:41:50"
-  },
-  {
-    "name": "nono",
-    "full_name": "lukehinds/nono",
-    "description": "all your base does belong to us. ",
-    "url": "https://github.com/lukehinds/nono",
-    "stars": 374,
-    "daily_stars": 4,
-    "language": "Rust",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "isolation",
-      "openclaw",
-      "sandbox",
-      "security"
-    ],
-    "created_at": "2026-01-31T09:25:45",
-    "updated_at": "2026-02-16T05:39:16"
-  },
-  {
-    "name": "takt",
-    "full_name": "nrslib/takt",
-    "description": "Task Agent Koordination Tool - Multi-agent orchestration system for Claude Code (Codex support planned).",
-    "url": "https://github.com/nrslib/takt",
-    "stars": 355,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "agent-orchestration",
-      "ai-agents",
-      "claude-code",
-      "multi-agent"
-    ],
-    "created_at": "2026-01-25T04:05:48",
-    "updated_at": "2026-02-16T05:06:16"
+    "created_at": "2026-02-06T17:07:31",
+    "updated_at": "2026-02-16T08:22:58"
   },
   {
     "name": "Product-Manager-Skills",
     "full_name": "deanpeters/Product-Manager-Skills",
     "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
     "url": "https://github.com/deanpeters/Product-Manager-Skills",
-    "stars": 93,
-    "daily_stars": 3,
+    "stars": 97,
+    "daily_stars": 4,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -177,30 +208,6 @@
       "product-management"
     ],
     "created_at": "2026-02-05T02:16:46",
-    "updated_at": "2026-02-16T03:45:18"
-  },
-  {
-    "name": "motive",
-    "full_name": "geezerrrr/motive",
-    "description": "A personal AI agent for macOS. Turns intent into completed work, running from your menu bar.",
-    "url": "https://github.com/geezerrrr/motive",
-    "stars": 70,
-    "daily_stars": 3,
-    "language": "Swift",
-    "topics": [
-      "ai-agent",
-      "ai-agents",
-      "ai-tools",
-      "claude-code",
-      "codex",
-      "cowork",
-      "gemini-cli",
-      "macos",
-      "openai",
-      "opencode",
-      "openwork"
-    ],
-    "created_at": "2026-01-20T03:37:30",
-    "updated_at": "2026-02-16T05:24:08"
+    "updated_at": "2026-02-16T08:43:10"
   }
 ]
