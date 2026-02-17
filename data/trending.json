@@ -1,32 +1,11 @@
 [
   {
-    "name": "everything-claude-code",
-    "full_name": "affaan-m/everything-claude-code",
-    "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
-    "url": "https://github.com/affaan-m/everything-claude-code",
-    "stars": 46950,
-    "daily_stars": 56,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "developer-tools",
-      "llm",
-      "mcp",
-      "productivity"
-    ],
-    "created_at": "2026-01-18T00:51:51",
-    "updated_at": "2026-02-16T20:51:13"
-  },
-  {
     "name": "nanoclaw",
     "full_name": "gavrielc/nanoclaw",
     "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
     "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 8781,
-    "daily_stars": 52,
+    "stars": 8872,
+    "daily_stars": 91,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -36,15 +15,36 @@
       "clawdbot"
     ],
     "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-16T20:52:35"
+    "updated_at": "2026-02-17T03:13:49"
+  },
+  {
+    "name": "maths-cs-ai-compendium",
+    "full_name": "HenryNdubuaku/maths-cs-ai-compendium",
+    "description": "Learn maths, computing, and artificial intelligence with intuition.",
+    "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+    "stars": 206,
+    "daily_stars": 88,
+    "language": null,
+    "topics": [
+      "algorithms",
+      "deep-learning",
+      "jax",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "math",
+      "mathematics",
+      "python"
+    ],
+    "created_at": "2026-02-03T16:28:18",
+    "updated_at": "2026-02-17T03:11:26"
   },
   {
     "name": "klaw.sh",
     "full_name": "klawsh/klaw.sh",
     "description": "kubectl for AI Agents",
     "url": "https://github.com/klawsh/klaw.sh",
-    "stars": 302,
-    "daily_stars": 45,
+    "stars": 341,
+    "daily_stars": 39,
     "language": "Go",
     "topics": [
       "agents",
@@ -52,15 +52,15 @@
       "orchestration"
     ],
     "created_at": "2026-02-15T04:18:19",
-    "updated_at": "2026-02-16T20:48:42"
+    "updated_at": "2026-02-17T03:19:13"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 2594,
-    "daily_stars": 15,
+    "stars": 2624,
+    "daily_stars": 30,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -80,30 +80,90 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-16T20:52:02"
+    "updated_at": "2026-02-17T03:09:59"
+  },
+  {
+    "name": "nono",
+    "full_name": "lukehinds/nono",
+    "description": "all your base does belong to us. ",
+    "url": "https://github.com/lukehinds/nono",
+    "stars": 403,
+    "daily_stars": 17,
+    "language": "Rust",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "isolation",
+      "openclaw",
+      "sandbox",
+      "security"
+    ],
+    "created_at": "2026-01-31T09:25:45",
+    "updated_at": "2026-02-17T02:40:35"
   },
   {
     "name": "moltworker",
     "full_name": "cloudflare/moltworker",
     "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
     "url": "https://github.com/cloudflare/moltworker",
-    "stars": 8803,
-    "daily_stars": 12,
+    "stars": 8819,
+    "daily_stars": 16,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
       "cloudflare-workers"
     ],
     "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-16T20:52:27"
+    "updated_at": "2026-02-17T03:07:30"
+  },
+  {
+    "name": "microgpt-c",
+    "full_name": "vixhal-baraiya/microgpt-c",
+    "description": "The most atomic way to train and inference a GPT in pure, dependency-free C",
+    "url": "https://github.com/vixhal-baraiya/microgpt-c",
+    "stars": 159,
+    "daily_stars": 9,
+    "language": "C",
+    "topics": [
+      "artificial-intelligence",
+      "c",
+      "c-programming",
+      "deep-learning",
+      "gpt",
+      "llm",
+      "machine-learning",
+      "microgpt"
+    ],
+    "created_at": "2026-02-14T17:29:50",
+    "updated_at": "2026-02-17T01:57:28"
+  },
+  {
+    "name": "google-antigravity",
+    "full_name": "Dokhacgiakhoa/google-antigravity",
+    "description": "Google AntiGravity IDE for Vibe Coding",
+    "url": "https://github.com/Dokhacgiakhoa/google-antigravity",
+    "stars": 314,
+    "daily_stars": 8,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "cli",
+      "developer-tools",
+      "google-antigravity",
+      "prompt-engineering",
+      "scaffolding",
+      "vibe-coding"
+    ],
+    "created_at": "2026-01-27T21:22:16",
+    "updated_at": "2026-02-17T03:00:06"
   },
   {
     "name": "login-machine",
     "full_name": "RichardHruby/login-machine",
     "description": "AI-powered login automation. Uses Claude to classify login pages and Playwright to interact with them.",
     "url": "https://github.com/RichardHruby/login-machine",
-    "stars": 215,
-    "daily_stars": 10,
+    "stars": 223,
+    "daily_stars": 8,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -118,88 +178,15 @@
       "web-agent"
     ],
     "created_at": "2026-02-09T22:46:45",
-    "updated_at": "2026-02-16T20:52:49"
-  },
-  {
-    "name": "pocketpaw",
-    "full_name": "pocketpaw/pocketpaw",
-    "description": "Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source personal AI with desktop installer, multi-agent Command Center(Deep Work), and 7-layer security. Anthropic, OpenAI, or Ollama.Your Pocket Paw",
-    "url": "https://github.com/pocketpaw/pocketpaw",
-    "stars": 268,
-    "daily_stars": 8,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "cli",
-      "jarvis-assistant",
-      "multi-agent-systems",
-      "ollama",
-      "open-source",
-      "personal-assistant",
-      "python",
-      "security",
-      "self-hosted",
-      "telegram-bot-ai-assistant"
-    ],
-    "created_at": "2026-02-02T19:48:57",
-    "updated_at": "2026-02-16T20:12:44"
-  },
-  {
-    "name": "microgpt-c",
-    "full_name": "vixhal-baraiya/microgpt-c",
-    "description": "The most atomic way to train and inference a GPT in pure, dependency-free C",
-    "url": "https://github.com/vixhal-baraiya/microgpt-c",
-    "stars": 150,
-    "daily_stars": 6,
-    "language": "C",
-    "topics": [
-      "artificial-intelligence",
-      "c",
-      "c-programming",
-      "deep-learning",
-      "gpt",
-      "llm",
-      "machine-learning",
-      "microgpt"
-    ],
-    "created_at": "2026-02-14T17:29:50",
-    "updated_at": "2026-02-16T20:38:27"
-  },
-  {
-    "name": "AITuberFlow",
-    "full_name": "oboroge0/AITuberFlow",
-    "description": "Visual workflow editor for building AI-powered VTubers",
-    "url": "https://github.com/oboroge0/AITuberFlow",
-    "stars": 44,
-    "daily_stars": 5,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "aituber",
-      "fastapi",
-      "llm",
-      "nextjs",
-      "obs",
-      "python",
-      "react-flow",
-      "streaming",
-      "text-to-speech",
-      "typescript",
-      "visual-editor",
-      "voicevox",
-      "vtuber",
-      "workflow"
-    ],
-    "created_at": "2026-01-18T18:18:52",
-    "updated_at": "2026-02-16T18:49:50"
+    "updated_at": "2026-02-16T22:33:50"
   },
   {
     "name": "chargen",
     "full_name": "Karmacoke/chargen",
     "description": "AI-powered character generator built with React. Create detailed TRPG/Novel characters, NPC system prompts, and visual tags using Gemini, OpenAI, or Local LLMs.",
     "url": "https://github.com/Karmacoke/chargen",
-    "stars": 186,
-    "daily_stars": 3,
+    "stars": 191,
+    "daily_stars": 5,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -210,6 +197,6 @@
       "writing-tool"
     ],
     "created_at": "2026-02-06T06:29:33",
-    "updated_at": "2026-02-16T19:55:59"
+    "updated_at": "2026-02-17T02:04:50"
   }
 ]
