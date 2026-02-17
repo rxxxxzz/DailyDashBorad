@@ -4,8 +4,8 @@
     "full_name": "gavrielc/nanoclaw",
     "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
     "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 8955,
-    "daily_stars": 45,
+    "stars": 9023,
+    "daily_stars": 68,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -15,15 +15,32 @@
       "clawdbot"
     ],
     "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-17T08:56:40"
+    "updated_at": "2026-02-17T13:34:40"
+  },
+  {
+    "name": "overstory",
+    "full_name": "jayminwest/overstory",
+    "description": "Project-agnostic swarm system for Claude Code agent orchestration",
+    "url": "https://github.com/jayminwest/overstory",
+    "stars": 97,
+    "daily_stars": 57,
+    "language": "TypeScript",
+    "topics": [
+      "agent-swarms",
+      "ai-agents",
+      "claude-code",
+      "tmux"
+    ],
+    "created_at": "2026-02-12T14:53:58",
+    "updated_at": "2026-02-17T13:44:06"
   },
   {
     "name": "maths-cs-ai-compendium",
     "full_name": "HenryNdubuaku/maths-cs-ai-compendium",
     "description": "Learn maths, computing, and artificial intelligence with intuition.",
     "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-    "stars": 269,
-    "daily_stars": 35,
+    "stars": 308,
+    "daily_stars": 39,
     "language": null,
     "topics": [
       "algorithms",
@@ -36,14 +53,14 @@
       "python"
     ],
     "created_at": "2026-02-03T16:28:18",
-    "updated_at": "2026-02-17T09:08:20"
+    "updated_at": "2026-02-17T13:43:19"
   },
   {
     "name": "pocketpaw",
     "full_name": "pocketpaw/pocketpaw",
     "description": "Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source personal AI with desktop installer, multi-agent Command Center(Deep Work), and 7-layer security. Anthropic, OpenAI, or Ollama.Your Pocket Paw",
     "url": "https://github.com/pocketpaw/pocketpaw",
-    "stars": 299,
+    "stars": 321,
     "daily_stars": 22,
     "language": "Python",
     "topics": [
@@ -60,32 +77,31 @@
       "telegram-bot-ai-assistant"
     ],
     "created_at": "2026-02-02T19:48:57",
-    "updated_at": "2026-02-17T09:05:46"
+    "updated_at": "2026-02-17T13:42:26"
   },
   {
-    "name": "overstory",
-    "full_name": "jayminwest/overstory",
-    "description": "Project-agnostic swarm system for Claude Code agent orchestration",
-    "url": "https://github.com/jayminwest/overstory",
-    "stars": 40,
+    "name": "klaw.sh",
+    "full_name": "klawsh/klaw.sh",
+    "description": "kubectl for AI Agents",
+    "url": "https://github.com/klawsh/klaw.sh",
+    "stars": 380,
     "daily_stars": 19,
-    "language": "TypeScript",
+    "language": "Go",
     "topics": [
-      "agent-swarms",
+      "agents",
       "ai-agents",
-      "claude-code",
-      "tmux"
+      "orchestration"
     ],
-    "created_at": "2026-02-12T14:53:58",
-    "updated_at": "2026-02-17T09:02:38"
+    "created_at": "2026-02-15T04:18:19",
+    "updated_at": "2026-02-17T13:37:22"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 2653,
-    "daily_stars": 13,
+    "stars": 2668,
+    "daily_stars": 15,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -105,101 +121,84 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-17T09:07:28"
+    "updated_at": "2026-02-17T13:38:20"
   },
   {
-    "name": "klaw.sh",
-    "full_name": "klawsh/klaw.sh",
-    "description": "kubectl for AI Agents",
-    "url": "https://github.com/klawsh/klaw.sh",
-    "stars": 361,
-    "daily_stars": 13,
-    "language": "Go",
+    "name": "nono",
+    "full_name": "lukehinds/nono",
+    "description": "all your base does belong to us. ",
+    "url": "https://github.com/lukehinds/nono",
+    "stars": 416,
+    "daily_stars": 10,
+    "language": "Rust",
     "topics": [
-      "agents",
+      "ai",
       "ai-agents",
-      "orchestration"
+      "isolation",
+      "openclaw",
+      "sandbox",
+      "security"
     ],
-    "created_at": "2026-02-15T04:18:19",
-    "updated_at": "2026-02-17T07:39:26"
+    "created_at": "2026-01-31T09:25:45",
+    "updated_at": "2026-02-17T13:16:50"
+  },
+  {
+    "name": "microgpt-c",
+    "full_name": "vixhal-baraiya/microgpt-c",
+    "description": "The most atomic way to train and inference a GPT in pure, dependency-free C",
+    "url": "https://github.com/vixhal-baraiya/microgpt-c",
+    "stars": 169,
+    "daily_stars": 8,
+    "language": "C",
+    "topics": [
+      "artificial-intelligence",
+      "c",
+      "c-programming",
+      "deep-learning",
+      "gpt",
+      "llm",
+      "machine-learning",
+      "microgpt"
+    ],
+    "created_at": "2026-02-14T17:29:50",
+    "updated_at": "2026-02-17T13:43:51"
+  },
+  {
+    "name": "login-machine",
+    "full_name": "RichardHruby/login-machine",
+    "description": "AI-powered login automation. Uses Claude to classify login pages and Playwright to interact with them.",
+    "url": "https://github.com/RichardHruby/login-machine",
+    "stars": 230,
+    "daily_stars": 6,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "browser-automation",
+      "browserbase",
+      "claude",
+      "computer-use",
+      "llm",
+      "login-automation",
+      "nextjs",
+      "playwright",
+      "web-agent"
+    ],
+    "created_at": "2026-02-09T22:46:45",
+    "updated_at": "2026-02-17T13:37:00"
   },
   {
     "name": "moltworker",
     "full_name": "cloudflare/moltworker",
     "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
     "url": "https://github.com/cloudflare/moltworker",
-    "stars": 8834,
-    "daily_stars": 8,
+    "stars": 8839,
+    "daily_stars": 5,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
       "cloudflare-workers"
     ],
     "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-17T08:28:48"
-  },
-  {
-    "name": "takt",
-    "full_name": "nrslib/takt",
-    "description": "Task Agent Koordination Tool - Multi-agent orchestration system for Claude Code (Codex support planned).",
-    "url": "https://github.com/nrslib/takt",
-    "stars": 363,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "agent-orchestration",
-      "ai-agents",
-      "claude-code",
-      "multi-agent"
-    ],
-    "created_at": "2026-01-25T04:05:48",
-    "updated_at": "2026-02-17T08:55:15"
-  },
-  {
-    "name": "chargen",
-    "full_name": "Karmacoke/chargen",
-    "description": "AI-powered character generator built with React. Create detailed TRPG/Novel characters, NPC system prompts, and visual tags using Gemini, OpenAI, or Local LLMs.",
-    "url": "https://github.com/Karmacoke/chargen",
-    "stars": 197,
-    "daily_stars": 3,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "character",
-      "designer-tool",
-      "gamedesign",
-      "writing-tool"
-    ],
-    "created_at": "2026-02-06T06:29:33",
-    "updated_at": "2026-02-17T08:31:24"
-  },
-  {
-    "name": "openclaw-dashboard",
-    "full_name": "tugcantopaloglu/openclaw-dashboard",
-    "description": "🔐 Secure, real-time monitoring dashboard for OpenClaw AI agents. Auth, TOTP MFA, cost tracking, live feed, memory browser — zero dependencies.",
-    "url": "https://github.com/tugcantopaloglu/openclaw-dashboard",
-    "stars": 51,
-    "daily_stars": 3,
-    "language": "HTML",
-    "topics": [
-      "ai-agents",
-      "claude",
-      "dashboard",
-      "devops",
-      "llm",
-      "mfa",
-      "monitoring",
-      "nodejs",
-      "openclaw",
-      "raspberry-pi",
-      "real-time",
-      "security",
-      "self-hosted",
-      "sse",
-      "totp"
-    ],
-    "created_at": "2026-02-10T08:52:47",
-    "updated_at": "2026-02-17T08:51:36"
+    "updated_at": "2026-02-17T13:05:43"
   }
 ]
