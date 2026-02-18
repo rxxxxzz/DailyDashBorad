@@ -4,8 +4,8 @@
     "full_name": "christopherkarani/Wax",
     "description": "🍯 Memory layer for on-device AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. ",
     "url": "https://github.com/christopherkarani/Wax",
-    "stars": 291,
-    "daily_stars": 41,
+    "stars": 350,
+    "daily_stars": 59,
     "language": "Swift",
     "topics": [
       "ai-agents",
@@ -18,15 +18,15 @@
       "rag"
     ],
     "created_at": "2026-01-20T06:00:56",
-    "updated_at": "2026-02-18T05:41:21"
+    "updated_at": "2026-02-18T09:10:17"
   },
   {
     "name": "clawe",
     "full_name": "getclawe/clawe",
     "description": "Multi-agent coordination system powered by OpenClaw. Good for automating weekly SEO review, editing, and publishing workflows for agencies.",
     "url": "https://github.com/getclawe/clawe",
-    "stars": 246,
-    "daily_stars": 32,
+    "stars": 287,
+    "daily_stars": 41,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -36,69 +36,15 @@
       "openclaw"
     ],
     "created_at": "2026-02-02T14:35:09",
-    "updated_at": "2026-02-18T05:39:21"
-  },
-  {
-    "name": "nanoclaw",
-    "full_name": "gavrielc/nanoclaw",
-    "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
-    "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 9181,
-    "daily_stars": 16,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "ai-assistant",
-      "claude-code",
-      "claude-skills",
-      "clawdbot"
-    ],
-    "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-18T05:30:04"
-  },
-  {
-    "name": "overstory",
-    "full_name": "jayminwest/overstory",
-    "description": "Project-agnostic swarm system for Claude Code agent orchestration",
-    "url": "https://github.com/jayminwest/overstory",
-    "stars": 169,
-    "daily_stars": 13,
-    "language": "TypeScript",
-    "topics": [
-      "agent-swarms",
-      "ai-agents",
-      "claude-code",
-      "tmux"
-    ],
-    "created_at": "2026-02-12T14:53:58",
-    "updated_at": "2026-02-18T05:06:12"
-  },
-  {
-    "name": "CommonGround",
-    "full_name": "Intelligent-Internet/CommonGround",
-    "description": "The Sociotechnical OS for Multi-Agent Collaboration",
-    "url": "https://github.com/Intelligent-Internet/CommonGround",
-    "stars": 55,
-    "daily_stars": 6,
-    "language": "Python",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "llm",
-      "multi-agent-systems",
-      "multiagent"
-    ],
-    "created_at": "2026-02-16T16:40:43",
-    "updated_at": "2026-02-18T05:22:53"
+    "updated_at": "2026-02-18T09:10:58"
   },
   {
     "name": "maths-cs-ai-compendium",
     "full_name": "HenryNdubuaku/maths-cs-ai-compendium",
     "description": "Learn maths, computing, and artificial intelligence with intuition.",
     "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-    "stars": 398,
-    "daily_stars": 6,
+    "stars": 430,
+    "daily_stars": 32,
     "language": null,
     "topics": [
       "algorithms",
@@ -111,15 +57,72 @@
       "python"
     ],
     "created_at": "2026-02-03T16:28:18",
-    "updated_at": "2026-02-18T05:42:33"
+    "updated_at": "2026-02-18T08:59:55"
+  },
+  {
+    "name": "nanoclaw",
+    "full_name": "gavrielc/nanoclaw",
+    "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
+    "url": "https://github.com/gavrielc/nanoclaw",
+    "stars": 9204,
+    "daily_stars": 23,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "ai-assistant",
+      "claude-code",
+      "claude-skills",
+      "clawdbot"
+    ],
+    "created_at": "2026-01-31T15:47:22",
+    "updated_at": "2026-02-18T08:55:51"
+  },
+  {
+    "name": "moltworker",
+    "full_name": "cloudflare/moltworker",
+    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
+    "url": "https://github.com/cloudflare/moltworker",
+    "stars": 8892,
+    "daily_stars": 12,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "cloudflare-workers"
+    ],
+    "created_at": "2026-01-27T11:09:39",
+    "updated_at": "2026-02-18T08:54:25"
+  },
+  {
+    "name": "SILENTCHAIN",
+    "full_name": "silentchainai/SILENTCHAIN",
+    "description": "AI-powered vulnerability scanner extension for Burp Suite with multi-provider support (Ollama, OpenAI, Claude, Gemini)",
+    "url": "https://github.com/silentchainai/SILENTCHAIN",
+    "stars": 50,
+    "daily_stars": 11,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "appsec",
+      "artificial-intelligence",
+      "bug-bounty",
+      "burp-extension",
+      "burp-suite",
+      "owasp",
+      "penetration-testing",
+      "security",
+      "security-tools",
+      "vulnerability-scanner"
+    ],
+    "created_at": "2026-02-03T16:14:30",
+    "updated_at": "2026-02-18T08:41:25"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 2733,
-    "daily_stars": 5,
+    "stars": 2744,
+    "daily_stars": 11,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -139,15 +142,55 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-18T05:22:21"
+    "updated_at": "2026-02-18T08:56:04"
+  },
+  {
+    "name": "overstory",
+    "full_name": "jayminwest/overstory",
+    "description": "Project-agnostic swarm system for Claude Code agent orchestration",
+    "url": "https://github.com/jayminwest/overstory",
+    "stars": 180,
+    "daily_stars": 11,
+    "language": "TypeScript",
+    "topics": [
+      "agent-swarms",
+      "ai-agents",
+      "claude-code",
+      "tmux"
+    ],
+    "created_at": "2026-02-12T14:53:58",
+    "updated_at": "2026-02-18T09:05:47"
+  },
+  {
+    "name": "agentplane",
+    "full_name": "basilisk-labs/agentplane",
+    "description": "Governed CLI framework for deterministic, auditable AI agent workflows",
+    "url": "https://github.com/basilisk-labs/agentplane",
+    "stars": 21,
+    "daily_stars": 11,
+    "language": "TypeScript",
+    "topics": [
+      "agent-orchestration",
+      "ai-agents",
+      "automation",
+      "cli",
+      "developer-tools",
+      "devops",
+      "governance",
+      "llm",
+      "policy-driven",
+      "workflow"
+    ],
+    "created_at": "2026-01-27T08:03:43",
+    "updated_at": "2026-02-18T09:10:56"
   },
   {
     "name": "klaw.sh",
     "full_name": "klawsh/klaw.sh",
     "description": "kubectl for AI Agents",
     "url": "https://github.com/klawsh/klaw.sh",
-    "stars": 434,
-    "daily_stars": 5,
+    "stars": 443,
+    "daily_stars": 9,
     "language": "Go",
     "topics": [
       "agents",
@@ -155,56 +198,6 @@
       "orchestration"
     ],
     "created_at": "2026-02-15T04:18:19",
-    "updated_at": "2026-02-18T04:49:33"
-  },
-  {
-    "name": "pocketpaw",
-    "full_name": "pocketpaw/pocketpaw",
-    "description": "Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source personal AI with desktop installer, multi-agent Command Center(Deep Work), and 7-layer security. Anthropic, OpenAI, or Ollama.Your Pocket Paw",
-    "url": "https://github.com/pocketpaw/pocketpaw",
-    "stars": 369,
-    "daily_stars": 5,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "cli",
-      "jarvis-assistant",
-      "multi-agent-systems",
-      "ollama",
-      "open-source",
-      "personal-assistant",
-      "python",
-      "security",
-      "self-hosted",
-      "telegram-bot-ai-assistant"
-    ],
-    "created_at": "2026-02-02T19:48:57",
-    "updated_at": "2026-02-18T05:33:43"
-  },
-  {
-    "name": "NadirClaw",
-    "full_name": "doramirdor/NadirClaw",
-    "description": "Open-source LLM router that saves you money. Routes simple prompts to cheap/local models, complex ones to premium — automatically. OpenAI-compatible proxy.",
-    "url": "https://github.com/doramirdor/NadirClaw",
-    "stars": 59,
-    "daily_stars": 5,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "api",
-      "cost-optimization",
-      "gemini",
-      "llm",
-      "llm-router",
-      "machine-learning",
-      "model-routing",
-      "ollama",
-      "openai",
-      "openclaw",
-      "proxy",
-      "python"
-    ],
-    "created_at": "2026-02-11T02:36:08",
-    "updated_at": "2026-02-18T05:33:06"
+    "updated_at": "2026-02-18T08:56:38"
   }
 ]
