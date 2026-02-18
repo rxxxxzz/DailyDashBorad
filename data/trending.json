@@ -4,8 +4,8 @@
     "full_name": "christopherkarani/Wax",
     "description": "🍯 Memory layer for on-device AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. ",
     "url": "https://github.com/christopherkarani/Wax",
-    "stars": 115,
-    "daily_stars": 81,
+    "stars": 250,
+    "daily_stars": 135,
     "language": "Swift",
     "topics": [
       "ai-agents",
@@ -18,15 +18,15 @@
       "rag"
     ],
     "created_at": "2026-01-20T06:00:56",
-    "updated_at": "2026-02-17T21:02:00"
+    "updated_at": "2026-02-18T03:16:06"
   },
   {
     "name": "nanoclaw",
     "full_name": "gavrielc/nanoclaw",
     "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
     "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 9118,
-    "daily_stars": 31,
+    "stars": 9165,
+    "daily_stars": 47,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -36,36 +36,15 @@
       "clawdbot"
     ],
     "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-17T21:00:26"
-  },
-  {
-    "name": "maths-cs-ai-compendium",
-    "full_name": "HenryNdubuaku/maths-cs-ai-compendium",
-    "description": "Learn maths, computing, and artificial intelligence with intuition.",
-    "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-    "stars": 377,
-    "daily_stars": 27,
-    "language": null,
-    "topics": [
-      "algorithms",
-      "deep-learning",
-      "jax",
-      "machine-learning",
-      "machine-learning-algorithms",
-      "math",
-      "mathematics",
-      "python"
-    ],
-    "created_at": "2026-02-03T16:28:18",
-    "updated_at": "2026-02-17T21:00:30"
+    "updated_at": "2026-02-18T03:17:13"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 2701,
-    "daily_stars": 16,
+    "stars": 2728,
+    "daily_stars": 27,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -85,31 +64,34 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-17T20:46:29"
+    "updated_at": "2026-02-18T03:20:46"
   },
   {
-    "name": "klaw.sh",
-    "full_name": "klawsh/klaw.sh",
-    "description": "kubectl for AI Agents",
-    "url": "https://github.com/klawsh/klaw.sh",
-    "stars": 411,
-    "daily_stars": 15,
-    "language": "Go",
+    "name": "CommonGround",
+    "full_name": "Intelligent-Internet/CommonGround",
+    "description": "The Sociotechnical OS for Multi-Agent Collaboration",
+    "url": "https://github.com/Intelligent-Internet/CommonGround",
+    "stars": 49,
+    "daily_stars": 21,
+    "language": "Python",
     "topics": [
       "agents",
+      "ai",
       "ai-agents",
-      "orchestration"
+      "llm",
+      "multi-agent-systems",
+      "multiagent"
     ],
-    "created_at": "2026-02-15T04:18:19",
-    "updated_at": "2026-02-17T21:01:03"
+    "created_at": "2026-02-16T16:40:43",
+    "updated_at": "2026-02-18T03:02:26"
   },
   {
     "name": "overstory",
     "full_name": "jayminwest/overstory",
     "description": "Project-agnostic swarm system for Claude Code agent orchestration",
     "url": "https://github.com/jayminwest/overstory",
-    "stars": 137,
-    "daily_stars": 14,
+    "stars": 156,
+    "daily_stars": 19,
     "language": "TypeScript",
     "topics": [
       "agent-swarms",
@@ -118,87 +100,101 @@
       "tmux"
     ],
     "created_at": "2026-02-12T14:53:58",
-    "updated_at": "2026-02-17T21:01:52"
+    "updated_at": "2026-02-18T03:13:33"
   },
   {
-    "name": "pocketpaw",
-    "full_name": "pocketpaw/pocketpaw",
-    "description": "Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source personal AI with desktop installer, multi-agent Command Center(Deep Work), and 7-layer security. Anthropic, OpenAI, or Ollama.Your Pocket Paw",
-    "url": "https://github.com/pocketpaw/pocketpaw",
-    "stars": 357,
-    "daily_stars": 12,
-    "language": "Python",
+    "name": "klaw.sh",
+    "full_name": "klawsh/klaw.sh",
+    "description": "kubectl for AI Agents",
+    "url": "https://github.com/klawsh/klaw.sh",
+    "stars": 429,
+    "daily_stars": 18,
+    "language": "Go",
     "topics": [
+      "agents",
       "ai-agents",
-      "cli",
-      "jarvis-assistant",
-      "multi-agent-systems",
-      "ollama",
-      "open-source",
-      "personal-assistant",
-      "python",
-      "security",
-      "self-hosted",
-      "telegram-bot-ai-assistant"
+      "orchestration"
     ],
-    "created_at": "2026-02-02T19:48:57",
-    "updated_at": "2026-02-17T20:43:47"
+    "created_at": "2026-02-15T04:18:19",
+    "updated_at": "2026-02-18T03:20:07"
   },
   {
     "name": "moltworker",
     "full_name": "cloudflare/moltworker",
     "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
     "url": "https://github.com/cloudflare/moltworker",
-    "stars": 8861,
-    "daily_stars": 10,
+    "stars": 8877,
+    "daily_stars": 16,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
       "cloudflare-workers"
     ],
     "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-17T20:39:52"
+    "updated_at": "2026-02-18T02:16:44"
   },
   {
-    "name": "nono",
-    "full_name": "lukehinds/nono",
-    "description": "all your base does belong to us. ",
-    "url": "https://github.com/lukehinds/nono",
-    "stars": 427,
-    "daily_stars": 4,
-    "language": "Rust",
+    "name": "maths-cs-ai-compendium",
+    "full_name": "HenryNdubuaku/maths-cs-ai-compendium",
+    "description": "Learn maths, computing, and artificial intelligence with intuition.",
+    "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+    "stars": 392,
+    "daily_stars": 15,
+    "language": null,
+    "topics": [
+      "algorithms",
+      "deep-learning",
+      "jax",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "math",
+      "mathematics",
+      "python"
+    ],
+    "created_at": "2026-02-03T16:28:18",
+    "updated_at": "2026-02-18T03:19:46"
+  },
+  {
+    "name": "NadirClaw",
+    "full_name": "doramirdor/NadirClaw",
+    "description": "Open-source LLM router that saves you money. Routes simple prompts to cheap/local models, complex ones to premium — automatically. OpenAI-compatible proxy.",
+    "url": "https://github.com/doramirdor/NadirClaw",
+    "stars": 54,
+    "daily_stars": 13,
+    "language": "Python",
     "topics": [
       "ai",
-      "ai-agents",
-      "isolation",
+      "api",
+      "cost-optimization",
+      "gemini",
+      "llm",
+      "llm-router",
+      "machine-learning",
+      "model-routing",
+      "ollama",
+      "openai",
       "openclaw",
-      "sandbox",
-      "security"
+      "proxy",
+      "python"
     ],
-    "created_at": "2026-01-31T09:25:45",
-    "updated_at": "2026-02-17T20:29:48"
+    "created_at": "2026-02-11T02:36:08",
+    "updated_at": "2026-02-18T03:12:06"
   },
   {
-    "name": "login-machine",
-    "full_name": "RichardHruby/login-machine",
-    "description": "AI-powered login automation. Uses Claude to classify login pages and Playwright to interact with them.",
-    "url": "https://github.com/RichardHruby/login-machine",
-    "stars": 239,
-    "daily_stars": 4,
+    "name": "openclaw-mission-control",
+    "full_name": "abhi1693/openclaw-mission-control",
+    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
+    "url": "https://github.com/abhi1693/openclaw-mission-control",
+    "stars": 132,
+    "daily_stars": 12,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "browser-automation",
-      "browserbase",
-      "claude",
-      "computer-use",
-      "llm",
-      "login-automation",
-      "nextjs",
-      "playwright",
-      "web-agent"
+      "automation",
+      "openclaw",
+      "orchestration"
     ],
-    "created_at": "2026-02-09T22:46:45",
-    "updated_at": "2026-02-17T19:52:12"
+    "created_at": "2026-02-01T16:53:45",
+    "updated_at": "2026-02-18T02:59:11"
   }
 ]
