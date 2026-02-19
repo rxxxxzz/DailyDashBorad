@@ -1,11 +1,28 @@
 [
   {
+    "name": "pi_agent_rust",
+    "full_name": "Dicklesworthstone/pi_agent_rust",
+    "description": "High-performance AI coding agent CLI written in Rust with zero unsafe code",
+    "url": "https://github.com/Dicklesworthstone/pi_agent_rust",
+    "stars": 117,
+    "daily_stars": 47,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "cli",
+      "developer-tools",
+      "rust"
+    ],
+    "created_at": "2026-02-02T20:58:01",
+    "updated_at": "2026-02-19T20:55:26"
+  },
+  {
     "name": "nanoclaw",
     "full_name": "gavrielc/nanoclaw",
     "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
     "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 9438,
-    "daily_stars": 45,
+    "stars": 9463,
+    "daily_stars": 25,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -15,15 +32,15 @@
       "clawdbot"
     ],
     "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-19T17:28:05"
+    "updated_at": "2026-02-19T20:56:20"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 2964,
-    "daily_stars": 34,
+    "stars": 2985,
+    "daily_stars": 21,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -43,15 +60,51 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-19T17:18:26"
+    "updated_at": "2026-02-19T20:54:20"
+  },
+  {
+    "name": "BMAD_Openclaw",
+    "full_name": "ErwanLorteau/BMAD_Openclaw",
+    "description": "Bridging the BMad Method to OpenClaw: 12-agent AI dev team using sessions_spawn",
+    "url": "https://github.com/ErwanLorteau/BMAD_Openclaw",
+    "stars": 57,
+    "daily_stars": 19,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "ai-orchestration",
+      "bmad-method",
+      "openclaw",
+      "software-development",
+      "sub-agents"
+    ],
+    "created_at": "2026-02-16T11:07:09",
+    "updated_at": "2026-02-19T20:28:17"
+  },
+  {
+    "name": "openclaw-mission-control",
+    "full_name": "abhi1693/openclaw-mission-control",
+    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
+    "url": "https://github.com/abhi1693/openclaw-mission-control",
+    "stars": 219,
+    "daily_stars": 15,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "openclaw",
+      "orchestration"
+    ],
+    "created_at": "2026-02-01T16:53:45",
+    "updated_at": "2026-02-19T20:58:13"
   },
   {
     "name": "daymon",
     "full_name": "daymonio/daymon",
     "description": "Daymon puts your favorite AI to work 24/7. It schedules, remembers, and orchestrates your own virtual team. Free.",
     "url": "https://github.com/daymonio/daymon",
-    "stars": 181,
-    "daily_stars": 22,
+    "stars": 195,
+    "daily_stars": 14,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -74,51 +127,31 @@
       "windows"
     ],
     "created_at": "2026-02-14T14:57:46",
-    "updated_at": "2026-02-19T17:24:27"
+    "updated_at": "2026-02-19T20:35:16"
   },
   {
-    "name": "pi_agent_rust",
-    "full_name": "Dicklesworthstone/pi_agent_rust",
-    "description": "High-performance AI coding agent CLI written in Rust with zero unsafe code",
-    "url": "https://github.com/Dicklesworthstone/pi_agent_rust",
-    "stars": 70,
-    "daily_stars": 15,
-    "language": "Rust",
+    "name": "klaw.sh",
+    "full_name": "klawsh/klaw.sh",
+    "description": "kubectl for AI Agents",
+    "url": "https://github.com/klawsh/klaw.sh",
+    "stars": 484,
+    "daily_stars": 10,
+    "language": "Go",
     "topics": [
+      "agents",
       "ai-agents",
-      "cli",
-      "developer-tools",
-      "rust"
+      "orchestration"
     ],
-    "created_at": "2026-02-02T20:58:01",
-    "updated_at": "2026-02-19T17:27:29"
-  },
-  {
-    "name": "BMAD_Openclaw",
-    "full_name": "ErwanLorteau/BMAD_Openclaw",
-    "description": "Bridging the BMad Method to OpenClaw: 12-agent AI dev team using sessions_spawn",
-    "url": "https://github.com/ErwanLorteau/BMAD_Openclaw",
-    "stars": 38,
-    "daily_stars": 14,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "ai-orchestration",
-      "bmad-method",
-      "openclaw",
-      "software-development",
-      "sub-agents"
-    ],
-    "created_at": "2026-02-16T11:07:09",
-    "updated_at": "2026-02-19T16:57:23"
+    "created_at": "2026-02-15T04:18:19",
+    "updated_at": "2026-02-19T20:54:33"
   },
   {
     "name": "clawe",
     "full_name": "getclawe/clawe",
     "description": "Multi-agent coordination system powered by OpenClaw. Good for automating weekly SEO review, editing, and publishing workflows for agencies.",
     "url": "https://github.com/getclawe/clawe",
-    "stars": 495,
-    "daily_stars": 13,
+    "stars": 504,
+    "daily_stars": 9,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -128,54 +161,30 @@
       "openclaw"
     ],
     "created_at": "2026-02-02T14:35:09",
-    "updated_at": "2026-02-19T17:27:24"
+    "updated_at": "2026-02-19T20:13:31"
   },
   {
-    "name": "agent-secrets",
-    "full_name": "joelhooks/agent-secrets",
-    "description": "🛡️ Portable credential management for AI agents — Age encryption, session leases, killswitch",
-    "url": "https://github.com/joelhooks/agent-secrets",
-    "stars": 38,
-    "daily_stars": 13,
-    "language": "Go",
+    "name": "moltworker",
+    "full_name": "cloudflare/moltworker",
+    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
+    "url": "https://github.com/cloudflare/moltworker",
+    "stars": 8967,
+    "daily_stars": 8,
+    "language": "TypeScript",
     "topics": [
-      "age-encryption",
       "ai-agents",
-      "cli",
-      "encryption",
-      "go",
-      "secrets-management",
-      "security"
+      "cloudflare-workers"
     ],
-    "created_at": "2026-02-02T06:08:21",
-    "updated_at": "2026-02-19T16:56:12"
-  },
-  {
-    "name": "nono",
-    "full_name": "lukehinds/nono",
-    "description": "all your base does belong to us. ",
-    "url": "https://github.com/lukehinds/nono",
-    "stars": 466,
-    "daily_stars": 11,
-    "language": "Rust",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "isolation",
-      "openclaw",
-      "sandbox",
-      "security"
-    ],
-    "created_at": "2026-01-31T09:25:45",
-    "updated_at": "2026-02-19T16:45:24"
+    "created_at": "2026-01-27T11:09:39",
+    "updated_at": "2026-02-19T20:01:17"
   },
   {
     "name": "overstory",
     "full_name": "jayminwest/overstory",
     "description": "Project-agnostic swarm system for Claude Code agent orchestration",
     "url": "https://github.com/jayminwest/overstory",
-    "stars": 280,
-    "daily_stars": 9,
+    "stars": 288,
+    "daily_stars": 8,
     "language": "TypeScript",
     "topics": [
       "agent-swarms",
@@ -184,29 +193,6 @@
       "tmux"
     ],
     "created_at": "2026-02-12T14:53:58",
-    "updated_at": "2026-02-19T17:19:20"
-  },
-  {
-    "name": "secureclaw",
-    "full_name": "adversa-ai/secureclaw",
-    "description": "SecureClaw - Security Plugin and Skill for OpenClaw OWASP-Aligned",
-    "url": "https://github.com/adversa-ai/secureclaw",
-    "stars": 124,
-    "daily_stars": 9,
-    "language": "TypeScript",
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "ai-security",
-      "llm-security",
-      "openclaw",
-      "openclaw-plugin",
-      "openclaw-security",
-      "openclaw-skills",
-      "owasp",
-      "owasp-llm-top-10"
-    ],
-    "created_at": "2026-02-10T10:55:40",
-    "updated_at": "2026-02-19T16:38:26"
+    "updated_at": "2026-02-19T20:33:57"
   }
 ]
