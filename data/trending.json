@@ -4,8 +4,8 @@
     "full_name": "gavrielc/nanoclaw",
     "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
     "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 9527,
-    "daily_stars": 21,
+    "stars": 9572,
+    "daily_stars": 45,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -15,49 +15,15 @@
       "clawdbot"
     ],
     "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-20T05:34:45"
-  },
-  {
-    "name": "pi_agent_rust",
-    "full_name": "Dicklesworthstone/pi_agent_rust",
-    "description": "High-performance AI coding agent CLI written in Rust with zero unsafe code",
-    "url": "https://github.com/Dicklesworthstone/pi_agent_rust",
-    "stars": 178,
-    "daily_stars": 9,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "cli",
-      "developer-tools",
-      "rust"
-    ],
-    "created_at": "2026-02-02T20:58:01",
-    "updated_at": "2026-02-20T05:06:14"
-  },
-  {
-    "name": "OpenClaw-Book",
-    "full_name": "0xtresser/OpenClaw-Book",
-    "description": "《深入 OpenClaw》。全网第一本介绍 OpenClaw 的书，用 OpenClaw + OpenCode + Opus 4.6 写成。A book introducing OpenClaw, written by OpenClaw + OpenCode + Opus 4.6",
-    "url": "https://github.com/0xtresser/OpenClaw-Book",
-    "stars": 39,
-    "daily_stars": 7,
-    "language": null,
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agents",
-      "openclaw"
-    ],
-    "created_at": "2026-02-19T07:56:39",
-    "updated_at": "2026-02-20T05:30:25"
+    "updated_at": "2026-02-20T09:02:18"
   },
   {
     "name": "openclaw-mission-control",
     "full_name": "abhi1693/openclaw-mission-control",
     "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
     "url": "https://github.com/abhi1693/openclaw-mission-control",
-    "stars": 262,
-    "daily_stars": 6,
+    "stars": 275,
+    "daily_stars": 13,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -66,90 +32,15 @@
       "orchestration"
     ],
     "created_at": "2026-02-01T16:53:45",
-    "updated_at": "2026-02-20T05:14:04"
-  },
-  {
-    "name": "moltworker",
-    "full_name": "cloudflare/moltworker",
-    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
-    "url": "https://github.com/cloudflare/moltworker",
-    "stars": 8983,
-    "daily_stars": 4,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "cloudflare-workers"
-    ],
-    "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-20T04:52:59"
-  },
-  {
-    "name": "overstory",
-    "full_name": "jayminwest/overstory",
-    "description": "Project-agnostic swarm system for Claude Code agent orchestration",
-    "url": "https://github.com/jayminwest/overstory",
-    "stars": 323,
-    "daily_stars": 4,
-    "language": "TypeScript",
-    "topics": [
-      "agent-swarms",
-      "ai-agents",
-      "claude-code",
-      "tmux"
-    ],
-    "created_at": "2026-02-12T14:53:58",
-    "updated_at": "2026-02-20T04:57:29"
-  },
-  {
-    "name": "OpenCode-Book",
-    "full_name": "0xtresser/OpenCode-Book",
-    "description": "《深入 OpenCode》。全网第一本介绍 OpenCode 的书，用 OpenCode + Opus 4.6 写成。A book introducing OpenCode, written by OpenCode + Opus 4.6 ",
-    "url": "https://github.com/0xtresser/OpenCode-Book",
-    "stars": 47,
-    "daily_stars": 4,
-    "language": null,
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agents",
-      "opencode"
-    ],
-    "created_at": "2026-02-19T07:49:04",
-    "updated_at": "2026-02-20T04:57:27"
-  },
-  {
-    "name": "NadirClaw",
-    "full_name": "doramirdor/NadirClaw",
-    "description": "Open-source LLM router that saves you money. Routes simple prompts to cheap/local models, complex ones to premium — automatically. OpenAI-compatible proxy.",
-    "url": "https://github.com/doramirdor/NadirClaw",
-    "stars": 115,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "api",
-      "cost-optimization",
-      "gemini",
-      "llm",
-      "llm-router",
-      "machine-learning",
-      "model-routing",
-      "ollama",
-      "openai",
-      "openclaw",
-      "proxy",
-      "python"
-    ],
-    "created_at": "2026-02-11T02:36:08",
-    "updated_at": "2026-02-20T05:17:01"
+    "updated_at": "2026-02-20T09:03:58"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 3027,
-    "daily_stars": 3,
+    "stars": 3039,
+    "daily_stars": 12,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -169,23 +60,150 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-20T04:53:54"
+    "updated_at": "2026-02-20T09:03:46"
   },
   {
-    "name": "ai-factory",
-    "full_name": "lee-to/ai-factory",
-    "description": "You want to build with AI, but setting up the right context, prompts, and workflows takes time. AI Factory handles all of that so you can focus on what matters — shipping quality code.",
-    "url": "https://github.com/lee-to/ai-factory",
-    "stars": 243,
-    "daily_stars": 3,
+    "name": "OpenClaw-Book",
+    "full_name": "0xtresser/OpenClaw-Book",
+    "description": "《深入 OpenClaw》。全网第一本介绍 OpenClaw 的书，用 OpenClaw + OpenCode + Opus 4.6 写成。A book introducing OpenClaw, written by OpenClaw + OpenCode + Opus 4.6",
+    "url": "https://github.com/0xtresser/OpenClaw-Book",
+    "stars": 50,
+    "daily_stars": 11,
+    "language": null,
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "openclaw"
+    ],
+    "created_at": "2026-02-19T07:56:39",
+    "updated_at": "2026-02-20T08:47:09"
+  },
+  {
+    "name": "moltworker",
+    "full_name": "cloudflare/moltworker",
+    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
+    "url": "https://github.com/cloudflare/moltworker",
+    "stars": 8992,
+    "daily_stars": 9,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "cloudflare-workers"
+    ],
+    "created_at": "2026-01-27T11:09:39",
+    "updated_at": "2026-02-20T09:00:49"
+  },
+  {
+    "name": "daymon",
+    "full_name": "daymonio/daymon",
+    "description": "Daymon puts your favorite AI to work 24/7. It schedules, remembers, and orchestrates your own virtual team. Free.",
+    "url": "https://github.com/daymonio/daymon",
+    "stars": 218,
+    "daily_stars": 8,
     "language": "TypeScript",
     "topics": [
       "ai",
       "ai-agents",
-      "ai-skills",
-      "spec-driven-development"
+      "ai-assistant",
+      "automation",
+      "claude-code",
+      "claude-desktop",
+      "claude-skills",
+      "daemon",
+      "developer-tools",
+      "electron",
+      "linux",
+      "macos",
+      "mcp",
+      "mcp-server",
+      "open-source",
+      "productivity",
+      "sqlite",
+      "windows"
     ],
-    "created_at": "2026-02-06T09:47:40",
-    "updated_at": "2026-02-20T05:26:07"
+    "created_at": "2026-02-14T14:57:46",
+    "updated_at": "2026-02-20T09:05:03"
+  },
+  {
+    "name": "pi_agent_rust",
+    "full_name": "Dicklesworthstone/pi_agent_rust",
+    "description": "High-performance AI coding agent CLI written in Rust with zero unsafe code",
+    "url": "https://github.com/Dicklesworthstone/pi_agent_rust",
+    "stars": 186,
+    "daily_stars": 8,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "cli",
+      "developer-tools",
+      "rust"
+    ],
+    "created_at": "2026-02-02T20:58:01",
+    "updated_at": "2026-02-20T08:27:06"
+  },
+  {
+    "name": "OpenCode-Book",
+    "full_name": "0xtresser/OpenCode-Book",
+    "description": "《深入 OpenCode》。全网第一本介绍 OpenCode 的书，用 OpenCode + Opus 4.6 写成。A book introducing OpenCode, written by OpenCode + Opus 4.6 ",
+    "url": "https://github.com/0xtresser/OpenCode-Book",
+    "stars": 53,
+    "daily_stars": 6,
+    "language": null,
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "opencode"
+    ],
+    "created_at": "2026-02-19T07:49:04",
+    "updated_at": "2026-02-20T08:44:11"
+  },
+  {
+    "name": "maths-cs-ai-compendium",
+    "full_name": "HenryNdubuaku/maths-cs-ai-compendium",
+    "description": "Learn maths, computing, and artificial intelligence with intuition.",
+    "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+    "stars": 689,
+    "daily_stars": 6,
+    "language": null,
+    "topics": [
+      "algorithms",
+      "deep-learning",
+      "jax",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "math",
+      "mathematics",
+      "python"
+    ],
+    "created_at": "2026-02-03T16:28:18",
+    "updated_at": "2026-02-20T07:56:53"
+  },
+  {
+    "name": "NadirClaw",
+    "full_name": "doramirdor/NadirClaw",
+    "description": "Open-source LLM router that saves you money. Routes simple prompts to cheap/local models, complex ones to premium — automatically. OpenAI-compatible proxy.",
+    "url": "https://github.com/doramirdor/NadirClaw",
+    "stars": 121,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "api",
+      "cost-optimization",
+      "gemini",
+      "llm",
+      "llm-router",
+      "machine-learning",
+      "model-routing",
+      "ollama",
+      "openai",
+      "openclaw",
+      "proxy",
+      "python"
+    ],
+    "created_at": "2026-02-11T02:36:08",
+    "updated_at": "2026-02-20T08:38:25"
   }
 ]
