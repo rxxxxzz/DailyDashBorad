@@ -4,8 +4,8 @@
     "full_name": "gavrielc/nanoclaw",
     "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
     "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 10262,
-    "daily_stars": 216,
+    "stars": 10449,
+    "daily_stars": 187,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -15,15 +15,69 @@
       "clawdbot"
     ],
     "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-21T13:23:23"
+    "updated_at": "2026-02-21T16:55:27"
+  },
+  {
+    "name": "claude-emporium",
+    "full_name": "Vvkmnn/claude-emporium",
+    "description": "🏛 [UNDER CONSTRUCTION] A (roman) claude plugin marketplace ",
+    "url": "https://github.com/Vvkmnn/claude-emporium",
+    "stars": 92,
+    "daily_stars": 90,
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "automation",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "developer-tools",
+      "hooks",
+      "llm",
+      "marketplace",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "nodejs",
+      "plugin",
+      "typescript",
+      "workflow",
+      "zero-config"
+    ],
+    "created_at": "2026-02-04T04:03:13",
+    "updated_at": "2026-02-21T16:53:11"
+  },
+  {
+    "name": "Trellis",
+    "full_name": "mindfold-ai/Trellis",
+    "description": "All-in-one AI framework & toolkit for Claude Code & Cursor",
+    "url": "https://github.com/mindfold-ai/Trellis",
+    "stars": 2354,
+    "daily_stars": 24,
+    "language": "Shell",
+    "topics": [
+      "ai-agent",
+      "ai-coding",
+      "claude-code",
+      "cli",
+      "cursor",
+      "developer-tools",
+      "typescript",
+      "workflow"
+    ],
+    "created_at": "2026-01-26T11:49:10",
+    "updated_at": "2026-02-21T16:13:08"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 3140,
-    "daily_stars": 19,
+    "stars": 3163,
+    "daily_stars": 23,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -43,15 +97,49 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-21T12:58:27"
+    "updated_at": "2026-02-21T16:54:14"
+  },
+  {
+    "name": "openclaw-mission-control",
+    "full_name": "abhi1693/openclaw-mission-control",
+    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
+    "url": "https://github.com/abhi1693/openclaw-mission-control",
+    "stars": 371,
+    "daily_stars": 20,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "openclaw",
+      "orchestration"
+    ],
+    "created_at": "2026-02-01T16:53:45",
+    "updated_at": "2026-02-21T16:34:37"
+  },
+  {
+    "name": "pi_agent_rust",
+    "full_name": "Dicklesworthstone/pi_agent_rust",
+    "description": "High-performance AI coding agent CLI written in Rust with zero unsafe code",
+    "url": "https://github.com/Dicklesworthstone/pi_agent_rust",
+    "stars": 311,
+    "daily_stars": 20,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "cli",
+      "developer-tools",
+      "rust"
+    ],
+    "created_at": "2026-02-02T20:58:01",
+    "updated_at": "2026-02-21T16:41:00"
   },
   {
     "name": "plankton",
     "full_name": "alexfazio/plankton",
     "description": "real-time code quality enforcement for llm coding agents, built on Claude Code hooks. the agent can't proceed until the code passes. 8 languages, 20+ linters, config tamper-proofing",
     "url": "https://github.com/alexfazio/plankton",
-    "stars": 81,
-    "daily_stars": 16,
+    "stars": 93,
+    "daily_stars": 12,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -64,96 +152,30 @@
       "ruff"
     ],
     "created_at": "2026-02-06T07:32:10",
-    "updated_at": "2026-02-21T13:10:37"
+    "updated_at": "2026-02-21T16:37:21"
   },
   {
-    "name": "pi_agent_rust",
-    "full_name": "Dicklesworthstone/pi_agent_rust",
-    "description": "High-performance AI coding agent CLI written in Rust with zero unsafe code",
-    "url": "https://github.com/Dicklesworthstone/pi_agent_rust",
-    "stars": 291,
-    "daily_stars": 13,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "cli",
-      "developer-tools",
-      "rust"
-    ],
-    "created_at": "2026-02-02T20:58:01",
-    "updated_at": "2026-02-21T13:09:04"
-  },
-  {
-    "name": "openclaw-mission-control",
-    "full_name": "abhi1693/openclaw-mission-control",
-    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
-    "url": "https://github.com/abhi1693/openclaw-mission-control",
-    "stars": 351,
-    "daily_stars": 12,
+    "name": "moltworker",
+    "full_name": "cloudflare/moltworker",
+    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
+    "url": "https://github.com/cloudflare/moltworker",
+    "stars": 9034,
+    "daily_stars": 9,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "automation",
-      "openclaw",
-      "orchestration"
+      "cloudflare-workers"
     ],
-    "created_at": "2026-02-01T16:53:45",
-    "updated_at": "2026-02-21T12:56:58"
-  },
-  {
-    "name": "Trellis",
-    "full_name": "mindfold-ai/Trellis",
-    "description": "All-in-one AI framework & toolkit for Claude Code & Cursor",
-    "url": "https://github.com/mindfold-ai/Trellis",
-    "stars": 2330,
-    "daily_stars": 12,
-    "language": "Shell",
-    "topics": [
-      "ai-agent",
-      "ai-coding",
-      "claude-code",
-      "cli",
-      "cursor",
-      "developer-tools",
-      "typescript",
-      "workflow"
-    ],
-    "created_at": "2026-01-26T11:49:10",
-    "updated_at": "2026-02-21T13:22:12"
-  },
-  {
-    "name": "NadirClaw",
-    "full_name": "doramirdor/NadirClaw",
-    "description": "Open-source LLM router that saves you money. Routes simple prompts to cheap/local models, complex ones to premium — automatically. OpenAI-compatible proxy.",
-    "url": "https://github.com/doramirdor/NadirClaw",
-    "stars": 174,
-    "daily_stars": 10,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "api",
-      "cost-optimization",
-      "gemini",
-      "llm",
-      "llm-router",
-      "machine-learning",
-      "model-routing",
-      "ollama",
-      "openai",
-      "openclaw",
-      "proxy",
-      "python"
-    ],
-    "created_at": "2026-02-11T02:36:08",
-    "updated_at": "2026-02-21T12:40:37"
+    "created_at": "2026-01-27T11:09:39",
+    "updated_at": "2026-02-21T16:29:26"
   },
   {
     "name": "daymon",
     "full_name": "daymonio/daymon",
     "description": "Daymon puts your favorite AI to work 24/7. It schedules, remembers, and orchestrates your own virtual team. Free.",
     "url": "https://github.com/daymonio/daymon",
-    "stars": 279,
-    "daily_stars": 8,
+    "stars": 285,
+    "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -176,41 +198,30 @@
       "windows"
     ],
     "created_at": "2026-02-14T14:57:46",
-    "updated_at": "2026-02-21T13:07:52"
+    "updated_at": "2026-02-21T16:29:44"
   },
   {
-    "name": "clawe",
-    "full_name": "getclawe/clawe",
-    "description": "Multi-agent coordination system powered by OpenClaw. Good for automating weekly SEO review, editing, and publishing workflows for agencies.",
-    "url": "https://github.com/getclawe/clawe",
-    "stars": 533,
-    "daily_stars": 7,
-    "language": "TypeScript",
+    "name": "SILENTCHAIN",
+    "full_name": "silentchainai/SILENTCHAIN",
+    "description": "AI-powered vulnerability scanner extension for Burp Suite with multi-provider support (Ollama, OpenAI, Claude, Gemini)",
+    "url": "https://github.com/silentchainai/SILENTCHAIN",
+    "stars": 120,
+    "daily_stars": 5,
+    "language": "Python",
     "topics": [
-      "ai-agents",
-      "ai-assistant",
-      "claude-code",
-      "clawbot",
-      "openclaw"
+      "ai",
+      "appsec",
+      "artificial-intelligence",
+      "bug-bounty",
+      "burp-extension",
+      "burp-suite",
+      "owasp",
+      "penetration-testing",
+      "security",
+      "security-tools",
+      "vulnerability-scanner"
     ],
-    "created_at": "2026-02-02T14:35:09",
-    "updated_at": "2026-02-21T12:39:43"
-  },
-  {
-    "name": "overstory",
-    "full_name": "jayminwest/overstory",
-    "description": "Project-agnostic swarm system for Claude Code agent orchestration",
-    "url": "https://github.com/jayminwest/overstory",
-    "stars": 377,
-    "daily_stars": 7,
-    "language": "TypeScript",
-    "topics": [
-      "agent-swarms",
-      "ai-agents",
-      "claude-code",
-      "tmux"
-    ],
-    "created_at": "2026-02-12T14:53:58",
-    "updated_at": "2026-02-21T12:43:45"
+    "created_at": "2026-02-03T16:14:30",
+    "updated_at": "2026-02-21T14:21:52"
   }
 ]
