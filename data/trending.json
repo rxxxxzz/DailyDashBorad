@@ -4,8 +4,8 @@
     "full_name": "gavrielc/nanoclaw",
     "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
     "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 12556,
-    "daily_stars": 107,
+    "stars": 12732,
+    "daily_stars": 176,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -15,15 +15,15 @@
       "clawdbot"
     ],
     "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-23T05:46:50"
+    "updated_at": "2026-02-23T09:11:55"
   },
   {
     "name": "openclaw-mission-control",
     "full_name": "abhi1693/openclaw-mission-control",
     "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
     "url": "https://github.com/abhi1693/openclaw-mission-control",
-    "stars": 606,
-    "daily_stars": 16,
+    "stars": 637,
+    "daily_stars": 31,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -32,15 +32,51 @@
       "orchestration"
     ],
     "created_at": "2026-02-01T16:53:45",
-    "updated_at": "2026-02-23T05:38:22"
+    "updated_at": "2026-02-23T08:49:06"
+  },
+  {
+    "name": "aqua",
+    "full_name": "quailyquaily/aqua",
+    "description": "Aqua, a cli message tool for AI agents ",
+    "url": "https://github.com/quailyquaily/aqua",
+    "stars": 78,
+    "daily_stars": 31,
+    "language": "Go",
+    "topics": [
+      "agent-skills",
+      "agent-tools",
+      "ai-agents"
+    ],
+    "created_at": "2026-02-21T19:04:48",
+    "updated_at": "2026-02-23T09:09:24"
+  },
+  {
+    "name": "pantalk",
+    "full_name": "pantalk/pantalk",
+    "description": "Give your AI agent a voice on every chat platform.",
+    "url": "https://github.com/pantalk/pantalk",
+    "stars": 97,
+    "daily_stars": 15,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude",
+      "claude-co",
+      "codex",
+      "copilot",
+      "gemini"
+    ],
+    "created_at": "2026-02-16T11:15:16",
+    "updated_at": "2026-02-23T09:01:00"
   },
   {
     "name": "openbrowserclaw",
     "full_name": "sachaa/openbrowserclaw",
     "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server.",
     "url": "https://github.com/sachaa/openbrowserclaw",
-    "stars": 72,
-    "daily_stars": 14,
+    "stars": 85,
+    "daily_stars": 13,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -53,71 +89,15 @@
       "typescript"
     ],
     "created_at": "2026-02-21T20:52:49",
-    "updated_at": "2026-02-23T05:42:02"
-  },
-  {
-    "name": "moltworker",
-    "full_name": "cloudflare/moltworker",
-    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
-    "url": "https://github.com/cloudflare/moltworker",
-    "stars": 9092,
-    "daily_stars": 12,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "cloudflare-workers"
-    ],
-    "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-23T05:37:09"
-  },
-  {
-    "name": "pantalk",
-    "full_name": "pantalk/pantalk",
-    "description": "Give your AI agent a voice on every chat platform.",
-    "url": "https://github.com/pantalk/pantalk",
-    "stars": 82,
-    "daily_stars": 12,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "claude",
-      "claude-co",
-      "codex",
-      "copilot",
-      "gemini"
-    ],
-    "created_at": "2026-02-16T11:15:16",
-    "updated_at": "2026-02-23T05:39:44"
-  },
-  {
-    "name": "Trellis",
-    "full_name": "mindfold-ai/Trellis",
-    "description": "All-in-one AI framework & toolkit for Claude Code & Cursor",
-    "url": "https://github.com/mindfold-ai/Trellis",
-    "stars": 2471,
-    "daily_stars": 8,
-    "language": "Shell",
-    "topics": [
-      "ai-agent",
-      "ai-coding",
-      "claude-code",
-      "cli",
-      "cursor",
-      "developer-tools",
-      "typescript",
-      "workflow"
-    ],
-    "created_at": "2026-01-26T11:49:10",
-    "updated_at": "2026-02-23T05:47:56"
+    "updated_at": "2026-02-23T09:12:09"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 3328,
-    "daily_stars": 7,
+    "stars": 3339,
+    "daily_stars": 11,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -137,61 +117,97 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-23T05:02:25"
+    "updated_at": "2026-02-23T09:09:59"
   },
   {
-    "name": "awesome-claws",
-    "full_name": "machinae/awesome-claws",
-    "description": "A curated list of awesome AI agents inspired by OpenClaw",
-    "url": "https://github.com/machinae/awesome-claws",
-    "stars": 56,
-    "daily_stars": 6,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "awesome",
-      "awesome-list",
-      "openclaw"
-    ],
-    "created_at": "2026-02-19T17:14:57",
-    "updated_at": "2026-02-23T05:45:05"
-  },
-  {
-    "name": "maths-cs-ai-compendium",
-    "full_name": "HenryNdubuaku/maths-cs-ai-compendium",
-    "description": "Learn maths, computing, and artificial intelligence with intuition.",
-    "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-    "stars": 751,
-    "daily_stars": 6,
-    "language": null,
-    "topics": [
-      "algorithms",
-      "deep-learning",
-      "jax",
-      "machine-learning",
-      "machine-learning-algorithms",
-      "math",
-      "mathematics",
-      "python"
-    ],
-    "created_at": "2026-02-03T16:28:18",
-    "updated_at": "2026-02-23T05:24:34"
-  },
-  {
-    "name": "overstory",
-    "full_name": "jayminwest/overstory",
-    "description": "Project-agnostic swarm system for Claude Code agent orchestration",
-    "url": "https://github.com/jayminwest/overstory",
-    "stars": 434,
-    "daily_stars": 5,
+    "name": "moltworker",
+    "full_name": "cloudflare/moltworker",
+    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
+    "url": "https://github.com/cloudflare/moltworker",
+    "stars": 9100,
+    "daily_stars": 8,
     "language": "TypeScript",
     "topics": [
-      "agent-swarms",
       "ai-agents",
-      "claude-code",
-      "tmux"
+      "cloudflare-workers"
     ],
-    "created_at": "2026-02-12T14:53:58",
-    "updated_at": "2026-02-23T05:31:18"
+    "created_at": "2026-01-27T11:09:39",
+    "updated_at": "2026-02-23T08:03:02"
+  },
+  {
+    "name": "Trellis",
+    "full_name": "mindfold-ai/Trellis",
+    "description": "All-in-one AI framework & toolkit for Claude Code & Cursor",
+    "url": "https://github.com/mindfold-ai/Trellis",
+    "stars": 2479,
+    "daily_stars": 8,
+    "language": "Shell",
+    "topics": [
+      "ai-agent",
+      "ai-coding",
+      "claude-code",
+      "cli",
+      "cursor",
+      "developer-tools",
+      "typescript",
+      "workflow"
+    ],
+    "created_at": "2026-01-26T11:49:10",
+    "updated_at": "2026-02-23T08:41:41"
+  },
+  {
+    "name": "daymon",
+    "full_name": "daymonio/daymon",
+    "description": "Daymon puts your favorite AI to work 24/7. It schedules, remembers, and orchestrates your own virtual team. Free.",
+    "url": "https://github.com/daymonio/daymon",
+    "stars": 334,
+    "daily_stars": 7,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-assistant",
+      "automation",
+      "claude-code",
+      "claude-desktop",
+      "claude-skills",
+      "daemon",
+      "developer-tools",
+      "electron",
+      "linux",
+      "macos",
+      "mcp",
+      "mcp-server",
+      "open-source",
+      "productivity",
+      "sqlite",
+      "windows"
+    ],
+    "created_at": "2026-02-14T14:57:46",
+    "updated_at": "2026-02-23T09:04:57"
+  },
+  {
+    "name": "pocketpaw",
+    "full_name": "pocketpaw/pocketpaw",
+    "description": "Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source personal AI with desktop installer, multi-agent Command Center(Deep Work), and 7-layer security. Anthropic, OpenAI, or Ollama.Your Pocket Paw",
+    "url": "https://github.com/pocketpaw/pocketpaw",
+    "stars": 459,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "cli",
+      "jarvis-assistant",
+      "multi-agent-systems",
+      "ollama",
+      "open-source",
+      "personal-assistant",
+      "python",
+      "security",
+      "self-hosted",
+      "telegram-bot-ai-assistant"
+    ],
+    "created_at": "2026-02-02T19:48:57",
+    "updated_at": "2026-02-23T07:00:42"
   }
 ]
