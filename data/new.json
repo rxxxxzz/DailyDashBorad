@@ -4,8 +4,8 @@
     "full_name": "johannesjo/parallel-code",
     "description": "Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree",
     "url": "https://github.com/johannesjo/parallel-code",
-    "stars": 199,
-    "daily_stars": 5,
+    "stars": 209,
+    "daily_stars": 10,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -20,14 +20,14 @@
       "terminal"
     ],
     "created_at": "2026-02-18T09:53:27",
-    "updated_at": "2026-02-23T08:26:08"
+    "updated_at": "2026-02-23T13:46:59"
   },
   {
     "name": "conductor-orchestrator-superpowers",
     "full_name": "Ibrahim-3d/conductor-orchestrator-superpowers",
     "description": "Multi-agent orchestration system for Claude Code with parallel execution, automated quality gates, Board of Directors, and bundled Superpowers skills",
     "url": "https://github.com/Ibrahim-3d/conductor-orchestrator-superpowers",
-    "stars": 193,
+    "stars": 194,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -42,14 +42,14 @@
       "superpowers"
     ],
     "created_at": "2026-02-17T16:01:09",
-    "updated_at": "2026-02-23T07:08:50"
+    "updated_at": "2026-02-23T13:34:38"
   },
   {
     "name": "BMAD_Openclaw",
     "full_name": "ErwanLorteau/BMAD_Openclaw",
     "description": "Bridging the BMad Method to OpenClaw: 12-agent AI dev team using sessions_spawn",
     "url": "https://github.com/ErwanLorteau/BMAD_Openclaw",
-    "stars": 130,
+    "stars": 133,
     "daily_stars": 3,
     "language": null,
     "topics": [
@@ -61,14 +61,35 @@
       "sub-agents"
     ],
     "created_at": "2026-02-16T11:07:09",
-    "updated_at": "2026-02-23T09:01:49"
+    "updated_at": "2026-02-23T13:07:57"
+  },
+  {
+    "name": "openbrowserclaw",
+    "full_name": "sachaa/openbrowserclaw",
+    "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server.",
+    "url": "https://github.com/sachaa/openbrowserclaw",
+    "stars": 119,
+    "daily_stars": 34,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "ai-assistant",
+      "browser",
+      "claude",
+      "claw",
+      "openclaw",
+      "pwa",
+      "typescript"
+    ],
+    "created_at": "2026-02-21T20:52:49",
+    "updated_at": "2026-02-23T13:39:24"
   },
   {
     "name": "pantalk",
     "full_name": "pantalk/pantalk",
     "description": "Give your AI agent a voice on every chat platform.",
     "url": "https://github.com/pantalk/pantalk",
-    "stars": 97,
+    "stars": 112,
     "daily_stars": 15,
     "language": "Go",
     "topics": [
@@ -81,7 +102,23 @@
       "gemini"
     ],
     "created_at": "2026-02-16T11:15:16",
-    "updated_at": "2026-02-23T09:01:00"
+    "updated_at": "2026-02-23T13:37:36"
+  },
+  {
+    "name": "aqua",
+    "full_name": "quailyquaily/aqua",
+    "description": "Aqua, a cli message tool for AI agents ",
+    "url": "https://github.com/quailyquaily/aqua",
+    "stars": 106,
+    "daily_stars": 28,
+    "language": "Go",
+    "topics": [
+      "agent-skills",
+      "agent-tools",
+      "ai-agents"
+    ],
+    "created_at": "2026-02-21T19:04:48",
+    "updated_at": "2026-02-23T13:40:30"
   },
   {
     "name": "librarium",
@@ -89,7 +126,7 @@
     "description": "Multi-provider deep research CLI — fans out queries to multiple search/AI APIs in parallel",
     "url": "https://github.com/jkudish/librarium",
     "stars": 89,
-    "daily_stars": 4,
+    "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -105,7 +142,7 @@
       "search-engine"
     ],
     "created_at": "2026-02-20T18:24:21",
-    "updated_at": "2026-02-23T09:01:10"
+    "updated_at": "2026-02-23T13:41:25"
   },
   {
     "name": "CommonGround",
@@ -113,7 +150,7 @@
     "description": "The Sociotechnical OS for Multi-Agent Collaboration",
     "url": "https://github.com/Intelligent-Internet/CommonGround",
     "stars": 88,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "agents",
@@ -124,52 +161,15 @@
       "multiagent"
     ],
     "created_at": "2026-02-16T16:40:43",
-    "updated_at": "2026-02-23T06:55:25"
-  },
-  {
-    "name": "openbrowserclaw",
-    "full_name": "sachaa/openbrowserclaw",
-    "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server.",
-    "url": "https://github.com/sachaa/openbrowserclaw",
-    "stars": 85,
-    "daily_stars": 13,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "ai-assistant",
-      "browser",
-      "claude",
-      "claw",
-      "openclaw",
-      "pwa",
-      "typescript"
-    ],
-    "created_at": "2026-02-21T20:52:49",
-    "updated_at": "2026-02-23T09:12:09"
-  },
-  {
-    "name": "aqua",
-    "full_name": "quailyquaily/aqua",
-    "description": "Aqua, a cli message tool for AI agents ",
-    "url": "https://github.com/quailyquaily/aqua",
-    "stars": 78,
-    "daily_stars": 31,
-    "language": "Go",
-    "topics": [
-      "agent-skills",
-      "agent-tools",
-      "ai-agents"
-    ],
-    "created_at": "2026-02-21T19:04:48",
-    "updated_at": "2026-02-23T09:09:24"
+    "updated_at": "2026-02-23T12:07:29"
   },
   {
     "name": "OpenClaw-Book",
     "full_name": "0xtresser/OpenClaw-Book",
     "description": "《深入 OpenClaw》。全网第一本介绍 OpenClaw 的书，用 OpenClaw + OpenCode + Opus 4.6 写成。A book introducing OpenClaw, written by OpenClaw + OpenCode + Opus 4.6",
     "url": "https://github.com/0xtresser/OpenClaw-Book",
-    "stars": 75,
-    "daily_stars": 2,
+    "stars": 80,
+    "daily_stars": 5,
     "language": null,
     "topics": [
       "agent",
@@ -178,23 +178,35 @@
       "openclaw"
     ],
     "created_at": "2026-02-19T07:56:39",
-    "updated_at": "2026-02-23T07:52:29"
+    "updated_at": "2026-02-23T12:39:06"
   },
   {
-    "name": "OpenCode-Book",
-    "full_name": "0xtresser/OpenCode-Book",
-    "description": "《深入 OpenCode》。全网第一本介绍 OpenCode 的书，用 OpenCode + Opus 4.6 写成。A book introducing OpenCode, written by OpenCode + Opus 4.6 ",
-    "url": "https://github.com/0xtresser/OpenCode-Book",
-    "stars": 66,
-    "daily_stars": 0,
-    "language": null,
+    "name": "clawapp",
+    "full_name": "qingchencloud/clawapp",
+    "description": "📱 ClawApp — Mobile H5 chat client for OpenClaw AI Agent platform. 用手机和你的 AI 智能体聊天。",
+    "url": "https://github.com/qingchencloud/clawapp",
+    "stars": 67,
+    "daily_stars": 1,
+    "language": "JavaScript",
     "topics": [
-      "agent",
-      "ai",
       "ai-agents",
-      "opencode"
+      "ai-assistant",
+      "android",
+      "capacitor",
+      "chat-client",
+      "chinese",
+      "dark-mode",
+      "h5",
+      "i18n",
+      "markdown",
+      "mobile-chat",
+      "openclaw",
+      "pwa",
+      "self-hosted",
+      "streaming",
+      "websocket"
     ],
-    "created_at": "2026-02-19T07:49:04",
-    "updated_at": "2026-02-22T03:45:17"
+    "created_at": "2026-02-16T18:34:43",
+    "updated_at": "2026-02-23T12:49:22"
   }
 ]
