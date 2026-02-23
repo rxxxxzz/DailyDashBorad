@@ -4,8 +4,8 @@
     "full_name": "gavrielc/nanoclaw",
     "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
     "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 12924,
-    "daily_stars": 192,
+    "stars": 13090,
+    "daily_stars": 166,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -15,14 +15,14 @@
       "clawdbot"
     ],
     "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-23T13:45:46"
+    "updated_at": "2026-02-23T17:37:14"
   },
   {
     "name": "openclaw-mission-control",
     "full_name": "abhi1693/openclaw-mission-control",
     "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
     "url": "https://github.com/abhi1693/openclaw-mission-control",
-    "stars": 671,
+    "stars": 705,
     "daily_stars": 34,
     "language": "TypeScript",
     "topics": [
@@ -32,15 +32,15 @@
       "orchestration"
     ],
     "created_at": "2026-02-01T16:53:45",
-    "updated_at": "2026-02-23T13:36:36"
+    "updated_at": "2026-02-23T17:20:28"
   },
   {
     "name": "openbrowserclaw",
     "full_name": "sachaa/openbrowserclaw",
     "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server.",
     "url": "https://github.com/sachaa/openbrowserclaw",
-    "stars": 119,
-    "daily_stars": 34,
+    "stars": 137,
+    "daily_stars": 18,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -53,87 +53,15 @@
       "typescript"
     ],
     "created_at": "2026-02-21T20:52:49",
-    "updated_at": "2026-02-23T13:39:24"
-  },
-  {
-    "name": "aqua",
-    "full_name": "quailyquaily/aqua",
-    "description": "Aqua, a cli message tool for AI agents ",
-    "url": "https://github.com/quailyquaily/aqua",
-    "stars": 106,
-    "daily_stars": 28,
-    "language": "Go",
-    "topics": [
-      "agent-skills",
-      "agent-tools",
-      "ai-agents"
-    ],
-    "created_at": "2026-02-21T19:04:48",
-    "updated_at": "2026-02-23T13:40:30"
-  },
-  {
-    "name": "moltworker",
-    "full_name": "cloudflare/moltworker",
-    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
-    "url": "https://github.com/cloudflare/moltworker",
-    "stars": 9115,
-    "daily_stars": 15,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "cloudflare-workers"
-    ],
-    "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-23T13:40:38"
-  },
-  {
-    "name": "pantalk",
-    "full_name": "pantalk/pantalk",
-    "description": "Give your AI agent a voice on every chat platform.",
-    "url": "https://github.com/pantalk/pantalk",
-    "stars": 112,
-    "daily_stars": 15,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "claude",
-      "claude-co",
-      "codex",
-      "copilot",
-      "gemini"
-    ],
-    "created_at": "2026-02-16T11:15:16",
-    "updated_at": "2026-02-23T13:37:36"
-  },
-  {
-    "name": "maths-cs-ai-compendium",
-    "full_name": "HenryNdubuaku/maths-cs-ai-compendium",
-    "description": "Learn maths, computing, and artificial intelligence with intuition.",
-    "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-    "stars": 768,
-    "daily_stars": 12,
-    "language": null,
-    "topics": [
-      "algorithms",
-      "deep-learning",
-      "jax",
-      "machine-learning",
-      "machine-learning-algorithms",
-      "math",
-      "mathematics",
-      "python"
-    ],
-    "created_at": "2026-02-03T16:28:18",
-    "updated_at": "2026-02-23T13:22:16"
+    "updated_at": "2026-02-23T17:03:11"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 3350,
-    "daily_stars": 11,
+    "stars": 3367,
+    "daily_stars": 17,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -153,15 +81,88 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-23T13:46:26"
+    "updated_at": "2026-02-23T17:21:53"
+  },
+  {
+    "name": "aqua",
+    "full_name": "quailyquaily/aqua",
+    "description": "Aqua, a cli message tool for AI agents ",
+    "url": "https://github.com/quailyquaily/aqua",
+    "stars": 122,
+    "daily_stars": 16,
+    "language": "Go",
+    "topics": [
+      "agent-skills",
+      "agent-tools",
+      "ai-agents"
+    ],
+    "created_at": "2026-02-21T19:04:48",
+    "updated_at": "2026-02-23T17:35:40"
+  },
+  {
+    "name": "conductor-orchestrator-superpowers",
+    "full_name": "Ibrahim-3d/conductor-orchestrator-superpowers",
+    "description": "Multi-agent orchestration system for Claude Code with parallel execution, automated quality gates, Board of Directors, and bundled Superpowers skills",
+    "url": "https://github.com/Ibrahim-3d/conductor-orchestrator-superpowers",
+    "stars": 205,
+    "daily_stars": 11,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "evaluate-loop",
+      "multi-agent",
+      "orchestration",
+      "parallel-execution",
+      "superpowers"
+    ],
+    "created_at": "2026-02-17T16:01:09",
+    "updated_at": "2026-02-23T17:36:30"
+  },
+  {
+    "name": "pro-workflow",
+    "full_name": "rohitg00/pro-workflow",
+    "description": "Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.",
+    "url": "https://github.com/rohitg00/pro-workflow",
+    "stars": 956,
+    "daily_stars": 11,
+    "language": "JavaScript",
+    "topics": [
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claudecode",
+      "cursor",
+      "workflow"
+    ],
+    "created_at": "2026-02-01T19:47:29",
+    "updated_at": "2026-02-23T17:31:27"
+  },
+  {
+    "name": "clawd-cursor",
+    "full_name": "AmrDab/clawd-cursor",
+    "description": "AI desktop agent — sees your screen, controls your cursor, completes tasks autonomously.",
+    "url": "https://github.com/AmrDab/clawd-cursor",
+    "stars": 16,
+    "daily_stars": 9,
+    "language": "TypeScript",
+    "topics": [
+      "artificial-intelligence",
+      "openclaw-skill",
+      "opensource"
+    ],
+    "created_at": "2026-02-19T12:50:57",
+    "updated_at": "2026-02-23T16:20:43"
   },
   {
     "name": "Trellis",
     "full_name": "mindfold-ai/Trellis",
     "description": "All-in-one AI framework & toolkit for Claude Code & Cursor",
     "url": "https://github.com/mindfold-ai/Trellis",
-    "stars": 2490,
-    "daily_stars": 11,
+    "stars": 2499,
+    "daily_stars": 9,
     "language": "Shell",
     "topics": [
       "ai-agent",
@@ -174,29 +175,21 @@
       "workflow"
     ],
     "created_at": "2026-01-26T11:49:10",
-    "updated_at": "2026-02-23T13:37:22"
+    "updated_at": "2026-02-23T17:34:08"
   },
   {
-    "name": "parallel-code",
-    "full_name": "johannesjo/parallel-code",
-    "description": "Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree",
-    "url": "https://github.com/johannesjo/parallel-code",
-    "stars": 209,
-    "daily_stars": 10,
+    "name": "moltworker",
+    "full_name": "cloudflare/moltworker",
+    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
+    "url": "https://github.com/cloudflare/moltworker",
+    "stars": 9123,
+    "daily_stars": 8,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "ai-coding",
-      "ai-tools",
-      "claude-code",
-      "codex-cli",
-      "coding-agent",
-      "developer-tools",
-      "gemini-cli",
-      "git-worktree",
-      "terminal"
+      "cloudflare-workers"
     ],
-    "created_at": "2026-02-18T09:53:27",
-    "updated_at": "2026-02-23T13:46:59"
+    "created_at": "2026-01-27T11:09:39",
+    "updated_at": "2026-02-23T17:21:00"
   }
 ]
