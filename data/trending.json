@@ -4,8 +4,8 @@
     "full_name": "gavrielc/nanoclaw",
     "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
     "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 13600,
-    "daily_stars": 175,
+    "stars": 13742,
+    "daily_stars": 142,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -15,15 +15,32 @@
       "clawdbot"
     ],
     "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-24T09:25:07"
+    "updated_at": "2026-02-24T13:47:56"
+  },
+  {
+    "name": "openclaw-mission-control",
+    "full_name": "abhi1693/openclaw-mission-control",
+    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
+    "url": "https://github.com/abhi1693/openclaw-mission-control",
+    "stars": 813,
+    "daily_stars": 22,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "openclaw",
+      "orchestration"
+    ],
+    "created_at": "2026-02-01T16:53:45",
+    "updated_at": "2026-02-24T13:48:15"
   },
   {
     "name": "Trellis",
     "full_name": "mindfold-ai/Trellis",
     "description": "All-in-one AI framework & toolkit for Claude Code & Cursor",
     "url": "https://github.com/mindfold-ai/Trellis",
-    "stars": 2562,
-    "daily_stars": 36,
+    "stars": 2584,
+    "daily_stars": 22,
     "language": "Shell",
     "topics": [
       "ai-agent",
@@ -36,32 +53,15 @@
       "workflow"
     ],
     "created_at": "2026-01-26T11:49:10",
-    "updated_at": "2026-02-24T09:26:13"
-  },
-  {
-    "name": "openclaw-mission-control",
-    "full_name": "abhi1693/openclaw-mission-control",
-    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
-    "url": "https://github.com/abhi1693/openclaw-mission-control",
-    "stars": 791,
-    "daily_stars": 19,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "automation",
-      "openclaw",
-      "orchestration"
-    ],
-    "created_at": "2026-02-01T16:53:45",
-    "updated_at": "2026-02-24T09:22:25"
+    "updated_at": "2026-02-24T13:22:52"
   },
   {
     "name": "CountBot",
     "full_name": "countbot-ai/CountBot",
     "description": "专为个人用户打造的开源 AI Agent — 轻量、易用、中文优先 | 记忆系统 · 多渠道 · 技能插件 · 国产大模型深度适配",
     "url": "https://github.com/countbot-ai/CountBot",
-    "stars": 67,
-    "daily_stars": 17,
+    "stars": 80,
+    "daily_stars": 13,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -71,15 +71,15 @@
       "official"
     ],
     "created_at": "2026-02-19T03:22:11",
-    "updated_at": "2026-02-24T09:26:47"
+    "updated_at": "2026-02-24T13:44:49"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 3412,
-    "daily_stars": 15,
+    "stars": 3424,
+    "daily_stars": 12,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -99,83 +99,55 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-24T09:25:53"
+    "updated_at": "2026-02-24T13:37:33"
   },
   {
-    "name": "moltworker",
-    "full_name": "cloudflare/moltworker",
-    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
-    "url": "https://github.com/cloudflare/moltworker",
-    "stars": 9152,
-    "daily_stars": 12,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "cloudflare-workers"
-    ],
-    "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-24T08:49:31"
-  },
-  {
-    "name": "awesome-claws",
-    "full_name": "machinae/awesome-claws",
-    "description": "A curated list of awesome AI agents inspired by OpenClaw",
-    "url": "https://github.com/machinae/awesome-claws",
-    "stars": 87,
-    "daily_stars": 11,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "awesome",
-      "awesome-list",
-      "openclaw"
-    ],
-    "created_at": "2026-02-19T17:14:57",
-    "updated_at": "2026-02-24T09:18:21"
-  },
-  {
-    "name": "decapod",
-    "full_name": "DecapodLabs/decapod",
-    "description": "the local-first proof-gated control plane for multi-agent teams 🦀",
-    "url": "https://github.com/DecapodLabs/decapod",
-    "stars": 95,
+    "name": "aqua",
+    "full_name": "quailyquaily/aqua",
+    "description": "Aqua, a cli message tool for AI agents ",
+    "url": "https://github.com/quailyquaily/aqua",
+    "stars": 165,
     "daily_stars": 9,
-    "language": "Rust",
+    "language": "Go",
     "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "control-plane",
-      "kernel",
-      "orchestration",
-      "rust"
+      "agent-skills",
+      "agent-tools",
+      "ai-agents"
     ],
-    "created_at": "2026-02-11T11:00:58",
-    "updated_at": "2026-02-24T09:13:26"
+    "created_at": "2026-02-21T19:04:48",
+    "updated_at": "2026-02-24T12:45:39"
   },
   {
-    "name": "clawd-cursor",
-    "full_name": "AmrDab/clawd-cursor",
-    "description": "AI desktop agent — sees your screen, controls your cursor, completes tasks autonomously.",
-    "url": "https://github.com/AmrDab/clawd-cursor",
-    "stars": 34,
-    "daily_stars": 7,
-    "language": "TypeScript",
+    "name": "pocketpaw",
+    "full_name": "pocketpaw/pocketpaw",
+    "description": "Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source personal AI with desktop installer, multi-agent Command Center(Deep Work), and 7-layer security. Anthropic, OpenAI, or Ollama.Your Pocket Paw",
+    "url": "https://github.com/pocketpaw/pocketpaw",
+    "stars": 481,
+    "daily_stars": 6,
+    "language": "Python",
     "topics": [
-      "artificial-intelligence",
-      "openclaw-skill",
-      "opensource"
+      "ai-agents",
+      "cli",
+      "jarvis-assistant",
+      "multi-agent-systems",
+      "ollama",
+      "open-source",
+      "personal-assistant",
+      "python",
+      "security",
+      "self-hosted",
+      "telegram-bot-ai-assistant"
     ],
-    "created_at": "2026-02-19T12:50:57",
-    "updated_at": "2026-02-24T09:15:53"
+    "created_at": "2026-02-02T19:48:57",
+    "updated_at": "2026-02-24T13:33:10"
   },
   {
     "name": "openbrowserclaw",
     "full_name": "sachaa/openbrowserclaw",
     "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server.",
     "url": "https://github.com/sachaa/openbrowserclaw",
-    "stars": 170,
-    "daily_stars": 7,
+    "stars": 176,
+    "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -188,6 +160,47 @@
       "typescript"
     ],
     "created_at": "2026-02-21T20:52:49",
-    "updated_at": "2026-02-24T08:58:48"
+    "updated_at": "2026-02-24T13:30:26"
+  },
+  {
+    "name": "openclaw-dashboard",
+    "full_name": "mudrii/openclaw-dashboard",
+    "description": "A beautiful, zero-dependency command center for OpenClaw AI agents",
+    "url": "https://github.com/mudrii/openclaw-dashboard",
+    "stars": 103,
+    "daily_stars": 6,
+    "language": "HTML",
+    "topics": [
+      "ai-agents",
+      "cost-tracking",
+      "dashboard",
+      "monitoring",
+      "openclaw",
+      "python",
+      "token-usage",
+      "zero-dependency"
+    ],
+    "created_at": "2026-02-06T06:27:26",
+    "updated_at": "2026-02-24T13:12:32"
+  },
+  {
+    "name": "decapod",
+    "full_name": "DecapodLabs/decapod",
+    "description": "the local-first proof-gated control plane for multi-agent teams 🦀",
+    "url": "https://github.com/DecapodLabs/decapod",
+    "stars": 101,
+    "daily_stars": 6,
+    "language": "Rust",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "control-plane",
+      "kernel",
+      "orchestration",
+      "rust"
+    ],
+    "created_at": "2026-02-11T11:00:58",
+    "updated_at": "2026-02-24T13:11:13"
   }
 ]
