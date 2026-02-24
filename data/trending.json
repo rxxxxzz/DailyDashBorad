@@ -4,8 +4,8 @@
     "full_name": "gavrielc/nanoclaw",
     "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
     "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 13174,
-    "daily_stars": 84,
+    "stars": 13367,
+    "daily_stars": 193,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -15,15 +15,15 @@
       "clawdbot"
     ],
     "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-23T21:08:00"
+    "updated_at": "2026-02-24T03:18:47"
   },
   {
     "name": "openclaw-mission-control",
     "full_name": "abhi1693/openclaw-mission-control",
     "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
     "url": "https://github.com/abhi1693/openclaw-mission-control",
-    "stars": 726,
-    "daily_stars": 21,
+    "stars": 764,
+    "daily_stars": 38,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -32,15 +32,48 @@
       "orchestration"
     ],
     "created_at": "2026-02-01T16:53:45",
-    "updated_at": "2026-02-23T21:06:18"
+    "updated_at": "2026-02-24T03:13:48"
+  },
+  {
+    "name": "overstory",
+    "full_name": "jayminwest/overstory",
+    "description": "Project-agnostic swarm system for Claude Code agent orchestration",
+    "url": "https://github.com/jayminwest/overstory",
+    "stars": 464,
+    "daily_stars": 20,
+    "language": "TypeScript",
+    "topics": [
+      "agent-swarms",
+      "ai-agents",
+      "claude-code",
+      "tmux"
+    ],
+    "created_at": "2026-02-12T14:53:58",
+    "updated_at": "2026-02-24T02:59:50"
+  },
+  {
+    "name": "aqua",
+    "full_name": "quailyquaily/aqua",
+    "description": "Aqua, a cli message tool for AI agents ",
+    "url": "https://github.com/quailyquaily/aqua",
+    "stars": 145,
+    "daily_stars": 16,
+    "language": "Go",
+    "topics": [
+      "agent-skills",
+      "agent-tools",
+      "ai-agents"
+    ],
+    "created_at": "2026-02-21T19:04:48",
+    "updated_at": "2026-02-24T03:08:57"
   },
   {
     "name": "openbrowserclaw",
     "full_name": "sachaa/openbrowserclaw",
     "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server.",
     "url": "https://github.com/sachaa/openbrowserclaw",
-    "stars": 148,
-    "daily_stars": 11,
+    "stars": 162,
+    "daily_stars": 14,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -53,15 +86,15 @@
       "typescript"
     ],
     "created_at": "2026-02-21T20:52:49",
-    "updated_at": "2026-02-23T20:59:24"
+    "updated_at": "2026-02-24T03:13:35"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 3377,
-    "daily_stars": 10,
+    "stars": 3390,
+    "daily_stars": 13,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -81,68 +114,59 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-23T21:01:02"
+    "updated_at": "2026-02-24T03:13:44"
   },
   {
-    "name": "moltworker",
-    "full_name": "cloudflare/moltworker",
-    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
-    "url": "https://github.com/cloudflare/moltworker",
-    "stars": 9131,
-    "daily_stars": 8,
+    "name": "Trellis",
+    "full_name": "mindfold-ai/Trellis",
+    "description": "All-in-one AI framework & toolkit for Claude Code & Cursor",
+    "url": "https://github.com/mindfold-ai/Trellis",
+    "stars": 2515,
+    "daily_stars": 13,
+    "language": "Shell",
+    "topics": [
+      "ai-agent",
+      "ai-coding",
+      "claude-code",
+      "cli",
+      "cursor",
+      "developer-tools",
+      "typescript",
+      "workflow"
+    ],
+    "created_at": "2026-01-26T11:49:10",
+    "updated_at": "2026-02-24T03:18:06"
+  },
+  {
+    "name": "parallel-code",
+    "full_name": "johannesjo/parallel-code",
+    "description": "Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree",
+    "url": "https://github.com/johannesjo/parallel-code",
+    "stars": 229,
+    "daily_stars": 11,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "cloudflare-workers"
-    ],
-    "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-23T20:38:33"
-  },
-  {
-    "name": "conductor-orchestrator-superpowers",
-    "full_name": "Ibrahim-3d/conductor-orchestrator-superpowers",
-    "description": "Multi-agent orchestration system for Claude Code with parallel execution, automated quality gates, Board of Directors, and bundled Superpowers skills",
-    "url": "https://github.com/Ibrahim-3d/conductor-orchestrator-superpowers",
-    "stars": 212,
-    "daily_stars": 7,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "claude",
+      "ai-coding",
+      "ai-tools",
       "claude-code",
-      "claude-code-plugin",
-      "evaluate-loop",
-      "multi-agent",
-      "orchestration",
-      "parallel-execution",
-      "superpowers"
+      "codex-cli",
+      "coding-agent",
+      "developer-tools",
+      "gemini-cli",
+      "git-worktree",
+      "terminal"
     ],
-    "created_at": "2026-02-17T16:01:09",
-    "updated_at": "2026-02-23T21:05:12"
-  },
-  {
-    "name": "aqua",
-    "full_name": "quailyquaily/aqua",
-    "description": "Aqua, a cli message tool for AI agents ",
-    "url": "https://github.com/quailyquaily/aqua",
-    "stars": 129,
-    "daily_stars": 7,
-    "language": "Go",
-    "topics": [
-      "agent-skills",
-      "agent-tools",
-      "ai-agents"
-    ],
-    "created_at": "2026-02-21T19:04:48",
-    "updated_at": "2026-02-23T20:45:16"
+    "created_at": "2026-02-18T09:53:27",
+    "updated_at": "2026-02-24T02:54:29"
   },
   {
     "name": "pro-workflow",
     "full_name": "rohitg00/pro-workflow",
     "description": "Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.",
     "url": "https://github.com/rohitg00/pro-workflow",
-    "stars": 963,
-    "daily_stars": 7,
+    "stars": 974,
+    "daily_stars": 11,
     "language": "JavaScript",
     "topics": [
       "claude",
@@ -153,61 +177,34 @@
       "workflow"
     ],
     "created_at": "2026-02-01T19:47:29",
-    "updated_at": "2026-02-23T20:39:45"
+    "updated_at": "2026-02-24T02:48:29"
   },
   {
-    "name": "pocketpaw",
-    "full_name": "pocketpaw/pocketpaw",
-    "description": "Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source personal AI with desktop installer, multi-agent Command Center(Deep Work), and 7-layer security. Anthropic, OpenAI, or Ollama.Your Pocket Paw",
-    "url": "https://github.com/pocketpaw/pocketpaw",
-    "stars": 473,
-    "daily_stars": 6,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "cli",
-      "jarvis-assistant",
-      "multi-agent-systems",
-      "ollama",
-      "open-source",
-      "personal-assistant",
-      "python",
-      "security",
-      "self-hosted",
-      "telegram-bot-ai-assistant"
-    ],
-    "created_at": "2026-02-02T19:48:57",
-    "updated_at": "2026-02-23T21:07:31"
-  },
-  {
-    "name": "daymon",
-    "full_name": "daymonio/daymon",
-    "description": "Daymon puts your favorite AI to work 24/7. It schedules, remembers, and orchestrates your own virtual team. Free.",
-    "url": "https://github.com/daymonio/daymon",
-    "stars": 355,
-    "daily_stars": 5,
+    "name": "bunqueue",
+    "full_name": "egeominotti/bunqueue",
+    "description": "⚡ High-performance job queue for Bun. SQLite persistence, DLQ, cron jobs, S3 backups.  ",
+    "url": "https://github.com/egeominotti/bunqueue",
+    "stars": 302,
+    "daily_stars": 9,
     "language": "TypeScript",
     "topics": [
       "ai",
       "ai-agents",
-      "ai-assistant",
-      "automation",
-      "claude-code",
-      "claude-desktop",
-      "claude-skills",
-      "daemon",
-      "developer-tools",
-      "electron",
-      "linux",
-      "macos",
-      "mcp",
-      "mcp-server",
-      "open-source",
-      "productivity",
-      "sqlite",
-      "windows"
+      "ai-scheduler",
+      "background-jobs",
+      "bullmq-alternative",
+      "bun",
+      "bun-queue",
+      "cron-scheduler",
+      "job-queue",
+      "message-queue",
+      "queue",
+      "redis-alternative",
+      "s3",
+      "sqlite3",
+      "task-queue-typescript"
     ],
-    "created_at": "2026-02-14T14:57:46",
-    "updated_at": "2026-02-23T19:58:23"
+    "created_at": "2026-01-28T21:26:22",
+    "updated_at": "2026-02-24T02:45:39"
   }
 ]
