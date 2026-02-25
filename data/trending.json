@@ -4,8 +4,8 @@
     "full_name": "gavrielc/nanoclaw",
     "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
     "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 14573,
-    "daily_stars": 95,
+    "stars": 14634,
+    "daily_stars": 61,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -15,36 +15,59 @@
       "clawdbot"
     ],
     "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-25T17:31:02"
+    "updated_at": "2026-02-25T21:00:17"
   },
   {
-    "name": "openbrowserclaw",
-    "full_name": "sachaa/openbrowserclaw",
-    "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server.",
-    "url": "https://github.com/sachaa/openbrowserclaw",
-    "stars": 246,
-    "daily_stars": 47,
-    "language": "TypeScript",
+    "name": "forgemax",
+    "full_name": "postrv/forgemax",
+    "description": "Code Mode inspired local sandboxed MCP Gateway — collapses N servers x M tools into 2 tools (~1,000 tokens)",
+    "url": "https://github.com/postrv/forgemax",
+    "stars": 56,
+    "daily_stars": 13,
+    "language": "Rust",
     "topics": [
       "ai-agents",
-      "ai-assistant",
-      "browser",
-      "claude",
-      "claw",
-      "openclaw",
-      "pwa",
-      "typescript"
+      "ai-tools",
+      "gateway",
+      "mcp",
+      "mcp-gateway",
+      "mcp-server",
+      "mcp-servers",
+      "mcp-tools",
+      "tool-calling",
+      "tool-use"
     ],
-    "created_at": "2026-02-21T20:52:49",
-    "updated_at": "2026-02-25T17:30:51"
+    "created_at": "2026-02-23T23:58:24",
+    "updated_at": "2026-02-25T20:38:35"
+  },
+  {
+    "name": "claude-scholar",
+    "full_name": "Galaxy-Dawn/claude-scholar",
+    "description": "A comprehensive Claude Code configuration for data science, AI research, and academic writing. Streamline the complete research workflow—from idea to publication.",
+    "url": "https://github.com/Galaxy-Dawn/claude-scholar",
+    "stars": 767,
+    "daily_stars": 11,
+    "language": "Python",
+    "topics": [
+      "academic-research",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "mcp",
+      "paper-writing",
+      "zotero"
+    ],
+    "created_at": "2026-01-27T10:32:17",
+    "updated_at": "2026-02-25T20:44:19"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 3516,
-    "daily_stars": 19,
+    "stars": 3526,
+    "daily_stars": 10,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -64,53 +87,36 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-25T17:33:25"
+    "updated_at": "2026-02-25T20:44:25"
   },
   {
-    "name": "claude-scholar",
-    "full_name": "Galaxy-Dawn/claude-scholar",
-    "description": "A comprehensive Claude Code configuration for data science, AI research, and academic writing. Streamline the complete research workflow—from idea to publication.",
-    "url": "https://github.com/Galaxy-Dawn/claude-scholar",
-    "stars": 756,
-    "daily_stars": 13,
-    "language": "Python",
-    "topics": [
-      "academic-research",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "developer-tools",
-      "mcp",
-      "paper-writing",
-      "zotero"
-    ],
-    "created_at": "2026-01-27T10:32:17",
-    "updated_at": "2026-02-25T17:31:14"
-  },
-  {
-    "name": "openclaw-mission-control",
-    "full_name": "abhi1693/openclaw-mission-control",
-    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
-    "url": "https://github.com/abhi1693/openclaw-mission-control",
-    "stars": 901,
-    "daily_stars": 11,
+    "name": "openbrowserclaw",
+    "full_name": "sachaa/openbrowserclaw",
+    "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server.",
+    "url": "https://github.com/sachaa/openbrowserclaw",
+    "stars": 254,
+    "daily_stars": 8,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "automation",
+      "ai-assistant",
+      "browser",
+      "claude",
+      "claw",
       "openclaw",
-      "orchestration"
+      "pwa",
+      "typescript"
     ],
-    "created_at": "2026-02-01T16:53:45",
-    "updated_at": "2026-02-25T17:19:37"
+    "created_at": "2026-02-21T20:52:49",
+    "updated_at": "2026-02-25T21:00:19"
   },
   {
     "name": "real-world-rails",
     "full_name": "steveclarke/real-world-rails",
     "description": "200+ production open source Rails apps & engines in one repo. Search across real codebases with AI agents to research architectural patterns.",
     "url": "https://github.com/steveclarke/real-world-rails",
-    "stars": 267,
-    "daily_stars": 9,
+    "stars": 274,
+    "daily_stars": 7,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -122,15 +128,77 @@
       "ruby"
     ],
     "created_at": "2026-02-23T17:02:02",
-    "updated_at": "2026-02-25T16:55:15"
+    "updated_at": "2026-02-25T21:01:20"
+  },
+  {
+    "name": "claude-code",
+    "full_name": "video-db/claude-code",
+    "description": "VideoDB-powered pair programmer for Claude Code.",
+    "url": "https://github.com/video-db/claude-code",
+    "stars": 58,
+    "daily_stars": 7,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "ai-assisted-development",
+      "ai-coding",
+      "claude-code",
+      "claude-plugins",
+      "context",
+      "livestream",
+      "real-time",
+      "videodb"
+    ],
+    "created_at": "2026-02-10T05:43:03",
+    "updated_at": "2026-02-25T21:00:17"
+  },
+  {
+    "name": "moltworker",
+    "full_name": "cloudflare/moltworker",
+    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
+    "url": "https://github.com/cloudflare/moltworker",
+    "stars": 9199,
+    "daily_stars": 6,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "cloudflare-workers"
+    ],
+    "created_at": "2026-01-27T11:09:39",
+    "updated_at": "2026-02-25T20:39:37"
+  },
+  {
+    "name": "a11y-agent-team",
+    "full_name": "taylorarndt/a11y-agent-team",
+    "description": "Accessibility review agents for Claude Code, GitHub Copilot, and Claude Desktop. Eleven specialists that enforce WCAG 2.2 AA compliance so AI coding tools stop generating inaccessible code.",
+    "url": "https://github.com/taylorarndt/a11y-agent-team",
+    "stars": 54,
+    "daily_stars": 6,
+    "language": "JavaScript",
+    "topics": [
+      "a11y",
+      "accessibility",
+      "ai-agents",
+      "aria",
+      "assistive-technology",
+      "claude",
+      "claude-code",
+      "copilot",
+      "github-copilot",
+      "screen-reader",
+      "wcag",
+      "web-accessibility"
+    ],
+    "created_at": "2026-02-21T00:29:08",
+    "updated_at": "2026-02-25T20:58:43"
   },
   {
     "name": "ai-functions",
     "full_name": "strands-labs/ai-functions",
     "description": "Python functions powered by AI agents - with runtime post-conditions for reliable agentic workflows.",
     "url": "https://github.com/strands-labs/ai-functions",
-    "stars": 125,
-    "daily_stars": 9,
+    "stars": 131,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "agentic",
@@ -144,57 +212,6 @@
       "strands-labs"
     ],
     "created_at": "2026-02-10T21:21:15",
-    "updated_at": "2026-02-25T17:27:35"
-  },
-  {
-    "name": "Data_Science_Basics",
-    "full_name": "Abdulrahman-S-Asiri/Data_Science_Basics",
-    "description": "📊 Complete Data Science Guide — Bilingual (Arabic/English) — From Zero to Hero",
-    "url": "https://github.com/Abdulrahman-S-Asiri/Data_Science_Basics",
-    "stars": 16,
-    "daily_stars": 6,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "data-science",
-      "deep-learning",
-      "machine-learning",
-      "python"
-    ],
-    "created_at": "2026-02-24T21:55:54",
-    "updated_at": "2026-02-25T14:47:23"
-  },
-  {
-    "name": "nono",
-    "full_name": "lukehinds/nono",
-    "description": "all your base does belong to us. ",
-    "url": "https://github.com/lukehinds/nono",
-    "stars": 586,
-    "daily_stars": 5,
-    "language": "Rust",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "isolation",
-      "openclaw",
-      "sandbox",
-      "security"
-    ],
-    "created_at": "2026-01-31T09:25:45",
-    "updated_at": "2026-02-25T15:49:19"
-  },
-  {
-    "name": "moltworker",
-    "full_name": "cloudflare/moltworker",
-    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
-    "url": "https://github.com/cloudflare/moltworker",
-    "stars": 9193,
-    "daily_stars": 4,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "cloudflare-workers"
-    ],
-    "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-25T17:14:59"
+    "updated_at": "2026-02-25T20:46:35"
   }
 ]
