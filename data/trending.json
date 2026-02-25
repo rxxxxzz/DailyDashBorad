@@ -4,8 +4,8 @@
     "full_name": "gavrielc/nanoclaw",
     "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
     "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 14205,
-    "daily_stars": 83,
+    "stars": 14341,
+    "daily_stars": 136,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -15,106 +15,15 @@
       "clawdbot"
     ],
     "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-25T05:40:16"
-  },
-  {
-    "name": "pi_agent_rust",
-    "full_name": "Dicklesworthstone/pi_agent_rust",
-    "description": "High-performance AI coding agent CLI written in Rust with zero unsafe code",
-    "url": "https://github.com/Dicklesworthstone/pi_agent_rust",
-    "stars": 387,
-    "daily_stars": 10,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "cli",
-      "developer-tools",
-      "rust"
-    ],
-    "created_at": "2026-02-02T20:58:01",
-    "updated_at": "2026-02-25T05:19:40"
-  },
-  {
-    "name": "real-world-rails",
-    "full_name": "steveclarke/real-world-rails",
-    "description": "200+ production open source Rails apps & engines in one repo. Search across real codebases with AI agents to research architectural patterns.",
-    "url": "https://github.com/steveclarke/real-world-rails",
-    "stars": 237,
-    "daily_stars": 9,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
-      "code-patterns",
-      "learning",
-      "open-source",
-      "rails",
-      "real-world",
-      "ruby"
-    ],
-    "created_at": "2026-02-23T17:02:02",
-    "updated_at": "2026-02-25T05:40:06"
-  },
-  {
-    "name": "ai-functions",
-    "full_name": "strands-labs/ai-functions",
-    "description": "Python functions powered by AI agents - with runtime post-conditions for reliable agentic workflows.",
-    "url": "https://github.com/strands-labs/ai-functions",
-    "stars": 89,
-    "daily_stars": 9,
-    "language": "Python",
-    "topics": [
-      "agentic",
-      "agentic-ai",
-      "ai",
-      "genai",
-      "llm",
-      "machine-learning",
-      "python",
-      "strands-agents",
-      "strands-labs"
-    ],
-    "created_at": "2026-02-10T21:21:15",
-    "updated_at": "2026-02-25T05:21:11"
-  },
-  {
-    "name": "openclaw-mission-control",
-    "full_name": "abhi1693/openclaw-mission-control",
-    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
-    "url": "https://github.com/abhi1693/openclaw-mission-control",
-    "stars": 862,
-    "daily_stars": 8,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "automation",
-      "openclaw",
-      "orchestration"
-    ],
-    "created_at": "2026-02-01T16:53:45",
-    "updated_at": "2026-02-25T05:08:49"
-  },
-  {
-    "name": "moltworker",
-    "full_name": "cloudflare/moltworker",
-    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
-    "url": "https://github.com/cloudflare/moltworker",
-    "stars": 9176,
-    "daily_stars": 6,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "cloudflare-workers"
-    ],
-    "created_at": "2026-01-27T11:09:39",
-    "updated_at": "2026-02-25T05:29:01"
+    "updated_at": "2026-02-25T09:24:53"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 3453,
-    "daily_stars": 6,
+    "stars": 3485,
+    "daily_stars": 32,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -134,15 +43,90 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-25T05:25:36"
+    "updated_at": "2026-02-25T09:17:52"
+  },
+  {
+    "name": "openclaw-mission-control",
+    "full_name": "abhi1693/openclaw-mission-control",
+    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
+    "url": "https://github.com/abhi1693/openclaw-mission-control",
+    "stars": 874,
+    "daily_stars": 12,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "openclaw",
+      "orchestration"
+    ],
+    "created_at": "2026-02-01T16:53:45",
+    "updated_at": "2026-02-25T09:25:59"
+  },
+  {
+    "name": "pi_agent_rust",
+    "full_name": "Dicklesworthstone/pi_agent_rust",
+    "description": "High-performance AI coding agent CLI written in Rust with zero unsafe code",
+    "url": "https://github.com/Dicklesworthstone/pi_agent_rust",
+    "stars": 399,
+    "daily_stars": 12,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "cli",
+      "developer-tools",
+      "rust"
+    ],
+    "created_at": "2026-02-02T20:58:01",
+    "updated_at": "2026-02-25T09:04:38"
+  },
+  {
+    "name": "ai-functions",
+    "full_name": "strands-labs/ai-functions",
+    "description": "Python functions powered by AI agents - with runtime post-conditions for reliable agentic workflows.",
+    "url": "https://github.com/strands-labs/ai-functions",
+    "stars": 100,
+    "daily_stars": 11,
+    "language": "Python",
+    "topics": [
+      "agentic",
+      "agentic-ai",
+      "ai",
+      "genai",
+      "llm",
+      "machine-learning",
+      "python",
+      "strands-agents",
+      "strands-labs"
+    ],
+    "created_at": "2026-02-10T21:21:15",
+    "updated_at": "2026-02-25T08:52:11"
+  },
+  {
+    "name": "nono",
+    "full_name": "lukehinds/nono",
+    "description": "all your base does belong to us. ",
+    "url": "https://github.com/lukehinds/nono",
+    "stars": 575,
+    "daily_stars": 10,
+    "language": "Rust",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "isolation",
+      "openclaw",
+      "sandbox",
+      "security"
+    ],
+    "created_at": "2026-01-31T09:25:45",
+    "updated_at": "2026-02-25T09:23:49"
   },
   {
     "name": "claude-scholar",
     "full_name": "Galaxy-Dawn/claude-scholar",
     "description": "A comprehensive Claude Code configuration for data science, AI research, and academic writing. Streamline the complete research workflow—from idea to publication.",
     "url": "https://github.com/Galaxy-Dawn/claude-scholar",
-    "stars": 721,
-    "daily_stars": 5,
+    "stars": 730,
+    "daily_stars": 9,
     "language": "Python",
     "topics": [
       "academic-research",
@@ -155,38 +139,35 @@
       "zotero"
     ],
     "created_at": "2026-01-27T10:32:17",
-    "updated_at": "2026-02-25T05:16:06"
+    "updated_at": "2026-02-25T08:45:11"
   },
   {
-    "name": "tinyclaw",
-    "full_name": "warengonzaga/tinyclaw",
-    "description": "Your personal autonomous AI companion. 🐜",
-    "url": "https://github.com/warengonzaga/tinyclaw",
-    "stars": 95,
-    "daily_stars": 3,
-    "language": "TypeScript",
+    "name": "real-world-rails",
+    "full_name": "steveclarke/real-world-rails",
+    "description": "200+ production open source Rails apps & engines in one repo. Search across real codebases with AI agents to research architectural patterns.",
+    "url": "https://github.com/steveclarke/real-world-rails",
+    "stars": 243,
+    "daily_stars": 6,
+    "language": "Shell",
     "topics": [
-      "ai",
-      "ai-agent",
-      "ai-agent-framework",
-      "ai-assistant",
-      "ai-companion",
-      "artificial-intelligence",
-      "nanobot",
-      "nanoclaw",
-      "openclaw",
-      "tinyclaw"
+      "ai-agents",
+      "code-patterns",
+      "learning",
+      "open-source",
+      "rails",
+      "real-world",
+      "ruby"
     ],
-    "created_at": "2026-02-04T04:53:15",
-    "updated_at": "2026-02-25T05:28:00"
+    "created_at": "2026-02-23T17:02:02",
+    "updated_at": "2026-02-25T09:12:40"
   },
   {
     "name": "clawd-cursor",
     "full_name": "AmrDab/clawd-cursor",
     "description": "AI desktop agent — sees your screen, controls your cursor, completes tasks autonomously.",
     "url": "https://github.com/AmrDab/clawd-cursor",
-    "stars": 59,
-    "daily_stars": 3,
+    "stars": 64,
+    "daily_stars": 5,
     "language": "TypeScript",
     "topics": [
       "artificial-intelligence",
@@ -194,6 +175,21 @@
       "opensource"
     ],
     "created_at": "2026-02-19T12:50:57",
-    "updated_at": "2026-02-25T05:40:19"
+    "updated_at": "2026-02-25T09:16:22"
+  },
+  {
+    "name": "moltworker",
+    "full_name": "cloudflare/moltworker",
+    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers",
+    "url": "https://github.com/cloudflare/moltworker",
+    "stars": 9181,
+    "daily_stars": 5,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "cloudflare-workers"
+    ],
+    "created_at": "2026-01-27T11:09:39",
+    "updated_at": "2026-02-25T09:26:42"
   }
 ]
