@@ -1,11 +1,32 @@
 [
   {
+    "name": "openfang",
+    "full_name": "RightNow-AI/openfang",
+    "description": "Open-source Agent Operating System",
+    "url": "https://github.com/RightNow-AI/openfang",
+    "stars": 442,
+    "daily_stars": 357,
+    "language": "Rust",
+    "topics": [
+      "agent-framework",
+      "ai-agents",
+      "llm",
+      "mcp",
+      "open-source",
+      "openclaw",
+      "operating-system",
+      "rust"
+    ],
+    "created_at": "2026-02-24T23:12:38",
+    "updated_at": "2026-02-26T09:11:03"
+  },
+  {
     "name": "nanoclaw",
     "full_name": "gavrielc/nanoclaw",
     "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
     "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 14875,
-    "daily_stars": 80,
+    "stars": 14999,
+    "daily_stars": 124,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -15,36 +36,36 @@
       "clawdbot"
     ],
     "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-26T05:38:45"
+    "updated_at": "2026-02-26T09:10:48"
   },
   {
-    "name": "kongruity_",
-    "full_name": "kjannette/kongruity_",
-    "description": "kongruity leverages LLMs and cohesion scoring to transform unstructured creative-engineering process artifacts into actionable workflow plans.",
-    "url": "https://github.com/kjannette/kongruity_",
-    "stars": 197,
-    "daily_stars": 51,
-    "language": "JavaScript",
+    "name": "openbrowserclaw",
+    "full_name": "sachaa/openbrowserclaw",
+    "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server.",
+    "url": "https://github.com/sachaa/openbrowserclaw",
+    "stars": 318,
+    "daily_stars": 25,
+    "language": "TypeScript",
     "topics": [
-      "ai",
       "ai-agents",
-      "jira-integration",
-      "lllmops",
-      "llm-inference",
-      "project-management",
-      "rally-api",
-      "worflows"
+      "ai-assistant",
+      "browser",
+      "claude",
+      "claw",
+      "openclaw",
+      "pwa",
+      "typescript"
     ],
-    "created_at": "2026-02-11T16:27:41",
-    "updated_at": "2026-02-26T05:28:32"
+    "created_at": "2026-02-21T20:52:49",
+    "updated_at": "2026-02-26T09:08:39"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 3567,
-    "daily_stars": 15,
+    "stars": 3584,
+    "daily_stars": 17,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -64,36 +85,15 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-26T05:35:01"
-  },
-  {
-    "name": "openbrowserclaw",
-    "full_name": "sachaa/openbrowserclaw",
-    "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server.",
-    "url": "https://github.com/sachaa/openbrowserclaw",
-    "stars": 293,
-    "daily_stars": 8,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "ai-assistant",
-      "browser",
-      "claude",
-      "claw",
-      "openclaw",
-      "pwa",
-      "typescript"
-    ],
-    "created_at": "2026-02-21T20:52:49",
-    "updated_at": "2026-02-26T05:21:57"
+    "updated_at": "2026-02-26T09:08:43"
   },
   {
     "name": "pro-workflow",
     "full_name": "rohitg00/pro-workflow",
     "description": "Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.",
     "url": "https://github.com/rohitg00/pro-workflow",
-    "stars": 1018,
-    "daily_stars": 7,
+    "stars": 1026,
+    "daily_stars": 8,
     "language": "JavaScript",
     "topics": [
       "claude",
@@ -104,15 +104,50 @@
       "workflow"
     ],
     "created_at": "2026-02-01T19:47:29",
-    "updated_at": "2026-02-26T05:11:22"
+    "updated_at": "2026-02-26T09:08:49"
+  },
+  {
+    "name": "openclaw-mission-control",
+    "full_name": "abhi1693/openclaw-mission-control",
+    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
+    "url": "https://github.com/abhi1693/openclaw-mission-control",
+    "stars": 946,
+    "daily_stars": 7,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "openclaw",
+      "orchestration"
+    ],
+    "created_at": "2026-02-01T16:53:45",
+    "updated_at": "2026-02-26T08:37:18"
+  },
+  {
+    "name": "CountBot",
+    "full_name": "countbot-ai/CountBot",
+    "description": "专为个人用户打造的开源 AI Agent — 轻量、易用、中文优先 | 记忆系统 · 多渠道 · 技能插件 · 国产大模型深度适配",
+    "url": "https://github.com/countbot-ai/CountBot",
+    "stars": 120,
+    "daily_stars": 7,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-assisted",
+      "assistant",
+      "official"
+    ],
+    "created_at": "2026-02-19T03:22:11",
+    "updated_at": "2026-02-26T09:01:21"
   },
   {
     "name": "a11y-agent-team",
     "full_name": "taylorarndt/a11y-agent-team",
     "description": "Accessibility review agents for Claude Code, GitHub Copilot, and Claude Desktop. Eleven specialists that enforce WCAG 2.2 AA compliance so AI coding tools stop generating inaccessible code.",
     "url": "https://github.com/taylorarndt/a11y-agent-team",
-    "stars": 73,
-    "daily_stars": 6,
+    "stars": 80,
+    "daily_stars": 7,
     "language": "JavaScript",
     "topics": [
       "a11y",
@@ -129,82 +164,39 @@
       "web-accessibility"
     ],
     "created_at": "2026-02-21T00:29:08",
-    "updated_at": "2026-02-26T05:30:32"
+    "updated_at": "2026-02-26T08:31:19"
   },
   {
-    "name": "forgemax",
-    "full_name": "postrv/forgemax",
-    "description": "Code Mode inspired local sandboxed MCP Gateway — collapses N servers x M tools into 2 tools (~1,000 tokens)",
-    "url": "https://github.com/postrv/forgemax",
-    "stars": 72,
-    "daily_stars": 5,
-    "language": "Rust",
+    "name": "aqua",
+    "full_name": "quailyquaily/aqua",
+    "description": "Aqua, a cli message tool for AI agents ",
+    "url": "https://github.com/quailyquaily/aqua",
+    "stars": 203,
+    "daily_stars": 6,
+    "language": "Go",
     "topics": [
+      "agent-skills",
+      "agent-tools",
+      "ai-agents"
+    ],
+    "created_at": "2026-02-21T19:04:48",
+    "updated_at": "2026-02-26T09:06:18"
+  },
+  {
+    "name": "OpenClaw-Book",
+    "full_name": "0xtresser/OpenClaw-Book",
+    "description": "《深入 OpenClaw》。全网第一本介绍 OpenClaw 的书，用 OpenClaw + OpenCode + Opus 4.6 写成。A book introducing OpenClaw, written by OpenClaw + OpenCode + Opus 4.6",
+    "url": "https://github.com/0xtresser/OpenClaw-Book",
+    "stars": 102,
+    "daily_stars": 6,
+    "language": null,
+    "topics": [
+      "agent",
+      "ai",
       "ai-agents",
-      "ai-tools",
-      "gateway",
-      "mcp",
-      "mcp-gateway",
-      "mcp-server",
-      "mcp-servers",
-      "mcp-tools",
-      "tool-calling",
-      "tool-use"
+      "openclaw"
     ],
-    "created_at": "2026-02-23T23:58:24",
-    "updated_at": "2026-02-26T05:01:27"
-  },
-  {
-    "name": "openclaw-mission-control",
-    "full_name": "abhi1693/openclaw-mission-control",
-    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
-    "url": "https://github.com/abhi1693/openclaw-mission-control",
-    "stars": 939,
-    "daily_stars": 4,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "automation",
-      "openclaw",
-      "orchestration"
-    ],
-    "created_at": "2026-02-01T16:53:45",
-    "updated_at": "2026-02-26T04:44:19"
-  },
-  {
-    "name": "clawd-cursor",
-    "full_name": "AmrDab/clawd-cursor",
-    "description": "AI desktop agent — sees your screen, controls your cursor, completes tasks autonomously.",
-    "url": "https://github.com/AmrDab/clawd-cursor",
-    "stars": 81,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "artificial-intelligence",
-      "openclaw-skill",
-      "opensource"
-    ],
-    "created_at": "2026-02-19T12:50:57",
-    "updated_at": "2026-02-26T03:47:32"
-  },
-  {
-    "name": "real-world-rails",
-    "full_name": "steveclarke/real-world-rails",
-    "description": "200+ production open source Rails apps & engines in one repo. Search across real codebases with AI agents to research architectural patterns.",
-    "url": "https://github.com/steveclarke/real-world-rails",
-    "stars": 283,
-    "daily_stars": 3,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
-      "code-patterns",
-      "learning",
-      "open-source",
-      "rails",
-      "real-world",
-      "ruby"
-    ],
-    "created_at": "2026-02-23T17:02:02",
-    "updated_at": "2026-02-26T04:49:23"
+    "created_at": "2026-02-19T07:56:39",
+    "updated_at": "2026-02-26T08:58:46"
   }
 ]
