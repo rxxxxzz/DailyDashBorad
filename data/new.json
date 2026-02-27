@@ -4,8 +4,8 @@
     "full_name": "RightNow-AI/openfang",
     "description": "Open-source Agent Operating System",
     "url": "https://github.com/RightNow-AI/openfang",
-    "stars": 3113,
-    "daily_stars": 474,
+    "stars": 3431,
+    "daily_stars": 318,
     "language": "Rust",
     "topics": [
       "agent-framework",
@@ -18,15 +18,15 @@
       "rust"
     ],
     "created_at": "2026-02-24T23:12:38",
-    "updated_at": "2026-02-27T13:36:24"
+    "updated_at": "2026-02-27T17:02:21"
   },
   {
     "name": "openbrowserclaw",
     "full_name": "sachaa/openbrowserclaw",
     "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server.",
     "url": "https://github.com/sachaa/openbrowserclaw",
-    "stars": 383,
-    "daily_stars": 14,
+    "stars": 404,
+    "daily_stars": 21,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -39,15 +39,15 @@
       "typescript"
     ],
     "created_at": "2026-02-21T20:52:49",
-    "updated_at": "2026-02-27T13:26:32"
+    "updated_at": "2026-02-27T17:02:29"
   },
   {
     "name": "real-world-rails",
     "full_name": "steveclarke/real-world-rails",
     "description": "200+ production open source Rails apps & engines in one repo. Search across real codebases with AI agents to research architectural patterns.",
     "url": "https://github.com/steveclarke/real-world-rails",
-    "stars": 302,
-    "daily_stars": 3,
+    "stars": 319,
+    "daily_stars": 17,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -59,7 +59,7 @@
       "ruby"
     ],
     "created_at": "2026-02-23T17:02:02",
-    "updated_at": "2026-02-27T11:59:42"
+    "updated_at": "2026-02-27T16:58:06"
   },
   {
     "name": "aqua",
@@ -67,7 +67,7 @@
     "description": "Aqua, a cli message tool for AI agents ",
     "url": "https://github.com/quailyquaily/aqua",
     "stars": 220,
-    "daily_stars": 3,
+    "daily_stars": 0,
     "language": "Go",
     "topics": [
       "agent-skills",
@@ -82,7 +82,7 @@
     "full_name": "machinae/awesome-claws",
     "description": "A curated list of awesome AI agents inspired by OpenClaw",
     "url": "https://github.com/machinae/awesome-claws",
-    "stars": 125,
+    "stars": 126,
     "daily_stars": 1,
     "language": null,
     "topics": [
@@ -92,14 +92,14 @@
       "openclaw"
     ],
     "created_at": "2026-02-19T17:14:57",
-    "updated_at": "2026-02-27T11:24:11"
+    "updated_at": "2026-02-27T16:03:22"
   },
   {
     "name": "a11y-agent-team",
     "full_name": "taylorarndt/a11y-agent-team",
     "description": "Accessibility review agents for Claude Code, GitHub Copilot, and Claude Desktop. Eleven specialists that enforce WCAG 2.2 AA compliance so AI coding tools stop generating inaccessible code.",
     "url": "https://github.com/taylorarndt/a11y-agent-team",
-    "stars": 107,
+    "stars": 109,
     "daily_stars": 2,
     "language": "JavaScript",
     "topics": [
@@ -117,7 +117,7 @@
       "web-accessibility"
     ],
     "created_at": "2026-02-21T00:29:08",
-    "updated_at": "2026-02-27T12:19:45"
+    "updated_at": "2026-02-27T16:43:33"
   },
   {
     "name": "forgemax",
@@ -125,7 +125,7 @@
     "description": "Code Mode inspired local sandboxed MCP Gateway — collapses N servers x M tools into 2 tools (~1,000 tokens)",
     "url": "https://github.com/postrv/forgemax",
     "stars": 106,
-    "daily_stars": 4,
+    "daily_stars": 0,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -171,8 +171,8 @@
     "full_name": "thedaviddias/skill-check",
     "description": "Linter for agent skill files",
     "url": "https://github.com/thedaviddias/skill-check",
-    "stars": 52,
-    "daily_stars": 0,
+    "stars": 53,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -183,36 +183,36 @@
       "skills"
     ],
     "created_at": "2026-02-20T22:21:51",
-    "updated_at": "2026-02-27T05:38:19"
+    "updated_at": "2026-02-27T13:58:04"
   },
   {
-    "name": "openlegion",
-    "full_name": "openlegion-ai/openlegion",
-    "description": "Secure autonomous AI agent fleet platform — Docker-isolated, multi-provider, with built-in cost controls. OpenClaw alternative for production use.",
-    "url": "https://github.com/openlegion-ai/openlegion",
-    "stars": 51,
+    "name": "UNCASE",
+    "full_name": "uncase-ai/UNCASE",
+    "description": "Open-source framework for turning expert knowledge into PII-free synthetic conversational data and production-ready      LoRA adapters.",
+    "url": "https://github.com/uncase-ai/UNCASE",
+    "stars": 53,
     "daily_stars": 0,
     "language": "Python",
     "topics": [
-      "agent-framework",
-      "ai-agents",
-      "ai-assistant",
-      "ai-orchestration",
-      "ai-runtime",
-      "ai-runtime-security",
-      "autonomous-agents",
-      "docker-sandbox",
-      "llm-agents",
-      "memu",
-      "multi-agent",
-      "nanobot",
-      "nanoclaw",
-      "openclaw",
-      "openclaw-alternative",
-      "self-hosted",
-      "zeroclaw"
+      "compliance",
+      "dataset-generation",
+      "fastapi",
+      "fine-tuning",
+      "gdpr",
+      "health",
+      "legal",
+      "llm",
+      "lora",
+      "lora-adapters",
+      "machine-learning",
+      "open-source-framework",
+      "privacy-first",
+      "python",
+      "qlora",
+      "synthetic-data",
+      "synthetic-dataset-generation"
     ],
-    "created_at": "2026-02-19T16:35:14",
-    "updated_at": "2026-02-27T13:36:50"
+    "created_at": "2026-02-22T16:42:32",
+    "updated_at": "2026-02-27T14:55:26"
   }
 ]
