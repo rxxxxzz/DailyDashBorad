@@ -4,8 +4,8 @@
     "full_name": "RightNow-AI/openfang",
     "description": "Open-source Agent Operating System",
     "url": "https://github.com/RightNow-AI/openfang",
-    "stars": 2639,
-    "daily_stars": 300,
+    "stars": 3113,
+    "daily_stars": 474,
     "language": "Rust",
     "topics": [
       "agent-framework",
@@ -18,15 +18,15 @@
       "rust"
     ],
     "created_at": "2026-02-24T23:12:38",
-    "updated_at": "2026-02-27T09:04:09"
+    "updated_at": "2026-02-27T13:36:24"
   },
   {
     "name": "nanoclaw",
     "full_name": "gavrielc/nanoclaw",
     "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
     "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 15626,
-    "daily_stars": 177,
+    "stars": 15762,
+    "daily_stars": 136,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -36,15 +36,33 @@
       "clawdbot"
     ],
     "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-27T09:05:59"
+    "updated_at": "2026-02-27T13:35:51"
+  },
+  {
+    "name": "Product-Manager-Skills",
+    "full_name": "deanpeters/Product-Manager-Skills",
+    "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
+    "url": "https://github.com/deanpeters/Product-Manager-Skills",
+    "stars": 237,
+    "daily_stars": 50,
+    "language": "Shell",
+    "topics": [
+      "ai-agents",
+      "ai-product-management",
+      "claude-skills",
+      "pm-frameworks",
+      "product-management"
+    ],
+    "created_at": "2026-02-05T02:16:46",
+    "updated_at": "2026-02-27T13:34:44"
   },
   {
     "name": "stereOS",
     "full_name": "papercomputeco/stereOS",
     "description": "A Linux based operating system hardened and purpose built for AI agents",
     "url": "https://github.com/papercomputeco/stereOS",
-    "stars": 189,
-    "daily_stars": 45,
+    "stars": 236,
+    "daily_stars": 47,
     "language": "Nix",
     "topics": [
       "ai",
@@ -53,15 +71,53 @@
       "nixos"
     ],
     "created_at": "2026-02-04T20:48:37",
-    "updated_at": "2026-02-27T08:46:39"
+    "updated_at": "2026-02-27T13:35:52"
+  },
+  {
+    "name": "openclaw-mission-control",
+    "full_name": "abhi1693/openclaw-mission-control",
+    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
+    "url": "https://github.com/abhi1693/openclaw-mission-control",
+    "stars": 1011,
+    "daily_stars": 14,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "openclaw",
+      "orchestration"
+    ],
+    "created_at": "2026-02-01T16:53:45",
+    "updated_at": "2026-02-27T13:28:36"
+  },
+  {
+    "name": "openbrowserclaw",
+    "full_name": "sachaa/openbrowserclaw",
+    "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server.",
+    "url": "https://github.com/sachaa/openbrowserclaw",
+    "stars": 383,
+    "daily_stars": 14,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "ai-assistant",
+      "browser",
+      "claude",
+      "claw",
+      "openclaw",
+      "pwa",
+      "typescript"
+    ],
+    "created_at": "2026-02-21T20:52:49",
+    "updated_at": "2026-02-27T13:26:32"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 3654,
-    "daily_stars": 14,
+    "stars": 3667,
+    "daily_stars": 13,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -81,86 +137,64 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-27T08:59:06"
+    "updated_at": "2026-02-27T13:26:50"
   },
   {
-    "name": "Product-Manager-Skills",
-    "full_name": "deanpeters/Product-Manager-Skills",
-    "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
-    "url": "https://github.com/deanpeters/Product-Manager-Skills",
-    "stars": 187,
-    "daily_stars": 13,
-    "language": "Shell",
+    "name": "nono",
+    "full_name": "lukehinds/nono",
+    "description": "all your base does belong to us. ",
+    "url": "https://github.com/lukehinds/nono",
+    "stars": 633,
+    "daily_stars": 6,
+    "language": "Rust",
     "topics": [
+      "ai",
       "ai-agents",
-      "ai-product-management",
-      "claude-skills",
-      "pm-frameworks",
-      "product-management"
-    ],
-    "created_at": "2026-02-05T02:16:46",
-    "updated_at": "2026-02-27T09:03:45"
-  },
-  {
-    "name": "opencrew",
-    "full_name": "AlexAnys/opencrew",
-    "description": "Openclaw多智能体协同系统 | Multi-Agent OS for Decision Makers — 基于 OpenClaw (Clawbot) + Slack，让 AI 团队各司其职、自主稳定迭代。",
-    "url": "https://github.com/AlexAnys/opencrew",
-    "stars": 71,
-    "daily_stars": 9,
-    "language": "Shell",
-    "topics": [
-      "a2a-protocol",
-      "agent-deployment",
-      "agent-orchestration",
-      "ai-agents",
-      "ai-assistant",
-      "ai-productivity",
-      "ai-team",
-      "autonomous-agents",
-      "clawdbot",
-      "context-management",
-      "knowledge-management",
-      "llm",
-      "multi-agent",
-      "no-code",
+      "isolation",
       "openclaw",
-      "session-management",
-      "slack",
-      "slack-bot",
-      "team-management",
-      "workflow-automation"
+      "sandbox",
+      "security"
     ],
-    "created_at": "2026-02-08T02:46:16",
-    "updated_at": "2026-02-27T08:52:02"
+    "created_at": "2026-01-31T09:25:45",
+    "updated_at": "2026-02-27T12:39:41"
   },
   {
-    "name": "Chorus",
-    "full_name": "Chorus-AIDLC/Chorus",
-    "description": "AI Agent & Human collaboration platform implementing AI-DLC (AI-Driven Development Lifecycle) — AI proposes, humans verify.",
-    "url": "https://github.com/Chorus-AIDLC/Chorus",
-    "stars": 73,
-    "daily_stars": 7,
+    "name": "liliumai",
+    "full_name": "beidald/liliumai",
+    "description": "Lilium AI: The ultimate personal AI agent framework for autonomous computer control. Featuring browser automation, shell execution, and multi-channel integration (WeChat/Telegram/Discord).",
+    "url": "https://github.com/beidald/liliumai",
+    "stars": 81,
+    "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
+      "agent-framework",
+      "ai-agent",
       "ai-agents",
-      "ai-dlc",
-      "claude-code",
-      "kanban",
-      "multi-agent",
-      "swarm",
-      "task-management"
+      "automation",
+      "autonomous-agents",
+      "browser-automation",
+      "chatbot",
+      "llm",
+      "llm-productivity",
+      "local-ai",
+      "nodejs",
+      "ollama",
+      "openai",
+      "personal-assistant",
+      "typescript",
+      "wechaty",
+      "wechaty-robot"
     ],
-    "created_at": "2026-02-04T06:56:16",
-    "updated_at": "2026-02-27T08:06:46"
+    "created_at": "2026-02-16T02:44:35",
+    "updated_at": "2026-02-27T13:23:24"
   },
   {
     "name": "hypervault",
     "full_name": "Pardesco/hypervault",
     "description": "  3D cyberpunk city dashboard for Obsidian — visualize projects as buildings, monitor AI agents in real-time, launch Claude Code with a right-click",
     "url": "https://github.com/Pardesco/hypervault",
-    "stars": 49,
-    "daily_stars": 6,
+    "stars": 54,
+    "daily_stars": 5,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -174,48 +208,6 @@
       "typescript"
     ],
     "created_at": "2026-02-05T12:05:22",
-    "updated_at": "2026-02-27T08:48:52"
-  },
-  {
-    "name": "nono",
-    "full_name": "lukehinds/nono",
-    "description": "all your base does belong to us. ",
-    "url": "https://github.com/lukehinds/nono",
-    "stars": 627,
-    "daily_stars": 5,
-    "language": "Rust",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "isolation",
-      "openclaw",
-      "sandbox",
-      "security"
-    ],
-    "created_at": "2026-01-31T09:25:45",
-    "updated_at": "2026-02-27T08:46:40"
-  },
-  {
-    "name": "forgemax",
-    "full_name": "postrv/forgemax",
-    "description": "Code Mode inspired local sandboxed MCP Gateway — collapses N servers x M tools into 2 tools (~1,000 tokens)",
-    "url": "https://github.com/postrv/forgemax",
-    "stars": 102,
-    "daily_stars": 5,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "gateway",
-      "mcp",
-      "mcp-gateway",
-      "mcp-server",
-      "mcp-servers",
-      "mcp-tools",
-      "tool-calling",
-      "tool-use"
-    ],
-    "created_at": "2026-02-23T23:58:24",
-    "updated_at": "2026-02-27T08:42:52"
+    "updated_at": "2026-02-27T12:47:23"
   }
 ]
