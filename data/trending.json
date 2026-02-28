@@ -4,8 +4,8 @@
     "full_name": "RightNow-AI/openfang",
     "description": "Open-source Agent Operating System",
     "url": "https://github.com/RightNow-AI/openfang",
-    "stars": 4741,
-    "daily_stars": 322,
+    "stars": 5084,
+    "daily_stars": 343,
     "language": "Rust",
     "topics": [
       "agent-framework",
@@ -18,15 +18,15 @@
       "rust"
     ],
     "created_at": "2026-02-24T23:12:38",
-    "updated_at": "2026-02-28T13:11:20"
+    "updated_at": "2026-02-28T16:49:27"
   },
   {
     "name": "nanoclaw",
     "full_name": "gavrielc/nanoclaw",
     "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
     "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 16318,
-    "daily_stars": 116,
+    "stars": 16453,
+    "daily_stars": 135,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -36,41 +36,69 @@
       "clawdbot"
     ],
     "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-28T13:11:31"
+    "updated_at": "2026-02-28T16:48:42"
   },
   {
-    "name": "edict",
-    "full_name": "cft0808/edict",
-    "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
-    "url": "https://github.com/cft0808/edict",
-    "stars": 103,
-    "daily_stars": 25,
-    "language": "HTML",
+    "name": "openclaw-mission-control",
+    "full_name": "abhi1693/openclaw-mission-control",
+    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
+    "url": "https://github.com/abhi1693/openclaw-mission-control",
+    "stars": 1117,
+    "daily_stars": 14,
+    "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "ai-orchestration",
-      "autonomous-agents",
-      "claude",
-      "dashboard",
-      "kanban",
-      "llm",
-      "multi-agent",
-      "openai",
+      "automation",
       "openclaw",
-      "orchestration",
-      "python",
-      "workflow-automation"
+      "orchestration"
     ],
-    "created_at": "2026-02-23T14:35:04",
-    "updated_at": "2026-02-28T13:08:49"
+    "created_at": "2026-02-01T16:53:45",
+    "updated_at": "2026-02-28T16:42:32"
+  },
+  {
+    "name": "pro-workflow",
+    "full_name": "rohitg00/pro-workflow",
+    "description": "Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.",
+    "url": "https://github.com/rohitg00/pro-workflow",
+    "stars": 1090,
+    "daily_stars": 14,
+    "language": "JavaScript",
+    "topics": [
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claudecode",
+      "cursor",
+      "workflow"
+    ],
+    "created_at": "2026-02-01T19:47:29",
+    "updated_at": "2026-02-28T16:46:33"
+  },
+  {
+    "name": "Product-Manager-Skills",
+    "full_name": "deanpeters/Product-Manager-Skills",
+    "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
+    "url": "https://github.com/deanpeters/Product-Manager-Skills",
+    "stars": 483,
+    "daily_stars": 12,
+    "language": "Shell",
+    "topics": [
+      "ai-agents",
+      "ai-product-management",
+      "claude-skills",
+      "pm-frameworks",
+      "product-management"
+    ],
+    "created_at": "2026-02-05T02:16:46",
+    "updated_at": "2026-02-28T16:26:06"
   },
   {
     "name": "doc-to-lora",
     "full_name": "SakanaAI/doc-to-lora",
     "description": "Hypernetworks that update LLMs to remember factual information",
     "url": "https://github.com/SakanaAI/doc-to-lora",
-    "stars": 177,
-    "daily_stars": 21,
+    "stars": 188,
+    "daily_stars": 11,
     "language": "Python",
     "topics": [
       "ai",
@@ -83,48 +111,15 @@
       "memory"
     ],
     "created_at": "2026-02-11T10:11:52",
-    "updated_at": "2026-02-28T12:57:02"
-  },
-  {
-    "name": "openclaw-mission-control",
-    "full_name": "abhi1693/openclaw-mission-control",
-    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
-    "url": "https://github.com/abhi1693/openclaw-mission-control",
-    "stars": 1103,
-    "daily_stars": 16,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "automation",
-      "openclaw",
-      "orchestration"
-    ],
-    "created_at": "2026-02-01T16:53:45",
-    "updated_at": "2026-02-28T13:05:09"
-  },
-  {
-    "name": "middleman",
-    "full_name": "SawyerHood/middleman",
-    "description": null,
-    "url": "https://github.com/SawyerHood/middleman",
-    "stars": 75,
-    "daily_stars": 13,
-    "language": "TypeScript",
-    "topics": [
-      "agents",
-      "ai-agents",
-      "claude-code"
-    ],
-    "created_at": "2026-02-14T04:22:25",
-    "updated_at": "2026-02-28T13:07:38"
+    "updated_at": "2026-02-28T16:30:18"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 3701,
-    "daily_stars": 11,
+    "stars": 3708,
+    "daily_stars": 7,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -144,64 +139,72 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-28T12:51:45"
+    "updated_at": "2026-02-28T16:07:33"
   },
   {
-    "name": "openbrowserclaw",
-    "full_name": "sachaa/openbrowserclaw",
-    "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server.",
-    "url": "https://github.com/sachaa/openbrowserclaw",
-    "stars": 454,
-    "daily_stars": 10,
-    "language": "TypeScript",
+    "name": "git-lrc",
+    "full_name": "HexmosTech/git-lrc",
+    "description": "Free, Unlimited AI Code Reviews That Run on Commit",
+    "url": "https://github.com/HexmosTech/git-lrc",
+    "stars": 142,
+    "daily_stars": 6,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "code-review",
+      "commit",
+      "commit-message",
+      "gemini",
+      "git",
+      "vscode"
+    ],
+    "created_at": "2026-02-08T05:44:39",
+    "updated_at": "2026-02-28T16:16:40"
+  },
+  {
+    "name": "clawapp",
+    "full_name": "qingchencloud/clawapp",
+    "description": "📱 ClawApp — Mobile H5 chat client for OpenClaw AI Agent platform. 用手机和你的 AI 智能体聊天。",
+    "url": "https://github.com/qingchencloud/clawapp",
+    "stars": 106,
+    "daily_stars": 6,
+    "language": "JavaScript",
     "topics": [
       "ai-agents",
       "ai-assistant",
-      "browser",
-      "claude",
-      "claw",
+      "android",
+      "capacitor",
+      "chat-client",
+      "chinese",
+      "dark-mode",
+      "h5",
+      "i18n",
+      "markdown",
+      "mobile-chat",
       "openclaw",
       "pwa",
-      "typescript"
+      "self-hosted",
+      "streaming",
+      "websocket"
     ],
-    "created_at": "2026-02-21T20:52:49",
-    "updated_at": "2026-02-28T13:04:23"
+    "created_at": "2026-02-16T18:34:43",
+    "updated_at": "2026-02-28T16:40:38"
   },
   {
-    "name": "Product-Manager-Skills",
-    "full_name": "deanpeters/Product-Manager-Skills",
-    "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
-    "url": "https://github.com/deanpeters/Product-Manager-Skills",
-    "stars": 471,
-    "daily_stars": 9,
-    "language": "Shell",
+    "name": "middleman",
+    "full_name": "SawyerHood/middleman",
+    "description": null,
+    "url": "https://github.com/SawyerHood/middleman",
+    "stars": 81,
+    "daily_stars": 6,
+    "language": "TypeScript",
     "topics": [
+      "agents",
       "ai-agents",
-      "ai-product-management",
-      "claude-skills",
-      "pm-frameworks",
-      "product-management"
+      "claude-code"
     ],
-    "created_at": "2026-02-05T02:16:46",
-    "updated_at": "2026-02-28T13:07:50"
-  },
-  {
-    "name": "pro-workflow",
-    "full_name": "rohitg00/pro-workflow",
-    "description": "Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.",
-    "url": "https://github.com/rohitg00/pro-workflow",
-    "stars": 1076,
-    "daily_stars": 9,
-    "language": "JavaScript",
-    "topics": [
-      "claude",
-      "claude-ai",
-      "claude-code",
-      "claudecode",
-      "cursor",
-      "workflow"
-    ],
-    "created_at": "2026-02-01T19:47:29",
-    "updated_at": "2026-02-28T13:11:13"
+    "created_at": "2026-02-14T04:22:25",
+    "updated_at": "2026-02-28T16:00:43"
   }
 ]
