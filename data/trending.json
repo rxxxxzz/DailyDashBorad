@@ -4,8 +4,8 @@
     "full_name": "RightNow-AI/openfang",
     "description": "Open-source Agent Operating System",
     "url": "https://github.com/RightNow-AI/openfang",
-    "stars": 5084,
-    "daily_stars": 343,
+    "stars": 5379,
+    "daily_stars": 295,
     "language": "Rust",
     "topics": [
       "agent-framework",
@@ -18,15 +18,15 @@
       "rust"
     ],
     "created_at": "2026-02-24T23:12:38",
-    "updated_at": "2026-02-28T16:49:27"
+    "updated_at": "2026-02-28T20:47:28"
   },
   {
     "name": "nanoclaw",
     "full_name": "gavrielc/nanoclaw",
     "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
     "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 16453,
-    "daily_stars": 135,
+    "stars": 16534,
+    "daily_stars": 81,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -36,15 +36,15 @@
       "clawdbot"
     ],
     "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-28T16:48:42"
+    "updated_at": "2026-02-28T20:42:29"
   },
   {
     "name": "openclaw-mission-control",
     "full_name": "abhi1693/openclaw-mission-control",
     "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
     "url": "https://github.com/abhi1693/openclaw-mission-control",
-    "stars": 1117,
-    "daily_stars": 14,
+    "stars": 1138,
+    "daily_stars": 21,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -53,14 +53,14 @@
       "orchestration"
     ],
     "created_at": "2026-02-01T16:53:45",
-    "updated_at": "2026-02-28T16:42:32"
+    "updated_at": "2026-02-28T20:45:48"
   },
   {
     "name": "pro-workflow",
     "full_name": "rohitg00/pro-workflow",
     "description": "Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.",
     "url": "https://github.com/rohitg00/pro-workflow",
-    "stars": 1090,
+    "stars": 1104,
     "daily_stars": 14,
     "language": "JavaScript",
     "topics": [
@@ -72,14 +72,14 @@
       "workflow"
     ],
     "created_at": "2026-02-01T19:47:29",
-    "updated_at": "2026-02-28T16:46:33"
+    "updated_at": "2026-02-28T20:39:55"
   },
   {
     "name": "Product-Manager-Skills",
     "full_name": "deanpeters/Product-Manager-Skills",
     "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
     "url": "https://github.com/deanpeters/Product-Manager-Skills",
-    "stars": 483,
+    "stars": 495,
     "daily_stars": 12,
     "language": "Shell",
     "topics": [
@@ -90,36 +90,36 @@
       "product-management"
     ],
     "created_at": "2026-02-05T02:16:46",
-    "updated_at": "2026-02-28T16:26:06"
+    "updated_at": "2026-02-28T19:48:30"
   },
   {
-    "name": "doc-to-lora",
-    "full_name": "SakanaAI/doc-to-lora",
-    "description": "Hypernetworks that update LLMs to remember factual information",
-    "url": "https://github.com/SakanaAI/doc-to-lora",
-    "stars": 188,
+    "name": "ClawBio",
+    "full_name": "ClawBio/ClawBio",
+    "description": "🦖 ClawBio — The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw.",
+    "url": "https://github.com/ClawBio/ClawBio",
+    "stars": 61,
     "daily_stars": 11,
     "language": "Python",
     "topics": [
-      "ai",
-      "ai-agent",
-      "hypernetworks",
-      "llm",
-      "llm-agent",
-      "lora",
-      "machine-learning",
-      "memory"
+      "ai-agents",
+      "bioinformatics",
+      "equity",
+      "genomics",
+      "local-first",
+      "openclaw",
+      "population-genetics",
+      "reproducibility"
     ],
-    "created_at": "2026-02-11T10:11:52",
-    "updated_at": "2026-02-28T16:30:18"
+    "created_at": "2026-02-25T17:43:22",
+    "updated_at": "2026-02-28T20:45:53"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 3708,
-    "daily_stars": 7,
+    "stars": 3717,
+    "daily_stars": 9,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -139,72 +139,66 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-28T16:07:33"
+    "updated_at": "2026-02-28T20:39:25"
   },
   {
-    "name": "git-lrc",
-    "full_name": "HexmosTech/git-lrc",
-    "description": "Free, Unlimited AI Code Reviews That Run on Commit",
-    "url": "https://github.com/HexmosTech/git-lrc",
-    "stars": 142,
-    "daily_stars": 6,
-    "language": "Go",
+    "name": "plankton",
+    "full_name": "alexfazio/plankton",
+    "description": "real-time code quality enforcement for llm coding agents, built on Claude Code hooks. the agent can't proceed until the code passes. 8 languages, 20+ linters, config tamper-proofing",
+    "url": "https://github.com/alexfazio/plankton",
+    "stars": 194,
+    "daily_stars": 9,
+    "language": "Shell",
+    "topics": [
+      "ai-agents",
+      "biome",
+      "claude-code",
+      "code-quality",
+      "developer-tools",
+      "hooks",
+      "linting",
+      "ruff"
+    ],
+    "created_at": "2026-02-06T07:32:10",
+    "updated_at": "2026-02-28T20:33:08"
+  },
+  {
+    "name": "doc-to-lora",
+    "full_name": "SakanaAI/doc-to-lora",
+    "description": "Hypernetworks that update LLMs to remember factual information",
+    "url": "https://github.com/SakanaAI/doc-to-lora",
+    "stars": 197,
+    "daily_stars": 9,
+    "language": "Python",
     "topics": [
       "ai",
-      "ai-agents",
-      "code-review",
-      "commit",
-      "commit-message",
-      "gemini",
-      "git",
-      "vscode"
+      "ai-agent",
+      "hypernetworks",
+      "llm",
+      "llm-agent",
+      "lora",
+      "machine-learning",
+      "memory"
     ],
-    "created_at": "2026-02-08T05:44:39",
-    "updated_at": "2026-02-28T16:16:40"
+    "created_at": "2026-02-11T10:11:52",
+    "updated_at": "2026-02-28T20:37:17"
   },
   {
-    "name": "clawapp",
-    "full_name": "qingchencloud/clawapp",
-    "description": "📱 ClawApp — Mobile H5 chat client for OpenClaw AI Agent platform. 用手机和你的 AI 智能体聊天。",
-    "url": "https://github.com/qingchencloud/clawapp",
-    "stars": 106,
-    "daily_stars": 6,
-    "language": "JavaScript",
+    "name": "neural-open.nvim",
+    "full_name": "dtormoen/neural-open.nvim",
+    "description": "A smart picker for Snacks.nvim that trains a neural network with your file picking preferences.",
+    "url": "https://github.com/dtormoen/neural-open.nvim",
+    "stars": 15,
+    "daily_stars": 9,
+    "language": "Lua",
     "topics": [
-      "ai-agents",
-      "ai-assistant",
-      "android",
-      "capacitor",
-      "chat-client",
-      "chinese",
-      "dark-mode",
-      "h5",
-      "i18n",
-      "markdown",
-      "mobile-chat",
-      "openclaw",
-      "pwa",
-      "self-hosted",
-      "streaming",
-      "websocket"
+      "lua",
+      "machine-learning",
+      "neovim",
+      "neovim-plugin",
+      "snacks-nvim"
     ],
-    "created_at": "2026-02-16T18:34:43",
-    "updated_at": "2026-02-28T16:40:38"
-  },
-  {
-    "name": "middleman",
-    "full_name": "SawyerHood/middleman",
-    "description": null,
-    "url": "https://github.com/SawyerHood/middleman",
-    "stars": 81,
-    "daily_stars": 6,
-    "language": "TypeScript",
-    "topics": [
-      "agents",
-      "ai-agents",
-      "claude-code"
-    ],
-    "created_at": "2026-02-14T04:22:25",
-    "updated_at": "2026-02-28T16:00:43"
+    "created_at": "2026-02-24T22:06:41",
+    "updated_at": "2026-02-28T19:43:56"
   }
 ]
