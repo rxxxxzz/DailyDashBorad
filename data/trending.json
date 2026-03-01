@@ -4,8 +4,8 @@
     "full_name": "RightNow-AI/openfang",
     "description": "Open-source Agent Operating System",
     "url": "https://github.com/RightNow-AI/openfang",
-    "stars": 5379,
-    "daily_stars": 295,
+    "stars": 5836,
+    "daily_stars": 457,
     "language": "Rust",
     "topics": [
       "agent-framework",
@@ -18,15 +18,15 @@
       "rust"
     ],
     "created_at": "2026-02-24T23:12:38",
-    "updated_at": "2026-02-28T20:47:28"
+    "updated_at": "2026-03-01T03:26:37"
   },
   {
     "name": "nanoclaw",
     "full_name": "gavrielc/nanoclaw",
     "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
     "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 16534,
-    "daily_stars": 81,
+    "stars": 16639,
+    "daily_stars": 105,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -36,32 +36,15 @@
       "clawdbot"
     ],
     "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-02-28T20:42:29"
-  },
-  {
-    "name": "openclaw-mission-control",
-    "full_name": "abhi1693/openclaw-mission-control",
-    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
-    "url": "https://github.com/abhi1693/openclaw-mission-control",
-    "stars": 1138,
-    "daily_stars": 21,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "automation",
-      "openclaw",
-      "orchestration"
-    ],
-    "created_at": "2026-02-01T16:53:45",
-    "updated_at": "2026-02-28T20:45:48"
+    "updated_at": "2026-03-01T03:26:39"
   },
   {
     "name": "pro-workflow",
     "full_name": "rohitg00/pro-workflow",
     "description": "Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.",
     "url": "https://github.com/rohitg00/pro-workflow",
-    "stars": 1104,
-    "daily_stars": 14,
+    "stars": 1133,
+    "daily_stars": 29,
     "language": "JavaScript",
     "topics": [
       "claude",
@@ -72,15 +55,15 @@
       "workflow"
     ],
     "created_at": "2026-02-01T19:47:29",
-    "updated_at": "2026-02-28T20:39:55"
+    "updated_at": "2026-03-01T03:22:11"
   },
   {
     "name": "Product-Manager-Skills",
     "full_name": "deanpeters/Product-Manager-Skills",
     "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
     "url": "https://github.com/deanpeters/Product-Manager-Skills",
-    "stars": 495,
-    "daily_stars": 12,
+    "stars": 514,
+    "daily_stars": 19,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -90,15 +73,80 @@
       "product-management"
     ],
     "created_at": "2026-02-05T02:16:46",
-    "updated_at": "2026-02-28T19:48:30"
+    "updated_at": "2026-03-01T03:21:28"
+  },
+  {
+    "name": "openclaw-mission-control",
+    "full_name": "abhi1693/openclaw-mission-control",
+    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
+    "url": "https://github.com/abhi1693/openclaw-mission-control",
+    "stars": 1156,
+    "daily_stars": 18,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "openclaw",
+      "orchestration"
+    ],
+    "created_at": "2026-02-01T16:53:45",
+    "updated_at": "2026-03-01T03:19:48"
+  },
+  {
+    "name": "liliumai",
+    "full_name": "beidald/liliumai",
+    "description": "Lilium AI: The ultimate personal AI agent framework for autonomous computer control. Featuring browser automation, shell execution, and multi-channel integration (WeChat/Telegram/Discord).",
+    "url": "https://github.com/beidald/liliumai",
+    "stars": 117,
+    "daily_stars": 10,
+    "language": "TypeScript",
+    "topics": [
+      "agent-framework",
+      "ai-agent",
+      "ai-agents",
+      "automation",
+      "autonomous-agents",
+      "browser-automation",
+      "chatbot",
+      "llm",
+      "llm-productivity",
+      "local-ai",
+      "nodejs",
+      "ollama",
+      "openai",
+      "personal-assistant",
+      "typescript",
+      "wechaty",
+      "wechaty-robot"
+    ],
+    "created_at": "2026-02-16T02:44:35",
+    "updated_at": "2026-03-01T02:47:41"
+  },
+  {
+    "name": "neural-open.nvim",
+    "full_name": "dtormoen/neural-open.nvim",
+    "description": "A smart picker for Snacks.nvim that trains a neural network with your file picking preferences.",
+    "url": "https://github.com/dtormoen/neural-open.nvim",
+    "stars": 24,
+    "daily_stars": 9,
+    "language": "Lua",
+    "topics": [
+      "lua",
+      "machine-learning",
+      "neovim",
+      "neovim-plugin",
+      "snacks-nvim"
+    ],
+    "created_at": "2026-02-24T22:06:41",
+    "updated_at": "2026-03-01T02:41:24"
   },
   {
     "name": "ClawBio",
     "full_name": "ClawBio/ClawBio",
     "description": "🦖 ClawBio — The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw.",
     "url": "https://github.com/ClawBio/ClawBio",
-    "stars": 61,
-    "daily_stars": 11,
+    "stars": 68,
+    "daily_stars": 7,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -111,15 +159,36 @@
       "reproducibility"
     ],
     "created_at": "2026-02-25T17:43:22",
-    "updated_at": "2026-02-28T20:45:53"
+    "updated_at": "2026-03-01T01:59:01"
+  },
+  {
+    "name": "doc-to-lora",
+    "full_name": "SakanaAI/doc-to-lora",
+    "description": "Hypernetworks that update LLMs to remember factual information",
+    "url": "https://github.com/SakanaAI/doc-to-lora",
+    "stars": 204,
+    "daily_stars": 7,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "hypernetworks",
+      "llm",
+      "llm-agent",
+      "lora",
+      "machine-learning",
+      "memory"
+    ],
+    "created_at": "2026-02-11T10:11:52",
+    "updated_at": "2026-03-01T02:42:26"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 3717,
-    "daily_stars": 9,
+    "stars": 3723,
+    "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -139,66 +208,6 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-02-28T20:39:25"
-  },
-  {
-    "name": "plankton",
-    "full_name": "alexfazio/plankton",
-    "description": "real-time code quality enforcement for llm coding agents, built on Claude Code hooks. the agent can't proceed until the code passes. 8 languages, 20+ linters, config tamper-proofing",
-    "url": "https://github.com/alexfazio/plankton",
-    "stars": 194,
-    "daily_stars": 9,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
-      "biome",
-      "claude-code",
-      "code-quality",
-      "developer-tools",
-      "hooks",
-      "linting",
-      "ruff"
-    ],
-    "created_at": "2026-02-06T07:32:10",
-    "updated_at": "2026-02-28T20:33:08"
-  },
-  {
-    "name": "doc-to-lora",
-    "full_name": "SakanaAI/doc-to-lora",
-    "description": "Hypernetworks that update LLMs to remember factual information",
-    "url": "https://github.com/SakanaAI/doc-to-lora",
-    "stars": 197,
-    "daily_stars": 9,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "hypernetworks",
-      "llm",
-      "llm-agent",
-      "lora",
-      "machine-learning",
-      "memory"
-    ],
-    "created_at": "2026-02-11T10:11:52",
-    "updated_at": "2026-02-28T20:37:17"
-  },
-  {
-    "name": "neural-open.nvim",
-    "full_name": "dtormoen/neural-open.nvim",
-    "description": "A smart picker for Snacks.nvim that trains a neural network with your file picking preferences.",
-    "url": "https://github.com/dtormoen/neural-open.nvim",
-    "stars": 15,
-    "daily_stars": 9,
-    "language": "Lua",
-    "topics": [
-      "lua",
-      "machine-learning",
-      "neovim",
-      "neovim-plugin",
-      "snacks-nvim"
-    ],
-    "created_at": "2026-02-24T22:06:41",
-    "updated_at": "2026-02-28T19:43:56"
+    "updated_at": "2026-03-01T03:13:13"
   }
 ]
