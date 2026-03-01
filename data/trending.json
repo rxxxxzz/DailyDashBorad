@@ -4,8 +4,8 @@
     "full_name": "RightNow-AI/openfang",
     "description": "Open-source Agent Operating System",
     "url": "https://github.com/RightNow-AI/openfang",
-    "stars": 6007,
-    "daily_stars": 171,
+    "stars": 6282,
+    "daily_stars": 275,
     "language": "Rust",
     "topics": [
       "agent-framework",
@@ -18,15 +18,15 @@
       "rust"
     ],
     "created_at": "2026-02-24T23:12:38",
-    "updated_at": "2026-03-01T05:33:10"
+    "updated_at": "2026-03-01T08:53:20"
   },
   {
     "name": "nanoclaw",
     "full_name": "gavrielc/nanoclaw",
     "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
     "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 16678,
-    "daily_stars": 39,
+    "stars": 16738,
+    "daily_stars": 60,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -36,15 +36,34 @@
       "clawdbot"
     ],
     "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-03-01T05:29:59"
+    "updated_at": "2026-03-01T08:52:12"
+  },
+  {
+    "name": "pro-workflow",
+    "full_name": "rohitg00/pro-workflow",
+    "description": "Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.",
+    "url": "https://github.com/rohitg00/pro-workflow",
+    "stars": 1157,
+    "daily_stars": 17,
+    "language": "JavaScript",
+    "topics": [
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claudecode",
+      "cursor",
+      "workflow"
+    ],
+    "created_at": "2026-02-01T19:47:29",
+    "updated_at": "2026-03-01T08:53:10"
   },
   {
     "name": "doc-to-lora",
     "full_name": "SakanaAI/doc-to-lora",
     "description": "Hypernetworks that update LLMs to remember factual information",
     "url": "https://github.com/SakanaAI/doc-to-lora",
-    "stars": 212,
-    "daily_stars": 8,
+    "stars": 226,
+    "daily_stars": 14,
     "language": "Python",
     "topics": [
       "ai",
@@ -57,34 +76,15 @@
       "memory"
     ],
     "created_at": "2026-02-11T10:11:52",
-    "updated_at": "2026-03-01T05:25:13"
-  },
-  {
-    "name": "pro-workflow",
-    "full_name": "rohitg00/pro-workflow",
-    "description": "Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.",
-    "url": "https://github.com/rohitg00/pro-workflow",
-    "stars": 1140,
-    "daily_stars": 7,
-    "language": "JavaScript",
-    "topics": [
-      "claude",
-      "claude-ai",
-      "claude-code",
-      "claudecode",
-      "cursor",
-      "workflow"
-    ],
-    "created_at": "2026-02-01T19:47:29",
-    "updated_at": "2026-03-01T05:13:47"
+    "updated_at": "2026-03-01T08:46:28"
   },
   {
     "name": "Product-Manager-Skills",
     "full_name": "deanpeters/Product-Manager-Skills",
     "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
     "url": "https://github.com/deanpeters/Product-Manager-Skills",
-    "stars": 520,
-    "daily_stars": 6,
+    "stars": 531,
+    "daily_stars": 11,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -94,87 +94,15 @@
       "product-management"
     ],
     "created_at": "2026-02-05T02:16:46",
-    "updated_at": "2026-03-01T05:00:10"
-  },
-  {
-    "name": "liliumai",
-    "full_name": "beidald/liliumai",
-    "description": "Lilium AI: The ultimate personal AI agent framework for autonomous computer control. Featuring browser automation, shell execution, and multi-channel integration (WeChat/Telegram/Discord).",
-    "url": "https://github.com/beidald/liliumai",
-    "stars": 122,
-    "daily_stars": 5,
-    "language": "TypeScript",
-    "topics": [
-      "agent-framework",
-      "ai-agent",
-      "ai-agents",
-      "automation",
-      "autonomous-agents",
-      "browser-automation",
-      "chatbot",
-      "llm",
-      "llm-productivity",
-      "local-ai",
-      "nodejs",
-      "ollama",
-      "openai",
-      "personal-assistant",
-      "typescript",
-      "wechaty",
-      "wechaty-robot"
-    ],
-    "created_at": "2026-02-16T02:44:35",
-    "updated_at": "2026-03-01T05:34:50"
-  },
-  {
-    "name": "openclaw-mission-control",
-    "full_name": "abhi1693/openclaw-mission-control",
-    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
-    "url": "https://github.com/abhi1693/openclaw-mission-control",
-    "stars": 1160,
-    "daily_stars": 4,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "automation",
-      "openclaw",
-      "orchestration"
-    ],
-    "created_at": "2026-02-01T16:53:45",
-    "updated_at": "2026-03-01T05:34:22"
-  },
-  {
-    "name": "a11y-agent-team",
-    "full_name": "taylorarndt/a11y-agent-team",
-    "description": "Accessibility review agents for Claude Code, GitHub Copilot, and Claude Desktop. Eleven specialists that enforce WCAG 2.2 AA compliance so AI coding tools stop generating inaccessible code.",
-    "url": "https://github.com/taylorarndt/a11y-agent-team",
-    "stars": 125,
-    "daily_stars": 4,
-    "language": "JavaScript",
-    "topics": [
-      "a11y",
-      "accessibility",
-      "ai-agents",
-      "aria",
-      "assistive-technology",
-      "claude",
-      "claude-code",
-      "copilot",
-      "github-copilot",
-      "screen-reader",
-      "wcag",
-      "web-accessibility"
-    ],
-    "created_at": "2026-02-21T00:29:08",
-    "updated_at": "2026-03-01T05:26:36"
+    "updated_at": "2026-03-01T08:47:14"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 3726,
-    "daily_stars": 3,
+    "stars": 3736,
+    "daily_stars": 10,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -194,27 +122,94 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-03-01T05:28:04"
+    "updated_at": "2026-03-01T08:42:48"
   },
   {
-    "name": "openbrowserclaw",
-    "full_name": "sachaa/openbrowserclaw",
-    "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server.",
-    "url": "https://github.com/sachaa/openbrowserclaw",
-    "stars": 469,
-    "daily_stars": 3,
+    "name": "openclaw-mission-control",
+    "full_name": "abhi1693/openclaw-mission-control",
+    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
+    "url": "https://github.com/abhi1693/openclaw-mission-control",
+    "stars": 1167,
+    "daily_stars": 7,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "ai-assistant",
-      "browser",
-      "claude",
-      "claw",
+      "automation",
       "openclaw",
-      "pwa",
-      "typescript"
+      "orchestration"
     ],
-    "created_at": "2026-02-21T20:52:49",
-    "updated_at": "2026-03-01T04:39:53"
+    "created_at": "2026-02-01T16:53:45",
+    "updated_at": "2026-03-01T08:40:39"
+  },
+  {
+    "name": "openbotx",
+    "full_name": "openbotx/openbotx",
+    "description": "An open-source platform for orchestrating AI agents — secure, simple, and built for everyone. Multi-agent, real-time task board, web control panel, skills system, browser automation, multi-provider, scheduler, and more. One command to start. Everything from the browser. No coding required.",
+    "url": "https://github.com/openbotx/openbotx",
+    "stars": 31,
+    "daily_stars": 5,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "ai-assistant",
+      "artificial-intelligence",
+      "clawdbot",
+      "multiagent",
+      "openbotx",
+      "openclaw"
+    ],
+    "created_at": "2026-01-31T03:59:54",
+    "updated_at": "2026-03-01T08:09:51"
+  },
+  {
+    "name": "edict",
+    "full_name": "cft0808/edict",
+    "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
+    "url": "https://github.com/cft0808/edict",
+    "stars": 112,
+    "daily_stars": 4,
+    "language": "HTML",
+    "topics": [
+      "ai-agents",
+      "ai-orchestration",
+      "autonomous-agents",
+      "claude",
+      "dashboard",
+      "kanban",
+      "llm",
+      "multi-agent",
+      "openai",
+      "openclaw",
+      "orchestration",
+      "python",
+      "workflow-automation"
+    ],
+    "created_at": "2026-02-23T14:35:04",
+    "updated_at": "2026-03-01T08:39:50"
+  },
+  {
+    "name": "pocketpaw",
+    "full_name": "pocketpaw/pocketpaw",
+    "description": "Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source personal AI with desktop installer, multi-agent Command Center(Deep Work), and 7-layer security. Anthropic, OpenAI, or Ollama.Your Pocket Paw",
+    "url": "https://github.com/pocketpaw/pocketpaw",
+    "stars": 523,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "cli",
+      "jarvis-assistant",
+      "multi-agent-systems",
+      "ollama",
+      "open-source",
+      "personal-assistant",
+      "python",
+      "security",
+      "self-hosted",
+      "telegram-bot-ai-assistant"
+    ],
+    "created_at": "2026-02-02T19:48:57",
+    "updated_at": "2026-03-01T08:16:52"
   }
 ]
