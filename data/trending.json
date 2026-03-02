@@ -4,8 +4,8 @@
     "full_name": "RightNow-AI/openfang",
     "description": "Open-source Agent Operating System",
     "url": "https://github.com/RightNow-AI/openfang",
-    "stars": 8770,
-    "daily_stars": 344,
+    "stars": 8922,
+    "daily_stars": 152,
     "language": "Rust",
     "topics": [
       "agent-framework",
@@ -18,15 +18,15 @@
       "rust"
     ],
     "created_at": "2026-02-24T23:12:38",
-    "updated_at": "2026-03-02T13:39:34"
+    "updated_at": "2026-03-02T17:11:21"
   },
   {
     "name": "timber",
     "full_name": "kossisoroyce/timber",
     "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
     "url": "https://github.com/kossisoroyce/timber",
-    "stars": 333,
-    "daily_stars": 93,
+    "stars": 399,
+    "daily_stars": 66,
     "language": "Python",
     "topics": [
       "c99",
@@ -45,15 +45,15 @@
       "xgboost"
     ],
     "created_at": "2026-02-27T23:27:36",
-    "updated_at": "2026-03-02T13:39:38"
+    "updated_at": "2026-03-02T17:08:08"
   },
   {
     "name": "DeepSeek-Claw",
     "full_name": "TriangleMagistrate/DeepSeek-Claw",
     "description": null,
     "url": "https://github.com/TriangleMagistrate/DeepSeek-Claw",
-    "stars": 142,
-    "daily_stars": 62,
+    "stars": 183,
+    "daily_stars": 41,
     "language": "Shell",
     "topics": [
       "ai",
@@ -65,15 +65,68 @@
       "openclaw-skills"
     ],
     "created_at": "2026-03-02T00:19:33",
-    "updated_at": "2026-03-02T13:32:14"
+    "updated_at": "2026-03-02T17:07:13"
+  },
+  {
+    "name": "Product-Manager-Skills",
+    "full_name": "deanpeters/Product-Manager-Skills",
+    "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
+    "url": "https://github.com/deanpeters/Product-Manager-Skills",
+    "stars": 645,
+    "daily_stars": 29,
+    "language": "Shell",
+    "topics": [
+      "ai-agents",
+      "ai-product-management",
+      "claude-skills",
+      "pm-frameworks",
+      "product-management"
+    ],
+    "created_at": "2026-02-05T02:16:46",
+    "updated_at": "2026-03-02T17:00:15"
+  },
+  {
+    "name": "open-terminal",
+    "full_name": "open-webui/open-terminal",
+    "description": "A computer you can curl ⚡",
+    "url": "https://github.com/open-webui/open-terminal",
+    "stars": 212,
+    "daily_stars": 22,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "open-webui"
+    ],
+    "created_at": "2026-02-10T21:57:30",
+    "updated_at": "2026-03-02T17:06:53"
+  },
+  {
+    "name": "openclaw-mission-control",
+    "full_name": "abhi1693/openclaw-mission-control",
+    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
+    "url": "https://github.com/abhi1693/openclaw-mission-control",
+    "stars": 1270,
+    "daily_stars": 21,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "openclaw",
+      "orchestration"
+    ],
+    "created_at": "2026-02-01T16:53:45",
+    "updated_at": "2026-03-02T16:46:32"
   },
   {
     "name": "edict",
     "full_name": "cft0808/edict",
     "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
     "url": "https://github.com/cft0808/edict",
-    "stars": 264,
-    "daily_stars": 41,
+    "stars": 283,
+    "daily_stars": 19,
     "language": "HTML",
     "topics": [
       "ai-agents",
@@ -91,33 +144,15 @@
       "workflow-automation"
     ],
     "created_at": "2026-02-23T14:35:04",
-    "updated_at": "2026-03-02T13:25:38"
-  },
-  {
-    "name": "open-terminal",
-    "full_name": "open-webui/open-terminal",
-    "description": "A computer you can curl ⚡",
-    "url": "https://github.com/open-webui/open-terminal",
-    "stars": 190,
-    "daily_stars": 33,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "ai",
-      "ai-agents",
-      "ai-tools",
-      "open-webui"
-    ],
-    "created_at": "2026-02-10T21:57:30",
-    "updated_at": "2026-03-02T13:15:21"
+    "updated_at": "2026-03-02T16:23:44"
   },
   {
     "name": "claude-forge",
     "full_name": "sangrokjung/claude-forge",
     "description": "Supercharge Claude Code with 11 AI agents, 36 commands & 15 skills — the claude-code plugin framework inspired by oh-my-zsh. 6-layer security hooks included. 5-min install.",
     "url": "https://github.com/sangrokjung/claude-forge",
-    "stars": 307,
-    "daily_stars": 23,
+    "stars": 326,
+    "daily_stars": 19,
     "language": "Shell",
     "topics": [
       "agents",
@@ -142,50 +177,36 @@
       "workflow"
     ],
     "created_at": "2026-02-23T07:46:08",
-    "updated_at": "2026-03-02T13:36:42"
+    "updated_at": "2026-03-02T16:53:46"
   },
   {
-    "name": "openclaw-mission-control",
-    "full_name": "abhi1693/openclaw-mission-control",
-    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
-    "url": "https://github.com/abhi1693/openclaw-mission-control",
-    "stars": 1249,
-    "daily_stars": 14,
-    "language": "TypeScript",
+    "name": "git-lrc",
+    "full_name": "HexmosTech/git-lrc",
+    "description": "Free, Unlimited AI Code Reviews That Run on Commit",
+    "url": "https://github.com/HexmosTech/git-lrc",
+    "stars": 173,
+    "daily_stars": 12,
+    "language": "Go",
     "topics": [
+      "ai",
       "ai-agents",
-      "automation",
-      "openclaw",
-      "orchestration"
+      "code-review",
+      "commit",
+      "commit-message",
+      "gemini",
+      "git",
+      "vscode"
     ],
-    "created_at": "2026-02-01T16:53:45",
-    "updated_at": "2026-03-02T12:17:57"
-  },
-  {
-    "name": "Product-Manager-Skills",
-    "full_name": "deanpeters/Product-Manager-Skills",
-    "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
-    "url": "https://github.com/deanpeters/Product-Manager-Skills",
-    "stars": 616,
-    "daily_stars": 14,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
-      "ai-product-management",
-      "claude-skills",
-      "pm-frameworks",
-      "product-management"
-    ],
-    "created_at": "2026-02-05T02:16:46",
-    "updated_at": "2026-03-02T13:35:37"
+    "created_at": "2026-02-08T05:44:39",
+    "updated_at": "2026-03-02T16:42:07"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 3806,
-    "daily_stars": 13,
+    "stars": 3817,
+    "daily_stars": 11,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -205,27 +226,6 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-03-02T13:09:26"
-  },
-  {
-    "name": "doc-to-lora",
-    "full_name": "SakanaAI/doc-to-lora",
-    "description": "Hypernetworks that update LLMs to remember factual information",
-    "url": "https://github.com/SakanaAI/doc-to-lora",
-    "stars": 314,
-    "daily_stars": 13,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "hypernetworks",
-      "llm",
-      "llm-agent",
-      "lora",
-      "machine-learning",
-      "memory"
-    ],
-    "created_at": "2026-02-11T10:11:52",
-    "updated_at": "2026-03-02T13:35:01"
+    "updated_at": "2026-03-02T16:23:48"
   }
 ]
