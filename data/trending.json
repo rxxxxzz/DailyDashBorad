@@ -4,8 +4,8 @@
     "full_name": "RightNow-AI/openfang",
     "description": "Open-source Agent Operating System",
     "url": "https://github.com/RightNow-AI/openfang",
-    "stars": 7253,
-    "daily_stars": 238,
+    "stars": 7781,
+    "daily_stars": 528,
     "language": "Rust",
     "topics": [
       "agent-framework",
@@ -18,48 +18,58 @@
       "rust"
     ],
     "created_at": "2026-02-24T23:12:38",
-    "updated_at": "2026-03-01T20:49:28"
+    "updated_at": "2026-03-02T03:15:24"
   },
   {
-    "name": "nanoclaw",
-    "full_name": "gavrielc/nanoclaw",
-    "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
-    "url": "https://github.com/gavrielc/nanoclaw",
-    "stars": 16945,
-    "daily_stars": 56,
+    "name": "openclaw-mission-control",
+    "full_name": "abhi1693/openclaw-mission-control",
+    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
+    "url": "https://github.com/abhi1693/openclaw-mission-control",
+    "stars": 1215,
+    "daily_stars": 21,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "ai-assistant",
-      "claude-code",
-      "claude-skills",
-      "clawdbot"
+      "automation",
+      "openclaw",
+      "orchestration"
     ],
-    "created_at": "2026-01-31T15:47:22",
-    "updated_at": "2026-03-01T20:35:46"
+    "created_at": "2026-02-01T16:53:45",
+    "updated_at": "2026-03-02T02:55:15"
   },
   {
-    "name": "agentkeeper",
-    "full_name": "Thinklanceai/agentkeeper",
-    "description": "Cognitive persistence layer for AI agents — cross-model memory continuity. Your agent's memory survives provider switches, crashes and restarts.",
-    "url": "https://github.com/Thinklanceai/agentkeeper",
-    "stars": 90,
+    "name": "edict",
+    "full_name": "cft0808/edict",
+    "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
+    "url": "https://github.com/cft0808/edict",
+    "stars": 143,
     "daily_stars": 20,
-    "language": "Python",
+    "language": "HTML",
     "topics": [
       "ai-agents",
-      "llm-memory-python-openai-anthropic-gemini-ollama"
+      "ai-orchestration",
+      "autonomous-agents",
+      "claude",
+      "dashboard",
+      "kanban",
+      "llm",
+      "multi-agent",
+      "openai",
+      "openclaw",
+      "orchestration",
+      "python",
+      "workflow-automation"
     ],
-    "created_at": "2026-02-24T21:13:57",
-    "updated_at": "2026-03-01T20:38:30"
+    "created_at": "2026-02-23T14:35:04",
+    "updated_at": "2026-03-02T03:05:15"
   },
   {
     "name": "Product-Manager-Skills",
     "full_name": "deanpeters/Product-Manager-Skills",
     "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
     "url": "https://github.com/deanpeters/Product-Manager-Skills",
-    "stars": 565,
-    "daily_stars": 12,
+    "stars": 582,
+    "daily_stars": 17,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -69,15 +79,15 @@
       "product-management"
     ],
     "created_at": "2026-02-05T02:16:46",
-    "updated_at": "2026-03-01T20:02:36"
+    "updated_at": "2026-03-02T03:08:13"
   },
   {
     "name": "doc-to-lora",
     "full_name": "SakanaAI/doc-to-lora",
     "description": "Hypernetworks that update LLMs to remember factual information",
     "url": "https://github.com/SakanaAI/doc-to-lora",
-    "stars": 273,
-    "daily_stars": 12,
+    "stars": 290,
+    "daily_stars": 17,
     "language": "Python",
     "topics": [
       "ai",
@@ -90,15 +100,15 @@
       "memory"
     ],
     "created_at": "2026-02-11T10:11:52",
-    "updated_at": "2026-03-01T20:12:54"
+    "updated_at": "2026-03-02T02:35:44"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 3760,
-    "daily_stars": 8,
+    "stars": 3776,
+    "daily_stars": 16,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -118,51 +128,51 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-03-01T20:47:11"
+    "updated_at": "2026-03-02T03:00:20"
   },
   {
-    "name": "openclaw-mission-control",
-    "full_name": "abhi1693/openclaw-mission-control",
-    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
-    "url": "https://github.com/abhi1693/openclaw-mission-control",
-    "stars": 1194,
-    "daily_stars": 7,
+    "name": "agentkeeper",
+    "full_name": "Thinklanceai/agentkeeper",
+    "description": "Cognitive persistence layer for AI agents — cross-model memory continuity. Your agent's memory survives provider switches, crashes and restarts.",
+    "url": "https://github.com/Thinklanceai/agentkeeper",
+    "stars": 104,
+    "daily_stars": 14,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "llm-memory-python-openai-anthropic-gemini-ollama"
+    ],
+    "created_at": "2026-02-24T21:13:57",
+    "updated_at": "2026-03-02T02:55:33"
+  },
+  {
+    "name": "moltlets-world",
+    "full_name": "DreamFutureX/moltlets-world",
+    "description": "AI Agent On-chain Living, Breathing Virtual World — where AI agents earn, trade, own property, and form social structures entirely on-chain.",
+    "url": "https://github.com/DreamFutureX/moltlets-world",
+    "stars": 75,
+    "daily_stars": 12,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "automation",
-      "openclaw",
-      "orchestration"
+      "autonomous-agents",
+      "game",
+      "nextjs",
+      "on-chain",
+      "solana",
+      "typescript",
+      "virtual-world"
     ],
-    "created_at": "2026-02-01T16:53:45",
-    "updated_at": "2026-03-01T20:49:16"
-  },
-  {
-    "name": "pro-workflow",
-    "full_name": "rohitg00/pro-workflow",
-    "description": "Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.",
-    "url": "https://github.com/rohitg00/pro-workflow",
-    "stars": 1178,
-    "daily_stars": 6,
-    "language": "JavaScript",
-    "topics": [
-      "claude",
-      "claude-ai",
-      "claude-code",
-      "claudecode",
-      "cursor",
-      "workflow"
-    ],
-    "created_at": "2026-02-01T19:47:29",
-    "updated_at": "2026-03-01T20:35:03"
+    "created_at": "2026-02-13T20:41:18",
+    "updated_at": "2026-03-02T03:02:21"
   },
   {
     "name": "overstory",
     "full_name": "jayminwest/overstory",
     "description": "Project-agnostic swarm system for Claude Code agent orchestration",
     "url": "https://github.com/jayminwest/overstory",
-    "stars": 587,
-    "daily_stars": 4,
+    "stars": 596,
+    "daily_stars": 9,
     "language": "TypeScript",
     "topics": [
       "agent-swarms",
@@ -171,26 +181,34 @@
       "tmux"
     ],
     "created_at": "2026-02-12T14:53:58",
-    "updated_at": "2026-03-01T18:26:51"
+    "updated_at": "2026-03-02T01:45:15"
   },
   {
-    "name": "decapod",
-    "full_name": "DecapodLabs/decapod",
-    "description": "the local-first proof-gated control plane for multi-agent teams 🦀",
-    "url": "https://github.com/DecapodLabs/decapod",
-    "stars": 151,
-    "daily_stars": 4,
-    "language": "Rust",
+    "name": "mco",
+    "full_name": "mco-org/mco",
+    "description": "Orchestrate AI coding agents. Any prompt. Any agent. Any IDE. Neutral orchestration layer for Claude Code, Codex CLI, Gemini CLI, OpenCode, Qwen Code — works from Cursor, Trae, Copilot, Windsurf, or plain shell.",
+    "url": "https://github.com/mco-org/mco",
+    "stars": 93,
+    "daily_stars": 9,
+    "language": "Python",
     "topics": [
-      "agents",
-      "ai",
       "ai-agents",
-      "control-plane",
-      "kernel",
+      "ai-ide",
+      "claude",
+      "cli",
+      "code-review",
+      "codex",
+      "copilot",
+      "cursor",
+      "developer-tools",
+      "gemini",
+      "multi-agent",
       "orchestration",
-      "rust"
+      "qwen",
+      "trae",
+      "windsurf"
     ],
-    "created_at": "2026-02-11T11:00:58",
-    "updated_at": "2026-03-01T20:14:32"
+    "created_at": "2026-02-26T07:25:48",
+    "updated_at": "2026-03-02T03:02:01"
   }
 ]
