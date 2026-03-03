@@ -4,8 +4,8 @@
     "full_name": "RightNow-AI/openfang",
     "description": "Open-source Agent Operating System",
     "url": "https://github.com/RightNow-AI/openfang",
-    "stars": 9267,
-    "daily_stars": 79,
+    "stars": 9395,
+    "daily_stars": 128,
     "language": "Rust",
     "topics": [
       "agent-framework",
@@ -18,15 +18,36 @@
       "rust"
     ],
     "created_at": "2026-02-24T23:12:38",
-    "updated_at": "2026-03-03T05:28:56"
+    "updated_at": "2026-03-03T09:06:22"
+  },
+  {
+    "name": "lovable-openclaw",
+    "full_name": "TriangleMagistrate/lovable-openclaw",
+    "description": "lovable-openclaw — a macOS bootstrap CLI for Lovable. Installs, configures, and verifies a complete development environment in one command.",
+    "url": "https://github.com/TriangleMagistrate/lovable-openclaw",
+    "stars": 122,
+    "daily_stars": 53,
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "lovable",
+      "lovable-ai",
+      "lovable-dev",
+      "openclaw",
+      "openclaw-skill",
+      "openclaw-skills"
+    ],
+    "created_at": "2026-03-02T18:35:58",
+    "updated_at": "2026-03-03T09:02:37"
   },
   {
     "name": "open-terminal",
     "full_name": "open-webui/open-terminal",
     "description": "A computer you can curl ⚡",
     "url": "https://github.com/open-webui/open-terminal",
-    "stars": 322,
-    "daily_stars": 20,
+    "stars": 359,
+    "daily_stars": 37,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -36,15 +57,33 @@
       "open-webui"
     ],
     "created_at": "2026-02-10T21:57:30",
-    "updated_at": "2026-03-03T05:32:44"
+    "updated_at": "2026-03-03T09:02:33"
+  },
+  {
+    "name": "Product-Manager-Skills",
+    "full_name": "deanpeters/Product-Manager-Skills",
+    "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
+    "url": "https://github.com/deanpeters/Product-Manager-Skills",
+    "stars": 731,
+    "daily_stars": 34,
+    "language": "Shell",
+    "topics": [
+      "ai-agents",
+      "ai-product-management",
+      "claude-skills",
+      "pm-frameworks",
+      "product-management"
+    ],
+    "created_at": "2026-02-05T02:16:46",
+    "updated_at": "2026-03-03T08:35:47"
   },
   {
     "name": "edict",
     "full_name": "cft0808/edict",
     "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
     "url": "https://github.com/cft0808/edict",
-    "stars": 321,
-    "daily_stars": 12,
+    "stars": 353,
+    "daily_stars": 32,
     "language": "HTML",
     "topics": [
       "ai-agents",
@@ -62,60 +101,42 @@
       "workflow-automation"
     ],
     "created_at": "2026-02-23T14:35:04",
-    "updated_at": "2026-03-03T05:18:35"
+    "updated_at": "2026-03-03T09:00:36"
   },
   {
-    "name": "Product-Manager-Skills",
-    "full_name": "deanpeters/Product-Manager-Skills",
-    "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
-    "url": "https://github.com/deanpeters/Product-Manager-Skills",
-    "stars": 697,
-    "daily_stars": 9,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
-      "ai-product-management",
-      "claude-skills",
-      "pm-frameworks",
-      "product-management"
-    ],
-    "created_at": "2026-02-05T02:16:46",
-    "updated_at": "2026-03-03T05:25:56"
-  },
-  {
-    "name": "timber",
-    "full_name": "kossisoroyce/timber",
-    "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
-    "url": "https://github.com/kossisoroyce/timber",
-    "stars": 459,
-    "daily_stars": 9,
+    "name": "animaworks",
+    "full_name": "xuiltul/animaworks",
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model (Claude/GPT/Gemini/Ollama).",
+    "url": "https://github.com/xuiltul/animaworks",
+    "stars": 76,
+    "daily_stars": 20,
     "language": "Python",
     "topics": [
-      "c99",
-      "catboost",
-      "compiler",
-      "decision-trees",
-      "gradient-boosting",
-      "inference",
-      "lightgbm",
-      "machine-learning",
-      "mlops",
-      "model-serving",
+      "agent-framework",
+      "ai-agents",
+      "autonomous-agents",
+      "brain-inspired",
+      "claude",
+      "forgetting",
+      "llm",
+      "memory",
+      "multi-agent",
+      "multi-model",
       "ollama",
-      "onnx",
-      "sklearn",
-      "xgboost"
+      "organization-as-code",
+      "python",
+      "rag"
     ],
-    "created_at": "2026-02-27T23:27:36",
-    "updated_at": "2026-03-03T05:29:51"
+    "created_at": "2026-02-18T09:43:25",
+    "updated_at": "2026-03-03T08:46:56"
   },
   {
     "name": "claude-forge",
     "full_name": "sangrokjung/claude-forge",
     "description": "Supercharge Claude Code with 11 AI agents, 36 commands & 15 skills — the claude-code plugin framework inspired by oh-my-zsh. 6-layer security hooks included. 5-min install.",
     "url": "https://github.com/sangrokjung/claude-forge",
-    "stars": 361,
-    "daily_stars": 7,
+    "stars": 372,
+    "daily_stars": 11,
     "language": "Shell",
     "topics": [
       "agents",
@@ -140,15 +161,15 @@
       "workflow"
     ],
     "created_at": "2026-02-23T07:46:08",
-    "updated_at": "2026-03-03T05:17:15"
+    "updated_at": "2026-03-03T07:32:58"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 3837,
-    "daily_stars": 6,
+    "stars": 3847,
+    "daily_stars": 10,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -168,36 +189,42 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-03-03T05:12:15"
+    "updated_at": "2026-03-03T08:45:23"
   },
   {
-    "name": "doc-to-lora",
-    "full_name": "SakanaAI/doc-to-lora",
-    "description": "Hypernetworks that update LLMs to remember factual information",
-    "url": "https://github.com/SakanaAI/doc-to-lora",
-    "stars": 355,
-    "daily_stars": 5,
+    "name": "timber",
+    "full_name": "kossisoroyce/timber",
+    "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
+    "url": "https://github.com/kossisoroyce/timber",
+    "stars": 468,
+    "daily_stars": 9,
     "language": "Python",
     "topics": [
-      "ai",
-      "ai-agent",
-      "hypernetworks",
-      "llm",
-      "llm-agent",
-      "lora",
+      "c99",
+      "catboost",
+      "compiler",
+      "decision-trees",
+      "gradient-boosting",
+      "inference",
+      "lightgbm",
       "machine-learning",
-      "memory"
+      "mlops",
+      "model-serving",
+      "ollama",
+      "onnx",
+      "sklearn",
+      "xgboost"
     ],
-    "created_at": "2026-02-11T10:11:52",
-    "updated_at": "2026-03-03T05:15:38"
+    "created_at": "2026-02-27T23:27:36",
+    "updated_at": "2026-03-03T09:04:39"
   },
   {
     "name": "overstory",
     "full_name": "jayminwest/overstory",
     "description": "Project-agnostic swarm system for Claude Code agent orchestration",
     "url": "https://github.com/jayminwest/overstory",
-    "stars": 627,
-    "daily_stars": 3,
+    "stars": 633,
+    "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
       "agent-swarms",
@@ -206,26 +233,6 @@
       "tmux"
     ],
     "created_at": "2026-02-12T14:53:58",
-    "updated_at": "2026-03-03T05:03:54"
-  },
-  {
-    "name": "real-world-rails",
-    "full_name": "steveclarke/real-world-rails",
-    "description": "200+ production open source Rails apps & engines in one repo. Search across real codebases with AI agents to research architectural patterns.",
-    "url": "https://github.com/steveclarke/real-world-rails",
-    "stars": 388,
-    "daily_stars": 3,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
-      "code-patterns",
-      "learning",
-      "open-source",
-      "rails",
-      "real-world",
-      "ruby"
-    ],
-    "created_at": "2026-02-23T17:02:02",
-    "updated_at": "2026-03-03T05:17:33"
+    "updated_at": "2026-03-03T08:38:36"
   }
 ]

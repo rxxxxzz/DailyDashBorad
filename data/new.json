@@ -4,8 +4,8 @@
     "full_name": "RightNow-AI/openfang",
     "description": "Open-source Agent Operating System",
     "url": "https://github.com/RightNow-AI/openfang",
-    "stars": 9267,
-    "daily_stars": 79,
+    "stars": 9395,
+    "daily_stars": 128,
     "language": "Rust",
     "topics": [
       "agent-framework",
@@ -18,14 +18,14 @@
       "rust"
     ],
     "created_at": "2026-02-24T23:12:38",
-    "updated_at": "2026-03-03T05:28:56"
+    "updated_at": "2026-03-03T09:06:22"
   },
   {
     "name": "timber",
     "full_name": "kossisoroyce/timber",
     "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
     "url": "https://github.com/kossisoroyce/timber",
-    "stars": 459,
+    "stars": 468,
     "daily_stars": 9,
     "language": "Python",
     "topics": [
@@ -45,7 +45,7 @@
       "xgboost"
     ],
     "created_at": "2026-02-27T23:27:36",
-    "updated_at": "2026-03-03T05:29:51"
+    "updated_at": "2026-03-03T09:04:39"
   },
   {
     "name": "real-world-rails",
@@ -53,7 +53,7 @@
     "description": "200+ production open source Rails apps & engines in one repo. Search across real codebases with AI agents to research architectural patterns.",
     "url": "https://github.com/steveclarke/real-world-rails",
     "stars": 388,
-    "daily_stars": 3,
+    "daily_stars": 0,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -68,45 +68,12 @@
     "updated_at": "2026-03-03T05:17:33"
   },
   {
-    "name": "claude-forge",
-    "full_name": "sangrokjung/claude-forge",
-    "description": "Supercharge Claude Code with 11 AI agents, 36 commands & 15 skills — the claude-code plugin framework inspired by oh-my-zsh. 6-layer security hooks included. 5-min install.",
-    "url": "https://github.com/sangrokjung/claude-forge",
-    "stars": 361,
-    "daily_stars": 7,
-    "language": "Shell",
-    "topics": [
-      "agents",
-      "ai-assistant",
-      "ai-coding",
-      "ai-framework",
-      "ai-pair-programming",
-      "anthropic",
-      "automation",
-      "claude-code",
-      "claude-code-agents",
-      "cli-tools",
-      "developer-experience",
-      "developer-tools",
-      "dotfiles",
-      "hooks",
-      "llm",
-      "macos",
-      "productivity",
-      "shell",
-      "slash-commands",
-      "workflow"
-    ],
-    "created_at": "2026-02-23T07:46:08",
-    "updated_at": "2026-03-03T05:17:15"
-  },
-  {
     "name": "edict",
     "full_name": "cft0808/edict",
     "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
     "url": "https://github.com/cft0808/edict",
-    "stars": 321,
-    "daily_stars": 12,
+    "stars": 353,
+    "daily_stars": 32,
     "language": "HTML",
     "topics": [
       "ai-agents",
@@ -124,14 +91,14 @@
       "workflow-automation"
     ],
     "created_at": "2026-02-23T14:35:04",
-    "updated_at": "2026-03-03T05:18:35"
+    "updated_at": "2026-03-03T09:00:36"
   },
   {
     "name": "DeepSeek-Claw",
     "full_name": "TriangleMagistrate/DeepSeek-Claw",
     "description": null,
     "url": "https://github.com/TriangleMagistrate/DeepSeek-Claw",
-    "stars": 178,
+    "stars": 177,
     "daily_stars": -1,
     "language": "Shell",
     "topics": [
@@ -144,7 +111,7 @@
       "openclaw-skills"
     ],
     "created_at": "2026-03-02T00:19:33",
-    "updated_at": "2026-03-03T03:44:36"
+    "updated_at": "2026-03-03T09:02:37"
   },
   {
     "name": "forgemax",
@@ -170,11 +137,47 @@
     "updated_at": "2026-03-03T01:47:43"
   },
   {
+    "name": "lovable-openclaw",
+    "full_name": "TriangleMagistrate/lovable-openclaw",
+    "description": "lovable-openclaw — a macOS bootstrap CLI for Lovable. Installs, configures, and verifies a complete development environment in one command.",
+    "url": "https://github.com/TriangleMagistrate/lovable-openclaw",
+    "stars": 122,
+    "daily_stars": 53,
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "lovable",
+      "lovable-ai",
+      "lovable-dev",
+      "openclaw",
+      "openclaw-skill",
+      "openclaw-skills"
+    ],
+    "created_at": "2026-03-02T18:35:58",
+    "updated_at": "2026-03-03T09:02:37"
+  },
+  {
+    "name": "agentkeeper",
+    "full_name": "Thinklanceai/agentkeeper",
+    "description": "Cognitive persistence layer for AI agents — cross-model memory continuity. Your agent's memory survives provider switches, crashes and restarts.",
+    "url": "https://github.com/Thinklanceai/agentkeeper",
+    "stars": 113,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "llm-memory-python-openai-anthropic-gemini-ollama"
+    ],
+    "created_at": "2026-02-24T21:13:57",
+    "updated_at": "2026-03-03T08:51:23"
+  },
+  {
     "name": "mco",
     "full_name": "mco-org/mco",
     "description": "Orchestrate AI coding agents. Any prompt. Any agent. Any IDE. Neutral orchestration layer for Claude Code, Codex CLI, Gemini CLI, OpenCode, Qwen Code — works from Cursor, Trae, Copilot, Windsurf, or plain shell.",
     "url": "https://github.com/mco-org/mco",
-    "stars": 110,
+    "stars": 112,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
@@ -195,22 +198,7 @@
       "windsurf"
     ],
     "created_at": "2026-02-26T07:25:48",
-    "updated_at": "2026-03-03T05:07:34"
-  },
-  {
-    "name": "agentkeeper",
-    "full_name": "Thinklanceai/agentkeeper",
-    "description": "Cognitive persistence layer for AI agents — cross-model memory continuity. Your agent's memory survives provider switches, crashes and restarts.",
-    "url": "https://github.com/Thinklanceai/agentkeeper",
-    "stars": 110,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "llm-memory-python-openai-anthropic-gemini-ollama"
-    ],
-    "created_at": "2026-02-24T21:13:57",
-    "updated_at": "2026-03-02T20:40:19"
+    "updated_at": "2026-03-03T07:28:22"
   },
   {
     "name": "ClawBio",
