@@ -4,8 +4,8 @@
     "full_name": "RightNow-AI/openfang",
     "description": "Open-source Agent Operating System",
     "url": "https://github.com/RightNow-AI/openfang",
-    "stars": 9486,
-    "daily_stars": 91,
+    "stars": 9570,
+    "daily_stars": 84,
     "language": "Rust",
     "topics": [
       "agent-framework",
@@ -18,15 +18,15 @@
       "rust"
     ],
     "created_at": "2026-02-24T23:12:38",
-    "updated_at": "2026-03-03T13:36:28"
+    "updated_at": "2026-03-03T17:11:08"
   },
   {
     "name": "timber",
     "full_name": "kossisoroyce/timber",
     "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
     "url": "https://github.com/kossisoroyce/timber",
-    "stars": 483,
-    "daily_stars": 15,
+    "stars": 494,
+    "daily_stars": 11,
     "language": "Python",
     "topics": [
       "c99",
@@ -45,53 +45,28 @@
       "xgboost"
     ],
     "created_at": "2026-02-27T23:27:36",
-    "updated_at": "2026-03-03T13:34:49"
+    "updated_at": "2026-03-03T16:53:26"
   },
   {
-    "name": "real-world-rails",
-    "full_name": "steveclarke/real-world-rails",
-    "description": "200+ production open source Rails apps & engines in one repo. Search across real codebases with AI agents to research architectural patterns.",
-    "url": "https://github.com/steveclarke/real-world-rails",
-    "stars": 391,
-    "daily_stars": 3,
-    "language": "Shell",
+    "name": "lovable-openclaw",
+    "full_name": "TriangleMagistrate/lovable-openclaw",
+    "description": "lovable-openclaw — a macOS bootstrap CLI for Lovable. Installs, configures, and verifies a complete development environment in one command.",
+    "url": "https://github.com/TriangleMagistrate/lovable-openclaw",
+    "stars": 181,
+    "daily_stars": 5,
+    "language": "JavaScript",
     "topics": [
+      "ai",
       "ai-agents",
-      "code-patterns",
-      "learning",
-      "open-source",
-      "rails",
-      "real-world",
-      "ruby"
-    ],
-    "created_at": "2026-02-23T17:02:02",
-    "updated_at": "2026-03-03T13:26:43"
-  },
-  {
-    "name": "edict",
-    "full_name": "cft0808/edict",
-    "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
-    "url": "https://github.com/cft0808/edict",
-    "stars": 378,
-    "daily_stars": 25,
-    "language": "HTML",
-    "topics": [
-      "ai-agents",
-      "ai-orchestration",
-      "autonomous-agents",
-      "claude",
-      "dashboard",
-      "kanban",
-      "llm",
-      "multi-agent",
-      "openai",
+      "lovable",
+      "lovable-ai",
+      "lovable-dev",
       "openclaw",
-      "orchestration",
-      "python",
-      "workflow-automation"
+      "openclaw-skill",
+      "openclaw-skills"
     ],
-    "created_at": "2026-02-23T14:35:04",
-    "updated_at": "2026-03-03T13:28:03"
+    "created_at": "2026-03-02T18:35:58",
+    "updated_at": "2026-03-03T13:45:43"
   },
   {
     "name": "DeepSeek-Claw",
@@ -112,27 +87,6 @@
     ],
     "created_at": "2026-03-02T00:19:33",
     "updated_at": "2026-03-03T13:25:56"
-  },
-  {
-    "name": "lovable-openclaw",
-    "full_name": "TriangleMagistrate/lovable-openclaw",
-    "description": "lovable-openclaw — a macOS bootstrap CLI for Lovable. Installs, configures, and verifies a complete development environment in one command.",
-    "url": "https://github.com/TriangleMagistrate/lovable-openclaw",
-    "stars": 176,
-    "daily_stars": 54,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "lovable",
-      "lovable-ai",
-      "lovable-dev",
-      "openclaw",
-      "openclaw-skill",
-      "openclaw-skills"
-    ],
-    "created_at": "2026-03-02T18:35:58",
-    "updated_at": "2026-03-03T13:37:55"
   },
   {
     "name": "forgemax",
@@ -158,12 +112,48 @@
     "updated_at": "2026-03-03T01:47:43"
   },
   {
+    "name": "ClawBio",
+    "full_name": "ClawBio/ClawBio",
+    "description": "🦖 ClawBio — The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw.",
+    "url": "https://github.com/ClawBio/ClawBio",
+    "stars": 115,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "bioinformatics",
+      "equity",
+      "genomics",
+      "local-first",
+      "openclaw",
+      "population-genetics",
+      "reproducibility"
+    ],
+    "created_at": "2026-02-25T17:43:22",
+    "updated_at": "2026-03-03T16:20:45"
+  },
+  {
+    "name": "agentkeeper",
+    "full_name": "Thinklanceai/agentkeeper",
+    "description": "Cognitive persistence layer for AI agents — cross-model memory continuity. Your agent's memory survives provider switches, crashes and restarts.",
+    "url": "https://github.com/Thinklanceai/agentkeeper",
+    "stars": 114,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "llm-memory-python-openai-anthropic-gemini-ollama"
+    ],
+    "created_at": "2026-02-24T21:13:57",
+    "updated_at": "2026-03-03T14:24:55"
+  },
+  {
     "name": "mco",
     "full_name": "mco-org/mco",
     "description": "Orchestrate AI coding agents. Any prompt. Any agent. Any IDE. Neutral orchestration layer for Claude Code, Codex CLI, Gemini CLI, OpenCode, Qwen Code — works from Cursor, Trae, Copilot, Windsurf, or plain shell.",
     "url": "https://github.com/mco-org/mco",
     "stars": 113,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -186,39 +176,54 @@
     "updated_at": "2026-03-03T10:30:08"
   },
   {
-    "name": "agentkeeper",
-    "full_name": "Thinklanceai/agentkeeper",
-    "description": "Cognitive persistence layer for AI agents — cross-model memory continuity. Your agent's memory survives provider switches, crashes and restarts.",
-    "url": "https://github.com/Thinklanceai/agentkeeper",
-    "stars": 113,
+    "name": "AimAssist",
+    "full_name": "gunmetal57qa8q/AimAssist",
+    "description": "AI | AIM | ASSIST | MORE GAME | CS2 | APEX | 2026",
+    "url": "https://github.com/gunmetal57qa8q/AimAssist",
+    "stars": 69,
     "daily_stars": 0,
-    "language": "Python",
+    "language": null,
     "topics": [
-      "ai-agents",
-      "llm-memory-python-openai-anthropic-gemini-ollama"
+      "ai",
+      "aimassist",
+      "apex",
+      "cs2",
+      "csgo",
+      "fortnite",
+      "hack",
+      "jire",
+      "machine-learning",
+      "new-world",
+      "overwatch",
+      "video-game-ai"
     ],
-    "created_at": "2026-02-24T21:13:57",
-    "updated_at": "2026-03-03T08:51:23"
+    "created_at": "2026-02-26T08:16:31",
+    "updated_at": "2026-03-02T22:54:31"
   },
   {
-    "name": "ClawBio",
-    "full_name": "ClawBio/ClawBio",
-    "description": "🦖 ClawBio — The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw.",
-    "url": "https://github.com/ClawBio/ClawBio",
-    "stars": 112,
-    "daily_stars": 6,
-    "language": "Python",
+    "name": "clawshield-public",
+    "full_name": "SleuthCo/clawshield-public",
+    "description": "Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
+    "url": "https://github.com/SleuthCo/clawshield-public",
+    "stars": 56,
+    "daily_stars": 4,
+    "language": "Go",
     "topics": [
       "ai-agents",
-      "bioinformatics",
-      "equity",
-      "genomics",
-      "local-first",
+      "ai-security",
+      "audit-logging",
+      "defense-in-depth",
+      "ebpf",
+      "go",
+      "llm-security",
       "openclaw",
-      "population-genetics",
-      "reproducibility"
+      "pii-detection",
+      "prompt-injection",
+      "reverse-proxy",
+      "security-proxy",
+      "vulnerability-scanning"
     ],
-    "created_at": "2026-02-25T17:43:22",
-    "updated_at": "2026-03-03T13:31:10"
+    "created_at": "2026-03-01T03:12:37",
+    "updated_at": "2026-03-03T17:08:30"
   }
 ]
