@@ -4,8 +4,8 @@
     "full_name": "RightNow-AI/openfang",
     "description": "Open-source Agent Operating System",
     "url": "https://github.com/RightNow-AI/openfang",
-    "stars": 9570,
-    "daily_stars": 84,
+    "stars": 9606,
+    "daily_stars": 36,
     "language": "Rust",
     "topics": [
       "agent-framework",
@@ -18,15 +18,15 @@
       "rust"
     ],
     "created_at": "2026-02-24T23:12:38",
-    "updated_at": "2026-03-03T17:11:08"
+    "updated_at": "2026-03-03T20:43:20"
   },
   {
     "name": "timber",
     "full_name": "kossisoroyce/timber",
     "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
     "url": "https://github.com/kossisoroyce/timber",
-    "stars": 494,
-    "daily_stars": 11,
+    "stars": 500,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "c99",
@@ -45,7 +45,7 @@
       "xgboost"
     ],
     "created_at": "2026-02-27T23:27:36",
-    "updated_at": "2026-03-03T16:53:26"
+    "updated_at": "2026-03-03T20:53:52"
   },
   {
     "name": "lovable-openclaw",
@@ -53,7 +53,7 @@
     "description": "lovable-openclaw — a macOS bootstrap CLI for Lovable. Installs, configures, and verifies a complete development environment in one command.",
     "url": "https://github.com/TriangleMagistrate/lovable-openclaw",
     "stars": 181,
-    "daily_stars": 5,
+    "daily_stars": 0,
     "language": "JavaScript",
     "topics": [
       "ai",
@@ -116,8 +116,8 @@
     "full_name": "ClawBio/ClawBio",
     "description": "🦖 ClawBio — The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw.",
     "url": "https://github.com/ClawBio/ClawBio",
-    "stars": 115,
-    "daily_stars": 3,
+    "stars": 116,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -130,30 +130,15 @@
       "reproducibility"
     ],
     "created_at": "2026-02-25T17:43:22",
-    "updated_at": "2026-03-03T16:20:45"
-  },
-  {
-    "name": "agentkeeper",
-    "full_name": "Thinklanceai/agentkeeper",
-    "description": "Cognitive persistence layer for AI agents — cross-model memory continuity. Your agent's memory survives provider switches, crashes and restarts.",
-    "url": "https://github.com/Thinklanceai/agentkeeper",
-    "stars": 114,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "llm-memory-python-openai-anthropic-gemini-ollama"
-    ],
-    "created_at": "2026-02-24T21:13:57",
-    "updated_at": "2026-03-03T14:24:55"
+    "updated_at": "2026-03-03T18:03:35"
   },
   {
     "name": "mco",
     "full_name": "mco-org/mco",
     "description": "Orchestrate AI coding agents. Any prompt. Any agent. Any IDE. Neutral orchestration layer for Claude Code, Codex CLI, Gemini CLI, OpenCode, Qwen Code — works from Cursor, Trae, Copilot, Windsurf, or plain shell.",
     "url": "https://github.com/mco-org/mco",
-    "stars": 113,
-    "daily_stars": 0,
+    "stars": 114,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -173,7 +158,22 @@
       "windsurf"
     ],
     "created_at": "2026-02-26T07:25:48",
-    "updated_at": "2026-03-03T10:30:08"
+    "updated_at": "2026-03-03T19:23:51"
+  },
+  {
+    "name": "agentkeeper",
+    "full_name": "Thinklanceai/agentkeeper",
+    "description": "Cognitive persistence layer for AI agents — cross-model memory continuity. Your agent's memory survives provider switches, crashes and restarts.",
+    "url": "https://github.com/Thinklanceai/agentkeeper",
+    "stars": 114,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "llm-memory-python-openai-anthropic-gemini-ollama"
+    ],
+    "created_at": "2026-02-24T21:13:57",
+    "updated_at": "2026-03-03T14:24:55"
   },
   {
     "name": "AimAssist",
@@ -201,29 +201,28 @@
     "updated_at": "2026-03-02T22:54:31"
   },
   {
-    "name": "clawshield-public",
-    "full_name": "SleuthCo/clawshield-public",
-    "description": "Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
-    "url": "https://github.com/SleuthCo/clawshield-public",
-    "stars": 56,
+    "name": "software-factory",
+    "full_name": "macaron-software/software-factory",
+    "description": "Multi-Agent Software Factory — Autonomous AI agents orchestrating the full product lifecycle with SAFe, TDD, and auto-heal capabilities",
+    "url": "https://github.com/macaron-software/software-factory",
+    "stars": 60,
     "daily_stars": 4,
-    "language": "Go",
+    "language": "Python",
     "topics": [
       "ai-agents",
-      "ai-security",
-      "audit-logging",
-      "defense-in-depth",
-      "ebpf",
-      "go",
-      "llm-security",
-      "openclaw",
-      "pii-detection",
-      "prompt-injection",
-      "reverse-proxy",
-      "security-proxy",
-      "vulnerability-scanning"
+      "auto-heal",
+      "autonomous-agents",
+      "devops",
+      "fastapi",
+      "htmx",
+      "llm",
+      "multi-agent",
+      "orchestration",
+      "safe-framework",
+      "software-factory",
+      "tdd"
     ],
-    "created_at": "2026-03-01T03:12:37",
-    "updated_at": "2026-03-03T17:08:30"
+    "created_at": "2026-02-23T22:00:57",
+    "updated_at": "2026-03-03T20:55:06"
   }
 ]
