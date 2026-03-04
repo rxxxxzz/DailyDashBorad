@@ -1,11 +1,55 @@
 [
   {
+    "name": "weave",
+    "full_name": "Ataraxy-Labs/weave",
+    "description": "Entity-level semantic merge driver for Git. Resolves conflicts that git can't by understanding code structure via tree-sitter. 31/31 clean merges vs git's 15/31.",
+    "url": "https://github.com/Ataraxy-Labs/weave",
+    "stars": 163,
+    "daily_stars": 77,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "conflict-resolution",
+      "developer-tools",
+      "git",
+      "mcp",
+      "merge",
+      "merge-driver",
+      "rust",
+      "semantic-merge",
+      "tree-sitter"
+    ],
+    "created_at": "2026-02-06T18:15:59",
+    "updated_at": "2026-03-04T05:28:32"
+  },
+  {
+    "name": "openfang",
+    "full_name": "RightNow-AI/openfang",
+    "description": "Open-source Agent Operating System",
+    "url": "https://github.com/RightNow-AI/openfang",
+    "stars": 9750,
+    "daily_stars": 60,
+    "language": "Rust",
+    "topics": [
+      "agent-framework",
+      "ai-agents",
+      "llm",
+      "mcp",
+      "open-source",
+      "openclaw",
+      "operating-system",
+      "rust"
+    ],
+    "created_at": "2026-02-24T23:12:38",
+    "updated_at": "2026-03-04T05:26:15"
+  },
+  {
     "name": "edict",
     "full_name": "cft0808/edict",
     "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
     "url": "https://github.com/cft0808/edict",
-    "stars": 606,
-    "daily_stars": 158,
+    "stars": 652,
+    "daily_stars": 46,
     "language": "HTML",
     "topics": [
       "ai-agents",
@@ -23,36 +67,15 @@
       "workflow-automation"
     ],
     "created_at": "2026-02-23T14:35:04",
-    "updated_at": "2026-03-04T03:08:57"
-  },
-  {
-    "name": "openfang",
-    "full_name": "RightNow-AI/openfang",
-    "description": "Open-source Agent Operating System",
-    "url": "https://github.com/RightNow-AI/openfang",
-    "stars": 9690,
-    "daily_stars": 84,
-    "language": "Rust",
-    "topics": [
-      "agent-framework",
-      "ai-agents",
-      "llm",
-      "mcp",
-      "open-source",
-      "openclaw",
-      "operating-system",
-      "rust"
-    ],
-    "created_at": "2026-02-24T23:12:38",
-    "updated_at": "2026-03-04T03:09:15"
+    "updated_at": "2026-03-04T05:26:32"
   },
   {
     "name": "ClawRouter",
     "full_name": "BlockRunAI/ClawRouter",
     "description": "Smart LLM router — save 63% on inference costs. 30+ models, one wallet, x402 micropayments.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 3973,
-    "daily_stars": 80,
+    "stars": 4005,
+    "daily_stars": 32,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -72,15 +95,15 @@
       "x402"
     ],
     "created_at": "2026-02-03T17:32:00",
-    "updated_at": "2026-03-04T03:10:34"
+    "updated_at": "2026-03-04T05:28:32"
   },
   {
     "name": "Product-Manager-Skills",
     "full_name": "deanpeters/Product-Manager-Skills",
     "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
     "url": "https://github.com/deanpeters/Product-Manager-Skills",
-    "stars": 836,
-    "daily_stars": 35,
+    "stars": 868,
+    "daily_stars": 32,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -90,15 +113,15 @@
       "product-management"
     ],
     "created_at": "2026-02-05T02:16:46",
-    "updated_at": "2026-03-04T03:08:39"
+    "updated_at": "2026-03-04T05:28:30"
   },
   {
     "name": "open-terminal",
     "full_name": "open-webui/open-terminal",
     "description": "A computer you can curl ⚡",
     "url": "https://github.com/open-webui/open-terminal",
-    "stars": 469,
-    "daily_stars": 29,
+    "stars": 479,
+    "daily_stars": 10,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -108,65 +131,15 @@
       "open-webui"
     ],
     "created_at": "2026-02-10T21:57:30",
-    "updated_at": "2026-03-04T03:05:31"
-  },
-  {
-    "name": "timber",
-    "full_name": "kossisoroyce/timber",
-    "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
-    "url": "https://github.com/kossisoroyce/timber",
-    "stars": 514,
-    "daily_stars": 14,
-    "language": "Python",
-    "topics": [
-      "c99",
-      "catboost",
-      "compiler",
-      "decision-trees",
-      "gradient-boosting",
-      "inference",
-      "lightgbm",
-      "machine-learning",
-      "mlops",
-      "model-serving",
-      "ollama",
-      "onnx",
-      "sklearn",
-      "xgboost"
-    ],
-    "created_at": "2026-02-27T23:27:36",
-    "updated_at": "2026-03-04T02:50:41"
-  },
-  {
-    "name": "weave",
-    "full_name": "Ataraxy-Labs/weave",
-    "description": "Entity-level semantic merge driver for Git. Resolves conflicts that git can't by understanding code structure via tree-sitter. 31/31 clean merges vs git's 15/31.",
-    "url": "https://github.com/Ataraxy-Labs/weave",
-    "stars": 86,
-    "daily_stars": 13,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "conflict-resolution",
-      "developer-tools",
-      "git",
-      "mcp",
-      "merge",
-      "merge-driver",
-      "rust",
-      "semantic-merge",
-      "tree-sitter"
-    ],
-    "created_at": "2026-02-06T18:15:59",
-    "updated_at": "2026-03-04T03:10:15"
+    "updated_at": "2026-03-04T05:28:53"
   },
   {
     "name": "overstory",
     "full_name": "jayminwest/overstory",
     "description": "Project-agnostic swarm system for Claude Code agent orchestration",
     "url": "https://github.com/jayminwest/overstory",
-    "stars": 654,
-    "daily_stars": 10,
+    "stars": 658,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
       "agent-swarms",
@@ -175,15 +148,15 @@
       "tmux"
     ],
     "created_at": "2026-02-12T14:53:58",
-    "updated_at": "2026-03-04T02:37:29"
+    "updated_at": "2026-03-04T05:08:31"
   },
   {
     "name": "animaworks",
     "full_name": "xuiltul/animaworks",
     "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model (Claude/GPT/Gemini/Ollama).",
     "url": "https://github.com/xuiltul/animaworks",
-    "stars": 101,
-    "daily_stars": 9,
+    "stars": 104,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "agent-framework",
@@ -202,39 +175,54 @@
       "rag"
     ],
     "created_at": "2026-02-18T09:43:25",
-    "updated_at": "2026-03-04T02:21:16"
+    "updated_at": "2026-03-04T05:20:55"
   },
   {
-    "name": "claude-forge",
-    "full_name": "sangrokjung/claude-forge",
-    "description": "Supercharge Claude Code with 11 AI agents, 36 commands & 15 skills — the claude-code plugin framework inspired by oh-my-zsh. 6-layer security hooks included. 5-min install.",
-    "url": "https://github.com/sangrokjung/claude-forge",
-    "stars": 387,
-    "daily_stars": 9,
-    "language": "Shell",
+    "name": "timber",
+    "full_name": "kossisoroyce/timber",
+    "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
+    "url": "https://github.com/kossisoroyce/timber",
+    "stars": 517,
+    "daily_stars": 3,
+    "language": "Python",
     "topics": [
-      "agents",
-      "ai-assistant",
-      "ai-coding",
-      "ai-framework",
-      "ai-pair-programming",
-      "anthropic",
-      "automation",
-      "claude-code",
-      "claude-code-agents",
-      "cli-tools",
-      "developer-experience",
-      "developer-tools",
-      "dotfiles",
-      "hooks",
-      "llm",
-      "macos",
-      "productivity",
-      "shell",
-      "slash-commands",
-      "workflow"
+      "c99",
+      "catboost",
+      "compiler",
+      "decision-trees",
+      "gradient-boosting",
+      "inference",
+      "lightgbm",
+      "machine-learning",
+      "mlops",
+      "model-serving",
+      "ollama",
+      "onnx",
+      "sklearn",
+      "xgboost"
     ],
-    "created_at": "2026-02-23T07:46:08",
-    "updated_at": "2026-03-04T02:49:55"
+    "created_at": "2026-02-27T23:27:36",
+    "updated_at": "2026-03-04T04:55:47"
+  },
+  {
+    "name": "openbrowserclaw",
+    "full_name": "sachaa/openbrowserclaw",
+    "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server.",
+    "url": "https://github.com/sachaa/openbrowserclaw",
+    "stars": 497,
+    "daily_stars": 2,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "ai-assistant",
+      "browser",
+      "claude",
+      "claw",
+      "openclaw",
+      "pwa",
+      "typescript"
+    ],
+    "created_at": "2026-02-21T20:52:49",
+    "updated_at": "2026-03-04T04:56:48"
   }
 ]
