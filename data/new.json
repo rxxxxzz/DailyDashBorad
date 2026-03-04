@@ -4,8 +4,8 @@
     "full_name": "RightNow-AI/openfang",
     "description": "Open-source Agent Operating System",
     "url": "https://github.com/RightNow-AI/openfang",
-    "stars": 9750,
-    "daily_stars": 60,
+    "stars": 9836,
+    "daily_stars": 86,
     "language": "Rust",
     "topics": [
       "agent-framework",
@@ -18,15 +18,15 @@
       "rust"
     ],
     "created_at": "2026-02-24T23:12:38",
-    "updated_at": "2026-03-04T05:26:15"
+    "updated_at": "2026-03-04T09:02:26"
   },
   {
     "name": "timber",
     "full_name": "kossisoroyce/timber",
     "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
     "url": "https://github.com/kossisoroyce/timber",
-    "stars": 517,
-    "daily_stars": 3,
+    "stars": 524,
+    "daily_stars": 7,
     "language": "Python",
     "topics": [
       "c99",
@@ -45,56 +45,15 @@
       "xgboost"
     ],
     "created_at": "2026-02-27T23:27:36",
-    "updated_at": "2026-03-04T04:55:47"
-  },
-  {
-    "name": "DeepSeek-Claw",
-    "full_name": "TriangleMagistrate/DeepSeek-Claw",
-    "description": null,
-    "url": "https://github.com/TriangleMagistrate/DeepSeek-Claw",
-    "stars": 174,
-    "daily_stars": -1,
-    "language": "Shell",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "deepseek",
-      "deepseek-api",
-      "openclaw",
-      "openclaw-skill",
-      "openclaw-skills"
-    ],
-    "created_at": "2026-03-02T00:19:33",
-    "updated_at": "2026-03-04T05:15:22"
-  },
-  {
-    "name": "lovable-openclaw",
-    "full_name": "TriangleMagistrate/lovable-openclaw",
-    "description": "lovable-openclaw — a macOS bootstrap CLI for Lovable. Installs, configures, and verifies a complete development environment in one command.",
-    "url": "https://github.com/TriangleMagistrate/lovable-openclaw",
-    "stars": 173,
-    "daily_stars": -2,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "lovable",
-      "lovable-ai",
-      "lovable-dev",
-      "openclaw",
-      "openclaw-skill",
-      "openclaw-skills"
-    ],
-    "created_at": "2026-03-02T18:35:58",
-    "updated_at": "2026-03-04T05:26:49"
+    "updated_at": "2026-03-04T08:06:42"
   },
   {
     "name": "ClawBio",
     "full_name": "ClawBio/ClawBio",
     "description": "🦖 ClawBio — The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw.",
     "url": "https://github.com/ClawBio/ClawBio",
-    "stars": 117,
-    "daily_stars": 0,
+    "stars": 118,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -107,7 +66,7 @@
       "reproducibility"
     ],
     "created_at": "2026-02-25T17:43:22",
-    "updated_at": "2026-03-04T00:25:38"
+    "updated_at": "2026-03-04T08:31:55"
   },
   {
     "name": "mco",
@@ -178,6 +137,29 @@
     "updated_at": "2026-03-02T22:54:31"
   },
   {
+    "name": "Doubao-Claw",
+    "full_name": "Heartflabrace/Doubao-Claw",
+    "description": null,
+    "url": "https://github.com/Heartflabrace/Doubao-Claw",
+    "stars": 64,
+    "daily_stars": 0,
+    "language": "Rust",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "deepseek",
+      "doubao",
+      "doubao-api",
+      "doubao-claw",
+      "doubaoai",
+      "openclaw",
+      "openclaw-skill",
+      "openclaw-skills"
+    ],
+    "created_at": "2026-03-04T03:17:15",
+    "updated_at": "2026-03-04T09:02:07"
+  },
+  {
     "name": "clawshield-public",
     "full_name": "SleuthCo/clawshield-public",
     "description": "Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
@@ -208,8 +190,8 @@
     "full_name": "Crestdrasnips/claude-zeroclaw",
     "description": null,
     "url": "https://github.com/Crestdrasnips/claude-zeroclaw",
-    "stars": 60,
-    "daily_stars": 2,
+    "stars": 61,
+    "daily_stars": 1,
     "language": "Rust",
     "topics": [
       "ai",
@@ -231,6 +213,24 @@
       "zeroclaw-skills"
     ],
     "created_at": "2026-03-02T20:39:34",
-    "updated_at": "2026-03-04T05:26:49"
+    "updated_at": "2026-03-04T07:40:16"
+  },
+  {
+    "name": "neural-open.nvim",
+    "full_name": "dtormoen/neural-open.nvim",
+    "description": "A smart picker for Snacks.nvim that trains a neural network with your file picking preferences.",
+    "url": "https://github.com/dtormoen/neural-open.nvim",
+    "stars": 42,
+    "daily_stars": 0,
+    "language": "Lua",
+    "topics": [
+      "lua",
+      "machine-learning",
+      "neovim",
+      "neovim-plugin",
+      "snacks-nvim"
+    ],
+    "created_at": "2026-02-24T22:06:41",
+    "updated_at": "2026-03-04T07:24:46"
   }
 ]
