@@ -4,8 +4,8 @@
     "full_name": "kossisoroyce/timber",
     "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
     "url": "https://github.com/kossisoroyce/timber",
-    "stars": 545,
-    "daily_stars": 5,
+    "stars": 546,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "c99",
@@ -24,15 +24,36 @@
       "xgboost"
     ],
     "created_at": "2026-02-27T23:27:36",
-    "updated_at": "2026-03-05T03:07:27"
+    "updated_at": "2026-03-05T04:14:01"
+  },
+  {
+    "name": "ClawBio",
+    "full_name": "ClawBio/ClawBio",
+    "description": "🦖 ClawBio — The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw.",
+    "url": "https://github.com/ClawBio/ClawBio",
+    "stars": 134,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "bioinformatics",
+      "equity",
+      "genomics",
+      "local-first",
+      "openclaw",
+      "population-genetics",
+      "reproducibility"
+    ],
+    "created_at": "2026-02-25T17:43:22",
+    "updated_at": "2026-03-05T04:05:58"
   },
   {
     "name": "Doubao-Claw",
     "full_name": "Heartflabrace/Doubao-Claw",
     "description": null,
     "url": "https://github.com/Heartflabrace/Doubao-Claw",
-    "stars": 136,
-    "daily_stars": 0,
+    "stars": 134,
+    "daily_stars": -2,
     "language": "Rust",
     "topics": [
       "ai",
@@ -47,36 +68,15 @@
       "openclaw-skills"
     ],
     "created_at": "2026-03-04T03:17:15",
-    "updated_at": "2026-03-05T02:16:36"
-  },
-  {
-    "name": "ClawBio",
-    "full_name": "ClawBio/ClawBio",
-    "description": "🦖 ClawBio — The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw.",
-    "url": "https://github.com/ClawBio/ClawBio",
-    "stars": 132,
-    "daily_stars": 6,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "bioinformatics",
-      "equity",
-      "genomics",
-      "local-first",
-      "openclaw",
-      "population-genetics",
-      "reproducibility"
-    ],
-    "created_at": "2026-02-25T17:43:22",
-    "updated_at": "2026-03-05T02:46:01"
+    "updated_at": "2026-03-05T05:26:17"
   },
   {
     "name": "mco",
     "full_name": "mco-org/mco",
     "description": "Orchestrate AI coding agents. Any prompt. Any agent. Any IDE. Neutral orchestration layer for Claude Code, Codex CLI, Gemini CLI, OpenCode, Qwen Code — works from Cursor, Trae, Copilot, Windsurf, or plain shell.",
     "url": "https://github.com/mco-org/mco",
-    "stars": 124,
-    "daily_stars": 5,
+    "stars": 128,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -96,15 +96,15 @@
       "windsurf"
     ],
     "created_at": "2026-02-26T07:25:48",
-    "updated_at": "2026-03-05T02:37:52"
+    "updated_at": "2026-03-05T05:09:47"
   },
   {
     "name": "clawshield-public",
     "full_name": "SleuthCo/clawshield-public",
     "description": "Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
     "url": "https://github.com/SleuthCo/clawshield-public",
-    "stars": 71,
-    "daily_stars": 6,
+    "stars": 72,
+    "daily_stars": 1,
     "language": "Go",
     "topics": [
       "ai-agents",
@@ -122,7 +122,7 @@
       "vulnerability-scanning"
     ],
     "created_at": "2026-03-01T03:12:37",
-    "updated_at": "2026-03-05T02:10:58"
+    "updated_at": "2026-03-05T03:55:44"
   },
   {
     "name": "AimAssist",
@@ -154,8 +154,8 @@
     "full_name": "Crestdrasnips/claude-zeroclaw",
     "description": null,
     "url": "https://github.com/Crestdrasnips/claude-zeroclaw",
-    "stars": 53,
-    "daily_stars": -2,
+    "stars": 52,
+    "daily_stars": -1,
     "language": "Rust",
     "topics": [
       "ai",
@@ -177,7 +177,7 @@
       "zeroclaw-skills"
     ],
     "created_at": "2026-03-02T20:39:34",
-    "updated_at": "2026-03-04T23:46:02"
+    "updated_at": "2026-03-05T05:26:17"
   },
   {
     "name": "pixels",
@@ -228,7 +228,7 @@
     "description": "Legend of Elya — N64 game with a real 819K-parameter transformer running on the VR4300 MIPS III CPU. Zelda-style dungeon, AI NPCs, byte-level inference at 60 tok/s. Built with libdragon SDK.",
     "url": "https://github.com/Scottcjn/legend-of-elya-n64",
     "stars": 25,
-    "daily_stars": 3,
+    "daily_stars": 0,
     "language": "C",
     "topics": [
       "ai",
