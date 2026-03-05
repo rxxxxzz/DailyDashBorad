@@ -4,8 +4,8 @@
     "full_name": "cft0808/edict",
     "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
     "url": "https://github.com/cft0808/edict",
-    "stars": 2306,
-    "daily_stars": 517,
+    "stars": 2477,
+    "daily_stars": 171,
     "language": "HTML",
     "topics": [
       "ai-agents",
@@ -23,15 +23,15 @@
       "workflow-automation"
     ],
     "created_at": "2026-02-23T14:35:04",
-    "updated_at": "2026-03-05T13:39:07"
+    "updated_at": "2026-03-05T18:18:38"
   },
   {
     "name": "openfang",
     "full_name": "RightNow-AI/openfang",
     "description": "Open-source Agent Operating System",
     "url": "https://github.com/RightNow-AI/openfang",
-    "stars": 10364,
-    "daily_stars": 77,
+    "stars": 10435,
+    "daily_stars": 71,
     "language": "Rust",
     "topics": [
       "agent-framework",
@@ -44,15 +44,42 @@
       "rust"
     ],
     "created_at": "2026-02-24T23:12:38",
-    "updated_at": "2026-03-05T13:30:33"
+    "updated_at": "2026-03-05T18:25:22"
+  },
+  {
+    "name": "mlx-vis",
+    "full_name": "hanxiao/mlx-vis",
+    "description": "Pure MLX implementations of UMAP, t-SNE, PaCMAP, TriMap, DREAMS, CNE, and NNDescent for Apple Silicon. Metal GPU for computation and video rendering.",
+    "url": "https://github.com/hanxiao/mlx-vis",
+    "stars": 28,
+    "daily_stars": 19,
+    "language": "Python",
+    "topics": [
+      "apple-silicon",
+      "cne",
+      "dimensionality-reduction",
+      "dreams",
+      "gpu",
+      "machine-learning",
+      "metal",
+      "mlx",
+      "numpy",
+      "pacmap",
+      "trimap",
+      "tsne",
+      "umap",
+      "visualization"
+    ],
+    "created_at": "2026-03-04T04:22:23",
+    "updated_at": "2026-03-05T18:19:59"
   },
   {
     "name": "Product-Manager-Skills",
     "full_name": "deanpeters/Product-Manager-Skills",
     "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
     "url": "https://github.com/deanpeters/Product-Manager-Skills",
-    "stars": 1058,
-    "daily_stars": 20,
+    "stars": 1073,
+    "daily_stars": 15,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -62,50 +89,15 @@
       "product-management"
     ],
     "created_at": "2026-02-05T02:16:46",
-    "updated_at": "2026-03-05T13:40:43"
-  },
-  {
-    "name": "awesome-claws",
-    "full_name": "machinae/awesome-claws",
-    "description": "A curated list of awesome AI agents inspired by OpenClaw",
-    "url": "https://github.com/machinae/awesome-claws",
-    "stars": 207,
-    "daily_stars": 16,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "awesome",
-      "awesome-list",
-      "openclaw"
-    ],
-    "created_at": "2026-02-19T17:14:57",
-    "updated_at": "2026-03-05T13:08:00"
-  },
-  {
-    "name": "open-terminal",
-    "full_name": "open-webui/open-terminal",
-    "description": "A computer you can curl ⚡",
-    "url": "https://github.com/open-webui/open-terminal",
-    "stars": 576,
-    "daily_stars": 13,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "ai",
-      "ai-agents",
-      "ai-tools",
-      "open-webui"
-    ],
-    "created_at": "2026-02-10T21:57:30",
-    "updated_at": "2026-03-05T13:36:22"
+    "updated_at": "2026-03-05T18:22:00"
   },
   {
     "name": "weave",
     "full_name": "Ataraxy-Labs/weave",
     "description": "Entity-level semantic merge driver for Git. Resolves conflicts that git can't by understanding code structure via tree-sitter. 31/31 clean merges vs git's 15/31.",
     "url": "https://github.com/Ataraxy-Labs/weave",
-    "stars": 495,
-    "daily_stars": 12,
+    "stars": 508,
+    "daily_stars": 13,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -120,15 +112,67 @@
       "tree-sitter"
     ],
     "created_at": "2026-02-06T18:15:59",
-    "updated_at": "2026-03-05T13:38:03"
+    "updated_at": "2026-03-05T18:06:55"
+  },
+  {
+    "name": "awesome-claws",
+    "full_name": "machinae/awesome-claws",
+    "description": "A curated list of awesome AI agents inspired by OpenClaw",
+    "url": "https://github.com/machinae/awesome-claws",
+    "stars": 220,
+    "daily_stars": 13,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "awesome",
+      "awesome-list",
+      "openclaw"
+    ],
+    "created_at": "2026-02-19T17:14:57",
+    "updated_at": "2026-03-05T18:19:25"
+  },
+  {
+    "name": "open-terminal",
+    "full_name": "open-webui/open-terminal",
+    "description": "A computer you can curl ⚡",
+    "url": "https://github.com/open-webui/open-terminal",
+    "stars": 586,
+    "daily_stars": 10,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "open-webui"
+    ],
+    "created_at": "2026-02-10T21:57:30",
+    "updated_at": "2026-03-05T18:09:45"
+  },
+  {
+    "name": "overstory",
+    "full_name": "jayminwest/overstory",
+    "description": "Project-agnostic swarm system for Claude Code agent orchestration",
+    "url": "https://github.com/jayminwest/overstory",
+    "stars": 700,
+    "daily_stars": 7,
+    "language": "TypeScript",
+    "topics": [
+      "agent-swarms",
+      "ai-agents",
+      "claude-code",
+      "tmux"
+    ],
+    "created_at": "2026-02-12T14:53:58",
+    "updated_at": "2026-03-05T17:48:00"
   },
   {
     "name": "openclaw-dashboard",
     "full_name": "tugcantopaloglu/openclaw-dashboard",
     "description": "🔐 Secure, real-time monitoring dashboard for OpenClaw AI agents. Auth, TOTP MFA, cost tracking, live feed, memory browser — zero dependencies.",
     "url": "https://github.com/tugcantopaloglu/openclaw-dashboard",
-    "stars": 220,
-    "daily_stars": 9,
+    "stars": 226,
+    "daily_stars": 6,
     "language": "HTML",
     "topics": [
       "ai-agents",
@@ -148,15 +192,15 @@
       "totp"
     ],
     "created_at": "2026-02-10T08:52:47",
-    "updated_at": "2026-03-05T13:40:06"
+    "updated_at": "2026-03-05T17:00:43"
   },
   {
     "name": "doc-to-lora",
     "full_name": "SakanaAI/doc-to-lora",
     "description": "Hypernetworks that update LLMs to remember factual information",
     "url": "https://github.com/SakanaAI/doc-to-lora",
-    "stars": 434,
-    "daily_stars": 9,
+    "stars": 440,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "ai",
@@ -169,56 +213,6 @@
       "memory"
     ],
     "created_at": "2026-02-11T10:11:52",
-    "updated_at": "2026-03-05T13:36:42"
-  },
-  {
-    "name": "bosun",
-    "full_name": "virtengine/bosun",
-    "description": "Autonomous supervisor for AI coding workflows",
-    "url": "https://github.com/virtengine/bosun",
-    "stars": 172,
-    "daily_stars": 8,
-    "language": "JavaScript",
-    "topics": [
-      "agent-supervisor",
-      "agentic-ai",
-      "agents",
-      "automation",
-      "chatgpt",
-      "claude",
-      "claude-code",
-      "codex",
-      "copilot",
-      "development",
-      "gpt",
-      "llm",
-      "machine-learning",
-      "n8n",
-      "self-improving-agent",
-      "self-improving-ai",
-      "software",
-      "software-engineering",
-      "workflows"
-    ],
-    "created_at": "2026-02-19T07:52:11",
-    "updated_at": "2026-03-05T12:55:34"
-  },
-  {
-    "name": "CountBot",
-    "full_name": "countbot-ai/CountBot",
-    "description": "专为个人用户打造的开源 AI Agent — 轻量、易用、中文优先 | 记忆系统 · 多渠道 · 技能插件 · 国产大模型深度适配",
-    "url": "https://github.com/countbot-ai/CountBot",
-    "stars": 170,
-    "daily_stars": 6,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "ai-assisted",
-      "assistant",
-      "official"
-    ],
-    "created_at": "2026-02-19T03:22:11",
-    "updated_at": "2026-03-05T13:06:16"
+    "updated_at": "2026-03-05T17:35:56"
   }
 ]
