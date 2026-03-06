@@ -4,8 +4,8 @@
     "full_name": "kossisoroyce/timber",
     "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
     "url": "https://github.com/kossisoroyce/timber",
-    "stars": 591,
-    "daily_stars": 8,
+    "stars": 594,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "c99",
@@ -24,15 +24,15 @@
       "xgboost"
     ],
     "created_at": "2026-02-27T23:27:36",
-    "updated_at": "2026-03-06T16:34:30"
+    "updated_at": "2026-03-06T19:43:16"
   },
   {
     "name": "loomkin",
     "full_name": "bleuropa/loomkin",
     "description": "AI agent teams built on OTP — each agent is a GenServer, they coordinate via PubSub in microseconds, supervisors restart crashed agents automatically. Agents debate, review each other's work, share discoveries, and self-organize. The BEAM was designed for this 30 years ago.",
     "url": "https://github.com/bleuropa/loomkin",
-    "stars": 148,
-    "daily_stars": 2,
+    "stars": 149,
+    "daily_stars": 1,
     "language": "Elixir",
     "topics": [
       "ai-agents",
@@ -46,7 +46,7 @@
       "phoenix"
     ],
     "created_at": "2026-02-28T03:53:29",
-    "updated_at": "2026-03-06T16:19:38"
+    "updated_at": "2026-03-06T19:14:57"
   },
   {
     "name": "Doubao-Claw",
@@ -54,7 +54,7 @@
     "description": null,
     "url": "https://github.com/Heartflabrace/Doubao-Claw",
     "stars": 122,
-    "daily_stars": -1,
+    "daily_stars": 0,
     "language": "Rust",
     "topics": [
       "ai",
@@ -76,7 +76,7 @@
     "full_name": "SleuthCo/clawshield-public",
     "description": "Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
     "url": "https://github.com/SleuthCo/clawshield-public",
-    "stars": 90,
+    "stars": 91,
     "daily_stars": 1,
     "language": "Go",
     "topics": [
@@ -95,45 +95,35 @@
       "vulnerability-scanning"
     ],
     "created_at": "2026-03-01T03:12:37",
-    "updated_at": "2026-03-06T16:35:52"
+    "updated_at": "2026-03-06T19:53:35"
   },
   {
-    "name": "claude-zeroclaw",
-    "full_name": "Crestdrasnips/claude-zeroclaw",
-    "description": null,
-    "url": "https://github.com/Crestdrasnips/claude-zeroclaw",
-    "stars": 50,
+    "name": "agentseal",
+    "full_name": "AgentSeal/agentseal",
+    "description": "Security validator for AI agents - find out if your agent can be hacked",
+    "url": "https://github.com/AgentSeal/agentseal",
+    "stars": 65,
     "daily_stars": 0,
-    "language": "Rust",
+    "language": "Python",
     "topics": [
-      "ai",
       "ai-agents",
-      "anthropic",
-      "anthropic-claude",
-      "claude",
-      "claude-code",
-      "coding-agent",
-      "javascript",
-      "rust",
-      "skill",
-      "skill-agent",
-      "skills",
-      "zeroclaw",
-      "zeroclaw-anthropic",
-      "zeroclaw-claude",
-      "zeroclaw-skill",
-      "zeroclaw-skills"
+      "llm",
+      "llm-security",
+      "pentesting",
+      "prompt-injection",
+      "red-team",
+      "security"
     ],
-    "created_at": "2026-03-02T20:39:34",
-    "updated_at": "2026-03-06T15:46:57"
+    "created_at": "2026-03-03T10:01:58",
+    "updated_at": "2026-03-06T20:28:47"
   },
   {
     "name": "mlx-vis",
     "full_name": "hanxiao/mlx-vis",
     "description": "Pure MLX implementations of UMAP, t-SNE, PaCMAP, TriMap, DREAMS, CNE, and NNDescent for Apple Silicon. Metal GPU for computation and video rendering.",
     "url": "https://github.com/hanxiao/mlx-vis",
-    "stars": 48,
-    "daily_stars": 1,
+    "stars": 51,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "apple-silicon",
@@ -152,15 +142,15 @@
       "visualization"
     ],
     "created_at": "2026-03-04T04:22:23",
-    "updated_at": "2026-03-06T16:02:12"
+    "updated_at": "2026-03-06T20:27:58"
   },
   {
     "name": "legend-of-elya-n64",
     "full_name": "Scottcjn/legend-of-elya-n64",
     "description": "Legend of Elya — N64 game with a real 819K-parameter transformer running on the VR4300 MIPS III CPU. Zelda-style dungeon, AI NPCs, byte-level inference at 60 tok/s. Built with libdragon SDK.",
     "url": "https://github.com/Scottcjn/legend-of-elya-n64",
-    "stars": 31,
-    "daily_stars": 0,
+    "stars": 33,
+    "daily_stars": 2,
     "language": "C",
     "topics": [
       "ai",
@@ -178,7 +168,7 @@
       "zelda"
     ],
     "created_at": "2026-02-27T21:22:07",
-    "updated_at": "2026-03-06T00:53:54"
+    "updated_at": "2026-03-06T18:07:59"
   },
   {
     "name": "ai-video-generation-workflow",
@@ -207,6 +197,26 @@
     "updated_at": "2026-03-06T08:14:04"
   },
   {
+    "name": "Polymarket-AI-Trading-Bot",
+    "full_name": "SamYbarra/Polymarket-AI-Trading-Bot",
+    "description": "Polymarket trading bot based on AI | ML",
+    "url": "https://github.com/SamYbarra/Polymarket-AI-Trading-Bot",
+    "stars": 21,
+    "daily_stars": 10,
+    "language": "TypeScript",
+    "topics": [
+      "machine-learning",
+      "polymarket-trade-bot",
+      "polymarket-trading-strategy",
+      "trading-algorithm",
+      "trading-algorithms",
+      "trading-strategies",
+      "trading-strategy"
+    ],
+    "created_at": "2026-03-04T00:14:22",
+    "updated_at": "2026-03-06T20:22:25"
+  },
+  {
     "name": "pacmap-mlx",
     "full_name": "hanxiao/pacmap-mlx",
     "description": "PaCMAP in pure MLX for Apple Silicon. Pure GPU, no scipy/numba.",
@@ -225,24 +235,5 @@
     ],
     "created_at": "2026-02-28T05:07:06",
     "updated_at": "2026-03-06T01:56:18"
-  },
-  {
-    "name": "Orion",
-    "full_name": "mechramc/Orion",
-    "description": "Local AI runtime for training & running small LLMs directly on Apple Neural Engine (ANE). No CoreML. No Metal. Offline, on-device fine-tuning & inference on M-series silicon.",
-    "url": "https://github.com/mechramc/Orion",
-    "stars": 13,
-    "daily_stars": 2,
-    "language": "Objective-C",
-    "topics": [
-      "ai",
-      "apple-silicon",
-      "llm-on-device",
-      "machine-learning",
-      "neural-engine",
-      "reverse-engineering"
-    ],
-    "created_at": "2026-03-03T13:59:35",
-    "updated_at": "2026-03-06T16:29:38"
   }
 ]
