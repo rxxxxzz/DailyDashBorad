@@ -4,8 +4,8 @@
     "full_name": "cft0808/edict",
     "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
     "url": "https://github.com/cft0808/edict",
-    "stars": 2504,
-    "daily_stars": 27,
+    "stars": 2776,
+    "daily_stars": 272,
     "language": "HTML",
     "topics": [
       "ai-agents",
@@ -23,15 +23,15 @@
       "workflow-automation"
     ],
     "created_at": "2026-02-23T14:35:04",
-    "updated_at": "2026-03-05T20:54:19"
+    "updated_at": "2026-03-06T03:11:52"
   },
   {
     "name": "openfang",
     "full_name": "RightNow-AI/openfang",
     "description": "Open-source Agent Operating System",
     "url": "https://github.com/RightNow-AI/openfang",
-    "stars": 10454,
-    "daily_stars": 19,
+    "stars": 10653,
+    "daily_stars": 199,
     "language": "Rust",
     "topics": [
       "agent-framework",
@@ -44,56 +44,41 @@
       "rust"
     ],
     "created_at": "2026-02-24T23:12:38",
-    "updated_at": "2026-03-05T21:01:25"
+    "updated_at": "2026-03-06T03:11:30"
   },
   {
-    "name": "weave",
-    "full_name": "Ataraxy-Labs/weave",
-    "description": "Entity-level semantic merge driver for Git. Resolves conflicts that git can't by understanding code structure via tree-sitter. 31/31 clean merges vs git's 15/31.",
-    "url": "https://github.com/Ataraxy-Labs/weave",
-    "stars": 516,
-    "daily_stars": 8,
-    "language": "Rust",
+    "name": "ai-video-generation-workflow",
+    "full_name": "haolinwang819-boop/ai-video-generation-workflow",
+    "description": "AI video generation workflow with script, slides, TTS, subtitles, and FFmpeg rendering.",
+    "url": "https://github.com/haolinwang819-boop/ai-video-generation-workflow",
+    "stars": 31,
+    "daily_stars": 24,
+    "language": "TypeScript",
     "topics": [
-      "ai-agents",
-      "conflict-resolution",
-      "developer-tools",
-      "git",
-      "mcp",
-      "merge",
-      "merge-driver",
-      "rust",
-      "semantic-merge",
-      "tree-sitter"
+      "ai-video",
+      "ai-video-generation",
+      "ai-video-generator",
+      "ai-video-maker",
+      "automation",
+      "ffmpeg",
+      "notebooklm",
+      "subtitles",
+      "subtitles-generator",
+      "tts",
+      "typescript",
+      "video-generation",
+      "workflow"
     ],
-    "created_at": "2026-02-06T18:15:59",
-    "updated_at": "2026-03-05T20:07:07"
-  },
-  {
-    "name": "open-terminal",
-    "full_name": "open-webui/open-terminal",
-    "description": "A computer you can curl ⚡",
-    "url": "https://github.com/open-webui/open-terminal",
-    "stars": 592,
-    "daily_stars": 6,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "ai",
-      "ai-agents",
-      "ai-tools",
-      "open-webui"
-    ],
-    "created_at": "2026-02-10T21:57:30",
-    "updated_at": "2026-03-05T20:52:57"
+    "created_at": "2026-03-04T16:44:48",
+    "updated_at": "2026-03-06T02:54:12"
   },
   {
     "name": "Product-Manager-Skills",
     "full_name": "deanpeters/Product-Manager-Skills",
     "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
     "url": "https://github.com/deanpeters/Product-Manager-Skills",
-    "stars": 1077,
-    "daily_stars": 4,
+    "stars": 1093,
+    "daily_stars": 16,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -103,32 +88,66 @@
       "product-management"
     ],
     "created_at": "2026-02-05T02:16:46",
-    "updated_at": "2026-03-05T19:47:07"
+    "updated_at": "2026-03-06T03:12:27"
   },
   {
-    "name": "overstory",
-    "full_name": "jayminwest/overstory",
-    "description": "Project-agnostic swarm system for Claude Code agent orchestration",
-    "url": "https://github.com/jayminwest/overstory",
-    "stars": 704,
-    "daily_stars": 4,
-    "language": "TypeScript",
+    "name": "open-terminal",
+    "full_name": "open-webui/open-terminal",
+    "description": "A computer you can curl ⚡",
+    "url": "https://github.com/open-webui/open-terminal",
+    "stars": 608,
+    "daily_stars": 16,
+    "language": "Python",
     "topics": [
-      "agent-swarms",
+      "agentic-ai",
+      "ai",
       "ai-agents",
-      "claude-code",
-      "tmux"
+      "ai-tools",
+      "open-webui"
     ],
-    "created_at": "2026-02-12T14:53:58",
-    "updated_at": "2026-03-05T20:12:09"
+    "created_at": "2026-02-10T21:57:30",
+    "updated_at": "2026-03-06T02:46:44"
+  },
+  {
+    "name": "CloakBrowser",
+    "full_name": "CloakHQ/CloakBrowser",
+    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+    "url": "https://github.com/CloakHQ/CloakBrowser",
+    "stars": 187,
+    "daily_stars": 16,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "anti-detect",
+      "antidetect-browser",
+      "bot-detection",
+      "browser-automation",
+      "captcha-bypass",
+      "chromium",
+      "cloudflare",
+      "cloudflare-bypass",
+      "fingerprint",
+      "headless-browser",
+      "playwright",
+      "puppeteer",
+      "python",
+      "recaptcha",
+      "selenium",
+      "stealth-browser",
+      "undetected",
+      "web-scraping",
+      "webscraping"
+    ],
+    "created_at": "2026-02-22T08:09:57",
+    "updated_at": "2026-03-06T01:47:12"
   },
   {
     "name": "mlx-vis",
     "full_name": "hanxiao/mlx-vis",
     "description": "Pure MLX implementations of UMAP, t-SNE, PaCMAP, TriMap, DREAMS, CNE, and NNDescent for Apple Silicon. Metal GPU for computation and video rendering.",
     "url": "https://github.com/hanxiao/mlx-vis",
-    "stars": 32,
-    "daily_stars": 4,
+    "stars": 39,
+    "daily_stars": 7,
     "language": "Python",
     "topics": [
       "apple-silicon",
@@ -147,32 +166,66 @@
       "visualization"
     ],
     "created_at": "2026-03-04T04:22:23",
-    "updated_at": "2026-03-05T20:51:08"
+    "updated_at": "2026-03-06T02:52:00"
   },
   {
-    "name": "awesome-claws",
-    "full_name": "machinae/awesome-claws",
-    "description": "A curated list of awesome AI agents inspired by OpenClaw",
-    "url": "https://github.com/machinae/awesome-claws",
-    "stars": 223,
-    "daily_stars": 3,
-    "language": null,
+    "name": "weave",
+    "full_name": "Ataraxy-Labs/weave",
+    "description": "Entity-level semantic merge driver for Git. Resolves conflicts that git can't by understanding code structure via tree-sitter. 31/31 clean merges vs git's 15/31.",
+    "url": "https://github.com/Ataraxy-Labs/weave",
+    "stars": 522,
+    "daily_stars": 6,
+    "language": "Rust",
     "topics": [
       "ai-agents",
-      "awesome",
-      "awesome-list",
-      "openclaw"
+      "conflict-resolution",
+      "developer-tools",
+      "git",
+      "mcp",
+      "merge",
+      "merge-driver",
+      "rust",
+      "semantic-merge",
+      "tree-sitter"
     ],
-    "created_at": "2026-02-19T17:14:57",
-    "updated_at": "2026-03-05T19:15:56"
+    "created_at": "2026-02-06T18:15:59",
+    "updated_at": "2026-03-06T02:23:11"
+  },
+  {
+    "name": "Aegis",
+    "full_name": "antropos17/Aegis",
+    "description": "Independent AI Oversight Layer — monitors what AI agents do on your computer. EDR for AI Agents.",
+    "url": "https://github.com/antropos17/Aegis",
+    "stars": 57,
+    "daily_stars": 6,
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-safety",
+      "ai-security",
+      "cybersecurity",
+      "desktop-app",
+      "developer-tools",
+      "edr",
+      "electron",
+      "monitoring",
+      "open-source",
+      "privacy",
+      "security",
+      "svelte",
+      "typescript"
+    ],
+    "created_at": "2026-02-17T13:23:45",
+    "updated_at": "2026-03-06T02:05:01"
   },
   {
     "name": "doc-to-lora",
     "full_name": "SakanaAI/doc-to-lora",
     "description": "Hypernetworks that update LLMs to remember factual information",
     "url": "https://github.com/SakanaAI/doc-to-lora",
-    "stars": 443,
-    "daily_stars": 3,
+    "stars": 449,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "ai",
@@ -185,32 +238,6 @@
       "memory"
     ],
     "created_at": "2026-02-11T10:11:52",
-    "updated_at": "2026-03-05T19:23:41"
-  },
-  {
-    "name": "demucs-rs",
-    "full_name": "nikhilunni/demucs-rs",
-    "description": "Rust powered waveform source separation",
-    "url": "https://github.com/nikhilunni/demucs-rs",
-    "stars": 58,
-    "daily_stars": 3,
-    "language": "Rust",
-    "topics": [
-      "audio-processing",
-      "audio-splitter",
-      "audio-splitting",
-      "burn",
-      "demucs",
-      "digital-signal-processing",
-      "dsp",
-      "gpu",
-      "machine-learning",
-      "rust",
-      "transformer",
-      "transformer-models",
-      "wasm"
-    ],
-    "created_at": "2026-02-25T00:22:59",
-    "updated_at": "2026-03-05T20:20:08"
+    "updated_at": "2026-03-06T03:12:22"
   }
 ]

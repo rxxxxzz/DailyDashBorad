@@ -4,8 +4,8 @@
     "full_name": "kossisoroyce/timber",
     "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
     "url": "https://github.com/kossisoroyce/timber",
-    "stars": 553,
-    "daily_stars": 1,
+    "stars": 557,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "c99",
@@ -24,15 +24,15 @@
       "xgboost"
     ],
     "created_at": "2026-02-27T23:27:36",
-    "updated_at": "2026-03-05T19:49:18"
+    "updated_at": "2026-03-06T00:03:33"
   },
   {
     "name": "loomkin",
     "full_name": "bleuropa/loomkin",
     "description": "AI agent teams built on OTP — each agent is a GenServer, they coordinate via PubSub in microseconds, supervisors restart crashed agents automatically. Agents debate, review each other's work, share discoveries, and self-organize. The BEAM was designed for this 30 years ago.",
     "url": "https://github.com/bleuropa/loomkin",
-    "stars": 143,
-    "daily_stars": 1,
+    "stars": 145,
+    "daily_stars": 2,
     "language": "Elixir",
     "topics": [
       "ai-agents",
@@ -46,14 +46,14 @@
       "phoenix"
     ],
     "created_at": "2026-02-28T03:53:29",
-    "updated_at": "2026-03-05T20:47:12"
+    "updated_at": "2026-03-06T03:00:37"
   },
   {
     "name": "mco",
     "full_name": "mco-org/mco",
     "description": "Orchestrate AI coding agents. Any prompt. Any agent. Any IDE. Neutral orchestration layer for Claude Code, Codex CLI, Gemini CLI, OpenCode, Qwen Code — works from Cursor, Trae, Copilot, Windsurf, or plain shell.",
     "url": "https://github.com/mco-org/mco",
-    "stars": 136,
+    "stars": 137,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -74,15 +74,15 @@
       "windsurf"
     ],
     "created_at": "2026-02-26T07:25:48",
-    "updated_at": "2026-03-05T19:35:33"
+    "updated_at": "2026-03-06T02:28:14"
   },
   {
     "name": "Doubao-Claw",
     "full_name": "Heartflabrace/Doubao-Claw",
     "description": null,
     "url": "https://github.com/Heartflabrace/Doubao-Claw",
-    "stars": 125,
-    "daily_stars": 0,
+    "stars": 124,
+    "daily_stars": -1,
     "language": "Rust",
     "topics": [
       "ai",
@@ -97,7 +97,7 @@
       "openclaw-skills"
     ],
     "created_at": "2026-03-04T03:17:15",
-    "updated_at": "2026-03-05T14:20:37"
+    "updated_at": "2026-03-05T21:07:43"
   },
   {
     "name": "clawshield-public",
@@ -105,7 +105,7 @@
     "description": "Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
     "url": "https://github.com/SleuthCo/clawshield-public",
     "stars": 85,
-    "daily_stars": 2,
+    "daily_stars": 0,
     "language": "Go",
     "topics": [
       "ai-agents",
@@ -155,8 +155,8 @@
     "full_name": "Crestdrasnips/claude-zeroclaw",
     "description": null,
     "url": "https://github.com/Crestdrasnips/claude-zeroclaw",
-    "stars": 50,
-    "daily_stars": 0,
+    "stars": 51,
+    "daily_stars": 1,
     "language": "Rust",
     "topics": [
       "ai",
@@ -178,7 +178,7 @@
       "zeroclaw-skills"
     ],
     "created_at": "2026-03-02T20:39:34",
-    "updated_at": "2026-03-05T14:02:44"
+    "updated_at": "2026-03-06T00:29:27"
   },
   {
     "name": "pixels",
@@ -204,32 +204,12 @@
     "updated_at": "2026-03-05T13:41:37"
   },
   {
-    "name": "umap-mlx",
-    "full_name": "hanxiao/umap-mlx",
-    "description": "UMAP in pure MLX for Apple Silicon. 30x faster than umap-learn.",
-    "url": "https://github.com/hanxiao/umap-mlx",
-    "stars": 38,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "apple-silicon",
-      "dimensionality-reduction",
-      "machine-learning",
-      "metal",
-      "mlx",
-      "umap",
-      "visualization"
-    ],
-    "created_at": "2026-02-26T14:06:59",
-    "updated_at": "2026-03-05T19:17:42"
-  },
-  {
     "name": "mlx-vis",
     "full_name": "hanxiao/mlx-vis",
     "description": "Pure MLX implementations of UMAP, t-SNE, PaCMAP, TriMap, DREAMS, CNE, and NNDescent for Apple Silicon. Metal GPU for computation and video rendering.",
     "url": "https://github.com/hanxiao/mlx-vis",
-    "stars": 32,
-    "daily_stars": 4,
+    "stars": 39,
+    "daily_stars": 7,
     "language": "Python",
     "topics": [
       "apple-silicon",
@@ -248,6 +228,26 @@
       "visualization"
     ],
     "created_at": "2026-03-04T04:22:23",
-    "updated_at": "2026-03-05T20:51:08"
+    "updated_at": "2026-03-06T02:52:00"
+  },
+  {
+    "name": "umap-mlx",
+    "full_name": "hanxiao/umap-mlx",
+    "description": "UMAP in pure MLX for Apple Silicon. 30x faster than umap-learn.",
+    "url": "https://github.com/hanxiao/umap-mlx",
+    "stars": 38,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [
+      "apple-silicon",
+      "dimensionality-reduction",
+      "machine-learning",
+      "metal",
+      "mlx",
+      "umap",
+      "visualization"
+    ],
+    "created_at": "2026-02-26T14:06:59",
+    "updated_at": "2026-03-05T19:17:42"
   }
 ]
