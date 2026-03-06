@@ -4,8 +4,8 @@
     "full_name": "kossisoroyce/timber",
     "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
     "url": "https://github.com/kossisoroyce/timber",
-    "stars": 561,
-    "daily_stars": 4,
+    "stars": 570,
+    "daily_stars": 9,
     "language": "Python",
     "topics": [
       "c99",
@@ -24,15 +24,15 @@
       "xgboost"
     ],
     "created_at": "2026-02-27T23:27:36",
-    "updated_at": "2026-03-06T05:21:04"
+    "updated_at": "2026-03-06T08:56:20"
   },
   {
     "name": "loomkin",
     "full_name": "bleuropa/loomkin",
     "description": "AI agent teams built on OTP — each agent is a GenServer, they coordinate via PubSub in microseconds, supervisors restart crashed agents automatically. Agents debate, review each other's work, share discoveries, and self-organize. The BEAM was designed for this 30 years ago.",
     "url": "https://github.com/bleuropa/loomkin",
-    "stars": 145,
-    "daily_stars": 0,
+    "stars": 146,
+    "daily_stars": 1,
     "language": "Elixir",
     "topics": [
       "ai-agents",
@@ -46,35 +46,7 @@
       "phoenix"
     ],
     "created_at": "2026-02-28T03:53:29",
-    "updated_at": "2026-03-06T04:39:40"
-  },
-  {
-    "name": "mco",
-    "full_name": "mco-org/mco",
-    "description": "Orchestrate AI coding agents. Any prompt. Any agent. Any IDE. Neutral orchestration layer for Claude Code, Codex CLI, Gemini CLI, OpenCode, Qwen Code — works from Cursor, Trae, Copilot, Windsurf, or plain shell.",
-    "url": "https://github.com/mco-org/mco",
-    "stars": 138,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-ide",
-      "claude",
-      "cli",
-      "code-review",
-      "codex",
-      "copilot",
-      "cursor",
-      "developer-tools",
-      "gemini",
-      "multi-agent",
-      "orchestration",
-      "qwen",
-      "trae",
-      "windsurf"
-    ],
-    "created_at": "2026-02-26T07:25:48",
-    "updated_at": "2026-03-06T03:14:18"
+    "updated_at": "2026-03-06T06:35:06"
   },
   {
     "name": "Doubao-Claw",
@@ -82,7 +54,7 @@
     "description": null,
     "url": "https://github.com/Heartflabrace/Doubao-Claw",
     "stars": 123,
-    "daily_stars": -1,
+    "daily_stars": 0,
     "language": "Rust",
     "topics": [
       "ai",
@@ -104,8 +76,8 @@
     "full_name": "SleuthCo/clawshield-public",
     "description": "Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
     "url": "https://github.com/SleuthCo/clawshield-public",
-    "stars": 85,
-    "daily_stars": 0,
+    "stars": 88,
+    "daily_stars": 3,
     "language": "Go",
     "topics": [
       "ai-agents",
@@ -123,32 +95,7 @@
       "vulnerability-scanning"
     ],
     "created_at": "2026-03-01T03:12:37",
-    "updated_at": "2026-03-05T18:40:37"
-  },
-  {
-    "name": "AimAssist",
-    "full_name": "gunmetal57qa8q/AimAssist",
-    "description": "AI | AIM | ASSIST | MORE GAME | CS2 | APEX | 2026",
-    "url": "https://github.com/gunmetal57qa8q/AimAssist",
-    "stars": 68,
-    "daily_stars": 0,
-    "language": null,
-    "topics": [
-      "ai",
-      "aimassist",
-      "apex",
-      "cs2",
-      "csgo",
-      "fortnite",
-      "hack",
-      "jire",
-      "machine-learning",
-      "new-world",
-      "overwatch",
-      "video-game-ai"
-    ],
-    "created_at": "2026-02-26T08:16:31",
-    "updated_at": "2026-03-04T20:43:30"
+    "updated_at": "2026-03-06T08:38:01"
   },
   {
     "name": "claude-zeroclaw",
@@ -156,7 +103,7 @@
     "description": null,
     "url": "https://github.com/Crestdrasnips/claude-zeroclaw",
     "stars": 50,
-    "daily_stars": -1,
+    "daily_stars": 0,
     "language": "Rust",
     "topics": [
       "ai",
@@ -181,34 +128,11 @@
     "updated_at": "2026-03-06T05:20:12"
   },
   {
-    "name": "pixels",
-    "full_name": "deevus/pixels",
-    "description": "Disposable Linux containers for AI coding agents, with extensible backends",
-    "url": "https://github.com/deevus/pixels",
-    "stars": 49,
-    "daily_stars": 0,
-    "language": "Go",
-    "topics": [
-      "ai-agents",
-      "cli",
-      "containers",
-      "devtools",
-      "go",
-      "incus",
-      "linux",
-      "sandboxing",
-      "truenas",
-      "zfs"
-    ],
-    "created_at": "2026-02-27T09:43:25",
-    "updated_at": "2026-03-05T13:41:37"
-  },
-  {
     "name": "mlx-vis",
     "full_name": "hanxiao/mlx-vis",
     "description": "Pure MLX implementations of UMAP, t-SNE, PaCMAP, TriMap, DREAMS, CNE, and NNDescent for Apple Silicon. Metal GPU for computation and video rendering.",
     "url": "https://github.com/hanxiao/mlx-vis",
-    "stars": 42,
+    "stars": 45,
     "daily_stars": 3,
     "language": "Python",
     "topics": [
@@ -228,7 +152,7 @@
       "visualization"
     ],
     "created_at": "2026-03-04T04:22:23",
-    "updated_at": "2026-03-06T05:29:08"
+    "updated_at": "2026-03-06T08:53:26"
   },
   {
     "name": "umap-mlx",
@@ -249,5 +173,77 @@
     ],
     "created_at": "2026-02-26T14:06:59",
     "updated_at": "2026-03-05T19:17:42"
+  },
+  {
+    "name": "legend-of-elya-n64",
+    "full_name": "Scottcjn/legend-of-elya-n64",
+    "description": "Legend of Elya — N64 game with a real 819K-parameter transformer running on the VR4300 MIPS III CPU. Zelda-style dungeon, AI NPCs, byte-level inference at 60 tok/s. Built with libdragon SDK.",
+    "url": "https://github.com/Scottcjn/legend-of-elya-n64",
+    "stars": 31,
+    "daily_stars": 0,
+    "language": "C",
+    "topics": [
+      "ai",
+      "game-dev",
+      "homebrew",
+      "libdragon",
+      "llm",
+      "machine-learning",
+      "mips",
+      "n64",
+      "nintendo-64",
+      "retro-gaming",
+      "rustchain",
+      "transformer",
+      "zelda"
+    ],
+    "created_at": "2026-02-27T21:22:07",
+    "updated_at": "2026-03-06T00:53:54"
+  },
+  {
+    "name": "ai-video-generation-workflow",
+    "full_name": "haolinwang819-boop/ai-video-generation-workflow",
+    "description": "AI video generation workflow with script, slides, TTS, subtitles, and FFmpeg rendering.",
+    "url": "https://github.com/haolinwang819-boop/ai-video-generation-workflow",
+    "stars": 31,
+    "daily_stars": -1,
+    "language": "TypeScript",
+    "topics": [
+      "ai-video",
+      "ai-video-generation",
+      "ai-video-generator",
+      "ai-video-maker",
+      "automation",
+      "ffmpeg",
+      "notebooklm",
+      "subtitles",
+      "subtitles-generator",
+      "tts",
+      "typescript",
+      "video-generation",
+      "workflow"
+    ],
+    "created_at": "2026-03-04T16:44:48",
+    "updated_at": "2026-03-06T08:14:04"
+  },
+  {
+    "name": "pacmap-mlx",
+    "full_name": "hanxiao/pacmap-mlx",
+    "description": "PaCMAP in pure MLX for Apple Silicon. Pure GPU, no scipy/numba.",
+    "url": "https://github.com/hanxiao/pacmap-mlx",
+    "stars": 18,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [
+      "apple-silicon",
+      "dimensionality-reduction",
+      "machine-learning",
+      "metal",
+      "mlx",
+      "pacmap",
+      "visualization"
+    ],
+    "created_at": "2026-02-28T05:07:06",
+    "updated_at": "2026-03-06T01:56:18"
   }
 ]
