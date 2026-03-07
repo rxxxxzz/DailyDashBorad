@@ -4,8 +4,8 @@
     "full_name": "kossisoroyce/timber",
     "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
     "url": "https://github.com/kossisoroyce/timber",
-    "stars": 594,
-    "daily_stars": 3,
+    "stars": 599,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "c99",
@@ -24,14 +24,14 @@
       "xgboost"
     ],
     "created_at": "2026-02-27T23:27:36",
-    "updated_at": "2026-03-06T19:43:16"
+    "updated_at": "2026-03-07T01:58:11"
   },
   {
     "name": "loomkin",
     "full_name": "bleuropa/loomkin",
     "description": "AI agent teams built on OTP — each agent is a GenServer, they coordinate via PubSub in microseconds, supervisors restart crashed agents automatically. Agents debate, review each other's work, share discoveries, and self-organize. The BEAM was designed for this 30 years ago.",
     "url": "https://github.com/bleuropa/loomkin",
-    "stars": 149,
+    "stars": 150,
     "daily_stars": 1,
     "language": "Elixir",
     "topics": [
@@ -46,15 +46,15 @@
       "phoenix"
     ],
     "created_at": "2026-02-28T03:53:29",
-    "updated_at": "2026-03-06T19:14:57"
+    "updated_at": "2026-03-07T02:43:15"
   },
   {
     "name": "Doubao-Claw",
     "full_name": "Heartflabrace/Doubao-Claw",
     "description": null,
     "url": "https://github.com/Heartflabrace/Doubao-Claw",
-    "stars": 122,
-    "daily_stars": 0,
+    "stars": 121,
+    "daily_stars": -1,
     "language": "Rust",
     "topics": [
       "ai",
@@ -69,7 +69,7 @@
       "openclaw-skills"
     ],
     "created_at": "2026-03-04T03:17:15",
-    "updated_at": "2026-03-06T16:38:25"
+    "updated_at": "2026-03-06T22:53:03"
   },
   {
     "name": "clawshield-public",
@@ -77,7 +77,7 @@
     "description": "Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
     "url": "https://github.com/SleuthCo/clawshield-public",
     "stars": 91,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Go",
     "topics": [
       "ai-agents",
@@ -102,8 +102,8 @@
     "full_name": "AgentSeal/agentseal",
     "description": "Security validator for AI agents - find out if your agent can be hacked",
     "url": "https://github.com/AgentSeal/agentseal",
-    "stars": 65,
-    "daily_stars": 0,
+    "stars": 69,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -115,15 +115,15 @@
       "security"
     ],
     "created_at": "2026-03-03T10:01:58",
-    "updated_at": "2026-03-06T20:28:47"
+    "updated_at": "2026-03-07T02:50:47"
   },
   {
     "name": "mlx-vis",
     "full_name": "hanxiao/mlx-vis",
     "description": "Pure MLX implementations of UMAP, t-SNE, PaCMAP, TriMap, DREAMS, CNE, and NNDescent for Apple Silicon. Metal GPU for computation and video rendering.",
     "url": "https://github.com/hanxiao/mlx-vis",
-    "stars": 51,
-    "daily_stars": 3,
+    "stars": 52,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "apple-silicon",
@@ -142,7 +142,84 @@
       "visualization"
     ],
     "created_at": "2026-03-04T04:22:23",
-    "updated_at": "2026-03-06T20:27:58"
+    "updated_at": "2026-03-07T02:17:21"
+  },
+  {
+    "name": "claude-zeroclaw",
+    "full_name": "Crestdrasnips/claude-zeroclaw",
+    "description": null,
+    "url": "https://github.com/Crestdrasnips/claude-zeroclaw",
+    "stars": 50,
+    "daily_stars": 0,
+    "language": "Rust",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "anthropic-claude",
+      "claude",
+      "claude-code",
+      "coding-agent",
+      "javascript",
+      "rust",
+      "skill",
+      "skill-agent",
+      "skills",
+      "zeroclaw",
+      "zeroclaw-anthropic",
+      "zeroclaw-claude",
+      "zeroclaw-skill",
+      "zeroclaw-skills"
+    ],
+    "created_at": "2026-03-02T20:39:34",
+    "updated_at": "2026-03-06T15:46:57"
+  },
+  {
+    "name": "bit-office",
+    "full_name": "longyangxi/bit-office",
+    "description": "Bit-Office is a real office for your AI agents.  Agents communicate, collaborate, and work together like a real team. Assign tasks, coordinate multiple LLM CLIs(Claude, Codex, Gemini, OpenCode, Aider...), and watch projects come to life with live previews.",
+    "url": "https://github.com/longyangxi/bit-office",
+    "stars": 49,
+    "daily_stars": 0,
+    "language": "TypeScript",
+    "topics": [
+      "ably",
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "developer-tools",
+      "gemini",
+      "multi-agent",
+      "nextjs",
+      "orchestration",
+      "pixel-art",
+      "pwa",
+      "telegram-bot",
+      "typescript",
+      "websocket"
+    ],
+    "created_at": "2026-03-01T04:31:49",
+    "updated_at": "2026-03-06T22:14:44"
+  },
+  {
+    "name": "gitclaw",
+    "full_name": "open-gitagent/gitclaw",
+    "description": "A universal git-native AI agent framework. Your agent lives inside a git repo — identity, rules, memory, tools, and skills are all version-controlled files.",
+    "url": "https://github.com/open-gitagent/gitclaw",
+    "stars": 49,
+    "daily_stars": 0,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "assistant",
+      "llm",
+      "openclaw",
+      "personal"
+    ],
+    "created_at": "2026-03-04T12:30:03",
+    "updated_at": "2026-03-07T01:30:39"
   },
   {
     "name": "legend-of-elya-n64",
@@ -150,7 +227,7 @@
     "description": "Legend of Elya — N64 game with a real 819K-parameter transformer running on the VR4300 MIPS III CPU. Zelda-style dungeon, AI NPCs, byte-level inference at 60 tok/s. Built with libdragon SDK.",
     "url": "https://github.com/Scottcjn/legend-of-elya-n64",
     "stars": 33,
-    "daily_stars": 2,
+    "daily_stars": 0,
     "language": "C",
     "topics": [
       "ai",
@@ -169,71 +246,5 @@
     ],
     "created_at": "2026-02-27T21:22:07",
     "updated_at": "2026-03-06T18:07:59"
-  },
-  {
-    "name": "ai-video-generation-workflow",
-    "full_name": "haolinwang819-boop/ai-video-generation-workflow",
-    "description": "AI video generation workflow with script, slides, TTS, subtitles, and FFmpeg rendering.",
-    "url": "https://github.com/haolinwang819-boop/ai-video-generation-workflow",
-    "stars": 31,
-    "daily_stars": 0,
-    "language": "TypeScript",
-    "topics": [
-      "ai-video",
-      "ai-video-generation",
-      "ai-video-generator",
-      "ai-video-maker",
-      "automation",
-      "ffmpeg",
-      "notebooklm",
-      "subtitles",
-      "subtitles-generator",
-      "tts",
-      "typescript",
-      "video-generation",
-      "workflow"
-    ],
-    "created_at": "2026-03-04T16:44:48",
-    "updated_at": "2026-03-06T08:14:04"
-  },
-  {
-    "name": "Polymarket-AI-Trading-Bot",
-    "full_name": "SamYbarra/Polymarket-AI-Trading-Bot",
-    "description": "Polymarket trading bot based on AI | ML",
-    "url": "https://github.com/SamYbarra/Polymarket-AI-Trading-Bot",
-    "stars": 21,
-    "daily_stars": 10,
-    "language": "TypeScript",
-    "topics": [
-      "machine-learning",
-      "polymarket-trade-bot",
-      "polymarket-trading-strategy",
-      "trading-algorithm",
-      "trading-algorithms",
-      "trading-strategies",
-      "trading-strategy"
-    ],
-    "created_at": "2026-03-04T00:14:22",
-    "updated_at": "2026-03-06T20:22:25"
-  },
-  {
-    "name": "pacmap-mlx",
-    "full_name": "hanxiao/pacmap-mlx",
-    "description": "PaCMAP in pure MLX for Apple Silicon. Pure GPU, no scipy/numba.",
-    "url": "https://github.com/hanxiao/pacmap-mlx",
-    "stars": 18,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "apple-silicon",
-      "dimensionality-reduction",
-      "machine-learning",
-      "metal",
-      "mlx",
-      "pacmap",
-      "visualization"
-    ],
-    "created_at": "2026-02-28T05:07:06",
-    "updated_at": "2026-03-06T01:56:18"
   }
 ]
