@@ -4,7 +4,7 @@
     "full_name": "kossisoroyce/timber",
     "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
     "url": "https://github.com/kossisoroyce/timber",
-    "stars": 603,
+    "stars": 605,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
@@ -24,7 +24,7 @@
       "xgboost"
     ],
     "created_at": "2026-02-27T23:27:36",
-    "updated_at": "2026-03-07T13:12:39"
+    "updated_at": "2026-03-07T15:39:15"
   },
   {
     "name": "loomkin",
@@ -46,15 +46,15 @@
       "phoenix"
     ],
     "created_at": "2026-02-28T03:53:29",
-    "updated_at": "2026-03-07T12:38:31"
+    "updated_at": "2026-03-07T16:04:14"
   },
   {
     "name": "Doubao-Claw",
     "full_name": "Heartflabrace/Doubao-Claw",
     "description": null,
     "url": "https://github.com/Heartflabrace/Doubao-Claw",
-    "stars": 121,
-    "daily_stars": 0,
+    "stars": 120,
+    "daily_stars": -1,
     "language": "Rust",
     "topics": [
       "ai",
@@ -69,7 +69,7 @@
       "openclaw-skills"
     ],
     "created_at": "2026-03-04T03:17:15",
-    "updated_at": "2026-03-06T22:53:03"
+    "updated_at": "2026-03-07T13:54:12"
   },
   {
     "name": "ai-video-generation-workflow",
@@ -102,7 +102,7 @@
     "full_name": "SleuthCo/clawshield-public",
     "description": "Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
     "url": "https://github.com/SleuthCo/clawshield-public",
-    "stars": 93,
+    "stars": 94,
     "daily_stars": 1,
     "language": "Go",
     "topics": [
@@ -121,15 +121,15 @@
       "vulnerability-scanning"
     ],
     "created_at": "2026-03-01T03:12:37",
-    "updated_at": "2026-03-07T09:06:00"
+    "updated_at": "2026-03-07T15:07:29"
   },
   {
     "name": "agentseal",
     "full_name": "AgentSeal/agentseal",
     "description": "Security validator for AI agents - find out if your agent can be hacked",
     "url": "https://github.com/AgentSeal/agentseal",
-    "stars": 73,
-    "daily_stars": 3,
+    "stars": 74,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -141,15 +141,15 @@
       "security"
     ],
     "created_at": "2026-03-03T10:01:58",
-    "updated_at": "2026-03-07T12:42:19"
+    "updated_at": "2026-03-07T13:31:37"
   },
   {
     "name": "mlx-vis",
     "full_name": "hanxiao/mlx-vis",
     "description": "Pure MLX implementations of UMAP, t-SNE, PaCMAP, TriMap, DREAMS, CNE, and NNDescent for Apple Silicon. Metal GPU for computation and video rendering.",
     "url": "https://github.com/hanxiao/mlx-vis",
-    "stars": 54,
-    "daily_stars": 1,
+    "stars": 57,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "apple-silicon",
@@ -168,7 +168,26 @@
       "visualization"
     ],
     "created_at": "2026-03-04T04:22:23",
-    "updated_at": "2026-03-07T13:10:22"
+    "updated_at": "2026-03-07T16:24:59"
+  },
+  {
+    "name": "gitclaw",
+    "full_name": "open-gitagent/gitclaw",
+    "description": "A universal git-native AI agent framework. Your agent lives inside a git repo — identity, rules, memory, tools, and skills are all version-controlled files.",
+    "url": "https://github.com/open-gitagent/gitclaw",
+    "stars": 53,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "assistant",
+      "llm",
+      "openclaw",
+      "personal"
+    ],
+    "created_at": "2026-03-04T12:30:03",
+    "updated_at": "2026-03-07T13:38:01"
   },
   {
     "name": "bit-office",
@@ -176,7 +195,7 @@
     "description": "Bit-Office is a real office for your AI agents.  Agents communicate, collaborate, and work together like a real team. Assign tasks, coordinate multiple LLM CLIs(Claude, Codex, Gemini, OpenCode, Aider...), and watch projects come to life with live previews.",
     "url": "https://github.com/longyangxi/bit-office",
     "stars": 52,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
       "ably",
@@ -197,25 +216,6 @@
     ],
     "created_at": "2026-03-01T04:31:49",
     "updated_at": "2026-03-07T11:33:22"
-  },
-  {
-    "name": "gitclaw",
-    "full_name": "open-gitagent/gitclaw",
-    "description": "A universal git-native AI agent framework. Your agent lives inside a git repo — identity, rules, memory, tools, and skills are all version-controlled files.",
-    "url": "https://github.com/open-gitagent/gitclaw",
-    "stars": 52,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "assistant",
-      "llm",
-      "openclaw",
-      "personal"
-    ],
-    "created_at": "2026-03-04T12:30:03",
-    "updated_at": "2026-03-07T12:30:42"
   },
   {
     "name": "claude-zeroclaw",
