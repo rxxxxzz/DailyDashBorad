@@ -1,32 +1,5 @@
 [
   {
-    "name": "timber",
-    "full_name": "kossisoroyce/timber",
-    "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
-    "url": "https://github.com/kossisoroyce/timber",
-    "stars": 607,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "c99",
-      "catboost",
-      "compiler",
-      "decision-trees",
-      "gradient-boosting",
-      "inference",
-      "lightgbm",
-      "machine-learning",
-      "mlops",
-      "model-serving",
-      "ollama",
-      "onnx",
-      "sklearn",
-      "xgboost"
-    ],
-    "created_at": "2026-02-27T23:27:36",
-    "updated_at": "2026-03-07T19:24:40"
-  },
-  {
     "name": "loomkin",
     "full_name": "bleuropa/loomkin",
     "description": "AI agent teams built on OTP — each agent is a GenServer, they coordinate via PubSub in microseconds, supervisors restart crashed agents automatically. Agents debate, review each other's work, share discoveries, and self-organize. The BEAM was designed for this 30 years ago.",
@@ -46,7 +19,7 @@
       "phoenix"
     ],
     "created_at": "2026-02-28T03:53:29",
-    "updated_at": "2026-03-07T18:09:18"
+    "updated_at": "2026-03-08T00:45:34"
   },
   {
     "name": "Doubao-Claw",
@@ -54,7 +27,7 @@
     "description": null,
     "url": "https://github.com/Heartflabrace/Doubao-Claw",
     "stars": 118,
-    "daily_stars": -2,
+    "daily_stars": 0,
     "language": "Rust",
     "topics": [
       "ai",
@@ -70,6 +43,32 @@
     ],
     "created_at": "2026-03-04T03:17:15",
     "updated_at": "2026-03-07T20:18:16"
+  },
+  {
+    "name": "clawshield-public",
+    "full_name": "SleuthCo/clawshield-public",
+    "description": "Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
+    "url": "https://github.com/SleuthCo/clawshield-public",
+    "stars": 95,
+    "daily_stars": 1,
+    "language": "Go",
+    "topics": [
+      "ai-agents",
+      "ai-security",
+      "audit-logging",
+      "defense-in-depth",
+      "ebpf",
+      "go",
+      "llm-security",
+      "openclaw",
+      "pii-detection",
+      "prompt-injection",
+      "reverse-proxy",
+      "security-proxy",
+      "vulnerability-scanning"
+    ],
+    "created_at": "2026-03-01T03:12:37",
+    "updated_at": "2026-03-07T23:45:12"
   },
   {
     "name": "ai-video-generation-workflow",
@@ -98,38 +97,12 @@
     "updated_at": "2026-03-07T07:59:35"
   },
   {
-    "name": "clawshield-public",
-    "full_name": "SleuthCo/clawshield-public",
-    "description": "Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
-    "url": "https://github.com/SleuthCo/clawshield-public",
-    "stars": 94,
-    "daily_stars": 0,
-    "language": "Go",
-    "topics": [
-      "ai-agents",
-      "ai-security",
-      "audit-logging",
-      "defense-in-depth",
-      "ebpf",
-      "go",
-      "llm-security",
-      "openclaw",
-      "pii-detection",
-      "prompt-injection",
-      "reverse-proxy",
-      "security-proxy",
-      "vulnerability-scanning"
-    ],
-    "created_at": "2026-03-01T03:12:37",
-    "updated_at": "2026-03-07T15:07:29"
-  },
-  {
     "name": "agentseal",
     "full_name": "AgentSeal/agentseal",
     "description": "Security validator for AI agents - find out if your agent can be hacked",
     "url": "https://github.com/AgentSeal/agentseal",
-    "stars": 74,
-    "daily_stars": 0,
+    "stars": 75,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -141,15 +114,15 @@
       "security"
     ],
     "created_at": "2026-03-03T10:01:58",
-    "updated_at": "2026-03-07T13:31:37"
+    "updated_at": "2026-03-08T01:27:48"
   },
   {
     "name": "argus",
     "full_name": "yessGlory17/argus",
     "description": "Claude Code Session Debugger & Performance Analyzer",
     "url": "https://github.com/yessGlory17/argus",
-    "stars": 61,
-    "daily_stars": 0,
+    "stars": 63,
+    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -169,7 +142,7 @@
       "vscode-extension"
     ],
     "created_at": "2026-03-01T20:43:05",
-    "updated_at": "2026-03-07T20:31:36"
+    "updated_at": "2026-03-08T03:04:03"
   },
   {
     "name": "mlx-vis",
@@ -204,7 +177,7 @@
     "description": "A universal git-native AI agent framework. Your agent lives inside a git repo — identity, rules, memory, tools, and skills are all version-controlled files.",
     "url": "https://github.com/open-gitagent/gitclaw",
     "stars": 54,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -223,7 +196,7 @@
     "description": "Bit-Office is a real office for your AI agents.  Agents communicate, collaborate, and work together like a real team. Assign tasks, coordinate multiple LLM CLIs(Claude, Codex, Gemini, OpenCode, Aider...), and watch projects come to life with live previews.",
     "url": "https://github.com/longyangxi/bit-office",
     "stars": 53,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
       "ably",
@@ -244,5 +217,25 @@
     ],
     "created_at": "2026-03-01T04:31:49",
     "updated_at": "2026-03-07T17:53:50"
+  },
+  {
+    "name": "Polymarket-AI-Trading-Bot",
+    "full_name": "SamYbarra/Polymarket-AI-Trading-Bot",
+    "description": "Polymarket trading bot based on AI | ML",
+    "url": "https://github.com/SamYbarra/Polymarket-AI-Trading-Bot",
+    "stars": 31,
+    "daily_stars": 4,
+    "language": "TypeScript",
+    "topics": [
+      "machine-learning",
+      "polymarket-trade-bot",
+      "polymarket-trading-strategy",
+      "trading-algorithm",
+      "trading-algorithms",
+      "trading-strategies",
+      "trading-strategy"
+    ],
+    "created_at": "2026-03-04T00:14:22",
+    "updated_at": "2026-03-07T21:21:25"
   }
 ]
