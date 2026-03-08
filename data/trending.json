@@ -4,8 +4,8 @@
     "full_name": "RightNow-AI/openfang",
     "description": "Open-source Agent Operating System",
     "url": "https://github.com/RightNow-AI/openfang",
-    "stars": 12520,
-    "daily_stars": 142,
+    "stars": 12639,
+    "daily_stars": 119,
     "language": "Rust",
     "topics": [
       "agent-framework",
@@ -18,15 +18,15 @@
       "rust"
     ],
     "created_at": "2026-02-24T23:12:38",
-    "updated_at": "2026-03-08T16:51:20"
+    "updated_at": "2026-03-08T20:46:47"
   },
   {
     "name": "edict",
     "full_name": "cft0808/edict",
     "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
     "url": "https://github.com/cft0808/edict",
-    "stars": 5483,
-    "daily_stars": 110,
+    "stars": 5528,
+    "daily_stars": 45,
     "language": "HTML",
     "topics": [
       "ai-agents",
@@ -44,15 +44,33 @@
       "workflow-automation"
     ],
     "created_at": "2026-02-23T14:35:04",
-    "updated_at": "2026-03-08T16:50:35"
+    "updated_at": "2026-03-08T20:39:44"
+  },
+  {
+    "name": "open-terminal",
+    "full_name": "open-webui/open-terminal",
+    "description": "A computer you can curl ⚡",
+    "url": "https://github.com/open-webui/open-terminal",
+    "stars": 907,
+    "daily_stars": 19,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "open-webui"
+    ],
+    "created_at": "2026-02-10T21:57:30",
+    "updated_at": "2026-03-08T20:49:28"
   },
   {
     "name": "boluobobo-ai-court-tutorial",
     "full_name": "wanikua/boluobobo-ai-court-tutorial",
     "description": "AI 朝廷搭建完整教程 - 从零基础到进阶",
     "url": "https://github.com/wanikua/boluobobo-ai-court-tutorial",
-    "stars": 409,
-    "daily_stars": 39,
+    "stars": 426,
+    "daily_stars": 17,
     "language": "Shell",
     "topics": [
       "ai",
@@ -73,52 +91,43 @@
       "workflow-automation"
     ],
     "created_at": "2026-02-22T17:17:44",
-    "updated_at": "2026-03-08T16:50:28"
+    "updated_at": "2026-03-08T20:49:24"
   },
   {
-    "name": "FireRed-Image-Edit",
-    "full_name": "FireRedTeam/FireRed-Image-Edit",
-    "description": "FireRed-Image-Edit is a powerful image editing foundation model achieving open-source state-of-the-art performance with precise instruction following, high-fidelity generation, superior identity consistency, and seamless multi-element fusion.",
-    "url": "https://github.com/FireRedTeam/FireRed-Image-Edit",
-    "stars": 857,
-    "daily_stars": 28,
+    "name": "gpu-monitor",
+    "full_name": "reacher-z/gpu-monitor",
+    "description": "Lightweight NVIDIA GPU monitor — alerts on Slack/Discord/Telegram/20 channels when training crashes or GPU overheats. Zero dependencies. Single file.",
+    "url": "https://github.com/reacher-z/gpu-monitor",
+    "stars": 26,
+    "daily_stars": 13,
     "language": "Python",
     "topics": [
-      "aigc",
+      "alerting",
       "deep-learning",
-      "diffusion-models",
-      "image-generation",
-      "image2image",
-      "pytorch"
+      "discord",
+      "gpu",
+      "gpu-monitoring",
+      "grafana",
+      "kubernetes",
+      "machine-learning",
+      "mlops",
+      "monitoring",
+      "nvidia",
+      "prometheus",
+      "pytorch",
+      "slack",
+      "telegram"
     ],
-    "created_at": "2026-02-11T09:25:09",
-    "updated_at": "2026-03-08T16:45:04"
-  },
-  {
-    "name": "open-terminal",
-    "full_name": "open-webui/open-terminal",
-    "description": "A computer you can curl ⚡",
-    "url": "https://github.com/open-webui/open-terminal",
-    "stars": 888,
-    "daily_stars": 10,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "ai",
-      "ai-agents",
-      "ai-tools",
-      "open-webui"
-    ],
-    "created_at": "2026-02-10T21:57:30",
-    "updated_at": "2026-03-08T16:21:48"
+    "created_at": "2026-02-27T18:46:44",
+    "updated_at": "2026-03-08T20:46:35"
   },
   {
     "name": "aimirror",
     "full_name": "livehl/aimirror",
     "description": "🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来",
     "url": "https://github.com/livehl/aimirror",
-    "stars": 71,
-    "daily_stars": 7,
+    "stars": 81,
+    "daily_stars": 10,
     "language": "Python",
     "topics": [
       "ai-tools",
@@ -141,31 +150,50 @@
       "tensorflow"
     ],
     "created_at": "2026-03-05T14:26:49",
-    "updated_at": "2026-03-08T16:44:59"
+    "updated_at": "2026-03-08T20:29:57"
   },
   {
-    "name": "awesome-claws",
-    "full_name": "machinae/awesome-claws",
-    "description": "A curated list of awesome AI agents inspired by OpenClaw",
-    "url": "https://github.com/machinae/awesome-claws",
-    "stars": 277,
-    "daily_stars": 6,
-    "language": null,
+    "name": "FireRed-Image-Edit",
+    "full_name": "FireRedTeam/FireRed-Image-Edit",
+    "description": "FireRed-Image-Edit is a powerful image editing foundation model achieving open-source state-of-the-art performance with precise instruction following, high-fidelity generation, superior identity consistency, and seamless multi-element fusion.",
+    "url": "https://github.com/FireRedTeam/FireRed-Image-Edit",
+    "stars": 867,
+    "daily_stars": 10,
+    "language": "Python",
     "topics": [
-      "ai-agents",
-      "awesome",
-      "awesome-list",
-      "openclaw"
+      "aigc",
+      "deep-learning",
+      "diffusion-models",
+      "image-generation",
+      "image2image",
+      "pytorch"
     ],
-    "created_at": "2026-02-19T17:14:57",
-    "updated_at": "2026-03-08T16:41:16"
+    "created_at": "2026-02-11T09:25:09",
+    "updated_at": "2026-03-08T20:13:23"
+  },
+  {
+    "name": "overstory",
+    "full_name": "jayminwest/overstory",
+    "description": "Project-agnostic swarm system for Claude Code agent orchestration",
+    "url": "https://github.com/jayminwest/overstory",
+    "stars": 816,
+    "daily_stars": 8,
+    "language": "TypeScript",
+    "topics": [
+      "agent-swarms",
+      "ai-agents",
+      "claude-code",
+      "tmux"
+    ],
+    "created_at": "2026-02-12T14:53:58",
+    "updated_at": "2026-03-08T20:39:26"
   },
   {
     "name": "Aegis",
     "full_name": "Justin0504/Aegis",
     "description": "Runtime policy enforcement for AI agents. Cryptographic audit trail, human-in-the-loop approvals, kill switch. Zero code changes.                                                                         ",
     "url": "https://github.com/Justin0504/Aegis",
-    "stars": 72,
+    "stars": 78,
     "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
@@ -179,72 +207,27 @@
       "policy-engine"
     ],
     "created_at": "2026-03-04T03:24:33",
-    "updated_at": "2026-03-08T15:49:34"
+    "updated_at": "2026-03-08T19:57:07"
   },
   {
-    "name": "claude-forge",
-    "full_name": "sangrokjung/claude-forge",
-    "description": "Supercharge Claude Code with 11 AI agents, 36 commands & 15 skills — the claude-code plugin framework inspired by oh-my-zsh. 6-layer security hooks included. 5-min install.",
-    "url": "https://github.com/sangrokjung/claude-forge",
-    "stars": 437,
-    "daily_stars": 6,
-    "language": "Shell",
-    "topics": [
-      "agents",
-      "ai-assistant",
-      "ai-coding",
-      "ai-framework",
-      "ai-pair-programming",
-      "anthropic",
-      "automation",
-      "claude-code",
-      "claude-code-agents",
-      "cli-tools",
-      "developer-experience",
-      "developer-tools",
-      "dotfiles",
-      "hooks",
-      "llm",
-      "macos",
-      "productivity",
-      "shell",
-      "slash-commands",
-      "workflow"
-    ],
-    "created_at": "2026-02-23T07:46:08",
-    "updated_at": "2026-03-08T16:15:30"
-  },
-  {
-    "name": "opencrew",
-    "full_name": "AlexAnys/opencrew",
-    "description": "Openclaw多智能体协同系统 | Multi-Agent OS for Decision Makers — 基于 OpenClaw (Clawbot) + Slack，让 AI 团队各司其职、自主稳定迭代。",
-    "url": "https://github.com/AlexAnys/opencrew",
-    "stars": 200,
+    "name": "oculos",
+    "full_name": "huseyinstif/oculos",
+    "description": "If it's on the screen, it's an API. Control any desktop app via REST + MCP. Rust.",
+    "url": "https://github.com/huseyinstif/oculos",
+    "stars": 65,
     "daily_stars": 5,
-    "language": "Shell",
+    "language": "Rust",
     "topics": [
-      "a2a-protocol",
-      "agent-deployment",
-      "agent-orchestration",
+      "accessibility",
       "ai-agents",
-      "ai-assistant",
-      "ai-productivity",
-      "ai-team",
-      "autonomous-agents",
-      "clawdbot",
-      "context-management",
-      "knowledge-management",
-      "llm",
-      "multi-agent",
-      "no-code",
-      "openclaw",
-      "session-management",
-      "slack",
-      "slack-bot",
-      "team-management",
-      "workflow-automation"
+      "desktop-automation",
+      "mcp",
+      "oculos",
+      "rest-api",
+      "rust",
+      "ui-automation"
     ],
-    "created_at": "2026-02-08T02:46:16",
-    "updated_at": "2026-03-08T16:41:14"
+    "created_at": "2026-03-03T15:41:07",
+    "updated_at": "2026-03-08T20:00:45"
   }
 ]
