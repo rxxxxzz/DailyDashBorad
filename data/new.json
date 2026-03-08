@@ -1,27 +1,5 @@
 [
   {
-    "name": "loomkin",
-    "full_name": "bleuropa/loomkin",
-    "description": "AI agent teams built on OTP — each agent is a GenServer, they coordinate via PubSub in microseconds, supervisors restart crashed agents automatically. Agents debate, review each other's work, share discoveries, and self-organize. The BEAM was designed for this 30 years ago.",
-    "url": "https://github.com/bleuropa/loomkin",
-    "stars": 151,
-    "daily_stars": 0,
-    "language": "Elixir",
-    "topics": [
-      "ai-agents",
-      "beam",
-      "elixir",
-      "genserver",
-      "liveview",
-      "llm",
-      "multi-agent",
-      "otp",
-      "phoenix"
-    ],
-    "created_at": "2026-02-28T03:53:29",
-    "updated_at": "2026-03-08T00:45:34"
-  },
-  {
     "name": "Doubao-Claw",
     "full_name": "Heartflabrace/Doubao-Claw",
     "description": null,
@@ -45,12 +23,38 @@
     "updated_at": "2026-03-07T20:18:16"
   },
   {
+    "name": "ai-video-generation-workflow",
+    "full_name": "haolinwang819-boop/ai-video-generation-workflow",
+    "description": "AI video generation workflow with script, slides, TTS, subtitles, and FFmpeg rendering.",
+    "url": "https://github.com/haolinwang819-boop/ai-video-generation-workflow",
+    "stars": 110,
+    "daily_stars": 15,
+    "language": "TypeScript",
+    "topics": [
+      "ai-video",
+      "ai-video-generation",
+      "ai-video-generator",
+      "ai-video-maker",
+      "automation",
+      "ffmpeg",
+      "notebooklm",
+      "subtitles",
+      "subtitles-generator",
+      "tts",
+      "typescript",
+      "video-generation",
+      "workflow"
+    ],
+    "created_at": "2026-03-04T16:44:48",
+    "updated_at": "2026-03-08T05:25:17"
+  },
+  {
     "name": "clawshield-public",
     "full_name": "SleuthCo/clawshield-public",
     "description": "Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
     "url": "https://github.com/SleuthCo/clawshield-public",
     "stars": 95,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Go",
     "topics": [
       "ai-agents",
@@ -71,37 +75,11 @@
     "updated_at": "2026-03-07T23:45:12"
   },
   {
-    "name": "ai-video-generation-workflow",
-    "full_name": "haolinwang819-boop/ai-video-generation-workflow",
-    "description": "AI video generation workflow with script, slides, TTS, subtitles, and FFmpeg rendering.",
-    "url": "https://github.com/haolinwang819-boop/ai-video-generation-workflow",
-    "stars": 95,
-    "daily_stars": 0,
-    "language": "TypeScript",
-    "topics": [
-      "ai-video",
-      "ai-video-generation",
-      "ai-video-generator",
-      "ai-video-maker",
-      "automation",
-      "ffmpeg",
-      "notebooklm",
-      "subtitles",
-      "subtitles-generator",
-      "tts",
-      "typescript",
-      "video-generation",
-      "workflow"
-    ],
-    "created_at": "2026-03-04T16:44:48",
-    "updated_at": "2026-03-07T07:59:35"
-  },
-  {
     "name": "agentseal",
     "full_name": "AgentSeal/agentseal",
     "description": "Security validator for AI agents - find out if your agent can be hacked",
     "url": "https://github.com/AgentSeal/agentseal",
-    "stars": 75,
+    "stars": 76,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -114,15 +92,38 @@
       "security"
     ],
     "created_at": "2026-03-03T10:01:58",
-    "updated_at": "2026-03-08T01:27:48"
+    "updated_at": "2026-03-08T04:22:15"
+  },
+  {
+    "name": "genspark.ai-openclaw",
+    "full_name": "michelleoincx/genspark.ai-openclaw",
+    "description": "OpenClaw for genspark.ai — open-source extension that claws through every paywall and rate limit. Install in one command, run forever free.",
+    "url": "https://github.com/michelleoincx/genspark.ai-openclaw",
+    "stars": 69,
+    "daily_stars": 0,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "genspark",
+      "genspark-ai",
+      "genspark-ai-api",
+      "genspark-ai-browser",
+      "genspark-super-agent",
+      "open-source",
+      "openclaw",
+      "openclaw-skill",
+      "openclaw-skills"
+    ],
+    "created_at": "2026-03-06T21:29:12",
+    "updated_at": "2026-03-08T05:28:27"
   },
   {
     "name": "argus",
     "full_name": "yessGlory17/argus",
     "description": "Claude Code Session Debugger & Performance Analyzer",
     "url": "https://github.com/yessGlory17/argus",
-    "stars": 63,
-    "daily_stars": 2,
+    "stars": 64,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -142,7 +143,7 @@
       "vscode-extension"
     ],
     "created_at": "2026-03-01T20:43:05",
-    "updated_at": "2026-03-08T03:04:03"
+    "updated_at": "2026-03-08T03:50:32"
   },
   {
     "name": "mlx-vis",
@@ -219,23 +220,24 @@
     "updated_at": "2026-03-07T17:53:50"
   },
   {
-    "name": "Polymarket-AI-Trading-Bot",
-    "full_name": "SamYbarra/Polymarket-AI-Trading-Bot",
-    "description": "Polymarket trading bot based on AI | ML",
-    "url": "https://github.com/SamYbarra/Polymarket-AI-Trading-Bot",
-    "stars": 31,
-    "daily_stars": 4,
+    "name": "Aegis",
+    "full_name": "Justin0504/Aegis",
+    "description": "Runtime policy enforcement for AI agents. Cryptographic audit trail, human-in-the-loop approvals, kill switch. Zero code changes.                                                                         ",
+    "url": "https://github.com/Justin0504/Aegis",
+    "stars": 51,
+    "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
-      "machine-learning",
-      "polymarket-trade-bot",
-      "polymarket-trading-strategy",
-      "trading-algorithm",
-      "trading-algorithms",
-      "trading-strategies",
-      "trading-strategy"
+      "ai-agents",
+      "ai-safety",
+      "anthropic",
+      "audit-trail",
+      "langchain",
+      "llm-observability",
+      "mcp",
+      "policy-engine"
     ],
-    "created_at": "2026-03-04T00:14:22",
-    "updated_at": "2026-03-07T21:21:25"
+    "created_at": "2026-03-04T03:24:33",
+    "updated_at": "2026-03-08T04:56:25"
   }
 ]
