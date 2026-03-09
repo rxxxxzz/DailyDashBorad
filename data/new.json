@@ -5,7 +5,7 @@
     "description": "OpenClaw for genspark.ai — open-source extension that claws through every paywall and rate limit. Install in one command, run forever free.",
     "url": "https://github.com/michelleoincx/genspark.ai-openclaw",
     "stars": 153,
-    "daily_stars": -1,
+    "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -72,38 +72,43 @@
     "updated_at": "2026-03-08T15:57:23"
   },
   {
-    "name": "clawshield-public",
-    "full_name": "SleuthCo/clawshield-public",
-    "description": "Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
-    "url": "https://github.com/SleuthCo/clawshield-public",
+    "name": "aimirror",
+    "full_name": "livehl/aimirror",
+    "description": "🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来",
+    "url": "https://github.com/livehl/aimirror",
+    "stars": 95,
+    "daily_stars": 14,
+    "language": "Python",
+    "topics": [
+      "ai-tools",
+      "cache-proxy",
+      "cuda",
+      "deep-learning",
+      "docker-registry",
+      "download-accelerator",
+      "fastapi",
+      "gpu",
+      "huggingface",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "model-download",
+      "parallel-download",
+      "pypi-mirror",
+      "python",
+      "pytorch",
+      "tensorflow"
+    ],
+    "created_at": "2026-03-05T14:26:49",
+    "updated_at": "2026-03-09T03:03:04"
+  },
+  {
+    "name": "aimirror",
+    "full_name": "livehl/aimirror",
+    "description": "🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来",
+    "url": "https://github.com/livehl/aimirror",
     "stars": 95,
     "daily_stars": 0,
-    "language": "Go",
-    "topics": [
-      "ai-agents",
-      "ai-security",
-      "audit-logging",
-      "defense-in-depth",
-      "ebpf",
-      "go",
-      "llm-security",
-      "openclaw",
-      "pii-detection",
-      "prompt-injection",
-      "reverse-proxy",
-      "security-proxy",
-      "vulnerability-scanning"
-    ],
-    "created_at": "2026-03-01T03:12:37",
-    "updated_at": "2026-03-07T23:45:12"
-  },
-  {
-    "name": "aimirror",
-    "full_name": "livehl/aimirror",
-    "description": "🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来",
-    "url": "https://github.com/livehl/aimirror",
-    "stars": 81,
-    "daily_stars": 10,
     "language": "Python",
     "topics": [
       "ai-tools",
@@ -126,45 +131,14 @@
       "tensorflow"
     ],
     "created_at": "2026-03-05T14:26:49",
-    "updated_at": "2026-03-08T20:29:57"
-  },
-  {
-    "name": "aimirror",
-    "full_name": "livehl/aimirror",
-    "description": "🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来",
-    "url": "https://github.com/livehl/aimirror",
-    "stars": 81,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "ai-tools",
-      "cache-proxy",
-      "cuda",
-      "deep-learning",
-      "docker-registry",
-      "download-accelerator",
-      "fastapi",
-      "gpu",
-      "huggingface",
-      "large-language-models",
-      "llm",
-      "machine-learning",
-      "model-download",
-      "parallel-download",
-      "pypi-mirror",
-      "python",
-      "pytorch",
-      "tensorflow"
-    ],
-    "created_at": "2026-03-05T14:26:49",
-    "updated_at": "2026-03-08T20:29:57"
+    "updated_at": "2026-03-09T03:03:04"
   },
   {
     "name": "Aegis",
     "full_name": "Justin0504/Aegis",
     "description": "Runtime policy enforcement for AI agents. Cryptographic audit trail, human-in-the-loop approvals, kill switch. Zero code changes.                                                                         ",
     "url": "https://github.com/Justin0504/Aegis",
-    "stars": 78,
+    "stars": 84,
     "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
@@ -178,15 +152,15 @@
       "policy-engine"
     ],
     "created_at": "2026-03-04T03:24:33",
-    "updated_at": "2026-03-08T19:57:07"
+    "updated_at": "2026-03-09T02:37:02"
   },
   {
     "name": "agentseal",
     "full_name": "AgentSeal/agentseal",
     "description": "Security validator for AI agents - find out if your agent can be hacked",
     "url": "https://github.com/AgentSeal/agentseal",
-    "stars": 77,
-    "daily_stars": 0,
+    "stars": 78,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -198,15 +172,15 @@
       "security"
     ],
     "created_at": "2026-03-03T10:01:58",
-    "updated_at": "2026-03-08T06:04:01"
+    "updated_at": "2026-03-09T03:17:41"
   },
   {
     "name": "argus",
     "full_name": "yessGlory17/argus",
     "description": "Claude Code Session Debugger & Performance Analyzer",
     "url": "https://github.com/yessGlory17/argus",
-    "stars": 67,
-    "daily_stars": 0,
+    "stars": 69,
+    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -226,15 +200,15 @@
       "vscode-extension"
     ],
     "created_at": "2026-03-01T20:43:05",
-    "updated_at": "2026-03-08T16:37:16"
+    "updated_at": "2026-03-08T23:10:31"
   },
   {
     "name": "oculos",
     "full_name": "huseyinstif/oculos",
     "description": "If it's on the screen, it's an API. Control any desktop app via REST + MCP. Rust.",
     "url": "https://github.com/huseyinstif/oculos",
-    "stars": 65,
-    "daily_stars": 5,
+    "stars": 69,
+    "daily_stars": 4,
     "language": "Rust",
     "topics": [
       "accessibility",
@@ -247,6 +221,25 @@
       "ui-automation"
     ],
     "created_at": "2026-03-03T15:41:07",
-    "updated_at": "2026-03-08T20:00:45"
+    "updated_at": "2026-03-09T03:08:23"
+  },
+  {
+    "name": "Sovereign-OS",
+    "full_name": "Justin0504/Sovereign-OS",
+    "description": "Constitution-first AI orchestration: one Charter (YAML) defines mission, budget & rules. CEO plans → CFO approves → Ledger tracks every cent & token → Auditor scores. 16 workers, Stripe, MCP. Think. Audit. Execute.",
+    "url": "https://github.com/Justin0504/Sovereign-OS",
+    "stars": 62,
+    "daily_stars": 10,
+    "language": "Python",
+    "topics": [
+      "agent-framework",
+      "ai-agents",
+      "audit-trail",
+      "constitution-first",
+      "orchestration",
+      "stripe"
+    ],
+    "created_at": "2026-03-04T11:58:01",
+    "updated_at": "2026-03-09T03:17:42"
   }
 ]
