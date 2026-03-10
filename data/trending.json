@@ -1,11 +1,34 @@
 [
   {
+    "name": "ghost-os",
+    "full_name": "ghostwright/ghost-os",
+    "description": "Full computer-use for AI agents. Self-learning workflows. Native macOS. No screenshots required.",
+    "url": "https://github.com/ghostwright/ghost-os",
+    "stars": 290,
+    "daily_stars": 81,
+    "language": "Swift",
+    "topics": [
+      "accessibility",
+      "ai-agents",
+      "automation",
+      "claude-code",
+      "computer-use",
+      "llm-tools",
+      "macos",
+      "mcp",
+      "recipes",
+      "swift"
+    ],
+    "created_at": "2026-02-19T03:53:36",
+    "updated_at": "2026-03-10T17:12:38"
+  },
+  {
     "name": "edict",
     "full_name": "cft0808/edict",
     "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
     "url": "https://github.com/cft0808/edict",
-    "stars": 7371,
-    "daily_stars": 171,
+    "stars": 7438,
+    "daily_stars": 67,
     "language": "HTML",
     "topics": [
       "ai-agents",
@@ -23,38 +46,36 @@
       "workflow-automation"
     ],
     "created_at": "2026-02-23T14:35:04",
-    "updated_at": "2026-03-10T13:41:52"
+    "updated_at": "2026-03-10T17:12:42"
   },
   {
-    "name": "ghost-os",
-    "full_name": "ghostwright/ghost-os",
-    "description": "Full computer-use for AI agents. Self-learning workflows. Native macOS. No screenshots required.",
-    "url": "https://github.com/ghostwright/ghost-os",
-    "stars": 209,
-    "daily_stars": 95,
-    "language": "Swift",
+    "name": "openfang",
+    "full_name": "RightNow-AI/openfang",
+    "description": "Open-source Agent Operating System",
+    "url": "https://github.com/RightNow-AI/openfang",
+    "stars": 13507,
+    "daily_stars": 60,
+    "language": "Rust",
     "topics": [
-      "accessibility",
+      "agent-framework",
       "ai-agents",
-      "automation",
-      "claude-code",
-      "computer-use",
-      "llm-tools",
-      "macos",
+      "llm",
       "mcp",
-      "recipes",
-      "swift"
+      "open-source",
+      "openclaw",
+      "operating-system",
+      "rust"
     ],
-    "created_at": "2026-02-19T03:53:36",
-    "updated_at": "2026-03-10T13:38:24"
+    "created_at": "2026-02-24T23:12:38",
+    "updated_at": "2026-03-10T17:08:37"
   },
   {
     "name": "boluobobo-ai-court-tutorial",
     "full_name": "wanikua/boluobobo-ai-court-tutorial",
     "description": "AI 朝廷搭建完整教程 - 从零基础到进阶",
     "url": "https://github.com/wanikua/boluobobo-ai-court-tutorial",
-    "stars": 988,
-    "daily_stars": 69,
+    "stars": 1024,
+    "daily_stars": 36,
     "language": "Shell",
     "topics": [
       "ai",
@@ -75,36 +96,15 @@
       "workflow-automation"
     ],
     "created_at": "2026-02-22T17:17:44",
-    "updated_at": "2026-03-10T13:40:49"
-  },
-  {
-    "name": "openfang",
-    "full_name": "RightNow-AI/openfang",
-    "description": "Open-source Agent Operating System",
-    "url": "https://github.com/RightNow-AI/openfang",
-    "stars": 13447,
-    "daily_stars": 67,
-    "language": "Rust",
-    "topics": [
-      "agent-framework",
-      "ai-agents",
-      "llm",
-      "mcp",
-      "open-source",
-      "openclaw",
-      "operating-system",
-      "rust"
-    ],
-    "created_at": "2026-02-24T23:12:38",
-    "updated_at": "2026-03-10T13:36:33"
+    "updated_at": "2026-03-10T17:06:27"
   },
   {
     "name": "agent-safehouse",
     "full_name": "eugene1g/agent-safehouse",
     "description": "Sandbox your LLM coding agents on macOS so they can only touch the files they need",
     "url": "https://github.com/eugene1g/agent-safehouse",
-    "stars": 868,
-    "daily_stars": 32,
+    "stars": 892,
+    "daily_stars": 24,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -115,15 +115,15 @@
       "security"
     ],
     "created_at": "2026-02-09T17:33:52",
-    "updated_at": "2026-03-10T13:29:30"
+    "updated_at": "2026-03-10T17:10:04"
   },
   {
     "name": "open-terminal",
     "full_name": "open-webui/open-terminal",
     "description": "A computer you can curl ⚡",
     "url": "https://github.com/open-webui/open-terminal",
-    "stars": 1090,
-    "daily_stars": 27,
+    "stars": 1111,
+    "daily_stars": 21,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -133,14 +133,14 @@
       "open-webui"
     ],
     "created_at": "2026-02-10T21:57:30",
-    "updated_at": "2026-03-10T13:41:28"
+    "updated_at": "2026-03-10T17:12:55"
   },
   {
     "name": "ClawBio",
     "full_name": "ClawBio/ClawBio",
     "description": "🦖 ClawBio — The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw.",
     "url": "https://github.com/ClawBio/ClawBio",
-    "stars": 225,
+    "stars": 244,
     "daily_stars": 19,
     "language": "Python",
     "topics": [
@@ -154,35 +154,15 @@
       "reproducibility"
     ],
     "created_at": "2026-02-25T17:43:22",
-    "updated_at": "2026-03-10T13:29:47"
-  },
-  {
-    "name": "real-world-rails",
-    "full_name": "steveclarke/real-world-rails",
-    "description": "200+ production open source Rails apps & engines in one repo. Search across real codebases with AI agents to research architectural patterns.",
-    "url": "https://github.com/steveclarke/real-world-rails",
-    "stars": 452,
-    "daily_stars": 16,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
-      "code-patterns",
-      "learning",
-      "open-source",
-      "rails",
-      "real-world",
-      "ruby"
-    ],
-    "created_at": "2026-02-23T17:02:02",
-    "updated_at": "2026-03-10T13:32:06"
+    "updated_at": "2026-03-10T17:08:30"
   },
   {
     "name": "BioClaw",
     "full_name": "Runchuan-BU/BioClaw",
     "description": "AI-Powered Bioinformatics Research Assistant. Built on OpenClaw.",
     "url": "https://github.com/Runchuan-BU/BioClaw",
-    "stars": 112,
-    "daily_stars": 12,
+    "stars": 130,
+    "daily_stars": 18,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -192,15 +172,34 @@
       "pymol"
     ],
     "created_at": "2026-02-26T01:14:56",
-    "updated_at": "2026-03-10T12:58:31"
+    "updated_at": "2026-03-10T17:08:46"
+  },
+  {
+    "name": "gitclaw",
+    "full_name": "open-gitagent/gitclaw",
+    "description": "A universal git-native AI agent framework. Your agent lives inside a git repo — identity, rules, memory, tools, and skills are all version-controlled files.",
+    "url": "https://github.com/open-gitagent/gitclaw",
+    "stars": 89,
+    "daily_stars": 13,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "assistant",
+      "llm",
+      "openclaw",
+      "personal"
+    ],
+    "created_at": "2026-03-04T12:30:03",
+    "updated_at": "2026-03-10T16:57:20"
   },
   {
     "name": "aimirror",
     "full_name": "livehl/aimirror",
     "description": "🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来",
     "url": "https://github.com/livehl/aimirror",
-    "stars": 185,
-    "daily_stars": 10,
+    "stars": 196,
+    "daily_stars": 11,
     "language": "Python",
     "topics": [
       "ai-tools",
@@ -223,6 +222,6 @@
       "tensorflow"
     ],
     "created_at": "2026-03-05T14:26:49",
-    "updated_at": "2026-03-10T13:19:54"
+    "updated_at": "2026-03-10T17:05:08"
   }
 ]
