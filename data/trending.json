@@ -1,29 +1,11 @@
 [
   {
-    "name": "onecli",
-    "full_name": "onecli/onecli",
-    "description": "Open-source credential vault, give your AI agents access to services without exposing keys.",
-    "url": "https://github.com/onecli/onecli",
-    "stars": 337,
-    "daily_stars": 163,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "nanoclaw",
-      "openclaw",
-      "rust",
-      "secret-management"
-    ],
-    "created_at": "2026-03-08T10:38:52",
-    "updated_at": "2026-03-13T03:10:36"
-  },
-  {
     "name": "axe",
     "full_name": "jrswab/axe",
     "description": "A ligthweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal.",
     "url": "https://github.com/jrswab/axe",
-    "stars": 363,
-    "daily_stars": 154,
+    "stars": 401,
+    "daily_stars": 38,
     "language": "Go",
     "topics": [
       "ai-agents",
@@ -35,15 +17,33 @@
       "llm"
     ],
     "created_at": "2026-02-27T03:04:23",
-    "updated_at": "2026-03-13T03:12:49"
+    "updated_at": "2026-03-13T05:27:57"
+  },
+  {
+    "name": "onecli",
+    "full_name": "onecli/onecli",
+    "description": "Open-source credential vault, give your AI agents access to services without exposing keys.",
+    "url": "https://github.com/onecli/onecli",
+    "stars": 370,
+    "daily_stars": 33,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "nanoclaw",
+      "openclaw",
+      "rust",
+      "secret-management"
+    ],
+    "created_at": "2026-03-08T10:38:52",
+    "updated_at": "2026-03-13T05:31:00"
   },
   {
     "name": "edict",
     "full_name": "cft0808/edict",
     "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
     "url": "https://github.com/cft0808/edict",
-    "stars": 8685,
-    "daily_stars": 99,
+    "stars": 8717,
+    "daily_stars": 32,
     "language": "HTML",
     "topics": [
       "ai-agents",
@@ -61,77 +61,43 @@
       "workflow-automation"
     ],
     "created_at": "2026-02-23T14:35:04",
-    "updated_at": "2026-03-13T03:12:59"
+    "updated_at": "2026-03-13T05:32:14"
   },
   {
-    "name": "ghost-os",
-    "full_name": "ghostwright/ghost-os",
-    "description": "Full computer-use for AI agents. Self-learning workflows. Native macOS. No screenshots required.",
-    "url": "https://github.com/ghostwright/ghost-os",
-    "stars": 735,
-    "daily_stars": 61,
-    "language": "Swift",
-    "topics": [
-      "accessibility",
-      "ai-agents",
-      "automation",
-      "claude-code",
-      "computer-use",
-      "llm-tools",
-      "macos",
-      "mcp",
-      "recipes",
-      "swift"
-    ],
-    "created_at": "2026-02-19T03:53:36",
-    "updated_at": "2026-03-13T03:07:47"
-  },
-  {
-    "name": "openfang",
-    "full_name": "RightNow-AI/openfang",
-    "description": "Open-source Agent Operating System",
-    "url": "https://github.com/RightNow-AI/openfang",
-    "stars": 14056,
-    "daily_stars": 39,
-    "language": "Rust",
-    "topics": [
-      "agent-framework",
-      "ai-agents",
-      "llm",
-      "mcp",
-      "open-source",
-      "openclaw",
-      "operating-system",
-      "rust"
-    ],
-    "created_at": "2026-02-24T23:12:38",
-    "updated_at": "2026-03-13T03:08:50"
-  },
-  {
-    "name": "Nextis-AIRA-3D",
-    "full_name": "robertorobotics/Nextis-AIRA-3D",
-    "description": "Open-source 7DoF 3D-printable robotic arm with LeRobot integration. ",
-    "url": "https://github.com/robertorobotics/Nextis-AIRA-3D",
-    "stars": 121,
-    "daily_stars": 38,
+    "name": "gpu-monitor",
+    "full_name": "reacher-z/gpu-monitor",
+    "description": "Lightweight NVIDIA GPU monitor — alerts on Slack/Discord/Telegram/20 channels when training crashes or GPU overheats. Zero dependencies. Single file.",
+    "url": "https://github.com/reacher-z/gpu-monitor",
+    "stars": 134,
+    "daily_stars": 27,
     "language": "Python",
     "topics": [
-      "3d-printing",
-      "artificial-intelligence",
+      "alerting",
+      "deep-learning",
+      "discord",
+      "gpu",
+      "gpu-monitoring",
+      "grafana",
+      "kubernetes",
       "machine-learning",
-      "open-source",
-      "robotics"
+      "mlops",
+      "monitoring",
+      "nvidia",
+      "prometheus",
+      "pytorch",
+      "slack",
+      "telegram"
     ],
-    "created_at": "2026-03-08T20:17:33",
-    "updated_at": "2026-03-13T03:06:13"
+    "created_at": "2026-02-27T18:46:44",
+    "updated_at": "2026-03-13T05:32:30"
   },
   {
     "name": "Auto-claude-code-research-in-sleep",
     "full_name": "wanshuiyin/Auto-claude-code-research-in-sleep",
     "description": "Claude Code skills for autonomous ML research: cross-model review loops via Codex MCP",
     "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
-    "stars": 283,
-    "daily_stars": 29,
+    "stars": 309,
+    "daily_stars": 26,
     "language": null,
     "topics": [
       "ai-research",
@@ -155,40 +121,85 @@
       "svg"
     ],
     "created_at": "2026-03-10T07:31:45",
-    "updated_at": "2026-03-13T03:13:16"
+    "updated_at": "2026-03-13T05:32:12"
   },
   {
-    "name": "agi",
-    "full_name": "hyperspaceai/agi",
-    "description": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.",
-    "url": "https://github.com/hyperspaceai/agi",
-    "stars": 106,
+    "name": "ghost-os",
+    "full_name": "ghostwright/ghost-os",
+    "description": "Full computer-use for AI agents. Self-learning workflows. Native macOS. No screenshots required.",
+    "url": "https://github.com/ghostwright/ghost-os",
+    "stars": 758,
     "daily_stars": 23,
-    "language": null,
+    "language": "Swift",
     "topics": [
-      "agi",
+      "accessibility",
       "ai-agents",
-      "ai-research",
-      "artificial-general-intelligence",
-      "autonomous-agents",
-      "autonomous-agents-",
-      "autoresearch",
-      "collaborative-ai",
-      "decentralized",
-      "distributed-ai",
-      "llm",
-      "p2p"
+      "automation",
+      "claude-code",
+      "computer-use",
+      "llm-tools",
+      "macos",
+      "mcp",
+      "recipes",
+      "swift"
     ],
-    "created_at": "2026-03-08T23:08:37",
-    "updated_at": "2026-03-13T03:06:44"
+    "created_at": "2026-02-19T03:53:36",
+    "updated_at": "2026-03-13T05:31:34"
+  },
+  {
+    "name": "openfang",
+    "full_name": "RightNow-AI/openfang",
+    "description": "Open-source Agent Operating System",
+    "url": "https://github.com/RightNow-AI/openfang",
+    "stars": 14075,
+    "daily_stars": 19,
+    "language": "Rust",
+    "topics": [
+      "agent-framework",
+      "ai-agents",
+      "llm",
+      "mcp",
+      "open-source",
+      "openclaw",
+      "operating-system",
+      "rust"
+    ],
+    "created_at": "2026-02-24T23:12:38",
+    "updated_at": "2026-03-13T05:27:11"
+  },
+  {
+    "name": "ai-video-generation-workflow",
+    "full_name": "haolinwang819-boop/ai-video-generation-workflow",
+    "description": "AI video generation workflow with script, slides, TTS, subtitles, and FFmpeg rendering.",
+    "url": "https://github.com/haolinwang819-boop/ai-video-generation-workflow",
+    "stars": 123,
+    "daily_stars": 16,
+    "language": "TypeScript",
+    "topics": [
+      "ai-video",
+      "ai-video-generation",
+      "ai-video-generator",
+      "ai-video-maker",
+      "automation",
+      "ffmpeg",
+      "notebooklm",
+      "subtitles",
+      "subtitles-generator",
+      "tts",
+      "typescript",
+      "video-generation",
+      "workflow"
+    ],
+    "created_at": "2026-03-04T16:44:48",
+    "updated_at": "2026-03-13T05:31:13"
   },
   {
     "name": "boluobobo-ai-court-tutorial",
     "full_name": "wanikua/boluobobo-ai-court-tutorial",
     "description": "AI 朝廷搭建完整教程 - 从零基础到进阶",
     "url": "https://github.com/wanikua/boluobobo-ai-court-tutorial",
-    "stars": 1467,
-    "daily_stars": 18,
+    "stars": 1481,
+    "daily_stars": 14,
     "language": "Shell",
     "topics": [
       "ai",
@@ -209,37 +220,27 @@
       "workflow-automation"
     ],
     "created_at": "2026-02-22T17:17:44",
-    "updated_at": "2026-03-13T03:02:30"
+    "updated_at": "2026-03-13T05:26:25"
   },
   {
-    "name": "aimirror",
-    "full_name": "livehl/aimirror",
-    "description": "🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来",
-    "url": "https://github.com/livehl/aimirror",
-    "stars": 655,
-    "daily_stars": 18,
-    "language": "Python",
+    "name": "agency-agents-zh",
+    "full_name": "jnMetaCode/agency-agents-zh",
+    "description": "AI 智能体专家团队（中文版）— 80+ 个专业 AI 智能体人设，覆盖开发、设计、营销、测试、运维等领域，含小红书/抖音/微信等中国平台原创智能体",
+    "url": "https://github.com/jnMetaCode/agency-agents-zh",
+    "stars": 275,
+    "daily_stars": 11,
+    "language": null,
     "topics": [
-      "ai-tools",
-      "cache-proxy",
-      "cuda",
-      "deep-learning",
-      "docker-registry",
-      "download-accelerator",
-      "fastapi",
-      "gpu",
-      "huggingface",
-      "large-language-models",
+      "agent-framework",
+      "ai",
+      "ai-agents",
+      "chinese",
+      "claude",
       "llm",
-      "machine-learning",
-      "model-download",
-      "parallel-download",
-      "pypi-mirror",
-      "python",
-      "pytorch",
-      "tensorflow"
+      "prompt-engineering",
+      "zh-cn"
     ],
-    "created_at": "2026-03-05T14:26:49",
-    "updated_at": "2026-03-13T02:46:36"
+    "created_at": "2026-03-06T11:11:51",
+    "updated_at": "2026-03-13T05:27:37"
   }
 ]
