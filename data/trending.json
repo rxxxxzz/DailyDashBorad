@@ -1,49 +1,11 @@
 [
   {
-    "name": "axe",
-    "full_name": "jrswab/axe",
-    "description": "A ligthweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal.",
-    "url": "https://github.com/jrswab/axe",
-    "stars": 401,
-    "daily_stars": 38,
-    "language": "Go",
-    "topics": [
-      "ai-agents",
-      "automation",
-      "cli",
-      "command-line",
-      "developer-tools",
-      "golang",
-      "llm"
-    ],
-    "created_at": "2026-02-27T03:04:23",
-    "updated_at": "2026-03-13T05:27:57"
-  },
-  {
-    "name": "onecli",
-    "full_name": "onecli/onecli",
-    "description": "Open-source credential vault, give your AI agents access to services without exposing keys.",
-    "url": "https://github.com/onecli/onecli",
-    "stars": 370,
-    "daily_stars": 33,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "nanoclaw",
-      "openclaw",
-      "rust",
-      "secret-management"
-    ],
-    "created_at": "2026-03-08T10:38:52",
-    "updated_at": "2026-03-13T05:31:00"
-  },
-  {
     "name": "edict",
     "full_name": "cft0808/edict",
     "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
     "url": "https://github.com/cft0808/edict",
-    "stars": 8717,
-    "daily_stars": 32,
+    "stars": 8826,
+    "daily_stars": 109,
     "language": "HTML",
     "topics": [
       "ai-agents",
@@ -61,43 +23,105 @@
       "workflow-automation"
     ],
     "created_at": "2026-02-23T14:35:04",
-    "updated_at": "2026-03-13T05:32:14"
+    "updated_at": "2026-03-13T09:00:23"
   },
   {
-    "name": "gpu-monitor",
-    "full_name": "reacher-z/gpu-monitor",
-    "description": "Lightweight NVIDIA GPU monitor — alerts on Slack/Discord/Telegram/20 channels when training crashes or GPU overheats. Zero dependencies. Single file.",
-    "url": "https://github.com/reacher-z/gpu-monitor",
-    "stars": 134,
-    "daily_stars": 27,
-    "language": "Python",
+    "name": "onecli",
+    "full_name": "onecli/onecli",
+    "description": "Open-source credential vault, give your AI agents access to services without exposing keys.",
+    "url": "https://github.com/onecli/onecli",
+    "stars": 424,
+    "daily_stars": 54,
+    "language": "TypeScript",
     "topics": [
-      "alerting",
-      "deep-learning",
-      "discord",
-      "gpu",
-      "gpu-monitoring",
-      "grafana",
-      "kubernetes",
-      "machine-learning",
-      "mlops",
-      "monitoring",
-      "nvidia",
-      "prometheus",
-      "pytorch",
-      "slack",
-      "telegram"
+      "ai-agents",
+      "nanoclaw",
+      "openclaw",
+      "rust",
+      "secret-management"
     ],
-    "created_at": "2026-02-27T18:46:44",
-    "updated_at": "2026-03-13T05:32:30"
+    "created_at": "2026-03-08T10:38:52",
+    "updated_at": "2026-03-13T09:00:29"
+  },
+  {
+    "name": "axe",
+    "full_name": "jrswab/axe",
+    "description": "A ligthweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal.",
+    "url": "https://github.com/jrswab/axe",
+    "stars": 454,
+    "daily_stars": 53,
+    "language": "Go",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "cli",
+      "command-line",
+      "developer-tools",
+      "golang",
+      "llm"
+    ],
+    "created_at": "2026-02-27T03:04:23",
+    "updated_at": "2026-03-13T09:00:48"
+  },
+  {
+    "name": "boluobobo-ai-court-tutorial",
+    "full_name": "wanikua/boluobobo-ai-court-tutorial",
+    "description": "AI 朝廷搭建完整教程 - 从零基础到进阶",
+    "url": "https://github.com/wanikua/boluobobo-ai-court-tutorial",
+    "stars": 1527,
+    "daily_stars": 46,
+    "language": "Shell",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-orchestration",
+      "autonomous-agents",
+      "claude",
+      "clawdbot",
+      "discord",
+      "discord-bot",
+      "kanban",
+      "llm",
+      "multi-agent",
+      "openai",
+      "openclaw",
+      "python",
+      "tutorial",
+      "workflow-automation"
+    ],
+    "created_at": "2026-02-22T17:17:44",
+    "updated_at": "2026-03-13T09:00:22"
+  },
+  {
+    "name": "ghost-os",
+    "full_name": "ghostwright/ghost-os",
+    "description": "Full computer-use for AI agents. Self-learning workflows. Native macOS. No screenshots required.",
+    "url": "https://github.com/ghostwright/ghost-os",
+    "stars": 800,
+    "daily_stars": 42,
+    "language": "Swift",
+    "topics": [
+      "accessibility",
+      "ai-agents",
+      "automation",
+      "claude-code",
+      "computer-use",
+      "llm-tools",
+      "macos",
+      "mcp",
+      "recipes",
+      "swift"
+    ],
+    "created_at": "2026-02-19T03:53:36",
+    "updated_at": "2026-03-13T09:02:42"
   },
   {
     "name": "Auto-claude-code-research-in-sleep",
     "full_name": "wanshuiyin/Auto-claude-code-research-in-sleep",
     "description": "Claude Code skills for autonomous ML research: cross-model review loops via Codex MCP",
     "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
-    "stars": 309,
-    "daily_stars": 26,
+    "stars": 349,
+    "daily_stars": 40,
     "language": null,
     "topics": [
       "ai-research",
@@ -121,59 +145,40 @@
       "svg"
     ],
     "created_at": "2026-03-10T07:31:45",
-    "updated_at": "2026-03-13T05:32:12"
+    "updated_at": "2026-03-13T09:01:55"
   },
   {
-    "name": "ghost-os",
-    "full_name": "ghostwright/ghost-os",
-    "description": "Full computer-use for AI agents. Self-learning workflows. Native macOS. No screenshots required.",
-    "url": "https://github.com/ghostwright/ghost-os",
-    "stars": 758,
-    "daily_stars": 23,
-    "language": "Swift",
+    "name": "agi",
+    "full_name": "hyperspaceai/agi",
+    "description": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.",
+    "url": "https://github.com/hyperspaceai/agi",
+    "stars": 146,
+    "daily_stars": 33,
+    "language": null,
     "topics": [
-      "accessibility",
+      "agi",
       "ai-agents",
-      "automation",
-      "claude-code",
-      "computer-use",
-      "llm-tools",
-      "macos",
-      "mcp",
-      "recipes",
-      "swift"
-    ],
-    "created_at": "2026-02-19T03:53:36",
-    "updated_at": "2026-03-13T05:31:34"
-  },
-  {
-    "name": "openfang",
-    "full_name": "RightNow-AI/openfang",
-    "description": "Open-source Agent Operating System",
-    "url": "https://github.com/RightNow-AI/openfang",
-    "stars": 14075,
-    "daily_stars": 19,
-    "language": "Rust",
-    "topics": [
-      "agent-framework",
-      "ai-agents",
+      "ai-research",
+      "artificial-general-intelligence",
+      "autonomous-agents",
+      "autonomous-agents-",
+      "autoresearch",
+      "collaborative-ai",
+      "decentralized",
+      "distributed-ai",
       "llm",
-      "mcp",
-      "open-source",
-      "openclaw",
-      "operating-system",
-      "rust"
+      "p2p"
     ],
-    "created_at": "2026-02-24T23:12:38",
-    "updated_at": "2026-03-13T05:27:11"
+    "created_at": "2026-03-08T23:08:37",
+    "updated_at": "2026-03-13T08:57:08"
   },
   {
     "name": "ai-video-generation-workflow",
     "full_name": "haolinwang819-boop/ai-video-generation-workflow",
     "description": "AI video generation workflow with script, slides, TTS, subtitles, and FFmpeg rendering.",
     "url": "https://github.com/haolinwang819-boop/ai-video-generation-workflow",
-    "stars": 123,
-    "daily_stars": 16,
+    "stars": 156,
+    "daily_stars": 33,
     "language": "TypeScript",
     "topics": [
       "ai-video",
@@ -191,44 +196,15 @@
       "workflow"
     ],
     "created_at": "2026-03-04T16:44:48",
-    "updated_at": "2026-03-13T05:31:13"
-  },
-  {
-    "name": "boluobobo-ai-court-tutorial",
-    "full_name": "wanikua/boluobobo-ai-court-tutorial",
-    "description": "AI 朝廷搭建完整教程 - 从零基础到进阶",
-    "url": "https://github.com/wanikua/boluobobo-ai-court-tutorial",
-    "stars": 1481,
-    "daily_stars": 14,
-    "language": "Shell",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-orchestration",
-      "autonomous-agents",
-      "claude",
-      "clawdbot",
-      "discord",
-      "discord-bot",
-      "kanban",
-      "llm",
-      "multi-agent",
-      "openai",
-      "openclaw",
-      "python",
-      "tutorial",
-      "workflow-automation"
-    ],
-    "created_at": "2026-02-22T17:17:44",
-    "updated_at": "2026-03-13T05:26:25"
+    "updated_at": "2026-03-13T08:35:59"
   },
   {
     "name": "agency-agents-zh",
     "full_name": "jnMetaCode/agency-agents-zh",
     "description": "AI 智能体专家团队（中文版）— 80+ 个专业 AI 智能体人设，覆盖开发、设计、营销、测试、运维等领域，含小红书/抖音/微信等中国平台原创智能体",
     "url": "https://github.com/jnMetaCode/agency-agents-zh",
-    "stars": 275,
-    "daily_stars": 11,
+    "stars": 305,
+    "daily_stars": 30,
     "language": null,
     "topics": [
       "agent-framework",
@@ -241,6 +217,27 @@
       "zh-cn"
     ],
     "created_at": "2026-03-06T11:11:51",
-    "updated_at": "2026-03-13T05:27:37"
+    "updated_at": "2026-03-13T09:00:40"
+  },
+  {
+    "name": "openfang",
+    "full_name": "RightNow-AI/openfang",
+    "description": "Open-source Agent Operating System",
+    "url": "https://github.com/RightNow-AI/openfang",
+    "stars": 14098,
+    "daily_stars": 23,
+    "language": "Rust",
+    "topics": [
+      "agent-framework",
+      "ai-agents",
+      "llm",
+      "mcp",
+      "open-source",
+      "openclaw",
+      "operating-system",
+      "rust"
+    ],
+    "created_at": "2026-02-24T23:12:38",
+    "updated_at": "2026-03-13T09:04:42"
   }
 ]
