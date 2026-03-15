@@ -4,8 +4,8 @@
     "full_name": "mukul975/Anthropic-Cybersecurity-Skills",
     "description": "734+ structured cybersecurity skills for AI agents · MITRE ATT&CK mapped · agentskills.io standard · Claude Code, Copilot, Codex CLI, Cursor, Gemini CLI",
     "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-    "stars": 367,
-    "daily_stars": 280,
+    "stars": 423,
+    "daily_stars": 56,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -30,15 +30,15 @@
       "threat-hunting"
     ],
     "created_at": "2026-02-25T09:47:50",
-    "updated_at": "2026-03-15T03:39:13"
+    "updated_at": "2026-03-15T05:46:23"
   },
   {
     "name": "Auto-claude-code-research-in-sleep",
     "full_name": "wanshuiyin/Auto-claude-code-research-in-sleep",
     "description": "Claude Code skills for autonomous ML research: cross-model review loops via Codex MCP",
     "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
-    "stars": 930,
-    "daily_stars": 96,
+    "stars": 979,
+    "daily_stars": 49,
     "language": null,
     "topics": [
       "ai-research",
@@ -62,40 +62,120 @@
       "svg"
     ],
     "created_at": "2026-03-10T07:31:45",
-    "updated_at": "2026-03-15T03:38:34"
+    "updated_at": "2026-03-15T05:49:03"
   },
   {
-    "name": "agi",
-    "full_name": "hyperspaceai/agi",
-    "description": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.",
-    "url": "https://github.com/hyperspaceai/agi",
-    "stars": 556,
-    "daily_stars": 57,
+    "name": "Aave-Claw",
+    "full_name": "susanudgzf/Aave-Claw",
+    "description": null,
+    "url": "https://github.com/susanudgzf/Aave-Claw",
+    "stars": 119,
+    "daily_stars": 45,
+    "language": "Rust",
+    "topics": [
+      "aave",
+      "aave-claw",
+      "aave-openclaw-skill",
+      "aave-protocol",
+      "ai",
+      "ai-agents",
+      "ai-assistant",
+      "ai-tools",
+      "defi",
+      "defi-bot",
+      "lending-market",
+      "liquid-staking",
+      "openclaw",
+      "openclaw-skill",
+      "skill",
+      "skills",
+      "staking-bot"
+    ],
+    "created_at": "2026-03-14T14:04:08",
+    "updated_at": "2026-03-15T05:44:29"
+  },
+  {
+    "name": "agency-agents-zh",
+    "full_name": "jnMetaCode/agency-agents-zh",
+    "description": "AI 智能体专家团队（中文版）— 80+ 个专业 AI 智能体人设，覆盖开发、设计、营销、测试、运维等领域，含小红书/抖音/微信等中国平台原创智能体",
+    "url": "https://github.com/jnMetaCode/agency-agents-zh",
+    "stars": 616,
+    "daily_stars": 21,
     "language": null,
     "topics": [
-      "agi",
+      "agent-framework",
+      "ai",
       "ai-agents",
-      "ai-research",
-      "artificial-general-intelligence",
-      "autonomous-agents",
-      "autonomous-agents-",
-      "autoresearch",
-      "collaborative-ai",
-      "decentralized",
-      "distributed-ai",
+      "chinese",
+      "claude",
       "llm",
-      "p2p"
+      "prompt-engineering",
+      "zh-cn"
     ],
-    "created_at": "2026-03-08T23:08:37",
-    "updated_at": "2026-03-15T03:32:21"
+    "created_at": "2026-03-06T11:11:51",
+    "updated_at": "2026-03-15T05:46:12"
+  },
+  {
+    "name": "edict",
+    "full_name": "cft0808/edict",
+    "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
+    "url": "https://github.com/cft0808/edict",
+    "stars": 9269,
+    "daily_stars": 18,
+    "language": "HTML",
+    "topics": [
+      "ai-agents",
+      "ai-orchestration",
+      "autonomous-agents",
+      "claude",
+      "dashboard",
+      "kanban",
+      "llm",
+      "multi-agent",
+      "openai",
+      "openclaw",
+      "orchestration",
+      "python",
+      "workflow-automation"
+    ],
+    "created_at": "2026-02-23T14:35:04",
+    "updated_at": "2026-03-15T05:49:03"
+  },
+  {
+    "name": "OpenGenerativeUI",
+    "full_name": "CopilotKit/OpenGenerativeUI",
+    "description": "Open-Source Generative UI Framework",
+    "url": "https://github.com/CopilotKit/OpenGenerativeUI",
+    "stars": 284,
+    "daily_stars": 15,
+    "language": "TypeScript",
+    "topics": [
+      "agent-native",
+      "agentic-ai",
+      "agentic-visualization",
+      "agents",
+      "ai-agents",
+      "ai-copilot",
+      "ai-visualization",
+      "assistant-chat-bots",
+      "copilot",
+      "generative-ui",
+      "javascript",
+      "llm",
+      "open-source",
+      "typescript",
+      "visualization"
+    ],
+    "created_at": "2026-03-12T20:40:06",
+    "updated_at": "2026-03-15T05:41:37"
   },
   {
     "name": "CloakBrowser",
     "full_name": "CloakHQ/CloakBrowser",
     "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
     "url": "https://github.com/CloakHQ/CloakBrowser",
-    "stars": 577,
-    "daily_stars": 52,
+    "stars": 591,
+    "daily_stars": 14,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -120,41 +200,40 @@
       "webscraping"
     ],
     "created_at": "2026-02-22T08:09:57",
-    "updated_at": "2026-03-15T03:30:21"
+    "updated_at": "2026-03-15T05:44:17"
   },
   {
-    "name": "edict",
-    "full_name": "cft0808/edict",
-    "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
-    "url": "https://github.com/cft0808/edict",
-    "stars": 9251,
-    "daily_stars": 43,
-    "language": "HTML",
+    "name": "agi",
+    "full_name": "hyperspaceai/agi",
+    "description": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.",
+    "url": "https://github.com/hyperspaceai/agi",
+    "stars": 568,
+    "daily_stars": 12,
+    "language": null,
     "topics": [
+      "agi",
       "ai-agents",
-      "ai-orchestration",
+      "ai-research",
+      "artificial-general-intelligence",
       "autonomous-agents",
-      "claude",
-      "dashboard",
-      "kanban",
+      "autonomous-agents-",
+      "autoresearch",
+      "collaborative-ai",
+      "decentralized",
+      "distributed-ai",
       "llm",
-      "multi-agent",
-      "openai",
-      "openclaw",
-      "orchestration",
-      "python",
-      "workflow-automation"
+      "p2p"
     ],
-    "created_at": "2026-02-23T14:35:04",
-    "updated_at": "2026-03-15T03:35:13"
+    "created_at": "2026-03-08T23:08:37",
+    "updated_at": "2026-03-15T05:38:40"
   },
   {
     "name": "openfang",
     "full_name": "RightNow-AI/openfang",
     "description": "Open-source Agent Operating System",
     "url": "https://github.com/RightNow-AI/openfang",
-    "stars": 14420,
-    "daily_stars": 38,
+    "stars": 14431,
+    "daily_stars": 11,
     "language": "Rust",
     "topics": [
       "agent-framework",
@@ -167,86 +246,15 @@
       "rust"
     ],
     "created_at": "2026-02-24T23:12:38",
-    "updated_at": "2026-03-15T03:37:48"
-  },
-  {
-    "name": "agency-agents-zh",
-    "full_name": "jnMetaCode/agency-agents-zh",
-    "description": "AI 智能体专家团队（中文版）— 80+ 个专业 AI 智能体人设，覆盖开发、设计、营销、测试、运维等领域，含小红书/抖音/微信等中国平台原创智能体",
-    "url": "https://github.com/jnMetaCode/agency-agents-zh",
-    "stars": 595,
-    "daily_stars": 36,
-    "language": null,
-    "topics": [
-      "agent-framework",
-      "ai",
-      "ai-agents",
-      "chinese",
-      "claude",
-      "llm",
-      "prompt-engineering",
-      "zh-cn"
-    ],
-    "created_at": "2026-03-06T11:11:51",
-    "updated_at": "2026-03-15T03:27:12"
-  },
-  {
-    "name": "OpenGenerativeUI",
-    "full_name": "CopilotKit/OpenGenerativeUI",
-    "description": "Open-Source Generative UI Framework",
-    "url": "https://github.com/CopilotKit/OpenGenerativeUI",
-    "stars": 269,
-    "daily_stars": 31,
-    "language": "TypeScript",
-    "topics": [
-      "agent-native",
-      "agentic-ai",
-      "agentic-visualization",
-      "agents",
-      "ai-agents",
-      "ai-copilot",
-      "ai-visualization",
-      "assistant-chat-bots",
-      "copilot",
-      "generative-ui",
-      "javascript",
-      "llm",
-      "open-source",
-      "typescript",
-      "visualization"
-    ],
-    "created_at": "2026-03-12T20:40:06",
-    "updated_at": "2026-03-15T03:31:51"
-  },
-  {
-    "name": "OB1",
-    "full_name": "NateBJones-Projects/OB1",
-    "description": "Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS.",
-    "url": "https://github.com/NateBJones-Projects/OB1",
-    "stars": 190,
-    "daily_stars": 25,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "mcp",
-      "memory-layer",
-      "memory-layer-for-ai",
-      "open-brain",
-      "open-source",
-      "personal-knowledge",
-      "personal-knowledge-management",
-      "supabase"
-    ],
-    "created_at": "2026-03-11T17:59:59",
-    "updated_at": "2026-03-15T03:38:02"
+    "updated_at": "2026-03-15T05:48:50"
   },
   {
     "name": "boluobobo-ai-court-tutorial",
     "full_name": "wanikua/boluobobo-ai-court-tutorial",
     "description": "AI 朝廷搭建完整教程 - 从零基础到进阶",
     "url": "https://github.com/wanikua/boluobobo-ai-court-tutorial",
-    "stars": 1630,
-    "daily_stars": 12,
+    "stars": 1641,
+    "daily_stars": 11,
     "language": "Shell",
     "topics": [
       "ai",
@@ -267,6 +275,6 @@
       "workflow-automation"
     ],
     "created_at": "2026-02-22T17:17:44",
-    "updated_at": "2026-03-15T03:14:20"
+    "updated_at": "2026-03-15T05:45:39"
   }
 ]
