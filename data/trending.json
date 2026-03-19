@@ -4,8 +4,8 @@
     "full_name": "VoltAgent/awesome-codex-subagents",
     "description": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases.",
     "url": "https://github.com/VoltAgent/awesome-codex-subagents",
-    "stars": 631,
-    "daily_stars": 90,
+    "stars": 859,
+    "daily_stars": 228,
     "language": null,
     "topics": [
       "ai-agents",
@@ -17,15 +17,15 @@
       "subagents"
     ],
     "created_at": "2026-03-17T12:26:20",
-    "updated_at": "2026-03-18T21:02:47"
+    "updated_at": "2026-03-19T03:25:06"
   },
   {
     "name": "nightingale",
     "full_name": "rzru/nightingale",
     "description": "Machine learning powered Karaoke app (with scores!) ",
     "url": "https://github.com/rzru/nightingale",
-    "stars": 421,
-    "daily_stars": 75,
+    "stars": 508,
+    "daily_stars": 87,
     "language": "Rust",
     "topics": [
       "ai",
@@ -45,37 +45,41 @@
       "whisperx"
     ],
     "created_at": "2026-03-15T14:48:09",
-    "updated_at": "2026-03-18T21:02:45"
+    "updated_at": "2026-03-19T03:23:25"
   },
   {
-    "name": "zeroboot",
-    "full_name": "adammiribyan/zeroboot",
-    "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
-    "url": "https://github.com/adammiribyan/zeroboot",
-    "stars": 537,
-    "daily_stars": 60,
-    "language": "Rust",
+    "name": "edict",
+    "full_name": "cft0808/edict",
+    "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
+    "url": "https://github.com/cft0808/edict",
+    "stars": 11091,
+    "daily_stars": 83,
+    "language": "HTML",
     "topics": [
       "ai-agents",
-      "code-execution",
-      "copy-on-write",
-      "firecracker",
-      "kvm",
-      "rust",
-      "sandbox",
-      "virtual-machine",
-      "vm"
+      "ai-orchestration",
+      "autonomous-agents",
+      "claude",
+      "dashboard",
+      "kanban",
+      "llm",
+      "multi-agent",
+      "openai",
+      "openclaw",
+      "orchestration",
+      "python",
+      "workflow-automation"
     ],
-    "created_at": "2026-03-15T21:49:32",
-    "updated_at": "2026-03-18T21:01:44"
+    "created_at": "2026-02-23T14:35:04",
+    "updated_at": "2026-03-19T03:23:56"
   },
   {
     "name": "Auto-claude-code-research-in-sleep",
     "full_name": "wanshuiyin/Auto-claude-code-research-in-sleep",
     "description": "Claude Code skills for autonomous ML research: cross-model review loops via Codex MCP",
     "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
-    "stars": 2314,
-    "daily_stars": 20,
+    "stars": 2368,
+    "daily_stars": 54,
     "language": null,
     "topics": [
       "ai-research",
@@ -99,38 +103,58 @@
       "svg"
     ],
     "created_at": "2026-03-10T07:31:45",
-    "updated_at": "2026-03-18T20:50:04"
+    "updated_at": "2026-03-19T03:23:52"
   },
   {
-    "name": "ghost-os",
-    "full_name": "ghostwright/ghost-os",
-    "description": "Full computer-use for AI agents. Self-learning workflows. Native macOS. No screenshots required.",
-    "url": "https://github.com/ghostwright/ghost-os",
-    "stars": 1059,
-    "daily_stars": 17,
-    "language": "Swift",
+    "name": "agency-agents-zh",
+    "full_name": "jnMetaCode/agency-agents-zh",
+    "description": "AI 智能体专家团队（中文版）— 80+ 个专业 AI 智能体人设，覆盖开发、设计、营销、测试、运维等领域，含小红书/抖音/微信等中国平台原创智能体",
+    "url": "https://github.com/jnMetaCode/agency-agents-zh",
+    "stars": 1370,
+    "daily_stars": 46,
+    "language": null,
     "topics": [
-      "accessibility",
+      "agent-framework",
+      "ai",
       "ai-agents",
-      "automation",
-      "claude-code",
-      "computer-use",
-      "llm-tools",
-      "macos",
-      "mcp",
-      "recipes",
-      "swift"
+      "chinese",
+      "claude",
+      "llm",
+      "prompt-engineering",
+      "zh-cn"
     ],
-    "created_at": "2026-02-19T03:53:36",
-    "updated_at": "2026-03-18T20:54:22"
+    "created_at": "2026-03-06T11:11:51",
+    "updated_at": "2026-03-19T03:13:36"
+  },
+  {
+    "name": "zeroboot",
+    "full_name": "adammiribyan/zeroboot",
+    "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
+    "url": "https://github.com/adammiribyan/zeroboot",
+    "stars": 583,
+    "daily_stars": 46,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "code-execution",
+      "copy-on-write",
+      "firecracker",
+      "kvm",
+      "rust",
+      "sandbox",
+      "virtual-machine",
+      "vm"
+    ],
+    "created_at": "2026-03-15T21:49:32",
+    "updated_at": "2026-03-19T03:17:30"
   },
   {
     "name": "Anthropic-Cybersecurity-Skills",
     "full_name": "mukul975/Anthropic-Cybersecurity-Skills",
     "description": "734+ structured cybersecurity skills for AI agents · MITRE ATT&CK mapped · agentskills.io standard · Claude Code, Copilot, Codex CLI, Cursor, Gemini CLI",
     "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-    "stars": 3394,
-    "daily_stars": 16,
+    "stars": 3428,
+    "daily_stars": 34,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -155,15 +179,15 @@
       "threat-hunting"
     ],
     "created_at": "2026-02-25T09:47:50",
-    "updated_at": "2026-03-18T20:55:51"
+    "updated_at": "2026-03-19T03:20:27"
   },
   {
     "name": "openfang",
     "full_name": "RightNow-AI/openfang",
     "description": "Open-source Agent Operating System",
     "url": "https://github.com/RightNow-AI/openfang",
-    "stars": 14886,
-    "daily_stars": 14,
+    "stars": 14911,
+    "daily_stars": 25,
     "language": "Rust",
     "topics": [
       "agent-framework",
@@ -176,72 +200,58 @@
       "rust"
     ],
     "created_at": "2026-02-24T23:12:38",
-    "updated_at": "2026-03-18T20:53:47"
+    "updated_at": "2026-03-19T03:22:59"
   },
   {
-    "name": "horizon",
-    "full_name": "peters/horizon",
-    "description": "GPU-accelerated spatial terminal observatory — manage terminals, AI agents, and dev tools on an infinite canvas",
-    "url": "https://github.com/peters/horizon",
-    "stars": 214,
+    "name": "ghost-os",
+    "full_name": "ghostwright/ghost-os",
+    "description": "Full computer-use for AI agents. Self-learning workflows. Native macOS. No screenshots required.",
+    "url": "https://github.com/ghostwright/ghost-os",
+    "stars": 1071,
+    "daily_stars": 12,
+    "language": "Swift",
+    "topics": [
+      "accessibility",
+      "ai-agents",
+      "automation",
+      "claude-code",
+      "computer-use",
+      "llm-tools",
+      "macos",
+      "mcp",
+      "recipes",
+      "swift"
+    ],
+    "created_at": "2026-02-19T03:53:36",
+    "updated_at": "2026-03-19T02:36:37"
+  },
+  {
+    "name": "boluobobo-ai-court-tutorial",
+    "full_name": "wanikua/boluobobo-ai-court-tutorial",
+    "description": "AI 朝廷搭建完整教程 - 从零基础到进阶",
+    "url": "https://github.com/wanikua/boluobobo-ai-court-tutorial",
+    "stars": 1897,
     "daily_stars": 11,
-    "language": "Rust",
+    "language": "Shell",
     "topics": [
+      "ai",
       "ai-agents",
-      "claude",
-      "codex",
-      "developer-tools",
-      "egui",
-      "gpu",
-      "rust",
-      "terminal",
-      "terminal-emulator",
-      "wgpu"
-    ],
-    "created_at": "2026-03-15T15:30:53",
-    "updated_at": "2026-03-18T20:18:05"
-  },
-  {
-    "name": "onecli",
-    "full_name": "onecli/onecli",
-    "description": "Open-source credential vault, give your AI agents access to services without exposing keys.",
-    "url": "https://github.com/onecli/onecli",
-    "stars": 828,
-    "daily_stars": 10,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "nanoclaw",
-      "openclaw",
-      "rust",
-      "secret-management"
-    ],
-    "created_at": "2026-03-08T10:38:52",
-    "updated_at": "2026-03-18T20:58:23"
-  },
-  {
-    "name": "agi",
-    "full_name": "hyperspaceai/agi",
-    "description": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.",
-    "url": "https://github.com/hyperspaceai/agi",
-    "stars": 1017,
-    "daily_stars": 8,
-    "language": null,
-    "topics": [
-      "agi",
-      "ai-agents",
-      "ai-research",
-      "artificial-general-intelligence",
+      "ai-orchestration",
       "autonomous-agents",
-      "autonomous-agents-",
-      "autoresearch",
-      "collaborative-ai",
-      "decentralized",
-      "distributed-ai",
+      "claude",
+      "clawdbot",
+      "discord",
+      "discord-bot",
+      "kanban",
       "llm",
-      "p2p"
+      "multi-agent",
+      "openai",
+      "openclaw",
+      "python",
+      "tutorial",
+      "workflow-automation"
     ],
-    "created_at": "2026-03-08T23:08:37",
-    "updated_at": "2026-03-18T20:19:29"
+    "created_at": "2026-02-22T17:17:44",
+    "updated_at": "2026-03-19T03:05:29"
   }
 ]
