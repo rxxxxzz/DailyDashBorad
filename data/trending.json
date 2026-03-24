@@ -4,8 +4,8 @@
     "full_name": "jackwener/opencli",
     "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
     "url": "https://github.com/jackwener/opencli",
-    "stars": 5818,
-    "daily_stars": 238,
+    "stars": 5968,
+    "daily_stars": 150,
     "language": "TypeScript",
     "topics": [
       "ai-agent",
@@ -14,15 +14,15 @@
       "cli"
     ],
     "created_at": "2026-03-14T22:10:23",
-    "updated_at": "2026-03-24T09:25:03"
+    "updated_at": "2026-03-24T13:54:51"
   },
   {
     "name": "Auto-claude-code-research-in-sleep",
     "full_name": "wanshuiyin/Auto-claude-code-research-in-sleep",
     "description": "Claude Code skills for autonomous ML research: cross-model review loops via Codex MCP",
     "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
-    "stars": 3603,
-    "daily_stars": 131,
+    "stars": 3715,
+    "daily_stars": 112,
     "language": null,
     "topics": [
       "ai-research",
@@ -46,15 +46,15 @@
       "svg"
     ],
     "created_at": "2026-03-10T07:31:45",
-    "updated_at": "2026-03-24T09:28:07"
+    "updated_at": "2026-03-24T13:52:29"
   },
   {
     "name": "edict",
     "full_name": "cft0808/edict",
     "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
     "url": "https://github.com/cft0808/edict",
-    "stars": 12411,
-    "daily_stars": 95,
+    "stars": 12488,
+    "daily_stars": 77,
     "language": "HTML",
     "topics": [
       "ai-agents",
@@ -72,36 +72,39 @@
       "workflow-automation"
     ],
     "created_at": "2026-02-23T14:35:04",
-    "updated_at": "2026-03-24T09:26:27"
+    "updated_at": "2026-03-24T13:51:55"
   },
   {
-    "name": "agency-agents-zh",
-    "full_name": "jnMetaCode/agency-agents-zh",
-    "description": "AI 智能体专家团队（中文版）— 80+ 个专业 AI 智能体人设，覆盖开发、设计、营销、测试、运维等领域，含小红书/抖音/微信等中国平台原创智能体",
-    "url": "https://github.com/jnMetaCode/agency-agents-zh",
-    "stars": 2242,
+    "name": "awesome-free-llm-apis",
+    "full_name": "mnfst/awesome-free-llm-apis",
+    "description": "Permanent Free LLM API List (API Keys) 😎🔑",
+    "url": "https://github.com/mnfst/awesome-free-llm-apis",
+    "stars": 333,
     "daily_stars": 58,
     "language": null,
     "topics": [
-      "agent-framework",
-      "ai",
       "ai-agents",
-      "chinese",
-      "claude",
+      "anthropic",
+      "gemini",
       "llm",
-      "prompt-engineering",
-      "zh-cn"
+      "llm-router",
+      "llm-routing",
+      "ollama",
+      "openai",
+      "openclaw",
+      "openclaw-plugin",
+      "router"
     ],
-    "created_at": "2026-03-06T11:11:51",
-    "updated_at": "2026-03-24T09:22:46"
+    "created_at": "2026-03-21T18:14:07",
+    "updated_at": "2026-03-24T13:53:35"
   },
   {
     "name": "awesome-autoresearch",
     "full_name": "alvinunreal/awesome-autoresearch",
     "description": "A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.",
     "url": "https://github.com/alvinunreal/awesome-autoresearch",
-    "stars": 368,
-    "daily_stars": 42,
+    "stars": 416,
+    "daily_stars": 48,
     "language": null,
     "topics": [
       "agentic-systems",
@@ -120,39 +123,77 @@
       "self-improving-systems"
     ],
     "created_at": "2026-03-20T11:55:51",
-    "updated_at": "2026-03-24T09:22:14"
+    "updated_at": "2026-03-24T13:53:41"
   },
   {
-    "name": "awesome-free-llm-apis",
-    "full_name": "mnfst/awesome-free-llm-apis",
-    "description": "Permanent Free LLM API List (API Keys) 😎🔑",
-    "url": "https://github.com/mnfst/awesome-free-llm-apis",
-    "stars": 275,
-    "daily_stars": 36,
-    "language": null,
+    "name": "onecli",
+    "full_name": "onecli/onecli",
+    "description": "Open-source credential vault, give your AI agents access to services without exposing keys.",
+    "url": "https://github.com/onecli/onecli",
+    "stars": 1116,
+    "daily_stars": 46,
+    "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "anthropic",
-      "gemini",
-      "llm",
-      "llm-router",
-      "llm-routing",
-      "ollama",
-      "openai",
+      "nanoclaw",
       "openclaw",
-      "openclaw-plugin",
-      "router"
+      "rust",
+      "secret-management"
     ],
-    "created_at": "2026-03-21T18:14:07",
-    "updated_at": "2026-03-24T09:28:22"
+    "created_at": "2026-03-08T10:38:52",
+    "updated_at": "2026-03-24T13:53:29"
+  },
+  {
+    "name": "agency-agents-zh",
+    "full_name": "jnMetaCode/agency-agents-zh",
+    "description": "AI 智能体专家团队（中文版）— 80+ 个专业 AI 智能体人设，覆盖开发、设计、营销、测试、运维等领域，含小红书/抖音/微信等中国平台原创智能体",
+    "url": "https://github.com/jnMetaCode/agency-agents-zh",
+    "stars": 2283,
+    "daily_stars": 41,
+    "language": null,
+    "topics": [
+      "agent-framework",
+      "ai",
+      "ai-agents",
+      "chinese",
+      "claude",
+      "llm",
+      "prompt-engineering",
+      "zh-cn"
+    ],
+    "created_at": "2026-03-06T11:11:51",
+    "updated_at": "2026-03-24T13:37:39"
+  },
+  {
+    "name": "opencove",
+    "full_name": "DeadWaveWave/opencove",
+    "description": "Your infinite canvas workspace for agents, tasks, knowledge, and research.",
+    "url": "https://github.com/DeadWaveWave/opencove",
+    "stars": 195,
+    "daily_stars": 30,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "desktop-app",
+      "electron",
+      "gemini",
+      "infinite-canvas",
+      "react",
+      "typescript"
+    ],
+    "created_at": "2026-03-09T11:56:55",
+    "updated_at": "2026-03-24T13:54:37"
   },
   {
     "name": "awesome-codex-subagents",
     "full_name": "VoltAgent/awesome-codex-subagents",
     "description": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases.",
     "url": "https://github.com/VoltAgent/awesome-codex-subagents",
-    "stars": 2338,
-    "daily_stars": 32,
+    "stars": 2362,
+    "daily_stars": 24,
     "language": null,
     "topics": [
       "ai-agents",
@@ -164,37 +205,15 @@
       "subagents"
     ],
     "created_at": "2026-03-17T12:26:20",
-    "updated_at": "2026-03-24T09:23:59"
-  },
-  {
-    "name": "ClawTeam-OpenClaw",
-    "full_name": "win4r/ClawTeam-OpenClaw",
-    "description": "ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent",
-    "url": "https://github.com/win4r/ClawTeam-OpenClaw",
-    "stars": 643,
-    "daily_stars": 18,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "clawdbot",
-      "openclaw",
-      "openclaw-extension",
-      "openclaw-plugin",
-      "openclaw-skills",
-      "swarm",
-      "swarm-intelligence",
-      "swarms"
-    ],
-    "created_at": "2026-03-18T09:52:54",
-    "updated_at": "2026-03-24T09:27:09"
+    "updated_at": "2026-03-24T13:48:10"
   },
   {
     "name": "openfang",
     "full_name": "RightNow-AI/openfang",
     "description": "Open-source Agent Operating System",
     "url": "https://github.com/RightNow-AI/openfang",
-    "stars": 15385,
-    "daily_stars": 11,
+    "stars": 15399,
+    "daily_stars": 14,
     "language": "Rust",
     "topics": [
       "agent-framework",
@@ -207,32 +226,6 @@
       "rust"
     ],
     "created_at": "2026-02-24T23:12:38",
-    "updated_at": "2026-03-24T09:27:09"
-  },
-  {
-    "name": "ai-engineering-interview-questions",
-    "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
-    "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers.",
-    "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-    "stars": 208,
-    "daily_stars": 11,
-    "language": "Markdown",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "ai-engineering",
-      "fine-tuning",
-      "interview",
-      "interview-preparation",
-      "interview-questions",
-      "llm",
-      "mcp",
-      "quantization",
-      "questions-and-answers",
-      "rag"
-    ],
-    "created_at": "2026-03-21T07:28:38",
-    "updated_at": "2026-03-24T09:17:42"
+    "updated_at": "2026-03-24T13:15:21"
   }
 ]
