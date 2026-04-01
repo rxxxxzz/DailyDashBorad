@@ -1,11 +1,51 @@
 [
   {
+    "name": "open-multi-agent",
+    "full_name": "JackChen-me/open-multi-agent",
+    "description": "Production-grade multi-agent orchestration framework. Model-agnostic, supports team collaboration, task scheduling, and inter-agent communication.",
+    "url": "https://github.com/JackChen-me/open-multi-agent",
+    "stars": 1339,
+    "daily_stars": 459,
+    "language": "TypeScript",
+    "topics": [
+      "agent-framework",
+      "ai-agents",
+      "claude",
+      "llm",
+      "model-agnostic",
+      "multi-agent",
+      "openai",
+      "orchestration",
+      "task-scheduling",
+      "typescript"
+    ],
+    "created_at": "2026-03-31T19:07:34",
+    "updated_at": "2026-04-01T14:09:24"
+  },
+  {
+    "name": "opencli",
+    "full_name": "jackwener/opencli",
+    "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
+    "url": "https://github.com/jackwener/opencli",
+    "stars": 10184,
+    "daily_stars": 175,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agent",
+      "ai-agents",
+      "ai-tools",
+      "cli"
+    ],
+    "created_at": "2026-03-14T22:10:23",
+    "updated_at": "2026-04-01T14:08:32"
+  },
+  {
     "name": "claude-code-source-code",
     "full_name": "777genius/claude-code-source-code",
     "description": "Claude code source code",
     "url": "https://github.com/777genius/claude-code-source-code",
-    "stars": 569,
-    "daily_stars": 194,
+    "stars": 732,
+    "daily_stars": 163,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -19,32 +59,40 @@
       "claude-code"
     ],
     "created_at": "2026-03-31T15:57:14",
-    "updated_at": "2026-04-01T09:44:45"
+    "updated_at": "2026-04-01T14:07:13"
   },
   {
-    "name": "opencli",
-    "full_name": "jackwener/opencli",
-    "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
-    "url": "https://github.com/jackwener/opencli",
-    "stars": 10009,
-    "daily_stars": 116,
+    "name": "phantom",
+    "full_name": "ghostwright/phantom",
+    "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK.",
+    "url": "https://github.com/ghostwright/phantom",
+    "stars": 779,
+    "daily_stars": 55,
     "language": "TypeScript",
     "topics": [
-      "ai-agent",
       "ai-agents",
-      "ai-tools",
-      "cli"
+      "ai-coworker",
+      "anthropic",
+      "autonomous-agents",
+      "bun",
+      "claude",
+      "docker",
+      "llm",
+      "mcp",
+      "self-evolution",
+      "slack",
+      "typescript"
     ],
-    "created_at": "2026-03-14T22:10:23",
-    "updated_at": "2026-04-01T09:45:20"
+    "created_at": "2026-03-26T04:45:11",
+    "updated_at": "2026-04-01T14:01:39"
   },
   {
     "name": "ai-website-cloner-template",
     "full_name": "JCodesMore/ai-website-cloner-template",
     "description": "Clone any website with one command using AI coding agents",
     "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-    "stars": 6738,
-    "daily_stars": 47,
+    "stars": 6788,
+    "daily_stars": 50,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -68,15 +116,15 @@
       "website-clone"
     ],
     "created_at": "2026-03-13T11:14:39",
-    "updated_at": "2026-04-01T09:29:38"
+    "updated_at": "2026-04-01T14:07:13"
   },
   {
     "name": "Auto-claude-code-research-in-sleep",
     "full_name": "wanshuiyin/Auto-claude-code-research-in-sleep",
     "description": "Claude Code skills for autonomous ML research: cross-model review loops via Codex MCP",
     "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
-    "stars": 5101,
-    "daily_stars": 43,
+    "stars": 5134,
+    "daily_stars": 33,
     "language": null,
     "topics": [
       "ai-research",
@@ -100,15 +148,15 @@
       "svg"
     ],
     "created_at": "2026-03-10T07:31:45",
-    "updated_at": "2026-04-01T09:42:37"
+    "updated_at": "2026-04-01T14:08:41"
   },
   {
     "name": "awesome-codex-subagents",
     "full_name": "VoltAgent/awesome-codex-subagents",
     "description": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases.",
     "url": "https://github.com/VoltAgent/awesome-codex-subagents",
-    "stars": 3305,
-    "daily_stars": 27,
+    "stars": 3333,
+    "daily_stars": 28,
     "language": null,
     "topics": [
       "ai-agents",
@@ -120,40 +168,15 @@
       "subagents"
     ],
     "created_at": "2026-03-17T12:26:20",
-    "updated_at": "2026-04-01T09:31:49"
-  },
-  {
-    "name": "phantom",
-    "full_name": "ghostwright/phantom",
-    "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK.",
-    "url": "https://github.com/ghostwright/phantom",
-    "stars": 724,
-    "daily_stars": 27,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "ai-coworker",
-      "anthropic",
-      "autonomous-agents",
-      "bun",
-      "claude",
-      "docker",
-      "llm",
-      "mcp",
-      "self-evolution",
-      "slack",
-      "typescript"
-    ],
-    "created_at": "2026-03-26T04:45:11",
-    "updated_at": "2026-04-01T09:22:28"
+    "updated_at": "2026-04-01T14:04:44"
   },
   {
     "name": "agency-agents-zh",
     "full_name": "jnMetaCode/agency-agents-zh",
     "description": "AI 智能体专家团队（中文版）— 80+ 个专业 AI 智能体人设，覆盖开发、设计、营销、测试、运维等领域，含小红书/抖音/微信等中国平台原创智能体",
     "url": "https://github.com/jnMetaCode/agency-agents-zh",
-    "stars": 3362,
-    "daily_stars": 18,
+    "stars": 3388,
+    "daily_stars": 26,
     "language": null,
     "topics": [
       "agent-framework",
@@ -166,15 +189,15 @@
       "zh-cn"
     ],
     "created_at": "2026-03-06T11:11:51",
-    "updated_at": "2026-04-01T09:40:53"
+    "updated_at": "2026-04-01T14:06:23"
   },
   {
     "name": "ai-engineering-from-scratch",
     "full_name": "rohitg00/ai-engineering-from-scratch",
     "description": "Learn it. Build it. Ship it for others.",
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "stars": 1148,
-    "daily_stars": 10,
+    "stars": 1172,
+    "daily_stars": 24,
     "language": "Python",
     "topics": [
       "agents",
@@ -199,57 +222,29 @@
       "typescript"
     ],
     "created_at": "2026-03-18T18:38:02",
-    "updated_at": "2026-04-01T09:23:41"
+    "updated_at": "2026-04-01T14:02:32"
   },
   {
-    "name": "awesome-opensource-ai",
-    "full_name": "alvinunreal/awesome-opensource-ai",
-    "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
-    "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-    "stars": 2203,
-    "daily_stars": 9,
+    "name": "awesome-openclaw",
+    "full_name": "alvinunreal/awesome-openclaw",
+    "description": "A curated list of the best OpenClaw resources: official projects, skills, plugins, dashboards, deployment tooling, memory systems, and guides.",
+    "url": "https://github.com/alvinunreal/awesome-openclaw",
+    "stars": 509,
+    "daily_stars": 18,
     "language": null,
     "topics": [
-      "agents",
-      "ai",
-      "artificial-intelligence",
-      "awesome",
-      "awesome-list",
-      "generative-ai",
-      "llm",
-      "machine-learning",
-      "mlops",
-      "open-source",
-      "open-source-ai",
-      "rag"
-    ],
-    "created_at": "2026-03-24T15:58:22",
-    "updated_at": "2026-04-01T09:34:07"
-  },
-  {
-    "name": "NanoResearch",
-    "full_name": "OpenRaiser/NanoResearch",
-    "description": "🦞+🔬: NanoResearch: The Autonomous AI Research Assistant",
-    "url": "https://github.com/OpenRaiser/NanoResearch",
-    "stars": 343,
-    "daily_stars": 9,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "agents",
       "ai",
       "ai-agents",
-      "ai-scientist",
-      "artificial-intelligence",
-      "autonomous-agents",
-      "autonomous-research",
-      "autoresearch",
-      "claude-code",
-      "claude-skills",
-      "nanobot",
-      "openclaw"
+      "automation",
+      "awesome",
+      "awesome-list",
+      "llm",
+      "openclaw",
+      "plugins",
+      "resources",
+      "self-hosted"
     ],
-    "created_at": "2026-03-17T10:20:31",
-    "updated_at": "2026-04-01T09:05:16"
+    "created_at": "2026-03-27T11:07:09",
+    "updated_at": "2026-04-01T13:52:57"
   }
 ]
