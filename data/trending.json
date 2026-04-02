@@ -1,11 +1,28 @@
 [
   {
+    "name": "opencli",
+    "full_name": "jackwener/opencli",
+    "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
+    "url": "https://github.com/jackwener/opencli",
+    "stars": 10740,
+    "daily_stars": 316,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agent",
+      "ai-agents",
+      "ai-tools",
+      "cli"
+    ],
+    "created_at": "2026-03-14T22:10:23",
+    "updated_at": "2026-04-02T03:31:20"
+  },
+  {
     "name": "open-multi-agent",
     "full_name": "JackChen-me/open-multi-agent",
     "description": "Production-grade multi-agent orchestration framework. Model-agnostic, supports team collaboration, task scheduling, and inter-agent communication.",
     "url": "https://github.com/JackChen-me/open-multi-agent",
-    "stars": 1947,
-    "daily_stars": 329,
+    "stars": 2217,
+    "daily_stars": 270,
     "language": "TypeScript",
     "topics": [
       "agent-framework",
@@ -20,57 +37,38 @@
       "typescript"
     ],
     "created_at": "2026-03-31T19:07:34",
-    "updated_at": "2026-04-01T21:06:15"
+    "updated_at": "2026-04-02T03:30:55"
   },
   {
-    "name": "opencli",
-    "full_name": "jackwener/opencli",
-    "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
-    "url": "https://github.com/jackwener/opencli",
-    "stars": 10424,
-    "daily_stars": 49,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agent",
-      "ai-agents",
-      "ai-tools",
-      "cli"
-    ],
-    "created_at": "2026-03-14T22:10:23",
-    "updated_at": "2026-04-01T21:06:51"
-  },
-  {
-    "name": "phantom",
-    "full_name": "ghostwright/phantom",
-    "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK.",
-    "url": "https://github.com/ghostwright/phantom",
-    "stars": 867,
-    "daily_stars": 40,
-    "language": "TypeScript",
+    "name": "zerobox",
+    "full_name": "afshinm/zerobox",
+    "description": "Lightweight, cross-platform process sandboxing. Sandbox any command with file, network, and credential controls.",
+    "url": "https://github.com/afshinm/zerobox",
+    "stars": 229,
+    "daily_stars": 103,
+    "language": "Rust",
     "topics": [
       "ai-agents",
-      "ai-coworker",
-      "anthropic",
-      "autonomous-agents",
-      "bun",
-      "claude",
-      "docker",
+      "cli",
       "llm",
-      "mcp",
-      "self-evolution",
-      "slack",
-      "typescript"
+      "openclaw",
+      "process-isolation",
+      "rust",
+      "sandbox",
+      "security",
+      "security-tools",
+      "vault"
     ],
-    "created_at": "2026-03-26T04:45:11",
-    "updated_at": "2026-04-01T21:02:39"
+    "created_at": "2026-03-17T16:02:51",
+    "updated_at": "2026-04-02T03:11:12"
   },
   {
     "name": "ai-website-cloner-template",
     "full_name": "JCodesMore/ai-website-cloner-template",
     "description": "Clone any website with one command using AI coding agents",
     "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-    "stars": 6921,
-    "daily_stars": 31,
+    "stars": 6967,
+    "daily_stars": 46,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -94,37 +92,135 @@
       "website-clone"
     ],
     "created_at": "2026-03-13T11:14:39",
-    "updated_at": "2026-04-01T21:00:06"
+    "updated_at": "2026-04-02T03:29:40"
   },
   {
-    "name": "claude-code-source-code",
-    "full_name": "777genius/claude-code-source-code",
-    "description": "Claude code source code",
-    "url": "https://github.com/777genius/claude-code-source-code",
-    "stars": 787,
-    "daily_stars": 24,
+    "name": "mcp-brasil",
+    "full_name": "jxnxts/mcp-brasil",
+    "description": "MCP Server para 41 APIs públicas brasileiras",
+    "url": "https://github.com/jxnxts/mcp-brasil",
+    "stars": 1053,
+    "daily_stars": 40,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "apis-publicas",
+      "brazil",
+      "claude",
+      "fastmcp",
+      "governo",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "python"
+    ],
+    "created_at": "2026-03-26T00:38:54",
+    "updated_at": "2026-04-02T03:26:07"
+  },
+  {
+    "name": "phantom",
+    "full_name": "ghostwright/phantom",
+    "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK.",
+    "url": "https://github.com/ghostwright/phantom",
+    "stars": 906,
+    "daily_stars": 39,
     "language": "TypeScript",
     "topics": [
-      "ai",
-      "ai-agent",
       "ai-agents",
+      "ai-coworker",
       "anthropic",
-      "anthropic-ai",
-      "anthropic-claude",
+      "autonomous-agents",
+      "bun",
       "claude",
-      "claude-ai",
-      "claude-code"
+      "docker",
+      "llm",
+      "mcp",
+      "self-evolution",
+      "slack",
+      "typescript"
     ],
-    "created_at": "2026-03-31T15:57:14",
-    "updated_at": "2026-04-01T20:57:46"
+    "created_at": "2026-03-26T04:45:11",
+    "updated_at": "2026-04-02T03:30:19"
+  },
+  {
+    "name": "yao-meta-skill",
+    "full_name": "yaojingang/yao-meta-skill",
+    "description": "YAO = Yielding AI Outcomes. A lightweight but rigorous system for creating, evaluating, packaging, and governing reusable agent skills.",
+    "url": "https://github.com/yaojingang/yao-meta-skill",
+    "stars": 162,
+    "daily_stars": 36,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "meta-skill",
+      "prompt-engineering",
+      "skill-engineering",
+      "workflow-automation"
+    ],
+    "created_at": "2026-03-31T11:59:35",
+    "updated_at": "2026-04-02T03:27:55"
+  },
+  {
+    "name": "agency-agents-zh",
+    "full_name": "jnMetaCode/agency-agents-zh",
+    "description": "AI 智能体专家团队（中文版）— 80+ 个专业 AI 智能体人设，覆盖开发、设计、营销、测试、运维等领域，含小红书/抖音/微信等中国平台原创智能体",
+    "url": "https://github.com/jnMetaCode/agency-agents-zh",
+    "stars": 3437,
+    "daily_stars": 31,
+    "language": null,
+    "topics": [
+      "agent-framework",
+      "ai",
+      "ai-agents",
+      "chinese",
+      "claude",
+      "llm",
+      "prompt-engineering",
+      "zh-cn"
+    ],
+    "created_at": "2026-03-06T11:11:51",
+    "updated_at": "2026-04-02T03:28:51"
+  },
+  {
+    "name": "Auto-claude-code-research-in-sleep",
+    "full_name": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "description": "Claude Code skills for autonomous ML research: cross-model review loops via Codex MCP",
+    "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+    "stars": 5180,
+    "daily_stars": 25,
+    "language": null,
+    "topics": [
+      "ai-research",
+      "ai-tools",
+      "autonomous-agent",
+      "claude",
+      "claude-code",
+      "codex",
+      "diffusion-models",
+      "gpt",
+      "gpu",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "ml-research",
+      "openai",
+      "paper-review",
+      "paper-writing",
+      "pixel-art",
+      "research-automation",
+      "svg"
+    ],
+    "created_at": "2026-03-10T07:31:45",
+    "updated_at": "2026-04-02T03:17:02"
   },
   {
     "name": "webclaw",
     "full_name": "0xMassi/webclaw",
     "description": "Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server.",
     "url": "https://github.com/0xMassi/webclaw",
-    "stars": 379,
-    "daily_stars": 17,
+    "stars": 401,
+    "daily_stars": 22,
     "language": "Rust",
     "topics": [
       "ai",
@@ -149,101 +245,6 @@
       "webscraping"
     ],
     "created_at": "2026-03-10T17:50:15",
-    "updated_at": "2026-04-01T21:07:18"
-  },
-  {
-    "name": "awesome-codex-subagents",
-    "full_name": "VoltAgent/awesome-codex-subagents",
-    "description": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases.",
-    "url": "https://github.com/VoltAgent/awesome-codex-subagents",
-    "stars": 3360,
-    "daily_stars": 14,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "awesome-list",
-      "chatgpt",
-      "codex",
-      "codex-skills",
-      "codex-subagents",
-      "subagents"
-    ],
-    "created_at": "2026-03-17T12:26:20",
-    "updated_at": "2026-04-01T20:43:51"
-  },
-  {
-    "name": "moltstream",
-    "full_name": "skaggsxyz/moltstream",
-    "description": "Agent-native streaming infrastructure. The streaming runtime built for non-human broadcasters.",
-    "url": "https://github.com/skaggsxyz/moltstream",
-    "stars": 38,
-    "daily_stars": 14,
-    "language": "TypeScript",
-    "topics": [
-      "agent-framework",
-      "ai",
-      "ai-agents",
-      "autonomous-agents",
-      "live-streaming",
-      "llm",
-      "machine-learning",
-      "real-time",
-      "streaming",
-      "twitch"
-    ],
-    "created_at": "2026-03-15T11:38:17",
-    "updated_at": "2026-04-01T20:55:09"
-  },
-  {
-    "name": "ai-engineering-from-scratch",
-    "full_name": "rohitg00/ai-engineering-from-scratch",
-    "description": "Learn it. Build it. Ship it for others.",
-    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "stars": 1224,
-    "daily_stars": 13,
-    "language": "Python",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "ai-engineering",
-      "computer-vision",
-      "course",
-      "deep-learning",
-      "from-scratch",
-      "generative-ai",
-      "llm",
-      "machine-learning",
-      "mcp",
-      "nlp",
-      "python",
-      "reinforcement-learning",
-      "rust",
-      "swarm-intelligence",
-      "transformers",
-      "tutorial",
-      "typescript"
-    ],
-    "created_at": "2026-03-18T18:38:02",
-    "updated_at": "2026-04-01T20:46:15"
-  },
-  {
-    "name": "yao-meta-skill",
-    "full_name": "yaojingang/yao-meta-skill",
-    "description": "YAO = Yielding AI Outcomes. A lightweight but rigorous system for creating, evaluating, packaging, and governing reusable agent skills.",
-    "url": "https://github.com/yaojingang/yao-meta-skill",
-    "stars": 126,
-    "daily_stars": 12,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "meta-skill",
-      "prompt-engineering",
-      "skill-engineering",
-      "workflow-automation"
-    ],
-    "created_at": "2026-03-31T11:59:35",
-    "updated_at": "2026-04-01T20:42:48"
+    "updated_at": "2026-04-02T03:00:01"
   }
 ]
