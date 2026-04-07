@@ -4,8 +4,8 @@
     "full_name": "JackChen-me/open-multi-agent",
     "description": "Production-grade multi-agent orchestration framework. Model-agnostic, supports team collaboration, task scheduling, and inter-agent communication.",
     "url": "https://github.com/JackChen-me/open-multi-agent",
-    "stars": 5298,
-    "daily_stars": 30,
+    "stars": 5314,
+    "daily_stars": 16,
     "language": "TypeScript",
     "topics": [
       "agent-framework",
@@ -20,7 +20,7 @@
       "typescript"
     ],
     "created_at": "2026-03-31T19:07:34",
-    "updated_at": "2026-04-07T13:53:01"
+    "updated_at": "2026-04-07T17:29:58"
   },
   {
     "name": "claude-code-source-code",
@@ -28,7 +28,7 @@
     "description": "Claude code source code",
     "url": "https://github.com/777genius/claude-code-source-code",
     "stars": 889,
-    "daily_stars": 2,
+    "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -45,35 +45,12 @@
     "updated_at": "2026-04-07T13:16:58"
   },
   {
-    "name": "three-man-team",
-    "full_name": "russelleNVy/three-man-team",
-    "description": "A structured 3-agent AI dev team — Architect, Builder, Reviewer. Built from production use. Token-optimized. Works with Claude Code, VS Code, Cursor, and any AI that supports context files.",
-    "url": "https://github.com/russelleNVy/three-man-team",
-    "stars": 290,
-    "daily_stars": 2,
-    "language": "Shell",
-    "topics": [
-      "agent-skills",
-      "agent-workflow",
-      "ai-agents",
-      "claude",
-      "context-files",
-      "developer-tools",
-      "llm",
-      "markdown",
-      "productivity",
-      "prompt-engineering"
-    ],
-    "created_at": "2026-03-31T18:38:09",
-    "updated_at": "2026-04-07T13:25:25"
-  },
-  {
     "name": "Jackrong-llm-finetuning-guide",
     "full_name": "R6410418/Jackrong-llm-finetuning-guide",
     "description": null,
     "url": "https://github.com/R6410418/Jackrong-llm-finetuning-guide",
-    "stars": 279,
-    "daily_stars": 37,
+    "stars": 293,
+    "daily_stars": 14,
     "language": "Jupyter Notebook",
     "topics": [
       "dataset",
@@ -90,7 +67,30 @@
       "unsloth"
     ],
     "created_at": "2026-04-05T08:04:43",
-    "updated_at": "2026-04-07T13:54:06"
+    "updated_at": "2026-04-07T16:51:05"
+  },
+  {
+    "name": "three-man-team",
+    "full_name": "russelleNVy/three-man-team",
+    "description": "A structured 3-agent AI dev team — Architect, Builder, Reviewer. Built from production use. Token-optimized. Works with Claude Code, VS Code, Cursor, and any AI that supports context files.",
+    "url": "https://github.com/russelleNVy/three-man-team",
+    "stars": 290,
+    "daily_stars": 0,
+    "language": "Shell",
+    "topics": [
+      "agent-skills",
+      "agent-workflow",
+      "ai-agents",
+      "claude",
+      "context-files",
+      "developer-tools",
+      "llm",
+      "markdown",
+      "productivity",
+      "prompt-engineering"
+    ],
+    "created_at": "2026-03-31T18:38:09",
+    "updated_at": "2026-04-07T13:25:25"
   },
   {
     "name": "yao-meta-skill",
@@ -116,7 +116,7 @@
     "full_name": "aiming-lab/AutoHarness",
     "description": "AutoHarness: Automated Harness Engineering for AI Agents",
     "url": "https://github.com/aiming-lab/AutoHarness",
-    "stars": 209,
+    "stars": 210,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -133,7 +133,7 @@
       "tool-use"
     ],
     "created_at": "2026-04-02T00:25:20",
-    "updated_at": "2026-04-07T11:20:14"
+    "updated_at": "2026-04-07T15:46:40"
   },
   {
     "name": "the-dev-squad",
@@ -160,7 +160,7 @@
     "full_name": "dzhng/crm.cli",
     "description": "An open-source, headless CRM built for agents. No UI. No dashboard. Just a CLI and a FUSE-mounted filesystem.",
     "url": "https://github.com/dzhng/crm.cli",
-    "stars": 69,
+    "stars": 75,
     "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
@@ -174,14 +174,39 @@
       "openclaw"
     ],
     "created_at": "2026-04-03T14:14:21",
-    "updated_at": "2026-04-07T14:04:33"
+    "updated_at": "2026-04-07T15:43:12"
   },
   {
     "name": "auto-deep-researcher-24x7",
     "full_name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
     "description": "🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
     "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
-    "stars": 61,
+    "stars": 71,
+    "daily_stars": 10,
+    "language": "Python",
+    "topics": [
+      "ai-agent",
+      "autonomous-agent",
+      "claude-code",
+      "deep-learning",
+      "experiment-automation",
+      "gpu",
+      "hyperparameter-tuning",
+      "llm-agent",
+      "machine-learning",
+      "mlops",
+      "pytorch",
+      "research-automation"
+    ],
+    "created_at": "2026-04-07T11:55:52",
+    "updated_at": "2026-04-07T17:09:08"
+  },
+  {
+    "name": "auto-deep-researcher-24x7",
+    "full_name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
+    "description": "🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
+    "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
+    "stars": 71,
     "daily_stars": 0,
     "language": "Python",
     "topics": [
@@ -199,31 +224,6 @@
       "research-automation"
     ],
     "created_at": "2026-04-07T11:55:52",
-    "updated_at": "2026-04-07T14:03:01"
-  },
-  {
-    "name": "auto-deep-researcher-24x7",
-    "full_name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
-    "description": "🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
-    "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
-    "stars": 61,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "ai-agent",
-      "autonomous-agent",
-      "claude-code",
-      "deep-learning",
-      "experiment-automation",
-      "gpu",
-      "hyperparameter-tuning",
-      "llm-agent",
-      "machine-learning",
-      "mlops",
-      "pytorch",
-      "research-automation"
-    ],
-    "created_at": "2026-04-07T11:55:52",
-    "updated_at": "2026-04-07T14:03:01"
+    "updated_at": "2026-04-07T17:09:08"
   }
 ]
