@@ -4,8 +4,8 @@
     "full_name": "JackChen-me/open-multi-agent",
     "description": "Production-grade multi-agent orchestration framework. Model-agnostic, supports team collaboration, task scheduling, and inter-agent communication.",
     "url": "https://github.com/JackChen-me/open-multi-agent",
-    "stars": 5237,
-    "daily_stars": 17,
+    "stars": 5268,
+    "daily_stars": 31,
     "language": "TypeScript",
     "topics": [
       "agent-framework",
@@ -20,7 +20,7 @@
       "typescript"
     ],
     "created_at": "2026-03-31T19:07:34",
-    "updated_at": "2026-04-07T05:50:38"
+    "updated_at": "2026-04-07T09:39:02"
   },
   {
     "name": "claude-code-source-code",
@@ -28,7 +28,7 @@
     "description": "Claude code source code",
     "url": "https://github.com/777genius/claude-code-source-code",
     "stars": 887,
-    "daily_stars": 3,
+    "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -42,7 +42,7 @@
       "claude-code"
     ],
     "created_at": "2026-03-31T15:57:14",
-    "updated_at": "2026-04-07T05:03:59"
+    "updated_at": "2026-04-07T08:31:20"
   },
   {
     "name": "three-man-team",
@@ -50,7 +50,7 @@
     "description": "A structured 3-agent AI dev team — Architect, Builder, Reviewer. Built from production use. Token-optimized. Works with Claude Code, VS Code, Cursor, and any AI that supports context files.",
     "url": "https://github.com/russelleNVy/three-man-team",
     "stars": 288,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Shell",
     "topics": [
       "agent-skills",
@@ -72,8 +72,8 @@
     "full_name": "yaojingang/yao-meta-skill",
     "description": "YAO = Yielding AI Outcomes. A lightweight but rigorous system for creating, evaluating, packaging, and governing reusable agent skills.",
     "url": "https://github.com/yaojingang/yao-meta-skill",
-    "stars": 277,
-    "daily_stars": 2,
+    "stars": 276,
+    "daily_stars": -1,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -84,15 +84,15 @@
       "workflow-automation"
     ],
     "created_at": "2026-03-31T11:59:35",
-    "updated_at": "2026-04-07T05:40:40"
+    "updated_at": "2026-04-07T09:08:14"
   },
   {
     "name": "Jackrong-llm-finetuning-guide",
     "full_name": "R6410418/Jackrong-llm-finetuning-guide",
     "description": null,
     "url": "https://github.com/R6410418/Jackrong-llm-finetuning-guide",
-    "stars": 211,
-    "daily_stars": 11,
+    "stars": 242,
+    "daily_stars": 31,
     "language": "Jupyter Notebook",
     "topics": [
       "dataset",
@@ -109,15 +109,15 @@
       "unsloth"
     ],
     "created_at": "2026-04-05T08:04:43",
-    "updated_at": "2026-04-07T05:59:25"
+    "updated_at": "2026-04-07T09:34:43"
   },
   {
     "name": "AutoHarness",
     "full_name": "aiming-lab/AutoHarness",
     "description": "AutoHarness: Automated Harness Engineering for AI Agents",
     "url": "https://github.com/aiming-lab/AutoHarness",
-    "stars": 204,
-    "daily_stars": 0,
+    "stars": 208,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "agent-framework",
@@ -133,7 +133,7 @@
       "tool-use"
     ],
     "created_at": "2026-04-02T00:25:20",
-    "updated_at": "2026-04-07T03:18:28"
+    "updated_at": "2026-04-07T08:14:05"
   },
   {
     "name": "the-dev-squad",
@@ -154,6 +154,49 @@
     ],
     "created_at": "2026-04-01T15:46:31",
     "updated_at": "2026-04-07T02:58:32"
+  },
+  {
+    "name": "zhiying",
+    "full_name": "tubecreate/zhiying",
+    "description": "⚡ ZhiYing — 终极开源 AI Agents 生态协同系统 | Agents Browser · Agents Workflow · Agents Studio World",
+    "url": "https://github.com/tubecreate/zhiying",
+    "stars": 70,
+    "daily_stars": 0,
+    "language": "JavaScript",
+    "topics": [
+      "3d-studio",
+      "ai-agents",
+      "browser-agent",
+      "cli",
+      "fastapi",
+      "multi-agent",
+      "ollama",
+      "python",
+      "workflow-engine"
+    ],
+    "created_at": "2026-03-30T11:14:02",
+    "updated_at": "2026-04-07T09:37:43"
+  },
+  {
+    "name": "crm.cli",
+    "full_name": "dzhng/crm.cli",
+    "description": "An open-source, headless CRM built for agents. No UI. No dashboard. Just a CLI and a FUSE-mounted filesystem.",
+    "url": "https://github.com/dzhng/crm.cli",
+    "stars": 63,
+    "daily_stars": 10,
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "codex",
+      "codex-cli",
+      "crm",
+      "openclaw"
+    ],
+    "created_at": "2026-04-03T14:14:21",
+    "updated_at": "2026-04-07T09:41:05"
   },
   {
     "name": "bankai",
@@ -177,48 +220,5 @@
     ],
     "created_at": "2026-04-01T13:53:48",
     "updated_at": "2026-04-06T14:39:04"
-  },
-  {
-    "name": "Rstack",
-    "full_name": "sunnnybala/Rstack",
-    "description": "Research automation skills for Claude Code. Idea to submittable paper in one session.",
-    "url": "https://github.com/sunnnybala/Rstack",
-    "stars": 54,
-    "daily_stars": 1,
-    "language": "Shell",
-    "topics": [
-      "arxiv",
-      "claude-code",
-      "latex",
-      "llm-tools",
-      "machine-learning",
-      "modal",
-      "paper-writing",
-      "research",
-      "research-automation"
-    ],
-    "created_at": "2026-03-31T18:35:46",
-    "updated_at": "2026-04-07T04:35:13"
-  },
-  {
-    "name": "crm.cli",
-    "full_name": "dzhng/crm.cli",
-    "description": "An open-source, headless CRM built for agents. No UI. No dashboard. Just a CLI and a FUSE-mounted filesystem.",
-    "url": "https://github.com/dzhng/crm.cli",
-    "stars": 53,
-    "daily_stars": 0,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "codex",
-      "codex-cli",
-      "crm",
-      "openclaw"
-    ],
-    "created_at": "2026-04-03T14:14:21",
-    "updated_at": "2026-04-07T05:44:49"
   }
 ]
