@@ -1,11 +1,28 @@
 [
   {
+    "name": "qiushi-skill",
+    "full_name": "HughYau/qiushi-skill",
+    "description": "\"求是 Skill\"是一个 AI Agent Skills 合集，从教员思想中提炼出一条总原则和九大方法论工具，系统性地武装 AI 的大脑。",
+    "url": "https://github.com/HughYau/qiushi-skill",
+    "stars": 425,
+    "daily_stars": 212,
+    "language": "Shell",
+    "topics": [
+      "ai-agents",
+      "methodology",
+      "skills",
+      "workflow"
+    ],
+    "created_at": "2026-03-25T10:24:01",
+    "updated_at": "2026-04-08T03:38:39"
+  },
+  {
     "name": "ai-website-cloner-template",
     "full_name": "JCodesMore/ai-website-cloner-template",
     "description": "Clone any website with one command using AI coding agents",
     "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-    "stars": 8688,
-    "daily_stars": 102,
+    "stars": 8845,
+    "daily_stars": 157,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -29,15 +46,32 @@
       "website-clone"
     ],
     "created_at": "2026-03-13T11:14:39",
-    "updated_at": "2026-04-07T21:07:35"
+    "updated_at": "2026-04-08T03:32:47"
+  },
+  {
+    "name": "opencli",
+    "full_name": "jackwener/opencli",
+    "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
+    "url": "https://github.com/jackwener/opencli",
+    "stars": 14117,
+    "daily_stars": 91,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agent",
+      "ai-agents",
+      "ai-tools",
+      "cli"
+    ],
+    "created_at": "2026-03-14T22:10:23",
+    "updated_at": "2026-04-08T03:35:51"
   },
   {
     "name": "awesome-free-llm-apis",
     "full_name": "mnfst/awesome-free-llm-apis",
     "description": "Permanent Free LLM API List (API Keys) 😎🔑",
     "url": "https://github.com/mnfst/awesome-free-llm-apis",
-    "stars": 1791,
-    "daily_stars": 72,
+    "stars": 1856,
+    "daily_stars": 65,
     "language": null,
     "topics": [
       "ai-agents",
@@ -53,15 +87,72 @@
       "router"
     ],
     "created_at": "2026-03-21T18:14:07",
-    "updated_at": "2026-04-07T21:08:00"
+    "updated_at": "2026-04-08T03:38:15"
+  },
+  {
+    "name": "Auto-claude-code-research-in-sleep",
+    "full_name": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "description": "Claude Code skills for autonomous ML research: cross-model review loops via Codex MCP",
+    "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+    "stars": 5771,
+    "daily_stars": 26,
+    "language": null,
+    "topics": [
+      "ai-research",
+      "ai-tools",
+      "autonomous-agent",
+      "claude",
+      "claude-code",
+      "codex",
+      "diffusion-models",
+      "gpt",
+      "gpu",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "ml-research",
+      "openai",
+      "paper-review",
+      "paper-writing",
+      "pixel-art",
+      "research-automation",
+      "svg"
+    ],
+    "created_at": "2026-03-10T07:31:45",
+    "updated_at": "2026-04-08T03:28:32"
+  },
+  {
+    "name": "Jackrong-llm-finetuning-guide",
+    "full_name": "R6410418/Jackrong-llm-finetuning-guide",
+    "description": null,
+    "url": "https://github.com/R6410418/Jackrong-llm-finetuning-guide",
+    "stars": 321,
+    "daily_stars": 22,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "dataset",
+      "deepseek",
+      "fine-tuning",
+      "guide",
+      "llama3",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "openai",
+      "pytorch",
+      "qwen",
+      "unsloth"
+    ],
+    "created_at": "2026-04-05T08:04:43",
+    "updated_at": "2026-04-08T03:34:24"
   },
   {
     "name": "agentic-ai-apis",
     "full_name": "cporter202/agentic-ai-apis",
     "description": "The ultimate collection of APIs for building autonomous AI agents — 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and ship your agent today.",
     "url": "https://github.com/cporter202/agentic-ai-apis",
-    "stars": 85,
-    "daily_stars": 28,
+    "stars": 104,
+    "daily_stars": 19,
     "language": "JavaScript",
     "topics": [
       "agentic-ai",
@@ -78,136 +169,63 @@
       "mcp-servers"
     ],
     "created_at": "2026-04-06T18:55:04",
-    "updated_at": "2026-04-07T21:01:08"
+    "updated_at": "2026-04-08T03:29:19"
   },
   {
-    "name": "moltstream",
-    "full_name": "skaggsxyz/moltstream",
-    "description": "Agent-native streaming infrastructure. The streaming runtime built for non-human broadcasters.",
-    "url": "https://github.com/skaggsxyz/moltstream",
-    "stars": 81,
-    "daily_stars": 23,
+    "name": "open-multi-agent",
+    "full_name": "JackChen-me/open-multi-agent",
+    "description": "Production-grade multi-agent orchestration framework. Model-agnostic, supports team collaboration, task scheduling, and inter-agent communication.",
+    "url": "https://github.com/JackChen-me/open-multi-agent",
+    "stars": 5339,
+    "daily_stars": 17,
     "language": "TypeScript",
     "topics": [
       "agent-framework",
-      "ai",
       "ai-agents",
-      "autonomous-agents",
-      "live-streaming",
+      "claude",
       "llm",
-      "machine-learning",
-      "real-time",
-      "streaming",
-      "twitch"
-    ],
-    "created_at": "2026-03-15T11:38:17",
-    "updated_at": "2026-04-07T21:09:41"
-  },
-  {
-    "name": "ai-engineering-from-scratch",
-    "full_name": "rohitg00/ai-engineering-from-scratch",
-    "description": "Learn it. Build it. Ship it for others.",
-    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "stars": 1920,
-    "daily_stars": 15,
-    "language": "Python",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "ai-engineering",
-      "computer-vision",
-      "course",
-      "deep-learning",
-      "from-scratch",
-      "generative-ai",
-      "llm",
-      "machine-learning",
-      "mcp",
-      "nlp",
-      "python",
-      "reinforcement-learning",
-      "rust",
-      "swarm-intelligence",
-      "transformers",
-      "tutorial",
+      "model-agnostic",
+      "multi-agent",
+      "openai",
+      "orchestration",
+      "task-scheduling",
       "typescript"
     ],
-    "created_at": "2026-03-18T18:38:02",
-    "updated_at": "2026-04-07T21:10:15"
+    "created_at": "2026-03-31T19:07:34",
+    "updated_at": "2026-04-08T02:56:42"
   },
   {
-    "name": "opencli",
-    "full_name": "jackwener/opencli",
-    "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
-    "url": "https://github.com/jackwener/opencli",
-    "stars": 14026,
-    "daily_stars": 14,
-    "language": "TypeScript",
+    "name": "auto-deep-researcher-24x7",
+    "full_name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
+    "description": "🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
+    "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
+    "stars": 91,
+    "daily_stars": 16,
+    "language": "Python",
     "topics": [
       "ai-agent",
-      "ai-agents",
-      "ai-tools",
-      "cli"
-    ],
-    "created_at": "2026-03-14T22:10:23",
-    "updated_at": "2026-04-07T21:03:21"
-  },
-  {
-    "name": "Octopoda-OS",
-    "full_name": "RyjoxTechnologies/Octopoda-OS",
-    "description": "The open-source memory operating system for AI agents. Persistent memory, semantic search, loop detection, agent messaging, crash recovery, and real-time observability.",
-    "url": "https://github.com/RyjoxTechnologies/Octopoda-OS",
-    "stars": 69,
-    "daily_stars": 13,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-memory",
-      "autogen",
-      "crewai",
-      "knowledge-graph",
-      "langchain",
-      "mcp",
-      "memory-engine",
-      "openai",
-      "persistent-memory",
-      "python",
-      "semantic-search"
-    ],
-    "created_at": "2026-04-02T19:30:18",
-    "updated_at": "2026-04-07T20:49:43"
-  },
-  {
-    "name": "spectralquant",
-    "full_name": "Dynamis-Labs/spectralquant",
-    "description": "3% Is All You Need: Breaking TurboQuant's Compression Limit via Spectral Structure",
-    "url": "https://github.com/Dynamis-Labs/spectralquant",
-    "stars": 69,
-    "daily_stars": 9,
-    "language": "Python",
-    "topics": [
-      "compression",
-      "kv-cache",
-      "large-language-models",
-      "llm-inference",
+      "autonomous-agent",
+      "claude-code",
+      "deep-learning",
+      "experiment-automation",
+      "gpu",
+      "hyperparameter-tuning",
+      "llm-agent",
       "machine-learning",
+      "mlops",
       "pytorch",
-      "quantization",
-      "research-paper",
-      "spectral-analysis",
-      "transformer"
+      "research-automation"
     ],
-    "created_at": "2026-04-05T05:30:05",
-    "updated_at": "2026-04-07T21:02:57"
+    "created_at": "2026-04-07T11:55:52",
+    "updated_at": "2026-04-08T03:19:21"
   },
   {
     "name": "NanoResearch",
     "full_name": "OpenRaiser/NanoResearch",
     "description": "🦞+🔬: NanoResearch: The Autonomous AI Research Assistant",
     "url": "https://github.com/OpenRaiser/NanoResearch",
-    "stars": 684,
-    "daily_stars": 8,
+    "stars": 699,
+    "daily_stars": 15,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -225,29 +243,6 @@
       "openclaw"
     ],
     "created_at": "2026-03-17T10:20:31",
-    "updated_at": "2026-04-07T20:37:24"
-  },
-  {
-    "name": "open-multi-agent",
-    "full_name": "JackChen-me/open-multi-agent",
-    "description": "Production-grade multi-agent orchestration framework. Model-agnostic, supports team collaboration, task scheduling, and inter-agent communication.",
-    "url": "https://github.com/JackChen-me/open-multi-agent",
-    "stars": 5322,
-    "daily_stars": 8,
-    "language": "TypeScript",
-    "topics": [
-      "agent-framework",
-      "ai-agents",
-      "claude",
-      "llm",
-      "model-agnostic",
-      "multi-agent",
-      "openai",
-      "orchestration",
-      "task-scheduling",
-      "typescript"
-    ],
-    "created_at": "2026-03-31T19:07:34",
-    "updated_at": "2026-04-07T21:07:25"
+    "updated_at": "2026-04-08T03:15:22"
   }
 ]
