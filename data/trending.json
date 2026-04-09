@@ -1,34 +1,65 @@
 [
   {
-    "name": "moltstream",
-    "full_name": "skaggsxyz/moltstream",
-    "description": "Agent-native streaming infrastructure. The streaming runtime built for non-human broadcasters.",
-    "url": "https://github.com/skaggsxyz/moltstream",
-    "stars": 159,
-    "daily_stars": 52,
+    "name": "qiushi-skill",
+    "full_name": "HughYau/qiushi-skill",
+    "description": "\"求是 Skill\"是一个 AI Agent Skills 合集，从教员思想中提炼出一条总原则和九大方法论工具，系统性地武装 AI 的大脑。",
+    "url": "https://github.com/HughYau/qiushi-skill",
+    "stars": 1621,
+    "daily_stars": 212,
+    "language": "Shell",
+    "topics": [
+      "ai-agents",
+      "methodology",
+      "skills",
+      "workflow"
+    ],
+    "created_at": "2026-03-25T10:24:01",
+    "updated_at": "2026-04-09T03:34:54"
+  },
+  {
+    "name": "opencli",
+    "full_name": "jackwener/opencli",
+    "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
+    "url": "https://github.com/jackwener/opencli",
+    "stars": 14472,
+    "daily_stars": 81,
     "language": "TypeScript",
     "topics": [
-      "agent-framework",
-      "ai",
+      "ai-agent",
       "ai-agents",
-      "autonomous-agents",
-      "live-streaming",
-      "llm",
-      "machine-learning",
-      "real-time",
-      "streaming",
-      "twitch"
+      "ai-tools",
+      "cli"
     ],
-    "created_at": "2026-03-15T11:38:17",
-    "updated_at": "2026-04-08T20:55:24"
+    "created_at": "2026-03-14T22:10:23",
+    "updated_at": "2026-04-09T03:34:43"
+  },
+  {
+    "name": "awesome-codex-subagents",
+    "full_name": "VoltAgent/awesome-codex-subagents",
+    "description": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases.",
+    "url": "https://github.com/VoltAgent/awesome-codex-subagents",
+    "stars": 3704,
+    "daily_stars": 47,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "awesome-list",
+      "chatgpt",
+      "codex",
+      "codex-skills",
+      "codex-subagents",
+      "subagents"
+    ],
+    "created_at": "2026-03-17T12:26:20",
+    "updated_at": "2026-04-09T03:27:28"
   },
   {
     "name": "ai-website-cloner-template",
     "full_name": "JCodesMore/ai-website-cloner-template",
     "description": "Clone any website with one command using AI coding agents",
     "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-    "stars": 9101,
-    "daily_stars": 33,
+    "stars": 9147,
+    "daily_stars": 46,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -52,81 +83,15 @@
       "website-clone"
     ],
     "created_at": "2026-03-13T11:14:39",
-    "updated_at": "2026-04-08T21:05:04"
-  },
-  {
-    "name": "agentic-ai-apis",
-    "full_name": "cporter202/agentic-ai-apis",
-    "description": "The ultimate collection of APIs for building autonomous AI agents — 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and ship your agent today.",
-    "url": "https://github.com/cporter202/agentic-ai-apis",
-    "stars": 187,
-    "daily_stars": 23,
-    "language": "JavaScript",
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "ai-tools",
-      "api-collection",
-      "api-directory",
-      "apis",
-      "automation",
-      "curated-list",
-      "developer-tools",
-      "llm",
-      "mcp",
-      "mcp-servers"
-    ],
-    "created_at": "2026-04-06T18:55:04",
-    "updated_at": "2026-04-08T21:08:19"
-  },
-  {
-    "name": "awesome-free-llm-apis",
-    "full_name": "mnfst/awesome-free-llm-apis",
-    "description": "Permanent Free LLM API List (API Keys) 😎🔑",
-    "url": "https://github.com/mnfst/awesome-free-llm-apis",
-    "stars": 1973,
-    "daily_stars": 20,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "gemini",
-      "llm",
-      "llm-router",
-      "llm-routing",
-      "ollama",
-      "openai",
-      "openclaw",
-      "openclaw-plugin",
-      "router"
-    ],
-    "created_at": "2026-03-21T18:14:07",
-    "updated_at": "2026-04-08T21:08:50"
-  },
-  {
-    "name": "qiushi-skill",
-    "full_name": "HughYau/qiushi-skill",
-    "description": "\"求是 Skill\"是一个 AI Agent Skills 合集，从教员思想中提炼出一条总原则和九大方法论工具，系统性地武装 AI 的大脑。",
-    "url": "https://github.com/HughYau/qiushi-skill",
-    "stars": 1409,
-    "daily_stars": 18,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
-      "methodology",
-      "skills",
-      "workflow"
-    ],
-    "created_at": "2026-03-25T10:24:01",
-    "updated_at": "2026-04-08T21:04:37"
+    "updated_at": "2026-04-09T03:32:30"
   },
   {
     "name": "open-multi-agent",
     "full_name": "JackChen-me/open-multi-agent",
     "description": "Production-grade multi-agent orchestration framework. Model-agnostic, supports team collaboration, task scheduling, and inter-agent communication.",
     "url": "https://github.com/JackChen-me/open-multi-agent",
-    "stars": 5399,
-    "daily_stars": 15,
+    "stars": 5444,
+    "daily_stars": 45,
     "language": "TypeScript",
     "topics": [
       "agent-framework",
@@ -141,34 +106,65 @@
       "typescript"
     ],
     "created_at": "2026-03-31T19:07:34",
-    "updated_at": "2026-04-08T21:02:57"
+    "updated_at": "2026-04-09T03:27:18"
   },
   {
-    "name": "awesome-hermes-agent",
-    "full_name": "0xNyk/awesome-hermes-agent",
-    "description": "A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research",
-    "url": "https://github.com/0xNyk/awesome-hermes-agent",
-    "stars": 913,
-    "daily_stars": 9,
-    "language": null,
+    "name": "auto-deep-researcher-24x7",
+    "full_name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
+    "description": "🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
+    "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
+    "stars": 140,
+    "daily_stars": 20,
+    "language": "Python",
     "topics": [
-      "ai-agents",
-      "awesome",
-      "awesome-list",
-      "hermes-agent",
-      "nous-research",
-      "skills"
+      "ai-agent",
+      "autonomous-agent",
+      "claude-code",
+      "deep-learning",
+      "experiment-automation",
+      "gpu",
+      "hyperparameter-tuning",
+      "llm-agent",
+      "machine-learning",
+      "mlops",
+      "pytorch",
+      "research-automation"
     ],
-    "created_at": "2026-03-23T05:34:37",
-    "updated_at": "2026-04-08T21:03:16"
+    "created_at": "2026-04-08T04:48:26",
+    "updated_at": "2026-04-09T03:05:33"
+  },
+  {
+    "name": "Jackrong-llm-finetuning-guide",
+    "full_name": "R6410418/Jackrong-llm-finetuning-guide",
+    "description": null,
+    "url": "https://github.com/R6410418/Jackrong-llm-finetuning-guide",
+    "stars": 410,
+    "daily_stars": 19,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "dataset",
+      "deepseek",
+      "fine-tuning",
+      "guide",
+      "llama3",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "openai",
+      "pytorch",
+      "qwen",
+      "unsloth"
+    ],
+    "created_at": "2026-04-05T08:04:43",
+    "updated_at": "2026-04-09T03:18:19"
   },
   {
     "name": "NanoResearch",
     "full_name": "OpenRaiser/NanoResearch",
     "description": "🦞+🔬: NanoResearch: The Autonomous AI Research Assistant",
     "url": "https://github.com/OpenRaiser/NanoResearch",
-    "stars": 739,
-    "daily_stars": 8,
+    "stars": 756,
+    "daily_stars": 17,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -186,46 +182,55 @@
       "openclaw"
     ],
     "created_at": "2026-03-17T10:20:31",
-    "updated_at": "2026-04-08T20:41:05"
+    "updated_at": "2026-04-09T03:28:42"
   },
   {
-    "name": "opencli",
-    "full_name": "jackwener/opencli",
-    "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
-    "url": "https://github.com/jackwener/opencli",
-    "stars": 14391,
-    "daily_stars": 7,
-    "language": "TypeScript",
+    "name": "agentic-ai-apis",
+    "full_name": "cporter202/agentic-ai-apis",
+    "description": "The ultimate collection of APIs for building autonomous AI agents — 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and ship your agent today.",
+    "url": "https://github.com/cporter202/agentic-ai-apis",
+    "stars": 203,
+    "daily_stars": 16,
+    "language": "JavaScript",
     "topics": [
-      "ai-agent",
+      "agentic-ai",
       "ai-agents",
       "ai-tools",
-      "cli"
-    ],
-    "created_at": "2026-03-14T22:10:23",
-    "updated_at": "2026-04-08T20:49:55"
-  },
-  {
-    "name": "mcp-brasil",
-    "full_name": "jxnxts/mcp-brasil",
-    "description": "MCP Server para 41 APIs públicas brasileiras",
-    "url": "https://github.com/jxnxts/mcp-brasil",
-    "stars": 1294,
-    "daily_stars": 7,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "apis-publicas",
-      "brazil",
-      "claude",
-      "fastmcp",
-      "governo",
+      "api-collection",
+      "api-directory",
+      "apis",
+      "automation",
+      "curated-list",
+      "developer-tools",
       "llm",
       "mcp",
-      "mcp-server",
-      "python"
+      "mcp-servers"
     ],
-    "created_at": "2026-03-26T00:38:54",
-    "updated_at": "2026-04-08T21:08:28"
+    "created_at": "2026-04-06T18:55:04",
+    "updated_at": "2026-04-09T03:09:40"
+  },
+  {
+    "name": "awesome-free-llm-apis",
+    "full_name": "mnfst/awesome-free-llm-apis",
+    "description": "Permanent Free LLM API List (API Keys) 😎🔑",
+    "url": "https://github.com/mnfst/awesome-free-llm-apis",
+    "stars": 1987,
+    "daily_stars": 14,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "gemini",
+      "llm",
+      "llm-router",
+      "llm-routing",
+      "ollama",
+      "openai",
+      "openclaw",
+      "openclaw-plugin",
+      "router"
+    ],
+    "created_at": "2026-03-21T18:14:07",
+    "updated_at": "2026-04-09T03:34:44"
   }
 ]
