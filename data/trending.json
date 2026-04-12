@@ -4,8 +4,8 @@
     "full_name": "holaboss-ai/holaboss-ai",
     "description": "The agent environment for long-horizon work, continuity, and self-evolution.",
     "url": "https://github.com/holaboss-ai/holaboss-ai",
-    "stars": 1888,
-    "daily_stars": 62,
+    "stars": 1936,
+    "daily_stars": 48,
     "language": "TypeScript",
     "topics": [
       "agent-harness",
@@ -30,32 +30,39 @@
       "workspace"
     ],
     "created_at": "2026-03-22T07:36:16",
-    "updated_at": "2026-04-12T17:01:47"
+    "updated_at": "2026-04-12T20:59:05"
   },
   {
-    "name": "opencli",
-    "full_name": "jackwener/opencli",
-    "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
-    "url": "https://github.com/jackwener/opencli",
-    "stars": 15267,
-    "daily_stars": 36,
+    "name": "llmwiki",
+    "full_name": "lucasastorian/llmwiki",
+    "description": "Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki ! ",
+    "url": "https://github.com/lucasastorian/llmwiki",
+    "stars": 319,
+    "daily_stars": 22,
     "language": "TypeScript",
     "topics": [
-      "ai-agent",
+      "agents",
       "ai-agents",
-      "ai-tools",
-      "cli"
+      "claude",
+      "karpathy",
+      "knowledge-base",
+      "llm",
+      "llm-wiki",
+      "mcp",
+      "mcp-server",
+      "rag",
+      "supabase"
     ],
-    "created_at": "2026-03-14T22:10:23",
-    "updated_at": "2026-04-12T16:53:59"
+    "created_at": "2026-04-04T17:10:02",
+    "updated_at": "2026-04-12T21:01:24"
   },
   {
     "name": "ai-engineering-from-scratch",
     "full_name": "rohitg00/ai-engineering-from-scratch",
     "description": "Learn it. Build it. Ship it for others.",
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "stars": 2442,
-    "daily_stars": 16,
+    "stars": 2462,
+    "daily_stars": 20,
     "language": "Python",
     "topics": [
       "agents",
@@ -80,147 +87,15 @@
       "typescript"
     ],
     "created_at": "2026-03-18T18:38:02",
-    "updated_at": "2026-04-12T16:50:48"
-  },
-  {
-    "name": "awesome-hermes-agent",
-    "full_name": "0xNyk/awesome-hermes-agent",
-    "description": "A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research",
-    "url": "https://github.com/0xNyk/awesome-hermes-agent",
-    "stars": 1162,
-    "daily_stars": 12,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "awesome",
-      "awesome-list",
-      "hermes-agent",
-      "nous-research",
-      "skills"
-    ],
-    "created_at": "2026-03-23T05:34:37",
-    "updated_at": "2026-04-12T16:35:41"
-  },
-  {
-    "name": "llmwiki",
-    "full_name": "lucasastorian/llmwiki",
-    "description": "Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki ! ",
-    "url": "https://github.com/lucasastorian/llmwiki",
-    "stars": 297,
-    "daily_stars": 11,
-    "language": "TypeScript",
-    "topics": [
-      "agents",
-      "ai-agents",
-      "claude",
-      "karpathy",
-      "knowledge-base",
-      "llm",
-      "llm-wiki",
-      "mcp",
-      "mcp-server",
-      "rag",
-      "supabase"
-    ],
-    "created_at": "2026-04-04T17:10:02",
-    "updated_at": "2026-04-12T16:54:37"
-  },
-  {
-    "name": "evo-nexus",
-    "full_name": "EvolutionAPI/evo-nexus",
-    "description": "The open source operating system for AI-powered businesses — built on Claude Code",
-    "url": "https://github.com/EvolutionAPI/evo-nexus",
-    "stars": 224,
-    "daily_stars": 11,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "ai-workspace",
-      "anthropic",
-      "automation",
-      "business-automation",
-      "claude",
-      "claude-code",
-      "dashboard",
-      "multi-agent",
-      "open-source",
-      "openclaw"
-    ],
-    "created_at": "2026-04-08T20:40:58",
-    "updated_at": "2026-04-12T16:58:10"
-  },
-  {
-    "name": "open-multi-agent",
-    "full_name": "JackChen-me/open-multi-agent",
-    "description": "Production-grade multi-agent orchestration framework. Model-agnostic, supports team collaboration, task scheduling, and inter-agent communication.",
-    "url": "https://github.com/JackChen-me/open-multi-agent",
-    "stars": 5656,
-    "daily_stars": 9,
-    "language": "TypeScript",
-    "topics": [
-      "agent-framework",
-      "ai-agents",
-      "claude",
-      "llm",
-      "model-agnostic",
-      "multi-agent",
-      "openai",
-      "orchestration",
-      "task-scheduling",
-      "typescript"
-    ],
-    "created_at": "2026-03-31T19:07:34",
-    "updated_at": "2026-04-12T16:46:47"
-  },
-  {
-    "name": "qiushi-skill",
-    "full_name": "HughYau/qiushi-skill",
-    "description": "\"求是 Skill\"是一个 AI Agent Skills 合集，从教员思想中提炼出一条总原则和九大方法论工具，系统性地武装 AI 的大脑。",
-    "url": "https://github.com/HughYau/qiushi-skill",
-    "stars": 2550,
-    "daily_stars": 8,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
-      "methodology",
-      "skills",
-      "workflow"
-    ],
-    "created_at": "2026-03-25T10:24:01",
-    "updated_at": "2026-04-12T16:32:45"
-  },
-  {
-    "name": "auto-deep-researcher-24x7",
-    "full_name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
-    "description": "🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
-    "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
-    "stars": 311,
-    "daily_stars": 8,
-    "language": "Python",
-    "topics": [
-      "ai-agent",
-      "autonomous-agent",
-      "claude-code",
-      "deep-learning",
-      "experiment-automation",
-      "gpu",
-      "hyperparameter-tuning",
-      "llm-agent",
-      "machine-learning",
-      "mlops",
-      "pytorch",
-      "research-automation"
-    ],
-    "created_at": "2026-04-08T04:48:26",
-    "updated_at": "2026-04-12T17:01:45"
+    "updated_at": "2026-04-12T20:53:11"
   },
   {
     "name": "three-man-team",
     "full_name": "russelleNVy/three-man-team",
     "description": "A structured 3-agent AI dev team — Architect, Builder, Reviewer. Built from production use. Token-optimized. Works with Claude Code, VS Code, Cursor, and any AI that supports context files.",
     "url": "https://github.com/russelleNVy/three-man-team",
-    "stars": 377,
-    "daily_stars": 7,
+    "stars": 390,
+    "daily_stars": 13,
     "language": "Shell",
     "topics": [
       "agent-skills",
@@ -235,6 +110,124 @@
       "prompt-engineering"
     ],
     "created_at": "2026-03-31T18:38:09",
-    "updated_at": "2026-04-12T16:27:40"
+    "updated_at": "2026-04-12T20:58:24"
+  },
+  {
+    "name": "claude-code-config",
+    "full_name": "AnastasiyaW/claude-code-config",
+    "description": "Claude Code skills, architectural principles, and alternative approaches for AI-assisted development",
+    "url": "https://github.com/AnastasiyaW/claude-code-config",
+    "stars": 19,
+    "daily_stars": 11,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "prompt-engineering",
+      "skills"
+    ],
+    "created_at": "2026-03-28T12:00:29",
+    "updated_at": "2026-04-12T20:14:54"
+  },
+  {
+    "name": "open-multi-agent",
+    "full_name": "JackChen-me/open-multi-agent",
+    "description": "Production-grade multi-agent orchestration framework. Model-agnostic, supports team collaboration, task scheduling, and inter-agent communication.",
+    "url": "https://github.com/JackChen-me/open-multi-agent",
+    "stars": 5664,
+    "daily_stars": 8,
+    "language": "TypeScript",
+    "topics": [
+      "agent-framework",
+      "ai-agents",
+      "claude",
+      "llm",
+      "model-agnostic",
+      "multi-agent",
+      "openai",
+      "orchestration",
+      "task-scheduling",
+      "typescript"
+    ],
+    "created_at": "2026-03-31T19:07:34",
+    "updated_at": "2026-04-12T20:16:58"
+  },
+  {
+    "name": "awesome-free-llm-apis",
+    "full_name": "mnfst/awesome-free-llm-apis",
+    "description": "Permanent Free LLM API List (API Keys) 😎🔑",
+    "url": "https://github.com/mnfst/awesome-free-llm-apis",
+    "stars": 2126,
+    "daily_stars": 8,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "gemini",
+      "llm",
+      "llm-router",
+      "llm-routing",
+      "ollama",
+      "openai",
+      "openclaw",
+      "openclaw-plugin",
+      "router"
+    ],
+    "created_at": "2026-03-21T18:14:07",
+    "updated_at": "2026-04-12T20:36:22"
+  },
+  {
+    "name": "awesome-hermes-agent",
+    "full_name": "0xNyk/awesome-hermes-agent",
+    "description": "A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research",
+    "url": "https://github.com/0xNyk/awesome-hermes-agent",
+    "stars": 1170,
+    "daily_stars": 8,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "awesome",
+      "awesome-list",
+      "hermes-agent",
+      "nous-research",
+      "skills"
+    ],
+    "created_at": "2026-03-23T05:34:37",
+    "updated_at": "2026-04-12T20:29:44"
+  },
+  {
+    "name": "the-pair",
+    "full_name": "timwuhaotian/the-pair",
+    "description": "The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work",
+    "url": "https://github.com/timwuhaotian/the-pair",
+    "stars": 301,
+    "daily_stars": 7,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "pair-programming",
+      "vibe-coding"
+    ],
+    "created_at": "2026-03-22T18:38:00",
+    "updated_at": "2026-04-12T20:19:05"
+  },
+  {
+    "name": "hermes-control-interface",
+    "full_name": "xaspx/hermes-control-interface",
+    "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate.",
+    "url": "https://github.com/xaspx/hermes-control-interface",
+    "stars": 81,
+    "daily_stars": 7,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "hermes-agent"
+    ],
+    "created_at": "2026-04-08T17:13:25",
+    "updated_at": "2026-04-12T20:50:10"
   }
 ]
