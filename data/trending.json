@@ -1,11 +1,29 @@
 [
   {
+    "name": "hermes-webui",
+    "full_name": "nesquena/hermes-webui",
+    "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+    "url": "https://github.com/nesquena/hermes-webui",
+    "stars": 2047,
+    "daily_stars": 45,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "ai-agents",
+      "hermes",
+      "hermes-agent",
+      "nous-research"
+    ],
+    "created_at": "2026-03-30T21:50:12",
+    "updated_at": "2026-04-15T09:53:28"
+  },
+  {
     "name": "holaboss-ai",
     "full_name": "holaboss-ai/holaboss-ai",
     "description": "The agent environment for long-horizon work, continuity, and self-evolution.",
     "url": "https://github.com/holaboss-ai/holaboss-ai",
-    "stars": 2591,
-    "daily_stars": 26,
+    "stars": 2626,
+    "daily_stars": 35,
     "language": "TypeScript",
     "topics": [
       "agent-harness",
@@ -30,33 +48,106 @@
       "workspace"
     ],
     "created_at": "2026-03-22T07:36:16",
-    "updated_at": "2026-04-15T06:10:40"
+    "updated_at": "2026-04-15T09:50:49"
   },
   {
-    "name": "hermes-webui",
-    "full_name": "nesquena/hermes-webui",
-    "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-    "url": "https://github.com/nesquena/hermes-webui",
-    "stars": 2002,
-    "daily_stars": 21,
-    "language": "Python",
+    "name": "qiushi-skill",
+    "full_name": "HughYau/qiushi-skill",
+    "description": "\"求是 Skill\"是一个 AI Agent Skills 合集，从教员思想中提炼出一条总原则和九大方法论工具，系统性地武装 AI 的大脑。",
+    "url": "https://github.com/HughYau/qiushi-skill",
+    "stars": 2713,
+    "daily_stars": 23,
+    "language": "Shell",
     "topics": [
-      "agent",
       "ai-agents",
-      "hermes",
-      "hermes-agent",
-      "nous-research"
+      "methodology",
+      "skills",
+      "workflow"
     ],
-    "created_at": "2026-03-30T21:50:12",
-    "updated_at": "2026-04-15T06:04:00"
+    "created_at": "2026-03-25T10:24:01",
+    "updated_at": "2026-04-15T09:51:40"
+  },
+  {
+    "name": "awesome-opensource-ai",
+    "full_name": "alvinunreal/awesome-opensource-ai",
+    "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
+    "url": "https://github.com/alvinunreal/awesome-opensource-ai",
+    "stars": 2603,
+    "daily_stars": 13,
+    "language": null,
+    "topics": [
+      "agents",
+      "ai",
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "generative-ai",
+      "llm",
+      "machine-learning",
+      "mlops",
+      "open-source",
+      "open-source-ai",
+      "rag"
+    ],
+    "created_at": "2026-03-24T15:58:22",
+    "updated_at": "2026-04-15T09:53:44"
+  },
+  {
+    "name": "Jackrong-llm-finetuning-guide",
+    "full_name": "R6410418/Jackrong-llm-finetuning-guide",
+    "description": null,
+    "url": "https://github.com/R6410418/Jackrong-llm-finetuning-guide",
+    "stars": 718,
+    "daily_stars": 12,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "dataset",
+      "deepseek",
+      "fine-tuning",
+      "guide",
+      "llama3",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "openai",
+      "pytorch",
+      "qwen",
+      "unsloth"
+    ],
+    "created_at": "2026-04-05T08:04:43",
+    "updated_at": "2026-04-15T09:43:26"
+  },
+  {
+    "name": "llmwiki",
+    "full_name": "lucasastorian/llmwiki",
+    "description": "Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki ! ",
+    "url": "https://github.com/lucasastorian/llmwiki",
+    "stars": 397,
+    "daily_stars": 10,
+    "language": "TypeScript",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "claude",
+      "karpathy",
+      "knowledge-base",
+      "llm",
+      "llm-wiki",
+      "mcp",
+      "mcp-server",
+      "rag",
+      "supabase"
+    ],
+    "created_at": "2026-04-04T17:10:02",
+    "updated_at": "2026-04-15T09:45:36"
   },
   {
     "name": "passmark",
     "full_name": "bug0inc/passmark",
     "description": "The open-source Playwright library for AI browser regression testing with intelligent caching, auto-healing, and multi-model verification.",
     "url": "https://github.com/bug0inc/passmark",
-    "stars": 69,
-    "daily_stars": 12,
+    "stars": 79,
+    "daily_stars": 10,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -76,39 +167,14 @@
       "vercel"
     ],
     "created_at": "2026-03-29T18:22:06",
-    "updated_at": "2026-04-15T06:13:25"
-  },
-  {
-    "name": "free-video-downloader",
-    "full_name": "liyupi/free-video-downloader",
-    "description": "2026 年编程导航 AI 编程实战新项目，基于 Vue 3 + FastAPI + yt-dlp + DeepSeek + Stripe 的 AI 万能视频下载总结器，支持 1800+ 平台视频下载、AI 视频总结摘要、思维导图生成、AI 问答、字幕导出、Stripe 国际支付。覆盖 SSE 流式传输、JWT 认证、SEO/GEO 优化。用一套教程掌握 AI 编程全流程，从需求分析到商业变现，不到一周学完，给你的简历增加竞争力",
-    "url": "https://github.com/liyupi/free-video-downloader",
-    "stars": 111,
-    "daily_stars": 10,
-    "language": "Vue",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-programming",
-      "backend",
-      "deepseek",
-      "fastapi",
-      "frontend",
-      "jwt",
-      "python",
-      "stripe",
-      "tailwindcss",
-      "vue"
-    ],
-    "created_at": "2026-03-23T06:19:11",
-    "updated_at": "2026-04-15T06:09:44"
+    "updated_at": "2026-04-15T09:41:14"
   },
   {
     "name": "ai-engineering-from-scratch",
     "full_name": "rohitg00/ai-engineering-from-scratch",
     "description": "Learn it. Build it. Ship it for others.",
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "stars": 2799,
+    "stars": 2808,
     "daily_stars": 9,
     "language": "Python",
     "topics": [
@@ -134,131 +200,51 @@
       "typescript"
     ],
     "created_at": "2026-03-18T18:38:02",
-    "updated_at": "2026-04-15T05:45:19"
+    "updated_at": "2026-04-15T09:30:45"
   },
   {
-    "name": "PrismerCloud",
-    "full_name": "Prismer-AI/PrismerCloud",
-    "description": "Prismer Cloud",
-    "url": "https://github.com/Prismer-AI/PrismerCloud",
-    "stars": 811,
+    "name": "awesome-codex-subagents",
+    "full_name": "VoltAgent/awesome-codex-subagents",
+    "description": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases.",
+    "url": "https://github.com/VoltAgent/awesome-codex-subagents",
+    "stars": 3946,
     "daily_stars": 8,
-    "language": "TypeScript",
+    "language": null,
     "topics": [
-      "agent-communication",
-      "agent-memory",
       "ai-agents",
-      "claude",
-      "cursor",
-      "docker",
-      "knowledge-base",
-      "llm-tools",
-      "mcp",
-      "mcp-server",
-      "nextjs",
-      "rag",
-      "self-hosted",
-      "typescript",
-      "windsurf"
+      "awesome-list",
+      "chatgpt",
+      "codex",
+      "codex-skills",
+      "codex-subagents",
+      "subagents"
     ],
-    "created_at": "2026-03-21T16:58:43",
-    "updated_at": "2026-04-15T06:14:38"
+    "created_at": "2026-03-17T12:26:20",
+    "updated_at": "2026-04-15T09:16:57"
   },
   {
-    "name": "ParseBench",
-    "full_name": "run-llama/ParseBench",
-    "description": "ParseBench - A Document Parsing Benchmark for AI Agents",
-    "url": "https://github.com/run-llama/ParseBench",
-    "stars": 133,
+    "name": "auto-deep-researcher-24x7",
+    "full_name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
+    "description": "🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
+    "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
+    "stars": 449,
     "daily_stars": 8,
     "language": "Python",
     "topics": [
-      "benchmark",
-      "document-ai",
-      "document-parsing",
-      "evaluation",
-      "llamaindex",
-      "llm",
-      "machine-learning",
-      "ocr",
-      "pdf-parsing",
-      "table-extraction",
-      "vision-language-models"
-    ],
-    "created_at": "2026-04-10T20:46:33",
-    "updated_at": "2026-04-15T06:16:17"
-  },
-  {
-    "name": "awesome-opensource-ai",
-    "full_name": "alvinunreal/awesome-opensource-ai",
-    "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
-    "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-    "stars": 2590,
-    "daily_stars": 6,
-    "language": null,
-    "topics": [
-      "agents",
-      "ai",
-      "artificial-intelligence",
-      "awesome",
-      "awesome-list",
-      "generative-ai",
-      "llm",
+      "ai-agent",
+      "autonomous-agent",
+      "claude-code",
+      "deep-learning",
+      "experiment-automation",
+      "gpu",
+      "hyperparameter-tuning",
+      "llm-agent",
       "machine-learning",
       "mlops",
-      "open-source",
-      "open-source-ai",
-      "rag"
+      "pytorch",
+      "research-automation"
     ],
-    "created_at": "2026-03-24T15:58:22",
-    "updated_at": "2026-04-15T06:02:08"
-  },
-  {
-    "name": "zeroid",
-    "full_name": "highflame-ai/zeroid",
-    "description": "ZeroID: Autonomous Agent Identity Management System (AAIMS)",
-    "url": "https://github.com/highflame-ai/zeroid",
-    "stars": 60,
-    "daily_stars": 6,
-    "language": "Go",
-    "topics": [
-      "agent-authentication",
-      "ai-agents",
-      "authentication",
-      "credentials",
-      "golang",
-      "identity",
-      "jwt",
-      "machine-identity",
-      "mcp",
-      "nhi",
-      "non-human-identity",
-      "oauth2",
-      "postgresql",
-      "rfc822",
-      "rfc8693",
-      "spiffe",
-      "token-exchange",
-      "wimse"
-    ],
-    "created_at": "2026-03-17T10:10:32",
-    "updated_at": "2026-04-15T05:43:10"
-  },
-  {
-    "name": "qiushi-skill",
-    "full_name": "HughYau/qiushi-skill",
-    "description": "\"求是 Skill\"是一个 AI Agent Skills 合集，从教员思想中提炼出一条总原则和九大方法论工具，系统性地武装 AI 的大脑。",
-    "url": "https://github.com/HughYau/qiushi-skill",
-    "stars": 2690,
-    "daily_stars": 5,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
-      "methodology",
-      "skills",
-      "workflow"
-    ],
-    "created_at": "2026-03-25T10:24:01",
-    "updated_at": "2026-04-15T05:35:55"
+    "created_at": "2026-04-08T04:48:26",
+    "updated_at": "2026-04-15T09:43:10"
   }
 ]
