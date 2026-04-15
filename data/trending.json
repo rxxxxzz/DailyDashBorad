@@ -4,8 +4,8 @@
     "full_name": "holaboss-ai/holaboss-ai",
     "description": "The agent environment for long-horizon work, continuity, and self-evolution.",
     "url": "https://github.com/holaboss-ai/holaboss-ai",
-    "stars": 2474,
-    "daily_stars": 38,
+    "stars": 2565,
+    "daily_stars": 91,
     "language": "TypeScript",
     "topics": [
       "agent-harness",
@@ -30,15 +30,56 @@
       "workspace"
     ],
     "created_at": "2026-03-22T07:36:16",
-    "updated_at": "2026-04-14T20:59:16"
+    "updated_at": "2026-04-15T03:41:32"
+  },
+  {
+    "name": "hermes-webui",
+    "full_name": "nesquena/hermes-webui",
+    "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+    "url": "https://github.com/nesquena/hermes-webui",
+    "stars": 1981,
+    "daily_stars": 42,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "ai-agents",
+      "hermes",
+      "hermes-agent",
+      "nous-research"
+    ],
+    "created_at": "2026-03-30T21:50:12",
+    "updated_at": "2026-04-15T03:39:37"
+  },
+  {
+    "name": "yantrikdb-server",
+    "full_name": "yantrikos/yantrikdb-server",
+    "description": "YantrikDB database server — wire protocol + HTTP gateway",
+    "url": "https://github.com/yantrikos/yantrikdb-server",
+    "stars": 86,
+    "daily_stars": 37,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "clustering",
+      "cognitive-memory",
+      "database",
+      "llm",
+      "mcp",
+      "memory",
+      "rust",
+      "self-hosted",
+      "vector-database"
+    ],
+    "created_at": "2026-04-05T18:08:33",
+    "updated_at": "2026-04-15T03:01:42"
   },
   {
     "name": "ai-engineering-from-scratch",
     "full_name": "rohitg00/ai-engineering-from-scratch",
     "description": "Learn it. Build it. Ship it for others.",
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "stars": 2758,
-    "daily_stars": 29,
+    "stars": 2790,
+    "daily_stars": 32,
     "language": "Python",
     "topics": [
       "agents",
@@ -63,32 +104,41 @@
       "typescript"
     ],
     "created_at": "2026-03-18T18:38:02",
-    "updated_at": "2026-04-14T21:04:06"
+    "updated_at": "2026-04-15T03:44:13"
   },
   {
-    "name": "hermes-webui",
-    "full_name": "nesquena/hermes-webui",
-    "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-    "url": "https://github.com/nesquena/hermes-webui",
-    "stars": 1939,
-    "daily_stars": 18,
-    "language": "Python",
+    "name": "kontext-cli",
+    "full_name": "kontext-security/kontext-cli",
+    "description": "Open-source CLI for AI coding agents. Give your coding agents access to services without exposing keys.",
+    "url": "https://github.com/kontext-security/kontext-cli",
+    "stars": 106,
+    "daily_stars": 25,
+    "language": "Go",
     "topics": [
-      "agent",
+      "ai",
       "ai-agents",
-      "hermes",
-      "hermes-agent",
-      "nous-research"
+      "audit-logging",
+      "cli",
+      "credential-management",
+      "developer-tools",
+      "golang",
+      "grpc",
+      "kontext",
+      "mcp",
+      "oidc",
+      "secret-management",
+      "security",
+      "security-tools"
     ],
-    "created_at": "2026-03-30T21:50:12",
-    "updated_at": "2026-04-14T21:08:52"
+    "created_at": "2026-04-05T09:12:57",
+    "updated_at": "2026-04-15T02:59:52"
   },
   {
     "name": "awesome-opensource-ai",
     "full_name": "alvinunreal/awesome-opensource-ai",
     "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
     "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-    "stars": 2569,
+    "stars": 2584,
     "daily_stars": 15,
     "language": null,
     "topics": [
@@ -106,108 +156,39 @@
       "rag"
     ],
     "created_at": "2026-03-24T15:58:22",
-    "updated_at": "2026-04-14T21:00:17"
+    "updated_at": "2026-04-15T03:32:48"
   },
   {
-    "name": "ClawTeam-OpenClaw",
-    "full_name": "win4r/ClawTeam-OpenClaw",
-    "description": "ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent",
-    "url": "https://github.com/win4r/ClawTeam-OpenClaw",
-    "stars": 1200,
+    "name": "ParseBench",
+    "full_name": "run-llama/ParseBench",
+    "description": "ParseBench - A Document Parsing Benchmark for AI Agents",
+    "url": "https://github.com/run-llama/ParseBench",
+    "stars": 125,
     "daily_stars": 13,
     "language": "Python",
     "topics": [
-      "ai-agents",
-      "clawdbot",
-      "openclaw",
-      "openclaw-extension",
-      "openclaw-plugin",
-      "openclaw-skills",
-      "swarm",
-      "swarm-intelligence",
-      "swarms"
-    ],
-    "created_at": "2026-03-18T09:52:54",
-    "updated_at": "2026-04-14T21:06:20"
-  },
-  {
-    "name": "zerobox",
-    "full_name": "afshinm/zerobox",
-    "description": "Lightweight, cross-platform process sandboxing. Sandbox any command with file, network, and credential controls.",
-    "url": "https://github.com/afshinm/zerobox",
-    "stars": 463,
-    "daily_stars": 8,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "cli",
+      "benchmark",
+      "document-ai",
+      "document-parsing",
+      "evaluation",
+      "llamaindex",
       "llm",
-      "openclaw",
-      "process-isolation",
-      "rust",
-      "sandbox",
-      "security",
-      "security-tools",
-      "vault"
+      "machine-learning",
+      "ocr",
+      "pdf-parsing",
+      "table-extraction",
+      "vision-language-models"
     ],
-    "created_at": "2026-03-17T16:02:51",
-    "updated_at": "2026-04-14T20:45:58"
-  },
-  {
-    "name": "awesome-codex-subagents",
-    "full_name": "VoltAgent/awesome-codex-subagents",
-    "description": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases.",
-    "url": "https://github.com/VoltAgent/awesome-codex-subagents",
-    "stars": 3926,
-    "daily_stars": 6,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "awesome-list",
-      "chatgpt",
-      "codex",
-      "codex-skills",
-      "codex-subagents",
-      "subagents"
-    ],
-    "created_at": "2026-03-17T12:26:20",
-    "updated_at": "2026-04-14T20:39:08"
-  },
-  {
-    "name": "PrismerCloud",
-    "full_name": "Prismer-AI/PrismerCloud",
-    "description": "Prismer Cloud",
-    "url": "https://github.com/Prismer-AI/PrismerCloud",
-    "stars": 795,
-    "daily_stars": 5,
-    "language": "TypeScript",
-    "topics": [
-      "agent-communication",
-      "agent-memory",
-      "ai-agents",
-      "claude",
-      "cursor",
-      "docker",
-      "knowledge-base",
-      "llm-tools",
-      "mcp",
-      "mcp-server",
-      "nextjs",
-      "rag",
-      "self-hosted",
-      "typescript",
-      "windsurf"
-    ],
-    "created_at": "2026-03-21T16:58:43",
-    "updated_at": "2026-04-14T20:08:24"
+    "created_at": "2026-04-10T20:46:33",
+    "updated_at": "2026-04-15T03:47:45"
   },
   {
     "name": "Jackrong-llm-finetuning-guide",
     "full_name": "R6410418/Jackrong-llm-finetuning-guide",
     "description": null,
     "url": "https://github.com/R6410418/Jackrong-llm-finetuning-guide",
-    "stars": 693,
-    "daily_stars": 5,
+    "stars": 705,
+    "daily_stars": 12,
     "language": "Jupyter Notebook",
     "topics": [
       "dataset",
@@ -224,30 +205,41 @@
       "unsloth"
     ],
     "created_at": "2026-04-05T08:04:43",
-    "updated_at": "2026-04-14T20:56:00"
+    "updated_at": "2026-04-15T03:18:50"
   },
   {
-    "name": "ParseBench",
-    "full_name": "run-llama/ParseBench",
-    "description": "ParseBench - A Document Parsing Benchmark for AI Agents",
-    "url": "https://github.com/run-llama/ParseBench",
-    "stars": 112,
-    "daily_stars": 5,
-    "language": "Python",
+    "name": "awesome-codex-subagents",
+    "full_name": "VoltAgent/awesome-codex-subagents",
+    "description": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases.",
+    "url": "https://github.com/VoltAgent/awesome-codex-subagents",
+    "stars": 3937,
+    "daily_stars": 11,
+    "language": null,
     "topics": [
-      "benchmark",
-      "document-ai",
-      "document-parsing",
-      "evaluation",
-      "llamaindex",
-      "llm",
-      "machine-learning",
-      "ocr",
-      "pdf-parsing",
-      "table-extraction",
-      "vision-language-models"
+      "ai-agents",
+      "awesome-list",
+      "chatgpt",
+      "codex",
+      "codex-skills",
+      "codex-subagents",
+      "subagents"
     ],
-    "created_at": "2026-04-10T20:46:33",
-    "updated_at": "2026-04-14T19:27:43"
+    "created_at": "2026-03-17T12:26:20",
+    "updated_at": "2026-04-15T03:28:13"
+  },
+  {
+    "name": "hermes-control-interface",
+    "full_name": "xaspx/hermes-control-interface",
+    "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate.",
+    "url": "https://github.com/xaspx/hermes-control-interface",
+    "stars": 277,
+    "daily_stars": 11,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "hermes-agent"
+    ],
+    "created_at": "2026-04-08T17:13:25",
+    "updated_at": "2026-04-15T03:45:22"
   }
 ]
