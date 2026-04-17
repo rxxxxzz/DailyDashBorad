@@ -1,58 +1,36 @@
 [
   {
-    "name": "hermes-webui",
-    "full_name": "nesquena/hermes-webui",
-    "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-    "url": "https://github.com/nesquena/hermes-webui",
-    "stars": 2505,
-    "daily_stars": 31,
-    "language": "Python",
+    "name": "abtop",
+    "full_name": "graykode/abtop",
+    "description": "Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.",
+    "url": "https://github.com/graykode/abtop",
+    "stars": 236,
+    "daily_stars": 37,
+    "language": "Rust",
     "topics": [
-      "agent",
       "ai-agents",
-      "hermes",
-      "hermes-agent",
-      "nous-research"
-    ],
-    "created_at": "2026-03-30T21:50:12",
-    "updated_at": "2026-04-17T17:03:39"
-  },
-  {
-    "name": "session-orchestrator",
-    "full_name": "Kanevry/session-orchestrator",
-    "description": "Claude Code plugin for structured AI development sessions — 5-wave execution, parallel agents, quality gates, VCS integration. Pure Markdown, no runtime code.",
-    "url": "https://github.com/Kanevry/session-orchestrator",
-    "stars": 76,
-    "daily_stars": 24,
-    "language": "Shell",
-    "topics": [
-      "agent-orchestration",
-      "agentic-ai",
-      "ai-agents",
-      "ai-coding",
-      "anthropic",
-      "claude",
+      "ai-coding-agent",
+      "btop",
       "claude-code",
-      "claude-code-plugin",
-      "claude-code-plugins",
-      "claude-code-skills",
-      "code-review",
+      "cli",
+      "codex",
       "developer-tools",
-      "github",
-      "gitlab",
-      "mcp",
-      "quality-gates",
-      "session-management"
+      "htop",
+      "monitor",
+      "ratatui",
+      "rust",
+      "terminal",
+      "tui"
     ],
-    "created_at": "2026-04-02T18:34:17",
-    "updated_at": "2026-04-17T15:21:25"
+    "created_at": "2026-03-29T10:12:20",
+    "updated_at": "2026-04-17T21:03:58"
   },
   {
     "name": "holaboss-ai",
     "full_name": "holaboss-ai/holaboss-ai",
     "description": "The agent environment for long-horizon work, continuity, and self-evolution.",
     "url": "https://github.com/holaboss-ai/holaboss-ai",
-    "stars": 2780,
+    "stars": 2803,
     "daily_stars": 23,
     "language": "TypeScript",
     "topics": [
@@ -78,15 +56,98 @@
       "workspace"
     ],
     "created_at": "2026-03-22T07:36:16",
-    "updated_at": "2026-04-17T17:12:06"
+    "updated_at": "2026-04-17T20:55:42"
+  },
+  {
+    "name": "hermes-webui",
+    "full_name": "nesquena/hermes-webui",
+    "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+    "url": "https://github.com/nesquena/hermes-webui",
+    "stars": 2525,
+    "daily_stars": 20,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "ai-agents",
+      "hermes",
+      "hermes-agent",
+      "nous-research"
+    ],
+    "created_at": "2026-03-30T21:50:12",
+    "updated_at": "2026-04-17T20:53:31"
+  },
+  {
+    "name": "passmark",
+    "full_name": "bug0inc/passmark",
+    "description": "The open-source Playwright library for AI browser regression testing with intelligent caching, auto-healing, and multi-model verification.",
+    "url": "https://github.com/bug0inc/passmark",
+    "stars": 243,
+    "daily_stars": 11,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-testing",
+      "aigateway",
+      "aisdk",
+      "browser-testing",
+      "e2e-testing",
+      "playwright",
+      "qa",
+      "qa-automation",
+      "qaautomation",
+      "regression-testing",
+      "testing",
+      "typescript",
+      "vercel"
+    ],
+    "created_at": "2026-03-29T18:22:06",
+    "updated_at": "2026-04-17T21:07:54"
+  },
+  {
+    "name": "awesome-hermes-agent",
+    "full_name": "0xNyk/awesome-hermes-agent",
+    "description": "A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research",
+    "url": "https://github.com/0xNyk/awesome-hermes-agent",
+    "stars": 1371,
+    "daily_stars": 10,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "awesome",
+      "awesome-list",
+      "hermes-agent",
+      "nous-research",
+      "skills"
+    ],
+    "created_at": "2026-03-23T05:34:37",
+    "updated_at": "2026-04-17T20:30:06"
+  },
+  {
+    "name": "hermes-ecosystem",
+    "full_name": "ksimback/hermes-ecosystem",
+    "description": "🗺️ Hermes Atlas — the community map of every tool, skill, and integration for Hermes Agent by Nous Research. Live at hermesatlas.com",
+    "url": "https://github.com/ksimback/hermes-ecosystem",
+    "stars": 288,
+    "daily_stars": 9,
+    "language": "HTML",
+    "topics": [
+      "ai-agents",
+      "ecosystem-map",
+      "hermes-agent",
+      "hermes-atlas",
+      "nous-research"
+    ],
+    "created_at": "2026-04-08T17:07:13",
+    "updated_at": "2026-04-17T20:50:26"
   },
   {
     "name": "AutoProber",
     "full_name": "GainSec/AutoProber",
     "description": "Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapping, safety-monitored CNC motion, probe review, and   controlled pin probing.",
     "url": "https://github.com/GainSec/AutoProber",
-    "stars": 211,
-    "daily_stars": 22,
+    "stars": 219,
+    "daily_stars": 8,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -106,129 +167,68 @@
       "security-research"
     ],
     "created_at": "2026-04-16T06:18:47",
-    "updated_at": "2026-04-17T17:03:06"
-  },
-  {
-    "name": "chek-ego-miner",
-    "full_name": "chekdata/chek-ego-miner",
-    "description": "Crowdsource EGO robot data capture, contribution, and public-safe edge-host bring-up.",
-    "url": "https://github.com/chekdata/chek-ego-miner",
-    "stars": 103,
-    "daily_stars": 20,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "computer-vision",
-      "crowdsourcing",
-      "dataset",
-      "edge-computing",
-      "humanoid",
-      "ios",
-      "robotics"
-    ],
-    "created_at": "2026-04-10T06:49:10",
-    "updated_at": "2026-04-17T15:11:12"
-  },
-  {
-    "name": "hermes-ecosystem",
-    "full_name": "ksimback/hermes-ecosystem",
-    "description": "🗺️ Hermes Atlas — the community map of every tool, skill, and integration for Hermes Agent by Nous Research. Live at hermesatlas.com",
-    "url": "https://github.com/ksimback/hermes-ecosystem",
-    "stars": 279,
-    "daily_stars": 19,
-    "language": "HTML",
-    "topics": [
-      "ai-agents",
-      "ecosystem-map",
-      "hermes-agent",
-      "hermes-atlas",
-      "nous-research"
-    ],
-    "created_at": "2026-04-08T17:07:13",
-    "updated_at": "2026-04-17T17:13:02"
-  },
-  {
-    "name": "llmwiki",
-    "full_name": "lucasastorian/llmwiki",
-    "description": "Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki ! ",
-    "url": "https://github.com/lucasastorian/llmwiki",
-    "stars": 500,
-    "daily_stars": 10,
-    "language": "TypeScript",
-    "topics": [
-      "agents",
-      "ai-agents",
-      "claude",
-      "karpathy",
-      "knowledge-base",
-      "llm",
-      "llm-wiki",
-      "mcp",
-      "mcp-server",
-      "rag",
-      "supabase"
-    ],
-    "created_at": "2026-04-04T17:10:02",
-    "updated_at": "2026-04-17T17:08:06"
+    "updated_at": "2026-04-17T20:14:19"
   },
   {
     "name": "hermes-control-interface",
     "full_name": "xaspx/hermes-control-interface",
     "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate.",
     "url": "https://github.com/xaspx/hermes-control-interface",
-    "stars": 329,
-    "daily_stars": 8,
+    "stars": 334,
+    "daily_stars": 5,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
       "hermes-agent"
     ],
     "created_at": "2026-04-08T17:13:25",
-    "updated_at": "2026-04-17T16:20:41"
+    "updated_at": "2026-04-17T20:36:59"
   },
   {
-    "name": "awesome-hermes-agent",
-    "full_name": "0xNyk/awesome-hermes-agent",
-    "description": "A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research",
-    "url": "https://github.com/0xNyk/awesome-hermes-agent",
-    "stars": 1361,
-    "daily_stars": 7,
-    "language": null,
+    "name": "ParseBench",
+    "full_name": "run-llama/ParseBench",
+    "description": "ParseBench - A Document Parsing Benchmark for AI Agents",
+    "url": "https://github.com/run-llama/ParseBench",
+    "stars": 185,
+    "daily_stars": 5,
+    "language": "Python",
     "topics": [
-      "ai-agents",
-      "awesome",
-      "awesome-list",
-      "hermes-agent",
-      "nous-research",
-      "skills"
+      "benchmark",
+      "document-ai",
+      "document-parsing",
+      "evaluation",
+      "llamaindex",
+      "llm",
+      "machine-learning",
+      "ocr",
+      "pdf-parsing",
+      "table-extraction",
+      "vision-language-models"
     ],
-    "created_at": "2026-03-23T05:34:37",
-    "updated_at": "2026-04-17T16:25:08"
+    "created_at": "2026-04-10T20:46:33",
+    "updated_at": "2026-04-17T21:04:02"
   },
   {
-    "name": "abtop",
-    "full_name": "graykode/abtop",
-    "description": "Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.",
-    "url": "https://github.com/graykode/abtop",
-    "stars": 199,
-    "daily_stars": 6,
-    "language": "Rust",
+    "name": "open-multi-agent",
+    "full_name": "JackChen-me/open-multi-agent",
+    "description": "Production-grade multi-agent orchestration framework. Model-agnostic, supports team collaboration, task scheduling, and inter-agent communication.",
+    "url": "https://github.com/JackChen-me/open-multi-agent",
+    "stars": 5743,
+    "daily_stars": 4,
+    "language": "TypeScript",
     "topics": [
+      "agent-framework",
       "ai-agents",
-      "ai-coding-agent",
-      "btop",
-      "claude-code",
-      "cli",
-      "codex",
-      "developer-tools",
-      "htop",
-      "monitor",
-      "ratatui",
-      "rust",
-      "terminal",
-      "tui"
+      "claude",
+      "llm",
+      "model-agnostic",
+      "multi-agent",
+      "openai",
+      "orchestration",
+      "task-scheduling",
+      "typescript"
     ],
-    "created_at": "2026-03-29T10:12:20",
-    "updated_at": "2026-04-17T15:51:41"
+    "created_at": "2026-03-31T19:07:34",
+    "updated_at": "2026-04-17T20:35:32"
   }
 ]
