@@ -1,11 +1,57 @@
 [
   {
+    "name": "hermes-webui",
+    "full_name": "nesquena/hermes-webui",
+    "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+    "url": "https://github.com/nesquena/hermes-webui",
+    "stars": 2403,
+    "daily_stars": 27,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "ai-agents",
+      "hermes",
+      "hermes-agent",
+      "nous-research"
+    ],
+    "created_at": "2026-03-30T21:50:12",
+    "updated_at": "2026-04-17T06:16:45"
+  },
+  {
+    "name": "AutoProber",
+    "full_name": "GainSec/AutoProber",
+    "description": "Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapping, safety-monitored CNC motion, probe review, and   controlled pin probing.",
+    "url": "https://github.com/GainSec/AutoProber",
+    "stars": 113,
+    "daily_stars": 26,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "autromation",
+      "embedded-security",
+      "flying-probe",
+      "gainsec",
+      "hardware-hacking",
+      "hardware-security",
+      "iot-security",
+      "offensive-security",
+      "pcb",
+      "pcb-probing",
+      "penetration-testing",
+      "reverse-engineering",
+      "robotics",
+      "security-research"
+    ],
+    "created_at": "2026-04-16T06:18:47",
+    "updated_at": "2026-04-17T06:14:37"
+  },
+  {
     "name": "holaboss-ai",
     "full_name": "holaboss-ai/holaboss-ai",
     "description": "The agent environment for long-horizon work, continuity, and self-evolution.",
     "url": "https://github.com/holaboss-ai/holaboss-ai",
-    "stars": 2708,
-    "daily_stars": 48,
+    "stars": 2728,
+    "daily_stars": 20,
     "language": "TypeScript",
     "topics": [
       "agent-harness",
@@ -30,132 +76,15 @@
       "workspace"
     ],
     "created_at": "2026-03-22T07:36:16",
-    "updated_at": "2026-04-17T03:49:59"
-  },
-  {
-    "name": "hermes-webui",
-    "full_name": "nesquena/hermes-webui",
-    "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-    "url": "https://github.com/nesquena/hermes-webui",
-    "stars": 2376,
-    "daily_stars": 45,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "ai-agents",
-      "hermes",
-      "hermes-agent",
-      "nous-research"
-    ],
-    "created_at": "2026-03-30T21:50:12",
-    "updated_at": "2026-04-17T03:18:05"
-  },
-  {
-    "name": "designing-real-world-ai-agents-workshop",
-    "full_name": "iusztinpaul/designing-real-world-ai-agents-workshop",
-    "description": "Hands-on workshop: Build a multi-agent AI system from scratch — Deep Research Agent + Writing Workflow served as MCP servers. Includes code, slides, and video (coming soon)",
-    "url": "https://github.com/iusztinpaul/designing-real-world-ai-agents-workshop",
-    "stars": 91,
-    "daily_stars": 21,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "deep-research",
-      "mcp",
-      "multi-agent-systems",
-      "workshop"
-    ],
-    "created_at": "2026-03-27T08:55:20",
-    "updated_at": "2026-04-17T03:38:21"
-  },
-  {
-    "name": "kalshi-sentiment-bot",
-    "full_name": "foxstacker5000/kalshi-sentiment-bot",
-    "description": "Multi-source social sentiment bot for Kalshi. Monitors Twitter/X, Reddit, and Telegram in real time, scores signals on 5 dimensions, and enters positions before Kalshi contract prices reprice. Includes NLP classifier and auto-entry mode.",
-    "url": "https://github.com/foxstacker5000/kalshi-sentiment-bot",
-    "stars": 79,
-    "daily_stars": 19,
-    "language": "Python",
-    "topics": [
-      "ai-trading",
-      "algorithmic-trading",
-      "auto-trader",
-      "defi-trading",
-      "kalshi",
-      "kalshi-api",
-      "machine-learning",
-      "market-signals",
-      "news-analysis",
-      "nlp",
-      "prediction-markets",
-      "python",
-      "quantitative-trading",
-      "reddit-sentiment-analysis",
-      "sentiment-analysis",
-      "sentiment-bot",
-      "signal-bot",
-      "social-signals",
-      "trading-strategy",
-      "twitter-sentiment-analysis"
-    ],
-    "created_at": "2026-03-29T17:52:49",
-    "updated_at": "2026-04-17T01:26:21"
-  },
-  {
-    "name": "macmind",
-    "full_name": "SeanFDZ/macmind",
-    "description": "Single-layer transformer in HyperTalk for the classic Macintosh",
-    "url": "https://github.com/SeanFDZ/macmind",
-    "stars": 49,
-    "daily_stars": 19,
-    "language": "Python",
-    "topics": [
-      "attention",
-      "backpropagation",
-      "classic-mac",
-      "fft",
-      "hypercard",
-      "hypertalk",
-      "machine-learning",
-      "macintosh",
-      "neural-network",
-      "retrocomputing",
-      "transformer"
-    ],
-    "created_at": "2026-04-13T21:12:47",
-    "updated_at": "2026-04-17T03:28:29"
-  },
-  {
-    "name": "llmwiki",
-    "full_name": "lucasastorian/llmwiki",
-    "description": "Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki ! ",
-    "url": "https://github.com/lucasastorian/llmwiki",
-    "stars": 472,
-    "daily_stars": 16,
-    "language": "TypeScript",
-    "topics": [
-      "agents",
-      "ai-agents",
-      "claude",
-      "karpathy",
-      "knowledge-base",
-      "llm",
-      "llm-wiki",
-      "mcp",
-      "mcp-server",
-      "rag",
-      "supabase"
-    ],
-    "created_at": "2026-04-04T17:10:02",
-    "updated_at": "2026-04-17T03:21:39"
+    "updated_at": "2026-04-17T06:06:24"
   },
   {
     "name": "passmark",
     "full_name": "bug0inc/passmark",
     "description": "The open-source Playwright library for AI browser regression testing with intelligent caching, auto-healing, and multi-model verification.",
     "url": "https://github.com/bug0inc/passmark",
-    "stars": 194,
-    "daily_stars": 14,
+    "stars": 209,
+    "daily_stars": 15,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -175,15 +104,57 @@
       "vercel"
     ],
     "created_at": "2026-03-29T18:22:06",
-    "updated_at": "2026-04-17T03:48:41"
+    "updated_at": "2026-04-17T06:17:52"
+  },
+  {
+    "name": "designing-real-world-ai-agents-workshop",
+    "full_name": "iusztinpaul/designing-real-world-ai-agents-workshop",
+    "description": "Hands-on workshop: Build a multi-agent AI system from scratch — Deep Research Agent + Writing Workflow served as MCP servers. Includes code, slides, and video (coming soon)",
+    "url": "https://github.com/iusztinpaul/designing-real-world-ai-agents-workshop",
+    "stars": 100,
+    "daily_stars": 9,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "deep-research",
+      "mcp",
+      "multi-agent-systems",
+      "workshop"
+    ],
+    "created_at": "2026-03-27T08:55:20",
+    "updated_at": "2026-04-17T05:57:17"
+  },
+  {
+    "name": "macmind",
+    "full_name": "SeanFDZ/macmind",
+    "description": "Single-layer transformer in HyperTalk for the classic Macintosh",
+    "url": "https://github.com/SeanFDZ/macmind",
+    "stars": 56,
+    "daily_stars": 7,
+    "language": "Python",
+    "topics": [
+      "attention",
+      "backpropagation",
+      "classic-mac",
+      "fft",
+      "hypercard",
+      "hypertalk",
+      "machine-learning",
+      "macintosh",
+      "neural-network",
+      "retrocomputing",
+      "transformer"
+    ],
+    "created_at": "2026-04-13T21:12:47",
+    "updated_at": "2026-04-17T05:42:48"
   },
   {
     "name": "PrismerCloud",
     "full_name": "Prismer-AI/PrismerCloud",
     "description": "Prismer Cloud",
     "url": "https://github.com/Prismer-AI/PrismerCloud",
-    "stars": 894,
-    "daily_stars": 12,
+    "stars": 899,
+    "daily_stars": 5,
     "language": "TypeScript",
     "topics": [
       "agent-communication",
@@ -203,57 +174,74 @@
       "windsurf"
     ],
     "created_at": "2026-03-21T16:58:43",
-    "updated_at": "2026-04-17T03:00:28"
+    "updated_at": "2026-04-17T05:52:58"
   },
   {
-    "name": "Jackrong-llm-finetuning-guide",
-    "full_name": "R6410418/Jackrong-llm-finetuning-guide",
-    "description": null,
-    "url": "https://github.com/R6410418/Jackrong-llm-finetuning-guide",
-    "stars": 789,
-    "daily_stars": 11,
-    "language": "Jupyter Notebook",
+    "name": "llmwiki",
+    "full_name": "lucasastorian/llmwiki",
+    "description": "Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki ! ",
+    "url": "https://github.com/lucasastorian/llmwiki",
+    "stars": 477,
+    "daily_stars": 5,
+    "language": "TypeScript",
     "topics": [
-      "dataset",
-      "deepseek",
-      "fine-tuning",
-      "guide",
-      "llama3",
+      "agents",
+      "ai-agents",
+      "claude",
+      "karpathy",
+      "knowledge-base",
       "llm",
-      "machine-learning",
-      "nlp",
-      "openai",
-      "pytorch",
-      "qwen",
-      "unsloth"
+      "llm-wiki",
+      "mcp",
+      "mcp-server",
+      "rag",
+      "supabase"
     ],
-    "created_at": "2026-04-05T08:04:43",
-    "updated_at": "2026-04-17T02:53:05"
+    "created_at": "2026-04-04T17:10:02",
+    "updated_at": "2026-04-17T05:57:48"
   },
   {
-    "name": "abtop",
-    "full_name": "graykode/abtop",
-    "description": "Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.",
-    "url": "https://github.com/graykode/abtop",
-    "stars": 167,
-    "daily_stars": 9,
-    "language": "Rust",
+    "name": "awesome-hermes-agent",
+    "full_name": "0xNyk/awesome-hermes-agent",
+    "description": "A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research",
+    "url": "https://github.com/0xNyk/awesome-hermes-agent",
+    "stars": 1346,
+    "daily_stars": 4,
+    "language": null,
     "topics": [
       "ai-agents",
-      "ai-coding-agent",
-      "btop",
-      "claude-code",
-      "cli",
-      "codex",
-      "developer-tools",
-      "htop",
-      "monitor",
-      "ratatui",
-      "rust",
-      "terminal",
-      "tui"
+      "awesome",
+      "awesome-list",
+      "hermes-agent",
+      "nous-research",
+      "skills"
     ],
-    "created_at": "2026-03-29T10:12:20",
-    "updated_at": "2026-04-17T02:29:48"
+    "created_at": "2026-03-23T05:34:37",
+    "updated_at": "2026-04-17T05:50:23"
+  },
+  {
+    "name": "auto-deep-researcher-24x7",
+    "full_name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
+    "description": "🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
+    "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
+    "stars": 500,
+    "daily_stars": 4,
+    "language": "Python",
+    "topics": [
+      "ai-agent",
+      "autonomous-agent",
+      "claude-code",
+      "deep-learning",
+      "experiment-automation",
+      "gpu",
+      "hyperparameter-tuning",
+      "llm-agent",
+      "machine-learning",
+      "mlops",
+      "pytorch",
+      "research-automation"
+    ],
+    "created_at": "2026-04-08T04:48:26",
+    "updated_at": "2026-04-17T05:58:49"
   }
 ]
