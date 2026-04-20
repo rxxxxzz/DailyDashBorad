@@ -4,8 +4,8 @@
     "full_name": "holaboss-ai/holaboss-ai",
     "description": "The agent environment for long-horizon work, continuity, and self-evolution.",
     "url": "https://github.com/holaboss-ai/holaboss-ai",
-    "stars": 3106,
-    "daily_stars": 39,
+    "stars": 3138,
+    "daily_stars": 32,
     "language": "TypeScript",
     "topics": [
       "agent-harness",
@@ -30,15 +30,34 @@
       "workspace"
     ],
     "created_at": "2026-03-22T07:36:16",
-    "updated_at": "2026-04-20T17:33:55"
+    "updated_at": "2026-04-20T19:21:08"
+  },
+  {
+    "name": "agent-style",
+    "full_name": "yzhao062/agent-style",
+    "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
+    "url": "https://github.com/yzhao062/agent-style",
+    "stars": 134,
+    "daily_stars": 17,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "llm",
+      "prompt-engineering",
+      "style-guide",
+      "technical-writing",
+      "writing-style"
+    ],
+    "created_at": "2026-04-19T08:12:16",
+    "updated_at": "2026-04-20T20:24:48"
   },
   {
     "name": "hermes-webui",
     "full_name": "nesquena/hermes-webui",
     "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
     "url": "https://github.com/nesquena/hermes-webui",
-    "stars": 2953,
-    "daily_stars": 20,
+    "stars": 2964,
+    "daily_stars": 11,
     "language": "Python",
     "topics": [
       "agent",
@@ -48,15 +67,15 @@
       "nous-research"
     ],
     "created_at": "2026-03-30T21:50:12",
-    "updated_at": "2026-04-20T17:03:18"
+    "updated_at": "2026-04-20T21:09:10"
   },
   {
     "name": "abtop",
     "full_name": "graykode/abtop",
     "description": "Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.",
     "url": "https://github.com/graykode/abtop",
-    "stars": 557,
-    "daily_stars": 18,
+    "stars": 566,
+    "daily_stars": 9,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -74,86 +93,46 @@
       "tui"
     ],
     "created_at": "2026-03-29T10:12:20",
-    "updated_at": "2026-04-20T17:07:53"
+    "updated_at": "2026-04-20T21:05:10"
   },
   {
-    "name": "agent-style",
-    "full_name": "yzhao062/agent-style",
-    "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
-    "url": "https://github.com/yzhao062/agent-style",
-    "stars": 117,
-    "daily_stars": 15,
+    "name": "anywhere-agents",
+    "full_name": "yzhao062/anywhere-agents",
+    "description": "One config to rule all your AI agents: portable (every project, every session), effective (curated writing, routing, skills), and safer (destructive-command guard).",
+    "url": "https://github.com/yzhao062/anywhere-agents",
+    "stars": 79,
+    "daily_stars": 7,
     "language": "Python",
     "topics": [
+      "agent-config",
+      "agent-skills",
+      "agents-md",
       "ai-agents",
-      "llm",
-      "prompt-engineering",
-      "style-guide",
-      "technical-writing",
-      "writing-style"
+      "ai-safety",
+      "claude-code",
+      "code-review",
+      "codex",
+      "dual-agent-review",
+      "git-safety",
+      "npm",
+      "opinionated",
+      "portable-config",
+      "pypi",
+      "safety-hooks",
+      "shared-configuration",
+      "skill-dispatch",
+      "skill-router"
     ],
-    "created_at": "2026-04-19T08:12:16",
-    "updated_at": "2026-04-20T17:15:42"
-  },
-  {
-    "name": "awesome-hermes-agent",
-    "full_name": "0xNyk/awesome-hermes-agent",
-    "description": "A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research",
-    "url": "https://github.com/0xNyk/awesome-hermes-agent",
-    "stars": 1492,
-    "daily_stars": 8,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "awesome",
-      "awesome-list",
-      "hermes-agent",
-      "nous-research",
-      "skills"
-    ],
-    "created_at": "2026-03-23T05:34:37",
-    "updated_at": "2026-04-20T16:13:17"
-  },
-  {
-    "name": "ai_osint",
-    "full_name": "7WaySecurity/ai_osint",
-    "description": "🤖 Curated AI OSINT resources — Google dorks, Shodan queries, GitHub dorks, and techniques to discover exposed LLM endpoints, leaked AI API keys, misconfigured vector databases, and unprotected AI agents",
-    "url": "https://github.com/7WaySecurity/ai_osint",
-    "stars": 52,
-    "daily_stars": 7,
-    "language": null,
-    "topics": [
-      "ai-osint",
-      "ai-security",
-      "api-keys",
-      "artificial-intelligence",
-      "bug-bounty",
-      "cybersecurity",
-      "google-dorks",
-      "hacking",
-      "llm-security",
-      "machine-learning",
-      "mcp-security",
-      "ollama",
-      "osint",
-      "owasp",
-      "pentesting",
-      "prompt-injection",
-      "reconnaissance",
-      "red-team",
-      "shodan",
-      "vector-database"
-    ],
-    "created_at": "2026-04-08T14:08:41",
-    "updated_at": "2026-04-20T16:57:10"
+    "created_at": "2026-04-16T17:44:59",
+    "updated_at": "2026-04-20T20:38:24"
   },
   {
     "name": "passmark",
     "full_name": "bug0inc/passmark",
     "description": "The open-source Playwright library for AI browser regression testing with intelligent caching, auto-healing, and multi-model verification.",
     "url": "https://github.com/bug0inc/passmark",
-    "stars": 415,
-    "daily_stars": 7,
+    "stars": 421,
+    "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -173,15 +152,15 @@
       "vercel"
     ],
     "created_at": "2026-03-29T18:22:06",
-    "updated_at": "2026-04-20T17:21:50"
+    "updated_at": "2026-04-20T20:37:57"
   },
   {
     "name": "ctx",
     "full_name": "stevesolun/ctx",
     "description": "Real-time skill and agent recommendation engine for Claude Code - watches what you develop, walks a knowledge graph of 1,725 skills and 443 agents, and suggests the right ones on the fly. Powered by a Karpathy LLM wiki with persistent memory.",
     "url": "https://github.com/stevesolun/ctx",
-    "stars": 156,
-    "daily_stars": 7,
+    "stars": 162,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "agents",
@@ -203,40 +182,32 @@
       "wiki"
     ],
     "created_at": "2026-04-08T22:39:54",
-    "updated_at": "2026-04-20T17:00:27"
+    "updated_at": "2026-04-20T20:44:25"
   },
   {
-    "name": "oh-sheet",
-    "full_name": "Oh-Sheet-Team/oh-sheet",
-    "description": "Turn any song into playable piano sheet music. Paste a YouTube link or upload audio — get a PDF score. Open-source pipeline: Basic Pitch transcription, two-hand arrangement, RL-trained engraving.",
-    "url": "https://github.com/Oh-Sheet-Team/oh-sheet",
-    "stars": 118,
+    "name": "designing-real-world-ai-agents-workshop",
+    "full_name": "iusztinpaul/designing-real-world-ai-agents-workshop",
+    "description": "Hands-on workshop: Build a multi-agent AI system from scratch — Deep Research Agent + Writing Workflow served as MCP servers. Includes code, slides, and video (coming soon)",
+    "url": "https://github.com/iusztinpaul/designing-real-world-ai-agents-workshop",
+    "stars": 122,
     "daily_stars": 6,
     "language": "Python",
     "topics": [
-      "ai",
-      "fastapi",
-      "flutter",
-      "machine-learning",
-      "midi",
-      "music",
-      "music-transcription",
-      "musicxml",
-      "open-source",
-      "piano",
-      "reinforcement-learning-environments",
-      "sheet-music",
-      "sheet-music-viewer"
+      "ai-agents",
+      "deep-research",
+      "mcp",
+      "multi-agent-systems",
+      "workshop"
     ],
-    "created_at": "2026-04-06T22:49:20",
-    "updated_at": "2026-04-20T17:11:48"
+    "created_at": "2026-03-27T08:55:20",
+    "updated_at": "2026-04-20T20:32:42"
   },
   {
     "name": "awesome-opensource-ai",
     "full_name": "alvinunreal/awesome-opensource-ai",
     "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
     "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-    "stars": 2800,
+    "stars": 2805,
     "daily_stars": 5,
     "language": null,
     "topics": [
@@ -254,6 +225,25 @@
       "rag"
     ],
     "created_at": "2026-03-24T15:58:22",
-    "updated_at": "2026-04-20T15:51:28"
+    "updated_at": "2026-04-20T21:05:16"
+  },
+  {
+    "name": "awesome-hermes-agent",
+    "full_name": "0xNyk/awesome-hermes-agent",
+    "description": "A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research",
+    "url": "https://github.com/0xNyk/awesome-hermes-agent",
+    "stars": 1497,
+    "daily_stars": 5,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "awesome",
+      "awesome-list",
+      "hermes-agent",
+      "nous-research",
+      "skills"
+    ],
+    "created_at": "2026-03-23T05:34:37",
+    "updated_at": "2026-04-20T20:56:16"
   }
 ]
