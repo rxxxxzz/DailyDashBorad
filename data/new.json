@@ -4,8 +4,8 @@
     "full_name": "GainSec/AutoProber",
     "description": "Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapping, safety-monitored CNC motion, probe review, and   controlled pin probing.",
     "url": "https://github.com/GainSec/AutoProber",
-    "stars": 251,
-    "daily_stars": 3,
+    "stars": 258,
+    "daily_stars": 7,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -25,15 +25,15 @@
       "security-research"
     ],
     "created_at": "2026-04-16T06:18:47",
-    "updated_at": "2026-04-20T07:58:12"
+    "updated_at": "2026-04-20T13:46:18"
   },
   {
     "name": "WorldSeed",
     "full_name": "AIScientists-Dev/WorldSeed",
     "description": "A world engine where AI agents live autonomously — define any scenario in YAML, watch stories emerge",
     "url": "https://github.com/AIScientists-Dev/WorldSeed",
-    "stars": 154,
-    "daily_stars": 0,
+    "stars": 155,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "agent-based-simulation",
@@ -55,15 +55,34 @@
       "typescript"
     ],
     "created_at": "2026-04-15T03:47:21",
-    "updated_at": "2026-04-20T03:48:59"
+    "updated_at": "2026-04-20T11:42:33"
+  },
+  {
+    "name": "agent-style",
+    "full_name": "yzhao062/agent-style",
+    "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
+    "url": "https://github.com/yzhao062/agent-style",
+    "stars": 102,
+    "daily_stars": 18,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "llm",
+      "prompt-engineering",
+      "style-guide",
+      "technical-writing",
+      "writing-style"
+    ],
+    "created_at": "2026-04-19T08:12:16",
+    "updated_at": "2026-04-20T14:13:08"
   },
   {
     "name": "macmind",
     "full_name": "SeanFDZ/macmind",
     "description": "Single-layer transformer in HyperTalk for the classic Macintosh",
     "url": "https://github.com/SeanFDZ/macmind",
-    "stars": 89,
-    "daily_stars": 0,
+    "stars": 91,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "attention",
@@ -79,34 +98,15 @@
       "transformer"
     ],
     "created_at": "2026-04-13T21:12:47",
-    "updated_at": "2026-04-20T00:34:12"
-  },
-  {
-    "name": "agent-style",
-    "full_name": "yzhao062/agent-style",
-    "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
-    "url": "https://github.com/yzhao062/agent-style",
-    "stars": 84,
-    "daily_stars": 19,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "llm",
-      "prompt-engineering",
-      "style-guide",
-      "technical-writing",
-      "writing-style"
-    ],
-    "created_at": "2026-04-19T08:12:16",
-    "updated_at": "2026-04-20T09:25:24"
+    "updated_at": "2026-04-20T14:12:50"
   },
   {
     "name": "awesome-claude-code-skills",
     "full_name": "helloianneo/awesome-claude-code-skills",
     "description": "Claude Code 最实用的 Skills / Agents / Plugins 精选合集 | 50+ 精选 | 按场景分类 | 带推荐等级 | 复制即装",
     "url": "https://github.com/helloianneo/awesome-claude-code-skills",
-    "stars": 81,
-    "daily_stars": 1,
+    "stars": 84,
+    "daily_stars": 3,
     "language": null,
     "topics": [
       "ai-agents",
@@ -121,14 +121,14 @@
       "skills"
     ],
     "created_at": "2026-04-13T15:19:44",
-    "updated_at": "2026-04-20T09:43:40"
+    "updated_at": "2026-04-20T12:45:12"
   },
   {
     "name": "idea-validation-agents",
     "full_name": "MaxKmet/idea-validation-agents",
     "description": "AI agents that act as your personal venture analyst - from startup idea brainstorming to full validation and go-to-market strategy. Built for developers who'd rather validate in 10 minutes than regret in six months. Powered by Claude Code, OpenAI Codex, and Cursor.",
     "url": "https://github.com/MaxKmet/idea-validation-agents",
-    "stars": 80,
+    "stars": 81,
     "daily_stars": 1,
     "language": null,
     "topics": [
@@ -150,7 +150,38 @@
       "workflow-automation"
     ],
     "created_at": "2026-04-13T22:13:08",
-    "updated_at": "2026-04-20T07:10:43"
+    "updated_at": "2026-04-20T10:20:12"
+  },
+  {
+    "name": "anywhere-agents",
+    "full_name": "yzhao062/anywhere-agents",
+    "description": "One config to rule all your AI agents: portable (every project, every session), effective (curated writing, routing, skills), and safer (destructive-command guard).",
+    "url": "https://github.com/yzhao062/anywhere-agents",
+    "stars": 67,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "agent-config",
+      "agent-skills",
+      "agents-md",
+      "ai-agents",
+      "ai-safety",
+      "claude-code",
+      "code-review",
+      "codex",
+      "dual-agent-review",
+      "git-safety",
+      "npm",
+      "opinionated",
+      "portable-config",
+      "pypi",
+      "safety-hooks",
+      "shared-configuration",
+      "skill-dispatch",
+      "skill-router"
+    ],
+    "created_at": "2026-04-16T17:44:59",
+    "updated_at": "2026-04-20T14:12:05"
   },
   {
     "name": "london-property-hunt-public",
@@ -158,7 +189,7 @@
     "description": "Automated London flat/room hunt powered by Claude Code + Claude in Chrome + Gmail MCP. Scrapes 4 rental platforms on a cron, deduplicates via spreadsheet, prioritises HIGH/MED/LOW, and emails ready-to-send outreach.",
     "url": "https://github.com/mikepapadim/london-property-hunt-public",
     "stars": 66,
-    "daily_stars": 2,
+    "daily_stars": 0,
     "language": null,
     "topics": [
       "ai-agents",
@@ -175,7 +206,7 @@
     "description": "Open-source research intelligence for CS papers — track what matters, who drives it, what to read first, and where the research gaps are.",
     "url": "https://github.com/kishormorol/ResearchScope",
     "stars": 65,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "academic",
@@ -199,37 +230,6 @@
     ],
     "created_at": "2026-04-13T00:17:33",
     "updated_at": "2026-04-20T06:55:51"
-  },
-  {
-    "name": "anywhere-agents",
-    "full_name": "yzhao062/anywhere-agents",
-    "description": "One config to rule all your AI agents: portable (every project, every session), effective (curated writing, routing, skills), and safer (destructive-command guard).",
-    "url": "https://github.com/yzhao062/anywhere-agents",
-    "stars": 64,
-    "daily_stars": 5,
-    "language": "Python",
-    "topics": [
-      "agent-config",
-      "agent-skills",
-      "agents-md",
-      "ai-agents",
-      "ai-safety",
-      "claude-code",
-      "code-review",
-      "codex",
-      "dual-agent-review",
-      "git-safety",
-      "npm",
-      "opinionated",
-      "portable-config",
-      "pypi",
-      "safety-hooks",
-      "shared-configuration",
-      "skill-dispatch",
-      "skill-router"
-    ],
-    "created_at": "2026-04-16T17:44:59",
-    "updated_at": "2026-04-20T09:44:19"
   },
   {
     "name": "superseo-skills",
