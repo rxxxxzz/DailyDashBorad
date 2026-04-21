@@ -1,11 +1,32 @@
 [
   {
+    "name": "chek-ego-miner",
+    "full_name": "chekdata/chek-ego-miner",
+    "description": "Crowdsource EGO robot data capture, contribution, and public-safe edge-host bring-up.",
+    "url": "https://github.com/chekdata/chek-ego-miner",
+    "stars": 164,
+    "daily_stars": 38,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "computer-vision",
+      "crowdsourcing",
+      "dataset",
+      "edge-computing",
+      "humanoid",
+      "ios",
+      "robotics"
+    ],
+    "created_at": "2026-04-10T06:49:10",
+    "updated_at": "2026-04-21T12:54:32"
+  },
+  {
     "name": "hermes-webui",
     "full_name": "nesquena/hermes-webui",
     "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
     "url": "https://github.com/nesquena/hermes-webui",
-    "stars": 3058,
-    "daily_stars": 35,
+    "stars": 3089,
+    "daily_stars": 31,
     "language": "Python",
     "topics": [
       "agent",
@@ -15,38 +36,171 @@
       "nous-research"
     ],
     "created_at": "2026-03-30T21:50:12",
-    "updated_at": "2026-04-21T09:57:29"
+    "updated_at": "2026-04-21T14:15:12"
   },
   {
-    "name": "agent-startup-kit",
-    "full_name": "Blink-h/agent-startup-kit",
-    "description": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
-    "url": "https://github.com/Blink-h/agent-startup-kit",
-    "stars": 142,
-    "daily_stars": 25,
+    "name": "abtop",
+    "full_name": "graykode/abtop",
+    "description": "Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.",
+    "url": "https://github.com/graykode/abtop",
+    "stars": 611,
+    "daily_stars": 17,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "ai-coding-agent",
+      "btop",
+      "claude-code",
+      "cli",
+      "codex",
+      "developer-tools",
+      "htop",
+      "monitor",
+      "ratatui",
+      "rust",
+      "terminal",
+      "tui"
+    ],
+    "created_at": "2026-03-29T10:12:20",
+    "updated_at": "2026-04-21T13:40:11"
+  },
+  {
+    "name": "designing-real-world-ai-agents-workshop",
+    "full_name": "iusztinpaul/designing-real-world-ai-agents-workshop",
+    "description": "Hands-on workshop: Build a multi-agent AI system from scratch — Deep Research Agent + Writing Workflow served as MCP servers. Includes code, slides, and video (coming soon)",
+    "url": "https://github.com/iusztinpaul/designing-real-world-ai-agents-workshop",
+    "stars": 152,
+    "daily_stars": 12,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "deep-research",
+      "mcp",
+      "multi-agent-systems",
+      "workshop"
+    ],
+    "created_at": "2026-03-27T08:55:20",
+    "updated_at": "2026-04-21T13:54:58"
+  },
+  {
+    "name": "ParseBench",
+    "full_name": "run-llama/ParseBench",
+    "description": "ParseBench - A Document Parsing Benchmark for AI Agents",
+    "url": "https://github.com/run-llama/ParseBench",
+    "stars": 256,
+    "daily_stars": 11,
+    "language": "Python",
+    "topics": [
+      "benchmark",
+      "document-ai",
+      "document-parsing",
+      "evaluation",
+      "llamaindex",
+      "llm",
+      "machine-learning",
+      "ocr",
+      "pdf-parsing",
+      "table-extraction",
+      "vision-language-models"
+    ],
+    "created_at": "2026-04-10T20:46:33",
+    "updated_at": "2026-04-21T14:11:18"
+  },
+  {
+    "name": "phantom",
+    "full_name": "ghostwright/phantom",
+    "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK.",
+    "url": "https://github.com/ghostwright/phantom",
+    "stars": 1295,
+    "daily_stars": 10,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "ai-coworker",
+      "anthropic",
+      "autonomous-agents",
+      "bun",
+      "claude",
+      "docker",
+      "llm",
+      "mcp",
+      "self-evolution",
+      "slack",
+      "typescript"
+    ],
+    "created_at": "2026-03-26T04:45:11",
+    "updated_at": "2026-04-21T13:47:27"
+  },
+  {
+    "name": "awesome-hermes-agent",
+    "full_name": "0xNyk/awesome-hermes-agent",
+    "description": "A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research",
+    "url": "https://github.com/0xNyk/awesome-hermes-agent",
+    "stars": 1525,
+    "daily_stars": 9,
     "language": null,
     "topics": [
-      "ai",
-      "ai-coding",
-      "claude-code",
-      "developer-tools",
-      "productivity",
-      "saas",
-      "skills",
-      "templates",
-      "vscode",
-      "workflow"
+      "ai-agents",
+      "awesome",
+      "awesome-list",
+      "hermes-agent",
+      "nous-research",
+      "skills"
     ],
-    "created_at": "2026-04-17T09:03:55",
-    "updated_at": "2026-04-21T09:34:49"
+    "created_at": "2026-03-23T05:34:37",
+    "updated_at": "2026-04-21T14:14:26"
+  },
+  {
+    "name": "agent-style",
+    "full_name": "yzhao062/agent-style",
+    "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
+    "url": "https://github.com/yzhao062/agent-style",
+    "stars": 180,
+    "daily_stars": 9,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "llm",
+      "prompt-engineering",
+      "style-guide",
+      "technical-writing",
+      "writing-style"
+    ],
+    "created_at": "2026-04-19T08:12:16",
+    "updated_at": "2026-04-21T13:54:34"
+  },
+  {
+    "name": "Jackrong-llm-finetuning-guide",
+    "full_name": "R6410418/Jackrong-llm-finetuning-guide",
+    "description": null,
+    "url": "https://github.com/R6410418/Jackrong-llm-finetuning-guide",
+    "stars": 918,
+    "daily_stars": 9,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "dataset",
+      "deepseek",
+      "fine-tuning",
+      "guide",
+      "llama3",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "openai",
+      "pytorch",
+      "qwen",
+      "unsloth"
+    ],
+    "created_at": "2026-04-05T08:04:43",
+    "updated_at": "2026-04-21T13:25:49"
   },
   {
     "name": "herdr",
     "full_name": "ogulcancelik/herdr",
     "description": "herd your agents. terminal workspace manager for AI coding agents.",
     "url": "https://github.com/ogulcancelik/herdr",
-    "stars": 286,
-    "daily_stars": 21,
+    "stars": 294,
+    "daily_stars": 8,
     "language": "Rust",
     "topics": [
       "agent",
@@ -69,159 +223,6 @@
       "workspace-manager"
     ],
     "created_at": "2026-03-27T17:54:33",
-    "updated_at": "2026-04-21T09:33:50"
-  },
-  {
-    "name": "abtop",
-    "full_name": "graykode/abtop",
-    "description": "Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.",
-    "url": "https://github.com/graykode/abtop",
-    "stars": 594,
-    "daily_stars": 18,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "ai-coding-agent",
-      "btop",
-      "claude-code",
-      "cli",
-      "codex",
-      "developer-tools",
-      "htop",
-      "monitor",
-      "ratatui",
-      "rust",
-      "terminal",
-      "tui"
-    ],
-    "created_at": "2026-03-29T10:12:20",
-    "updated_at": "2026-04-21T09:44:21"
-  },
-  {
-    "name": "agent-style",
-    "full_name": "yzhao062/agent-style",
-    "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
-    "url": "https://github.com/yzhao062/agent-style",
-    "stars": 171,
-    "daily_stars": 12,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "llm",
-      "prompt-engineering",
-      "style-guide",
-      "technical-writing",
-      "writing-style"
-    ],
-    "created_at": "2026-04-19T08:12:16",
-    "updated_at": "2026-04-21T09:12:09"
-  },
-  {
-    "name": "ParseBench",
-    "full_name": "run-llama/ParseBench",
-    "description": "ParseBench - A Document Parsing Benchmark for AI Agents",
-    "url": "https://github.com/run-llama/ParseBench",
-    "stars": 245,
-    "daily_stars": 10,
-    "language": "Python",
-    "topics": [
-      "benchmark",
-      "document-ai",
-      "document-parsing",
-      "evaluation",
-      "llamaindex",
-      "llm",
-      "machine-learning",
-      "ocr",
-      "pdf-parsing",
-      "table-extraction",
-      "vision-language-models"
-    ],
-    "created_at": "2026-04-10T20:46:33",
-    "updated_at": "2026-04-21T09:39:41"
-  },
-  {
-    "name": "awesome-hermes-agent",
-    "full_name": "0xNyk/awesome-hermes-agent",
-    "description": "A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research",
-    "url": "https://github.com/0xNyk/awesome-hermes-agent",
-    "stars": 1516,
-    "daily_stars": 9,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "awesome",
-      "awesome-list",
-      "hermes-agent",
-      "nous-research",
-      "skills"
-    ],
-    "created_at": "2026-03-23T05:34:37",
-    "updated_at": "2026-04-21T09:52:03"
-  },
-  {
-    "name": "qiushi-skill",
-    "full_name": "HughYau/qiushi-skill",
-    "description": "\"求是 Skill\"是一个 AI Agent Skills 合集，从教员思想中提炼出一条总原则和九大方法论工具，系统性地武装 AI 的大脑。",
-    "url": "https://github.com/HughYau/qiushi-skill",
-    "stars": 2807,
-    "daily_stars": 8,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
-      "methodology",
-      "skills",
-      "workflow"
-    ],
-    "created_at": "2026-03-25T10:24:01",
-    "updated_at": "2026-04-21T09:32:28"
-  },
-  {
-    "name": "passmark",
-    "full_name": "bug0inc/passmark",
-    "description": "The open-source Playwright library for AI browser regression testing with intelligent caching, auto-healing, and multi-model verification.",
-    "url": "https://github.com/bug0inc/passmark",
-    "stars": 452,
-    "daily_stars": 8,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-testing",
-      "aigateway",
-      "aisdk",
-      "browser-testing",
-      "e2e-testing",
-      "playwright",
-      "qa",
-      "qa-automation",
-      "qaautomation",
-      "regression-testing",
-      "testing",
-      "typescript",
-      "vercel"
-    ],
-    "created_at": "2026-03-29T18:22:06",
-    "updated_at": "2026-04-21T09:15:15"
-  },
-  {
-    "name": "opencode-magic-context",
-    "full_name": "cortexkit/opencode-magic-context",
-    "description": "OpenCode plugin for Magic Context — cache-aware infinite context, cross-session memory, and background history compression for AI coding agents",
-    "url": "https://github.com/cortexkit/opencode-magic-context",
-    "stars": 210,
-    "daily_stars": 8,
-    "language": "TypeScript",
-    "topics": [
-      "agent-context",
-      "agent-framework",
-      "agent-memory",
-      "ai",
-      "ai-agents",
-      "ai-context",
-      "opencode"
-    ],
-    "created_at": "2026-03-26T12:27:01",
-    "updated_at": "2026-04-21T09:06:31"
+    "updated_at": "2026-04-21T14:14:46"
   }
 ]
