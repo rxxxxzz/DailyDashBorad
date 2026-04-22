@@ -4,8 +4,8 @@
     "full_name": "nesquena/hermes-webui",
     "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
     "url": "https://github.com/nesquena/hermes-webui",
-    "stars": 3307,
-    "daily_stars": 34,
+    "stars": 3383,
+    "daily_stars": 76,
     "language": "Python",
     "topics": [
       "agent",
@@ -15,38 +15,31 @@
       "nous-research"
     ],
     "created_at": "2026-03-30T21:50:12",
-    "updated_at": "2026-04-22T17:22:53"
+    "updated_at": "2026-04-22T21:19:06"
   },
   {
-    "name": "agent-startup-kit",
-    "full_name": "Blink-h/agent-startup-kit",
-    "description": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
-    "url": "https://github.com/Blink-h/agent-startup-kit",
-    "stars": 221,
-    "daily_stars": 23,
-    "language": null,
+    "name": "agent-vault",
+    "full_name": "Infisical/agent-vault",
+    "description": "A HTTP credential proxy and vault for AI agents",
+    "url": "https://github.com/Infisical/agent-vault",
+    "stars": 91,
+    "daily_stars": 33,
+    "language": "Go",
     "topics": [
-      "ai",
-      "ai-coding",
-      "claude-code",
-      "developer-tools",
-      "productivity",
-      "saas",
-      "skills",
-      "templates",
-      "vscode",
-      "workflow"
+      "agents",
+      "ai-agents",
+      "secrets-management"
     ],
-    "created_at": "2026-04-17T09:03:55",
-    "updated_at": "2026-04-22T17:16:13"
+    "created_at": "2026-03-27T21:47:17",
+    "updated_at": "2026-04-22T21:21:22"
   },
   {
     "name": "abtop",
     "full_name": "graykode/abtop",
     "description": "Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.",
     "url": "https://github.com/graykode/abtop",
-    "stars": 676,
-    "daily_stars": 18,
+    "stars": 684,
+    "daily_stars": 8,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -64,15 +57,89 @@
       "tui"
     ],
     "created_at": "2026-03-29T10:12:20",
-    "updated_at": "2026-04-22T17:27:36"
+    "updated_at": "2026-04-22T21:01:45"
+  },
+  {
+    "name": "ParseBench",
+    "full_name": "run-llama/ParseBench",
+    "description": "ParseBench - A Document Parsing Benchmark for AI Agents",
+    "url": "https://github.com/run-llama/ParseBench",
+    "stars": 305,
+    "daily_stars": 8,
+    "language": "Python",
+    "topics": [
+      "benchmark",
+      "document-ai",
+      "document-parsing",
+      "evaluation",
+      "llamaindex",
+      "llm",
+      "machine-learning",
+      "ocr",
+      "pdf-parsing",
+      "table-extraction",
+      "vision-language-models"
+    ],
+    "created_at": "2026-04-10T20:46:33",
+    "updated_at": "2026-04-22T21:11:39"
+  },
+  {
+    "name": "labrat",
+    "full_name": "ProjectDXAI/labrat",
+    "description": "Autonomous multi-branch research lab. Branches compete for compute budget. The system converges on what works.",
+    "url": "https://github.com/ProjectDXAI/labrat",
+    "stars": 94,
+    "daily_stars": 7,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "autonomous-research",
+      "claude-code",
+      "experiment-management",
+      "market-allocation",
+      "multi-agent",
+      "research-automation"
+    ],
+    "created_at": "2026-03-30T20:31:36",
+    "updated_at": "2026-04-22T20:34:10"
+  },
+  {
+    "name": "WorldX",
+    "full_name": "YGYOOO/WorldX",
+    "description": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own.",
+    "url": "https://github.com/YGYOOO/WorldX",
+    "stars": 52,
+    "daily_stars": 7,
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "ai-characters",
+      "ai-simulation",
+      "ai-world",
+      "emergent-behavior",
+      "game-ai",
+      "generative-agents",
+      "generative-ai",
+      "llm",
+      "llm-agents",
+      "multi-agent-simulation",
+      "open-source",
+      "phaser",
+      "pixel-art",
+      "typescript"
+    ],
+    "created_at": "2026-04-18T06:24:32",
+    "updated_at": "2026-04-22T20:52:45"
   },
   {
     "name": "awesome-opensource-ai",
     "full_name": "alvinunreal/awesome-opensource-ai",
     "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
     "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-    "stars": 2917,
-    "daily_stars": 17,
+    "stars": 2923,
+    "daily_stars": 6,
     "language": null,
     "topics": [
       "agents",
@@ -89,31 +156,15 @@
       "rag"
     ],
     "created_at": "2026-03-24T15:58:22",
-    "updated_at": "2026-04-22T17:30:15"
-  },
-  {
-    "name": "Evosmash",
-    "full_name": "yanpeigong/Evosmash",
-    "description": "[National College Student Software Innovation Competition]  🏸AI-powered badminton analysis, coaching, and tactical evolution agent",
-    "url": "https://github.com/yanpeigong/Evosmash",
-    "stars": 102,
-    "daily_stars": 17,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "deep-learning",
-      "software"
-    ],
-    "created_at": "2026-04-13T08:37:36",
-    "updated_at": "2026-04-22T16:34:34"
+    "updated_at": "2026-04-22T21:17:09"
   },
   {
     "name": "intro-agentic-ai",
     "full_name": "riverscn/intro-agentic-ai",
     "description": "认识 Agentic AI：从神经网络到智能体",
     "url": "https://github.com/riverscn/intro-agentic-ai",
-    "stars": 60,
-    "daily_stars": 16,
+    "stars": 66,
+    "daily_stars": 6,
     "language": "CSS",
     "topics": [
       "ai",
@@ -123,107 +174,52 @@
       "slidev"
     ],
     "created_at": "2026-04-21T08:03:14",
-    "updated_at": "2026-04-22T16:36:27"
+    "updated_at": "2026-04-22T21:09:24"
   },
   {
-    "name": "hazmat",
-    "full_name": "dredozubov/hazmat",
-    "description": "macOS containment for AI agents — user isolation, kernel sandbox, pf firewall, DNS blocklist, backup/rollback. TLA+ verified.",
-    "url": "https://github.com/dredozubov/hazmat",
-    "stars": 97,
-    "daily_stars": 11,
+    "name": "Jackrong-llm-finetuning-guide",
+    "full_name": "R6410418/Jackrong-llm-finetuning-guide",
+    "description": null,
+    "url": "https://github.com/R6410418/Jackrong-llm-finetuning-guide",
+    "stars": 954,
+    "daily_stars": 6,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "dataset",
+      "deepseek",
+      "fine-tuning",
+      "guide",
+      "llama3",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "openai",
+      "pytorch",
+      "qwen",
+      "unsloth"
+    ],
+    "created_at": "2026-04-05T08:04:43",
+    "updated_at": "2026-04-22T20:42:58"
+  },
+  {
+    "name": "graymatter",
+    "full_name": "angelnicolasc/graymatter",
+    "description": "Three lines of code to give your AI agents persistent memory. Reduce 90% token consumption while also maintaining quality.",
+    "url": "https://github.com/angelnicolasc/graymatter",
+    "stars": 258,
+    "daily_stars": 5,
     "language": "Go",
     "topics": [
-      "ai-agents",
-      "claude-code",
-      "cli",
-      "containment",
-      "developer-tools",
-      "formal-verification",
-      "go",
-      "macos",
-      "pf-firewall",
-      "sandbox",
-      "seatbelt",
-      "security",
-      "tla-plus"
-    ],
-    "created_at": "2026-03-27T13:31:02",
-    "updated_at": "2026-04-22T16:20:14"
-  },
-  {
-    "name": "Personalized-Federated-Learning-for-Privacy--Preserving-and-Scalable-IoT-Driven-Smart-Healthcare",
-    "full_name": "Tisha-runwal/Personalized-Federated-Learning-for-Privacy--Preserving-and-Scalable-IoT-Driven-Smart-Healthcare",
-    "description": "A Personalized Federated Learning (PFL-HCare) framework for IoT healthcare. Features MAML meta-learning, Differential Privacy (RDP), and gradient quantization for efficiency. Includes a React/FastAPI dashboard for real-time monitoring.",
-    "url": "https://github.com/Tisha-runwal/Personalized-Federated-Learning-for-Privacy--Preserving-and-Scalable-IoT-Driven-Smart-Healthcare",
-    "stars": 106,
-    "daily_stars": 10,
-    "language": "Python",
-    "topics": [
-      "differential-privacy",
-      "fastapi",
-      "federated-learning",
-      "iot-healthcare",
-      "machine-learning",
-      "maml",
-      "meta-learning",
-      "privacy-preserving",
-      "pytorch",
-      "react",
-      "smart-healthcare"
-    ],
-    "created_at": "2026-04-05T10:12:32",
-    "updated_at": "2026-04-22T17:20:04"
-  },
-  {
-    "name": "opencode-magic-context",
-    "full_name": "cortexkit/opencode-magic-context",
-    "description": "OpenCode plugin for Magic Context — cache-aware infinite context, cross-session memory, and background history compression for AI coding agents",
-    "url": "https://github.com/cortexkit/opencode-magic-context",
-    "stars": 282,
-    "daily_stars": 9,
-    "language": "TypeScript",
-    "topics": [
-      "agent-context",
-      "agent-framework",
       "agent-memory",
-      "ai",
       "ai-agents",
-      "ai-context",
-      "opencode"
-    ],
-    "created_at": "2026-03-26T12:27:01",
-    "updated_at": "2026-04-22T17:32:15"
-  },
-  {
-    "name": "herdr",
-    "full_name": "ogulcancelik/herdr",
-    "description": "herd your agents. terminal workspace manager for AI coding agents.",
-    "url": "https://github.com/ogulcancelik/herdr",
-    "stars": 352,
-    "daily_stars": 7,
-    "language": "Rust",
-    "topics": [
-      "agent",
-      "agent-orchestration",
-      "ai",
-      "ai-agents",
+      "ai-tools",
       "claude-code",
       "cli",
-      "codex",
-      "coding-agents",
-      "developer-tools",
-      "devtools",
-      "multiplexer",
-      "rust",
-      "terminal",
-      "terminal-multiplexer",
-      "terminal-ui",
-      "tmux",
-      "tui",
-      "workspace-manager"
+      "embedded-memory-go",
+      "go",
+      "persistent-memory"
     ],
-    "created_at": "2026-03-27T17:54:33",
-    "updated_at": "2026-04-22T16:33:24"
+    "created_at": "2026-04-08T20:04:36",
+    "updated_at": "2026-04-22T20:48:27"
   }
 ]
