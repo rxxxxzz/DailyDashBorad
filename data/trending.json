@@ -1,11 +1,29 @@
 [
   {
+    "name": "hermes-webui",
+    "full_name": "nesquena/hermes-webui",
+    "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+    "url": "https://github.com/nesquena/hermes-webui",
+    "stars": 3181,
+    "daily_stars": 57,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "ai-agents",
+      "hermes",
+      "hermes-agent",
+      "nous-research"
+    ],
+    "created_at": "2026-03-30T21:50:12",
+    "updated_at": "2026-04-22T03:45:16"
+  },
+  {
     "name": "awesome-opensource-ai",
     "full_name": "alvinunreal/awesome-opensource-ai",
     "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
     "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-    "stars": 2845,
-    "daily_stars": 17,
+    "stars": 2878,
+    "daily_stars": 33,
     "language": null,
     "topics": [
       "agents",
@@ -22,123 +40,15 @@
       "rag"
     ],
     "created_at": "2026-03-24T15:58:22",
-    "updated_at": "2026-04-21T21:04:00"
-  },
-  {
-    "name": "awesome-hermes-agent",
-    "full_name": "0xNyk/awesome-hermes-agent",
-    "description": "A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research",
-    "url": "https://github.com/0xNyk/awesome-hermes-agent",
-    "stars": 1554,
-    "daily_stars": 14,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "awesome",
-      "awesome-list",
-      "hermes-agent",
-      "nous-research",
-      "skills"
-    ],
-    "created_at": "2026-03-23T05:34:37",
-    "updated_at": "2026-04-21T20:33:49"
-  },
-  {
-    "name": "hermes-webui",
-    "full_name": "nesquena/hermes-webui",
-    "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-    "url": "https://github.com/nesquena/hermes-webui",
-    "stars": 3124,
-    "daily_stars": 11,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "ai-agents",
-      "hermes",
-      "hermes-agent",
-      "nous-research"
-    ],
-    "created_at": "2026-03-30T21:50:12",
-    "updated_at": "2026-04-21T21:01:03"
-  },
-  {
-    "name": "graymatter",
-    "full_name": "angelnicolasc/graymatter",
-    "description": "Three lines of code to give your AI agents persistent memory. Reduce 90% token consumption while also maintaining quality.",
-    "url": "https://github.com/angelnicolasc/graymatter",
-    "stars": 233,
-    "daily_stars": 11,
-    "language": "Go",
-    "topics": [
-      "agent-memory",
-      "ai-agents",
-      "ai-tools",
-      "claude-code",
-      "cli",
-      "embedded-memory-go",
-      "go",
-      "persistent-memory"
-    ],
-    "created_at": "2026-04-08T20:04:36",
-    "updated_at": "2026-04-21T21:05:04"
-  },
-  {
-    "name": "agent-style",
-    "full_name": "yzhao062/agent-style",
-    "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
-    "url": "https://github.com/yzhao062/agent-style",
-    "stars": 197,
-    "daily_stars": 11,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "llm",
-      "prompt-engineering",
-      "style-guide",
-      "technical-writing",
-      "writing-style"
-    ],
-    "created_at": "2026-04-19T08:12:16",
-    "updated_at": "2026-04-21T20:59:23"
-  },
-  {
-    "name": "herdr",
-    "full_name": "ogulcancelik/herdr",
-    "description": "herd your agents. terminal workspace manager for AI coding agents.",
-    "url": "https://github.com/ogulcancelik/herdr",
-    "stars": 308,
-    "daily_stars": 9,
-    "language": "Rust",
-    "topics": [
-      "agent",
-      "agent-orchestration",
-      "ai",
-      "ai-agents",
-      "claude-code",
-      "cli",
-      "codex",
-      "coding-agents",
-      "developer-tools",
-      "devtools",
-      "multiplexer",
-      "rust",
-      "terminal",
-      "terminal-multiplexer",
-      "terminal-ui",
-      "tmux",
-      "tui",
-      "workspace-manager"
-    ],
-    "created_at": "2026-03-27T17:54:33",
-    "updated_at": "2026-04-21T21:07:09"
+    "updated_at": "2026-04-22T03:42:18"
   },
   {
     "name": "phantom",
     "full_name": "ghostwright/phantom",
     "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK.",
     "url": "https://github.com/ghostwright/phantom",
-    "stars": 1308,
-    "daily_stars": 7,
+    "stars": 1330,
+    "daily_stars": 22,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -155,39 +65,57 @@
       "typescript"
     ],
     "created_at": "2026-03-26T04:45:11",
-    "updated_at": "2026-04-21T21:07:29"
+    "updated_at": "2026-04-22T03:34:56"
   },
   {
-    "name": "llmwiki",
-    "full_name": "lucasastorian/llmwiki",
-    "description": "Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki ! ",
-    "url": "https://github.com/lucasastorian/llmwiki",
-    "stars": 595,
-    "daily_stars": 7,
-    "language": "TypeScript",
+    "name": "agent-startup-kit",
+    "full_name": "Blink-h/agent-startup-kit",
+    "description": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
+    "url": "https://github.com/Blink-h/agent-startup-kit",
+    "stars": 177,
+    "daily_stars": 18,
+    "language": null,
     "topics": [
-      "agents",
-      "ai-agents",
-      "claude",
-      "karpathy",
-      "knowledge-base",
-      "llm",
-      "llm-wiki",
-      "mcp",
-      "mcp-server",
-      "rag",
-      "supabase"
+      "ai",
+      "ai-coding",
+      "claude-code",
+      "developer-tools",
+      "productivity",
+      "saas",
+      "skills",
+      "templates",
+      "vscode",
+      "workflow"
     ],
-    "created_at": "2026-04-04T17:10:02",
-    "updated_at": "2026-04-21T21:02:01"
+    "created_at": "2026-04-17T09:03:55",
+    "updated_at": "2026-04-22T03:27:57"
+  },
+  {
+    "name": "agent-style",
+    "full_name": "yzhao062/agent-style",
+    "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
+    "url": "https://github.com/yzhao062/agent-style",
+    "stars": 214,
+    "daily_stars": 17,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "llm",
+      "prompt-engineering",
+      "style-guide",
+      "technical-writing",
+      "writing-style"
+    ],
+    "created_at": "2026-04-19T08:12:16",
+    "updated_at": "2026-04-22T03:38:14"
   },
   {
     "name": "passmark",
     "full_name": "bug0inc/passmark",
     "description": "The open-source Playwright library for AI browser regression testing with intelligent caching, auto-healing, and multi-model verification.",
     "url": "https://github.com/bug0inc/passmark",
-    "stars": 469,
-    "daily_stars": 7,
+    "stars": 484,
+    "daily_stars": 15,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -207,36 +135,91 @@
       "vercel"
     ],
     "created_at": "2026-03-29T18:22:06",
-    "updated_at": "2026-04-21T20:36:11"
+    "updated_at": "2026-04-22T03:16:50"
   },
   {
-    "name": "ctx",
-    "full_name": "stevesolun/ctx",
-    "description": "Real-time skill and agent recommendation engine for Claude Code - watches what you develop, walks a knowledge graph of 1,725 skills and 443 agents, and suggests the right ones on the fly. Powered by a Karpathy LLM wiki with persistent memory.",
-    "url": "https://github.com/stevesolun/ctx",
-    "stars": 190,
-    "daily_stars": 7,
-    "language": "Python",
+    "name": "opencode-magic-context",
+    "full_name": "cortexkit/opencode-magic-context",
+    "description": "OpenCode plugin for Magic Context — cache-aware infinite context, cross-session memory, and background history compression for AI coding agents",
+    "url": "https://github.com/cortexkit/opencode-magic-context",
+    "stars": 237,
+    "daily_stars": 11,
+    "language": "TypeScript",
     "topics": [
-      "agents",
+      "agent-context",
+      "agent-framework",
+      "agent-memory",
+      "ai",
       "ai-agents",
-      "anthropic",
-      "automation",
-      "claude",
-      "claude-code",
-      "context-management",
-      "developer-tools",
-      "knowledge-graph",
-      "llm",
-      "micro-skills",
-      "obsidian",
-      "real-time",
-      "recommendation-engine",
-      "skill-management",
-      "skills",
-      "wiki"
+      "ai-context",
+      "opencode"
     ],
-    "created_at": "2026-04-08T22:39:54",
-    "updated_at": "2026-04-21T21:02:03"
+    "created_at": "2026-03-26T12:27:01",
+    "updated_at": "2026-04-22T02:45:52"
+  },
+  {
+    "name": "open-multi-agent",
+    "full_name": "JackChen-me/open-multi-agent",
+    "description": "Production-grade multi-agent orchestration framework. Model-agnostic, supports team collaboration, task scheduling, and inter-agent communication.",
+    "url": "https://github.com/JackChen-me/open-multi-agent",
+    "stars": 5804,
+    "daily_stars": 10,
+    "language": "TypeScript",
+    "topics": [
+      "agent-framework",
+      "ai-agents",
+      "claude",
+      "llm",
+      "model-agnostic",
+      "multi-agent",
+      "openai",
+      "orchestration",
+      "task-scheduling",
+      "typescript"
+    ],
+    "created_at": "2026-03-31T19:07:34",
+    "updated_at": "2026-04-22T02:54:13"
+  },
+  {
+    "name": "graymatter",
+    "full_name": "angelnicolasc/graymatter",
+    "description": "Three lines of code to give your AI agents persistent memory. Reduce 90% token consumption while also maintaining quality.",
+    "url": "https://github.com/angelnicolasc/graymatter",
+    "stars": 243,
+    "daily_stars": 10,
+    "language": "Go",
+    "topics": [
+      "agent-memory",
+      "ai-agents",
+      "ai-tools",
+      "claude-code",
+      "cli",
+      "embedded-memory-go",
+      "go",
+      "persistent-memory"
+    ],
+    "created_at": "2026-04-08T20:04:36",
+    "updated_at": "2026-04-22T02:03:43"
+  },
+  {
+    "name": "chek-ego-miner",
+    "full_name": "chekdata/chek-ego-miner",
+    "description": "Crowdsource EGO robot data capture, contribution, and public-safe edge-host bring-up.",
+    "url": "https://github.com/chekdata/chek-ego-miner",
+    "stars": 174,
+    "daily_stars": 10,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "computer-vision",
+      "crowdsourcing",
+      "dataset",
+      "edge-computing",
+      "humanoid",
+      "ios",
+      "robotics"
+    ],
+    "created_at": "2026-04-10T06:49:10",
+    "updated_at": "2026-04-21T23:56:46"
   }
 ]
