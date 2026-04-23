@@ -4,8 +4,8 @@
     "full_name": "graykode/abtop",
     "description": "Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.",
     "url": "https://github.com/graykode/abtop",
-    "stars": 820,
-    "daily_stars": 51,
+    "stars": 847,
+    "daily_stars": 27,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -23,15 +23,15 @@
       "tui"
     ],
     "created_at": "2026-03-29T10:12:20",
-    "updated_at": "2026-04-23T17:50:46"
+    "updated_at": "2026-04-23T20:56:05"
   },
   {
     "name": "hermes-webui",
     "full_name": "nesquena/hermes-webui",
     "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
     "url": "https://github.com/nesquena/hermes-webui",
-    "stars": 3784,
-    "daily_stars": 45,
+    "stars": 3802,
+    "daily_stars": 18,
     "language": "Python",
     "topics": [
       "agent",
@@ -41,31 +41,15 @@
       "nous-research"
     ],
     "created_at": "2026-03-30T21:50:12",
-    "updated_at": "2026-04-23T17:48:06"
-  },
-  {
-    "name": "agent-vault",
-    "full_name": "Infisical/agent-vault",
-    "description": "A HTTP credential proxy and vault for AI agents",
-    "url": "https://github.com/Infisical/agent-vault",
-    "stars": 258,
-    "daily_stars": 27,
-    "language": "Go",
-    "topics": [
-      "agents",
-      "ai-agents",
-      "secrets-management"
-    ],
-    "created_at": "2026-03-27T21:47:17",
-    "updated_at": "2026-04-23T17:47:20"
+    "updated_at": "2026-04-23T21:06:16"
   },
   {
     "name": "labrat",
     "full_name": "ProjectDXAI/labrat",
     "description": "Autonomous multi-branch research lab. Branches compete for compute budget. The system converges on what works.",
     "url": "https://github.com/ProjectDXAI/labrat",
-    "stars": 144,
-    "daily_stars": 22,
+    "stars": 162,
+    "daily_stars": 18,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -77,15 +61,140 @@
       "research-automation"
     ],
     "created_at": "2026-03-30T20:31:36",
-    "updated_at": "2026-04-23T17:49:29"
+    "updated_at": "2026-04-23T20:12:29"
+  },
+  {
+    "name": "agent-vault",
+    "full_name": "Infisical/agent-vault",
+    "description": "A HTTP credential proxy and vault for AI agents",
+    "url": "https://github.com/Infisical/agent-vault",
+    "stars": 271,
+    "daily_stars": 13,
+    "language": "Go",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "secrets-management"
+    ],
+    "created_at": "2026-03-27T21:47:17",
+    "updated_at": "2026-04-23T21:09:43"
+  },
+  {
+    "name": "ParseBench",
+    "full_name": "run-llama/ParseBench",
+    "description": "ParseBench - A Document Parsing Benchmark for AI Agents",
+    "url": "https://github.com/run-llama/ParseBench",
+    "stars": 343,
+    "daily_stars": 7,
+    "language": "Python",
+    "topics": [
+      "benchmark",
+      "document-ai",
+      "document-parsing",
+      "evaluation",
+      "llamaindex",
+      "llm",
+      "machine-learning",
+      "ocr",
+      "pdf-parsing",
+      "table-extraction",
+      "vision-language-models"
+    ],
+    "created_at": "2026-04-10T20:46:33",
+    "updated_at": "2026-04-23T21:07:13"
+  },
+  {
+    "name": "hermes-ecosystem",
+    "full_name": "ksimback/hermes-ecosystem",
+    "description": "🗺️ Hermes Atlas — the community map of every tool, skill, and integration for Hermes Agent by Nous Research. Live at hermesatlas.com",
+    "url": "https://github.com/ksimback/hermes-ecosystem",
+    "stars": 586,
+    "daily_stars": 5,
+    "language": "HTML",
+    "topics": [
+      "ai-agents",
+      "ecosystem-map",
+      "hermes-agent",
+      "hermes-atlas",
+      "nous-research"
+    ],
+    "created_at": "2026-04-08T17:07:13",
+    "updated_at": "2026-04-23T20:48:54"
+  },
+  {
+    "name": "Jackrong-llm-finetuning-guide",
+    "full_name": "R6410418/Jackrong-llm-finetuning-guide",
+    "description": null,
+    "url": "https://github.com/R6410418/Jackrong-llm-finetuning-guide",
+    "stars": 979,
+    "daily_stars": 5,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "dataset",
+      "deepseek",
+      "fine-tuning",
+      "guide",
+      "llama3",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "openai",
+      "pytorch",
+      "qwen",
+      "unsloth"
+    ],
+    "created_at": "2026-04-05T08:04:43",
+    "updated_at": "2026-04-23T19:14:07"
+  },
+  {
+    "name": "open-multi-agent",
+    "full_name": "JackChen-me/open-multi-agent",
+    "description": "Production-grade multi-agent orchestration framework. Model-agnostic, supports team collaboration, task scheduling, and inter-agent communication.",
+    "url": "https://github.com/JackChen-me/open-multi-agent",
+    "stars": 5854,
+    "daily_stars": 4,
+    "language": "TypeScript",
+    "topics": [
+      "agent-framework",
+      "ai-agents",
+      "claude",
+      "llm",
+      "model-agnostic",
+      "multi-agent",
+      "openai",
+      "orchestration",
+      "task-scheduling",
+      "typescript"
+    ],
+    "created_at": "2026-03-31T19:07:34",
+    "updated_at": "2026-04-23T20:18:51"
+  },
+  {
+    "name": "agent-style",
+    "full_name": "yzhao062/agent-style",
+    "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
+    "url": "https://github.com/yzhao062/agent-style",
+    "stars": 285,
+    "daily_stars": 4,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "llm",
+      "prompt-engineering",
+      "style-guide",
+      "technical-writing",
+      "writing-style"
+    ],
+    "created_at": "2026-04-19T08:12:16",
+    "updated_at": "2026-04-23T21:08:42"
   },
   {
     "name": "text-to-cad",
     "full_name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 126,
-    "daily_stars": 19,
+    "stars": 130,
+    "daily_stars": 4,
     "language": "JavaScript",
     "topics": [
       "agents",
@@ -96,135 +205,6 @@
       "wasm"
     ],
     "created_at": "2026-04-22T01:09:45",
-    "updated_at": "2026-04-23T17:38:56"
-  },
-  {
-    "name": "WorldX",
-    "full_name": "YGYOOO/WorldX",
-    "description": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own.",
-    "url": "https://github.com/YGYOOO/WorldX",
-    "stars": 135,
-    "daily_stars": 15,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agents",
-      "ai-characters",
-      "ai-simulation",
-      "ai-world",
-      "emergent-behavior",
-      "game-ai",
-      "generative-agents",
-      "generative-ai",
-      "llm",
-      "llm-agents",
-      "multi-agent-simulation",
-      "open-source",
-      "phaser",
-      "pixel-art",
-      "typescript"
-    ],
-    "created_at": "2026-04-18T06:24:32",
-    "updated_at": "2026-04-23T17:24:12"
-  },
-  {
-    "name": "spool",
-    "full_name": "spool-lab/spool",
-    "description": "Search your Claude Code sessions, Codex history, GitHub stars, and 50+ sources — locally, instantly. Your AI agents can search too.",
-    "url": "https://github.com/spool-lab/spool",
-    "stars": 352,
-    "daily_stars": 14,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "codex",
-      "developer-tools",
-      "electron",
-      "full-text-search",
-      "local-first",
-      "macos",
-      "mcp",
-      "open-source",
-      "personal-knowledge",
-      "privacy",
-      "productivity",
-      "search-engine"
-    ],
-    "created_at": "2026-03-27T06:24:44",
-    "updated_at": "2026-04-23T17:18:15"
-  },
-  {
-    "name": "chek-ego-miner",
-    "full_name": "chekdata/chek-ego-miner",
-    "description": "Crowdsource EGO robot data capture, contribution, and public-safe edge-host bring-up.",
-    "url": "https://github.com/chekdata/chek-ego-miner",
-    "stars": 184,
-    "daily_stars": 10,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "computer-vision",
-      "crowdsourcing",
-      "dataset",
-      "edge-computing",
-      "humanoid",
-      "ios",
-      "robotics"
-    ],
-    "created_at": "2026-04-10T06:49:10",
-    "updated_at": "2026-04-23T14:32:56"
-  },
-  {
-    "name": "mcp-brasil",
-    "full_name": "jxnxts/mcp-brasil",
-    "description": "MCP Server para 41 APIs públicas brasileiras",
-    "url": "https://github.com/jxnxts/mcp-brasil",
-    "stars": 1468,
-    "daily_stars": 9,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "apis-publicas",
-      "brazil",
-      "claude",
-      "fastmcp",
-      "governo",
-      "llm",
-      "mcp",
-      "mcp-server",
-      "python"
-    ],
-    "created_at": "2026-03-26T00:38:54",
-    "updated_at": "2026-04-23T17:19:31"
-  },
-  {
-    "name": "passmark",
-    "full_name": "bug0inc/passmark",
-    "description": "The open-source Playwright library for AI browser regression testing with intelligent caching, auto-healing, and multi-model verification.",
-    "url": "https://github.com/bug0inc/passmark",
-    "stars": 552,
-    "daily_stars": 8,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-testing",
-      "aigateway",
-      "aisdk",
-      "browser-testing",
-      "e2e-testing",
-      "playwright",
-      "qa",
-      "qa-automation",
-      "qaautomation",
-      "regression-testing",
-      "testing",
-      "typescript",
-      "vercel"
-    ],
-    "created_at": "2026-03-29T18:22:06",
-    "updated_at": "2026-04-23T17:48:10"
+    "updated_at": "2026-04-23T20:49:42"
   }
 ]
