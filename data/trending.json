@@ -4,8 +4,8 @@
     "full_name": "nesquena/hermes-webui",
     "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
     "url": "https://github.com/nesquena/hermes-webui",
-    "stars": 3383,
-    "daily_stars": 76,
+    "stars": 3541,
+    "daily_stars": 158,
     "language": "Python",
     "topics": [
       "agent",
@@ -15,31 +15,15 @@
       "nous-research"
     ],
     "created_at": "2026-03-30T21:50:12",
-    "updated_at": "2026-04-22T21:19:06"
-  },
-  {
-    "name": "agent-vault",
-    "full_name": "Infisical/agent-vault",
-    "description": "A HTTP credential proxy and vault for AI agents",
-    "url": "https://github.com/Infisical/agent-vault",
-    "stars": 91,
-    "daily_stars": 33,
-    "language": "Go",
-    "topics": [
-      "agents",
-      "ai-agents",
-      "secrets-management"
-    ],
-    "created_at": "2026-03-27T21:47:17",
-    "updated_at": "2026-04-22T21:21:22"
+    "updated_at": "2026-04-23T03:53:22"
   },
   {
     "name": "abtop",
     "full_name": "graykode/abtop",
     "description": "Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.",
     "url": "https://github.com/graykode/abtop",
-    "stars": 684,
-    "daily_stars": 8,
+    "stars": 717,
+    "daily_stars": 33,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -57,39 +41,31 @@
       "tui"
     ],
     "created_at": "2026-03-29T10:12:20",
-    "updated_at": "2026-04-22T21:01:45"
+    "updated_at": "2026-04-23T02:53:17"
   },
   {
-    "name": "ParseBench",
-    "full_name": "run-llama/ParseBench",
-    "description": "ParseBench - A Document Parsing Benchmark for AI Agents",
-    "url": "https://github.com/run-llama/ParseBench",
-    "stars": 305,
-    "daily_stars": 8,
-    "language": "Python",
+    "name": "agent-vault",
+    "full_name": "Infisical/agent-vault",
+    "description": "A HTTP credential proxy and vault for AI agents",
+    "url": "https://github.com/Infisical/agent-vault",
+    "stars": 122,
+    "daily_stars": 31,
+    "language": "Go",
     "topics": [
-      "benchmark",
-      "document-ai",
-      "document-parsing",
-      "evaluation",
-      "llamaindex",
-      "llm",
-      "machine-learning",
-      "ocr",
-      "pdf-parsing",
-      "table-extraction",
-      "vision-language-models"
+      "agents",
+      "ai-agents",
+      "secrets-management"
     ],
-    "created_at": "2026-04-10T20:46:33",
-    "updated_at": "2026-04-22T21:11:39"
+    "created_at": "2026-03-27T21:47:17",
+    "updated_at": "2026-04-23T03:47:53"
   },
   {
     "name": "labrat",
     "full_name": "ProjectDXAI/labrat",
     "description": "Autonomous multi-branch research lab. Branches compete for compute budget. The system converges on what works.",
     "url": "https://github.com/ProjectDXAI/labrat",
-    "stars": 94,
-    "daily_stars": 7,
+    "stars": 108,
+    "daily_stars": 14,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -101,15 +77,80 @@
       "research-automation"
     ],
     "created_at": "2026-03-30T20:31:36",
-    "updated_at": "2026-04-22T20:34:10"
+    "updated_at": "2026-04-23T03:29:16"
+  },
+  {
+    "name": "passmark",
+    "full_name": "bug0inc/passmark",
+    "description": "The open-source Playwright library for AI browser regression testing with intelligent caching, auto-healing, and multi-model verification.",
+    "url": "https://github.com/bug0inc/passmark",
+    "stars": 523,
+    "daily_stars": 13,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-testing",
+      "aigateway",
+      "aisdk",
+      "browser-testing",
+      "e2e-testing",
+      "playwright",
+      "qa",
+      "qa-automation",
+      "qaautomation",
+      "regression-testing",
+      "testing",
+      "typescript",
+      "vercel"
+    ],
+    "created_at": "2026-03-29T18:22:06",
+    "updated_at": "2026-04-23T03:34:17"
+  },
+  {
+    "name": "intro-agentic-ai",
+    "full_name": "riverscn/intro-agentic-ai",
+    "description": "认识 Agentic AI：从神经网络到智能体",
+    "url": "https://github.com/riverscn/intro-agentic-ai",
+    "stars": 79,
+    "daily_stars": 13,
+    "language": "CSS",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "knowledge",
+      "slideshow",
+      "slidev"
+    ],
+    "created_at": "2026-04-21T08:03:14",
+    "updated_at": "2026-04-23T03:08:35"
+  },
+  {
+    "name": "agent-style",
+    "full_name": "yzhao062/agent-style",
+    "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
+    "url": "https://github.com/yzhao062/agent-style",
+    "stars": 260,
+    "daily_stars": 10,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "llm",
+      "prompt-engineering",
+      "style-guide",
+      "technical-writing",
+      "writing-style"
+    ],
+    "created_at": "2026-04-19T08:12:16",
+    "updated_at": "2026-04-23T03:43:01"
   },
   {
     "name": "WorldX",
     "full_name": "YGYOOO/WorldX",
     "description": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own.",
     "url": "https://github.com/YGYOOO/WorldX",
-    "stars": 52,
-    "daily_stars": 7,
+    "stars": 62,
+    "daily_stars": 10,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -131,58 +172,39 @@
       "typescript"
     ],
     "created_at": "2026-04-18T06:24:32",
-    "updated_at": "2026-04-22T20:52:45"
+    "updated_at": "2026-04-23T03:50:02"
   },
   {
-    "name": "awesome-opensource-ai",
-    "full_name": "alvinunreal/awesome-opensource-ai",
-    "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
-    "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-    "stars": 2923,
-    "daily_stars": 6,
-    "language": null,
+    "name": "ParseBench",
+    "full_name": "run-llama/ParseBench",
+    "description": "ParseBench - A Document Parsing Benchmark for AI Agents",
+    "url": "https://github.com/run-llama/ParseBench",
+    "stars": 314,
+    "daily_stars": 9,
+    "language": "Python",
     "topics": [
-      "agents",
-      "ai",
-      "artificial-intelligence",
-      "awesome",
-      "awesome-list",
-      "generative-ai",
+      "benchmark",
+      "document-ai",
+      "document-parsing",
+      "evaluation",
+      "llamaindex",
       "llm",
       "machine-learning",
-      "mlops",
-      "open-source",
-      "open-source-ai",
-      "rag"
+      "ocr",
+      "pdf-parsing",
+      "table-extraction",
+      "vision-language-models"
     ],
-    "created_at": "2026-03-24T15:58:22",
-    "updated_at": "2026-04-22T21:17:09"
-  },
-  {
-    "name": "intro-agentic-ai",
-    "full_name": "riverscn/intro-agentic-ai",
-    "description": "认识 Agentic AI：从神经网络到智能体",
-    "url": "https://github.com/riverscn/intro-agentic-ai",
-    "stars": 66,
-    "daily_stars": 6,
-    "language": "CSS",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "knowledge",
-      "slideshow",
-      "slidev"
-    ],
-    "created_at": "2026-04-21T08:03:14",
-    "updated_at": "2026-04-22T21:09:24"
+    "created_at": "2026-04-10T20:46:33",
+    "updated_at": "2026-04-23T03:20:48"
   },
   {
     "name": "Jackrong-llm-finetuning-guide",
     "full_name": "R6410418/Jackrong-llm-finetuning-guide",
     "description": null,
     "url": "https://github.com/R6410418/Jackrong-llm-finetuning-guide",
-    "stars": 954,
-    "daily_stars": 6,
+    "stars": 962,
+    "daily_stars": 8,
     "language": "Jupyter Notebook",
     "topics": [
       "dataset",
@@ -199,27 +221,6 @@
       "unsloth"
     ],
     "created_at": "2026-04-05T08:04:43",
-    "updated_at": "2026-04-22T20:42:58"
-  },
-  {
-    "name": "graymatter",
-    "full_name": "angelnicolasc/graymatter",
-    "description": "Three lines of code to give your AI agents persistent memory. Reduce 90% token consumption while also maintaining quality.",
-    "url": "https://github.com/angelnicolasc/graymatter",
-    "stars": 258,
-    "daily_stars": 5,
-    "language": "Go",
-    "topics": [
-      "agent-memory",
-      "ai-agents",
-      "ai-tools",
-      "claude-code",
-      "cli",
-      "embedded-memory-go",
-      "go",
-      "persistent-memory"
-    ],
-    "created_at": "2026-04-08T20:04:36",
-    "updated_at": "2026-04-22T20:48:27"
+    "updated_at": "2026-04-23T02:18:04"
   }
 ]
