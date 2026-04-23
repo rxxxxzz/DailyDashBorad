@@ -1,11 +1,37 @@
 [
   {
+    "name": "abtop",
+    "full_name": "graykode/abtop",
+    "description": "Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.",
+    "url": "https://github.com/graykode/abtop",
+    "stars": 820,
+    "daily_stars": 51,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "ai-coding-agent",
+      "btop",
+      "claude-code",
+      "cli",
+      "codex",
+      "developer-tools",
+      "htop",
+      "monitor",
+      "ratatui",
+      "rust",
+      "terminal",
+      "tui"
+    ],
+    "created_at": "2026-03-29T10:12:20",
+    "updated_at": "2026-04-23T17:50:46"
+  },
+  {
     "name": "hermes-webui",
     "full_name": "nesquena/hermes-webui",
     "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
     "url": "https://github.com/nesquena/hermes-webui",
-    "stars": 3739,
-    "daily_stars": 66,
+    "stars": 3784,
+    "daily_stars": 45,
     "language": "Python",
     "topics": [
       "agent",
@@ -15,15 +41,15 @@
       "nous-research"
     ],
     "created_at": "2026-03-30T21:50:12",
-    "updated_at": "2026-04-23T14:13:52"
+    "updated_at": "2026-04-23T17:48:06"
   },
   {
     "name": "agent-vault",
     "full_name": "Infisical/agent-vault",
     "description": "A HTTP credential proxy and vault for AI agents",
     "url": "https://github.com/Infisical/agent-vault",
-    "stars": 231,
-    "daily_stars": 43,
+    "stars": 258,
+    "daily_stars": 27,
     "language": "Go",
     "topics": [
       "agents",
@@ -31,15 +57,54 @@
       "secrets-management"
     ],
     "created_at": "2026-03-27T21:47:17",
-    "updated_at": "2026-04-23T14:11:32"
+    "updated_at": "2026-04-23T17:47:20"
+  },
+  {
+    "name": "labrat",
+    "full_name": "ProjectDXAI/labrat",
+    "description": "Autonomous multi-branch research lab. Branches compete for compute budget. The system converges on what works.",
+    "url": "https://github.com/ProjectDXAI/labrat",
+    "stars": 144,
+    "daily_stars": 22,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "autonomous-research",
+      "claude-code",
+      "experiment-management",
+      "market-allocation",
+      "multi-agent",
+      "research-automation"
+    ],
+    "created_at": "2026-03-30T20:31:36",
+    "updated_at": "2026-04-23T17:49:29"
+  },
+  {
+    "name": "text-to-cad",
+    "full_name": "earthtojake/text-to-cad",
+    "description": "An open source harness for generating CAD models",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "stars": 126,
+    "daily_stars": 19,
+    "language": "JavaScript",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "cad",
+      "text-to-cad",
+      "wasm"
+    ],
+    "created_at": "2026-04-22T01:09:45",
+    "updated_at": "2026-04-23T17:38:56"
   },
   {
     "name": "WorldX",
     "full_name": "YGYOOO/WorldX",
     "description": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own.",
     "url": "https://github.com/YGYOOO/WorldX",
-    "stars": 120,
-    "daily_stars": 29,
+    "stars": 135,
+    "daily_stars": 15,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -61,15 +126,15 @@
       "typescript"
     ],
     "created_at": "2026-04-18T06:24:32",
-    "updated_at": "2026-04-23T14:05:03"
+    "updated_at": "2026-04-23T17:24:12"
   },
   {
     "name": "spool",
     "full_name": "spool-lab/spool",
     "description": "Search your Claude Code sessions, Codex history, GitHub stars, and 50+ sources — locally, instantly. Your AI agents can search too.",
     "url": "https://github.com/spool-lab/spool",
-    "stars": 338,
-    "daily_stars": 28,
+    "stars": 352,
+    "daily_stars": 14,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -88,107 +153,59 @@
       "search-engine"
     ],
     "created_at": "2026-03-27T06:24:44",
-    "updated_at": "2026-04-23T14:12:09"
+    "updated_at": "2026-04-23T17:18:15"
   },
   {
-    "name": "text-to-cad",
-    "full_name": "earthtojake/text-to-cad",
-    "description": "An open source harness for generating CAD models",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 107,
-    "daily_stars": 25,
-    "language": "JavaScript",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "cad",
-      "text-to-cad",
-      "wasm"
-    ],
-    "created_at": "2026-04-22T01:09:45",
-    "updated_at": "2026-04-23T14:17:01"
-  },
-  {
-    "name": "abtop",
-    "full_name": "graykode/abtop",
-    "description": "Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.",
-    "url": "https://github.com/graykode/abtop",
-    "stars": 769,
-    "daily_stars": 24,
+    "name": "chek-ego-miner",
+    "full_name": "chekdata/chek-ego-miner",
+    "description": "Crowdsource EGO robot data capture, contribution, and public-safe edge-host bring-up.",
+    "url": "https://github.com/chekdata/chek-ego-miner",
+    "stars": 184,
+    "daily_stars": 10,
     "language": "Rust",
     "topics": [
       "ai-agents",
-      "ai-coding-agent",
-      "btop",
-      "claude-code",
-      "cli",
-      "codex",
-      "developer-tools",
-      "htop",
-      "monitor",
-      "ratatui",
-      "rust",
-      "terminal",
-      "tui"
+      "computer-vision",
+      "crowdsourcing",
+      "dataset",
+      "edge-computing",
+      "humanoid",
+      "ios",
+      "robotics"
     ],
-    "created_at": "2026-03-29T10:12:20",
-    "updated_at": "2026-04-23T13:40:18"
+    "created_at": "2026-04-10T06:49:10",
+    "updated_at": "2026-04-23T14:32:56"
   },
   {
-    "name": "ijfw",
-    "full_name": "TheRealSeanDonahoe/ijfw",
-    "description": "One install. Shared memory, smart routing, disciplined workflow, multi-AI audits -- across every AI coding agent. No BS.",
-    "url": "https://github.com/TheRealSeanDonahoe/ijfw",
-    "stars": 93,
-    "daily_stars": 15,
-    "language": "JavaScript",
+    "name": "mcp-brasil",
+    "full_name": "jxnxts/mcp-brasil",
+    "description": "MCP Server para 41 APIs públicas brasileiras",
+    "url": "https://github.com/jxnxts/mcp-brasil",
+    "stars": 1468,
+    "daily_stars": 9,
+    "language": "Python",
     "topics": [
       "ai-agents",
-      "ai-coding",
-      "claude-code",
-      "codex",
-      "cursor",
-      "developer-tools",
-      "gemini-cli",
-      "github-copilot",
+      "apis-publicas",
+      "brazil",
+      "claude",
+      "fastmcp",
+      "governo",
+      "llm",
       "mcp",
       "mcp-server",
-      "memory",
-      "nodejs",
-      "typescript",
-      "windsurf"
+      "python"
     ],
-    "created_at": "2026-04-16T09:43:04",
-    "updated_at": "2026-04-23T14:02:18"
-  },
-  {
-    "name": "opencode-magic-context",
-    "full_name": "cortexkit/opencode-magic-context",
-    "description": "OpenCode plugin for Magic Context — cache-aware infinite context, cross-session memory, and background history compression for AI coding agents",
-    "url": "https://github.com/cortexkit/opencode-magic-context",
-    "stars": 303,
-    "daily_stars": 10,
-    "language": "TypeScript",
-    "topics": [
-      "agent-context",
-      "agent-framework",
-      "agent-memory",
-      "ai",
-      "ai-agents",
-      "ai-context",
-      "opencode"
-    ],
-    "created_at": "2026-03-26T12:27:01",
-    "updated_at": "2026-04-23T14:16:09"
+    "created_at": "2026-03-26T00:38:54",
+    "updated_at": "2026-04-23T17:19:31"
   },
   {
     "name": "passmark",
     "full_name": "bug0inc/passmark",
     "description": "The open-source Playwright library for AI browser regression testing with intelligent caching, auto-healing, and multi-model verification.",
     "url": "https://github.com/bug0inc/passmark",
-    "stars": 544,
-    "daily_stars": 9,
+    "stars": 552,
+    "daily_stars": 8,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -208,28 +225,6 @@
       "vercel"
     ],
     "created_at": "2026-03-29T18:22:06",
-    "updated_at": "2026-04-23T14:16:40"
-  },
-  {
-    "name": "cube-pets-office",
-    "full_name": "opencroc/cube-pets-office",
-    "description": "Multi-agent OS with 3D office visualization, dynamic org generation, and real Docker execution",
-    "url": "https://github.com/opencroc/cube-pets-office",
-    "stars": 170,
-    "daily_stars": 8,
-    "language": "TypeScript",
-    "topics": [
-      "agent-framework",
-      "ai-agents",
-      "autonomous-agents",
-      "docker",
-      "llm",
-      "multi-agents",
-      "spec-driven",
-      "threejs",
-      "typescript"
-    ],
-    "created_at": "2026-03-25T14:38:34",
-    "updated_at": "2026-04-23T13:28:43"
+    "updated_at": "2026-04-23T17:48:10"
   }
 ]
