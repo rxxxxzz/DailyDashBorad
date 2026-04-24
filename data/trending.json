@@ -4,8 +4,8 @@
     "full_name": "Infisical/agent-vault",
     "description": "A HTTP credential proxy and vault for AI agents",
     "url": "https://github.com/Infisical/agent-vault",
-    "stars": 408,
-    "daily_stars": 137,
+    "stars": 458,
+    "daily_stars": 50,
     "language": "Go",
     "topics": [
       "agents",
@@ -13,15 +13,34 @@
       "secrets-management"
     ],
     "created_at": "2026-03-27T21:47:17",
-    "updated_at": "2026-04-24T03:53:57"
+    "updated_at": "2026-04-24T06:21:37"
+  },
+  {
+    "name": "text-to-cad",
+    "full_name": "earthtojake/text-to-cad",
+    "description": "An open source harness for generating CAD models",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "stars": 194,
+    "daily_stars": 26,
+    "language": "JavaScript",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "cad",
+      "text-to-cad",
+      "wasm"
+    ],
+    "created_at": "2026-04-22T01:09:45",
+    "updated_at": "2026-04-24T06:14:29"
   },
   {
     "name": "hermes-webui",
     "full_name": "nesquena/hermes-webui",
     "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
     "url": "https://github.com/nesquena/hermes-webui",
-    "stars": 3855,
-    "daily_stars": 53,
+    "stars": 3873,
+    "daily_stars": 18,
     "language": "Python",
     "topics": [
       "agent",
@@ -31,15 +50,35 @@
       "nous-research"
     ],
     "created_at": "2026-03-30T21:50:12",
-    "updated_at": "2026-04-24T03:49:08"
+    "updated_at": "2026-04-24T06:10:09"
+  },
+  {
+    "name": "labrat",
+    "full_name": "ProjectDXAI/labrat",
+    "description": "Autonomous multi-branch research lab. Branches compete for compute budget. The system converges on what works.",
+    "url": "https://github.com/ProjectDXAI/labrat",
+    "stars": 192,
+    "daily_stars": 15,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "autonomous-research",
+      "claude-code",
+      "experiment-management",
+      "market-allocation",
+      "multi-agent",
+      "research-automation"
+    ],
+    "created_at": "2026-03-30T20:31:36",
+    "updated_at": "2026-04-24T06:14:37"
   },
   {
     "name": "abtop",
     "full_name": "graykode/abtop",
     "description": "Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.",
     "url": "https://github.com/graykode/abtop",
-    "stars": 898,
-    "daily_stars": 51,
+    "stars": 912,
+    "daily_stars": 14,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -57,34 +96,39 @@
       "tui"
     ],
     "created_at": "2026-03-29T10:12:20",
-    "updated_at": "2026-04-24T03:52:56"
+    "updated_at": "2026-04-24T06:02:19"
   },
   {
-    "name": "text-to-cad",
-    "full_name": "earthtojake/text-to-cad",
-    "description": "An open source harness for generating CAD models",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 168,
-    "daily_stars": 38,
-    "language": "JavaScript",
+    "name": "ParseBench",
+    "full_name": "run-llama/ParseBench",
+    "description": "ParseBench - A Document Parsing Benchmark for AI Agents",
+    "url": "https://github.com/run-llama/ParseBench",
+    "stars": 367,
+    "daily_stars": 11,
+    "language": "Python",
     "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "cad",
-      "text-to-cad",
-      "wasm"
+      "benchmark",
+      "document-ai",
+      "document-parsing",
+      "evaluation",
+      "llamaindex",
+      "llm",
+      "machine-learning",
+      "ocr",
+      "pdf-parsing",
+      "table-extraction",
+      "vision-language-models"
     ],
-    "created_at": "2026-04-22T01:09:45",
-    "updated_at": "2026-04-24T03:56:08"
+    "created_at": "2026-04-10T20:46:33",
+    "updated_at": "2026-04-24T06:24:27"
   },
   {
     "name": "spool",
     "full_name": "spool-lab/spool",
     "description": "Search your Claude Code sessions, Codex history, GitHub stars, and 50+ sources — locally, instantly. Your AI agents can search too.",
     "url": "https://github.com/spool-lab/spool",
-    "stars": 379,
-    "daily_stars": 24,
+    "stars": 389,
+    "daily_stars": 10,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -103,35 +147,15 @@
       "search-engine"
     ],
     "created_at": "2026-03-27T06:24:44",
-    "updated_at": "2026-04-24T03:35:28"
-  },
-  {
-    "name": "labrat",
-    "full_name": "ProjectDXAI/labrat",
-    "description": "Autonomous multi-branch research lab. Branches compete for compute budget. The system converges on what works.",
-    "url": "https://github.com/ProjectDXAI/labrat",
-    "stars": 177,
-    "daily_stars": 15,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "autonomous-research",
-      "claude-code",
-      "experiment-management",
-      "market-allocation",
-      "multi-agent",
-      "research-automation"
-    ],
-    "created_at": "2026-03-30T20:31:36",
-    "updated_at": "2026-04-24T03:41:13"
+    "updated_at": "2026-04-24T06:17:01"
   },
   {
     "name": "WorldX",
     "full_name": "YGYOOO/WorldX",
     "description": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own.",
     "url": "https://github.com/YGYOOO/WorldX",
-    "stars": 152,
-    "daily_stars": 15,
+    "stars": 157,
+    "daily_stars": 5,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -153,70 +177,56 @@
       "typescript"
     ],
     "created_at": "2026-04-18T06:24:32",
-    "updated_at": "2026-04-24T03:34:41"
+    "updated_at": "2026-04-24T06:11:54"
   },
   {
-    "name": "ParseBench",
-    "full_name": "run-llama/ParseBench",
-    "description": "ParseBench - A Document Parsing Benchmark for AI Agents",
-    "url": "https://github.com/run-llama/ParseBench",
-    "stars": 356,
-    "daily_stars": 13,
+    "name": "Octopoda-OS",
+    "full_name": "RyjoxTechnologies/Octopoda-OS",
+    "description": "The open-source memory operating system for AI agents. Persistent memory, semantic search, loop detection, agent messaging, crash recovery, and real-time observability.",
+    "url": "https://github.com/RyjoxTechnologies/Octopoda-OS",
+    "stars": 182,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
-      "benchmark",
-      "document-ai",
-      "document-parsing",
-      "evaluation",
-      "llamaindex",
-      "llm",
+      "ai-agents",
+      "ai-memory",
+      "autogen",
+      "crewai",
+      "knowledge-graph",
+      "langchain",
+      "mcp",
+      "memory-engine",
+      "openai",
+      "persistent-memory",
+      "python",
+      "semantic-search"
+    ],
+    "created_at": "2026-04-02T19:30:18",
+    "updated_at": "2026-04-24T06:11:46"
+  },
+  {
+    "name": "auto-deep-researcher-24x7",
+    "full_name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
+    "description": "🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
+    "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
+    "stars": 689,
+    "daily_stars": 4,
+    "language": "Python",
+    "topics": [
+      "ai-agent",
+      "autonomous-agent",
+      "claude-code",
+      "deep-learning",
+      "experiment-automation",
+      "gpu",
+      "hyperparameter-tuning",
+      "llm-agent",
       "machine-learning",
-      "ocr",
-      "pdf-parsing",
-      "table-extraction",
-      "vision-language-models"
+      "mlops",
+      "pytorch",
+      "research-automation"
     ],
-    "created_at": "2026-04-10T20:46:33",
-    "updated_at": "2026-04-24T02:51:35"
-  },
-  {
-    "name": "chek-ego-miner",
-    "full_name": "chekdata/chek-ego-miner",
-    "description": "Crowdsource EGO robot data capture, contribution, and public-safe edge-host bring-up.",
-    "url": "https://github.com/chekdata/chek-ego-miner",
-    "stars": 194,
-    "daily_stars": 10,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "computer-vision",
-      "crowdsourcing",
-      "dataset",
-      "edge-computing",
-      "humanoid",
-      "ios",
-      "robotics"
-    ],
-    "created_at": "2026-04-10T06:49:10",
-    "updated_at": "2026-04-24T01:14:08"
-  },
-  {
-    "name": "agent-style",
-    "full_name": "yzhao062/agent-style",
-    "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
-    "url": "https://github.com/yzhao062/agent-style",
-    "stars": 294,
-    "daily_stars": 9,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "llm",
-      "prompt-engineering",
-      "style-guide",
-      "technical-writing",
-      "writing-style"
-    ],
-    "created_at": "2026-04-19T08:12:16",
-    "updated_at": "2026-04-24T03:48:18"
+    "created_at": "2026-04-08T04:48:26",
+    "updated_at": "2026-04-24T05:36:04"
   }
 ]
