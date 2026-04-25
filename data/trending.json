@@ -4,8 +4,8 @@
     "full_name": "GammaLabTechnologies/harmonist",
     "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
     "url": "https://github.com/GammaLabTechnologies/harmonist",
-    "stars": 447,
-    "daily_stars": 51,
+    "stars": 512,
+    "daily_stars": 65,
     "language": "Python",
     "topics": [
       "agent-framework",
@@ -20,15 +20,32 @@
       "python"
     ],
     "created_at": "2026-04-23T05:42:29",
-    "updated_at": "2026-04-25T09:20:33"
+    "updated_at": "2026-04-25T13:40:53"
+  },
+  {
+    "name": "stash",
+    "full_name": "alash3al/stash",
+    "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
+    "url": "https://github.com/alash3al/stash",
+    "stars": 104,
+    "daily_stars": 61,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-memory",
+      "memory"
+    ],
+    "created_at": "2026-04-24T22:05:12",
+    "updated_at": "2026-04-25T13:35:24"
   },
   {
     "name": "hermes-webui",
     "full_name": "nesquena/hermes-webui",
     "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
     "url": "https://github.com/nesquena/hermes-webui",
-    "stars": 4058,
-    "daily_stars": 26,
+    "stars": 4098,
+    "daily_stars": 40,
     "language": "Python",
     "topics": [
       "agent",
@@ -38,15 +55,15 @@
       "nous-research"
     ],
     "created_at": "2026-03-30T21:50:12",
-    "updated_at": "2026-04-25T09:18:57"
+    "updated_at": "2026-04-25T13:43:03"
   },
   {
     "name": "abtop",
     "full_name": "graykode/abtop",
     "description": "Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.",
     "url": "https://github.com/graykode/abtop",
-    "stars": 1130,
-    "daily_stars": 25,
+    "stars": 1160,
+    "daily_stars": 30,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -64,15 +81,15 @@
       "tui"
     ],
     "created_at": "2026-03-29T10:12:20",
-    "updated_at": "2026-04-25T09:25:43"
+    "updated_at": "2026-04-25T13:38:08"
   },
   {
     "name": "text-to-cad",
     "full_name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 392,
-    "daily_stars": 21,
+    "stars": 411,
+    "daily_stars": 19,
     "language": "JavaScript",
     "topics": [
       "agents",
@@ -83,39 +100,102 @@
       "wasm"
     ],
     "created_at": "2026-04-22T01:09:45",
-    "updated_at": "2026-04-25T09:21:29"
+    "updated_at": "2026-04-25T13:29:55"
   },
   {
-    "name": "ctf-super-hub",
-    "full_name": "asdfgh1445/ctf-super-hub",
-    "description": " 面向小白用户的 CTF / 逆向 Skills 整合包：自动分流、头脑风暴、教学模式、比赛模式、只提示模式",
-    "url": "https://github.com/asdfgh1445/ctf-super-hub",
-    "stars": 76,
-    "daily_stars": 10,
-    "language": "JavaScript",
+    "name": "superseo-skills",
+    "full_name": "inhouseseo/superseo-skills",
+    "description": "11 Claude skills for SEO: page audits, linkbuilding, article writing, E-E-A-T audits, semantic gap analysis, link building. Methodology from Koray   Tuğberk, Kyle Roof, and Lily Ray, plus a generation-time anti-AI-slop ruleset. Production-tested at InhouseSEO",
+    "url": "https://github.com/inhouseseo/superseo-skills",
+    "stars": 73,
+    "daily_stars": 16,
+    "language": null,
     "topics": [
-      "agent-skills",
       "ai-agents",
-      "codex",
-      "cryptography",
-      "ctf",
-      "ctf-tools",
-      "forensics",
-      "osint",
-      "pwn",
-      "reverse-engineering",
-      "web-security"
+      "ai-seo",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-skills",
+      "content-marketing",
+      "google-search-console",
+      "link-building",
+      "llm",
+      "mcp",
+      "prompt-engineering",
+      "search-engine-optimization",
+      "semantic-seo",
+      "seo",
+      "seo-skills"
     ],
-    "created_at": "2026-04-23T15:24:35",
-    "updated_at": "2026-04-25T09:16:33"
+    "created_at": "2026-04-13T11:54:39",
+    "updated_at": "2026-04-25T13:37:12"
+  },
+  {
+    "name": "agent-vault",
+    "full_name": "Infisical/agent-vault",
+    "description": "A HTTP credential proxy and vault for AI agents",
+    "url": "https://github.com/Infisical/agent-vault",
+    "stars": 671,
+    "daily_stars": 13,
+    "language": "Go",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "secrets-management"
+    ],
+    "created_at": "2026-03-27T21:47:17",
+    "updated_at": "2026-04-25T13:42:00"
+  },
+  {
+    "name": "awesome-harness-engineering",
+    "full_name": "ai-boost/awesome-harness-engineering",
+    "description": "Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.",
+    "url": "https://github.com/ai-boost/awesome-harness-engineering",
+    "stars": 539,
+    "daily_stars": 10,
+    "language": "Python",
+    "topics": [
+      "agent-harness",
+      "agent-memory",
+      "agent-orchestration",
+      "ai-agents",
+      "awesome-list",
+      "context-engineering",
+      "harness-engineering",
+      "mcp"
+    ],
+    "created_at": "2026-03-29T15:39:49",
+    "updated_at": "2026-04-25T13:26:56"
+  },
+  {
+    "name": "chek-ego-miner",
+    "full_name": "chekdata/chek-ego-miner",
+    "description": "Crowdsource EGO robot data capture, contribution, and public-safe edge-host bring-up.",
+    "url": "https://github.com/chekdata/chek-ego-miner",
+    "stars": 204,
+    "daily_stars": 10,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "computer-vision",
+      "crowdsourcing",
+      "dataset",
+      "edge-computing",
+      "humanoid",
+      "ios",
+      "robotics"
+    ],
+    "created_at": "2026-04-10T06:49:10",
+    "updated_at": "2026-04-25T12:24:28"
   },
   {
     "name": "WorldX",
     "full_name": "YGYOOO/WorldX",
     "description": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own.",
     "url": "https://github.com/YGYOOO/WorldX",
-    "stars": 218,
-    "daily_stars": 9,
+    "stars": 226,
+    "daily_stars": 8,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -137,94 +217,6 @@
       "typescript"
     ],
     "created_at": "2026-04-18T06:24:32",
-    "updated_at": "2026-04-25T09:11:13"
-  },
-  {
-    "name": "agent-vault",
-    "full_name": "Infisical/agent-vault",
-    "description": "A HTTP credential proxy and vault for AI agents",
-    "url": "https://github.com/Infisical/agent-vault",
-    "stars": 658,
-    "daily_stars": 6,
-    "language": "Go",
-    "topics": [
-      "agents",
-      "ai-agents",
-      "secrets-management"
-    ],
-    "created_at": "2026-03-27T21:47:17",
-    "updated_at": "2026-04-25T09:26:55"
-  },
-  {
-    "name": "fullstack-mkt-skills",
-    "full_name": "minhnv0807/fullstack-mkt-skills",
-    "description": "20 production-ready AI marketing skills for Claude Code, ChatGPT, Gemini & Copilot. Generate content calendars, TikTok/Meta ad copy, UGC briefs, KPI calculators, A/B tests, pricing strategies & landing pages instantly. Vietnam-market benchmarks 2025-2026. Install as Claude Code plugin or use as standalone prompts for any AI agent.",
-    "url": "https://github.com/minhnv0807/fullstack-mkt-skills",
-    "stars": 156,
-    "daily_stars": 6,
-    "language": "Shell",
-    "topics": [
-      "ab-testing",
-      "agent-skills",
-      "ai-agents",
-      "anthropic",
-      "chatgpt",
-      "claude-code",
-      "claude-plugin",
-      "content-marketing",
-      "conversion-optimization",
-      "copilot",
-      "copywriting-ai",
-      "cursor",
-      "gemini",
-      "llm-prompts",
-      "marketing-automation",
-      "marketing-skills",
-      "meta-ads",
-      "prompt-engineering",
-      "tiktok-marketing",
-      "vietnam"
-    ],
-    "created_at": "2026-04-15T12:23:06",
-    "updated_at": "2026-04-25T09:28:12"
-  },
-  {
-    "name": "open-multi-agent",
-    "full_name": "JackChen-me/open-multi-agent",
-    "description": "Production-grade multi-agent orchestration framework. Model-agnostic, supports team collaboration, task scheduling, and inter-agent communication.",
-    "url": "https://github.com/JackChen-me/open-multi-agent",
-    "stars": 5890,
-    "daily_stars": 5,
-    "language": "TypeScript",
-    "topics": [
-      "agent-framework",
-      "ai-agents",
-      "claude",
-      "llm",
-      "model-agnostic",
-      "multi-agent",
-      "openai",
-      "orchestration",
-      "task-scheduling",
-      "typescript"
-    ],
-    "created_at": "2026-03-31T19:07:34",
-    "updated_at": "2026-04-25T08:55:42"
-  },
-  {
-    "name": "vice",
-    "full_name": "Webba-Creative-Technologies/vice",
-    "description": "VICE - Security auditing CLI for web applications",
-    "url": "https://github.com/Webba-Creative-Technologies/vice",
-    "stars": 218,
-    "daily_stars": 5,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "security",
-      "security-tools"
-    ],
-    "created_at": "2026-03-30T00:44:25",
-    "updated_at": "2026-04-25T09:07:44"
+    "updated_at": "2026-04-25T13:29:50"
   }
 ]
