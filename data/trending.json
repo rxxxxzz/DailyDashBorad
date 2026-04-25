@@ -4,8 +4,8 @@
     "full_name": "alash3al/stash",
     "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
     "url": "https://github.com/alash3al/stash",
-    "stars": 153,
-    "daily_stars": 49,
+    "stars": 197,
+    "daily_stars": 44,
     "language": "Go",
     "topics": [
       "ai",
@@ -14,33 +14,15 @@
       "memory"
     ],
     "created_at": "2026-04-24T22:05:12",
-    "updated_at": "2026-04-25T17:03:55"
-  },
-  {
-    "name": "hermes-webui",
-    "full_name": "nesquena/hermes-webui",
-    "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-    "url": "https://github.com/nesquena/hermes-webui",
-    "stars": 4143,
-    "daily_stars": 45,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "ai-agents",
-      "hermes",
-      "hermes-agent",
-      "nous-research"
-    ],
-    "created_at": "2026-03-30T21:50:12",
-    "updated_at": "2026-04-25T17:03:38"
+    "updated_at": "2026-04-25T20:51:25"
   },
   {
     "name": "harmonist",
     "full_name": "GammaLabTechnologies/harmonist",
     "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
     "url": "https://github.com/GammaLabTechnologies/harmonist",
-    "stars": 553,
-    "daily_stars": 41,
+    "stars": 591,
+    "daily_stars": 38,
     "language": "Python",
     "topics": [
       "agent-framework",
@@ -55,72 +37,33 @@
       "python"
     ],
     "created_at": "2026-04-23T05:42:29",
-    "updated_at": "2026-04-25T17:06:44"
+    "updated_at": "2026-04-25T21:02:12"
   },
   {
-    "name": "Project_Chronos",
-    "full_name": "FonaTech/Project_Chronos",
-    "description": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
-    "url": "https://github.com/FonaTech/Project_Chronos",
-    "stars": 49,
-    "daily_stars": 19,
+    "name": "hermes-webui",
+    "full_name": "nesquena/hermes-webui",
+    "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+    "url": "https://github.com/nesquena/hermes-webui",
+    "stars": 4173,
+    "daily_stars": 30,
     "language": "Python",
     "topics": [
-      "artificial-intelligence",
-      "async-dma",
-      "dual-layer-moe",
-      "generative-ai",
-      "high-throughput",
-      "io-latency-hiding",
-      "large-language-model",
-      "llm",
-      "lookahead-routing",
-      "lora",
-      "mixture-of-experts",
-      "mla-attention",
-      "open-models",
-      "open-source",
-      "predictive-inference",
-      "sliding-window-attention",
-      "ssd-offloading",
-      "streaming-llm"
-    ],
-    "created_at": "2026-04-19T21:05:18",
-    "updated_at": "2026-04-25T17:02:20"
-  },
-  {
-    "name": "abtop",
-    "full_name": "graykode/abtop",
-    "description": "Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.",
-    "url": "https://github.com/graykode/abtop",
-    "stars": 1172,
-    "daily_stars": 12,
-    "language": "Rust",
-    "topics": [
+      "agent",
       "ai-agents",
-      "ai-coding-agent",
-      "btop",
-      "claude-code",
-      "cli",
-      "codex",
-      "developer-tools",
-      "htop",
-      "monitor",
-      "ratatui",
-      "rust",
-      "terminal",
-      "tui"
+      "hermes",
+      "hermes-agent",
+      "nous-research"
     ],
-    "created_at": "2026-03-29T10:12:20",
-    "updated_at": "2026-04-25T16:09:53"
+    "created_at": "2026-03-30T21:50:12",
+    "updated_at": "2026-04-25T20:58:56"
   },
   {
     "name": "text-to-cad",
     "full_name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 422,
-    "daily_stars": 11,
+    "stars": 444,
+    "daily_stars": 22,
     "language": "JavaScript",
     "topics": [
       "agents",
@@ -131,31 +74,66 @@
       "wasm"
     ],
     "created_at": "2026-04-22T01:09:45",
-    "updated_at": "2026-04-25T17:06:14"
+    "updated_at": "2026-04-25T20:50:09"
   },
   {
-    "name": "agent-vault",
-    "full_name": "Infisical/agent-vault",
-    "description": "A HTTP credential proxy and vault for AI agents",
-    "url": "https://github.com/Infisical/agent-vault",
-    "stars": 681,
-    "daily_stars": 10,
-    "language": "Go",
+    "name": "facex",
+    "full_name": "facex-engine/facex",
+    "description": "Fast face embedding library. 3ms, 7MB, zero dependencies. Beats ONNX Runtime on CPU.",
+    "url": "https://github.com/facex-engine/facex",
+    "stars": 24,
+    "daily_stars": 20,
+    "language": "C",
     "topics": [
-      "agents",
-      "ai-agents",
-      "secrets-management"
+      "avx-512",
+      "avx2",
+      "biometrics",
+      "c99",
+      "computer-vision",
+      "cpu-inference",
+      "deep-learning",
+      "edge-ai",
+      "embedded-ai",
+      "face-embedding",
+      "face-recognition",
+      "face-verification",
+      "low-latency",
+      "onnx-runtime",
+      "production-ready",
+      "simd",
+      "zero-dependencies"
     ],
-    "created_at": "2026-03-27T21:47:17",
-    "updated_at": "2026-04-25T17:01:36"
+    "created_at": "2026-04-25T12:49:25",
+    "updated_at": "2026-04-25T20:50:37"
+  },
+  {
+    "name": "awesome-harness-engineering",
+    "full_name": "ai-boost/awesome-harness-engineering",
+    "description": "Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.",
+    "url": "https://github.com/ai-boost/awesome-harness-engineering",
+    "stars": 554,
+    "daily_stars": 9,
+    "language": "Python",
+    "topics": [
+      "agent-harness",
+      "agent-memory",
+      "agent-orchestration",
+      "ai-agents",
+      "awesome-list",
+      "context-engineering",
+      "harness-engineering",
+      "mcp"
+    ],
+    "created_at": "2026-03-29T15:39:49",
+    "updated_at": "2026-04-25T20:46:46"
   },
   {
     "name": "superseo-skills",
     "full_name": "inhouseseo/superseo-skills",
     "description": "11 Claude skills for SEO: page audits, linkbuilding, article writing, E-E-A-T audits, semantic gap analysis, link building. Methodology from Koray   Tuğberk, Kyle Roof, and Lily Ray, plus a generation-time anti-AI-slop ruleset. Production-tested at InhouseSEO",
     "url": "https://github.com/inhouseseo/superseo-skills",
-    "stars": 80,
-    "daily_stars": 7,
+    "stars": 89,
+    "daily_stars": 9,
     "language": null,
     "topics": [
       "ai-agents",
@@ -176,51 +154,65 @@
       "seo-skills"
     ],
     "created_at": "2026-04-13T11:54:39",
-    "updated_at": "2026-04-25T16:44:33"
+    "updated_at": "2026-04-25T20:27:46"
   },
   {
-    "name": "Personalized-Federated-Learning-for-Privacy--Preserving-and-Scalable-IoT-Driven-Smart-Healthcare",
-    "full_name": "Tisha-runwal/Personalized-Federated-Learning-for-Privacy--Preserving-and-Scalable-IoT-Driven-Smart-Healthcare",
-    "description": "A Personalized Federated Learning (PFL-HCare) framework for IoT healthcare. Features MAML meta-learning, Differential Privacy (RDP), and gradient quantization for efficiency. Includes a React/FastAPI dashboard for real-time monitoring.",
-    "url": "https://github.com/Tisha-runwal/Personalized-Federated-Learning-for-Privacy--Preserving-and-Scalable-IoT-Driven-Smart-Healthcare",
-    "stars": 267,
-    "daily_stars": 7,
+    "name": "ouroboros",
+    "full_name": "RightNow-AI/ouroboros",
+    "description": "Dynamic weight generation for recursive transformers via input-conditioned LoRA modulation",
+    "url": "https://github.com/RightNow-AI/ouroboros",
+    "stars": 13,
+    "daily_stars": 8,
     "language": "Python",
     "topics": [
-      "differential-privacy",
-      "fastapi",
-      "federated-learning",
-      "iot-healthcare",
-      "machine-learning",
-      "maml",
-      "meta-learning",
-      "privacy-preserving",
+      "adaptive-computation",
+      "deep-learning",
+      "hypernetworks",
+      "lora",
       "pytorch",
-      "react",
-      "smart-healthcare"
+      "recursive-transformers",
+      "transformers"
     ],
-    "created_at": "2026-04-05T10:12:32",
-    "updated_at": "2026-04-25T15:20:10"
+    "created_at": "2026-04-02T13:37:25",
+    "updated_at": "2026-04-25T20:25:30"
   },
   {
-    "name": "awesome-harness-engineering",
-    "full_name": "ai-boost/awesome-harness-engineering",
-    "description": "Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.",
-    "url": "https://github.com/ai-boost/awesome-harness-engineering",
-    "stars": 545,
-    "daily_stars": 6,
-    "language": "Python",
+    "name": "agent-vault",
+    "full_name": "Infisical/agent-vault",
+    "description": "A HTTP credential proxy and vault for AI agents",
+    "url": "https://github.com/Infisical/agent-vault",
+    "stars": 688,
+    "daily_stars": 7,
+    "language": "Go",
     "topics": [
-      "agent-harness",
-      "agent-memory",
+      "agents",
+      "ai-agents",
+      "secrets-management"
+    ],
+    "created_at": "2026-03-27T21:47:17",
+    "updated_at": "2026-04-25T20:47:44"
+  },
+  {
+    "name": "Agent-Architecture",
+    "full_name": "TheJacksonCode/Agent-Architecture",
+    "description": "Visual multi-agent system designer for Claude Code. 28 agents, Five Minds Protocol, HITL gates, Live Simulation. Zero dependencies, single HTML file.",
+    "url": "https://github.com/TheJacksonCode/Agent-Architecture",
+    "stars": 70,
+    "daily_stars": 7,
+    "language": "HTML",
+    "topics": [
       "agent-orchestration",
       "ai-agents",
-      "awesome-list",
-      "context-engineering",
-      "harness-engineering",
-      "mcp"
+      "anthropic",
+      "claude-code",
+      "five-minds",
+      "hitl",
+      "multi-agent",
+      "no-build",
+      "single-file",
+      "visual-designer"
     ],
-    "created_at": "2026-03-29T15:39:49",
-    "updated_at": "2026-04-25T17:05:59"
+    "created_at": "2026-04-07T12:07:20",
+    "updated_at": "2026-04-25T20:35:59"
   }
 ]
