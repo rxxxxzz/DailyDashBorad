@@ -1,11 +1,46 @@
 [
   {
+    "name": "stash",
+    "full_name": "alash3al/stash",
+    "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
+    "url": "https://github.com/alash3al/stash",
+    "stars": 153,
+    "daily_stars": 49,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-memory",
+      "memory"
+    ],
+    "created_at": "2026-04-24T22:05:12",
+    "updated_at": "2026-04-25T17:03:55"
+  },
+  {
+    "name": "hermes-webui",
+    "full_name": "nesquena/hermes-webui",
+    "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+    "url": "https://github.com/nesquena/hermes-webui",
+    "stars": 4143,
+    "daily_stars": 45,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "ai-agents",
+      "hermes",
+      "hermes-agent",
+      "nous-research"
+    ],
+    "created_at": "2026-03-30T21:50:12",
+    "updated_at": "2026-04-25T17:03:38"
+  },
+  {
     "name": "harmonist",
     "full_name": "GammaLabTechnologies/harmonist",
     "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
     "url": "https://github.com/GammaLabTechnologies/harmonist",
-    "stars": 512,
-    "daily_stars": 65,
+    "stars": 553,
+    "daily_stars": 41,
     "language": "Python",
     "topics": [
       "agent-framework",
@@ -20,50 +55,46 @@
       "python"
     ],
     "created_at": "2026-04-23T05:42:29",
-    "updated_at": "2026-04-25T13:40:53"
+    "updated_at": "2026-04-25T17:06:44"
   },
   {
-    "name": "stash",
-    "full_name": "alash3al/stash",
-    "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
-    "url": "https://github.com/alash3al/stash",
-    "stars": 104,
-    "daily_stars": 61,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-memory",
-      "memory"
-    ],
-    "created_at": "2026-04-24T22:05:12",
-    "updated_at": "2026-04-25T13:35:24"
-  },
-  {
-    "name": "hermes-webui",
-    "full_name": "nesquena/hermes-webui",
-    "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-    "url": "https://github.com/nesquena/hermes-webui",
-    "stars": 4098,
-    "daily_stars": 40,
+    "name": "Project_Chronos",
+    "full_name": "FonaTech/Project_Chronos",
+    "description": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
+    "url": "https://github.com/FonaTech/Project_Chronos",
+    "stars": 49,
+    "daily_stars": 19,
     "language": "Python",
     "topics": [
-      "agent",
-      "ai-agents",
-      "hermes",
-      "hermes-agent",
-      "nous-research"
+      "artificial-intelligence",
+      "async-dma",
+      "dual-layer-moe",
+      "generative-ai",
+      "high-throughput",
+      "io-latency-hiding",
+      "large-language-model",
+      "llm",
+      "lookahead-routing",
+      "lora",
+      "mixture-of-experts",
+      "mla-attention",
+      "open-models",
+      "open-source",
+      "predictive-inference",
+      "sliding-window-attention",
+      "ssd-offloading",
+      "streaming-llm"
     ],
-    "created_at": "2026-03-30T21:50:12",
-    "updated_at": "2026-04-25T13:43:03"
+    "created_at": "2026-04-19T21:05:18",
+    "updated_at": "2026-04-25T17:02:20"
   },
   {
     "name": "abtop",
     "full_name": "graykode/abtop",
     "description": "Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.",
     "url": "https://github.com/graykode/abtop",
-    "stars": 1160,
-    "daily_stars": 30,
+    "stars": 1172,
+    "daily_stars": 12,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -81,15 +112,15 @@
       "tui"
     ],
     "created_at": "2026-03-29T10:12:20",
-    "updated_at": "2026-04-25T13:38:08"
+    "updated_at": "2026-04-25T16:09:53"
   },
   {
     "name": "text-to-cad",
     "full_name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 411,
-    "daily_stars": 19,
+    "stars": 422,
+    "daily_stars": 11,
     "language": "JavaScript",
     "topics": [
       "agents",
@@ -100,15 +131,31 @@
       "wasm"
     ],
     "created_at": "2026-04-22T01:09:45",
-    "updated_at": "2026-04-25T13:29:55"
+    "updated_at": "2026-04-25T17:06:14"
+  },
+  {
+    "name": "agent-vault",
+    "full_name": "Infisical/agent-vault",
+    "description": "A HTTP credential proxy and vault for AI agents",
+    "url": "https://github.com/Infisical/agent-vault",
+    "stars": 681,
+    "daily_stars": 10,
+    "language": "Go",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "secrets-management"
+    ],
+    "created_at": "2026-03-27T21:47:17",
+    "updated_at": "2026-04-25T17:01:36"
   },
   {
     "name": "superseo-skills",
     "full_name": "inhouseseo/superseo-skills",
     "description": "11 Claude skills for SEO: page audits, linkbuilding, article writing, E-E-A-T audits, semantic gap analysis, link building. Methodology from Koray   Tuğberk, Kyle Roof, and Lily Ray, plus a generation-time anti-AI-slop ruleset. Production-tested at InhouseSEO",
     "url": "https://github.com/inhouseseo/superseo-skills",
-    "stars": 73,
-    "daily_stars": 16,
+    "stars": 80,
+    "daily_stars": 7,
     "language": null,
     "topics": [
       "ai-agents",
@@ -129,31 +176,39 @@
       "seo-skills"
     ],
     "created_at": "2026-04-13T11:54:39",
-    "updated_at": "2026-04-25T13:37:12"
+    "updated_at": "2026-04-25T16:44:33"
   },
   {
-    "name": "agent-vault",
-    "full_name": "Infisical/agent-vault",
-    "description": "A HTTP credential proxy and vault for AI agents",
-    "url": "https://github.com/Infisical/agent-vault",
-    "stars": 671,
-    "daily_stars": 13,
-    "language": "Go",
+    "name": "Personalized-Federated-Learning-for-Privacy--Preserving-and-Scalable-IoT-Driven-Smart-Healthcare",
+    "full_name": "Tisha-runwal/Personalized-Federated-Learning-for-Privacy--Preserving-and-Scalable-IoT-Driven-Smart-Healthcare",
+    "description": "A Personalized Federated Learning (PFL-HCare) framework for IoT healthcare. Features MAML meta-learning, Differential Privacy (RDP), and gradient quantization for efficiency. Includes a React/FastAPI dashboard for real-time monitoring.",
+    "url": "https://github.com/Tisha-runwal/Personalized-Federated-Learning-for-Privacy--Preserving-and-Scalable-IoT-Driven-Smart-Healthcare",
+    "stars": 267,
+    "daily_stars": 7,
+    "language": "Python",
     "topics": [
-      "agents",
-      "ai-agents",
-      "secrets-management"
+      "differential-privacy",
+      "fastapi",
+      "federated-learning",
+      "iot-healthcare",
+      "machine-learning",
+      "maml",
+      "meta-learning",
+      "privacy-preserving",
+      "pytorch",
+      "react",
+      "smart-healthcare"
     ],
-    "created_at": "2026-03-27T21:47:17",
-    "updated_at": "2026-04-25T13:42:00"
+    "created_at": "2026-04-05T10:12:32",
+    "updated_at": "2026-04-25T15:20:10"
   },
   {
     "name": "awesome-harness-engineering",
     "full_name": "ai-boost/awesome-harness-engineering",
     "description": "Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.",
     "url": "https://github.com/ai-boost/awesome-harness-engineering",
-    "stars": 539,
-    "daily_stars": 10,
+    "stars": 545,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "agent-harness",
@@ -166,57 +221,6 @@
       "mcp"
     ],
     "created_at": "2026-03-29T15:39:49",
-    "updated_at": "2026-04-25T13:26:56"
-  },
-  {
-    "name": "chek-ego-miner",
-    "full_name": "chekdata/chek-ego-miner",
-    "description": "Crowdsource EGO robot data capture, contribution, and public-safe edge-host bring-up.",
-    "url": "https://github.com/chekdata/chek-ego-miner",
-    "stars": 204,
-    "daily_stars": 10,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "computer-vision",
-      "crowdsourcing",
-      "dataset",
-      "edge-computing",
-      "humanoid",
-      "ios",
-      "robotics"
-    ],
-    "created_at": "2026-04-10T06:49:10",
-    "updated_at": "2026-04-25T12:24:28"
-  },
-  {
-    "name": "WorldX",
-    "full_name": "YGYOOO/WorldX",
-    "description": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own.",
-    "url": "https://github.com/YGYOOO/WorldX",
-    "stars": 226,
-    "daily_stars": 8,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agents",
-      "ai-characters",
-      "ai-simulation",
-      "ai-world",
-      "emergent-behavior",
-      "game-ai",
-      "generative-agents",
-      "generative-ai",
-      "llm",
-      "llm-agents",
-      "multi-agent-simulation",
-      "open-source",
-      "phaser",
-      "pixel-art",
-      "typescript"
-    ],
-    "created_at": "2026-04-18T06:24:32",
-    "updated_at": "2026-04-25T13:29:50"
+    "updated_at": "2026-04-25T17:05:59"
   }
 ]
