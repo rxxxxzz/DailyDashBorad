@@ -4,8 +4,8 @@
     "full_name": "nesquena/hermes-webui",
     "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
     "url": "https://github.com/nesquena/hermes-webui",
-    "stars": 4319,
-    "daily_stars": 37,
+    "stars": 4354,
+    "daily_stars": 35,
     "language": "Python",
     "topics": [
       "agent",
@@ -15,15 +15,65 @@
       "nous-research"
     ],
     "created_at": "2026-03-30T21:50:12",
-    "updated_at": "2026-04-26T13:39:44"
+    "updated_at": "2026-04-26T17:06:55"
+  },
+  {
+    "name": "Project_Chronos",
+    "full_name": "FonaTech/Project_Chronos",
+    "description": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
+    "url": "https://github.com/FonaTech/Project_Chronos",
+    "stars": 75,
+    "daily_stars": 25,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "async-dma",
+      "dual-layer-moe",
+      "generative-ai",
+      "high-throughput",
+      "io-latency-hiding",
+      "large-language-model",
+      "llm",
+      "lookahead-routing",
+      "lora",
+      "mixture-of-experts",
+      "mla-attention",
+      "open-models",
+      "open-source",
+      "predictive-inference",
+      "sliding-window-attention",
+      "ssd-offloading",
+      "streaming-llm"
+    ],
+    "created_at": "2026-04-19T21:05:18",
+    "updated_at": "2026-04-26T15:54:57"
+  },
+  {
+    "name": "text-to-cad",
+    "full_name": "earthtojake/text-to-cad",
+    "description": "An open source harness for generating CAD models",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "stars": 574,
+    "daily_stars": 23,
+    "language": "JavaScript",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "cad",
+      "text-to-cad",
+      "wasm"
+    ],
+    "created_at": "2026-04-22T01:09:45",
+    "updated_at": "2026-04-26T16:59:14"
   },
   {
     "name": "pentest-ai",
     "full_name": "0xSteph/pentest-ai",
     "description": "Turn Claude Code into your offensive security research assistant. Specialized AI subagents for authorized penetration testing plan engagements, analyze recon, research exploits, build detections, audit STIGs, and write reports.",
     "url": "https://github.com/0xSteph/pentest-ai",
-    "stars": 281,
-    "daily_stars": 31,
+    "stars": 297,
+    "daily_stars": 16,
     "language": null,
     "topics": [
       "ai-agents",
@@ -46,57 +96,15 @@
       "security-tools"
     ],
     "created_at": "2026-03-28T15:21:59",
-    "updated_at": "2026-04-26T13:36:08"
-  },
-  {
-    "name": "text-to-cad",
-    "full_name": "earthtojake/text-to-cad",
-    "description": "An open source harness for generating CAD models",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 551,
-    "daily_stars": 28,
-    "language": "JavaScript",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "cad",
-      "text-to-cad",
-      "wasm"
-    ],
-    "created_at": "2026-04-22T01:09:45",
-    "updated_at": "2026-04-26T13:45:17"
-  },
-  {
-    "name": "kiwifs",
-    "full_name": "kiwifs/kiwifs",
-    "description": "The knowledge server — PocketBase for knowledge. One Go binary, zero config.",
-    "url": "https://github.com/kiwifs/kiwifs",
-    "stars": 82,
-    "daily_stars": 25,
-    "language": "Go",
-    "topics": [
-      "ai-agents",
-      "filesystem",
-      "golang",
-      "knowledge-base",
-      "knowledge-graph",
-      "llm-wiki",
-      "markdown",
-      "obsidian",
-      "self-hosted",
-      "wiki"
-    ],
-    "created_at": "2026-04-22T04:27:55",
-    "updated_at": "2026-04-26T13:44:43"
+    "updated_at": "2026-04-26T17:08:02"
   },
   {
     "name": "DeepZero",
     "full_name": "416rehman/DeepZero",
     "description": "Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parses, decompiles, and analyzes thousands of Windows kernel drivers for exploitable IOCTLs natively using AI agents.",
     "url": "https://github.com/416rehman/DeepZero",
-    "stars": 131,
-    "daily_stars": 17,
+    "stars": 146,
+    "daily_stars": 15,
     "language": "Python",
     "topics": [
       "ai",
@@ -120,41 +128,106 @@
       "zero-day"
     ],
     "created_at": "2026-04-07T01:51:34",
-    "updated_at": "2026-04-26T13:38:18"
+    "updated_at": "2026-04-26T17:05:38"
   },
   {
-    "name": "abtop",
-    "full_name": "graykode/abtop",
-    "description": "Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.",
-    "url": "https://github.com/graykode/abtop",
-    "stars": 1208,
-    "daily_stars": 10,
-    "language": "Rust",
+    "name": "kiwifs",
+    "full_name": "kiwifs/kiwifs",
+    "description": "The knowledge server — PocketBase for knowledge. One Go binary, zero config.",
+    "url": "https://github.com/kiwifs/kiwifs",
+    "stars": 93,
+    "daily_stars": 11,
+    "language": "Go",
     "topics": [
       "ai-agents",
-      "ai-coding-agent",
-      "btop",
-      "claude-code",
-      "cli",
-      "codex",
-      "developer-tools",
-      "htop",
-      "monitor",
-      "ratatui",
-      "rust",
-      "terminal",
-      "tui"
+      "filesystem",
+      "golang",
+      "knowledge-base",
+      "knowledge-graph",
+      "llm-wiki",
+      "markdown",
+      "obsidian",
+      "self-hosted",
+      "wiki"
     ],
-    "created_at": "2026-03-29T10:12:20",
-    "updated_at": "2026-04-26T13:29:54"
+    "created_at": "2026-04-22T04:27:55",
+    "updated_at": "2026-04-26T15:34:17"
+  },
+  {
+    "name": "stash",
+    "full_name": "alash3al/stash",
+    "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
+    "url": "https://github.com/alash3al/stash",
+    "stars": 276,
+    "daily_stars": 7,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-memory",
+      "memory"
+    ],
+    "created_at": "2026-04-24T22:05:12",
+    "updated_at": "2026-04-26T16:18:44"
+  },
+  {
+    "name": "tinyagentos",
+    "full_name": "jaylfc/tinyagentos",
+    "description": "Self-hosted auto clustering AI agent OS for low cost consumer hardware like the computer you have, an Orange or Raspberry Pi or a Mac etc. Desktop shell, app store, agent deployment, distributed compute cluster. Memory by taOSmd.",
+    "url": "https://github.com/jaylfc/tinyagentos",
+    "stars": 86,
+    "daily_stars": 7,
+    "language": "Python",
+    "topics": [
+      "agent-framework",
+      "ai-agents",
+      "ai-platform",
+      "apple-silicon",
+      "distributed-computing",
+      "kv-cache-quantization",
+      "llm",
+      "llm-inference",
+      "local-llm",
+      "orange-pi",
+      "raspberry-pi",
+      "rockchip-npu",
+      "self-hosted",
+      "turboquant",
+      "vllm"
+    ],
+    "created_at": "2026-04-05T15:33:40",
+    "updated_at": "2026-04-26T17:01:01"
+  },
+  {
+    "name": "harmonist",
+    "full_name": "GammaLabTechnologies/harmonist",
+    "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
+    "url": "https://github.com/GammaLabTechnologies/harmonist",
+    "stars": 681,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "agent-framework",
+      "agent-system",
+      "ai-agents",
+      "claude-code",
+      "cursor-ide",
+      "llm",
+      "multi-agent-framework",
+      "orchestration",
+      "prompt-engineering",
+      "python"
+    ],
+    "created_at": "2026-04-23T05:42:29",
+    "updated_at": "2026-04-26T17:08:07"
   },
   {
     "name": "facex",
     "full_name": "facex-engine/facex",
     "description": "Fast face embedding library. 3ms, 7MB, zero dependencies. Beats ONNX Runtime on CPU.",
     "url": "https://github.com/facex-engine/facex",
-    "stars": 69,
-    "daily_stars": 10,
+    "stars": 75,
+    "daily_stars": 6,
     "language": "C",
     "topics": [
       "avx-512",
@@ -176,86 +249,6 @@
       "zero-dependencies"
     ],
     "created_at": "2026-04-25T12:49:25",
-    "updated_at": "2026-04-26T13:32:26"
-  },
-  {
-    "name": "stash",
-    "full_name": "alash3al/stash",
-    "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
-    "url": "https://github.com/alash3al/stash",
-    "stars": 269,
-    "daily_stars": 9,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-memory",
-      "memory"
-    ],
-    "created_at": "2026-04-24T22:05:12",
-    "updated_at": "2026-04-26T13:43:21"
-  },
-  {
-    "name": "WorldX",
-    "full_name": "YGYOOO/WorldX",
-    "description": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own.",
-    "url": "https://github.com/YGYOOO/WorldX",
-    "stars": 268,
-    "daily_stars": 9,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agents",
-      "ai-characters",
-      "ai-simulation",
-      "ai-world",
-      "emergent-behavior",
-      "game-ai",
-      "generative-agents",
-      "generative-ai",
-      "llm",
-      "llm-agents",
-      "multi-agent-simulation",
-      "open-source",
-      "phaser",
-      "pixel-art",
-      "typescript"
-    ],
-    "created_at": "2026-04-18T06:24:32",
-    "updated_at": "2026-04-26T13:44:02"
-  },
-  {
-    "name": "ai-auto-work",
-    "full_name": "chaohong-ai/ai-auto-work",
-    "description": "Automatically completes the full workflow from requirement research → research review → planning → plan review → development →  development review using → test AI large language models. Capable of autonomously handling medium to large-scale engineering projects.",
-    "url": "https://github.com/chaohong-ai/ai-auto-work",
-    "stars": 102,
-    "daily_stars": 9,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agentic-coding",
-      "ai",
-      "ai-coding",
-      "ai-workflow",
-      "anthropic",
-      "automation",
-      "autonomous-coding",
-      "claude",
-      "code-generation",
-      "code-review",
-      "codex",
-      "developer-tools",
-      "devops",
-      "llm",
-      "openai",
-      "productivity",
-      "prompt-engineering",
-      "software-engineering",
-      "workflow"
-    ],
-    "created_at": "2026-04-21T02:55:11",
-    "updated_at": "2026-04-26T13:39:36"
+    "updated_at": "2026-04-26T17:05:18"
   }
 ]
