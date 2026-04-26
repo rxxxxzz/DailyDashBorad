@@ -1,48 +1,11 @@
 [
   {
-    "name": "hermes-webui",
-    "full_name": "nesquena/hermes-webui",
-    "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-    "url": "https://github.com/nesquena/hermes-webui",
-    "stars": 4253,
-    "daily_stars": 19,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "ai-agents",
-      "hermes",
-      "hermes-agent",
-      "nous-research"
-    ],
-    "created_at": "2026-03-30T21:50:12",
-    "updated_at": "2026-04-26T06:23:46"
-  },
-  {
-    "name": "text-to-cad",
-    "full_name": "earthtojake/text-to-cad",
-    "description": "An open source harness for generating CAD models",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 502,
-    "daily_stars": 19,
-    "language": "JavaScript",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "cad",
-      "text-to-cad",
-      "wasm"
-    ],
-    "created_at": "2026-04-22T01:09:45",
-    "updated_at": "2026-04-26T06:05:41"
-  },
-  {
     "name": "harmonist",
     "full_name": "GammaLabTechnologies/harmonist",
     "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
     "url": "https://github.com/GammaLabTechnologies/harmonist",
-    "stars": 634,
-    "daily_stars": 16,
+    "stars": 667,
+    "daily_stars": 33,
     "language": "Python",
     "topics": [
       "agent-framework",
@@ -57,62 +20,106 @@
       "python"
     ],
     "created_at": "2026-04-23T05:42:29",
-    "updated_at": "2026-04-26T06:21:30"
+    "updated_at": "2026-04-26T09:18:53"
   },
   {
-    "name": "stash",
-    "full_name": "alash3al/stash",
-    "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
-    "url": "https://github.com/alash3al/stash",
-    "stars": 246,
-    "daily_stars": 11,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-memory",
-      "memory"
-    ],
-    "created_at": "2026-04-24T22:05:12",
-    "updated_at": "2026-04-26T06:17:33"
-  },
-  {
-    "name": "WorldX",
-    "full_name": "YGYOOO/WorldX",
-    "description": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own.",
-    "url": "https://github.com/YGYOOO/WorldX",
-    "stars": 252,
-    "daily_stars": 9,
-    "language": "TypeScript",
+    "name": "hermes-webui",
+    "full_name": "nesquena/hermes-webui",
+    "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+    "url": "https://github.com/nesquena/hermes-webui",
+    "stars": 4282,
+    "daily_stars": 29,
+    "language": "Python",
     "topics": [
       "agent",
+      "ai-agents",
+      "hermes",
+      "hermes-agent",
+      "nous-research"
+    ],
+    "created_at": "2026-03-30T21:50:12",
+    "updated_at": "2026-04-26T09:15:29"
+  },
+  {
+    "name": "text-to-cad",
+    "full_name": "earthtojake/text-to-cad",
+    "description": "An open source harness for generating CAD models",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "stars": 523,
+    "daily_stars": 21,
+    "language": "JavaScript",
+    "topics": [
+      "agents",
       "ai",
       "ai-agents",
-      "ai-characters",
-      "ai-simulation",
-      "ai-world",
-      "emergent-behavior",
-      "game-ai",
-      "generative-agents",
-      "generative-ai",
-      "llm",
-      "llm-agents",
-      "multi-agent-simulation",
-      "open-source",
-      "phaser",
-      "pixel-art",
-      "typescript"
+      "cad",
+      "text-to-cad",
+      "wasm"
     ],
-    "created_at": "2026-04-18T06:24:32",
-    "updated_at": "2026-04-26T06:22:58"
+    "created_at": "2026-04-22T01:09:45",
+    "updated_at": "2026-04-26T09:14:32"
+  },
+  {
+    "name": "kiwifs",
+    "full_name": "kiwifs/kiwifs",
+    "description": "The knowledge server — PocketBase for knowledge. One Go binary, zero config.",
+    "url": "https://github.com/kiwifs/kiwifs",
+    "stars": 57,
+    "daily_stars": 17,
+    "language": "Go",
+    "topics": [
+      "ai-agents",
+      "filesystem",
+      "golang",
+      "knowledge-base",
+      "knowledge-graph",
+      "llm-wiki",
+      "markdown",
+      "obsidian",
+      "self-hosted",
+      "wiki"
+    ],
+    "created_at": "2026-04-22T04:27:55",
+    "updated_at": "2026-04-26T09:25:38"
+  },
+  {
+    "name": "pentest-ai",
+    "full_name": "0xSteph/pentest-ai",
+    "description": "Turn Claude Code into your offensive security research assistant. Specialized AI subagents for authorized penetration testing plan engagements, analyze recon, research exploits, build detections, audit STIGs, and write reports.",
+    "url": "https://github.com/0xSteph/pentest-ai",
+    "stars": 250,
+    "daily_stars": 16,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "ai-security",
+      "bug-bounty",
+      "claude-code",
+      "ctf",
+      "cybersecurity",
+      "ethical-hacking",
+      "infosec",
+      "kali-linux",
+      "mitre-attack",
+      "offensive-security",
+      "oscp",
+      "penetration-testing",
+      "pentest",
+      "pentesting",
+      "red-team",
+      "security-automation",
+      "security-tools"
+    ],
+    "created_at": "2026-03-28T15:21:59",
+    "updated_at": "2026-04-26T09:28:52"
   },
   {
     "name": "facex",
     "full_name": "facex-engine/facex",
     "description": "Fast face embedding library. 3ms, 7MB, zero dependencies. Beats ONNX Runtime on CPU.",
     "url": "https://github.com/facex-engine/facex",
-    "stars": 44,
-    "daily_stars": 9,
+    "stars": 59,
+    "daily_stars": 15,
     "language": "C",
     "topics": [
       "avx-512",
@@ -134,63 +141,32 @@
       "zero-dependencies"
     ],
     "created_at": "2026-04-25T12:49:25",
-    "updated_at": "2026-04-26T06:22:07"
+    "updated_at": "2026-04-26T09:29:54"
   },
   {
-    "name": "awesome-harness-engineering",
-    "full_name": "ai-boost/awesome-harness-engineering",
-    "description": "Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.",
-    "url": "https://github.com/ai-boost/awesome-harness-engineering",
-    "stars": 566,
-    "daily_stars": 6,
-    "language": "Python",
+    "name": "stash",
+    "full_name": "alash3al/stash",
+    "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
+    "url": "https://github.com/alash3al/stash",
+    "stars": 260,
+    "daily_stars": 14,
+    "language": "Go",
     "topics": [
-      "agent-harness",
-      "agent-memory",
-      "agent-orchestration",
+      "ai",
       "ai-agents",
-      "awesome-list",
-      "context-engineering",
-      "harness-engineering",
-      "mcp"
+      "ai-memory",
+      "memory"
     ],
-    "created_at": "2026-03-29T15:39:49",
-    "updated_at": "2026-04-26T06:20:12"
-  },
-  {
-    "name": "OnionClaw",
-    "full_name": "christinminor459/OnionClaw",
-    "description": "Provide AI agents with full Tor network access and dark web data through a zero-config OpenClaw skill or standalone tool.",
-    "url": "https://github.com/christinminor459/OnionClaw",
-    "stars": 65,
-    "daily_stars": 6,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "hidden-services",
-      "llm",
-      "mcp-server",
-      "onion",
-      "openclaw",
-      "openclaw-skill",
-      "osint",
-      "python",
-      "security-research",
-      "socks5",
-      "threat-intelligence",
-      "tor",
-      "tor-network"
-    ],
-    "created_at": "2026-03-28T20:40:47",
-    "updated_at": "2026-04-26T06:21:47"
+    "created_at": "2026-04-24T22:05:12",
+    "updated_at": "2026-04-26T09:28:51"
   },
   {
     "name": "DeepZero",
     "full_name": "416rehman/DeepZero",
     "description": "Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parses, decompiles, and analyzes thousands of Windows kernel drivers for exploitable IOCTLs natively using AI agents.",
     "url": "https://github.com/416rehman/DeepZero",
-    "stars": 103,
-    "daily_stars": 5,
+    "stars": 114,
+    "daily_stars": 11,
     "language": "Python",
     "topics": [
       "ai",
@@ -214,34 +190,55 @@
       "zero-day"
     ],
     "created_at": "2026-04-07T01:51:34",
-    "updated_at": "2026-04-26T05:20:04"
+    "updated_at": "2026-04-26T08:51:32"
   },
   {
-    "name": "storybloq",
-    "full_name": "Storybloq/storybloq",
-    "description": "Cross-session context for Claude Code. CLI + MCP server + /story skill that tracks tickets, issues, handovers, and roadmap in a .story/ directory.",
-    "url": "https://github.com/Storybloq/storybloq",
-    "stars": 34,
-    "daily_stars": 5,
+    "name": "abtop",
+    "full_name": "graykode/abtop",
+    "description": "Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.",
+    "url": "https://github.com/graykode/abtop",
+    "stars": 1198,
+    "daily_stars": 10,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "ai-coding-agent",
+      "btop",
+      "claude-code",
+      "cli",
+      "codex",
+      "developer-tools",
+      "htop",
+      "monitor",
+      "ratatui",
+      "rust",
+      "terminal",
+      "tui"
+    ],
+    "created_at": "2026-03-29T10:12:20",
+    "updated_at": "2026-04-26T09:22:16"
+  },
+  {
+    "name": "open-multi-agent",
+    "full_name": "JackChen-me/open-multi-agent",
+    "description": "Production-grade multi-agent orchestration framework. Model-agnostic, supports team collaboration, task scheduling, and inter-agent communication.",
+    "url": "https://github.com/JackChen-me/open-multi-agent",
+    "stars": 5912,
+    "daily_stars": 8,
     "language": "TypeScript",
     "topics": [
-      "agentic-development",
-      "ai-development",
-      "anthropic",
-      "claude-code",
-      "claude-skill",
-      "cli",
-      "context-management",
-      "developer-tools",
-      "handover",
-      "mcp",
-      "mcp-server",
-      "project-management",
-      "session-continuity",
-      "typescript",
-      "workflow"
+      "agent-framework",
+      "ai-agents",
+      "claude",
+      "llm",
+      "model-agnostic",
+      "multi-agent",
+      "openai",
+      "orchestration",
+      "task-scheduling",
+      "typescript"
     ],
-    "created_at": "2026-04-17T00:51:21",
-    "updated_at": "2026-04-26T05:58:49"
+    "created_at": "2026-03-31T19:07:34",
+    "updated_at": "2026-04-26T09:26:54"
   }
 ]
