@@ -1,11 +1,48 @@
 [
   {
+    "name": "hermes-webui",
+    "full_name": "nesquena/hermes-webui",
+    "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+    "url": "https://github.com/nesquena/hermes-webui",
+    "stars": 4234,
+    "daily_stars": 61,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "ai-agents",
+      "hermes",
+      "hermes-agent",
+      "nous-research"
+    ],
+    "created_at": "2026-03-30T21:50:12",
+    "updated_at": "2026-04-26T04:00:38"
+  },
+  {
+    "name": "text-to-cad",
+    "full_name": "earthtojake/text-to-cad",
+    "description": "An open source harness for generating CAD models",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "stars": 483,
+    "daily_stars": 39,
+    "language": "JavaScript",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "cad",
+      "text-to-cad",
+      "wasm"
+    ],
+    "created_at": "2026-04-22T01:09:45",
+    "updated_at": "2026-04-26T03:56:00"
+  },
+  {
     "name": "stash",
     "full_name": "alash3al/stash",
     "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
     "url": "https://github.com/alash3al/stash",
-    "stars": 197,
-    "daily_stars": 44,
+    "stars": 235,
+    "daily_stars": 38,
     "language": "Go",
     "topics": [
       "ai",
@@ -14,15 +51,15 @@
       "memory"
     ],
     "created_at": "2026-04-24T22:05:12",
-    "updated_at": "2026-04-25T20:51:25"
+    "updated_at": "2026-04-26T03:32:55"
   },
   {
     "name": "harmonist",
     "full_name": "GammaLabTechnologies/harmonist",
     "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
     "url": "https://github.com/GammaLabTechnologies/harmonist",
-    "stars": 591,
-    "daily_stars": 38,
+    "stars": 618,
+    "daily_stars": 27,
     "language": "Python",
     "topics": [
       "agent-framework",
@@ -37,52 +74,98 @@
       "python"
     ],
     "created_at": "2026-04-23T05:42:29",
-    "updated_at": "2026-04-25T21:02:12"
+    "updated_at": "2026-04-26T03:54:40"
   },
   {
-    "name": "hermes-webui",
-    "full_name": "nesquena/hermes-webui",
-    "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-    "url": "https://github.com/nesquena/hermes-webui",
-    "stars": 4173,
-    "daily_stars": 30,
-    "language": "Python",
+    "name": "storybloq",
+    "full_name": "Storybloq/storybloq",
+    "description": "Cross-session context for Claude Code. CLI + MCP server + /story skill that tracks tickets, issues, handovers, and roadmap in a .story/ directory.",
+    "url": "https://github.com/Storybloq/storybloq",
+    "stars": 29,
+    "daily_stars": 16,
+    "language": "TypeScript",
     "topics": [
-      "agent",
-      "ai-agents",
-      "hermes",
-      "hermes-agent",
-      "nous-research"
+      "agentic-development",
+      "ai-development",
+      "anthropic",
+      "claude-code",
+      "claude-skill",
+      "cli",
+      "context-management",
+      "developer-tools",
+      "handover",
+      "mcp",
+      "mcp-server",
+      "project-management",
+      "session-continuity",
+      "typescript",
+      "workflow"
     ],
-    "created_at": "2026-03-30T21:50:12",
-    "updated_at": "2026-04-25T20:58:56"
+    "created_at": "2026-04-17T00:51:21",
+    "updated_at": "2026-04-26T03:40:36"
   },
   {
-    "name": "text-to-cad",
-    "full_name": "earthtojake/text-to-cad",
-    "description": "An open source harness for generating CAD models",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 444,
-    "daily_stars": 22,
+    "name": "maestro",
+    "full_name": "sharpdeveye/maestro",
+    "description": "Workflow fluency for AI coding agents. 1 skill, 20 commands, 7 references — works across Cursor, Claude Code, Gemini CLI, Copilot, and 6 more.",
+    "url": "https://github.com/sharpdeveye/maestro",
+    "stars": 129,
+    "daily_stars": 12,
     "language": "JavaScript",
     "topics": [
-      "agents",
+      "agent-orchestration",
       "ai",
       "ai-agents",
-      "cad",
-      "text-to-cad",
-      "wasm"
+      "ai-workflows",
+      "claude-code",
+      "codex",
+      "copilot",
+      "cursor",
+      "developer-tools",
+      "gemini",
+      "open-source",
+      "prompt-engineering",
+      "skills"
     ],
-    "created_at": "2026-04-22T01:09:45",
-    "updated_at": "2026-04-25T20:50:09"
+    "created_at": "2026-04-02T16:30:40",
+    "updated_at": "2026-04-26T03:54:53"
+  },
+  {
+    "name": "superseo-skills",
+    "full_name": "inhouseseo/superseo-skills",
+    "description": "11 Claude skills for SEO: page audits, linkbuilding, article writing, E-E-A-T audits, semantic gap analysis, link building. Methodology from Koray   Tuğberk, Kyle Roof, and Lily Ray, plus a generation-time anti-AI-slop ruleset. Production-tested at InhouseSEO",
+    "url": "https://github.com/inhouseseo/superseo-skills",
+    "stars": 101,
+    "daily_stars": 12,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "ai-seo",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-skills",
+      "content-marketing",
+      "google-search-console",
+      "link-building",
+      "llm",
+      "mcp",
+      "prompt-engineering",
+      "search-engine-optimization",
+      "semantic-seo",
+      "seo",
+      "seo-skills"
+    ],
+    "created_at": "2026-04-13T11:54:39",
+    "updated_at": "2026-04-26T02:46:54"
   },
   {
     "name": "facex",
     "full_name": "facex-engine/facex",
     "description": "Fast face embedding library. 3ms, 7MB, zero dependencies. Beats ONNX Runtime on CPU.",
     "url": "https://github.com/facex-engine/facex",
-    "stars": 24,
-    "daily_stars": 20,
+    "stars": 35,
+    "daily_stars": 11,
     "language": "C",
     "topics": [
       "avx-512",
@@ -104,115 +187,50 @@
       "zero-dependencies"
     ],
     "created_at": "2026-04-25T12:49:25",
-    "updated_at": "2026-04-25T20:50:37"
+    "updated_at": "2026-04-26T03:28:31"
   },
   {
-    "name": "awesome-harness-engineering",
-    "full_name": "ai-boost/awesome-harness-engineering",
-    "description": "Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.",
-    "url": "https://github.com/ai-boost/awesome-harness-engineering",
-    "stars": 554,
-    "daily_stars": 9,
-    "language": "Python",
-    "topics": [
-      "agent-harness",
-      "agent-memory",
-      "agent-orchestration",
-      "ai-agents",
-      "awesome-list",
-      "context-engineering",
-      "harness-engineering",
-      "mcp"
-    ],
-    "created_at": "2026-03-29T15:39:49",
-    "updated_at": "2026-04-25T20:46:46"
-  },
-  {
-    "name": "superseo-skills",
-    "full_name": "inhouseseo/superseo-skills",
-    "description": "11 Claude skills for SEO: page audits, linkbuilding, article writing, E-E-A-T audits, semantic gap analysis, link building. Methodology from Koray   Tuğberk, Kyle Roof, and Lily Ray, plus a generation-time anti-AI-slop ruleset. Production-tested at InhouseSEO",
-    "url": "https://github.com/inhouseseo/superseo-skills",
-    "stars": 89,
-    "daily_stars": 9,
-    "language": null,
+    "name": "abtop",
+    "full_name": "graykode/abtop",
+    "description": "Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.",
+    "url": "https://github.com/graykode/abtop",
+    "stars": 1185,
+    "daily_stars": 10,
+    "language": "Rust",
     "topics": [
       "ai-agents",
-      "ai-seo",
-      "claude",
-      "claude-ai",
+      "ai-coding-agent",
+      "btop",
       "claude-code",
-      "claude-skills",
-      "content-marketing",
-      "google-search-console",
-      "link-building",
-      "llm",
-      "mcp",
-      "prompt-engineering",
-      "search-engine-optimization",
-      "semantic-seo",
-      "seo",
-      "seo-skills"
+      "cli",
+      "codex",
+      "developer-tools",
+      "htop",
+      "monitor",
+      "ratatui",
+      "rust",
+      "terminal",
+      "tui"
     ],
-    "created_at": "2026-04-13T11:54:39",
-    "updated_at": "2026-04-25T20:27:46"
+    "created_at": "2026-03-29T10:12:20",
+    "updated_at": "2026-04-26T03:59:42"
   },
   {
-    "name": "ouroboros",
-    "full_name": "RightNow-AI/ouroboros",
-    "description": "Dynamic weight generation for recursive transformers via input-conditioned LoRA modulation",
-    "url": "https://github.com/RightNow-AI/ouroboros",
-    "stars": 13,
-    "daily_stars": 8,
-    "language": "Python",
-    "topics": [
-      "adaptive-computation",
-      "deep-learning",
-      "hypernetworks",
-      "lora",
-      "pytorch",
-      "recursive-transformers",
-      "transformers"
-    ],
-    "created_at": "2026-04-02T13:37:25",
-    "updated_at": "2026-04-25T20:25:30"
-  },
-  {
-    "name": "agent-vault",
-    "full_name": "Infisical/agent-vault",
-    "description": "A HTTP credential proxy and vault for AI agents",
-    "url": "https://github.com/Infisical/agent-vault",
-    "stars": 688,
-    "daily_stars": 7,
-    "language": "Go",
-    "topics": [
-      "agents",
-      "ai-agents",
-      "secrets-management"
-    ],
-    "created_at": "2026-03-27T21:47:17",
-    "updated_at": "2026-04-25T20:47:44"
-  },
-  {
-    "name": "Agent-Architecture",
-    "full_name": "TheJacksonCode/Agent-Architecture",
-    "description": "Visual multi-agent system designer for Claude Code. 28 agents, Five Minds Protocol, HITL gates, Live Simulation. Zero dependencies, single HTML file.",
-    "url": "https://github.com/TheJacksonCode/Agent-Architecture",
-    "stars": 70,
-    "daily_stars": 7,
+    "name": "hermes-ecosystem",
+    "full_name": "ksimback/hermes-ecosystem",
+    "description": "🗺️ Hermes Atlas — the community map of every tool, skill, and integration for Hermes Agent by Nous Research. Live at hermesatlas.com",
+    "url": "https://github.com/ksimback/hermes-ecosystem",
+    "stars": 615,
+    "daily_stars": 10,
     "language": "HTML",
     "topics": [
-      "agent-orchestration",
       "ai-agents",
-      "anthropic",
-      "claude-code",
-      "five-minds",
-      "hitl",
-      "multi-agent",
-      "no-build",
-      "single-file",
-      "visual-designer"
+      "ecosystem-map",
+      "hermes-agent",
+      "hermes-atlas",
+      "nous-research"
     ],
-    "created_at": "2026-04-07T12:07:20",
-    "updated_at": "2026-04-25T20:35:59"
+    "created_at": "2026-04-08T17:07:13",
+    "updated_at": "2026-04-26T03:59:51"
   }
 ]
