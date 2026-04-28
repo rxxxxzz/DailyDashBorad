@@ -1,34 +1,44 @@
 [
   {
-    "name": "agent-startup-kit",
-    "full_name": "Blink-h/agent-startup-kit",
-    "description": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
-    "url": "https://github.com/Blink-h/agent-startup-kit",
-    "stars": 358,
-    "daily_stars": 68,
-    "language": null,
+    "name": "open-design",
+    "full_name": "nexu-io/open-design",
+    "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
+    "url": "https://github.com/nexu-io/open-design",
+    "stars": 595,
+    "daily_stars": 546,
+    "language": "TypeScript",
     "topics": [
-      "ai",
-      "ai-coding",
+      "ai-agents",
+      "ai-design",
+      "anthropic",
+      "byok",
+      "claude",
       "claude-code",
-      "developer-tools",
-      "productivity",
-      "saas",
+      "claude-design",
+      "codex",
+      "coding-agents",
+      "cursor",
+      "design",
+      "design-systems",
+      "design-tools",
+      "gemini-cli",
+      "generative-ai",
+      "llm",
+      "local-first",
+      "react",
       "skills",
-      "templates",
-      "vscode",
-      "workflow"
+      "typescript"
     ],
-    "created_at": "2026-04-17T09:03:55",
-    "updated_at": "2026-04-28T09:35:42"
+    "created_at": "2026-04-28T04:25:20",
+    "updated_at": "2026-04-28T15:04:15"
   },
   {
     "name": "hermes-webui",
     "full_name": "nesquena/hermes-webui",
     "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
     "url": "https://github.com/nesquena/hermes-webui",
-    "stars": 4686,
-    "daily_stars": 34,
+    "stars": 4733,
+    "daily_stars": 47,
     "language": "Python",
     "topics": [
       "agent",
@@ -38,15 +48,74 @@
       "nous-research"
     ],
     "created_at": "2026-03-30T21:50:12",
-    "updated_at": "2026-04-28T10:23:34"
+    "updated_at": "2026-04-28T15:00:56"
+  },
+  {
+    "name": "text-to-cad",
+    "full_name": "earthtojake/text-to-cad",
+    "description": "An open source harness for generating CAD models",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "stars": 1033,
+    "daily_stars": 33,
+    "language": "JavaScript",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "cad",
+      "text-to-cad",
+      "wasm"
+    ],
+    "created_at": "2026-04-22T01:09:45",
+    "updated_at": "2026-04-28T15:02:44"
+  },
+  {
+    "name": "stash",
+    "full_name": "alash3al/stash",
+    "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
+    "url": "https://github.com/alash3al/stash",
+    "stars": 482,
+    "daily_stars": 25,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-memory",
+      "memory"
+    ],
+    "created_at": "2026-04-24T22:05:12",
+    "updated_at": "2026-04-28T14:54:03"
+  },
+  {
+    "name": "harmonist",
+    "full_name": "GammaLabTechnologies/harmonist",
+    "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
+    "url": "https://github.com/GammaLabTechnologies/harmonist",
+    "stars": 795,
+    "daily_stars": 24,
+    "language": "Python",
+    "topics": [
+      "agent-framework",
+      "agent-system",
+      "ai-agents",
+      "claude-code",
+      "cursor-ide",
+      "llm",
+      "multi-agent-framework",
+      "orchestration",
+      "prompt-engineering",
+      "python"
+    ],
+    "created_at": "2026-04-23T05:42:29",
+    "updated_at": "2026-04-28T15:03:39"
   },
   {
     "name": "WorldX",
     "full_name": "YGYOOO/WorldX",
     "description": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own.",
     "url": "https://github.com/YGYOOO/WorldX",
-    "stars": 328,
-    "daily_stars": 28,
+    "stars": 350,
+    "daily_stars": 22,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -68,112 +137,14 @@
       "typescript"
     ],
     "created_at": "2026-04-18T06:24:32",
-    "updated_at": "2026-04-28T10:12:27"
-  },
-  {
-    "name": "pumpfun-ai-trading-bot",
-    "full_name": "Udacity-ai/pumpfun-ai-trading-bot",
-    "description": "TypeScript CLI: OpenAI-powered Pump.fun comment automation on Solana. Thread engagement, proxy support, wallet modes, and local data.json comment bank. ISC.",
-    "url": "https://github.com/Udacity-ai/pumpfun-ai-trading-bot",
-    "stars": 229,
-    "daily_stars": 19,
-    "language": "TypeScript",
-    "topics": [
-      "artificial-intelligence",
-      "automation",
-      "cli",
-      "defi",
-      "memecoin",
-      "openai",
-      "pumpfun",
-      "solana",
-      "solana-web3",
-      "trading-bot",
-      "typescript"
-    ],
-    "created_at": "2026-04-27T09:57:22",
-    "updated_at": "2026-04-28T10:11:03"
-  },
-  {
-    "name": "polymarket-ai-trading",
-    "full_name": "HKUDS-AI/polymarket-ai-trading",
-    "description": "Mean reversion and AI-assisted paper trading for Polymarket: Node.js API, OpenAI market insight, vector search, Kelly sizing, SQLite, Vercel dashboard. Research-focused; no live capital.",
-    "url": "https://github.com/HKUDS-AI/polymarket-ai-trading",
-    "stars": 228,
-    "daily_stars": 18,
-    "language": "HTML",
-    "topics": [
-      "dashboard",
-      "defi",
-      "express",
-      "fintech",
-      "hkuds-ai",
-      "javascript",
-      "machine-learning",
-      "mean-reversion",
-      "nodejs",
-      "openai",
-      "paper-trading",
-      "polymarket",
-      "prediction-markets",
-      "quantitative-finance",
-      "rest-api",
-      "sqlite",
-      "trading-bot",
-      "vercel",
-      "web3"
-    ],
-    "created_at": "2026-04-27T11:47:30",
-    "updated_at": "2026-04-28T10:11:13"
-  },
-  {
-    "name": "text-to-cad",
-    "full_name": "earthtojake/text-to-cad",
-    "description": "An open source harness for generating CAD models",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 1000,
-    "daily_stars": 16,
-    "language": "JavaScript",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "cad",
-      "text-to-cad",
-      "wasm"
-    ],
-    "created_at": "2026-04-22T01:09:45",
-    "updated_at": "2026-04-28T09:50:10"
-  },
-  {
-    "name": "harmonist",
-    "full_name": "GammaLabTechnologies/harmonist",
-    "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
-    "url": "https://github.com/GammaLabTechnologies/harmonist",
-    "stars": 771,
-    "daily_stars": 12,
-    "language": "Python",
-    "topics": [
-      "agent-framework",
-      "agent-system",
-      "ai-agents",
-      "claude-code",
-      "cursor-ide",
-      "llm",
-      "multi-agent-framework",
-      "orchestration",
-      "prompt-engineering",
-      "python"
-    ],
-    "created_at": "2026-04-23T05:42:29",
-    "updated_at": "2026-04-28T10:05:38"
+    "updated_at": "2026-04-28T14:30:38"
   },
   {
     "name": "DeepZero",
     "full_name": "416rehman/DeepZero",
     "description": "Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parses, decompiles, and analyzes thousands of Windows kernel drivers for exploitable IOCTLs natively using AI agents.",
     "url": "https://github.com/416rehman/DeepZero",
-    "stars": 335,
+    "stars": 346,
     "daily_stars": 11,
     "language": "Python",
     "topics": [
@@ -198,32 +169,58 @@
       "zero-day"
     ],
     "created_at": "2026-04-07T01:51:34",
-    "updated_at": "2026-04-28T09:19:36"
+    "updated_at": "2026-04-28T14:52:01"
   },
   {
-    "name": "stash",
-    "full_name": "alash3al/stash",
-    "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
-    "url": "https://github.com/alash3al/stash",
-    "stars": 457,
-    "daily_stars": 10,
+    "name": "thClaws",
+    "full_name": "thClaws/thClaws",
+    "description": "Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design.",
+    "url": "https://github.com/thClaws/thClaws",
+    "stars": 592,
+    "daily_stars": 9,
+    "language": "Rust",
+    "topics": [
+      "agent-harness",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "desktop-app",
+      "local-first",
+      "multi-provider",
+      "rust",
+      "tauri"
+    ],
+    "created_at": "2026-04-20T01:27:39",
+    "updated_at": "2026-04-28T13:48:15"
+  },
+  {
+    "name": "graymatter",
+    "full_name": "angelnicolasc/graymatter",
+    "description": "Three lines of code to give your AI agents persistent memory. Reduce 90% token consumption while also maintaining quality.",
+    "url": "https://github.com/angelnicolasc/graymatter",
+    "stars": 314,
+    "daily_stars": 9,
     "language": "Go",
     "topics": [
-      "ai",
+      "agent-memory",
       "ai-agents",
-      "ai-memory",
-      "memory"
+      "ai-tools",
+      "claude-code",
+      "cli",
+      "embedded-memory-go",
+      "go",
+      "persistent-memory"
     ],
-    "created_at": "2026-04-24T22:05:12",
-    "updated_at": "2026-04-28T10:06:16"
+    "created_at": "2026-04-08T20:04:36",
+    "updated_at": "2026-04-28T12:44:30"
   },
   {
     "name": "opencode-power-pack",
     "full_name": "waybarrios/opencode-power-pack",
     "description": "Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
     "url": "https://github.com/waybarrios/opencode-power-pack",
-    "stars": 75,
-    "daily_stars": 8,
+    "stars": 82,
+    "daily_stars": 7,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -238,6 +235,6 @@
       "skills"
     ],
     "created_at": "2026-04-26T17:13:11",
-    "updated_at": "2026-04-28T10:12:31"
+    "updated_at": "2026-04-28T14:15:48"
   }
 ]
