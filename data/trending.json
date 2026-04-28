@@ -4,8 +4,8 @@
     "full_name": "nexu-io/open-design",
     "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 595,
-    "daily_stars": 546,
+    "stars": 874,
+    "daily_stars": 279,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -30,15 +30,15 @@
       "typescript"
     ],
     "created_at": "2026-04-28T04:25:20",
-    "updated_at": "2026-04-28T15:04:15"
+    "updated_at": "2026-04-28T18:03:21"
   },
   {
     "name": "hermes-webui",
     "full_name": "nesquena/hermes-webui",
     "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
     "url": "https://github.com/nesquena/hermes-webui",
-    "stars": 4733,
-    "daily_stars": 47,
+    "stars": 4753,
+    "daily_stars": 20,
     "language": "Python",
     "topics": [
       "agent",
@@ -48,15 +48,15 @@
       "nous-research"
     ],
     "created_at": "2026-03-30T21:50:12",
-    "updated_at": "2026-04-28T15:00:56"
+    "updated_at": "2026-04-28T17:59:44"
   },
   {
     "name": "text-to-cad",
     "full_name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 1033,
-    "daily_stars": 33,
+    "stars": 1049,
+    "daily_stars": 16,
     "language": "JavaScript",
     "topics": [
       "agents",
@@ -67,32 +67,15 @@
       "wasm"
     ],
     "created_at": "2026-04-22T01:09:45",
-    "updated_at": "2026-04-28T15:02:44"
-  },
-  {
-    "name": "stash",
-    "full_name": "alash3al/stash",
-    "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
-    "url": "https://github.com/alash3al/stash",
-    "stars": 482,
-    "daily_stars": 25,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-memory",
-      "memory"
-    ],
-    "created_at": "2026-04-24T22:05:12",
-    "updated_at": "2026-04-28T14:54:03"
+    "updated_at": "2026-04-28T18:00:36"
   },
   {
     "name": "harmonist",
     "full_name": "GammaLabTechnologies/harmonist",
     "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
     "url": "https://github.com/GammaLabTechnologies/harmonist",
-    "stars": 795,
-    "daily_stars": 24,
+    "stars": 808,
+    "daily_stars": 13,
     "language": "Python",
     "topics": [
       "agent-framework",
@@ -107,77 +90,53 @@
       "python"
     ],
     "created_at": "2026-04-23T05:42:29",
-    "updated_at": "2026-04-28T15:03:39"
+    "updated_at": "2026-04-28T18:02:41"
   },
   {
-    "name": "WorldX",
-    "full_name": "YGYOOO/WorldX",
-    "description": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own.",
-    "url": "https://github.com/YGYOOO/WorldX",
-    "stars": 350,
-    "daily_stars": 22,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agents",
-      "ai-characters",
-      "ai-simulation",
-      "ai-world",
-      "emergent-behavior",
-      "game-ai",
-      "generative-agents",
-      "generative-ai",
-      "llm",
-      "llm-agents",
-      "multi-agent-simulation",
-      "open-source",
-      "phaser",
-      "pixel-art",
-      "typescript"
-    ],
-    "created_at": "2026-04-18T06:24:32",
-    "updated_at": "2026-04-28T14:30:38"
-  },
-  {
-    "name": "DeepZero",
-    "full_name": "416rehman/DeepZero",
-    "description": "Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parses, decompiles, and analyzes thousands of Windows kernel drivers for exploitable IOCTLs natively using AI agents.",
-    "url": "https://github.com/416rehman/DeepZero",
-    "stars": 346,
-    "daily_stars": 11,
-    "language": "Python",
+    "name": "stash",
+    "full_name": "alash3al/stash",
+    "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
+    "url": "https://github.com/alash3al/stash",
+    "stars": 491,
+    "daily_stars": 9,
+    "language": "Go",
     "topics": [
       "ai",
       "ai-agents",
-      "automated-analysis",
-      "cybersecurity",
-      "deep-agents",
-      "deepzero",
-      "exploit-development",
-      "kernel-drivers",
-      "langchain",
-      "llm",
-      "pipeline",
-      "python",
-      "reverse-engineering",
-      "semgrep",
-      "vertex",
-      "vertex-ai",
-      "vulnerability-research",
-      "windows-kernel",
-      "zero-day"
+      "ai-memory",
+      "memory"
     ],
-    "created_at": "2026-04-07T01:51:34",
-    "updated_at": "2026-04-28T14:52:01"
+    "created_at": "2026-04-24T22:05:12",
+    "updated_at": "2026-04-28T17:41:18"
+  },
+  {
+    "name": "graymatter",
+    "full_name": "angelnicolasc/graymatter",
+    "description": "Three lines of code to give your AI agents persistent memory. Reduce 90% token consumption while also maintaining quality.",
+    "url": "https://github.com/angelnicolasc/graymatter",
+    "stars": 322,
+    "daily_stars": 8,
+    "language": "Go",
+    "topics": [
+      "agent-memory",
+      "ai-agents",
+      "ai-tools",
+      "claude-code",
+      "cli",
+      "embedded-memory-go",
+      "go",
+      "persistent-memory"
+    ],
+    "created_at": "2026-04-08T20:04:36",
+    "updated_at": "2026-04-28T18:03:36"
   },
   {
     "name": "thClaws",
     "full_name": "thClaws/thClaws",
     "description": "Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design.",
     "url": "https://github.com/thClaws/thClaws",
-    "stars": 592,
-    "daily_stars": 9,
+    "stars": 599,
+    "daily_stars": 7,
     "language": "Rust",
     "topics": [
       "agent-harness",
@@ -191,36 +150,35 @@
       "tauri"
     ],
     "created_at": "2026-04-20T01:27:39",
-    "updated_at": "2026-04-28T13:48:15"
+    "updated_at": "2026-04-28T17:44:43"
   },
   {
-    "name": "graymatter",
-    "full_name": "angelnicolasc/graymatter",
-    "description": "Three lines of code to give your AI agents persistent memory. Reduce 90% token consumption while also maintaining quality.",
-    "url": "https://github.com/angelnicolasc/graymatter",
-    "stars": 314,
-    "daily_stars": 9,
-    "language": "Go",
+    "name": "labrat",
+    "full_name": "ProjectDXAI/labrat",
+    "description": "Autonomous multi-branch research lab. Branches compete for compute budget. The system converges on what works.",
+    "url": "https://github.com/ProjectDXAI/labrat",
+    "stars": 237,
+    "daily_stars": 5,
+    "language": "Python",
     "topics": [
-      "agent-memory",
       "ai-agents",
-      "ai-tools",
+      "autonomous-research",
       "claude-code",
-      "cli",
-      "embedded-memory-go",
-      "go",
-      "persistent-memory"
+      "experiment-management",
+      "market-allocation",
+      "multi-agent",
+      "research-automation"
     ],
-    "created_at": "2026-04-08T20:04:36",
-    "updated_at": "2026-04-28T12:44:30"
+    "created_at": "2026-03-30T20:31:36",
+    "updated_at": "2026-04-28T18:03:46"
   },
   {
     "name": "opencode-power-pack",
     "full_name": "waybarrios/opencode-power-pack",
     "description": "Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
     "url": "https://github.com/waybarrios/opencode-power-pack",
-    "stars": 82,
-    "daily_stars": 7,
+    "stars": 86,
+    "daily_stars": 4,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -235,6 +193,31 @@
       "skills"
     ],
     "created_at": "2026-04-26T17:13:11",
-    "updated_at": "2026-04-28T14:15:48"
+    "updated_at": "2026-04-28T17:50:45"
+  },
+  {
+    "name": "Jackrong-llm-finetuning-guide",
+    "full_name": "R6410418/Jackrong-llm-finetuning-guide",
+    "description": null,
+    "url": "https://github.com/R6410418/Jackrong-llm-finetuning-guide",
+    "stars": 1043,
+    "daily_stars": 4,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "dataset",
+      "deepseek",
+      "fine-tuning",
+      "guide",
+      "llama3",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "openai",
+      "pytorch",
+      "qwen",
+      "unsloth"
+    ],
+    "created_at": "2026-04-05T08:04:43",
+    "updated_at": "2026-04-28T17:47:25"
   }
 ]
