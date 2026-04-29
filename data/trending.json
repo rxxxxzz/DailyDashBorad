@@ -4,8 +4,8 @@
     "full_name": "nexu-io/open-design",
     "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 2769,
-    "daily_stars": 559,
+    "stars": 3396,
+    "daily_stars": 627,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -30,15 +30,98 @@
       "typescript"
     ],
     "created_at": "2026-04-28T04:25:20",
-    "updated_at": "2026-04-29T10:23:59"
+    "updated_at": "2026-04-29T14:36:43"
+  },
+  {
+    "name": "smfs",
+    "full_name": "supermemoryai/smfs",
+    "description": "A filesystem designed for agents, with SOTA retrieval, automatic memory profiles, sync engine. Drop any file type (pdf, images, videos), and grep through them.",
+    "url": "https://github.com/supermemoryai/smfs",
+    "stars": 87,
+    "daily_stars": 25,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-memory",
+      "filesystem",
+      "memory",
+      "rag"
+    ],
+    "created_at": "2026-04-14T19:00:51",
+    "updated_at": "2026-04-29T14:27:32"
+  },
+  {
+    "name": "kiwifs",
+    "full_name": "kiwifs/kiwifs",
+    "description": "The knowledge server — PocketBase for knowledge. One Go binary, zero config.",
+    "url": "https://github.com/kiwifs/kiwifs",
+    "stars": 189,
+    "daily_stars": 24,
+    "language": "Go",
+    "topics": [
+      "ai-agents",
+      "filesystem",
+      "golang",
+      "knowledge-base",
+      "knowledge-graph",
+      "llm-wiki",
+      "markdown",
+      "obsidian",
+      "self-hosted",
+      "wiki"
+    ],
+    "created_at": "2026-04-22T04:27:55",
+    "updated_at": "2026-04-29T14:01:15"
+  },
+  {
+    "name": "text-to-cad",
+    "full_name": "earthtojake/text-to-cad",
+    "description": "An open source harness for generating CAD models",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "stars": 1148,
+    "daily_stars": 17,
+    "language": "JavaScript",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "cad",
+      "text-to-cad",
+      "wasm"
+    ],
+    "created_at": "2026-04-22T01:09:45",
+    "updated_at": "2026-04-29T14:21:57"
+  },
+  {
+    "name": "harmonist",
+    "full_name": "GammaLabTechnologies/harmonist",
+    "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
+    "url": "https://github.com/GammaLabTechnologies/harmonist",
+    "stars": 876,
+    "daily_stars": 15,
+    "language": "Python",
+    "topics": [
+      "agent-framework",
+      "agent-system",
+      "ai-agents",
+      "claude-code",
+      "cursor-ide",
+      "llm",
+      "multi-agent-framework",
+      "orchestration",
+      "prompt-engineering",
+      "python"
+    ],
+    "created_at": "2026-04-23T05:42:29",
+    "updated_at": "2026-04-29T14:35:50"
   },
   {
     "name": "WorldX",
     "full_name": "YGYOOO/WorldX",
     "description": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own.",
     "url": "https://github.com/YGYOOO/WorldX",
-    "stars": 400,
-    "daily_stars": 24,
+    "stars": 409,
+    "daily_stars": 9,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -60,168 +143,40 @@
       "typescript"
     ],
     "created_at": "2026-04-18T06:24:32",
-    "updated_at": "2026-04-29T09:55:09"
+    "updated_at": "2026-04-29T14:10:12"
   },
   {
-    "name": "smfs",
-    "full_name": "supermemoryai/smfs",
-    "description": "A filesystem designed for agents, with SOTA retrieval, automatic memory profiles, sync engine. Drop any file type (pdf, images, videos), and grep through them.",
-    "url": "https://github.com/supermemoryai/smfs",
-    "stars": 62,
-    "daily_stars": 23,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-memory",
-      "filesystem",
-      "memory",
-      "rag"
-    ],
-    "created_at": "2026-04-14T19:00:51",
-    "updated_at": "2026-04-29T10:02:43"
-  },
-  {
-    "name": "kiwifs",
-    "full_name": "kiwifs/kiwifs",
-    "description": "The knowledge server — PocketBase for knowledge. One Go binary, zero config.",
-    "url": "https://github.com/kiwifs/kiwifs",
-    "stars": 165,
-    "daily_stars": 18,
-    "language": "Go",
-    "topics": [
-      "ai-agents",
-      "filesystem",
-      "golang",
-      "knowledge-base",
-      "knowledge-graph",
-      "llm-wiki",
-      "markdown",
-      "obsidian",
-      "self-hosted",
-      "wiki"
-    ],
-    "created_at": "2026-04-22T04:27:55",
-    "updated_at": "2026-04-29T10:19:23"
-  },
-  {
-    "name": "text-to-cad",
-    "full_name": "earthtojake/text-to-cad",
-    "description": "An open source harness for generating CAD models",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 1131,
-    "daily_stars": 17,
-    "language": "JavaScript",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "cad",
-      "text-to-cad",
-      "wasm"
-    ],
-    "created_at": "2026-04-22T01:09:45",
-    "updated_at": "2026-04-29T10:23:40"
-  },
-  {
-    "name": "Project_Chronos",
-    "full_name": "FonaTech/Project_Chronos",
-    "description": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
-    "url": "https://github.com/FonaTech/Project_Chronos",
-    "stars": 109,
-    "daily_stars": 14,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "async-dma",
-      "dual-layer-moe",
-      "generative-ai",
-      "high-throughput",
-      "io-latency-hiding",
-      "large-language-model",
-      "llm",
-      "lookahead-routing",
-      "lora",
-      "mixture-of-experts",
-      "mla-attention",
-      "open-models",
-      "open-source",
-      "predictive-inference",
-      "sliding-window-attention",
-      "ssd-offloading",
-      "streaming-llm"
-    ],
-    "created_at": "2026-04-19T21:05:18",
-    "updated_at": "2026-04-29T10:07:14"
-  },
-  {
-    "name": "Evosmash",
-    "full_name": "yanpeigong/Evosmash",
-    "description": "[National College Student Software Innovation Competition]  🏸AI-powered badminton analysis, coaching, and tactical evolution agent",
-    "url": "https://github.com/yanpeigong/Evosmash",
-    "stars": 119,
-    "daily_stars": 11,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "deep-learning",
-      "software"
-    ],
-    "created_at": "2026-04-13T08:37:36",
-    "updated_at": "2026-04-29T10:02:13"
-  },
-  {
-    "name": "CyberVerse",
-    "full_name": "dsd2077/CyberVerse",
-    "description": "CyberVerse is an open-source digital human agent platform with real-time video calling. Create an AI agent you can see and talk to, face to face, just like a video call.",
-    "url": "https://github.com/dsd2077/CyberVerse",
-    "stars": 256,
-    "daily_stars": 9,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-companion",
-      "digital-human",
-      "digital-life",
-      "grok-companion",
-      "jarvis-assistant",
-      "sillytavern",
-      "streaming",
-      "vtuber",
-      "webrtc"
-    ],
-    "created_at": "2026-04-18T15:00:11",
-    "updated_at": "2026-04-29T10:01:00"
-  },
-  {
-    "name": "agent-startup-kit",
-    "full_name": "Blink-h/agent-startup-kit",
-    "description": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
-    "url": "https://github.com/Blink-h/agent-startup-kit",
-    "stars": 378,
+    "name": "A-Long-Walk-of-AI",
+    "full_name": "hgus107/A-Long-Walk-of-AI",
+    "description": "A narrative walk through 90 years of AI history, paper by paper. 66 chapters from Turing 1936 to Blackwell 2025.",
+    "url": "https://github.com/hgus107/A-Long-Walk-of-AI",
+    "stars": 23,
     "daily_stars": 8,
     "language": null,
     "topics": [
-      "ai",
-      "ai-coding",
-      "claude-code",
-      "developer-tools",
-      "productivity",
-      "saas",
-      "skills",
-      "templates",
-      "vscode",
-      "workflow"
+      "ai-history",
+      "bert",
+      "deep-learning",
+      "diffusion",
+      "educational",
+      "gpu",
+      "llama",
+      "llm",
+      "machine-learning",
+      "neural-network",
+      "nueral-networks",
+      "transformers"
     ],
-    "created_at": "2026-04-17T09:03:55",
-    "updated_at": "2026-04-29T09:22:52"
+    "created_at": "2026-04-25T13:19:38",
+    "updated_at": "2026-04-29T14:17:30"
   },
   {
     "name": "pumpfun-ai-trading-bot",
     "full_name": "Udacity-ai/pumpfun-ai-trading-bot",
     "description": "TypeScript CLI: OpenAI-powered Pump.fun comment automation on Solana. Thread engagement, proxy support, wallet modes, and local data.json comment bank. ISC.",
     "url": "https://github.com/Udacity-ai/pumpfun-ai-trading-bot",
-    "stars": 150,
-    "daily_stars": 7,
+    "stars": 155,
+    "daily_stars": 5,
     "language": "TypeScript",
     "topics": [
       "artificial-intelligence",
@@ -237,6 +192,47 @@
       "typescript"
     ],
     "created_at": "2026-04-27T09:57:22",
-    "updated_at": "2026-04-29T10:21:04"
+    "updated_at": "2026-04-29T14:24:34"
+  },
+  {
+    "name": "open-multi-agent",
+    "full_name": "JackChen-me/open-multi-agent",
+    "description": "Production-grade multi-agent orchestration framework. Model-agnostic, supports team collaboration, task scheduling, and inter-agent communication.",
+    "url": "https://github.com/JackChen-me/open-multi-agent",
+    "stars": 5971,
+    "daily_stars": 5,
+    "language": "TypeScript",
+    "topics": [
+      "agent-framework",
+      "ai-agents",
+      "claude",
+      "llm",
+      "model-agnostic",
+      "multi-agent",
+      "openai",
+      "orchestration",
+      "task-scheduling",
+      "typescript"
+    ],
+    "created_at": "2026-03-31T19:07:34",
+    "updated_at": "2026-04-29T14:13:23"
+  },
+  {
+    "name": "hermes-ecosystem",
+    "full_name": "ksimback/hermes-ecosystem",
+    "description": "🗺️ Hermes Atlas — the community map of every tool, skill, and integration for Hermes Agent by Nous Research. Live at hermesatlas.com",
+    "url": "https://github.com/ksimback/hermes-ecosystem",
+    "stars": 652,
+    "daily_stars": 5,
+    "language": "HTML",
+    "topics": [
+      "ai-agents",
+      "ecosystem-map",
+      "hermes-agent",
+      "hermes-atlas",
+      "nous-research"
+    ],
+    "created_at": "2026-04-08T17:07:13",
+    "updated_at": "2026-04-29T13:53:16"
   }
 ]
