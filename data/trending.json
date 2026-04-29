@@ -4,8 +4,8 @@
     "full_name": "nexu-io/open-design",
     "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 1779,
-    "daily_stars": 811,
+    "stars": 2210,
+    "daily_stars": 431,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -30,51 +30,38 @@
       "typescript"
     ],
     "created_at": "2026-04-28T04:25:20",
-    "updated_at": "2026-04-29T04:08:47"
+    "updated_at": "2026-04-29T06:42:19"
   },
   {
-    "name": "text-to-cad",
-    "full_name": "earthtojake/text-to-cad",
-    "description": "An open source harness for generating CAD models",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 1107,
-    "daily_stars": 32,
-    "language": "JavaScript",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "cad",
-      "text-to-cad",
-      "wasm"
-    ],
-    "created_at": "2026-04-22T01:09:45",
-    "updated_at": "2026-04-29T04:04:30"
-  },
-  {
-    "name": "stash",
-    "full_name": "alash3al/stash",
-    "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
-    "url": "https://github.com/alash3al/stash",
-    "stars": 523,
-    "daily_stars": 23,
+    "name": "kiwifs",
+    "full_name": "kiwifs/kiwifs",
+    "description": "The knowledge server — PocketBase for knowledge. One Go binary, zero config.",
+    "url": "https://github.com/kiwifs/kiwifs",
+    "stars": 147,
+    "daily_stars": 14,
     "language": "Go",
     "topics": [
-      "ai",
       "ai-agents",
-      "ai-memory",
-      "memory"
+      "filesystem",
+      "golang",
+      "knowledge-base",
+      "knowledge-graph",
+      "llm-wiki",
+      "markdown",
+      "obsidian",
+      "self-hosted",
+      "wiki"
     ],
-    "created_at": "2026-04-24T22:05:12",
-    "updated_at": "2026-04-29T04:07:20"
+    "created_at": "2026-04-22T04:27:55",
+    "updated_at": "2026-04-29T06:39:30"
   },
   {
     "name": "harmonist",
     "full_name": "GammaLabTechnologies/harmonist",
     "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
     "url": "https://github.com/GammaLabTechnologies/harmonist",
-    "stars": 844,
-    "daily_stars": 20,
+    "stars": 855,
+    "daily_stars": 11,
     "language": "Python",
     "topics": [
       "agent-framework",
@@ -89,15 +76,121 @@
       "python"
     ],
     "created_at": "2026-04-23T05:42:29",
-    "updated_at": "2026-04-29T04:07:14"
+    "updated_at": "2026-04-29T06:23:30"
+  },
+  {
+    "name": "text-to-cad",
+    "full_name": "earthtojake/text-to-cad",
+    "description": "An open source harness for generating CAD models",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "stars": 1114,
+    "daily_stars": 7,
+    "language": "JavaScript",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "cad",
+      "text-to-cad",
+      "wasm"
+    ],
+    "created_at": "2026-04-22T01:09:45",
+    "updated_at": "2026-04-29T06:38:45"
+  },
+  {
+    "name": "A-Long-Walk-of-AI",
+    "full_name": "hgus107/A-Long-Walk-of-AI",
+    "description": "A narrative walk through 90 years of AI history, paper by paper. 66 chapters from Turing 1936 to Blackwell 2025.",
+    "url": "https://github.com/hgus107/A-Long-Walk-of-AI",
+    "stars": 9,
+    "daily_stars": 7,
+    "language": null,
+    "topics": [
+      "ai-history",
+      "bert",
+      "deep-learning",
+      "diffusion",
+      "educational",
+      "gpu",
+      "llama",
+      "llm",
+      "machine-learning",
+      "neural-network",
+      "nueral-networks",
+      "transformers"
+    ],
+    "created_at": "2026-04-25T13:19:38",
+    "updated_at": "2026-04-29T06:08:21"
+  },
+  {
+    "name": "CyberVerse",
+    "full_name": "dsd2077/CyberVerse",
+    "description": "CyberVerse is an open-source digital human agent platform with real-time video calling. Create an AI agent you can see and talk to, face to face, just like a video call.",
+    "url": "https://github.com/dsd2077/CyberVerse",
+    "stars": 247,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-companion",
+      "digital-human",
+      "digital-life",
+      "grok-companion",
+      "jarvis-assistant",
+      "sillytavern",
+      "streaming",
+      "vtuber",
+      "webrtc"
+    ],
+    "created_at": "2026-04-18T15:00:11",
+    "updated_at": "2026-04-29T06:07:00"
+  },
+  {
+    "name": "thClaws",
+    "full_name": "thClaws/thClaws",
+    "description": "Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design.",
+    "url": "https://github.com/thClaws/thClaws",
+    "stars": 612,
+    "daily_stars": 4,
+    "language": "Rust",
+    "topics": [
+      "agent-harness",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "desktop-app",
+      "local-first",
+      "multi-provider",
+      "rust",
+      "tauri"
+    ],
+    "created_at": "2026-04-20T01:27:39",
+    "updated_at": "2026-04-29T06:27:15"
+  },
+  {
+    "name": "stash",
+    "full_name": "alash3al/stash",
+    "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
+    "url": "https://github.com/alash3al/stash",
+    "stars": 527,
+    "daily_stars": 4,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-memory",
+      "memory"
+    ],
+    "created_at": "2026-04-24T22:05:12",
+    "updated_at": "2026-04-29T06:23:00"
   },
   {
     "name": "WorldX",
     "full_name": "YGYOOO/WorldX",
     "description": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own.",
     "url": "https://github.com/YGYOOO/WorldX",
-    "stars": 372,
-    "daily_stars": 19,
+    "stars": 376,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -119,15 +212,15 @@
       "typescript"
     ],
     "created_at": "2026-04-18T06:24:32",
-    "updated_at": "2026-04-29T04:00:32"
+    "updated_at": "2026-04-29T06:24:38"
   },
   {
     "name": "pumpfun-ai-trading-bot",
     "full_name": "Udacity-ai/pumpfun-ai-trading-bot",
     "description": "TypeScript CLI: OpenAI-powered Pump.fun comment automation on Solana. Thread engagement, proxy support, wallet modes, and local data.json comment bank. ISC.",
     "url": "https://github.com/Udacity-ai/pumpfun-ai-trading-bot",
-    "stars": 140,
-    "daily_stars": 14,
+    "stars": 143,
+    "daily_stars": 3,
     "language": "TypeScript",
     "topics": [
       "artificial-intelligence",
@@ -143,113 +236,6 @@
       "typescript"
     ],
     "created_at": "2026-04-27T09:57:22",
-    "updated_at": "2026-04-29T03:49:04"
-  },
-  {
-    "name": "polymarket-ai-trading",
-    "full_name": "HKUDS-AI/polymarket-ai-trading",
-    "description": "Mean reversion and AI-assisted paper trading for Polymarket: Node.js API, OpenAI market insight, vector search, Kelly sizing, SQLite, Vercel dashboard. Research-focused; no live capital.",
-    "url": "https://github.com/HKUDS-AI/polymarket-ai-trading",
-    "stars": 140,
-    "daily_stars": 14,
-    "language": "HTML",
-    "topics": [
-      "dashboard",
-      "defi",
-      "express",
-      "fintech",
-      "hkuds-ai",
-      "javascript",
-      "machine-learning",
-      "mean-reversion",
-      "nodejs",
-      "openai",
-      "paper-trading",
-      "polymarket",
-      "prediction-markets",
-      "quantitative-finance",
-      "rest-api",
-      "sqlite",
-      "trading-bot",
-      "vercel",
-      "web3"
-    ],
-    "created_at": "2026-04-27T11:47:30",
-    "updated_at": "2026-04-29T03:49:48"
-  },
-  {
-    "name": "storybloq",
-    "full_name": "Storybloq/storybloq",
-    "description": "Cross-session context for Claude Code. CLI + MCP server + /story skill that tracks tickets, issues, handovers, and roadmap in a .story/ directory.",
-    "url": "https://github.com/Storybloq/storybloq",
-    "stars": 61,
-    "daily_stars": 14,
-    "language": "TypeScript",
-    "topics": [
-      "agentic-development",
-      "ai-development",
-      "anthropic",
-      "claude-code",
-      "claude-skill",
-      "cli",
-      "context-management",
-      "developer-tools",
-      "handover",
-      "mcp",
-      "mcp-server",
-      "project-management",
-      "session-continuity",
-      "typescript",
-      "workflow"
-    ],
-    "created_at": "2026-04-17T00:51:21",
-    "updated_at": "2026-04-29T03:45:05"
-  },
-  {
-    "name": "llmwiki",
-    "full_name": "lucasastorian/llmwiki",
-    "description": "Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki ! ",
-    "url": "https://github.com/lucasastorian/llmwiki",
-    "stars": 724,
-    "daily_stars": 10,
-    "language": "TypeScript",
-    "topics": [
-      "agents",
-      "ai-agents",
-      "claude",
-      "karpathy",
-      "knowledge-base",
-      "llm",
-      "llm-wiki",
-      "mcp",
-      "mcp-server",
-      "rag",
-      "supabase"
-    ],
-    "created_at": "2026-04-04T17:10:02",
-    "updated_at": "2026-04-29T03:29:16"
-  },
-  {
-    "name": "CyberVerse",
-    "full_name": "dsd2077/CyberVerse",
-    "description": "CyberVerse is an open-source digital human agent platform with real-time video calling. Create an AI agent you can see and talk to, face to face, just like a video call.",
-    "url": "https://github.com/dsd2077/CyberVerse",
-    "stars": 241,
-    "daily_stars": 9,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-companion",
-      "digital-human",
-      "digital-life",
-      "grok-companion",
-      "jarvis-assistant",
-      "sillytavern",
-      "streaming",
-      "vtuber",
-      "webrtc"
-    ],
-    "created_at": "2026-04-18T15:00:11",
-    "updated_at": "2026-04-29T03:54:49"
+    "updated_at": "2026-04-29T05:51:09"
   }
 ]
