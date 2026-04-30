@@ -4,8 +4,8 @@
     "full_name": "nexu-io/open-design",
     "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 7367,
-    "daily_stars": 707,
+    "stars": 7912,
+    "daily_stars": 545,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -30,15 +30,15 @@
       "typescript"
     ],
     "created_at": "2026-04-28T04:25:20",
-    "updated_at": "2026-04-30T17:49:23"
+    "updated_at": "2026-04-30T21:32:20"
   },
   {
     "name": "harmonist",
     "full_name": "GammaLabTechnologies/harmonist",
     "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
     "url": "https://github.com/GammaLabTechnologies/harmonist",
-    "stars": 927,
-    "daily_stars": 5,
+    "stars": 941,
+    "daily_stars": 14,
     "language": "Python",
     "topics": [
       "agent-framework",
@@ -53,15 +53,15 @@
       "python"
     ],
     "created_at": "2026-04-23T05:42:29",
-    "updated_at": "2026-04-30T16:30:40"
+    "updated_at": "2026-04-30T21:22:04"
   },
   {
     "name": "stash",
     "full_name": "alash3al/stash",
     "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
     "url": "https://github.com/alash3al/stash",
-    "stars": 587,
-    "daily_stars": 5,
+    "stars": 595,
+    "daily_stars": 8,
     "language": "Go",
     "topics": [
       "ai",
@@ -70,15 +70,15 @@
       "memory"
     ],
     "created_at": "2026-04-24T22:05:12",
-    "updated_at": "2026-04-30T17:01:09"
+    "updated_at": "2026-04-30T21:22:06"
   },
   {
     "name": "linus-torvalds-skills",
     "full_name": "leopiney/linus-torvalds-skills",
     "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Linus Torvalds' observations on coding pitfalls.",
     "url": "https://github.com/leopiney/linus-torvalds-skills",
-    "stars": 195,
-    "daily_stars": 0,
+    "stars": 198,
+    "daily_stars": 3,
     "language": null,
     "topics": [
       "agent-skills",
@@ -90,15 +90,38 @@
       "skills"
     ],
     "created_at": "2026-04-22T22:55:31",
-    "updated_at": "2026-04-30T13:35:20"
+    "updated_at": "2026-04-30T21:22:48"
+  },
+  {
+    "name": "opencode-power-pack",
+    "full_name": "waybarrios/opencode-power-pack",
+    "description": "Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
+    "url": "https://github.com/waybarrios/opencode-power-pack",
+    "stars": 157,
+    "daily_stars": 6,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude-code",
+      "code-review",
+      "developer-tools",
+      "llm-tools",
+      "opencode",
+      "plugin",
+      "security-audit",
+      "skills"
+    ],
+    "created_at": "2026-04-26T17:13:11",
+    "updated_at": "2026-04-30T21:19:27"
   },
   {
     "name": "pumpfun-ai-trading-bot",
     "full_name": "Udacity-ai/pumpfun-ai-trading-bot",
     "description": "TypeScript CLI: OpenAI-powered Pump.fun comment automation on Solana. Thread engagement, proxy support, wallet modes, and local data.json comment bank. ISC.",
     "url": "https://github.com/Udacity-ai/pumpfun-ai-trading-bot",
-    "stars": 154,
-    "daily_stars": -7,
+    "stars": 151,
+    "daily_stars": -3,
     "language": "TypeScript",
     "topics": [
       "artificial-intelligence",
@@ -114,15 +137,15 @@
       "typescript"
     ],
     "created_at": "2026-04-27T09:57:22",
-    "updated_at": "2026-04-30T16:59:08"
+    "updated_at": "2026-04-30T21:03:26"
   },
   {
     "name": "polymarket-ai-trading",
     "full_name": "HKUDS-AI/polymarket-ai-trading",
     "description": "Mean reversion and AI-assisted paper trading for Polymarket: Node.js API, OpenAI market insight, vector search, Kelly sizing, SQLite, Vercel dashboard. Research-focused; no live capital.",
     "url": "https://github.com/HKUDS-AI/polymarket-ai-trading",
-    "stars": 154,
-    "daily_stars": -7,
+    "stars": 151,
+    "daily_stars": -3,
     "language": "HTML",
     "topics": [
       "dashboard",
@@ -146,38 +169,15 @@
       "web3"
     ],
     "created_at": "2026-04-27T11:47:30",
-    "updated_at": "2026-04-30T16:59:08"
-  },
-  {
-    "name": "opencode-power-pack",
-    "full_name": "waybarrios/opencode-power-pack",
-    "description": "Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
-    "url": "https://github.com/waybarrios/opencode-power-pack",
-    "stars": 151,
-    "daily_stars": 5,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "claude-code",
-      "code-review",
-      "developer-tools",
-      "llm-tools",
-      "opencode",
-      "plugin",
-      "security-audit",
-      "skills"
-    ],
-    "created_at": "2026-04-26T17:13:11",
-    "updated_at": "2026-04-30T17:38:34"
+    "updated_at": "2026-04-30T21:03:27"
   },
   {
     "name": "ai-trading-agent",
     "full_name": "endless-sky-team/ai-trading-agent",
     "description": "llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals",
     "url": "https://github.com/endless-sky-team/ai-trading-agent",
-    "stars": 138,
-    "daily_stars": 2,
+    "stars": 137,
+    "daily_stars": -1,
     "language": "TypeScript",
     "topics": [
       "ai-trading",
@@ -202,15 +202,15 @@
       "typescript"
     ],
     "created_at": "2026-04-29T21:48:01",
-    "updated_at": "2026-04-30T17:08:25"
+    "updated_at": "2026-04-30T21:03:27"
   },
   {
     "name": "ctf-super-hub",
     "full_name": "asdfgh1445/ctf-super-hub",
     "description": " 面向小白用户的 CTF / 逆向 Skills 整合包：自动分流、头脑风暴、教学模式、比赛模式、只提示模式",
     "url": "https://github.com/asdfgh1445/ctf-super-hub",
-    "stars": 135,
-    "daily_stars": 0,
+    "stars": 136,
+    "daily_stars": 1,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -226,14 +226,14 @@
       "web-security"
     ],
     "created_at": "2026-04-23T15:24:35",
-    "updated_at": "2026-04-30T14:30:23"
+    "updated_at": "2026-04-30T19:39:53"
   },
   {
     "name": "facex",
     "full_name": "facex-engine/facex",
     "description": "Fast face embedding library. 3ms, 7MB, zero dependencies. Beats ONNX Runtime on CPU.",
     "url": "https://github.com/facex-engine/facex",
-    "stars": 98,
+    "stars": 100,
     "daily_stars": 2,
     "language": "C",
     "topics": [
@@ -256,6 +256,6 @@
       "zero-dependencies"
     ],
     "created_at": "2026-04-25T12:49:25",
-    "updated_at": "2026-04-30T17:41:39"
+    "updated_at": "2026-04-30T21:22:08"
   }
 ]
