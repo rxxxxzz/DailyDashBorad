@@ -4,8 +4,8 @@
     "full_name": "nexu-io/open-design",
     "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 8707,
-    "daily_stars": 795,
+    "stars": 9510,
+    "daily_stars": 803,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -30,15 +30,37 @@
       "typescript"
     ],
     "created_at": "2026-04-28T04:25:20",
-    "updated_at": "2026-05-01T04:34:48"
+    "updated_at": "2026-05-01T10:05:13"
+  },
+  {
+    "name": "thClaws",
+    "full_name": "thClaws/thClaws",
+    "description": "Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design.",
+    "url": "https://github.com/thClaws/thClaws",
+    "stars": 675,
+    "daily_stars": 27,
+    "language": "Rust",
+    "topics": [
+      "agent-harness",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "desktop-app",
+      "local-first",
+      "multi-provider",
+      "rust",
+      "tauri"
+    ],
+    "created_at": "2026-04-20T01:27:39",
+    "updated_at": "2026-05-01T09:26:54"
   },
   {
     "name": "harmonist",
     "full_name": "GammaLabTechnologies/harmonist",
     "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
     "url": "https://github.com/GammaLabTechnologies/harmonist",
-    "stars": 971,
-    "daily_stars": 30,
+    "stars": 997,
+    "daily_stars": 26,
     "language": "Python",
     "topics": [
       "agent-framework",
@@ -53,15 +75,15 @@
       "python"
     ],
     "created_at": "2026-04-23T05:42:29",
-    "updated_at": "2026-05-01T04:34:13"
+    "updated_at": "2026-05-01T09:40:20"
   },
   {
     "name": "Box",
     "full_name": "jegly/Box",
     "description": "Private on-device AI chat for Android. Fork of Google AI Edge Gallery with llama.cpp, GGUF import, biometric lock, and encrypted chat history. ",
     "url": "https://github.com/jegly/Box",
-    "stars": 132,
-    "daily_stars": 17,
+    "stars": 151,
+    "daily_stars": 19,
     "language": "Kotlin",
     "topics": [
       "artificial-intelligence",
@@ -74,88 +96,92 @@
       "local-ai"
     ],
     "created_at": "2026-04-17T10:42:52",
-    "updated_at": "2026-05-01T04:19:50"
+    "updated_at": "2026-05-01T09:31:52"
   },
   {
-    "name": "stash",
-    "full_name": "alash3al/stash",
-    "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
-    "url": "https://github.com/alash3al/stash",
-    "stars": 608,
-    "daily_stars": 13,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-memory",
-      "memory"
-    ],
-    "created_at": "2026-04-24T22:05:12",
-    "updated_at": "2026-05-01T03:19:04"
-  },
-  {
-    "name": "harnessclaw",
-    "full_name": "harnessclaw/harnessclaw",
-    "description": "Harnessclaw is a powerful, Electron-based desktop application designed to manage, chat with, and operate AI agents and skills seamlessly.",
-    "url": "https://github.com/harnessclaw/harnessclaw",
-    "stars": 390,
-    "daily_stars": 13,
+    "name": "WorldX",
+    "full_name": "YGYOOO/WorldX",
+    "description": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own.",
+    "url": "https://github.com/YGYOOO/WorldX",
+    "stars": 462,
+    "daily_stars": 11,
     "language": "TypeScript",
     "topics": [
       "agent",
+      "ai",
       "ai-agents",
-      "chatbot",
-      "desktop-app",
-      "electron-app",
-      "harness",
-      "harness-engineering",
-      "iflytek-astron",
-      "open",
-      "openclaw"
-    ],
-    "created_at": "2026-04-12T13:52:01",
-    "updated_at": "2026-05-01T00:55:52"
-  },
-  {
-    "name": "ai-trading-agent",
-    "full_name": "endless-sky-team/ai-trading-agent",
-    "description": "llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals",
-    "url": "https://github.com/endless-sky-team/ai-trading-agent",
-    "stars": 150,
-    "daily_stars": 13,
-    "language": "TypeScript",
-    "topics": [
-      "ai-trading",
-      "algorithmic-trading",
-      "automated-trading",
-      "bitcoin",
-      "bun",
-      "crypto-bot",
-      "cryptocurrency",
-      "defi",
-      "ethereum",
-      "fintech",
-      "lighter",
+      "ai-characters",
+      "ai-simulation",
+      "ai-world",
+      "emergent-behavior",
+      "game-ai",
+      "generative-agents",
+      "generative-ai",
       "llm",
-      "machine-learning",
+      "llm-agents",
+      "multi-agent-simulation",
       "open-source",
-      "openrouter",
-      "postgresql",
-      "quantitative-finance",
-      "react",
-      "trading-bot",
+      "phaser",
+      "pixel-art",
       "typescript"
     ],
-    "created_at": "2026-04-29T21:48:01",
-    "updated_at": "2026-05-01T04:09:29"
+    "created_at": "2026-04-18T06:24:32",
+    "updated_at": "2026-05-01T09:38:01"
+  },
+  {
+    "name": "OneResearchClaw",
+    "full_name": "gaotiexinqu/OneResearchClaw",
+    "description": "Any research. One Claw. 🦞 From any materials to research with fully autonomous & skill-driven researcher.",
+    "url": "https://github.com/gaotiexinqu/OneResearchClaw",
+    "stars": 197,
+    "daily_stars": 10,
+    "language": "Python",
+    "topics": [
+      "agentic-systems",
+      "ai-agents",
+      "ai-for-science",
+      "autonomous-research",
+      "cursor-ai",
+      "llm-agents",
+      "multi-agent",
+      "research-automation",
+      "scientific-discovery",
+      "self-evolving",
+      "skills"
+    ],
+    "created_at": "2026-04-20T08:39:50",
+    "updated_at": "2026-05-01T09:40:16"
+  },
+  {
+    "name": "awesome-ai-extensions",
+    "full_name": "kklt92/awesome-ai-extensions",
+    "description": "A curated list of AI-powered browser extensions, plugins, and add-ons.",
+    "url": "https://github.com/kklt92/awesome-ai-extensions",
+    "stars": 315,
+    "daily_stars": 6,
+    "language": null,
+    "topics": [
+      "ai",
+      "ai-extensions",
+      "ai-tools",
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "browser-extensions",
+      "chrome-extensions",
+      "extensions",
+      "productivity"
+    ],
+    "created_at": "2026-04-08T18:31:06",
+    "updated_at": "2026-05-01T09:25:34"
   },
   {
     "name": "text-to-cad",
     "full_name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 1237,
-    "daily_stars": 11,
+    "stars": 1242,
+    "daily_stars": 5,
     "language": "JavaScript",
     "topics": [
       "agents",
@@ -166,15 +192,39 @@
       "wasm"
     ],
     "created_at": "2026-04-22T01:09:45",
-    "updated_at": "2026-05-01T04:11:25"
+    "updated_at": "2026-05-01T08:34:30"
+  },
+  {
+    "name": "llmwiki",
+    "full_name": "lucasastorian/llmwiki",
+    "description": "Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki ! ",
+    "url": "https://github.com/lucasastorian/llmwiki",
+    "stars": 753,
+    "daily_stars": 5,
+    "language": "TypeScript",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "claude",
+      "karpathy",
+      "knowledge-base",
+      "llm",
+      "llm-wiki",
+      "mcp",
+      "mcp-server",
+      "rag",
+      "supabase"
+    ],
+    "created_at": "2026-04-04T17:10:02",
+    "updated_at": "2026-05-01T09:40:42"
   },
   {
     "name": "opencode-power-pack",
     "full_name": "waybarrios/opencode-power-pack",
     "description": "Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
     "url": "https://github.com/waybarrios/opencode-power-pack",
-    "stars": 168,
-    "daily_stars": 11,
+    "stars": 172,
+    "daily_stars": 4,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -189,54 +239,6 @@
       "skills"
     ],
     "created_at": "2026-04-26T17:13:11",
-    "updated_at": "2026-05-01T04:18:21"
-  },
-  {
-    "name": "WorldSeed",
-    "full_name": "AIScientists-Dev/WorldSeed",
-    "description": "A world engine where AI agents live autonomously — define any scenario in YAML, watch stories emerge",
-    "url": "https://github.com/AIScientists-Dev/WorldSeed",
-    "stars": 600,
-    "daily_stars": 9,
-    "language": "Python",
-    "topics": [
-      "agent-based-simulation",
-      "agentic-ai",
-      "agents",
-      "ai",
-      "ai-agents",
-      "autonomous-agents",
-      "emergent-behavior",
-      "generative-agents",
-      "generative-ai",
-      "llm",
-      "multi-agent",
-      "multiagent",
-      "open-source",
-      "python",
-      "simulation",
-      "social-simulation",
-      "typescript"
-    ],
-    "created_at": "2026-04-15T03:47:21",
-    "updated_at": "2026-05-01T03:02:25"
-  },
-  {
-    "name": "smfs",
-    "full_name": "supermemoryai/smfs",
-    "description": "A filesystem designed for agents, with SOTA retrieval, automatic memory profiles, sync engine. Drop any file type (pdf, images, videos), and grep through them.",
-    "url": "https://github.com/supermemoryai/smfs",
-    "stars": 186,
-    "daily_stars": 9,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-memory",
-      "filesystem",
-      "memory",
-      "rag"
-    ],
-    "created_at": "2026-04-14T19:00:51",
-    "updated_at": "2026-05-01T03:25:25"
+    "updated_at": "2026-05-01T09:27:53"
   }
 ]
