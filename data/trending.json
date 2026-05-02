@@ -4,8 +4,8 @@
     "full_name": "nexu-io/open-design",
     "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 12292,
-    "daily_stars": 949,
+    "stars": 12680,
+    "daily_stars": 388,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -30,15 +30,15 @@
       "typescript"
     ],
     "created_at": "2026-04-28T04:25:20",
-    "updated_at": "2026-05-02T03:58:00"
+    "updated_at": "2026-05-02T06:24:20"
   },
   {
     "name": "harmonist",
     "full_name": "GammaLabTechnologies/harmonist",
     "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
     "url": "https://github.com/GammaLabTechnologies/harmonist",
-    "stars": 1066,
-    "daily_stars": 28,
+    "stars": 1085,
+    "daily_stars": 19,
     "language": "Python",
     "topics": [
       "agent-framework",
@@ -53,15 +53,67 @@
       "python"
     ],
     "created_at": "2026-04-23T05:42:29",
-    "updated_at": "2026-05-02T03:57:06"
+    "updated_at": "2026-05-02T06:22:40"
+  },
+  {
+    "name": "Project_Chronos",
+    "full_name": "FonaTech/Project_Chronos",
+    "description": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
+    "url": "https://github.com/FonaTech/Project_Chronos",
+    "stars": 132,
+    "daily_stars": 5,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "async-dma",
+      "dual-layer-moe",
+      "generative-ai",
+      "high-throughput",
+      "io-latency-hiding",
+      "large-language-model",
+      "llm",
+      "lookahead-routing",
+      "lora",
+      "mixture-of-experts",
+      "mla-attention",
+      "open-models",
+      "open-source",
+      "predictive-inference",
+      "sliding-window-attention",
+      "ssd-offloading",
+      "streaming-llm"
+    ],
+    "created_at": "2026-04-19T21:05:18",
+    "updated_at": "2026-05-02T06:13:16"
+  },
+  {
+    "name": "Box",
+    "full_name": "jegly/Box",
+    "description": "Private on-device AI chat for Android. Fork of Google AI Edge Gallery with llama.cpp, GGUF import, biometric lock, and encrypted chat history. ",
+    "url": "https://github.com/jegly/Box",
+    "stars": 176,
+    "daily_stars": 4,
+    "language": "Kotlin",
+    "topics": [
+      "artificial-intelligence",
+      "box",
+      "gguf",
+      "google",
+      "litert",
+      "litert-llamacpp",
+      "llamacpp",
+      "local-ai"
+    ],
+    "created_at": "2026-04-17T10:42:52",
+    "updated_at": "2026-05-02T05:49:01"
   },
   {
     "name": "composio",
     "full_name": "warpdot-dev/composio",
     "description": "typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers",
     "url": "https://github.com/warpdot-dev/composio",
-    "stars": 137,
-    "daily_stars": 26,
+    "stars": 141,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -86,15 +138,15 @@
       "vercel-ai"
     ],
     "created_at": "2026-05-01T07:19:17",
-    "updated_at": "2026-05-02T03:54:35"
+    "updated_at": "2026-05-02T06:23:22"
   },
   {
     "name": "trading-agents",
     "full_name": "lukiIabs/trading-agents",
     "description": "TradingAgents LLM multi-agent finance trading stocks crypto fintech quantitative algo trading sentiment analysis OpenAI JavaScript Node.js research OSS",
     "url": "https://github.com/lukiIabs/trading-agents",
-    "stars": 136,
-    "daily_stars": 26,
+    "stars": 140,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "agents",
@@ -118,126 +170,15 @@
       "trading-bots"
     ],
     "created_at": "2026-05-01T08:27:19",
-    "updated_at": "2026-05-02T03:54:50"
-  },
-  {
-    "name": "Box",
-    "full_name": "jegly/Box",
-    "description": "Private on-device AI chat for Android. Fork of Google AI Edge Gallery with llama.cpp, GGUF import, biometric lock, and encrypted chat history. ",
-    "url": "https://github.com/jegly/Box",
-    "stars": 172,
-    "daily_stars": 11,
-    "language": "Kotlin",
-    "topics": [
-      "artificial-intelligence",
-      "box",
-      "gguf",
-      "google",
-      "litert",
-      "litert-llamacpp",
-      "llamacpp",
-      "local-ai"
-    ],
-    "created_at": "2026-04-17T10:42:52",
-    "updated_at": "2026-05-02T03:53:29"
-  },
-  {
-    "name": "Project_Chronos",
-    "full_name": "FonaTech/Project_Chronos",
-    "description": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
-    "url": "https://github.com/FonaTech/Project_Chronos",
-    "stars": 127,
-    "daily_stars": 11,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "async-dma",
-      "dual-layer-moe",
-      "generative-ai",
-      "high-throughput",
-      "io-latency-hiding",
-      "large-language-model",
-      "llm",
-      "lookahead-routing",
-      "lora",
-      "mixture-of-experts",
-      "mla-attention",
-      "open-models",
-      "open-source",
-      "predictive-inference",
-      "sliding-window-attention",
-      "ssd-offloading",
-      "streaming-llm"
-    ],
-    "created_at": "2026-04-19T21:05:18",
-    "updated_at": "2026-05-02T03:28:14"
-  },
-  {
-    "name": "smfs",
-    "full_name": "supermemoryai/smfs",
-    "description": "A filesystem designed for agents, with SOTA retrieval, automatic memory profiles, sync engine. Drop any file type (pdf, images, videos), and grep through them.",
-    "url": "https://github.com/supermemoryai/smfs",
-    "stars": 227,
-    "daily_stars": 11,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-memory",
-      "filesystem",
-      "memory",
-      "rag"
-    ],
-    "created_at": "2026-04-14T19:00:51",
-    "updated_at": "2026-05-02T03:39:08"
-  },
-  {
-    "name": "thClaws",
-    "full_name": "thClaws/thClaws",
-    "description": "Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design.",
-    "url": "https://github.com/thClaws/thClaws",
-    "stars": 697,
-    "daily_stars": 10,
-    "language": "Rust",
-    "topics": [
-      "agent-harness",
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "desktop-app",
-      "local-first",
-      "multi-provider",
-      "rust",
-      "tauri"
-    ],
-    "created_at": "2026-04-20T01:27:39",
-    "updated_at": "2026-05-02T03:41:04"
-  },
-  {
-    "name": "agent-skills-in-practice",
-    "full_name": "elisaterumi-ai/agent-skills-in-practice",
-    "description": "Learn what AI skills are and how to design, structure, and use them in real-world agent systems.",
-    "url": "https://github.com/elisaterumi-ai/agent-skills-in-practice",
-    "stars": 34,
-    "daily_stars": 10,
-    "language": null,
-    "topics": [
-      "agent-skills",
-      "ai",
-      "ai-agents",
-      "claude-code",
-      "llm",
-      "machine-learning"
-    ],
-    "created_at": "2026-04-27T14:29:45",
-    "updated_at": "2026-05-02T03:11:35"
+    "updated_at": "2026-05-02T06:23:51"
   },
   {
     "name": "WorldX",
     "full_name": "YGYOOO/WorldX",
     "description": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own.",
     "url": "https://github.com/YGYOOO/WorldX",
-    "stars": 486,
-    "daily_stars": 9,
+    "stars": 489,
+    "daily_stars": 3,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -259,6 +200,63 @@
       "typescript"
     ],
     "created_at": "2026-04-18T06:24:32",
-    "updated_at": "2026-05-02T03:21:34"
+    "updated_at": "2026-05-02T05:30:11"
+  },
+  {
+    "name": "hermes-control-interface",
+    "full_name": "xaspx/hermes-control-interface",
+    "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate.",
+    "url": "https://github.com/xaspx/hermes-control-interface",
+    "stars": 496,
+    "daily_stars": 2,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "hermes-agent"
+    ],
+    "created_at": "2026-04-08T17:13:25",
+    "updated_at": "2026-05-02T06:01:39"
+  },
+  {
+    "name": "smfs",
+    "full_name": "supermemoryai/smfs",
+    "description": "A filesystem designed for agents, with SOTA retrieval, automatic memory profiles, sync engine. Drop any file type (pdf, images, videos), and grep through them.",
+    "url": "https://github.com/supermemoryai/smfs",
+    "stars": 229,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-memory",
+      "filesystem",
+      "memory",
+      "rag"
+    ],
+    "created_at": "2026-04-14T19:00:51",
+    "updated_at": "2026-05-02T04:48:54"
+  },
+  {
+    "name": "OneResearchClaw",
+    "full_name": "gaotiexinqu/OneResearchClaw",
+    "description": "Any research. One Claw. 🦞 From any materials to research with fully autonomous & skill-driven researcher.",
+    "url": "https://github.com/gaotiexinqu/OneResearchClaw",
+    "stars": 208,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "agentic-systems",
+      "ai-agents",
+      "ai-for-science",
+      "autonomous-research",
+      "cursor-ai",
+      "llm-agents",
+      "multi-agent",
+      "research-automation",
+      "scientific-discovery",
+      "self-evolving",
+      "skills"
+    ],
+    "created_at": "2026-04-20T08:39:50",
+    "updated_at": "2026-05-02T05:52:32"
   }
 ]
