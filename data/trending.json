@@ -4,8 +4,8 @@
     "full_name": "nexu-io/open-design",
     "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 17232,
-    "daily_stars": 350,
+    "stars": 17906,
+    "daily_stars": 674,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -30,15 +30,15 @@
       "typescript"
     ],
     "created_at": "2026-04-28T04:25:20",
-    "updated_at": "2026-05-03T09:47:04"
+    "updated_at": "2026-05-03T13:54:14"
   },
   {
     "name": "agent-trade-kit",
     "full_name": "6551-Team/agent-trade-kit",
     "description": "OKX Agent Trade Kit: MCP server and CLI to connect AI assistants (Claude, Cursor) to your OKX account via Model Context Protocol. Local, MIT, TypeScript monorepo.",
     "url": "https://github.com/6551-Team/agent-trade-kit",
-    "stars": 61,
-    "daily_stars": 57,
+    "stars": 101,
+    "daily_stars": 40,
     "language": "TypeScript",
     "topics": [
       "artificial-intelligence",
@@ -54,15 +54,46 @@
       "typescript"
     ],
     "created_at": "2026-04-27T09:48:41",
-    "updated_at": "2026-05-03T09:35:20"
+    "updated_at": "2026-05-03T13:41:19"
+  },
+  {
+    "name": "craft-agents-oss",
+    "full_name": "warpdot-dev/craft-agents-oss",
+    "description": "electron anthropic claude-agent-sdk mcp bun websocket thin-client multi-llm openapi skills automations oauth desktop-ai github-copilot google-ai chatgpt devtools apache-2 headless-server pi-sdk vscode-alternative linux macos windows",
+    "url": "https://github.com/warpdot-dev/craft-agents-oss",
+    "stars": 102,
+    "daily_stars": 40,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "automations",
+      "bun",
+      "chatgpt",
+      "claude",
+      "desktop",
+      "devtools",
+      "electron",
+      "github-copilot",
+      "google-ai",
+      "llm",
+      "mcp",
+      "openapi",
+      "skills",
+      "thin-client",
+      "typescript",
+      "websocket"
+    ],
+    "created_at": "2026-05-01T07:19:21",
+    "updated_at": "2026-05-03T13:40:50"
   },
   {
     "name": "kiwifs",
     "full_name": "kiwifs/kiwifs",
     "description": "The knowledge server — PocketBase for knowledge. One Go binary, zero config.",
     "url": "https://github.com/kiwifs/kiwifs",
-    "stars": 313,
-    "daily_stars": 18,
+    "stars": 344,
+    "daily_stars": 31,
     "language": "Go",
     "topics": [
       "ai-agents",
@@ -77,177 +108,71 @@
       "wiki"
     ],
     "created_at": "2026-04-22T04:27:55",
-    "updated_at": "2026-05-03T09:44:57"
-  },
-  {
-    "name": "NASA_exoplanet_detection_using_CNN_transfromer",
-    "full_name": "kbhujbal/NASA_exoplanet_detection_using_CNN_transfromer",
-    "description": "Hybrid CNN-Transformer model for automated exoplanet transit detection on NASA Kepler light curves. Features dual scale CNN branches, Transformer based sequence modelling, Grad CAM + SHAP + attention  explainability, and Monte Carlo Dropout uncertainty quantification.  5 fold cross validated with baseline comparisons.",
-    "url": "https://github.com/kbhujbal/NASA_exoplanet_detection_using_CNN_transfromer",
-    "stars": 22,
-    "daily_stars": 18,
-    "language": "Python",
-    "topics": [
-      "astrophysics",
-      "convolutional-neural-network",
-      "deep-learning",
-      "exoplanet-detection",
-      "explainable-ai",
-      "grad-cam",
-      "kepler",
-      "machine-learning",
-      "monte-carlo-dropout",
-      "nasa",
-      "python",
-      "pytorch",
-      "research",
-      "shap",
-      "space-science",
-      "time-series-classification",
-      "transformer",
-      "transit-photometry",
-      "uncertainty-quantification",
-      "xai"
-    ],
-    "created_at": "2026-04-26T05:27:06",
-    "updated_at": "2026-05-03T08:05:09"
-  },
-  {
-    "name": "Artificial-Nose-ML-model-for-categorization-identification-of-spices",
-    "full_name": "kbhujbal/Artificial-Nose-ML-model-for-categorization-identification-of-spices",
-    "description": "ML based Artificial Nose for spice identification using an array of 8 MOS gas sensors (MQ135, TGS series) with a PIC microcontroller. Implements Random Forest (100% accuracy) vs MLP comparison on 8135 sensor readings. IEEE conference paper, 2023.",
-    "url": "https://github.com/kbhujbal/Artificial-Nose-ML-model-for-categorization-identification-of-spices",
-    "stars": 21,
-    "daily_stars": 14,
-    "language": "Python",
-    "topics": [
-      "artificial-nose",
-      "electronic-nose",
-      "gas-sensors",
-      "iot",
-      "machine-learning",
-      "machine-learning-models",
-      "mlp-classifier",
-      "pattern-recognition-and-machine-learning",
-      "python3",
-      "random-forest-classifier",
-      "scikit-learn-python",
-      "spice-identification"
-    ],
-    "created_at": "2026-04-19T00:55:50",
-    "updated_at": "2026-05-03T08:05:11"
-  },
-  {
-    "name": "BRATS_brain_tumor_detection_and_segmentation_twopathwayCNN",
-    "full_name": "kbhujbal/BRATS_brain_tumor_detection_and_segmentation_twopathwayCNN",
-    "description": "PyTorch implementation of Two Pathway CNN and Cascaded architectures for automatic brain tumor segmentation on BraTS 2020 MRI dataset. Implements TwoPathCNN, InputCascadeCNN, LocalCascadeCNN, and MFCascadeCNN with two-phase training and fully convolutional inference.",
-    "url": "https://github.com/kbhujbal/BRATS_brain_tumor_detection_and_segmentation_twopathwayCNN",
-    "stars": 22,
-    "daily_stars": 14,
-    "language": "Python",
-    "topics": [
-      "brain-tumor-segmentation",
-      "brats-dataset",
-      "brats2020",
-      "convolutional-neural-networks-cnn",
-      "convolutional-neural-networks-cpu",
-      "deep-learning",
-      "image-segmentation",
-      "medical-image-analysis",
-      "mri-brain",
-      "pytorch",
-      "two-pathway-cnn"
-    ],
-    "created_at": "2026-04-12T07:15:16",
-    "updated_at": "2026-05-03T08:05:14"
+    "updated_at": "2026-05-03T13:33:50"
   },
   {
     "name": "hermes-control-interface",
     "full_name": "xaspx/hermes-control-interface",
     "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate.",
     "url": "https://github.com/xaspx/hermes-control-interface",
-    "stars": 526,
-    "daily_stars": 11,
+    "stars": 544,
+    "daily_stars": 18,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
       "hermes-agent"
     ],
     "created_at": "2026-04-08T17:13:25",
-    "updated_at": "2026-05-03T09:30:57"
+    "updated_at": "2026-05-03T13:33:10"
   },
   {
-    "name": "composio",
-    "full_name": "warpdot-dev/composio",
-    "description": "typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers",
-    "url": "https://github.com/warpdot-dev/composio",
-    "stars": 197,
-    "daily_stars": 9,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "automation",
-      "cloudflare",
-      "devtools",
-      "google-gemini",
-      "integrations",
-      "langchain",
-      "langgraph",
-      "llamaindex",
-      "llm",
-      "mcp",
-      "model-context-protocol",
-      "oauth",
-      "openai-agents",
-      "python",
-      "saas",
-      "sdk",
-      "typescript",
-      "vercel-ai"
-    ],
-    "created_at": "2026-05-01T07:19:17",
-    "updated_at": "2026-05-03T09:30:35"
-  },
-  {
-    "name": "trading-agents",
-    "full_name": "lukiIabs/trading-agents",
-    "description": "TradingAgents LLM multi-agent finance trading stocks crypto fintech quantitative algo trading sentiment analysis OpenAI JavaScript Node.js research OSS",
-    "url": "https://github.com/lukiIabs/trading-agents",
-    "stars": 196,
-    "daily_stars": 9,
+    "name": "harmonist",
+    "full_name": "GammaLabTechnologies/harmonist",
+    "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
+    "url": "https://github.com/GammaLabTechnologies/harmonist",
+    "stars": 1191,
+    "daily_stars": 15,
     "language": "Python",
     "topics": [
-      "agents",
-      "algorithmic-trading",
-      "crypto",
-      "finance",
-      "fintech",
-      "javascript",
+      "agent-framework",
+      "agent-system",
+      "ai-agents",
+      "claude-code",
+      "cursor-ide",
       "llm",
-      "machine-learning",
-      "multi-agent",
-      "nlp",
-      "nodejs",
-      "open-source",
-      "openai",
-      "quantitative-trading",
-      "research",
-      "sentiment-analysis",
-      "stocks",
-      "trading",
-      "trading-bots"
+      "multi-agent-framework",
+      "orchestration",
+      "prompt-engineering",
+      "python"
     ],
-    "created_at": "2026-05-01T08:27:19",
-    "updated_at": "2026-05-03T09:30:47"
+    "created_at": "2026-04-23T05:42:29",
+    "updated_at": "2026-05-03T13:42:47"
+  },
+  {
+    "name": "smfs",
+    "full_name": "supermemoryai/smfs",
+    "description": "A filesystem designed for agents, with SOTA retrieval, automatic memory profiles, sync engine. Drop any file type (pdf, images, videos), and grep through them.",
+    "url": "https://github.com/supermemoryai/smfs",
+    "stars": 262,
+    "daily_stars": 12,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-memory",
+      "filesystem",
+      "memory",
+      "rag"
+    ],
+    "created_at": "2026-04-14T19:00:51",
+    "updated_at": "2026-05-03T13:14:05"
   },
   {
     "name": "hermes-ecosystem",
     "full_name": "ksimback/hermes-ecosystem",
     "description": "🗺️ Hermes Atlas — the community map of every tool, skill, and integration for Hermes Agent by Nous Research. Live at hermesatlas.com",
     "url": "https://github.com/ksimback/hermes-ecosystem",
-    "stars": 694,
-    "daily_stars": 8,
+    "stars": 705,
+    "daily_stars": 11,
     "language": "HTML",
     "topics": [
       "ai-agents",
@@ -257,6 +182,44 @@
       "nous-research"
     ],
     "created_at": "2026-04-08T17:07:13",
-    "updated_at": "2026-05-03T09:37:25"
+    "updated_at": "2026-05-03T13:37:15"
+  },
+  {
+    "name": "Aether",
+    "full_name": "Zhou-Shilin/Aether",
+    "description": "A stunning, localized, general-purpose AI Agent for Android.",
+    "url": "https://github.com/Zhou-Shilin/Aether",
+    "stars": 132,
+    "daily_stars": 9,
+    "language": "Kotlin",
+    "topics": [
+      "agent",
+      "agents",
+      "ai",
+      "ai-agents",
+      "android-application",
+      "llm"
+    ],
+    "created_at": "2026-04-25T13:22:24",
+    "updated_at": "2026-05-03T13:33:25"
+  },
+  {
+    "name": "text-to-cad",
+    "full_name": "earthtojake/text-to-cad",
+    "description": "An open source harness for generating CAD models",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "stars": 1293,
+    "daily_stars": 8,
+    "language": "JavaScript",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "cad",
+      "text-to-cad",
+      "wasm"
+    ],
+    "created_at": "2026-04-22T01:09:45",
+    "updated_at": "2026-05-03T13:44:42"
   }
 ]

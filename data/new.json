@@ -4,8 +4,8 @@
     "full_name": "nexu-io/open-design",
     "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 17232,
-    "daily_stars": 350,
+    "stars": 17906,
+    "daily_stars": 674,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -30,15 +30,15 @@
       "typescript"
     ],
     "created_at": "2026-04-28T04:25:20",
-    "updated_at": "2026-05-03T09:47:04"
+    "updated_at": "2026-05-03T13:54:14"
   },
   {
     "name": "opencode-power-pack",
     "full_name": "waybarrios/opencode-power-pack",
     "description": "Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
     "url": "https://github.com/waybarrios/opencode-power-pack",
-    "stars": 212,
-    "daily_stars": 1,
+    "stars": 214,
+    "daily_stars": 2,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -53,15 +53,15 @@
       "skills"
     ],
     "created_at": "2026-04-26T17:13:11",
-    "updated_at": "2026-05-03T07:10:12"
+    "updated_at": "2026-05-03T10:59:27"
   },
   {
     "name": "ai-trading-agent",
     "full_name": "endless-sky-team/ai-trading-agent",
     "description": "llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals",
     "url": "https://github.com/endless-sky-team/ai-trading-agent",
-    "stars": 202,
-    "daily_stars": 5,
+    "stars": 205,
+    "daily_stars": 3,
     "language": "TypeScript",
     "topics": [
       "ai-trading",
@@ -86,15 +86,47 @@
       "typescript"
     ],
     "created_at": "2026-04-29T21:48:01",
-    "updated_at": "2026-05-03T08:30:04"
+    "updated_at": "2026-05-03T13:29:52"
+  },
+  {
+    "name": "trading-agents",
+    "full_name": "lukiIabs/trading-agents",
+    "description": "TradingAgents LLM multi-agent finance trading stocks crypto fintech quantitative algo trading sentiment analysis OpenAI JavaScript Node.js research OSS",
+    "url": "https://github.com/lukiIabs/trading-agents",
+    "stars": 202,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "agents",
+      "algorithmic-trading",
+      "crypto",
+      "finance",
+      "fintech",
+      "javascript",
+      "llm",
+      "machine-learning",
+      "multi-agent",
+      "nlp",
+      "nodejs",
+      "open-source",
+      "openai",
+      "quantitative-trading",
+      "research",
+      "sentiment-analysis",
+      "stocks",
+      "trading",
+      "trading-bots"
+    ],
+    "created_at": "2026-05-01T08:27:19",
+    "updated_at": "2026-05-03T13:26:32"
   },
   {
     "name": "composio",
     "full_name": "warpdot-dev/composio",
     "description": "typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers",
     "url": "https://github.com/warpdot-dev/composio",
-    "stars": 197,
-    "daily_stars": 9,
+    "stars": 200,
+    "daily_stars": 3,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -119,39 +151,7 @@
       "vercel-ai"
     ],
     "created_at": "2026-05-01T07:19:17",
-    "updated_at": "2026-05-03T09:30:35"
-  },
-  {
-    "name": "trading-agents",
-    "full_name": "lukiIabs/trading-agents",
-    "description": "TradingAgents LLM multi-agent finance trading stocks crypto fintech quantitative algo trading sentiment analysis OpenAI JavaScript Node.js research OSS",
-    "url": "https://github.com/lukiIabs/trading-agents",
-    "stars": 196,
-    "daily_stars": 9,
-    "language": "Python",
-    "topics": [
-      "agents",
-      "algorithmic-trading",
-      "crypto",
-      "finance",
-      "fintech",
-      "javascript",
-      "llm",
-      "machine-learning",
-      "multi-agent",
-      "nlp",
-      "nodejs",
-      "open-source",
-      "openai",
-      "quantitative-trading",
-      "research",
-      "sentiment-analysis",
-      "stocks",
-      "trading",
-      "trading-bots"
-    ],
-    "created_at": "2026-05-01T08:27:19",
-    "updated_at": "2026-05-03T09:30:47"
+    "updated_at": "2026-05-03T13:26:24"
   },
   {
     "name": "pumpfun-ai-trading-bot",
@@ -210,61 +210,12 @@
     "updated_at": "2026-05-03T05:26:40"
   },
   {
-    "name": "Aether",
-    "full_name": "Zhou-Shilin/Aether",
-    "description": "A stunning, localized, general-purpose AI Agent for Android.",
-    "url": "https://github.com/Zhou-Shilin/Aether",
-    "stars": 123,
-    "daily_stars": 2,
-    "language": "Kotlin",
-    "topics": [
-      "agent",
-      "agents",
-      "ai",
-      "ai-agents",
-      "android-application",
-      "llm"
-    ],
-    "created_at": "2026-04-25T13:22:24",
-    "updated_at": "2026-05-03T09:29:11"
-  },
-  {
-    "name": "facex",
-    "full_name": "facex-engine/facex",
-    "description": "Fast face embedding library. 3ms, 7MB, zero dependencies. Beats ONNX Runtime on CPU.",
-    "url": "https://github.com/facex-engine/facex",
-    "stars": 101,
-    "daily_stars": 0,
-    "language": "C",
-    "topics": [
-      "avx-512",
-      "avx2",
-      "biometrics",
-      "c99",
-      "computer-vision",
-      "cpu-inference",
-      "deep-learning",
-      "edge-ai",
-      "embedded-ai",
-      "face-embedding",
-      "face-recognition",
-      "face-verification",
-      "low-latency",
-      "onnx-runtime",
-      "production-ready",
-      "simd",
-      "zero-dependencies"
-    ],
-    "created_at": "2026-04-25T12:49:25",
-    "updated_at": "2026-05-01T05:12:55"
-  },
-  {
     "name": "craft-agents-oss",
     "full_name": "warpdot-dev/craft-agents-oss",
     "description": "electron anthropic claude-agent-sdk mcp bun websocket thin-client multi-llm openapi skills automations oauth desktop-ai github-copilot google-ai chatgpt devtools apache-2 headless-server pi-sdk vscode-alternative linux macos windows",
     "url": "https://github.com/warpdot-dev/craft-agents-oss",
-    "stars": 62,
-    "daily_stars": 0,
+    "stars": 102,
+    "daily_stars": 40,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -287,6 +238,53 @@
       "websocket"
     ],
     "created_at": "2026-05-01T07:19:21",
-    "updated_at": "2026-05-03T09:35:03"
+    "updated_at": "2026-05-03T13:40:50"
+  },
+  {
+    "name": "agent-trade-kit",
+    "full_name": "6551-Team/agent-trade-kit",
+    "description": "OKX Agent Trade Kit: MCP server and CLI to connect AI assistants (Claude, Cursor) to your OKX account via Model Context Protocol. Local, MIT, TypeScript monorepo.",
+    "url": "https://github.com/6551-Team/agent-trade-kit",
+    "stars": 101,
+    "daily_stars": 40,
+    "language": "TypeScript",
+    "topics": [
+      "artificial-intelligence",
+      "claude",
+      "cli",
+      "cryptocurrency",
+      "cursor",
+      "mcp",
+      "model-context-protocol",
+      "nodejs",
+      "okx",
+      "trading",
+      "typescript"
+    ],
+    "created_at": "2026-04-27T09:48:41",
+    "updated_at": "2026-05-03T13:41:19"
+  },
+  {
+    "name": "ProDa",
+    "full_name": "OpenRaiser/ProDa",
+    "description": "📖 Data Engineering from Raw Corpora",
+    "url": "https://github.com/OpenRaiser/ProDa",
+    "stars": 87,
+    "daily_stars": 0,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "benchmark",
+      "data-engineering",
+      "data-generation",
+      "data-science",
+      "data-synthesis",
+      "ide",
+      "interactive-development-environment",
+      "software-engineering"
+    ],
+    "created_at": "2026-04-26T15:54:27",
+    "updated_at": "2026-05-03T12:21:49"
   }
 ]
