@@ -4,8 +4,8 @@
     "full_name": "nexu-io/open-design",
     "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 15600,
-    "daily_stars": 606,
+    "stars": 16536,
+    "daily_stars": 936,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -30,15 +30,57 @@
       "typescript"
     ],
     "created_at": "2026-04-28T04:25:20",
-    "updated_at": "2026-05-02T21:07:38"
+    "updated_at": "2026-05-03T04:26:26"
+  },
+  {
+    "name": "harmonist",
+    "full_name": "GammaLabTechnologies/harmonist",
+    "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
+    "url": "https://github.com/GammaLabTechnologies/harmonist",
+    "stars": 1164,
+    "daily_stars": 28,
+    "language": "Python",
+    "topics": [
+      "agent-framework",
+      "agent-system",
+      "ai-agents",
+      "claude-code",
+      "cursor-ide",
+      "llm",
+      "multi-agent-framework",
+      "orchestration",
+      "prompt-engineering",
+      "python"
+    ],
+    "created_at": "2026-04-23T05:42:29",
+    "updated_at": "2026-05-03T04:24:42"
+  },
+  {
+    "name": "Aether",
+    "full_name": "Zhou-Shilin/Aether",
+    "description": "A stunning, localized, general-purpose AI Agent for Android.",
+    "url": "https://github.com/Zhou-Shilin/Aether",
+    "stars": 115,
+    "daily_stars": 28,
+    "language": "Kotlin",
+    "topics": [
+      "agent",
+      "agents",
+      "ai",
+      "ai-agents",
+      "android-application",
+      "llm"
+    ],
+    "created_at": "2026-04-25T13:22:24",
+    "updated_at": "2026-05-03T04:09:42"
   },
   {
     "name": "cluster-performance-engine",
     "full_name": "marchinthesun/cluster-performance-engine",
     "description": "Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
     "url": "https://github.com/marchinthesun/cluster-performance-engine",
-    "stars": 84,
-    "daily_stars": 29,
+    "stars": 104,
+    "daily_stars": 20,
     "language": "Go",
     "topics": [
       "cloud-native",
@@ -57,104 +99,15 @@
       "openshift"
     ],
     "created_at": "2026-05-01T06:31:35",
-    "updated_at": "2026-05-02T20:48:47"
-  },
-  {
-    "name": "kiwifs",
-    "full_name": "kiwifs/kiwifs",
-    "description": "The knowledge server — PocketBase for knowledge. One Go binary, zero config.",
-    "url": "https://github.com/kiwifs/kiwifs",
-    "stars": 272,
-    "daily_stars": 17,
-    "language": "Go",
-    "topics": [
-      "ai-agents",
-      "filesystem",
-      "golang",
-      "knowledge-base",
-      "knowledge-graph",
-      "llm-wiki",
-      "markdown",
-      "obsidian",
-      "self-hosted",
-      "wiki"
-    ],
-    "created_at": "2026-04-22T04:27:55",
-    "updated_at": "2026-05-02T20:44:14"
-  },
-  {
-    "name": "harmonist",
-    "full_name": "GammaLabTechnologies/harmonist",
-    "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
-    "url": "https://github.com/GammaLabTechnologies/harmonist",
-    "stars": 1136,
-    "daily_stars": 14,
-    "language": "Python",
-    "topics": [
-      "agent-framework",
-      "agent-system",
-      "ai-agents",
-      "claude-code",
-      "cursor-ide",
-      "llm",
-      "multi-agent-framework",
-      "orchestration",
-      "prompt-engineering",
-      "python"
-    ],
-    "created_at": "2026-04-23T05:42:29",
-    "updated_at": "2026-05-02T20:16:06"
-  },
-  {
-    "name": "chiasmus",
-    "full_name": "yogthos/chiasmus",
-    "description": "Chiasmus is an MCP server that gives language models access to formal verification",
-    "url": "https://github.com/yogthos/chiasmus",
-    "stars": 101,
-    "daily_stars": 10,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "ai-assistant",
-      "ai-tools",
-      "formalmethods",
-      "llm",
-      "mcp",
-      "mcp-server",
-      "prolog",
-      "z3-smt-solver"
-    ],
-    "created_at": "2026-04-07T23:41:53",
-    "updated_at": "2026-05-02T20:32:12"
-  },
-  {
-    "name": "Box",
-    "full_name": "jegly/Box",
-    "description": "Private on-device AI chat for Android. Fork of Google AI Edge Gallery with llama.cpp, GGUF import, biometric lock, and encrypted chat history. ",
-    "url": "https://github.com/jegly/Box",
-    "stars": 227,
-    "daily_stars": 8,
-    "language": "Kotlin",
-    "topics": [
-      "artificial-intelligence",
-      "box",
-      "gguf",
-      "google",
-      "litert",
-      "litert-llamacpp",
-      "llamacpp",
-      "local-ai"
-    ],
-    "created_at": "2026-04-17T10:42:52",
-    "updated_at": "2026-05-02T20:28:24"
+    "updated_at": "2026-05-03T00:37:26"
   },
   {
     "name": "composio",
     "full_name": "warpdot-dev/composio",
     "description": "typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers",
     "url": "https://github.com/warpdot-dev/composio",
-    "stars": 166,
-    "daily_stars": 7,
+    "stars": 185,
+    "daily_stars": 19,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -179,15 +132,15 @@
       "vercel-ai"
     ],
     "created_at": "2026-05-01T07:19:17",
-    "updated_at": "2026-05-02T20:33:43"
+    "updated_at": "2026-05-03T04:26:36"
   },
   {
     "name": "trading-agents",
     "full_name": "lukiIabs/trading-agents",
     "description": "TradingAgents LLM multi-agent finance trading stocks crypto fintech quantitative algo trading sentiment analysis OpenAI JavaScript Node.js research OSS",
     "url": "https://github.com/lukiIabs/trading-agents",
-    "stars": 165,
-    "daily_stars": 7,
+    "stars": 184,
+    "daily_stars": 19,
     "language": "Python",
     "topics": [
       "agents",
@@ -211,55 +164,107 @@
       "trading-bots"
     ],
     "created_at": "2026-05-01T08:27:19",
-    "updated_at": "2026-05-02T20:33:26"
+    "updated_at": "2026-05-03T04:26:51"
   },
   {
-    "name": "agent-skills-in-practice",
-    "full_name": "elisaterumi-ai/agent-skills-in-practice",
-    "description": "Learn what AI skills are and how to design, structure, and use them in real-world agent systems.",
-    "url": "https://github.com/elisaterumi-ai/agent-skills-in-practice",
-    "stars": 49,
-    "daily_stars": 6,
-    "language": null,
+    "name": "kiwifs",
+    "full_name": "kiwifs/kiwifs",
+    "description": "The knowledge server — PocketBase for knowledge. One Go binary, zero config.",
+    "url": "https://github.com/kiwifs/kiwifs",
+    "stars": 285,
+    "daily_stars": 13,
+    "language": "Go",
     "topics": [
-      "agent-skills",
-      "ai",
       "ai-agents",
-      "claude-code",
-      "llm",
-      "machine-learning"
-    ],
-    "created_at": "2026-04-27T14:29:45",
-    "updated_at": "2026-05-02T20:56:16"
-  },
-  {
-    "name": "ctx",
-    "full_name": "stevesolun/ctx",
-    "description": "Real-time skill and agent recommendation engine for Claude Code - watches what you develop, walks a knowledge graph of 1,725 skills and 443 agents, and suggests the right ones on the fly. Powered by a Karpathy LLM wiki with persistent memory.",
-    "url": "https://github.com/stevesolun/ctx",
-    "stars": 288,
-    "daily_stars": 5,
-    "language": "Python",
-    "topics": [
-      "agents",
-      "ai-agents",
-      "anthropic",
-      "automation",
-      "claude",
-      "claude-code",
-      "context-management",
-      "developer-tools",
+      "filesystem",
+      "golang",
+      "knowledge-base",
       "knowledge-graph",
-      "llm",
-      "micro-skills",
+      "llm-wiki",
+      "markdown",
       "obsidian",
-      "real-time",
-      "recommendation-engine",
-      "skill-management",
-      "skills",
+      "self-hosted",
       "wiki"
     ],
-    "created_at": "2026-04-08T22:39:54",
-    "updated_at": "2026-05-02T20:47:42"
+    "created_at": "2026-04-22T04:27:55",
+    "updated_at": "2026-05-03T04:14:08"
+  },
+  {
+    "name": "OneResearchClaw",
+    "full_name": "gaotiexinqu/OneResearchClaw",
+    "description": "Any research. One Claw. 🦞 From any materials to research with fully autonomous & skill-driven researcher.",
+    "url": "https://github.com/gaotiexinqu/OneResearchClaw",
+    "stars": 224,
+    "daily_stars": 9,
+    "language": "Python",
+    "topics": [
+      "agentic-systems",
+      "ai-agents",
+      "ai-for-science",
+      "autonomous-research",
+      "cursor-ai",
+      "llm-agents",
+      "multi-agent",
+      "research-automation",
+      "scientific-discovery",
+      "self-evolving",
+      "skills"
+    ],
+    "created_at": "2026-04-20T08:39:50",
+    "updated_at": "2026-05-03T04:18:04"
+  },
+  {
+    "name": "opencode-power-pack",
+    "full_name": "waybarrios/opencode-power-pack",
+    "description": "Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
+    "url": "https://github.com/waybarrios/opencode-power-pack",
+    "stars": 208,
+    "daily_stars": 9,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude-code",
+      "code-review",
+      "developer-tools",
+      "llm-tools",
+      "opencode",
+      "plugin",
+      "security-audit",
+      "skills"
+    ],
+    "created_at": "2026-04-26T17:13:11",
+    "updated_at": "2026-05-03T02:54:30"
+  },
+  {
+    "name": "Project_Chronos",
+    "full_name": "FonaTech/Project_Chronos",
+    "description": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
+    "url": "https://github.com/FonaTech/Project_Chronos",
+    "stars": 144,
+    "daily_stars": 8,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "async-dma",
+      "dual-layer-moe",
+      "generative-ai",
+      "high-throughput",
+      "io-latency-hiding",
+      "large-language-model",
+      "llm",
+      "lookahead-routing",
+      "lora",
+      "mixture-of-experts",
+      "mla-attention",
+      "open-models",
+      "open-source",
+      "predictive-inference",
+      "sliding-window-attention",
+      "ssd-offloading",
+      "streaming-llm"
+    ],
+    "created_at": "2026-04-19T21:05:18",
+    "updated_at": "2026-05-03T03:57:03"
   }
 ]
