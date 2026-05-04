@@ -4,8 +4,8 @@
     "full_name": "nexu-io/open-design",
     "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 20063,
-    "daily_stars": 1049,
+    "stars": 20706,
+    "daily_stars": 643,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -30,15 +30,15 @@
       "typescript"
     ],
     "created_at": "2026-04-28T04:25:20",
-    "updated_at": "2026-05-04T04:27:06"
+    "updated_at": "2026-05-04T07:35:45"
   },
   {
     "name": "text-to-cad",
     "full_name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 1513,
-    "daily_stars": 136,
+    "stars": 1584,
+    "daily_stars": 71,
     "language": "JavaScript",
     "topics": [
       "agents",
@@ -49,104 +49,66 @@
       "wasm"
     ],
     "created_at": "2026-04-22T01:09:45",
-    "updated_at": "2026-05-04T04:22:14"
+    "updated_at": "2026-05-04T07:35:23"
   },
   {
-    "name": "hermes-control-interface",
-    "full_name": "xaspx/hermes-control-interface",
-    "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate.",
-    "url": "https://github.com/xaspx/hermes-control-interface",
-    "stars": 564,
-    "daily_stars": 15,
-    "language": "JavaScript",
+    "name": "how-to-train-your-gpt",
+    "full_name": "raiyanyahya/how-to-train-your-gpt",
+    "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
+    "url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
+    "stars": 68,
+    "daily_stars": 33,
+    "language": null,
     "topics": [
-      "ai-agents",
-      "hermes-agent"
-    ],
-    "created_at": "2026-04-08T17:13:25",
-    "updated_at": "2026-05-04T03:53:39"
-  },
-  {
-    "name": "ai-agent-skills",
-    "full_name": "DevelopersGlobal/ai-agent-skills",
-    "description": "AI agent skills for production grade applications",
-    "url": "https://github.com/DevelopersGlobal/ai-agent-skills",
-    "stars": 41,
-    "daily_stars": 14,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "antigravity",
-      "artificial-intelligence",
-      "claude",
-      "claude-code-plugin",
-      "claude-skills",
-      "codex",
-      "cursor",
-      "skills"
-    ],
-    "created_at": "2026-05-01T09:27:28",
-    "updated_at": "2026-05-04T03:18:15"
-  },
-  {
-    "name": "swarmvault",
-    "full_name": "swarmclawai/swarmvault",
-    "description": "Inspired by Karpathy's LLM Wiki. Local-first RAG knowledge base compiler with MCP server (Claude Code, Codex, OpenCode, OpenClaw). Turn raw research into a persistent markdown wiki, knowledge graph, and hybrid search that compound over time.",
-    "url": "https://github.com/swarmclawai/swarmvault",
-    "stars": 350,
-    "daily_stars": 12,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "claude-skills",
-      "codex",
-      "codex-skills",
-      "embeddings",
-      "karpathy",
-      "knowledge-graph",
+      "attention-mechanism",
+      "deep-learning",
+      "educational",
+      "from-scratch",
+      "gpt",
+      "language-model",
+      "llama",
       "llm",
+      "machine-learning",
+      "natural-language-processing",
+      "python",
+      "pytorch",
+      "tokenisation",
+      "transformers",
+      "tutorial"
+    ],
+    "created_at": "2026-05-03T21:41:33",
+    "updated_at": "2026-05-04T07:29:29"
+  },
+  {
+    "name": "kiwifs",
+    "full_name": "kiwifs/kiwifs",
+    "description": "The knowledge server — PocketBase for knowledge. One Go binary, zero config.",
+    "url": "https://github.com/kiwifs/kiwifs",
+    "stars": 380,
+    "daily_stars": 13,
+    "language": "Go",
+    "topics": [
+      "ai-agents",
+      "filesystem",
+      "golang",
+      "knowledge-base",
+      "knowledge-graph",
       "llm-wiki",
-      "local-first",
-      "mcp",
-      "mcp-server",
+      "markdown",
       "obsidian",
-      "openclaw",
-      "opencode",
-      "opencode-skills",
-      "pkm",
-      "rag",
+      "self-hosted",
       "wiki"
     ],
-    "created_at": "2026-04-06T20:52:30",
-    "updated_at": "2026-05-04T04:17:35"
-  },
-  {
-    "name": "hermes-ecosystem",
-    "full_name": "ksimback/hermes-ecosystem",
-    "description": "🗺️ Hermes Atlas — the community map of every tool, skill, and integration for Hermes Agent by Nous Research. Live at hermesatlas.com",
-    "url": "https://github.com/ksimback/hermes-ecosystem",
-    "stars": 727,
-    "daily_stars": 11,
-    "language": "HTML",
-    "topics": [
-      "ai-agents",
-      "ecosystem-map",
-      "hermes-agent",
-      "hermes-atlas",
-      "nous-research"
-    ],
-    "created_at": "2026-04-08T17:07:13",
-    "updated_at": "2026-05-04T04:16:12"
+    "created_at": "2026-04-22T04:27:55",
+    "updated_at": "2026-05-04T07:26:02"
   },
   {
     "name": "Box",
     "full_name": "jegly/Box",
     "description": "Private on-device AI chat for Android. Fork of Google AI Edge Gallery with llama.cpp, GGUF import, biometric lock, and encrypted chat history. ",
     "url": "https://github.com/jegly/Box",
-    "stars": 261,
-    "daily_stars": 10,
+    "stars": 270,
+    "daily_stars": 9,
     "language": "Kotlin",
     "topics": [
       "artificial-intelligence",
@@ -159,15 +121,15 @@
       "local-ai"
     ],
     "created_at": "2026-04-17T10:42:52",
-    "updated_at": "2026-05-04T03:33:16"
+    "updated_at": "2026-05-04T07:34:54"
   },
   {
     "name": "Project_Chronos",
     "full_name": "FonaTech/Project_Chronos",
     "description": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
     "url": "https://github.com/FonaTech/Project_Chronos",
-    "stars": 163,
-    "daily_stars": 10,
+    "stars": 170,
+    "daily_stars": 7,
     "language": "Python",
     "topics": [
       "artificial-intelligence",
@@ -190,48 +152,98 @@
       "streaming-llm"
     ],
     "created_at": "2026-04-19T21:05:18",
-    "updated_at": "2026-05-04T03:54:58"
+    "updated_at": "2026-05-04T07:33:42"
   },
   {
-    "name": "kiwifs",
-    "full_name": "kiwifs/kiwifs",
-    "description": "The knowledge server — PocketBase for knowledge. One Go binary, zero config.",
-    "url": "https://github.com/kiwifs/kiwifs",
-    "stars": 367,
-    "daily_stars": 9,
-    "language": "Go",
+    "name": "harmonist",
+    "full_name": "GammaLabTechnologies/harmonist",
+    "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
+    "url": "https://github.com/GammaLabTechnologies/harmonist",
+    "stars": 1228,
+    "daily_stars": 7,
+    "language": "Python",
     "topics": [
+      "agent-framework",
+      "agent-system",
       "ai-agents",
-      "filesystem",
-      "golang",
-      "knowledge-base",
-      "knowledge-graph",
-      "llm-wiki",
-      "markdown",
-      "obsidian",
-      "self-hosted",
-      "wiki"
+      "claude-code",
+      "cursor-ide",
+      "llm",
+      "multi-agent-framework",
+      "orchestration",
+      "prompt-engineering",
+      "python"
     ],
-    "created_at": "2026-04-22T04:27:55",
-    "updated_at": "2026-05-04T04:14:42"
+    "created_at": "2026-04-23T05:42:29",
+    "updated_at": "2026-05-04T07:26:58"
   },
   {
-    "name": "Aether",
-    "full_name": "Zhou-Shilin/Aether",
-    "description": "A stunning, localized, general-purpose AI Agent for Android.",
-    "url": "https://github.com/Zhou-Shilin/Aether",
-    "stars": 153,
-    "daily_stars": 9,
-    "language": "Kotlin",
+    "name": "awesome-ai-extensions",
+    "full_name": "kklt92/awesome-ai-extensions",
+    "description": "A curated list of AI-powered browser extensions, plugins, and add-ons.",
+    "url": "https://github.com/kklt92/awesome-ai-extensions",
+    "stars": 361,
+    "daily_stars": 5,
+    "language": null,
     "topics": [
-      "agent",
-      "agents",
+      "ai",
+      "ai-extensions",
+      "ai-tools",
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "browser-extensions",
+      "chrome-extensions",
+      "extensions",
+      "productivity"
+    ],
+    "created_at": "2026-04-08T18:31:06",
+    "updated_at": "2026-05-04T07:01:14"
+  },
+  {
+    "name": "ai-agent-skills",
+    "full_name": "DevelopersGlobal/ai-agent-skills",
+    "description": "AI agent skills for production grade applications",
+    "url": "https://github.com/DevelopersGlobal/ai-agent-skills",
+    "stars": 46,
+    "daily_stars": 5,
+    "language": "Python",
+    "topics": [
       "ai",
       "ai-agents",
-      "android-application",
-      "llm"
+      "antigravity",
+      "artificial-intelligence",
+      "claude",
+      "claude-code-plugin",
+      "claude-skills",
+      "codex",
+      "cursor",
+      "skills"
     ],
-    "created_at": "2026-04-25T13:22:24",
-    "updated_at": "2026-05-04T02:35:51"
+    "created_at": "2026-05-01T09:27:28",
+    "updated_at": "2026-05-04T07:08:42"
+  },
+  {
+    "name": "CyberVerse",
+    "full_name": "dsd2077/CyberVerse",
+    "description": "CyberVerse is an open-source digital human agent platform with real-time video calling. Create an AI agent you can see and talk to, face to face, just like a video call.",
+    "url": "https://github.com/dsd2077/CyberVerse",
+    "stars": 360,
+    "daily_stars": 4,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-companion",
+      "digital-human",
+      "digital-life",
+      "grok-companion",
+      "jarvis-assistant",
+      "sillytavern",
+      "streaming",
+      "vtuber",
+      "webrtc"
+    ],
+    "created_at": "2026-04-18T15:00:11",
+    "updated_at": "2026-05-04T07:15:35"
   }
 ]
