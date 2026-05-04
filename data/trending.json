@@ -4,8 +4,8 @@
     "full_name": "nexu-io/open-design",
     "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 20706,
-    "daily_stars": 643,
+    "stars": 21417,
+    "daily_stars": 711,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -30,15 +30,15 @@
       "typescript"
     ],
     "created_at": "2026-04-28T04:25:20",
-    "updated_at": "2026-05-04T07:35:45"
+    "updated_at": "2026-05-04T10:31:27"
   },
   {
     "name": "text-to-cad",
     "full_name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 1584,
-    "daily_stars": 71,
+    "stars": 1659,
+    "daily_stars": 75,
     "language": "JavaScript",
     "topics": [
       "agents",
@@ -49,15 +49,15 @@
       "wasm"
     ],
     "created_at": "2026-04-22T01:09:45",
-    "updated_at": "2026-05-04T07:35:23"
+    "updated_at": "2026-05-04T10:30:47"
   },
   {
     "name": "how-to-train-your-gpt",
     "full_name": "raiyanyahya/how-to-train-your-gpt",
     "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
     "url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
-    "stars": 68,
-    "daily_stars": 33,
+    "stars": 95,
+    "daily_stars": 27,
     "language": null,
     "topics": [
       "attention-mechanism",
@@ -77,15 +77,15 @@
       "tutorial"
     ],
     "created_at": "2026-05-03T21:41:33",
-    "updated_at": "2026-05-04T07:29:29"
+    "updated_at": "2026-05-04T10:31:04"
   },
   {
     "name": "kiwifs",
     "full_name": "kiwifs/kiwifs",
     "description": "The knowledge server — PocketBase for knowledge. One Go binary, zero config.",
     "url": "https://github.com/kiwifs/kiwifs",
-    "stars": 380,
-    "daily_stars": 13,
+    "stars": 402,
+    "daily_stars": 22,
     "language": "Go",
     "topics": [
       "ai-agents",
@@ -100,15 +100,48 @@
       "wiki"
     ],
     "created_at": "2026-04-22T04:27:55",
-    "updated_at": "2026-05-04T07:26:02"
+    "updated_at": "2026-05-04T10:25:27"
+  },
+  {
+    "name": "swarmvault",
+    "full_name": "swarmclawai/swarmvault",
+    "description": "Inspired by Karpathy's LLM Wiki. Local-first RAG knowledge base compiler with MCP server (Claude Code, Codex, OpenCode, OpenClaw). Turn raw research into a persistent markdown wiki, knowledge graph, and hybrid search that compound over time.",
+    "url": "https://github.com/swarmclawai/swarmvault",
+    "stars": 360,
+    "daily_stars": 8,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "codex-skills",
+      "embeddings",
+      "karpathy",
+      "knowledge-graph",
+      "llm",
+      "llm-wiki",
+      "local-first",
+      "mcp",
+      "mcp-server",
+      "obsidian",
+      "openclaw",
+      "opencode",
+      "opencode-skills",
+      "pkm",
+      "rag",
+      "wiki"
+    ],
+    "created_at": "2026-04-06T20:52:30",
+    "updated_at": "2026-05-04T10:30:26"
   },
   {
     "name": "Box",
     "full_name": "jegly/Box",
     "description": "Private on-device AI chat for Android. Fork of Google AI Edge Gallery with llama.cpp, GGUF import, biometric lock, and encrypted chat history. ",
     "url": "https://github.com/jegly/Box",
-    "stars": 270,
-    "daily_stars": 9,
+    "stars": 277,
+    "daily_stars": 7,
     "language": "Kotlin",
     "topics": [
       "artificial-intelligence",
@@ -121,46 +154,15 @@
       "local-ai"
     ],
     "created_at": "2026-04-17T10:42:52",
-    "updated_at": "2026-05-04T07:34:54"
-  },
-  {
-    "name": "Project_Chronos",
-    "full_name": "FonaTech/Project_Chronos",
-    "description": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
-    "url": "https://github.com/FonaTech/Project_Chronos",
-    "stars": 170,
-    "daily_stars": 7,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "async-dma",
-      "dual-layer-moe",
-      "generative-ai",
-      "high-throughput",
-      "io-latency-hiding",
-      "large-language-model",
-      "llm",
-      "lookahead-routing",
-      "lora",
-      "mixture-of-experts",
-      "mla-attention",
-      "open-models",
-      "open-source",
-      "predictive-inference",
-      "sliding-window-attention",
-      "ssd-offloading",
-      "streaming-llm"
-    ],
-    "created_at": "2026-04-19T21:05:18",
-    "updated_at": "2026-05-04T07:33:42"
+    "updated_at": "2026-05-04T10:23:06"
   },
   {
     "name": "harmonist",
     "full_name": "GammaLabTechnologies/harmonist",
     "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
     "url": "https://github.com/GammaLabTechnologies/harmonist",
-    "stars": 1228,
-    "daily_stars": 7,
+    "stars": 1234,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "agent-framework",
@@ -175,37 +177,14 @@
       "python"
     ],
     "created_at": "2026-04-23T05:42:29",
-    "updated_at": "2026-05-04T07:26:58"
-  },
-  {
-    "name": "awesome-ai-extensions",
-    "full_name": "kklt92/awesome-ai-extensions",
-    "description": "A curated list of AI-powered browser extensions, plugins, and add-ons.",
-    "url": "https://github.com/kklt92/awesome-ai-extensions",
-    "stars": 361,
-    "daily_stars": 5,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-extensions",
-      "ai-tools",
-      "artificial-intelligence",
-      "awesome",
-      "awesome-list",
-      "browser-extensions",
-      "chrome-extensions",
-      "extensions",
-      "productivity"
-    ],
-    "created_at": "2026-04-08T18:31:06",
-    "updated_at": "2026-05-04T07:01:14"
+    "updated_at": "2026-05-04T10:03:03"
   },
   {
     "name": "ai-agent-skills",
     "full_name": "DevelopersGlobal/ai-agent-skills",
     "description": "AI agent skills for production grade applications",
     "url": "https://github.com/DevelopersGlobal/ai-agent-skills",
-    "stars": 46,
+    "stars": 51,
     "daily_stars": 5,
     "language": "Python",
     "topics": [
@@ -221,15 +200,15 @@
       "skills"
     ],
     "created_at": "2026-05-01T09:27:28",
-    "updated_at": "2026-05-04T07:08:42"
+    "updated_at": "2026-05-04T10:09:43"
   },
   {
     "name": "CyberVerse",
     "full_name": "dsd2077/CyberVerse",
     "description": "CyberVerse is an open-source digital human agent platform with real-time video calling. Create an AI agent you can see and talk to, face to face, just like a video call.",
     "url": "https://github.com/dsd2077/CyberVerse",
-    "stars": 360,
-    "daily_stars": 4,
+    "stars": 365,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -244,6 +223,25 @@
       "webrtc"
     ],
     "created_at": "2026-04-18T15:00:11",
-    "updated_at": "2026-05-04T07:15:35"
+    "updated_at": "2026-05-04T10:20:58"
+  },
+  {
+    "name": "Aether",
+    "full_name": "Zhou-Shilin/Aether",
+    "description": "A stunning, localized, general-purpose AI Agent for Android.",
+    "url": "https://github.com/Zhou-Shilin/Aether",
+    "stars": 160,
+    "daily_stars": 5,
+    "language": "Kotlin",
+    "topics": [
+      "agent",
+      "agents",
+      "ai",
+      "ai-agents",
+      "android-application",
+      "llm"
+    ],
+    "created_at": "2026-04-25T13:22:24",
+    "updated_at": "2026-05-04T10:27:15"
   }
 ]
