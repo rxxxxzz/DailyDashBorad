@@ -4,8 +4,8 @@
     "full_name": "nexu-io/open-design",
     "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 19014,
-    "daily_stars": 483,
+    "stars": 20063,
+    "daily_stars": 1049,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -30,15 +30,15 @@
       "typescript"
     ],
     "created_at": "2026-04-28T04:25:20",
-    "updated_at": "2026-05-03T21:07:42"
+    "updated_at": "2026-05-04T04:27:06"
   },
   {
     "name": "text-to-cad",
     "full_name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 1377,
-    "daily_stars": 75,
+    "stars": 1513,
+    "daily_stars": 136,
     "language": "JavaScript",
     "topics": [
       "agents",
@@ -49,15 +49,30 @@
       "wasm"
     ],
     "created_at": "2026-04-22T01:09:45",
-    "updated_at": "2026-05-03T21:08:29"
+    "updated_at": "2026-05-04T04:22:14"
+  },
+  {
+    "name": "hermes-control-interface",
+    "full_name": "xaspx/hermes-control-interface",
+    "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate.",
+    "url": "https://github.com/xaspx/hermes-control-interface",
+    "stars": 564,
+    "daily_stars": 15,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "hermes-agent"
+    ],
+    "created_at": "2026-04-08T17:13:25",
+    "updated_at": "2026-05-04T03:53:39"
   },
   {
     "name": "ai-agent-skills",
     "full_name": "DevelopersGlobal/ai-agent-skills",
     "description": "AI agent skills for production grade applications",
     "url": "https://github.com/DevelopersGlobal/ai-agent-skills",
-    "stars": 27,
-    "daily_stars": 11,
+    "stars": 41,
+    "daily_stars": 14,
     "language": "Python",
     "topics": [
       "ai",
@@ -72,38 +87,66 @@
       "skills"
     ],
     "created_at": "2026-05-01T09:27:28",
-    "updated_at": "2026-05-03T20:35:54"
+    "updated_at": "2026-05-04T03:18:15"
   },
   {
-    "name": "harmonist",
-    "full_name": "GammaLabTechnologies/harmonist",
-    "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
-    "url": "https://github.com/GammaLabTechnologies/harmonist",
-    "stars": 1214,
-    "daily_stars": 11,
-    "language": "Python",
+    "name": "swarmvault",
+    "full_name": "swarmclawai/swarmvault",
+    "description": "Inspired by Karpathy's LLM Wiki. Local-first RAG knowledge base compiler with MCP server (Claude Code, Codex, OpenCode, OpenClaw). Turn raw research into a persistent markdown wiki, knowledge graph, and hybrid search that compound over time.",
+    "url": "https://github.com/swarmclawai/swarmvault",
+    "stars": 350,
+    "daily_stars": 12,
+    "language": "TypeScript",
     "topics": [
-      "agent-framework",
-      "agent-system",
       "ai-agents",
       "claude-code",
-      "cursor-ide",
+      "claude-skills",
+      "codex",
+      "codex-skills",
+      "embeddings",
+      "karpathy",
+      "knowledge-graph",
       "llm",
-      "multi-agent-framework",
-      "orchestration",
-      "prompt-engineering",
-      "python"
+      "llm-wiki",
+      "local-first",
+      "mcp",
+      "mcp-server",
+      "obsidian",
+      "openclaw",
+      "opencode",
+      "opencode-skills",
+      "pkm",
+      "rag",
+      "wiki"
     ],
-    "created_at": "2026-04-23T05:42:29",
-    "updated_at": "2026-05-03T21:08:45"
+    "created_at": "2026-04-06T20:52:30",
+    "updated_at": "2026-05-04T04:17:35"
+  },
+  {
+    "name": "hermes-ecosystem",
+    "full_name": "ksimback/hermes-ecosystem",
+    "description": "🗺️ Hermes Atlas — the community map of every tool, skill, and integration for Hermes Agent by Nous Research. Live at hermesatlas.com",
+    "url": "https://github.com/ksimback/hermes-ecosystem",
+    "stars": 727,
+    "daily_stars": 11,
+    "language": "HTML",
+    "topics": [
+      "ai-agents",
+      "ecosystem-map",
+      "hermes-agent",
+      "hermes-atlas",
+      "nous-research"
+    ],
+    "created_at": "2026-04-08T17:07:13",
+    "updated_at": "2026-05-04T04:16:12"
   },
   {
     "name": "Box",
     "full_name": "jegly/Box",
     "description": "Private on-device AI chat for Android. Fork of Google AI Edge Gallery with llama.cpp, GGUF import, biometric lock, and encrypted chat history. ",
     "url": "https://github.com/jegly/Box",
-    "stars": 251,
-    "daily_stars": 5,
+    "stars": 261,
+    "daily_stars": 10,
     "language": "Kotlin",
     "topics": [
       "artificial-intelligence",
@@ -116,123 +159,79 @@
       "local-ai"
     ],
     "created_at": "2026-04-17T10:42:52",
-    "updated_at": "2026-05-03T20:48:20"
+    "updated_at": "2026-05-04T03:33:16"
   },
   {
-    "name": "hermes-ecosystem",
-    "full_name": "ksimback/hermes-ecosystem",
-    "description": "🗺️ Hermes Atlas — the community map of every tool, skill, and integration for Hermes Agent by Nous Research. Live at hermesatlas.com",
-    "url": "https://github.com/ksimback/hermes-ecosystem",
-    "stars": 716,
-    "daily_stars": 5,
-    "language": "HTML",
-    "topics": [
-      "ai-agents",
-      "ecosystem-map",
-      "hermes-agent",
-      "hermes-atlas",
-      "nous-research"
-    ],
-    "created_at": "2026-04-08T17:07:13",
-    "updated_at": "2026-05-03T20:29:54"
-  },
-  {
-    "name": "OneResearchClaw",
-    "full_name": "gaotiexinqu/OneResearchClaw",
-    "description": "Any research. One Claw. 🦞 From any materials to research with fully autonomous & skill-driven researcher.",
-    "url": "https://github.com/gaotiexinqu/OneResearchClaw",
-    "stars": 241,
-    "daily_stars": 4,
+    "name": "Project_Chronos",
+    "full_name": "FonaTech/Project_Chronos",
+    "description": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
+    "url": "https://github.com/FonaTech/Project_Chronos",
+    "stars": 163,
+    "daily_stars": 10,
     "language": "Python",
     "topics": [
-      "agentic-systems",
+      "artificial-intelligence",
+      "async-dma",
+      "dual-layer-moe",
+      "generative-ai",
+      "high-throughput",
+      "io-latency-hiding",
+      "large-language-model",
+      "llm",
+      "lookahead-routing",
+      "lora",
+      "mixture-of-experts",
+      "mla-attention",
+      "open-models",
+      "open-source",
+      "predictive-inference",
+      "sliding-window-attention",
+      "ssd-offloading",
+      "streaming-llm"
+    ],
+    "created_at": "2026-04-19T21:05:18",
+    "updated_at": "2026-05-04T03:54:58"
+  },
+  {
+    "name": "kiwifs",
+    "full_name": "kiwifs/kiwifs",
+    "description": "The knowledge server — PocketBase for knowledge. One Go binary, zero config.",
+    "url": "https://github.com/kiwifs/kiwifs",
+    "stars": 367,
+    "daily_stars": 9,
+    "language": "Go",
+    "topics": [
       "ai-agents",
-      "ai-for-science",
-      "autonomous-research",
-      "cursor-ai",
-      "llm-agents",
-      "multi-agent",
-      "research-automation",
-      "scientific-discovery",
-      "self-evolving",
-      "skills"
+      "filesystem",
+      "golang",
+      "knowledge-base",
+      "knowledge-graph",
+      "llm-wiki",
+      "markdown",
+      "obsidian",
+      "self-hosted",
+      "wiki"
     ],
-    "created_at": "2026-04-20T08:39:50",
-    "updated_at": "2026-05-03T20:09:22"
+    "created_at": "2026-04-22T04:27:55",
+    "updated_at": "2026-05-04T04:14:42"
   },
   {
-    "name": "awesome-ai-extensions",
-    "full_name": "kklt92/awesome-ai-extensions",
-    "description": "A curated list of AI-powered browser extensions, plugins, and add-ons.",
-    "url": "https://github.com/kklt92/awesome-ai-extensions",
-    "stars": 351,
-    "daily_stars": 3,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-extensions",
-      "ai-tools",
-      "artificial-intelligence",
-      "awesome",
-      "awesome-list",
-      "browser-extensions",
-      "chrome-extensions",
-      "extensions",
-      "productivity"
-    ],
-    "created_at": "2026-04-08T18:31:06",
-    "updated_at": "2026-05-03T20:33:06"
-  },
-  {
-    "name": "ProDa",
-    "full_name": "OpenRaiser/ProDa",
-    "description": "📖 Data Engineering from Raw Corpora",
-    "url": "https://github.com/OpenRaiser/ProDa",
-    "stars": 90,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "benchmark",
-      "data-engineering",
-      "data-generation",
-      "data-science",
-      "data-synthesis",
-      "ide",
-      "interactive-development-environment",
-      "software-engineering"
-    ],
-    "created_at": "2026-04-26T15:54:27",
-    "updated_at": "2026-05-03T20:23:33"
-  },
-  {
-    "name": "VEFX-Bench",
-    "full_name": "Visko-Platform/VEFX-Bench",
-    "description": "VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects",
-    "url": "https://github.com/Visko-Platform/VEFX-Bench",
-    "stars": 81,
-    "daily_stars": 3,
-    "language": "Python",
+    "name": "Aether",
+    "full_name": "Zhou-Shilin/Aether",
+    "description": "A stunning, localized, general-purpose AI Agent for Android.",
+    "url": "https://github.com/Zhou-Shilin/Aether",
+    "stars": 153,
+    "daily_stars": 9,
+    "language": "Kotlin",
     "topics": [
       "agent",
+      "agents",
       "ai",
-      "artificial-intelligence",
-      "generative-ai",
-      "image",
-      "image-editing",
-      "image-generation",
-      "skills",
-      "vfx",
-      "video",
-      "video-editing",
-      "video-gen",
-      "video-generation",
-      "video-processing",
-      "video-quality-assessment",
-      "visualization"
+      "ai-agents",
+      "android-application",
+      "llm"
     ],
-    "created_at": "2026-04-20T01:50:00",
-    "updated_at": "2026-05-03T20:34:27"
+    "created_at": "2026-04-25T13:22:24",
+    "updated_at": "2026-05-04T02:35:51"
   }
 ]
