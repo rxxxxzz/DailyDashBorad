@@ -4,8 +4,8 @@
     "full_name": "nexu-io/open-design",
     "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 22444,
-    "daily_stars": 1027,
+    "stars": 23100,
+    "daily_stars": 656,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -30,15 +30,15 @@
       "typescript"
     ],
     "created_at": "2026-04-28T04:25:20",
-    "updated_at": "2026-05-04T14:38:10"
+    "updated_at": "2026-05-04T18:00:41"
   },
   {
     "name": "text-to-cad",
     "full_name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 1769,
-    "daily_stars": 110,
+    "stars": 1829,
+    "daily_stars": 60,
     "language": "JavaScript",
     "topics": [
       "agents",
@@ -49,15 +49,15 @@
       "wasm"
     ],
     "created_at": "2026-04-22T01:09:45",
-    "updated_at": "2026-05-04T14:37:58"
+    "updated_at": "2026-05-04T17:59:04"
   },
   {
     "name": "how-to-train-your-gpt",
     "full_name": "raiyanyahya/how-to-train-your-gpt",
     "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
     "url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
-    "stars": 136,
-    "daily_stars": 41,
+    "stars": 171,
+    "daily_stars": 35,
     "language": null,
     "topics": [
       "attention-mechanism",
@@ -77,38 +77,15 @@
       "tutorial"
     ],
     "created_at": "2026-05-03T21:41:33",
-    "updated_at": "2026-05-04T14:38:13"
-  },
-  {
-    "name": "kiwifs",
-    "full_name": "kiwifs/kiwifs",
-    "description": "The knowledge server — PocketBase for knowledge. One Go binary, zero config.",
-    "url": "https://github.com/kiwifs/kiwifs",
-    "stars": 432,
-    "daily_stars": 30,
-    "language": "Go",
-    "topics": [
-      "ai-agents",
-      "filesystem",
-      "golang",
-      "knowledge-base",
-      "knowledge-graph",
-      "llm-wiki",
-      "markdown",
-      "obsidian",
-      "self-hosted",
-      "wiki"
-    ],
-    "created_at": "2026-04-22T04:27:55",
-    "updated_at": "2026-05-04T14:26:21"
+    "updated_at": "2026-05-04T17:56:22"
   },
   {
     "name": "product-idea-excavator",
     "full_name": "derrickgong87/product-idea-excavator",
     "description": "Open-source bilingual Claude Skill for product discovery interviews and high-quality PRDs.",
     "url": "https://github.com/derrickgong87/product-idea-excavator",
-    "stars": 76,
-    "daily_stars": 24,
+    "stars": 84,
+    "daily_stars": 8,
     "language": null,
     "topics": [
       "ai",
@@ -127,15 +104,92 @@
       "startup"
     ],
     "created_at": "2026-04-28T16:21:11",
-    "updated_at": "2026-05-04T14:29:50"
+    "updated_at": "2026-05-04T15:11:26"
+  },
+  {
+    "name": "craft-agents-oss",
+    "full_name": "warpdot-dev/craft-agents-oss",
+    "description": "electron anthropic claude-agent-sdk mcp bun websocket thin-client multi-llm openapi skills automations oauth desktop-ai github-copilot google-ai chatgpt devtools apache-2 headless-server pi-sdk vscode-alternative linux macos windows",
+    "url": "https://github.com/warpdot-dev/craft-agents-oss",
+    "stars": 150,
+    "daily_stars": 7,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "automations",
+      "bun",
+      "chatgpt",
+      "claude",
+      "desktop",
+      "devtools",
+      "electron",
+      "github-copilot",
+      "google-ai",
+      "llm",
+      "mcp",
+      "openapi",
+      "skills",
+      "thin-client",
+      "typescript",
+      "websocket"
+    ],
+    "created_at": "2026-05-01T07:19:21",
+    "updated_at": "2026-05-04T17:29:26"
+  },
+  {
+    "name": "chiasmus",
+    "full_name": "yogthos/chiasmus",
+    "description": "Chiasmus is an MCP server that gives language models access to formal verification",
+    "url": "https://github.com/yogthos/chiasmus",
+    "stars": 147,
+    "daily_stars": 7,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "ai-assistant",
+      "ai-tools",
+      "formalmethods",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "prolog",
+      "z3-smt-solver"
+    ],
+    "created_at": "2026-04-07T23:41:53",
+    "updated_at": "2026-05-04T17:27:49"
+  },
+  {
+    "name": "agent-trade-kit",
+    "full_name": "6551-Team/agent-trade-kit",
+    "description": "OKX Agent Trade Kit: MCP server and CLI to connect AI assistants (Claude, Cursor) to your OKX account via Model Context Protocol. Local, MIT, TypeScript monorepo.",
+    "url": "https://github.com/6551-Team/agent-trade-kit",
+    "stars": 148,
+    "daily_stars": 6,
+    "language": "TypeScript",
+    "topics": [
+      "artificial-intelligence",
+      "claude",
+      "cli",
+      "cryptocurrency",
+      "cursor",
+      "mcp",
+      "model-context-protocol",
+      "nodejs",
+      "okx",
+      "trading",
+      "typescript"
+    ],
+    "created_at": "2026-04-27T09:48:41",
+    "updated_at": "2026-05-04T17:29:15"
   },
   {
     "name": "harmonist",
     "full_name": "GammaLabTechnologies/harmonist",
     "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
     "url": "https://github.com/GammaLabTechnologies/harmonist",
-    "stars": 1247,
-    "daily_stars": 13,
+    "stars": 1252,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "agent-framework",
@@ -150,33 +204,15 @@
       "python"
     ],
     "created_at": "2026-04-23T05:42:29",
-    "updated_at": "2026-05-04T14:29:57"
-  },
-  {
-    "name": "smfs",
-    "full_name": "supermemoryai/smfs",
-    "description": "A filesystem designed for agents, with SOTA retrieval, automatic memory profiles, sync engine. Drop any file type (pdf, images, videos), and grep through them.",
-    "url": "https://github.com/supermemoryai/smfs",
-    "stars": 289,
-    "daily_stars": 11,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-memory",
-      "filesystem",
-      "memory",
-      "rag"
-    ],
-    "created_at": "2026-04-14T19:00:51",
-    "updated_at": "2026-05-04T14:08:52"
+    "updated_at": "2026-05-04T17:53:02"
   },
   {
     "name": "memtrace-public",
     "full_name": "syncable-dev/memtrace-public",
     "description": "The missing memory layer for coding agents",
     "url": "https://github.com/syncable-dev/memtrace-public",
-    "stars": 126,
-    "daily_stars": 11,
+    "stars": 131,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -193,15 +229,15 @@
       "temporal-analysis"
     ],
     "created_at": "2026-04-11T11:49:55",
-    "updated_at": "2026-05-04T14:34:08"
+    "updated_at": "2026-05-04T16:45:12"
   },
   {
     "name": "swarmvault",
     "full_name": "swarmclawai/swarmvault",
     "description": "Inspired by Karpathy's LLM Wiki. Local-first RAG knowledge base compiler with MCP server (Claude Code, Codex, OpenCode, OpenClaw). Turn raw research into a persistent markdown wiki, knowledge graph, and hybrid search that compound over time.",
     "url": "https://github.com/swarmclawai/swarmvault",
-    "stars": 369,
-    "daily_stars": 9,
+    "stars": 373,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -226,30 +262,6 @@
       "wiki"
     ],
     "created_at": "2026-04-06T20:52:30",
-    "updated_at": "2026-05-04T14:18:07"
-  },
-  {
-    "name": "agent-trade-kit",
-    "full_name": "6551-Team/agent-trade-kit",
-    "description": "OKX Agent Trade Kit: MCP server and CLI to connect AI assistants (Claude, Cursor) to your OKX account via Model Context Protocol. Local, MIT, TypeScript monorepo.",
-    "url": "https://github.com/6551-Team/agent-trade-kit",
-    "stars": 142,
-    "daily_stars": 7,
-    "language": "TypeScript",
-    "topics": [
-      "artificial-intelligence",
-      "claude",
-      "cli",
-      "cryptocurrency",
-      "cursor",
-      "mcp",
-      "model-context-protocol",
-      "nodejs",
-      "okx",
-      "trading",
-      "typescript"
-    ],
-    "created_at": "2026-04-27T09:48:41",
-    "updated_at": "2026-05-04T14:37:09"
+    "updated_at": "2026-05-04T16:09:36"
   }
 ]
