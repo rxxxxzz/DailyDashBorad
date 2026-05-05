@@ -4,8 +4,8 @@
     "full_name": "nexu-io/open-design",
     "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 23614,
-    "daily_stars": 514,
+    "stars": 24500,
+    "daily_stars": 886,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -30,15 +30,15 @@
       "typescript"
     ],
     "created_at": "2026-04-28T04:25:20",
-    "updated_at": "2026-05-04T21:36:46"
+    "updated_at": "2026-05-05T03:55:06"
   },
   {
     "name": "how-to-train-your-gpt",
     "full_name": "raiyanyahya/how-to-train-your-gpt",
     "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
     "url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
-    "stars": 218,
-    "daily_stars": 47,
+    "stars": 273,
+    "daily_stars": 55,
     "language": null,
     "topics": [
       "attention-mechanism",
@@ -58,15 +58,15 @@
       "tutorial"
     ],
     "created_at": "2026-05-03T21:41:33",
-    "updated_at": "2026-05-04T21:35:28"
+    "updated_at": "2026-05-05T03:53:33"
   },
   {
     "name": "text-to-cad",
     "full_name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 1853,
-    "daily_stars": 24,
+    "stars": 1881,
+    "daily_stars": 28,
     "language": "JavaScript",
     "topics": [
       "agents",
@@ -77,15 +77,70 @@
       "wasm"
     ],
     "created_at": "2026-04-22T01:09:45",
-    "updated_at": "2026-05-04T21:34:47"
+    "updated_at": "2026-05-05T03:50:03"
+  },
+  {
+    "name": "agent-trade-kit",
+    "full_name": "6551-Team/agent-trade-kit",
+    "description": "OKX Agent Trade Kit: MCP server and CLI to connect AI assistants (Claude, Cursor) to your OKX account via Model Context Protocol. Local, MIT, TypeScript monorepo.",
+    "url": "https://github.com/6551-Team/agent-trade-kit",
+    "stars": 171,
+    "daily_stars": 21,
+    "language": "TypeScript",
+    "topics": [
+      "artificial-intelligence",
+      "claude",
+      "cli",
+      "cryptocurrency",
+      "cursor",
+      "mcp",
+      "model-context-protocol",
+      "nodejs",
+      "okx",
+      "trading",
+      "typescript"
+    ],
+    "created_at": "2026-04-27T09:48:41",
+    "updated_at": "2026-05-05T03:51:56"
+  },
+  {
+    "name": "craft-agents-oss",
+    "full_name": "warpdot-dev/craft-agents-oss",
+    "description": "electron anthropic claude-agent-sdk mcp bun websocket thin-client multi-llm openapi skills automations oauth desktop-ai github-copilot google-ai chatgpt devtools apache-2 headless-server pi-sdk vscode-alternative linux macos windows",
+    "url": "https://github.com/warpdot-dev/craft-agents-oss",
+    "stars": 173,
+    "daily_stars": 21,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "automations",
+      "bun",
+      "chatgpt",
+      "claude",
+      "desktop",
+      "devtools",
+      "electron",
+      "github-copilot",
+      "google-ai",
+      "llm",
+      "mcp",
+      "openapi",
+      "skills",
+      "thin-client",
+      "typescript",
+      "websocket"
+    ],
+    "created_at": "2026-05-01T07:19:21",
+    "updated_at": "2026-05-05T03:51:44"
   },
   {
     "name": "harmonist",
     "full_name": "GammaLabTechnologies/harmonist",
     "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
     "url": "https://github.com/GammaLabTechnologies/harmonist",
-    "stars": 1260,
-    "daily_stars": 8,
+    "stars": 1270,
+    "daily_stars": 10,
     "language": "Python",
     "topics": [
       "agent-framework",
@@ -100,15 +155,15 @@
       "python"
     ],
     "created_at": "2026-04-23T05:42:29",
-    "updated_at": "2026-05-04T21:10:44"
+    "updated_at": "2026-05-05T03:23:56"
   },
   {
     "name": "Aether",
     "full_name": "Zhou-Shilin/Aether",
     "description": "A stunning, localized, general-purpose AI Agent for Android.",
     "url": "https://github.com/Zhou-Shilin/Aether",
-    "stars": 172,
-    "daily_stars": 5,
+    "stars": 181,
+    "daily_stars": 9,
     "language": "Kotlin",
     "topics": [
       "agent",
@@ -119,85 +174,43 @@
       "llm"
     ],
     "created_at": "2026-04-25T13:22:24",
-    "updated_at": "2026-05-04T21:26:54"
+    "updated_at": "2026-05-05T03:30:43"
   },
   {
-    "name": "chiasmus",
-    "full_name": "yogthos/chiasmus",
-    "description": "Chiasmus is an MCP server that gives language models access to formal verification",
-    "url": "https://github.com/yogthos/chiasmus",
-    "stars": 152,
-    "daily_stars": 5,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "ai-assistant",
-      "ai-tools",
-      "formalmethods",
-      "llm",
-      "mcp",
-      "mcp-server",
-      "prolog",
-      "z3-smt-solver"
-    ],
-    "created_at": "2026-04-07T23:41:53",
-    "updated_at": "2026-05-04T20:06:01"
-  },
-  {
-    "name": "Box",
-    "full_name": "jegly/Box",
-    "description": "Private on-device AI chat for Android. Fork of Google AI Edge Gallery with llama.cpp, GGUF import, biometric lock, and encrypted chat history. ",
-    "url": "https://github.com/jegly/Box",
-    "stars": 288,
-    "daily_stars": 4,
-    "language": "Kotlin",
-    "topics": [
-      "artificial-intelligence",
-      "box",
-      "gguf",
-      "google",
-      "litert",
-      "litert-llamacpp",
-      "llamacpp",
-      "local-ai"
-    ],
-    "created_at": "2026-04-17T10:42:52",
-    "updated_at": "2026-05-04T20:34:56"
-  },
-  {
-    "name": "mapcv",
-    "full_name": "tahamukhtar20/mapcv",
-    "description": "A high-performance satellite imagery dataset creation tool for computer vision",
-    "url": "https://github.com/tahamukhtar20/mapcv",
-    "stars": 7,
-    "daily_stars": 4,
+    "name": "comfyui-msxyz",
+    "full_name": "MSXYZ-GenAI/comfyui-msxyz",
+    "description": "Anti-Aliasing Pack",
+    "url": "https://github.com/MSXYZ-GenAI/comfyui-msxyz",
+    "stars": 22,
+    "daily_stars": 9,
     "language": "Python",
     "topics": [
-      "computer-vision",
-      "dataset",
+      "ai-video",
+      "anti-aliasing",
+      "available-in-comfyui-manager",
+      "comfyui",
+      "comfyui-custom-node",
+      "comfyui-manager",
+      "comfyui-node",
       "deep-learning",
-      "geospatial",
-      "image-processing",
-      "machine-learning",
-      "maturin",
-      "pyo3",
-      "python",
-      "remote-sensing",
-      "rust",
-      "satellite-imagery",
-      "segmentation",
-      "tile-server"
+      "neural-network",
+      "post-processing",
+      "pytorch",
+      "stable-diffusion",
+      "trainer",
+      "upscaling",
+      "video-enhancement"
     ],
-    "created_at": "2026-04-28T20:29:02",
-    "updated_at": "2026-05-04T19:23:26"
+    "created_at": "2026-04-06T21:52:17",
+    "updated_at": "2026-05-05T00:41:44"
   },
   {
     "name": "awesome-ai-extensions",
     "full_name": "kklt92/awesome-ai-extensions",
     "description": "A curated list of AI-powered browser extensions, plugins, and add-ons.",
     "url": "https://github.com/kklt92/awesome-ai-extensions",
-    "stars": 374,
-    "daily_stars": 3,
+    "stars": 381,
+    "daily_stars": 7,
     "language": null,
     "topics": [
       "ai",
@@ -212,30 +225,28 @@
       "productivity"
     ],
     "created_at": "2026-04-08T18:31:06",
-    "updated_at": "2026-05-04T21:25:14"
+    "updated_at": "2026-05-05T03:13:50"
   },
   {
-    "name": "OneResearchClaw",
-    "full_name": "gaotiexinqu/OneResearchClaw",
-    "description": "Any research. One Claw. 🦞 From any materials to research with fully autonomous & skill-driven researcher.",
-    "url": "https://github.com/gaotiexinqu/OneResearchClaw",
-    "stars": 256,
-    "daily_stars": 3,
-    "language": "Python",
+    "name": "thClaws",
+    "full_name": "thClaws/thClaws",
+    "description": "Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design.",
+    "url": "https://github.com/thClaws/thClaws",
+    "stars": 741,
+    "daily_stars": 7,
+    "language": "Rust",
     "topics": [
-      "agentic-systems",
+      "agent-harness",
+      "ai",
+      "ai-agent",
       "ai-agents",
-      "ai-for-science",
-      "autonomous-research",
-      "cursor-ai",
-      "llm-agents",
-      "multi-agent",
-      "research-automation",
-      "scientific-discovery",
-      "self-evolving",
-      "skills"
+      "desktop-app",
+      "local-first",
+      "multi-provider",
+      "rust",
+      "tauri"
     ],
-    "created_at": "2026-04-20T08:39:50",
-    "updated_at": "2026-05-04T21:13:28"
+    "created_at": "2026-04-20T01:27:39",
+    "updated_at": "2026-05-05T03:28:03"
   }
 ]
