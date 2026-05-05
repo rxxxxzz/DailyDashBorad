@@ -4,8 +4,8 @@
     "full_name": "nexu-io/open-design",
     "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 25736,
-    "daily_stars": 748,
+    "stars": 26999,
+    "daily_stars": 1263,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -30,15 +30,15 @@
       "typescript"
     ],
     "created_at": "2026-04-28T04:25:20",
-    "updated_at": "2026-05-05T10:17:01"
+    "updated_at": "2026-05-05T17:57:10"
   },
   {
     "name": "how-to-train-your-gpt",
     "full_name": "raiyanyahya/how-to-train-your-gpt",
     "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
     "url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
-    "stars": 333,
-    "daily_stars": 31,
+    "stars": 397,
+    "daily_stars": 64,
     "language": null,
     "topics": [
       "attention-mechanism",
@@ -58,15 +58,56 @@
       "tutorial"
     ],
     "created_at": "2026-05-03T21:41:33",
-    "updated_at": "2026-05-05T10:14:02"
+    "updated_at": "2026-05-05T17:48:40"
+  },
+  {
+    "name": "thClaws",
+    "full_name": "thClaws/thClaws",
+    "description": "Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design.",
+    "url": "https://github.com/thClaws/thClaws",
+    "stars": 802,
+    "daily_stars": 57,
+    "language": "Rust",
+    "topics": [
+      "agent-harness",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "desktop-app",
+      "local-first",
+      "multi-provider",
+      "rust",
+      "tauri"
+    ],
+    "created_at": "2026-04-20T01:27:39",
+    "updated_at": "2026-05-05T16:17:33"
+  },
+  {
+    "name": "text-to-cad",
+    "full_name": "earthtojake/text-to-cad",
+    "description": "An open source harness for generating CAD models",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "stars": 1930,
+    "daily_stars": 30,
+    "language": "JavaScript",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "cad",
+      "text-to-cad",
+      "wasm"
+    ],
+    "created_at": "2026-04-22T01:09:45",
+    "updated_at": "2026-05-05T17:48:20"
   },
   {
     "name": "harmonist",
     "full_name": "GammaLabTechnologies/harmonist",
     "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
     "url": "https://github.com/GammaLabTechnologies/harmonist",
-    "stars": 1282,
-    "daily_stars": 11,
+    "stars": 1297,
+    "daily_stars": 15,
     "language": "Python",
     "topics": [
       "agent-framework",
@@ -81,34 +122,62 @@
       "python"
     ],
     "created_at": "2026-04-23T05:42:29",
-    "updated_at": "2026-05-05T10:06:37"
+    "updated_at": "2026-05-05T17:58:07"
   },
   {
-    "name": "text-to-cad",
-    "full_name": "earthtojake/text-to-cad",
-    "description": "An open source harness for generating CAD models",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 1900,
-    "daily_stars": 9,
-    "language": "JavaScript",
+    "name": "CyberVerse",
+    "full_name": "dsd2077/CyberVerse",
+    "description": "CyberVerse is an open-source digital human agent platform with real-time video calling. Create an AI agent you can see and talk to, face to face, just like a video call.",
+    "url": "https://github.com/dsd2077/CyberVerse",
+    "stars": 391,
+    "daily_stars": 14,
+    "language": "Python",
     "topics": [
-      "agents",
-      "ai",
       "ai-agents",
-      "cad",
-      "text-to-cad",
-      "wasm"
+      "ai-companion",
+      "digital-human",
+      "digital-life",
+      "grok-companion",
+      "jarvis-assistant",
+      "sillytavern",
+      "streaming",
+      "vtuber",
+      "webrtc"
     ],
-    "created_at": "2026-04-22T01:09:45",
-    "updated_at": "2026-05-05T09:03:29"
+    "created_at": "2026-04-18T15:00:11",
+    "updated_at": "2026-05-05T16:26:49"
+  },
+  {
+    "name": "agent-trade-kit",
+    "full_name": "6551-Team/agent-trade-kit",
+    "description": "OKX Agent Trade Kit: MCP server and CLI to connect AI assistants (Claude, Cursor) to your OKX account via Model Context Protocol. Local, MIT, TypeScript monorepo.",
+    "url": "https://github.com/6551-Team/agent-trade-kit",
+    "stars": 198,
+    "daily_stars": 13,
+    "language": "TypeScript",
+    "topics": [
+      "artificial-intelligence",
+      "claude",
+      "cli",
+      "cryptocurrency",
+      "cursor",
+      "mcp",
+      "model-context-protocol",
+      "nodejs",
+      "okx",
+      "trading",
+      "typescript"
+    ],
+    "created_at": "2026-04-27T09:48:41",
+    "updated_at": "2026-05-05T17:39:58"
   },
   {
     "name": "craft-agents-oss",
     "full_name": "warpdot-dev/craft-agents-oss",
     "description": "electron anthropic claude-agent-sdk mcp bun websocket thin-client multi-llm openapi skills automations oauth desktop-ai github-copilot google-ai chatgpt devtools apache-2 headless-server pi-sdk vscode-alternative linux macos windows",
     "url": "https://github.com/warpdot-dev/craft-agents-oss",
-    "stars": 191,
-    "daily_stars": 9,
+    "stars": 204,
+    "daily_stars": 13,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -131,141 +200,48 @@
       "websocket"
     ],
     "created_at": "2026-05-01T07:19:21",
-    "updated_at": "2026-05-05T10:16:51"
+    "updated_at": "2026-05-05T17:39:30"
   },
   {
-    "name": "agent-trade-kit",
-    "full_name": "6551-Team/agent-trade-kit",
-    "description": "OKX Agent Trade Kit: MCP server and CLI to connect AI assistants (Claude, Cursor) to your OKX account via Model Context Protocol. Local, MIT, TypeScript monorepo.",
-    "url": "https://github.com/6551-Team/agent-trade-kit",
-    "stars": 185,
-    "daily_stars": 6,
+    "name": "Aether",
+    "full_name": "Zhou-Shilin/Aether",
+    "description": "A stunning, localized, general-purpose AI Agent for Android.",
+    "url": "https://github.com/Zhou-Shilin/Aether",
+    "stars": 201,
+    "daily_stars": 12,
+    "language": "Kotlin",
+    "topics": [
+      "agent",
+      "agents",
+      "ai",
+      "ai-agents",
+      "android-application",
+      "llm"
+    ],
+    "created_at": "2026-04-25T13:22:24",
+    "updated_at": "2026-05-05T15:17:28"
+  },
+  {
+    "name": "harnessclaw",
+    "full_name": "harnessclaw/harnessclaw",
+    "description": "Harnessclaw is a powerful, Electron-based desktop application designed to manage, chat with, and operate AI agents and skills seamlessly.",
+    "url": "https://github.com/harnessclaw/harnessclaw",
+    "stars": 401,
+    "daily_stars": 10,
     "language": "TypeScript",
     "topics": [
-      "artificial-intelligence",
-      "claude",
-      "cli",
-      "cryptocurrency",
-      "cursor",
-      "mcp",
-      "model-context-protocol",
-      "nodejs",
-      "okx",
-      "trading",
-      "typescript"
-    ],
-    "created_at": "2026-04-27T09:48:41",
-    "updated_at": "2026-05-05T09:50:19"
-  },
-  {
-    "name": "CyberVerse",
-    "full_name": "dsd2077/CyberVerse",
-    "description": "CyberVerse is an open-source digital human agent platform with real-time video calling. Create an AI agent you can see and talk to, face to face, just like a video call.",
-    "url": "https://github.com/dsd2077/CyberVerse",
-    "stars": 377,
-    "daily_stars": 5,
-    "language": "Python",
-    "topics": [
+      "agent",
       "ai-agents",
-      "ai-companion",
-      "digital-human",
-      "digital-life",
-      "grok-companion",
-      "jarvis-assistant",
-      "sillytavern",
-      "streaming",
-      "vtuber",
-      "webrtc"
+      "chatbot",
+      "desktop-app",
+      "electron-app",
+      "harness",
+      "harness-engineering",
+      "iflytek-astron",
+      "open",
+      "openclaw"
     ],
-    "created_at": "2026-04-18T15:00:11",
-    "updated_at": "2026-05-05T10:05:19"
-  },
-  {
-    "name": "composio",
-    "full_name": "warpdot-dev/composio",
-    "description": "typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers",
-    "url": "https://github.com/warpdot-dev/composio",
-    "stars": 229,
-    "daily_stars": 5,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "automation",
-      "cloudflare",
-      "devtools",
-      "google-gemini",
-      "integrations",
-      "langchain",
-      "langgraph",
-      "llamaindex",
-      "llm",
-      "mcp",
-      "model-context-protocol",
-      "oauth",
-      "openai-agents",
-      "python",
-      "saas",
-      "sdk",
-      "typescript",
-      "vercel-ai"
-    ],
-    "created_at": "2026-05-01T07:19:17",
-    "updated_at": "2026-05-05T08:59:04"
-  },
-  {
-    "name": "chiasmus",
-    "full_name": "yogthos/chiasmus",
-    "description": "Chiasmus is an MCP server that gives language models access to formal verification",
-    "url": "https://github.com/yogthos/chiasmus",
-    "stars": 159,
-    "daily_stars": 5,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "ai-assistant",
-      "ai-tools",
-      "formalmethods",
-      "llm",
-      "mcp",
-      "mcp-server",
-      "prolog",
-      "z3-smt-solver"
-    ],
-    "created_at": "2026-04-07T23:41:53",
-    "updated_at": "2026-05-05T09:31:47"
-  },
-  {
-    "name": "agent-systems-handbook",
-    "full_name": "Prompthon-IO/agent-systems-handbook",
-    "description": "A practical AI agents handbook covering agent systems, agentic workflows, LangGraph, MCP, A2A, context engineering, agent memory, evaluation, observability, and multi-agent architecture.",
-    "url": "https://github.com/Prompthon-IO/agent-systems-handbook",
-    "stars": 134,
-    "daily_stars": 5,
-    "language": "MDX",
-    "topics": [
-      "a2a",
-      "agent-framework",
-      "agent-memory",
-      "agentic-ai",
-      "agentic-workflow",
-      "ai-agent",
-      "ai-agents",
-      "autonomous-agents",
-      "context-engineering",
-      "deep-research",
-      "developer-tools",
-      "generative-ai",
-      "langgraph",
-      "llm-agents",
-      "llm-applications",
-      "mcp",
-      "multi-agent-systems",
-      "prompt-engineering",
-      "rag",
-      "workflow-automation"
-    ],
-    "created_at": "2026-04-20T13:28:26",
-    "updated_at": "2026-05-05T09:12:54"
+    "created_at": "2026-04-12T13:52:01",
+    "updated_at": "2026-05-05T15:37:26"
   }
 ]
