@@ -4,8 +4,8 @@
     "full_name": "nexu-io/open-design",
     "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 31770,
-    "daily_stars": 365,
+    "stars": 31963,
+    "daily_stars": 193,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -30,15 +30,15 @@
       "typescript"
     ],
     "created_at": "2026-04-28T04:25:20",
-    "updated_at": "2026-05-07T15:11:30"
+    "updated_at": "2026-05-07T18:03:06"
   },
   {
     "name": "mirage",
     "full_name": "strukto-ai/mirage",
     "description": "A Unified Virtual Filesystem For AI Agents",
     "url": "https://github.com/strukto-ai/mirage",
-    "stars": 670,
-    "daily_stars": 301,
+    "stars": 826,
+    "daily_stars": 156,
     "language": "TypeScript",
     "topics": [
       "agent-sandbox",
@@ -56,15 +56,15 @@
       "virtual-filesystem"
     ],
     "created_at": "2026-05-06T17:00:48",
-    "updated_at": "2026-05-07T15:11:43"
+    "updated_at": "2026-05-07T17:56:00"
   },
   {
     "name": "agent-skills-eval",
     "full_name": "darkrishabh/agent-skills-eval",
     "description": "A test runner for agentskills.io-style AI agent skills",
     "url": "https://github.com/darkrishabh/agent-skills-eval",
-    "stars": 126,
-    "daily_stars": 70,
+    "stars": 152,
+    "daily_stars": 26,
     "language": "TypeScript",
     "topics": [
       "agent-evals",
@@ -80,15 +80,66 @@
       "yaml"
     ],
     "created_at": "2026-05-06T05:10:29",
-    "updated_at": "2026-05-07T15:11:15"
+    "updated_at": "2026-05-07T17:52:37"
+  },
+  {
+    "name": "awesome-agentic-ai-zh",
+    "full_name": "WenyuChiou/awesome-agentic-ai-zh",
+    "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 79,
+    "daily_stars": 19,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "awesome-list",
+      "bilingual",
+      "claude-code",
+      "claude-skills",
+      "learning-roadmap",
+      "llm-agents",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "created_at": "2026-05-04T22:18:51",
+    "updated_at": "2026-05-07T17:42:56"
+  },
+  {
+    "name": "Aegis",
+    "full_name": "GanyuanRan/Aegis",
+    "description": "让AI编码更严谨、更可控的架构驱动开发方法包，一键安装，提升代码质量！An upgraded Superpowers-based Architecture-Driven Development (ADD) Method Pack for AI coding agents: baseline-first, evidence-driven workflows, TLREF/DIVE/QA discipline, and dual-track governance across hosts.",
+    "url": "https://github.com/GanyuanRan/Aegis",
+    "stars": 105,
+    "daily_stars": 17,
+    "language": "Shell",
+    "topics": [
+      "add",
+      "agent-skills",
+      "ai-agents",
+      "ai-coding",
+      "architecture-driven-development",
+      "baseline-first",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "developer-tools",
+      "evidence-driven",
+      "opencode",
+      "software-architecture",
+      "tdd",
+      "tlref"
+    ],
+    "created_at": "2026-04-30T17:40:49",
+    "updated_at": "2026-05-07T18:00:48"
   },
   {
     "name": "minimind-o",
     "full_name": "jingyaogong/minimind-o",
     "description": "🌏 0.1B级开源Omni模型 🌏Open-source Omni model at the 0.1B level",
     "url": "https://github.com/jingyaogong/minimind-o",
-    "stars": 377,
-    "daily_stars": 51,
+    "stars": 391,
+    "daily_stars": 14,
     "language": null,
     "topics": [
       "artificial-intelligence",
@@ -96,111 +147,77 @@
       "omni"
     ],
     "created_at": "2026-05-01T04:20:16",
-    "updated_at": "2026-05-07T15:10:25"
+    "updated_at": "2026-05-07T17:51:15"
   },
   {
-    "name": "claude-pets",
-    "full_name": "alvinunreal/claude-pets",
-    "description": "Claude Code integration for OpenPets: automatic desktop pet status updates with one-command setup.",
-    "url": "https://github.com/alvinunreal/claude-pets",
-    "stars": 130,
-    "daily_stars": 49,
-    "language": "TypeScript",
+    "name": "opencode-power-pack",
+    "full_name": "waybarrios/opencode-power-pack",
+    "description": "Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
+    "url": "https://github.com/waybarrios/opencode-power-pack",
+    "stars": 255,
+    "daily_stars": 14,
+    "language": "JavaScript",
     "topics": [
       "ai-agents",
-      "bun",
+      "anthropic",
       "claude-code",
-      "claude-pets",
-      "coding-agents",
-      "desktop-pet",
-      "hooks",
-      "mcp",
-      "openpets",
-      "typescript"
-    ],
-    "created_at": "2026-05-04T19:15:21",
-    "updated_at": "2026-05-07T14:39:26"
-  },
-  {
-    "name": "openpets",
-    "full_name": "alvinunreal/openpets",
-    "description": "Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.",
-    "url": "https://github.com/alvinunreal/openpets",
-    "stars": 85,
-    "daily_stars": 40,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "bun",
-      "claude-code",
-      "coding-agents",
-      "desktop-pet",
-      "electron",
-      "mcp",
+      "code-review",
+      "developer-tools",
+      "llm-tools",
       "opencode",
-      "openpets",
-      "pixel-art"
+      "plugin",
+      "security-audit",
+      "skills"
     ],
-    "created_at": "2026-05-04T19:14:46",
-    "updated_at": "2026-05-07T14:39:30"
+    "created_at": "2026-04-26T17:13:11",
+    "updated_at": "2026-05-07T17:16:17"
   },
   {
-    "name": "ServiceGraph",
-    "full_name": "nostrband/ServiceGraph",
-    "description": "Agent skills for a structured catalog of 100k+ US professional-services firms",
-    "url": "https://github.com/nostrband/ServiceGraph",
-    "stars": 163,
-    "daily_stars": 24,
-    "language": "Shell",
+    "name": "zano",
+    "full_name": "EryouHao/zano",
+    "description": "A collaborative workspace where humans and AI agents work together in shared channels",
+    "url": "https://github.com/EryouHao/zano",
+    "stars": 85,
+    "daily_stars": 14,
+    "language": "TypeScript",
     "topics": [
-      "agent-skills",
       "ai-agents",
-      "b2b-data",
-      "claude-plugins",
-      "claude-skills",
-      "mcp-server",
-      "openapi",
-      "professional-services",
-      "vendor-discovery"
+      "chat",
+      "claude-code",
+      "mcp",
+      "nextjs",
+      "slack-alternative",
+      "supabase"
     ],
-    "created_at": "2026-05-04T07:56:07",
-    "updated_at": "2026-05-07T14:02:46"
+    "created_at": "2026-04-27T13:22:27",
+    "updated_at": "2026-05-07T18:06:20"
   },
   {
-    "name": "how-to-train-your-gpt",
-    "full_name": "raiyanyahya/how-to-train-your-gpt",
-    "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
-    "url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
-    "stars": 646,
-    "daily_stars": 23,
-    "language": null,
+    "name": "text-to-cad",
+    "full_name": "earthtojake/text-to-cad",
+    "description": "An open source harness for generating CAD models",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "stars": 2124,
+    "daily_stars": 12,
+    "language": "JavaScript",
     "topics": [
-      "attention-mechanism",
-      "deep-learning",
-      "educational",
-      "from-scratch",
-      "gpt",
-      "language-model",
-      "llama",
-      "llm",
-      "machine-learning",
-      "natural-language-processing",
-      "python",
-      "pytorch",
-      "tokenisation",
-      "transformers",
-      "tutorial"
+      "agents",
+      "ai",
+      "ai-agents",
+      "cad",
+      "text-to-cad",
+      "wasm"
     ],
-    "created_at": "2026-05-03T21:41:33",
-    "updated_at": "2026-05-07T14:58:56"
+    "created_at": "2026-04-22T01:09:45",
+    "updated_at": "2026-05-07T17:57:44"
   },
   {
     "name": "fullstack-mkt-skills",
     "full_name": "minhnv0807/fullstack-mkt-skills",
     "description": "20 production-ready AI marketing skills for Claude Code, ChatGPT, Gemini & Copilot. Generate content calendars, TikTok/Meta ad copy, UGC briefs, KPI calculators, A/B tests, pricing strategies & landing pages instantly. Vietnam-market benchmarks 2025-2026. Install as Claude Code plugin or use as standalone prompts for any AI agent.",
     "url": "https://github.com/minhnv0807/fullstack-mkt-skills",
-    "stars": 268,
-    "daily_stars": 22,
+    "stars": 276,
+    "daily_stars": 8,
     "language": "Shell",
     "topics": [
       "ab-testing",
@@ -225,25 +242,6 @@
       "vietnam"
     ],
     "created_at": "2026-04-15T12:23:06",
-    "updated_at": "2026-05-07T14:50:24"
-  },
-  {
-    "name": "text-to-cad",
-    "full_name": "earthtojake/text-to-cad",
-    "description": "An open source harness for generating CAD models",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 2112,
-    "daily_stars": 20,
-    "language": "JavaScript",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "cad",
-      "text-to-cad",
-      "wasm"
-    ],
-    "created_at": "2026-04-22T01:09:45",
-    "updated_at": "2026-05-07T15:06:10"
+    "updated_at": "2026-05-07T17:12:14"
   }
 ]
