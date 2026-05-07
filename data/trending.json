@@ -4,8 +4,8 @@
     "full_name": "nexu-io/open-design",
     "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 31405,
-    "daily_stars": 304,
+    "stars": 31770,
+    "daily_stars": 365,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -30,15 +30,15 @@
       "typescript"
     ],
     "created_at": "2026-04-28T04:25:20",
-    "updated_at": "2026-05-07T10:39:47"
+    "updated_at": "2026-05-07T15:11:30"
   },
   {
     "name": "mirage",
     "full_name": "strukto-ai/mirage",
     "description": "A Unified Virtual Filesystem For AI Agents",
     "url": "https://github.com/strukto-ai/mirage",
-    "stars": 369,
-    "daily_stars": 149,
+    "stars": 670,
+    "daily_stars": 301,
     "language": "TypeScript",
     "topics": [
       "agent-sandbox",
@@ -56,15 +56,101 @@
       "virtual-filesystem"
     ],
     "created_at": "2026-05-06T17:00:48",
-    "updated_at": "2026-05-07T10:39:59"
+    "updated_at": "2026-05-07T15:11:43"
+  },
+  {
+    "name": "agent-skills-eval",
+    "full_name": "darkrishabh/agent-skills-eval",
+    "description": "A test runner for agentskills.io-style AI agent skills",
+    "url": "https://github.com/darkrishabh/agent-skills-eval",
+    "stars": 126,
+    "daily_stars": 70,
+    "language": "TypeScript",
+    "topics": [
+      "agent-evals",
+      "agent-skills",
+      "agentskills",
+      "ai-agents",
+      "cli",
+      "jsonl",
+      "llm-evals",
+      "llm-evaluation",
+      "openai-compatible",
+      "typescript",
+      "yaml"
+    ],
+    "created_at": "2026-05-06T05:10:29",
+    "updated_at": "2026-05-07T15:11:15"
+  },
+  {
+    "name": "minimind-o",
+    "full_name": "jingyaogong/minimind-o",
+    "description": "🌏 0.1B级开源Omni模型 🌏Open-source Omni model at the 0.1B level",
+    "url": "https://github.com/jingyaogong/minimind-o",
+    "stars": 377,
+    "daily_stars": 51,
+    "language": null,
+    "topics": [
+      "artificial-intelligence",
+      "chatgpt",
+      "omni"
+    ],
+    "created_at": "2026-05-01T04:20:16",
+    "updated_at": "2026-05-07T15:10:25"
+  },
+  {
+    "name": "claude-pets",
+    "full_name": "alvinunreal/claude-pets",
+    "description": "Claude Code integration for OpenPets: automatic desktop pet status updates with one-command setup.",
+    "url": "https://github.com/alvinunreal/claude-pets",
+    "stars": 130,
+    "daily_stars": 49,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "bun",
+      "claude-code",
+      "claude-pets",
+      "coding-agents",
+      "desktop-pet",
+      "hooks",
+      "mcp",
+      "openpets",
+      "typescript"
+    ],
+    "created_at": "2026-05-04T19:15:21",
+    "updated_at": "2026-05-07T14:39:26"
+  },
+  {
+    "name": "openpets",
+    "full_name": "alvinunreal/openpets",
+    "description": "Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.",
+    "url": "https://github.com/alvinunreal/openpets",
+    "stars": 85,
+    "daily_stars": 40,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "bun",
+      "claude-code",
+      "coding-agents",
+      "desktop-pet",
+      "electron",
+      "mcp",
+      "opencode",
+      "openpets",
+      "pixel-art"
+    ],
+    "created_at": "2026-05-04T19:14:46",
+    "updated_at": "2026-05-07T14:39:30"
   },
   {
     "name": "ServiceGraph",
     "full_name": "nostrband/ServiceGraph",
     "description": "Agent skills for a structured catalog of 100k+ US professional-services firms",
     "url": "https://github.com/nostrband/ServiceGraph",
-    "stars": 139,
-    "daily_stars": 103,
+    "stars": 163,
+    "daily_stars": 24,
     "language": "Shell",
     "topics": [
       "agent-skills",
@@ -78,31 +164,15 @@
       "vendor-discovery"
     ],
     "created_at": "2026-05-04T07:56:07",
-    "updated_at": "2026-05-07T10:39:03"
-  },
-  {
-    "name": "minimind-o",
-    "full_name": "jingyaogong/minimind-o",
-    "description": "🌏 0.1B级开源Omni模型 🌏Open-source Omni model at the 0.1B level",
-    "url": "https://github.com/jingyaogong/minimind-o",
-    "stars": 326,
-    "daily_stars": 24,
-    "language": null,
-    "topics": [
-      "artificial-intelligence",
-      "chatgpt",
-      "omni"
-    ],
-    "created_at": "2026-05-01T04:20:16",
-    "updated_at": "2026-05-07T10:12:34"
+    "updated_at": "2026-05-07T14:02:46"
   },
   {
     "name": "how-to-train-your-gpt",
     "full_name": "raiyanyahya/how-to-train-your-gpt",
     "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
     "url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
-    "stars": 623,
-    "daily_stars": 21,
+    "stars": 646,
+    "daily_stars": 23,
     "language": null,
     "topics": [
       "attention-mechanism",
@@ -122,15 +192,15 @@
       "tutorial"
     ],
     "created_at": "2026-05-03T21:41:33",
-    "updated_at": "2026-05-07T10:30:37"
+    "updated_at": "2026-05-07T14:58:56"
   },
   {
     "name": "fullstack-mkt-skills",
     "full_name": "minhnv0807/fullstack-mkt-skills",
     "description": "20 production-ready AI marketing skills for Claude Code, ChatGPT, Gemini & Copilot. Generate content calendars, TikTok/Meta ad copy, UGC briefs, KPI calculators, A/B tests, pricing strategies & landing pages instantly. Vietnam-market benchmarks 2025-2026. Install as Claude Code plugin or use as standalone prompts for any AI agent.",
     "url": "https://github.com/minhnv0807/fullstack-mkt-skills",
-    "stars": 246,
-    "daily_stars": 19,
+    "stars": 268,
+    "daily_stars": 22,
     "language": "Shell",
     "topics": [
       "ab-testing",
@@ -155,113 +225,25 @@
       "vietnam"
     ],
     "created_at": "2026-04-15T12:23:06",
-    "updated_at": "2026-05-07T09:54:41"
+    "updated_at": "2026-05-07T14:50:24"
   },
   {
-    "name": "zano",
-    "full_name": "EryouHao/zano",
-    "description": "A collaborative workspace where humans and AI agents work together in shared channels",
-    "url": "https://github.com/EryouHao/zano",
-    "stars": 54,
-    "daily_stars": 17,
-    "language": "TypeScript",
+    "name": "text-to-cad",
+    "full_name": "earthtojake/text-to-cad",
+    "description": "An open source harness for generating CAD models",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "stars": 2112,
+    "daily_stars": 20,
+    "language": "JavaScript",
     "topics": [
+      "agents",
+      "ai",
       "ai-agents",
-      "chat",
-      "claude-code",
-      "mcp",
-      "nextjs",
-      "slack-alternative",
-      "supabase"
+      "cad",
+      "text-to-cad",
+      "wasm"
     ],
-    "created_at": "2026-04-27T13:22:27",
-    "updated_at": "2026-05-07T10:31:51"
-  },
-  {
-    "name": "best-of-algorithmic-trading",
-    "full_name": "TitanFlow-Systems/best-of-algorithmic-trading",
-    "description": "best-of algorithmic trading quant finance crypto bots frameworks APIs TA indicators libraries Freqtrade Hummingbot OctoBot Jesse Zipline backtrader CCXT Lean StockSharp Python Node Rust Go TypeScript C# Java forex stocks derivatives polymarket prediction-markets courses books YouTube Telegram communities fintech opensource weekly ranked star-score",
-    "url": "https://github.com/TitanFlow-Systems/best-of-algorithmic-trading",
-    "stars": 218,
-    "daily_stars": 13,
-    "language": "TypeScript",
-    "topics": [
-      "algorithmic-trading",
-      "awesome-list",
-      "backtesting",
-      "best-of-list",
-      "bitcoin",
-      "crypto-trading",
-      "cryptocurrency",
-      "defi",
-      "ethereum",
-      "fintech",
-      "freqtrade",
-      "hummingbot",
-      "machine-learning",
-      "nodejs",
-      "open-source",
-      "python",
-      "quantitative-finance",
-      "technical-analysis",
-      "trading-bot",
-      "typescript"
-    ],
-    "created_at": "2026-05-05T20:40:50",
-    "updated_at": "2026-05-07T10:38:35"
-  },
-  {
-    "name": "harness",
-    "full_name": "awizemann/harness",
-    "description": "AI-driven user testing for iOS Simulator, macOS apps, and web apps. Write a goal in plain language; an LLM agent drives the UI and reports friction. macOS 14+, Swift 6.",
-    "url": "https://github.com/awizemann/harness",
-    "stars": 102,
-    "daily_stars": 12,
-    "language": "Swift",
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "developer-tools",
-      "ios-testing",
-      "mac",
-      "macos",
-      "macos-testing",
-      "simulator",
-      "swift",
-      "swift-ui",
-      "swift6",
-      "swiftui",
-      "user-testing",
-      "ux-testing",
-      "web-testing",
-      "webkit",
-      "xcode"
-    ],
-    "created_at": "2026-05-03T22:10:19",
-    "updated_at": "2026-05-07T10:24:04"
-  },
-  {
-    "name": "CyberVerse",
-    "full_name": "dsd2077/CyberVerse",
-    "description": "CyberVerse is an open-source digital human agent platform with real-time video calling. Create an AI agent you can see and talk to, face to face, just like a video call.",
-    "url": "https://github.com/dsd2077/CyberVerse",
-    "stars": 449,
-    "daily_stars": 11,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-companion",
-      "digital-human",
-      "digital-life",
-      "grok-companion",
-      "jarvis-assistant",
-      "sillytavern",
-      "streaming",
-      "vtuber",
-      "webrtc"
-    ],
-    "created_at": "2026-04-18T15:00:11",
-    "updated_at": "2026-05-07T10:15:55"
+    "created_at": "2026-04-22T01:09:45",
+    "updated_at": "2026-05-07T15:06:10"
   }
 ]
