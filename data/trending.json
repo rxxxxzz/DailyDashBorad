@@ -4,8 +4,8 @@
     "full_name": "nexu-io/open-design",
     "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 33127,
-    "daily_stars": 391,
+    "stars": 33473,
+    "daily_stars": 346,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -30,15 +30,15 @@
       "typescript"
     ],
     "created_at": "2026-04-28T04:25:20",
-    "updated_at": "2026-05-08T10:02:12"
+    "updated_at": "2026-05-08T14:22:00"
   },
   {
     "name": "mirage",
     "full_name": "strukto-ai/mirage",
     "description": "A Unified Virtual Filesystem For AI Agents",
     "url": "https://github.com/strukto-ai/mirage",
-    "stars": 1209,
-    "daily_stars": 93,
+    "stars": 1287,
+    "daily_stars": 78,
     "language": "TypeScript",
     "topics": [
       "agent-sandbox",
@@ -56,15 +56,182 @@
       "virtual-filesystem"
     ],
     "created_at": "2026-05-06T17:00:48",
-    "updated_at": "2026-05-08T10:00:49"
+    "updated_at": "2026-05-08T14:19:13"
+  },
+  {
+    "name": "awesome-agentic-ai-zh",
+    "full_name": "WenyuChiou/awesome-agentic-ai-zh",
+    "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 272,
+    "daily_stars": 45,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "awesome-list",
+      "bilingual",
+      "claude-code",
+      "claude-skills",
+      "learning-roadmap",
+      "llm-agents",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "created_at": "2026-05-04T22:18:51",
+    "updated_at": "2026-05-08T14:22:06"
+  },
+  {
+    "name": "minimind-o",
+    "full_name": "jingyaogong/minimind-o",
+    "description": "🌏 0.1B级开源Omni模型 🌏Open-source Omni model at the 0.1B level",
+    "url": "https://github.com/jingyaogong/minimind-o",
+    "stars": 533,
+    "daily_stars": 24,
+    "language": null,
+    "topics": [
+      "artificial-intelligence",
+      "chatgpt",
+      "omni"
+    ],
+    "created_at": "2026-05-01T04:20:16",
+    "updated_at": "2026-05-08T14:16:24"
+  },
+  {
+    "name": "text-to-cad",
+    "full_name": "earthtojake/text-to-cad",
+    "description": "An open source harness for generating CAD models",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "stars": 2190,
+    "daily_stars": 15,
+    "language": "JavaScript",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "cad",
+      "text-to-cad",
+      "wasm"
+    ],
+    "created_at": "2026-04-22T01:09:45",
+    "updated_at": "2026-05-08T14:15:40"
+  },
+  {
+    "name": "zano",
+    "full_name": "EryouHao/zano",
+    "description": "A collaborative workspace where humans and AI agents work together in shared channels",
+    "url": "https://github.com/EryouHao/zano",
+    "stars": 147,
+    "daily_stars": 11,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "chat",
+      "claude-code",
+      "mcp",
+      "nextjs",
+      "slack-alternative",
+      "supabase"
+    ],
+    "created_at": "2026-04-27T13:22:27",
+    "updated_at": "2026-05-08T14:18:28"
+  },
+  {
+    "name": "Agent_Memory_Techniques",
+    "full_name": "NirDiamant/Agent_Memory_Techniques",
+    "description": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, MemGPT, Mem0, Letta, Zep, Graphiti, LoCoMo benchmarks, and production patterns.",
+    "url": "https://github.com/NirDiamant/Agent_Memory_Techniques",
+    "stars": 200,
+    "daily_stars": 10,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "agent-memory",
+      "ai-agents",
+      "anthropic",
+      "cognitive-architecture",
+      "cookbook",
+      "episodic-memory",
+      "graphiti",
+      "jupyter-notebook",
+      "knowledge-graph",
+      "langchain",
+      "letta",
+      "llm-agents",
+      "llm-memory",
+      "mem0",
+      "memgpt",
+      "openai",
+      "rag",
+      "tutorial",
+      "vector-database",
+      "zep"
+    ],
+    "created_at": "2026-05-05T21:08:23",
+    "updated_at": "2026-05-08T12:49:47"
+  },
+  {
+    "name": "how-to-train-your-gpt",
+    "full_name": "raiyanyahya/how-to-train-your-gpt",
+    "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
+    "url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
+    "stars": 736,
+    "daily_stars": 10,
+    "language": null,
+    "topics": [
+      "attention-mechanism",
+      "deep-learning",
+      "educational",
+      "from-scratch",
+      "gpt",
+      "language-model",
+      "llama",
+      "llm",
+      "machine-learning",
+      "natural-language-processing",
+      "python",
+      "pytorch",
+      "tokenisation",
+      "transformers",
+      "tutorial"
+    ],
+    "created_at": "2026-05-03T21:41:33",
+    "updated_at": "2026-05-08T13:29:47"
+  },
+  {
+    "name": "ClawBench",
+    "full_name": "reacher-z/ClawBench",
+    "description": "Can AI Agents Complete Everyday Online Tasks? 153 tasks, 144 live websites, 15 categories.",
+    "url": "https://github.com/reacher-z/ClawBench",
+    "stars": 183,
+    "daily_stars": 8,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-benchmark",
+      "autonomous-agents",
+      "benchmark",
+      "browser-automation",
+      "browser-use",
+      "dataset",
+      "deep-learning",
+      "evaluation",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "research",
+      "web-agents",
+      "web-automation"
+    ],
+    "created_at": "2026-04-10T01:59:17",
+    "updated_at": "2026-05-08T14:12:02"
   },
   {
     "name": "WorldX",
     "full_name": "YGYOOO/WorldX",
     "description": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own.",
     "url": "https://github.com/YGYOOO/WorldX",
-    "stars": 692,
-    "daily_stars": 42,
+    "stars": 699,
+    "daily_stars": 7,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -86,163 +253,6 @@
       "typescript"
     ],
     "created_at": "2026-04-18T06:24:32",
-    "updated_at": "2026-05-08T09:59:57"
-  },
-  {
-    "name": "minimind-o",
-    "full_name": "jingyaogong/minimind-o",
-    "description": "🌏 0.1B级开源Omni模型 🌏Open-source Omni model at the 0.1B level",
-    "url": "https://github.com/jingyaogong/minimind-o",
-    "stars": 509,
-    "daily_stars": 36,
-    "language": null,
-    "topics": [
-      "artificial-intelligence",
-      "chatgpt",
-      "omni"
-    ],
-    "created_at": "2026-05-01T04:20:16",
-    "updated_at": "2026-05-08T09:45:30"
-  },
-  {
-    "name": "awesome-agentic-ai-zh",
-    "full_name": "WenyuChiou/awesome-agentic-ai-zh",
-    "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 227,
-    "daily_stars": 32,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "awesome-list",
-      "bilingual",
-      "claude-code",
-      "claude-skills",
-      "learning-roadmap",
-      "llm-agents",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "created_at": "2026-05-04T22:18:51",
-    "updated_at": "2026-05-08T10:00:14"
-  },
-  {
-    "name": "text-to-cad",
-    "full_name": "earthtojake/text-to-cad",
-    "description": "An open source harness for generating CAD models",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 2175,
-    "daily_stars": 24,
-    "language": "JavaScript",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "cad",
-      "text-to-cad",
-      "wasm"
-    ],
-    "created_at": "2026-04-22T01:09:45",
-    "updated_at": "2026-05-08T10:00:47"
-  },
-  {
-    "name": "how-to-train-your-gpt",
-    "full_name": "raiyanyahya/how-to-train-your-gpt",
-    "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
-    "url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
-    "stars": 726,
-    "daily_stars": 17,
-    "language": null,
-    "topics": [
-      "attention-mechanism",
-      "deep-learning",
-      "educational",
-      "from-scratch",
-      "gpt",
-      "language-model",
-      "llama",
-      "llm",
-      "machine-learning",
-      "natural-language-processing",
-      "python",
-      "pytorch",
-      "tokenisation",
-      "transformers",
-      "tutorial"
-    ],
-    "created_at": "2026-05-03T21:41:33",
-    "updated_at": "2026-05-08T10:02:21"
-  },
-  {
-    "name": "zano",
-    "full_name": "EryouHao/zano",
-    "description": "A collaborative workspace where humans and AI agents work together in shared channels",
-    "url": "https://github.com/EryouHao/zano",
-    "stars": 136,
-    "daily_stars": 13,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "chat",
-      "claude-code",
-      "mcp",
-      "nextjs",
-      "slack-alternative",
-      "supabase"
-    ],
-    "created_at": "2026-04-27T13:22:27",
-    "updated_at": "2026-05-08T09:42:14"
-  },
-  {
-    "name": "Aegis",
-    "full_name": "GanyuanRan/Aegis",
-    "description": "让AI编码更严谨、更可控的架构驱动开发方法包，一键安装，提升代码质量！An upgraded Superpowers-based Architecture-Driven Development (ADD) Method Pack for AI coding agents: baseline-first, evidence-driven workflows, TLREF/DIVE/QA discipline, and dual-track governance across hosts.",
-    "url": "https://github.com/GanyuanRan/Aegis",
-    "stars": 121,
-    "daily_stars": 12,
-    "language": "Shell",
-    "topics": [
-      "add",
-      "agent-skills",
-      "ai-agents",
-      "ai-coding",
-      "architecture-driven-development",
-      "baseline-first",
-      "claude-code",
-      "codex",
-      "coding-agents",
-      "developer-tools",
-      "evidence-driven",
-      "opencode",
-      "software-architecture",
-      "tdd",
-      "tlref"
-    ],
-    "created_at": "2026-04-30T17:40:49",
-    "updated_at": "2026-05-08T09:11:24"
-  },
-  {
-    "name": "CyberVerse",
-    "full_name": "dsd2077/CyberVerse",
-    "description": "CyberVerse is an open-source digital human agent platform with real-time video calling. Create an AI agent you can see and talk to, face to face, just like a video call.",
-    "url": "https://github.com/dsd2077/CyberVerse",
-    "stars": 465,
-    "daily_stars": 10,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-companion",
-      "digital-human",
-      "digital-life",
-      "grok-companion",
-      "jarvis-assistant",
-      "sillytavern",
-      "streaming",
-      "vtuber",
-      "webrtc"
-    ],
-    "created_at": "2026-04-18T15:00:11",
-    "updated_at": "2026-05-08T09:36:15"
+    "updated_at": "2026-05-08T14:17:57"
   }
 ]
