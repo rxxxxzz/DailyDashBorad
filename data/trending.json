@@ -4,8 +4,8 @@
     "full_name": "nexu-io/open-design",
     "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 32559,
-    "daily_stars": 463,
+    "stars": 32736,
+    "daily_stars": 177,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -30,15 +30,41 @@
       "typescript"
     ],
     "created_at": "2026-04-28T04:25:20",
-    "updated_at": "2026-05-08T03:57:42"
+    "updated_at": "2026-05-08T06:15:11"
+  },
+  {
+    "name": "guild",
+    "full_name": "mathomhaus/guild",
+    "description": "Shared context, memory, and task coordination across AI coding agents. Single Go binary, local SQLite, hybrid keyword and semantic search.",
+    "url": "https://github.com/mathomhaus/guild",
+    "stars": 110,
+    "daily_stars": 67,
+    "language": "Go",
+    "topics": [
+      "agent-coordination",
+      "agent-memory",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "codex",
+      "cursor",
+      "golang",
+      "harness-engineering",
+      "local-first",
+      "mcp",
+      "mcp-server",
+      "sqlite"
+    ],
+    "created_at": "2026-04-20T05:45:28",
+    "updated_at": "2026-05-08T05:52:59"
   },
   {
     "name": "mirage",
     "full_name": "strukto-ai/mirage",
     "description": "A Unified Virtual Filesystem For AI Agents",
     "url": "https://github.com/strukto-ai/mirage",
-    "stars": 1060,
-    "daily_stars": 145,
+    "stars": 1116,
+    "daily_stars": 56,
     "language": "TypeScript",
     "topics": [
       "agent-sandbox",
@@ -56,38 +82,45 @@
       "virtual-filesystem"
     ],
     "created_at": "2026-05-06T17:00:48",
-    "updated_at": "2026-05-08T03:54:29"
+    "updated_at": "2026-05-08T06:14:59"
   },
   {
-    "name": "awesome-agentic-ai-zh",
-    "full_name": "WenyuChiou/awesome-agentic-ai-zh",
-    "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 188,
-    "daily_stars": 94,
-    "language": "Python",
+    "name": "WorldX",
+    "full_name": "YGYOOO/WorldX",
+    "description": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own.",
+    "url": "https://github.com/YGYOOO/WorldX",
+    "stars": 650,
+    "daily_stars": 19,
+    "language": "TypeScript",
     "topics": [
-      "agentic-ai",
+      "agent",
+      "ai",
       "ai-agents",
-      "awesome-list",
-      "bilingual",
-      "claude-code",
-      "claude-skills",
-      "learning-roadmap",
+      "ai-characters",
+      "ai-simulation",
+      "ai-world",
+      "emergent-behavior",
+      "game-ai",
+      "generative-agents",
+      "generative-ai",
+      "llm",
       "llm-agents",
-      "mcp",
-      "model-context-protocol"
+      "multi-agent-simulation",
+      "open-source",
+      "phaser",
+      "pixel-art",
+      "typescript"
     ],
-    "created_at": "2026-05-04T22:18:51",
-    "updated_at": "2026-05-08T03:49:57"
+    "created_at": "2026-04-18T06:24:32",
+    "updated_at": "2026-05-08T06:06:00"
   },
   {
     "name": "minimind-o",
     "full_name": "jingyaogong/minimind-o",
     "description": "🌏 0.1B级开源Omni模型 🌏Open-source Omni model at the 0.1B level",
     "url": "https://github.com/jingyaogong/minimind-o",
-    "stars": 457,
-    "daily_stars": 61,
+    "stars": 473,
+    "daily_stars": 16,
     "language": null,
     "topics": [
       "artificial-intelligence",
@@ -95,130 +128,57 @@
       "omni"
     ],
     "created_at": "2026-05-01T04:20:16",
-    "updated_at": "2026-05-08T03:58:15"
+    "updated_at": "2026-05-08T06:14:36"
   },
   {
-    "name": "how-to-train-your-gpt",
-    "full_name": "raiyanyahya/how-to-train-your-gpt",
-    "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
-    "url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
-    "stars": 703,
-    "daily_stars": 34,
-    "language": null,
+    "name": "text-to-cad",
+    "full_name": "earthtojake/text-to-cad",
+    "description": "An open source harness for generating CAD models",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "stars": 2151,
+    "daily_stars": 14,
+    "language": "JavaScript",
     "topics": [
-      "attention-mechanism",
-      "deep-learning",
-      "educational",
-      "from-scratch",
-      "gpt",
-      "language-model",
-      "llama",
-      "llm",
-      "machine-learning",
-      "natural-language-processing",
-      "python",
-      "pytorch",
-      "tokenisation",
-      "transformers",
-      "tutorial"
-    ],
-    "created_at": "2026-05-03T21:41:33",
-    "updated_at": "2026-05-08T03:35:53"
-  },
-  {
-    "name": "agent-skills-eval",
-    "full_name": "darkrishabh/agent-skills-eval",
-    "description": "A test runner for agentskills.io-style AI agent skills",
-    "url": "https://github.com/darkrishabh/agent-skills-eval",
-    "stars": 201,
-    "daily_stars": 28,
-    "language": "TypeScript",
-    "topics": [
-      "agent-evals",
-      "agent-skills",
-      "agentskills",
+      "agents",
+      "ai",
       "ai-agents",
-      "cli",
-      "jsonl",
-      "llm-evals",
-      "llm-evaluation",
-      "openai-compatible",
-      "typescript",
-      "yaml"
+      "cad",
+      "text-to-cad",
+      "wasm"
     ],
-    "created_at": "2026-05-06T05:10:29",
-    "updated_at": "2026-05-08T03:36:21"
+    "created_at": "2026-04-22T01:09:45",
+    "updated_at": "2026-05-08T06:10:50"
   },
   {
-    "name": "zano",
-    "full_name": "EryouHao/zano",
-    "description": "A collaborative workspace where humans and AI agents work together in shared channels",
-    "url": "https://github.com/EryouHao/zano",
-    "stars": 115,
-    "daily_stars": 28,
-    "language": "TypeScript",
+    "name": "opencode-power-pack",
+    "full_name": "waybarrios/opencode-power-pack",
+    "description": "Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
+    "url": "https://github.com/waybarrios/opencode-power-pack",
+    "stars": 285,
+    "daily_stars": 9,
+    "language": "JavaScript",
     "topics": [
       "ai-agents",
-      "chat",
+      "anthropic",
       "claude-code",
-      "mcp",
-      "nextjs",
-      "slack-alternative",
-      "supabase"
-    ],
-    "created_at": "2026-04-27T13:22:27",
-    "updated_at": "2026-05-08T03:30:06"
-  },
-  {
-    "name": "ProofFlow-v0.1",
-    "full_name": "Hyperion-GPU/ProofFlow-v0.1",
-    "description": null,
-    "url": "https://github.com/Hyperion-GPU/ProofFlow-v0.1",
-    "stars": 60,
-    "daily_stars": 20,
-    "language": "Python",
-    "topics": [
-      "agent-safety",
-      "ai-agents",
-      "audit",
       "code-review",
-      "codex",
       "developer-tools",
-      "mcp"
+      "llm-tools",
+      "opencode",
+      "plugin",
+      "security-audit",
+      "skills"
     ],
-    "created_at": "2026-04-26T14:02:54",
-    "updated_at": "2026-05-08T01:43:31"
-  },
-  {
-    "name": "harmonist",
-    "full_name": "GammaLabTechnologies/harmonist",
-    "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
-    "url": "https://github.com/GammaLabTechnologies/harmonist",
-    "stars": 1407,
-    "daily_stars": 19,
-    "language": "Python",
-    "topics": [
-      "agent-framework",
-      "agent-system",
-      "ai-agents",
-      "claude-code",
-      "cursor-ide",
-      "llm",
-      "multi-agent-framework",
-      "orchestration",
-      "prompt-engineering",
-      "python"
-    ],
-    "created_at": "2026-04-23T05:42:29",
-    "updated_at": "2026-05-08T03:55:17"
+    "created_at": "2026-04-26T17:13:11",
+    "updated_at": "2026-05-08T06:04:25"
   },
   {
     "name": "Agent_Memory_Techniques",
     "full_name": "NirDiamant/Agent_Memory_Techniques",
     "description": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, MemGPT, Mem0, Letta, Zep, Graphiti, LoCoMo benchmarks, and production patterns.",
     "url": "https://github.com/NirDiamant/Agent_Memory_Techniques",
-    "stars": 173,
-    "daily_stars": 18,
+    "stars": 181,
+    "daily_stars": 8,
     "language": "Jupyter Notebook",
     "topics": [
       "agent-memory",
@@ -243,6 +203,49 @@
       "zep"
     ],
     "created_at": "2026-05-05T21:08:23",
-    "updated_at": "2026-05-08T02:58:29"
+    "updated_at": "2026-05-08T05:35:58"
+  },
+  {
+    "name": "zano",
+    "full_name": "EryouHao/zano",
+    "description": "A collaborative workspace where humans and AI agents work together in shared channels",
+    "url": "https://github.com/EryouHao/zano",
+    "stars": 123,
+    "daily_stars": 8,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "chat",
+      "claude-code",
+      "mcp",
+      "nextjs",
+      "slack-alternative",
+      "supabase"
+    ],
+    "created_at": "2026-04-27T13:22:27",
+    "updated_at": "2026-05-08T06:08:08"
+  },
+  {
+    "name": "awesome-agentic-ai-zh",
+    "full_name": "WenyuChiou/awesome-agentic-ai-zh",
+    "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 195,
+    "daily_stars": 7,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "awesome-list",
+      "bilingual",
+      "claude-code",
+      "claude-skills",
+      "learning-roadmap",
+      "llm-agents",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "created_at": "2026-05-04T22:18:51",
+    "updated_at": "2026-05-08T06:07:12"
   }
 ]
