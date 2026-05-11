@@ -4,8 +4,8 @@
     "full_name": "nexu-io/open-design",
     "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 37159,
-    "daily_stars": 238,
+    "stars": 37258,
+    "daily_stars": 99,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -30,15 +30,15 @@
       "typescript"
     ],
     "created_at": "2026-04-28T04:25:20",
-    "updated_at": "2026-05-11T15:42:51"
+    "updated_at": "2026-05-11T18:12:31"
   },
   {
     "name": "agent-skills-eval",
     "full_name": "darkrishabh/agent-skills-eval",
     "description": "A test runner for agentskills.io-style AI agent skills",
     "url": "https://github.com/darkrishabh/agent-skills-eval",
-    "stars": 385,
-    "daily_stars": 35,
+    "stars": 402,
+    "daily_stars": 17,
     "language": "TypeScript",
     "topics": [
       "agent-evals",
@@ -54,15 +54,15 @@
       "yaml"
     ],
     "created_at": "2026-05-06T05:10:29",
-    "updated_at": "2026-05-11T15:38:43"
+    "updated_at": "2026-05-11T18:08:03"
   },
   {
     "name": "mirage",
     "full_name": "strukto-ai/mirage",
     "description": "A Unified Virtual Filesystem For AI Agents",
     "url": "https://github.com/strukto-ai/mirage",
-    "stars": 1881,
-    "daily_stars": 33,
+    "stars": 1896,
+    "daily_stars": 15,
     "language": "TypeScript",
     "topics": [
       "agent-sandbox",
@@ -80,54 +80,15 @@
       "virtual-filesystem"
     ],
     "created_at": "2026-05-06T17:00:48",
-    "updated_at": "2026-05-11T15:33:09"
-  },
-  {
-    "name": "awesome-agentic-ai-zh",
-    "full_name": "WenyuChiou/awesome-agentic-ai-zh",
-    "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 842,
-    "daily_stars": 31,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "awesome-list",
-      "bilingual",
-      "claude-code",
-      "claude-skills",
-      "learning-roadmap",
-      "llm-agents",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "created_at": "2026-05-04T22:18:51",
-    "updated_at": "2026-05-11T15:40:13"
-  },
-  {
-    "name": "minimind-o",
-    "full_name": "jingyaogong/minimind-o",
-    "description": "🌏 0.1B级开源Omni模型 🌏Open-source Omni model at the 0.1B level",
-    "url": "https://github.com/jingyaogong/minimind-o",
-    "stars": 1015,
-    "daily_stars": 17,
-    "language": null,
-    "topics": [
-      "artificial-intelligence",
-      "chatgpt",
-      "omni"
-    ],
-    "created_at": "2026-05-01T04:20:16",
-    "updated_at": "2026-05-11T15:14:17"
+    "updated_at": "2026-05-11T17:53:45"
   },
   {
     "name": "text-to-cad",
     "full_name": "earthtojake/text-to-cad",
     "description": "An open source harness for generating CAD models",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 2395,
-    "daily_stars": 13,
+    "stars": 2404,
+    "daily_stars": 9,
     "language": "JavaScript",
     "topics": [
       "agents",
@@ -138,15 +99,64 @@
       "wasm"
     ],
     "created_at": "2026-04-22T01:09:45",
-    "updated_at": "2026-05-11T15:06:14"
+    "updated_at": "2026-05-11T18:14:20"
+  },
+  {
+    "name": "guild",
+    "full_name": "mathomhaus/guild",
+    "description": "Shared context, memory, and task coordination across AI coding agents. Single Go binary, local SQLite, hybrid keyword and semantic search.",
+    "url": "https://github.com/mathomhaus/guild",
+    "stars": 154,
+    "daily_stars": 9,
+    "language": "Go",
+    "topics": [
+      "agent-coordination",
+      "agent-memory",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "codex",
+      "cursor",
+      "golang",
+      "harness-engineering",
+      "local-first",
+      "mcp",
+      "mcp-server",
+      "sqlite"
+    ],
+    "created_at": "2026-04-20T05:45:28",
+    "updated_at": "2026-05-11T17:53:48"
+  },
+  {
+    "name": "openpets",
+    "full_name": "alvinunreal/openpets",
+    "description": "Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.",
+    "url": "https://github.com/alvinunreal/openpets",
+    "stars": 217,
+    "daily_stars": 8,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "bun",
+      "claude-code",
+      "coding-agents",
+      "desktop-pet",
+      "electron",
+      "mcp",
+      "opencode",
+      "openpets",
+      "pixel-art"
+    ],
+    "created_at": "2026-05-04T19:14:46",
+    "updated_at": "2026-05-11T17:28:05"
   },
   {
     "name": "how-to-train-your-gpt",
     "full_name": "raiyanyahya/how-to-train-your-gpt",
     "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
     "url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
-    "stars": 983,
-    "daily_stars": 11,
+    "stars": 990,
+    "daily_stars": 7,
     "language": null,
     "topics": [
       "attention-mechanism",
@@ -166,55 +176,14 @@
       "tutorial"
     ],
     "created_at": "2026-05-03T21:41:33",
-    "updated_at": "2026-05-11T15:39:34"
-  },
-  {
-    "name": "openpets",
-    "full_name": "alvinunreal/openpets",
-    "description": "Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.",
-    "url": "https://github.com/alvinunreal/openpets",
-    "stars": 209,
-    "daily_stars": 10,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "bun",
-      "claude-code",
-      "coding-agents",
-      "desktop-pet",
-      "electron",
-      "mcp",
-      "opencode",
-      "openpets",
-      "pixel-art"
-    ],
-    "created_at": "2026-05-04T19:14:46",
-    "updated_at": "2026-05-11T15:41:33"
-  },
-  {
-    "name": "deep-learning-notes",
-    "full_name": "jshn9515/deep-learning-notes",
-    "description": "Personal deep learning study notes and tutorial-style notebooks",
-    "url": "https://github.com/jshn9515/deep-learning-notes",
-    "stars": 239,
-    "daily_stars": 9,
-    "language": "Python",
-    "topics": [
-      "deep-learning",
-      "jupyter-notebooks",
-      "pytorch",
-      "quarto",
-      "tutorial"
-    ],
-    "created_at": "2026-04-21T04:06:43",
-    "updated_at": "2026-05-11T15:37:43"
+    "updated_at": "2026-05-11T18:16:05"
   },
   {
     "name": "harmonist",
     "full_name": "GammaLabTechnologies/harmonist",
     "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
     "url": "https://github.com/GammaLabTechnologies/harmonist",
-    "stars": 1531,
+    "stars": 1537,
     "daily_stars": 6,
     "language": "Python",
     "topics": [
@@ -230,6 +199,45 @@
       "python"
     ],
     "created_at": "2026-04-23T05:42:29",
-    "updated_at": "2026-05-11T15:24:04"
+    "updated_at": "2026-05-11T17:52:26"
+  },
+  {
+    "name": "minimind-o",
+    "full_name": "jingyaogong/minimind-o",
+    "description": "🌏 0.1B级开源Omni模型 🌏Open-source Omni model at the 0.1B level",
+    "url": "https://github.com/jingyaogong/minimind-o",
+    "stars": 1020,
+    "daily_stars": 5,
+    "language": null,
+    "topics": [
+      "artificial-intelligence",
+      "chatgpt",
+      "omni"
+    ],
+    "created_at": "2026-05-01T04:20:16",
+    "updated_at": "2026-05-11T17:43:59"
+  },
+  {
+    "name": "awesome-agentic-ai-zh",
+    "full_name": "WenyuChiou/awesome-agentic-ai-zh",
+    "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 846,
+    "daily_stars": 4,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "awesome-list",
+      "bilingual",
+      "claude-code",
+      "claude-skills",
+      "learning-roadmap",
+      "llm-agents",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "created_at": "2026-05-04T22:18:51",
+    "updated_at": "2026-05-11T18:04:22"
   }
 ]
