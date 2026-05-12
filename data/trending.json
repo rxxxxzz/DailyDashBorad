@@ -4,8 +4,8 @@
     "full_name": "nexu-io/open-design",
     "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 37953,
-    "daily_stars": 153,
+    "stars": 38135,
+    "daily_stars": 182,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -30,38 +30,38 @@
       "typescript"
     ],
     "created_at": "2026-04-28T04:25:20",
-    "updated_at": "2026-05-12T10:56:19"
+    "updated_at": "2026-05-12T15:20:05"
   },
   {
-    "name": "awesome-agentic-ai-zh",
-    "full_name": "WenyuChiou/awesome-agentic-ai-zh",
-    "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 1006,
-    "daily_stars": 53,
+    "name": "Photo-agents",
+    "full_name": "jmerelnyc/Photo-agents",
+    "description": "Autonomous self-evolving agents. Vision-grounded layered memory and self-written skills for LLM agents that operate your computer.",
+    "url": "https://github.com/jmerelnyc/Photo-agents",
+    "stars": 534,
+    "daily_stars": 166,
     "language": "Python",
     "topics": [
-      "agentic-ai",
+      "agent-memory",
       "ai-agents",
-      "awesome-list",
-      "bilingual",
-      "claude-code",
-      "claude-skills",
-      "learning-roadmap",
-      "llm-agents",
-      "mcp",
-      "model-context-protocol"
+      "autonomous-agents",
+      "computer-use",
+      "llm",
+      "photo-agents",
+      "photographic-memory",
+      "python",
+      "self-evolving-agents",
+      "vision-agents"
     ],
-    "created_at": "2026-05-04T22:18:51",
-    "updated_at": "2026-05-12T10:49:40"
+    "created_at": "2026-05-04T09:14:09",
+    "updated_at": "2026-05-12T15:19:15"
   },
   {
     "name": "how-to-train-your-gpt",
     "full_name": "raiyanyahya/how-to-train-your-gpt",
     "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
     "url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
-    "stars": 1089,
-    "daily_stars": 46,
+    "stars": 1145,
+    "daily_stars": 56,
     "language": null,
     "topics": [
       "attention-mechanism",
@@ -81,15 +81,61 @@
       "tutorial"
     ],
     "created_at": "2026-05-03T21:41:33",
-    "updated_at": "2026-05-12T10:53:59"
+    "updated_at": "2026-05-12T15:19:32"
+  },
+  {
+    "name": "awesome-agentic-ai-zh",
+    "full_name": "WenyuChiou/awesome-agentic-ai-zh",
+    "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 1046,
+    "daily_stars": 40,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "awesome-list",
+      "bilingual",
+      "claude-code",
+      "claude-skills",
+      "learning-roadmap",
+      "llm-agents",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "created_at": "2026-05-04T22:18:51",
+    "updated_at": "2026-05-12T15:19:05"
+  },
+  {
+    "name": "openpets",
+    "full_name": "alvinunreal/openpets",
+    "description": "Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.",
+    "url": "https://github.com/alvinunreal/openpets",
+    "stars": 343,
+    "daily_stars": 31,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "bun",
+      "claude-code",
+      "coding-agents",
+      "desktop-pet",
+      "electron",
+      "mcp",
+      "opencode",
+      "openpets",
+      "pixel-art"
+    ],
+    "created_at": "2026-05-04T19:14:46",
+    "updated_at": "2026-05-12T15:13:24"
   },
   {
     "name": "mirage",
     "full_name": "strukto-ai/mirage",
     "description": "A Unified Virtual Filesystem For AI Agents",
     "url": "https://github.com/strukto-ai/mirage",
-    "stars": 2007,
-    "daily_stars": 23,
+    "stars": 2036,
+    "daily_stars": 29,
     "language": "TypeScript",
     "topics": [
       "agent-sandbox",
@@ -107,57 +153,15 @@
       "virtual-filesystem"
     ],
     "created_at": "2026-05-06T17:00:48",
-    "updated_at": "2026-05-12T10:54:21"
-  },
-  {
-    "name": "openpets",
-    "full_name": "alvinunreal/openpets",
-    "description": "Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.",
-    "url": "https://github.com/alvinunreal/openpets",
-    "stars": 312,
-    "daily_stars": 17,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "bun",
-      "claude-code",
-      "coding-agents",
-      "desktop-pet",
-      "electron",
-      "mcp",
-      "opencode",
-      "openpets",
-      "pixel-art"
-    ],
-    "created_at": "2026-05-04T19:14:46",
-    "updated_at": "2026-05-12T10:57:47"
-  },
-  {
-    "name": "text-to-cad",
-    "full_name": "earthtojake/text-to-cad",
-    "description": "An open source harness for generating CAD models",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 2453,
-    "daily_stars": 14,
-    "language": "JavaScript",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "cad",
-      "text-to-cad",
-      "wasm"
-    ],
-    "created_at": "2026-04-22T01:09:45",
-    "updated_at": "2026-05-12T10:57:19"
+    "updated_at": "2026-05-12T15:17:26"
   },
   {
     "name": "e2a",
     "full_name": "Mnexa-AI/e2a",
     "description": "Authenticated email gateway for AI agents — SPF/DKIM verified inbound, HMAC-signed delivery, webhook + WebSocket fan-out, CLI + SDKs",
     "url": "https://github.com/Mnexa-AI/e2a",
-    "stars": 73,
-    "daily_stars": 14,
+    "stars": 98,
+    "daily_stars": 25,
     "language": "Go",
     "topics": [
       "ai-agents",
@@ -171,15 +175,34 @@
       "webhook"
     ],
     "created_at": "2026-04-25T03:40:24",
-    "updated_at": "2026-05-12T10:35:26"
+    "updated_at": "2026-05-12T14:52:59"
+  },
+  {
+    "name": "text-to-cad",
+    "full_name": "earthtojake/text-to-cad",
+    "description": "An open source harness for generating CAD models",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "stars": 2469,
+    "daily_stars": 16,
+    "language": "JavaScript",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "cad",
+      "text-to-cad",
+      "wasm"
+    ],
+    "created_at": "2026-04-22T01:09:45",
+    "updated_at": "2026-05-12T14:50:09"
   },
   {
     "name": "minimind-o",
     "full_name": "jingyaogong/minimind-o",
     "description": "🌏 0.1B级开源Omni模型 🌏Open-source Omni model at the 0.1B level",
     "url": "https://github.com/jingyaogong/minimind-o",
-    "stars": 1062,
-    "daily_stars": 10,
+    "stars": 1077,
+    "daily_stars": 15,
     "language": null,
     "topics": [
       "artificial-intelligence",
@@ -187,49 +210,27 @@
       "omni"
     ],
     "created_at": "2026-05-01T04:20:16",
-    "updated_at": "2026-05-12T10:55:31"
+    "updated_at": "2026-05-12T15:19:32"
   },
   {
-    "name": "libminerva",
-    "full_name": "kavishka-dot/libminerva",
-    "description": "MINERVA - Minimal Inference Engine for Robust, Verifiable, and Authenticated ML. Encrypted, integrity-verified neural network inference for MCUs down to ATmega328P.",
-    "url": "https://github.com/kavishka-dot/libminerva",
-    "stars": 26,
-    "daily_stars": 7,
-    "language": "C",
+    "name": "Box",
+    "full_name": "jegly/Box",
+    "description": "Private on-device AI chat for Android. Fork of Google AI Edge Gallery with llama.cpp, GGUF import, biometric lock, and encrypted chat history. ",
+    "url": "https://github.com/jegly/Box",
+    "stars": 365,
+    "daily_stars": 12,
+    "language": "Kotlin",
     "topics": [
-      "arduino",
-      "atmega",
-      "avr",
-      "c",
-      "embedded-ml",
-      "inference-engine",
-      "iot",
-      "machine-learning",
-      "microcontroller",
-      "neural-network",
-      "security",
-      "tiny-ml"
+      "artificial-intelligence",
+      "box",
+      "gguf",
+      "google",
+      "litert",
+      "litert-llamacpp",
+      "llamacpp",
+      "local-ai"
     ],
-    "created_at": "2026-05-10T12:17:14",
-    "updated_at": "2026-05-12T10:23:30"
-  },
-  {
-    "name": "deep-learning-notes",
-    "full_name": "jshn9515/deep-learning-notes",
-    "description": "Personal deep learning study notes and tutorial-style notebooks",
-    "url": "https://github.com/jshn9515/deep-learning-notes",
-    "stars": 260,
-    "daily_stars": 7,
-    "language": "Python",
-    "topics": [
-      "deep-learning",
-      "jupyter-notebooks",
-      "pytorch",
-      "quarto",
-      "tutorial"
-    ],
-    "created_at": "2026-04-21T04:06:43",
-    "updated_at": "2026-05-12T10:22:48"
+    "created_at": "2026-04-17T10:42:52",
+    "updated_at": "2026-05-12T15:03:45"
   }
 ]
