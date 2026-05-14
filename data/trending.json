@@ -4,8 +4,8 @@
     "full_name": "nexu-io/html-anything",
     "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
     "url": "https://github.com/nexu-io/html-anything",
-    "stars": 389,
-    "daily_stars": 344,
+    "stars": 594,
+    "daily_stars": 205,
     "language": "HTML",
     "topics": [
       "agent-skills",
@@ -30,15 +30,15 @@
       "xiaohongshu"
     ],
     "created_at": "2026-05-11T09:40:38",
-    "updated_at": "2026-05-14T15:05:09"
+    "updated_at": "2026-05-14T18:13:13"
   },
   {
     "name": "open-design",
     "full_name": "nexu-io/open-design",
     "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 40073,
-    "daily_stars": 255,
+    "stars": 40231,
+    "daily_stars": 158,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -63,38 +63,15 @@
       "typescript"
     ],
     "created_at": "2026-04-28T04:25:20",
-    "updated_at": "2026-05-14T15:04:48"
-  },
-  {
-    "name": "openpets",
-    "full_name": "alvinunreal/openpets",
-    "description": "Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.",
-    "url": "https://github.com/alvinunreal/openpets",
-    "stars": 537,
-    "daily_stars": 38,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "bun",
-      "claude-code",
-      "coding-agents",
-      "desktop-pet",
-      "electron",
-      "mcp",
-      "opencode",
-      "openpets",
-      "pixel-art"
-    ],
-    "created_at": "2026-05-04T19:14:46",
-    "updated_at": "2026-05-14T15:04:30"
+    "updated_at": "2026-05-14T18:14:30"
   },
   {
     "name": "opensquilla",
     "full_name": "OpenSquilla/opensquilla",
     "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
     "url": "https://github.com/OpenSquilla/opensquilla",
-    "stars": 447,
-    "daily_stars": 38,
+    "stars": 497,
+    "daily_stars": 50,
     "language": "Python",
     "topics": [
       "agent",
@@ -110,43 +87,57 @@
       "skills"
     ],
     "created_at": "2026-05-06T17:43:05",
-    "updated_at": "2026-05-14T15:04:03"
+    "updated_at": "2026-05-14T18:11:33"
   },
   {
-    "name": "how-to-train-your-gpt",
-    "full_name": "raiyanyahya/how-to-train-your-gpt",
-    "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
-    "url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
-    "stars": 1492,
-    "daily_stars": 30,
-    "language": null,
+    "name": "text-to-cad",
+    "full_name": "earthtojake/text-to-cad",
+    "description": "An open source harness for generating CAD models",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "stars": 2714,
+    "daily_stars": 24,
+    "language": "JavaScript",
     "topics": [
-      "attention-mechanism",
-      "deep-learning",
-      "educational",
-      "from-scratch",
-      "gpt",
-      "language-model",
-      "llama",
-      "llm",
-      "machine-learning",
-      "natural-language-processing",
-      "python",
-      "pytorch",
-      "tokenisation",
-      "transformers",
-      "tutorial"
+      "agents",
+      "ai",
+      "ai-agents",
+      "cad",
+      "text-to-cad",
+      "wasm"
     ],
-    "created_at": "2026-05-03T21:41:33",
-    "updated_at": "2026-05-14T14:52:20"
+    "created_at": "2026-04-22T01:09:45",
+    "updated_at": "2026-05-14T18:05:09"
+  },
+  {
+    "name": "openpets",
+    "full_name": "alvinunreal/openpets",
+    "description": "Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.",
+    "url": "https://github.com/alvinunreal/openpets",
+    "stars": 559,
+    "daily_stars": 22,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "bun",
+      "claude-code",
+      "coding-agents",
+      "desktop-pet",
+      "electron",
+      "mcp",
+      "opencode",
+      "openpets",
+      "pixel-art"
+    ],
+    "created_at": "2026-05-04T19:14:46",
+    "updated_at": "2026-05-14T18:02:42"
   },
   {
     "name": "storybloq",
     "full_name": "Storybloq/storybloq",
     "description": "Cross-session context for Claude Code. CLI + MCP server + /story skill that tracks tickets, issues, handovers, and roadmap in a .story/ directory.",
     "url": "https://github.com/Storybloq/storybloq",
-    "stars": 427,
-    "daily_stars": 29,
+    "stars": 448,
+    "daily_stars": 21,
     "language": "TypeScript",
     "topics": [
       "agentic-development",
@@ -166,15 +157,15 @@
       "workflow"
     ],
     "created_at": "2026-04-17T00:51:21",
-    "updated_at": "2026-05-14T15:03:24"
+    "updated_at": "2026-05-14T18:08:17"
   },
   {
     "name": "mirage",
     "full_name": "strukto-ai/mirage",
     "description": "A Unified Virtual Filesystem For AI Agents",
     "url": "https://github.com/strukto-ai/mirage",
-    "stars": 2217,
-    "daily_stars": 26,
+    "stars": 2230,
+    "daily_stars": 13,
     "language": "TypeScript",
     "topics": [
       "agent-sandbox",
@@ -192,64 +183,102 @@
       "virtual-filesystem"
     ],
     "created_at": "2026-05-06T17:00:48",
-    "updated_at": "2026-05-14T14:46:17"
+    "updated_at": "2026-05-14T17:31:35"
   },
   {
-    "name": "text-to-cad",
-    "full_name": "earthtojake/text-to-cad",
-    "description": "An open source harness for generating CAD models",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 2690,
-    "daily_stars": 25,
-    "language": "JavaScript",
+    "name": "OpenFoundry",
+    "full_name": "DioCrafts/OpenFoundry",
+    "description": "🏭 The open-source Palantir Foundry alternative. Connect any data source, build ontologies, create pipelines, visualize with dashboards, and make AI-powered decisions. Self-hosted. Built with Rust + Svelte.",
+    "url": "https://github.com/DioCrafts/OpenFoundry",
+    "stars": 132,
+    "daily_stars": 11,
+    "language": "Rust",
     "topics": [
-      "agents",
       "ai",
-      "ai-agents",
-      "cad",
-      "text-to-cad",
-      "wasm"
-    ],
-    "created_at": "2026-04-22T01:09:45",
-    "updated_at": "2026-05-14T14:54:56"
-  },
-  {
-    "name": "minimind-o",
-    "full_name": "jingyaogong/minimind-o",
-    "description": "🌏 0.1B级开源Omni模型 🌏Open-source Omni model at the 0.1B level",
-    "url": "https://github.com/jingyaogong/minimind-o",
-    "stars": 1211,
-    "daily_stars": 18,
-    "language": null,
-    "topics": [
+      "analytics",
       "artificial-intelligence",
-      "chatgpt",
-      "omni"
+      "business-intelligence",
+      "data-engineering",
+      "data-pipelines",
+      "data-visualization",
+      "hacktoberfest",
+      "low-code",
+      "microservices",
+      "ontology",
+      "open-source",
+      "palantir-alternative",
+      "palantir-foundry",
+      "palantir-inspired",
+      "rust",
+      "self-hosted",
+      "svelte"
     ],
-    "created_at": "2026-05-01T04:20:16",
-    "updated_at": "2026-05-14T15:00:13"
+    "created_at": "2026-04-19T17:34:55",
+    "updated_at": "2026-05-14T18:11:23"
   },
   {
-    "name": "awesome-agentic-ai-zh",
-    "full_name": "WenyuChiou/awesome-agentic-ai-zh",
-    "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 1339,
-    "daily_stars": 15,
-    "language": "Python",
+    "name": "ai-auto-trading",
+    "full_name": "python-telegramBot/ai-auto-trading",
+    "description": "AI trading bot crypto LLM agent quantitative trading automated trading algorithmic trading Binance Gate.io TypeScript Node.js VoltAgent crypto bot risk management multi-strategy",
+    "url": "https://github.com/python-telegramBot/ai-auto-trading",
+    "stars": 77,
+    "daily_stars": 11,
+    "language": "TypeScript",
     "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "awesome-list",
-      "bilingual",
-      "claude-code",
-      "claude-skills",
-      "learning-roadmap",
-      "llm-agents",
-      "mcp",
-      "model-context-protocol"
+      "ai-trading",
+      "algorithmic-trading",
+      "automated-trading",
+      "binance",
+      "crypto",
+      "crypto-bot",
+      "cryptocurrency",
+      "gate-io",
+      "llm",
+      "machine-learning",
+      "nexusquant",
+      "nodejs",
+      "openai",
+      "quantitative-trading",
+      "risk-management",
+      "spot-trading",
+      "trading-bot",
+      "typescript",
+      "voltagent"
     ],
-    "created_at": "2026-05-04T22:18:51",
-    "updated_at": "2026-05-14T15:05:07"
+    "created_at": "2026-05-13T15:45:44",
+    "updated_at": "2026-05-14T18:06:07"
+  },
+  {
+    "name": "polymarket-ai-trading",
+    "full_name": "thinkpixelIab/polymarket-ai-trading",
+    "description": "Polymarket prediction markets AI trading paper trading OpenAI GPT CLOB Kelly mean reversion SQLite Node Express Docker Render Vercel dashboard algorithmic trading quant research forecasting crypto",
+    "url": "https://github.com/thinkpixelIab/polymarket-ai-trading",
+    "stars": 75,
+    "daily_stars": 11,
+    "language": "HTML",
+    "topics": [
+      "ai-trading",
+      "algorithmic-trading",
+      "clob",
+      "cryptocurrency",
+      "dashboard",
+      "docker",
+      "express",
+      "forecasting",
+      "gpt",
+      "machine-learning",
+      "mean-reversion",
+      "nodejs",
+      "openai",
+      "paper-trading",
+      "polymarket",
+      "prediction-markets",
+      "render",
+      "sqlite",
+      "trading-bot",
+      "vercel"
+    ],
+    "created_at": "2026-05-13T16:08:45",
+    "updated_at": "2026-05-14T18:06:35"
   }
 ]
