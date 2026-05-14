@@ -4,8 +4,8 @@
     "full_name": "nexu-io/open-design",
     "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 39649,
-    "daily_stars": 129,
+    "stars": 39818,
+    "daily_stars": 169,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -30,85 +30,15 @@
       "typescript"
     ],
     "created_at": "2026-04-28T04:25:20",
-    "updated_at": "2026-05-14T07:29:29"
-  },
-  {
-    "name": "storybloq",
-    "full_name": "Storybloq/storybloq",
-    "description": "Cross-session context for Claude Code. CLI + MCP server + /story skill that tracks tickets, issues, handovers, and roadmap in a .story/ directory.",
-    "url": "https://github.com/Storybloq/storybloq",
-    "stars": 382,
-    "daily_stars": 37,
-    "language": "TypeScript",
-    "topics": [
-      "agentic-development",
-      "ai-development",
-      "anthropic",
-      "claude-code",
-      "claude-skill",
-      "cli",
-      "context-management",
-      "developer-tools",
-      "handover",
-      "mcp",
-      "mcp-server",
-      "project-management",
-      "session-continuity",
-      "typescript",
-      "workflow"
-    ],
-    "created_at": "2026-04-17T00:51:21",
-    "updated_at": "2026-05-14T07:25:37"
-  },
-  {
-    "name": "awesome-agentic-ai-zh",
-    "full_name": "WenyuChiou/awesome-agentic-ai-zh",
-    "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 1303,
-    "daily_stars": 27,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "awesome-list",
-      "bilingual",
-      "claude-code",
-      "claude-skills",
-      "learning-roadmap",
-      "llm-agents",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "created_at": "2026-05-04T22:18:51",
-    "updated_at": "2026-05-14T07:15:28"
-  },
-  {
-    "name": "text-to-cad",
-    "full_name": "earthtojake/text-to-cad",
-    "description": "An open source harness for generating CAD models",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 2642,
-    "daily_stars": 26,
-    "language": "JavaScript",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "cad",
-      "text-to-cad",
-      "wasm"
-    ],
-    "created_at": "2026-04-22T01:09:45",
-    "updated_at": "2026-05-14T07:26:58"
+    "updated_at": "2026-05-14T10:40:17"
   },
   {
     "name": "opensquilla",
     "full_name": "OpenSquilla/opensquilla",
     "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
     "url": "https://github.com/OpenSquilla/opensquilla",
-    "stars": 376,
-    "daily_stars": 25,
+    "stars": 409,
+    "daily_stars": 33,
     "language": "Python",
     "topics": [
       "agent",
@@ -124,14 +54,59 @@
       "skills"
     ],
     "created_at": "2026-05-06T17:43:05",
-    "updated_at": "2026-05-14T07:27:08"
+    "updated_at": "2026-05-14T10:36:03"
+  },
+  {
+    "name": "mirage",
+    "full_name": "strukto-ai/mirage",
+    "description": "A Unified Virtual Filesystem For AI Agents",
+    "url": "https://github.com/strukto-ai/mirage",
+    "stars": 2191,
+    "daily_stars": 26,
+    "language": "TypeScript",
+    "topics": [
+      "agent-sandbox",
+      "agent-tools",
+      "ai-agents",
+      "bash",
+      "claude-code",
+      "fuse",
+      "langchain",
+      "llm-agents",
+      "openai-agents",
+      "python",
+      "typescript",
+      "vfs",
+      "virtual-filesystem"
+    ],
+    "created_at": "2026-05-06T17:00:48",
+    "updated_at": "2026-05-14T10:34:08"
+  },
+  {
+    "name": "text-to-cad",
+    "full_name": "earthtojake/text-to-cad",
+    "description": "An open source harness for generating CAD models",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "stars": 2665,
+    "daily_stars": 23,
+    "language": "JavaScript",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "cad",
+      "text-to-cad",
+      "wasm"
+    ],
+    "created_at": "2026-04-22T01:09:45",
+    "updated_at": "2026-05-14T10:35:06"
   },
   {
     "name": "ai-auto-trading",
     "full_name": "python-telegramBot/ai-auto-trading",
     "description": "AI trading bot crypto LLM agent quantitative trading automated trading algorithmic trading Binance Gate.io TypeScript Node.js VoltAgent crypto bot risk management multi-strategy",
     "url": "https://github.com/python-telegramBot/ai-auto-trading",
-    "stars": 57,
+    "stars": 79,
     "daily_stars": 22,
     "language": "TypeScript",
     "topics": [
@@ -156,15 +131,38 @@
       "voltagent"
     ],
     "created_at": "2026-05-13T15:45:44",
-    "updated_at": "2026-05-14T07:10:13"
+    "updated_at": "2026-05-14T10:41:22"
+  },
+  {
+    "name": "awesome-agentic-ai-zh",
+    "full_name": "WenyuChiou/awesome-agentic-ai-zh",
+    "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 1324,
+    "daily_stars": 21,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "awesome-list",
+      "bilingual",
+      "claude-code",
+      "claude-skills",
+      "learning-roadmap",
+      "llm-agents",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "created_at": "2026-05-04T22:18:51",
+    "updated_at": "2026-05-14T10:37:31"
   },
   {
     "name": "polymarket-ai-trading",
     "full_name": "thinkpixelIab/polymarket-ai-trading",
     "description": "Polymarket prediction markets AI trading paper trading OpenAI GPT CLOB Kelly mean reversion SQLite Node Express Docker Render Vercel dashboard algorithmic trading quant research forecasting crypto",
     "url": "https://github.com/thinkpixelIab/polymarket-ai-trading",
-    "stars": 56,
-    "daily_stars": 22,
+    "stars": 77,
+    "daily_stars": 21,
     "language": "HTML",
     "topics": [
       "ai-trading",
@@ -189,15 +187,43 @@
       "vercel"
     ],
     "created_at": "2026-05-13T16:08:45",
-    "updated_at": "2026-05-14T07:10:43"
+    "updated_at": "2026-05-14T10:41:34"
+  },
+  {
+    "name": "storybloq",
+    "full_name": "Storybloq/storybloq",
+    "description": "Cross-session context for Claude Code. CLI + MCP server + /story skill that tracks tickets, issues, handovers, and roadmap in a .story/ directory.",
+    "url": "https://github.com/Storybloq/storybloq",
+    "stars": 398,
+    "daily_stars": 16,
+    "language": "TypeScript",
+    "topics": [
+      "agentic-development",
+      "ai-development",
+      "anthropic",
+      "claude-code",
+      "claude-skill",
+      "cli",
+      "context-management",
+      "developer-tools",
+      "handover",
+      "mcp",
+      "mcp-server",
+      "project-management",
+      "session-continuity",
+      "typescript",
+      "workflow"
+    ],
+    "created_at": "2026-04-17T00:51:21",
+    "updated_at": "2026-05-14T10:28:49"
   },
   {
     "name": "how-to-train-your-gpt",
     "full_name": "raiyanyahya/how-to-train-your-gpt",
     "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
     "url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
-    "stars": 1448,
-    "daily_stars": 15,
+    "stars": 1462,
+    "daily_stars": 14,
     "language": null,
     "topics": [
       "attention-mechanism",
@@ -217,64 +243,28 @@
       "tutorial"
     ],
     "created_at": "2026-05-03T21:41:33",
-    "updated_at": "2026-05-14T07:27:04"
+    "updated_at": "2026-05-14T10:34:28"
   },
   {
-    "name": "facex",
-    "full_name": "facex-engine/facex",
-    "description": "Fast face embedding library. 3ms, 7MB, zero dependencies. Beats ONNX Runtime on CPU.",
-    "url": "https://github.com/facex-engine/facex",
-    "stars": 121,
-    "daily_stars": 13,
-    "language": "C",
-    "topics": [
-      "avx-512",
-      "avx2",
-      "biometrics",
-      "c99",
-      "computer-vision",
-      "cpu-inference",
-      "deep-learning",
-      "edge-ai",
-      "embedded-ai",
-      "face-embedding",
-      "face-recognition",
-      "face-verification",
-      "low-latency",
-      "onnx-runtime",
-      "production-ready",
-      "simd",
-      "zero-dependencies"
-    ],
-    "created_at": "2026-04-25T12:49:25",
-    "updated_at": "2026-05-14T07:27:02"
-  },
-  {
-    "name": "knowhere",
-    "full_name": "Ontos-AI/knowhere",
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "url": "https://github.com/Ontos-AI/knowhere",
-    "stars": 129,
+    "name": "thClaws",
+    "full_name": "thClaws/thClaws",
+    "description": "Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design.",
+    "url": "https://github.com/thClaws/thClaws",
+    "stars": 903,
     "daily_stars": 12,
-    "language": "Python",
+    "language": "Rust",
     "topics": [
-      "agent",
+      "agent-harness",
+      "ai",
+      "ai-agent",
       "ai-agents",
-      "chromadb",
-      "claude",
-      "claude-code",
-      "cursor",
-      "elasticsearch",
-      "gemini",
-      "gpt",
-      "langchain",
-      "milvus",
-      "qdrant",
-      "rag",
-      "rag-pipeline",
-      "skills"
+      "desktop-app",
+      "local-first",
+      "multi-provider",
+      "rust",
+      "tauri"
     ],
-    "created_at": "2026-04-30T03:13:10",
-    "updated_at": "2026-05-14T06:37:03"
+    "created_at": "2026-04-20T01:27:39",
+    "updated_at": "2026-05-14T10:35:31"
   }
 ]
