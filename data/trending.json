@@ -4,8 +4,8 @@
     "full_name": "nexu-io/open-design",
     "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 41836,
-    "daily_stars": 84,
+    "stars": 41980,
+    "daily_stars": 144,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -30,15 +30,15 @@
       "typescript"
     ],
     "created_at": "2026-04-28T04:25:20",
-    "updated_at": "2026-05-16T06:38:52"
+    "updated_at": "2026-05-16T09:54:56"
   },
   {
     "name": "agents-best-practices",
     "full_name": "DenisSergeevitch/agents-best-practices",
     "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
     "url": "https://github.com/DenisSergeevitch/agents-best-practices",
-    "stars": 250,
-    "daily_stars": 79,
+    "stars": 368,
+    "daily_stars": 118,
     "language": null,
     "topics": [
       "agent-skill",
@@ -55,15 +55,15 @@
       "prompt-engineering"
     ],
     "created_at": "2026-05-15T21:32:21",
-    "updated_at": "2026-05-16T06:37:39"
+    "updated_at": "2026-05-16T09:46:54"
   },
   {
     "name": "html-anything",
     "full_name": "nexu-io/html-anything",
     "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
     "url": "https://github.com/nexu-io/html-anything",
-    "stars": 2134,
-    "daily_stars": 70,
+    "stars": 2214,
+    "daily_stars": 80,
     "language": "HTML",
     "topics": [
       "agent-skills",
@@ -88,38 +88,71 @@
       "xiaohongshu"
     ],
     "created_at": "2026-05-11T09:40:38",
-    "updated_at": "2026-05-16T06:38:29"
+    "updated_at": "2026-05-16T09:55:37"
   },
   {
-    "name": "openpets",
-    "full_name": "alvinunreal/openpets",
-    "description": "Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.",
-    "url": "https://github.com/alvinunreal/openpets",
-    "stars": 704,
-    "daily_stars": 20,
+    "name": "opensquilla",
+    "full_name": "OpenSquilla/opensquilla",
+    "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
+    "url": "https://github.com/OpenSquilla/opensquilla",
+    "stars": 861,
+    "daily_stars": 17,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "deep-learning",
+      "foundation-models",
+      "llm",
+      "mcp",
+      "memory",
+      "openclaw",
+      "python",
+      "skills"
+    ],
+    "created_at": "2026-05-06T17:43:05",
+    "updated_at": "2026-05-16T09:54:26"
+  },
+  {
+    "name": "jupyter-studio",
+    "full_name": "deepelementlab/jupyter-studio",
+    "description": "The AI-native JupyterLab — open-source Cursor for notebooks. Cmd+K inline edit, multi-step agent with cell-level tools (read/edit/run), chat with @cell/@file context, ghost-text completion, one-click traceback fix. BYO model: Anthropic, OpenAI, Gemini, Ollama, vLLM. Local-first, privacy-first, fully open source.",
+    "url": "https://github.com/deepelementlab/jupyter-studio",
+    "stars": 38,
+    "daily_stars": 15,
     "language": "TypeScript",
     "topics": [
+      "agentic-ai",
+      "ai",
       "ai-agents",
-      "bun",
-      "claude-code",
-      "coding-agents",
-      "desktop-pet",
-      "electron",
-      "mcp",
-      "opencode",
-      "openpets",
-      "pixel-art"
+      "ai-coding",
+      "anthropic",
+      "coding-assistant",
+      "copilot",
+      "cursor",
+      "data-science",
+      "developer-tools",
+      "inline-completion",
+      "jupyter",
+      "jupyter-notebook",
+      "jupyterlab",
+      "llm",
+      "machine-learning",
+      "notebook",
+      "ollama",
+      "openai"
     ],
-    "created_at": "2026-05-04T19:14:46",
-    "updated_at": "2026-05-16T06:35:03"
+    "created_at": "2026-05-13T07:59:34",
+    "updated_at": "2026-05-16T08:03:39"
   },
   {
     "name": "pgGraph",
     "full_name": "Evokoa/pgGraph",
     "description": "Open-source graph database superpowers for your existing Postgres data.",
     "url": "https://github.com/Evokoa/pgGraph",
-    "stars": 154,
-    "daily_stars": 8,
+    "stars": 166,
+    "daily_stars": 12,
     "language": "Rust",
     "topics": [
       "ai",
@@ -136,15 +169,34 @@
       "traversal"
     ],
     "created_at": "2026-05-13T09:04:07",
-    "updated_at": "2026-05-16T06:13:13"
+    "updated_at": "2026-05-16T09:49:32"
+  },
+  {
+    "name": "text-to-cad",
+    "full_name": "earthtojake/text-to-cad",
+    "description": "An open source harness for generating CAD models",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "stars": 2882,
+    "daily_stars": 10,
+    "language": "JavaScript",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "cad",
+      "text-to-cad",
+      "wasm"
+    ],
+    "created_at": "2026-04-22T01:09:45",
+    "updated_at": "2026-05-16T09:50:37"
   },
   {
     "name": "awesome-agentic-ai-zh",
     "full_name": "WenyuChiou/awesome-agentic-ai-zh",
     "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 1429,
-    "daily_stars": 7,
+    "stars": 1438,
+    "daily_stars": 9,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -159,88 +211,60 @@
       "model-context-protocol"
     ],
     "created_at": "2026-05-04T22:18:51",
-    "updated_at": "2026-05-16T06:20:48"
+    "updated_at": "2026-05-16T09:35:08"
   },
   {
-    "name": "text-to-cad",
-    "full_name": "earthtojake/text-to-cad",
-    "description": "An open source harness for generating CAD models",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 2872,
-    "daily_stars": 6,
-    "language": "JavaScript",
+    "name": "OpenFoundry",
+    "full_name": "DioCrafts/OpenFoundry",
+    "description": "🏭 The open-source Palantir Foundry alternative. Connect any data source, build ontologies, create pipelines, visualize with dashboards, and make AI-powered decisions. Self-hosted. Built with Rust + Svelte.",
+    "url": "https://github.com/DioCrafts/OpenFoundry",
+    "stars": 202,
+    "daily_stars": 8,
+    "language": "Rust",
     "topics": [
-      "agents",
       "ai",
-      "ai-agents",
-      "cad",
-      "text-to-cad",
-      "wasm"
-    ],
-    "created_at": "2026-04-22T01:09:45",
-    "updated_at": "2026-05-16T06:11:30"
-  },
-  {
-    "name": "opensquilla",
-    "full_name": "OpenSquilla/opensquilla",
-    "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
-    "url": "https://github.com/OpenSquilla/opensquilla",
-    "stars": 844,
-    "daily_stars": 6,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agents",
-      "deep-learning",
-      "foundation-models",
-      "llm",
-      "mcp",
-      "memory",
-      "openclaw",
-      "python",
-      "skills"
-    ],
-    "created_at": "2026-05-06T17:43:05",
-    "updated_at": "2026-05-16T06:14:39"
-  },
-  {
-    "name": "minimind-o",
-    "full_name": "jingyaogong/minimind-o",
-    "description": "🌏 0.1B级开源Omni模型 🌏Open-source Omni model at the 0.1B level",
-    "url": "https://github.com/jingyaogong/minimind-o",
-    "stars": 1297,
-    "daily_stars": 5,
-    "language": null,
-    "topics": [
+      "analytics",
       "artificial-intelligence",
-      "chatgpt",
-      "omni"
+      "business-intelligence",
+      "data-engineering",
+      "data-pipelines",
+      "data-visualization",
+      "hacktoberfest",
+      "low-code",
+      "microservices",
+      "ontology",
+      "open-source",
+      "palantir-alternative",
+      "palantir-foundry",
+      "palantir-inspired",
+      "rust",
+      "self-hosted",
+      "svelte"
     ],
-    "created_at": "2026-05-01T04:20:16",
-    "updated_at": "2026-05-16T06:20:55"
+    "created_at": "2026-04-19T17:34:55",
+    "updated_at": "2026-05-16T09:46:56"
   },
   {
-    "name": "harmonist",
-    "full_name": "GammaLabTechnologies/harmonist",
-    "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
-    "url": "https://github.com/GammaLabTechnologies/harmonist",
-    "stars": 1704,
-    "daily_stars": 5,
+    "name": "Photo-agents",
+    "full_name": "jmerelnyc/Photo-agents",
+    "description": "Autonomous self-evolving agents. Vision-grounded layered memory and self-written skills for LLM agents that operate your computer.",
+    "url": "https://github.com/jmerelnyc/Photo-agents",
+    "stars": 869,
+    "daily_stars": 7,
     "language": "Python",
     "topics": [
-      "agent-framework",
-      "agent-system",
+      "agent-memory",
       "ai-agents",
-      "claude-code",
-      "cursor-ide",
+      "autonomous-agents",
+      "computer-use",
       "llm",
-      "multi-agent-framework",
-      "orchestration",
-      "prompt-engineering",
-      "python"
+      "photo-agents",
+      "photographic-memory",
+      "python",
+      "self-evolving-agents",
+      "vision-agents"
     ],
-    "created_at": "2026-04-23T05:42:29",
-    "updated_at": "2026-05-16T06:28:09"
+    "created_at": "2026-05-04T09:14:09",
+    "updated_at": "2026-05-16T09:33:40"
   }
 ]
