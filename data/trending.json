@@ -4,8 +4,8 @@
     "full_name": "nexu-io/open-design",
     "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 43411,
-    "daily_stars": 201,
+    "stars": 43556,
+    "daily_stars": 145,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -30,15 +30,33 @@
       "typescript"
     ],
     "created_at": "2026-04-28T04:25:20",
-    "updated_at": "2026-05-17T17:29:58"
+    "updated_at": "2026-05-17T21:27:01"
+  },
+  {
+    "name": "hermes-agent-control-room",
+    "full_name": "shannhk/hermes-agent-control-room",
+    "description": "Control Room-first template for managing Hermes agents from one VPS agent to specialist teams and orchestrated workflows",
+    "url": "https://github.com/shannhk/hermes-agent-control-room",
+    "stars": 226,
+    "daily_stars": 30,
+    "language": "Shell",
+    "topics": [
+      "agent-control-room",
+      "ai-agents",
+      "hermes-agent",
+      "multi-agent",
+      "vps"
+    ],
+    "created_at": "2026-05-15T14:18:45",
+    "updated_at": "2026-05-17T21:16:09"
   },
   {
     "name": "html-anything",
     "full_name": "nexu-io/html-anything",
     "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
     "url": "https://github.com/nexu-io/html-anything",
-    "stars": 2741,
-    "daily_stars": 60,
+    "stars": 2757,
+    "daily_stars": 16,
     "language": "HTML",
     "topics": [
       "agent-skills",
@@ -63,33 +81,15 @@
       "xiaohongshu"
     ],
     "created_at": "2026-05-11T09:40:38",
-    "updated_at": "2026-05-17T17:25:33"
-  },
-  {
-    "name": "hermes-agent-control-room",
-    "full_name": "shannhk/hermes-agent-control-room",
-    "description": "Control Room-first template for managing Hermes agents from one VPS agent to specialist teams and orchestrated workflows",
-    "url": "https://github.com/shannhk/hermes-agent-control-room",
-    "stars": 196,
-    "daily_stars": 29,
-    "language": "Shell",
-    "topics": [
-      "agent-control-room",
-      "ai-agents",
-      "hermes-agent",
-      "multi-agent",
-      "vps"
-    ],
-    "created_at": "2026-05-15T14:18:45",
-    "updated_at": "2026-05-17T17:30:50"
+    "updated_at": "2026-05-17T21:24:43"
   },
   {
     "name": "agents-best-practices",
     "full_name": "DenisSergeevitch/agents-best-practices",
     "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
     "url": "https://github.com/DenisSergeevitch/agents-best-practices",
-    "stars": 687,
-    "daily_stars": 25,
+    "stars": 703,
+    "daily_stars": 16,
     "language": null,
     "topics": [
       "agent-skill",
@@ -106,116 +106,69 @@
       "prompt-engineering"
     ],
     "created_at": "2026-05-15T21:32:21",
-    "updated_at": "2026-05-17T17:22:11"
+    "updated_at": "2026-05-17T21:22:30"
   },
   {
-    "name": "forkd",
-    "full_name": "deeplethe/forkd",
-    "description": "Fork microVMs sandbox from a warmed parent in 101 ms.",
-    "url": "https://github.com/deeplethe/forkd",
-    "stars": 288,
-    "daily_stars": 14,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "copy-on-write",
-      "kvm",
-      "microvm",
-      "rust",
-      "sandbox",
-      "snapshot"
-    ],
-    "created_at": "2026-05-11T17:42:24",
-    "updated_at": "2026-05-17T17:10:29"
-  },
-  {
-    "name": "text-to-cad",
-    "full_name": "earthtojake/text-to-cad",
-    "description": "An open source harness for generating CAD models",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 2951,
+    "name": "guild",
+    "full_name": "mathomhaus/guild",
+    "description": "Shared context, memory, and task coordination across AI coding agents. Single Go binary, local SQLite, hybrid keyword and semantic search.",
+    "url": "https://github.com/mathomhaus/guild",
+    "stars": 208,
     "daily_stars": 13,
-    "language": "JavaScript",
+    "language": "Go",
     "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "cad",
-      "text-to-cad",
-      "wasm"
-    ],
-    "created_at": "2026-04-22T01:09:45",
-    "updated_at": "2026-05-17T17:30:14"
-  },
-  {
-    "name": "awesome-agentic-ai-zh",
-    "full_name": "WenyuChiou/awesome-agentic-ai-zh",
-    "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 1504,
-    "daily_stars": 10,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "awesome-list",
-      "bilingual",
-      "claude-code",
-      "claude-skills",
-      "learning-roadmap",
-      "llm-agents",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "created_at": "2026-05-04T22:18:51",
-    "updated_at": "2026-05-17T16:16:38"
-  },
-  {
-    "name": "Photo-agents",
-    "full_name": "jmerelnyc/Photo-agents",
-    "description": "Autonomous self-evolving agents. Vision-grounded layered memory and self-written skills for LLM agents that operate your computer.",
-    "url": "https://github.com/jmerelnyc/Photo-agents",
-    "stars": 928,
-    "daily_stars": 10,
-    "language": "Python",
-    "topics": [
+      "agent-coordination",
       "agent-memory",
       "ai-agents",
-      "autonomous-agents",
-      "computer-use",
-      "llm",
-      "photo-agents",
-      "photographic-memory",
-      "python",
-      "self-evolving-agents",
-      "vision-agents"
+      "claude",
+      "claude-code",
+      "codex",
+      "cursor",
+      "golang",
+      "harness-engineering",
+      "local-first",
+      "mcp",
+      "mcp-server",
+      "sqlite"
     ],
-    "created_at": "2026-05-04T09:14:09",
-    "updated_at": "2026-05-17T17:26:49"
+    "created_at": "2026-04-20T05:45:28",
+    "updated_at": "2026-05-17T20:05:42"
   },
   {
-    "name": "google-ai-search-optimization",
-    "full_name": "deepakness/google-ai-search-optimization",
-    "description": "Unofficial Agent Skill based on Google Search guidance for AI Overviews, AI Mode, and SEO audits.",
-    "url": "https://github.com/deepakness/google-ai-search-optimization",
-    "stars": 80,
-    "daily_stars": 10,
+    "name": "how-to-train-your-gpt",
+    "full_name": "raiyanyahya/how-to-train-your-gpt",
+    "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
+    "url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
+    "stars": 1630,
+    "daily_stars": 11,
     "language": null,
     "topics": [
-      "ai-agents",
-      "ai-seo",
-      "seo"
+      "attention-mechanism",
+      "deep-learning",
+      "educational",
+      "from-scratch",
+      "gpt",
+      "language-model",
+      "llama",
+      "llm",
+      "machine-learning",
+      "natural-language-processing",
+      "python",
+      "pytorch",
+      "tokenisation",
+      "transformers",
+      "tutorial"
     ],
-    "created_at": "2026-05-16T13:55:02",
-    "updated_at": "2026-05-17T17:31:47"
+    "created_at": "2026-05-03T21:41:33",
+    "updated_at": "2026-05-17T21:25:50"
   },
   {
     "name": "opensquilla",
     "full_name": "OpenSquilla/opensquilla",
     "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
     "url": "https://github.com/OpenSquilla/opensquilla",
-    "stars": 958,
-    "daily_stars": 8,
+    "stars": 967,
+    "daily_stars": 9,
     "language": "Python",
     "topics": [
       "agent",
@@ -231,6 +184,68 @@
       "skills"
     ],
     "created_at": "2026-05-06T17:43:05",
-    "updated_at": "2026-05-17T16:00:53"
+    "updated_at": "2026-05-17T21:00:32"
+  },
+  {
+    "name": "text-to-cad",
+    "full_name": "earthtojake/text-to-cad",
+    "description": "An open source harness for generating CAD models",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "stars": 2958,
+    "daily_stars": 7,
+    "language": "JavaScript",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "cad",
+      "text-to-cad",
+      "wasm"
+    ],
+    "created_at": "2026-04-22T01:09:45",
+    "updated_at": "2026-05-17T21:18:30"
+  },
+  {
+    "name": "harmonist",
+    "full_name": "GammaLabTechnologies/harmonist",
+    "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
+    "url": "https://github.com/GammaLabTechnologies/harmonist",
+    "stars": 1744,
+    "daily_stars": 7,
+    "language": "Python",
+    "topics": [
+      "agent-framework",
+      "agent-system",
+      "ai-agents",
+      "claude-code",
+      "cursor-ide",
+      "llm",
+      "multi-agent-framework",
+      "orchestration",
+      "prompt-engineering",
+      "python"
+    ],
+    "created_at": "2026-04-23T05:42:29",
+    "updated_at": "2026-05-17T21:11:40"
+  },
+  {
+    "name": "forkd",
+    "full_name": "deeplethe/forkd",
+    "description": "Fork microVMs sandbox from a warmed parent in 101 ms.",
+    "url": "https://github.com/deeplethe/forkd",
+    "stars": 295,
+    "daily_stars": 7,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "copy-on-write",
+      "kvm",
+      "microvm",
+      "rust",
+      "sandbox",
+      "snapshot"
+    ],
+    "created_at": "2026-05-11T17:42:24",
+    "updated_at": "2026-05-17T20:24:50"
   }
 ]
