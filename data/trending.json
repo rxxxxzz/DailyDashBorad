@@ -4,8 +4,8 @@
     "full_name": "nexu-io/open-design",
     "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 45019,
-    "daily_stars": 135,
+    "stars": 45459,
+    "daily_stars": 440,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -30,35 +30,15 @@
       "typescript"
     ],
     "created_at": "2026-04-28T04:25:20",
-    "updated_at": "2026-05-18T21:45:34"
-  },
-  {
-    "name": "claude-smart",
-    "full_name": "ReflexioAI/claude-smart",
-    "description": "A Claude Code plugin that makes Claude Code self-improve — learning from your corrections, not just remembering them",
-    "url": "https://github.com/ReflexioAI/claude-smart",
-    "stars": 232,
-    "daily_stars": 15,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "claude-code-plugin",
-      "memory",
-      "self-improvement",
-      "self-improving-ai"
-    ],
-    "created_at": "2026-04-21T03:14:52",
-    "updated_at": "2026-05-18T21:36:04"
+    "updated_at": "2026-05-19T04:41:15"
   },
   {
     "name": "html-anything",
     "full_name": "nexu-io/html-anything",
     "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
     "url": "https://github.com/nexu-io/html-anything",
-    "stars": 3180,
-    "daily_stars": 12,
+    "stars": 3361,
+    "daily_stars": 181,
     "language": "HTML",
     "topics": [
       "agent-skills",
@@ -83,136 +63,15 @@
       "xiaohongshu"
     ],
     "created_at": "2026-05-11T09:40:38",
-    "updated_at": "2026-05-18T21:03:25"
-  },
-  {
-    "name": "text-to-cad",
-    "full_name": "earthtojake/text-to-cad",
-    "description": "An open source harness for generating CAD models",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 3051,
-    "daily_stars": 10,
-    "language": "JavaScript",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "cad",
-      "text-to-cad",
-      "wasm"
-    ],
-    "created_at": "2026-04-22T01:09:45",
-    "updated_at": "2026-05-18T21:45:57"
-  },
-  {
-    "name": "agents-best-practices",
-    "full_name": "DenisSergeevitch/agents-best-practices",
-    "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
-    "url": "https://github.com/DenisSergeevitch/agents-best-practices",
-    "stars": 812,
-    "daily_stars": 10,
-    "language": null,
-    "topics": [
-      "agent-skill",
-      "agent-skills",
-      "agentic-workflows",
-      "agents",
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "codex",
-      "codex-skill",
-      "mcp",
-      "prompt-engineering"
-    ],
-    "created_at": "2026-05-15T21:32:21",
-    "updated_at": "2026-05-18T21:35:50"
-  },
-  {
-    "name": "forkd",
-    "full_name": "deeplethe/forkd",
-    "description": "Fork microVMs sandbox from a warmed parent in 101 ms.",
-    "url": "https://github.com/deeplethe/forkd",
-    "stars": 363,
-    "daily_stars": 9,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "copy-on-write",
-      "kvm",
-      "microvm",
-      "rust",
-      "sandbox",
-      "snapshot"
-    ],
-    "created_at": "2026-05-11T17:42:24",
-    "updated_at": "2026-05-18T21:39:28"
-  },
-  {
-    "name": "OpenFoundry",
-    "full_name": "DioCrafts/OpenFoundry",
-    "description": "🏭 The open-source Palantir Foundry alternative. Connect any data source, build ontologies, create pipelines, visualize with dashboards, and make AI-powered decisions. Self-hosted. Built with Rust + Svelte.",
-    "url": "https://github.com/DioCrafts/OpenFoundry",
-    "stars": 250,
-    "daily_stars": 7,
-    "language": "Rust",
-    "topics": [
-      "ai",
-      "analytics",
-      "artificial-intelligence",
-      "business-intelligence",
-      "data-engineering",
-      "data-pipelines",
-      "data-visualization",
-      "hacktoberfest",
-      "low-code",
-      "microservices",
-      "ontology",
-      "open-source",
-      "palantir-alternative",
-      "palantir-foundry",
-      "palantir-inspired",
-      "rust",
-      "self-hosted",
-      "svelte"
-    ],
-    "created_at": "2026-04-19T17:34:55",
-    "updated_at": "2026-05-18T21:41:53"
-  },
-  {
-    "name": "guild",
-    "full_name": "mathomhaus/guild",
-    "description": "Shared context, memory, and task coordination across AI coding agents. Single Go binary, local SQLite, hybrid keyword and semantic search.",
-    "url": "https://github.com/mathomhaus/guild",
-    "stars": 243,
-    "daily_stars": 7,
-    "language": "Go",
-    "topics": [
-      "agent-coordination",
-      "agent-memory",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "codex",
-      "cursor",
-      "golang",
-      "harness-engineering",
-      "local-first",
-      "mcp",
-      "mcp-server",
-      "sqlite"
-    ],
-    "created_at": "2026-04-20T05:45:28",
-    "updated_at": "2026-05-18T20:26:25"
+    "updated_at": "2026-05-19T04:40:17"
   },
   {
     "name": "opensquilla",
     "full_name": "OpenSquilla/opensquilla",
     "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
     "url": "https://github.com/OpenSquilla/opensquilla",
-    "stars": 1031,
-    "daily_stars": 6,
+    "stars": 1062,
+    "daily_stars": 31,
     "language": "Python",
     "topics": [
       "agent",
@@ -228,15 +87,90 @@
       "skills"
     ],
     "created_at": "2026-05-06T17:43:05",
-    "updated_at": "2026-05-18T21:36:38"
+    "updated_at": "2026-05-19T04:42:06"
+  },
+  {
+    "name": "text-to-cad",
+    "full_name": "earthtojake/text-to-cad",
+    "description": "An open source harness for generating CAD models",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "stars": 3081,
+    "daily_stars": 30,
+    "language": "JavaScript",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "cad",
+      "text-to-cad",
+      "wasm"
+    ],
+    "created_at": "2026-04-22T01:09:45",
+    "updated_at": "2026-05-19T04:28:27"
+  },
+  {
+    "name": "claude-smart",
+    "full_name": "ReflexioAI/claude-smart",
+    "description": "A Claude Code plugin that makes Claude Code self-improve — learning from your corrections, not just remembering them",
+    "url": "https://github.com/ReflexioAI/claude-smart",
+    "stars": 257,
+    "daily_stars": 25,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "memory",
+      "self-improvement",
+      "self-improving-ai"
+    ],
+    "created_at": "2026-04-21T03:14:52",
+    "updated_at": "2026-05-19T04:39:11"
+  },
+  {
+    "name": "shushu-internship-tool",
+    "full_name": "LiuMengxuan04/shushu-internship-tool",
+    "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
+    "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
+    "stars": 180,
+    "daily_stars": 18,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "skills"
+    ],
+    "created_at": "2026-05-17T11:25:47",
+    "updated_at": "2026-05-19T04:26:37"
+  },
+  {
+    "name": "forkd",
+    "full_name": "deeplethe/forkd",
+    "description": "Fork microVMs sandbox from a warmed parent in 101 ms.",
+    "url": "https://github.com/deeplethe/forkd",
+    "stars": 376,
+    "daily_stars": 13,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "copy-on-write",
+      "kvm",
+      "microvm",
+      "rust",
+      "sandbox",
+      "snapshot"
+    ],
+    "created_at": "2026-05-11T17:42:24",
+    "updated_at": "2026-05-19T03:49:26"
   },
   {
     "name": "hermes-agent-control-room",
     "full_name": "shannhk/hermes-agent-control-room",
     "description": "Control Room-first template for managing Hermes agents from one VPS agent to specialist teams and orchestrated workflows",
     "url": "https://github.com/shannhk/hermes-agent-control-room",
-    "stars": 349,
-    "daily_stars": 5,
+    "stars": 362,
+    "daily_stars": 13,
     "language": "Shell",
     "topics": [
       "agent-control-room",
@@ -246,6 +180,56 @@
       "vps"
     ],
     "created_at": "2026-05-15T14:18:45",
-    "updated_at": "2026-05-18T21:32:25"
+    "updated_at": "2026-05-19T04:37:00"
+  },
+  {
+    "name": "harness",
+    "full_name": "awizemann/harness",
+    "description": "AI-driven user testing for iOS Simulator, macOS apps, and web apps. Write a goal in plain language; an LLM agent drives the UI and reports friction. macOS 14+, Swift 6.",
+    "url": "https://github.com/awizemann/harness",
+    "stars": 221,
+    "daily_stars": 9,
+    "language": "Swift",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "developer-tools",
+      "ios-testing",
+      "mac",
+      "macos",
+      "macos-testing",
+      "simulator",
+      "swift",
+      "swift-ui",
+      "swift6",
+      "swiftui",
+      "user-testing",
+      "ux-testing",
+      "web-testing",
+      "webkit",
+      "xcode"
+    ],
+    "created_at": "2026-05-03T22:10:19",
+    "updated_at": "2026-05-19T03:16:27"
+  },
+  {
+    "name": "goal-workflow",
+    "full_name": "smallnest/goal-workflow",
+    "description": "AI-driven development workflow with /prd, /goal, /review-it and /ship-it skills",
+    "url": "https://github.com/smallnest/goal-workflow",
+    "stars": 18,
+    "daily_stars": 9,
+    "language": "HTML",
+    "topics": [
+      "claude-code",
+      "codex",
+      "development",
+      "skills",
+      "software-engineering",
+      "workflow"
+    ],
+    "created_at": "2026-05-16T07:25:20",
+    "updated_at": "2026-05-19T04:29:57"
   }
 ]
