@@ -4,8 +4,8 @@
     "full_name": "nexu-io/open-design",
     "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 47411,
-    "daily_stars": 462,
+    "stars": 47654,
+    "daily_stars": 243,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -30,15 +30,15 @@
       "typescript"
     ],
     "created_at": "2026-04-28T04:25:20",
-    "updated_at": "2026-05-20T11:26:14"
+    "updated_at": "2026-05-20T16:05:21"
   },
   {
     "name": "html-anything",
     "full_name": "nexu-io/html-anything",
     "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
     "url": "https://github.com/nexu-io/html-anything",
-    "stars": 4154,
-    "daily_stars": 135,
+    "stars": 4223,
+    "daily_stars": 69,
     "language": "HTML",
     "topics": [
       "agent-skills",
@@ -63,34 +63,85 @@
       "xiaohongshu"
     ],
     "created_at": "2026-05-11T09:40:38",
-    "updated_at": "2026-05-20T11:08:58"
+    "updated_at": "2026-05-20T16:04:52"
   },
   {
-    "name": "text-to-cad",
-    "full_name": "earthtojake/text-to-cad",
-    "description": "An open source harness for generating CAD models",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 3204,
-    "daily_stars": 28,
-    "language": "JavaScript",
+    "name": "openpets",
+    "full_name": "alvinunreal/openpets",
+    "description": "Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.",
+    "url": "https://github.com/alvinunreal/openpets",
+    "stars": 892,
+    "daily_stars": 69,
+    "language": "TypeScript",
     "topics": [
-      "agents",
+      "ai-agents",
+      "bun",
+      "claude-code",
+      "coding-agents",
+      "desktop-pet",
+      "electron",
+      "mcp",
+      "opencode",
+      "openpets",
+      "pixel-art"
+    ],
+    "created_at": "2026-05-04T19:14:46",
+    "updated_at": "2026-05-20T16:04:38"
+  },
+  {
+    "name": "kiwifs",
+    "full_name": "kiwifs/kiwifs",
+    "description": "The knowledge server — PocketBase for knowledge. One Go binary, zero config.",
+    "url": "https://github.com/kiwifs/kiwifs",
+    "stars": 457,
+    "daily_stars": 17,
+    "language": "Go",
+    "topics": [
+      "ai-agents",
+      "filesystem",
+      "golang",
+      "knowledge-base",
+      "knowledge-graph",
+      "llm-wiki",
+      "markdown",
+      "obsidian",
+      "self-hosted",
+      "wiki"
+    ],
+    "created_at": "2026-04-22T04:27:55",
+    "updated_at": "2026-05-20T15:34:14"
+  },
+  {
+    "name": "opensquilla",
+    "full_name": "OpenSquilla/opensquilla",
+    "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
+    "url": "https://github.com/OpenSquilla/opensquilla",
+    "stars": 1197,
+    "daily_stars": 16,
+    "language": "Python",
+    "topics": [
+      "agent",
       "ai",
       "ai-agents",
-      "cad",
-      "text-to-cad",
-      "wasm"
+      "deep-learning",
+      "foundation-models",
+      "llm",
+      "mcp",
+      "memory",
+      "openclaw",
+      "python",
+      "skills"
     ],
-    "created_at": "2026-04-22T01:09:45",
-    "updated_at": "2026-05-20T11:08:08"
+    "created_at": "2026-05-06T17:43:05",
+    "updated_at": "2026-05-20T15:51:35"
   },
   {
     "name": "mirage",
     "full_name": "strukto-ai/mirage",
     "description": "A Unified Virtual Filesystem For AI Agents",
     "url": "https://github.com/strukto-ai/mirage",
-    "stars": 2476,
-    "daily_stars": 28,
+    "stars": 2490,
+    "daily_stars": 14,
     "language": "TypeScript",
     "topics": [
       "agent-sandbox",
@@ -108,15 +159,54 @@
       "virtual-filesystem"
     ],
     "created_at": "2026-05-06T17:00:48",
-    "updated_at": "2026-05-20T11:02:18"
+    "updated_at": "2026-05-20T15:33:31"
+  },
+  {
+    "name": "text-to-cad",
+    "full_name": "earthtojake/text-to-cad",
+    "description": "An open source harness for generating CAD models",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "stars": 3217,
+    "daily_stars": 13,
+    "language": "JavaScript",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "cad",
+      "text-to-cad",
+      "wasm"
+    ],
+    "created_at": "2026-04-22T01:09:45",
+    "updated_at": "2026-05-20T15:45:12"
+  },
+  {
+    "name": "forkd",
+    "full_name": "deeplethe/forkd",
+    "description": "Fork microVMs sandbox from a warmed parent in 101 ms.",
+    "url": "https://github.com/deeplethe/forkd",
+    "stars": 464,
+    "daily_stars": 12,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "copy-on-write",
+      "kvm",
+      "microvm",
+      "rust",
+      "sandbox",
+      "snapshot"
+    ],
+    "created_at": "2026-05-11T17:42:24",
+    "updated_at": "2026-05-20T15:58:37"
   },
   {
     "name": "agents-best-practices",
     "full_name": "DenisSergeevitch/agents-best-practices",
     "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
     "url": "https://github.com/DenisSergeevitch/agents-best-practices",
-    "stars": 879,
-    "daily_stars": 23,
+    "stars": 889,
+    "daily_stars": 10,
     "language": null,
     "topics": [
       "agent-skill",
@@ -133,119 +223,22 @@
       "prompt-engineering"
     ],
     "created_at": "2026-05-15T21:32:21",
-    "updated_at": "2026-05-20T10:57:29"
+    "updated_at": "2026-05-20T15:46:34"
   },
   {
-    "name": "opensquilla",
-    "full_name": "OpenSquilla/opensquilla",
-    "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
-    "url": "https://github.com/OpenSquilla/opensquilla",
-    "stars": 1181,
-    "daily_stars": 21,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agents",
-      "deep-learning",
-      "foundation-models",
-      "llm",
-      "mcp",
-      "memory",
-      "openclaw",
-      "python",
-      "skills"
-    ],
-    "created_at": "2026-05-06T17:43:05",
-    "updated_at": "2026-05-20T11:14:42"
-  },
-  {
-    "name": "claude-smart",
-    "full_name": "ReflexioAI/claude-smart",
-    "description": "A Claude Code plugin that makes Claude Code self-improve — learning from your corrections, not just remembering them",
-    "url": "https://github.com/ReflexioAI/claude-smart",
-    "stars": 365,
-    "daily_stars": 18,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "claude-code-plugin",
-      "memory",
-      "self-improvement",
-      "self-improving-ai"
-    ],
-    "created_at": "2026-04-21T03:14:52",
-    "updated_at": "2026-05-20T11:20:44"
-  },
-  {
-    "name": "forkd",
-    "full_name": "deeplethe/forkd",
-    "description": "Fork microVMs sandbox from a warmed parent in 101 ms.",
-    "url": "https://github.com/deeplethe/forkd",
-    "stars": 452,
-    "daily_stars": 17,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "copy-on-write",
-      "kvm",
-      "microvm",
-      "rust",
-      "sandbox",
-      "snapshot"
-    ],
-    "created_at": "2026-05-11T17:42:24",
-    "updated_at": "2026-05-20T11:12:20"
-  },
-  {
-    "name": "shushu-internship-tool",
-    "full_name": "LiuMengxuan04/shushu-internship-tool",
-    "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
-    "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 262,
-    "daily_stars": 16,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "skills"
-    ],
-    "created_at": "2026-05-17T11:25:47",
-    "updated_at": "2026-05-20T11:18:42"
-  },
-  {
-    "name": "ARIS-in-AI-Offer",
-    "full_name": "wanshuiyin/ARIS-in-AI-Offer",
-    "description": "希望大家秋招的时候轻松一点 · Chinese ML/LLM/multimodal/generative-model interview cheat sheets · HTML 排版手机/iPad/电脑随处可读 · auto-generated by ARIS /render-html workflow",
-    "url": "https://github.com/wanshuiyin/ARIS-in-AI-Offer",
-    "stars": 52,
-    "daily_stars": 15,
+    "name": "minimind-o",
+    "full_name": "jingyaogong/minimind-o",
+    "description": "🌏 0.1B级开源Omni模型 🌏Open-source Omni model at the 0.1B level",
+    "url": "https://github.com/jingyaogong/minimind-o",
+    "stars": 1441,
+    "daily_stars": 9,
     "language": null,
     "topics": [
-      "ai-interview",
-      "aris",
-      "autumn-recruiting",
-      "cheatsheet",
-      "chinese",
-      "claude-code",
-      "deep-learning",
-      "diffusion",
-      "flow-matching",
-      "interview-prep",
-      "llm",
-      "machine-learning",
-      "moe",
-      "nerf",
-      "pytorch",
-      "quantization",
-      "rlhf",
-      "transformer",
-      "video-generation",
-      "vision-language-model"
+      "artificial-intelligence",
+      "chatgpt",
+      "omni"
     ],
-    "created_at": "2026-05-19T04:51:36",
-    "updated_at": "2026-05-20T11:20:47"
+    "created_at": "2026-05-01T04:20:16",
+    "updated_at": "2026-05-20T14:41:49"
   }
 ]
