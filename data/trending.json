@@ -4,8 +4,8 @@
     "full_name": "nexu-io/open-design",
     "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 47837,
-    "daily_stars": 87,
+    "stars": 48177,
+    "daily_stars": 340,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -30,132 +30,34 @@
       "typescript"
     ],
     "created_at": "2026-04-28T04:25:20",
-    "updated_at": "2026-05-20T22:09:37"
+    "updated_at": "2026-05-21T04:48:54"
   },
   {
-    "name": "distributed-system-testing",
-    "full_name": "shenli/distributed-system-testing",
-    "description": "AI-agent skills for distributed-systems testing",
-    "url": "https://github.com/shenli/distributed-system-testing",
-    "stars": 99,
-    "daily_stars": 23,
-    "language": null,
+    "name": "text-to-cad",
+    "full_name": "earthtojake/text-to-cad",
+    "description": "An open source harness for generating CAD models",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "stars": 3373,
+    "daily_stars": 149,
+    "language": "JavaScript",
     "topics": [
-      "agent-skills",
-      "ai-agents",
-      "chaos-engineering",
-      "distributed-systems",
-      "testing"
-    ],
-    "created_at": "2026-05-16T20:51:13",
-    "updated_at": "2026-05-20T21:58:27"
-  },
-  {
-    "name": "kiwifs",
-    "full_name": "kiwifs/kiwifs",
-    "description": "The knowledge server — PocketBase for knowledge. One Go binary, zero config.",
-    "url": "https://github.com/kiwifs/kiwifs",
-    "stars": 489,
-    "daily_stars": 16,
-    "language": "Go",
-    "topics": [
-      "ai-agents",
-      "filesystem",
-      "golang",
-      "knowledge-base",
-      "knowledge-graph",
-      "llm-wiki",
-      "markdown",
-      "obsidian",
-      "self-hosted",
-      "wiki"
-    ],
-    "created_at": "2026-04-22T04:27:55",
-    "updated_at": "2026-05-20T22:09:14"
-  },
-  {
-    "name": "opensquilla",
-    "full_name": "OpenSquilla/opensquilla",
-    "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
-    "url": "https://github.com/OpenSquilla/opensquilla",
-    "stars": 1213,
-    "daily_stars": 11,
-    "language": "Python",
-    "topics": [
-      "agent",
+      "agents",
       "ai",
       "ai-agents",
-      "deep-learning",
-      "foundation-models",
-      "llm",
-      "mcp",
-      "memory",
-      "openclaw",
-      "python",
-      "skills"
+      "cad",
+      "text-to-cad",
+      "wasm"
     ],
-    "created_at": "2026-05-06T17:43:05",
-    "updated_at": "2026-05-20T22:04:28"
-  },
-  {
-    "name": "lavern",
-    "full_name": "AnttiHero/lavern",
-    "description": "An agentic law firm. Yours. 67 specialist AI agents that review documents through evidence-backed debate, with mandatory human gates and a 10-pass verification loop. Apache 2.0.",
-    "url": "https://github.com/AnttiHero/lavern",
-    "stars": 77,
-    "daily_stars": 10,
-    "language": "TypeScript",
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "contract-review",
-      "law-firm",
-      "legal-ai",
-      "legal-tech",
-      "mcp",
-      "mistral-ai",
-      "model-context-protocol",
-      "multi-agent",
-      "open-source",
-      "typescript"
-    ],
-    "created_at": "2026-05-13T07:56:41",
-    "updated_at": "2026-05-20T21:46:46"
-  },
-  {
-    "name": "agents-best-practices",
-    "full_name": "DenisSergeevitch/agents-best-practices",
-    "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
-    "url": "https://github.com/DenisSergeevitch/agents-best-practices",
-    "stars": 901,
-    "daily_stars": 8,
-    "language": null,
-    "topics": [
-      "agent-skill",
-      "agent-skills",
-      "agentic-workflows",
-      "agents",
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "codex",
-      "codex-skill",
-      "mcp",
-      "prompt-engineering"
-    ],
-    "created_at": "2026-05-15T21:32:21",
-    "updated_at": "2026-05-20T22:03:04"
+    "created_at": "2026-04-22T01:09:45",
+    "updated_at": "2026-05-21T04:51:17"
   },
   {
     "name": "html-anything",
     "full_name": "nexu-io/html-anything",
     "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
     "url": "https://github.com/nexu-io/html-anything",
-    "stars": 4248,
-    "daily_stars": 7,
+    "stars": 4325,
+    "daily_stars": 77,
     "language": "HTML",
     "topics": [
       "agent-skills",
@@ -180,34 +82,126 @@
       "xiaohongshu"
     ],
     "created_at": "2026-05-11T09:40:38",
-    "updated_at": "2026-05-20T21:51:43"
+    "updated_at": "2026-05-21T04:43:46"
   },
   {
-    "name": "text-to-cad",
-    "full_name": "earthtojake/text-to-cad",
-    "description": "An open source harness for generating CAD models",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 3224,
-    "daily_stars": 6,
-    "language": "JavaScript",
+    "name": "opensquilla",
+    "full_name": "OpenSquilla/opensquilla",
+    "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
+    "url": "https://github.com/OpenSquilla/opensquilla",
+    "stars": 1238,
+    "daily_stars": 25,
+    "language": "Python",
     "topics": [
-      "agents",
+      "agent",
       "ai",
       "ai-agents",
-      "cad",
-      "text-to-cad",
-      "wasm"
+      "deep-learning",
+      "foundation-models",
+      "llm",
+      "mcp",
+      "memory",
+      "openclaw",
+      "python",
+      "skills"
     ],
-    "created_at": "2026-04-22T01:09:45",
-    "updated_at": "2026-05-20T21:52:41"
+    "created_at": "2026-05-06T17:43:05",
+    "updated_at": "2026-05-21T04:17:50"
+  },
+  {
+    "name": "distributed-system-testing",
+    "full_name": "shenli/distributed-system-testing",
+    "description": "AI-agent skills for distributed-systems testing",
+    "url": "https://github.com/shenli/distributed-system-testing",
+    "stars": 123,
+    "daily_stars": 24,
+    "language": null,
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "chaos-engineering",
+      "distributed-systems",
+      "testing"
+    ],
+    "created_at": "2026-05-16T20:51:13",
+    "updated_at": "2026-05-21T04:37:57"
+  },
+  {
+    "name": "mirage",
+    "full_name": "strukto-ai/mirage",
+    "description": "A Unified Virtual Filesystem For AI Agents",
+    "url": "https://github.com/strukto-ai/mirage",
+    "stars": 2513,
+    "daily_stars": 19,
+    "language": "TypeScript",
+    "topics": [
+      "agent-sandbox",
+      "agent-tools",
+      "ai-agents",
+      "bash",
+      "claude-code",
+      "fuse",
+      "langchain",
+      "llm-agents",
+      "openai-agents",
+      "python",
+      "typescript",
+      "vfs",
+      "virtual-filesystem"
+    ],
+    "created_at": "2026-05-06T17:00:48",
+    "updated_at": "2026-05-21T04:04:31"
+  },
+  {
+    "name": "minimind-o",
+    "full_name": "jingyaogong/minimind-o",
+    "description": "🌏 0.1B级开源Omni模型 🌏Open-source Omni model at the 0.1B level",
+    "url": "https://github.com/jingyaogong/minimind-o",
+    "stars": 1457,
+    "daily_stars": 13,
+    "language": null,
+    "topics": [
+      "artificial-intelligence",
+      "chatgpt",
+      "omni"
+    ],
+    "created_at": "2026-05-01T04:20:16",
+    "updated_at": "2026-05-21T03:57:32"
+  },
+  {
+    "name": "lavern",
+    "full_name": "AnttiHero/lavern",
+    "description": "An agentic law firm. Yours. 67 specialist AI agents that review documents through evidence-backed debate, with mandatory human gates and a 10-pass verification loop. Apache 2.0.",
+    "url": "https://github.com/AnttiHero/lavern",
+    "stars": 90,
+    "daily_stars": 13,
+    "language": "TypeScript",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "contract-review",
+      "law-firm",
+      "legal-ai",
+      "legal-tech",
+      "mcp",
+      "mistral-ai",
+      "model-context-protocol",
+      "multi-agent",
+      "open-source",
+      "typescript"
+    ],
+    "created_at": "2026-05-13T07:56:41",
+    "updated_at": "2026-05-21T04:46:26"
   },
   {
     "name": "forkd",
     "full_name": "deeplethe/forkd",
     "description": "Fork microVMs sandbox from a warmed parent in 101 ms.",
     "url": "https://github.com/deeplethe/forkd",
-    "stars": 472,
-    "daily_stars": 6,
+    "stars": 482,
+    "daily_stars": 10,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -219,22 +213,34 @@
       "snapshot"
     ],
     "created_at": "2026-05-11T17:42:24",
-    "updated_at": "2026-05-20T21:31:11"
+    "updated_at": "2026-05-21T04:44:25"
   },
   {
-    "name": "actionspack",
-    "full_name": "sxzz/actionspack",
-    "description": "Lockfile-first GitHub Actions workflow packer",
-    "url": "https://github.com/sxzz/actionspack",
-    "stars": 7,
-    "daily_stars": 6,
-    "language": "TypeScript",
+    "name": "knowhere",
+    "full_name": "Ontos-AI/knowhere",
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "url": "https://github.com/Ontos-AI/knowhere",
+    "stars": 347,
+    "daily_stars": 10,
+    "language": "Python",
     "topics": [
-      "actions",
-      "github",
-      "workflow"
+      "agent",
+      "ai-agents",
+      "chromadb",
+      "claude",
+      "claude-code",
+      "cursor",
+      "elasticsearch",
+      "gemini",
+      "gpt",
+      "langchain",
+      "milvus",
+      "qdrant",
+      "rag",
+      "rag-pipeline",
+      "skills"
     ],
-    "created_at": "2026-05-20T17:36:27",
-    "updated_at": "2026-05-20T21:54:19"
+    "created_at": "2026-04-30T03:13:10",
+    "updated_at": "2026-05-21T03:50:24"
   }
 ]
