@@ -4,8 +4,8 @@
     "full_name": "nexu-io/open-design",
     "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 50348,
-    "daily_stars": 135,
+    "stars": 50480,
+    "daily_stars": 132,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -30,15 +30,15 @@
       "typescript"
     ],
     "created_at": "2026-04-28T04:25:20",
-    "updated_at": "2026-05-23T14:06:39"
+    "updated_at": "2026-05-23T17:32:11"
   },
   {
     "name": "openpets",
     "full_name": "alvinunreal/openpets",
     "description": "Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.",
     "url": "https://github.com/alvinunreal/openpets",
-    "stars": 905,
-    "daily_stars": 37,
+    "stars": 934,
+    "daily_stars": 29,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -53,37 +53,15 @@
       "pixel-art"
     ],
     "created_at": "2026-05-04T19:14:46",
-    "updated_at": "2026-05-23T14:05:18"
-  },
-  {
-    "name": "antigravity-sdk-python",
-    "full_name": "google-antigravity/antigravity-sdk-python",
-    "description": "A Python library for building AI agents that leverage the full power of Google Antigravity.",
-    "url": "https://github.com/google-antigravity/antigravity-sdk-python",
-    "stars": 869,
-    "daily_stars": 18,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "antigravity",
-      "gemini",
-      "gemini-api",
-      "google",
-      "llm-agents",
-      "mcp",
-      "python-sdk",
-      "skills"
-    ],
-    "created_at": "2026-04-29T21:12:19",
-    "updated_at": "2026-05-23T14:04:06"
+    "updated_at": "2026-05-23T17:03:43"
   },
   {
     "name": "opensquilla",
     "full_name": "OpenSquilla/opensquilla",
     "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
     "url": "https://github.com/OpenSquilla/opensquilla",
-    "stars": 1528,
-    "daily_stars": 13,
+    "stars": 1545,
+    "daily_stars": 17,
     "language": "Python",
     "topics": [
       "agent",
@@ -99,37 +77,36 @@
       "skills"
     ],
     "created_at": "2026-05-06T17:43:05",
-    "updated_at": "2026-05-23T13:17:42"
+    "updated_at": "2026-05-23T17:31:29"
   },
   {
-    "name": "meta-llm-charter",
-    "full_name": "entropyvortex/meta-llm-charter",
-    "description": "Compact operational charter that turns LLM coding agents into disciplined principal engineers. Eleven rules + one meta-rule.",
-    "url": "https://github.com/entropyvortex/meta-llm-charter",
-    "stars": 195,
-    "daily_stars": 13,
-    "language": "TypeScript",
+    "name": "antigravity-sdk-python",
+    "full_name": "google-antigravity/antigravity-sdk-python",
+    "description": "A Python library for building AI agents that leverage the full power of Google Antigravity.",
+    "url": "https://github.com/google-antigravity/antigravity-sdk-python",
+    "stars": 884,
+    "daily_stars": 15,
+    "language": "Python",
     "topics": [
-      "ai",
       "ai-agents",
-      "claude",
-      "coding-agents",
-      "constitution",
-      "cursor",
-      "frontier-ai",
-      "llm",
+      "antigravity",
+      "gemini",
+      "gemini-api",
+      "google",
       "llm-agents",
-      "prompt-engineering"
+      "mcp",
+      "python-sdk",
+      "skills"
     ],
-    "created_at": "2026-05-12T01:51:04",
-    "updated_at": "2026-05-23T14:02:58"
+    "created_at": "2026-04-29T21:12:19",
+    "updated_at": "2026-05-23T17:29:56"
   },
   {
     "name": "html-anything",
     "full_name": "nexu-io/html-anything",
     "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
     "url": "https://github.com/nexu-io/html-anything",
-    "stars": 4659,
+    "stars": 4671,
     "daily_stars": 12,
     "language": "HTML",
     "topics": [
@@ -155,15 +132,111 @@
       "xiaohongshu"
     ],
     "created_at": "2026-05-11T09:40:38",
-    "updated_at": "2026-05-23T14:07:37"
+    "updated_at": "2026-05-23T16:57:49"
+  },
+  {
+    "name": "forkd",
+    "full_name": "deeplethe/forkd",
+    "description": "Fork microVMs sandbox from a warmed parent in 101 ms.",
+    "url": "https://github.com/deeplethe/forkd",
+    "stars": 635,
+    "daily_stars": 11,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "copy-on-write",
+      "kvm",
+      "microvm",
+      "rust",
+      "sandbox",
+      "snapshot"
+    ],
+    "created_at": "2026-05-11T17:42:24",
+    "updated_at": "2026-05-23T17:06:14"
+  },
+  {
+    "name": "Maestro",
+    "full_name": "joosure/Maestro",
+    "description": "Maestro turns your issue tracker into an execution layer for AI agents — dispatching work, managing runtimes, coordinating providers, tracking evidence, and making agentic engineering operable at team scale.",
+    "url": "https://github.com/joosure/Maestro",
+    "stars": 48,
+    "daily_stars": 11,
+    "language": "Elixir",
+    "topics": [
+      "agent-orchestration",
+      "ai-agents",
+      "ai-coding",
+      "audit-trail",
+      "autonomous-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "developer-tools",
+      "devops",
+      "elixir",
+      "github",
+      "issue-tracker",
+      "linear",
+      "observability",
+      "opencode",
+      "project-management",
+      "software-engineering",
+      "tapd",
+      "workflow-automation"
+    ],
+    "created_at": "2026-05-13T10:27:42",
+    "updated_at": "2026-05-23T15:42:25"
+  },
+  {
+    "name": "meta-llm-charter",
+    "full_name": "entropyvortex/meta-llm-charter",
+    "description": "Compact operational charter that turns LLM coding agents into disciplined principal engineers. Eleven rules + one meta-rule.",
+    "url": "https://github.com/entropyvortex/meta-llm-charter",
+    "stars": 204,
+    "daily_stars": 9,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude",
+      "coding-agents",
+      "constitution",
+      "cursor",
+      "frontier-ai",
+      "llm",
+      "llm-agents",
+      "prompt-engineering"
+    ],
+    "created_at": "2026-05-12T01:51:04",
+    "updated_at": "2026-05-23T17:20:36"
+  },
+  {
+    "name": "hermes-agent-team",
+    "full_name": "linke-ai/hermes-agent-team",
+    "description": "基于 Hermes Agent 构建的本地多 Agent 团队协作 Web 系统",
+    "url": "https://github.com/linke-ai/hermes-agent-team",
+    "stars": 58,
+    "daily_stars": 8,
+    "language": "Python",
+    "topics": [
+      "agent-team",
+      "ai-agents",
+      "flask",
+      "hermes-agent",
+      "kan-ban",
+      "mcp",
+      "multi-agent"
+    ],
+    "created_at": "2026-05-18T06:01:18",
+    "updated_at": "2026-05-23T17:12:30"
   },
   {
     "name": "awesome-agentic-ai-zh",
     "full_name": "WenyuChiou/awesome-agentic-ai-zh",
     "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 1681,
-    "daily_stars": 10,
+    "stars": 1687,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -178,64 +251,6 @@
       "model-context-protocol"
     ],
     "created_at": "2026-05-04T22:18:51",
-    "updated_at": "2026-05-23T13:51:27"
-  },
-  {
-    "name": "forkd",
-    "full_name": "deeplethe/forkd",
-    "description": "Fork microVMs sandbox from a warmed parent in 101 ms.",
-    "url": "https://github.com/deeplethe/forkd",
-    "stars": 624,
-    "daily_stars": 10,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "copy-on-write",
-      "kvm",
-      "microvm",
-      "rust",
-      "sandbox",
-      "snapshot"
-    ],
-    "created_at": "2026-05-11T17:42:24",
-    "updated_at": "2026-05-23T13:58:33"
-  },
-  {
-    "name": "agentic-ai-system-course",
-    "full_name": "bryanyzhu/agentic-ai-system-course",
-    "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
-    "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
-    "stars": 68,
-    "daily_stars": 9,
-    "language": "Shell",
-    "topics": [
-      "agentic-ai",
-      "agentic-workflow",
-      "ai-agents",
-      "course",
-      "system-design",
-      "tutorial"
-    ],
-    "created_at": "2026-05-23T03:59:52",
-    "updated_at": "2026-05-23T14:07:39"
-  },
-  {
-    "name": "HackAI-Challenges-2026",
-    "full_name": "1337-Artificial-Intelligence/HackAI-Challenges-2026",
-    "description": null,
-    "url": "https://github.com/1337-Artificial-Intelligence/HackAI-Challenges-2026",
-    "stars": 16,
-    "daily_stars": 8,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-coding",
-      "challenges",
-      "deep-learning",
-      "hackathon"
-    ],
-    "created_at": "2026-05-17T16:46:18",
-    "updated_at": "2026-05-23T12:21:27"
+    "updated_at": "2026-05-23T16:51:10"
   }
 ]
