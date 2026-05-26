@@ -4,8 +4,8 @@
     "full_name": "nexu-io/open-design",
     "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 52017,
-    "daily_stars": 68,
+    "stars": 52257,
+    "daily_stars": 240,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -30,15 +30,15 @@
       "typescript"
     ],
     "created_at": "2026-04-28T04:25:20",
-    "updated_at": "2026-05-25T21:43:20"
+    "updated_at": "2026-05-26T04:40:40"
   },
   {
     "name": "opensquilla",
     "full_name": "OpenSquilla/opensquilla",
     "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
     "url": "https://github.com/OpenSquilla/opensquilla",
-    "stars": 1819,
-    "daily_stars": 19,
+    "stars": 1856,
+    "daily_stars": 37,
     "language": "Python",
     "topics": [
       "agent",
@@ -54,86 +54,15 @@
       "skills"
     ],
     "created_at": "2026-05-06T17:43:05",
-    "updated_at": "2026-05-25T21:40:07"
-  },
-  {
-    "name": "knowhere",
-    "full_name": "Ontos-AI/knowhere",
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "url": "https://github.com/Ontos-AI/knowhere",
-    "stars": 540,
-    "daily_stars": 13,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "ai-agents",
-      "chromadb",
-      "claude",
-      "claude-code",
-      "cursor",
-      "elasticsearch",
-      "gemini",
-      "gpt",
-      "langchain",
-      "milvus",
-      "qdrant",
-      "rag",
-      "rag-pipeline",
-      "skills"
-    ],
-    "created_at": "2026-04-30T03:13:10",
-    "updated_at": "2026-05-25T21:37:19"
-  },
-  {
-    "name": "forkd",
-    "full_name": "deeplethe/forkd",
-    "description": "Fork microVMs sandbox from a warmed parent in 101 ms.",
-    "url": "https://github.com/deeplethe/forkd",
-    "stars": 759,
-    "daily_stars": 11,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "copy-on-write",
-      "kvm",
-      "microvm",
-      "rust",
-      "sandbox",
-      "snapshot"
-    ],
-    "created_at": "2026-05-11T17:42:24",
-    "updated_at": "2026-05-25T21:31:18"
-  },
-  {
-    "name": "dejavu",
-    "full_name": "JSingletonAI/dejavu",
-    "description": "Memory that follows you across every AI tool. No cloud storage. No account required. Set it up once, use it everywhere.",
-    "url": "https://github.com/JSingletonAI/dejavu",
-    "stars": 43,
-    "daily_stars": 8,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "claude",
-      "llm",
-      "local-first",
-      "mcp",
-      "memory",
-      "privacy",
-      "rag",
-      "sqlite",
-      "venice"
-    ],
-    "created_at": "2026-05-18T23:04:01",
-    "updated_at": "2026-05-25T20:14:32"
+    "updated_at": "2026-05-26T04:25:29"
   },
   {
     "name": "html-anything",
     "full_name": "nexu-io/html-anything",
     "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
     "url": "https://github.com/nexu-io/html-anything",
-    "stars": 4946,
-    "daily_stars": 5,
+    "stars": 4977,
+    "daily_stars": 31,
     "language": "HTML",
     "topics": [
       "agent-skills",
@@ -158,84 +87,35 @@
       "xiaohongshu"
     ],
     "created_at": "2026-05-11T09:40:38",
-    "updated_at": "2026-05-25T21:35:22"
+    "updated_at": "2026-05-26T03:47:55"
   },
   {
-    "name": "mirage",
-    "full_name": "strukto-ai/mirage",
-    "description": "A Unified Virtual Filesystem For AI Agents",
-    "url": "https://github.com/strukto-ai/mirage",
-    "stars": 2614,
-    "daily_stars": 3,
-    "language": "TypeScript",
+    "name": "forkd",
+    "full_name": "deeplethe/forkd",
+    "description": "Fork microVMs sandbox from a warmed parent in 101 ms.",
+    "url": "https://github.com/deeplethe/forkd",
+    "stars": 773,
+    "daily_stars": 14,
+    "language": "Rust",
     "topics": [
-      "agent-sandbox",
-      "agent-tools",
       "ai-agents",
-      "bash",
-      "claude-code",
-      "fuse",
-      "langchain",
-      "llm-agents",
-      "openai-agents",
-      "python",
-      "typescript",
-      "vfs",
-      "virtual-filesystem"
+      "copy-on-write",
+      "kvm",
+      "microvm",
+      "rust",
+      "sandbox",
+      "snapshot"
     ],
-    "created_at": "2026-05-06T17:00:48",
-    "updated_at": "2026-05-25T20:58:24"
-  },
-  {
-    "name": "agents-best-practices",
-    "full_name": "DenisSergeevitch/agents-best-practices",
-    "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
-    "url": "https://github.com/DenisSergeevitch/agents-best-practices",
-    "stars": 1066,
-    "daily_stars": 3,
-    "language": null,
-    "topics": [
-      "agent-skill",
-      "agent-skills",
-      "agentic-workflows",
-      "agents",
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "codex",
-      "codex-skill",
-      "mcp",
-      "prompt-engineering"
-    ],
-    "created_at": "2026-05-15T21:32:21",
-    "updated_at": "2026-05-25T20:58:58"
-  },
-  {
-    "name": "hermes-agent-control-room",
-    "full_name": "shannhk/hermes-agent-control-room",
-    "description": "Control Room-first template for managing Hermes agents from one VPS agent to specialist teams and orchestrated workflows",
-    "url": "https://github.com/shannhk/hermes-agent-control-room",
-    "stars": 443,
-    "daily_stars": 3,
-    "language": "Shell",
-    "topics": [
-      "agent-control-room",
-      "ai-agents",
-      "hermes-agent",
-      "multi-agent",
-      "vps"
-    ],
-    "created_at": "2026-05-15T14:18:45",
-    "updated_at": "2026-05-25T21:43:14"
+    "created_at": "2026-05-11T17:42:24",
+    "updated_at": "2026-05-26T04:41:03"
   },
   {
     "name": "agentic-ai-system-course",
     "full_name": "bryanyzhu/agentic-ai-system-course",
     "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
     "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
-    "stars": 200,
-    "daily_stars": 3,
+    "stars": 214,
+    "daily_stars": 14,
     "language": "Shell",
     "topics": [
       "agentic-ai",
@@ -246,6 +126,133 @@
       "tutorial"
     ],
     "created_at": "2026-05-23T03:59:52",
-    "updated_at": "2026-05-25T21:21:26"
+    "updated_at": "2026-05-26T04:38:16"
+  },
+  {
+    "name": "knowhere",
+    "full_name": "Ontos-AI/knowhere",
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "url": "https://github.com/Ontos-AI/knowhere",
+    "stars": 551,
+    "daily_stars": 11,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "ai-agents",
+      "chromadb",
+      "claude",
+      "claude-code",
+      "cursor",
+      "elasticsearch",
+      "gemini",
+      "gpt",
+      "langchain",
+      "milvus",
+      "qdrant",
+      "rag",
+      "rag-pipeline",
+      "skills"
+    ],
+    "created_at": "2026-04-30T03:13:10",
+    "updated_at": "2026-05-26T04:31:07"
+  },
+  {
+    "name": "antigravity-sdk-python",
+    "full_name": "google-antigravity/antigravity-sdk-python",
+    "description": "A Python library for building AI agents that leverage the full power of Google Antigravity.",
+    "url": "https://github.com/google-antigravity/antigravity-sdk-python",
+    "stars": 1022,
+    "daily_stars": 9,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "antigravity",
+      "gemini",
+      "gemini-api",
+      "google",
+      "llm-agents",
+      "mcp",
+      "python-sdk",
+      "skills"
+    ],
+    "created_at": "2026-04-29T21:12:19",
+    "updated_at": "2026-05-26T04:15:18"
+  },
+  {
+    "name": "awesome-architecture",
+    "full_name": "study8677/awesome-architecture",
+    "description": "🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. 中英文双语。",
+    "url": "https://github.com/study8677/awesome-architecture",
+    "stars": 111,
+    "daily_stars": 8,
+    "language": "Vue",
+    "topics": [
+      "ai-agents",
+      "architecture-decision-records",
+      "architecture-patterns",
+      "awesome",
+      "backend",
+      "c4-model",
+      "chinese",
+      "design-patterns",
+      "distributed-systems",
+      "interview-preparation",
+      "learning-resources",
+      "llm",
+      "microservices",
+      "rag",
+      "scalability",
+      "software-architecture",
+      "software-engineering",
+      "system-design",
+      "system-design-interview",
+      "tech-interview"
+    ],
+    "created_at": "2026-05-23T02:44:43",
+    "updated_at": "2026-05-26T04:22:42"
+  },
+  {
+    "name": "how-to-train-your-gpt",
+    "full_name": "raiyanyahya/how-to-train-your-gpt",
+    "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
+    "url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
+    "stars": 1811,
+    "daily_stars": 8,
+    "language": null,
+    "topics": [
+      "attention-mechanism",
+      "deep-learning",
+      "educational",
+      "from-scratch",
+      "gpt",
+      "language-model",
+      "llama",
+      "llm",
+      "machine-learning",
+      "natural-language-processing",
+      "python",
+      "pytorch",
+      "tokenisation",
+      "transformers",
+      "tutorial"
+    ],
+    "created_at": "2026-05-03T21:41:33",
+    "updated_at": "2026-05-26T04:42:23"
+  },
+  {
+    "name": "shushu-internship-tool",
+    "full_name": "LiuMengxuan04/shushu-internship-tool",
+    "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
+    "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
+    "stars": 532,
+    "daily_stars": 7,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "skills"
+    ],
+    "created_at": "2026-05-17T11:25:47",
+    "updated_at": "2026-05-26T04:28:45"
   }
 ]
