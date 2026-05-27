@@ -4,8 +4,8 @@
     "full_name": "study8677/awesome-architecture",
     "description": "🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. 中英文双语。",
     "url": "https://github.com/study8677/awesome-architecture",
-    "stars": 337,
-    "daily_stars": 50,
+    "stars": 521,
+    "daily_stars": 184,
     "language": "Vue",
     "topics": [
       "ai-agents",
@@ -30,34 +30,15 @@
       "tech-interview"
     ],
     "created_at": "2026-05-23T02:44:43",
-    "updated_at": "2026-05-27T04:54:57"
-  },
-  {
-    "name": "agentic-ai-system-course",
-    "full_name": "bryanyzhu/agentic-ai-system-course",
-    "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
-    "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
-    "stars": 246,
-    "daily_stars": 3,
-    "language": "Shell",
-    "topics": [
-      "agentic-ai",
-      "agentic-workflow",
-      "ai-agents",
-      "course",
-      "system-design",
-      "tutorial"
-    ],
-    "created_at": "2026-05-23T03:59:52",
-    "updated_at": "2026-05-27T04:47:37"
+    "updated_at": "2026-05-27T16:20:19"
   },
   {
     "name": "adhd",
     "full_name": "UditAkhourii/adhd",
     "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
     "url": "https://github.com/UditAkhourii/adhd",
-    "stars": 202,
-    "daily_stars": 39,
+    "stars": 286,
+    "daily_stars": 84,
     "language": "TypeScript",
     "topics": [
       "adhd",
@@ -80,7 +61,26 @@
       "typescript"
     ],
     "created_at": "2026-05-25T11:06:35",
-    "updated_at": "2026-05-27T04:51:18"
+    "updated_at": "2026-05-27T16:19:26"
+  },
+  {
+    "name": "agentic-ai-system-course",
+    "full_name": "bryanyzhu/agentic-ai-system-course",
+    "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
+    "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
+    "stars": 258,
+    "daily_stars": 12,
+    "language": "Shell",
+    "topics": [
+      "agentic-ai",
+      "agentic-workflow",
+      "ai-agents",
+      "course",
+      "system-design",
+      "tutorial"
+    ],
+    "created_at": "2026-05-23T03:59:52",
+    "updated_at": "2026-05-27T16:16:02"
   },
   {
     "name": "engram",
@@ -138,7 +138,7 @@
     "full_name": "elliotgao2/handsets",
     "description": "A high-performance Android control CLI, built for agents and humans",
     "url": "https://github.com/elliotgao2/handsets",
-    "stars": 78,
+    "stars": 79,
     "daily_stars": 1,
     "language": "Rust",
     "topics": [
@@ -148,32 +148,15 @@
       "rust"
     ],
     "created_at": "2026-05-21T06:33:33",
-    "updated_at": "2026-05-27T02:00:30"
-  },
-  {
-    "name": "terraform-review-agent",
-    "full_name": "infiniumtek/terraform-review-agent",
-    "description": "Reusable GitHub Action that reviews Terraform PRs for security, cost, and style using a LangGraph multi-agent system, posting a single severity-ranked comment.",
-    "url": "https://github.com/infiniumtek/terraform-review-agent",
-    "stars": 65,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "cicd",
-      "workflow-automation"
-    ],
-    "created_at": "2026-05-20T18:29:47",
-    "updated_at": "2026-05-27T04:44:04"
+    "updated_at": "2026-05-27T09:43:24"
   },
   {
     "name": "ascii-agents",
     "full_name": "IvanWng97/ascii-agents",
     "description": "Terminal pixel-art office for AI coding agents — watch your Claude Code sessions type, walk, and nap in a coworking lounge. Half-block rendering, A* pathfinding, per-tool monitor glow. Pure Rust, runs over SSH.",
     "url": "https://github.com/IvanWng97/ascii-agents",
-    "stars": 64,
-    "daily_stars": 4,
+    "stars": 75,
+    "daily_stars": 11,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -188,15 +171,58 @@
       "visualization"
     ],
     "created_at": "2026-05-21T06:05:19",
-    "updated_at": "2026-05-27T04:53:47"
+    "updated_at": "2026-05-27T16:10:49"
+  },
+  {
+    "name": "terraform-review-agent",
+    "full_name": "infiniumtek/terraform-review-agent",
+    "description": "Reusable GitHub Action that reviews Terraform PRs for security, cost, and style using a LangGraph multi-agent system, posting a single severity-ranked comment.",
+    "url": "https://github.com/infiniumtek/terraform-review-agent",
+    "stars": 71,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "cicd",
+      "workflow-automation"
+    ],
+    "created_at": "2026-05-20T18:29:47",
+    "updated_at": "2026-05-27T14:39:27"
+  },
+  {
+    "name": "vue-tui",
+    "full_name": "vuejs-ai/vue-tui",
+    "description": "The Vue framework for terminal UIs. SFC & JSX, Yoga flexbox, HMR, and testing out of the box.",
+    "url": "https://github.com/vuejs-ai/vue-tui",
+    "stars": 63,
+    "daily_stars": 0,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agent",
+      "ai-agents",
+      "cli",
+      "command-line",
+      "flexbox",
+      "llm",
+      "renderer",
+      "terminal",
+      "terminal-ui",
+      "tui",
+      "typescript",
+      "vue",
+      "vue3"
+    ],
+    "created_at": "2026-05-24T13:35:45",
+    "updated_at": "2026-05-27T15:13:00"
   },
   {
     "name": "Spiderbrain-V3",
     "full_name": "SaroirCommunity/Spiderbrain-V3",
     "description": "SpiderBrain v3 is a multi-platform skill/framework to reduce token usage and AI hallucinations across Claude, Cursor, and other AI tools.",
     "url": "https://github.com/SaroirCommunity/Spiderbrain-V3",
-    "stars": 59,
-    "daily_stars": 0,
+    "stars": 60,
+    "daily_stars": 1,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -221,26 +247,6 @@
       "tokenreduction"
     ],
     "created_at": "2026-05-23T01:51:04",
-    "updated_at": "2026-05-26T19:19:05"
-  },
-  {
-    "name": "website-feedback-widget",
-    "full_name": "Sendmux/website-feedback-widget",
-    "description": "📬 Drop-in feedback widget for websites & apps. Turn submissions into structured email & webhook data for AI agents. Framework-agnostic Web Component. Accessible, customisable, zero deps.",
-    "url": "https://github.com/Sendmux/website-feedback-widget",
-    "stars": 58,
-    "daily_stars": 0,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "customer-feedback",
-      "email",
-      "feedback-widget",
-      "javascript",
-      "saas",
-      "web-components"
-    ],
-    "created_at": "2026-05-25T06:09:24",
-    "updated_at": "2026-05-26T15:27:16"
+    "updated_at": "2026-05-27T12:40:06"
   }
 ]
