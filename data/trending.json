@@ -4,8 +4,8 @@
     "full_name": "DenisSergeevitch/agents-best-practices",
     "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
     "url": "https://github.com/DenisSergeevitch/agents-best-practices",
-    "stars": 1484,
-    "daily_stars": 63,
+    "stars": 1551,
+    "daily_stars": 67,
     "language": null,
     "topics": [
       "agent-skill",
@@ -22,36 +22,38 @@
       "prompt-engineering"
     ],
     "created_at": "2026-05-15T21:32:21",
-    "updated_at": "2026-06-01T20:36:05"
+    "updated_at": "2026-06-02T05:05:16"
   },
   {
-    "name": "agentcookie",
-    "full_name": "mvanhorn/agentcookie",
-    "description": "Your agent runs on a Mac that isn't your daily driver. agentcookie keeps its sessions in sync with the Mac you actually browse on, continuously, encrypted over Tailscale, so OpenClaw, Hermes, or any other agent runtime wakes up authenticated. macOS, peer-to-peer, no cloud middleman.",
-    "url": "https://github.com/mvanhorn/agentcookie",
-    "stars": 107,
-    "daily_stars": 36,
-    "language": "Go",
+    "name": "vigils",
+    "full_name": "duncatzat/vigils",
+    "description": "A local control plane for AI agents — see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
+    "url": "https://github.com/duncatzat/vigils",
+    "stars": 100,
+    "daily_stars": 50,
+    "language": "Rust",
     "topics": [
+      "agent-security",
       "ai-agents",
-      "automation",
-      "chrome",
-      "cli",
-      "cookies",
-      "golang",
-      "macos",
-      "tailscale"
+      "audit-log",
+      "desktop",
+      "llm",
+      "local-first",
+      "pii",
+      "rust",
+      "sandbox",
+      "tauri"
     ],
-    "created_at": "2026-05-16T19:10:00",
-    "updated_at": "2026-06-01T20:28:49"
+    "created_at": "2026-05-31T15:45:25",
+    "updated_at": "2026-06-02T01:45:33"
   },
   {
     "name": "html-anything",
     "full_name": "nexu-io/html-anything",
     "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
     "url": "https://github.com/nexu-io/html-anything",
-    "stars": 5751,
-    "daily_stars": 33,
+    "stars": 5797,
+    "daily_stars": 46,
     "language": "HTML",
     "topics": [
       "agent-skills",
@@ -76,90 +78,35 @@
       "xiaohongshu"
     ],
     "created_at": "2026-05-11T09:40:38",
-    "updated_at": "2026-06-01T19:48:07"
+    "updated_at": "2026-06-02T04:56:26"
   },
   {
-    "name": "mirage",
-    "full_name": "strukto-ai/mirage",
-    "description": "A Unified Virtual Filesystem For AI Agents",
-    "url": "https://github.com/strukto-ai/mirage",
-    "stars": 2928,
-    "daily_stars": 31,
-    "language": "TypeScript",
-    "topics": [
-      "agent-sandbox",
-      "agent-tools",
-      "ai-agents",
-      "bash",
-      "claude-code",
-      "fuse",
-      "langchain",
-      "llm-agents",
-      "openai-agents",
-      "python",
-      "typescript",
-      "vfs",
-      "virtual-filesystem"
-    ],
-    "created_at": "2026-05-06T17:00:48",
-    "updated_at": "2026-06-01T20:42:51"
-  },
-  {
-    "name": "ShardBrowser",
-    "full_name": "ProxyShard/ShardBrowser",
-    "description": "Free, open-source anti-detect browser launcher for web scraping and multi-accounting. By the ProxyShard team. Engine-level fingerprint spoofing in Chromium 148 (WebGL / WebGPU / Client Hints / fonts / TLS), 170+ device profiles bundled, stable QUIC + WebRTC over SOCKS5.",
-    "url": "https://github.com/ProxyShard/ShardBrowser",
-    "stars": 194,
-    "daily_stars": 31,
-    "language": "TypeScript",
+    "name": "forkd",
+    "full_name": "deeplethe/forkd",
+    "description": "Fork microVMs sandbox from a warmed parent in 101 ms.",
+    "url": "https://github.com/deeplethe/forkd",
+    "stars": 1183,
+    "daily_stars": 26,
+    "language": "Rust",
     "topics": [
       "ai-agents",
-      "anti-detect-browser",
-      "antidetect-browser",
-      "browser-fingerprinting",
-      "chromium",
-      "fingerprint",
-      "headless-browser",
-      "headless-chrome",
-      "multi-accounting",
-      "playwright",
-      "proxy",
-      "proxyshard",
-      "puppeteer",
-      "quic",
-      "stealth-browser",
-      "tauri",
-      "udp",
-      "web-scraping",
-      "webrtc",
-      "webscraping"
+      "copy-on-write",
+      "kvm",
+      "microvm",
+      "rust",
+      "sandbox",
+      "snapshot"
     ],
-    "created_at": "2026-05-30T23:05:14",
-    "updated_at": "2026-06-01T20:42:29"
-  },
-  {
-    "name": "shushu-internship-tool",
-    "full_name": "LiuMengxuan04/shushu-internship-tool",
-    "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
-    "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 888,
-    "daily_stars": 27,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "skills"
-    ],
-    "created_at": "2026-05-17T11:25:47",
-    "updated_at": "2026-06-01T20:31:53"
+    "created_at": "2026-05-11T17:42:24",
+    "updated_at": "2026-06-02T05:04:38"
   },
   {
     "name": "ktx-ai-data-agents-mcp-context-skills",
     "full_name": "Kaelio/ktx-ai-data-agents-mcp-context-skills",
     "description": "ktx is an executable context layer for data and analytics agents 🐙 Allow Claude Code, Codex, and any AI agent to query data accurately through MCP, skills, memory",
     "url": "https://github.com/Kaelio/ktx-ai-data-agents-mcp-context-skills",
-    "stars": 762,
-    "daily_stars": 20,
+    "stars": 788,
+    "daily_stars": 26,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -184,15 +131,81 @@
       "skills"
     ],
     "created_at": "2026-05-10T19:42:32",
-    "updated_at": "2026-06-01T19:42:30"
+    "updated_at": "2026-06-02T04:56:05"
+  },
+  {
+    "name": "mirage",
+    "full_name": "strukto-ai/mirage",
+    "description": "A Unified Virtual Filesystem For AI Agents",
+    "url": "https://github.com/strukto-ai/mirage",
+    "stars": 2953,
+    "daily_stars": 25,
+    "language": "TypeScript",
+    "topics": [
+      "agent-sandbox",
+      "agent-tools",
+      "ai-agents",
+      "bash",
+      "claude-code",
+      "fuse",
+      "langchain",
+      "llm-agents",
+      "openai-agents",
+      "python",
+      "typescript",
+      "vfs",
+      "virtual-filesystem"
+    ],
+    "created_at": "2026-05-06T17:00:48",
+    "updated_at": "2026-06-02T04:35:02"
+  },
+  {
+    "name": "shushu-internship-tool",
+    "full_name": "LiuMengxuan04/shushu-internship-tool",
+    "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
+    "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
+    "stars": 913,
+    "daily_stars": 25,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "skills"
+    ],
+    "created_at": "2026-05-17T11:25:47",
+    "updated_at": "2026-06-02T05:03:30"
+  },
+  {
+    "name": "opensquilla",
+    "full_name": "OpenSquilla/opensquilla",
+    "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
+    "url": "https://github.com/OpenSquilla/opensquilla",
+    "stars": 2235,
+    "daily_stars": 24,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "deep-learning",
+      "foundation-models",
+      "llm",
+      "mcp",
+      "memory",
+      "openclaw",
+      "python",
+      "skills"
+    ],
+    "created_at": "2026-05-06T17:43:05",
+    "updated_at": "2026-06-02T04:39:41"
   },
   {
     "name": "Agent_Memory_Techniques",
     "full_name": "NirDiamant/Agent_Memory_Techniques",
     "description": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, MemGPT, Mem0, Letta, Zep, Graphiti, LoCoMo benchmarks, and production patterns.",
     "url": "https://github.com/NirDiamant/Agent_Memory_Techniques",
-    "stars": 443,
-    "daily_stars": 17,
+    "stars": 467,
+    "daily_stars": 24,
     "language": "Jupyter Notebook",
     "topics": [
       "agent-memory",
@@ -217,55 +230,27 @@
       "zep"
     ],
     "created_at": "2026-05-05T21:08:23",
-    "updated_at": "2026-06-01T20:31:42"
+    "updated_at": "2026-06-02T04:30:09"
   },
   {
-    "name": "opensquilla",
-    "full_name": "OpenSquilla/opensquilla",
-    "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
-    "url": "https://github.com/OpenSquilla/opensquilla",
-    "stars": 2211,
-    "daily_stars": 15,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agents",
-      "deep-learning",
-      "foundation-models",
-      "llm",
-      "mcp",
-      "memory",
-      "openclaw",
-      "python",
-      "skills"
-    ],
-    "created_at": "2026-05-06T17:43:05",
-    "updated_at": "2026-06-01T20:36:27"
-  },
-  {
-    "name": "Duel-Agents",
-    "full_name": "2aronS/Duel-Agents",
-    "description": "CLI, SDK, and IDE plugins for Duel Agents",
-    "url": "https://github.com/2aronS/Duel-Agents",
-    "stars": 634,
-    "daily_stars": 15,
-    "language": "TypeScript",
+    "name": "agentcookie",
+    "full_name": "mvanhorn/agentcookie",
+    "description": "Your agent runs on a Mac that isn't your daily driver. agentcookie keeps its sessions in sync with the Mac you actually browse on, continuously, encrypted over Tailscale, so OpenClaw, Hermes, or any other agent runtime wakes up authenticated. macOS, peer-to-peer, no cloud middleman.",
+    "url": "https://github.com/mvanhorn/agentcookie",
+    "stars": 129,
+    "daily_stars": 22,
+    "language": "Go",
     "topics": [
       "ai-agents",
-      "anthropic",
-      "claude-code",
+      "automation",
+      "chrome",
       "cli",
-      "cursor",
-      "duel-agents",
-      "llm",
-      "npm",
-      "openai-compatible",
-      "openclaw",
-      "sdk",
-      "typescript"
+      "cookies",
+      "golang",
+      "macos",
+      "tailscale"
     ],
-    "created_at": "2026-05-28T10:45:44",
-    "updated_at": "2026-06-01T20:42:42"
+    "created_at": "2026-05-16T19:10:00",
+    "updated_at": "2026-06-02T05:00:02"
   }
 ]
