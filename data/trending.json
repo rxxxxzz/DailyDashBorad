@@ -1,11 +1,30 @@
 [
   {
+    "name": "agent",
+    "full_name": "PentesterFlow/agent",
+    "description": "Agentic offensive-security in your terminal",
+    "url": "https://github.com/PentesterFlow/agent",
+    "stars": 268,
+    "daily_stars": 15,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "bugbounty",
+      "penetration-testing",
+      "security-audit",
+      "security-automation"
+    ],
+    "created_at": "2026-05-31T11:14:35",
+    "updated_at": "2026-06-04T21:30:42"
+  },
+  {
     "name": "opensquilla",
     "full_name": "OpenSquilla/opensquilla",
     "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
     "url": "https://github.com/OpenSquilla/opensquilla",
-    "stars": 2863,
-    "daily_stars": 14,
+    "stars": 2876,
+    "daily_stars": 13,
     "language": "Python",
     "topics": [
       "agent",
@@ -21,35 +40,71 @@
       "skills"
     ],
     "created_at": "2026-05-06T17:43:05",
-    "updated_at": "2026-06-04T18:28:07"
+    "updated_at": "2026-06-04T21:58:59"
   },
   {
-    "name": "predikit",
-    "full_name": "Tejas-TA/predikit",
-    "description": "pypi-predikit: Turn any sklearn/XGBoost model into an LLM-callable tool. Framework-agnostic",
-    "url": "https://github.com/Tejas-TA/predikit",
-    "stars": 84,
-    "daily_stars": 8,
-    "language": "Python",
+    "name": "skillz-macos",
+    "full_name": "robzilla1738/skillz-macos",
+    "description": "macOS app for browsing and editing skills, MCP configs, and plugins across local AI tools",
+    "url": "https://github.com/robzilla1738/skillz-macos",
+    "stars": 60,
+    "daily_stars": 9,
+    "language": "Swift",
     "topics": [
-      "agents",
-      "langchain",
-      "llm",
-      "machine-learning",
-      "openai",
-      "python",
-      "sklearn",
-      "xgboost"
+      "ai-agents",
+      "codex",
+      "macos",
+      "skills",
+      "swiftui"
     ],
-    "created_at": "2026-05-25T20:26:22",
-    "updated_at": "2026-06-04T16:23:13"
+    "created_at": "2026-05-29T22:07:10",
+    "updated_at": "2026-06-04T21:24:50"
+  },
+  {
+    "name": "ultracode-skill",
+    "full_name": "PabloNAX/ultracode-skill",
+    "description": "Codex-first Ultracode skill for dynamic coding workflows",
+    "url": "https://github.com/PabloNAX/ultracode-skill",
+    "stars": 46,
+    "daily_stars": 8,
+    "language": null,
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "codex",
+      "codex-skill",
+      "dynamic-workflows",
+      "ultracode"
+    ],
+    "created_at": "2026-05-31T15:03:52",
+    "updated_at": "2026-06-04T19:23:15"
+  },
+  {
+    "name": "forkd",
+    "full_name": "deeplethe/forkd",
+    "description": "Fork microVMs sandbox from a warmed parent in 101 ms.",
+    "url": "https://github.com/deeplethe/forkd",
+    "stars": 1325,
+    "daily_stars": 7,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "copy-on-write",
+      "kvm",
+      "microvm",
+      "rust",
+      "sandbox",
+      "snapshot"
+    ],
+    "created_at": "2026-05-11T17:42:24",
+    "updated_at": "2026-06-04T21:57:11"
   },
   {
     "name": "openhack",
     "full_name": "openhackai/openhack",
     "description": "Open Source Agentic Security Scanner for your codebase.",
     "url": "https://github.com/openhackai/openhack",
-    "stars": 40,
+    "stars": 46,
     "daily_stars": 6,
     "language": "Python",
     "topics": [
@@ -60,64 +115,66 @@
       "static-analysis"
     ],
     "created_at": "2026-05-23T06:52:21",
-    "updated_at": "2026-06-04T18:30:18"
+    "updated_at": "2026-06-04T21:22:48"
   },
   {
-    "name": "shushu-internship-tool",
-    "full_name": "LiuMengxuan04/shushu-internship-tool",
-    "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
-    "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 1063,
-    "daily_stars": 6,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "skills"
-    ],
-    "created_at": "2026-05-17T11:25:47",
-    "updated_at": "2026-06-04T17:14:40"
-  },
-  {
-    "name": "ktx-ai-data-agents-mcp-context-skills",
-    "full_name": "Kaelio/ktx-ai-data-agents-mcp-context-skills",
-    "description": "ktx is an executable context layer for data and analytics agents 🐙 Allow Claude Code, Codex, and any AI agent to query data accurately through MCP, skills, memory",
-    "url": "https://github.com/Kaelio/ktx-ai-data-agents-mcp-context-skills",
-    "stars": 870,
+    "name": "lazycodex",
+    "full_name": "code-yeongyu/lazycodex",
+    "description": "LazyCodex: Codex for no-brainers. You don't need to think. Just prompt with ultrawork.",
+    "url": "https://github.com/code-yeongyu/lazycodex",
+    "stars": 466,
     "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
-      "agent",
-      "agent-skills",
-      "agents",
-      "ai-agent",
+      "ai",
       "ai-agents",
-      "analytics",
-      "analytics-engineering",
-      "business-intelligence",
       "claude",
       "claude-code",
-      "claude-skills",
+      "cli",
       "codex",
-      "context-layer",
-      "data-analysis",
-      "data-engineering",
-      "llm",
-      "mcp",
-      "memory",
-      "semantic-layer",
-      "skills"
+      "developer-tools",
+      "lazy",
+      "lazycodex",
+      "oh-my-openagent",
+      "omo",
+      "openai",
+      "orchestration",
+      "typescript"
     ],
-    "created_at": "2026-05-10T19:42:32",
-    "updated_at": "2026-06-04T18:12:10"
+    "created_at": "2026-05-25T07:56:45",
+    "updated_at": "2026-06-04T21:51:02"
+  },
+  {
+    "name": "alpha-forge",
+    "full_name": "Liu-Ming-Yu/alpha-forge",
+    "description": "Alpha Forge — an agentic AI operating system for systematic trading.",
+    "url": "https://github.com/Liu-Ming-Yu/alpha-forge",
+    "stars": 98,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "algorithmic-trading",
+      "alpha-research",
+      "backtesting",
+      "financial-ml",
+      "ibkr",
+      "machine-learning",
+      "portfolio-construction",
+      "python",
+      "quantitative-finance",
+      "risk-management",
+      "trading-systems"
+    ],
+    "created_at": "2026-05-27T23:37:27",
+    "updated_at": "2026-06-04T21:41:33"
   },
   {
     "name": "html-anything",
     "full_name": "nexu-io/html-anything",
     "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
     "url": "https://github.com/nexu-io/html-anything",
-    "stars": 6048,
-    "daily_stars": 5,
+    "stars": 6052,
+    "daily_stars": 4,
     "language": "HTML",
     "topics": [
       "agent-skills",
@@ -142,101 +199,39 @@
       "xiaohongshu"
     ],
     "created_at": "2026-05-11T09:40:38",
-    "updated_at": "2026-06-04T18:30:30"
+    "updated_at": "2026-06-04T21:23:45"
   },
   {
-    "name": "Duel-Agents",
-    "full_name": "2aronS/Duel-Agents",
-    "description": "CLI, SDK, and IDE plugins for Duel Agents",
-    "url": "https://github.com/2aronS/Duel-Agents",
-    "stars": 709,
-    "daily_stars": 5,
-    "language": "TypeScript",
+    "name": "vibecode-pro-max-kit",
+    "full_name": "withkynam/vibecode-pro-max-kit",
+    "description": "RIPER-5, spec-driven, context memory self-improving agent harness for Claude Code & Codex — 12 specialist agents, 31 skills, spec-driven development with phase-locked safety. Works with any codebase. Install in 30 seconds. Community skills & agents welcome. Built for vibecoders, product owners, and software builders.",
+    "url": "https://github.com/withkynam/vibecode-pro-max-kit",
+    "stars": 773,
+    "daily_stars": 4,
+    "language": "JavaScript",
     "topics": [
+      "agentic",
       "ai-agents",
+      "ai-coding-assistant",
+      "ai-development",
+      "ai-workflow",
       "anthropic",
+      "claude",
       "claude-code",
-      "cli",
-      "cursor",
-      "duel-agents",
-      "llm",
-      "npm",
-      "openai-compatible",
-      "openclaw",
-      "sdk",
-      "typescript"
-    ],
-    "created_at": "2026-05-28T10:45:44",
-    "updated_at": "2026-06-04T16:53:13"
-  },
-  {
-    "name": "skillz-macos",
-    "full_name": "robzilla1738/skillz-macos",
-    "description": "macOS app for browsing and editing skills, MCP configs, and plugins across local AI tools",
-    "url": "https://github.com/robzilla1738/skillz-macos",
-    "stars": 51,
-    "daily_stars": 5,
-    "language": "Swift",
-    "topics": [
-      "ai-agents",
+      "cli-tools",
+      "code-quality",
       "codex",
-      "macos",
-      "skills",
-      "swiftui"
-    ],
-    "created_at": "2026-05-29T22:07:10",
-    "updated_at": "2026-06-04T18:33:11"
-  },
-  {
-    "name": "agent",
-    "full_name": "PentesterFlow/agent",
-    "description": "Agentic offensive-security in your terminal",
-    "url": "https://github.com/PentesterFlow/agent",
-    "stars": 253,
-    "daily_stars": 4,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "bugbounty",
-      "penetration-testing",
-      "security-audit",
-      "security-automation"
-    ],
-    "created_at": "2026-05-31T11:14:35",
-    "updated_at": "2026-06-04T16:56:19"
-  },
-  {
-    "name": "rag-interview-questions",
-    "full_name": "ather-techie/rag-interview-questions",
-    "description": "A comprehensive interview preparation guide covering all major RAG (Retrieval-Augmented Generation) architectures. 50 questions across 10 types, from Naive RAG to Agentic, Graph, Self-RAG, and beyond. Includes difficulty tags, detailed answers, a cheatsheet, and a decision tree.",
-    "url": "https://github.com/ather-techie/rag-interview-questions",
-    "stars": 37,
-    "daily_stars": 4,
-    "language": null,
-    "topics": [
-      "agentic-rag",
-      "ai",
-      "deep-learning",
-      "generative-ai",
-      "graph-rag",
-      "interview-preparation",
-      "interview-questions",
-      "knowledge-graph",
-      "langchain",
-      "large-language-models",
-      "llamaindex",
+      "coding-agents",
+      "cursor",
+      "developer-tools",
       "llm",
-      "machine-learning",
-      "nlp",
+      "openai",
       "prompt-engineering",
-      "rag",
-      "retrieval-augmented-generation",
-      "self-rag",
-      "vector-database",
-      "vector-search"
+      "typescript",
+      "vibe-coding",
+      "vibecoding"
     ],
-    "created_at": "2026-05-19T11:59:17",
-    "updated_at": "2026-06-04T18:17:46"
+    "created_at": "2026-05-27T05:46:25",
+    "updated_at": "2026-06-04T21:36:05"
   }
 ]
