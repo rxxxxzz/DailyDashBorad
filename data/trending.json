@@ -1,11 +1,33 @@
 [
   {
+    "name": "repoprompt-ce",
+    "full_name": "repoprompt/repoprompt-ce",
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "url": "https://github.com/repoprompt/repoprompt-ce",
+    "stars": 120,
+    "daily_stars": 76,
+    "language": "Swift",
+    "topics": [
+      "ai-agents",
+      "coding-agents",
+      "context-engineering",
+      "developer-tools",
+      "macos",
+      "mcp",
+      "model-context-protocol",
+      "prompt-engineering",
+      "swift"
+    ],
+    "created_at": "2026-05-12T19:44:16",
+    "updated_at": "2026-06-05T15:27:31"
+  },
+  {
     "name": "forkd",
     "full_name": "deeplethe/forkd",
     "description": "Fork microVMs sandbox from a warmed parent in 101 ms.",
     "url": "https://github.com/deeplethe/forkd",
-    "stars": 1388,
-    "daily_stars": 40,
+    "stars": 1445,
+    "daily_stars": 57,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -17,15 +39,15 @@
       "snapshot"
     ],
     "created_at": "2026-05-11T17:42:24",
-    "updated_at": "2026-06-05T11:37:17"
+    "updated_at": "2026-06-05T15:33:53"
   },
   {
     "name": "html-anything",
     "full_name": "nexu-io/html-anything",
     "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
     "url": "https://github.com/nexu-io/html-anything",
-    "stars": 6128,
-    "daily_stars": 37,
+    "stars": 6144,
+    "daily_stars": 16,
     "language": "HTML",
     "topics": [
       "agent-skills",
@@ -50,60 +72,40 @@
       "xiaohongshu"
     ],
     "created_at": "2026-05-11T09:40:38",
-    "updated_at": "2026-06-05T11:36:53"
+    "updated_at": "2026-06-05T15:26:22"
   },
   {
-    "name": "crew44",
-    "full_name": "getcrew44/crew44",
-    "description": "Orchestrate a crew of specialist AI agents in one local-first workspace.  Each role on its best model, with memory and skills that compound. Free, MIT.",
-    "url": "https://github.com/getcrew44/crew44",
-    "stars": 213,
-    "daily_stars": 35,
-    "language": "Go",
+    "name": "agents-best-practices",
+    "full_name": "DenisSergeevitch/agents-best-practices",
+    "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
+    "url": "https://github.com/DenisSergeevitch/agents-best-practices",
+    "stars": 1812,
+    "daily_stars": 14,
+    "language": null,
     "topics": [
+      "agent-skill",
+      "agent-skills",
+      "agentic-workflows",
+      "agents",
       "ai-agents",
+      "anthropic",
+      "claude",
       "claude-code",
       "codex",
-      "coding-agent",
-      "developer-tools",
-      "eletron",
-      "gemini",
-      "local-first",
-      "multi-agent",
-      "orchestration"
+      "codex-skill",
+      "mcp",
+      "prompt-engineering"
     ],
-    "created_at": "2026-05-15T03:13:02",
-    "updated_at": "2026-06-05T11:37:19"
-  },
-  {
-    "name": "ongrid",
-    "full_name": "ongridio/ongrid",
-    "description": "AI agent for understanding, diagnosing, and operating infrastructure — all from the chat apps you already use.",
-    "url": "https://github.com/ongridio/ongrid",
-    "stars": 72,
-    "daily_stars": 35,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-ops",
-      "chatbot",
-      "dingtalk",
-      "grafana",
-      "lark-bot",
-      "observability",
-      "prometheus"
-    ],
-    "created_at": "2026-05-23T16:16:44",
-    "updated_at": "2026-06-05T11:36:27"
+    "created_at": "2026-05-15T21:32:21",
+    "updated_at": "2026-06-05T14:56:33"
   },
   {
     "name": "lazycodex",
     "full_name": "code-yeongyu/lazycodex",
     "description": "LazyCodex: Codex for no-brainers. You don't need to think. Just prompt with ultrawork.",
     "url": "https://github.com/code-yeongyu/lazycodex",
-    "stars": 513,
-    "daily_stars": 33,
+    "stars": 526,
+    "daily_stars": 13,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -122,61 +124,15 @@
       "typescript"
     ],
     "created_at": "2026-05-25T07:56:45",
-    "updated_at": "2026-06-05T11:30:18"
-  },
-  {
-    "name": "ascii-agents",
-    "full_name": "IvanWng97/ascii-agents",
-    "description": "Terminal pixel-art office for AI coding agents — watch your Claude Code sessions type, walk, and nap in a coworking lounge. Half-block rendering, A* pathfinding, per-tool monitor glow. Pure Rust, runs over SSH.",
-    "url": "https://github.com/IvanWng97/ascii-agents",
-    "stars": 182,
-    "daily_stars": 30,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "ascii-art",
-      "claude-code",
-      "cli",
-      "pixel-art",
-      "ratatui",
-      "rust",
-      "terminal",
-      "tui",
-      "visualization"
-    ],
-    "created_at": "2026-05-21T06:05:19",
-    "updated_at": "2026-06-05T11:04:34"
-  },
-  {
-    "name": "vigils",
-    "full_name": "duncatzat/vigils",
-    "description": "A local control plane for AI agents — see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
-    "url": "https://github.com/duncatzat/vigils",
-    "stars": 242,
-    "daily_stars": 25,
-    "language": "Rust",
-    "topics": [
-      "agent-security",
-      "ai-agents",
-      "audit-log",
-      "desktop",
-      "llm",
-      "local-first",
-      "pii",
-      "rust",
-      "sandbox",
-      "tauri"
-    ],
-    "created_at": "2026-05-31T15:45:25",
-    "updated_at": "2026-06-05T07:07:38"
+    "updated_at": "2026-06-05T15:07:16"
   },
   {
     "name": "shushu-internship-tool",
     "full_name": "LiuMengxuan04/shushu-internship-tool",
     "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
     "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 1094,
-    "daily_stars": 16,
+    "stars": 1105,
+    "daily_stars": 11,
     "language": "Python",
     "topics": [
       "ai",
@@ -184,54 +140,103 @@
       "skills"
     ],
     "created_at": "2026-05-17T11:25:47",
-    "updated_at": "2026-06-05T10:29:53"
+    "updated_at": "2026-06-05T15:15:06"
   },
   {
-    "name": "agentpet",
-    "full_name": "ntd4996/agentpet",
-    "description": "A native macOS menu bar app with a desktop pet that monitors your AI coding agents (Claude Code, Codex, Gemini CLI) in real time.",
-    "url": "https://github.com/ntd4996/agentpet",
-    "stars": 82,
-    "daily_stars": 16,
+    "name": "ShardBrowser",
+    "full_name": "ProxyShard/ShardBrowser",
+    "description": "Free, open-source anti-detect browser launcher for web scraping and multi-accounting. By the ProxyShard team. Engine-level fingerprint spoofing in Chromium 148 (WebGL / WebGPU / Client Hints / fonts / TLS), 170+ device profiles bundled, stable QUIC + WebRTC over SOCKS5.",
+    "url": "https://github.com/ProxyShard/ShardBrowser",
+    "stars": 326,
+    "daily_stars": 9,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "anti-detect-browser",
+      "antidetect-browser",
+      "browser-fingerprinting",
+      "chromium",
+      "fingerprint",
+      "headless-browser",
+      "headless-chrome",
+      "multi-accounting",
+      "playwright",
+      "proxy",
+      "proxyshard",
+      "puppeteer",
+      "quic",
+      "stealth-browser",
+      "tauri",
+      "udp",
+      "web-scraping",
+      "webrtc",
+      "webscraping"
+    ],
+    "created_at": "2026-05-30T23:05:14",
+    "updated_at": "2026-06-05T15:22:41"
+  },
+  {
+    "name": "crew44",
+    "full_name": "getcrew44/crew44",
+    "description": "Orchestrate a crew of specialist AI agents in one local-first workspace.  Each role on its best model, with memory and skills that compound. Free, MIT.",
+    "url": "https://github.com/getcrew44/crew44",
+    "stars": 222,
+    "daily_stars": 9,
+    "language": "Go",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agent",
+      "developer-tools",
+      "eletron",
+      "gemini",
+      "local-first",
+      "multi-agent",
+      "orchestration"
+    ],
+    "created_at": "2026-05-15T03:13:02",
+    "updated_at": "2026-06-05T15:31:03"
+  },
+  {
+    "name": "skillz-macos",
+    "full_name": "robzilla1738/skillz-macos",
+    "description": "macOS app for browsing and editing skills, MCP configs, and plugins across local AI tools",
+    "url": "https://github.com/robzilla1738/skillz-macos",
+    "stars": 77,
+    "daily_stars": 8,
     "language": "Swift",
     "topics": [
       "ai-agents",
-      "claude-code",
       "codex",
-      "desktop-pet",
-      "developer-tools",
       "macos",
-      "menubar",
-      "productivity",
-      "swift",
+      "skills",
       "swiftui"
     ],
-    "created_at": "2026-05-31T09:40:06",
-    "updated_at": "2026-06-05T10:47:23"
+    "created_at": "2026-05-29T22:07:10",
+    "updated_at": "2026-06-05T15:25:34"
   },
   {
-    "name": "agents-best-practices",
-    "full_name": "DenisSergeevitch/agents-best-practices",
-    "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
-    "url": "https://github.com/DenisSergeevitch/agents-best-practices",
-    "stars": 1798,
-    "daily_stars": 14,
-    "language": null,
+    "name": "harness-terminal",
+    "full_name": "robzilla1738/harness-terminal",
+    "description": "The native macOS terminal that keeps your sessions running and tells you when a coding agent needs you. GPU-rendered, scriptable, agent-aware.",
+    "url": "https://github.com/robzilla1738/harness-terminal",
+    "stars": 247,
+    "daily_stars": 6,
+    "language": "Swift",
     "topics": [
-      "agent-skill",
-      "agent-skills",
-      "agentic-workflows",
-      "agents",
       "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "codex",
-      "codex-skill",
-      "mcp",
-      "prompt-engineering"
+      "coding-agents",
+      "developer-tools",
+      "gpu",
+      "macos",
+      "metal",
+      "sparkle",
+      "swift",
+      "terminal",
+      "terminal-emulator"
     ],
-    "created_at": "2026-05-15T21:32:21",
-    "updated_at": "2026-06-05T11:27:58"
+    "created_at": "2026-05-27T21:37:13",
+    "updated_at": "2026-06-05T14:24:26"
   }
 ]
