@@ -4,8 +4,8 @@
     "full_name": "deeplethe/forkd",
     "description": "Fork microVMs sandbox from a warmed parent in 101 ms.",
     "url": "https://github.com/deeplethe/forkd",
-    "stars": 1513,
-    "daily_stars": 30,
+    "stars": 1569,
+    "daily_stars": 56,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -17,37 +17,38 @@
       "snapshot"
     ],
     "created_at": "2026-05-11T17:42:24",
-    "updated_at": "2026-06-05T21:46:14"
+    "updated_at": "2026-06-06T04:23:21"
   },
   {
-    "name": "repoprompt-ce",
-    "full_name": "repoprompt/repoprompt-ce",
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "url": "https://github.com/repoprompt/repoprompt-ce",
-    "stars": 152,
-    "daily_stars": 12,
-    "language": "Swift",
+    "name": "vigils",
+    "full_name": "duncatzat/vigils",
+    "description": "A local control plane for AI agents — see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
+    "url": "https://github.com/duncatzat/vigils",
+    "stars": 281,
+    "daily_stars": 38,
+    "language": "Rust",
     "topics": [
+      "agent-security",
       "ai-agents",
-      "coding-agents",
-      "context-engineering",
-      "developer-tools",
-      "macos",
-      "mcp",
-      "model-context-protocol",
-      "prompt-engineering",
-      "swift"
+      "audit-log",
+      "desktop",
+      "llm",
+      "local-first",
+      "pii",
+      "rust",
+      "sandbox",
+      "tauri"
     ],
-    "created_at": "2026-05-12T19:44:16",
-    "updated_at": "2026-06-05T21:32:11"
+    "created_at": "2026-05-31T15:45:25",
+    "updated_at": "2026-06-06T01:25:43"
   },
   {
     "name": "VLM-AutoYOLO",
     "full_name": "Somnusochi/VLM-AutoYOLO",
     "description": "End-to-end object detection auto-labeling and YOLO training platform. VLM-powered annotation with NVIDIA   LocateAnything-3B, manual refinement, one-click YOLO training (v5/v8/v11/v26), video keyframe extraction,    and model validation. Supports image and video input.",
     "url": "https://github.com/Somnusochi/VLM-AutoYOLO",
-    "stars": 22,
-    "daily_stars": 11,
+    "stars": 45,
+    "daily_stars": 23,
     "language": "TypeScript",
     "topics": [
       "auto-labeling",
@@ -68,42 +69,36 @@
       "yolo-training"
     ],
     "created_at": "2026-06-02T03:55:53",
-    "updated_at": "2026-06-05T21:42:54"
+    "updated_at": "2026-06-06T04:30:25"
   },
   {
-    "name": "lazycodex",
-    "full_name": "code-yeongyu/lazycodex",
-    "description": "LazyCodex: Codex for no-brainers. You don't need to think. Just prompt with ultrawork.",
-    "url": "https://github.com/code-yeongyu/lazycodex",
-    "stars": 543,
-    "daily_stars": 9,
-    "language": "TypeScript",
+    "name": "WorldCupROI",
+    "full_name": "2417467487-hub/WorldCupROI",
+    "description": "Sports sponsorship intelligence platform for World Cup match data, real-source text signals, ROI prediction, uncertainty analysis, and scenario recommendations.",
+    "url": "https://github.com/2417467487-hub/WorldCupROI",
+    "stars": 101,
+    "daily_stars": 20,
+    "language": "HTML",
     "topics": [
-      "ai",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "cli",
-      "codex",
-      "developer-tools",
-      "lazy",
-      "lazycodex",
-      "oh-my-openagent",
-      "omo",
-      "openai",
-      "orchestration",
-      "typescript"
+      "business-intelligence",
+      "machine-learning",
+      "plotly",
+      "roi-prediction",
+      "sponsorship",
+      "sports-analytics",
+      "streamlit",
+      "world-cup"
     ],
-    "created_at": "2026-05-25T07:56:45",
-    "updated_at": "2026-06-05T21:41:13"
+    "created_at": "2026-06-02T08:15:02",
+    "updated_at": "2026-06-06T02:44:44"
   },
   {
     "name": "html-anything",
     "full_name": "nexu-io/html-anything",
     "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
     "url": "https://github.com/nexu-io/html-anything",
-    "stars": 6153,
-    "daily_stars": 5,
+    "stars": 6168,
+    "daily_stars": 15,
     "language": "HTML",
     "topics": [
       "agent-skills",
@@ -128,15 +123,103 @@
       "xiaohongshu"
     ],
     "created_at": "2026-05-11T09:40:38",
-    "updated_at": "2026-06-05T21:43:52"
+    "updated_at": "2026-06-06T04:19:57"
+  },
+  {
+    "name": "repoprompt-ce",
+    "full_name": "repoprompt/repoprompt-ce",
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "url": "https://github.com/repoprompt/repoprompt-ce",
+    "stars": 167,
+    "daily_stars": 15,
+    "language": "Swift",
+    "topics": [
+      "ai-agents",
+      "coding-agents",
+      "context-engineering",
+      "developer-tools",
+      "macos",
+      "mcp",
+      "model-context-protocol",
+      "prompt-engineering",
+      "swift"
+    ],
+    "created_at": "2026-05-12T19:44:16",
+    "updated_at": "2026-06-06T04:30:15"
+  },
+  {
+    "name": "shushu-internship-tool",
+    "full_name": "LiuMengxuan04/shushu-internship-tool",
+    "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
+    "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
+    "stars": 1119,
+    "daily_stars": 9,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "skills"
+    ],
+    "created_at": "2026-05-17T11:25:47",
+    "updated_at": "2026-06-06T04:02:55"
+  },
+  {
+    "name": "lazycodex",
+    "full_name": "code-yeongyu/lazycodex",
+    "description": "LazyCodex: Codex for no-brainers. You don't need to think. Just prompt with ultrawork.",
+    "url": "https://github.com/code-yeongyu/lazycodex",
+    "stars": 551,
+    "daily_stars": 8,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "cli",
+      "codex",
+      "developer-tools",
+      "lazy",
+      "lazycodex",
+      "oh-my-openagent",
+      "omo",
+      "openai",
+      "orchestration",
+      "typescript"
+    ],
+    "created_at": "2026-05-25T07:56:45",
+    "updated_at": "2026-06-06T02:58:34"
+  },
+  {
+    "name": "crew44",
+    "full_name": "getcrew44/crew44",
+    "description": "Orchestrate a crew of specialist AI agents in one local-first workspace.  Each role on its best model, with memory and skills that compound. Free, MIT.",
+    "url": "https://github.com/getcrew44/crew44",
+    "stars": 239,
+    "daily_stars": 8,
+    "language": "Go",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agent",
+      "developer-tools",
+      "eletron",
+      "gemini",
+      "local-first",
+      "multi-agent",
+      "orchestration"
+    ],
+    "created_at": "2026-05-15T03:13:02",
+    "updated_at": "2026-06-06T03:56:48"
   },
   {
     "name": "agents-best-practices",
     "full_name": "DenisSergeevitch/agents-best-practices",
     "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
     "url": "https://github.com/DenisSergeevitch/agents-best-practices",
-    "stars": 1822,
-    "daily_stars": 4,
+    "stars": 1829,
+    "daily_stars": 7,
     "language": null,
     "topics": [
       "agent-skill",
@@ -153,91 +236,6 @@
       "prompt-engineering"
     ],
     "created_at": "2026-05-15T21:32:21",
-    "updated_at": "2026-06-05T19:53:57"
-  },
-  {
-    "name": "skillz-macos",
-    "full_name": "robzilla1738/skillz-macos",
-    "description": "macOS app for browsing and editing skills, MCP configs, and plugins across local AI tools",
-    "url": "https://github.com/robzilla1738/skillz-macos",
-    "stars": 82,
-    "daily_stars": 4,
-    "language": "Swift",
-    "topics": [
-      "ai-agents",
-      "codex",
-      "macos",
-      "skills",
-      "swiftui"
-    ],
-    "created_at": "2026-05-29T22:07:10",
-    "updated_at": "2026-06-05T21:36:41"
-  },
-  {
-    "name": "Duel-Agents",
-    "full_name": "2aronS/Duel-Agents",
-    "description": "CLI, SDK, and IDE plugins for Duel Agents",
-    "url": "https://github.com/2aronS/Duel-Agents",
-    "stars": 728,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "claude-code",
-      "cli",
-      "cursor",
-      "duel-agents",
-      "llm",
-      "npm",
-      "openai-compatible",
-      "openclaw",
-      "sdk",
-      "typescript"
-    ],
-    "created_at": "2026-05-28T10:45:44",
-    "updated_at": "2026-06-05T20:12:51"
-  },
-  {
-    "name": "agentcookie",
-    "full_name": "mvanhorn/agentcookie",
-    "description": "Your agent runs on a Mac that isn't your daily driver. agentcookie keeps its sessions in sync with the Mac you actually browse on, continuously, encrypted over Tailscale, so OpenClaw, Hermes, or any other agent runtime wakes up authenticated. macOS, peer-to-peer, no cloud middleman.",
-    "url": "https://github.com/mvanhorn/agentcookie",
-    "stars": 191,
-    "daily_stars": 3,
-    "language": "Go",
-    "topics": [
-      "ai-agents",
-      "automation",
-      "chrome",
-      "cli",
-      "cookies",
-      "golang",
-      "macos",
-      "tailscale"
-    ],
-    "created_at": "2026-05-16T19:10:00",
-    "updated_at": "2026-06-05T21:50:05"
-  },
-  {
-    "name": "paperjury",
-    "full_name": "u7079256/paperjury",
-    "description": "Pre-submission AI review stress-test for research papers. A Claude Code skill: review, verdict, revise, verify.",
-    "url": "https://github.com/u7079256/paperjury",
-    "stars": 43,
-    "daily_stars": 3,
-    "language": "JavaScript",
-    "topics": [
-      "academic-writing",
-      "ai-agents",
-      "claude-code",
-      "latex",
-      "llm-agents",
-      "paper-review",
-      "peer-review",
-      "research-tool"
-    ],
-    "created_at": "2026-06-02T06:45:10",
-    "updated_at": "2026-06-05T21:16:02"
+    "updated_at": "2026-06-06T02:55:39"
   }
 ]
