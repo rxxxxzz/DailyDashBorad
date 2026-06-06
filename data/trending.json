@@ -1,11 +1,32 @@
 [
   {
+    "name": "agentcookie",
+    "full_name": "mvanhorn/agentcookie",
+    "description": "Your agent runs on a Mac that isn't your daily driver. agentcookie keeps its sessions in sync with the Mac you actually browse on, continuously, encrypted over Tailscale, so OpenClaw, Hermes, or any other agent runtime wakes up authenticated. macOS, peer-to-peer, no cloud middleman.",
+    "url": "https://github.com/mvanhorn/agentcookie",
+    "stars": 217,
+    "daily_stars": 20,
+    "language": "Go",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "chrome",
+      "cli",
+      "cookies",
+      "golang",
+      "macos",
+      "tailscale"
+    ],
+    "created_at": "2026-05-16T19:10:00",
+    "updated_at": "2026-06-06T20:59:48"
+  },
+  {
     "name": "forkd",
     "full_name": "deeplethe/forkd",
     "description": "Fork microVMs sandbox from a warmed parent in 101 ms.",
     "url": "https://github.com/deeplethe/forkd",
-    "stars": 1694,
-    "daily_stars": 30,
+    "stars": 1712,
+    "daily_stars": 18,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -17,15 +38,15 @@
       "snapshot"
     ],
     "created_at": "2026-05-11T17:42:24",
-    "updated_at": "2026-06-06T17:36:36"
+    "updated_at": "2026-06-06T21:28:05"
   },
   {
     "name": "lazycodex",
     "full_name": "code-yeongyu/lazycodex",
     "description": "LazyCodex: Codex for no-brainers. You don't need to think. Just prompt with ultrawork.",
     "url": "https://github.com/code-yeongyu/lazycodex",
-    "stars": 589,
-    "daily_stars": 11,
+    "stars": 598,
+    "daily_stars": 9,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -44,64 +65,14 @@
       "typescript"
     ],
     "created_at": "2026-05-25T07:56:45",
-    "updated_at": "2026-06-06T17:29:54"
-  },
-  {
-    "name": "html-anything",
-    "full_name": "nexu-io/html-anything",
-    "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
-    "url": "https://github.com/nexu-io/html-anything",
-    "stars": 6203,
-    "daily_stars": 9,
-    "language": "HTML",
-    "topics": [
-      "agent-skills",
-      "agentic",
-      "ai-agents",
-      "ai-design",
-      "ai-editor",
-      "byok",
-      "claude",
-      "claude-code",
-      "claude-skills",
-      "coding-agents",
-      "generative-ai",
-      "html",
-      "html-editor",
-      "hyperframes",
-      "local-first",
-      "markdown",
-      "nextjs",
-      "vibe-coding",
-      "wechat",
-      "xiaohongshu"
-    ],
-    "created_at": "2026-05-11T09:40:38",
-    "updated_at": "2026-06-06T16:35:58"
-  },
-  {
-    "name": "mercury-agent-skills",
-    "full_name": "cosmicstack-labs/mercury-agent-skills",
-    "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
-    "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
-    "stars": 305,
-    "daily_stars": 8,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-agents",
-      "aiskills",
-      "skills"
-    ],
-    "created_at": "2026-05-09T08:16:53",
-    "updated_at": "2026-06-06T17:20:20"
+    "updated_at": "2026-06-06T21:15:12"
   },
   {
     "name": "awesome-architecture",
     "full_name": "study8677/awesome-architecture",
     "description": "🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. 中英文双语。",
     "url": "https://github.com/study8677/awesome-architecture",
-    "stars": 1197,
+    "stars": 1204,
     "daily_stars": 7,
     "language": "Vue",
     "topics": [
@@ -127,44 +98,120 @@
       "tech-interview"
     ],
     "created_at": "2026-05-23T02:44:43",
-    "updated_at": "2026-06-06T17:03:13"
+    "updated_at": "2026-06-06T20:40:53"
   },
   {
-    "name": "VLM-AutoYOLO",
-    "full_name": "Somnusochi/VLM-AutoYOLO",
-    "description": "End-to-end object detection auto-labeling and YOLO training platform. VLM-powered annotation with NVIDIA   LocateAnything-3B, manual refinement, one-click YOLO training (v5/v8/v11/v26), video keyframe extraction,    and model validation. Supports image and video input.",
-    "url": "https://github.com/Somnusochi/VLM-AutoYOLO",
-    "stars": 69,
-    "daily_stars": 7,
+    "name": "html-anything",
+    "full_name": "nexu-io/html-anything",
+    "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
+    "url": "https://github.com/nexu-io/html-anything",
+    "stars": 6209,
+    "daily_stars": 6,
+    "language": "HTML",
+    "topics": [
+      "agent-skills",
+      "agentic",
+      "ai-agents",
+      "ai-design",
+      "ai-editor",
+      "byok",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "coding-agents",
+      "generative-ai",
+      "html",
+      "html-editor",
+      "hyperframes",
+      "local-first",
+      "markdown",
+      "nextjs",
+      "vibe-coding",
+      "wechat",
+      "xiaohongshu"
+    ],
+    "created_at": "2026-05-11T09:40:38",
+    "updated_at": "2026-06-06T21:12:50"
+  },
+  {
+    "name": "mercury-agent-skills",
+    "full_name": "cosmicstack-labs/mercury-agent-skills",
+    "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
+    "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
+    "stars": 311,
+    "daily_stars": 6,
+    "language": null,
+    "topics": [
+      "ai",
+      "ai-agents",
+      "aiskills",
+      "skills"
+    ],
+    "created_at": "2026-05-09T08:16:53",
+    "updated_at": "2026-06-06T21:34:13"
+  },
+  {
+    "name": "llm-flashcards",
+    "full_name": "llmsresearch/llm-flashcards",
+    "description": "Hand-drawn flashcards for learning how LLMs actually work. 19 free sample cards from the 180-card deck.",
+    "url": "https://github.com/llmsresearch/llm-flashcards",
+    "stars": 16,
+    "daily_stars": 5,
+    "language": null,
+    "topics": [
+      "ai",
+      "anki",
+      "deep-learning",
+      "flashcards",
+      "interview-preparation",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "study-notes",
+      "transformers"
+    ],
+    "created_at": "2026-05-30T01:40:41",
+    "updated_at": "2026-06-06T20:35:45"
+  },
+  {
+    "name": "adhd",
+    "full_name": "UditAkhourii/adhd",
+    "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
+    "url": "https://github.com/UditAkhourii/adhd",
+    "stars": 768,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
-      "auto-labeling",
-      "computer-vision",
-      "data-annotation",
-      "deep-learning",
-      "fastapi",
-      "locate-anything",
-      "machine-learning",
-      "nvidia",
-      "object-detection",
-      "pytorch",
-      "react",
-      "ultralytics",
-      "video-annotation",
-      "vlm",
-      "yolo",
-      "yolo-training"
+      "adhd",
+      "agents",
+      "ai",
+      "ai-agents",
+      "brainstorm",
+      "chain-of-thought",
+      "claude",
+      "claude-agent-sdk",
+      "creativity",
+      "divergent-thinking",
+      "ideation",
+      "interdisciplinary",
+      "llm",
+      "llm-tools",
+      "nodejs",
+      "prompt-engineering",
+      "tree-of-thought",
+      "typescript"
     ],
-    "created_at": "2026-06-02T03:55:53",
-    "updated_at": "2026-06-06T17:07:18"
+    "created_at": "2026-05-25T11:06:35",
+    "updated_at": "2026-06-06T19:58:54"
   },
   {
     "name": "shushu-internship-tool",
     "full_name": "LiuMengxuan04/shushu-internship-tool",
     "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
     "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 1145,
-    "daily_stars": 6,
+    "stars": 1148,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "ai",
@@ -172,76 +219,27 @@
       "skills"
     ],
     "created_at": "2026-05-17T11:25:47",
-    "updated_at": "2026-06-06T17:05:33"
+    "updated_at": "2026-06-06T19:09:54"
   },
   {
-    "name": "repoprompt-ce",
-    "full_name": "repoprompt/repoprompt-ce",
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "url": "https://github.com/repoprompt/repoprompt-ce",
-    "stars": 180,
-    "daily_stars": 6,
-    "language": "Swift",
+    "name": "beevibe-cto",
+    "full_name": "beevibe-ai/beevibe-cto",
+    "description": "Architecture Deep Research: deep research for strategic system design decisions.",
+    "url": "https://github.com/beevibe-ai/beevibe-cto",
+    "stars": 104,
+    "daily_stars": 3,
+    "language": "JavaScript",
     "topics": [
-      "ai-agents",
-      "coding-agents",
-      "context-engineering",
-      "developer-tools",
-      "macos",
-      "mcp",
-      "model-context-protocol",
-      "prompt-engineering",
-      "swift"
-    ],
-    "created_at": "2026-05-12T19:44:16",
-    "updated_at": "2026-06-06T17:25:01"
-  },
-  {
-    "name": "agents-best-practices",
-    "full_name": "DenisSergeevitch/agents-best-practices",
-    "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
-    "url": "https://github.com/DenisSergeevitch/agents-best-practices",
-    "stars": 1842,
-    "daily_stars": 5,
-    "language": null,
-    "topics": [
-      "agent-skill",
       "agent-skills",
-      "agentic-workflows",
-      "agents",
+      "ai",
       "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "codex",
-      "codex-skill",
+      "cli",
+      "cto",
+      "deep-research",
       "mcp",
-      "prompt-engineering"
+      "system-design"
     ],
-    "created_at": "2026-05-15T21:32:21",
-    "updated_at": "2026-06-06T17:36:54"
-  },
-  {
-    "name": "crew44",
-    "full_name": "getcrew44/crew44",
-    "description": "Orchestrate a crew of specialist AI agents in one local-first workspace.  Each role on its best model, with memory and skills that compound. Free, MIT.",
-    "url": "https://github.com/getcrew44/crew44",
-    "stars": 250,
-    "daily_stars": 4,
-    "language": "Go",
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "codex",
-      "coding-agent",
-      "developer-tools",
-      "eletron",
-      "gemini",
-      "local-first",
-      "multi-agent",
-      "orchestration"
-    ],
-    "created_at": "2026-05-15T03:13:02",
-    "updated_at": "2026-06-06T16:40:52"
+    "created_at": "2026-05-21T04:27:28",
+    "updated_at": "2026-06-06T19:54:08"
   }
 ]
