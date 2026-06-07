@@ -1,32 +1,11 @@
 [
   {
-    "name": "agentcookie",
-    "full_name": "mvanhorn/agentcookie",
-    "description": "Your agent runs on a Mac that isn't your daily driver. agentcookie keeps its sessions in sync with the Mac you actually browse on, continuously, encrypted over Tailscale, so OpenClaw, Hermes, or any other agent runtime wakes up authenticated. macOS, peer-to-peer, no cloud middleman.",
-    "url": "https://github.com/mvanhorn/agentcookie",
-    "stars": 217,
-    "daily_stars": 20,
-    "language": "Go",
-    "topics": [
-      "ai-agents",
-      "automation",
-      "chrome",
-      "cli",
-      "cookies",
-      "golang",
-      "macos",
-      "tailscale"
-    ],
-    "created_at": "2026-05-16T19:10:00",
-    "updated_at": "2026-06-06T20:59:48"
-  },
-  {
     "name": "forkd",
     "full_name": "deeplethe/forkd",
     "description": "Fork microVMs sandbox from a warmed parent in 101 ms.",
     "url": "https://github.com/deeplethe/forkd",
-    "stars": 1712,
-    "daily_stars": 18,
+    "stars": 1750,
+    "daily_stars": 38,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -38,15 +17,15 @@
       "snapshot"
     ],
     "created_at": "2026-05-11T17:42:24",
-    "updated_at": "2026-06-06T21:28:05"
+    "updated_at": "2026-06-07T05:05:37"
   },
   {
     "name": "lazycodex",
     "full_name": "code-yeongyu/lazycodex",
     "description": "LazyCodex: Codex for no-brainers. You don't need to think. Just prompt with ultrawork.",
     "url": "https://github.com/code-yeongyu/lazycodex",
-    "stars": 598,
-    "daily_stars": 9,
+    "stars": 626,
+    "daily_stars": 28,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -65,48 +44,75 @@
       "typescript"
     ],
     "created_at": "2026-05-25T07:56:45",
-    "updated_at": "2026-06-06T21:15:12"
+    "updated_at": "2026-06-07T05:05:37"
   },
   {
-    "name": "awesome-architecture",
-    "full_name": "study8677/awesome-architecture",
-    "description": "🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. 中英文双语。",
-    "url": "https://github.com/study8677/awesome-architecture",
-    "stars": 1204,
-    "daily_stars": 7,
-    "language": "Vue",
+    "name": "agentcookie",
+    "full_name": "mvanhorn/agentcookie",
+    "description": "Your agent runs on a Mac that isn't your daily driver. agentcookie keeps its sessions in sync with the Mac you actually browse on, continuously, encrypted over Tailscale, so OpenClaw, Hermes, or any other agent runtime wakes up authenticated. macOS, peer-to-peer, no cloud middleman.",
+    "url": "https://github.com/mvanhorn/agentcookie",
+    "stars": 237,
+    "daily_stars": 20,
+    "language": "Go",
     "topics": [
       "ai-agents",
-      "architecture-decision-records",
-      "architecture-patterns",
-      "awesome",
-      "backend",
-      "c4-model",
-      "chinese",
-      "design-patterns",
-      "distributed-systems",
-      "interview-preparation",
-      "learning-resources",
-      "llm",
-      "microservices",
-      "rag",
-      "scalability",
-      "software-architecture",
-      "software-engineering",
-      "system-design",
-      "system-design-interview",
-      "tech-interview"
+      "automation",
+      "chrome",
+      "cli",
+      "cookies",
+      "golang",
+      "macos",
+      "tailscale"
     ],
-    "created_at": "2026-05-23T02:44:43",
-    "updated_at": "2026-06-06T20:40:53"
+    "created_at": "2026-05-16T19:10:00",
+    "updated_at": "2026-06-07T05:02:38"
+  },
+  {
+    "name": "forsy-trace-skill",
+    "full_name": "Forsy-AI/forsy-trace-skill",
+    "description": "Open skill for capturing AI agent work as structured traces.",
+    "url": "https://github.com/Forsy-AI/forsy-trace-skill",
+    "stars": 54,
+    "daily_stars": 16,
+    "language": "Python",
+    "topics": [
+      "agent-evaluation",
+      "agent-traces",
+      "agent-workflows",
+      "ai-agents",
+      "llm-agents",
+      "post-training",
+      "process-supervision",
+      "reinforcement-learning",
+      "tool-use",
+      "trajectory-data"
+    ],
+    "created_at": "2026-06-05T08:31:53",
+    "updated_at": "2026-06-07T03:31:07"
+  },
+  {
+    "name": "shushu-internship-tool",
+    "full_name": "LiuMengxuan04/shushu-internship-tool",
+    "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
+    "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
+    "stars": 1161,
+    "daily_stars": 13,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "skills"
+    ],
+    "created_at": "2026-05-17T11:25:47",
+    "updated_at": "2026-06-07T05:02:29"
   },
   {
     "name": "html-anything",
     "full_name": "nexu-io/html-anything",
     "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
     "url": "https://github.com/nexu-io/html-anything",
-    "stars": 6209,
-    "daily_stars": 6,
+    "stars": 6220,
+    "daily_stars": 11,
     "language": "HTML",
     "topics": [
       "agent-skills",
@@ -131,15 +137,15 @@
       "xiaohongshu"
     ],
     "created_at": "2026-05-11T09:40:38",
-    "updated_at": "2026-06-06T21:12:50"
+    "updated_at": "2026-06-07T04:56:33"
   },
   {
     "name": "mercury-agent-skills",
     "full_name": "cosmicstack-labs/mercury-agent-skills",
     "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
     "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
-    "stars": 311,
-    "daily_stars": 6,
+    "stars": 322,
+    "daily_stars": 11,
     "language": null,
     "topics": [
       "ai",
@@ -148,15 +154,36 @@
       "skills"
     ],
     "created_at": "2026-05-09T08:16:53",
-    "updated_at": "2026-06-06T21:34:13"
+    "updated_at": "2026-06-07T04:42:32"
+  },
+  {
+    "name": "paperjury",
+    "full_name": "u7079256/paperjury",
+    "description": "Pre-submission AI review stress-test for research papers. A Claude Code skill: review, verdict, revise, verify.",
+    "url": "https://github.com/u7079256/paperjury",
+    "stars": 69,
+    "daily_stars": 9,
+    "language": "JavaScript",
+    "topics": [
+      "academic-writing",
+      "ai-agents",
+      "claude-code",
+      "latex",
+      "llm-agents",
+      "paper-review",
+      "peer-review",
+      "research-tool"
+    ],
+    "created_at": "2026-06-02T06:45:10",
+    "updated_at": "2026-06-07T04:34:28"
   },
   {
     "name": "llm-flashcards",
     "full_name": "llmsresearch/llm-flashcards",
     "description": "Hand-drawn flashcards for learning how LLMs actually work. 19 free sample cards from the 180-card deck.",
     "url": "https://github.com/llmsresearch/llm-flashcards",
-    "stars": 16,
-    "daily_stars": 5,
+    "stars": 25,
+    "daily_stars": 9,
     "language": null,
     "topics": [
       "ai",
@@ -172,74 +199,39 @@
       "transformers"
     ],
     "created_at": "2026-05-30T01:40:41",
-    "updated_at": "2026-06-06T20:35:45"
+    "updated_at": "2026-06-07T04:55:56"
   },
   {
-    "name": "adhd",
-    "full_name": "UditAkhourii/adhd",
-    "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
-    "url": "https://github.com/UditAkhourii/adhd",
-    "stars": 768,
-    "daily_stars": 4,
-    "language": "TypeScript",
+    "name": "awesome-architecture",
+    "full_name": "study8677/awesome-architecture",
+    "description": "🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. 中英文双语。",
+    "url": "https://github.com/study8677/awesome-architecture",
+    "stars": 1210,
+    "daily_stars": 6,
+    "language": "Vue",
     "topics": [
-      "adhd",
-      "agents",
-      "ai",
       "ai-agents",
-      "brainstorm",
-      "chain-of-thought",
-      "claude",
-      "claude-agent-sdk",
-      "creativity",
-      "divergent-thinking",
-      "ideation",
-      "interdisciplinary",
+      "architecture-decision-records",
+      "architecture-patterns",
+      "awesome",
+      "backend",
+      "c4-model",
+      "chinese",
+      "design-patterns",
+      "distributed-systems",
+      "interview-preparation",
+      "learning-resources",
       "llm",
-      "llm-tools",
-      "nodejs",
-      "prompt-engineering",
-      "tree-of-thought",
-      "typescript"
+      "microservices",
+      "rag",
+      "scalability",
+      "software-architecture",
+      "software-engineering",
+      "system-design",
+      "system-design-interview",
+      "tech-interview"
     ],
-    "created_at": "2026-05-25T11:06:35",
-    "updated_at": "2026-06-06T19:58:54"
-  },
-  {
-    "name": "shushu-internship-tool",
-    "full_name": "LiuMengxuan04/shushu-internship-tool",
-    "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
-    "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 1148,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "skills"
-    ],
-    "created_at": "2026-05-17T11:25:47",
-    "updated_at": "2026-06-06T19:09:54"
-  },
-  {
-    "name": "beevibe-cto",
-    "full_name": "beevibe-ai/beevibe-cto",
-    "description": "Architecture Deep Research: deep research for strategic system design decisions.",
-    "url": "https://github.com/beevibe-ai/beevibe-cto",
-    "stars": 104,
-    "daily_stars": 3,
-    "language": "JavaScript",
-    "topics": [
-      "agent-skills",
-      "ai",
-      "ai-agents",
-      "cli",
-      "cto",
-      "deep-research",
-      "mcp",
-      "system-design"
-    ],
-    "created_at": "2026-05-21T04:27:28",
-    "updated_at": "2026-06-06T19:54:08"
+    "created_at": "2026-05-23T02:44:43",
+    "updated_at": "2026-06-07T04:10:23"
   }
 ]
