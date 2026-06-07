@@ -4,8 +4,8 @@
     "full_name": "deeplethe/forkd",
     "description": "Fork microVMs sandbox from a warmed parent in 101 ms.",
     "url": "https://github.com/deeplethe/forkd",
-    "stars": 1806,
-    "daily_stars": 21,
+    "stars": 1822,
+    "daily_stars": 16,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -17,15 +17,42 @@
       "snapshot"
     ],
     "created_at": "2026-05-11T17:42:24",
-    "updated_at": "2026-06-07T14:20:00"
+    "updated_at": "2026-06-07T17:24:28"
+  },
+  {
+    "name": "lazycodex",
+    "full_name": "code-yeongyu/lazycodex",
+    "description": "LazyCodex: Codex for no-brainers. You don't need to think. Just prompt with ultrawork.",
+    "url": "https://github.com/code-yeongyu/lazycodex",
+    "stars": 674,
+    "daily_stars": 13,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "cli",
+      "codex",
+      "developer-tools",
+      "lazy",
+      "lazycodex",
+      "oh-my-openagent",
+      "omo",
+      "openai",
+      "orchestration",
+      "typescript"
+    ],
+    "created_at": "2026-05-25T07:56:45",
+    "updated_at": "2026-06-07T17:39:09"
   },
   {
     "name": "html-anything",
     "full_name": "nexu-io/html-anything",
     "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
     "url": "https://github.com/nexu-io/html-anything",
-    "stars": 6247,
-    "daily_stars": 16,
+    "stars": 6256,
+    "daily_stars": 9,
     "language": "HTML",
     "topics": [
       "agent-skills",
@@ -50,61 +77,15 @@
       "xiaohongshu"
     ],
     "created_at": "2026-05-11T09:40:38",
-    "updated_at": "2026-06-07T14:20:26"
-  },
-  {
-    "name": "lazycodex",
-    "full_name": "code-yeongyu/lazycodex",
-    "description": "LazyCodex: Codex for no-brainers. You don't need to think. Just prompt with ultrawork.",
-    "url": "https://github.com/code-yeongyu/lazycodex",
-    "stars": 661,
-    "daily_stars": 14,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "cli",
-      "codex",
-      "developer-tools",
-      "lazy",
-      "lazycodex",
-      "oh-my-openagent",
-      "omo",
-      "openai",
-      "orchestration",
-      "typescript"
-    ],
-    "created_at": "2026-05-25T07:56:45",
-    "updated_at": "2026-06-07T13:55:48"
-  },
-  {
-    "name": "agent",
-    "full_name": "PentesterFlow/agent",
-    "description": "Agentic offensive-security in your terminal",
-    "url": "https://github.com/PentesterFlow/agent",
-    "stars": 315,
-    "daily_stars": 11,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "bugbounty",
-      "penetration-testing",
-      "security-audit",
-      "security-automation"
-    ],
-    "created_at": "2026-05-31T11:14:35",
-    "updated_at": "2026-06-07T14:10:52"
+    "updated_at": "2026-06-07T17:43:58"
   },
   {
     "name": "agentcookie",
     "full_name": "mvanhorn/agentcookie",
     "description": "Your agent runs on a Mac that isn't your daily driver. agentcookie keeps its sessions in sync with the Mac you actually browse on, continuously, encrypted over Tailscale, so OpenClaw, Hermes, or any other agent runtime wakes up authenticated. macOS, peer-to-peer, no cloud middleman.",
     "url": "https://github.com/mvanhorn/agentcookie",
-    "stars": 263,
-    "daily_stars": 9,
+    "stars": 270,
+    "daily_stars": 7,
     "language": "Go",
     "topics": [
       "ai-agents",
@@ -117,15 +98,64 @@
       "tailscale"
     ],
     "created_at": "2026-05-16T19:10:00",
-    "updated_at": "2026-06-07T12:40:00"
+    "updated_at": "2026-06-07T17:15:07"
+  },
+  {
+    "name": "adhd",
+    "full_name": "UditAkhourii/adhd",
+    "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
+    "url": "https://github.com/UditAkhourii/adhd",
+    "stars": 779,
+    "daily_stars": 4,
+    "language": "TypeScript",
+    "topics": [
+      "adhd",
+      "agents",
+      "ai",
+      "ai-agents",
+      "brainstorm",
+      "chain-of-thought",
+      "claude",
+      "claude-agent-sdk",
+      "creativity",
+      "divergent-thinking",
+      "ideation",
+      "interdisciplinary",
+      "llm",
+      "llm-tools",
+      "nodejs",
+      "prompt-engineering",
+      "tree-of-thought",
+      "typescript"
+    ],
+    "created_at": "2026-05-25T11:06:35",
+    "updated_at": "2026-06-07T17:32:04"
+  },
+  {
+    "name": "good-question",
+    "full_name": "Rimagination/good-question",
+    "description": "A portable agent skill for sharpening research questions.",
+    "url": "https://github.com/Rimagination/good-question",
+    "stars": 100,
+    "daily_stars": 4,
+    "language": "PowerShell",
+    "topics": [
+      "agent-skill",
+      "ai-agents",
+      "research-ideation",
+      "research-questions",
+      "scientific-method"
+    ],
+    "created_at": "2026-06-01T08:48:11",
+    "updated_at": "2026-06-07T16:04:40"
   },
   {
     "name": "shushu-internship-tool",
     "full_name": "LiuMengxuan04/shushu-internship-tool",
     "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
     "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 1177,
-    "daily_stars": 5,
+    "stars": 1180,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "ai",
@@ -133,40 +163,15 @@
       "skills"
     ],
     "created_at": "2026-05-17T11:25:47",
-    "updated_at": "2026-06-07T13:47:40"
-  },
-  {
-    "name": "agents-best-practices",
-    "full_name": "DenisSergeevitch/agents-best-practices",
-    "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
-    "url": "https://github.com/DenisSergeevitch/agents-best-practices",
-    "stars": 1854,
-    "daily_stars": 4,
-    "language": null,
-    "topics": [
-      "agent-skill",
-      "agent-skills",
-      "agentic-workflows",
-      "agents",
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "codex",
-      "codex-skill",
-      "mcp",
-      "prompt-engineering"
-    ],
-    "created_at": "2026-05-15T21:32:21",
-    "updated_at": "2026-06-07T14:10:45"
+    "updated_at": "2026-06-07T16:53:19"
   },
   {
     "name": "ktx-ai-data-agents-mcp-context-skills",
     "full_name": "Kaelio/ktx-ai-data-agents-mcp-context-skills",
     "description": "ktx is an executable context layer for data and analytics agents 🐙 Allow Claude Code, Codex, and any AI agent to query data accurately through MCP, skills, memory",
     "url": "https://github.com/Kaelio/ktx-ai-data-agents-mcp-context-skills",
-    "stars": 936,
-    "daily_stars": 4,
+    "stars": 939,
+    "daily_stars": 3,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -191,60 +196,51 @@
       "skills"
     ],
     "created_at": "2026-05-10T19:42:32",
-    "updated_at": "2026-06-07T13:52:03"
+    "updated_at": "2026-06-07T16:55:13"
   },
   {
-    "name": "paperjury",
-    "full_name": "u7079256/paperjury",
-    "description": "Pre-submission AI review stress-test for research papers. A Claude Code skill: review, verdict, revise, verify.",
-    "url": "https://github.com/u7079256/paperjury",
-    "stars": 77,
-    "daily_stars": 4,
-    "language": "JavaScript",
+    "name": "agentic-ai-system-course",
+    "full_name": "bryanyzhu/agentic-ai-system-course",
+    "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
+    "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
+    "stars": 350,
+    "daily_stars": 3,
+    "language": "Shell",
     "topics": [
-      "academic-writing",
+      "agentic-ai",
+      "agentic-workflow",
       "ai-agents",
-      "claude-code",
-      "latex",
-      "llm-agents",
-      "paper-review",
-      "peer-review",
-      "research-tool"
-    ],
-    "created_at": "2026-06-02T06:45:10",
-    "updated_at": "2026-06-07T14:16:02"
-  },
-  {
-    "name": "ai-engineering-from-scratch-zh",
-    "full_name": "fancyboi999/ai-engineering-from-scratch-zh",
-    "description": "从零精通 AI 工程 · 20 阶段 468 课 · 中文全量翻译 + 配套站点 aieng-zh.cn",
-    "url": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
-    "stars": 57,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "ai-engineering",
-      "chinese",
-      "chinese-translation",
-      "computer-vision",
       "course",
-      "deep-learning",
-      "from-scratch",
-      "generative-ai",
-      "learn-ai",
-      "llm",
-      "machine-learning",
-      "mcp",
-      "nlp",
-      "python",
-      "reinforcement-learning",
-      "transformers",
+      "system-design",
       "tutorial"
     ],
-    "created_at": "2026-05-26T12:45:07",
-    "updated_at": "2026-06-07T14:11:52"
+    "created_at": "2026-05-23T03:59:52",
+    "updated_at": "2026-06-07T17:34:57"
+  },
+  {
+    "name": "Flowtrace",
+    "full_name": "AIScientists-Dev/Flowtrace",
+    "description": "A transparent, reusable, evolving way to run tasks with your AI agent. Works with Claude Code, Codex, and Cursor.",
+    "url": "https://github.com/AIScientists-Dev/Flowtrace",
+    "stars": 105,
+    "daily_stars": 3,
+    "language": "TypeScript",
+    "topics": [
+      "agentic",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agent",
+      "cursor",
+      "dag",
+      "llm",
+      "observability",
+      "open-source",
+      "rust",
+      "trace",
+      "workflow"
+    ],
+    "created_at": "2026-05-09T01:13:13",
+    "updated_at": "2026-06-07T16:47:40"
   }
 ]
