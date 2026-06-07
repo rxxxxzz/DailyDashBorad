@@ -1,11 +1,34 @@
 [
   {
+    "name": "forsy-trace-skill",
+    "full_name": "Forsy-AI/forsy-trace-skill",
+    "description": "Open skill for capturing AI agent work as structured traces.",
+    "url": "https://github.com/Forsy-AI/forsy-trace-skill",
+    "stars": 99,
+    "daily_stars": 45,
+    "language": "Python",
+    "topics": [
+      "agent-evaluation",
+      "agent-traces",
+      "agent-workflows",
+      "ai-agents",
+      "llm-agents",
+      "post-training",
+      "process-supervision",
+      "reinforcement-learning",
+      "tool-use",
+      "trajectory-data"
+    ],
+    "created_at": "2026-06-05T08:31:53",
+    "updated_at": "2026-06-07T08:51:59"
+  },
+  {
     "name": "forkd",
     "full_name": "deeplethe/forkd",
     "description": "Fork microVMs sandbox from a warmed parent in 101 ms.",
     "url": "https://github.com/deeplethe/forkd",
-    "stars": 1750,
-    "daily_stars": 38,
+    "stars": 1785,
+    "daily_stars": 35,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -17,15 +40,15 @@
       "snapshot"
     ],
     "created_at": "2026-05-11T17:42:24",
-    "updated_at": "2026-06-07T05:05:37"
+    "updated_at": "2026-06-07T10:22:02"
   },
   {
     "name": "lazycodex",
     "full_name": "code-yeongyu/lazycodex",
     "description": "LazyCodex: Codex for no-brainers. You don't need to think. Just prompt with ultrawork.",
     "url": "https://github.com/code-yeongyu/lazycodex",
-    "stars": 626,
-    "daily_stars": 28,
+    "stars": 647,
+    "daily_stars": 21,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -44,15 +67,15 @@
       "typescript"
     ],
     "created_at": "2026-05-25T07:56:45",
-    "updated_at": "2026-06-07T05:05:37"
+    "updated_at": "2026-06-07T10:34:47"
   },
   {
     "name": "agentcookie",
     "full_name": "mvanhorn/agentcookie",
     "description": "Your agent runs on a Mac that isn't your daily driver. agentcookie keeps its sessions in sync with the Mac you actually browse on, continuously, encrypted over Tailscale, so OpenClaw, Hermes, or any other agent runtime wakes up authenticated. macOS, peer-to-peer, no cloud middleman.",
     "url": "https://github.com/mvanhorn/agentcookie",
-    "stars": 237,
-    "daily_stars": 20,
+    "stars": 254,
+    "daily_stars": 17,
     "language": "Go",
     "topics": [
       "ai-agents",
@@ -65,53 +88,14 @@
       "tailscale"
     ],
     "created_at": "2026-05-16T19:10:00",
-    "updated_at": "2026-06-07T05:02:38"
-  },
-  {
-    "name": "forsy-trace-skill",
-    "full_name": "Forsy-AI/forsy-trace-skill",
-    "description": "Open skill for capturing AI agent work as structured traces.",
-    "url": "https://github.com/Forsy-AI/forsy-trace-skill",
-    "stars": 54,
-    "daily_stars": 16,
-    "language": "Python",
-    "topics": [
-      "agent-evaluation",
-      "agent-traces",
-      "agent-workflows",
-      "ai-agents",
-      "llm-agents",
-      "post-training",
-      "process-supervision",
-      "reinforcement-learning",
-      "tool-use",
-      "trajectory-data"
-    ],
-    "created_at": "2026-06-05T08:31:53",
-    "updated_at": "2026-06-07T03:31:07"
-  },
-  {
-    "name": "shushu-internship-tool",
-    "full_name": "LiuMengxuan04/shushu-internship-tool",
-    "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
-    "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 1161,
-    "daily_stars": 13,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "skills"
-    ],
-    "created_at": "2026-05-17T11:25:47",
-    "updated_at": "2026-06-07T05:02:29"
+    "updated_at": "2026-06-07T10:21:44"
   },
   {
     "name": "html-anything",
     "full_name": "nexu-io/html-anything",
     "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
     "url": "https://github.com/nexu-io/html-anything",
-    "stars": 6220,
+    "stars": 6231,
     "daily_stars": 11,
     "language": "HTML",
     "topics": [
@@ -137,53 +121,50 @@
       "xiaohongshu"
     ],
     "created_at": "2026-05-11T09:40:38",
-    "updated_at": "2026-06-07T04:56:33"
+    "updated_at": "2026-06-07T09:55:14"
   },
   {
-    "name": "mercury-agent-skills",
-    "full_name": "cosmicstack-labs/mercury-agent-skills",
-    "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
-    "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
-    "stars": 322,
+    "name": "shushu-internship-tool",
+    "full_name": "LiuMengxuan04/shushu-internship-tool",
+    "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
+    "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
+    "stars": 1172,
     "daily_stars": 11,
-    "language": null,
+    "language": "Python",
     "topics": [
       "ai",
       "ai-agents",
-      "aiskills",
       "skills"
     ],
-    "created_at": "2026-05-09T08:16:53",
-    "updated_at": "2026-06-07T04:42:32"
+    "created_at": "2026-05-17T11:25:47",
+    "updated_at": "2026-06-07T09:09:00"
   },
   {
-    "name": "paperjury",
-    "full_name": "u7079256/paperjury",
-    "description": "Pre-submission AI review stress-test for research papers. A Claude Code skill: review, verdict, revise, verify.",
-    "url": "https://github.com/u7079256/paperjury",
-    "stars": 69,
-    "daily_stars": 9,
-    "language": "JavaScript",
+    "name": "ultracode-skill",
+    "full_name": "PabloNAX/ultracode-skill",
+    "description": "Codex-first Ultracode skill for dynamic coding workflows",
+    "url": "https://github.com/PabloNAX/ultracode-skill",
+    "stars": 76,
+    "daily_stars": 7,
+    "language": null,
     "topics": [
-      "academic-writing",
+      "agent-skills",
       "ai-agents",
-      "claude-code",
-      "latex",
-      "llm-agents",
-      "paper-review",
-      "peer-review",
-      "research-tool"
+      "codex",
+      "codex-skill",
+      "dynamic-workflows",
+      "ultracode"
     ],
-    "created_at": "2026-06-02T06:45:10",
-    "updated_at": "2026-06-07T04:34:28"
+    "created_at": "2026-05-31T15:03:52",
+    "updated_at": "2026-06-07T08:08:35"
   },
   {
     "name": "llm-flashcards",
     "full_name": "llmsresearch/llm-flashcards",
     "description": "Hand-drawn flashcards for learning how LLMs actually work. 19 free sample cards from the 180-card deck.",
     "url": "https://github.com/llmsresearch/llm-flashcards",
-    "stars": 25,
-    "daily_stars": 9,
+    "stars": 32,
+    "daily_stars": 7,
     "language": null,
     "topics": [
       "ai",
@@ -199,39 +180,50 @@
       "transformers"
     ],
     "created_at": "2026-05-30T01:40:41",
-    "updated_at": "2026-06-07T04:55:56"
+    "updated_at": "2026-06-07T10:33:10"
   },
   {
-    "name": "awesome-architecture",
-    "full_name": "study8677/awesome-architecture",
-    "description": "🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. 中英文双语。",
-    "url": "https://github.com/study8677/awesome-architecture",
-    "stars": 1210,
+    "name": "repoprompt-ce",
+    "full_name": "repoprompt/repoprompt-ce",
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "url": "https://github.com/repoprompt/repoprompt-ce",
+    "stars": 192,
     "daily_stars": 6,
-    "language": "Vue",
+    "language": "Swift",
     "topics": [
       "ai-agents",
-      "architecture-decision-records",
-      "architecture-patterns",
-      "awesome",
-      "backend",
-      "c4-model",
-      "chinese",
-      "design-patterns",
-      "distributed-systems",
-      "interview-preparation",
-      "learning-resources",
-      "llm",
-      "microservices",
-      "rag",
-      "scalability",
-      "software-architecture",
-      "software-engineering",
-      "system-design",
-      "system-design-interview",
-      "tech-interview"
+      "coding-agents",
+      "context-engineering",
+      "developer-tools",
+      "macos",
+      "mcp",
+      "model-context-protocol",
+      "prompt-engineering",
+      "swift"
     ],
-    "created_at": "2026-05-23T02:44:43",
-    "updated_at": "2026-06-07T04:10:23"
+    "created_at": "2026-05-12T19:44:16",
+    "updated_at": "2026-06-07T09:36:14"
+  },
+  {
+    "name": "ongrid",
+    "full_name": "ongridio/ongrid",
+    "description": "AI agent for understanding, diagnosing, and operating infrastructure — all from the chat apps you already use.",
+    "url": "https://github.com/ongridio/ongrid",
+    "stars": 106,
+    "daily_stars": 6,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-ops",
+      "chatbot",
+      "dingtalk",
+      "grafana",
+      "lark-bot",
+      "observability",
+      "prometheus"
+    ],
+    "created_at": "2026-05-23T16:16:44",
+    "updated_at": "2026-06-07T10:20:05"
   }
 ]
