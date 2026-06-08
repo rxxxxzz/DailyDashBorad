@@ -1,44 +1,11 @@
 [
   {
-    "name": "ShardBrowser",
-    "full_name": "ProxyShard/ShardBrowser",
-    "description": "Free, open-source anti-detect browser launcher for web scraping and multi-accounting. By the ProxyShard team. Engine-level fingerprint spoofing in Chromium 148 (WebGL / WebGPU / Client Hints / fonts / TLS), 170+ device profiles bundled, stable QUIC + WebRTC over SOCKS5.",
-    "url": "https://github.com/ProxyShard/ShardBrowser",
-    "stars": 336,
-    "daily_stars": 0,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "anti-detect-browser",
-      "antidetect-browser",
-      "browser-fingerprinting",
-      "chromium",
-      "fingerprint",
-      "headless-browser",
-      "headless-chrome",
-      "multi-accounting",
-      "playwright",
-      "proxy",
-      "proxyshard",
-      "puppeteer",
-      "quic",
-      "stealth-browser",
-      "tauri",
-      "udp",
-      "web-scraping",
-      "webrtc",
-      "webscraping"
-    ],
-    "created_at": "2026-05-30T23:05:14",
-    "updated_at": "2026-06-07T15:45:58"
-  },
-  {
     "name": "agent",
     "full_name": "PentesterFlow/agent",
     "description": "Agentic offensive-security in your terminal",
     "url": "https://github.com/PentesterFlow/agent",
-    "stars": 319,
-    "daily_stars": 2,
+    "stars": 320,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -49,7 +16,7 @@
       "security-automation"
     ],
     "created_at": "2026-05-31T11:14:35",
-    "updated_at": "2026-06-07T20:13:48"
+    "updated_at": "2026-06-08T00:56:48"
   },
   {
     "name": "vigils",
@@ -57,7 +24,7 @@
     "description": "A local control plane for AI agents — see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
     "url": "https://github.com/duncatzat/vigils",
     "stars": 290,
-    "daily_stars": 2,
+    "daily_stars": 0,
     "language": "Rust",
     "topics": [
       "agent-security",
@@ -72,7 +39,7 @@
       "tauri"
     ],
     "created_at": "2026-05-31T15:45:25",
-    "updated_at": "2026-06-07T20:40:50"
+    "updated_at": "2026-06-08T00:55:17"
   },
   {
     "name": "WorldCupROI",
@@ -116,33 +83,15 @@
       "swiftui"
     ],
     "created_at": "2026-05-31T09:40:06",
-    "updated_at": "2026-06-07T16:34:09"
-  },
-  {
-    "name": "good-question",
-    "full_name": "Rimagination/good-question",
-    "description": "A portable agent skill for sharpening research questions.",
-    "url": "https://github.com/Rimagination/good-question",
-    "stars": 100,
-    "daily_stars": 0,
-    "language": "PowerShell",
-    "topics": [
-      "agent-skill",
-      "ai-agents",
-      "research-ideation",
-      "research-questions",
-      "scientific-method"
-    ],
-    "created_at": "2026-06-01T08:48:11",
-    "updated_at": "2026-06-07T16:04:40"
+    "updated_at": "2026-06-08T05:04:08"
   },
   {
     "name": "forsy-trace-skill",
     "full_name": "Forsy-AI/forsy-trace-skill",
     "description": "Open skill for capturing AI agent work as structured traces.",
     "url": "https://github.com/Forsy-AI/forsy-trace-skill",
-    "stars": 100,
-    "daily_stars": 0,
+    "stars": 102,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "agent-evaluation",
@@ -157,15 +106,91 @@
       "trajectory-data"
     ],
     "created_at": "2026-06-05T08:31:53",
-    "updated_at": "2026-06-07T11:58:21"
+    "updated_at": "2026-06-08T04:53:46"
+  },
+  {
+    "name": "good-question",
+    "full_name": "Rimagination/good-question",
+    "description": "A portable agent skill for sharpening research questions.",
+    "url": "https://github.com/Rimagination/good-question",
+    "stars": 101,
+    "daily_stars": 1,
+    "language": "PowerShell",
+    "topics": [
+      "agent-skill",
+      "ai-agents",
+      "research-ideation",
+      "research-questions",
+      "scientific-method"
+    ],
+    "created_at": "2026-06-01T08:48:11",
+    "updated_at": "2026-06-08T00:39:30"
+  },
+  {
+    "name": "VLM-AutoYOLO",
+    "full_name": "Somnusochi/VLM-AutoYOLO",
+    "description": "End-to-end object detection auto-labeling and YOLO training platform. VLM-powered annotation with NVIDIA   LocateAnything-3B, manual refinement, one-click YOLO training (v5/v8/v11/v26), video keyframe extraction,    and model validation. Supports image and video input.",
+    "url": "https://github.com/Somnusochi/VLM-AutoYOLO",
+    "stars": 93,
+    "daily_stars": 12,
+    "language": "TypeScript",
+    "topics": [
+      "auto-labeling",
+      "computer-vision",
+      "data-annotation",
+      "deep-learning",
+      "fastapi",
+      "locate-anything",
+      "machine-learning",
+      "nvidia",
+      "object-detection",
+      "pytorch",
+      "react",
+      "ultralytics",
+      "video-annotation",
+      "vlm",
+      "yolo",
+      "yolo-training"
+    ],
+    "created_at": "2026-06-02T03:55:53",
+    "updated_at": "2026-06-08T04:37:22"
+  },
+  {
+    "name": "VLM-AutoYOLO",
+    "full_name": "Somnusochi/VLM-AutoYOLO",
+    "description": "End-to-end object detection auto-labeling and YOLO training platform. VLM-powered annotation with NVIDIA   LocateAnything-3B, manual refinement, one-click YOLO training (v5/v8/v11/v26), video keyframe extraction,    and model validation. Supports image and video input.",
+    "url": "https://github.com/Somnusochi/VLM-AutoYOLO",
+    "stars": 93,
+    "daily_stars": 0,
+    "language": "TypeScript",
+    "topics": [
+      "auto-labeling",
+      "computer-vision",
+      "data-annotation",
+      "deep-learning",
+      "fastapi",
+      "locate-anything",
+      "machine-learning",
+      "nvidia",
+      "object-detection",
+      "pytorch",
+      "react",
+      "ultralytics",
+      "video-annotation",
+      "vlm",
+      "yolo",
+      "yolo-training"
+    ],
+    "created_at": "2026-06-02T03:55:53",
+    "updated_at": "2026-06-08T04:37:22"
   },
   {
     "name": "paperjury",
     "full_name": "u7079256/paperjury",
     "description": "Pre-submission AI review stress-test for research papers. A Claude Code skill: review, verdict, revise, verify.",
     "url": "https://github.com/u7079256/paperjury",
-    "stars": 83,
-    "daily_stars": 4,
+    "stars": 89,
+    "daily_stars": 6,
     "language": "JavaScript",
     "topics": [
       "academic-writing",
@@ -178,64 +203,25 @@
       "research-tool"
     ],
     "created_at": "2026-06-02T06:45:10",
-    "updated_at": "2026-06-07T20:36:22"
+    "updated_at": "2026-06-08T03:51:49"
   },
   {
-    "name": "VLM-AutoYOLO",
-    "full_name": "Somnusochi/VLM-AutoYOLO",
-    "description": "End-to-end object detection auto-labeling and YOLO training platform. VLM-powered annotation with NVIDIA   LocateAnything-3B, manual refinement, one-click YOLO training (v5/v8/v11/v26), video keyframe extraction,    and model validation. Supports image and video input.",
-    "url": "https://github.com/Somnusochi/VLM-AutoYOLO",
-    "stars": 81,
+    "name": "ultracode-skill",
+    "full_name": "PabloNAX/ultracode-skill",
+    "description": "Codex-first Ultracode skill for dynamic coding workflows",
+    "url": "https://github.com/PabloNAX/ultracode-skill",
+    "stars": 76,
     "daily_stars": 0,
-    "language": "TypeScript",
+    "language": null,
     "topics": [
-      "auto-labeling",
-      "computer-vision",
-      "data-annotation",
-      "deep-learning",
-      "fastapi",
-      "locate-anything",
-      "machine-learning",
-      "nvidia",
-      "object-detection",
-      "pytorch",
-      "react",
-      "ultralytics",
-      "video-annotation",
-      "vlm",
-      "yolo",
-      "yolo-training"
+      "agent-skills",
+      "ai-agents",
+      "codex",
+      "codex-skill",
+      "dynamic-workflows",
+      "ultracode"
     ],
-    "created_at": "2026-06-02T03:55:53",
-    "updated_at": "2026-06-07T19:22:05"
-  },
-  {
-    "name": "VLM-AutoYOLO",
-    "full_name": "Somnusochi/VLM-AutoYOLO",
-    "description": "End-to-end object detection auto-labeling and YOLO training platform. VLM-powered annotation with NVIDIA   LocateAnything-3B, manual refinement, one-click YOLO training (v5/v8/v11/v26), video keyframe extraction,    and model validation. Supports image and video input.",
-    "url": "https://github.com/Somnusochi/VLM-AutoYOLO",
-    "stars": 81,
-    "daily_stars": 0,
-    "language": "TypeScript",
-    "topics": [
-      "auto-labeling",
-      "computer-vision",
-      "data-annotation",
-      "deep-learning",
-      "fastapi",
-      "locate-anything",
-      "machine-learning",
-      "nvidia",
-      "object-detection",
-      "pytorch",
-      "react",
-      "ultralytics",
-      "video-annotation",
-      "vlm",
-      "yolo",
-      "yolo-training"
-    ],
-    "created_at": "2026-06-02T03:55:53",
-    "updated_at": "2026-06-07T19:22:05"
+    "created_at": "2026-05-31T15:03:52",
+    "updated_at": "2026-06-08T01:02:30"
   }
 ]
