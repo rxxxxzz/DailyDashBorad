@@ -1,30 +1,11 @@
 [
   {
-    "name": "agent",
-    "full_name": "PentesterFlow/agent",
-    "description": "Agentic offensive-security in your terminal",
-    "url": "https://github.com/PentesterFlow/agent",
-    "stars": 320,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "bugbounty",
-      "penetration-testing",
-      "security-audit",
-      "security-automation"
-    ],
-    "created_at": "2026-05-31T11:14:35",
-    "updated_at": "2026-06-08T00:56:48"
-  },
-  {
     "name": "vigils",
     "full_name": "duncatzat/vigils",
     "description": "A local control plane for AI agents — see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
     "url": "https://github.com/duncatzat/vigils",
-    "stars": 290,
-    "daily_stars": 0,
+    "stars": 320,
+    "daily_stars": 30,
     "language": "Rust",
     "topics": [
       "agent-security",
@@ -39,15 +20,15 @@
       "tauri"
     ],
     "created_at": "2026-05-31T15:45:25",
-    "updated_at": "2026-06-08T00:55:17"
+    "updated_at": "2026-06-08T10:50:33"
   },
   {
     "name": "WorldCupROI",
     "full_name": "2417467487-hub/WorldCupROI",
     "description": "Sports sponsorship intelligence platform for World Cup match data, real-source text signals, ROI prediction, uncertainty analysis, and scenario recommendations.",
     "url": "https://github.com/2417467487-hub/WorldCupROI",
-    "stars": 122,
-    "daily_stars": 0,
+    "stars": 162,
+    "daily_stars": 40,
     "language": "HTML",
     "topics": [
       "business-intelligence",
@@ -60,30 +41,25 @@
       "world-cup"
     ],
     "created_at": "2026-06-02T08:15:02",
-    "updated_at": "2026-06-07T20:18:10"
+    "updated_at": "2026-06-08T07:00:52"
   },
   {
-    "name": "agentpet",
-    "full_name": "ntd4996/agentpet",
-    "description": "A native macOS menu bar app with a desktop pet that monitors your AI coding agents (Claude Code, Codex, Gemini CLI) in real time.",
-    "url": "https://github.com/ntd4996/agentpet",
-    "stars": 111,
-    "daily_stars": 0,
-    "language": "Swift",
+    "name": "good-question",
+    "full_name": "Rimagination/good-question",
+    "description": "A portable agent skill for sharpening research questions.",
+    "url": "https://github.com/Rimagination/good-question",
+    "stars": 104,
+    "daily_stars": 3,
+    "language": "PowerShell",
     "topics": [
+      "agent-skill",
       "ai-agents",
-      "claude-code",
-      "codex",
-      "desktop-pet",
-      "developer-tools",
-      "macos",
-      "menubar",
-      "productivity",
-      "swift",
-      "swiftui"
+      "research-ideation",
+      "research-questions",
+      "scientific-method"
     ],
-    "created_at": "2026-05-31T09:40:06",
-    "updated_at": "2026-06-08T05:04:08"
+    "created_at": "2026-06-01T08:48:11",
+    "updated_at": "2026-06-08T12:43:13"
   },
   {
     "name": "forsy-trace-skill",
@@ -91,7 +67,7 @@
     "description": "Open skill for capturing AI agent work as structured traces.",
     "url": "https://github.com/Forsy-AI/forsy-trace-skill",
     "stars": 102,
-    "daily_stars": 2,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "agent-evaluation",
@@ -109,30 +85,12 @@
     "updated_at": "2026-06-08T04:53:46"
   },
   {
-    "name": "good-question",
-    "full_name": "Rimagination/good-question",
-    "description": "A portable agent skill for sharpening research questions.",
-    "url": "https://github.com/Rimagination/good-question",
-    "stars": 101,
-    "daily_stars": 1,
-    "language": "PowerShell",
-    "topics": [
-      "agent-skill",
-      "ai-agents",
-      "research-ideation",
-      "research-questions",
-      "scientific-method"
-    ],
-    "created_at": "2026-06-01T08:48:11",
-    "updated_at": "2026-06-08T00:39:30"
-  },
-  {
     "name": "VLM-AutoYOLO",
     "full_name": "Somnusochi/VLM-AutoYOLO",
     "description": "End-to-end object detection auto-labeling and YOLO training platform. VLM-powered annotation with NVIDIA   LocateAnything-3B, manual refinement, one-click YOLO training (v5/v8/v11/v26), video keyframe extraction,    and model validation. Supports image and video input.",
     "url": "https://github.com/Somnusochi/VLM-AutoYOLO",
-    "stars": 93,
-    "daily_stars": 12,
+    "stars": 98,
+    "daily_stars": 5,
     "language": "TypeScript",
     "topics": [
       "auto-labeling",
@@ -153,14 +111,14 @@
       "yolo-training"
     ],
     "created_at": "2026-06-02T03:55:53",
-    "updated_at": "2026-06-08T04:37:22"
+    "updated_at": "2026-06-08T08:38:38"
   },
   {
     "name": "VLM-AutoYOLO",
     "full_name": "Somnusochi/VLM-AutoYOLO",
     "description": "End-to-end object detection auto-labeling and YOLO training platform. VLM-powered annotation with NVIDIA   LocateAnything-3B, manual refinement, one-click YOLO training (v5/v8/v11/v26), video keyframe extraction,    and model validation. Supports image and video input.",
     "url": "https://github.com/Somnusochi/VLM-AutoYOLO",
-    "stars": 93,
+    "stars": 98,
     "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
@@ -182,14 +140,14 @@
       "yolo-training"
     ],
     "created_at": "2026-06-02T03:55:53",
-    "updated_at": "2026-06-08T04:37:22"
+    "updated_at": "2026-06-08T08:38:38"
   },
   {
     "name": "paperjury",
     "full_name": "u7079256/paperjury",
     "description": "Pre-submission AI review stress-test for research papers. A Claude Code skill: review, verdict, revise, verify.",
     "url": "https://github.com/u7079256/paperjury",
-    "stars": 89,
+    "stars": 95,
     "daily_stars": 6,
     "language": "JavaScript",
     "topics": [
@@ -203,7 +161,7 @@
       "research-tool"
     ],
     "created_at": "2026-06-02T06:45:10",
-    "updated_at": "2026-06-08T03:51:49"
+    "updated_at": "2026-06-08T12:23:55"
   },
   {
     "name": "ultracode-skill",
@@ -223,5 +181,45 @@
     ],
     "created_at": "2026-05-31T15:03:52",
     "updated_at": "2026-06-08T01:02:30"
+  },
+  {
+    "name": "hermes-link-curator",
+    "full_name": "dodo-reach/hermes-link-curator",
+    "description": "Hermes profile pack for archiving and browsing curated links + web dashboard app",
+    "url": "https://github.com/dodo-reach/hermes-link-curator",
+    "stars": 70,
+    "daily_stars": 1,
+    "language": "HTML",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "fastapi",
+      "hermes-agent",
+      "nousresearch",
+      "productivity-tools"
+    ],
+    "created_at": "2026-06-05T09:36:50",
+    "updated_at": "2026-06-08T12:41:57"
+  },
+  {
+    "name": "kimiko",
+    "full_name": "spearchucker667/kimiko",
+    "description": "Bypass all api restraints within Kimi-CLI",
+    "url": "https://github.com/spearchucker667/kimiko",
+    "stars": 69,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "bypassing",
+      "exploit",
+      "kimi-cli",
+      "kimi-k2",
+      "moonshot-ai",
+      "penetration-testing",
+      "pentesting"
+    ],
+    "created_at": "2026-06-01T08:27:16",
+    "updated_at": "2026-06-07T23:46:18"
   }
 ]
