@@ -5,7 +5,7 @@
     "description": "Open skill for capturing AI agent work as structured traces.",
     "url": "https://github.com/Forsy-AI/forsy-trace-skill",
     "stars": 116,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "agent-evaluation",
@@ -28,7 +28,7 @@
     "description": "Hermes profile pack for archiving and browsing curated links + web dashboard app",
     "url": "https://github.com/dodo-reach/hermes-link-curator",
     "stars": 82,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "HTML",
     "topics": [
       "agent-skills",
@@ -47,7 +47,7 @@
     "description": "Native macOS menu bar dashboard for Pi agent usage, cost, languages, models, projects & tokens.",
     "url": "https://github.com/phun333/pi-infobar",
     "stars": 67,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Swift",
     "topics": [
       "ai-agents",
@@ -92,31 +92,32 @@
     "updated_at": "2026-06-10T11:52:28"
   },
   {
-    "name": "scientific-agents",
-    "full_name": "K-Dense-AI/scientific-agents",
-    "description": "Expert-thinking AGENTS.md profiles that teach AI agents to reason like senior scientists and engineers.",
-    "url": "https://github.com/K-Dense-AI/scientific-agents",
-    "stars": 56,
+    "name": "claimpilot-harness",
+    "full_name": "samarailly51-pixel/claimpilot-harness",
+    "description": "Crash-test insurance claim AI agents before production.",
+    "url": "https://github.com/samarailly51-pixel/claimpilot-harness",
+    "stars": 58,
     "daily_stars": 0,
-    "language": null,
+    "language": "Python",
     "topics": [
-      "agentic-ai",
-      "agents-md",
+      "agent-evaluation",
       "ai-agents",
-      "llm",
-      "prompt-engineering",
-      "science"
+      "insurance",
+      "llm-evals",
+      "prompt-injection",
+      "python",
+      "testing"
     ],
-    "created_at": "2026-06-03T02:43:24",
-    "updated_at": "2026-06-10T08:01:04"
+    "created_at": "2026-06-05T14:47:21",
+    "updated_at": "2026-06-10T23:46:27"
   },
   {
     "name": "Hephaestus",
     "full_name": "agentlas-ai/Hephaestus",
     "description": "No-code AI agent builder — turn one sentence into a single agent or a multi-agent team. The engine inside Agentlas. A no-code CrewAI / LangGraph / AutoGen alternative that runs on Claude Code, Codex, and Cursor.",
     "url": "https://github.com/agentlas-ai/Hephaestus",
-    "stars": 49,
-    "daily_stars": 0,
+    "stars": 50,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "agent-framework",
@@ -133,33 +134,15 @@
       "no-code"
     ],
     "created_at": "2026-06-04T04:33:26",
-    "updated_at": "2026-06-10T16:43:22"
-  },
-  {
-    "name": "OpenSkill",
-    "full_name": "OpenLAIR/OpenSkill",
-    "description": "Open-World Self-Evolution for LLM Agents — agents that build both their skills and their own verification signals from scratch, with no target-task supervision. (Code coming soon.)",
-    "url": "https://github.com/OpenLAIR/OpenSkill",
-    "stars": 42,
-    "daily_stars": 0,
-    "language": null,
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "llm-agents",
-      "open-world",
-      "self-evolving-agents"
-    ],
-    "created_at": "2026-06-03T23:32:43",
-    "updated_at": "2026-06-10T10:13:36"
+    "updated_at": "2026-06-10T23:40:07"
   },
   {
     "name": "awesome-agent-loops",
     "full_name": "serenakeyitan/awesome-agent-loops",
     "description": "A curated collection of the best /loop, /goal, and /schedule uses for Claude Code & Codex — real commands sourced from Twitter/X. The awesome-list of agent loops.",
     "url": "https://github.com/serenakeyitan/awesome-agent-loops",
-    "stars": 40,
-    "daily_stars": 3,
+    "stars": 48,
+    "daily_stars": 8,
     "language": null,
     "topics": [
       "agentic",
@@ -170,15 +153,33 @@
       "codex"
     ],
     "created_at": "2026-06-09T01:26:51",
-    "updated_at": "2026-06-10T21:08:11"
+    "updated_at": "2026-06-11T03:24:57"
+  },
+  {
+    "name": "OpenSkill",
+    "full_name": "OpenLAIR/OpenSkill",
+    "description": "Open-World Self-Evolution for LLM Agents — agents that build both their skills and their own verification signals from scratch, with no target-task supervision. (Code coming soon.)",
+    "url": "https://github.com/OpenLAIR/OpenSkill",
+    "stars": 46,
+    "daily_stars": 4,
+    "language": null,
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "llm-agents",
+      "open-world",
+      "self-evolving-agents"
+    ],
+    "created_at": "2026-06-03T23:32:43",
+    "updated_at": "2026-06-11T04:35:01"
   },
   {
     "name": "MCPify",
     "full_name": "amarnath3003/MCPify",
     "description": "MCPify is an AI enablement compiler that transforms existing applications into AI-native, agent-operable systems.",
     "url": "https://github.com/amarnath3003/MCPify",
-    "stars": 37,
-    "daily_stars": 0,
+    "stars": 39,
+    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -189,31 +190,24 @@
       "npm"
     ],
     "created_at": "2026-06-06T11:31:43",
-    "updated_at": "2026-06-10T17:25:49"
+    "updated_at": "2026-06-11T05:08:01"
   },
   {
-    "name": "claude-for-researchers",
-    "full_name": "Mexregkan/claude-for-researchers",
-    "description": "Practical guide and toolkit for physicists and mathematicians using Claude Code — built from months on a real research project",
-    "url": "https://github.com/Mexregkan/claude-for-researchers",
-    "stars": 32,
-    "daily_stars": 2,
-    "language": "Shell",
+    "name": "comfy-skills",
+    "full_name": "Comfy-Org/comfy-skills",
+    "description": "Comfy Cloud product skills: slash commands for generating images, video, audio, and 3D with Comfy Cloud agents. Single source of truth for the installer and MCP server.",
+    "url": "https://github.com/Comfy-Org/comfy-skills",
+    "stars": 35,
+    "daily_stars": 0,
+    "language": null,
     "topics": [
-      "academic",
-      "ai-tools",
-      "claude-code",
-      "latex",
-      "llm",
-      "mathematica",
-      "mathematics",
-      "physics",
-      "prompt-engineering",
-      "research",
-      "scientific-computing",
-      "workflow"
+      "ai-agents",
+      "claude",
+      "comfyui",
+      "mcp",
+      "skills"
     ],
-    "created_at": "2026-06-05T18:10:51",
-    "updated_at": "2026-06-10T19:31:38"
+    "created_at": "2026-06-03T21:57:36",
+    "updated_at": "2026-06-11T04:04:07"
   }
 ]

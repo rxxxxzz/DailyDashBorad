@@ -1,28 +1,11 @@
 [
   {
-    "name": "dox",
-    "full_name": "agent0ai/dox",
-    "description": "Self-documenting AGENTS.md",
-    "url": "https://github.com/agent0ai/dox",
-    "stars": 533,
-    "daily_stars": 13,
-    "language": null,
-    "topics": [
-      "agents-md",
-      "ai",
-      "ai-agents",
-      "documentation"
-    ],
-    "created_at": "2026-06-01T08:25:21",
-    "updated_at": "2026-06-10T22:24:44"
-  },
-  {
     "name": "inalpha",
     "full_name": "mirror29/inalpha",
     "description": "🦊 Open-source professional quant agent framework. Agents pick the factors working now to time entries, write full strategies, and evolve them in   a sandbox — every order through machine approval, the LLM never on the order path. Multi-market, audit-grade.",
     "url": "https://github.com/mirror29/inalpha",
-    "stars": 48,
-    "daily_stars": 12,
+    "stars": 76,
+    "daily_stars": 28,
     "language": "Python",
     "topics": [
       "ai-agent",
@@ -42,15 +25,53 @@
       "trading-bot"
     ],
     "created_at": "2026-05-21T10:17:54",
-    "updated_at": "2026-06-10T21:55:10"
+    "updated_at": "2026-06-11T04:51:16"
+  },
+  {
+    "name": "dox",
+    "full_name": "agent0ai/dox",
+    "description": "Self-documenting AGENTS.md",
+    "url": "https://github.com/agent0ai/dox",
+    "stars": 551,
+    "daily_stars": 18,
+    "language": null,
+    "topics": [
+      "agents-md",
+      "ai",
+      "ai-agents",
+      "documentation"
+    ],
+    "created_at": "2026-06-01T08:25:21",
+    "updated_at": "2026-06-11T04:51:35"
+  },
+  {
+    "name": "agentcookie",
+    "full_name": "mvanhorn/agentcookie",
+    "description": "Your agent runs on a Mac that isn't your daily driver. agentcookie keeps its sessions in sync with the Mac you actually browse on, continuously, encrypted over Tailscale, so OpenClaw, Hermes, or any other agent runtime wakes up authenticated. macOS, peer-to-peer, no cloud middleman.",
+    "url": "https://github.com/mvanhorn/agentcookie",
+    "stars": 379,
+    "daily_stars": 18,
+    "language": "Go",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "chrome",
+      "cli",
+      "cookies",
+      "golang",
+      "macos",
+      "tailscale"
+    ],
+    "created_at": "2026-05-16T19:10:00",
+    "updated_at": "2026-06-11T04:54:40"
   },
   {
     "name": "lazycodex",
     "full_name": "code-yeongyu/lazycodex",
     "description": "LazyCodex: Codex for no-brainers. You don't need to think. Just prompt with ultrawork.",
     "url": "https://github.com/code-yeongyu/lazycodex",
-    "stars": 854,
-    "daily_stars": 5,
+    "stars": 869,
+    "daily_stars": 15,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -69,114 +90,31 @@
       "typescript"
     ],
     "created_at": "2026-05-25T07:56:45",
-    "updated_at": "2026-06-10T21:55:53"
+    "updated_at": "2026-06-11T04:49:02"
   },
   {
-    "name": "agentcookie",
-    "full_name": "mvanhorn/agentcookie",
-    "description": "Your agent runs on a Mac that isn't your daily driver. agentcookie keeps its sessions in sync with the Mac you actually browse on, continuously, encrypted over Tailscale, so OpenClaw, Hermes, or any other agent runtime wakes up authenticated. macOS, peer-to-peer, no cloud middleman.",
-    "url": "https://github.com/mvanhorn/agentcookie",
-    "stars": 361,
-    "daily_stars": 5,
-    "language": "Go",
+    "name": "shushu-internship-tool",
+    "full_name": "LiuMengxuan04/shushu-internship-tool",
+    "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
+    "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
+    "stars": 1297,
+    "daily_stars": 9,
+    "language": "Python",
     "topics": [
-      "ai-agents",
-      "automation",
-      "chrome",
-      "cli",
-      "cookies",
-      "golang",
-      "macos",
-      "tailscale"
-    ],
-    "created_at": "2026-05-16T19:10:00",
-    "updated_at": "2026-06-10T21:53:07"
-  },
-  {
-    "name": "polyhelper",
-    "full_name": "PolyHelper/polyhelper",
-    "description": "PolyHelper V4 — Cognitive AI Exoskeleton.    Multi-AI orchestration platform for safer human decisions",
-    "url": "https://github.com/PolyHelper/polyhelper",
-    "stars": 8,
-    "daily_stars": 3,
-    "language": "JavaScript",
-    "topics": [
-      "accessibility",
       "ai",
-      "ai-assistant",
-      "ai-orchestration",
-      "artificial-intelligence",
-      "automation",
-      "cognitive-ai",
-      "developer-tools",
-      "electron",
-      "llm",
-      "llmops",
-      "multi-agent",
-      "open-source",
-      "react-native",
-      "svelte",
-      "typescript",
-      "voice-assistant"
-    ],
-    "created_at": "2026-06-09T22:07:17",
-    "updated_at": "2026-06-10T21:15:53"
-  },
-  {
-    "name": "agents-best-practices",
-    "full_name": "DenisSergeevitch/agents-best-practices",
-    "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
-    "url": "https://github.com/DenisSergeevitch/agents-best-practices",
-    "stars": 1902,
-    "daily_stars": 3,
-    "language": null,
-    "topics": [
-      "agent-skill",
-      "agent-skills",
-      "agentic-workflows",
-      "agents",
       "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "codex",
-      "codex-skill",
-      "mcp",
-      "prompt-engineering"
+      "skills"
     ],
-    "created_at": "2026-05-15T21:32:21",
-    "updated_at": "2026-06-10T21:13:58"
-  },
-  {
-    "name": "open-dynamic-workflows",
-    "full_name": "xz1220/open-dynamic-workflows",
-    "description": "Open Dynamic Workflows: TypeScript CLI runtime for Claude Code-style dynamic workflows across Codex, Claude Code, Gemini, Qwen, Kimi, and custom coding-agent CLIs.",
-    "url": "https://github.com/xz1220/open-dynamic-workflows",
-    "stars": 56,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "agent-orchestration",
-      "ai-agents",
-      "claude-code",
-      "codex",
-      "coding-agents",
-      "dynamic-workflow",
-      "dynamic-workflows",
-      "multi-agent",
-      "open-dynamic-workflows",
-      "typescript"
-    ],
-    "created_at": "2026-05-22T17:27:46",
-    "updated_at": "2026-06-10T21:49:54"
+    "created_at": "2026-05-17T11:25:47",
+    "updated_at": "2026-06-11T04:39:47"
   },
   {
     "name": "awesome-agent-loops",
     "full_name": "serenakeyitan/awesome-agent-loops",
     "description": "A curated collection of the best /loop, /goal, and /schedule uses for Claude Code & Codex — real commands sourced from Twitter/X. The awesome-list of agent loops.",
     "url": "https://github.com/serenakeyitan/awesome-agent-loops",
-    "stars": 40,
-    "daily_stars": 3,
+    "stars": 48,
+    "daily_stars": 8,
     "language": null,
     "topics": [
       "agentic",
@@ -187,47 +125,97 @@
       "codex"
     ],
     "created_at": "2026-06-09T01:26:51",
-    "updated_at": "2026-06-10T21:08:11"
+    "updated_at": "2026-06-11T03:24:57"
   },
   {
-    "name": "auto_fsd",
-    "full_name": "autowarefoundation/auto_fsd",
-    "description": "An open-source End-to-End AI model for self driving",
-    "url": "https://github.com/autowarefoundation/auto_fsd",
-    "stars": 25,
-    "daily_stars": 2,
-    "language": "Python",
+    "name": "Duel-Agents",
+    "full_name": "2aronS/Duel-Agents",
+    "description": "CLI, SDK, and IDE plugins for Duel Agents",
+    "url": "https://github.com/2aronS/Duel-Agents",
+    "stars": 1015,
+    "daily_stars": 4,
+    "language": "TypeScript",
     "topics": [
-      "artificial-intelligence",
-      "artificial-neural-networks",
-      "autonomous-driving",
-      "autonomous-vehicles",
-      "end-to-end-machine-learning",
-      "self-driving-cars",
-      "world-foundation-models"
-    ],
-    "created_at": "2026-05-25T12:38:19",
-    "updated_at": "2026-06-10T22:24:18"
-  },
-  {
-    "name": "predikit",
-    "full_name": "Tejas-TA/predikit",
-    "description": "pypi-predikit: Turn any sklearn/XGBoost model into an LLM-callable tool. Framework-agnostic",
-    "url": "https://github.com/Tejas-TA/predikit",
-    "stars": 200,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "agents",
-      "langchain",
+      "ai-agents",
+      "anthropic",
+      "claude-code",
+      "cli",
+      "cursor",
+      "duel-agents",
       "llm",
-      "machine-learning",
-      "openai",
-      "python",
-      "sklearn",
-      "xgboost"
+      "npm",
+      "openai-compatible",
+      "openclaw",
+      "sdk",
+      "typescript"
     ],
-    "created_at": "2026-05-25T20:26:22",
-    "updated_at": "2026-06-10T22:22:44"
+    "created_at": "2026-05-28T10:45:44",
+    "updated_at": "2026-06-11T05:07:46"
+  },
+  {
+    "name": "ongrid",
+    "full_name": "ongridio/ongrid",
+    "description": "AI agent for understanding, diagnosing, and operating infrastructure — all from the chat apps you already use.",
+    "url": "https://github.com/ongridio/ongrid",
+    "stars": 208,
+    "daily_stars": 4,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-ops",
+      "chatbot",
+      "dingtalk",
+      "grafana",
+      "lark-bot",
+      "observability",
+      "prometheus"
+    ],
+    "created_at": "2026-05-23T16:16:44",
+    "updated_at": "2026-06-11T03:21:00"
+  },
+  {
+    "name": "agentpet",
+    "full_name": "ntd4996/agentpet",
+    "description": "A native macOS menu bar app with a desktop pet that monitors your AI coding agents (Claude Code, Codex, Gemini CLI) in real time.",
+    "url": "https://github.com/ntd4996/agentpet",
+    "stars": 189,
+    "daily_stars": 4,
+    "language": "Swift",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "desktop-pet",
+      "developer-tools",
+      "macos",
+      "menubar",
+      "productivity",
+      "swift",
+      "swiftui"
+    ],
+    "created_at": "2026-05-31T09:40:06",
+    "updated_at": "2026-06-11T04:08:24"
+  },
+  {
+    "name": "paperjury",
+    "full_name": "u7079256/paperjury",
+    "description": "Pre-submission AI review stress-test for research papers. A Claude Code skill: review, verdict, revise, verify.",
+    "url": "https://github.com/u7079256/paperjury",
+    "stars": 119,
+    "daily_stars": 4,
+    "language": "JavaScript",
+    "topics": [
+      "academic-writing",
+      "ai-agents",
+      "claude-code",
+      "latex",
+      "llm-agents",
+      "paper-review",
+      "peer-review",
+      "research-tool"
+    ],
+    "created_at": "2026-06-02T06:45:10",
+    "updated_at": "2026-06-11T05:03:16"
   }
 ]
