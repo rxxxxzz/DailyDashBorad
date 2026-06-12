@@ -4,8 +4,8 @@
     "full_name": "DietrichGebert/ponytail",
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 622,
-    "daily_stars": 169,
+    "stars": 727,
+    "daily_stars": 105,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -20,15 +20,15 @@
       "yagni"
     ],
     "created_at": "2026-06-12T00:52:37",
-    "updated_at": "2026-06-12T15:45:09"
+    "updated_at": "2026-06-12T18:17:56"
   },
   {
     "name": "dox",
     "full_name": "agent0ai/dox",
     "description": "Self-documenting AGENTS.md",
     "url": "https://github.com/agent0ai/dox",
-    "stars": 654,
-    "daily_stars": 12,
+    "stars": 661,
+    "daily_stars": 7,
     "language": null,
     "topics": [
       "agents-md",
@@ -37,36 +37,78 @@
       "documentation"
     ],
     "created_at": "2026-06-01T08:25:21",
-    "updated_at": "2026-06-12T15:44:45"
+    "updated_at": "2026-06-12T18:20:11"
   },
   {
-    "name": "your-ai-focus-group",
-    "full_name": "itsrouk/your-ai-focus-group",
-    "description": "Run a lightweight AI focus group for ideas, messaging, and product concepts — built around synthetic personas and Likert scoring.",
-    "url": "https://github.com/itsrouk/your-ai-focus-group",
-    "stars": 17,
-    "daily_stars": 8,
-    "language": "TypeScript",
+    "name": "agentcookie",
+    "full_name": "mvanhorn/agentcookie",
+    "description": "Your agent runs on a Mac that isn't your daily driver. agentcookie keeps its sessions in sync with the Mac you actually browse on, continuously, encrypted over Tailscale, so OpenClaw, Hermes, or any other agent runtime wakes up authenticated. macOS, peer-to-peer, no cloud middleman.",
+    "url": "https://github.com/mvanhorn/agentcookie",
+    "stars": 424,
+    "daily_stars": 6,
+    "language": "Go",
     "topics": [
-      "artificial-intelligence",
-      "focus-groups",
-      "gemini",
-      "market-research",
-      "marketing",
-      "nextjs",
-      "synthetic-personas",
-      "typescript"
+      "ai-agents",
+      "automation",
+      "chrome",
+      "cli",
+      "cookies",
+      "golang",
+      "macos",
+      "tailscale"
     ],
-    "created_at": "2026-05-17T18:01:36",
-    "updated_at": "2026-06-12T14:11:51"
+    "created_at": "2026-05-16T19:10:00",
+    "updated_at": "2026-06-12T18:15:50"
+  },
+  {
+    "name": "microsoft-security-skills",
+    "full_name": "vinayaklatthe/microsoft-security-skills",
+    "description": "Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Purview, Intune, Security Copilot",
+    "url": "https://github.com/vinayaklatthe/microsoft-security-skills",
+    "stars": 78,
+    "daily_stars": 6,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "copilot",
+      "defender",
+      "entra",
+      "entra-id",
+      "microsoft",
+      "purview",
+      "security",
+      "securitycopilot",
+      "sentinel"
+    ],
+    "created_at": "2026-06-10T11:39:11",
+    "updated_at": "2026-06-12T17:56:35"
+  },
+  {
+    "name": "scientific-agents",
+    "full_name": "K-Dense-AI/scientific-agents",
+    "description": "Expert-thinking AGENTS.md profiles that teach AI agents to reason like senior scientists and engineers.",
+    "url": "https://github.com/K-Dense-AI/scientific-agents",
+    "stars": 63,
+    "daily_stars": 4,
+    "language": null,
+    "topics": [
+      "agentic-ai",
+      "agents-md",
+      "ai-agents",
+      "llm",
+      "prompt-engineering",
+      "science"
+    ],
+    "created_at": "2026-06-03T02:43:24",
+    "updated_at": "2026-06-12T17:07:52"
   },
   {
     "name": "shushu-internship-tool",
     "full_name": "LiuMengxuan04/shushu-internship-tool",
     "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
     "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 1326,
-    "daily_stars": 7,
+    "stars": 1328,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "ai",
@@ -74,56 +116,86 @@
       "skills"
     ],
     "created_at": "2026-05-17T11:25:47",
-    "updated_at": "2026-06-12T15:17:18"
+    "updated_at": "2026-06-12T17:33:27"
   },
   {
-    "name": "hermes-agent-control-room",
-    "full_name": "shannhk/hermes-agent-control-room",
-    "description": "Control Room-first template for managing Hermes agents from one VPS agent to specialist teams and orchestrated workflows",
-    "url": "https://github.com/shannhk/hermes-agent-control-room",
-    "stars": 567,
-    "daily_stars": 7,
-    "language": "Shell",
+    "name": "awesome-architecture",
+    "full_name": "study8677/awesome-architecture",
+    "description": "🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. 中英文双语。",
+    "url": "https://github.com/study8677/awesome-architecture",
+    "stars": 1326,
+    "daily_stars": 2,
+    "language": "Vue",
     "topics": [
-      "agent-control-room",
       "ai-agents",
-      "hermes-agent",
-      "multi-agent",
-      "vps"
+      "architecture-decision-records",
+      "architecture-patterns",
+      "awesome",
+      "backend",
+      "c4-model",
+      "chinese",
+      "design-patterns",
+      "distributed-systems",
+      "interview-preparation",
+      "learning-resources",
+      "llm",
+      "microservices",
+      "rag",
+      "scalability",
+      "software-architecture",
+      "software-engineering",
+      "system-design",
+      "system-design-interview",
+      "tech-interview"
     ],
-    "created_at": "2026-05-15T14:18:45",
-    "updated_at": "2026-06-12T14:59:30"
+    "created_at": "2026-05-23T02:44:43",
+    "updated_at": "2026-06-12T16:05:40"
   },
   {
-    "name": "agentpet",
-    "full_name": "ntd4996/agentpet",
-    "description": "A native macOS menu bar app with a desktop pet that monitors your AI coding agents (Claude Code, Codex, Gemini CLI) in real time.",
-    "url": "https://github.com/ntd4996/agentpet",
-    "stars": 203,
-    "daily_stars": 7,
-    "language": "Swift",
+    "name": "agent",
+    "full_name": "PentesterFlow/agent",
+    "description": "Agentic offensive-security in your terminal",
+    "url": "https://github.com/PentesterFlow/agent",
+    "stars": 454,
+    "daily_stars": 2,
+    "language": "TypeScript",
     "topics": [
+      "ai",
       "ai-agents",
-      "claude-code",
-      "codex",
-      "desktop-pet",
-      "developer-tools",
-      "macos",
-      "menubar",
-      "productivity",
-      "swift",
-      "swiftui"
+      "bugbounty",
+      "penetration-testing",
+      "security-audit",
+      "security-automation"
     ],
-    "created_at": "2026-05-31T09:40:06",
-    "updated_at": "2026-06-12T14:53:47"
+    "created_at": "2026-05-31T11:14:35",
+    "updated_at": "2026-06-12T18:10:20"
+  },
+  {
+    "name": "TaskMeld",
+    "full_name": "CCLucky-uu/TaskMeld",
+    "description": "Compose OpenClaw agents into executable DAG workflows. CLI tool, REST + WebSocket API, and   React console included.",
+    "url": "https://github.com/CCLucky-uu/TaskMeld",
+    "stars": 35,
+    "daily_stars": 2,
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "cli",
+      "openclaw",
+      "orchestration",
+      "pipeline",
+      "workflow"
+    ],
+    "created_at": "2026-05-28T10:38:29",
+    "updated_at": "2026-06-12T17:18:36"
   },
   {
     "name": "agents-best-practices",
     "full_name": "DenisSergeevitch/agents-best-practices",
     "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
     "url": "https://github.com/DenisSergeevitch/agents-best-practices",
-    "stars": 1920,
-    "daily_stars": 4,
+    "stars": 1921,
+    "daily_stars": 1,
     "language": null,
     "topics": [
       "agent-skill",
@@ -140,82 +212,6 @@
       "prompt-engineering"
     ],
     "created_at": "2026-05-15T21:32:21",
-    "updated_at": "2026-06-12T15:13:46"
-  },
-  {
-    "name": "ai-engineering-from-scratch-zh",
-    "full_name": "fancyboi999/ai-engineering-from-scratch-zh",
-    "description": "从零精通 AI 工程 · 20 阶段 468 课 · 中文全量翻译 + 配套站点 aieng-zh.cn",
-    "url": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
-    "stars": 197,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "ai-engineering",
-      "chinese",
-      "chinese-translation",
-      "computer-vision",
-      "course",
-      "deep-learning",
-      "from-scratch",
-      "generative-ai",
-      "learn-ai",
-      "llm",
-      "machine-learning",
-      "mcp",
-      "nlp",
-      "python",
-      "reinforcement-learning",
-      "transformers",
-      "tutorial"
-    ],
-    "created_at": "2026-05-26T12:45:07",
-    "updated_at": "2026-06-12T15:34:13"
-  },
-  {
-    "name": "paperjury",
-    "full_name": "u7079256/paperjury",
-    "description": "Pre-submission AI review stress-test for research papers. A Claude Code skill: review, verdict, revise, verify.",
-    "url": "https://github.com/u7079256/paperjury",
-    "stars": 139,
-    "daily_stars": 4,
-    "language": "JavaScript",
-    "topics": [
-      "academic-writing",
-      "ai-agents",
-      "claude-code",
-      "latex",
-      "llm-agents",
-      "paper-review",
-      "peer-review",
-      "research-tool"
-    ],
-    "created_at": "2026-06-02T06:45:10",
-    "updated_at": "2026-06-12T14:46:24"
-  },
-  {
-    "name": "loop-engineering",
-    "full_name": "cobusgreyling/loop-engineering",
-    "description": "Practical reference and patterns for loop engineering,  designing systems that prompt and orchestrate AI coding agents (inspired by Addy Osmani and Boris Cherny / Anthropic)",
-    "url": "https://github.com/cobusgreyling/loop-engineering",
-    "stars": 106,
-    "daily_stars": 4,
-    "language": "JavaScript",
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "claude-code",
-      "codex",
-      "devops-automation",
-      "github-actions",
-      "grok",
-      "llm",
-      "mcp"
-    ],
-    "created_at": "2026-06-09T06:28:20",
-    "updated_at": "2026-06-12T15:18:34"
+    "updated_at": "2026-06-12T17:40:03"
   }
 ]
