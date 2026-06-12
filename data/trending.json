@@ -4,8 +4,8 @@
     "full_name": "DietrichGebert/ponytail",
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 727,
-    "daily_stars": 105,
+    "stars": 863,
+    "daily_stars": 136,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -20,15 +20,15 @@
       "yagni"
     ],
     "created_at": "2026-06-12T00:52:37",
-    "updated_at": "2026-06-12T18:17:56"
+    "updated_at": "2026-06-12T22:04:23"
   },
   {
     "name": "dox",
     "full_name": "agent0ai/dox",
     "description": "Self-documenting AGENTS.md",
     "url": "https://github.com/agent0ai/dox",
-    "stars": 661,
-    "daily_stars": 7,
+    "stars": 674,
+    "daily_stars": 13,
     "language": null,
     "topics": [
       "agents-md",
@@ -37,146 +37,75 @@
       "documentation"
     ],
     "created_at": "2026-06-01T08:25:21",
-    "updated_at": "2026-06-12T18:20:11"
+    "updated_at": "2026-06-12T22:05:21"
   },
   {
-    "name": "agentcookie",
-    "full_name": "mvanhorn/agentcookie",
-    "description": "Your agent runs on a Mac that isn't your daily driver. agentcookie keeps its sessions in sync with the Mac you actually browse on, continuously, encrypted over Tailscale, so OpenClaw, Hermes, or any other agent runtime wakes up authenticated. macOS, peer-to-peer, no cloud middleman.",
-    "url": "https://github.com/mvanhorn/agentcookie",
-    "stars": 424,
-    "daily_stars": 6,
-    "language": "Go",
-    "topics": [
-      "ai-agents",
-      "automation",
-      "chrome",
-      "cli",
-      "cookies",
-      "golang",
-      "macos",
-      "tailscale"
-    ],
-    "created_at": "2026-05-16T19:10:00",
-    "updated_at": "2026-06-12T18:15:50"
-  },
-  {
-    "name": "microsoft-security-skills",
-    "full_name": "vinayaklatthe/microsoft-security-skills",
-    "description": "Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Purview, Intune, Security Copilot",
-    "url": "https://github.com/vinayaklatthe/microsoft-security-skills",
-    "stars": 78,
-    "daily_stars": 6,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "copilot",
-      "defender",
-      "entra",
-      "entra-id",
-      "microsoft",
-      "purview",
-      "security",
-      "securitycopilot",
-      "sentinel"
-    ],
-    "created_at": "2026-06-10T11:39:11",
-    "updated_at": "2026-06-12T17:56:35"
-  },
-  {
-    "name": "scientific-agents",
-    "full_name": "K-Dense-AI/scientific-agents",
-    "description": "Expert-thinking AGENTS.md profiles that teach AI agents to reason like senior scientists and engineers.",
-    "url": "https://github.com/K-Dense-AI/scientific-agents",
-    "stars": 63,
-    "daily_stars": 4,
-    "language": null,
-    "topics": [
-      "agentic-ai",
-      "agents-md",
-      "ai-agents",
-      "llm",
-      "prompt-engineering",
-      "science"
-    ],
-    "created_at": "2026-06-03T02:43:24",
-    "updated_at": "2026-06-12T17:07:52"
-  },
-  {
-    "name": "shushu-internship-tool",
-    "full_name": "LiuMengxuan04/shushu-internship-tool",
-    "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
-    "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-    "stars": 1328,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "skills"
-    ],
-    "created_at": "2026-05-17T11:25:47",
-    "updated_at": "2026-06-12T17:33:27"
-  },
-  {
-    "name": "awesome-architecture",
-    "full_name": "study8677/awesome-architecture",
-    "description": "🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. 中英文双语。",
-    "url": "https://github.com/study8677/awesome-architecture",
-    "stars": 1326,
-    "daily_stars": 2,
-    "language": "Vue",
-    "topics": [
-      "ai-agents",
-      "architecture-decision-records",
-      "architecture-patterns",
-      "awesome",
-      "backend",
-      "c4-model",
-      "chinese",
-      "design-patterns",
-      "distributed-systems",
-      "interview-preparation",
-      "learning-resources",
-      "llm",
-      "microservices",
-      "rag",
-      "scalability",
-      "software-architecture",
-      "software-engineering",
-      "system-design",
-      "system-design-interview",
-      "tech-interview"
-    ],
-    "created_at": "2026-05-23T02:44:43",
-    "updated_at": "2026-06-12T16:05:40"
-  },
-  {
-    "name": "agent",
-    "full_name": "PentesterFlow/agent",
-    "description": "Agentic offensive-security in your terminal",
-    "url": "https://github.com/PentesterFlow/agent",
-    "stars": 454,
-    "daily_stars": 2,
+    "name": "lazycodex",
+    "full_name": "code-yeongyu/lazycodex",
+    "description": "LazyCodex: Codex for no-brainers. You don't need to think. Just prompt with ultrawork.",
+    "url": "https://github.com/code-yeongyu/lazycodex",
+    "stars": 952,
+    "daily_stars": 7,
     "language": "TypeScript",
     "topics": [
       "ai",
       "ai-agents",
-      "bugbounty",
-      "penetration-testing",
-      "security-audit",
-      "security-automation"
+      "claude",
+      "claude-code",
+      "cli",
+      "codex",
+      "developer-tools",
+      "lazy",
+      "lazycodex",
+      "oh-my-openagent",
+      "omo",
+      "openai",
+      "orchestration",
+      "typescript"
     ],
-    "created_at": "2026-05-31T11:14:35",
-    "updated_at": "2026-06-12T18:10:20"
+    "created_at": "2026-05-25T07:56:45",
+    "updated_at": "2026-06-12T21:57:39"
+  },
+  {
+    "name": "ShardBrowser",
+    "full_name": "ProxyShard/ShardBrowser",
+    "description": "Free, open-source anti-detect browser launcher for web scraping and multi-accounting. By the ProxyShard team. Engine-level fingerprint spoofing in Chromium 148 (WebGL / WebGPU / Client Hints / fonts / TLS), 170+ device profiles bundled, stable QUIC + WebRTC over SOCKS5.",
+    "url": "https://github.com/ProxyShard/ShardBrowser",
+    "stars": 365,
+    "daily_stars": 4,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "anti-detect-browser",
+      "antidetect-browser",
+      "browser-fingerprinting",
+      "chromium",
+      "fingerprint",
+      "headless-browser",
+      "headless-chrome",
+      "multi-accounting",
+      "playwright",
+      "proxy",
+      "proxyshard",
+      "puppeteer",
+      "quic",
+      "stealth-browser",
+      "tauri",
+      "udp",
+      "web-scraping",
+      "webrtc",
+      "webscraping"
+    ],
+    "created_at": "2026-05-30T23:05:14",
+    "updated_at": "2026-06-12T21:49:29"
   },
   {
     "name": "TaskMeld",
     "full_name": "CCLucky-uu/TaskMeld",
     "description": "Compose OpenClaw agents into executable DAG workflows. CLI tool, REST + WebSocket API, and   React console included.",
     "url": "https://github.com/CCLucky-uu/TaskMeld",
-    "stars": 35,
-    "daily_stars": 2,
+    "stars": 39,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -187,15 +116,15 @@
       "workflow"
     ],
     "created_at": "2026-05-28T10:38:29",
-    "updated_at": "2026-06-12T17:18:36"
+    "updated_at": "2026-06-12T21:31:03"
   },
   {
     "name": "agents-best-practices",
     "full_name": "DenisSergeevitch/agents-best-practices",
     "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
     "url": "https://github.com/DenisSergeevitch/agents-best-practices",
-    "stars": 1921,
-    "daily_stars": 1,
+    "stars": 1924,
+    "daily_stars": 3,
     "language": null,
     "topics": [
       "agent-skill",
@@ -212,6 +141,100 @@
       "prompt-engineering"
     ],
     "created_at": "2026-05-15T21:32:21",
-    "updated_at": "2026-06-12T17:40:03"
+    "updated_at": "2026-06-12T21:35:58"
+  },
+  {
+    "name": "shushu-internship-tool",
+    "full_name": "LiuMengxuan04/shushu-internship-tool",
+    "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
+    "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
+    "stars": 1331,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "skills"
+    ],
+    "created_at": "2026-05-17T11:25:47",
+    "updated_at": "2026-06-12T20:48:34"
+  },
+  {
+    "name": "homelab-monitor",
+    "full_name": "SikamikanikoBG/homelab-monitor",
+    "description": "Plug-and-play homelab dashboard in one container — GPU, local-AI VRAM, Docker, systemd, host health. Built-in read-only MCP server so AI agents can explore it too.",
+    "url": "https://github.com/SikamikanikoBG/homelab-monitor",
+    "stars": 95,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "agentic",
+      "ai-agents",
+      "ai-infrastructure",
+      "claude",
+      "dashboard",
+      "docker",
+      "gpu",
+      "gpu-monitoring",
+      "homelab",
+      "llm",
+      "local-ai",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "monitoring",
+      "nvidia",
+      "ollama",
+      "self-hosted",
+      "sysadmin",
+      "vram"
+    ],
+    "created_at": "2026-05-25T09:46:28",
+    "updated_at": "2026-06-12T21:52:32"
+  },
+  {
+    "name": "microsoft-security-skills",
+    "full_name": "vinayaklatthe/microsoft-security-skills",
+    "description": "Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Purview, Intune, Security Copilot",
+    "url": "https://github.com/vinayaklatthe/microsoft-security-skills",
+    "stars": 81,
+    "daily_stars": 3,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "copilot",
+      "defender",
+      "entra",
+      "entra-id",
+      "microsoft",
+      "purview",
+      "security",
+      "securitycopilot",
+      "sentinel"
+    ],
+    "created_at": "2026-06-10T11:39:11",
+    "updated_at": "2026-06-12T21:54:47"
+  },
+  {
+    "name": "ComfyUI-LTXV-TimeGated-LoRA",
+    "full_name": "Jinx138/ComfyUI-LTXV-TimeGated-LoRA",
+    "description": "Temporal LoRA gating for LTX 2.3 workflows in ComfyUI.",
+    "url": "https://github.com/Jinx138/ComfyUI-LTXV-TimeGated-LoRA",
+    "stars": 8,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "comfyui",
+      "comfyui-custom-node",
+      "comfyui-custom-nodes",
+      "gating",
+      "i2v",
+      "prompt-relay",
+      "temporal",
+      "video-generation",
+      "workflow"
+    ],
+    "created_at": "2026-06-03T16:20:36",
+    "updated_at": "2026-06-12T21:36:05"
   }
 ]
