@@ -1,5 +1,28 @@
 [
   {
+    "name": "ponytail",
+    "full_name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "stars": 142,
+    "daily_stars": 0,
+    "language": "JavaScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "cursor-rules",
+      "developer-tools",
+      "llm",
+      "prompt-engineering",
+      "yagni"
+    ],
+    "created_at": "2026-06-12T00:52:37",
+    "updated_at": "2026-06-12T05:12:11"
+  },
+  {
     "name": "forsy-trace-skill",
     "full_name": "Forsy-AI/forsy-trace-skill",
     "description": "Open skill for capturing AI agent work as structured traces.",
@@ -51,8 +74,8 @@
     "full_name": "cobusgreyling/loop-engineering",
     "description": "Practical reference and patterns for loop engineering,  designing systems that prompt and orchestrate AI coding agents (inspired by Addy Osmani and Boris Cherny / Anthropic)",
     "url": "https://github.com/cobusgreyling/loop-engineering",
-    "stars": 91,
-    "daily_stars": 3,
+    "stars": 97,
+    "daily_stars": 6,
     "language": "JavaScript",
     "topics": [
       "agentic-ai",
@@ -66,15 +89,15 @@
       "mcp"
     ],
     "created_at": "2026-06-09T06:28:20",
-    "updated_at": "2026-06-11T22:04:43"
+    "updated_at": "2026-06-12T04:27:09"
   },
   {
     "name": "hermes-link-curator",
     "full_name": "dodo-reach/hermes-link-curator",
     "description": "Hermes profile pack for archiving and browsing curated links + web dashboard app",
     "url": "https://github.com/dodo-reach/hermes-link-curator",
-    "stars": 84,
-    "daily_stars": 0,
+    "stars": 85,
+    "daily_stars": 1,
     "language": "HTML",
     "topics": [
       "agent-skills",
@@ -85,15 +108,15 @@
       "productivity-tools"
     ],
     "created_at": "2026-06-05T09:36:50",
-    "updated_at": "2026-06-11T11:26:50"
+    "updated_at": "2026-06-11T22:31:51"
   },
   {
     "name": "pi-infobar",
     "full_name": "phun333/pi-infobar",
     "description": "Native macOS menu bar dashboard for Pi agent usage, cost, languages, models, projects & tokens.",
     "url": "https://github.com/phun333/pi-infobar",
-    "stars": 72,
-    "daily_stars": 4,
+    "stars": 73,
+    "daily_stars": 1,
     "language": "Swift",
     "topics": [
       "ai-agents",
@@ -108,15 +131,15 @@
       "usage-stats"
     ],
     "created_at": "2026-06-05T07:42:20",
-    "updated_at": "2026-06-11T19:42:49"
+    "updated_at": "2026-06-11T23:06:47"
   },
   {
     "name": "awesome-agent-loops",
     "full_name": "serenakeyitan/awesome-agent-loops",
     "description": "A curated collection of the best /loop, /goal, and /schedule uses for Claude Code & Codex — real commands sourced from Twitter/X. The awesome-list of agent loops.",
     "url": "https://github.com/serenakeyitan/awesome-agent-loops",
-    "stars": 60,
-    "daily_stars": 2,
+    "stars": 63,
+    "daily_stars": 3,
     "language": null,
     "topics": [
       "agentic",
@@ -127,7 +150,30 @@
       "codex"
     ],
     "created_at": "2026-06-09T01:26:51",
-    "updated_at": "2026-06-11T21:19:58"
+    "updated_at": "2026-06-12T03:49:52"
+  },
+  {
+    "name": "microsoft-security-skills",
+    "full_name": "vinayaklatthe/microsoft-security-skills",
+    "description": "Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Purview, Intune, Security Copilot",
+    "url": "https://github.com/vinayaklatthe/microsoft-security-skills",
+    "stars": 62,
+    "daily_stars": 7,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "copilot",
+      "defender",
+      "entra",
+      "entra-id",
+      "microsoft",
+      "purview",
+      "security",
+      "securitycopilot",
+      "sentinel"
+    ],
+    "created_at": "2026-06-10T11:39:11",
+    "updated_at": "2026-06-12T04:09:58"
   },
   {
     "name": "claimpilot-harness",
@@ -150,69 +196,22 @@
     "updated_at": "2026-06-10T23:46:27"
   },
   {
-    "name": "microsoft-security-skills",
-    "full_name": "vinayaklatthe/microsoft-security-skills",
-    "description": "Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Purview, Intune, Security Copilot",
-    "url": "https://github.com/vinayaklatthe/microsoft-security-skills",
-    "stars": 55,
-    "daily_stars": 9,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "copilot",
-      "defender",
-      "entra",
-      "entra-id",
-      "microsoft",
-      "purview",
-      "security",
-      "securitycopilot",
-      "sentinel"
-    ],
-    "created_at": "2026-06-10T11:39:11",
-    "updated_at": "2026-06-11T21:09:08"
-  },
-  {
-    "name": "Hephaestus",
-    "full_name": "agentlas-ai/Hephaestus",
-    "description": "No-code AI agent builder — turn one sentence into a single agent or a multi-agent team. The engine inside Agentlas. A no-code CrewAI / LangGraph / AutoGen alternative that runs on Claude Code, Codex, and Cursor.",
-    "url": "https://github.com/agentlas-ai/Hephaestus",
-    "stars": 51,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "agent-framework",
-      "agentic-ai",
-      "ai-agent-builder",
-      "ai-agents",
-      "autogen",
-      "claude-code",
-      "crewai-alternative",
-      "langgraph",
-      "llm",
-      "meta-agent",
-      "multi-agent",
-      "no-code"
-    ],
-    "created_at": "2026-06-04T04:33:26",
-    "updated_at": "2026-06-11T22:10:05"
-  },
-  {
-    "name": "OpenSkill",
-    "full_name": "OpenLAIR/OpenSkill",
-    "description": "Open-World Self-Evolution for LLM Agents — agents that build both their skills and their own verification signals from scratch, with no target-task supervision. (Code coming soon.)",
-    "url": "https://github.com/OpenLAIR/OpenSkill",
-    "stars": 47,
+    "name": "MCPify",
+    "full_name": "amarnath3003/MCPify",
+    "description": "MCPify is an AI enablement compiler that transforms existing applications into AI-native, agent-operable systems.",
+    "url": "https://github.com/amarnath3003/MCPify",
+    "stars": 42,
     "daily_stars": 0,
-    "language": null,
+    "language": "TypeScript",
     "topics": [
-      "agent-skills",
+      "ai",
       "ai-agents",
-      "llm-agents",
-      "open-world",
-      "self-evolving-agents"
+      "hackathon",
+      "mcp",
+      "mcp-server",
+      "npm"
     ],
-    "created_at": "2026-06-03T23:32:43",
-    "updated_at": "2026-06-11T08:23:23"
+    "created_at": "2026-06-06T11:31:43",
+    "updated_at": "2026-06-11T16:29:32"
   }
 ]
