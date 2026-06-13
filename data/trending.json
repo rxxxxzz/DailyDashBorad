@@ -4,8 +4,8 @@
     "full_name": "DietrichGebert/ponytail",
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 992,
-    "daily_stars": 129,
+    "stars": 1081,
+    "daily_stars": 89,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -20,15 +20,15 @@
       "yagni"
     ],
     "created_at": "2026-06-12T00:52:37",
-    "updated_at": "2026-06-13T05:01:20"
+    "updated_at": "2026-06-13T10:44:09"
   },
   {
     "name": "dox",
     "full_name": "agent0ai/dox",
     "description": "Self-documenting AGENTS.md",
     "url": "https://github.com/agent0ai/dox",
-    "stars": 698,
-    "daily_stars": 24,
+    "stars": 715,
+    "daily_stars": 17,
     "language": null,
     "topics": [
       "agents-md",
@@ -37,33 +37,31 @@
       "documentation"
     ],
     "created_at": "2026-06-01T08:25:21",
-    "updated_at": "2026-06-13T04:26:17"
+    "updated_at": "2026-06-13T10:07:19"
   },
   {
-    "name": "nova",
-    "full_name": "alfredxw/nova",
-    "description": "Nova 是一个面向小说创作的 AI Novel 创作 IDE，提供 AI 创作 Agent 辅助小说创作，支持RPG式互动，覆盖灵感、设定、大纲、正文、版本管理等一系列小说创作流程",
-    "url": "https://github.com/alfredxw/nova",
-    "stars": 98,
-    "daily_stars": 22,
-    "language": "TypeScript",
+    "name": "shushu-internship-tool",
+    "full_name": "LiuMengxuan04/shushu-internship-tool",
+    "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
+    "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
+    "stars": 1348,
+    "daily_stars": 16,
+    "language": "Python",
     "topics": [
-      "agent",
+      "ai",
       "ai-agents",
-      "ai-tools",
-      "ide",
-      "novel"
+      "skills"
     ],
-    "created_at": "2026-05-19T09:56:12",
-    "updated_at": "2026-06-13T04:51:22"
+    "created_at": "2026-05-17T11:25:47",
+    "updated_at": "2026-06-13T10:29:07"
   },
   {
     "name": "lazycodex",
     "full_name": "code-yeongyu/lazycodex",
     "description": "LazyCodex: Codex for no-brainers. You don't need to think. Just prompt with ultrawork.",
     "url": "https://github.com/code-yeongyu/lazycodex",
-    "stars": 963,
-    "daily_stars": 11,
+    "stars": 975,
+    "daily_stars": 12,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -82,14 +80,78 @@
       "typescript"
     ],
     "created_at": "2026-05-25T07:56:45",
-    "updated_at": "2026-06-13T03:26:01"
+    "updated_at": "2026-06-13T10:52:17"
+  },
+  {
+    "name": "agentcookie",
+    "full_name": "mvanhorn/agentcookie",
+    "description": "Your agent runs on a Mac that isn't your daily driver. agentcookie keeps its sessions in sync with the Mac you actually browse on, continuously, encrypted over Tailscale, so OpenClaw, Hermes, or any other agent runtime wakes up authenticated. macOS, peer-to-peer, no cloud middleman.",
+    "url": "https://github.com/mvanhorn/agentcookie",
+    "stars": 441,
+    "daily_stars": 11,
+    "language": "Go",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "chrome",
+      "cli",
+      "cookies",
+      "golang",
+      "macos",
+      "tailscale"
+    ],
+    "created_at": "2026-05-16T19:10:00",
+    "updated_at": "2026-06-13T10:46:07"
+  },
+  {
+    "name": "agents-best-practices",
+    "full_name": "DenisSergeevitch/agents-best-practices",
+    "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
+    "url": "https://github.com/DenisSergeevitch/agents-best-practices",
+    "stars": 1935,
+    "daily_stars": 10,
+    "language": null,
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "agentic-workflows",
+      "agents",
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "codex",
+      "codex-skill",
+      "mcp",
+      "prompt-engineering"
+    ],
+    "created_at": "2026-05-15T21:32:21",
+    "updated_at": "2026-06-13T10:04:35"
+  },
+  {
+    "name": "nova",
+    "full_name": "alfredxw/nova",
+    "description": "Nova 是一个面向小说创作的 AI Novel 创作 IDE，提供 AI 创作 Agent 辅助小说创作，支持RPG式互动，覆盖灵感、设定、大纲、正文、版本管理等一系列小说创作流程",
+    "url": "https://github.com/alfredxw/nova",
+    "stars": 106,
+    "daily_stars": 8,
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "ai-agents",
+      "ai-tools",
+      "ide",
+      "novel"
+    ],
+    "created_at": "2026-05-19T09:56:12",
+    "updated_at": "2026-06-13T10:06:05"
   },
   {
     "name": "loop-engineering",
     "full_name": "cobusgreyling/loop-engineering",
     "description": "Practical reference and patterns for loop engineering,  designing systems that prompt and orchestrate AI coding agents (inspired by Addy Osmani and Boris Cherny / Anthropic)",
     "url": "https://github.com/cobusgreyling/loop-engineering",
-    "stars": 115,
+    "stars": 122,
     "daily_stars": 7,
     "language": "JavaScript",
     "topics": [
@@ -104,14 +166,40 @@
       "mcp"
     ],
     "created_at": "2026-06-09T06:28:20",
-    "updated_at": "2026-06-13T04:54:44"
+    "updated_at": "2026-06-13T10:37:36"
+  },
+  {
+    "name": "idea-to-ship-skills",
+    "full_name": "nelsonwerd/idea-to-ship-skills",
+    "description": "Composable Agent Skills (Claude + OpenAI Codex) for taking an idea from fuzzy → validated → sequenced build → shipped — a manual tier (ideate, deep-dive, prompt-pack) and an autonomous tier (autopilot, build-loop).",
+    "url": "https://github.com/nelsonwerd/idea-to-ship-skills",
+    "stars": 51,
+    "daily_stars": 7,
+    "language": "Shell",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-tools",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "ideation",
+      "llm",
+      "openai-codex",
+      "product-development",
+      "prompt-engineering"
+    ],
+    "created_at": "2026-06-09T18:15:03",
+    "updated_at": "2026-06-13T09:49:58"
   },
   {
     "name": "ai-engineering-from-scratch-zh",
     "full_name": "fancyboi999/ai-engineering-from-scratch-zh",
     "description": "从零精通 AI 工程 · 20 阶段 468 课 · 中文全量翻译 + 配套站点 aieng-zh.cn",
     "url": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
-    "stars": 205,
+    "stars": 211,
     "daily_stars": 6,
     "language": "Python",
     "topics": [
@@ -137,96 +225,6 @@
       "tutorial"
     ],
     "created_at": "2026-05-26T12:45:07",
-    "updated_at": "2026-06-13T04:17:41"
-  },
-  {
-    "name": "ai-collaboration-notebook",
-    "full_name": "roam-bit/ai-collaboration-notebook",
-    "description": "让 AI 主动记错题、自我迭代的协作机制 · A framework that makes your AI reflect on its own mistakes and stop repeating them",
-    "url": "https://github.com/roam-bit/ai-collaboration-notebook",
-    "stars": 47,
-    "daily_stars": 6,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "ai-collaboration",
-      "ai-tools",
-      "chatgpt",
-      "claude",
-      "claude-code",
-      "codex",
-      "cursor",
-      "developer-tools",
-      "gemini",
-      "llm",
-      "prompt-engineering"
-    ],
-    "created_at": "2026-05-28T19:09:03",
-    "updated_at": "2026-06-13T04:10:59"
-  },
-  {
-    "name": "agentcookie",
-    "full_name": "mvanhorn/agentcookie",
-    "description": "Your agent runs on a Mac that isn't your daily driver. agentcookie keeps its sessions in sync with the Mac you actually browse on, continuously, encrypted over Tailscale, so OpenClaw, Hermes, or any other agent runtime wakes up authenticated. macOS, peer-to-peer, no cloud middleman.",
-    "url": "https://github.com/mvanhorn/agentcookie",
-    "stars": 430,
-    "daily_stars": 5,
-    "language": "Go",
-    "topics": [
-      "ai-agents",
-      "automation",
-      "chrome",
-      "cli",
-      "cookies",
-      "golang",
-      "macos",
-      "tailscale"
-    ],
-    "created_at": "2026-05-16T19:10:00",
-    "updated_at": "2026-06-13T03:38:58"
-  },
-  {
-    "name": "agentpet",
-    "full_name": "ntd4996/agentpet",
-    "description": "A native macOS menu bar app with a desktop pet that monitors your AI coding agents (Claude Code, Codex, Gemini CLI) in real time.",
-    "url": "https://github.com/ntd4996/agentpet",
-    "stars": 209,
-    "daily_stars": 5,
-    "language": "Swift",
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "codex",
-      "desktop-pet",
-      "developer-tools",
-      "macos",
-      "menubar",
-      "productivity",
-      "swift",
-      "swiftui"
-    ],
-    "created_at": "2026-05-31T09:40:06",
-    "updated_at": "2026-06-13T04:39:35"
-  },
-  {
-    "name": "paperjury",
-    "full_name": "u7079256/paperjury",
-    "description": "Pre-submission AI review stress-test for research papers. A Claude Code skill: review, verdict, revise, verify.",
-    "url": "https://github.com/u7079256/paperjury",
-    "stars": 147,
-    "daily_stars": 5,
-    "language": "JavaScript",
-    "topics": [
-      "academic-writing",
-      "ai-agents",
-      "claude-code",
-      "latex",
-      "llm-agents",
-      "paper-review",
-      "peer-review",
-      "research-tool"
-    ],
-    "created_at": "2026-06-02T06:45:10",
-    "updated_at": "2026-06-13T01:51:11"
+    "updated_at": "2026-06-13T10:46:06"
   }
 ]
