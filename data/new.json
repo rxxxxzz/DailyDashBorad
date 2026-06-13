@@ -4,8 +4,8 @@
     "full_name": "DietrichGebert/ponytail",
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 1152,
-    "daily_stars": 71,
+    "stars": 1229,
+    "daily_stars": 77,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -20,15 +20,15 @@
       "yagni"
     ],
     "created_at": "2026-06-12T00:52:37",
-    "updated_at": "2026-06-13T14:33:58"
+    "updated_at": "2026-06-13T17:52:57"
   },
   {
     "name": "loop-engineering",
     "full_name": "cobusgreyling/loop-engineering",
     "description": "Practical reference and patterns for loop engineering,  designing systems that prompt and orchestrate AI coding agents (inspired by Addy Osmani and Boris Cherny / Anthropic)",
     "url": "https://github.com/cobusgreyling/loop-engineering",
-    "stars": 128,
-    "daily_stars": 6,
+    "stars": 130,
+    "daily_stars": 2,
     "language": "JavaScript",
     "topics": [
       "agentic-ai",
@@ -42,7 +42,52 @@
       "mcp"
     ],
     "created_at": "2026-06-09T06:28:20",
-    "updated_at": "2026-06-13T14:17:42"
+    "updated_at": "2026-06-13T15:21:06"
+  },
+  {
+    "name": "clarilayer",
+    "full_name": "clarilayer/clarilayer",
+    "description": "Stop re-explaining your data to your AI every session. The individual-analyst context layer, delivered over MCP (Claude Code / Cursor / Codex).",
+    "url": "https://github.com/clarilayer/clarilayer",
+    "stars": 124,
+    "daily_stars": 0,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "analytics",
+      "claude-code",
+      "context-engineering",
+      "cursor",
+      "data-engineering",
+      "dbt",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "created_at": "2026-06-08T13:17:43",
+    "updated_at": "2026-06-13T17:46:52"
+  },
+  {
+    "name": "ghostwork",
+    "full_name": "hvardhan878/ghostwork",
+    "description": "Your personal AI worker. Watches your screen, learns your workflows, automates the repetitive parts. Built on Screenpipe. All local, no cloud, no setup. It gets better every day without you doing anything differently.",
+    "url": "https://github.com/hvardhan878/ghostwork",
+    "stars": 122,
+    "daily_stars": 0,
+    "language": "TypeScript",
+    "topics": [
+      "accesibility",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "automation",
+      "llm",
+      "macos",
+      "screenpipe",
+      "typescript"
+    ],
+    "created_at": "2026-06-09T13:34:34",
+    "updated_at": "2026-06-13T17:46:08"
   },
   {
     "name": "Trend2Video-Pro",
@@ -50,7 +95,7 @@
     "description": "The open-source Trend-to-Video Agent Framework for content creators",
     "url": "https://github.com/2417467487-hub/Trend2Video-Pro",
     "stars": 111,
-    "daily_stars": 10,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -69,12 +114,27 @@
     "updated_at": "2026-06-13T14:32:50"
   },
   {
+    "name": "aipath",
+    "full_name": "buynao/aipath",
+    "description": "Interactive AI literacy course — 30   lessons, zero math",
+    "url": "https://github.com/buynao/aipath",
+    "stars": 87,
+    "daily_stars": 19,
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "machine-learning"
+    ],
+    "created_at": "2026-06-12T10:58:35",
+    "updated_at": "2026-06-13T16:31:46"
+  },
+  {
     "name": "microsoft-security-skills",
     "full_name": "vinayaklatthe/microsoft-security-skills",
     "description": "Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Purview, Intune, Security Copilot",
     "url": "https://github.com/vinayaklatthe/microsoft-security-skills",
     "stars": 85,
-    "daily_stars": 2,
+    "daily_stars": 0,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -96,8 +156,8 @@
     "full_name": "serenakeyitan/awesome-agent-loops",
     "description": "A curated collection of the best /loop, /goal, and /schedule uses for Claude Code & Codex — real commands sourced from Twitter/X. The awesome-list of agent loops.",
     "url": "https://github.com/serenakeyitan/awesome-agent-loops",
-    "stars": 75,
-    "daily_stars": 0,
+    "stars": 76,
+    "daily_stars": 1,
     "language": null,
     "topics": [
       "agentic",
@@ -108,49 +168,14 @@
       "codex"
     ],
     "created_at": "2026-06-09T01:26:51",
-    "updated_at": "2026-06-13T09:00:44"
-  },
-  {
-    "name": "aipath",
-    "full_name": "buynao/aipath",
-    "description": "Interactive AI literacy course — 30   lessons, zero math",
-    "url": "https://github.com/buynao/aipath",
-    "stars": 68,
-    "daily_stars": 14,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "machine-learning"
-    ],
-    "created_at": "2026-06-12T10:58:35",
-    "updated_at": "2026-06-13T14:19:31"
-  },
-  {
-    "name": "claimpilot-harness",
-    "full_name": "samarailly51-pixel/claimpilot-harness",
-    "description": "Crash-test insurance claim AI agents before production.",
-    "url": "https://github.com/samarailly51-pixel/claimpilot-harness",
-    "stars": 58,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "agent-evaluation",
-      "ai-agents",
-      "insurance",
-      "llm-evals",
-      "prompt-injection",
-      "python",
-      "testing"
-    ],
-    "created_at": "2026-06-05T14:47:21",
-    "updated_at": "2026-06-13T11:52:19"
+    "updated_at": "2026-06-13T15:57:38"
   },
   {
     "name": "idea-to-ship-skills",
     "full_name": "nelsonwerd/idea-to-ship-skills",
     "description": "Composable Agent Skills (Claude + OpenAI Codex) for taking an idea from fuzzy → validated → sequenced build → shipped — a manual tier (ideate, deep-dive, prompt-pack) and an autonomous tier (autopilot, build-loop).",
     "url": "https://github.com/nelsonwerd/idea-to-ship-skills",
-    "stars": 52,
+    "stars": 53,
     "daily_stars": 1,
     "language": "Shell",
     "topics": [
@@ -169,7 +194,7 @@
       "prompt-engineering"
     ],
     "created_at": "2026-06-09T18:15:03",
-    "updated_at": "2026-06-13T11:29:08"
+    "updated_at": "2026-06-13T14:45:46"
   },
   {
     "name": "agentic-engineering-handbook",
@@ -177,7 +202,7 @@
     "description": "The definitive OpenAI, Claude, MCP, Harness, Evals, and Production Agent Systems learning roadmap.",
     "url": "https://github.com/keyuchen21/agentic-engineering-handbook",
     "stars": 50,
-    "daily_stars": 2,
+    "daily_stars": 0,
     "language": null,
     "topics": [
       "agentic-engineering",
@@ -190,25 +215,6 @@
       "openai"
     ],
     "created_at": "2026-06-09T15:25:00",
-    "updated_at": "2026-06-13T12:56:08"
-  },
-  {
-    "name": "MCPify",
-    "full_name": "amarnath3003/MCPify",
-    "description": "MCPify is an AI enablement compiler that transforms existing applications into AI-native, agent-operable systems.",
-    "url": "https://github.com/amarnath3003/MCPify",
-    "stars": 49,
-    "daily_stars": 0,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "hackathon",
-      "mcp",
-      "mcp-server",
-      "npm"
-    ],
-    "created_at": "2026-06-06T11:31:43",
-    "updated_at": "2026-06-13T06:40:07"
+    "updated_at": "2026-06-13T17:12:45"
   }
 ]
