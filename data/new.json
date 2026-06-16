@@ -4,8 +4,8 @@
     "full_name": "DietrichGebert/ponytail",
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 17884,
-    "daily_stars": 1979,
+    "stars": 20650,
+    "daily_stars": 2766,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -20,37 +20,34 @@
       "yagni"
     ],
     "created_at": "2026-06-12T00:52:37",
-    "updated_at": "2026-06-16T06:05:08"
+    "updated_at": "2026-06-16T13:11:04"
   },
   {
-    "name": "chubbyskills",
-    "full_name": "chubbyguan/chubbyskills",
-    "description": "把中文全渠道内容（抖音 / B站 / 小红书 / 公众号 / X / 播客）采集进个人知识库的 13 个 AI Skill：图文存图、视频转文字稿、字幕优先免 GPU，附带知识库 MCP server。 ｜ Ingest Chinese content into your personal knowledge base — image/video routing, subtitle-first transcription, and a KB MCP server.",
-    "url": "https://github.com/chubbyguan/chubbyskills",
-    "stars": 362,
-    "daily_stars": 6,
+    "name": "omnigent",
+    "full_name": "omnigent-ai/omnigent",
+    "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+    "url": "https://github.com/omnigent-ai/omnigent",
+    "stars": 2268,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
-      "agent-skills",
+      "agents",
+      "ai",
       "ai-agents",
-      "chinese",
-      "claude-code",
-      "knowledge-base",
-      "mcp",
-      "obsidian",
-      "second-brain",
-      "transcription",
-      "xiaohongshu"
+      "developer-tools",
+      "llm",
+      "ml",
+      "python"
     ],
-    "created_at": "2026-06-08T09:22:13",
-    "updated_at": "2026-06-16T05:23:16"
+    "created_at": "2026-06-11T12:18:13",
+    "updated_at": "2026-06-16T13:09:52"
   },
   {
     "name": "loop-engineering",
     "full_name": "cobusgreyling/loop-engineering",
     "description": "Practical reference and patterns for loop engineering,  designing systems that prompt and orchestrate AI coding agents (inspired by Addy Osmani and Boris Cherny / Anthropic)",
     "url": "https://github.com/cobusgreyling/loop-engineering",
-    "stars": 281,
+    "stars": 303,
     "daily_stars": 22,
     "language": "JavaScript",
     "topics": [
@@ -65,22 +62,50 @@
       "mcp"
     ],
     "created_at": "2026-06-09T06:28:20",
-    "updated_at": "2026-06-16T05:46:50"
+    "updated_at": "2026-06-16T12:43:32"
   },
   {
     "name": "aipath",
     "full_name": "buynao/aipath",
     "description": "Interactive AI literacy course — 30   lessons, zero math",
     "url": "https://github.com/buynao/aipath",
-    "stars": 267,
-    "daily_stars": 10,
+    "stars": 275,
+    "daily_stars": 8,
     "language": "JavaScript",
     "topics": [
       "ai",
       "machine-learning"
     ],
     "created_at": "2026-06-12T10:58:35",
-    "updated_at": "2026-06-16T04:11:13"
+    "updated_at": "2026-06-16T12:04:58"
+  },
+  {
+    "name": "compass-skills",
+    "full_name": "dongshuyan/compass-skills",
+    "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+    "url": "https://github.com/dongshuyan/compass-skills",
+    "stars": 145,
+    "daily_stars": 56,
+    "language": "Python",
+    "topics": [
+      "agent-memory",
+      "agent-skills",
+      "ai-agents",
+      "ai-coding-agent",
+      "claude-code",
+      "claude-skills",
+      "codex-skills",
+      "developer-tools",
+      "local-first",
+      "openai-codex",
+      "personal-ai",
+      "prompt-engineering",
+      "skill-md",
+      "task-management",
+      "workflow-automation"
+    ],
+    "created_at": "2026-06-15T06:28:04",
+    "updated_at": "2026-06-16T13:10:36"
   },
   {
     "name": "clarilayer",
@@ -110,8 +135,8 @@
     "full_name": "hvardhan878/ghostwork",
     "description": "Your personal AI worker. Watches your screen, learns your workflows, automates the repetitive parts. Built on Screenpipe. All local, no cloud, no setup. It gets better every day without you doing anything differently.",
     "url": "https://github.com/hvardhan878/ghostwork",
-    "stars": 123,
-    "daily_stars": 0,
+    "stars": 124,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "accesibility",
@@ -125,39 +150,15 @@
       "typescript"
     ],
     "created_at": "2026-06-09T13:34:34",
-    "updated_at": "2026-06-14T09:31:44"
-  },
-  {
-    "name": "Trend2Video-Pro",
-    "full_name": "2417467487-hub/Trend2Video-Pro",
-    "description": "The open-source Trend-to-Video Agent Framework for content creators",
-    "url": "https://github.com/2417467487-hub/Trend2Video-Pro",
-    "stars": 122,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-video",
-      "content-automation",
-      "creator-tools",
-      "edge-tts",
-      "fastapi",
-      "moviepy",
-      "short-video",
-      "streamlit",
-      "trend-analysis",
-      "trend-to-video"
-    ],
-    "created_at": "2026-06-08T08:50:25",
-    "updated_at": "2026-06-15T09:55:25"
+    "updated_at": "2026-06-16T08:33:38"
   },
   {
     "name": "FableCodex",
     "full_name": "baskduf/FableCodex",
     "description": "🧑🏿‍💻 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
     "url": "https://github.com/baskduf/FableCodex",
-    "stars": 121,
-    "daily_stars": 6,
+    "stars": 122,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "codex",
@@ -168,43 +169,34 @@
       "workflow"
     ],
     "created_at": "2026-06-14T13:11:00",
-    "updated_at": "2026-06-16T05:24:00"
+    "updated_at": "2026-06-16T13:09:06"
   },
   {
-    "name": "Nubase",
-    "full_name": "OtterMind/Nubase",
-    "description": "Turn AI-written code into real apps. Nubase is an open-source, AI-native backend platform for AI Coding, agentic applications, and modern product teams: Memory, Database, Storage, and Auth in one self-hostable service",
-    "url": "https://github.com/OtterMind/Nubase",
-    "stars": 115,
-    "daily_stars": 33,
-    "language": "Java",
+    "name": "awesome-agent-loops",
+    "full_name": "serenakeyitan/awesome-agent-loops",
+    "description": "A curated collection of the best /loop, /goal, and /schedule uses for Claude Code & Codex — real commands sourced from Twitter/X. The awesome-list of agent loops.",
+    "url": "https://github.com/serenakeyitan/awesome-agent-loops",
+    "stars": 109,
+    "daily_stars": 24,
+    "language": null,
     "topics": [
-      "agent",
-      "ai",
+      "agentic",
       "ai-agents",
-      "cli",
-      "deno",
-      "memory",
-      "openclaw",
-      "opencode",
-      "pgvector",
-      "postgresql",
-      "postgrest",
-      "rag",
-      "skill",
-      "supabase",
-      "supabase-auth"
+      "awesome",
+      "awesome-list",
+      "claude-code",
+      "codex"
     ],
-    "created_at": "2026-06-08T08:42:51",
-    "updated_at": "2026-06-16T05:42:23"
+    "created_at": "2026-06-09T01:26:51",
+    "updated_at": "2026-06-16T13:04:40"
   },
   {
     "name": "microsoft-security-skills",
     "full_name": "vinayaklatthe/microsoft-security-skills",
     "description": "Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Purview, Intune, Security Copilot",
     "url": "https://github.com/vinayaklatthe/microsoft-security-skills",
-    "stars": 104,
-    "daily_stars": 1,
+    "stars": 107,
+    "daily_stars": 3,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -219,6 +211,6 @@
       "sentinel"
     ],
     "created_at": "2026-06-10T11:39:11",
-    "updated_at": "2026-06-16T03:28:50"
+    "updated_at": "2026-06-16T13:05:43"
   }
 ]
