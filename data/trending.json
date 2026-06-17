@@ -4,8 +4,8 @@
     "full_name": "DietrichGebert/ponytail",
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 26557,
-    "daily_stars": 2247,
+    "stars": 28846,
+    "daily_stars": 2289,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -20,15 +20,15 @@
       "yagni"
     ],
     "created_at": "2026-06-12T00:52:37",
-    "updated_at": "2026-06-17T05:23:50"
+    "updated_at": "2026-06-17T12:35:00"
   },
   {
     "name": "omnigent",
     "full_name": "omnigent-ai/omnigent",
     "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
     "url": "https://github.com/omnigent-ai/omnigent",
-    "stars": 2943,
-    "daily_stars": 229,
+    "stars": 3252,
+    "daily_stars": 309,
     "language": "Python",
     "topics": [
       "agents",
@@ -40,15 +40,115 @@
       "python"
     ],
     "created_at": "2026-06-11T12:18:13",
-    "updated_at": "2026-06-17T05:23:15"
+    "updated_at": "2026-06-17T12:26:00"
+  },
+  {
+    "name": "burner-agents",
+    "full_name": "NotPBShaw/burner-agents",
+    "description": "A swarm of disposable agents for unattributable web interaction. The user never acts on the web directly, delegating instead to agents that are destroyed on completion, leaving nothing that leads back.",
+    "url": "https://github.com/NotPBShaw/burner-agents",
+    "stars": 485,
+    "daily_stars": 52,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "autonomous-agents",
+      "browser-automation",
+      "disposable-agents",
+      "privacy",
+      "stealth-browser",
+      "web-automation"
+    ],
+    "created_at": "2026-06-02T00:17:34",
+    "updated_at": "2026-06-17T12:27:03"
+  },
+  {
+    "name": "compass-skills",
+    "full_name": "dongshuyan/compass-skills",
+    "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+    "url": "https://github.com/dongshuyan/compass-skills",
+    "stars": 249,
+    "daily_stars": 51,
+    "language": "Python",
+    "topics": [
+      "agent-memory",
+      "agent-skills",
+      "ai-agents",
+      "ai-coding-agent",
+      "claude-code",
+      "claude-skills",
+      "codex-skills",
+      "developer-tools",
+      "local-first",
+      "openai-codex",
+      "personal-ai",
+      "prompt-engineering",
+      "skill-md",
+      "task-management",
+      "workflow-automation"
+    ],
+    "created_at": "2026-06-15T06:28:04",
+    "updated_at": "2026-06-17T12:12:29"
+  },
+  {
+    "name": "FableCodex",
+    "full_name": "baskduf/FableCodex",
+    "description": "🧑🏿‍💻 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
+    "url": "https://github.com/baskduf/FableCodex",
+    "stars": 229,
+    "daily_stars": 41,
+    "language": "Python",
+    "topics": [
+      "codex",
+      "context-engineering",
+      "fable-5",
+      "prompt-engineering",
+      "skills",
+      "workflow"
+    ],
+    "created_at": "2026-06-14T13:11:00",
+    "updated_at": "2026-06-17T11:53:07"
+  },
+  {
+    "name": "metamask-desktop",
+    "full_name": "metamask-eth/metamask-desktop",
+    "description": "🖥️ The MetaMask Desktop app is a companion crypto wallet app that improves the overall performance of the MetaMask Extension Flask build",
+    "url": "https://github.com/metamask-eth/metamask-desktop",
+    "stars": 102,
+    "daily_stars": 30,
+    "language": "CSS",
+    "topics": [
+      "bitcoin",
+      "bitcoin-wallet",
+      "btc-wallet",
+      "crypto",
+      "cryptocurrency",
+      "cryptowallet",
+      "ethereum",
+      "ethereum-wallet",
+      "javascript",
+      "machine-learning",
+      "metamask-desktop",
+      "metamask-io",
+      "nodejs",
+      "npm",
+      "python",
+      "secure-wallet",
+      "solana",
+      "typescript",
+      "wallet",
+      "web3"
+    ],
+    "created_at": "2026-06-11T13:17:13",
+    "updated_at": "2026-06-17T12:21:54"
   },
   {
     "name": "awesome-architecture",
     "full_name": "study8677/awesome-architecture",
     "description": "🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. 中英文双语。",
     "url": "https://github.com/study8677/awesome-architecture",
-    "stars": 1416,
-    "daily_stars": 49,
+    "stars": 1443,
+    "daily_stars": 27,
     "language": "Vue",
     "topics": [
       "ai-agents",
@@ -73,77 +173,48 @@
       "tech-interview"
     ],
     "created_at": "2026-05-23T02:44:43",
-    "updated_at": "2026-06-17T05:14:29"
+    "updated_at": "2026-06-17T12:18:09"
   },
   {
-    "name": "FableCodex",
-    "full_name": "baskduf/FableCodex",
-    "description": "🧑🏿‍💻 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
-    "url": "https://github.com/baskduf/FableCodex",
-    "stars": 188,
-    "daily_stars": 42,
+    "name": "ai-engineering-from-scratch-zh",
+    "full_name": "fancyboi999/ai-engineering-from-scratch-zh",
+    "description": "从零精通 AI 工程 · 20 阶段 468 课 · 中文全量翻译 + 配套站点 aieng-zh.cn",
+    "url": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+    "stars": 416,
+    "daily_stars": 20,
     "language": "Python",
     "topics": [
-      "codex",
-      "context-engineering",
-      "fable-5",
-      "prompt-engineering",
-      "skills",
-      "workflow"
-    ],
-    "created_at": "2026-06-14T13:11:00",
-    "updated_at": "2026-06-17T05:15:12"
-  },
-  {
-    "name": "awesome-agent-loops",
-    "full_name": "serenakeyitan/awesome-agent-loops",
-    "description": "A curated collection of the best /loop, /goal, and /schedule uses for Claude Code & Codex — real commands sourced from Twitter/X. The awesome-list of agent loops.",
-    "url": "https://github.com/serenakeyitan/awesome-agent-loops",
-    "stars": 153,
-    "daily_stars": 27,
-    "language": null,
-    "topics": [
-      "agentic",
+      "agents",
+      "ai",
       "ai-agents",
-      "awesome",
-      "awesome-list",
-      "claude-code",
-      "codex"
+      "ai-engineering",
+      "chinese",
+      "chinese-translation",
+      "computer-vision",
+      "course",
+      "deep-learning",
+      "from-scratch",
+      "generative-ai",
+      "learn-ai",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "nlp",
+      "python",
+      "reinforcement-learning",
+      "transformers",
+      "tutorial"
     ],
-    "created_at": "2026-06-09T01:26:51",
-    "updated_at": "2026-06-17T04:06:59"
-  },
-  {
-    "name": "Trend2Video-Pro",
-    "full_name": "2417467487-hub/Trend2Video-Pro",
-    "description": "The open-source Trend-to-Video Agent Framework for content creators",
-    "url": "https://github.com/2417467487-hub/Trend2Video-Pro",
-    "stars": 177,
-    "daily_stars": 24,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-video",
-      "content-automation",
-      "creator-tools",
-      "edge-tts",
-      "fastapi",
-      "moviepy",
-      "short-video",
-      "streamlit",
-      "trend-analysis",
-      "trend-to-video"
-    ],
-    "created_at": "2026-06-08T08:50:25",
-    "updated_at": "2026-06-17T02:50:32"
+    "created_at": "2026-05-26T12:45:07",
+    "updated_at": "2026-06-17T12:25:50"
   },
   {
     "name": "loop-engineering",
     "full_name": "cobusgreyling/loop-engineering",
     "description": "Practical reference and patterns for loop engineering,  designing systems that prompt and orchestrate AI coding agents (inspired by Addy Osmani and Boris Cherny / Anthropic)",
     "url": "https://github.com/cobusgreyling/loop-engineering",
-    "stars": 329,
-    "daily_stars": 18,
+    "stars": 349,
+    "daily_stars": 20,
     "language": "JavaScript",
     "topics": [
       "agentic-ai",
@@ -157,80 +228,26 @@
       "mcp"
     ],
     "created_at": "2026-06-09T06:28:20",
-    "updated_at": "2026-06-17T04:31:51"
+    "updated_at": "2026-06-17T12:23:55"
   },
   {
-    "name": "burner-agents",
-    "full_name": "NotPBShaw/burner-agents",
-    "description": "A swarm of disposable agents for unattributable web interaction. The user never acts on the web directly, delegating instead to agents that are destroyed on completion, leaving nothing that leads back.",
-    "url": "https://github.com/NotPBShaw/burner-agents",
-    "stars": 433,
-    "daily_stars": 17,
+    "name": "claimpilot-harness",
+    "full_name": "samarailly51-pixel/claimpilot-harness",
+    "description": "Crash-test insurance claim AI agents before production.",
+    "url": "https://github.com/samarailly51-pixel/claimpilot-harness",
+    "stars": 129,
+    "daily_stars": 20,
     "language": "Python",
     "topics": [
+      "agent-evaluation",
       "ai-agents",
-      "autonomous-agents",
-      "browser-automation",
-      "disposable-agents",
-      "privacy",
-      "stealth-browser",
-      "web-automation"
+      "insurance",
+      "llm-evals",
+      "prompt-injection",
+      "python",
+      "testing"
     ],
-    "created_at": "2026-06-02T00:17:34",
-    "updated_at": "2026-06-17T05:22:27"
-  },
-  {
-    "name": "MLX-LoRA-Studio",
-    "full_name": "Goekdeniz-Guelmez/MLX-LoRA-Studio",
-    "description": "A native Mac App for LLM fine-tuning on Apple Silicon — fully on-device, fully open source.",
-    "url": "https://github.com/Goekdeniz-Guelmez/MLX-LoRA-Studio",
-    "stars": 66,
-    "daily_stars": 17,
-    "language": "Python",
-    "topics": [
-      "deep-learning",
-      "llm-training",
-      "llms",
-      "machine-learning",
-      "mlx",
-      "mlx-lm",
-      "mlx-lm-lora",
-      "nlp",
-      "preference-learning",
-      "reinforcement-learning",
-      "rl",
-      "rlhf",
-      "sft"
-    ],
-    "created_at": "2026-06-11T19:34:33",
-    "updated_at": "2026-06-17T05:09:52"
-  },
-  {
-    "name": "compass-skills",
-    "full_name": "dongshuyan/compass-skills",
-    "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
-    "url": "https://github.com/dongshuyan/compass-skills",
-    "stars": 198,
-    "daily_stars": 15,
-    "language": "Python",
-    "topics": [
-      "agent-memory",
-      "agent-skills",
-      "ai-agents",
-      "ai-coding-agent",
-      "claude-code",
-      "claude-skills",
-      "codex-skills",
-      "developer-tools",
-      "local-first",
-      "openai-codex",
-      "personal-ai",
-      "prompt-engineering",
-      "skill-md",
-      "task-management",
-      "workflow-automation"
-    ],
-    "created_at": "2026-06-15T06:28:04",
-    "updated_at": "2026-06-17T05:23:44"
+    "created_at": "2026-06-05T14:47:21",
+    "updated_at": "2026-06-17T06:01:28"
   }
 ]
