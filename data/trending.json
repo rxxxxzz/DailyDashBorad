@@ -4,8 +4,8 @@
     "full_name": "DietrichGebert/ponytail",
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 38817,
-    "daily_stars": 1331,
+    "stars": 39582,
+    "daily_stars": 765,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -20,35 +20,15 @@
       "yagni"
     ],
     "created_at": "2026-06-12T00:52:37",
-    "updated_at": "2026-06-19T12:29:50"
-  },
-  {
-    "name": "omnigent",
-    "full_name": "omnigent-ai/omnigent",
-    "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
-    "url": "https://github.com/omnigent-ai/omnigent",
-    "stars": 3928,
-    "daily_stars": 94,
-    "language": "Python",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "developer-tools",
-      "llm",
-      "ml",
-      "python"
-    ],
-    "created_at": "2026-06-11T12:18:13",
-    "updated_at": "2026-06-19T12:29:10"
+    "updated_at": "2026-06-19T18:15:21"
   },
   {
     "name": "lazycodex",
     "full_name": "code-yeongyu/lazycodex",
     "description": "LazyCodex: Codex for no-brainers. You don't need to think. Just prompt with ultrawork.",
     "url": "https://github.com/code-yeongyu/lazycodex",
-    "stars": 1306,
-    "daily_stars": 92,
+    "stars": 1394,
+    "daily_stars": 88,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -67,15 +47,35 @@
       "typescript"
     ],
     "created_at": "2026-05-25T07:56:45",
-    "updated_at": "2026-06-19T12:30:01"
+    "updated_at": "2026-06-19T18:13:37"
+  },
+  {
+    "name": "omnigent",
+    "full_name": "omnigent-ai/omnigent",
+    "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+    "url": "https://github.com/omnigent-ai/omnigent",
+    "stars": 3994,
+    "daily_stars": 66,
+    "language": "Python",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "developer-tools",
+      "llm",
+      "ml",
+      "python"
+    ],
+    "created_at": "2026-06-11T12:18:13",
+    "updated_at": "2026-06-19T18:15:04"
   },
   {
     "name": "MiMo-Code",
     "full_name": "XiaomiMiMo/MiMo-Code",
     "description": "MiMo Code: Where Models and Agents Co-Evolve",
     "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "stars": 9869,
-    "daily_stars": 44,
+    "stars": 9909,
+    "daily_stars": 40,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -85,15 +85,15 @@
       "mimo-code"
     ],
     "created_at": "2026-06-10T11:52:41",
-    "updated_at": "2026-06-19T12:25:18"
+    "updated_at": "2026-06-19T18:05:38"
   },
   {
     "name": "Awesome-Journal-Skills",
     "full_name": "brycewang-stanford/Awesome-Journal-Skills",
     "description": "Journal-specific Claude Code/Codex skill packs covering mainstream journals — AER, QJE, Nature, Cell, 管理世界, 经济研究 & 200+ more — your fast track to getting published. ｜ 覆盖主流期刊的 Claude Code/Codex 期刊技能包，从选题、识别策略到表格规范与审稿回复全流程，助你快速发论文。",
     "url": "https://github.com/brycewang-stanford/Awesome-Journal-Skills",
-    "stars": 271,
-    "daily_stars": 41,
+    "stars": 294,
+    "daily_stars": 23,
     "language": "Stata",
     "topics": [
       "academic-research",
@@ -118,15 +118,86 @@
       "skills"
     ],
     "created_at": "2026-05-25T06:19:56",
-    "updated_at": "2026-06-19T12:22:18"
+    "updated_at": "2026-06-19T17:11:52"
+  },
+  {
+    "name": "loop-engineering",
+    "full_name": "cobusgreyling/loop-engineering",
+    "description": "Practical reference and patterns for loop engineering,  designing systems that prompt and orchestrate AI coding agents (inspired by Addy Osmani and Boris Cherny / Anthropic)",
+    "url": "https://github.com/cobusgreyling/loop-engineering",
+    "stars": 421,
+    "daily_stars": 8,
+    "language": "JavaScript",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "devops-automation",
+      "github-actions",
+      "grok",
+      "llm",
+      "mcp"
+    ],
+    "created_at": "2026-06-09T06:28:20",
+    "updated_at": "2026-06-19T18:13:21"
+  },
+  {
+    "name": "Nubase",
+    "full_name": "OtterMind/Nubase",
+    "description": "Turn AI-written code into real apps. Nubase is an open-source, AI-native backend platform for AI Coding, agentic applications, and modern product teams: Memory, Database, Storage, and Auth in one self-hostable service",
+    "url": "https://github.com/OtterMind/Nubase",
+    "stars": 305,
+    "daily_stars": 8,
+    "language": "Java",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "cli",
+      "deno",
+      "memory",
+      "openclaw",
+      "opencode",
+      "pgvector",
+      "postgresql",
+      "postgrest",
+      "rag",
+      "skill",
+      "supabase",
+      "supabase-auth"
+    ],
+    "created_at": "2026-06-08T08:42:51",
+    "updated_at": "2026-06-19T18:13:11"
+  },
+  {
+    "name": "oh-my-taiyiforge",
+    "full_name": "Dong90/oh-my-taiyiforge",
+    "description": "AI workflow automation plugin for intelligent code generation with Claude/Codex",
+    "url": "https://github.com/Dong90/oh-my-taiyiforge",
+    "stars": 342,
+    "daily_stars": 8,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "automation",
+      "code-generation",
+      "developer-tools",
+      "llm",
+      "plugin",
+      "typescript",
+      "workflow"
+    ],
+    "created_at": "2026-06-05T02:25:33",
+    "updated_at": "2026-06-19T17:16:51"
   },
   {
     "name": "compass-skills",
     "full_name": "dongshuyan/compass-skills",
     "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
     "url": "https://github.com/dongshuyan/compass-skills",
-    "stars": 328,
-    "daily_stars": 32,
+    "stars": 335,
+    "daily_stars": 7,
     "language": "Python",
     "topics": [
       "agent-memory",
@@ -146,89 +217,28 @@
       "workflow-automation"
     ],
     "created_at": "2026-06-15T06:28:04",
-    "updated_at": "2026-06-19T12:21:49"
+    "updated_at": "2026-06-19T18:05:12"
   },
   {
-    "name": "burner-agents",
-    "full_name": "NotPBShaw/burner-agents",
-    "description": "A swarm of disposable agents for unattributable web interaction. The user never acts on the web directly, delegating instead to agents that are destroyed on completion, leaving nothing that leads back.",
-    "url": "https://github.com/NotPBShaw/burner-agents",
-    "stars": 573,
-    "daily_stars": 16,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "autonomous-agents",
-      "browser-automation",
-      "disposable-agents",
-      "privacy",
-      "stealth-browser",
-      "web-automation"
-    ],
-    "created_at": "2026-06-02T00:17:34",
-    "updated_at": "2026-06-19T11:48:49"
-  },
-  {
-    "name": "claimpilot-harness",
-    "full_name": "samarailly51-pixel/claimpilot-harness",
-    "description": "Crash-test insurance claim AI agents before production.",
-    "url": "https://github.com/samarailly51-pixel/claimpilot-harness",
-    "stars": 159,
-    "daily_stars": 16,
-    "language": "Python",
-    "topics": [
-      "agent-evaluation",
-      "ai-agents",
-      "insurance",
-      "llm-evals",
-      "prompt-injection",
-      "python",
-      "testing"
-    ],
-    "created_at": "2026-06-05T14:47:21",
-    "updated_at": "2026-06-19T11:00:49"
-  },
-  {
-    "name": "oh-my-taiyiforge",
-    "full_name": "Dong90/oh-my-taiyiforge",
-    "description": "AI workflow automation plugin for intelligent code generation with Claude/Codex",
-    "url": "https://github.com/Dong90/oh-my-taiyiforge",
-    "stars": 334,
-    "daily_stars": 15,
+    "name": "personal-agent-template",
+    "full_name": "vercel-labs/personal-agent-template",
+    "description": "Open-source template for a durable personal AI agent — web chat, Slack, Linear, and long-term memory with user-approved saves. Eve, Nuxt, Better Auth, Vercel Connect.",
+    "url": "https://github.com/vercel-labs/personal-agent-template",
+    "stars": 289,
+    "daily_stars": 7,
     "language": "TypeScript",
     "topics": [
-      "ai",
-      "automation",
-      "code-generation",
-      "developer-tools",
-      "llm",
-      "plugin",
-      "typescript",
-      "workflow"
-    ],
-    "created_at": "2026-06-05T02:25:33",
-    "updated_at": "2026-06-19T12:19:16"
-  },
-  {
-    "name": "loop-engineering",
-    "full_name": "cobusgreyling/loop-engineering",
-    "description": "Practical reference and patterns for loop engineering,  designing systems that prompt and orchestrate AI coding agents (inspired by Addy Osmani and Boris Cherny / Anthropic)",
-    "url": "https://github.com/cobusgreyling/loop-engineering",
-    "stars": 413,
-    "daily_stars": 13,
-    "language": "JavaScript",
-    "topics": [
-      "agentic-ai",
       "ai-agents",
-      "claude-code",
-      "codex",
-      "devops-automation",
-      "github-actions",
-      "grok",
-      "llm",
-      "mcp"
+      "better-auth",
+      "eve",
+      "linear",
+      "memory",
+      "nuxt",
+      "personal-agent",
+      "slack",
+      "vercel-connect"
     ],
-    "created_at": "2026-06-09T06:28:20",
-    "updated_at": "2026-06-19T12:21:03"
+    "created_at": "2026-06-11T13:59:55",
+    "updated_at": "2026-06-19T18:10:41"
   }
 ]
