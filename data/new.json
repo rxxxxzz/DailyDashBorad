@@ -4,8 +4,8 @@
     "full_name": "Forsy-AI/agent-apprenticeship",
     "description": "The living ecosystem for AI agents learning from real-world work through iterative loops and training-signal exchange.",
     "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-    "stars": 616,
-    "daily_stars": 10,
+    "stars": 651,
+    "daily_stars": 35,
     "language": null,
     "topics": [
       "agent-apprenticeship",
@@ -30,15 +30,15 @@
       "training-signals"
     ],
     "created_at": "2026-06-19T16:19:37",
-    "updated_at": "2026-06-22T05:33:49"
+    "updated_at": "2026-06-22T13:50:37"
   },
   {
     "name": "compass-skills",
     "full_name": "dongshuyan/compass-skills",
     "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
     "url": "https://github.com/dongshuyan/compass-skills",
-    "stars": 443,
-    "daily_stars": 36,
+    "stars": 463,
+    "daily_stars": 20,
     "language": "Python",
     "topics": [
       "agent-memory",
@@ -58,26 +58,38 @@
       "workflow-automation"
     ],
     "created_at": "2026-06-15T06:28:04",
-    "updated_at": "2026-06-22T04:19:46"
+    "updated_at": "2026-06-22T13:20:52"
   },
   {
-    "name": "FableCodex",
-    "full_name": "baskduf/FableCodex",
-    "description": "🧑🏿‍💻 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
-    "url": "https://github.com/baskduf/FableCodex",
-    "stars": 364,
-    "daily_stars": 9,
+    "name": "recall",
+    "full_name": "raiyanyahya/recall",
+    "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+    "url": "https://github.com/raiyanyahya/recall",
+    "stars": 264,
+    "daily_stars": 124,
     "language": "Python",
     "topics": [
-      "codex",
-      "context-engineering",
-      "fable-5",
-      "prompt-engineering",
-      "skills",
-      "workflow"
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-plugin",
+      "context",
+      "developer-tools",
+      "llm",
+      "local-first",
+      "memory",
+      "offline",
+      "privacy",
+      "productivity",
+      "python",
+      "summarization",
+      "textrank"
     ],
-    "created_at": "2026-06-14T13:11:00",
-    "updated_at": "2026-06-22T04:37:56"
+    "created_at": "2026-06-19T20:36:41",
+    "updated_at": "2026-06-22T14:08:33"
   },
   {
     "name": "codex-control-plane-mcp",
@@ -85,7 +97,7 @@
     "description": "Durable MCP control plane for long-running Codex Desktop tasks",
     "url": "https://github.com/aresyn/codex-control-plane-mcp",
     "stars": 221,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "agent-tools",
@@ -110,12 +122,32 @@
     "updated_at": "2026-06-21T21:57:09"
   },
   {
+    "name": "Windows-Copilot-API",
+    "full_name": "sumitgautam0101/Windows-Copilot-API",
+    "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+    "url": "https://github.com/sumitgautam0101/Windows-Copilot-API",
+    "stars": 219,
+    "daily_stars": 79,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "api",
+      "copilot",
+      "llm",
+      "microsoft-copilot",
+      "openai"
+    ],
+    "created_at": "2026-06-19T13:24:44",
+    "updated_at": "2026-06-22T14:09:58"
+  },
+  {
     "name": "yolfi-agent",
     "full_name": "yolfinance/yolfi-agent",
     "description": "Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
     "url": "https://github.com/yolfinance/yolfi-agent",
-    "stars": 180,
-    "daily_stars": 2,
+    "stars": 186,
+    "daily_stars": 6,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -127,15 +159,15 @@
       "webhooks"
     ],
     "created_at": "2026-06-16T15:43:27",
-    "updated_at": "2026-06-22T03:30:21"
+    "updated_at": "2026-06-22T14:10:33"
   },
   {
     "name": "ImportantCode",
     "full_name": "sneakers-the-rat/ImportantCode",
     "description": "This is a repository with a lot of high profile, high prestige code in it that new programmers can make pull requests to and build their reputation",
     "url": "https://github.com/sneakers-the-rat/ImportantCode",
-    "stars": 151,
-    "daily_stars": 0,
+    "stars": 156,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "agent-friendly",
@@ -160,58 +192,7 @@
       "specops"
     ],
     "created_at": "2026-06-16T04:54:39",
-    "updated_at": "2026-06-22T05:34:09"
-  },
-  {
-    "name": "Windows-Copilot-API",
-    "full_name": "sumitgautam0101/Windows-Copilot-API",
-    "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
-    "url": "https://github.com/sumitgautam0101/Windows-Copilot-API",
-    "stars": 140,
-    "daily_stars": 22,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "api",
-      "copilot",
-      "llm",
-      "microsoft-copilot",
-      "openai"
-    ],
-    "created_at": "2026-06-19T13:24:44",
-    "updated_at": "2026-06-22T04:38:52"
-  },
-  {
-    "name": "recall",
-    "full_name": "raiyanyahya/recall",
-    "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
-    "url": "https://github.com/raiyanyahya/recall",
-    "stars": 140,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "claude-code-plugin",
-      "claude-plugin",
-      "context",
-      "developer-tools",
-      "llm",
-      "local-first",
-      "memory",
-      "offline",
-      "privacy",
-      "productivity",
-      "python",
-      "summarization",
-      "textrank"
-    ],
-    "created_at": "2026-06-19T20:36:41",
-    "updated_at": "2026-06-22T05:31:01"
+    "updated_at": "2026-06-22T13:26:31"
   },
   {
     "name": "QuickBooks-Desktop-2026",
@@ -235,6 +216,32 @@
     "updated_at": "2026-06-21T15:58:01"
   },
   {
+    "name": "umadev",
+    "full_name": "umacloud/umadev",
+    "description": "AI 编码项目总监 Agent:驱动你已登录的 Claude Code / Codex / OpenCode,套上 9 阶段可治理的商业级交付流水线。 AI coding project-director agent — a 9-phase governed delivery pipeline over your  logged-in Claude Code / Codex / OpenCode.",
+    "url": "https://github.com/umacloud/umadev",
+    "stars": 88,
+    "daily_stars": 10,
+    "language": "Rust",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-coding",
+      "claude-code",
+      "codex-cli",
+      "coding",
+      "coding-agents",
+      "open-code",
+      "rust",
+      "rust-agent",
+      "rust-lang",
+      "vibe-coding"
+    ],
+    "created_at": "2026-06-19T16:43:11",
+    "updated_at": "2026-06-22T13:56:54"
+  },
+  {
     "name": "swarm-factory",
     "full_name": "Usaid22/swarm-factory",
     "description": "Top Autonomous Research Multi-Agent System for 2026 Lab Experiments",
@@ -252,6 +259,6 @@
       "research-automation"
     ],
     "created_at": "2026-06-15T07:46:52",
-    "updated_at": "2026-06-22T05:01:49"
+    "updated_at": "2026-06-22T12:49:11"
   }
 ]

@@ -4,8 +4,8 @@
     "full_name": "DietrichGebert/ponytail",
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 46996,
-    "daily_stars": 1244,
+    "stars": 48592,
+    "daily_stars": 1596,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -20,15 +20,46 @@
       "yagni"
     ],
     "created_at": "2026-06-12T00:52:37",
-    "updated_at": "2026-06-22T05:40:35"
+    "updated_at": "2026-06-22T14:11:00"
+  },
+  {
+    "name": "recall",
+    "full_name": "raiyanyahya/recall",
+    "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+    "url": "https://github.com/raiyanyahya/recall",
+    "stars": 264,
+    "daily_stars": 124,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-plugin",
+      "context",
+      "developer-tools",
+      "llm",
+      "local-first",
+      "memory",
+      "offline",
+      "privacy",
+      "productivity",
+      "python",
+      "summarization",
+      "textrank"
+    ],
+    "created_at": "2026-06-19T20:36:41",
+    "updated_at": "2026-06-22T14:08:33"
   },
   {
     "name": "loop-library",
     "full_name": "Forward-Future/loop-library",
     "description": "Practical repeatable AI-agent workflows for engineering, evaluation, operations, content, and design.",
     "url": "https://github.com/Forward-Future/loop-library",
-    "stars": 796,
-    "daily_stars": 126,
+    "stars": 912,
+    "daily_stars": 116,
     "language": "HTML",
     "topics": [
       "agent-skills",
@@ -39,15 +70,53 @@
       "prompt-engineering"
     ],
     "created_at": "2026-06-12T14:44:22",
-    "updated_at": "2026-06-22T05:29:43"
+    "updated_at": "2026-06-22T14:09:43"
+  },
+  {
+    "name": "MiMo-Code",
+    "full_name": "XiaomiMiMo/MiMo-Code",
+    "description": "MiMo Code: Where Models and Agents Co-Evolve",
+    "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+    "stars": 10308,
+    "daily_stars": 85,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "cli",
+      "mimo",
+      "mimo-code"
+    ],
+    "created_at": "2026-06-10T11:52:41",
+    "updated_at": "2026-06-22T14:10:18"
+  },
+  {
+    "name": "Windows-Copilot-API",
+    "full_name": "sumitgautam0101/Windows-Copilot-API",
+    "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+    "url": "https://github.com/sumitgautam0101/Windows-Copilot-API",
+    "stars": 219,
+    "daily_stars": 79,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "api",
+      "copilot",
+      "llm",
+      "microsoft-copilot",
+      "openai"
+    ],
+    "created_at": "2026-06-19T13:24:44",
+    "updated_at": "2026-06-22T14:09:58"
   },
   {
     "name": "omnigent",
     "full_name": "omnigent-ai/omnigent",
     "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
     "url": "https://github.com/omnigent-ai/omnigent",
-    "stars": 4357,
-    "daily_stars": 49,
+    "stars": 4424,
+    "daily_stars": 67,
     "language": "Python",
     "topics": [
       "agents",
@@ -59,88 +128,15 @@
       "python"
     ],
     "created_at": "2026-06-11T12:18:13",
-    "updated_at": "2026-06-22T05:40:30"
-  },
-  {
-    "name": "MiMo-Code",
-    "full_name": "XiaomiMiMo/MiMo-Code",
-    "description": "MiMo Code: Where Models and Agents Co-Evolve",
-    "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "stars": 10223,
-    "daily_stars": 48,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "cli",
-      "mimo",
-      "mimo-code"
-    ],
-    "created_at": "2026-06-10T11:52:41",
-    "updated_at": "2026-06-22T05:38:58"
-  },
-  {
-    "name": "lazycodex",
-    "full_name": "code-yeongyu/lazycodex",
-    "description": "LazyCodex: Codex for no-brainers. You don't need to think. Just prompt with ultrawork.",
-    "url": "https://github.com/code-yeongyu/lazycodex",
-    "stars": 1735,
-    "daily_stars": 38,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "cli",
-      "codex",
-      "developer-tools",
-      "lazy",
-      "lazycodex",
-      "oh-my-openagent",
-      "omo",
-      "openai",
-      "orchestration",
-      "typescript"
-    ],
-    "created_at": "2026-05-25T07:56:45",
-    "updated_at": "2026-06-22T05:36:09"
-  },
-  {
-    "name": "compass-skills",
-    "full_name": "dongshuyan/compass-skills",
-    "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
-    "url": "https://github.com/dongshuyan/compass-skills",
-    "stars": 443,
-    "daily_stars": 36,
-    "language": "Python",
-    "topics": [
-      "agent-memory",
-      "agent-skills",
-      "ai-agents",
-      "ai-coding-agent",
-      "claude-code",
-      "claude-skills",
-      "codex-skills",
-      "developer-tools",
-      "local-first",
-      "openai-codex",
-      "personal-ai",
-      "prompt-engineering",
-      "skill-md",
-      "task-management",
-      "workflow-automation"
-    ],
-    "created_at": "2026-06-15T06:28:04",
-    "updated_at": "2026-06-22T04:19:46"
+    "updated_at": "2026-06-22T13:59:07"
   },
   {
     "name": "loop-engineering",
     "full_name": "cobusgreyling/loop-engineering",
     "description": "Practical reference and patterns for loop engineering,  designing systems that prompt and orchestrate AI coding agents (inspired by Addy Osmani and Boris Cherny / Anthropic)",
     "url": "https://github.com/cobusgreyling/loop-engineering",
-    "stars": 604,
-    "daily_stars": 28,
+    "stars": 653,
+    "daily_stars": 49,
     "language": "JavaScript",
     "topics": [
       "agentic-ai",
@@ -154,61 +150,48 @@
       "mcp"
     ],
     "created_at": "2026-06-09T06:28:20",
-    "updated_at": "2026-06-22T05:38:47"
+    "updated_at": "2026-06-22T13:47:10"
   },
   {
-    "name": "umadev",
-    "full_name": "umacloud/umadev",
-    "description": "AI 编码项目总监 Agent:驱动你已登录的 Claude Code / Codex / OpenCode,套上 9 阶段可治理的商业级交付流水线。 AI coding project-director agent — a 9-phase governed delivery pipeline over your  logged-in Claude Code / Codex / OpenCode.",
-    "url": "https://github.com/umacloud/umadev",
-    "stars": 78,
-    "daily_stars": 28,
-    "language": "Rust",
+    "name": "agent-apprenticeship",
+    "full_name": "Forsy-AI/agent-apprenticeship",
+    "description": "The living ecosystem for AI agents learning from real-world work through iterative loops and training-signal exchange.",
+    "url": "https://github.com/Forsy-AI/agent-apprenticeship",
+    "stars": 651,
+    "daily_stars": 35,
+    "language": null,
     "topics": [
-      "agents",
-      "ai",
+      "agent-apprenticeship",
+      "agent-economy",
+      "agent-experience",
+      "agent-learning",
+      "agent-traces",
+      "agentic-ai",
       "ai-agents",
-      "ai-coding",
+      "autonomous-agents",
       "claude-code",
-      "codex-cli",
-      "coding",
-      "coding-agents",
-      "open-code",
-      "rust",
-      "rust-agent",
-      "rust-lang",
-      "vibe-coding"
+      "codex",
+      "cursor",
+      "ecosystem-learning",
+      "hermes-agent",
+      "loop-engineering",
+      "openclaw",
+      "opencode",
+      "post-training",
+      "real-world-tasks",
+      "reinforcement-learning",
+      "training-signals"
     ],
-    "created_at": "2026-06-19T16:43:11",
-    "updated_at": "2026-06-22T05:17:48"
-  },
-  {
-    "name": "Windows-Copilot-API",
-    "full_name": "sumitgautam0101/Windows-Copilot-API",
-    "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
-    "url": "https://github.com/sumitgautam0101/Windows-Copilot-API",
-    "stars": 140,
-    "daily_stars": 22,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "api",
-      "copilot",
-      "llm",
-      "microsoft-copilot",
-      "openai"
-    ],
-    "created_at": "2026-06-19T13:24:44",
-    "updated_at": "2026-06-22T04:38:52"
+    "created_at": "2026-06-19T16:19:37",
+    "updated_at": "2026-06-22T13:50:37"
   },
   {
     "name": "gen-fraud-graph",
     "full_name": "SantanderAI/gen-fraud-graph",
     "description": "Synthetic fraud graph generator for benchmarking graph-based fraud detection models in financial services.",
     "url": "https://github.com/SantanderAI/gen-fraud-graph",
-    "stars": 58,
-    "daily_stars": 22,
+    "stars": 90,
+    "daily_stars": 32,
     "language": "Python",
     "topics": [
       "aml",
@@ -228,6 +211,27 @@
       "trustworthy-ai"
     ],
     "created_at": "2026-05-25T15:23:17",
-    "updated_at": "2026-06-22T04:15:19"
+    "updated_at": "2026-06-22T13:54:50"
+  },
+  {
+    "name": "WorldCupROI",
+    "full_name": "2417467487-hub/WorldCupROI",
+    "description": "Sports sponsorship intelligence platform for World Cup match data, real-source text signals, ROI prediction, uncertainty analysis, and scenario recommendations.",
+    "url": "https://github.com/2417467487-hub/WorldCupROI",
+    "stars": 371,
+    "daily_stars": 31,
+    "language": "HTML",
+    "topics": [
+      "business-intelligence",
+      "machine-learning",
+      "plotly",
+      "roi-prediction",
+      "sponsorship",
+      "sports-analytics",
+      "streamlit",
+      "world-cup"
+    ],
+    "created_at": "2026-06-02T08:15:02",
+    "updated_at": "2026-06-22T12:36:28"
   }
 ]
