@@ -4,8 +4,8 @@
     "full_name": "DietrichGebert/ponytail",
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 60027,
-    "daily_stars": 222,
+    "stars": 60365,
+    "daily_stars": 338,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -20,15 +20,15 @@
       "yagni"
     ],
     "created_at": "2026-06-12T00:52:37",
-    "updated_at": "2026-06-26T21:46:21"
+    "updated_at": "2026-06-27T04:33:03"
   },
   {
     "name": "loop-engineering",
     "full_name": "cobusgreyling/loop-engineering",
     "description": "Practical reference and patterns for loop engineering,  designing systems that prompt and orchestrate AI coding agents (inspired by Addy Osmani and Boris Cherny / Anthropic)",
     "url": "https://github.com/cobusgreyling/loop-engineering",
-    "stars": 2523,
-    "daily_stars": 84,
+    "stars": 2697,
+    "daily_stars": 174,
     "language": "JavaScript",
     "topics": [
       "agentic-ai",
@@ -42,45 +42,15 @@
       "mcp"
     ],
     "created_at": "2026-06-09T06:28:20",
-    "updated_at": "2026-06-26T21:46:11"
-  },
-  {
-    "name": "theeleven",
-    "full_name": "winsznx/theeleven",
-    "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
-    "url": "https://github.com/winsznx/theeleven",
-    "stars": 472,
-    "daily_stars": 43,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "defi",
-      "eip-3009",
-      "erc-8257",
-      "football",
-      "foundry",
-      "gasless",
-      "mcp",
-      "nextjs",
-      "okx",
-      "prediction-markets",
-      "solidity",
-      "uniswap-hooks",
-      "uniswap-v4",
-      "usdt0",
-      "web3",
-      "x-layer"
-    ],
-    "created_at": "2026-06-25T07:42:50",
-    "updated_at": "2026-06-26T21:45:07"
+    "updated_at": "2026-06-27T04:30:33"
   },
   {
     "name": "omnigent",
     "full_name": "omnigent-ai/omnigent",
     "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
     "url": "https://github.com/omnigent-ai/omnigent",
-    "stars": 4998,
-    "daily_stars": 13,
+    "stars": 5025,
+    "daily_stars": 27,
     "language": "Python",
     "topics": [
       "agents",
@@ -92,33 +62,35 @@
       "python"
     ],
     "created_at": "2026-06-11T12:18:13",
-    "updated_at": "2026-06-26T21:46:13"
+    "updated_at": "2026-06-27T04:16:58"
   },
   {
-    "name": "MiMo-Code",
-    "full_name": "XiaomiMiMo/MiMo-Code",
-    "description": "MiMo Code: Where Models and Agents Co-Evolve",
-    "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "stars": 10858,
-    "daily_stars": 8,
-    "language": "TypeScript",
+    "name": "Windows-Copilot-API",
+    "full_name": "sumitgautam0101/Windows-Copilot-API",
+    "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+    "url": "https://github.com/sumitgautam0101/Windows-Copilot-API",
+    "stars": 829,
+    "daily_stars": 27,
+    "language": "Python",
     "topics": [
       "ai",
       "ai-agents",
-      "cli",
-      "mimo",
-      "mimo-code"
+      "api",
+      "copilot",
+      "llm",
+      "microsoft-copilot",
+      "openai"
     ],
-    "created_at": "2026-06-10T11:52:41",
-    "updated_at": "2026-06-26T21:37:47"
+    "created_at": "2026-06-19T13:24:44",
+    "updated_at": "2026-06-27T04:32:26"
   },
   {
     "name": "awesome-evals",
     "full_name": "benchflow-ai/awesome-evals",
     "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
     "url": "https://github.com/benchflow-ai/awesome-evals",
-    "stars": 453,
-    "daily_stars": 8,
+    "stars": 479,
+    "daily_stars": 26,
     "language": null,
     "topics": [
       "agent-evaluation",
@@ -132,15 +104,50 @@
       "rl-environments"
     ],
     "created_at": "2026-06-24T08:10:33",
-    "updated_at": "2026-06-26T21:07:27"
+    "updated_at": "2026-06-27T04:31:00"
+  },
+  {
+    "name": "dbosify-py",
+    "full_name": "dbos-inc/dbosify-py",
+    "description": "Postgres-Backed Drop-in Temporal Replacement",
+    "url": "https://github.com/dbos-inc/dbosify-py",
+    "stars": 37,
+    "daily_stars": 24,
+    "language": "Python",
+    "topics": [
+      "dbos",
+      "durable",
+      "temporal",
+      "workflow"
+    ],
+    "created_at": "2026-06-09T23:07:44",
+    "updated_at": "2026-06-27T03:56:07"
+  },
+  {
+    "name": "MiMo-Code",
+    "full_name": "XiaomiMiMo/MiMo-Code",
+    "description": "MiMo Code: Where Models and Agents Co-Evolve",
+    "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+    "stars": 10878,
+    "daily_stars": 20,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "cli",
+      "mimo",
+      "mimo-code"
+    ],
+    "created_at": "2026-06-10T11:52:41",
+    "updated_at": "2026-06-27T04:24:38"
   },
   {
     "name": "opentag",
     "full_name": "amplifthq/opentag",
     "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
     "url": "https://github.com/amplifthq/opentag",
-    "stars": 289,
-    "daily_stars": 8,
+    "stars": 304,
+    "daily_stars": 15,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -151,75 +158,46 @@
       "slack"
     ],
     "created_at": "2026-06-24T08:05:12",
-    "updated_at": "2026-06-26T21:31:31"
+    "updated_at": "2026-06-27T04:26:37"
   },
   {
-    "name": "Agent-Loop-Skills",
-    "full_name": "gaasher/Agent-Loop-Skills",
-    "description": "Loop until it's better — drop-in agentic loops (autoresearch, scientific writing, data analysis, code/SQL/prompt optimization, red-teaming) as open-standard Agent Skills. Verification-gated; native on Claude Code, portable across Codex, Cursor & other Skills hosts.",
-    "url": "https://github.com/gaasher/Agent-Loop-Skills",
-    "stars": 98,
+    "name": "oh-my-taiyiforge",
+    "full_name": "Dong90/oh-my-taiyiforge",
+    "description": "AI workflow automation plugin for intelligent code generation with Claude/Codex",
+    "url": "https://github.com/Dong90/oh-my-taiyiforge",
+    "stars": 586,
+    "daily_stars": 9,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "automation",
+      "code-generation",
+      "developer-tools",
+      "llm",
+      "plugin",
+      "typescript",
+      "workflow"
+    ],
+    "created_at": "2026-06-05T02:25:33",
+    "updated_at": "2026-06-27T02:44:53"
+  },
+  {
+    "name": "loop-library",
+    "full_name": "Forward-Future/loop-library",
+    "description": "Practical repeatable AI-agent workflows for engineering, evaluation, operations, content, and design.",
+    "url": "https://github.com/Forward-Future/loop-library",
+    "stars": 1719,
     "daily_stars": 8,
-    "language": "Python",
+    "language": "HTML",
     "topics": [
       "agent-skills",
-      "agentic-loops",
       "agentic-workflows",
       "ai-agents",
-      "anthropic",
-      "autoresearch",
-      "claude",
-      "claude-code",
-      "data-analysis",
-      "literature-review",
-      "llm-agents",
-      "machine-learning",
-      "ml-autoresearch",
-      "open-source",
-      "prompt-engineering",
-      "red-teaming",
-      "scientific-writing",
-      "skills",
-      "subagents"
+      "automation",
+      "codex",
+      "prompt-engineering"
     ],
-    "created_at": "2026-06-15T02:01:33",
-    "updated_at": "2026-06-26T21:36:44"
-  },
-  {
-    "name": "Windows-Copilot-API",
-    "full_name": "sumitgautam0101/Windows-Copilot-API",
-    "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
-    "url": "https://github.com/sumitgautam0101/Windows-Copilot-API",
-    "stars": 802,
-    "daily_stars": 6,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "api",
-      "copilot",
-      "llm",
-      "microsoft-copilot",
-      "openai"
-    ],
-    "created_at": "2026-06-19T13:24:44",
-    "updated_at": "2026-06-26T21:43:02"
-  },
-  {
-    "name": "dox",
-    "full_name": "agent0ai/dox",
-    "description": "Self-documenting AGENTS.md",
-    "url": "https://github.com/agent0ai/dox",
-    "stars": 997,
-    "daily_stars": 4,
-    "language": null,
-    "topics": [
-      "agents-md",
-      "ai",
-      "ai-agents",
-      "documentation"
-    ],
-    "created_at": "2026-06-01T08:25:21",
-    "updated_at": "2026-06-26T21:21:39"
+    "created_at": "2026-06-12T14:44:22",
+    "updated_at": "2026-06-27T04:08:57"
   }
 ]
