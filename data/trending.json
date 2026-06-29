@@ -4,8 +4,8 @@
     "full_name": "DietrichGebert/ponytail",
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 65168,
-    "daily_stars": 1021,
+    "stars": 66322,
+    "daily_stars": 1154,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -20,15 +20,15 @@
       "yagni"
     ],
     "created_at": "2026-06-12T00:52:37",
-    "updated_at": "2026-06-29T05:11:42"
+    "updated_at": "2026-06-29T12:45:16"
   },
   {
     "name": "loop-engineering",
     "full_name": "cobusgreyling/loop-engineering",
     "description": "Practical reference and patterns for loop engineering,  designing systems that prompt and orchestrate AI coding agents (inspired by Addy Osmani and Boris Cherny / Anthropic)",
     "url": "https://github.com/cobusgreyling/loop-engineering",
-    "stars": 3770,
-    "daily_stars": 114,
+    "stars": 3879,
+    "daily_stars": 109,
     "language": "JavaScript",
     "topics": [
       "agentic-ai",
@@ -42,15 +42,35 @@
       "mcp"
     ],
     "created_at": "2026-06-09T06:28:20",
-    "updated_at": "2026-06-29T05:11:45"
+    "updated_at": "2026-06-29T12:44:52"
+  },
+  {
+    "name": "omnigent",
+    "full_name": "omnigent-ai/omnigent",
+    "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+    "url": "https://github.com/omnigent-ai/omnigent",
+    "stars": 5397,
+    "daily_stars": 64,
+    "language": "Python",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "developer-tools",
+      "llm",
+      "ml",
+      "python"
+    ],
+    "created_at": "2026-06-11T12:18:13",
+    "updated_at": "2026-06-29T12:31:38"
   },
   {
     "name": "loop-library",
     "full_name": "Forward-Future/loop-library",
     "description": "Practical repeatable AI-agent workflows for engineering, evaluation, operations, content, and design.",
     "url": "https://github.com/Forward-Future/loop-library",
-    "stars": 2058,
-    "daily_stars": 58,
+    "stars": 2104,
+    "daily_stars": 46,
     "language": "HTML",
     "topics": [
       "agent-skills",
@@ -61,15 +81,33 @@
       "prompt-engineering"
     ],
     "created_at": "2026-06-12T14:44:22",
-    "updated_at": "2026-06-29T04:59:05"
+    "updated_at": "2026-06-29T12:12:34"
+  },
+  {
+    "name": "MiMo-Code",
+    "full_name": "XiaomiMiMo/MiMo-Code",
+    "description": "MiMo Code: Where Models and Agents Co-Evolve",
+    "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+    "stars": 11032,
+    "daily_stars": 31,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "cli",
+      "mimo",
+      "mimo-code"
+    ],
+    "created_at": "2026-06-10T11:52:41",
+    "updated_at": "2026-06-29T12:11:37"
   },
   {
     "name": "ESEILANE",
     "full_name": "Aliu-AiRobot/ESEILANE",
     "description": "High-performance Knowledge Graph engine for AI, LLMs, and GraphRAG — built for the next generation of intelligent applications.",
     "url": "https://github.com/Aliu-AiRobot/ESEILANE",
-    "stars": 102,
-    "daily_stars": 58,
+    "stars": 128,
+    "daily_stars": 26,
     "language": "HTML",
     "topics": [
       "ai",
@@ -89,117 +127,15 @@
       "vector-database"
     ],
     "created_at": "2026-06-28T19:14:42",
-    "updated_at": "2026-06-29T05:10:48"
-  },
-  {
-    "name": "omnigent",
-    "full_name": "omnigent-ai/omnigent",
-    "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
-    "url": "https://github.com/omnigent-ai/omnigent",
-    "stars": 5333,
-    "daily_stars": 49,
-    "language": "Python",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "developer-tools",
-      "llm",
-      "ml",
-      "python"
-    ],
-    "created_at": "2026-06-11T12:18:13",
-    "updated_at": "2026-06-29T05:10:37"
-  },
-  {
-    "name": "nanoeuler",
-    "full_name": "JustVugg/nanoeuler",
-    "description": "GPT-2-style LLM built from scratch in C/CUDA with hand-written backprop, BPE tokenizer, FlashAttention, pretraining, and SFT.",
-    "url": "https://github.com/JustVugg/nanoeuler",
-    "stars": 55,
-    "daily_stars": 36,
-    "language": "Cuda",
-    "topics": [
-      "bpe-tokenizer",
-      "byte-pair-encoding",
-      "c",
-      "cublas",
-      "cuda",
-      "deep-learning",
-      "flashattention",
-      "from-scratch",
-      "gpt2",
-      "language-model",
-      "llm",
-      "machine-learning",
-      "neural-network",
-      "nlp",
-      "openmp",
-      "training",
-      "trasformer"
-    ],
-    "created_at": "2026-06-15T07:43:13",
-    "updated_at": "2026-06-29T04:58:21"
-  },
-  {
-    "name": "busytok",
-    "full_name": "BalianWang/busytok",
-    "description": "Local-first agent token usage audit dashboard",
-    "url": "https://github.com/BalianWang/busytok",
-    "stars": 71,
-    "daily_stars": 20,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "audit",
-      "claude-code",
-      "codex",
-      "dashboard",
-      "local-first",
-      "macos",
-      "react",
-      "rust",
-      "sqlite",
-      "tauri",
-      "token-usage"
-    ],
-    "created_at": "2026-06-21T16:06:03",
-    "updated_at": "2026-06-29T02:21:27"
-  },
-  {
-    "name": "Foundry",
-    "full_name": "axislab-top/Foundry",
-    "description": "Transform any idea into a running AI-powered company",
-    "url": "https://github.com/axislab-top/Foundry",
-    "stars": 43,
-    "daily_stars": 16,
-    "language": "TypeScript",
-    "topics": [
-      "agent-platform",
-      "ai",
-      "ai-agents",
-      "ai-company",
-      "autonomous-agents",
-      "collaboration",
-      "digital-company",
-      "llm",
-      "multi-agent",
-      "nestjs",
-      "open-source",
-      "react",
-      "typescript",
-      "workflow"
-    ],
-    "created_at": "2026-06-21T05:59:33",
-    "updated_at": "2026-06-29T04:42:39"
+    "updated_at": "2026-06-29T11:29:08"
   },
   {
     "name": "spec-superflow",
     "full_name": "MageByte-Zero/spec-superflow",
     "description": "连通需求说清楚和代码写对路的 AI 编程工作流插件。整合 OpenSpec 规划 + Superpowers 纪律，7 平台支持，Spec-first，契约驱动。",
     "url": "https://github.com/MageByte-Zero/spec-superflow",
-    "stars": 21,
-    "daily_stars": 15,
+    "stars": 42,
+    "daily_stars": 21,
     "language": null,
     "topics": [
       "7-platforms",
@@ -220,14 +156,74 @@
       "workflow"
     ],
     "created_at": "2026-06-26T05:13:03",
-    "updated_at": "2026-06-29T05:11:20"
+    "updated_at": "2026-06-29T12:43:37"
+  },
+  {
+    "name": "Foundry",
+    "full_name": "axislab-top/Foundry",
+    "description": "Transform any idea into a running AI-powered company",
+    "url": "https://github.com/axislab-top/Foundry",
+    "stars": 58,
+    "daily_stars": 15,
+    "language": "TypeScript",
+    "topics": [
+      "agent-platform",
+      "ai",
+      "ai-agents",
+      "ai-company",
+      "autonomous-agents",
+      "collaboration",
+      "digital-company",
+      "llm",
+      "multi-agent",
+      "nestjs",
+      "open-source",
+      "react",
+      "typescript",
+      "workflow"
+    ],
+    "created_at": "2026-06-21T05:59:33",
+    "updated_at": "2026-06-29T12:19:25"
+  },
+  {
+    "name": "agent-apprenticeship",
+    "full_name": "Forsy-AI/agent-apprenticeship",
+    "description": "The living ecosystem for AI agents learning from real-world work through iterative loops and training-signal exchange.",
+    "url": "https://github.com/Forsy-AI/agent-apprenticeship",
+    "stars": 1044,
+    "daily_stars": 14,
+    "language": null,
+    "topics": [
+      "agent-apprenticeship",
+      "agent-economy",
+      "agent-experience",
+      "agent-learning",
+      "agent-traces",
+      "agentic-ai",
+      "ai-agents",
+      "autonomous-agents",
+      "claude-code",
+      "codex",
+      "cursor",
+      "ecosystem-learning",
+      "hermes-agent",
+      "loop-engineering",
+      "openclaw",
+      "opencode",
+      "post-training",
+      "real-world-tasks",
+      "reinforcement-learning",
+      "training-signals"
+    ],
+    "created_at": "2026-06-19T16:19:37",
+    "updated_at": "2026-06-29T12:33:23"
   },
   {
     "name": "Windows-Copilot-API",
     "full_name": "sumitgautam0101/Windows-Copilot-API",
     "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
     "url": "https://github.com/sumitgautam0101/Windows-Copilot-API",
-    "stars": 938,
+    "stars": 952,
     "daily_stars": 14,
     "language": "Python",
     "topics": [
@@ -240,6 +236,6 @@
       "openai"
     ],
     "created_at": "2026-06-19T13:24:44",
-    "updated_at": "2026-06-29T04:55:33"
+    "updated_at": "2026-06-29T12:38:27"
   }
 ]
