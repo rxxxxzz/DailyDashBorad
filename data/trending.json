@@ -4,8 +4,8 @@
     "full_name": "DietrichGebert/ponytail",
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 69862,
-    "daily_stars": 494,
+    "stars": 70097,
+    "daily_stars": 235,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -20,15 +20,15 @@
       "yagni"
     ],
     "created_at": "2026-06-12T00:52:37",
-    "updated_at": "2026-07-01T11:37:54"
+    "updated_at": "2026-07-01T15:16:54"
   },
   {
     "name": "loop-engineering",
     "full_name": "cobusgreyling/loop-engineering",
     "description": "Practical reference and patterns for loop engineering,  designing systems that prompt and orchestrate AI coding agents (inspired by Addy Osmani and Boris Cherny / Anthropic)",
     "url": "https://github.com/cobusgreyling/loop-engineering",
-    "stars": 4587,
-    "daily_stars": 91,
+    "stars": 4637,
+    "daily_stars": 50,
     "language": "JavaScript",
     "topics": [
       "agentic-ai",
@@ -42,15 +42,34 @@
       "mcp"
     ],
     "created_at": "2026-06-09T06:28:20",
-    "updated_at": "2026-07-01T11:27:06"
+    "updated_at": "2026-07-01T15:15:50"
+  },
+  {
+    "name": "opentag",
+    "full_name": "amplifthq/opentag",
+    "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+    "url": "https://github.com/amplifthq/opentag",
+    "stars": 472,
+    "daily_stars": 31,
+    "language": "TypeScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "codex",
+      "github",
+      "slack"
+    ],
+    "created_at": "2026-06-24T08:05:12",
+    "updated_at": "2026-07-01T15:13:07"
   },
   {
     "name": "omnigent",
     "full_name": "omnigent-ai/omnigent",
     "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
     "url": "https://github.com/omnigent-ai/omnigent",
-    "stars": 5869,
-    "daily_stars": 64,
+    "stars": 5896,
+    "daily_stars": 27,
     "language": "Python",
     "topics": [
       "agents",
@@ -62,49 +81,30 @@
       "python"
     ],
     "created_at": "2026-06-11T12:18:13",
-    "updated_at": "2026-07-01T11:31:17"
+    "updated_at": "2026-07-01T15:16:47"
   },
   {
     "name": "Fundamental-Ava",
     "full_name": "TianhangZhuzth/Fundamental-Ava",
     "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents.",
     "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-    "stars": 676,
-    "daily_stars": 46,
+    "stars": 696,
+    "daily_stars": 20,
     "language": "Python",
     "topics": [
       "ai",
       "ai-agents"
     ],
     "created_at": "2026-06-30T01:04:13",
-    "updated_at": "2026-07-01T11:33:12"
-  },
-  {
-    "name": "opentag",
-    "full_name": "amplifthq/opentag",
-    "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
-    "url": "https://github.com/amplifthq/opentag",
-    "stars": 441,
-    "daily_stars": 46,
-    "language": "TypeScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "claude",
-      "codex",
-      "github",
-      "slack"
-    ],
-    "created_at": "2026-06-24T08:05:12",
-    "updated_at": "2026-07-01T11:31:20"
+    "updated_at": "2026-07-01T15:05:59"
   },
   {
     "name": "tradingcodex",
     "full_name": "monarchjuno/tradingcodex",
     "description": "Turn Codex into your investment workflow team",
     "url": "https://github.com/monarchjuno/tradingcodex",
-    "stars": 218,
-    "daily_stars": 36,
+    "stars": 238,
+    "daily_stars": 20,
     "language": "Python",
     "topics": [
       "agentic-workflow",
@@ -118,63 +118,52 @@
       "trading"
     ],
     "created_at": "2026-06-08T13:26:18",
-    "updated_at": "2026-07-01T11:36:10"
+    "updated_at": "2026-07-01T15:02:13"
   },
   {
-    "name": "spec-superflow",
-    "full_name": "MageByte-Zero/spec-superflow",
-    "description": "连通需求说清楚和代码写对路的 AI 编程工作流插件。整合 OpenSpec 规划 + Superpowers 纪律，7 平台支持，Spec-first，契约驱动。",
-    "url": "https://github.com/MageByte-Zero/spec-superflow",
-    "stars": 118,
-    "daily_stars": 34,
-    "language": null,
+    "name": "loop-library",
+    "full_name": "Forward-Future/loop-library",
+    "description": "Practical repeatable AI-agent workflows for engineering, evaluation, operations, content, and design.",
+    "url": "https://github.com/Forward-Future/loop-library",
+    "stars": 2237,
+    "daily_stars": 13,
+    "language": "HTML",
     "topics": [
-      "7-platforms",
-      "ai-coding",
-      "claude-code",
-      "codex",
-      "copilot-cli",
-      "cursor",
-      "gemini-cli",
-      "opencode",
-      "opensource",
-      "openspec",
-      "skills",
-      "spec-driven-development",
-      "superpowers",
-      "tdd",
-      "trae",
-      "workflow"
-    ],
-    "created_at": "2026-06-26T05:13:03",
-    "updated_at": "2026-07-01T11:22:46"
-  },
-  {
-    "name": "sim-use",
-    "full_name": "lycorp-jp/sim-use",
-    "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
-    "url": "https://github.com/lycorp-jp/sim-use",
-    "stars": 378,
-    "daily_stars": 30,
-    "language": "Swift",
-    "topics": [
-      "accessibility",
+      "agent-skills",
+      "agentic-workflows",
       "ai-agents",
-      "ai-development",
-      "android-emulator",
-      "ios-simulator",
-      "mobile-automation"
+      "automation",
+      "codex",
+      "prompt-engineering"
     ],
-    "created_at": "2026-06-26T05:59:56",
-    "updated_at": "2026-07-01T11:04:24"
+    "created_at": "2026-06-12T14:44:22",
+    "updated_at": "2026-07-01T15:13:30"
+  },
+  {
+    "name": "MiMo-Code",
+    "full_name": "XiaomiMiMo/MiMo-Code",
+    "description": "MiMo Code: Where Models and Agents Co-Evolve",
+    "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+    "stars": 11176,
+    "daily_stars": 11,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "cli",
+      "mimo",
+      "mimo-code"
+    ],
+    "created_at": "2026-06-10T11:52:41",
+    "updated_at": "2026-07-01T14:33:33"
   },
   {
     "name": "ponytail-lite",
     "full_name": "ilindaniel/ponytail-lite",
     "description": "Stop agents from over-engineering. Inspired by Ponytail, but without the plugin madness.",
     "url": "https://github.com/ilindaniel/ponytail-lite",
-    "stars": 73,
-    "daily_stars": 21,
+    "stars": 84,
+    "daily_stars": 11,
     "language": null,
     "topics": [
       "agent-skills",
@@ -192,32 +181,25 @@
       "yagni"
     ],
     "created_at": "2026-06-28T12:54:58",
-    "updated_at": "2026-07-01T11:14:15"
+    "updated_at": "2026-07-01T13:49:12"
   },
   {
-    "name": "rf-detr-cpp",
-    "full_name": "infracv/rf-detr-cpp",
-    "description": "Production-ready C++/TensorRT inference engine for RF-DETR. Object detection and instance segmentation with FP32/FP16/INT8 support. Optimized for NVIDIA GPUs, Jetson (Orin, AGX Thor).",
-    "url": "https://github.com/infracv/rf-detr-cpp",
-    "stars": 76,
-    "daily_stars": 20,
-    "language": "C++",
+    "name": "sim-use",
+    "full_name": "lycorp-jp/sim-use",
+    "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
+    "url": "https://github.com/lycorp-jp/sim-use",
+    "stars": 388,
+    "daily_stars": 10,
+    "language": "Swift",
     "topics": [
-      "computer-vision",
-      "cpp",
-      "cuda",
-      "deep-learning",
-      "deployment",
-      "docker",
-      "instance-segmentation",
-      "nvidia-gpu",
-      "nvidia-jetson",
-      "object-detection",
-      "onnx",
-      "rf-detr",
-      "tensorrt"
+      "accessibility",
+      "ai-agents",
+      "ai-development",
+      "android-emulator",
+      "ios-simulator",
+      "mobile-automation"
     ],
-    "created_at": "2026-06-19T04:10:19",
-    "updated_at": "2026-07-01T11:26:40"
+    "created_at": "2026-06-26T05:59:56",
+    "updated_at": "2026-07-01T15:01:02"
   }
 ]
