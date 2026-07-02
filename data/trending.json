@@ -4,8 +4,8 @@
     "full_name": "DietrichGebert/ponytail",
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 71534,
-    "daily_stars": 171,
+    "stars": 71635,
+    "daily_stars": 101,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -20,15 +20,31 @@
       "yagni"
     ],
     "created_at": "2026-06-12T00:52:37",
-    "updated_at": "2026-07-02T18:12:49"
+    "updated_at": "2026-07-02T21:41:26"
+  },
+  {
+    "name": "cliare",
+    "full_name": "modiqo/cliare",
+    "description": "CLI agent-readiness measurement, command-shape inference, and CI scorecards",
+    "url": "https://github.com/modiqo/cliare",
+    "stars": 216,
+    "daily_stars": 62,
+    "language": "Rust",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "cli"
+    ],
+    "created_at": "2026-06-13T00:38:35",
+    "updated_at": "2026-07-02T21:44:12"
   },
   {
     "name": "skillspec",
     "full_name": "modiqo/skillspec",
     "description": "SkillSpec makes agent skills followable, testable, and provable with Doctor risk reports, guided imports, structured contracts, and alignment proof.",
     "url": "https://github.com/modiqo/skillspec",
-    "stars": 504,
-    "daily_stars": 138,
+    "stars": 550,
+    "daily_stars": 46,
     "language": "Rust",
     "topics": [
       "ai",
@@ -37,15 +53,15 @@
       "ai-tool"
     ],
     "created_at": "2026-06-19T23:42:55",
-    "updated_at": "2026-07-02T18:07:37"
+    "updated_at": "2026-07-02T21:37:44"
   },
   {
     "name": "loop-engineering",
     "full_name": "cobusgreyling/loop-engineering",
     "description": "Practical reference and patterns for loop engineering,  designing systems that prompt and orchestrate AI coding agents (inspired by Addy Osmani and Boris Cherny / Anthropic)",
     "url": "https://github.com/cobusgreyling/loop-engineering",
-    "stars": 4830,
-    "daily_stars": 39,
+    "stars": 4861,
+    "daily_stars": 31,
     "language": "JavaScript",
     "topics": [
       "agentic-ai",
@@ -59,53 +75,15 @@
       "mcp"
     ],
     "created_at": "2026-06-09T06:28:20",
-    "updated_at": "2026-07-02T18:12:26"
-  },
-  {
-    "name": "omnigent",
-    "full_name": "omnigent-ai/omnigent",
-    "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
-    "url": "https://github.com/omnigent-ai/omnigent",
-    "stars": 6035,
-    "daily_stars": 24,
-    "language": "Python",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "developer-tools",
-      "llm",
-      "ml",
-      "python"
-    ],
-    "created_at": "2026-06-11T12:18:13",
-    "updated_at": "2026-07-02T18:11:59"
-  },
-  {
-    "name": "MiMo-Code",
-    "full_name": "XiaomiMiMo/MiMo-Code",
-    "description": "MiMo Code: Where Models and Agents Co-Evolve",
-    "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "stars": 11286,
-    "daily_stars": 12,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "cli",
-      "mimo",
-      "mimo-code"
-    ],
-    "created_at": "2026-06-10T11:52:41",
-    "updated_at": "2026-07-02T17:49:22"
+    "updated_at": "2026-07-02T21:39:33"
   },
   {
     "name": "google-health-cli",
     "full_name": "Google-Health-API/google-health-cli",
     "description": "Google Workspace CLI — one command-line tool for the Google Health API. Includes AI agent skills.",
     "url": "https://github.com/Google-Health-API/google-health-cli",
-    "stars": 88,
-    "daily_stars": 9,
+    "stars": 99,
+    "daily_stars": 11,
     "language": "Go",
     "topics": [
       "agent-skills",
@@ -120,34 +98,15 @@
       "oauth2"
     ],
     "created_at": "2026-06-24T12:37:34",
-    "updated_at": "2026-07-02T18:04:05"
-  },
-  {
-    "name": "sim-use",
-    "full_name": "lycorp-jp/sim-use",
-    "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
-    "url": "https://github.com/lycorp-jp/sim-use",
-    "stars": 449,
-    "daily_stars": 8,
-    "language": "Swift",
-    "topics": [
-      "accessibility",
-      "ai-agents",
-      "ai-development",
-      "android-emulator",
-      "ios-simulator",
-      "mobile-automation"
-    ],
-    "created_at": "2026-06-26T05:59:56",
-    "updated_at": "2026-07-02T17:55:45"
+    "updated_at": "2026-07-02T21:12:49"
   },
   {
     "name": "minimind-deep-dive",
     "full_name": "Enping-Hu/minimind-deep-dive",
     "description": "逐行对照 MiniMind 源码精读、并延伸到大模型技术体系的中文学习笔记 —— 预训练 / SFT / DPO / PPO / GRPO、训练机制、MiniMind2→3 版本对照、真实实验证据。",
     "url": "https://github.com/Enping-Hu/minimind-deep-dive",
-    "stars": 64,
-    "daily_stars": 6,
+    "stars": 73,
+    "daily_stars": 9,
     "language": null,
     "topics": [
       "deep-learning",
@@ -170,42 +129,85 @@
       "transformer"
     ],
     "created_at": "2026-06-19T13:17:24",
-    "updated_at": "2026-07-02T17:45:56"
+    "updated_at": "2026-07-02T21:37:45"
   },
   {
-    "name": "oh-my-taiyiforge",
-    "full_name": "Dong90/oh-my-taiyiforge",
-    "description": "AI workflow automation plugin for intelligent code generation with Claude/Codex",
-    "url": "https://github.com/Dong90/oh-my-taiyiforge",
-    "stars": 750,
+    "name": "omnigent",
+    "full_name": "omnigent-ai/omnigent",
+    "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+    "url": "https://github.com/omnigent-ai/omnigent",
+    "stars": 6042,
+    "daily_stars": 7,
+    "language": "Python",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "developer-tools",
+      "llm",
+      "ml",
+      "python"
+    ],
+    "created_at": "2026-06-11T12:18:13",
+    "updated_at": "2026-07-02T21:34:47"
+  },
+  {
+    "name": "opentag",
+    "full_name": "amplifthq/opentag",
+    "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+    "url": "https://github.com/amplifthq/opentag",
+    "stars": 556,
     "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
-      "ai",
-      "automation",
-      "code-generation",
-      "developer-tools",
-      "llm",
-      "plugin",
-      "typescript",
-      "workflow"
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "codex",
+      "github",
+      "slack"
     ],
-    "created_at": "2026-06-05T02:25:33",
-    "updated_at": "2026-07-02T17:59:40"
+    "created_at": "2026-06-24T08:05:12",
+    "updated_at": "2026-07-02T21:03:40"
   },
   {
-    "name": "Fundamental-Ava",
-    "full_name": "TianhangZhuzth/Fundamental-Ava",
-    "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents.",
-    "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-    "stars": 749,
+    "name": "MiMo-Code",
+    "full_name": "XiaomiMiMo/MiMo-Code",
+    "description": "MiMo Code: Where Models and Agents Co-Evolve",
+    "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+    "stars": 11291,
     "daily_stars": 5,
-    "language": "Python",
+    "language": "TypeScript",
     "topics": [
       "ai",
-      "ai-agents"
+      "ai-agents",
+      "cli",
+      "mimo",
+      "mimo-code"
     ],
-    "created_at": "2026-06-30T01:04:13",
-    "updated_at": "2026-07-02T17:00:12"
+    "created_at": "2026-06-10T11:52:41",
+    "updated_at": "2026-07-02T21:13:08"
+  },
+  {
+    "name": "awesome-evals",
+    "full_name": "benchflow-ai/awesome-evals",
+    "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+    "url": "https://github.com/benchflow-ai/awesome-evals",
+    "stars": 646,
+    "daily_stars": 4,
+    "language": null,
+    "topics": [
+      "agent-evaluation",
+      "ai-agents",
+      "awesome",
+      "awesome-list",
+      "benchmarks",
+      "evals",
+      "llm",
+      "llm-evaluation",
+      "rl-environments"
+    ],
+    "created_at": "2026-06-24T08:10:33",
+    "updated_at": "2026-07-02T21:33:58"
   }
 ]
