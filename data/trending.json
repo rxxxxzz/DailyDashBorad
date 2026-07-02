@@ -4,8 +4,8 @@
     "full_name": "DietrichGebert/ponytail",
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 71363,
-    "daily_stars": 229,
+    "stars": 71534,
+    "daily_stars": 171,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -20,15 +20,15 @@
       "yagni"
     ],
     "created_at": "2026-06-12T00:52:37",
-    "updated_at": "2026-07-02T14:38:50"
+    "updated_at": "2026-07-02T18:12:49"
   },
   {
     "name": "skillspec",
     "full_name": "modiqo/skillspec",
     "description": "SkillSpec makes agent skills followable, testable, and provable with Doctor risk reports, guided imports, structured contracts, and alignment proof.",
     "url": "https://github.com/modiqo/skillspec",
-    "stars": 366,
-    "daily_stars": 153,
+    "stars": 504,
+    "daily_stars": 138,
     "language": "Rust",
     "topics": [
       "ai",
@@ -37,15 +37,15 @@
       "ai-tool"
     ],
     "created_at": "2026-06-19T23:42:55",
-    "updated_at": "2026-07-02T14:38:19"
+    "updated_at": "2026-07-02T18:07:37"
   },
   {
     "name": "loop-engineering",
     "full_name": "cobusgreyling/loop-engineering",
     "description": "Practical reference and patterns for loop engineering,  designing systems that prompt and orchestrate AI coding agents (inspired by Addy Osmani and Boris Cherny / Anthropic)",
     "url": "https://github.com/cobusgreyling/loop-engineering",
-    "stars": 4791,
-    "daily_stars": 23,
+    "stars": 4830,
+    "daily_stars": 39,
     "language": "JavaScript",
     "topics": [
       "agentic-ai",
@@ -59,15 +59,15 @@
       "mcp"
     ],
     "created_at": "2026-06-09T06:28:20",
-    "updated_at": "2026-07-02T14:37:46"
+    "updated_at": "2026-07-02T18:12:26"
   },
   {
     "name": "omnigent",
     "full_name": "omnigent-ai/omnigent",
     "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
     "url": "https://github.com/omnigent-ai/omnigent",
-    "stars": 6011,
-    "daily_stars": 18,
+    "stars": 6035,
+    "daily_stars": 24,
     "language": "Python",
     "topics": [
       "agents",
@@ -79,34 +79,15 @@
       "python"
     ],
     "created_at": "2026-06-11T12:18:13",
-    "updated_at": "2026-07-02T14:25:50"
-  },
-  {
-    "name": "sim-use",
-    "full_name": "lycorp-jp/sim-use",
-    "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
-    "url": "https://github.com/lycorp-jp/sim-use",
-    "stars": 441,
-    "daily_stars": 17,
-    "language": "Swift",
-    "topics": [
-      "accessibility",
-      "ai-agents",
-      "ai-development",
-      "android-emulator",
-      "ios-simulator",
-      "mobile-automation"
-    ],
-    "created_at": "2026-06-26T05:59:56",
-    "updated_at": "2026-07-02T14:38:11"
+    "updated_at": "2026-07-02T18:11:59"
   },
   {
     "name": "MiMo-Code",
     "full_name": "XiaomiMiMo/MiMo-Code",
     "description": "MiMo Code: Where Models and Agents Co-Evolve",
     "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "stars": 11274,
-    "daily_stars": 14,
+    "stars": 11286,
+    "daily_stars": 12,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -116,15 +97,15 @@
       "mimo-code"
     ],
     "created_at": "2026-06-10T11:52:41",
-    "updated_at": "2026-07-02T14:27:13"
+    "updated_at": "2026-07-02T17:49:22"
   },
   {
     "name": "google-health-cli",
     "full_name": "Google-Health-API/google-health-cli",
     "description": "Google Workspace CLI — one command-line tool for the Google Health API. Includes AI agent skills.",
     "url": "https://github.com/Google-Health-API/google-health-cli",
-    "stars": 79,
-    "daily_stars": 12,
+    "stars": 88,
+    "daily_stars": 9,
     "language": "Go",
     "topics": [
       "agent-skills",
@@ -139,73 +120,92 @@
       "oauth2"
     ],
     "created_at": "2026-06-24T12:37:34",
-    "updated_at": "2026-07-02T14:05:48"
+    "updated_at": "2026-07-02T18:04:05"
+  },
+  {
+    "name": "sim-use",
+    "full_name": "lycorp-jp/sim-use",
+    "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
+    "url": "https://github.com/lycorp-jp/sim-use",
+    "stars": 449,
+    "daily_stars": 8,
+    "language": "Swift",
+    "topics": [
+      "accessibility",
+      "ai-agents",
+      "ai-development",
+      "android-emulator",
+      "ios-simulator",
+      "mobile-automation"
+    ],
+    "created_at": "2026-06-26T05:59:56",
+    "updated_at": "2026-07-02T17:55:45"
+  },
+  {
+    "name": "minimind-deep-dive",
+    "full_name": "Enping-Hu/minimind-deep-dive",
+    "description": "逐行对照 MiniMind 源码精读、并延伸到大模型技术体系的中文学习笔记 —— 预训练 / SFT / DPO / PPO / GRPO、训练机制、MiniMind2→3 版本对照、真实实验证据。",
+    "url": "https://github.com/Enping-Hu/minimind-deep-dive",
+    "stars": 64,
+    "daily_stars": 6,
+    "language": null,
+    "topics": [
+      "deep-learning",
+      "dpo",
+      "fine-tuning",
+      "from-scratch",
+      "grpo",
+      "large-language-models",
+      "llm",
+      "llm-training",
+      "minimind",
+      "moe",
+      "nlp",
+      "ppo",
+      "pretraining",
+      "pytorch",
+      "rlhf",
+      "rope",
+      "study-notes",
+      "transformer"
+    ],
+    "created_at": "2026-06-19T13:17:24",
+    "updated_at": "2026-07-02T17:45:56"
+  },
+  {
+    "name": "oh-my-taiyiforge",
+    "full_name": "Dong90/oh-my-taiyiforge",
+    "description": "AI workflow automation plugin for intelligent code generation with Claude/Codex",
+    "url": "https://github.com/Dong90/oh-my-taiyiforge",
+    "stars": 750,
+    "daily_stars": 6,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "automation",
+      "code-generation",
+      "developer-tools",
+      "llm",
+      "plugin",
+      "typescript",
+      "workflow"
+    ],
+    "created_at": "2026-06-05T02:25:33",
+    "updated_at": "2026-07-02T17:59:40"
   },
   {
     "name": "Fundamental-Ava",
     "full_name": "TianhangZhuzth/Fundamental-Ava",
     "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents.",
     "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-    "stars": 744,
-    "daily_stars": 10,
+    "stars": 749,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "ai",
       "ai-agents"
     ],
     "created_at": "2026-06-30T01:04:13",
-    "updated_at": "2026-07-02T14:38:41"
-  },
-  {
-    "name": "agent-apprenticeship",
-    "full_name": "Forsy-AI/agent-apprenticeship",
-    "description": "The living ecosystem for AI agents learning from real-world work through iterative loops and training-signal exchange.",
-    "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-    "stars": 1162,
-    "daily_stars": 7,
-    "language": null,
-    "topics": [
-      "agent-apprenticeship",
-      "agent-economy",
-      "agent-experience",
-      "agent-learning",
-      "agent-traces",
-      "agentic-ai",
-      "ai-agents",
-      "autonomous-agents",
-      "claude-code",
-      "codex",
-      "cursor",
-      "ecosystem-learning",
-      "hermes-agent",
-      "loop-engineering",
-      "openclaw",
-      "opencode",
-      "post-training",
-      "real-world-tasks",
-      "reinforcement-learning",
-      "training-signals"
-    ],
-    "created_at": "2026-06-19T16:19:37",
-    "updated_at": "2026-07-02T14:10:06"
-  },
-  {
-    "name": "loop-library",
-    "full_name": "Forward-Future/loop-library",
-    "description": "Practical repeatable AI-agent workflows for engineering, evaluation, operations, content, and design.",
-    "url": "https://github.com/Forward-Future/loop-library",
-    "stars": 2270,
-    "daily_stars": 4,
-    "language": "HTML",
-    "topics": [
-      "agent-skills",
-      "agentic-workflows",
-      "ai-agents",
-      "automation",
-      "codex",
-      "prompt-engineering"
-    ],
-    "created_at": "2026-06-12T14:44:22",
-    "updated_at": "2026-07-02T14:06:26"
+    "updated_at": "2026-07-02T17:00:12"
   }
 ]
