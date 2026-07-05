@@ -4,7 +4,7 @@
     "full_name": "DietrichGebert/ponytail",
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 74042,
+    "stars": 74252,
     "daily_stars": 210,
     "language": "JavaScript",
     "topics": [
@@ -20,14 +20,14 @@
       "yagni"
     ],
     "created_at": "2026-06-12T00:52:37",
-    "updated_at": "2026-07-05T04:38:35"
+    "updated_at": "2026-07-05T10:35:38"
   },
   {
     "name": "loop-engineering",
     "full_name": "cobusgreyling/loop-engineering",
     "description": "Practical reference and patterns for loop engineering,  designing systems that prompt and orchestrate AI coding agents (inspired by Addy Osmani and Boris Cherny / Anthropic)",
     "url": "https://github.com/cobusgreyling/loop-engineering",
-    "stars": 5685,
+    "stars": 5745,
     "daily_stars": 60,
     "language": "JavaScript",
     "topics": [
@@ -42,15 +42,35 @@
       "mcp"
     ],
     "created_at": "2026-06-09T06:28:20",
-    "updated_at": "2026-07-05T04:33:52"
+    "updated_at": "2026-07-05T10:30:01"
+  },
+  {
+    "name": "omnigent",
+    "full_name": "omnigent-ai/omnigent",
+    "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+    "url": "https://github.com/omnigent-ai/omnigent",
+    "stars": 6270,
+    "daily_stars": 25,
+    "language": "Python",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "developer-tools",
+      "llm",
+      "ml",
+      "python"
+    ],
+    "created_at": "2026-06-11T12:18:13",
+    "updated_at": "2026-07-05T10:12:33"
   },
   {
     "name": "open-connector",
     "full_name": "oomol-lab/open-connector",
     "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
     "url": "https://github.com/oomol-lab/open-connector",
-    "stars": 149,
-    "daily_stars": 36,
+    "stars": 174,
+    "daily_stars": 25,
     "language": "TypeScript",
     "topics": [
       "agent-tools",
@@ -73,15 +93,15 @@
       "typescript"
     ],
     "created_at": "2026-06-29T10:49:36",
-    "updated_at": "2026-07-05T04:38:10"
+    "updated_at": "2026-07-05T10:30:29"
   },
   {
     "name": "opentag",
     "full_name": "amplifthq/opentag",
     "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
     "url": "https://github.com/amplifthq/opentag",
-    "stars": 730,
-    "daily_stars": 30,
+    "stars": 750,
+    "daily_stars": 20,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -92,62 +112,15 @@
       "slack"
     ],
     "created_at": "2026-06-24T08:05:12",
-    "updated_at": "2026-07-05T04:05:51"
-  },
-  {
-    "name": "Foundry",
-    "full_name": "axislab-top/Foundry",
-    "description": "Transform any idea into a running AI-powered company",
-    "url": "https://github.com/axislab-top/Foundry",
-    "stars": 148,
-    "daily_stars": 22,
-    "language": "TypeScript",
-    "topics": [
-      "agent-platform",
-      "ai",
-      "ai-agents",
-      "ai-company",
-      "autonomous-agents",
-      "collaboration",
-      "digital-company",
-      "llm",
-      "multi-agent",
-      "nestjs",
-      "open-source",
-      "react",
-      "typescript",
-      "workflow"
-    ],
-    "created_at": "2026-06-21T05:59:33",
-    "updated_at": "2026-07-05T04:05:15"
-  },
-  {
-    "name": "omnigent",
-    "full_name": "omnigent-ai/omnigent",
-    "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
-    "url": "https://github.com/omnigent-ai/omnigent",
-    "stars": 6245,
-    "daily_stars": 21,
-    "language": "Python",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "developer-tools",
-      "llm",
-      "ml",
-      "python"
-    ],
-    "created_at": "2026-06-11T12:18:13",
-    "updated_at": "2026-07-05T04:39:30"
+    "updated_at": "2026-07-05T10:36:13"
   },
   {
     "name": "loop-library",
     "full_name": "Forward-Future/loop-library",
     "description": "Practical repeatable AI-agent workflows for engineering, evaluation, operations, content, and design.",
     "url": "https://github.com/Forward-Future/loop-library",
-    "stars": 2419,
-    "daily_stars": 18,
+    "stars": 2436,
+    "daily_stars": 17,
     "language": "HTML",
     "topics": [
       "agent-skills",
@@ -158,15 +131,49 @@
       "prompt-engineering"
     ],
     "created_at": "2026-06-12T14:44:22",
-    "updated_at": "2026-07-05T04:35:45"
+    "updated_at": "2026-07-05T09:48:32"
+  },
+  {
+    "name": "MiMo-Code",
+    "full_name": "XiaomiMiMo/MiMo-Code",
+    "description": "MiMo Code: Where Models and Agents Co-Evolve",
+    "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+    "stars": 11437,
+    "daily_stars": 16,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "cli",
+      "mimo",
+      "mimo-code"
+    ],
+    "created_at": "2026-06-10T11:52:41",
+    "updated_at": "2026-07-05T10:36:40"
+  },
+  {
+    "name": "cliare",
+    "full_name": "modiqo/cliare",
+    "description": "CLI agent-readiness measurement, command-shape inference, and CI scorecards",
+    "url": "https://github.com/modiqo/cliare",
+    "stars": 680,
+    "daily_stars": 11,
+    "language": "Rust",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "cli"
+    ],
+    "created_at": "2026-06-13T00:38:35",
+    "updated_at": "2026-07-05T10:13:31"
   },
   {
     "name": "skillspec",
     "full_name": "modiqo/skillspec",
     "description": "SkillSpec makes agent skills followable, testable, and provable with Doctor risk reports, guided imports, structured contracts, and alignment proof.",
     "url": "https://github.com/modiqo/skillspec",
-    "stars": 830,
-    "daily_stars": 8,
+    "stars": 839,
+    "daily_stars": 9,
     "language": "Rust",
     "topics": [
       "ai",
@@ -175,37 +182,35 @@
       "ai-tool"
     ],
     "created_at": "2026-06-19T23:42:55",
-    "updated_at": "2026-07-05T04:20:28"
+    "updated_at": "2026-07-05T10:05:28"
   },
   {
-    "name": "cliare",
-    "full_name": "modiqo/cliare",
-    "description": "CLI agent-readiness measurement, command-shape inference, and CI scorecards",
-    "url": "https://github.com/modiqo/cliare",
-    "stars": 669,
-    "daily_stars": 5,
-    "language": "Rust",
+    "name": "spec-superflow",
+    "full_name": "MageByte-Zero/spec-superflow",
+    "description": "连通需求说清楚和代码写对路的 AI 编程工作流插件。整合 OpenSpec 规划 + Superpowers 纪律，7 平台支持，Spec-first，契约驱动。",
+    "url": "https://github.com/MageByte-Zero/spec-superflow",
+    "stars": 239,
+    "daily_stars": 9,
+    "language": null,
     "topics": [
-      "ai",
-      "ai-agents",
-      "cli"
+      "7-platforms",
+      "ai-coding",
+      "claude-code",
+      "codex",
+      "copilot-cli",
+      "cursor",
+      "gemini-cli",
+      "opencode",
+      "opensource",
+      "openspec",
+      "skills",
+      "spec-driven-development",
+      "superpowers",
+      "tdd",
+      "trae",
+      "workflow"
     ],
-    "created_at": "2026-06-13T00:38:35",
-    "updated_at": "2026-07-05T03:57:39"
-  },
-  {
-    "name": "awesome-agent-architecture",
-    "full_name": "hardness1020/awesome-agent-architecture",
-    "description": "Curated architecture notes and system reviews of modern AI agents.",
-    "url": "https://github.com/hardness1020/awesome-agent-architecture",
-    "stars": 101,
-    "daily_stars": 5,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "harness-engineering"
-    ],
-    "created_at": "2026-06-23T06:09:05",
-    "updated_at": "2026-07-05T04:20:36"
+    "created_at": "2026-06-26T05:13:03",
+    "updated_at": "2026-07-05T10:10:56"
   }
 ]
