@@ -4,8 +4,8 @@
     "full_name": "DietrichGebert/ponytail",
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 74401,
-    "daily_stars": 149,
+    "stars": 74584,
+    "daily_stars": 183,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -20,15 +20,15 @@
       "yagni"
     ],
     "created_at": "2026-06-12T00:52:37",
-    "updated_at": "2026-07-05T14:15:06"
+    "updated_at": "2026-07-05T17:35:22"
   },
   {
     "name": "loop-engineering",
     "full_name": "cobusgreyling/loop-engineering",
     "description": "Practical reference and patterns for loop engineering,  designing systems that prompt and orchestrate AI coding agents (inspired by Addy Osmani and Boris Cherny / Anthropic)",
     "url": "https://github.com/cobusgreyling/loop-engineering",
-    "stars": 5803,
-    "daily_stars": 58,
+    "stars": 5863,
+    "daily_stars": 60,
     "language": "JavaScript",
     "topics": [
       "agentic-ai",
@@ -42,15 +42,89 @@
       "mcp"
     ],
     "created_at": "2026-06-09T06:28:20",
-    "updated_at": "2026-07-05T14:14:14"
+    "updated_at": "2026-07-05T17:35:27"
+  },
+  {
+    "name": "omnigent",
+    "full_name": "omnigent-ai/omnigent",
+    "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+    "url": "https://github.com/omnigent-ai/omnigent",
+    "stars": 6299,
+    "daily_stars": 15,
+    "language": "Python",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "developer-tools",
+      "llm",
+      "ml",
+      "python"
+    ],
+    "created_at": "2026-06-11T12:18:13",
+    "updated_at": "2026-07-05T17:27:09"
+  },
+  {
+    "name": "opentag",
+    "full_name": "amplifthq/opentag",
+    "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+    "url": "https://github.com/amplifthq/opentag",
+    "stars": 773,
+    "daily_stars": 14,
+    "language": "TypeScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "codex",
+      "github",
+      "slack"
+    ],
+    "created_at": "2026-06-24T08:05:12",
+    "updated_at": "2026-07-05T17:36:13"
+  },
+  {
+    "name": "MiMo-Code",
+    "full_name": "XiaomiMiMo/MiMo-Code",
+    "description": "MiMo Code: Where Models and Agents Co-Evolve",
+    "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+    "stars": 11461,
+    "daily_stars": 10,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "cli",
+      "mimo",
+      "mimo-code"
+    ],
+    "created_at": "2026-06-10T11:52:41",
+    "updated_at": "2026-07-05T17:11:34"
+  },
+  {
+    "name": "skillspec",
+    "full_name": "modiqo/skillspec",
+    "description": "SkillSpec makes agent skills followable, testable, and provable with Doctor risk reports, guided imports, structured contracts, and alignment proof.",
+    "url": "https://github.com/modiqo/skillspec",
+    "stars": 856,
+    "daily_stars": 10,
+    "language": "Rust",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-evals",
+      "ai-tool"
+    ],
+    "created_at": "2026-06-19T23:42:55",
+    "updated_at": "2026-07-05T17:27:01"
   },
   {
     "name": "open-connector",
     "full_name": "oomol-lab/open-connector",
     "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
     "url": "https://github.com/oomol-lab/open-connector",
-    "stars": 207,
-    "daily_stars": 33,
+    "stars": 217,
+    "daily_stars": 10,
     "language": "TypeScript",
     "topics": [
       "agent-tools",
@@ -73,91 +147,59 @@
       "typescript"
     ],
     "created_at": "2026-06-29T10:49:36",
-    "updated_at": "2026-07-05T13:57:56"
+    "updated_at": "2026-07-05T17:01:14"
   },
   {
-    "name": "MiMo-Code",
-    "full_name": "XiaomiMiMo/MiMo-Code",
-    "description": "MiMo Code: Where Models and Agents Co-Evolve",
-    "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "stars": 11451,
-    "daily_stars": 14,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "cli",
-      "mimo",
-      "mimo-code"
-    ],
-    "created_at": "2026-06-10T11:52:41",
-    "updated_at": "2026-07-05T14:04:39"
-  },
-  {
-    "name": "omnigent",
-    "full_name": "omnigent-ai/omnigent",
-    "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
-    "url": "https://github.com/omnigent-ai/omnigent",
-    "stars": 6284,
-    "daily_stars": 14,
-    "language": "Python",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "developer-tools",
-      "llm",
-      "ml",
-      "python"
-    ],
-    "created_at": "2026-06-11T12:18:13",
-    "updated_at": "2026-07-05T13:50:24"
-  },
-  {
-    "name": "opentag",
-    "full_name": "amplifthq/opentag",
-    "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
-    "url": "https://github.com/amplifthq/opentag",
-    "stars": 759,
+    "name": "protonsearch",
+    "full_name": "PranshulSoni/protonsearch",
+    "description": "Fast, lightweight, local-first Windows launcher to search apps, files, content, OCR text, clipboard history, browser history, Git activity, settings, commands, and AI agents from one shortcut.",
+    "url": "https://github.com/PranshulSoni/protonsearch",
+    "stars": 79,
     "daily_stars": 9,
-    "language": "TypeScript",
+    "language": "Rust",
     "topics": [
-      "agent-skills",
       "ai-agents",
-      "claude",
-      "codex",
-      "github",
-      "slack"
+      "clipboard",
+      "command-palette",
+      "desktop-app",
+      "fts5",
+      "keyboard-launcher",
+      "launcher",
+      "local-first",
+      "ocr",
+      "productivity",
+      "rust",
+      "search",
+      "sqlite",
+      "win32",
+      "windows"
     ],
-    "created_at": "2026-06-24T08:05:12",
-    "updated_at": "2026-07-05T13:59:01"
+    "created_at": "2026-06-22T16:05:23",
+    "updated_at": "2026-07-05T17:23:19"
   },
   {
-    "name": "loop-library",
-    "full_name": "Forward-Future/loop-library",
-    "description": "Practical repeatable AI-agent workflows for engineering, evaluation, operations, content, and design.",
-    "url": "https://github.com/Forward-Future/loop-library",
-    "stars": 2443,
-    "daily_stars": 7,
-    "language": "HTML",
+    "name": "cliare",
+    "full_name": "modiqo/cliare",
+    "description": "CLI agent-readiness measurement, command-shape inference, and CI scorecards",
+    "url": "https://github.com/modiqo/cliare",
+    "stars": 693,
+    "daily_stars": 8,
+    "language": "Rust",
     "topics": [
-      "agent-skills",
-      "agentic-workflows",
+      "ai",
       "ai-agents",
-      "automation",
-      "codex",
-      "prompt-engineering"
+      "cli"
     ],
-    "created_at": "2026-06-12T14:44:22",
-    "updated_at": "2026-07-05T13:17:03"
+    "created_at": "2026-06-13T00:38:35",
+    "updated_at": "2026-07-05T17:25:07"
   },
   {
     "name": "agent-apprenticeship",
     "full_name": "Forsy-AI/agent-apprenticeship",
     "description": "The living ecosystem for AI agents learning from real-world work through iterative loops and training-signal exchange.",
     "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-    "stars": 1235,
-    "daily_stars": 7,
+    "stars": 1241,
+    "daily_stars": 6,
     "language": null,
     "topics": [
       "agent-apprenticeship",
@@ -182,51 +224,6 @@
       "training-signals"
     ],
     "created_at": "2026-06-19T16:19:37",
-    "updated_at": "2026-07-05T13:44:18"
-  },
-  {
-    "name": "skillspec",
-    "full_name": "modiqo/skillspec",
-    "description": "SkillSpec makes agent skills followable, testable, and provable with Doctor risk reports, guided imports, structured contracts, and alignment proof.",
-    "url": "https://github.com/modiqo/skillspec",
-    "stars": 846,
-    "daily_stars": 7,
-    "language": "Rust",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-evals",
-      "ai-tool"
-    ],
-    "created_at": "2026-06-19T23:42:55",
-    "updated_at": "2026-07-05T14:05:40"
-  },
-  {
-    "name": "compass-skills",
-    "full_name": "dongshuyan/compass-skills",
-    "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
-    "url": "https://github.com/dongshuyan/compass-skills",
-    "stars": 519,
-    "daily_stars": 6,
-    "language": "Python",
-    "topics": [
-      "agent-memory",
-      "agent-skills",
-      "ai-agents",
-      "ai-coding-agent",
-      "claude-code",
-      "claude-skills",
-      "codex-skills",
-      "developer-tools",
-      "local-first",
-      "openai-codex",
-      "personal-ai",
-      "prompt-engineering",
-      "skill-md",
-      "task-management",
-      "workflow-automation"
-    ],
-    "created_at": "2026-06-15T06:28:04",
-    "updated_at": "2026-07-05T12:36:37"
+    "updated_at": "2026-07-05T17:33:44"
   }
 ]
