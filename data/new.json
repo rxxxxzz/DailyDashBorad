@@ -5,7 +5,7 @@
     "description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models — with schemas, 159 skill cards, benchmarks, and CI.",
     "url": "https://github.com/eli-labz/Cognitive-Core-Skills",
     "stars": 273,
-    "daily_stars": -1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -124,8 +124,8 @@
     "full_name": "Neeeophytee/finding-unknowns-skills",
     "description": "8 installable Claude Code skills for finding your unknowns before they get expensive: blindspot pass, brainstorms, interviews, references, plans, notes, pitches, and a merge quiz. Community distillation, not official Anthropic.",
     "url": "https://github.com/Neeeophytee/finding-unknowns-skills",
-    "stars": 117,
-    "daily_stars": 1,
+    "stars": 120,
+    "daily_stars": 3,
     "language": null,
     "topics": [
       "agent-skills",
@@ -136,15 +136,15 @@
       "skills"
     ],
     "created_at": "2026-07-05T05:51:40",
-    "updated_at": "2026-07-08T07:27:42"
+    "updated_at": "2026-07-08T13:57:15"
   },
   {
     "name": "watch-skill",
     "full_name": "oxbshw/watch-skill",
     "description": "Give any AI agent the ability to watch video — and to watch its own work and fix it. MCP + CLI + REST; scene-aware frames, OCR, local-first transcription, persistent index, and THE LOOP.",
     "url": "https://github.com/oxbshw/watch-skill",
-    "stars": 112,
-    "daily_stars": 3,
+    "stars": 113,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "agent-tools",
@@ -161,7 +161,7 @@
       "yt-dlp"
     ],
     "created_at": "2026-07-05T23:25:30",
-    "updated_at": "2026-07-08T10:31:06"
+    "updated_at": "2026-07-08T12:49:28"
   },
   {
     "name": "ai-agents-tutorial",
@@ -186,34 +186,12 @@
     "updated_at": "2026-07-08T04:47:21"
   },
   {
-    "name": "awesome-ai-companion",
-    "full_name": "DasterProkio/awesome-ai-companion",
-    "description": "A curated list of open-source projects for building long-term AI companion relationships: frontends, backends, memory systems, hardware carriers, and world integrations.",
-    "url": "https://github.com/DasterProkio/awesome-ai-companion",
-    "stars": 87,
-    "daily_stars": 4,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "ai-companion",
-      "awesome-list",
-      "chatbot",
-      "llm",
-      "memory",
-      "open-source",
-      "self-hosted",
-      "virtual-companion"
-    ],
-    "created_at": "2026-07-03T04:24:24",
-    "updated_at": "2026-07-08T10:16:41"
-  },
-  {
     "name": "claude-antigravity-agents",
     "full_name": "markfulton/claude-antigravity-agents",
     "description": "A Claude Code skill that delegates coding, review, analysis, and research jobs to Google Antigravity CLI (agy) sub-agents — save tokens, use a second model, work in parallel.",
     "url": "https://github.com/markfulton/claude-antigravity-agents",
-    "stars": 86,
-    "daily_stars": 2,
+    "stars": 87,
+    "daily_stars": 1,
     "language": null,
     "topics": [
       "agentic",
@@ -228,25 +206,52 @@
       "subagents"
     ],
     "created_at": "2026-07-07T11:02:47",
-    "updated_at": "2026-07-08T09:26:35"
+    "updated_at": "2026-07-08T12:34:47"
   },
   {
-    "name": "rk-skills",
-    "full_name": "richkuo/rk-skills",
-    "description": "Claude Code workflow skills — GitHub issue/PR/release automation and Fable-driven planning. Install via npx or as a Claude Code plugin.",
-    "url": "https://github.com/richkuo/rk-skills",
-    "stars": 24,
-    "daily_stars": 1,
-    "language": "JavaScript",
+    "name": "awesome-ai-companion",
+    "full_name": "DasterProkio/awesome-ai-companion",
+    "description": "A curated list of open-source projects for building long-term AI companion relationships: frontends, backends, memory systems, hardware carriers, and world integrations.",
+    "url": "https://github.com/DasterProkio/awesome-ai-companion",
+    "stars": 86,
+    "daily_stars": -1,
+    "language": null,
     "topics": [
       "ai-agents",
-      "claude",
-      "claude-code",
-      "github-automation",
-      "skills",
-      "workflow"
+      "ai-companion",
+      "awesome-list",
+      "chatbot",
+      "llm",
+      "memory",
+      "open-source",
+      "self-hosted",
+      "virtual-companion"
     ],
-    "created_at": "2026-07-04T10:38:56",
-    "updated_at": "2026-07-08T09:20:57"
+    "created_at": "2026-07-03T04:24:24",
+    "updated_at": "2026-07-08T13:54:44"
+  },
+  {
+    "name": "atrophy",
+    "full_name": "ashutosh-rath02/atrophy",
+    "description": "Measure what your brain is losing while AI does your work - unaided-skill baselines, decay curves, reliance drills",
+    "url": "https://github.com/ashutosh-rath02/atrophy",
+    "stars": 34,
+    "daily_stars": 12,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "cli",
+      "deliberate-practice",
+      "developer-tools",
+      "elo-rating",
+      "local-first",
+      "nodejs",
+      "skill-assessment",
+      "skill-decay",
+      "typescript"
+    ],
+    "created_at": "2026-07-05T14:45:19",
+    "updated_at": "2026-07-08T14:26:19"
   }
 ]
