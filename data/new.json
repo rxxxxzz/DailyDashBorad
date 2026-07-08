@@ -87,33 +87,12 @@
     "updated_at": "2026-07-07T21:19:41"
   },
   {
-    "name": "boring-computers",
-    "full_name": "michaelshimeles/boring-computers",
-    "description": "On-demand Linux computers you can hand to an AI — real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them.",
-    "url": "https://github.com/michaelshimeles/boring-computers",
-    "stars": 179,
-    "daily_stars": 6,
-    "language": "Go",
-    "topics": [
-      "ai-agents",
-      "computer-use",
-      "firecracker",
-      "golang",
-      "mcp",
-      "microvm",
-      "sandbox",
-      "svelte"
-    ],
-    "created_at": "2026-06-30T04:25:16",
-    "updated_at": "2026-07-08T03:17:36"
-  },
-  {
     "name": "finding-unknowns-skills",
     "full_name": "Neeeophytee/finding-unknowns-skills",
     "description": "8 installable Claude Code skills for finding your unknowns before they get expensive: blindspot pass, brainstorms, interviews, references, plans, notes, pitches, and a merge quiz. Community distillation, not official Anthropic.",
     "url": "https://github.com/Neeeophytee/finding-unknowns-skills",
-    "stars": 111,
-    "daily_stars": 3,
+    "stars": 116,
+    "daily_stars": 5,
     "language": null,
     "topics": [
       "agent-skills",
@@ -124,15 +103,15 @@
       "skills"
     ],
     "created_at": "2026-07-05T05:51:40",
-    "updated_at": "2026-07-08T02:04:00"
+    "updated_at": "2026-07-08T06:30:04"
   },
   {
     "name": "watch-skill",
     "full_name": "oxbshw/watch-skill",
     "description": "Give any AI agent the ability to watch video — and to watch its own work and fix it. MCP + CLI + REST; scene-aware frames, OCR, local-first transcription, persistent index, and THE LOOP.",
     "url": "https://github.com/oxbshw/watch-skill",
-    "stars": 105,
-    "daily_stars": 6,
+    "stars": 109,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "agent-tools",
@@ -149,15 +128,15 @@
       "yt-dlp"
     ],
     "created_at": "2026-07-05T23:25:30",
-    "updated_at": "2026-07-08T03:16:14"
+    "updated_at": "2026-07-08T05:25:12"
   },
   {
     "name": "ai-agents-tutorial",
     "full_name": "amitshekhariitbhu/ai-agents-tutorial",
     "description": "Learn AI Agents step by step, from scratch - from function calling to agent loops to multi-agent systems, orchestration, and evaluation.",
     "url": "https://github.com/amitshekhariitbhu/ai-agents-tutorial",
-    "stars": 103,
-    "daily_stars": 0,
+    "stars": 105,
+    "daily_stars": 2,
     "language": null,
     "topics": [
       "agent-evaluation",
@@ -171,7 +150,30 @@
       "tool-calling-agent"
     ],
     "created_at": "2026-07-02T04:58:22",
-    "updated_at": "2026-07-07T11:58:33"
+    "updated_at": "2026-07-08T04:47:21"
+  },
+  {
+    "name": "claude-antigravity-agents",
+    "full_name": "markfulton/claude-antigravity-agents",
+    "description": "A Claude Code skill that delegates coding, review, analysis, and research jobs to Google Antigravity CLI (agy) sub-agents — save tokens, use a second model, work in parallel.",
+    "url": "https://github.com/markfulton/claude-antigravity-agents",
+    "stars": 84,
+    "daily_stars": 4,
+    "language": null,
+    "topics": [
+      "agentic",
+      "ai-agents",
+      "anthropic",
+      "antigravity",
+      "claude",
+      "claude-code",
+      "claude-skill",
+      "cli",
+      "gemini",
+      "subagents"
+    ],
+    "created_at": "2026-07-07T11:02:47",
+    "updated_at": "2026-07-08T06:08:43"
   },
   {
     "name": "awesome-ai-companion",
@@ -179,7 +181,7 @@
     "description": "A curated list of open-source projects for building long-term AI companion relationships: frontends, backends, memory systems, hardware carriers, and world integrations.",
     "url": "https://github.com/DasterProkio/awesome-ai-companion",
     "stars": 83,
-    "daily_stars": 2,
+    "daily_stars": 0,
     "language": null,
     "topics": [
       "ai-agents",
@@ -196,35 +198,12 @@
     "updated_at": "2026-07-08T00:08:36"
   },
   {
-    "name": "claude-antigravity-agents",
-    "full_name": "markfulton/claude-antigravity-agents",
-    "description": "A Claude Code skill that delegates coding, review, analysis, and research jobs to Google Antigravity CLI (agy) sub-agents — save tokens, use a second model, work in parallel.",
-    "url": "https://github.com/markfulton/claude-antigravity-agents",
-    "stars": 80,
-    "daily_stars": 0,
-    "language": null,
-    "topics": [
-      "agentic",
-      "ai-agents",
-      "anthropic",
-      "antigravity",
-      "claude",
-      "claude-code",
-      "claude-skill",
-      "cli",
-      "gemini",
-      "subagents"
-    ],
-    "created_at": "2026-07-07T11:02:47",
-    "updated_at": "2026-07-08T03:47:09"
-  },
-  {
     "name": "rk-skills",
     "full_name": "richkuo/rk-skills",
     "description": "Claude Code workflow skills — GitHub issue/PR/release automation and Fable-driven planning. Install via npx or as a Claude Code plugin.",
     "url": "https://github.com/richkuo/rk-skills",
     "stars": 23,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -236,5 +215,21 @@
     ],
     "created_at": "2026-07-04T10:38:56",
     "updated_at": "2026-07-08T02:51:43"
+  },
+  {
+    "name": "ml-dl-learning-log",
+    "full_name": "mykim-aus/ml-dl-learning-log",
+    "description": "Learning ML/DL by asking an AI, line by line — a curiosity-driven study log. Chase questions → build in code → explain in my own words → repeat. 🇬🇧 EN / 🇰🇷 KO",
+    "url": "https://github.com/mykim-aus/ml-dl-learning-log",
+    "stars": 18,
+    "daily_stars": 2,
+    "language": "HTML",
+    "topics": [
+      "ai",
+      "deep-learning",
+      "machine-learning"
+    ],
+    "created_at": "2026-06-30T11:08:31",
+    "updated_at": "2026-07-08T04:58:04"
   }
 ]
