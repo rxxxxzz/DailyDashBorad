@@ -4,8 +4,8 @@
     "full_name": "DietrichGebert/ponytail",
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 78609,
-    "daily_stars": 181,
+    "stars": 78871,
+    "daily_stars": 262,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -20,15 +20,15 @@
       "yagni"
     ],
     "created_at": "2026-06-12T00:52:37",
-    "updated_at": "2026-07-09T11:24:58"
+    "updated_at": "2026-07-09T15:39:47"
   },
   {
     "name": "omnigent",
     "full_name": "omnigent-ai/omnigent",
     "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
     "url": "https://github.com/omnigent-ai/omnigent",
-    "stars": 6856,
-    "daily_stars": 27,
+    "stars": 6891,
+    "daily_stars": 35,
     "language": "Python",
     "topics": [
       "agents",
@@ -40,14 +40,14 @@
       "python"
     ],
     "created_at": "2026-06-11T12:18:13",
-    "updated_at": "2026-07-09T11:19:04"
+    "updated_at": "2026-07-09T15:33:33"
   },
   {
     "name": "open-connector",
     "full_name": "oomol-lab/open-connector",
     "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
     "url": "https://github.com/oomol-lab/open-connector",
-    "stars": 1070,
+    "stars": 1096,
     "daily_stars": 26,
     "language": "TypeScript",
     "topics": [
@@ -71,34 +71,34 @@
       "typescript"
     ],
     "created_at": "2026-06-29T10:49:36",
-    "updated_at": "2026-07-09T11:22:52"
+    "updated_at": "2026-07-09T15:28:56"
   },
   {
-    "name": "opentag",
-    "full_name": "amplifthq/opentag",
-    "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
-    "url": "https://github.com/amplifthq/opentag",
-    "stars": 1020,
-    "daily_stars": 19,
-    "language": "TypeScript",
+    "name": "pilotfish",
+    "full_name": "Nanako0129/pilotfish",
+    "description": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
+    "url": "https://github.com/Nanako0129/pilotfish",
+    "stars": 230,
+    "daily_stars": 15,
+    "language": null,
     "topics": [
-      "agent-skills",
       "ai-agents",
+      "anthropic",
       "claude",
-      "codex",
-      "github",
-      "slack"
+      "claude-code",
+      "multi-agent",
+      "orchestration"
     ],
-    "created_at": "2026-06-24T08:05:12",
-    "updated_at": "2026-07-09T11:19:05"
+    "created_at": "2026-07-08T10:53:34",
+    "updated_at": "2026-07-09T15:18:24"
   },
   {
     "name": "Foundry",
     "full_name": "axislab-top/Foundry",
     "description": "Transform any idea into a running AI-powered company",
     "url": "https://github.com/axislab-top/Foundry",
-    "stars": 340,
-    "daily_stars": 18,
+    "stars": 353,
+    "daily_stars": 13,
     "language": "TypeScript",
     "topics": [
       "agent-platform",
@@ -117,15 +117,107 @@
       "workflow"
     ],
     "created_at": "2026-06-21T05:59:33",
-    "updated_at": "2026-07-09T11:21:33"
+    "updated_at": "2026-07-09T15:36:38"
+  },
+  {
+    "name": "opentag",
+    "full_name": "amplifthq/opentag",
+    "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+    "url": "https://github.com/amplifthq/opentag",
+    "stars": 1030,
+    "daily_stars": 10,
+    "language": "TypeScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "codex",
+      "github",
+      "slack"
+    ],
+    "created_at": "2026-06-24T08:05:12",
+    "updated_at": "2026-07-09T14:24:42"
+  },
+  {
+    "name": "compass-skills",
+    "full_name": "dongshuyan/compass-skills",
+    "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+    "url": "https://github.com/dongshuyan/compass-skills",
+    "stars": 566,
+    "daily_stars": 10,
+    "language": "Python",
+    "topics": [
+      "agent-memory",
+      "agent-skills",
+      "ai-agents",
+      "ai-coding-agent",
+      "claude-code",
+      "claude-skills",
+      "codex-skills",
+      "developer-tools",
+      "local-first",
+      "openai-codex",
+      "personal-ai",
+      "prompt-engineering",
+      "skill-md",
+      "task-management",
+      "workflow-automation"
+    ],
+    "created_at": "2026-06-15T06:28:04",
+    "updated_at": "2026-07-09T15:03:01"
+  },
+  {
+    "name": "MiMo-Code",
+    "full_name": "XiaomiMiMo/MiMo-Code",
+    "description": "MiMo Code: Where Models and Agents Co-Evolve",
+    "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+    "stars": 11691,
+    "daily_stars": 9,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "cli",
+      "mimo",
+      "mimo-code"
+    ],
+    "created_at": "2026-06-10T11:52:41",
+    "updated_at": "2026-07-09T15:35:46"
+  },
+  {
+    "name": "OpenTag",
+    "full_name": "linxidnju/OpenTag",
+    "description": "Open-source, channel-native agent gateway for Slack. Route team threads to Claude Code, Codex, OpenCode, Docker, HTTP agents, and custom CLIs with policy, approvals, memory, audit logs, and artifacts.",
+    "url": "https://github.com/linxidnju/OpenTag",
+    "stars": 234,
+    "daily_stars": 8,
+    "language": "JavaScript",
+    "topics": [
+      "agent-gateway",
+      "ai-agents",
+      "automation",
+      "claude",
+      "claude-code",
+      "claude-tag",
+      "codex",
+      "developer-tools",
+      "mcp",
+      "nodejs",
+      "opencode",
+      "runtime-adapters",
+      "slack",
+      "team-collaboration"
+    ],
+    "created_at": "2026-06-27T08:10:47",
+    "updated_at": "2026-07-09T15:14:44"
   },
   {
     "name": "sim-use",
     "full_name": "lycorp-jp/sim-use",
     "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
     "url": "https://github.com/lycorp-jp/sim-use",
-    "stars": 726,
-    "daily_stars": 16,
+    "stars": 733,
+    "daily_stars": 7,
     "language": "Swift",
     "topics": [
       "accessibility",
@@ -136,82 +228,6 @@
       "mobile-automation"
     ],
     "created_at": "2026-06-26T05:59:56",
-    "updated_at": "2026-07-09T10:49:31"
-  },
-  {
-    "name": "pilotfish",
-    "full_name": "Nanako0129/pilotfish",
-    "description": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
-    "url": "https://github.com/Nanako0129/pilotfish",
-    "stars": 215,
-    "daily_stars": 15,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "multi-agent",
-      "orchestration"
-    ],
-    "created_at": "2026-07-08T10:53:34",
-    "updated_at": "2026-07-09T10:50:44"
-  },
-  {
-    "name": "MiMo-Code",
-    "full_name": "XiaomiMiMo/MiMo-Code",
-    "description": "MiMo Code: Where Models and Agents Co-Evolve",
-    "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "stars": 11682,
-    "daily_stars": 8,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "cli",
-      "mimo",
-      "mimo-code"
-    ],
-    "created_at": "2026-06-10T11:52:41",
-    "updated_at": "2026-07-09T11:03:57"
-  },
-  {
-    "name": "datafoundry",
-    "full_name": "datagallery-lab/datafoundry",
-    "description": "DataFoundry is an open-source AI workbench for data analysis, unifying data sources, knowledge, tools, and agent runtime into a governed workspace for interactive analytics.",
-    "url": "https://github.com/datagallery-lab/datafoundry",
-    "stars": 135,
-    "daily_stars": 5,
-    "language": "TypeScript",
-    "topics": [
-      "ag-ui",
-      "agent-runtime",
-      "ai",
-      "ai-agents",
-      "data-analysis",
-      "data-sources",
-      "data-workbench",
-      "ink",
-      "mastra"
-    ],
-    "created_at": "2026-06-18T07:03:43",
-    "updated_at": "2026-07-09T09:54:08"
-  },
-  {
-    "name": "agterm",
-    "full_name": "umputun/agterm",
-    "description": "Terminal for agentic flow",
-    "url": "https://github.com/umputun/agterm",
-    "stars": 241,
-    "daily_stars": 4,
-    "language": "Swift",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "libghostty",
-      "terminal"
-    ],
-    "created_at": "2026-06-21T18:04:52",
-    "updated_at": "2026-07-09T11:00:58"
+    "updated_at": "2026-07-09T15:38:19"
   }
 ]
