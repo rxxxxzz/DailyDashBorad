@@ -4,8 +4,8 @@
     "full_name": "DietrichGebert/ponytail",
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 79994,
-    "daily_stars": 113,
+    "stars": 80103,
+    "daily_stars": 109,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -20,15 +20,34 @@
       "yagni"
     ],
     "created_at": "2026-06-12T00:52:37",
-    "updated_at": "2026-07-10T18:07:27"
+    "updated_at": "2026-07-10T21:34:20"
+  },
+  {
+    "name": "texts-to-transformer",
+    "full_name": "Doriandarko/texts-to-transformer",
+    "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
+    "url": "https://github.com/Doriandarko/texts-to-transformer",
+    "stars": 304,
+    "daily_stars": 13,
+    "language": "Python",
+    "topics": [
+      "apple-silicon",
+      "imessage",
+      "local-first",
+      "machine-learning",
+      "mlx",
+      "transformer"
+    ],
+    "created_at": "2026-07-08T08:12:17",
+    "updated_at": "2026-07-10T21:26:03"
   },
   {
     "name": "omnigent",
     "full_name": "omnigent-ai/omnigent",
     "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
     "url": "https://github.com/omnigent-ai/omnigent",
-    "stars": 6984,
-    "daily_stars": 9,
+    "stars": 6996,
+    "daily_stars": 12,
     "language": "Python",
     "topics": [
       "agents",
@@ -40,92 +59,36 @@
       "python"
     ],
     "created_at": "2026-06-11T12:18:13",
-    "updated_at": "2026-07-10T17:59:05"
+    "updated_at": "2026-07-10T21:24:23"
   },
   {
-    "name": "open-connector",
-    "full_name": "oomol-lab/open-connector",
-    "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
-    "url": "https://github.com/oomol-lab/open-connector",
-    "stars": 1232,
-    "daily_stars": 9,
-    "language": "TypeScript",
+    "name": "fable-method",
+    "full_name": "Sahir619/fable-method",
+    "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
+    "url": "https://github.com/Sahir619/fable-method",
+    "stars": 147,
+    "daily_stars": 12,
+    "language": "JavaScript",
     "topics": [
-      "agent-tools",
-      "ai-agents",
-      "api-gateway",
-      "automation",
-      "cli",
-      "cloudflare-workers",
-      "connectors",
-      "integration-platform",
-      "mcp",
-      "model-context-protocol",
-      "oauth",
-      "oomol",
-      "openapi",
-      "openconnector",
-      "saas-integrations",
-      "sdk",
-      "self-hosted",
-      "typescript"
-    ],
-    "created_at": "2026-06-29T10:49:36",
-    "updated_at": "2026-07-10T18:05:22"
-  },
-  {
-    "name": "compass-skills",
-    "full_name": "dongshuyan/compass-skills",
-    "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
-    "url": "https://github.com/dongshuyan/compass-skills",
-    "stars": 597,
-    "daily_stars": 9,
-    "language": "Python",
-    "topics": [
-      "agent-memory",
       "agent-skills",
       "ai-agents",
-      "ai-coding-agent",
+      "claude",
       "claude-code",
-      "claude-skills",
-      "codex-skills",
-      "developer-tools",
-      "local-first",
-      "openai-codex",
-      "personal-ai",
-      "prompt-engineering",
-      "skill-md",
-      "task-management",
-      "workflow-automation"
+      "claude-md",
+      "coding-agent",
+      "evaluation",
+      "fable",
+      "llm"
     ],
-    "created_at": "2026-06-15T06:28:04",
-    "updated_at": "2026-07-10T17:58:05"
-  },
-  {
-    "name": "texts-to-transformer",
-    "full_name": "Doriandarko/texts-to-transformer",
-    "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
-    "url": "https://github.com/Doriandarko/texts-to-transformer",
-    "stars": 291,
-    "daily_stars": 9,
-    "language": "Python",
-    "topics": [
-      "apple-silicon",
-      "imessage",
-      "local-first",
-      "machine-learning",
-      "mlx",
-      "transformer"
-    ],
-    "created_at": "2026-07-08T08:12:17",
-    "updated_at": "2026-07-10T17:49:51"
+    "created_at": "2026-07-06T22:35:18",
+    "updated_at": "2026-07-10T21:30:01"
   },
   {
     "name": "opentag",
     "full_name": "amplifthq/opentag",
     "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
     "url": "https://github.com/amplifthq/opentag",
-    "stars": 1036,
+    "stars": 1043,
     "daily_stars": 7,
     "language": "TypeScript",
     "topics": [
@@ -137,14 +100,14 @@
       "slack"
     ],
     "created_at": "2026-06-24T08:05:12",
-    "updated_at": "2026-07-10T18:07:18"
+    "updated_at": "2026-07-10T21:18:16"
   },
   {
     "name": "Foundry",
     "full_name": "axislab-top/Foundry",
     "description": "Transform any idea into a running AI-powered company",
     "url": "https://github.com/axislab-top/Foundry",
-    "stars": 410,
+    "stars": 416,
     "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
@@ -164,15 +127,15 @@
       "workflow"
     ],
     "created_at": "2026-06-21T05:59:33",
-    "updated_at": "2026-07-10T17:44:59"
+    "updated_at": "2026-07-10T21:08:27"
   },
   {
     "name": "pilotfish",
     "full_name": "Nanako0129/pilotfish",
     "description": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
     "url": "https://github.com/Nanako0129/pilotfish",
-    "stars": 318,
-    "daily_stars": 6,
+    "stars": 322,
+    "daily_stars": 4,
     "language": null,
     "topics": [
       "ai-agents",
@@ -183,55 +146,85 @@
       "orchestration"
     ],
     "created_at": "2026-07-08T10:53:34",
-    "updated_at": "2026-07-10T17:54:37"
+    "updated_at": "2026-07-10T19:24:15"
   },
   {
-    "name": "fable-method",
-    "full_name": "Sahir619/fable-method",
-    "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
-    "url": "https://github.com/Sahir619/fable-method",
-    "stars": 135,
-    "daily_stars": 5,
+    "name": "OpenTag",
+    "full_name": "linxidnju/OpenTag",
+    "description": "Open-source, channel-native agent gateway for Slack. Route team threads to Claude Code, Codex, OpenCode, Docker, HTTP agents, and custom CLIs with policy, approvals, memory, audit logs, and artifacts.",
+    "url": "https://github.com/linxidnju/OpenTag",
+    "stars": 265,
+    "daily_stars": 4,
     "language": "JavaScript",
     "topics": [
-      "agent-skills",
+      "agent-gateway",
       "ai-agents",
+      "automation",
       "claude",
       "claude-code",
-      "claude-md",
-      "coding-agent",
-      "evaluation",
-      "fable",
-      "llm"
+      "claude-tag",
+      "codex",
+      "developer-tools",
+      "mcp",
+      "nodejs",
+      "opencode",
+      "runtime-adapters",
+      "slack",
+      "team-collaboration"
     ],
-    "created_at": "2026-07-06T22:35:18",
-    "updated_at": "2026-07-10T16:56:04"
+    "created_at": "2026-06-27T08:10:47",
+    "updated_at": "2026-07-10T21:21:32"
   },
   {
-    "name": "ditto",
-    "full_name": "ohad6k/ditto",
-    "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
-    "url": "https://github.com/ohad6k/ditto",
-    "stars": 94,
-    "daily_stars": 5,
-    "language": "Python",
+    "name": "FerryAI",
+    "full_name": "MADEVAL/FerryAI",
+    "description": "Native AI inference for PHP 8.3+ - run ONNX, GGUF (llama.cpp) and RubixML models directly in your PHP process via FFI. Chat, streaming, embeddings, RAG and vector search. No Python, no HTTP microservices, no Docker sidecars.",
+    "url": "https://github.com/MADEVAL/FerryAI",
+    "stars": 55,
+    "daily_stars": 4,
+    "language": "PHP",
     "topics": [
-      "agent-memory",
-      "agent-skills",
       "ai",
-      "ai-agents",
-      "ai-coding",
-      "claude",
-      "claude-code",
-      "codex",
-      "context-engineering",
-      "cursor",
-      "developer-tools",
+      "embeddings",
+      "ffi",
+      "generative-ai",
+      "gguf",
+      "inference",
+      "llama-cpp",
       "llm",
-      "local-first",
-      "personalization"
+      "llm-inference",
+      "local-llm",
+      "machine-learning",
+      "nlp",
+      "onnx",
+      "onnxruntime",
+      "php",
+      "php8",
+      "rag",
+      "semantic-search",
+      "transformers",
+      "vector-database"
     ],
-    "created_at": "2026-07-08T11:42:32",
-    "updated_at": "2026-07-10T17:30:07"
+    "created_at": "2026-07-04T10:45:08",
+    "updated_at": "2026-07-10T18:33:34"
+  },
+  {
+    "name": "loop-library",
+    "full_name": "Forward-Future/loop-library",
+    "description": "Practical repeatable AI-agent workflows for engineering, evaluation, operations, content, and design.",
+    "url": "https://github.com/Forward-Future/loop-library",
+    "stars": 2631,
+    "daily_stars": 3,
+    "language": "HTML",
+    "topics": [
+      "agent-skills",
+      "agentic-workflows",
+      "ai-agents",
+      "automation",
+      "codex",
+      "prompt-engineering"
+    ],
+    "created_at": "2026-06-12T14:44:22",
+    "updated_at": "2026-07-10T21:10:29"
   }
 ]
