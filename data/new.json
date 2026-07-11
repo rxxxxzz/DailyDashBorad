@@ -1,29 +1,10 @@
 [
   {
-    "name": "pilotfish",
-    "full_name": "Nanako0129/pilotfish",
-    "description": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
-    "url": "https://github.com/Nanako0129/pilotfish",
-    "stars": 340,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "multi-agent",
-      "orchestration"
-    ],
-    "created_at": "2026-07-08T10:53:34",
-    "updated_at": "2026-07-11T13:28:40"
-  },
-  {
     "name": "texts-to-transformer",
     "full_name": "Doriandarko/texts-to-transformer",
     "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
     "url": "https://github.com/Doriandarko/texts-to-transformer",
-    "stars": 339,
+    "stars": 347,
     "daily_stars": 8,
     "language": "Python",
     "topics": [
@@ -35,7 +16,26 @@
       "transformer"
     ],
     "created_at": "2026-07-08T08:12:17",
-    "updated_at": "2026-07-11T13:47:38"
+    "updated_at": "2026-07-11T16:53:07"
+  },
+  {
+    "name": "pilotfish",
+    "full_name": "Nanako0129/pilotfish",
+    "description": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
+    "url": "https://github.com/Nanako0129/pilotfish",
+    "stars": 345,
+    "daily_stars": 5,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "multi-agent",
+      "orchestration"
+    ],
+    "created_at": "2026-07-08T10:53:34",
+    "updated_at": "2026-07-11T16:56:19"
   },
   {
     "name": "Cognitive-Core-Skills",
@@ -43,7 +43,7 @@
     "description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models — with schemas, 159 skill cards, benchmarks, and CI.",
     "url": "https://github.com/eli-labz/Cognitive-Core-Skills",
     "stars": 274,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -129,8 +129,8 @@
     "full_name": "Sahir619/fable-method",
     "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
     "url": "https://github.com/Sahir619/fable-method",
-    "stars": 205,
-    "daily_stars": 15,
+    "stars": 214,
+    "daily_stars": 9,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -144,7 +144,7 @@
       "llm"
     ],
     "created_at": "2026-07-06T22:35:18",
-    "updated_at": "2026-07-11T13:48:31"
+    "updated_at": "2026-07-11T16:57:53"
   },
   {
     "name": "finding-unknowns-skills",
@@ -152,7 +152,7 @@
     "description": "8 installable Claude Code skills for finding your unknowns before they get expensive: blindspot pass, brainstorms, interviews, references, plans, notes, pitches, and a merge quiz. Community distillation, not official Anthropic.",
     "url": "https://github.com/Neeeophytee/finding-unknowns-skills",
     "stars": 165,
-    "daily_stars": 2,
+    "daily_stars": 0,
     "language": null,
     "topics": [
       "agent-skills",
@@ -170,8 +170,8 @@
     "full_name": "oxbshw/watch-skill",
     "description": "Give any AI agent the ability to watch video — and to watch its own work and fix it. MCP + CLI + REST; scene-aware frames, OCR, local-first transcription, persistent index, and THE LOOP.",
     "url": "https://github.com/oxbshw/watch-skill",
-    "stars": 153,
-    "daily_stars": 2,
+    "stars": 154,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "agent-tools",
@@ -188,7 +188,32 @@
       "yt-dlp"
     ],
     "created_at": "2026-07-05T23:25:30",
-    "updated_at": "2026-07-11T12:47:10"
+    "updated_at": "2026-07-11T17:17:28"
+  },
+  {
+    "name": "project-r0x",
+    "full_name": "nhevers/project-r0x",
+    "description": "Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.",
+    "url": "https://github.com/nhevers/project-r0x",
+    "stars": 122,
+    "daily_stars": 0,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "facilitator",
+      "mcp",
+      "payments",
+      "robinhood-chain",
+      "sdk",
+      "stablecoin",
+      "typescript",
+      "usdg",
+      "web3",
+      "x402"
+    ],
+    "created_at": "2026-07-11T10:12:16",
+    "updated_at": "2026-07-11T14:36:07"
   },
   {
     "name": "contextvc",
@@ -196,7 +221,7 @@
     "description": "Git-native context control plane for AI coding agents",
     "url": "https://github.com/HaochengLu/contextvc",
     "stars": 121,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -207,28 +232,6 @@
       "rust"
     ],
     "created_at": "2026-07-05T14:06:39",
-    "updated_at": "2026-07-11T12:11:28"
-  },
-  {
-    "name": "ProductSpec",
-    "full_name": "gokulrajaram/ProductSpec",
-    "description": "ProductSpec is the open standard for software intent before implementation.",
-    "url": "https://github.com/gokulrajaram/ProductSpec",
-    "stars": 111,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "developer-tools",
-      "markdown",
-      "openspec",
-      "prd",
-      "product-management",
-      "productspec",
-      "spec-driven-development",
-      "speckit"
-    ],
-    "created_at": "2026-07-04T19:57:44",
-    "updated_at": "2026-07-11T12:51:00"
+    "updated_at": "2026-07-11T17:11:15"
   }
 ]
