@@ -1,44 +1,11 @@
 [
   {
-    "name": "brain0",
-    "full_name": "Brain0-ai/brain0",
-    "description": "The black box for AI-written code. Passive decision graph linking every commit to the agent prompts behind it: drift detection, DLP audit of what agents read, evidence-driven risk, MCP memory for coding agents, signed provenance attestations. One command, offline by default.",
-    "url": "https://github.com/Brain0-ai/brain0",
-    "stars": 296,
-    "daily_stars": 157,
-    "language": "Rust",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "attestation",
-      "audit",
-      "claude",
-      "cli",
-      "code-review",
-      "coding-agents",
-      "developer-tools",
-      "dlp",
-      "git",
-      "llm",
-      "local-first",
-      "mcp",
-      "observability",
-      "provenance",
-      "rust",
-      "security",
-      "supply-chain-security",
-      "typescript"
-    ],
-    "created_at": "2026-07-02T12:02:08",
-    "updated_at": "2026-07-11T17:19:59"
-  },
-  {
     "name": "ponytail",
     "full_name": "DietrichGebert/ponytail",
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 80635,
-    "daily_stars": 90,
+    "stars": 80719,
+    "daily_stars": 84,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -53,15 +20,15 @@
       "yagni"
     ],
     "created_at": "2026-06-12T00:52:37",
-    "updated_at": "2026-07-11T17:29:18"
+    "updated_at": "2026-07-11T21:21:21"
   },
   {
     "name": "internet-court-skill",
     "full_name": "internet-court/internet-court-skill",
     "description": "The trust layer for agent-to-agent commerce — natural-language mandates, ERC-7710 delegated permissions, x402 payments, escrow, and dispute resolution as one open, catch-all Agent Skill / Claude Code plugin.",
     "url": "https://github.com/internet-court/internet-court-skill",
-    "stars": 322,
-    "daily_stars": 66,
+    "stars": 368,
+    "daily_stars": 46,
     "language": "TypeScript",
     "topics": [
       "a2a",
@@ -86,15 +53,48 @@
       "x402"
     ],
     "created_at": "2026-06-16T13:20:01",
-    "updated_at": "2026-07-11T17:27:55"
+    "updated_at": "2026-07-11T21:17:16"
+  },
+  {
+    "name": "brain0",
+    "full_name": "Brain0-ai/brain0",
+    "description": "The black box for AI-written code. Passive decision graph linking every commit to the agent prompts behind it: drift detection, DLP audit of what agents read, evidence-driven risk, MCP memory for coding agents, signed provenance attestations. One command, offline by default.",
+    "url": "https://github.com/Brain0-ai/brain0",
+    "stars": 334,
+    "daily_stars": 38,
+    "language": "Rust",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "attestation",
+      "audit",
+      "claude",
+      "cli",
+      "code-review",
+      "coding-agents",
+      "developer-tools",
+      "dlp",
+      "git",
+      "llm",
+      "local-first",
+      "mcp",
+      "observability",
+      "provenance",
+      "rust",
+      "security",
+      "supply-chain-security",
+      "typescript"
+    ],
+    "created_at": "2026-07-02T12:02:08",
+    "updated_at": "2026-07-11T21:21:36"
   },
   {
     "name": "open-connector",
     "full_name": "oomol-lab/open-connector",
     "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
     "url": "https://github.com/oomol-lab/open-connector",
-    "stars": 1354,
-    "daily_stars": 30,
+    "stars": 1380,
+    "daily_stars": 26,
     "language": "TypeScript",
     "topics": [
       "agent-tools",
@@ -117,33 +117,47 @@
       "typescript"
     ],
     "created_at": "2026-06-29T10:49:36",
-    "updated_at": "2026-07-11T17:28:14"
+    "updated_at": "2026-07-11T21:17:07"
   },
   {
-    "name": "opentag",
-    "full_name": "amplifthq/opentag",
-    "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
-    "url": "https://github.com/amplifthq/opentag",
-    "stars": 1108,
-    "daily_stars": 11,
+    "name": "Orkas-VideoStudio",
+    "full_name": "Orkas-AI/Orkas-VideoStudio",
+    "description": "Turn your coding agent into a video studio: describe a video in plain language, and your agent writes the timeline and produces the file.",
+    "url": "https://github.com/Orkas-AI/Orkas-VideoStudio",
+    "stars": 175,
+    "daily_stars": 15,
     "language": "TypeScript",
     "topics": [
-      "agent-skills",
       "ai-agents",
-      "claude",
-      "codex",
-      "github",
-      "slack"
+      "ai-video",
+      "cli",
+      "coding-agents",
+      "ffmpeg",
+      "generative-ai",
+      "hyperframes",
+      "local-first",
+      "mcp-server",
+      "motion-graphics",
+      "open-source",
+      "subtitles",
+      "text-to-video",
+      "tts",
+      "typescript",
+      "video-automation",
+      "video-composition",
+      "video-editing",
+      "video-generation",
+      "whisper-cpp"
     ],
-    "created_at": "2026-06-24T08:05:12",
-    "updated_at": "2026-07-11T16:25:23"
+    "created_at": "2026-06-30T14:34:58",
+    "updated_at": "2026-07-11T21:22:06"
   },
   {
     "name": "fable-method",
     "full_name": "Sahir619/fable-method",
     "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
     "url": "https://github.com/Sahir619/fable-method",
-    "stars": 214,
+    "stars": 223,
     "daily_stars": 9,
     "language": "JavaScript",
     "topics": [
@@ -158,14 +172,14 @@
       "llm"
     ],
     "created_at": "2026-07-06T22:35:18",
-    "updated_at": "2026-07-11T16:57:53"
+    "updated_at": "2026-07-11T20:37:47"
   },
   {
     "name": "Foundry",
     "full_name": "axislab-top/Foundry",
     "description": "Transform any idea into a running AI-powered company",
     "url": "https://github.com/axislab-top/Foundry",
-    "stars": 462,
+    "stars": 470,
     "daily_stars": 8,
     "language": "TypeScript",
     "topics": [
@@ -185,64 +199,71 @@
       "workflow"
     ],
     "created_at": "2026-06-21T05:59:33",
-    "updated_at": "2026-07-11T17:14:15"
+    "updated_at": "2026-07-11T20:50:46"
   },
   {
-    "name": "texts-to-transformer",
-    "full_name": "Doriandarko/texts-to-transformer",
-    "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
-    "url": "https://github.com/Doriandarko/texts-to-transformer",
-    "stars": 347,
-    "daily_stars": 8,
-    "language": "Python",
+    "name": "OpenTag",
+    "full_name": "linxidnju/OpenTag",
+    "description": "Open-source, channel-native agent gateway for Slack. Route team threads to Claude Code, Codex, OpenCode, Docker, HTTP agents, and custom CLIs with policy, approvals, memory, audit logs, and artifacts.",
+    "url": "https://github.com/linxidnju/OpenTag",
+    "stars": 293,
+    "daily_stars": 6,
+    "language": "JavaScript",
     "topics": [
-      "apple-silicon",
-      "imessage",
-      "local-first",
-      "machine-learning",
-      "mlx",
-      "transformer"
-    ],
-    "created_at": "2026-07-08T08:12:17",
-    "updated_at": "2026-07-11T16:53:07"
-  },
-  {
-    "name": "pilotfish",
-    "full_name": "Nanako0129/pilotfish",
-    "description": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
-    "url": "https://github.com/Nanako0129/pilotfish",
-    "stars": 345,
-    "daily_stars": 5,
-    "language": null,
-    "topics": [
+      "agent-gateway",
       "ai-agents",
-      "anthropic",
+      "automation",
       "claude",
       "claude-code",
-      "multi-agent",
-      "orchestration"
+      "claude-tag",
+      "codex",
+      "developer-tools",
+      "mcp",
+      "nodejs",
+      "opencode",
+      "runtime-adapters",
+      "slack",
+      "team-collaboration"
     ],
-    "created_at": "2026-07-08T10:53:34",
-    "updated_at": "2026-07-11T16:56:19"
+    "created_at": "2026-06-27T08:10:47",
+    "updated_at": "2026-07-11T21:09:11"
   },
   {
-    "name": "100-days-of-ai",
-    "full_name": "amitshekhariitbhu/100-days-of-ai",
-    "description": "Take the 100 Days of AI challenge - learn one AI concept a day, from machine learning basics to AI agents in production, in 100 days.",
-    "url": "https://github.com/amitshekhariitbhu/100-days-of-ai",
-    "stars": 37,
-    "daily_stars": 4,
-    "language": null,
+    "name": "loop-library",
+    "full_name": "Forward-Future/loop-library",
+    "description": "Practical repeatable AI-agent workflows for engineering, evaluation, operations, content, and design.",
+    "url": "https://github.com/Forward-Future/loop-library",
+    "stars": 2649,
+    "daily_stars": 5,
+    "language": "HTML",
     "topics": [
-      "100daysofai",
-      "ai",
+      "agent-skills",
+      "agentic-workflows",
       "ai-agents",
-      "large-language-models",
-      "llm",
-      "llms",
-      "machine-learning"
+      "automation",
+      "codex",
+      "prompt-engineering"
     ],
-    "created_at": "2026-07-10T02:23:30",
-    "updated_at": "2026-07-11T17:21:01"
+    "created_at": "2026-06-12T14:44:22",
+    "updated_at": "2026-07-11T20:46:20"
+  },
+  {
+    "name": "opentag",
+    "full_name": "amplifthq/opentag",
+    "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+    "url": "https://github.com/amplifthq/opentag",
+    "stars": 1113,
+    "daily_stars": 5,
+    "language": "TypeScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "codex",
+      "github",
+      "slack"
+    ],
+    "created_at": "2026-06-24T08:05:12",
+    "updated_at": "2026-07-11T20:44:32"
   }
 ]
