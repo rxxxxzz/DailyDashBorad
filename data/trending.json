@@ -4,8 +4,8 @@
     "full_name": "DietrichGebert/ponytail",
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 80226,
-    "daily_stars": 123,
+    "stars": 80299,
+    "daily_stars": 73,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -20,48 +20,48 @@
       "yagni"
     ],
     "created_at": "2026-06-12T00:52:37",
-    "updated_at": "2026-07-11T03:44:48"
+    "updated_at": "2026-07-11T06:35:18"
   },
   {
-    "name": "Orkas-VideoStudio",
-    "full_name": "Orkas-AI/Orkas-VideoStudio",
-    "description": "Turn your coding agent into a video studio: describe a video in plain language, and your agent writes the timeline and produces the file.",
-    "url": "https://github.com/Orkas-AI/Orkas-VideoStudio",
-    "stars": 160,
-    "daily_stars": 30,
+    "name": "internet-court-skill",
+    "full_name": "internet-court/internet-court-skill",
+    "description": "The trust layer for agent-to-agent commerce — natural-language mandates, ERC-7710 delegated permissions, x402 payments, escrow, and dispute resolution as one open, catch-all Agent Skill / Claude Code plugin.",
+    "url": "https://github.com/internet-court/internet-court-skill",
+    "stars": 135,
+    "daily_stars": 29,
     "language": "TypeScript",
     "topics": [
+      "a2a",
+      "adjudication",
+      "agent-payments",
+      "agent-skills",
+      "agentic-commerce",
       "ai-agents",
-      "ai-video",
-      "cli",
-      "coding-agents",
-      "ffmpeg",
-      "generative-ai",
-      "hyperframes",
-      "local-first",
-      "mcp-server",
-      "motion-graphics",
-      "open-source",
-      "subtitles",
-      "text-to-video",
-      "tts",
-      "typescript",
-      "video-automation",
-      "video-composition",
-      "video-editing",
-      "video-generation",
-      "whisper-cpp"
+      "claude-code",
+      "claude-plugin",
+      "claude-skill",
+      "codex",
+      "dispute-resolution",
+      "erc-7710",
+      "erc-8004",
+      "escrow",
+      "genlayer",
+      "hermes-agent",
+      "openclaw",
+      "opencode",
+      "web3",
+      "x402"
     ],
-    "created_at": "2026-06-30T14:34:58",
-    "updated_at": "2026-07-11T00:12:18"
+    "created_at": "2026-06-16T13:20:01",
+    "updated_at": "2026-07-11T06:30:07"
   },
   {
     "name": "open-connector",
     "full_name": "oomol-lab/open-connector",
     "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
     "url": "https://github.com/oomol-lab/open-connector",
-    "stars": 1260,
-    "daily_stars": 25,
+    "stars": 1271,
+    "daily_stars": 11,
     "language": "TypeScript",
     "topics": [
       "agent-tools",
@@ -84,76 +84,15 @@
       "typescript"
     ],
     "created_at": "2026-06-29T10:49:36",
-    "updated_at": "2026-07-11T03:46:45"
-  },
-  {
-    "name": "fable-method",
-    "full_name": "Sahir619/fable-method",
-    "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
-    "url": "https://github.com/Sahir619/fable-method",
-    "stars": 169,
-    "daily_stars": 22,
-    "language": "JavaScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "claude-md",
-      "coding-agent",
-      "evaluation",
-      "fable",
-      "llm"
-    ],
-    "created_at": "2026-07-06T22:35:18",
-    "updated_at": "2026-07-11T03:46:43"
-  },
-  {
-    "name": "contextvc",
-    "full_name": "HaochengLu/contextvc",
-    "description": "Git-native context control plane for AI coding agents",
-    "url": "https://github.com/HaochengLu/contextvc",
-    "stars": 119,
-    "daily_stars": 20,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "cli",
-      "context-engineering",
-      "git-native",
-      "mcp",
-      "rust"
-    ],
-    "created_at": "2026-07-05T14:06:39",
-    "updated_at": "2026-07-10T22:28:54"
-  },
-  {
-    "name": "solo",
-    "full_name": "solo-agent/solo",
-    "description": "For human and AI agents to collaborate through channels, tasks, and persistent workspaces.",
-    "url": "https://github.com/solo-agent/solo",
-    "stars": 109,
-    "daily_stars": 20,
-    "language": "Go",
-    "topics": [
-      "agent-workspace",
-      "ai-agents",
-      "ai-workspace",
-      "claude-code",
-      "codex",
-      "multi-agent",
-      "opencode"
-    ],
-    "created_at": "2026-06-12T01:13:02",
-    "updated_at": "2026-07-11T01:36:31"
+    "updated_at": "2026-07-11T06:28:48"
   },
   {
     "name": "opentag",
     "full_name": "amplifthq/opentag",
     "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
     "url": "https://github.com/amplifthq/opentag",
-    "stars": 1061,
-    "daily_stars": 18,
+    "stars": 1072,
+    "daily_stars": 11,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -164,34 +103,15 @@
       "slack"
     ],
     "created_at": "2026-06-24T08:05:12",
-    "updated_at": "2026-07-11T03:47:34"
-  },
-  {
-    "name": "texts-to-transformer",
-    "full_name": "Doriandarko/texts-to-transformer",
-    "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
-    "url": "https://github.com/Doriandarko/texts-to-transformer",
-    "stars": 317,
-    "daily_stars": 13,
-    "language": "Python",
-    "topics": [
-      "apple-silicon",
-      "imessage",
-      "local-first",
-      "machine-learning",
-      "mlx",
-      "transformer"
-    ],
-    "created_at": "2026-07-08T08:12:17",
-    "updated_at": "2026-07-11T03:02:45"
+    "updated_at": "2026-07-11T06:27:23"
   },
   {
     "name": "Foundry",
     "full_name": "axislab-top/Foundry",
     "description": "Transform any idea into a running AI-powered company",
     "url": "https://github.com/axislab-top/Foundry",
-    "stars": 428,
-    "daily_stars": 12,
+    "stars": 439,
+    "daily_stars": 11,
     "language": "TypeScript",
     "topics": [
       "agent-platform",
@@ -210,33 +130,113 @@
       "workflow"
     ],
     "created_at": "2026-06-21T05:59:33",
-    "updated_at": "2026-07-11T03:03:00"
+    "updated_at": "2026-07-11T06:30:00"
   },
   {
-    "name": "OpenTag",
-    "full_name": "linxidnju/OpenTag",
-    "description": "Open-source, channel-native agent gateway for Slack. Route team threads to Claude Code, Codex, OpenCode, Docker, HTTP agents, and custom CLIs with policy, approvals, memory, audit logs, and artifacts.",
-    "url": "https://github.com/linxidnju/OpenTag",
-    "stars": 276,
-    "daily_stars": 11,
-    "language": "JavaScript",
+    "name": "pilotfish",
+    "full_name": "Nanako0129/pilotfish",
+    "description": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
+    "url": "https://github.com/Nanako0129/pilotfish",
+    "stars": 332,
+    "daily_stars": 5,
+    "language": null,
     "topics": [
-      "agent-gateway",
       "ai-agents",
-      "automation",
+      "anthropic",
       "claude",
       "claude-code",
-      "claude-tag",
-      "codex",
-      "developer-tools",
-      "mcp",
-      "nodejs",
-      "opencode",
-      "runtime-adapters",
-      "slack",
-      "team-collaboration"
+      "multi-agent",
+      "orchestration"
     ],
-    "created_at": "2026-06-27T08:10:47",
-    "updated_at": "2026-07-11T03:12:02"
+    "created_at": "2026-07-08T10:53:34",
+    "updated_at": "2026-07-11T06:24:25"
+  },
+  {
+    "name": "fable-method",
+    "full_name": "Sahir619/fable-method",
+    "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
+    "url": "https://github.com/Sahir619/fable-method",
+    "stars": 173,
+    "daily_stars": 4,
+    "language": "JavaScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-md",
+      "coding-agent",
+      "evaluation",
+      "fable",
+      "llm"
+    ],
+    "created_at": "2026-07-06T22:35:18",
+    "updated_at": "2026-07-11T06:31:19"
+  },
+  {
+    "name": "texts-to-transformer",
+    "full_name": "Doriandarko/texts-to-transformer",
+    "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
+    "url": "https://github.com/Doriandarko/texts-to-transformer",
+    "stars": 321,
+    "daily_stars": 4,
+    "language": "Python",
+    "topics": [
+      "apple-silicon",
+      "imessage",
+      "local-first",
+      "machine-learning",
+      "mlx",
+      "transformer"
+    ],
+    "created_at": "2026-07-08T08:12:17",
+    "updated_at": "2026-07-11T04:47:41"
+  },
+  {
+    "name": "taumax-uci-chess-engine",
+    "full_name": "rohingosling/taumax-uci-chess-engine",
+    "description": "Playing chess with the Alex Wissner-Gross's causal entropic intelligence equation, F=T∇Sτ",
+    "url": "https://github.com/rohingosling/taumax-uci-chess-engine",
+    "stars": 6,
+    "daily_stars": 3,
+    "language": "Rust",
+    "topics": [
+      "ai",
+      "areana-chess",
+      "arena",
+      "artificial-intelligence",
+      "causal-entropic-intelligence-equation",
+      "causal-entropy",
+      "chess",
+      "chess-ai",
+      "chess-engine",
+      "chess-game",
+      "entropy",
+      "uci",
+      "uci-chess-engine",
+      "uci-machine-learning"
+    ],
+    "created_at": "2026-06-29T13:46:44",
+    "updated_at": "2026-07-11T06:18:29"
+  },
+  {
+    "name": "100-days-of-ai",
+    "full_name": "amitshekhariitbhu/100-days-of-ai",
+    "description": "Take the 100 Days of AI challenge - learn one AI concept a day, from machine learning basics to AI agents in production, in 100 days.",
+    "url": "https://github.com/amitshekhariitbhu/100-days-of-ai",
+    "stars": 28,
+    "daily_stars": 3,
+    "language": null,
+    "topics": [
+      "100daysofai",
+      "ai",
+      "ai-agents",
+      "large-language-models",
+      "llm",
+      "llms",
+      "machine-learning"
+    ],
+    "created_at": "2026-07-10T02:23:30",
+    "updated_at": "2026-07-11T06:31:17"
   }
 ]
