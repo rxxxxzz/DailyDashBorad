@@ -1,33 +1,11 @@
 [
   {
-    "name": "clodex-ide",
-    "full_name": "mereyabdenbekuly-ctrl/clodex-ide",
-    "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
-    "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
-    "stars": 635,
-    "daily_stars": 195,
-    "language": "TypeScript",
-    "topics": [
-      "agentic-ai",
-      "agentic-ide",
-      "ai-agents",
-      "developer-tools",
-      "electron",
-      "ide",
-      "local-first",
-      "typescript",
-      "zero-trust"
-    ],
-    "created_at": "2026-07-12T10:35:44",
-    "updated_at": "2026-07-12T17:09:05"
-  },
-  {
     "name": "open-connector",
     "full_name": "oomol-lab/open-connector",
     "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
     "url": "https://github.com/oomol-lab/open-connector",
-    "stars": 1598,
-    "daily_stars": 39,
+    "stars": 1615,
+    "daily_stars": 17,
     "language": "TypeScript",
     "topics": [
       "agent-tools",
@@ -50,15 +28,83 @@
       "typescript"
     ],
     "created_at": "2026-06-29T10:49:36",
-    "updated_at": "2026-07-12T17:26:37"
+    "updated_at": "2026-07-12T20:50:49"
+  },
+  {
+    "name": "fable-method",
+    "full_name": "Sahir619/fable-method",
+    "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
+    "url": "https://github.com/Sahir619/fable-method",
+    "stars": 281,
+    "daily_stars": 15,
+    "language": "JavaScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-md",
+      "coding-agent",
+      "evaluation",
+      "fable",
+      "llm"
+    ],
+    "created_at": "2026-07-06T22:35:18",
+    "updated_at": "2026-07-12T21:06:00"
+  },
+  {
+    "name": "ditto",
+    "full_name": "ohad6k/ditto",
+    "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
+    "url": "https://github.com/ohad6k/ditto",
+    "stars": 124,
+    "daily_stars": 11,
+    "language": "Python",
+    "topics": [
+      "agent-memory",
+      "agent-skills",
+      "ai",
+      "ai-agents",
+      "ai-coding",
+      "claude",
+      "claude-code",
+      "codex",
+      "context-engineering",
+      "cursor",
+      "developer-tools",
+      "llm",
+      "local-first",
+      "personalization"
+    ],
+    "created_at": "2026-07-08T11:42:32",
+    "updated_at": "2026-07-12T21:16:36"
+  },
+  {
+    "name": "opentag",
+    "full_name": "amplifthq/opentag",
+    "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+    "url": "https://github.com/amplifthq/opentag",
+    "stars": 1167,
+    "daily_stars": 10,
+    "language": "TypeScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "codex",
+      "github",
+      "slack"
+    ],
+    "created_at": "2026-06-24T08:05:12",
+    "updated_at": "2026-07-12T21:11:07"
   },
   {
     "name": "internet-court-skill",
     "full_name": "internet-court/internet-court-skill",
     "description": "The trust layer for agent-to-agent commerce — natural-language mandates, ERC-7710 delegated permissions, x402 payments, escrow, and dispute resolution as one open, catch-all Agent Skill / Claude Code plugin.",
     "url": "https://github.com/internet-court/internet-court-skill",
-    "stars": 482,
-    "daily_stars": 24,
+    "stars": 489,
+    "daily_stars": 7,
     "language": "TypeScript",
     "topics": [
       "a2a",
@@ -83,106 +129,15 @@
       "x402"
     ],
     "created_at": "2026-06-16T13:20:01",
-    "updated_at": "2026-07-12T17:29:46"
-  },
-  {
-    "name": "fable-method",
-    "full_name": "Sahir619/fable-method",
-    "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
-    "url": "https://github.com/Sahir619/fable-method",
-    "stars": 266,
-    "daily_stars": 9,
-    "language": "JavaScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "claude-md",
-      "coding-agent",
-      "evaluation",
-      "fable",
-      "llm"
-    ],
-    "created_at": "2026-07-06T22:35:18",
-    "updated_at": "2026-07-12T16:22:58"
-  },
-  {
-    "name": "ditto",
-    "full_name": "ohad6k/ditto",
-    "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
-    "url": "https://github.com/ohad6k/ditto",
-    "stars": 113,
-    "daily_stars": 5,
-    "language": "Python",
-    "topics": [
-      "agent-memory",
-      "agent-skills",
-      "ai",
-      "ai-agents",
-      "ai-coding",
-      "claude",
-      "claude-code",
-      "codex",
-      "context-engineering",
-      "cursor",
-      "developer-tools",
-      "llm",
-      "local-first",
-      "personalization"
-    ],
-    "created_at": "2026-07-08T11:42:32",
-    "updated_at": "2026-07-12T16:17:56"
-  },
-  {
-    "name": "handmux",
-    "full_name": "handmux/handmux",
-    "description": "A mobile vibe-coding cockpit — built on tmux: drive your live session, Claude Code / Codex — anything a terminal can run — from your phone. 移动 Vibe Coding 驾驶舱 —— 基于 tmux 实现，可在手机上驱动你的会话、Claude Code / Codex、任何终端能实现的东西。",
-    "url": "https://github.com/handmux/handmux",
-    "stars": 74,
-    "daily_stars": 5,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "mobile",
-      "pwa",
-      "react",
-      "remote",
-      "terminal",
-      "tmux",
-      "vibe-coding",
-      "xterm"
-    ],
-    "created_at": "2026-06-28T07:20:33",
-    "updated_at": "2026-07-12T15:10:20"
-  },
-  {
-    "name": "opentag",
-    "full_name": "amplifthq/opentag",
-    "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
-    "url": "https://github.com/amplifthq/opentag",
-    "stars": 1157,
-    "daily_stars": 4,
-    "language": "TypeScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "claude",
-      "codex",
-      "github",
-      "slack"
-    ],
-    "created_at": "2026-06-24T08:05:12",
-    "updated_at": "2026-07-12T15:21:37"
+    "updated_at": "2026-07-12T19:55:05"
   },
   {
     "name": "pilotfish",
     "full_name": "Nanako0129/pilotfish",
     "description": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
     "url": "https://github.com/Nanako0129/pilotfish",
-    "stars": 376,
-    "daily_stars": 4,
+    "stars": 383,
+    "daily_stars": 7,
     "language": null,
     "topics": [
       "ai-agents",
@@ -193,36 +148,15 @@
       "orchestration"
     ],
     "created_at": "2026-07-08T10:53:34",
-    "updated_at": "2026-07-12T16:59:21"
-  },
-  {
-    "name": "boring-computers",
-    "full_name": "michaelshimeles/boring-computers",
-    "description": "On-demand Linux computers you can hand to an AI — real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them.",
-    "url": "https://github.com/michaelshimeles/boring-computers",
-    "stars": 246,
-    "daily_stars": 4,
-    "language": "Go",
-    "topics": [
-      "ai-agents",
-      "computer-use",
-      "firecracker",
-      "golang",
-      "mcp",
-      "microvm",
-      "sandbox",
-      "svelte"
-    ],
-    "created_at": "2026-06-30T04:25:16",
-    "updated_at": "2026-07-12T17:28:10"
+    "updated_at": "2026-07-12T21:01:31"
   },
   {
     "name": "contextvc",
     "full_name": "HaochengLu/contextvc",
     "description": "Git-native context control plane for AI coding agents",
     "url": "https://github.com/HaochengLu/contextvc",
-    "stars": 133,
-    "daily_stars": 4,
+    "stars": 140,
+    "daily_stars": 7,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -233,6 +167,93 @@
       "rust"
     ],
     "created_at": "2026-07-05T14:06:39",
-    "updated_at": "2026-07-12T16:40:52"
+    "updated_at": "2026-07-12T21:17:02"
+  },
+  {
+    "name": "Foundry",
+    "full_name": "axislab-top/Foundry",
+    "description": "Transform any idea into a running AI-powered company",
+    "url": "https://github.com/axislab-top/Foundry",
+    "stars": 493,
+    "daily_stars": 5,
+    "language": "TypeScript",
+    "topics": [
+      "agent-platform",
+      "ai",
+      "ai-agents",
+      "ai-company",
+      "autonomous-agents",
+      "collaboration",
+      "digital-company",
+      "llm",
+      "multi-agent",
+      "nestjs",
+      "open-source",
+      "react",
+      "typescript",
+      "workflow"
+    ],
+    "created_at": "2026-06-21T05:59:33",
+    "updated_at": "2026-07-12T20:33:20"
+  },
+  {
+    "name": "OpenTag",
+    "full_name": "linxidnju/OpenTag",
+    "description": "Open-source, channel-native agent gateway for Slack. Route team threads to Claude Code, Codex, OpenCode, Docker, HTTP agents, and custom CLIs with policy, approvals, memory, audit logs, and artifacts.",
+    "url": "https://github.com/linxidnju/OpenTag",
+    "stars": 316,
+    "daily_stars": 4,
+    "language": "JavaScript",
+    "topics": [
+      "agent-gateway",
+      "ai-agents",
+      "automation",
+      "claude",
+      "claude-code",
+      "claude-tag",
+      "codex",
+      "developer-tools",
+      "mcp",
+      "nodejs",
+      "opencode",
+      "runtime-adapters",
+      "slack",
+      "team-collaboration"
+    ],
+    "created_at": "2026-06-27T08:10:47",
+    "updated_at": "2026-07-12T20:31:09"
+  },
+  {
+    "name": "ai-memory-vault",
+    "full_name": "jaredrhod/ai-memory-vault",
+    "description": "Give your AI a real, persistent memory. The open-source system plus templates that turn an Obsidian vault into your AI's working memory. No vector database, just markdown.",
+    "url": "https://github.com/jaredrhod/ai-memory-vault",
+    "stars": 181,
+    "daily_stars": 4,
+    "language": null,
+    "topics": [
+      "agent-memory",
+      "ai",
+      "ai-agents",
+      "ai-memory",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "knowledge-management",
+      "llm",
+      "local-first",
+      "markdown",
+      "mcp",
+      "memory",
+      "note-taking",
+      "obsidian",
+      "obsidian-md",
+      "obsidian-vault",
+      "pkm",
+      "second-brain"
+    ],
+    "created_at": "2026-06-18T01:17:27",
+    "updated_at": "2026-07-12T20:42:06"
   }
 ]
