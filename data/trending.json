@@ -4,8 +4,8 @@
     "full_name": "oomol-lab/open-connector",
     "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
     "url": "https://github.com/oomol-lab/open-connector",
-    "stars": 1428,
-    "daily_stars": 48,
+    "stars": 1480,
+    "daily_stars": 52,
     "language": "TypeScript",
     "topics": [
       "agent-tools",
@@ -28,15 +28,15 @@
       "typescript"
     ],
     "created_at": "2026-06-29T10:49:36",
-    "updated_at": "2026-07-12T04:02:39"
+    "updated_at": "2026-07-12T07:06:22"
   },
   {
     "name": "brain0",
     "full_name": "Brain0-ai/brain0",
     "description": "The black box for AI-written code. Passive decision graph linking every commit to the agent prompts behind it: drift detection, DLP audit of what agents read, evidence-driven risk, MCP memory for coding agents, signed provenance attestations. One command, offline by default.",
     "url": "https://github.com/Brain0-ai/brain0",
-    "stars": 363,
-    "daily_stars": 29,
+    "stars": 394,
+    "daily_stars": 31,
     "language": "Rust",
     "topics": [
       "ai",
@@ -61,15 +61,15 @@
       "typescript"
     ],
     "created_at": "2026-07-02T12:02:08",
-    "updated_at": "2026-07-12T04:03:52"
+    "updated_at": "2026-07-12T07:05:51"
   },
   {
     "name": "internet-court-skill",
     "full_name": "internet-court/internet-court-skill",
     "description": "The trust layer for agent-to-agent commerce — natural-language mandates, ERC-7710 delegated permissions, x402 payments, escrow, and dispute resolution as one open, catch-all Agent Skill / Claude Code plugin.",
     "url": "https://github.com/internet-court/internet-court-skill",
-    "stars": 390,
-    "daily_stars": 22,
+    "stars": 400,
+    "daily_stars": 10,
     "language": "TypeScript",
     "topics": [
       "a2a",
@@ -94,40 +94,34 @@
       "x402"
     ],
     "created_at": "2026-06-16T13:20:01",
-    "updated_at": "2026-07-12T03:32:56"
+    "updated_at": "2026-07-12T07:05:35"
   },
   {
-    "name": "fable5-mode",
-    "full_name": "cozytab/fable5-mode",
-    "description": "Fable 5-grade work discipline for any Claude model — a Claude Code skill + guard hooks (plan gate, model ceiling, per-task enforcement) that make Opus 4.8 or any non-frontier model plan, self-verify, and route sub-agents like Fable 5, without Fable 5.",
-    "url": "https://github.com/cozytab/fable5-mode",
-    "stars": 105,
-    "daily_stars": 20,
-    "language": "Python",
+    "name": "pilotfish",
+    "full_name": "Nanako0129/pilotfish",
+    "description": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
+    "url": "https://github.com/Nanako0129/pilotfish",
+    "stars": 367,
+    "daily_stars": 8,
+    "language": null,
     "topics": [
-      "agent-hooks",
       "ai-agents",
       "anthropic",
       "claude",
       "claude-code",
-      "claude-skills",
-      "fable-5",
-      "fable5",
-      "llm",
-      "opus",
-      "prompt-engineering",
-      "subagents"
+      "multi-agent",
+      "orchestration"
     ],
-    "created_at": "2026-07-06T16:52:32",
-    "updated_at": "2026-07-11T22:32:17"
+    "created_at": "2026-07-08T10:53:34",
+    "updated_at": "2026-07-12T07:01:19"
   },
   {
     "name": "opentag",
     "full_name": "amplifthq/opentag",
     "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
     "url": "https://github.com/amplifthq/opentag",
-    "stars": 1129,
-    "daily_stars": 16,
+    "stars": 1136,
+    "daily_stars": 7,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -138,15 +132,37 @@
       "slack"
     ],
     "created_at": "2026-06-24T08:05:12",
-    "updated_at": "2026-07-12T02:57:36"
+    "updated_at": "2026-07-12T07:01:06"
+  },
+  {
+    "name": "fable-method",
+    "full_name": "Sahir619/fable-method",
+    "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
+    "url": "https://github.com/Sahir619/fable-method",
+    "stars": 244,
+    "daily_stars": 7,
+    "language": "JavaScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-md",
+      "coding-agent",
+      "evaluation",
+      "fable",
+      "llm"
+    ],
+    "created_at": "2026-07-06T22:35:18",
+    "updated_at": "2026-07-12T05:58:00"
   },
   {
     "name": "Orkas-VideoStudio",
     "full_name": "Orkas-AI/Orkas-VideoStudio",
     "description": "Turn your coding agent into a video studio: describe a video in plain language, and your agent writes the timeline and produces the file.",
     "url": "https://github.com/Orkas-AI/Orkas-VideoStudio",
-    "stars": 190,
-    "daily_stars": 15,
+    "stars": 197,
+    "daily_stars": 7,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -171,83 +187,38 @@
       "whisper-cpp"
     ],
     "created_at": "2026-06-30T14:34:58",
-    "updated_at": "2026-07-11T21:30:50"
+    "updated_at": "2026-07-12T06:53:08"
   },
   {
-    "name": "fable-method",
-    "full_name": "Sahir619/fable-method",
-    "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
-    "url": "https://github.com/Sahir619/fable-method",
-    "stars": 237,
-    "daily_stars": 14,
-    "language": "JavaScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "claude-md",
-      "coding-agent",
-      "evaluation",
-      "fable",
-      "llm"
-    ],
-    "created_at": "2026-07-06T22:35:18",
-    "updated_at": "2026-07-12T03:56:57"
-  },
-  {
-    "name": "Foundry",
-    "full_name": "axislab-top/Foundry",
-    "description": "Transform any idea into a running AI-powered company",
-    "url": "https://github.com/axislab-top/Foundry",
-    "stars": 483,
-    "daily_stars": 13,
-    "language": "TypeScript",
-    "topics": [
-      "agent-platform",
-      "ai",
-      "ai-agents",
-      "ai-company",
-      "autonomous-agents",
-      "collaboration",
-      "digital-company",
-      "llm",
-      "multi-agent",
-      "nestjs",
-      "open-source",
-      "react",
-      "typescript",
-      "workflow"
-    ],
-    "created_at": "2026-06-21T05:59:33",
-    "updated_at": "2026-07-12T03:31:56"
-  },
-  {
-    "name": "pilotfish",
-    "full_name": "Nanako0129/pilotfish",
-    "description": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
-    "url": "https://github.com/Nanako0129/pilotfish",
-    "stars": 359,
-    "daily_stars": 11,
-    "language": null,
+    "name": "senior-engineering-partner",
+    "full_name": "bjgreenberg/senior-engineering-partner",
+    "description": "A stack-agnostic Claude Code skill: strict code reviewer, pair programmer, debugger, and mentor (Python/Bash/Apps Script/JS). Security-first, phase-aware engineering discipline with a spec→plan→TDD→verify workflow.",
+    "url": "https://github.com/bjgreenberg/senior-engineering-partner",
+    "stars": 118,
+    "daily_stars": 6,
+    "language": "Python",
     "topics": [
       "ai-agents",
       "anthropic",
-      "claude",
+      "bash",
       "claude-code",
-      "multi-agent",
-      "orchestration"
+      "claude-code-skill",
+      "claude-skill",
+      "code-review",
+      "developer-tools",
+      "pair-programming",
+      "python"
     ],
-    "created_at": "2026-07-08T10:53:34",
-    "updated_at": "2026-07-12T03:36:01"
+    "created_at": "2026-06-26T03:57:19",
+    "updated_at": "2026-07-12T06:58:12"
   },
   {
     "name": "OpenTag",
     "full_name": "linxidnju/OpenTag",
     "description": "Open-source, channel-native agent gateway for Slack. Route team threads to Claude Code, Codex, OpenCode, Docker, HTTP agents, and custom CLIs with policy, approvals, memory, audit logs, and artifacts.",
     "url": "https://github.com/linxidnju/OpenTag",
-    "stars": 301,
-    "daily_stars": 8,
+    "stars": 306,
+    "daily_stars": 5,
     "language": "JavaScript",
     "topics": [
       "agent-gateway",
@@ -266,6 +237,27 @@
       "team-collaboration"
     ],
     "created_at": "2026-06-27T08:10:47",
-    "updated_at": "2026-07-12T02:29:00"
+    "updated_at": "2026-07-12T06:45:14"
+  },
+  {
+    "name": "boring-computers",
+    "full_name": "michaelshimeles/boring-computers",
+    "description": "On-demand Linux computers you can hand to an AI — real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them.",
+    "url": "https://github.com/michaelshimeles/boring-computers",
+    "stars": 237,
+    "daily_stars": 4,
+    "language": "Go",
+    "topics": [
+      "ai-agents",
+      "computer-use",
+      "firecracker",
+      "golang",
+      "mcp",
+      "microvm",
+      "sandbox",
+      "svelte"
+    ],
+    "created_at": "2026-06-30T04:25:16",
+    "updated_at": "2026-07-12T06:41:26"
   }
 ]
