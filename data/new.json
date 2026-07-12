@@ -1,30 +1,11 @@
 [
   {
-    "name": "texts-to-transformer",
-    "full_name": "Doriandarko/texts-to-transformer",
-    "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
-    "url": "https://github.com/Doriandarko/texts-to-transformer",
-    "stars": 349,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "apple-silicon",
-      "imessage",
-      "local-first",
-      "machine-learning",
-      "mlx",
-      "transformer"
-    ],
-    "created_at": "2026-07-08T08:12:17",
-    "updated_at": "2026-07-11T20:55:56"
-  },
-  {
     "name": "pilotfish",
     "full_name": "Nanako0129/pilotfish",
     "description": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
     "url": "https://github.com/Nanako0129/pilotfish",
-    "stars": 348,
-    "daily_stars": 3,
+    "stars": 359,
+    "daily_stars": 11,
     "language": null,
     "topics": [
       "ai-agents",
@@ -35,7 +16,26 @@
       "orchestration"
     ],
     "created_at": "2026-07-08T10:53:34",
-    "updated_at": "2026-07-11T20:48:40"
+    "updated_at": "2026-07-12T03:36:01"
+  },
+  {
+    "name": "texts-to-transformer",
+    "full_name": "Doriandarko/texts-to-transformer",
+    "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
+    "url": "https://github.com/Doriandarko/texts-to-transformer",
+    "stars": 352,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "apple-silicon",
+      "imessage",
+      "local-first",
+      "machine-learning",
+      "mlx",
+      "transformer"
+    ],
+    "created_at": "2026-07-08T08:12:17",
+    "updated_at": "2026-07-11T23:16:28"
   },
   {
     "name": "Cognitive-Core-Skills",
@@ -43,7 +43,7 @@
     "description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models — with schemas, 159 skill cards, benchmarks, and CI.",
     "url": "https://github.com/eli-labz/Cognitive-Core-Skills",
     "stars": 275,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -129,8 +129,8 @@
     "full_name": "Sahir619/fable-method",
     "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
     "url": "https://github.com/Sahir619/fable-method",
-    "stars": 223,
-    "daily_stars": 9,
+    "stars": 237,
+    "daily_stars": 14,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -144,15 +144,15 @@
       "llm"
     ],
     "created_at": "2026-07-06T22:35:18",
-    "updated_at": "2026-07-11T20:37:47"
+    "updated_at": "2026-07-12T03:56:57"
   },
   {
     "name": "finding-unknowns-skills",
     "full_name": "Neeeophytee/finding-unknowns-skills",
     "description": "8 installable Claude Code skills for finding your unknowns before they get expensive: blindspot pass, brainstorms, interviews, references, plans, notes, pitches, and a merge quiz. Community distillation, not official Anthropic.",
     "url": "https://github.com/Neeeophytee/finding-unknowns-skills",
-    "stars": 165,
-    "daily_stars": 0,
+    "stars": 168,
+    "daily_stars": 3,
     "language": null,
     "topics": [
       "agent-skills",
@@ -163,15 +163,15 @@
       "skills"
     ],
     "created_at": "2026-07-05T05:51:40",
-    "updated_at": "2026-07-11T11:38:36"
+    "updated_at": "2026-07-12T02:21:30"
   },
   {
     "name": "watch-skill",
     "full_name": "oxbshw/watch-skill",
     "description": "Give any AI agent the ability to watch video — and to watch its own work and fix it. MCP + CLI + REST; scene-aware frames, OCR, local-first transcription, persistent index, and THE LOOP.",
     "url": "https://github.com/oxbshw/watch-skill",
-    "stars": 152,
-    "daily_stars": -2,
+    "stars": 158,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "agent-tools",
@@ -188,15 +188,34 @@
       "yt-dlp"
     ],
     "created_at": "2026-07-05T23:25:30",
-    "updated_at": "2026-07-11T19:15:35"
+    "updated_at": "2026-07-12T04:01:11"
+  },
+  {
+    "name": "contextvc",
+    "full_name": "HaochengLu/contextvc",
+    "description": "Git-native context control plane for AI coding agents",
+    "url": "https://github.com/HaochengLu/contextvc",
+    "stars": 124,
+    "daily_stars": 2,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "cli",
+      "context-engineering",
+      "git-native",
+      "mcp",
+      "rust"
+    ],
+    "created_at": "2026-07-05T14:06:39",
+    "updated_at": "2026-07-12T02:26:47"
   },
   {
     "name": "project-r0x",
     "full_name": "nhevers/project-r0x",
     "description": "Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.",
     "url": "https://github.com/nhevers/project-r0x",
-    "stars": 122,
-    "daily_stars": 0,
+    "stars": 123,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -213,25 +232,6 @@
       "x402"
     ],
     "created_at": "2026-07-11T10:12:16",
-    "updated_at": "2026-07-11T20:45:39"
-  },
-  {
-    "name": "contextvc",
-    "full_name": "HaochengLu/contextvc",
-    "description": "Git-native context control plane for AI coding agents",
-    "url": "https://github.com/HaochengLu/contextvc",
-    "stars": 122,
-    "daily_stars": 1,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "cli",
-      "context-engineering",
-      "git-native",
-      "mcp",
-      "rust"
-    ],
-    "created_at": "2026-07-05T14:06:39",
-    "updated_at": "2026-07-11T18:44:21"
+    "updated_at": "2026-07-12T03:00:15"
   }
 ]
