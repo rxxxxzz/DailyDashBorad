@@ -4,8 +4,8 @@
     "full_name": "oomol-lab/open-connector",
     "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
     "url": "https://github.com/oomol-lab/open-connector",
-    "stars": 1785,
-    "daily_stars": 83,
+    "stars": 1858,
+    "daily_stars": 73,
     "language": "TypeScript",
     "topics": [
       "agent-tools",
@@ -28,37 +28,15 @@
       "typescript"
     ],
     "created_at": "2026-06-29T10:49:36",
-    "updated_at": "2026-07-13T07:46:48"
-  },
-  {
-    "name": "clodex-ide",
-    "full_name": "mereyabdenbekuly-ctrl/clodex-ide",
-    "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
-    "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
-    "stars": 691,
-    "daily_stars": 50,
-    "language": "TypeScript",
-    "topics": [
-      "agentic-ai",
-      "agentic-ide",
-      "ai-agents",
-      "developer-tools",
-      "electron",
-      "ide",
-      "local-first",
-      "typescript",
-      "zero-trust"
-    ],
-    "created_at": "2026-07-12T10:35:44",
-    "updated_at": "2026-07-13T07:29:25"
+    "updated_at": "2026-07-13T11:30:14"
   },
   {
     "name": "internet-court-skill",
     "full_name": "internet-court/internet-court-skill",
     "description": "The trust layer for agent-to-agent commerce — natural-language mandates, ERC-7710 delegated permissions, x402 payments, escrow, and dispute resolution as one open, catch-all Agent Skill / Claude Code plugin.",
     "url": "https://github.com/internet-court/internet-court-skill",
-    "stars": 513,
-    "daily_stars": 11,
+    "stars": 535,
+    "daily_stars": 22,
     "language": "TypeScript",
     "topics": [
       "a2a",
@@ -83,35 +61,53 @@
       "x402"
     ],
     "created_at": "2026-06-16T13:20:01",
-    "updated_at": "2026-07-13T07:13:00"
+    "updated_at": "2026-07-13T11:31:28"
   },
   {
-    "name": "featrs",
-    "full_name": "DeathSurfing/featrs",
-    "description": "A Polars-native feature engineering library for Rust.",
-    "url": "https://github.com/DeathSurfing/featrs",
-    "stars": 15,
-    "daily_stars": 10,
-    "language": "Rust",
+    "name": "opentag",
+    "full_name": "amplifthq/opentag",
+    "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+    "url": "https://github.com/amplifthq/opentag",
+    "stars": 1201,
+    "daily_stars": 12,
+    "language": "TypeScript",
     "topics": [
-      "data-science",
-      "feature-engineering",
-      "machine-learning",
-      "polars",
-      "preprocessing",
-      "rust",
-      "scikit-learn"
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "codex",
+      "github",
+      "slack"
     ],
-    "created_at": "2026-07-06T14:00:53",
-    "updated_at": "2026-07-13T06:33:43"
+    "created_at": "2026-06-24T08:05:12",
+    "updated_at": "2026-07-13T11:30:54"
+  },
+  {
+    "name": "pilotfish",
+    "full_name": "Nanako0129/pilotfish",
+    "description": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
+    "url": "https://github.com/Nanako0129/pilotfish",
+    "stars": 402,
+    "daily_stars": 8,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "multi-agent",
+      "orchestration"
+    ],
+    "created_at": "2026-07-08T10:53:34",
+    "updated_at": "2026-07-13T11:25:41"
   },
   {
     "name": "spec-superflow",
     "full_name": "MageByte-Zero/spec-superflow",
     "description": "连通需求说清楚和代码写对路的 AI 编程工作流插件。整合 OpenSpec 规划 + Superpowers 纪律，7 平台支持，Spec-first，契约驱动。",
     "url": "https://github.com/MageByte-Zero/spec-superflow",
-    "stars": 443,
-    "daily_stars": 9,
+    "stars": 451,
+    "daily_stars": 8,
     "language": null,
     "topics": [
       "7-platforms",
@@ -132,88 +128,15 @@
       "workflow"
     ],
     "created_at": "2026-06-26T05:13:03",
-    "updated_at": "2026-07-13T07:47:46"
-  },
-  {
-    "name": "opentag",
-    "full_name": "amplifthq/opentag",
-    "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
-    "url": "https://github.com/amplifthq/opentag",
-    "stars": 1189,
-    "daily_stars": 8,
-    "language": "TypeScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "claude",
-      "codex",
-      "github",
-      "slack"
-    ],
-    "created_at": "2026-06-24T08:05:12",
-    "updated_at": "2026-07-13T06:45:33"
-  },
-  {
-    "name": "ditto",
-    "full_name": "ohad6k/ditto",
-    "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
-    "url": "https://github.com/ohad6k/ditto",
-    "stars": 148,
-    "daily_stars": 8,
-    "language": "Python",
-    "topics": [
-      "agent-memory",
-      "agent-skills",
-      "ai",
-      "ai-agents",
-      "ai-coding",
-      "claude",
-      "claude-code",
-      "codex",
-      "context-engineering",
-      "cursor",
-      "developer-tools",
-      "llm",
-      "local-first",
-      "personalization"
-    ],
-    "created_at": "2026-07-08T11:42:32",
-    "updated_at": "2026-07-13T07:26:03"
-  },
-  {
-    "name": "Foundry",
-    "full_name": "axislab-top/Foundry",
-    "description": "Transform any idea into a running AI-powered company",
-    "url": "https://github.com/axislab-top/Foundry",
-    "stars": 503,
-    "daily_stars": 5,
-    "language": "TypeScript",
-    "topics": [
-      "agent-platform",
-      "ai",
-      "ai-agents",
-      "ai-company",
-      "autonomous-agents",
-      "collaboration",
-      "digital-company",
-      "llm",
-      "multi-agent",
-      "nestjs",
-      "open-source",
-      "react",
-      "typescript",
-      "workflow"
-    ],
-    "created_at": "2026-06-21T05:59:33",
-    "updated_at": "2026-07-13T06:34:42"
+    "updated_at": "2026-07-13T11:34:03"
   },
   {
     "name": "fable-method",
     "full_name": "Sahir619/fable-method",
     "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
     "url": "https://github.com/Sahir619/fable-method",
-    "stars": 302,
-    "daily_stars": 5,
+    "stars": 309,
+    "daily_stars": 7,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -227,25 +150,108 @@
       "llm"
     ],
     "created_at": "2026-07-06T22:35:18",
-    "updated_at": "2026-07-13T07:42:01"
+    "updated_at": "2026-07-13T11:18:58"
   },
   {
-    "name": "pilotfish",
-    "full_name": "Nanako0129/pilotfish",
-    "description": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
-    "url": "https://github.com/Nanako0129/pilotfish",
-    "stars": 394,
-    "daily_stars": 4,
+    "name": "OpenTag",
+    "full_name": "linxidnju/OpenTag",
+    "description": "Open-source, channel-native agent gateway for Slack. Route team threads to Claude Code, Codex, OpenCode, Docker, HTTP agents, and custom CLIs with policy, approvals, memory, audit logs, and artifacts.",
+    "url": "https://github.com/linxidnju/OpenTag",
+    "stars": 334,
+    "daily_stars": 6,
+    "language": "JavaScript",
+    "topics": [
+      "agent-gateway",
+      "ai-agents",
+      "automation",
+      "claude",
+      "claude-code",
+      "claude-tag",
+      "codex",
+      "developer-tools",
+      "mcp",
+      "nodejs",
+      "opencode",
+      "runtime-adapters",
+      "slack",
+      "team-collaboration"
+    ],
+    "created_at": "2026-06-27T08:10:47",
+    "updated_at": "2026-07-13T11:15:31"
+  },
+  {
+    "name": "ai-memory-vault",
+    "full_name": "jaredrhod/ai-memory-vault",
+    "description": "Give your AI a real, persistent memory. The open-source system plus templates that turn an Obsidian vault into your AI's working memory. No vector database, just markdown.",
+    "url": "https://github.com/jaredrhod/ai-memory-vault",
+    "stars": 190,
+    "daily_stars": 6,
     "language": null,
     "topics": [
+      "agent-memory",
+      "ai",
       "ai-agents",
+      "ai-memory",
       "anthropic",
       "claude",
       "claude-code",
-      "multi-agent",
-      "orchestration"
+      "claude-skills",
+      "knowledge-management",
+      "llm",
+      "local-first",
+      "markdown",
+      "mcp",
+      "memory",
+      "note-taking",
+      "obsidian",
+      "obsidian-md",
+      "obsidian-vault",
+      "pkm",
+      "second-brain"
     ],
-    "created_at": "2026-07-08T10:53:34",
-    "updated_at": "2026-07-13T06:47:23"
+    "created_at": "2026-06-18T01:17:27",
+    "updated_at": "2026-07-13T10:52:14"
+  },
+  {
+    "name": "agent-skills",
+    "full_name": "Misaka-Mikoto-Tech/agent-skills",
+    "description": "Reusable AI agent skills for Codex, including a PowerShell skill for safe Windows command invocation and optional MCP utilities.",
+    "url": "https://github.com/Misaka-Mikoto-Tech/agent-skills",
+    "stars": 115,
+    "daily_stars": 5,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "codex",
+      "powershell",
+      "powershell-7",
+      "windows"
+    ],
+    "created_at": "2026-06-29T02:47:03",
+    "updated_at": "2026-07-13T11:11:03"
+  },
+  {
+    "name": "handmux",
+    "full_name": "handmux/handmux",
+    "description": "A mobile vibe-coding cockpit — built on tmux: drive your live session, Claude Code / Codex — anything a terminal can run — from your phone. 移动 Vibe Coding 驾驶舱 —— 基于 tmux 实现，可在手机上驱动你的会话、Claude Code / Codex、任何终端能实现的东西。",
+    "url": "https://github.com/handmux/handmux",
+    "stars": 87,
+    "daily_stars": 5,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "mobile",
+      "pwa",
+      "react",
+      "remote",
+      "terminal",
+      "tmux",
+      "vibe-coding",
+      "xterm"
+    ],
+    "created_at": "2026-06-28T07:20:33",
+    "updated_at": "2026-07-13T09:26:54"
   }
 ]
