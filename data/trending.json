@@ -4,8 +4,8 @@
     "full_name": "oomol-lab/open-connector",
     "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
     "url": "https://github.com/oomol-lab/open-connector",
-    "stars": 1615,
-    "daily_stars": 17,
+    "stars": 1702,
+    "daily_stars": 87,
     "language": "TypeScript",
     "topics": [
       "agent-tools",
@@ -28,15 +28,77 @@
       "typescript"
     ],
     "created_at": "2026-06-29T10:49:36",
-    "updated_at": "2026-07-12T20:50:49"
+    "updated_at": "2026-07-13T04:03:54"
+  },
+  {
+    "name": "spec-superflow",
+    "full_name": "MageByte-Zero/spec-superflow",
+    "description": "连通需求说清楚和代码写对路的 AI 编程工作流插件。整合 OpenSpec 规划 + Superpowers 纪律，7 平台支持，Spec-first，契约驱动。",
+    "url": "https://github.com/MageByte-Zero/spec-superflow",
+    "stars": 434,
+    "daily_stars": 30,
+    "language": null,
+    "topics": [
+      "7-platforms",
+      "ai-coding",
+      "claude-code",
+      "codex",
+      "copilot-cli",
+      "cursor",
+      "gemini-cli",
+      "opencode",
+      "opensource",
+      "openspec",
+      "skills",
+      "spec-driven-development",
+      "superpowers",
+      "tdd",
+      "trae",
+      "workflow"
+    ],
+    "created_at": "2026-06-26T05:13:03",
+    "updated_at": "2026-07-13T03:47:45"
+  },
+  {
+    "name": "Orkas-VideoStudio",
+    "full_name": "Orkas-AI/Orkas-VideoStudio",
+    "description": "Turn your coding agent into a video studio: describe a video in plain language, and your agent writes the timeline and produces the file.",
+    "url": "https://github.com/Orkas-AI/Orkas-VideoStudio",
+    "stars": 223,
+    "daily_stars": 21,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "ai-video",
+      "cli",
+      "coding-agents",
+      "ffmpeg",
+      "generative-ai",
+      "hyperframes",
+      "local-first",
+      "mcp-server",
+      "motion-graphics",
+      "open-source",
+      "subtitles",
+      "text-to-video",
+      "tts",
+      "typescript",
+      "video-automation",
+      "video-composition",
+      "video-editing",
+      "video-generation",
+      "whisper-cpp"
+    ],
+    "created_at": "2026-06-30T14:34:58",
+    "updated_at": "2026-07-13T02:37:44"
   },
   {
     "name": "fable-method",
     "full_name": "Sahir619/fable-method",
     "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
     "url": "https://github.com/Sahir619/fable-method",
-    "stars": 281,
-    "daily_stars": 15,
+    "stars": 297,
+    "daily_stars": 16,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -50,15 +112,15 @@
       "llm"
     ],
     "created_at": "2026-07-06T22:35:18",
-    "updated_at": "2026-07-12T21:06:00"
+    "updated_at": "2026-07-13T03:51:57"
   },
   {
     "name": "ditto",
     "full_name": "ohad6k/ditto",
     "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
     "url": "https://github.com/ohad6k/ditto",
-    "stars": 124,
-    "daily_stars": 11,
+    "stars": 140,
+    "daily_stars": 16,
     "language": "Python",
     "topics": [
       "agent-memory",
@@ -77,15 +139,15 @@
       "personalization"
     ],
     "created_at": "2026-07-08T11:42:32",
-    "updated_at": "2026-07-12T21:16:36"
+    "updated_at": "2026-07-13T04:01:40"
   },
   {
     "name": "opentag",
     "full_name": "amplifthq/opentag",
     "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
     "url": "https://github.com/amplifthq/opentag",
-    "stars": 1167,
-    "daily_stars": 10,
+    "stars": 1181,
+    "daily_stars": 14,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -96,15 +158,15 @@
       "slack"
     ],
     "created_at": "2026-06-24T08:05:12",
-    "updated_at": "2026-07-12T21:11:07"
+    "updated_at": "2026-07-13T04:08:25"
   },
   {
     "name": "internet-court-skill",
     "full_name": "internet-court/internet-court-skill",
     "description": "The trust layer for agent-to-agent commerce — natural-language mandates, ERC-7710 delegated permissions, x402 payments, escrow, and dispute resolution as one open, catch-all Agent Skill / Claude Code plugin.",
     "url": "https://github.com/internet-court/internet-court-skill",
-    "stars": 489,
-    "daily_stars": 7,
+    "stars": 502,
+    "daily_stars": 13,
     "language": "TypeScript",
     "topics": [
       "a2a",
@@ -129,80 +191,15 @@
       "x402"
     ],
     "created_at": "2026-06-16T13:20:01",
-    "updated_at": "2026-07-12T19:55:05"
-  },
-  {
-    "name": "pilotfish",
-    "full_name": "Nanako0129/pilotfish",
-    "description": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
-    "url": "https://github.com/Nanako0129/pilotfish",
-    "stars": 383,
-    "daily_stars": 7,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "multi-agent",
-      "orchestration"
-    ],
-    "created_at": "2026-07-08T10:53:34",
-    "updated_at": "2026-07-12T21:01:31"
-  },
-  {
-    "name": "contextvc",
-    "full_name": "HaochengLu/contextvc",
-    "description": "Git-native context control plane for AI coding agents",
-    "url": "https://github.com/HaochengLu/contextvc",
-    "stars": 140,
-    "daily_stars": 7,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "cli",
-      "context-engineering",
-      "git-native",
-      "mcp",
-      "rust"
-    ],
-    "created_at": "2026-07-05T14:06:39",
-    "updated_at": "2026-07-12T21:17:02"
-  },
-  {
-    "name": "Foundry",
-    "full_name": "axislab-top/Foundry",
-    "description": "Transform any idea into a running AI-powered company",
-    "url": "https://github.com/axislab-top/Foundry",
-    "stars": 493,
-    "daily_stars": 5,
-    "language": "TypeScript",
-    "topics": [
-      "agent-platform",
-      "ai",
-      "ai-agents",
-      "ai-company",
-      "autonomous-agents",
-      "collaboration",
-      "digital-company",
-      "llm",
-      "multi-agent",
-      "nestjs",
-      "open-source",
-      "react",
-      "typescript",
-      "workflow"
-    ],
-    "created_at": "2026-06-21T05:59:33",
-    "updated_at": "2026-07-12T20:33:20"
+    "updated_at": "2026-07-13T00:36:20"
   },
   {
     "name": "OpenTag",
     "full_name": "linxidnju/OpenTag",
     "description": "Open-source, channel-native agent gateway for Slack. Route team threads to Claude Code, Codex, OpenCode, Docker, HTTP agents, and custom CLIs with policy, approvals, memory, audit logs, and artifacts.",
     "url": "https://github.com/linxidnju/OpenTag",
-    "stars": 316,
-    "daily_stars": 4,
+    "stars": 328,
+    "daily_stars": 12,
     "language": "JavaScript",
     "topics": [
       "agent-gateway",
@@ -221,39 +218,53 @@
       "team-collaboration"
     ],
     "created_at": "2026-06-27T08:10:47",
-    "updated_at": "2026-07-12T20:31:09"
+    "updated_at": "2026-07-13T03:49:59"
   },
   {
-    "name": "ai-memory-vault",
-    "full_name": "jaredrhod/ai-memory-vault",
-    "description": "Give your AI a real, persistent memory. The open-source system plus templates that turn an Obsidian vault into your AI's working memory. No vector database, just markdown.",
-    "url": "https://github.com/jaredrhod/ai-memory-vault",
-    "stars": 181,
-    "daily_stars": 4,
-    "language": null,
+    "name": "ProductSpec",
+    "full_name": "gokulrajaram/ProductSpec",
+    "description": "ProductSpec is the open standard for software intent before implementation.",
+    "url": "https://github.com/gokulrajaram/ProductSpec",
+    "stars": 130,
+    "daily_stars": 10,
+    "language": "TypeScript",
     "topics": [
-      "agent-memory",
-      "ai",
       "ai-agents",
-      "ai-memory",
-      "anthropic",
+      "developer-tools",
+      "markdown",
+      "openspec",
+      "prd",
+      "product-management",
+      "productspec",
+      "spec-driven-development",
+      "speckit"
+    ],
+    "created_at": "2026-07-04T19:57:44",
+    "updated_at": "2026-07-13T03:44:49"
+  },
+  {
+    "name": "watch-skill",
+    "full_name": "oxbshw/watch-skill",
+    "description": "Give any AI agent the ability to watch video — and to watch its own work and fix it. MCP + CLI + REST; scene-aware frames, OCR, local-first transcription, persistent index, and THE LOOP.",
+    "url": "https://github.com/oxbshw/watch-skill",
+    "stars": 176,
+    "daily_stars": 9,
+    "language": "Python",
+    "topics": [
+      "agent-tools",
+      "ai-agents",
       "claude",
       "claude-code",
-      "claude-skills",
-      "knowledge-management",
-      "llm",
-      "local-first",
-      "markdown",
+      "computer-vision",
+      "ffmpeg",
       "mcp",
-      "memory",
-      "note-taking",
-      "obsidian",
-      "obsidian-md",
-      "obsidian-vault",
-      "pkm",
-      "second-brain"
+      "multimodal",
+      "ocr",
+      "video-understanding",
+      "whisper",
+      "yt-dlp"
     ],
-    "created_at": "2026-06-18T01:17:27",
-    "updated_at": "2026-07-12T20:42:06"
+    "created_at": "2026-07-05T23:25:30",
+    "updated_at": "2026-07-13T01:14:56"
   }
 ]
