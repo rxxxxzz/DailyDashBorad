@@ -4,8 +4,8 @@
     "full_name": "modiqo/waggle",
     "description": "Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-native; the reference layer for the agent-harness world.",
     "url": "https://github.com/modiqo/waggle",
-    "stars": 457,
-    "daily_stars": 167,
+    "stars": 545,
+    "daily_stars": 88,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -14,15 +14,15 @@
       "loop-engineering"
     ],
     "created_at": "2026-07-08T04:33:09",
-    "updated_at": "2026-07-14T14:22:59"
+    "updated_at": "2026-07-14T17:39:22"
   },
   {
     "name": "open-connector",
     "full_name": "oomol-lab/open-connector",
     "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
     "url": "https://github.com/oomol-lab/open-connector",
-    "stars": 2238,
-    "daily_stars": 110,
+    "stars": 2288,
+    "daily_stars": 50,
     "language": "TypeScript",
     "topics": [
       "agent-tools",
@@ -45,37 +45,37 @@
       "typescript"
     ],
     "created_at": "2026-06-29T10:49:36",
-    "updated_at": "2026-07-14T14:23:59"
+    "updated_at": "2026-07-14T17:37:54"
   },
   {
-    "name": "clodex-ide",
-    "full_name": "mereyabdenbekuly-ctrl/clodex-ide",
-    "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
-    "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
-    "stars": 799,
-    "daily_stars": 99,
-    "language": "TypeScript",
+    "name": "fable-method",
+    "full_name": "Sahir619/fable-method",
+    "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
+    "url": "https://github.com/Sahir619/fable-method",
+    "stars": 629,
+    "daily_stars": 46,
+    "language": "JavaScript",
     "topics": [
-      "agentic-ai",
-      "agentic-ide",
+      "agent-skills",
       "ai-agents",
-      "developer-tools",
-      "electron",
-      "ide",
-      "local-first",
-      "typescript",
-      "zero-trust"
+      "claude",
+      "claude-code",
+      "claude-md",
+      "coding-agent",
+      "evaluation",
+      "fable",
+      "llm"
     ],
-    "created_at": "2026-07-12T10:35:44",
-    "updated_at": "2026-07-14T12:53:36"
+    "created_at": "2026-07-06T22:35:18",
+    "updated_at": "2026-07-14T17:29:43"
   },
   {
     "name": "clawk",
     "full_name": "clawkwork/clawk",
     "description": "Disposable, network-restricted Linux VMs for AI coding agents",
     "url": "https://github.com/clawkwork/clawk",
-    "stars": 413,
-    "daily_stars": 55,
+    "stars": 444,
+    "daily_stars": 31,
     "language": "Go",
     "topics": [
       "agent-sandbox",
@@ -90,15 +90,72 @@
       "vm"
     ],
     "created_at": "2026-07-06T21:30:38",
-    "updated_at": "2026-07-14T14:20:22"
+    "updated_at": "2026-07-14T17:16:27"
+  },
+  {
+    "name": "mantis",
+    "full_name": "google/mantis",
+    "description": "A modular, stack-agnostic toolkit of security review skills for AI coding agents to autonomously find, reproduce, and patch vulnerabilities.",
+    "url": "https://github.com/google/mantis",
+    "stars": 186,
+    "daily_stars": 29,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "antigravity",
+      "antigravity-cli",
+      "application-security",
+      "application-security-tools",
+      "code-review",
+      "devsecops",
+      "gemini-api",
+      "gemini-cli",
+      "hardware-security",
+      "llm",
+      "multi-agent-systems",
+      "prompt-engineering",
+      "sast",
+      "security",
+      "static-analysis",
+      "threat-modeling",
+      "vulnerability-detection"
+    ],
+    "created_at": "2026-06-15T20:58:00",
+    "updated_at": "2026-07-14T17:32:05"
+  },
+  {
+    "name": "agent-pulse",
+    "full_name": "barretlee/agent-pulse",
+    "description": "Curated AI industry intelligence timelines — technology, AGI, investment, commercialization, and China catch-up.",
+    "url": "https://github.com/barretlee/agent-pulse",
+    "stars": 126,
+    "daily_stars": 18,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-news",
+      "artificial-intelligence",
+      "fastify",
+      "github-actions",
+      "industry-analysis",
+      "knowledge-graph",
+      "llm",
+      "open-source-intelligence",
+      "sqlite",
+      "timeline",
+      "typescript"
+    ],
+    "created_at": "2026-07-11T14:38:25",
+    "updated_at": "2026-07-14T17:29:30"
   },
   {
     "name": "internet-court-skill",
     "full_name": "internet-court/internet-court-skill",
     "description": "The trust layer for agent-to-agent commerce — natural-language mandates, ERC-7710 delegated permissions, x402 payments, escrow, and dispute resolution as one open, catch-all Agent Skill / Claude Code plugin.",
     "url": "https://github.com/internet-court/internet-court-skill",
-    "stars": 808,
-    "daily_stars": 51,
+    "stars": 821,
+    "daily_stars": 13,
     "language": "TypeScript",
     "topics": [
       "a2a",
@@ -123,37 +180,15 @@
       "x402"
     ],
     "created_at": "2026-06-16T13:20:01",
-    "updated_at": "2026-07-14T14:21:34"
-  },
-  {
-    "name": "fable-method",
-    "full_name": "Sahir619/fable-method",
-    "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
-    "url": "https://github.com/Sahir619/fable-method",
-    "stars": 583,
-    "daily_stars": 51,
-    "language": "JavaScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "claude-md",
-      "coding-agent",
-      "evaluation",
-      "fable",
-      "llm"
-    ],
-    "created_at": "2026-07-06T22:35:18",
-    "updated_at": "2026-07-14T14:21:22"
+    "updated_at": "2026-07-14T17:30:46"
   },
   {
     "name": "Capsomnia",
     "full_name": "fuji-mak/Capsomnia",
     "description": "A tiny macOS app that turns Caps Lock into a physical keep-awake switch for closed-lid MacBook work.",
     "url": "https://github.com/fuji-mak/Capsomnia",
-    "stars": 142,
-    "daily_stars": 46,
+    "stars": 154,
+    "daily_stars": 12,
     "language": "Swift",
     "topics": [
       "ai-agents",
@@ -168,72 +203,15 @@
       "swift"
     ],
     "created_at": "2026-06-28T10:46:11",
-    "updated_at": "2026-07-14T14:07:34"
-  },
-  {
-    "name": "mantis",
-    "full_name": "google/mantis",
-    "description": "A modular, stack-agnostic toolkit of security review skills for AI coding agents to autonomously find, reproduce, and patch vulnerabilities.",
-    "url": "https://github.com/google/mantis",
-    "stars": 157,
-    "daily_stars": 33,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "antigravity",
-      "antigravity-cli",
-      "application-security",
-      "application-security-tools",
-      "code-review",
-      "devsecops",
-      "gemini-api",
-      "gemini-cli",
-      "hardware-security",
-      "llm",
-      "multi-agent-systems",
-      "prompt-engineering",
-      "sast",
-      "security",
-      "static-analysis",
-      "threat-modeling",
-      "vulnerability-detection"
-    ],
-    "created_at": "2026-06-15T20:58:00",
-    "updated_at": "2026-07-14T14:18:43"
-  },
-  {
-    "name": "agent-pulse",
-    "full_name": "barretlee/agent-pulse",
-    "description": "Curated AI industry intelligence timelines — technology, AGI, investment, commercialization, and China catch-up.",
-    "url": "https://github.com/barretlee/agent-pulse",
-    "stars": 108,
-    "daily_stars": 27,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-news",
-      "artificial-intelligence",
-      "fastify",
-      "github-actions",
-      "industry-analysis",
-      "knowledge-graph",
-      "llm",
-      "open-source-intelligence",
-      "sqlite",
-      "timeline",
-      "typescript"
-    ],
-    "created_at": "2026-07-11T14:38:25",
-    "updated_at": "2026-07-14T14:03:54"
+    "updated_at": "2026-07-14T17:27:25"
   },
   {
     "name": "sim-use",
     "full_name": "lycorp-jp/sim-use",
     "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
     "url": "https://github.com/lycorp-jp/sim-use",
-    "stars": 860,
-    "daily_stars": 21,
+    "stars": 871,
+    "daily_stars": 11,
     "language": "Swift",
     "topics": [
       "accessibility",
@@ -244,6 +222,28 @@
       "mobile-automation"
     ],
     "created_at": "2026-06-26T05:59:56",
-    "updated_at": "2026-07-14T14:24:03"
+    "updated_at": "2026-07-14T17:19:11"
+  },
+  {
+    "name": "optim-agent",
+    "full_name": "Optim-Agent/optim-agent",
+    "description": "LLM agents as your hyperparameter optimizer.",
+    "url": "https://github.com/Optim-Agent/optim-agent",
+    "stars": 51,
+    "daily_stars": 10,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "bayesian-optimization",
+      "claude-code",
+      "codex-cli",
+      "hyperparameter-optimization",
+      "machine-learning",
+      "quantitative-finance",
+      "reinforcement-learning",
+      "skill"
+    ],
+    "created_at": "2026-07-07T17:05:54",
+    "updated_at": "2026-07-14T17:17:32"
   }
 ]
