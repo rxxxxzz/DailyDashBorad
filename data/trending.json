@@ -4,8 +4,8 @@
     "full_name": "Sahir619/fable-method",
     "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
     "url": "https://github.com/Sahir619/fable-method",
-    "stars": 850,
-    "daily_stars": 85,
+    "stars": 956,
+    "daily_stars": 106,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -19,15 +19,15 @@
       "llm"
     ],
     "created_at": "2026-07-06T22:35:18",
-    "updated_at": "2026-07-15T10:18:53"
+    "updated_at": "2026-07-15T14:18:49"
   },
   {
     "name": "open-connector",
     "full_name": "oomol-lab/open-connector",
     "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
     "url": "https://github.com/oomol-lab/open-connector",
-    "stars": 2448,
-    "daily_stars": 31,
+    "stars": 2494,
+    "daily_stars": 46,
     "language": "TypeScript",
     "topics": [
       "agent-tools",
@@ -50,15 +50,15 @@
       "typescript"
     ],
     "created_at": "2026-06-29T10:49:36",
-    "updated_at": "2026-07-15T10:14:55"
+    "updated_at": "2026-07-15T14:08:04"
   },
   {
     "name": "drawio-ai-kit",
     "full_name": "sparklabx/drawio-ai-kit",
     "description": "Teach your AI to draw correct, beautiful draw.io diagrams — declarative layout engine, ground-truth stencils, structural validator, vision self-check. AWS · Azure · GCP · Databricks · BPMN. Zero dependencies.",
     "url": "https://github.com/sparklabx/drawio-ai-kit",
-    "stars": 504,
-    "daily_stars": 24,
+    "stars": 525,
+    "daily_stars": 21,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -75,55 +75,15 @@
       "gcp"
     ],
     "created_at": "2026-06-17T16:51:20",
-    "updated_at": "2026-07-15T10:18:41"
-  },
-  {
-    "name": "waggle",
-    "full_name": "modiqo/waggle",
-    "description": "Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-native; the reference layer for the agent-harness world.",
-    "url": "https://github.com/modiqo/waggle",
-    "stars": 706,
-    "daily_stars": 21,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "harness-engineering",
-      "llm-tools",
-      "loop-engineering"
-    ],
-    "created_at": "2026-07-08T04:33:09",
-    "updated_at": "2026-07-15T09:56:31"
-  },
-  {
-    "name": "Capsomnia",
-    "full_name": "fuji-mak/Capsomnia",
-    "description": "A tiny macOS app that turns Caps Lock into a physical keep-awake switch for closed-lid MacBook work.",
-    "url": "https://github.com/fuji-mak/Capsomnia",
-    "stars": 203,
-    "daily_stars": 14,
-    "language": "Swift",
-    "topics": [
-      "ai-agents",
-      "appkit",
-      "caps-lock",
-      "developer-tools",
-      "macbook",
-      "macos",
-      "menu-bar",
-      "pmset",
-      "sleep",
-      "swift"
-    ],
-    "created_at": "2026-06-28T10:46:11",
-    "updated_at": "2026-07-15T10:11:26"
+    "updated_at": "2026-07-15T13:37:29"
   },
   {
     "name": "opentag",
     "full_name": "amplifthq/opentag",
     "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
     "url": "https://github.com/amplifthq/opentag",
-    "stars": 1307,
-    "daily_stars": 11,
+    "stars": 1321,
+    "daily_stars": 14,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -134,15 +94,32 @@
       "slack"
     ],
     "created_at": "2026-06-24T08:05:12",
-    "updated_at": "2026-07-15T10:19:11"
+    "updated_at": "2026-07-15T13:56:02"
+  },
+  {
+    "name": "waggle",
+    "full_name": "modiqo/waggle",
+    "description": "Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-native; the reference layer for the agent-harness world.",
+    "url": "https://github.com/modiqo/waggle",
+    "stars": 719,
+    "daily_stars": 13,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "harness-engineering",
+      "llm-tools",
+      "loop-engineering"
+    ],
+    "created_at": "2026-07-08T04:33:09",
+    "updated_at": "2026-07-15T13:48:32"
   },
   {
     "name": "clawk",
     "full_name": "clawkwork/clawk",
     "description": "Disposable, network-restricted Linux VMs for AI coding agents",
     "url": "https://github.com/clawkwork/clawk",
-    "stars": 495,
-    "daily_stars": 11,
+    "stars": 508,
+    "daily_stars": 13,
     "language": "Go",
     "topics": [
       "agent-sandbox",
@@ -157,73 +134,122 @@
       "vm"
     ],
     "created_at": "2026-07-06T21:30:38",
-    "updated_at": "2026-07-15T09:53:05"
+    "updated_at": "2026-07-15T14:13:19"
   },
   {
-    "name": "agent-pulse",
-    "full_name": "barretlee/agent-pulse",
-    "description": "Curated AI industry intelligence timelines — technology, AGI, investment, commercialization, and China catch-up.",
-    "url": "https://github.com/barretlee/agent-pulse",
-    "stars": 174,
-    "daily_stars": 10,
-    "language": "TypeScript",
+    "name": "Capsomnia",
+    "full_name": "fuji-mak/Capsomnia",
+    "description": "A tiny macOS app that turns Caps Lock into a physical keep-awake switch for closed-lid MacBook work.",
+    "url": "https://github.com/fuji-mak/Capsomnia",
+    "stars": 215,
+    "daily_stars": 12,
+    "language": "Swift",
     "topics": [
-      "ai",
       "ai-agents",
-      "ai-news",
-      "artificial-intelligence",
-      "fastify",
-      "github-actions",
-      "industry-analysis",
-      "knowledge-graph",
-      "llm",
-      "open-source-intelligence",
-      "sqlite",
-      "timeline",
-      "typescript"
+      "appkit",
+      "caps-lock",
+      "developer-tools",
+      "macbook",
+      "macos",
+      "menu-bar",
+      "pmset",
+      "sleep",
+      "swift"
     ],
-    "created_at": "2026-07-11T14:38:25",
-    "updated_at": "2026-07-15T10:12:25"
+    "created_at": "2026-06-28T10:46:11",
+    "updated_at": "2026-07-15T13:29:27"
   },
   {
-    "name": "datafoundry",
-    "full_name": "datagallery-lab/datafoundry",
-    "description": "DataFoundry is an open-source AI workbench for data analysis, unifying data sources, knowledge, tools, and agent runtime into a governed workspace for interactive analytics.",
-    "url": "https://github.com/datagallery-lab/datafoundry",
-    "stars": 221,
+    "name": "gridbash",
+    "full_name": "jasonsuhari/gridbash",
+    "description": "Windows-native terminal grid for running Codex, Claude, Gemini, and other CLI agents side by side.",
+    "url": "https://github.com/jasonsuhari/gridbash",
+    "stars": 90,
+    "daily_stars": 11,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "aider",
+      "claude",
+      "cli-agents",
+      "codex",
+      "coding-agents",
+      "conpty",
+      "developer-tools",
+      "gemini",
+      "git-bash",
+      "multiplexer",
+      "orchestration",
+      "powershell",
+      "ratatui",
+      "rust",
+      "terminal",
+      "terminal-grid",
+      "terminal-ui",
+      "tui",
+      "windows"
+    ],
+    "created_at": "2026-07-05T22:46:52",
+    "updated_at": "2026-07-15T14:13:22"
+  },
+  {
+    "name": "internet-court-skill",
+    "full_name": "internet-court/internet-court-skill",
+    "description": "The trust layer for agent-to-agent commerce — natural-language mandates, ERC-7710 delegated permissions, x402 payments, escrow, and dispute resolution as one open, catch-all Agent Skill / Claude Code plugin.",
+    "url": "https://github.com/internet-court/internet-court-skill",
+    "stars": 854,
     "daily_stars": 9,
     "language": "TypeScript",
     "topics": [
-      "ag-ui",
-      "agent-runtime",
-      "ai",
+      "a2a",
+      "adjudication",
+      "agent-payments",
+      "agent-skills",
+      "agentic-commerce",
       "ai-agents",
-      "data-analysis",
-      "data-sources",
-      "data-workbench",
-      "ink",
-      "mastra"
+      "claude-code",
+      "claude-plugin",
+      "claude-skill",
+      "codex",
+      "dispute-resolution",
+      "erc-7710",
+      "erc-8004",
+      "escrow",
+      "genlayer",
+      "hermes-agent",
+      "openclaw",
+      "opencode",
+      "web3",
+      "x402"
     ],
-    "created_at": "2026-06-18T07:03:43",
-    "updated_at": "2026-07-15T09:46:59"
+    "created_at": "2026-06-16T13:20:01",
+    "updated_at": "2026-07-15T14:16:12"
   },
   {
-    "name": "sim-use",
-    "full_name": "lycorp-jp/sim-use",
-    "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
-    "url": "https://github.com/lycorp-jp/sim-use",
-    "stars": 899,
+    "name": "OpenTag",
+    "full_name": "linxidnju/OpenTag",
+    "description": "Open-source, channel-native agent gateway for Slack. Route team threads to Claude Code, Codex, OpenCode, Docker, HTTP agents, and custom CLIs with policy, approvals, memory, audit logs, and artifacts.",
+    "url": "https://github.com/linxidnju/OpenTag",
+    "stars": 392,
     "daily_stars": 8,
-    "language": "Swift",
+    "language": "JavaScript",
     "topics": [
-      "accessibility",
+      "agent-gateway",
       "ai-agents",
-      "ai-development",
-      "android-emulator",
-      "ios-simulator",
-      "mobile-automation"
+      "automation",
+      "claude",
+      "claude-code",
+      "claude-tag",
+      "codex",
+      "developer-tools",
+      "mcp",
+      "nodejs",
+      "opencode",
+      "runtime-adapters",
+      "slack",
+      "team-collaboration"
     ],
-    "created_at": "2026-06-26T05:59:56",
-    "updated_at": "2026-07-15T09:36:37"
+    "created_at": "2026-06-27T08:10:47",
+    "updated_at": "2026-07-15T13:58:24"
   }
 ]
