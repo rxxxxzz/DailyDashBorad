@@ -1,11 +1,34 @@
 [
   {
+    "name": "clawk",
+    "full_name": "clawkwork/clawk",
+    "description": "Disposable, network-restricted Linux VMs for AI coding agents",
+    "url": "https://github.com/clawkwork/clawk",
+    "stars": 592,
+    "daily_stars": 46,
+    "language": "Go",
+    "topics": [
+      "agent-sandbox",
+      "ai-agent-sandbox",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "codex",
+      "microvm",
+      "sandbox",
+      "virtualization",
+      "vm"
+    ],
+    "created_at": "2026-07-06T21:30:38",
+    "updated_at": "2026-07-16T10:22:46"
+  },
+  {
     "name": "fable-method",
     "full_name": "Sahir619/fable-method",
     "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
     "url": "https://github.com/Sahir619/fable-method",
-    "stars": 1140,
-    "daily_stars": 26,
+    "stars": 1177,
+    "daily_stars": 37,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -19,15 +42,15 @@
       "llm"
     ],
     "created_at": "2026-07-06T22:35:18",
-    "updated_at": "2026-07-16T06:36:59"
+    "updated_at": "2026-07-16T10:23:44"
   },
   {
     "name": "open-connector",
     "full_name": "oomol-lab/open-connector",
     "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
     "url": "https://github.com/oomol-lab/open-connector",
-    "stars": 2619,
-    "daily_stars": 21,
+    "stars": 2646,
+    "daily_stars": 27,
     "language": "TypeScript",
     "topics": [
       "agent-tools",
@@ -50,60 +73,66 @@
       "typescript"
     ],
     "created_at": "2026-06-29T10:49:36",
-    "updated_at": "2026-07-16T06:39:57"
+    "updated_at": "2026-07-16T10:15:18"
   },
   {
-    "name": "paxm",
-    "full_name": "pax-beehive/paxm",
-    "description": "Persistent, provider-neutral memory for Codex, Claude Code, OpenCode, Pi, and MCP coding agents.",
-    "url": "https://github.com/pax-beehive/paxm",
-    "stars": 132,
-    "daily_stars": 11,
-    "language": "Go",
+    "name": "spec-superflow",
+    "full_name": "MageByte-Zero/spec-superflow",
+    "description": "连通需求说清楚和代码写对路的 AI 编程工作流插件。整合 OpenSpec 规划 + Superpowers 纪律，7 平台支持，Spec-first，契约驱动。",
+    "url": "https://github.com/MageByte-Zero/spec-superflow",
+    "stars": 531,
+    "daily_stars": 12,
+    "language": null,
     "topics": [
-      "agent-memory",
-      "ai-agents",
+      "7-platforms",
+      "ai-coding",
       "claude-code",
       "codex",
-      "golang",
-      "local-first",
-      "mcp",
+      "copilot-cli",
+      "cursor",
+      "gemini-cli",
       "opencode",
-      "sqlite"
+      "opensource",
+      "openspec",
+      "skills",
+      "spec-driven-development",
+      "superpowers",
+      "tdd",
+      "trae",
+      "workflow"
     ],
-    "created_at": "2026-07-09T02:40:57",
-    "updated_at": "2026-07-16T03:54:42"
+    "created_at": "2026-06-26T05:13:03",
+    "updated_at": "2026-07-16T10:14:00"
   },
   {
-    "name": "deja-vu",
-    "full_name": "vshulcz/deja-vu",
-    "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary.",
-    "url": "https://github.com/vshulcz/deja-vu",
-    "stars": 230,
-    "daily_stars": 9,
-    "language": "Go",
+    "name": "datafoundry",
+    "full_name": "datagallery-lab/datafoundry",
+    "description": "DataFoundry is an open-source AI workbench for data analysis, unifying data sources, knowledge, tools, and agent runtime into a governed workspace for interactive analytics.",
+    "url": "https://github.com/datagallery-lab/datafoundry",
+    "stars": 235,
+    "daily_stars": 6,
+    "language": "TypeScript",
     "topics": [
+      "ag-ui",
+      "agent-runtime",
+      "ai",
       "ai-agents",
-      "claude-code",
-      "cli",
-      "codex",
-      "developer-tools",
-      "go",
-      "mcp",
-      "memory",
-      "opencode",
-      "search"
+      "data-analysis",
+      "data-sources",
+      "data-workbench",
+      "ink",
+      "mastra"
     ],
-    "created_at": "2026-07-14T07:45:44",
-    "updated_at": "2026-07-16T06:25:28"
+    "created_at": "2026-06-18T07:03:43",
+    "updated_at": "2026-07-16T09:55:29"
   },
   {
     "name": "optim-agent",
     "full_name": "Optim-Agent/optim-agent",
     "description": "LLM agents as your hyperparameter optimizer.",
     "url": "https://github.com/Optim-Agent/optim-agent",
-    "stars": 109,
-    "daily_stars": 8,
+    "stars": 115,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -117,99 +146,15 @@
       "skill"
     ],
     "created_at": "2026-07-07T17:05:54",
-    "updated_at": "2026-07-16T06:30:48"
-  },
-  {
-    "name": "clawk",
-    "full_name": "clawkwork/clawk",
-    "description": "Disposable, network-restricted Linux VMs for AI coding agents",
-    "url": "https://github.com/clawkwork/clawk",
-    "stars": 546,
-    "daily_stars": 6,
-    "language": "Go",
-    "topics": [
-      "agent-sandbox",
-      "ai-agent-sandbox",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "codex",
-      "microvm",
-      "sandbox",
-      "virtualization",
-      "vm"
-    ],
-    "created_at": "2026-07-06T21:30:38",
-    "updated_at": "2026-07-16T06:28:17"
-  },
-  {
-    "name": "opentag",
-    "full_name": "amplifthq/opentag",
-    "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
-    "url": "https://github.com/amplifthq/opentag",
-    "stars": 1360,
-    "daily_stars": 5,
-    "language": "TypeScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "claude",
-      "codex",
-      "github",
-      "slack"
-    ],
-    "created_at": "2026-06-24T08:05:12",
-    "updated_at": "2026-07-16T06:01:52"
-  },
-  {
-    "name": "sim-use",
-    "full_name": "lycorp-jp/sim-use",
-    "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
-    "url": "https://github.com/lycorp-jp/sim-use",
-    "stars": 920,
-    "daily_stars": 5,
-    "language": "Swift",
-    "topics": [
-      "accessibility",
-      "ai-agents",
-      "ai-development",
-      "android-emulator",
-      "ios-simulator",
-      "mobile-automation"
-    ],
-    "created_at": "2026-06-26T05:59:56",
-    "updated_at": "2026-07-16T06:32:32"
-  },
-  {
-    "name": "Capsomnia",
-    "full_name": "fuji-mak/Capsomnia",
-    "description": "A tiny macOS app that turns Caps Lock into a physical keep-awake switch for closed-lid MacBook work.",
-    "url": "https://github.com/fuji-mak/Capsomnia",
-    "stars": 234,
-    "daily_stars": 5,
-    "language": "Swift",
-    "topics": [
-      "ai-agents",
-      "appkit",
-      "caps-lock",
-      "developer-tools",
-      "macbook",
-      "macos",
-      "menu-bar",
-      "pmset",
-      "sleep",
-      "swift"
-    ],
-    "created_at": "2026-06-28T10:46:11",
-    "updated_at": "2026-07-16T06:11:40"
+    "updated_at": "2026-07-16T09:45:32"
   },
   {
     "name": "pentestcode",
     "full_name": "s0ld13rr/pentestcode",
     "description": "PentestCode - Multi-agent AI penetration testing system with persistent engagement state, strategic coordination, and parallel autonomous operations.",
     "url": "https://github.com/s0ld13rr/pentestcode",
-    "stars": 82,
-    "daily_stars": 5,
+    "stars": 88,
+    "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -229,6 +174,70 @@
       "security-testing"
     ],
     "created_at": "2026-07-08T08:22:01",
-    "updated_at": "2026-07-16T05:38:58"
+    "updated_at": "2026-07-16T10:03:49"
+  },
+  {
+    "name": "sim-use",
+    "full_name": "lycorp-jp/sim-use",
+    "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
+    "url": "https://github.com/lycorp-jp/sim-use",
+    "stars": 925,
+    "daily_stars": 5,
+    "language": "Swift",
+    "topics": [
+      "accessibility",
+      "ai-agents",
+      "ai-development",
+      "android-emulator",
+      "ios-simulator",
+      "mobile-automation"
+    ],
+    "created_at": "2026-06-26T05:59:56",
+    "updated_at": "2026-07-16T09:50:12"
+  },
+  {
+    "name": "Text-LLM-Training-from-scratch",
+    "full_name": "Y0oshi/Text-LLM-Training-from-scratch",
+    "description": "A from-scratch implementation of the language-model training pipeline in PyTorch: tokenization, pretraining, SFT, and preference-based alignment.",
+    "url": "https://github.com/Y0oshi/Text-LLM-Training-from-scratch",
+    "stars": 31,
+    "daily_stars": 5,
+    "language": "Python",
+    "topics": [
+      "alignment",
+      "deep-learning",
+      "dpo",
+      "educational",
+      "from-scratch",
+      "generative-ai",
+      "grpo",
+      "llm",
+      "local-llms",
+      "machine-learning",
+      "nlp",
+      "pytorch",
+      "rlhf",
+      "sft",
+      "transformer"
+    ],
+    "created_at": "2026-07-12T23:48:13",
+    "updated_at": "2026-07-16T09:51:30"
+  },
+  {
+    "name": "agterm",
+    "full_name": "umputun/agterm",
+    "description": "Terminal for agentic flow",
+    "url": "https://github.com/umputun/agterm",
+    "stars": 312,
+    "daily_stars": 4,
+    "language": "Swift",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "libghostty",
+      "terminal"
+    ],
+    "created_at": "2026-06-21T18:04:52",
+    "updated_at": "2026-07-16T09:31:42"
   }
 ]
