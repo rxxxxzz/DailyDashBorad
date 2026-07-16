@@ -1,11 +1,33 @@
 [
   {
+    "name": "fable-method",
+    "full_name": "Sahir619/fable-method",
+    "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
+    "url": "https://github.com/Sahir619/fable-method",
+    "stars": 1274,
+    "daily_stars": 31,
+    "language": "JavaScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-md",
+      "coding-agent",
+      "evaluation",
+      "fable",
+      "llm"
+    ],
+    "created_at": "2026-07-06T22:35:18",
+    "updated_at": "2026-07-16T21:28:36"
+  },
+  {
     "name": "open-connector",
     "full_name": "oomol-lab/open-connector",
     "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
     "url": "https://github.com/oomol-lab/open-connector",
-    "stars": 2714,
-    "daily_stars": 28,
+    "stars": 2738,
+    "daily_stars": 24,
     "language": "TypeScript",
     "topics": [
       "agent-tools",
@@ -28,37 +50,15 @@
       "typescript"
     ],
     "created_at": "2026-06-29T10:49:36",
-    "updated_at": "2026-07-16T17:41:30"
-  },
-  {
-    "name": "fable-method",
-    "full_name": "Sahir619/fable-method",
-    "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
-    "url": "https://github.com/Sahir619/fable-method",
-    "stars": 1243,
-    "daily_stars": 27,
-    "language": "JavaScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "claude-md",
-      "coding-agent",
-      "evaluation",
-      "fable",
-      "llm"
-    ],
-    "created_at": "2026-07-06T22:35:18",
-    "updated_at": "2026-07-16T17:36:37"
+    "updated_at": "2026-07-16T21:28:30"
   },
   {
     "name": "clawk",
     "full_name": "clawkwork/clawk",
     "description": "Disposable, network-restricted Linux VMs for AI coding agents",
     "url": "https://github.com/clawkwork/clawk",
-    "stars": 632,
-    "daily_stars": 18,
+    "stars": 644,
+    "daily_stars": 12,
     "language": "Go",
     "topics": [
       "agent-sandbox",
@@ -73,15 +73,56 @@
       "vm"
     ],
     "created_at": "2026-07-06T21:30:38",
-    "updated_at": "2026-07-16T17:41:13"
+    "updated_at": "2026-07-16T20:24:33"
+  },
+  {
+    "name": "marketing-studio",
+    "full_name": "ucsandman/marketing-studio",
+    "description": "Agent-driven marketing studio for Claude Code: one /marketing command renders your product's full launch asset suite (logo reveal, demo, launch video, social clips, OG assets)",
+    "url": "https://github.com/ucsandman/marketing-studio",
+    "stars": 149,
+    "daily_stars": 9,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "blender",
+      "claude-code",
+      "marketing",
+      "remotion",
+      "video-generation"
+    ],
+    "created_at": "2026-07-10T08:00:22",
+    "updated_at": "2026-07-16T21:25:58"
+  },
+  {
+    "name": "optim-agent",
+    "full_name": "Optim-Agent/optim-agent",
+    "description": "LLM agents as your hyperparameter optimizer.",
+    "url": "https://github.com/Optim-Agent/optim-agent",
+    "stars": 119,
+    "daily_stars": 9,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "bayesian-optimization",
+      "claude-code",
+      "codex-cli",
+      "hyperparameter-optimization",
+      "machine-learning",
+      "quantitative-finance",
+      "reinforcement-learning",
+      "skill"
+    ],
+    "created_at": "2026-07-07T17:05:54",
+    "updated_at": "2026-07-16T20:43:35"
   },
   {
     "name": "waggle",
     "full_name": "modiqo/waggle",
     "description": "Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-native; the reference layer for the agent-harness world.",
     "url": "https://github.com/modiqo/waggle",
-    "stars": 774,
-    "daily_stars": 11,
+    "stars": 779,
+    "daily_stars": 5,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -90,37 +131,73 @@
       "loop-engineering"
     ],
     "created_at": "2026-07-08T04:33:09",
-    "updated_at": "2026-07-16T17:41:10"
+    "updated_at": "2026-07-16T21:06:43"
   },
   {
-    "name": "clodex-ide",
-    "full_name": "mereyabdenbekuly-ctrl/clodex-ide",
-    "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
-    "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
-    "stars": 822,
-    "daily_stars": 7,
-    "language": "TypeScript",
+    "name": "J-Wash",
+    "full_name": "Extraltodeus/J-Wash",
+    "description": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
+    "url": "https://github.com/Extraltodeus/J-Wash",
+    "stars": 168,
+    "daily_stars": 3,
+    "language": "Python",
     "topics": [
-      "agentic-ai",
-      "agentic-ide",
-      "ai-agents",
-      "developer-tools",
-      "electron",
-      "ide",
-      "local-first",
-      "typescript",
-      "zero-trust"
+      "abliteration",
+      "ai",
+      "anthropic",
+      "artificial-intelligence",
+      "huggingface",
+      "interpretability",
+      "j-wash",
+      "jacobian-lens",
+      "large-language-models",
+      "llm",
+      "mechanistic-interpretability",
+      "model-editing",
+      "neural-networks",
+      "pytorch",
+      "research",
+      "steering",
+      "transformers",
+      "visualization"
     ],
-    "created_at": "2026-07-12T10:35:44",
-    "updated_at": "2026-07-16T17:41:06"
+    "created_at": "2026-07-13T20:23:26",
+    "updated_at": "2026-07-16T20:08:39"
+  },
+  {
+    "name": "OpenTag",
+    "full_name": "linxidnju/OpenTag",
+    "description": "Open-source, channel-native agent gateway for Slack. Route team threads to Claude Code, Codex, OpenCode, Docker, HTTP agents, and custom CLIs with policy, approvals, memory, audit logs, and artifacts.",
+    "url": "https://github.com/linxidnju/OpenTag",
+    "stars": 425,
+    "daily_stars": 3,
+    "language": "JavaScript",
+    "topics": [
+      "agent-gateway",
+      "ai-agents",
+      "automation",
+      "claude",
+      "claude-code",
+      "claude-tag",
+      "codex",
+      "developer-tools",
+      "mcp",
+      "nodejs",
+      "opencode",
+      "runtime-adapters",
+      "slack",
+      "team-collaboration"
+    ],
+    "created_at": "2026-06-27T08:10:47",
+    "updated_at": "2026-07-16T21:24:41"
   },
   {
     "name": "ai-memory-vault",
     "full_name": "jaredrhod/ai-memory-vault",
     "description": "Give your AI a real, persistent memory. The open-source system plus templates that turn an Obsidian vault into your AI's working memory. No vector database, just markdown.",
     "url": "https://github.com/jaredrhod/ai-memory-vault",
-    "stars": 281,
-    "daily_stars": 5,
+    "stars": 284,
+    "daily_stars": 3,
     "language": null,
     "topics": [
       "agent-memory",
@@ -145,95 +222,34 @@
       "second-brain"
     ],
     "created_at": "2026-06-18T01:17:27",
-    "updated_at": "2026-07-16T16:47:04"
+    "updated_at": "2026-07-16T21:02:05"
   },
   {
-    "name": "marketing-studio",
-    "full_name": "ucsandman/marketing-studio",
-    "description": "Agent-driven marketing studio for Claude Code: one /marketing command renders your product's full launch asset suite (logo reveal, demo, launch video, social clips, OG assets)",
-    "url": "https://github.com/ucsandman/marketing-studio",
-    "stars": 140,
-    "daily_stars": 5,
-    "language": "JavaScript",
+    "name": "pentestcode",
+    "full_name": "s0ld13rr/pentestcode",
+    "description": "PentestCode - Multi-agent AI penetration testing system with persistent engagement state, strategic coordination, and parallel autonomous operations.",
+    "url": "https://github.com/s0ld13rr/pentestcode",
+    "stars": 96,
+    "daily_stars": 3,
+    "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "blender",
-      "claude-code",
-      "marketing",
-      "remotion",
-      "video-generation"
-    ],
-    "created_at": "2026-07-10T08:00:22",
-    "updated_at": "2026-07-16T17:40:28"
-  },
-  {
-    "name": "optim-agent",
-    "full_name": "Optim-Agent/optim-agent",
-    "description": "LLM agents as your hyperparameter optimizer.",
-    "url": "https://github.com/Optim-Agent/optim-agent",
-    "stars": 110,
-    "daily_stars": 5,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "bayesian-optimization",
-      "claude-code",
-      "codex-cli",
-      "hyperparameter-optimization",
-      "machine-learning",
-      "quantitative-finance",
-      "reinforcement-learning",
-      "skill"
-    ],
-    "created_at": "2026-07-07T17:05:54",
-    "updated_at": "2026-07-16T17:22:09"
-  },
-  {
-    "name": "OpenTag",
-    "full_name": "linxidnju/OpenTag",
-    "description": "Open-source, channel-native agent gateway for Slack. Route team threads to Claude Code, Codex, OpenCode, Docker, HTTP agents, and custom CLIs with policy, approvals, memory, audit logs, and artifacts.",
-    "url": "https://github.com/linxidnju/OpenTag",
-    "stars": 422,
-    "daily_stars": 4,
-    "language": "JavaScript",
-    "topics": [
-      "agent-gateway",
-      "ai-agents",
-      "automation",
-      "claude",
-      "claude-code",
-      "claude-tag",
-      "codex",
-      "developer-tools",
-      "mcp",
-      "nodejs",
-      "opencode",
-      "runtime-adapters",
-      "slack",
-      "team-collaboration"
-    ],
-    "created_at": "2026-06-27T08:10:47",
-    "updated_at": "2026-07-16T17:18:43"
-  },
-  {
-    "name": "sample-specship",
-    "full_name": "aws-samples/sample-specship",
-    "description": "Spec-driven autonomous engineering workflow for AI coding agents: recon → plan → build → validate → ship — with TDD, adversarial validation, and anti-slop quality gates. Packaged as a Kiro Power.",
-    "url": "https://github.com/aws-samples/sample-specship",
-    "stars": 167,
-    "daily_stars": 4,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
+      "ai-security",
+      "ai-security-tool",
+      "anthropic",
       "autonomous-agents",
-      "code-generation",
-      "developer-tools",
-      "kiro",
-      "llm",
-      "spec-driven-development",
-      "tdd"
+      "autonomous-agents-system",
+      "gpt",
+      "multi-agent-system",
+      "offensive-security",
+      "openai",
+      "penetration-testing",
+      "penetration-testing-tools",
+      "pentest",
+      "security-automation",
+      "security-testing"
     ],
-    "created_at": "2026-07-10T09:54:06",
-    "updated_at": "2026-07-16T17:40:05"
+    "created_at": "2026-07-08T08:22:01",
+    "updated_at": "2026-07-16T21:11:11"
   }
 ]
