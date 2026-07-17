@@ -1,11 +1,33 @@
 [
   {
+    "name": "fable-method",
+    "full_name": "Sahir619/fable-method",
+    "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
+    "url": "https://github.com/Sahir619/fable-method",
+    "stars": 1393,
+    "daily_stars": 89,
+    "language": "JavaScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-md",
+      "coding-agent",
+      "evaluation",
+      "fable",
+      "llm"
+    ],
+    "created_at": "2026-07-06T22:35:18",
+    "updated_at": "2026-07-17T06:36:41"
+  },
+  {
     "name": "open-connector",
     "full_name": "oomol-lab/open-connector",
     "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
     "url": "https://github.com/oomol-lab/open-connector",
-    "stars": 2770,
-    "daily_stars": 32,
+    "stars": 2780,
+    "daily_stars": 10,
     "language": "TypeScript",
     "topics": [
       "agent-tools",
@@ -28,37 +50,54 @@
       "typescript"
     ],
     "created_at": "2026-06-29T10:49:36",
-    "updated_at": "2026-07-17T03:32:31"
+    "updated_at": "2026-07-17T05:51:56"
   },
   {
-    "name": "fable-method",
-    "full_name": "Sahir619/fable-method",
-    "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
-    "url": "https://github.com/Sahir619/fable-method",
-    "stars": 1304,
-    "daily_stars": 30,
-    "language": "JavaScript",
+    "name": "optim-agent",
+    "full_name": "Optim-Agent/optim-agent",
+    "description": "LLM agents as your hyperparameter optimizer.",
+    "url": "https://github.com/Optim-Agent/optim-agent",
+    "stars": 142,
+    "daily_stars": 9,
+    "language": "Python",
     "topics": [
       "agent-skills",
-      "ai-agents",
-      "claude",
+      "bayesian-optimization",
       "claude-code",
-      "claude-md",
-      "coding-agent",
-      "evaluation",
-      "fable",
-      "llm"
+      "codex-cli",
+      "hyperparameter-optimization",
+      "machine-learning",
+      "quantitative-finance",
+      "reinforcement-learning",
+      "skill"
     ],
-    "created_at": "2026-07-06T22:35:18",
-    "updated_at": "2026-07-17T03:42:57"
+    "created_at": "2026-07-07T17:05:54",
+    "updated_at": "2026-07-17T06:25:54"
+  },
+  {
+    "name": "waggle",
+    "full_name": "modiqo/waggle",
+    "description": "Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-native; the reference layer for the agent-harness world.",
+    "url": "https://github.com/modiqo/waggle",
+    "stars": 791,
+    "daily_stars": 4,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "harness-engineering",
+      "llm-tools",
+      "loop-engineering"
+    ],
+    "created_at": "2026-07-08T04:33:09",
+    "updated_at": "2026-07-17T06:25:36"
   },
   {
     "name": "clawk",
     "full_name": "clawkwork/clawk",
     "description": "Disposable, network-restricted Linux VMs for AI coding agents",
     "url": "https://github.com/clawkwork/clawk",
-    "stars": 659,
-    "daily_stars": 15,
+    "stars": 663,
+    "daily_stars": 4,
     "language": "Go",
     "topics": [
       "agent-sandbox",
@@ -73,125 +112,15 @@
       "vm"
     ],
     "created_at": "2026-07-06T21:30:38",
-    "updated_at": "2026-07-17T03:23:32"
-  },
-  {
-    "name": "optim-agent",
-    "full_name": "Optim-Agent/optim-agent",
-    "description": "LLM agents as your hyperparameter optimizer.",
-    "url": "https://github.com/Optim-Agent/optim-agent",
-    "stars": 133,
-    "daily_stars": 14,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "bayesian-optimization",
-      "claude-code",
-      "codex-cli",
-      "hyperparameter-optimization",
-      "machine-learning",
-      "quantitative-finance",
-      "reinforcement-learning",
-      "skill"
-    ],
-    "created_at": "2026-07-07T17:05:54",
-    "updated_at": "2026-07-17T02:39:16"
-  },
-  {
-    "name": "Capsomnia",
-    "full_name": "fuji-mak/Capsomnia",
-    "description": "A tiny macOS app that turns Caps Lock into a physical keep-awake switch for closed-lid MacBook work.",
-    "url": "https://github.com/fuji-mak/Capsomnia",
-    "stars": 254,
-    "daily_stars": 10,
-    "language": "Swift",
-    "topics": [
-      "ai-agents",
-      "appkit",
-      "caps-lock",
-      "developer-tools",
-      "macbook",
-      "macos",
-      "menu-bar",
-      "pmset",
-      "sleep",
-      "swift"
-    ],
-    "created_at": "2026-06-28T10:46:11",
-    "updated_at": "2026-07-17T03:33:28"
-  },
-  {
-    "name": "waggle",
-    "full_name": "modiqo/waggle",
-    "description": "Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-native; the reference layer for the agent-harness world.",
-    "url": "https://github.com/modiqo/waggle",
-    "stars": 787,
-    "daily_stars": 8,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "harness-engineering",
-      "llm-tools",
-      "loop-engineering"
-    ],
-    "created_at": "2026-07-08T04:33:09",
-    "updated_at": "2026-07-17T01:53:56"
-  },
-  {
-    "name": "marketing-studio",
-    "full_name": "ucsandman/marketing-studio",
-    "description": "Agent-driven marketing studio for Claude Code: one /marketing command renders your product's full launch asset suite (logo reveal, demo, launch video, social clips, OG assets)",
-    "url": "https://github.com/ucsandman/marketing-studio",
-    "stars": 157,
-    "daily_stars": 8,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "blender",
-      "claude-code",
-      "marketing",
-      "remotion",
-      "video-generation"
-    ],
-    "created_at": "2026-07-10T08:00:22",
-    "updated_at": "2026-07-17T02:42:39"
-  },
-  {
-    "name": "spec-superflow",
-    "full_name": "MageByte-Zero/spec-superflow",
-    "description": "连通需求说清楚和代码写对路的 AI 编程工作流插件。整合 OpenSpec 规划 + Superpowers 纪律，7 平台支持，Spec-first，契约驱动。",
-    "url": "https://github.com/MageByte-Zero/spec-superflow",
-    "stars": 543,
-    "daily_stars": 7,
-    "language": null,
-    "topics": [
-      "7-platforms",
-      "ai-coding",
-      "claude-code",
-      "codex",
-      "copilot-cli",
-      "cursor",
-      "gemini-cli",
-      "opencode",
-      "opensource",
-      "openspec",
-      "skills",
-      "spec-driven-development",
-      "superpowers",
-      "tdd",
-      "trae",
-      "workflow"
-    ],
-    "created_at": "2026-06-26T05:13:03",
-    "updated_at": "2026-07-17T02:47:27"
+    "updated_at": "2026-07-17T06:34:08"
   },
   {
     "name": "OpenTag",
     "full_name": "linxidnju/OpenTag",
     "description": "Open-source, channel-native agent gateway for Slack. Route team threads to Claude Code, Codex, OpenCode, Docker, HTTP agents, and custom CLIs with policy, approvals, memory, audit logs, and artifacts.",
     "url": "https://github.com/linxidnju/OpenTag",
-    "stars": 431,
-    "daily_stars": 6,
+    "stars": 435,
+    "daily_stars": 4,
     "language": "JavaScript",
     "topics": [
       "agent-gateway",
@@ -210,39 +139,99 @@
       "team-collaboration"
     ],
     "created_at": "2026-06-27T08:10:47",
-    "updated_at": "2026-07-17T03:23:35"
+    "updated_at": "2026-07-17T05:49:50"
   },
   {
-    "name": "ai-memory-vault",
-    "full_name": "jaredrhod/ai-memory-vault",
-    "description": "Give your AI a real, persistent memory. The open-source system plus templates that turn an Obsidian vault into your AI's working memory. No vector database, just markdown.",
-    "url": "https://github.com/jaredrhod/ai-memory-vault",
-    "stars": 290,
-    "daily_stars": 6,
-    "language": null,
+    "name": "ML-Executable-Malware-Detector",
+    "full_name": "surajsinghm/ML-Executable-Malware-Detector",
+    "description": "An offline, machine learning-powered static analysis tool that detects malware in Windows executables using LightGBM and the EMBER dataset.",
+    "url": "https://github.com/surajsinghm/ML-Executable-Malware-Detector",
+    "stars": 24,
+    "daily_stars": 4,
+    "language": "Python",
     "topics": [
-      "agent-memory",
+      "cybersecurity-tools",
+      "machine-learning",
+      "malware",
+      "malware-detection",
+      "ml"
+    ],
+    "created_at": "2026-07-11T04:28:20",
+    "updated_at": "2026-07-17T06:06:07"
+  },
+  {
+    "name": "agent-pulse",
+    "full_name": "barretlee/agent-pulse",
+    "description": "Curated AI industry intelligence timelines — technology, AGI, investment, commercialization, and China catch-up.",
+    "url": "https://github.com/barretlee/agent-pulse",
+    "stars": 201,
+    "daily_stars": 3,
+    "language": "TypeScript",
+    "topics": [
       "ai",
       "ai-agents",
-      "ai-memory",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "claude-skills",
-      "knowledge-management",
+      "ai-news",
+      "artificial-intelligence",
+      "fastify",
+      "github-actions",
+      "industry-analysis",
+      "knowledge-graph",
       "llm",
-      "local-first",
-      "markdown",
-      "mcp",
-      "memory",
-      "note-taking",
-      "obsidian",
-      "obsidian-md",
-      "obsidian-vault",
-      "pkm",
-      "second-brain"
+      "open-source-intelligence",
+      "sqlite",
+      "timeline",
+      "typescript"
     ],
-    "created_at": "2026-06-18T01:17:27",
-    "updated_at": "2026-07-17T02:06:28"
+    "created_at": "2026-07-11T14:38:25",
+    "updated_at": "2026-07-17T05:53:47"
+  },
+  {
+    "name": "sim-use",
+    "full_name": "lycorp-jp/sim-use",
+    "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
+    "url": "https://github.com/lycorp-jp/sim-use",
+    "stars": 931,
+    "daily_stars": 3,
+    "language": "Swift",
+    "topics": [
+      "accessibility",
+      "ai-agents",
+      "ai-development",
+      "android-emulator",
+      "ios-simulator",
+      "mobile-automation"
+    ],
+    "created_at": "2026-06-26T05:59:56",
+    "updated_at": "2026-07-17T06:26:37"
+  },
+  {
+    "name": "skyportalai",
+    "full_name": "SkyportalAi/skyportalai",
+    "description": "SkyPortal SDK & CLI - Open Source",
+    "url": "https://github.com/SkyportalAi/skyportalai",
+    "stars": 6,
+    "daily_stars": 2,
+    "language": "Python",
+    "topics": [
+      "ai-observability",
+      "anthropic",
+      "artificial-intelligence",
+      "devops",
+      "gpu-monitoring",
+      "grafana",
+      "inference",
+      "kubernetes",
+      "llm-observability",
+      "machine-learning",
+      "mlops",
+      "openai",
+      "opentelemetry",
+      "otel",
+      "prometheus",
+      "sre",
+      "vllm"
+    ],
+    "created_at": "2026-07-15T21:31:25",
+    "updated_at": "2026-07-17T06:26:29"
   }
 ]
