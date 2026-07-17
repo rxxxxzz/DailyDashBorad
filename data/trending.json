@@ -4,8 +4,8 @@
     "full_name": "Sahir619/fable-method",
     "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
     "url": "https://github.com/Sahir619/fable-method",
-    "stars": 1490,
-    "daily_stars": 97,
+    "stars": 1548,
+    "daily_stars": 58,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -19,15 +19,48 @@
       "llm"
     ],
     "created_at": "2026-07-06T22:35:18",
-    "updated_at": "2026-07-17T10:17:25"
+    "updated_at": "2026-07-17T14:09:43"
+  },
+  {
+    "name": "Orkas-VideoStudio",
+    "full_name": "Orkas-AI/Orkas-VideoStudio",
+    "description": "Turn your coding agent into a video studio: describe a video in plain language, and your agent writes the timeline and produces the file.",
+    "url": "https://github.com/Orkas-AI/Orkas-VideoStudio",
+    "stars": 271,
+    "daily_stars": 43,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "ai-video",
+      "cli",
+      "coding-agents",
+      "ffmpeg",
+      "generative-ai",
+      "hyperframes",
+      "local-first",
+      "mcp-server",
+      "motion-graphics",
+      "open-source",
+      "subtitles",
+      "text-to-video",
+      "tts",
+      "typescript",
+      "video-automation",
+      "video-composition",
+      "video-editing",
+      "video-generation",
+      "whisper-cpp"
+    ],
+    "created_at": "2026-06-30T14:34:58",
+    "updated_at": "2026-07-17T14:11:24"
   },
   {
     "name": "open-connector",
     "full_name": "oomol-lab/open-connector",
     "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
     "url": "https://github.com/oomol-lab/open-connector",
-    "stars": 2799,
-    "daily_stars": 19,
+    "stars": 2820,
+    "daily_stars": 21,
     "language": "TypeScript",
     "topics": [
       "agent-tools",
@@ -50,31 +83,14 @@
       "typescript"
     ],
     "created_at": "2026-06-29T10:49:36",
-    "updated_at": "2026-07-17T09:59:27"
-  },
-  {
-    "name": "waggle",
-    "full_name": "modiqo/waggle",
-    "description": "Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-native; the reference layer for the agent-harness world.",
-    "url": "https://github.com/modiqo/waggle",
-    "stars": 801,
-    "daily_stars": 10,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "harness-engineering",
-      "llm-tools",
-      "loop-engineering"
-    ],
-    "created_at": "2026-07-08T04:33:09",
-    "updated_at": "2026-07-17T10:10:44"
+    "updated_at": "2026-07-17T14:09:02"
   },
   {
     "name": "clawk",
     "full_name": "clawkwork/clawk",
     "description": "Disposable, network-restricted Linux VMs for AI coding agents",
     "url": "https://github.com/clawkwork/clawk",
-    "stars": 671,
+    "stars": 679,
     "daily_stars": 8,
     "language": "Go",
     "topics": [
@@ -90,37 +106,15 @@
       "vm"
     ],
     "created_at": "2026-07-06T21:30:38",
-    "updated_at": "2026-07-17T09:54:11"
-  },
-  {
-    "name": "awesome-ai-companion",
-    "full_name": "DasterProkio/awesome-ai-companion",
-    "description": "A curated list of open-source projects for building long-term AI companion relationships: frontends, backends, memory systems, hardware carriers, and world integrations.",
-    "url": "https://github.com/DasterProkio/awesome-ai-companion",
-    "stars": 187,
-    "daily_stars": 8,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "ai-companion",
-      "awesome-list",
-      "chatbot",
-      "llm",
-      "memory",
-      "open-source",
-      "self-hosted",
-      "virtual-companion"
-    ],
-    "created_at": "2026-07-03T04:24:24",
-    "updated_at": "2026-07-17T10:14:49"
+    "updated_at": "2026-07-17T14:07:32"
   },
   {
     "name": "optim-agent",
     "full_name": "Optim-Agent/optim-agent",
     "description": "LLM agents as your hyperparameter optimizer.",
     "url": "https://github.com/Optim-Agent/optim-agent",
-    "stars": 150,
-    "daily_stars": 8,
+    "stars": 156,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -134,33 +128,32 @@
       "skill"
     ],
     "created_at": "2026-07-07T17:05:54",
-    "updated_at": "2026-07-17T09:48:45"
+    "updated_at": "2026-07-17T12:53:30"
   },
   {
-    "name": "ML-Executable-Malware-Detector",
-    "full_name": "surajsinghm/ML-Executable-Malware-Detector",
-    "description": "An offline, machine learning-powered static analysis tool that detects malware in Windows executables using LightGBM and the EMBER dataset.",
-    "url": "https://github.com/surajsinghm/ML-Executable-Malware-Detector",
-    "stars": 31,
-    "daily_stars": 7,
-    "language": "Python",
+    "name": "waggle",
+    "full_name": "modiqo/waggle",
+    "description": "Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-native; the reference layer for the agent-harness world.",
+    "url": "https://github.com/modiqo/waggle",
+    "stars": 805,
+    "daily_stars": 4,
+    "language": "Rust",
     "topics": [
-      "cybersecurity-tools",
-      "machine-learning",
-      "malware",
-      "malware-detection",
-      "ml"
+      "ai-agents",
+      "harness-engineering",
+      "llm-tools",
+      "loop-engineering"
     ],
-    "created_at": "2026-07-11T04:28:20",
-    "updated_at": "2026-07-17T10:00:56"
+    "created_at": "2026-07-08T04:33:09",
+    "updated_at": "2026-07-17T12:57:43"
   },
   {
     "name": "gridgeist",
     "full_name": "ohmiler/gridgeist",
     "description": "Gridgeist turns product intent into a rigorous visual system—without the generic AI SaaS aftertaste.",
     "url": "https://github.com/ohmiler/gridgeist",
-    "stars": 75,
-    "daily_stars": 6,
+    "stars": 79,
+    "daily_stars": 4,
     "language": "HTML",
     "topics": [
       "agent-skills",
@@ -172,44 +165,82 @@
       "web-design"
     ],
     "created_at": "2026-07-13T11:41:52",
-    "updated_at": "2026-07-17T09:59:03"
+    "updated_at": "2026-07-17T13:44:00"
   },
   {
-    "name": "datafoundry",
-    "full_name": "datagallery-lab/datafoundry",
-    "description": "DataFoundry is an open-source AI workbench for data analysis, unifying data sources, knowledge, tools, and agent runtime into a governed workspace for interactive analytics.",
-    "url": "https://github.com/datagallery-lab/datafoundry",
-    "stars": 244,
-    "daily_stars": 5,
-    "language": "TypeScript",
+    "name": "awesome-gamedev-agent-skills",
+    "full_name": "gamedev-skills/awesome-gamedev-agent-skills",
+    "description": "Game-development Agent Skills for AI coding agents: install once and a master router loads the right skill for your engine and task. 66 original, version-pinned skills (plus a master router) in the portable SKILL.md format that runs across Claude Code, Cursor, Codex, Copilot, Gemini CLI and more, for Godot, Unity, Unreal, web and beyond.",
+    "url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+    "stars": 293,
+    "daily_stars": 3,
+    "language": "Python",
     "topics": [
-      "ag-ui",
-      "agent-runtime",
-      "ai",
+      "agent-skills",
       "ai-agents",
-      "data-analysis",
-      "data-sources",
-      "data-workbench",
-      "ink",
-      "mastra"
+      "antigravity",
+      "awesome-list",
+      "claude-code",
+      "cline",
+      "codex",
+      "cursor",
+      "game-development",
+      "gamedev",
+      "gemini-cli",
+      "github-copilot",
+      "godot",
+      "kiro",
+      "skills",
+      "unity",
+      "unreal",
+      "windsurf"
     ],
-    "created_at": "2026-06-18T07:03:43",
-    "updated_at": "2026-07-17T09:57:59"
+    "created_at": "2026-06-24T07:18:39",
+    "updated_at": "2026-07-17T14:04:33"
   },
   {
-    "name": "CodexHub",
-    "full_name": "Jurio0304/CodexHub",
-    "description": "CodexHub is a multi-server management console for Codex App SSH workflows. CodexHub 是面向 Codex App SSH 工作流的多服务器群管理控制台。",
-    "url": "https://github.com/Jurio0304/CodexHub",
-    "stars": 19,
-    "daily_stars": 5,
-    "language": "Rust",
+    "name": "nexus-llm-router",
+    "full_name": "Francis1998/nexus-llm-router",
+    "description": "Intelligent multi-LLM router with task-aware routing strategies, cost optimization, and production safety controls — drop-in OpenAI-compatible API",
+    "url": "https://github.com/Francis1998/nexus-llm-router",
+    "stars": 99,
+    "daily_stars": 3,
+    "language": "Python",
     "topics": [
-      "codex",
-      "ssh",
-      "workflow"
+      "ai-agents",
+      "ai-infrastructure",
+      "cost-optimization",
+      "llm-gateway",
+      "llm-router",
+      "mlops",
+      "multi-llm",
+      "openai-compatible",
+      "routing"
     ],
-    "created_at": "2026-06-30T14:19:08",
-    "updated_at": "2026-07-17T09:32:40"
+    "created_at": "2026-06-21T05:44:19",
+    "updated_at": "2026-07-17T13:48:50"
+  },
+  {
+    "name": "ai-engineer-jobs",
+    "full_name": "omgits0mar/ai-engineer-jobs",
+    "description": "A curated directory of 107 companies hiring for AI/ML/Data roles, with direct careers links — built for AI engineers to loop through and apply.",
+    "url": "https://github.com/omgits0mar/ai-engineer-jobs",
+    "stars": 57,
+    "daily_stars": 3,
+    "language": "HTML",
+    "topics": [
+      "ai-engineer",
+      "ai-jobs",
+      "awesome-list",
+      "careers",
+      "data-science",
+      "egypt",
+      "hiring",
+      "job-search",
+      "machine-learning",
+      "mena"
+    ],
+    "created_at": "2026-07-05T14:46:14",
+    "updated_at": "2026-07-17T13:01:33"
   }
 ]
