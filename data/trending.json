@@ -4,8 +4,8 @@
     "full_name": "Nexis-AI/NexBench",
     "description": "NEXBENCH measures what an autonomous agent can actually do on-chain — execute transactions, route swaps, bridge funds, manage DeFi positions, research tokens, catch drainers, reconstruct portfolios, and run treasury governance — across 214 tasks in 8 categories, each run 5 times against deterministic forked-mainnet environments.",
     "url": "https://github.com/Nexis-AI/NexBench",
-    "stars": 140,
-    "daily_stars": 41,
+    "stars": 159,
+    "daily_stars": 19,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -19,15 +19,15 @@
       "on-chain"
     ],
     "created_at": "2026-07-11T21:01:10",
-    "updated_at": "2026-07-18T03:34:56"
+    "updated_at": "2026-07-18T06:16:27"
   },
   {
     "name": "fable-method",
     "full_name": "Sahir619/fable-method",
     "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
     "url": "https://github.com/Sahir619/fable-method",
-    "stars": 1661,
-    "daily_stars": 37,
+    "stars": 1669,
+    "daily_stars": 8,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -41,68 +41,15 @@
       "llm"
     ],
     "created_at": "2026-07-06T22:35:18",
-    "updated_at": "2026-07-18T03:35:44"
-  },
-  {
-    "name": "open-connector",
-    "full_name": "oomol-lab/open-connector",
-    "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
-    "url": "https://github.com/oomol-lab/open-connector",
-    "stars": 2866,
-    "daily_stars": 17,
-    "language": "TypeScript",
-    "topics": [
-      "agent-tools",
-      "ai-agents",
-      "api-gateway",
-      "automation",
-      "cli",
-      "cloudflare-workers",
-      "connectors",
-      "integration-platform",
-      "mcp",
-      "model-context-protocol",
-      "oauth",
-      "oomol",
-      "openapi",
-      "openconnector",
-      "saas-integrations",
-      "sdk",
-      "self-hosted",
-      "typescript"
-    ],
-    "created_at": "2026-06-29T10:49:36",
-    "updated_at": "2026-07-18T03:27:17"
-  },
-  {
-    "name": "optim-agent",
-    "full_name": "Optim-Agent/optim-agent",
-    "description": "LLM agents as your hyperparameter optimizer.",
-    "url": "https://github.com/Optim-Agent/optim-agent",
-    "stars": 177,
-    "daily_stars": 15,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "bayesian-optimization",
-      "claude-code",
-      "codex-cli",
-      "hyperparameter-optimization",
-      "machine-learning",
-      "quantitative-finance",
-      "reinforcement-learning",
-      "skill"
-    ],
-    "created_at": "2026-07-07T17:05:54",
-    "updated_at": "2026-07-18T03:22:13"
+    "updated_at": "2026-07-18T05:21:51"
   },
   {
     "name": "LLMVault",
     "full_name": "CyberSunil/LLMVault",
     "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
     "url": "https://github.com/CyberSunil/LLMVault",
-    "stars": 157,
-    "daily_stars": 11,
+    "stars": 163,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "agent-security",
@@ -127,15 +74,88 @@
       "vulnerable-lab"
     ],
     "created_at": "2026-07-15T08:18:22",
-    "updated_at": "2026-07-18T03:02:11"
+    "updated_at": "2026-07-18T05:57:57"
+  },
+  {
+    "name": "optim-agent",
+    "full_name": "Optim-Agent/optim-agent",
+    "description": "LLM agents as your hyperparameter optimizer.",
+    "url": "https://github.com/Optim-Agent/optim-agent",
+    "stars": 183,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "bayesian-optimization",
+      "claude-code",
+      "codex-cli",
+      "hyperparameter-optimization",
+      "machine-learning",
+      "quantitative-finance",
+      "reinforcement-learning",
+      "skill"
+    ],
+    "created_at": "2026-07-07T17:05:54",
+    "updated_at": "2026-07-18T06:01:44"
+  },
+  {
+    "name": "open-connector",
+    "full_name": "oomol-lab/open-connector",
+    "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+    "url": "https://github.com/oomol-lab/open-connector",
+    "stars": 2871,
+    "daily_stars": 5,
+    "language": "TypeScript",
+    "topics": [
+      "agent-tools",
+      "ai-agents",
+      "api-gateway",
+      "automation",
+      "cli",
+      "cloudflare-workers",
+      "connectors",
+      "integration-platform",
+      "mcp",
+      "model-context-protocol",
+      "oauth",
+      "oomol",
+      "openapi",
+      "openconnector",
+      "saas-integrations",
+      "sdk",
+      "self-hosted",
+      "typescript"
+    ],
+    "created_at": "2026-06-29T10:49:36",
+    "updated_at": "2026-07-18T06:19:35"
+  },
+  {
+    "name": "Windows-Copilot-API",
+    "full_name": "sumitgautam0101/Windows-Copilot-API",
+    "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+    "url": "https://github.com/sumitgautam0101/Windows-Copilot-API",
+    "stars": 1138,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "api",
+      "copilot",
+      "llm",
+      "microsoft-copilot",
+      "openai"
+    ],
+    "created_at": "2026-06-19T13:24:44",
+    "updated_at": "2026-07-18T06:18:19"
   },
   {
     "name": "OpenTag",
     "full_name": "linxidnju/OpenTag",
     "description": "Open-source, channel-native agent gateway for Slack. Route team threads to Claude Code, Codex, OpenCode, Docker, HTTP agents, and custom CLIs with policy, approvals, memory, audit logs, and artifacts.",
     "url": "https://github.com/linxidnju/OpenTag",
-    "stars": 448,
-    "daily_stars": 5,
+    "stars": 451,
+    "daily_stars": 3,
     "language": "JavaScript",
     "topics": [
       "agent-gateway",
@@ -154,15 +174,15 @@
       "team-collaboration"
     ],
     "created_at": "2026-06-27T08:10:47",
-    "updated_at": "2026-07-18T02:37:03"
+    "updated_at": "2026-07-18T05:36:14"
   },
   {
     "name": "pentestcode",
     "full_name": "s0ld13rr/pentestcode",
     "description": "PentestCode - Multi-agent AI penetration testing system with persistent engagement state, strategic coordination, and parallel autonomous operations.",
     "url": "https://github.com/s0ld13rr/pentestcode",
-    "stars": 112,
-    "daily_stars": 5,
+    "stars": 115,
+    "daily_stars": 3,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -182,68 +202,45 @@
       "security-testing"
     ],
     "created_at": "2026-07-08T08:22:01",
-    "updated_at": "2026-07-18T03:31:51"
+    "updated_at": "2026-07-18T06:21:36"
   },
   {
-    "name": "clawk",
-    "full_name": "clawkwork/clawk",
-    "description": "Disposable, network-restricted Linux VMs for AI coding agents",
-    "url": "https://github.com/clawkwork/clawk",
-    "stars": 697,
-    "daily_stars": 4,
+    "name": "juggler",
+    "full_name": "juggler-ai/juggler",
+    "description": "The Juggler Code Agent",
+    "url": "https://github.com/juggler-ai/juggler",
+    "stars": 478,
+    "daily_stars": 2,
+    "language": "JavaScript",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "agents",
+      "ai-agents",
+      "coding-assistant"
+    ],
+    "created_at": "2026-06-19T08:33:59",
+    "updated_at": "2026-07-18T05:45:47"
+  },
+  {
+    "name": "boring-computers",
+    "full_name": "michaelshimeles/boring-computers",
+    "description": "On-demand Linux computers you can hand to an AI — real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them.",
+    "url": "https://github.com/michaelshimeles/boring-computers",
+    "stars": 267,
+    "daily_stars": 2,
     "language": "Go",
     "topics": [
-      "agent-sandbox",
-      "ai-agent-sandbox",
       "ai-agents",
-      "claude",
-      "claude-code",
-      "codex",
+      "computer-use",
+      "firecracker",
+      "golang",
+      "mcp",
       "microvm",
       "sandbox",
-      "virtualization",
-      "vm"
+      "svelte"
     ],
-    "created_at": "2026-07-06T21:30:38",
-    "updated_at": "2026-07-18T03:39:04"
-  },
-  {
-    "name": "texts-to-transformer",
-    "full_name": "Doriandarko/texts-to-transformer",
-    "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
-    "url": "https://github.com/Doriandarko/texts-to-transformer",
-    "stars": 405,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [
-      "apple-silicon",
-      "imessage",
-      "local-first",
-      "machine-learning",
-      "mlx",
-      "transformer"
-    ],
-    "created_at": "2026-07-08T08:12:17",
-    "updated_at": "2026-07-18T01:57:49"
-  },
-  {
-    "name": "Windows-Copilot-API",
-    "full_name": "sumitgautam0101/Windows-Copilot-API",
-    "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
-    "url": "https://github.com/sumitgautam0101/Windows-Copilot-API",
-    "stars": 1135,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "api",
-      "copilot",
-      "llm",
-      "microsoft-copilot",
-      "openai"
-    ],
-    "created_at": "2026-06-19T13:24:44",
-    "updated_at": "2026-07-18T03:30:46"
+    "created_at": "2026-06-30T04:25:16",
+    "updated_at": "2026-07-18T05:25:01"
   }
 ]
