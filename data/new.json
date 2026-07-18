@@ -5,7 +5,7 @@
     "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
     "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
     "stars": 833,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
       "agentic-ai",
@@ -19,7 +19,7 @@
       "zero-trust"
     ],
     "created_at": "2026-07-12T10:35:44",
-    "updated_at": "2026-07-17T18:20:18"
+    "updated_at": "2026-07-17T22:24:36"
   },
   {
     "name": "agent-pulse",
@@ -27,7 +27,7 @@
     "description": "Curated AI industry intelligence timelines — technology, AGI, investment, commercialization, and China catch-up.",
     "url": "https://github.com/barretlee/agent-pulse",
     "stars": 205,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -78,8 +78,8 @@
     "full_name": "aws-samples/sample-specship",
     "description": "Spec-driven autonomous engineering workflow for AI coding agents: recon → plan → build → validate → ship — with TDD, adversarial validation, and anti-slop quality gates. Packaged as a Kiro Power.",
     "url": "https://github.com/aws-samples/sample-specship",
-    "stars": 174,
-    "daily_stars": 0,
+    "stars": 175,
+    "daily_stars": 1,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -92,7 +92,7 @@
       "tdd"
     ],
     "created_at": "2026-07-10T09:54:06",
-    "updated_at": "2026-07-17T14:16:46"
+    "updated_at": "2026-07-17T22:32:48"
   },
   {
     "name": "J-Wash",
@@ -100,7 +100,7 @@
     "description": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
     "url": "https://github.com/Extraltodeus/J-Wash",
     "stars": 173,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "abliteration",
@@ -130,7 +130,7 @@
     "full_name": "ucsandman/marketing-studio",
     "description": "Agent-driven marketing studio for Claude Code: one /marketing command renders your product's full launch asset suite (logo reveal, demo, launch video, social clips, OG assets)",
     "url": "https://github.com/ucsandman/marketing-studio",
-    "stars": 165,
+    "stars": 166,
     "daily_stars": 1,
     "language": "JavaScript",
     "topics": [
@@ -142,15 +142,15 @@
       "video-generation"
     ],
     "created_at": "2026-07-10T08:00:22",
-    "updated_at": "2026-07-17T18:04:10"
+    "updated_at": "2026-07-17T21:47:10"
   },
   {
     "name": "LLMVault",
     "full_name": "CyberSunil/LLMVault",
     "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
     "url": "https://github.com/CyberSunil/LLMVault",
-    "stars": 146,
-    "daily_stars": 6,
+    "stars": 157,
+    "daily_stars": 11,
     "language": "Python",
     "topics": [
       "agent-security",
@@ -175,7 +175,29 @@
       "vulnerable-lab"
     ],
     "created_at": "2026-07-15T08:18:22",
-    "updated_at": "2026-07-17T21:02:20"
+    "updated_at": "2026-07-18T03:02:11"
+  },
+  {
+    "name": "NexBench",
+    "full_name": "Nexis-AI/NexBench",
+    "description": "NEXBENCH measures what an autonomous agent can actually do on-chain — execute transactions, route swaps, bridge funds, manage DeFi positions, research tokens, catch drainers, reconstruct portfolios, and run treasury governance — across 214 tasks in 8 categories, each run 5 times against deterministic forked-mainnet environments.",
+    "url": "https://github.com/Nexis-AI/NexBench",
+    "stars": 140,
+    "daily_stars": 41,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "benchmark",
+      "benchmark-framework",
+      "blockchain",
+      "durable-agents",
+      "llm",
+      "on-chain"
+    ],
+    "created_at": "2026-07-11T21:01:10",
+    "updated_at": "2026-07-18T03:34:56"
   },
   {
     "name": "loop.js",
@@ -204,51 +226,31 @@
     "updated_at": "2026-07-17T16:58:07"
   },
   {
-    "name": "project-r0x",
-    "full_name": "nhevers/project-r0x",
-    "description": "Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.",
-    "url": "https://github.com/nhevers/project-r0x",
-    "stars": 124,
+    "name": "claude-lane-stack",
+    "full_name": "VKirill/claude-lane-stack",
+    "description": "Multi-agent coding orchestration for Claude Code — AGY/Grok/Codex lanes, file contracts, auto-merge to main",
+    "url": "https://github.com/VKirill/claude-lane-stack",
+    "stars": 125,
     "daily_stars": 0,
-    "language": "TypeScript",
+    "language": "Python",
     "topics": [
+      "agentic-coding",
       "ai-agents",
-      "claude-code",
-      "facilitator",
-      "mcp",
-      "payments",
-      "robinhood-chain",
-      "sdk",
-      "stablecoin",
-      "typescript",
-      "usdg",
-      "web3",
-      "x402"
-    ],
-    "created_at": "2026-07-11T10:12:16",
-    "updated_at": "2026-07-15T06:15:10"
-  },
-  {
-    "name": "blitzos",
-    "full_name": "blitzdotdev/blitzos",
-    "description": "BlitzOS allows cloud agents to boot already knowing your work, and keep working with your laptop closed",
-    "url": "https://github.com/blitzdotdev/blitzos",
-    "stars": 123,
-    "daily_stars": 0,
-    "language": "JavaScript",
-    "topics": [
-      "agentic",
-      "ai-agents",
+      "ai-coding",
+      "automation",
       "claude",
       "claude-code",
-      "claude-md",
-      "cloud",
       "codex",
-      "codex-skill",
       "developer-tools",
-      "warm-start"
+      "git-worktree",
+      "llm",
+      "multi-agent",
+      "orchestration",
+      "orchestrator",
+      "solo-developer",
+      "subagents"
     ],
-    "created_at": "2026-07-13T23:44:04",
-    "updated_at": "2026-07-17T06:06:56"
+    "created_at": "2026-07-11T04:14:51",
+    "updated_at": "2026-07-18T00:53:09"
   }
 ]
