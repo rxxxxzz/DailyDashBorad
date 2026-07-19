@@ -4,8 +4,8 @@
     "full_name": "hoainho/img2threejs",
     "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
     "url": "https://github.com/hoainho/img2threejs",
-    "stars": 236,
-    "daily_stars": 29,
+    "stars": 290,
+    "daily_stars": 54,
     "language": "Python",
     "topics": [
       "3d",
@@ -20,132 +20,46 @@
       "webgl"
     ],
     "created_at": "2026-07-15T02:58:39",
-    "updated_at": "2026-07-19T10:04:41"
+    "updated_at": "2026-07-19T14:00:29"
   },
   {
-    "name": "activity-frames",
-    "full_name": "nossa-y/activity-frames",
-    "description": "Episodic memory for AI agents. Records your screen locally, compiles it into structured activity frames, serves them over MCP. No cloud, no LLM in the loop.",
-    "url": "https://github.com/nossa-y/activity-frames",
-    "stars": 135,
-    "daily_stars": 18,
-    "language": "Python",
-    "topics": [
-      "agent-memory",
-      "ai-agents",
-      "computer-use",
-      "context-engineering",
-      "episodic-memory",
-      "llm",
-      "mcp"
-    ],
-    "created_at": "2026-07-04T23:24:02",
-    "updated_at": "2026-07-19T09:58:07"
-  },
-  {
-    "name": "agentglass",
-    "full_name": "SirAllap/agentglass",
-    "description": "🛰 A loupe for your agents — a real-time Mission-Control dashboard and workspace for AI coding agents, across every provider and every project on your machine",
-    "url": "https://github.com/SirAllap/agentglass",
-    "stars": 92,
-    "daily_stars": 14,
+    "name": "project-os-for-codex",
+    "full_name": "herry2059/project-os-for-codex",
+    "description": "Open-source control plane for Codex projects: Git-backed context, visible agent progress, scoped MCP access, resumable work, and safe handoffs.",
+    "url": "https://github.com/herry2059/project-os-for-codex",
+    "stars": 103,
+    "daily_stars": 29,
     "language": "TypeScript",
     "topics": [
+      "agent-handoff",
       "ai-agents",
-      "anthropic",
-      "bun",
-      "claude-code",
-      "cost-tracking",
-      "dashboard",
-      "developer-tools",
-      "llm",
-      "observability",
-      "react",
-      "sqlite"
-    ],
-    "created_at": "2026-07-05T01:26:40",
-    "updated_at": "2026-07-19T10:01:44"
-  },
-  {
-    "name": "lucida",
-    "full_name": "egeorcun/lucida",
-    "description": "Background removal that keeps what matters: glass, camouflage, text, glow and line art. BiRefNet fine-tune, MIT.",
-    "url": "https://github.com/egeorcun/lucida",
-    "stars": 40,
-    "daily_stars": 13,
-    "language": "Python",
-    "topics": [
-      "background-removal",
-      "birefnet",
-      "camouflage",
-      "computer-vision",
-      "deep-learning",
-      "huggingface",
-      "image-matting",
-      "image-segmentation",
-      "pytorch",
-      "transparency"
-    ],
-    "created_at": "2026-07-10T18:49:13",
-    "updated_at": "2026-07-19T09:46:41"
-  },
-  {
-    "name": "paxm",
-    "full_name": "pax-beehive/paxm",
-    "description": "Persistent, provider-neutral memory for Codex, Claude Code, OpenCode, Pi, and MCP coding agents.",
-    "url": "https://github.com/pax-beehive/paxm",
-    "stars": 208,
-    "daily_stars": 11,
-    "language": "Go",
-    "topics": [
-      "agent-memory",
-      "ai-agents",
-      "claude-code",
+      "ai-coding",
+      "ai-project-management",
       "codex",
-      "golang",
-      "local-first",
+      "context-engineering",
+      "developer-tools",
+      "git",
+      "knowledge-base",
       "mcp",
-      "opencode",
-      "sqlite"
+      "model-context-protocol",
+      "open-source",
+      "project-management",
+      "project-tracker",
+      "react",
+      "self-hosted",
+      "typescript",
+      "workflow-automation"
     ],
-    "created_at": "2026-07-09T02:40:57",
-    "updated_at": "2026-07-19T10:06:01"
-  },
-  {
-    "name": "pentestcode",
-    "full_name": "s0ld13rr/pentestcode",
-    "description": "PentestCode - Multi-agent AI penetration testing system with persistent engagement state, strategic coordination, and parallel autonomous operations.",
-    "url": "https://github.com/s0ld13rr/pentestcode",
-    "stars": 185,
-    "daily_stars": 11,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "ai-security",
-      "ai-security-tool",
-      "anthropic",
-      "autonomous-agents",
-      "autonomous-agents-system",
-      "gpt",
-      "multi-agent-system",
-      "offensive-security",
-      "openai",
-      "penetration-testing",
-      "penetration-testing-tools",
-      "pentest",
-      "security-automation",
-      "security-testing"
-    ],
-    "created_at": "2026-07-08T08:22:01",
-    "updated_at": "2026-07-19T09:51:26"
+    "created_at": "2026-07-09T20:02:35",
+    "updated_at": "2026-07-19T13:14:07"
   },
   {
     "name": "open-connector",
     "full_name": "oomol-lab/open-connector",
     "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
     "url": "https://github.com/oomol-lab/open-connector",
-    "stars": 2961,
-    "daily_stars": 8,
+    "stars": 2978,
+    "daily_stars": 17,
     "language": "TypeScript",
     "topics": [
       "agent-tools",
@@ -168,37 +82,76 @@
       "typescript"
     ],
     "created_at": "2026-06-29T10:49:36",
-    "updated_at": "2026-07-19T09:42:40"
+    "updated_at": "2026-07-19T14:02:28"
   },
   {
-    "name": "fable-method",
-    "full_name": "Sahir619/fable-method",
-    "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
-    "url": "https://github.com/Sahir619/fable-method",
-    "stars": 1715,
-    "daily_stars": 8,
-    "language": "JavaScript",
+    "name": "activity-frames",
+    "full_name": "nossa-y/activity-frames",
+    "description": "Episodic memory for AI agents. Records your screen locally, compiles it into structured activity frames, serves them over MCP. No cloud, no LLM in the loop.",
+    "url": "https://github.com/nossa-y/activity-frames",
+    "stars": 152,
+    "daily_stars": 17,
+    "language": "Python",
     "topics": [
-      "agent-skills",
+      "agent-memory",
       "ai-agents",
-      "claude",
-      "claude-code",
-      "claude-md",
-      "coding-agent",
-      "evaluation",
-      "fable",
-      "llm"
+      "computer-use",
+      "context-engineering",
+      "episodic-memory",
+      "llm",
+      "mcp"
     ],
-    "created_at": "2026-07-06T22:35:18",
-    "updated_at": "2026-07-19T10:02:41"
+    "created_at": "2026-07-04T23:24:02",
+    "updated_at": "2026-07-19T14:00:27"
+  },
+  {
+    "name": "agentglass",
+    "full_name": "SirAllap/agentglass",
+    "description": "🛰 A loupe for your agents — a real-time Mission-Control dashboard and workspace for AI coding agents, across every provider and every project on your machine",
+    "url": "https://github.com/SirAllap/agentglass",
+    "stars": 109,
+    "daily_stars": 17,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "bun",
+      "claude-code",
+      "cost-tracking",
+      "dashboard",
+      "developer-tools",
+      "llm",
+      "observability",
+      "react",
+      "sqlite"
+    ],
+    "created_at": "2026-07-05T01:26:40",
+    "updated_at": "2026-07-19T13:45:52"
+  },
+  {
+    "name": "waggle",
+    "full_name": "modiqo/waggle",
+    "description": "Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-native; the reference layer for the agent-harness world.",
+    "url": "https://github.com/modiqo/waggle",
+    "stars": 871,
+    "daily_stars": 10,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "harness-engineering",
+      "llm-tools",
+      "loop-engineering"
+    ],
+    "created_at": "2026-07-08T04:33:09",
+    "updated_at": "2026-07-19T13:48:39"
   },
   {
     "name": "navop",
     "full_name": "feigeCode/navop",
     "description": "Navop combines Navigate and Operation—a unified workspace that helps developers navigate and operate databases, servers, terminals, and AI tools from one place.",
     "url": "https://github.com/feigeCode/navop",
-    "stars": 100,
-    "daily_stars": 6,
+    "stars": 108,
+    "daily_stars": 8,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -223,15 +176,61 @@
       "whiteboard"
     ],
     "created_at": "2026-07-10T06:01:54",
-    "updated_at": "2026-07-19T10:01:00"
+    "updated_at": "2026-07-19T13:29:48"
+  },
+  {
+    "name": "mcptrustchecker",
+    "full_name": "illiahaidar/mcptrustchecker",
+    "description": "MCP security scanner — offline, deterministic A–F Trust Score for Model Context Protocol servers. Detects tool poisoning, prompt injection & toxic flows.",
+    "url": "https://github.com/illiahaidar/mcptrustchecker",
+    "stars": 65,
+    "daily_stars": 7,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "mcp",
+      "mcp-protocol",
+      "mcp-security",
+      "mcp-servers",
+      "mcp-tools",
+      "model-context-protocol",
+      "modelcontextprotocol",
+      "prompt-injection",
+      "supply-chain-security"
+    ],
+    "created_at": "2026-07-13T16:18:48",
+    "updated_at": "2026-07-19T11:02:40"
+  },
+  {
+    "name": "fable-method",
+    "full_name": "Sahir619/fable-method",
+    "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
+    "url": "https://github.com/Sahir619/fable-method",
+    "stars": 1721,
+    "daily_stars": 6,
+    "language": "JavaScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-md",
+      "coding-agent",
+      "evaluation",
+      "fable",
+      "llm"
+    ],
+    "created_at": "2026-07-06T22:35:18",
+    "updated_at": "2026-07-19T13:50:21"
   },
   {
     "name": "optim-agent",
     "full_name": "Optim-Agent/optim-agent",
     "description": "LLM agents as your hyperparameter optimizer.",
     "url": "https://github.com/Optim-Agent/optim-agent",
-    "stars": 222,
-    "daily_stars": 4,
+    "stars": 228,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -245,6 +244,6 @@
       "skill"
     ],
     "created_at": "2026-07-07T17:05:54",
-    "updated_at": "2026-07-19T09:24:28"
+    "updated_at": "2026-07-19T13:10:35"
   }
 ]
