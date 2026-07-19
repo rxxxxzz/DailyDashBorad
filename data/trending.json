@@ -4,8 +4,8 @@
     "full_name": "hoainho/img2threejs",
     "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
     "url": "https://github.com/hoainho/img2threejs",
-    "stars": 177,
-    "daily_stars": 65,
+    "stars": 207,
+    "daily_stars": 30,
     "language": "Python",
     "topics": [
       "3d",
@@ -20,48 +20,80 @@
       "webgl"
     ],
     "created_at": "2026-07-15T02:58:39",
-    "updated_at": "2026-07-19T04:01:11"
+    "updated_at": "2026-07-19T06:48:17"
   },
   {
-    "name": "Orkas-VideoStudio",
-    "full_name": "Orkas-AI/Orkas-VideoStudio",
-    "description": "Turn your coding agent into a video studio: describe a video in plain language, and your agent writes the timeline and produces the file.",
-    "url": "https://github.com/Orkas-AI/Orkas-VideoStudio",
-    "stars": 326,
-    "daily_stars": 43,
-    "language": "TypeScript",
+    "name": "paxm",
+    "full_name": "pax-beehive/paxm",
+    "description": "Persistent, provider-neutral memory for Codex, Claude Code, OpenCode, Pi, and MCP coding agents.",
+    "url": "https://github.com/pax-beehive/paxm",
+    "stars": 197,
+    "daily_stars": 27,
+    "language": "Go",
     "topics": [
+      "agent-memory",
       "ai-agents",
-      "ai-video",
-      "cli",
-      "coding-agents",
-      "ffmpeg",
-      "generative-ai",
-      "hyperframes",
+      "claude-code",
+      "codex",
+      "golang",
       "local-first",
-      "mcp-server",
-      "motion-graphics",
-      "open-source",
-      "subtitles",
-      "text-to-video",
-      "tts",
-      "typescript",
-      "video-automation",
-      "video-composition",
-      "video-editing",
-      "video-generation",
-      "whisper-cpp"
+      "mcp",
+      "opencode",
+      "sqlite"
     ],
-    "created_at": "2026-06-30T14:34:58",
-    "updated_at": "2026-07-19T01:01:12"
+    "created_at": "2026-07-09T02:40:57",
+    "updated_at": "2026-07-19T07:04:03"
+  },
+  {
+    "name": "lucida",
+    "full_name": "egeorcun/lucida",
+    "description": "Background removal that keeps what matters: glass, camouflage, text, glow and line art. BiRefNet fine-tune, MIT.",
+    "url": "https://github.com/egeorcun/lucida",
+    "stars": 27,
+    "daily_stars": 23,
+    "language": "Python",
+    "topics": [
+      "background-removal",
+      "birefnet",
+      "camouflage",
+      "computer-vision",
+      "deep-learning",
+      "huggingface",
+      "image-matting",
+      "image-segmentation",
+      "pytorch",
+      "transparency"
+    ],
+    "created_at": "2026-07-10T18:49:13",
+    "updated_at": "2026-07-19T07:01:01"
+  },
+  {
+    "name": "activity-frames",
+    "full_name": "nossa-y/activity-frames",
+    "description": "Episodic memory for AI agents. Records your screen locally, compiles it into structured activity frames, serves them over MCP. No cloud, no LLM in the loop.",
+    "url": "https://github.com/nossa-y/activity-frames",
+    "stars": 117,
+    "daily_stars": 14,
+    "language": "Python",
+    "topics": [
+      "agent-memory",
+      "ai-agents",
+      "computer-use",
+      "context-engineering",
+      "episodic-memory",
+      "llm",
+      "mcp"
+    ],
+    "created_at": "2026-07-04T23:24:02",
+    "updated_at": "2026-07-19T07:04:01"
   },
   {
     "name": "open-connector",
     "full_name": "oomol-lab/open-connector",
     "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
     "url": "https://github.com/oomol-lab/open-connector",
-    "stars": 2945,
-    "daily_stars": 23,
+    "stars": 2953,
+    "daily_stars": 8,
     "language": "TypeScript",
     "topics": [
       "agent-tools",
@@ -84,64 +116,15 @@
       "typescript"
     ],
     "created_at": "2026-06-29T10:49:36",
-    "updated_at": "2026-07-19T03:31:11"
-  },
-  {
-    "name": "restaurant-digitalization-blueprint",
-    "full_name": "lofty14/restaurant-digitalization-blueprint",
-    "description": "餐饮连锁数字化 + AI 全景蓝图:原串(平价烤串连锁)的架构决策、业务口径、踩坑实录与可直接喂给 AI 的复刻指令。纯自然语言方案,不含代码与任何真实经营数据。",
-    "url": "https://github.com/lofty14/restaurant-digitalization-blueprint",
-    "stars": 90,
-    "daily_stars": 10,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-agents",
-      "blueprint",
-      "chinese",
-      "claude",
-      "digitalization",
-      "django",
-      "erp",
-      "food-and-beverage",
-      "llm",
-      "prompts",
-      "restaurant",
-      "saas",
-      "supply-chain"
-    ],
-    "created_at": "2026-07-16T05:53:33",
-    "updated_at": "2026-07-19T04:02:35"
-  },
-  {
-    "name": "fable-method",
-    "full_name": "Sahir619/fable-method",
-    "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
-    "url": "https://github.com/Sahir619/fable-method",
-    "stars": 1706,
-    "daily_stars": 8,
-    "language": "JavaScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "claude-md",
-      "coding-agent",
-      "evaluation",
-      "fable",
-      "llm"
-    ],
-    "created_at": "2026-07-06T22:35:18",
-    "updated_at": "2026-07-19T03:44:26"
+    "updated_at": "2026-07-19T06:45:27"
   },
   {
     "name": "optim-agent",
     "full_name": "Optim-Agent/optim-agent",
     "description": "LLM agents as your hyperparameter optimizer.",
     "url": "https://github.com/Optim-Agent/optim-agent",
-    "stars": 212,
-    "daily_stars": 8,
+    "stars": 218,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -155,57 +138,14 @@
       "skill"
     ],
     "created_at": "2026-07-07T17:05:54",
-    "updated_at": "2026-07-19T03:05:27"
-  },
-  {
-    "name": "clawk",
-    "full_name": "clawkwork/clawk",
-    "description": "Disposable, network-restricted Linux VMs for AI coding agents",
-    "url": "https://github.com/clawkwork/clawk",
-    "stars": 721,
-    "daily_stars": 6,
-    "language": "Go",
-    "topics": [
-      "agent-sandbox",
-      "ai-agent-sandbox",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "codex",
-      "microvm",
-      "sandbox",
-      "virtualization",
-      "vm"
-    ],
-    "created_at": "2026-07-06T21:30:38",
-    "updated_at": "2026-07-19T03:28:15"
-  },
-  {
-    "name": "activity-frames",
-    "full_name": "nossa-y/activity-frames",
-    "description": "Episodic memory for AI agents. Records your screen locally, compiles it into structured activity frames, serves them over MCP. No cloud, no LLM in the loop.",
-    "url": "https://github.com/nossa-y/activity-frames",
-    "stars": 103,
-    "daily_stars": 6,
-    "language": "Python",
-    "topics": [
-      "agent-memory",
-      "ai-agents",
-      "computer-use",
-      "context-engineering",
-      "episodic-memory",
-      "llm",
-      "mcp"
-    ],
-    "created_at": "2026-07-04T23:24:02",
-    "updated_at": "2026-07-19T03:44:57"
+    "updated_at": "2026-07-19T06:49:31"
   },
   {
     "name": "OpenTag",
     "full_name": "linxidnju/OpenTag",
     "description": "Open-source, channel-native agent gateway for Slack. Route team threads to Claude Code, Codex, OpenCode, Docker, HTTP agents, and custom CLIs with policy, approvals, memory, audit logs, and artifacts.",
     "url": "https://github.com/linxidnju/OpenTag",
-    "stars": 471,
+    "stars": 476,
     "daily_stars": 5,
     "language": "JavaScript",
     "topics": [
@@ -225,15 +165,15 @@
       "team-collaboration"
     ],
     "created_at": "2026-06-27T08:10:47",
-    "updated_at": "2026-07-19T03:23:50"
+    "updated_at": "2026-07-19T05:48:45"
   },
   {
     "name": "pentestcode",
     "full_name": "s0ld13rr/pentestcode",
     "description": "PentestCode - Multi-agent AI penetration testing system with persistent engagement state, strategic coordination, and parallel autonomous operations.",
     "url": "https://github.com/s0ld13rr/pentestcode",
-    "stars": 170,
-    "daily_stars": 5,
+    "stars": 174,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -253,6 +193,72 @@
       "security-testing"
     ],
     "created_at": "2026-07-08T08:22:01",
-    "updated_at": "2026-07-19T01:31:49"
+    "updated_at": "2026-07-19T06:41:59"
+  },
+  {
+    "name": "navop",
+    "full_name": "feigeCode/navop",
+    "description": "Navop combines Navigate and Operation—a unified workspace that helps developers navigate and operate databases, servers, terminals, and AI tools from one place.",
+    "url": "https://github.com/feigeCode/navop",
+    "stars": 94,
+    "daily_stars": 4,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "clickhouse",
+      "dameng",
+      "duckdb",
+      "iotdb",
+      "kingbase",
+      "markdown",
+      "mermaid",
+      "mssql",
+      "mysql",
+      "notes",
+      "openguardrails",
+      "oracle",
+      "port-forwarding",
+      "serial",
+      "sftp",
+      "sqlite",
+      "ssh",
+      "terminal",
+      "whiteboard"
+    ],
+    "created_at": "2026-07-10T06:01:54",
+    "updated_at": "2026-07-19T06:48:42"
+  },
+  {
+    "name": "LLMVault",
+    "full_name": "CyberSunil/LLMVault",
+    "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
+    "url": "https://github.com/CyberSunil/LLMVault",
+    "stars": 190,
+    "daily_stars": 3,
+    "language": "Python",
+    "topics": [
+      "agent-security",
+      "ai-security",
+      "ai-security-tool",
+      "artificial-intelligence",
+      "ctf",
+      "docker",
+      "genai",
+      "large-language-models",
+      "llm",
+      "llm-security",
+      "llm-security-testing",
+      "owasp",
+      "owasp-llm-top-10",
+      "penetration-testing",
+      "prompt-injection",
+      "prompt-injection-llm-security",
+      "python",
+      "rag",
+      "red-team",
+      "vulnerable-lab"
+    ],
+    "created_at": "2026-07-15T08:18:22",
+    "updated_at": "2026-07-19T06:28:25"
   }
 ]
