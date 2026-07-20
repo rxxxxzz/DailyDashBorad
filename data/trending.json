@@ -4,8 +4,8 @@
     "full_name": "hoainho/img2threejs",
     "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
     "url": "https://github.com/hoainho/img2threejs",
-    "stars": 435,
-    "daily_stars": 61,
+    "stars": 541,
+    "daily_stars": 106,
     "language": "Python",
     "topics": [
       "3d",
@@ -20,39 +20,89 @@
       "webgl"
     ],
     "created_at": "2026-07-15T02:58:39",
-    "updated_at": "2026-07-19T21:20:51"
+    "updated_at": "2026-07-20T04:12:46"
   },
   {
-    "name": "agentglass",
-    "full_name": "SirAllap/agentglass",
-    "description": "🛰 A loupe for your agents — a real-time Mission-Control dashboard and workspace for AI coding agents, across every provider and every project on your machine",
-    "url": "https://github.com/SirAllap/agentglass",
-    "stars": 127,
-    "daily_stars": 11,
+    "name": "Orkas-VideoStudio",
+    "full_name": "Orkas-AI/Orkas-VideoStudio",
+    "description": "Turn your coding agent into a video studio: describe a video in plain language, and your agent writes the timeline and produces the file.",
+    "url": "https://github.com/Orkas-AI/Orkas-VideoStudio",
+    "stars": 371,
+    "daily_stars": 43,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "anthropic",
-      "bun",
+      "ai-video",
+      "cli",
+      "coding-agents",
+      "ffmpeg",
+      "generative-ai",
+      "hyperframes",
+      "local-first",
+      "mcp-server",
+      "motion-graphics",
+      "open-source",
+      "subtitles",
+      "text-to-video",
+      "tts",
+      "typescript",
+      "video-automation",
+      "video-composition",
+      "video-editing",
+      "video-generation",
+      "whisper-cpp"
+    ],
+    "created_at": "2026-06-30T14:34:58",
+    "updated_at": "2026-07-19T23:49:13"
+  },
+  {
+    "name": "paxm",
+    "full_name": "pax-beehive/paxm",
+    "description": "Persistent, provider-neutral memory for Codex, Claude Code, OpenCode, Pi, and MCP coding agents.",
+    "url": "https://github.com/pax-beehive/paxm",
+    "stars": 243,
+    "daily_stars": 32,
+    "language": "Go",
+    "topics": [
+      "agent-memory",
+      "ai-agents",
       "claude-code",
-      "cost-tracking",
-      "dashboard",
-      "developer-tools",
-      "llm",
-      "observability",
-      "react",
+      "codex",
+      "golang",
+      "local-first",
+      "mcp",
+      "opencode",
       "sqlite"
     ],
-    "created_at": "2026-07-05T01:26:40",
-    "updated_at": "2026-07-19T21:23:41"
+    "created_at": "2026-07-09T02:40:57",
+    "updated_at": "2026-07-20T03:57:05"
+  },
+  {
+    "name": "sim-use",
+    "full_name": "lycorp-jp/sim-use",
+    "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
+    "url": "https://github.com/lycorp-jp/sim-use",
+    "stars": 963,
+    "daily_stars": 15,
+    "language": "Swift",
+    "topics": [
+      "accessibility",
+      "ai-agents",
+      "ai-development",
+      "android-emulator",
+      "ios-simulator",
+      "mobile-automation"
+    ],
+    "created_at": "2026-06-26T05:59:56",
+    "updated_at": "2026-07-20T04:07:06"
   },
   {
     "name": "optim-agent",
     "full_name": "Optim-Agent/optim-agent",
     "description": "LLM agents as your hyperparameter optimizer.",
     "url": "https://github.com/Optim-Agent/optim-agent",
-    "stars": 242,
-    "daily_stars": 9,
+    "stars": 254,
+    "daily_stars": 12,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -66,15 +116,15 @@
       "skill"
     ],
     "created_at": "2026-07-07T17:05:54",
-    "updated_at": "2026-07-19T21:23:21"
+    "updated_at": "2026-07-20T03:52:59"
   },
   {
     "name": "open-connector",
     "full_name": "oomol-lab/open-connector",
     "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
     "url": "https://github.com/oomol-lab/open-connector",
-    "stars": 2996,
-    "daily_stars": 7,
+    "stars": 3007,
+    "daily_stars": 11,
     "language": "TypeScript",
     "topics": [
       "agent-tools",
@@ -97,81 +147,15 @@
       "typescript"
     ],
     "created_at": "2026-06-29T10:49:36",
-    "updated_at": "2026-07-19T21:11:42"
-  },
-  {
-    "name": "lucida",
-    "full_name": "egeorcun/lucida",
-    "description": "Background removal that keeps what matters: glass, camouflage, text, glow and line art. BiRefNet fine-tune, MIT.",
-    "url": "https://github.com/egeorcun/lucida",
-    "stars": 61,
-    "daily_stars": 7,
-    "language": "Python",
-    "topics": [
-      "background-removal",
-      "birefnet",
-      "camouflage",
-      "computer-vision",
-      "deep-learning",
-      "huggingface",
-      "image-matting",
-      "image-segmentation",
-      "pytorch",
-      "transparency"
-    ],
-    "created_at": "2026-07-10T18:49:13",
-    "updated_at": "2026-07-19T21:01:09"
-  },
-  {
-    "name": "activity-frames",
-    "full_name": "nossa-y/activity-frames",
-    "description": "Episodic memory for AI agents. Records your screen locally, compiles it into structured activity frames, serves them over MCP. No cloud, no LLM in the loop.",
-    "url": "https://github.com/nossa-y/activity-frames",
-    "stars": 166,
-    "daily_stars": 6,
-    "language": "Python",
-    "topics": [
-      "agent-memory",
-      "ai-agents",
-      "computer-use",
-      "context-engineering",
-      "episodic-memory",
-      "llm",
-      "mcp"
-    ],
-    "created_at": "2026-07-04T23:24:02",
-    "updated_at": "2026-07-19T21:08:57"
-  },
-  {
-    "name": "clawk",
-    "full_name": "clawkwork/clawk",
-    "description": "Disposable, network-restricted Linux VMs for AI coding agents",
-    "url": "https://github.com/clawkwork/clawk",
-    "stars": 733,
-    "daily_stars": 5,
-    "language": "Go",
-    "topics": [
-      "agent-sandbox",
-      "ai-agent-sandbox",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "codex",
-      "microvm",
-      "sandbox",
-      "virtualization",
-      "vm"
-    ],
-    "created_at": "2026-07-06T21:30:38",
-    "updated_at": "2026-07-19T21:10:28"
+    "updated_at": "2026-07-20T04:05:02"
   },
   {
     "name": "OpenTag",
     "full_name": "linxidnju/OpenTag",
     "description": "Open-source, channel-native agent gateway for Slack. Route team threads to Claude Code, Codex, OpenCode, Docker, HTTP agents, and custom CLIs with policy, approvals, memory, audit logs, and artifacts.",
     "url": "https://github.com/linxidnju/OpenTag",
-    "stars": 489,
-    "daily_stars": 5,
+    "stars": 500,
+    "daily_stars": 11,
     "language": "JavaScript",
     "topics": [
       "agent-gateway",
@@ -190,61 +174,70 @@
       "team-collaboration"
     ],
     "created_at": "2026-06-27T08:10:47",
-    "updated_at": "2026-07-19T21:03:26"
+    "updated_at": "2026-07-20T04:09:45"
   },
   {
-    "name": "LLMVault",
-    "full_name": "CyberSunil/LLMVault",
-    "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
-    "url": "https://github.com/CyberSunil/LLMVault",
-    "stars": 200,
-    "daily_stars": 3,
-    "language": "Python",
+    "name": "agentglass",
+    "full_name": "SirAllap/agentglass",
+    "description": "🛰 A loupe for your agents — a real-time Mission-Control dashboard and workspace for AI coding agents, across every provider and every project on your machine",
+    "url": "https://github.com/SirAllap/agentglass",
+    "stars": 138,
+    "daily_stars": 11,
+    "language": "TypeScript",
     "topics": [
-      "agent-security",
-      "ai-security",
-      "ai-security-tool",
-      "artificial-intelligence",
-      "ctf",
-      "docker",
-      "genai",
-      "large-language-models",
+      "ai-agents",
+      "anthropic",
+      "bun",
+      "claude-code",
+      "cost-tracking",
+      "dashboard",
+      "developer-tools",
       "llm",
-      "llm-security",
-      "llm-security-testing",
-      "owasp",
-      "owasp-llm-top-10",
-      "penetration-testing",
-      "prompt-injection",
-      "prompt-injection-llm-security",
-      "python",
-      "rag",
-      "red-team",
-      "vulnerable-lab"
+      "observability",
+      "react",
+      "sqlite"
     ],
-    "created_at": "2026-07-15T08:18:22",
-    "updated_at": "2026-07-19T19:57:05"
+    "created_at": "2026-07-05T01:26:40",
+    "updated_at": "2026-07-20T01:53:15"
   },
   {
-    "name": "fable-method",
-    "full_name": "Sahir619/fable-method",
-    "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
-    "url": "https://github.com/Sahir619/fable-method",
-    "stars": 1726,
-    "daily_stars": 3,
-    "language": "JavaScript",
+    "name": "clawk",
+    "full_name": "clawkwork/clawk",
+    "description": "Disposable, network-restricted Linux VMs for AI coding agents",
+    "url": "https://github.com/clawkwork/clawk",
+    "stars": 742,
+    "daily_stars": 9,
+    "language": "Go",
     "topics": [
-      "agent-skills",
+      "agent-sandbox",
+      "ai-agent-sandbox",
       "ai-agents",
       "claude",
       "claude-code",
-      "claude-md",
-      "coding-agent",
-      "evaluation",
-      "fable",
-      "llm"
+      "codex",
+      "microvm",
+      "sandbox",
+      "virtualization",
+      "vm"
     ],
-    "created_at": "2026-07-06T22:35:18",
-    "updated_at": "2026-07-19T21:17:36"
+    "created_at": "2026-07-06T21:30:38",
+    "updated_at": "2026-07-20T04:10:37"
+  },
+  {
+    "name": "waggle",
+    "full_name": "modiqo/waggle",
+    "description": "Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-native; the reference layer for the agent-harness world.",
+    "url": "https://github.com/modiqo/waggle",
+    "stars": 893,
+    "daily_stars": 7,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "harness-engineering",
+      "llm-tools",
+      "loop-engineering"
+    ],
+    "created_at": "2026-07-08T04:33:09",
+    "updated_at": "2026-07-20T02:46:08"
   }
 ]
