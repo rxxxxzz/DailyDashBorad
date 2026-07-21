@@ -4,8 +4,8 @@
     "full_name": "hoainho/img2threejs",
     "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
     "url": "https://github.com/hoainho/img2threejs",
-    "stars": 1166,
-    "daily_stars": 74,
+    "stars": 1242,
+    "daily_stars": 76,
     "language": "Python",
     "topics": [
       "3d",
@@ -20,15 +20,15 @@
       "webgl"
     ],
     "created_at": "2026-07-15T02:58:39",
-    "updated_at": "2026-07-21T07:06:46"
+    "updated_at": "2026-07-21T10:27:02"
   },
   {
     "name": "light-ocr",
     "full_name": "arcships/light-ocr",
     "description": "Fast, offline OCR for Node.js & C++. PP-OCRv6 with Core ML / WebGPU hardware acceleration — recognize text in images with confidence scores & coordinates. npm: @arcships/light-ocr",
     "url": "https://github.com/arcships/light-ocr",
-    "stars": 337,
-    "daily_stars": 0,
+    "stars": 339,
+    "daily_stars": 2,
     "language": "C++",
     "topics": [
       "apple-silicon",
@@ -53,15 +53,15 @@
       "webgpu"
     ],
     "created_at": "2026-07-14T01:32:23",
-    "updated_at": "2026-07-21T07:00:36"
+    "updated_at": "2026-07-21T09:28:55"
   },
   {
     "name": "agentsmith",
     "full_name": "PromptPartner/agentsmith",
     "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
     "url": "https://github.com/PromptPartner/agentsmith",
-    "stars": 315,
-    "daily_stars": 1,
+    "stars": 314,
+    "daily_stars": -1,
     "language": "Shell",
     "topics": [
       "agentic-ai",
@@ -82,15 +82,66 @@
       "vibe-coding"
     ],
     "created_at": "2026-07-16T11:37:15",
-    "updated_at": "2026-07-21T04:25:30"
+    "updated_at": "2026-07-21T09:43:50"
+  },
+  {
+    "name": "video-shotcraft",
+    "full_name": "Vincentwei1021/video-shotcraft",
+    "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+    "url": "https://github.com/Vincentwei1021/video-shotcraft",
+    "stars": 281,
+    "daily_stars": 88,
+    "language": "TypeScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-video",
+      "claude-code",
+      "claude-code-skills",
+      "claude-skills",
+      "codex",
+      "motion-design",
+      "motion-graphics",
+      "product-video",
+      "promo-video",
+      "remotion",
+      "video-generation",
+      "video-production"
+    ],
+    "created_at": "2026-07-19T11:44:41",
+    "updated_at": "2026-07-21T10:35:20"
+  },
+  {
+    "name": "Agent-Execution-Partnership",
+    "full_name": "eli-labz/Agent-Execution-Partnership",
+    "description": "Agent Execution Partnership AEE is an open-source control plane that ensures every AI agent action is authorized before it runs, observable while it runs, and verifiable after it completes.",
+    "url": "https://github.com/eli-labz/Agent-Execution-Partnership",
+    "stars": 242,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [
+      "agent-safety",
+      "ai-agents",
+      "ai-governance",
+      "ai-safety",
+      "audit-trail",
+      "autonomous-agents",
+      "control-plane",
+      "llm-agents",
+      "mlops",
+      "policy-engine",
+      "python"
+    ],
+    "created_at": "2026-07-20T22:45:38",
+    "updated_at": "2026-07-21T10:36:49"
   },
   {
     "name": "skills",
     "full_name": "CodeDrobe/skills",
     "description": "Agent Skills for theming AI desktop apps: reference image → reversible Codex/WorkBuddy skin → verify, repair, publish. | 给 AI 桌面应用换肤的 Agent Skills：参考图 → 可逆皮肤 → 验证、修复、发布。",
     "url": "https://github.com/CodeDrobe/skills",
-    "stars": 218,
-    "daily_stars": 3,
+    "stars": 222,
+    "daily_stars": 4,
     "language": "CSS",
     "topics": [
       "agent-skills",
@@ -105,15 +156,15 @@
       "theming"
     ],
     "created_at": "2026-07-15T20:36:32",
-    "updated_at": "2026-07-21T05:49:04"
+    "updated_at": "2026-07-21T10:10:31"
   },
   {
     "name": "LLMVault",
     "full_name": "CyberSunil/LLMVault",
     "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
     "url": "https://github.com/CyberSunil/LLMVault",
-    "stars": 217,
-    "daily_stars": 2,
+    "stars": 220,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "agent-security",
@@ -138,34 +189,7 @@
       "vulnerable-lab"
     ],
     "created_at": "2026-07-15T08:18:22",
-    "updated_at": "2026-07-21T06:10:08"
-  },
-  {
-    "name": "video-shotcraft",
-    "full_name": "Vincentwei1021/video-shotcraft",
-    "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-    "url": "https://github.com/Vincentwei1021/video-shotcraft",
-    "stars": 193,
-    "daily_stars": 60,
-    "language": "TypeScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "ai-video",
-      "claude-code",
-      "claude-code-skills",
-      "claude-skills",
-      "codex",
-      "motion-design",
-      "motion-graphics",
-      "product-video",
-      "promo-video",
-      "remotion",
-      "video-generation",
-      "video-production"
-    ],
-    "created_at": "2026-07-19T11:44:41",
-    "updated_at": "2026-07-21T07:05:17"
+    "updated_at": "2026-07-21T10:30:07"
   },
   {
     "name": "J-Wash",
@@ -203,8 +227,8 @@
     "full_name": "KlaatAI/klaatcode",
     "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
     "url": "https://github.com/KlaatAI/klaatcode",
-    "stars": 174,
-    "daily_stars": 0,
+    "stars": 178,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
       "agentic-ai",
@@ -229,14 +253,14 @@
       "terminal"
     ],
     "created_at": "2026-07-17T11:38:10",
-    "updated_at": "2026-07-21T00:29:10"
+    "updated_at": "2026-07-21T10:25:01"
   },
   {
     "name": "klaatcode",
     "full_name": "KlaatAI/klaatcode",
     "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
     "url": "https://github.com/KlaatAI/klaatcode",
-    "stars": 174,
+    "stars": 178,
     "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
@@ -262,29 +286,6 @@
       "terminal"
     ],
     "created_at": "2026-07-17T11:38:10",
-    "updated_at": "2026-07-21T00:29:10"
-  },
-  {
-    "name": "blitzos",
-    "full_name": "blitzdotdev/blitzos",
-    "description": "BlitzOS allows cloud agents to boot already knowing your work, and keep working with your laptop closed",
-    "url": "https://github.com/blitzdotdev/blitzos",
-    "stars": 134,
-    "daily_stars": 0,
-    "language": "JavaScript",
-    "topics": [
-      "agentic",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "claude-md",
-      "cloud",
-      "codex",
-      "codex-skill",
-      "developer-tools",
-      "warm-start"
-    ],
-    "created_at": "2026-07-13T23:44:04",
-    "updated_at": "2026-07-21T02:59:32"
+    "updated_at": "2026-07-21T10:25:01"
   }
 ]
