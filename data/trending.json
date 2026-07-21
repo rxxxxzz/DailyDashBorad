@@ -4,8 +4,8 @@
     "full_name": "hoainho/img2threejs",
     "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
     "url": "https://github.com/hoainho/img2threejs",
-    "stars": 1316,
-    "daily_stars": 74,
+    "stars": 1381,
+    "daily_stars": 65,
     "language": "Python",
     "topics": [
       "3d",
@@ -20,15 +20,15 @@
       "webgl"
     ],
     "created_at": "2026-07-15T02:58:39",
-    "updated_at": "2026-07-21T14:26:11"
+    "updated_at": "2026-07-21T17:45:45"
   },
   {
     "name": "video-shotcraft",
     "full_name": "Vincentwei1021/video-shotcraft",
     "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
     "url": "https://github.com/Vincentwei1021/video-shotcraft",
-    "stars": 340,
-    "daily_stars": 59,
+    "stars": 384,
+    "daily_stars": 44,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -47,15 +47,15 @@
       "video-production"
     ],
     "created_at": "2026-07-19T11:44:41",
-    "updated_at": "2026-07-21T14:29:13"
+    "updated_at": "2026-07-21T17:36:36"
   },
   {
     "name": "paxm",
     "full_name": "pax-beehive/paxm",
     "description": "Persistent, provider-neutral memory for Codex, Claude Code, OpenCode, Pi, and MCP coding agents.",
     "url": "https://github.com/pax-beehive/paxm",
-    "stars": 230,
-    "daily_stars": 13,
+    "stars": 236,
+    "daily_stars": 6,
     "language": "Go",
     "topics": [
       "agent-memory",
@@ -69,15 +69,73 @@
       "sqlite"
     ],
     "created_at": "2026-07-09T02:40:57",
-    "updated_at": "2026-07-21T14:28:31"
+    "updated_at": "2026-07-21T17:23:22"
+  },
+  {
+    "name": "light-ocr",
+    "full_name": "arcships/light-ocr",
+    "description": "Fast, offline OCR for Node.js & C++. PP-OCRv6 with Core ML / WebGPU hardware acceleration — recognize text in images with confidence scores & coordinates. npm: @arcships/light-ocr",
+    "url": "https://github.com/arcships/light-ocr",
+    "stars": 346,
+    "daily_stars": 6,
+    "language": "C++",
+    "topics": [
+      "apple-silicon",
+      "computer-vision",
+      "coreml",
+      "cpp17",
+      "d3d12",
+      "image-processing",
+      "machine-learning",
+      "napi",
+      "native-addon",
+      "nodejs",
+      "nvidia",
+      "ocr",
+      "ocr-recognition",
+      "offline-ocr",
+      "paddleocr",
+      "ppocr",
+      "text-recognition",
+      "typescript",
+      "vulkan",
+      "webgpu"
+    ],
+    "created_at": "2026-07-14T01:32:23",
+    "updated_at": "2026-07-21T17:19:30"
+  },
+  {
+    "name": "vendo",
+    "full_name": "runvendo/vendo",
+    "description": "Embedded agents your customers use to automate work, build views, and connect their tools.",
+    "url": "https://github.com/runvendo/vendo",
+    "stars": 88,
+    "daily_stars": 5,
+    "language": "TypeScript",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "automation",
+      "devtools",
+      "embedded-ai",
+      "generative-ui",
+      "llm",
+      "nextjs",
+      "react",
+      "sdk",
+      "typescript"
+    ],
+    "created_at": "2026-06-30T06:42:46",
+    "updated_at": "2026-07-21T17:45:28"
   },
   {
     "name": "open-connector",
     "full_name": "oomol-lab/open-connector",
     "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
     "url": "https://github.com/oomol-lab/open-connector",
-    "stars": 3050,
-    "daily_stars": 9,
+    "stars": 3054,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
       "agent-tools",
@@ -100,58 +158,62 @@
       "typescript"
     ],
     "created_at": "2026-06-29T10:49:36",
-    "updated_at": "2026-07-21T13:52:24"
+    "updated_at": "2026-07-21T17:03:11"
   },
   {
-    "name": "pilotfish",
-    "full_name": "Nanako0129/pilotfish",
-    "description": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
-    "url": "https://github.com/Nanako0129/pilotfish",
-    "stars": 516,
-    "daily_stars": 8,
-    "language": null,
+    "name": "OpenTag",
+    "full_name": "linxidnju/OpenTag",
+    "description": "Open-source, channel-native agent gateway for Slack. Route team threads to Claude Code, Codex, OpenCode, Docker, HTTP agents, and custom CLIs with policy, approvals, memory, audit logs, and artifacts.",
+    "url": "https://github.com/linxidnju/OpenTag",
+    "stars": 547,
+    "daily_stars": 4,
+    "language": "JavaScript",
     "topics": [
+      "agent-gateway",
       "ai-agents",
-      "anthropic",
+      "automation",
       "claude",
       "claude-code",
-      "multi-agent",
-      "orchestration"
+      "claude-tag",
+      "codex",
+      "developer-tools",
+      "mcp",
+      "nodejs",
+      "opencode",
+      "runtime-adapters",
+      "slack",
+      "team-collaboration"
     ],
-    "created_at": "2026-07-08T10:53:34",
-    "updated_at": "2026-07-21T14:13:17"
+    "created_at": "2026-06-27T08:10:47",
+    "updated_at": "2026-07-21T16:34:27"
   },
   {
-    "name": "Agent-Execution-Partnership",
-    "full_name": "eli-labz/Agent-Execution-Partnership",
-    "description": "Agent Execution Partnership AEE is an open-source control plane that ensures every AI agent action is authorized before it runs, observable while it runs, and verifiable after it completes.",
-    "url": "https://github.com/eli-labz/Agent-Execution-Partnership",
-    "stars": 250,
-    "daily_stars": 8,
+    "name": "activity-frames",
+    "full_name": "nossa-y/activity-frames",
+    "description": "Episodic memory for AI agents. Records your screen locally, compiles it into structured activity frames, serves them over MCP. No cloud, no LLM in the loop.",
+    "url": "https://github.com/nossa-y/activity-frames",
+    "stars": 206,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
-      "agent-safety",
+      "agent-memory",
       "ai-agents",
-      "ai-governance",
-      "ai-safety",
-      "audit-trail",
-      "autonomous-agents",
-      "control-plane",
-      "llm-agents",
-      "mlops",
-      "policy-engine",
-      "python"
+      "computer-use",
+      "context-engineering",
+      "episodic-memory",
+      "llm",
+      "mcp"
     ],
-    "created_at": "2026-07-20T22:45:38",
-    "updated_at": "2026-07-21T10:43:46"
+    "created_at": "2026-07-04T23:24:02",
+    "updated_at": "2026-07-21T15:48:38"
   },
   {
     "name": "agentglass",
     "full_name": "SirAllap/agentglass",
     "description": "🛰 A loupe for your agents — a real-time Mission-Control dashboard and workspace for AI coding agents, across every provider and every project on your machine",
     "url": "https://github.com/SirAllap/agentglass",
-    "stars": 174,
-    "daily_stars": 8,
+    "stars": 178,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -167,75 +229,27 @@
       "sqlite"
     ],
     "created_at": "2026-07-05T01:26:40",
-    "updated_at": "2026-07-21T12:03:15"
+    "updated_at": "2026-07-21T17:31:41"
   },
   {
-    "name": "proto-tools",
-    "full_name": "evo-design/proto-tools",
-    "description": "A universal infrastructure layer for generative biology",
-    "url": "https://github.com/evo-design/proto-tools",
-    "stars": 100,
-    "daily_stars": 7,
-    "language": "Python",
-    "topics": [
-      "bioengineering",
-      "bioinformatics",
-      "generative-biology",
-      "machine-learning"
-    ],
-    "created_at": "2026-06-23T10:07:15",
-    "updated_at": "2026-07-21T12:58:30"
-  },
-  {
-    "name": "collective-intelligence",
-    "full_name": "ailinone/collective-intelligence",
-    "description": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
-    "url": "https://github.com/ailinone/collective-intelligence",
-    "stars": 18,
-    "daily_stars": 5,
+    "name": "Dormice",
+    "full_name": "BitMiracle-AI/Dormice",
+    "description": "The SQLite of agent sandboxes — self-hosted, E2B-compatible. One machine, sandboxes that live forever, idle costs nothing.",
+    "url": "https://github.com/BitMiracle-AI/Dormice",
+    "stars": 110,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
-      "ai",
+      "agents",
       "ai-agents",
-      "artificial-intelligence",
-      "collective",
-      "collective-intelligence",
-      "consensus",
+      "code-execution",
       "docker",
-      "gateway",
-      "genai",
-      "llm",
-      "multi-agent",
-      "open-source",
-      "openai-compatible",
-      "openapi",
-      "orchestration",
-      "orchestrator",
-      "orchestrator-engine",
-      "python",
-      "self-hosted",
-      "typescript"
+      "e2b",
+      "gvisor",
+      "sandbox",
+      "self-hosted"
     ],
-    "created_at": "2026-07-20T00:17:45",
-    "updated_at": "2026-07-21T14:04:44"
-  },
-  {
-    "name": "sim-use",
-    "full_name": "lycorp-jp/sim-use",
-    "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
-    "url": "https://github.com/lycorp-jp/sim-use",
-    "stars": 1037,
-    "daily_stars": 5,
-    "language": "Swift",
-    "topics": [
-      "accessibility",
-      "ai-agents",
-      "ai-development",
-      "android-emulator",
-      "ios-simulator",
-      "mobile-automation"
-    ],
-    "created_at": "2026-06-26T05:59:56",
-    "updated_at": "2026-07-21T14:25:28"
+    "created_at": "2026-07-08T13:02:44",
+    "updated_at": "2026-07-21T17:48:24"
   }
 ]
