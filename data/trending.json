@@ -4,8 +4,8 @@
     "full_name": "hoainho/img2threejs",
     "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
     "url": "https://github.com/hoainho/img2threejs",
-    "stars": 1619,
-    "daily_stars": 87,
+    "stars": 1736,
+    "daily_stars": 117,
     "language": "Python",
     "topics": [
       "3d",
@@ -20,15 +20,37 @@
       "webgl"
     ],
     "created_at": "2026-07-15T02:58:39",
-    "updated_at": "2026-07-22T07:09:15"
+    "updated_at": "2026-07-22T10:37:07"
+  },
+  {
+    "name": "paxm",
+    "full_name": "pax-beehive/paxm",
+    "description": "Persistent, provider-neutral memory for Codex, Claude Code, OpenCode, Pi, and MCP coding agents.",
+    "url": "https://github.com/pax-beehive/paxm",
+    "stars": 304,
+    "daily_stars": 58,
+    "language": "Go",
+    "topics": [
+      "agent-memory",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "golang",
+      "local-first",
+      "mcp",
+      "opencode",
+      "sqlite"
+    ],
+    "created_at": "2026-07-09T02:40:57",
+    "updated_at": "2026-07-22T09:26:50"
   },
   {
     "name": "vendo",
     "full_name": "runvendo/vendo",
     "description": "Embedded agents your customers use to automate work, build views, and connect their tools.",
     "url": "https://github.com/runvendo/vendo",
-    "stars": 173,
-    "daily_stars": 16,
+    "stars": 196,
+    "daily_stars": 23,
     "language": "TypeScript",
     "topics": [
       "agents",
@@ -45,15 +67,35 @@
       "typescript"
     ],
     "created_at": "2026-06-30T06:42:46",
-    "updated_at": "2026-07-22T07:01:07"
+    "updated_at": "2026-07-22T10:30:12"
+  },
+  {
+    "name": "caspian-sdk",
+    "full_name": "TryCaspian/caspian-sdk",
+    "description": "One identity for your AI agent across every channel humans use: Slack, Discord, Telegram, Instagram, email, X, behind a single on_message handler. Channel adapters + SDK + CLI.",
+    "url": "https://github.com/TryCaspian/caspian-sdk",
+    "stars": 112,
+    "daily_stars": 15,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "communication",
+      "discord",
+      "messaging",
+      "sdk",
+      "slack",
+      "telegram"
+    ],
+    "created_at": "2026-07-20T10:47:56",
+    "updated_at": "2026-07-22T10:13:30"
   },
   {
     "name": "video-shotcraft",
     "full_name": "Vincentwei1021/video-shotcraft",
     "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
     "url": "https://github.com/Vincentwei1021/video-shotcraft",
-    "stars": 464,
-    "daily_stars": 15,
+    "stars": 478,
+    "daily_stars": 14,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -72,34 +114,45 @@
       "video-production"
     ],
     "created_at": "2026-07-19T11:44:41",
-    "updated_at": "2026-07-22T06:59:00"
+    "updated_at": "2026-07-22T10:28:11"
   },
   {
-    "name": "activity-frames",
-    "full_name": "nossa-y/activity-frames",
-    "description": "Episodic memory for AI agents. Records your screen locally, compiles it into structured activity frames, serves them over MCP. No cloud, no LLM in the loop.",
-    "url": "https://github.com/nossa-y/activity-frames",
-    "stars": 228,
-    "daily_stars": 11,
-    "language": "Python",
+    "name": "open-connector",
+    "full_name": "oomol-lab/open-connector",
+    "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+    "url": "https://github.com/oomol-lab/open-connector",
+    "stars": 3078,
+    "daily_stars": 12,
+    "language": "TypeScript",
     "topics": [
-      "agent-memory",
+      "agent-tools",
       "ai-agents",
-      "computer-use",
-      "context-engineering",
-      "episodic-memory",
-      "llm",
-      "mcp"
+      "api-gateway",
+      "automation",
+      "cli",
+      "cloudflare-workers",
+      "connectors",
+      "integration-platform",
+      "mcp",
+      "model-context-protocol",
+      "oauth",
+      "oomol",
+      "openapi",
+      "openconnector",
+      "saas-integrations",
+      "sdk",
+      "self-hosted",
+      "typescript"
     ],
-    "created_at": "2026-07-04T23:24:02",
-    "updated_at": "2026-07-22T07:03:35"
+    "created_at": "2026-06-29T10:49:36",
+    "updated_at": "2026-07-22T10:21:48"
   },
   {
     "name": "optim-agent",
     "full_name": "Optim-Agent/optim-agent",
     "description": "LLM agents as your hyperparameter optimizer.",
     "url": "https://github.com/Optim-Agent/optim-agent",
-    "stars": 332,
+    "stars": 340,
     "daily_stars": 8,
     "language": "Python",
     "topics": [
@@ -114,85 +167,62 @@
       "skill"
     ],
     "created_at": "2026-07-07T17:05:54",
-    "updated_at": "2026-07-22T06:43:44"
+    "updated_at": "2026-07-22T10:05:21"
   },
   {
-    "name": "caspian-sdk",
-    "full_name": "TryCaspian/caspian-sdk",
-    "description": "One identity for your AI agent across every channel humans use: Slack, Discord, Telegram, Instagram, email, X, behind a single on_message handler. Channel adapters + SDK + CLI.",
-    "url": "https://github.com/TryCaspian/caspian-sdk",
-    "stars": 97,
+    "name": "activity-frames",
+    "full_name": "nossa-y/activity-frames",
+    "description": "Episodic memory for AI agents. Records your screen locally, compiles it into structured activity frames, serves them over MCP. No cloud, no LLM in the loop.",
+    "url": "https://github.com/nossa-y/activity-frames",
+    "stars": 236,
     "daily_stars": 8,
     "language": "Python",
     "topics": [
+      "agent-memory",
       "ai-agents",
-      "communication",
-      "discord",
-      "messaging",
-      "sdk",
-      "slack",
-      "telegram"
+      "computer-use",
+      "context-engineering",
+      "episodic-memory",
+      "llm",
+      "mcp"
     ],
-    "created_at": "2026-07-20T10:47:56",
-    "updated_at": "2026-07-22T07:09:31"
+    "created_at": "2026-07-04T23:24:02",
+    "updated_at": "2026-07-22T10:23:47"
   },
   {
-    "name": "light-ocr",
-    "full_name": "arcships/light-ocr",
-    "description": "Fast, offline OCR for Node.js & C++. PP-OCRv6 with Core ML / WebGPU hardware acceleration — recognize text in images with confidence scores & coordinates. npm: @arcships/light-ocr",
-    "url": "https://github.com/arcships/light-ocr",
-    "stars": 378,
-    "daily_stars": 7,
-    "language": "C++",
-    "topics": [
-      "apple-silicon",
-      "computer-vision",
-      "coreml",
-      "cpp17",
-      "d3d12",
-      "image-processing",
-      "machine-learning",
-      "napi",
-      "native-addon",
-      "nodejs",
-      "nvidia",
-      "ocr",
-      "ocr-recognition",
-      "offline-ocr",
-      "paddleocr",
-      "ppocr",
-      "text-recognition",
-      "typescript",
-      "vulkan",
-      "webgpu"
-    ],
-    "created_at": "2026-07-14T01:32:23",
-    "updated_at": "2026-07-22T06:45:33"
-  },
-  {
-    "name": "waggle",
-    "full_name": "modiqo/waggle",
-    "description": "Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-native; the reference layer for the agent-harness world.",
-    "url": "https://github.com/modiqo/waggle",
-    "stars": 919,
+    "name": "OpenTag",
+    "full_name": "linxidnju/OpenTag",
+    "description": "Open-source, channel-native agent gateway for Slack. Route team threads to Claude Code, Codex, OpenCode, Docker, HTTP agents, and custom CLIs with policy, approvals, memory, audit logs, and artifacts.",
+    "url": "https://github.com/linxidnju/OpenTag",
+    "stars": 567,
     "daily_stars": 5,
-    "language": "Rust",
+    "language": "JavaScript",
     "topics": [
+      "agent-gateway",
       "ai-agents",
-      "harness-engineering",
-      "llm-tools",
-      "loop-engineering"
+      "automation",
+      "claude",
+      "claude-code",
+      "claude-tag",
+      "codex",
+      "developer-tools",
+      "mcp",
+      "nodejs",
+      "opencode",
+      "runtime-adapters",
+      "slack",
+      "team-collaboration"
     ],
-    "created_at": "2026-07-08T04:33:09",
-    "updated_at": "2026-07-22T06:13:09"
+    "created_at": "2026-06-27T08:10:47",
+    "updated_at": "2026-07-22T10:21:25"
   },
   {
     "name": "sample-specship",
     "full_name": "aws-samples/sample-specship",
     "description": "Spec-driven autonomous engineering workflow for AI coding agents: recon → plan → build → validate → ship — with TDD, adversarial validation, and anti-slop quality gates. Packaged as a Kiro Power.",
     "url": "https://github.com/aws-samples/sample-specship",
-    "stars": 194,
-    "daily_stars": 5,
+    "stars": 198,
+    "daily_stars": 4,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -205,30 +235,6 @@
       "tdd"
     ],
     "created_at": "2026-07-10T09:54:06",
-    "updated_at": "2026-07-22T06:59:58"
-  },
-  {
-    "name": "Meterless",
-    "full_name": "Meterless/Meterless",
-    "description": "Local-first context layer for AI agents. Open-source memory, reasoning, world state, intent, and swarm engines.",
-    "url": "https://github.com/Meterless/Meterless",
-    "stars": 80,
-    "daily_stars": 5,
-    "language": "TypeScript",
-    "topics": [
-      "agent-memory",
-      "agentic-ai",
-      "ai-agents",
-      "browser-use",
-      "context-engineering",
-      "desktop-automation",
-      "hierarchical-memory",
-      "local-first-ai",
-      "markovian",
-      "multi-agent-systems",
-      "world-model"
-    ],
-    "created_at": "2026-07-13T05:46:52",
-    "updated_at": "2026-07-22T06:14:15"
+    "updated_at": "2026-07-22T10:14:17"
   }
 ]
