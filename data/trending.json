@@ -4,8 +4,8 @@
     "full_name": "hoainho/img2threejs",
     "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
     "url": "https://github.com/hoainho/img2threejs",
-    "stars": 4127,
-    "daily_stars": 160,
+    "stars": 4215,
+    "daily_stars": 88,
     "language": "Python",
     "topics": [
       "3d",
@@ -20,15 +20,15 @@
       "webgl"
     ],
     "created_at": "2026-07-15T02:58:39",
-    "updated_at": "2026-07-25T03:47:39"
+    "updated_at": "2026-07-25T06:37:04"
   },
   {
     "name": "video-shotcraft",
     "full_name": "Vincentwei1021/video-shotcraft",
     "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
     "url": "https://github.com/Vincentwei1021/video-shotcraft",
-    "stars": 1491,
-    "daily_stars": 91,
+    "stars": 1534,
+    "daily_stars": 43,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -47,37 +47,15 @@
       "video-production"
     ],
     "created_at": "2026-07-19T11:44:41",
-    "updated_at": "2026-07-25T03:45:36"
-  },
-  {
-    "name": "paxm",
-    "full_name": "pax-beehive/paxm",
-    "description": "Persistent, provider-neutral memory for Codex, Claude Code, OpenCode, Pi, and MCP coding agents.",
-    "url": "https://github.com/pax-beehive/paxm",
-    "stars": 406,
-    "daily_stars": 51,
-    "language": "Go",
-    "topics": [
-      "agent-memory",
-      "ai-agents",
-      "claude-code",
-      "codex",
-      "golang",
-      "local-first",
-      "mcp",
-      "opencode",
-      "sqlite"
-    ],
-    "created_at": "2026-07-09T02:40:57",
-    "updated_at": "2026-07-25T02:53:46"
+    "updated_at": "2026-07-25T06:32:15"
   },
   {
     "name": "open-connector",
     "full_name": "oomol-lab/open-connector",
     "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
     "url": "https://github.com/oomol-lab/open-connector",
-    "stars": 3231,
-    "daily_stars": 27,
+    "stars": 3239,
+    "daily_stars": 8,
     "language": "TypeScript",
     "topics": [
       "agent-tools",
@@ -100,64 +78,35 @@
       "typescript"
     ],
     "created_at": "2026-06-29T10:49:36",
-    "updated_at": "2026-07-25T03:35:29"
+    "updated_at": "2026-07-25T06:22:27"
   },
   {
-    "name": "Awesome-Spiking-Neural-Networks-Hub",
-    "full_name": "haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
-    "description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
-    "url": "https://github.com/haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
-    "stars": 91,
-    "daily_stars": 15,
+    "name": "activity-frames",
+    "full_name": "nossa-y/activity-frames",
+    "description": "Episodic memory for AI agents. Records your screen locally, compiles it into structured activity frames, serves them over MCP. No cloud, no LLM in the loop.",
+    "url": "https://github.com/nossa-y/activity-frames",
+    "stars": 294,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
-      "awesome",
-      "awesome-list",
-      "brain-inspired-computing",
-      "deep-learning",
-      "event-camera",
-      "machine-learning",
-      "neural-networks",
-      "neuromorphic-computing",
-      "neuromorphic-hardware",
-      "paper-list",
-      "snn",
-      "spiking-neural-networks",
-      "spiking-transformer",
-      "surrogate-gradient"
-    ],
-    "created_at": "2026-07-20T12:55:19",
-    "updated_at": "2026-07-25T01:39:42"
-  },
-  {
-    "name": "fable-method",
-    "full_name": "Sahir619/fable-method",
-    "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
-    "url": "https://github.com/Sahir619/fable-method",
-    "stars": 1898,
-    "daily_stars": 10,
-    "language": "JavaScript",
-    "topics": [
-      "agent-skills",
+      "agent-memory",
       "ai-agents",
-      "claude",
-      "claude-code",
-      "claude-md",
-      "coding-agent",
-      "evaluation",
-      "fable",
-      "llm"
+      "computer-use",
+      "context-engineering",
+      "episodic-memory",
+      "llm",
+      "mcp"
     ],
-    "created_at": "2026-07-06T22:35:18",
-    "updated_at": "2026-07-25T03:23:59"
+    "created_at": "2026-07-04T23:24:02",
+    "updated_at": "2026-07-25T06:32:42"
   },
   {
     "name": "mcptrustchecker",
     "full_name": "illiahaidar/mcptrustchecker",
     "description": "MCP security scanner — offline, deterministic A–F Trust Score for Model Context Protocol servers. Detects tool poisoning, prompt injection & toxic flows.",
     "url": "https://github.com/illiahaidar/mcptrustchecker",
-    "stars": 113,
-    "daily_stars": 9,
+    "stars": 116,
+    "daily_stars": 3,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -173,52 +122,15 @@
       "supply-chain-security"
     ],
     "created_at": "2026-07-13T16:18:48",
-    "updated_at": "2026-07-25T03:44:48"
-  },
-  {
-    "name": "claude-thermos",
-    "full_name": "izeigerman/claude-thermos",
-    "description": "Keeps your Claude session warm for you",
-    "url": "https://github.com/izeigerman/claude-thermos",
-    "stars": 133,
-    "daily_stars": 7,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "claude-code"
-    ],
-    "created_at": "2026-07-20T21:22:49",
-    "updated_at": "2026-07-25T03:28:35"
-  },
-  {
-    "name": "LA-Studio",
-    "full_name": "dduongtrandai/LA-Studio",
-    "description": "LA Studio is a local-first AI audio platform for exploring, downloading, and testing speech-to-text, text-to-speech, and voice cloning models",
-    "url": "https://github.com/dduongtrandai/LA-Studio",
-    "stars": 80,
-    "daily_stars": 7,
-    "language": "C++",
-    "topics": [
-      "dubbing",
-      "forced-alignment",
-      "omni-voice",
-      "stt",
-      "translation",
-      "tts",
-      "voice-cloning",
-      "voice-design",
-      "workflow"
-    ],
-    "created_at": "2026-07-03T16:53:02",
-    "updated_at": "2026-07-25T03:40:10"
+    "updated_at": "2026-07-25T05:48:05"
   },
   {
     "name": "optim-agent",
     "full_name": "Optim-Agent/optim-agent",
     "description": "LLM agents as your hyperparameter optimizer.",
     "url": "https://github.com/Optim-Agent/optim-agent",
-    "stars": 444,
-    "daily_stars": 6,
+    "stars": 447,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -232,6 +144,93 @@
       "skill"
     ],
     "created_at": "2026-07-07T17:05:54",
-    "updated_at": "2026-07-25T02:35:38"
+    "updated_at": "2026-07-25T05:25:37"
+  },
+  {
+    "name": "vendo",
+    "full_name": "runvendo/vendo",
+    "description": "Embedded agents your customers use to automate work, build views, and connect their tools.",
+    "url": "https://github.com/runvendo/vendo",
+    "stars": 319,
+    "daily_stars": 3,
+    "language": "TypeScript",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "automation",
+      "devtools",
+      "embedded-ai",
+      "generative-ui",
+      "llm",
+      "nextjs",
+      "react",
+      "sdk",
+      "typescript"
+    ],
+    "created_at": "2026-06-30T06:42:46",
+    "updated_at": "2026-07-25T05:18:09"
+  },
+  {
+    "name": "Finn-loop",
+    "full_name": "finna/Finn-loop",
+    "description": "The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
+    "url": "https://github.com/finna/Finn-loop",
+    "stars": 187,
+    "daily_stars": 3,
+    "language": "JavaScript",
+    "topics": [
+      "agentic-workflows",
+      "ai-agents",
+      "claude-code",
+      "github",
+      "linear",
+      "software-factory"
+    ],
+    "created_at": "2026-07-22T16:48:50",
+    "updated_at": "2026-07-25T05:53:33"
+  },
+  {
+    "name": "pilotfish",
+    "full_name": "Nanako0129/pilotfish",
+    "description": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
+    "url": "https://github.com/Nanako0129/pilotfish",
+    "stars": 538,
+    "daily_stars": 2,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "multi-agent",
+      "orchestration"
+    ],
+    "created_at": "2026-07-08T10:53:34",
+    "updated_at": "2026-07-25T05:51:46"
+  },
+  {
+    "name": "agentglass",
+    "full_name": "SirAllap/agentglass",
+    "description": "🛰 A loupe for your agents — a real-time Mission-Control dashboard and workspace for AI coding agents, across every provider and every project on your machine",
+    "url": "https://github.com/SirAllap/agentglass",
+    "stars": 252,
+    "daily_stars": 2,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "bun",
+      "claude-code",
+      "cost-tracking",
+      "dashboard",
+      "developer-tools",
+      "llm",
+      "observability",
+      "react",
+      "sqlite"
+    ],
+    "created_at": "2026-07-05T01:26:40",
+    "updated_at": "2026-07-25T04:49:32"
   }
 ]
