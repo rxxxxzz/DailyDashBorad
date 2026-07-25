@@ -4,8 +4,8 @@
     "full_name": "hoainho/img2threejs",
     "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
     "url": "https://github.com/hoainho/img2threejs",
-    "stars": 4302,
-    "daily_stars": 87,
+    "stars": 4397,
+    "daily_stars": 95,
     "language": "Python",
     "topics": [
       "3d",
@@ -20,15 +20,15 @@
       "webgl"
     ],
     "created_at": "2026-07-15T02:58:39",
-    "updated_at": "2026-07-25T10:07:09"
+    "updated_at": "2026-07-25T14:08:56"
   },
   {
     "name": "video-shotcraft",
     "full_name": "Vincentwei1021/video-shotcraft",
     "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
     "url": "https://github.com/Vincentwei1021/video-shotcraft",
-    "stars": 1594,
-    "daily_stars": 60,
+    "stars": 1635,
+    "daily_stars": 41,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -47,15 +47,15 @@
       "video-production"
     ],
     "created_at": "2026-07-19T11:44:41",
-    "updated_at": "2026-07-25T10:07:03"
+    "updated_at": "2026-07-25T13:56:46"
   },
   {
     "name": "open-connector",
     "full_name": "oomol-lab/open-connector",
     "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
     "url": "https://github.com/oomol-lab/open-connector",
-    "stars": 3250,
-    "daily_stars": 11,
+    "stars": 3265,
+    "daily_stars": 15,
     "language": "TypeScript",
     "topics": [
       "agent-tools",
@@ -78,15 +78,110 @@
       "typescript"
     ],
     "created_at": "2026-06-29T10:49:36",
-    "updated_at": "2026-07-25T10:04:57"
+    "updated_at": "2026-07-25T14:03:47"
+  },
+  {
+    "name": "optim-agent",
+    "full_name": "Optim-Agent/optim-agent",
+    "description": "LLM agents as your hyperparameter optimizer.",
+    "url": "https://github.com/Optim-Agent/optim-agent",
+    "stars": 458,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "bayesian-optimization",
+      "claude-code",
+      "codex-cli",
+      "hyperparameter-optimization",
+      "machine-learning",
+      "quantitative-finance",
+      "reinforcement-learning",
+      "skill"
+    ],
+    "created_at": "2026-07-07T17:05:54",
+    "updated_at": "2026-07-25T13:17:56"
+  },
+  {
+    "name": "Meterless",
+    "full_name": "Meterless/Meterless",
+    "description": "Local-first context layer for AI agents. Open-source memory, reasoning, world state, intent, and swarm engines.",
+    "url": "https://github.com/Meterless/Meterless",
+    "stars": 152,
+    "daily_stars": 6,
+    "language": "TypeScript",
+    "topics": [
+      "agent-memory",
+      "agentic-ai",
+      "ai-agents",
+      "browser-use",
+      "context-engineering",
+      "desktop-automation",
+      "hierarchical-memory",
+      "local-first-ai",
+      "markovian",
+      "multi-agent-systems",
+      "world-model"
+    ],
+    "created_at": "2026-07-13T05:46:52",
+    "updated_at": "2026-07-25T12:54:31"
+  },
+  {
+    "name": "minshop",
+    "full_name": "ddyy/minshop",
+    "description": "Full-stack ecommerce on Cloudflare Workers, D1, and R2 - with admin, Stripe, OpenNode, Lightning payments, and agent-ready APIs.",
+    "url": "https://github.com/ddyy/minshop",
+    "stars": 74,
+    "daily_stars": 6,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "astro",
+      "cloudflare-d1",
+      "cloudflare-r2",
+      "cloudflare-workers",
+      "ecommerce",
+      "edge-computing",
+      "lightning-network",
+      "mcp",
+      "open-source",
+      "opennode",
+      "serverless",
+      "shopping-cart",
+      "storefront",
+      "stripe",
+      "typescript"
+    ],
+    "created_at": "2026-07-20T23:58:28",
+    "updated_at": "2026-07-25T13:44:39"
+  },
+  {
+    "name": "caspian-sdk",
+    "full_name": "TryCaspian/caspian-sdk",
+    "description": "One identity for your AI agent across every channel humans use: Slack, Discord, Telegram, Instagram, email, X, behind a single on_message handler. Channel adapters + SDK + CLI.",
+    "url": "https://github.com/TryCaspian/caspian-sdk",
+    "stars": 229,
+    "daily_stars": 5,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "communication",
+      "discord",
+      "messaging",
+      "sdk",
+      "slack",
+      "telegram"
+    ],
+    "created_at": "2026-07-20T10:47:56",
+    "updated_at": "2026-07-25T13:51:49"
   },
   {
     "name": "activity-frames",
     "full_name": "nossa-y/activity-frames",
     "description": "Episodic memory for AI agents. Records your screen locally, compiles it into structured activity frames, serves them over MCP. No cloud, no LLM in the loop.",
     "url": "https://github.com/nossa-y/activity-frames",
-    "stars": 304,
-    "daily_stars": 10,
+    "stars": 308,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "agent-memory",
@@ -98,15 +193,30 @@
       "mcp"
     ],
     "created_at": "2026-07-04T23:24:02",
-    "updated_at": "2026-07-25T09:32:27"
+    "updated_at": "2026-07-25T14:04:38"
+  },
+  {
+    "name": "claude-thermos",
+    "full_name": "izeigerman/claude-thermos",
+    "description": "Keeps your Claude session warm for you",
+    "url": "https://github.com/izeigerman/claude-thermos",
+    "stars": 140,
+    "daily_stars": 4,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "claude-code"
+    ],
+    "created_at": "2026-07-20T21:22:49",
+    "updated_at": "2026-07-25T14:08:38"
   },
   {
     "name": "mcptrustchecker",
     "full_name": "illiahaidar/mcptrustchecker",
     "description": "MCP security scanner — offline, deterministic A–F Trust Score for Model Context Protocol servers. Detects tool poisoning, prompt injection & toxic flows.",
     "url": "https://github.com/illiahaidar/mcptrustchecker",
-    "stars": 125,
-    "daily_stars": 9,
+    "stars": 128,
+    "daily_stars": 3,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -122,118 +232,6 @@
       "supply-chain-security"
     ],
     "created_at": "2026-07-13T16:18:48",
-    "updated_at": "2026-07-25T09:37:26"
-  },
-  {
-    "name": "optim-agent",
-    "full_name": "Optim-Agent/optim-agent",
-    "description": "LLM agents as your hyperparameter optimizer.",
-    "url": "https://github.com/Optim-Agent/optim-agent",
-    "stars": 452,
-    "daily_stars": 5,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "bayesian-optimization",
-      "claude-code",
-      "codex-cli",
-      "hyperparameter-optimization",
-      "machine-learning",
-      "quantitative-finance",
-      "reinforcement-learning",
-      "skill"
-    ],
-    "created_at": "2026-07-07T17:05:54",
-    "updated_at": "2026-07-25T09:45:54"
-  },
-  {
-    "name": "caspian-sdk",
-    "full_name": "TryCaspian/caspian-sdk",
-    "description": "One identity for your AI agent across every channel humans use: Slack, Discord, Telegram, Instagram, email, X, behind a single on_message handler. Channel adapters + SDK + CLI.",
-    "url": "https://github.com/TryCaspian/caspian-sdk",
-    "stars": 224,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "communication",
-      "discord",
-      "messaging",
-      "sdk",
-      "slack",
-      "telegram"
-    ],
-    "created_at": "2026-07-20T10:47:56",
-    "updated_at": "2026-07-25T09:48:15"
-  },
-  {
-    "name": "fable-method",
-    "full_name": "Sahir619/fable-method",
-    "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
-    "url": "https://github.com/Sahir619/fable-method",
-    "stars": 1902,
-    "daily_stars": 3,
-    "language": "JavaScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "claude-md",
-      "coding-agent",
-      "evaluation",
-      "fable",
-      "llm"
-    ],
-    "created_at": "2026-07-06T22:35:18",
-    "updated_at": "2026-07-25T08:47:46"
-  },
-  {
-    "name": "Dormice",
-    "full_name": "BitMiracle-AI/Dormice",
-    "description": "The SQLite of agent sandboxes — self-hosted, E2B-compatible. One machine, sandboxes that live forever, idle costs nothing.",
-    "url": "https://github.com/BitMiracle-AI/Dormice",
-    "stars": 185,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "agents",
-      "ai-agents",
-      "code-execution",
-      "docker",
-      "e2b",
-      "gvisor",
-      "sandbox",
-      "self-hosted"
-    ],
-    "created_at": "2026-07-08T13:02:44",
-    "updated_at": "2026-07-25T10:04:59"
-  },
-  {
-    "name": "awesome-cyber-ai-arsenal",
-    "full_name": "pazo01/awesome-cyber-ai-arsenal",
-    "description": "A curated collection of offensive, defensive and AI/LLM security tools.",
-    "url": "https://github.com/pazo01/awesome-cyber-ai-arsenal",
-    "stars": 105,
-    "daily_stars": 3,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-security",
-      "blue-team",
-      "bug-bounty",
-      "cybersecurity",
-      "hacking-tools",
-      "infosec",
-      "llm-security",
-      "llm-tools",
-      "osint",
-      "pentesting",
-      "red-team",
-      "security"
-    ],
-    "created_at": "2026-07-19T14:25:45",
-    "updated_at": "2026-07-25T07:38:34"
+    "updated_at": "2026-07-25T13:58:59"
   }
 ]
