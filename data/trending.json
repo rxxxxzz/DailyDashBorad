@@ -4,8 +4,8 @@
     "full_name": "hoainho/img2threejs",
     "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
     "url": "https://github.com/hoainho/img2threejs",
-    "stars": 4397,
-    "daily_stars": 95,
+    "stars": 4501,
+    "daily_stars": 104,
     "language": "Python",
     "topics": [
       "3d",
@@ -20,15 +20,15 @@
       "webgl"
     ],
     "created_at": "2026-07-15T02:58:39",
-    "updated_at": "2026-07-25T14:08:56"
+    "updated_at": "2026-07-25T17:24:15"
   },
   {
     "name": "video-shotcraft",
     "full_name": "Vincentwei1021/video-shotcraft",
     "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
     "url": "https://github.com/Vincentwei1021/video-shotcraft",
-    "stars": 1635,
-    "daily_stars": 41,
+    "stars": 1688,
+    "daily_stars": 53,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -47,15 +47,15 @@
       "video-production"
     ],
     "created_at": "2026-07-19T11:44:41",
-    "updated_at": "2026-07-25T13:56:46"
+    "updated_at": "2026-07-25T17:28:43"
   },
   {
     "name": "open-connector",
     "full_name": "oomol-lab/open-connector",
     "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
     "url": "https://github.com/oomol-lab/open-connector",
-    "stars": 3265,
-    "daily_stars": 15,
+    "stars": 3282,
+    "daily_stars": 17,
     "language": "TypeScript",
     "topics": [
       "agent-tools",
@@ -78,15 +78,88 @@
       "typescript"
     ],
     "created_at": "2026-06-29T10:49:36",
-    "updated_at": "2026-07-25T14:03:47"
+    "updated_at": "2026-07-25T17:16:07"
+  },
+  {
+    "name": "opencode-fusion",
+    "full_name": "mihneaptu/opencode-fusion",
+    "description": "Main agent plans and reviews; cheaper sidekick edits. Devin Fusion pattern for OpenCode",
+    "url": "https://github.com/mihneaptu/opencode-fusion",
+    "stars": 90,
+    "daily_stars": 11,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "ai-coding",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "devin-fusion",
+      "fusion",
+      "model-routing",
+      "multi-agent",
+      "opencode",
+      "opencode-config",
+      "sidekick"
+    ],
+    "created_at": "2026-06-30T15:40:45",
+    "updated_at": "2026-07-25T17:08:25"
+  },
+  {
+    "name": "caspian-sdk",
+    "full_name": "TryCaspian/caspian-sdk",
+    "description": "One identity for your AI agent across every channel humans use: Slack, Discord, Telegram, Instagram, email, X, behind a single on_message handler. Channel adapters + SDK + CLI.",
+    "url": "https://github.com/TryCaspian/caspian-sdk",
+    "stars": 235,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "communication",
+      "discord",
+      "messaging",
+      "sdk",
+      "slack",
+      "telegram"
+    ],
+    "created_at": "2026-07-20T10:47:56",
+    "updated_at": "2026-07-25T16:18:31"
+  },
+  {
+    "name": "facial-recognition-pipeline",
+    "full_name": "Morteza-Asadi-Shalmaiy/facial-recognition-pipeline",
+    "description": "python notebook facial recognitition ",
+    "url": "https://github.com/Morteza-Asadi-Shalmaiy/facial-recognition-pipeline",
+    "stars": 17,
+    "daily_stars": 5,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "codeformer",
+      "gfpgan",
+      "google-colab",
+      "insightface",
+      "mediapipe",
+      "minifasnet",
+      "numpy",
+      "onnx-runtime",
+      "opencv",
+      "osnet",
+      "real-esrgan",
+      "torchreid",
+      "yolov8"
+    ],
+    "created_at": "2026-07-23T12:11:41",
+    "updated_at": "2026-07-25T15:49:13"
   },
   {
     "name": "optim-agent",
     "full_name": "Optim-Agent/optim-agent",
     "description": "LLM agents as your hyperparameter optimizer.",
     "url": "https://github.com/Optim-Agent/optim-agent",
-    "stars": 458,
-    "daily_stars": 6,
+    "stars": 463,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -100,87 +173,59 @@
       "skill"
     ],
     "created_at": "2026-07-07T17:05:54",
-    "updated_at": "2026-07-25T13:17:56"
+    "updated_at": "2026-07-25T17:09:12"
   },
   {
-    "name": "Meterless",
-    "full_name": "Meterless/Meterless",
-    "description": "Local-first context layer for AI agents. Open-source memory, reasoning, world state, intent, and swarm engines.",
-    "url": "https://github.com/Meterless/Meterless",
-    "stars": 152,
-    "daily_stars": 6,
-    "language": "TypeScript",
-    "topics": [
-      "agent-memory",
-      "agentic-ai",
-      "ai-agents",
-      "browser-use",
-      "context-engineering",
-      "desktop-automation",
-      "hierarchical-memory",
-      "local-first-ai",
-      "markovian",
-      "multi-agent-systems",
-      "world-model"
-    ],
-    "created_at": "2026-07-13T05:46:52",
-    "updated_at": "2026-07-25T12:54:31"
-  },
-  {
-    "name": "minshop",
-    "full_name": "ddyy/minshop",
-    "description": "Full-stack ecommerce on Cloudflare Workers, D1, and R2 - with admin, Stripe, OpenNode, Lightning payments, and agent-ready APIs.",
-    "url": "https://github.com/ddyy/minshop",
-    "stars": 74,
-    "daily_stars": 6,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "astro",
-      "cloudflare-d1",
-      "cloudflare-r2",
-      "cloudflare-workers",
-      "ecommerce",
-      "edge-computing",
-      "lightning-network",
-      "mcp",
-      "open-source",
-      "opennode",
-      "serverless",
-      "shopping-cart",
-      "storefront",
-      "stripe",
-      "typescript"
-    ],
-    "created_at": "2026-07-20T23:58:28",
-    "updated_at": "2026-07-25T13:44:39"
-  },
-  {
-    "name": "caspian-sdk",
-    "full_name": "TryCaspian/caspian-sdk",
-    "description": "One identity for your AI agent across every channel humans use: Slack, Discord, Telegram, Instagram, email, X, behind a single on_message handler. Channel adapters + SDK + CLI.",
-    "url": "https://github.com/TryCaspian/caspian-sdk",
-    "stars": 229,
+    "name": "penguin-harness",
+    "full_name": "Prism-Shadow/penguin-harness",
+    "description": "Open, Efficient, Self-Improving Harness: Autonomously Build and Optimize AI Products for Just a Few Dollars",
+    "url": "https://github.com/Prism-Shadow/penguin-harness",
+    "stars": 160,
     "daily_stars": 5,
-    "language": "Python",
+    "language": "TypeScript",
     "topics": [
-      "ai-agents",
-      "communication",
-      "discord",
-      "messaging",
-      "sdk",
-      "slack",
-      "telegram"
+      "agent",
+      "agentic-ai",
+      "ai",
+      "ai-product",
+      "claude-code",
+      "harness",
+      "llm",
+      "productivity",
+      "skills",
+      "workflow"
     ],
-    "created_at": "2026-07-20T10:47:56",
-    "updated_at": "2026-07-25T13:51:49"
+    "created_at": "2026-07-19T03:15:21",
+    "updated_at": "2026-07-25T17:18:13"
+  },
+  {
+    "name": "antispoofing-fr",
+    "full_name": "Morteza-Asadi-Shalmaiy/antispoofing-fr",
+    "description": "python notebook anti spoofing facial recognition",
+    "url": "https://github.com/Morteza-Asadi-Shalmaiy/antispoofing-fr",
+    "stars": 15,
+    "daily_stars": 4,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "google-colab",
+      "insightface",
+      "minifasnet",
+      "numpy",
+      "onnx-runtime",
+      "opencv",
+      "python"
+    ],
+    "created_at": "2026-07-24T04:39:29",
+    "updated_at": "2026-07-25T15:49:11"
   },
   {
     "name": "activity-frames",
     "full_name": "nossa-y/activity-frames",
     "description": "Episodic memory for AI agents. Records your screen locally, compiles it into structured activity frames, serves them over MCP. No cloud, no LLM in the loop.",
     "url": "https://github.com/nossa-y/activity-frames",
-    "stars": 308,
+    "stars": 312,
     "daily_stars": 4,
     "language": "Python",
     "topics": [
@@ -193,45 +238,6 @@
       "mcp"
     ],
     "created_at": "2026-07-04T23:24:02",
-    "updated_at": "2026-07-25T14:04:38"
-  },
-  {
-    "name": "claude-thermos",
-    "full_name": "izeigerman/claude-thermos",
-    "description": "Keeps your Claude session warm for you",
-    "url": "https://github.com/izeigerman/claude-thermos",
-    "stars": 140,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "claude-code"
-    ],
-    "created_at": "2026-07-20T21:22:49",
-    "updated_at": "2026-07-25T14:08:38"
-  },
-  {
-    "name": "mcptrustchecker",
-    "full_name": "illiahaidar/mcptrustchecker",
-    "description": "MCP security scanner — offline, deterministic A–F Trust Score for Model Context Protocol servers. Detects tool poisoning, prompt injection & toxic flows.",
-    "url": "https://github.com/illiahaidar/mcptrustchecker",
-    "stars": 128,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "mcp",
-      "mcp-protocol",
-      "mcp-security",
-      "mcp-servers",
-      "mcp-tools",
-      "model-context-protocol",
-      "modelcontextprotocol",
-      "prompt-injection",
-      "supply-chain-security"
-    ],
-    "created_at": "2026-07-13T16:18:48",
-    "updated_at": "2026-07-25T13:58:59"
+    "updated_at": "2026-07-25T17:26:51"
   }
 ]
