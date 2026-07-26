@@ -4,8 +4,8 @@
     "full_name": "hoainho/img2threejs",
     "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
     "url": "https://github.com/hoainho/img2threejs",
-    "stars": 4654,
-    "daily_stars": 153,
+    "stars": 4836,
+    "daily_stars": 182,
     "language": "Python",
     "topics": [
       "3d",
@@ -20,15 +20,42 @@
       "webgl"
     ],
     "created_at": "2026-07-15T02:58:39",
-    "updated_at": "2026-07-25T21:23:06"
+    "updated_at": "2026-07-26T04:03:40"
+  },
+  {
+    "name": "approving",
+    "full_name": "cocofhu/approving",
+    "description": "Compose coding agents into workflows you can trust",
+    "url": "https://github.com/cocofhu/approving",
+    "stars": 71,
+    "daily_stars": 69,
+    "language": "Go",
+    "topics": [
+      "agent",
+      "ai",
+      "browser-automation",
+      "harness",
+      "harness-ai",
+      "harness-ci",
+      "harness-design",
+      "harness-engineering",
+      "harness-execution-layer",
+      "harness-framework",
+      "llm",
+      "mutli-agent",
+      "workflow",
+      "workflow-automation"
+    ],
+    "created_at": "2026-07-24T15:27:02",
+    "updated_at": "2026-07-26T03:22:14"
   },
   {
     "name": "video-shotcraft",
     "full_name": "Vincentwei1021/video-shotcraft",
     "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
     "url": "https://github.com/Vincentwei1021/video-shotcraft",
-    "stars": 1726,
-    "daily_stars": 38,
+    "stars": 1766,
+    "daily_stars": 40,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -47,15 +74,15 @@
       "video-production"
     ],
     "created_at": "2026-07-19T11:44:41",
-    "updated_at": "2026-07-25T21:24:13"
+    "updated_at": "2026-07-26T03:58:21"
   },
   {
     "name": "open-connector",
     "full_name": "oomol-lab/open-connector",
     "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
     "url": "https://github.com/oomol-lab/open-connector",
-    "stars": 3292,
-    "daily_stars": 10,
+    "stars": 3313,
+    "daily_stars": 21,
     "language": "TypeScript",
     "topics": [
       "agent-tools",
@@ -78,72 +105,85 @@
       "typescript"
     ],
     "created_at": "2026-06-29T10:49:36",
-    "updated_at": "2026-07-25T21:12:08"
+    "updated_at": "2026-07-26T04:00:00"
   },
   {
-    "name": "Finn-loop",
-    "full_name": "finna/Finn-loop",
-    "description": "The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
-    "url": "https://github.com/finna/Finn-loop",
-    "stars": 198,
-    "daily_stars": 7,
-    "language": "JavaScript",
-    "topics": [
-      "agentic-workflows",
-      "ai-agents",
-      "claude-code",
-      "github",
-      "linear",
-      "software-factory"
-    ],
-    "created_at": "2026-07-22T16:48:50",
-    "updated_at": "2026-07-25T19:35:37"
-  },
-  {
-    "name": "Capsomnia",
-    "full_name": "fuji-mak/Capsomnia",
-    "description": "A tiny macOS app that turns Caps Lock into a physical keep-awake switch for closed-lid MacBook work.",
-    "url": "https://github.com/fuji-mak/Capsomnia",
-    "stars": 317,
-    "daily_stars": 6,
-    "language": "Swift",
-    "topics": [
-      "ai-agents",
-      "appkit",
-      "caps-lock",
-      "developer-tools",
-      "macbook",
-      "macos",
-      "menu-bar",
-      "pmset",
-      "sleep",
-      "swift"
-    ],
-    "created_at": "2026-06-28T10:46:11",
-    "updated_at": "2026-07-25T21:09:57"
-  },
-  {
-    "name": "claude-thermos",
-    "full_name": "izeigerman/claude-thermos",
-    "description": "Keeps your Claude session warm for you",
-    "url": "https://github.com/izeigerman/claude-thermos",
-    "stars": 147,
-    "daily_stars": 6,
+    "name": "Awesome-Spiking-Neural-Networks-Hub",
+    "full_name": "haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
+    "description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
+    "url": "https://github.com/haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
+    "stars": 106,
+    "daily_stars": 15,
     "language": "Python",
     "topics": [
-      "ai-agents",
-      "claude-code"
+      "awesome",
+      "awesome-list",
+      "brain-inspired-computing",
+      "deep-learning",
+      "event-camera",
+      "machine-learning",
+      "neural-networks",
+      "neuromorphic-computing",
+      "neuromorphic-hardware",
+      "paper-list",
+      "snn",
+      "spiking-neural-networks",
+      "spiking-transformer",
+      "surrogate-gradient"
     ],
-    "created_at": "2026-07-20T21:22:49",
-    "updated_at": "2026-07-25T21:13:04"
+    "created_at": "2026-07-20T12:55:19",
+    "updated_at": "2026-07-26T01:46:43"
+  },
+  {
+    "name": "optim-agent",
+    "full_name": "Optim-Agent/optim-agent",
+    "description": "LLM agents as your hyperparameter optimizer.",
+    "url": "https://github.com/Optim-Agent/optim-agent",
+    "stars": 482,
+    "daily_stars": 14,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "bayesian-optimization",
+      "claude-code",
+      "codex-cli",
+      "hyperparameter-optimization",
+      "machine-learning",
+      "quantitative-finance",
+      "reinforcement-learning",
+      "skill"
+    ],
+    "created_at": "2026-07-07T17:05:54",
+    "updated_at": "2026-07-26T03:47:03"
+  },
+  {
+    "name": "Dormice",
+    "full_name": "BitMiracle-AI/Dormice",
+    "description": "The SQLite of agent sandboxes — self-hosted, E2B-compatible. One machine, sandboxes that live forever, idle costs nothing.",
+    "url": "https://github.com/BitMiracle-AI/Dormice",
+    "stars": 208,
+    "daily_stars": 13,
+    "language": "TypeScript",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "code-execution",
+      "docker",
+      "e2b",
+      "gvisor",
+      "sandbox",
+      "self-hosted"
+    ],
+    "created_at": "2026-07-08T13:02:44",
+    "updated_at": "2026-07-26T04:04:28"
   },
   {
     "name": "mcptrustchecker",
     "full_name": "illiahaidar/mcptrustchecker",
     "description": "MCP security scanner — offline, deterministic A–F Trust Score for Model Context Protocol servers. Detects tool poisoning, prompt injection & toxic flows.",
     "url": "https://github.com/illiahaidar/mcptrustchecker",
-    "stars": 135,
-    "daily_stars": 5,
+    "stars": 147,
+    "daily_stars": 12,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -159,72 +199,50 @@
       "supply-chain-security"
     ],
     "created_at": "2026-07-13T16:18:48",
-    "updated_at": "2026-07-25T21:03:09"
+    "updated_at": "2026-07-26T03:50:35"
   },
   {
-    "name": "optim-agent",
-    "full_name": "Optim-Agent/optim-agent",
-    "description": "LLM agents as your hyperparameter optimizer.",
-    "url": "https://github.com/Optim-Agent/optim-agent",
-    "stars": 468,
-    "daily_stars": 5,
-    "language": "Python",
+    "name": "fable-method",
+    "full_name": "Sahir619/fable-method",
+    "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
+    "url": "https://github.com/Sahir619/fable-method",
+    "stars": 1914,
+    "daily_stars": 8,
+    "language": "JavaScript",
     "topics": [
       "agent-skills",
-      "bayesian-optimization",
-      "claude-code",
-      "codex-cli",
-      "hyperparameter-optimization",
-      "machine-learning",
-      "quantitative-finance",
-      "reinforcement-learning",
-      "skill"
-    ],
-    "created_at": "2026-07-07T17:05:54",
-    "updated_at": "2026-07-25T21:08:25"
-  },
-  {
-    "name": "Dormice",
-    "full_name": "BitMiracle-AI/Dormice",
-    "description": "The SQLite of agent sandboxes — self-hosted, E2B-compatible. One machine, sandboxes that live forever, idle costs nothing.",
-    "url": "https://github.com/BitMiracle-AI/Dormice",
-    "stars": 195,
-    "daily_stars": 5,
-    "language": "TypeScript",
-    "topics": [
-      "agents",
       "ai-agents",
-      "code-execution",
-      "docker",
-      "e2b",
-      "gvisor",
-      "sandbox",
-      "self-hosted"
+      "claude",
+      "claude-code",
+      "claude-md",
+      "coding-agent",
+      "evaluation",
+      "fable",
+      "llm"
     ],
-    "created_at": "2026-07-08T13:02:44",
-    "updated_at": "2026-07-25T20:16:10"
+    "created_at": "2026-07-06T22:35:18",
+    "updated_at": "2026-07-26T03:27:21"
   },
   {
-    "name": "penguin-harness",
-    "full_name": "Prism-Shadow/penguin-harness",
-    "description": "Open, Efficient, Self-Improving Harness: Autonomously Build and Optimize AI Products for Just a Few Dollars",
-    "url": "https://github.com/Prism-Shadow/penguin-harness",
-    "stars": 165,
-    "daily_stars": 5,
-    "language": "TypeScript",
+    "name": "paxm",
+    "full_name": "pax-beehive/paxm",
+    "description": "Persistent, provider-neutral memory for Codex, Claude Code, OpenCode, Pi, and MCP coding agents.",
+    "url": "https://github.com/pax-beehive/paxm",
+    "stars": 418,
+    "daily_stars": 7,
+    "language": "Go",
     "topics": [
-      "agent",
-      "agentic-ai",
-      "ai",
-      "ai-product",
+      "agent-memory",
+      "ai-agents",
       "claude-code",
-      "harness",
-      "llm",
-      "productivity",
-      "skills",
-      "workflow"
+      "codex",
+      "golang",
+      "local-first",
+      "mcp",
+      "opencode",
+      "sqlite"
     ],
-    "created_at": "2026-07-19T03:15:21",
-    "updated_at": "2026-07-25T20:56:44"
+    "created_at": "2026-07-09T02:40:57",
+    "updated_at": "2026-07-26T03:18:53"
   }
 ]
