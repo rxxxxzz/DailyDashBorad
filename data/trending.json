@@ -4,8 +4,8 @@
     "full_name": "hoainho/img2threejs",
     "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
     "url": "https://github.com/hoainho/img2threejs",
-    "stars": 5122,
-    "daily_stars": 147,
+    "stars": 5303,
+    "daily_stars": 181,
     "language": "Python",
     "topics": [
       "3d",
@@ -20,15 +20,15 @@
       "webgl"
     ],
     "created_at": "2026-07-15T02:58:39",
-    "updated_at": "2026-07-26T10:15:04"
+    "updated_at": "2026-07-26T14:07:30"
   },
   {
     "name": "video-shotcraft",
     "full_name": "Vincentwei1021/video-shotcraft",
     "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
     "url": "https://github.com/Vincentwei1021/video-shotcraft",
-    "stars": 1820,
-    "daily_stars": 33,
+    "stars": 1852,
+    "daily_stars": 32,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -47,33 +47,38 @@
       "video-production"
     ],
     "created_at": "2026-07-19T11:44:41",
-    "updated_at": "2026-07-26T10:17:16"
+    "updated_at": "2026-07-26T14:01:16"
   },
   {
-    "name": "hermes-field-kit",
-    "full_name": "asimons81/hermes-field-kit",
-    "description": "Field-tested, open-source skills for Hermes Agent.",
-    "url": "https://github.com/asimons81/hermes-field-kit",
-    "stars": 86,
-    "daily_stars": 10,
-    "language": "Python",
+    "name": "deer-workflow",
+    "full_name": "deerwork-ai/deer-workflow",
+    "description": "An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+    "url": "https://github.com/deerwork-ai/deer-workflow",
+    "stars": 62,
+    "daily_stars": 20,
+    "language": "TypeScript",
     "topics": [
-      "agent-skills",
+      "agent",
+      "ai",
+      "ai-agent",
       "ai-agents",
-      "hermes-agent",
-      "open-source",
-      "python"
+      "ai-coding",
+      "bun",
+      "dynamic-workflow",
+      "dynamic-workflows",
+      "llm",
+      "workflow"
     ],
-    "created_at": "2026-07-20T03:10:56",
-    "updated_at": "2026-07-26T10:11:26"
+    "created_at": "2026-07-26T04:20:50",
+    "updated_at": "2026-07-26T14:02:02"
   },
   {
     "name": "open-connector",
     "full_name": "oomol-lab/open-connector",
     "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
     "url": "https://github.com/oomol-lab/open-connector",
-    "stars": 3328,
-    "daily_stars": 7,
+    "stars": 3341,
+    "daily_stars": 13,
     "language": "TypeScript",
     "topics": [
       "agent-tools",
@@ -96,37 +101,81 @@
       "typescript"
     ],
     "created_at": "2026-06-29T10:49:36",
-    "updated_at": "2026-07-26T09:59:48"
+    "updated_at": "2026-07-26T14:02:06"
   },
   {
-    "name": "penguin-harness",
-    "full_name": "Prism-Shadow/penguin-harness",
-    "description": "Open, Efficient, Self-Improving Harness: Autonomously Build and Optimize AI Products for Just a Few Dollars",
-    "url": "https://github.com/Prism-Shadow/penguin-harness",
-    "stars": 177,
-    "daily_stars": 7,
-    "language": "TypeScript",
+    "name": "hermes-field-kit",
+    "full_name": "asimons81/hermes-field-kit",
+    "description": "Field-tested, open-source skills for Hermes Agent.",
+    "url": "https://github.com/asimons81/hermes-field-kit",
+    "stars": 94,
+    "daily_stars": 8,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "hermes-agent",
+      "open-source",
+      "python"
+    ],
+    "created_at": "2026-07-20T03:10:56",
+    "updated_at": "2026-07-26T13:36:28"
+  },
+  {
+    "name": "agentmaker",
+    "full_name": "xinhuangcs/agentmaker",
+    "description": "A general-purpose Python framework for building LLM agents and multi-agent systems. \"Four lines of code, an agent with memory.\"",
+    "url": "https://github.com/xinhuangcs/agentmaker",
+    "stars": 87,
+    "daily_stars": 8,
+    "language": "Python",
     "topics": [
       "agent",
-      "agentic-ai",
-      "ai",
-      "ai-product",
-      "claude-code",
-      "harness",
+      "agent-framework",
+      "ai-agents",
+      "anthropic",
+      "deepseek",
+      "function-calling",
+      "hitl",
       "llm",
-      "productivity",
-      "skills",
-      "workflow"
+      "llm-agents",
+      "mcp",
+      "memory",
+      "multi-agent",
+      "observability",
+      "openai",
+      "python",
+      "rag"
     ],
-    "created_at": "2026-07-19T03:15:21",
-    "updated_at": "2026-07-26T09:24:55"
+    "created_at": "2026-07-08T19:28:03",
+    "updated_at": "2026-07-26T11:52:54"
+  },
+  {
+    "name": "activity-frames",
+    "full_name": "nossa-y/activity-frames",
+    "description": "Episodic memory for AI agents. Records your screen locally, compiles it into structured activity frames, serves them over MCP. No cloud, no LLM in the loop.",
+    "url": "https://github.com/nossa-y/activity-frames",
+    "stars": 332,
+    "daily_stars": 7,
+    "language": "Python",
+    "topics": [
+      "agent-memory",
+      "ai-agents",
+      "computer-use",
+      "context-engineering",
+      "episodic-memory",
+      "llm",
+      "mcp"
+    ],
+    "created_at": "2026-07-04T23:24:02",
+    "updated_at": "2026-07-26T14:02:10"
   },
   {
     "name": "mcptrustchecker",
     "full_name": "illiahaidar/mcptrustchecker",
     "description": "MCP security scanner — offline, deterministic A–F Trust Score for Model Context Protocol servers. Detects tool poisoning, prompt injection & toxic flows.",
     "url": "https://github.com/illiahaidar/mcptrustchecker",
-    "stars": 158,
+    "stars": 164,
     "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
@@ -143,37 +192,15 @@
       "supply-chain-security"
     ],
     "created_at": "2026-07-13T16:18:48",
-    "updated_at": "2026-07-26T10:06:44"
-  },
-  {
-    "name": "optim-agent",
-    "full_name": "Optim-Agent/optim-agent",
-    "description": "LLM agents as your hyperparameter optimizer.",
-    "url": "https://github.com/Optim-Agent/optim-agent",
-    "stars": 493,
-    "daily_stars": 6,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "bayesian-optimization",
-      "claude-code",
-      "codex-cli",
-      "hyperparameter-optimization",
-      "machine-learning",
-      "quantitative-finance",
-      "reinforcement-learning",
-      "skill"
-    ],
-    "created_at": "2026-07-07T17:05:54",
-    "updated_at": "2026-07-26T10:13:01"
+    "updated_at": "2026-07-26T14:08:15"
   },
   {
     "name": "opencode-fusion",
     "full_name": "mihneaptu/opencode-fusion",
     "description": "Main agent plans and reviews; cheaper sidekick edits. Devin Fusion pattern for OpenCode",
     "url": "https://github.com/mihneaptu/opencode-fusion",
-    "stars": 112,
-    "daily_stars": 6,
+    "stars": 117,
+    "daily_stars": 5,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -190,44 +217,28 @@
       "sidekick"
     ],
     "created_at": "2026-06-30T15:40:45",
-    "updated_at": "2026-07-26T08:37:15"
+    "updated_at": "2026-07-26T12:39:16"
   },
   {
-    "name": "activity-frames",
-    "full_name": "nossa-y/activity-frames",
-    "description": "Episodic memory for AI agents. Records your screen locally, compiles it into structured activity frames, serves them over MCP. No cloud, no LLM in the loop.",
-    "url": "https://github.com/nossa-y/activity-frames",
-    "stars": 325,
-    "daily_stars": 5,
+    "name": "optim-agent",
+    "full_name": "Optim-Agent/optim-agent",
+    "description": "LLM agents as your hyperparameter optimizer.",
+    "url": "https://github.com/Optim-Agent/optim-agent",
+    "stars": 497,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
-      "agent-memory",
-      "ai-agents",
-      "computer-use",
-      "context-engineering",
-      "episodic-memory",
-      "llm",
-      "mcp"
+      "agent-skills",
+      "bayesian-optimization",
+      "claude-code",
+      "codex-cli",
+      "hyperparameter-optimization",
+      "machine-learning",
+      "quantitative-finance",
+      "reinforcement-learning",
+      "skill"
     ],
-    "created_at": "2026-07-04T23:24:02",
-    "updated_at": "2026-07-26T10:06:42"
-  },
-  {
-    "name": "openabcode",
-    "full_name": "matrixmapai/openabcode",
-    "description": "OpenABCode is an LLM-routing coding agent that dynamically routes tasks to the best-suited models",
-    "url": "https://github.com/matrixmapai/openabcode",
-    "stars": 79,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agent",
-      "ai-agents",
-      "ai-tools",
-      "developer-tools",
-      "devtools"
-    ],
-    "created_at": "2026-07-10T14:49:35",
-    "updated_at": "2026-07-26T09:13:51"
+    "created_at": "2026-07-07T17:05:54",
+    "updated_at": "2026-07-26T14:04:57"
   }
 ]
