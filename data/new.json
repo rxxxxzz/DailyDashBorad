@@ -4,8 +4,8 @@
     "full_name": "TryCaspian/caspian-sdk",
     "description": "One identity for your AI agent across every channel humans use: Slack, Discord, Telegram, Instagram, email, X, behind a single on_message handler. Channel adapters + SDK + CLI.",
     "url": "https://github.com/TryCaspian/caspian-sdk",
-    "stars": 257,
-    "daily_stars": 3,
+    "stars": 258,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -17,34 +17,15 @@
       "telegram"
     ],
     "created_at": "2026-07-20T10:47:56",
-    "updated_at": "2026-07-27T11:50:39"
-  },
-  {
-    "name": "Finn-loop",
-    "full_name": "finna/Finn-loop",
-    "description": "The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
-    "url": "https://github.com/finna/Finn-loop",
-    "stars": 224,
-    "daily_stars": 1,
-    "language": "JavaScript",
-    "topics": [
-      "agentic-workflows",
-      "ai-agents",
-      "claude-code",
-      "github",
-      "linear",
-      "software-factory"
-    ],
-    "created_at": "2026-07-22T16:48:50",
-    "updated_at": "2026-07-27T11:37:34"
+    "updated_at": "2026-07-27T14:08:29"
   },
   {
     "name": "self-media-content-workflow",
     "full_name": "yanhua1010/self-media-content-workflow",
     "description": "通用、模块化的自媒体内容生产与经营 Skills / A modular, tool-agnostic self-media content skill suite",
     "url": "https://github.com/yanhua1010/self-media-content-workflow",
-    "stars": 207,
-    "daily_stars": 46,
+    "stars": 232,
+    "daily_stars": 25,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -59,7 +40,26 @@
       "xiaohongshu"
     ],
     "created_at": "2026-07-22T06:20:17",
-    "updated_at": "2026-07-27T11:45:45"
+    "updated_at": "2026-07-27T15:20:36"
+  },
+  {
+    "name": "Finn-loop",
+    "full_name": "finna/Finn-loop",
+    "description": "The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
+    "url": "https://github.com/finna/Finn-loop",
+    "stars": 224,
+    "daily_stars": 0,
+    "language": "JavaScript",
+    "topics": [
+      "agentic-workflows",
+      "ai-agents",
+      "claude-code",
+      "github",
+      "linear",
+      "software-factory"
+    ],
+    "created_at": "2026-07-22T16:48:50",
+    "updated_at": "2026-07-27T11:37:34"
   },
   {
     "name": "BossConsole",
@@ -67,7 +67,7 @@
     "description": "Open-source, multi-platform harness for AI agents — a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.",
     "url": "https://github.com/risa-labs-inc/BossConsole",
     "stars": 200,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Kotlin",
     "topics": [
       "agent-harness",
@@ -118,11 +118,57 @@
     "updated_at": "2026-07-26T16:28:46"
   },
   {
+    "name": "deer-workflow",
+    "full_name": "deerwork-ai/deer-workflow",
+    "description": "An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+    "url": "https://github.com/deerwork-ai/deer-workflow",
+    "stars": 197,
+    "daily_stars": 37,
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-coding",
+      "bun",
+      "dynamic-workflow",
+      "dynamic-workflows",
+      "llm",
+      "workflow"
+    ],
+    "created_at": "2026-07-26T04:20:50",
+    "updated_at": "2026-07-27T15:22:38"
+  },
+  {
+    "name": "deer-workflow",
+    "full_name": "deerwork-ai/deer-workflow",
+    "description": "An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+    "url": "https://github.com/deerwork-ai/deer-workflow",
+    "stars": 197,
+    "daily_stars": 0,
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-coding",
+      "bun",
+      "dynamic-workflow",
+      "dynamic-workflows",
+      "llm",
+      "workflow"
+    ],
+    "created_at": "2026-07-26T04:20:50",
+    "updated_at": "2026-07-27T15:22:38"
+  },
+  {
     "name": "claude-thermos",
     "full_name": "izeigerman/claude-thermos",
     "description": "Keeps your Claude session warm for you",
     "url": "https://github.com/izeigerman/claude-thermos",
-    "stars": 168,
+    "stars": 171,
     "daily_stars": 3,
     "language": "Python",
     "topics": [
@@ -130,106 +176,72 @@
       "claude-code"
     ],
     "created_at": "2026-07-20T21:22:49",
-    "updated_at": "2026-07-27T11:28:14"
+    "updated_at": "2026-07-27T14:59:16"
   },
   {
-    "name": "deer-workflow",
-    "full_name": "deerwork-ai/deer-workflow",
-    "description": "An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-    "url": "https://github.com/deerwork-ai/deer-workflow",
-    "stars": 160,
-    "daily_stars": 12,
+    "name": "collective-intelligence",
+    "full_name": "ailinone/collective-intelligence",
+    "description": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
+    "url": "https://github.com/ailinone/collective-intelligence",
+    "stars": 130,
+    "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
-      "agent",
       "ai",
-      "ai-agent",
       "ai-agents",
-      "ai-coding",
-      "bun",
-      "dynamic-workflow",
-      "dynamic-workflows",
+      "artificial-intelligence",
+      "collective",
+      "collective-intelligence",
+      "consensus",
+      "docker",
+      "gateway",
+      "genai",
       "llm",
-      "workflow"
+      "multi-agent",
+      "open-source",
+      "openai-compatible",
+      "openapi",
+      "orchestration",
+      "orchestrator",
+      "orchestrator-engine",
+      "python",
+      "self-hosted",
+      "typescript"
     ],
-    "created_at": "2026-07-26T04:20:50",
-    "updated_at": "2026-07-27T11:47:33"
+    "created_at": "2026-07-20T00:17:45",
+    "updated_at": "2026-07-27T14:59:41"
   },
   {
-    "name": "deer-workflow",
-    "full_name": "deerwork-ai/deer-workflow",
-    "description": "An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-    "url": "https://github.com/deerwork-ai/deer-workflow",
-    "stars": 160,
+    "name": "collective-intelligence",
+    "full_name": "ailinone/collective-intelligence",
+    "description": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
+    "url": "https://github.com/ailinone/collective-intelligence",
+    "stars": 130,
     "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
-      "agent",
       "ai",
-      "ai-agent",
       "ai-agents",
-      "ai-coding",
-      "bun",
-      "dynamic-workflow",
-      "dynamic-workflows",
+      "artificial-intelligence",
+      "collective",
+      "collective-intelligence",
+      "consensus",
+      "docker",
+      "gateway",
+      "genai",
       "llm",
-      "workflow"
+      "multi-agent",
+      "open-source",
+      "openai-compatible",
+      "openapi",
+      "orchestration",
+      "orchestrator",
+      "orchestrator-engine",
+      "python",
+      "self-hosted",
+      "typescript"
     ],
-    "created_at": "2026-07-26T04:20:50",
-    "updated_at": "2026-07-27T11:47:33"
-  },
-  {
-    "name": "Awesome-Spiking-Neural-Networks-Hub",
-    "full_name": "haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
-    "description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
-    "url": "https://github.com/haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
-    "stars": 125,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "brain-inspired-computing",
-      "deep-learning",
-      "event-camera",
-      "machine-learning",
-      "neural-networks",
-      "neuromorphic-computing",
-      "neuromorphic-hardware",
-      "paper-list",
-      "snn",
-      "spiking-neural-networks",
-      "spiking-transformer",
-      "surrogate-gradient"
-    ],
-    "created_at": "2026-07-20T12:55:19",
-    "updated_at": "2026-07-27T04:16:51"
-  },
-  {
-    "name": "Awesome-Spiking-Neural-Networks-Hub",
-    "full_name": "haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
-    "description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
-    "url": "https://github.com/haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
-    "stars": 125,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "brain-inspired-computing",
-      "deep-learning",
-      "event-camera",
-      "machine-learning",
-      "neural-networks",
-      "neuromorphic-computing",
-      "neuromorphic-hardware",
-      "paper-list",
-      "snn",
-      "spiking-neural-networks",
-      "spiking-transformer",
-      "surrogate-gradient"
-    ],
-    "created_at": "2026-07-20T12:55:19",
-    "updated_at": "2026-07-27T04:16:51"
+    "created_at": "2026-07-20T00:17:45",
+    "updated_at": "2026-07-27T14:59:41"
   }
 ]
