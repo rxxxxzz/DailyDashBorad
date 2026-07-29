@@ -4,8 +4,8 @@
     "full_name": "hoainho/img2threejs",
     "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
     "url": "https://github.com/hoainho/img2threejs",
-    "stars": 7912,
-    "daily_stars": 97,
+    "stars": 8011,
+    "daily_stars": 99,
     "language": "Python",
     "topics": [
       "3d",
@@ -20,15 +20,15 @@
       "webgl"
     ],
     "created_at": "2026-07-15T02:58:39",
-    "updated_at": "2026-07-29T11:00:12"
+    "updated_at": "2026-07-29T14:39:29"
   },
   {
     "name": "video-shotcraft",
     "full_name": "Vincentwei1021/video-shotcraft",
     "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
     "url": "https://github.com/Vincentwei1021/video-shotcraft",
-    "stars": 2612,
-    "daily_stars": 35,
+    "stars": 2652,
+    "daily_stars": 40,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -47,15 +47,85 @@
       "video-production"
     ],
     "created_at": "2026-07-19T11:44:41",
-    "updated_at": "2026-07-29T11:00:32"
+    "updated_at": "2026-07-29T14:30:43"
+  },
+  {
+    "name": "autodev-studio",
+    "full_name": "krishagarwal314/autodev-studio",
+    "description": "Autonomous multi-agent SDLC harness: describe a feature in plain English and AI agents scope, code, test, review, and open a PR — grounded in a one-time knowledge base of your repo.",
+    "url": "https://github.com/krishagarwal314/autodev-studio",
+    "stars": 104,
+    "daily_stars": 12,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "autonomous-agents",
+      "claude",
+      "code-generation",
+      "developer-tools",
+      "fastapi",
+      "groq",
+      "knowledge-base",
+      "llm",
+      "llm-agent",
+      "multi-agent",
+      "openai",
+      "python",
+      "rag",
+      "sdlc"
+    ],
+    "created_at": "2026-07-24T09:55:46",
+    "updated_at": "2026-07-29T14:14:43"
+  },
+  {
+    "name": "caspian-sdk",
+    "full_name": "TryCaspian/caspian-sdk",
+    "description": "One identity for your AI agent across every channel humans use: Slack, Discord, Telegram, Instagram, email, X, behind a single on_message handler. Channel adapters + SDK + CLI.",
+    "url": "https://github.com/TryCaspian/caspian-sdk",
+    "stars": 302,
+    "daily_stars": 10,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "communication",
+      "discord",
+      "messaging",
+      "sdk",
+      "slack",
+      "telegram"
+    ],
+    "created_at": "2026-07-20T10:47:56",
+    "updated_at": "2026-07-29T14:36:31"
+  },
+  {
+    "name": "Dormice",
+    "full_name": "BitMiracle-AI/Dormice",
+    "description": "The SQLite of agent sandboxes — self-hosted, E2B-compatible. One machine, sandboxes that live forever, idle costs nothing.",
+    "url": "https://github.com/BitMiracle-AI/Dormice",
+    "stars": 306,
+    "daily_stars": 9,
+    "language": "TypeScript",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "code-execution",
+      "docker",
+      "e2b",
+      "gvisor",
+      "sandbox",
+      "self-hosted"
+    ],
+    "created_at": "2026-07-08T13:02:44",
+    "updated_at": "2026-07-29T14:25:36"
   },
   {
     "name": "novel-to-game",
     "full_name": "worldwonderer/novel-to-game",
     "description": "将任何小说蒸馏为可玩的游戏 · Turn any novel/story into a playable game — a 7-skill adaptation pipeline for Claude Code, Codex & Kimi Code(k3)",
     "url": "https://github.com/worldwonderer/novel-to-game",
-    "stars": 395,
-    "daily_stars": 20,
+    "stars": 402,
+    "daily_stars": 7,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -78,96 +148,42 @@
       "web-game"
     ],
     "created_at": "2026-07-18T16:29:56",
-    "updated_at": "2026-07-29T10:38:09"
+    "updated_at": "2026-07-29T12:59:09"
   },
   {
-    "name": "Dormice",
-    "full_name": "BitMiracle-AI/Dormice",
-    "description": "The SQLite of agent sandboxes — self-hosted, E2B-compatible. One machine, sandboxes that live forever, idle costs nothing.",
-    "url": "https://github.com/BitMiracle-AI/Dormice",
-    "stars": 297,
-    "daily_stars": 14,
-    "language": "TypeScript",
-    "topics": [
-      "agents",
-      "ai-agents",
-      "code-execution",
-      "docker",
-      "e2b",
-      "gvisor",
-      "sandbox",
-      "self-hosted"
-    ],
-    "created_at": "2026-07-08T13:02:44",
-    "updated_at": "2026-07-29T10:48:31"
-  },
-  {
-    "name": "deer-workflow",
-    "full_name": "deerwork-ai/deer-workflow",
-    "description": "An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-    "url": "https://github.com/deerwork-ai/deer-workflow",
-    "stars": 341,
-    "daily_stars": 10,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "ai-coding",
-      "bun",
-      "dynamic-workflow",
-      "dynamic-workflows",
-      "llm",
-      "workflow"
-    ],
-    "created_at": "2026-07-26T04:20:50",
-    "updated_at": "2026-07-29T10:55:48"
-  },
-  {
-    "name": "old-coder",
-    "full_name": "AmazingAng/old-coder",
-    "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
-    "url": "https://github.com/AmazingAng/old-coder",
-    "stars": 150,
-    "daily_stars": 9,
+    "name": "awesome-ai-tokenomics",
+    "full_name": "QuesmaOrg/awesome-ai-tokenomics",
+    "description": "A map of what AI tokens actually cost, and where they're wasted vs. well spent. Tools, research, practices, and copy-paste setups for token-efficient agentic coding.",
+    "url": "https://github.com/QuesmaOrg/awesome-ai-tokenomics",
+    "stars": 85,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
+      "agentic-coding",
+      "ai",
       "ai-agents",
+      "awesome",
+      "awesome-list",
       "claude-code",
-      "skills",
-      "tdd"
+      "codex",
+      "cost-optimization",
+      "finops",
+      "llm",
+      "llmops",
+      "token-economics",
+      "token-optimization",
+      "tokenomics"
     ],
-    "created_at": "2026-07-27T05:03:11",
-    "updated_at": "2026-07-29T09:22:02"
-  },
-  {
-    "name": "Octop",
-    "full_name": "TencentCloud/Octop",
-    "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-    "url": "https://github.com/TencentCloud/Octop",
-    "stars": 548,
-    "daily_stars": 6,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "local-first",
-      "long-term-memory"
-    ],
-    "created_at": "2026-07-08T12:54:20",
-    "updated_at": "2026-07-29T09:43:58"
+    "created_at": "2026-07-17T21:38:33",
+    "updated_at": "2026-07-29T14:19:25"
   },
   {
     "name": "optim-agent",
     "full_name": "Optim-Agent/optim-agent",
     "description": "LLM agents as your hyperparameter optimizer.",
     "url": "https://github.com/Optim-Agent/optim-agent",
-    "stars": 585,
-    "daily_stars": 5,
+    "stars": 589,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -181,48 +197,56 @@
       "skill"
     ],
     "created_at": "2026-07-07T17:05:54",
-    "updated_at": "2026-07-29T10:46:57"
+    "updated_at": "2026-07-29T13:53:11"
   },
   {
-    "name": "caspian-sdk",
-    "full_name": "TryCaspian/caspian-sdk",
-    "description": "One identity for your AI agent across every channel humans use: Slack, Discord, Telegram, Instagram, email, X, behind a single on_message handler. Channel adapters + SDK + CLI.",
-    "url": "https://github.com/TryCaspian/caspian-sdk",
-    "stars": 292,
-    "daily_stars": 5,
+    "name": "tty7",
+    "full_name": "l0ng-ai/tty7",
+    "description": "A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty.",
+    "url": "https://github.com/l0ng-ai/tty7",
+    "stars": 384,
+    "daily_stars": 4,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "alacritty",
+      "claude-code",
+      "coding-agent",
+      "cross-platform",
+      "daemon",
+      "developer-tools",
+      "gpu",
+      "gpui",
+      "linux",
+      "macos",
+      "pty",
+      "rust",
+      "shell",
+      "ssh",
+      "terminal",
+      "terminal-emulator",
+      "terminal-multiplexer",
+      "tmux-alternative",
+      "windows"
+    ],
+    "created_at": "2026-07-06T12:51:10",
+    "updated_at": "2026-07-29T14:20:55"
+  },
+  {
+    "name": "old-coder",
+    "full_name": "AmazingAng/old-coder",
+    "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
+    "url": "https://github.com/AmazingAng/old-coder",
+    "stars": 154,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "ai-agents",
-      "communication",
-      "discord",
-      "messaging",
-      "sdk",
-      "slack",
-      "telegram"
+      "claude-code",
+      "skills",
+      "tdd"
     ],
-    "created_at": "2026-07-20T10:47:56",
-    "updated_at": "2026-07-29T09:56:25"
-  },
-  {
-    "name": "llm-interview-questions",
-    "full_name": "MisterBooo/llm-interview-questions",
-    "description": "100 道大模型面试题与 100 张 SVG 图解，覆盖 LLM、RAG、Agent、微调、推理优化和评估。",
-    "url": "https://github.com/MisterBooo/llm-interview-questions",
-    "stars": 22,
-    "daily_stars": 3,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "artificial-intelligence",
-      "chinese",
-      "deep-learning",
-      "interview-questions",
-      "large-language-models",
-      "llm",
-      "machine-learning",
-      "rag"
-    ],
-    "created_at": "2026-07-19T02:55:27",
-    "updated_at": "2026-07-29T09:38:51"
+    "created_at": "2026-07-27T05:03:11",
+    "updated_at": "2026-07-29T14:16:30"
   }
 ]
