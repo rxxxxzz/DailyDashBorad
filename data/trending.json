@@ -4,8 +4,8 @@
     "full_name": "hoainho/img2threejs",
     "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
     "url": "https://github.com/hoainho/img2threejs",
-    "stars": 8315,
-    "daily_stars": 72,
+    "stars": 8392,
+    "daily_stars": 77,
     "language": "Python",
     "topics": [
       "3d",
@@ -20,15 +20,48 @@
       "webgl"
     ],
     "created_at": "2026-07-15T02:58:39",
-    "updated_at": "2026-07-30T07:10:48"
+    "updated_at": "2026-07-30T10:37:43"
+  },
+  {
+    "name": "memmy-agent",
+    "full_name": "MemTensor/memmy-agent",
+    "description": "One Agent. One memory. Shared by every AI. 🍙",
+    "url": "https://github.com/MemTensor/memmy-agent",
+    "stars": 151,
+    "daily_stars": 64,
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "chatgpt",
+      "claude-code",
+      "cli",
+      "codex",
+      "cursor",
+      "desktop-app",
+      "desktop-pet",
+      "hermes-agent",
+      "llm",
+      "long-term-memory",
+      "mcp",
+      "memory",
+      "openai-api",
+      "openclaw",
+      "personal-ai",
+      "tui"
+    ],
+    "created_at": "2026-07-16T07:57:45",
+    "updated_at": "2026-07-30T10:26:39"
   },
   {
     "name": "numbat",
     "full_name": "perplexityai/numbat",
     "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
     "url": "https://github.com/perplexityai/numbat",
-    "stars": 166,
-    "daily_stars": 34,
+    "stars": 208,
+    "daily_stars": 42,
     "language": "Go",
     "topics": [
       "agent-security",
@@ -36,15 +69,15 @@
       "ai-agents"
     ],
     "created_at": "2026-07-24T06:07:59",
-    "updated_at": "2026-07-30T07:11:00"
+    "updated_at": "2026-07-30T10:36:43"
   },
   {
     "name": "video-shotcraft",
     "full_name": "Vincentwei1021/video-shotcraft",
     "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
     "url": "https://github.com/Vincentwei1021/video-shotcraft",
-    "stars": 2783,
-    "daily_stars": 33,
+    "stars": 2815,
+    "daily_stars": 32,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -63,42 +96,97 @@
       "video-production"
     ],
     "created_at": "2026-07-19T11:44:41",
-    "updated_at": "2026-07-30T07:11:01"
+    "updated_at": "2026-07-30T10:06:42"
   },
   {
-    "name": "patent-literature-search-mcp",
-    "full_name": "patsnap/patent-literature-search-mcp",
-    "description": "Search 200M+ patents and scientific literature in natural language directly inside Claude, Cursor, or any MCP-compatible AI tool. Powered by PatSnap's global R&D intelligence database.",
-    "url": "https://github.com/patsnap/patent-literature-search-mcp",
-    "stars": 162,
-    "daily_stars": 26,
-    "language": null,
+    "name": "webcmd",
+    "full_name": "agentrhq/webcmd",
+    "description": "The Browser Infra that learns and cuts token spend by upto 90%",
+    "url": "https://github.com/agentrhq/webcmd",
+    "stars": 118,
+    "daily_stars": 14,
+    "language": "JavaScript",
     "topics": [
-      "academic-search",
       "ai-agents",
-      "bm25",
-      "innovation-intelligence",
-      "literature-search",
-      "mcp-server",
-      "model-context-protocol",
-      "patent-intelligence",
-      "patent-search",
-      "patsnap",
-      "prior-art-search",
-      "research-tools",
-      "scientific-literature",
-      "semantic-search"
+      "browser-automation",
+      "browser-use",
+      "cli",
+      "developer-tools",
+      "playwright",
+      "self-learning-ai"
     ],
-    "created_at": "2026-07-21T05:57:40",
-    "updated_at": "2026-07-30T04:38:15"
+    "created_at": "2026-07-02T11:49:31",
+    "updated_at": "2026-07-30T10:07:53"
+  },
+  {
+    "name": "claude-code-merge-queue",
+    "full_name": "funador/claude-code-merge-queue",
+    "description": "The local merge queue for parallel Claude Code agents",
+    "url": "https://github.com/funador/claude-code-merge-queue",
+    "stars": 86,
+    "daily_stars": 10,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "coding-agent",
+      "git-worktree",
+      "merge-queue",
+      "monorepo-tooling",
+      "parallel-agents"
+    ],
+    "created_at": "2026-07-10T22:05:05",
+    "updated_at": "2026-07-30T10:22:47"
+  },
+  {
+    "name": "caspian-sdk",
+    "full_name": "TryCaspian/caspian-sdk",
+    "description": "One identity for your AI agent across every channel humans use: Slack, Discord, Telegram, Instagram, email, X, behind a single on_message handler. Channel adapters + SDK + CLI.",
+    "url": "https://github.com/TryCaspian/caspian-sdk",
+    "stars": 328,
+    "daily_stars": 9,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "communication",
+      "discord",
+      "messaging",
+      "sdk",
+      "slack",
+      "telegram"
+    ],
+    "created_at": "2026-07-20T10:47:56",
+    "updated_at": "2026-07-30T10:35:23"
+  },
+  {
+    "name": "optim-agent",
+    "full_name": "Optim-Agent/optim-agent",
+    "description": "LLM agents as your hyperparameter optimizer.",
+    "url": "https://github.com/Optim-Agent/optim-agent",
+    "stars": 611,
+    "daily_stars": 5,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "bayesian-optimization",
+      "claude-code",
+      "codex-cli",
+      "hyperparameter-optimization",
+      "machine-learning",
+      "quantitative-finance",
+      "reinforcement-learning",
+      "skill"
+    ],
+    "created_at": "2026-07-07T17:05:54",
+    "updated_at": "2026-07-30T09:48:42"
   },
   {
     "name": "novel-to-game",
     "full_name": "worldwonderer/novel-to-game",
     "description": "将任何小说蒸馏为可玩的游戏 · Turn any novel/story into a playable game — a 7-skill adaptation pipeline for Claude Code, Codex & Kimi Code(k3)",
     "url": "https://github.com/worldwonderer/novel-to-game",
-    "stars": 427,
-    "daily_stars": 10,
+    "stars": 432,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -121,112 +209,27 @@
       "web-game"
     ],
     "created_at": "2026-07-18T16:29:56",
-    "updated_at": "2026-07-30T06:49:53"
+    "updated_at": "2026-07-30T10:20:40"
   },
   {
-    "name": "Finn-loop",
-    "full_name": "finna/Finn-loop",
-    "description": "The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
-    "url": "https://github.com/finna/Finn-loop",
-    "stars": 265,
-    "daily_stars": 6,
-    "language": "JavaScript",
+    "name": "Dormice",
+    "full_name": "BitMiracle-AI/Dormice",
+    "description": "The SQLite of agent sandboxes — self-hosted, E2B-compatible. One machine, sandboxes that live forever, idle costs nothing.",
+    "url": "https://github.com/BitMiracle-AI/Dormice",
+    "stars": 325,
+    "daily_stars": 5,
+    "language": "TypeScript",
     "topics": [
-      "agentic-workflows",
+      "agents",
       "ai-agents",
-      "claude-code",
-      "github",
-      "linear",
-      "software-factory"
+      "code-execution",
+      "docker",
+      "e2b",
+      "gvisor",
+      "sandbox",
+      "self-hosted"
     ],
-    "created_at": "2026-07-22T16:48:50",
-    "updated_at": "2026-07-30T06:46:02"
-  },
-  {
-    "name": "agent-wiki",
-    "full_name": "NimaChu/agent-wiki",
-    "description": "Zero-cost, beginner-friendly local Markdown knowledge base for AI agents. Capture sources, preserve evidence and images, synthesize wiki pages, search, lint, and view an on-demand graph.",
-    "url": "https://github.com/NimaChu/agent-wiki",
-    "stars": 175,
-    "daily_stars": 4,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "knowledge-base",
-      "local-first",
-      "markdown",
-      "personal-knowledge-management",
-      "rag",
-      "second-brain"
-    ],
-    "created_at": "2026-07-02T15:55:19",
-    "updated_at": "2026-07-30T06:40:45"
-  },
-  {
-    "name": "design-harness",
-    "full_name": "tigerless-labs/design-harness",
-    "description": "Feed your agent papers and half-formed ideas — it links them into a system design you can defend. Markdown keeps the record; a visual canvas makes it readable. An Agent Skill for Claude Code & any SKILL.md-compatible agent.",
-    "url": "https://github.com/tigerless-labs/design-harness",
-    "stars": 133,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "claude-code",
-      "claude-code-plugin",
-      "codex",
-      "decision-support",
-      "evidence-based",
-      "knowledge-management",
-      "literature-review",
-      "markdown",
-      "provenance",
-      "research-tools"
-    ],
-    "created_at": "2026-07-07T15:47:21",
-    "updated_at": "2026-07-30T06:56:26"
-  },
-  {
-    "name": "optim-agent",
-    "full_name": "Optim-Agent/optim-agent",
-    "description": "LLM agents as your hyperparameter optimizer.",
-    "url": "https://github.com/Optim-Agent/optim-agent",
-    "stars": 606,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "bayesian-optimization",
-      "claude-code",
-      "codex-cli",
-      "hyperparameter-optimization",
-      "machine-learning",
-      "quantitative-finance",
-      "reinforcement-learning",
-      "skill"
-    ],
-    "created_at": "2026-07-07T17:05:54",
-    "updated_at": "2026-07-30T06:28:35"
-  },
-  {
-    "name": "caspian-sdk",
-    "full_name": "TryCaspian/caspian-sdk",
-    "description": "One identity for your AI agent across every channel humans use: Slack, Discord, Telegram, Instagram, email, X, behind a single on_message handler. Channel adapters + SDK + CLI.",
-    "url": "https://github.com/TryCaspian/caspian-sdk",
-    "stars": 319,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "communication",
-      "discord",
-      "messaging",
-      "sdk",
-      "slack",
-      "telegram"
-    ],
-    "created_at": "2026-07-20T10:47:56",
-    "updated_at": "2026-07-30T06:35:20"
+    "created_at": "2026-07-08T13:02:44",
+    "updated_at": "2026-07-30T10:31:07"
   }
 ]
