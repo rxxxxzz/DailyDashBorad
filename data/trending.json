@@ -4,8 +4,8 @@
     "full_name": "perplexityai/numbat",
     "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
     "url": "https://github.com/perplexityai/numbat",
-    "stars": 285,
-    "daily_stars": 77,
+    "stars": 331,
+    "daily_stars": 46,
     "language": "Go",
     "topics": [
       "agent-security",
@@ -13,15 +13,15 @@
       "ai-agents"
     ],
     "created_at": "2026-07-24T06:07:59",
-    "updated_at": "2026-07-30T14:38:19"
+    "updated_at": "2026-07-30T17:55:59"
   },
   {
     "name": "img2threejs",
     "full_name": "hoainho/img2threejs",
     "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
     "url": "https://github.com/hoainho/img2threejs",
-    "stars": 8457,
-    "daily_stars": 65,
+    "stars": 8501,
+    "daily_stars": 44,
     "language": "Python",
     "topics": [
       "3d",
@@ -36,15 +36,43 @@
       "webgl"
     ],
     "created_at": "2026-07-15T02:58:39",
-    "updated_at": "2026-07-30T14:39:54"
+    "updated_at": "2026-07-30T17:38:26"
+  },
+  {
+    "name": "agent-manager",
+    "full_name": "YoanWai/agent-manager",
+    "description": "Terminal UI to manage AI coding-agent sessions (Claude Code, OpenCode, Codex, Grok Build) in tmux: live status, group tree, live pane preview, resource gauges.",
+    "url": "https://github.com/YoanWai/agent-manager",
+    "stars": 148,
+    "daily_stars": 42,
+    "language": "Go",
+    "topics": [
+      "agentic",
+      "ai-agents",
+      "bubbletea",
+      "claude-code",
+      "cli",
+      "code-review",
+      "codex",
+      "coding-agent",
+      "developer-tools",
+      "golang",
+      "grok",
+      "opencode",
+      "terminal",
+      "tmux",
+      "tui"
+    ],
+    "created_at": "2026-07-15T16:27:33",
+    "updated_at": "2026-07-30T17:54:14"
   },
   {
     "name": "memmy-agent",
     "full_name": "MemTensor/memmy-agent",
     "description": "One Agent. One memory. Shared by every AI. 🍙",
     "url": "https://github.com/MemTensor/memmy-agent",
-    "stars": 206,
-    "daily_stars": 55,
+    "stars": 232,
+    "daily_stars": 26,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -69,15 +97,15 @@
       "tui"
     ],
     "created_at": "2026-07-16T07:57:45",
-    "updated_at": "2026-07-30T14:36:31"
+    "updated_at": "2026-07-30T17:46:23"
   },
   {
     "name": "video-shotcraft",
     "full_name": "Vincentwei1021/video-shotcraft",
     "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
     "url": "https://github.com/Vincentwei1021/video-shotcraft",
-    "stars": 2843,
-    "daily_stars": 28,
+    "stars": 2861,
+    "daily_stars": 18,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -96,15 +124,15 @@
       "video-production"
     ],
     "created_at": "2026-07-19T11:44:41",
-    "updated_at": "2026-07-30T14:41:13"
+    "updated_at": "2026-07-30T17:55:44"
   },
   {
     "name": "chartr",
     "full_name": "rengwu/chartr",
     "description": "Agent multiplexer with map-charting capabilities",
     "url": "https://github.com/rengwu/chartr",
-    "stars": 146,
-    "daily_stars": 16,
+    "stars": 154,
+    "daily_stars": 8,
     "language": "Go",
     "topics": [
       "agent",
@@ -120,35 +148,65 @@
       "tmux"
     ],
     "created_at": "2026-07-21T06:22:36",
-    "updated_at": "2026-07-30T14:17:18"
+    "updated_at": "2026-07-30T17:54:58"
   },
   {
-    "name": "claude-code-merge-queue",
-    "full_name": "funador/claude-code-merge-queue",
-    "description": "The local merge queue for parallel Claude Code agents",
-    "url": "https://github.com/funador/claude-code-merge-queue",
-    "stars": 100,
-    "daily_stars": 14,
-    "language": "TypeScript",
+    "name": "awesome-ai-tokenomics",
+    "full_name": "QuesmaOrg/awesome-ai-tokenomics",
+    "description": "A map of what AI tokens actually cost, and where they're wasted vs. well spent. Tools, research, practices, and copy-paste setups for token-efficient agentic coding.",
+    "url": "https://github.com/QuesmaOrg/awesome-ai-tokenomics",
+    "stars": 105,
+    "daily_stars": 6,
+    "language": "Python",
     "topics": [
+      "agentic-coding",
+      "ai",
       "ai-agents",
+      "awesome",
+      "awesome-list",
       "claude-code",
-      "coding-agent",
-      "git-worktree",
-      "merge-queue",
-      "monorepo-tooling",
-      "parallel-agents"
+      "codex",
+      "cost-optimization",
+      "finops",
+      "llm",
+      "llmops",
+      "token-economics",
+      "token-optimization",
+      "tokenomics"
     ],
-    "created_at": "2026-07-10T22:05:05",
-    "updated_at": "2026-07-30T14:17:39"
+    "created_at": "2026-07-17T21:38:33",
+    "updated_at": "2026-07-30T17:53:50"
+  },
+  {
+    "name": "clawk",
+    "full_name": "clawkwork/clawk",
+    "description": "Disposable, network-restricted Linux VMs for AI coding agents",
+    "url": "https://github.com/clawkwork/clawk",
+    "stars": 852,
+    "daily_stars": 5,
+    "language": "Go",
+    "topics": [
+      "agent-sandbox",
+      "ai-agent-sandbox",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "codex",
+      "microvm",
+      "sandbox",
+      "virtualization",
+      "vm"
+    ],
+    "created_at": "2026-07-06T21:30:38",
+    "updated_at": "2026-07-30T17:11:01"
   },
   {
     "name": "caspian-sdk",
     "full_name": "TryCaspian/caspian-sdk",
     "description": "One identity for your AI agent across every channel humans use: Slack, Discord, Telegram, Instagram, email, X, behind a single on_message handler. Channel adapters + SDK + CLI.",
     "url": "https://github.com/TryCaspian/caspian-sdk",
-    "stars": 339,
-    "daily_stars": 11,
+    "stars": 344,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -160,82 +218,27 @@
       "telegram"
     ],
     "created_at": "2026-07-20T10:47:56",
-    "updated_at": "2026-07-30T14:40:53"
+    "updated_at": "2026-07-30T17:43:25"
   },
   {
-    "name": "optim-agent",
-    "full_name": "Optim-Agent/optim-agent",
-    "description": "LLM agents as your hyperparameter optimizer.",
-    "url": "https://github.com/Optim-Agent/optim-agent",
-    "stars": 620,
-    "daily_stars": 9,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "bayesian-optimization",
-      "claude-code",
-      "codex-cli",
-      "hyperparameter-optimization",
-      "machine-learning",
-      "quantitative-finance",
-      "reinforcement-learning",
-      "skill"
-    ],
-    "created_at": "2026-07-07T17:05:54",
-    "updated_at": "2026-07-30T14:35:08"
-  },
-  {
-    "name": "novel-to-game",
-    "full_name": "worldwonderer/novel-to-game",
-    "description": "将任何小说蒸馏为可玩的游戏 · Turn any novel/story into a playable game — a 7-skill adaptation pipeline for Claude Code, Codex & Kimi Code(k3)",
-    "url": "https://github.com/worldwonderer/novel-to-game",
-    "stars": 437,
+    "name": "Dormice",
+    "full_name": "BitMiracle-AI/Dormice",
+    "description": "The SQLite of agent sandboxes — self-hosted, E2B-compatible. One machine, sandboxes that live forever, idle costs nothing.",
+    "url": "https://github.com/BitMiracle-AI/Dormice",
+    "stars": 332,
     "daily_stars": 5,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "ai-game-development",
-      "claude-code",
-      "claude-code-skills",
-      "claude-skills",
-      "codex",
-      "game-design",
-      "gamedev",
-      "interactive-fiction",
-      "kimi-code",
-      "narrative-design",
-      "novel-to-game",
-      "skills",
-      "story-to-game",
-      "text-to-game",
-      "visual-novel",
-      "web-game"
-    ],
-    "created_at": "2026-07-18T16:29:56",
-    "updated_at": "2026-07-30T14:20:27"
-  },
-  {
-    "name": "deer-workflow",
-    "full_name": "deerwork-ai/deer-workflow",
-    "description": "An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-    "url": "https://github.com/deerwork-ai/deer-workflow",
-    "stars": 356,
-    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
-      "agent",
-      "ai",
-      "ai-agent",
+      "agents",
       "ai-agents",
-      "ai-coding",
-      "bun",
-      "dynamic-workflow",
-      "dynamic-workflows",
-      "llm",
-      "workflow"
+      "code-execution",
+      "docker",
+      "e2b",
+      "gvisor",
+      "sandbox",
+      "self-hosted"
     ],
-    "created_at": "2026-07-26T04:20:50",
-    "updated_at": "2026-07-30T13:35:52"
+    "created_at": "2026-07-08T13:02:44",
+    "updated_at": "2026-07-30T16:44:15"
   }
 ]
