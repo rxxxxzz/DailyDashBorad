@@ -4,8 +4,8 @@
     "full_name": "perplexityai/numbat",
     "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
     "url": "https://github.com/perplexityai/numbat",
-    "stars": 331,
-    "daily_stars": 46,
+    "stars": 371,
+    "daily_stars": 40,
     "language": "Go",
     "topics": [
       "agent-security",
@@ -13,15 +13,15 @@
       "ai-agents"
     ],
     "created_at": "2026-07-24T06:07:59",
-    "updated_at": "2026-07-30T17:55:59"
+    "updated_at": "2026-07-30T21:40:53"
   },
   {
     "name": "img2threejs",
     "full_name": "hoainho/img2threejs",
     "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
     "url": "https://github.com/hoainho/img2threejs",
-    "stars": 8501,
-    "daily_stars": 44,
+    "stars": 8528,
+    "daily_stars": 27,
     "language": "Python",
     "topics": [
       "3d",
@@ -36,15 +36,15 @@
       "webgl"
     ],
     "created_at": "2026-07-15T02:58:39",
-    "updated_at": "2026-07-30T17:38:26"
+    "updated_at": "2026-07-30T21:22:17"
   },
   {
     "name": "agent-manager",
     "full_name": "YoanWai/agent-manager",
     "description": "Terminal UI to manage AI coding-agent sessions (Claude Code, OpenCode, Codex, Grok Build) in tmux: live status, group tree, live pane preview, resource gauges.",
     "url": "https://github.com/YoanWai/agent-manager",
-    "stars": 148,
-    "daily_stars": 42,
+    "stars": 166,
+    "daily_stars": 18,
     "language": "Go",
     "topics": [
       "agentic",
@@ -64,15 +64,42 @@
       "tui"
     ],
     "created_at": "2026-07-15T16:27:33",
-    "updated_at": "2026-07-30T17:54:14"
+    "updated_at": "2026-07-30T21:42:14"
+  },
+  {
+    "name": "video-shotcraft",
+    "full_name": "Vincentwei1021/video-shotcraft",
+    "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+    "url": "https://github.com/Vincentwei1021/video-shotcraft",
+    "stars": 2875,
+    "daily_stars": 14,
+    "language": "TypeScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-video",
+      "claude-code",
+      "claude-code-skills",
+      "claude-skills",
+      "codex",
+      "motion-design",
+      "motion-graphics",
+      "product-video",
+      "promo-video",
+      "remotion",
+      "video-generation",
+      "video-production"
+    ],
+    "created_at": "2026-07-19T11:44:41",
+    "updated_at": "2026-07-30T21:16:55"
   },
   {
     "name": "memmy-agent",
     "full_name": "MemTensor/memmy-agent",
     "description": "One Agent. One memory. Shared by every AI. 🍙",
     "url": "https://github.com/MemTensor/memmy-agent",
-    "stars": 232,
-    "daily_stars": 26,
+    "stars": 241,
+    "daily_stars": 9,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -97,41 +124,36 @@
       "tui"
     ],
     "created_at": "2026-07-16T07:57:45",
-    "updated_at": "2026-07-30T17:46:23"
+    "updated_at": "2026-07-30T21:30:32"
   },
   {
-    "name": "video-shotcraft",
-    "full_name": "Vincentwei1021/video-shotcraft",
-    "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-    "url": "https://github.com/Vincentwei1021/video-shotcraft",
-    "stars": 2861,
-    "daily_stars": 18,
-    "language": "TypeScript",
+    "name": "optim-agent",
+    "full_name": "Optim-Agent/optim-agent",
+    "description": "LLM agents as your hyperparameter optimizer.",
+    "url": "https://github.com/Optim-Agent/optim-agent",
+    "stars": 630,
+    "daily_stars": 8,
+    "language": "Python",
     "topics": [
       "agent-skills",
-      "ai-agents",
-      "ai-video",
+      "bayesian-optimization",
       "claude-code",
-      "claude-code-skills",
-      "claude-skills",
-      "codex",
-      "motion-design",
-      "motion-graphics",
-      "product-video",
-      "promo-video",
-      "remotion",
-      "video-generation",
-      "video-production"
+      "codex-cli",
+      "hyperparameter-optimization",
+      "machine-learning",
+      "quantitative-finance",
+      "reinforcement-learning",
+      "skill"
     ],
-    "created_at": "2026-07-19T11:44:41",
-    "updated_at": "2026-07-30T17:55:44"
+    "created_at": "2026-07-07T17:05:54",
+    "updated_at": "2026-07-30T21:08:38"
   },
   {
     "name": "chartr",
     "full_name": "rengwu/chartr",
     "description": "Agent multiplexer with map-charting capabilities",
     "url": "https://github.com/rengwu/chartr",
-    "stars": 154,
+    "stars": 162,
     "daily_stars": 8,
     "language": "Go",
     "topics": [
@@ -148,65 +170,15 @@
       "tmux"
     ],
     "created_at": "2026-07-21T06:22:36",
-    "updated_at": "2026-07-30T17:54:58"
-  },
-  {
-    "name": "awesome-ai-tokenomics",
-    "full_name": "QuesmaOrg/awesome-ai-tokenomics",
-    "description": "A map of what AI tokens actually cost, and where they're wasted vs. well spent. Tools, research, practices, and copy-paste setups for token-efficient agentic coding.",
-    "url": "https://github.com/QuesmaOrg/awesome-ai-tokenomics",
-    "stars": 105,
-    "daily_stars": 6,
-    "language": "Python",
-    "topics": [
-      "agentic-coding",
-      "ai",
-      "ai-agents",
-      "awesome",
-      "awesome-list",
-      "claude-code",
-      "codex",
-      "cost-optimization",
-      "finops",
-      "llm",
-      "llmops",
-      "token-economics",
-      "token-optimization",
-      "tokenomics"
-    ],
-    "created_at": "2026-07-17T21:38:33",
-    "updated_at": "2026-07-30T17:53:50"
-  },
-  {
-    "name": "clawk",
-    "full_name": "clawkwork/clawk",
-    "description": "Disposable, network-restricted Linux VMs for AI coding agents",
-    "url": "https://github.com/clawkwork/clawk",
-    "stars": 852,
-    "daily_stars": 5,
-    "language": "Go",
-    "topics": [
-      "agent-sandbox",
-      "ai-agent-sandbox",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "codex",
-      "microvm",
-      "sandbox",
-      "virtualization",
-      "vm"
-    ],
-    "created_at": "2026-07-06T21:30:38",
-    "updated_at": "2026-07-30T17:11:01"
+    "updated_at": "2026-07-30T21:40:18"
   },
   {
     "name": "caspian-sdk",
     "full_name": "TryCaspian/caspian-sdk",
     "description": "One identity for your AI agent across every channel humans use: Slack, Discord, Telegram, Instagram, email, X, behind a single on_message handler. Channel adapters + SDK + CLI.",
     "url": "https://github.com/TryCaspian/caspian-sdk",
-    "stars": 344,
-    "daily_stars": 5,
+    "stars": 350,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -218,27 +190,46 @@
       "telegram"
     ],
     "created_at": "2026-07-20T10:47:56",
-    "updated_at": "2026-07-30T17:43:25"
+    "updated_at": "2026-07-30T18:47:45"
   },
   {
-    "name": "Dormice",
-    "full_name": "BitMiracle-AI/Dormice",
-    "description": "The SQLite of agent sandboxes — self-hosted, E2B-compatible. One machine, sandboxes that live forever, idle costs nothing.",
-    "url": "https://github.com/BitMiracle-AI/Dormice",
-    "stars": 332,
+    "name": "Octop",
+    "full_name": "TencentCloud/Octop",
+    "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+    "url": "https://github.com/TencentCloud/Octop",
+    "stars": 558,
     "daily_stars": 5,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "local-first",
+      "long-term-memory"
+    ],
+    "created_at": "2026-07-08T12:54:20",
+    "updated_at": "2026-07-30T21:39:57"
+  },
+  {
+    "name": "claude-code-merge-queue",
+    "full_name": "funador/claude-code-merge-queue",
+    "description": "The local merge queue for parallel Claude Code agents",
+    "url": "https://github.com/funador/claude-code-merge-queue",
+    "stars": 109,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
-      "agents",
       "ai-agents",
-      "code-execution",
-      "docker",
-      "e2b",
-      "gvisor",
-      "sandbox",
-      "self-hosted"
+      "claude-code",
+      "coding-agent",
+      "git-worktree",
+      "merge-queue",
+      "monorepo-tooling",
+      "parallel-agents"
     ],
-    "created_at": "2026-07-08T13:02:44",
-    "updated_at": "2026-07-30T16:44:15"
+    "created_at": "2026-07-10T22:05:05",
+    "updated_at": "2026-07-30T20:57:16"
   }
 ]
