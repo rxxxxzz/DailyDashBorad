@@ -4,8 +4,8 @@
     "full_name": "hoainho/img2threejs",
     "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
     "url": "https://github.com/hoainho/img2threejs",
-    "stars": 8638,
-    "daily_stars": 49,
+    "stars": 8695,
+    "daily_stars": 57,
     "language": "Python",
     "topics": [
       "3d",
@@ -20,15 +20,15 @@
       "webgl"
     ],
     "created_at": "2026-07-15T02:58:39",
-    "updated_at": "2026-07-31T07:21:24"
+    "updated_at": "2026-07-31T11:03:33"
   },
   {
     "name": "memmy-agent",
     "full_name": "MemTensor/memmy-agent",
     "description": "One Agent. One memory. Shared by every AI. 🍙",
     "url": "https://github.com/MemTensor/memmy-agent",
-    "stars": 318,
-    "daily_stars": 36,
+    "stars": 339,
+    "daily_stars": 21,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -53,31 +53,15 @@
       "tui"
     ],
     "created_at": "2026-07-16T07:57:45",
-    "updated_at": "2026-07-31T07:14:43"
-  },
-  {
-    "name": "numbat",
-    "full_name": "perplexityai/numbat",
-    "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
-    "url": "https://github.com/perplexityai/numbat",
-    "stars": 439,
-    "daily_stars": 29,
-    "language": "Go",
-    "topics": [
-      "agent-security",
-      "ai-agent-security",
-      "ai-agents"
-    ],
-    "created_at": "2026-07-24T06:07:59",
-    "updated_at": "2026-07-31T07:16:46"
+    "updated_at": "2026-07-31T11:04:03"
   },
   {
     "name": "video-shotcraft",
     "full_name": "Vincentwei1021/video-shotcraft",
     "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
     "url": "https://github.com/Vincentwei1021/video-shotcraft",
-    "stars": 2921,
-    "daily_stars": 16,
+    "stars": 2940,
+    "daily_stars": 19,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -96,65 +80,51 @@
       "video-production"
     ],
     "created_at": "2026-07-19T11:44:41",
-    "updated_at": "2026-07-31T07:08:58"
+    "updated_at": "2026-07-31T10:49:20"
   },
   {
-    "name": "ProductSpec",
-    "full_name": "gokulrajaram/ProductSpec",
-    "description": "ProductSpec is the open standard for software intent before implementation.",
-    "url": "https://github.com/gokulrajaram/ProductSpec",
-    "stars": 216,
-    "daily_stars": 9,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "developer-tools",
-      "markdown",
-      "openspec",
-      "prd",
-      "product-management",
-      "productspec",
-      "spec-driven-development",
-      "speckit"
-    ],
-    "created_at": "2026-07-04T19:57:44",
-    "updated_at": "2026-07-31T04:58:21"
-  },
-  {
-    "name": "agent-manager",
-    "full_name": "YoanWai/agent-manager",
-    "description": "Terminal UI to manage AI coding-agent sessions (Claude Code, OpenCode, Codex, Grok Build) in tmux: live status, group tree, live pane preview, resource gauges.",
-    "url": "https://github.com/YoanWai/agent-manager",
-    "stars": 187,
-    "daily_stars": 9,
+    "name": "numbat",
+    "full_name": "perplexityai/numbat",
+    "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
+    "url": "https://github.com/perplexityai/numbat",
+    "stars": 457,
+    "daily_stars": 18,
     "language": "Go",
     "topics": [
-      "agentic",
-      "ai-agents",
-      "bubbletea",
-      "claude-code",
-      "cli",
-      "code-review",
-      "codex",
-      "coding-agent",
-      "developer-tools",
-      "golang",
-      "grok",
-      "opencode",
-      "terminal",
-      "tmux",
-      "tui"
+      "agent-security",
+      "ai-agent-security",
+      "ai-agents"
     ],
-    "created_at": "2026-07-15T16:27:33",
-    "updated_at": "2026-07-31T07:04:22"
+    "created_at": "2026-07-24T06:07:59",
+    "updated_at": "2026-07-31T10:33:05"
+  },
+  {
+    "name": "activity-frames",
+    "full_name": "nossa-y/activity-frames",
+    "description": "Episodic memory for AI agents. Records your screen locally, compiles it into structured activity frames, serves them over MCP. No cloud, no LLM in the loop.",
+    "url": "https://github.com/nossa-y/activity-frames",
+    "stars": 394,
+    "daily_stars": 17,
+    "language": "Python",
+    "topics": [
+      "agent-memory",
+      "ai-agents",
+      "computer-use",
+      "context-engineering",
+      "episodic-memory",
+      "llm",
+      "mcp"
+    ],
+    "created_at": "2026-07-04T23:24:02",
+    "updated_at": "2026-07-31T10:53:41"
   },
   {
     "name": "Octop",
     "full_name": "TencentCloud/Octop",
     "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
     "url": "https://github.com/TencentCloud/Octop",
-    "stars": 574,
-    "daily_stars": 7,
+    "stars": 585,
+    "daily_stars": 11,
     "language": "Python",
     "topics": [
       "agent",
@@ -166,85 +136,91 @@
       "long-term-memory"
     ],
     "created_at": "2026-07-08T12:54:20",
-    "updated_at": "2026-07-31T07:18:57"
+    "updated_at": "2026-07-31T11:03:44"
   },
   {
-    "name": "tty7",
-    "full_name": "l0ng-ai/tty7",
-    "description": "A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty.",
-    "url": "https://github.com/l0ng-ai/tty7",
-    "stars": 412,
-    "daily_stars": 5,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "alacritty",
-      "claude-code",
-      "coding-agent",
-      "cross-platform",
-      "daemon",
-      "developer-tools",
-      "gpu",
-      "gpui",
-      "linux",
-      "macos",
-      "pty",
-      "rust",
-      "shell",
-      "ssh",
-      "terminal",
-      "terminal-emulator",
-      "terminal-multiplexer",
-      "tmux-alternative",
-      "windows"
-    ],
-    "created_at": "2026-07-06T12:51:10",
-    "updated_at": "2026-07-31T07:15:24"
-  },
-  {
-    "name": "optim-agent",
-    "full_name": "Optim-Agent/optim-agent",
-    "description": "LLM agents as your hyperparameter optimizer.",
-    "url": "https://github.com/Optim-Agent/optim-agent",
-    "stars": 638,
-    "daily_stars": 3,
+    "name": "old-coder",
+    "full_name": "AmazingAng/old-coder",
+    "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
+    "url": "https://github.com/AmazingAng/old-coder",
+    "stars": 180,
+    "daily_stars": 9,
     "language": "Python",
     "topics": [
-      "agent-skills",
-      "bayesian-optimization",
+      "ai-agents",
       "claude-code",
-      "codex-cli",
-      "hyperparameter-optimization",
-      "machine-learning",
-      "quantitative-finance",
-      "reinforcement-learning",
-      "skill"
+      "skills",
+      "tdd"
     ],
-    "created_at": "2026-07-07T17:05:54",
-    "updated_at": "2026-07-31T07:11:34"
+    "created_at": "2026-07-27T05:03:11",
+    "updated_at": "2026-07-31T10:40:22"
   },
   {
-    "name": "Meterless",
-    "full_name": "Meterless/Meterless",
-    "description": "Local-first context layer for AI agents. Open-source memory, reasoning, world state, intent, and swarm engines.",
-    "url": "https://github.com/Meterless/Meterless",
-    "stars": 185,
-    "daily_stars": 3,
+    "name": "penguin-harness",
+    "full_name": "Prism-Shadow/penguin-harness",
+    "description": "Open, Efficient, Self-Improving Harness: Autonomously Build and Optimize AI Products for Just a Few Dollars",
+    "url": "https://github.com/Prism-Shadow/penguin-harness",
+    "stars": 231,
+    "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
-      "agent-memory",
+      "agent",
       "agentic-ai",
-      "ai-agents",
-      "browser-use",
-      "context-engineering",
-      "desktop-automation",
-      "hierarchical-memory",
-      "local-first-ai",
-      "markovian",
-      "multi-agent-systems",
-      "world-model"
+      "ai",
+      "ai-product",
+      "claude-code",
+      "harness",
+      "llm",
+      "productivity",
+      "skills",
+      "workflow"
     ],
-    "created_at": "2026-07-13T05:46:52",
-    "updated_at": "2026-07-31T05:32:20"
+    "created_at": "2026-07-19T03:15:21",
+    "updated_at": "2026-07-31T10:19:10"
+  },
+  {
+    "name": "Dormice",
+    "full_name": "BitMiracle-AI/Dormice",
+    "description": "The SQLite of agent sandboxes — self-hosted, E2B-compatible. One machine, sandboxes that live forever, idle costs nothing.",
+    "url": "https://github.com/BitMiracle-AI/Dormice",
+    "stars": 349,
+    "daily_stars": 5,
+    "language": "TypeScript",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "code-execution",
+      "docker",
+      "e2b",
+      "gvisor",
+      "sandbox",
+      "self-hosted"
+    ],
+    "created_at": "2026-07-08T13:02:44",
+    "updated_at": "2026-07-31T10:59:42"
+  },
+  {
+    "name": "chartr",
+    "full_name": "rengwu/chartr",
+    "description": "Agent multiplexer with map-charting capabilities",
+    "url": "https://github.com/rengwu/chartr",
+    "stars": 180,
+    "daily_stars": 5,
+    "language": "Go",
+    "topics": [
+      "agent",
+      "agent-orchestration",
+      "ai",
+      "ai-agents",
+      "developer-tools",
+      "golang",
+      "svelte",
+      "terminal",
+      "terminal-m",
+      "terminal-multiplexer",
+      "tmux"
+    ],
+    "created_at": "2026-07-21T06:22:36",
+    "updated_at": "2026-07-31T11:05:14"
   }
 ]

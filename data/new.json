@@ -4,8 +4,8 @@
     "full_name": "mikehasa/agentacct",
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
     "url": "https://github.com/mikehasa/agentacct",
-    "stars": 538,
-    "daily_stars": 0,
+    "stars": 537,
+    "daily_stars": -1,
     "language": "Python",
     "topics": [
       "agent-observability",
@@ -29,15 +29,15 @@
       "token-usage"
     ],
     "created_at": "2026-07-24T16:28:06",
-    "updated_at": "2026-07-30T21:58:22"
+    "updated_at": "2026-07-31T08:31:28"
   },
   {
     "name": "numbat",
     "full_name": "perplexityai/numbat",
     "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
     "url": "https://github.com/perplexityai/numbat",
-    "stars": 439,
-    "daily_stars": 29,
+    "stars": 457,
+    "daily_stars": 18,
     "language": "Go",
     "topics": [
       "agent-security",
@@ -45,14 +45,37 @@
       "ai-agents"
     ],
     "created_at": "2026-07-24T06:07:59",
-    "updated_at": "2026-07-31T07:16:46"
+    "updated_at": "2026-07-31T10:33:05"
   },
   {
     "name": "deer-workflow",
     "full_name": "deerwork-ai/deer-workflow",
     "description": "An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
     "url": "https://github.com/deerwork-ai/deer-workflow",
-    "stars": 359,
+    "stars": 362,
+    "daily_stars": 3,
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-coding",
+      "bun",
+      "dynamic-workflow",
+      "dynamic-workflows",
+      "llm",
+      "workflow"
+    ],
+    "created_at": "2026-07-26T04:20:50",
+    "updated_at": "2026-07-31T08:59:06"
+  },
+  {
+    "name": "deer-workflow",
+    "full_name": "deerwork-ai/deer-workflow",
+    "description": "An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+    "url": "https://github.com/deerwork-ai/deer-workflow",
+    "stars": 362,
     "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
@@ -68,38 +91,15 @@
       "workflow"
     ],
     "created_at": "2026-07-26T04:20:50",
-    "updated_at": "2026-07-31T03:41:06"
-  },
-  {
-    "name": "deer-workflow",
-    "full_name": "deerwork-ai/deer-workflow",
-    "description": "An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-    "url": "https://github.com/deerwork-ai/deer-workflow",
-    "stars": 359,
-    "daily_stars": 0,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "ai-coding",
-      "bun",
-      "dynamic-workflow",
-      "dynamic-workflows",
-      "llm",
-      "workflow"
-    ],
-    "created_at": "2026-07-26T04:20:50",
-    "updated_at": "2026-07-31T03:41:06"
+    "updated_at": "2026-07-31T08:59:06"
   },
   {
     "name": "old-coder",
     "full_name": "AmazingAng/old-coder",
     "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
     "url": "https://github.com/AmazingAng/old-coder",
-    "stars": 171,
-    "daily_stars": 0,
+    "stars": 180,
+    "daily_stars": 9,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -108,15 +108,15 @@
       "tdd"
     ],
     "created_at": "2026-07-27T05:03:11",
-    "updated_at": "2026-07-31T02:18:39"
+    "updated_at": "2026-07-31T10:40:22"
   },
   {
     "name": "Grok-UI",
     "full_name": "joeynyc/Grok-UI",
     "description": "Local-first live command center for Grok Build — runtime, ACP control, session history, and Git changes.",
     "url": "https://github.com/joeynyc/Grok-UI",
-    "stars": 127,
-    "daily_stars": 3,
+    "stars": 129,
+    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
       "agent-client-protocol",
@@ -135,15 +135,15 @@
       "xai"
     ],
     "created_at": "2026-07-24T09:38:50",
-    "updated_at": "2026-07-31T06:55:43"
+    "updated_at": "2026-07-31T11:03:40"
   },
   {
     "name": "autodev-studio",
     "full_name": "krishagarwal314/autodev-studio",
     "description": "Autonomous multi-agent SDLC harness: describe a feature in plain English and AI agents scope, code, test, review, and open a PR — grounded in a one-time knowledge base of your repo.",
     "url": "https://github.com/krishagarwal314/autodev-studio",
-    "stars": 116,
-    "daily_stars": 0,
+    "stars": 117,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -164,7 +164,7 @@
       "sdlc"
     ],
     "created_at": "2026-07-24T09:55:46",
-    "updated_at": "2026-07-31T00:30:44"
+    "updated_at": "2026-07-31T08:34:42"
   },
   {
     "name": "bullshit-detector",
@@ -172,7 +172,7 @@
     "description": "Agent skills that fact-check the internet: claim-by-claim verification with sources and a 0-10 BS score for any YouTube video, article, tweet, or PDF",
     "url": "https://github.com/SerhiiKorniienko/bullshit-detector",
     "stars": 80,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -193,7 +193,7 @@
     "description": "Windows 托盘上的 Kimi Code 用量监控：左键看额度，低额变红提醒。Tauri 2 + Rust，安装包仅 3MB。",
     "url": "https://github.com/JYH1878/KimiCodeBar-Windows",
     "stars": 76,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -230,6 +230,6 @@
       "workflow-automation"
     ],
     "created_at": "2026-07-24T15:27:02",
-    "updated_at": "2026-07-31T03:23:13"
+    "updated_at": "2026-07-31T09:25:30"
   }
 ]
