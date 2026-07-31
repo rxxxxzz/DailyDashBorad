@@ -1,27 +1,11 @@
 [
   {
-    "name": "numbat",
-    "full_name": "perplexityai/numbat",
-    "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
-    "url": "https://github.com/perplexityai/numbat",
-    "stars": 371,
-    "daily_stars": 40,
-    "language": "Go",
-    "topics": [
-      "agent-security",
-      "ai-agent-security",
-      "ai-agents"
-    ],
-    "created_at": "2026-07-24T06:07:59",
-    "updated_at": "2026-07-30T21:40:53"
-  },
-  {
     "name": "img2threejs",
     "full_name": "hoainho/img2threejs",
     "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
     "url": "https://github.com/hoainho/img2threejs",
-    "stars": 8528,
-    "daily_stars": 27,
+    "stars": 8589,
+    "daily_stars": 61,
     "language": "Python",
     "topics": [
       "3d",
@@ -36,70 +20,15 @@
       "webgl"
     ],
     "created_at": "2026-07-15T02:58:39",
-    "updated_at": "2026-07-30T21:22:17"
-  },
-  {
-    "name": "agent-manager",
-    "full_name": "YoanWai/agent-manager",
-    "description": "Terminal UI to manage AI coding-agent sessions (Claude Code, OpenCode, Codex, Grok Build) in tmux: live status, group tree, live pane preview, resource gauges.",
-    "url": "https://github.com/YoanWai/agent-manager",
-    "stars": 166,
-    "daily_stars": 18,
-    "language": "Go",
-    "topics": [
-      "agentic",
-      "ai-agents",
-      "bubbletea",
-      "claude-code",
-      "cli",
-      "code-review",
-      "codex",
-      "coding-agent",
-      "developer-tools",
-      "golang",
-      "grok",
-      "opencode",
-      "terminal",
-      "tmux",
-      "tui"
-    ],
-    "created_at": "2026-07-15T16:27:33",
-    "updated_at": "2026-07-30T21:42:14"
-  },
-  {
-    "name": "video-shotcraft",
-    "full_name": "Vincentwei1021/video-shotcraft",
-    "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-    "url": "https://github.com/Vincentwei1021/video-shotcraft",
-    "stars": 2875,
-    "daily_stars": 14,
-    "language": "TypeScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "ai-video",
-      "claude-code",
-      "claude-code-skills",
-      "claude-skills",
-      "codex",
-      "motion-design",
-      "motion-graphics",
-      "product-video",
-      "promo-video",
-      "remotion",
-      "video-generation",
-      "video-production"
-    ],
-    "created_at": "2026-07-19T11:44:41",
-    "updated_at": "2026-07-30T21:16:55"
+    "updated_at": "2026-07-31T03:48:26"
   },
   {
     "name": "memmy-agent",
     "full_name": "MemTensor/memmy-agent",
     "description": "One Agent. One memory. Shared by every AI. 🍙",
     "url": "https://github.com/MemTensor/memmy-agent",
-    "stars": 241,
-    "daily_stars": 9,
+    "stars": 282,
+    "daily_stars": 41,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -124,37 +53,86 @@
       "tui"
     ],
     "created_at": "2026-07-16T07:57:45",
-    "updated_at": "2026-07-30T21:30:32"
+    "updated_at": "2026-07-31T03:59:04"
   },
   {
-    "name": "optim-agent",
-    "full_name": "Optim-Agent/optim-agent",
-    "description": "LLM agents as your hyperparameter optimizer.",
-    "url": "https://github.com/Optim-Agent/optim-agent",
-    "stars": 630,
-    "daily_stars": 8,
-    "language": "Python",
+    "name": "numbat",
+    "full_name": "perplexityai/numbat",
+    "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
+    "url": "https://github.com/perplexityai/numbat",
+    "stars": 410,
+    "daily_stars": 39,
+    "language": "Go",
+    "topics": [
+      "agent-security",
+      "ai-agent-security",
+      "ai-agents"
+    ],
+    "created_at": "2026-07-24T06:07:59",
+    "updated_at": "2026-07-31T03:55:17"
+  },
+  {
+    "name": "video-shotcraft",
+    "full_name": "Vincentwei1021/video-shotcraft",
+    "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+    "url": "https://github.com/Vincentwei1021/video-shotcraft",
+    "stars": 2905,
+    "daily_stars": 30,
+    "language": "TypeScript",
     "topics": [
       "agent-skills",
-      "bayesian-optimization",
+      "ai-agents",
+      "ai-video",
       "claude-code",
-      "codex-cli",
-      "hyperparameter-optimization",
-      "machine-learning",
-      "quantitative-finance",
-      "reinforcement-learning",
-      "skill"
+      "claude-code-skills",
+      "claude-skills",
+      "codex",
+      "motion-design",
+      "motion-graphics",
+      "product-video",
+      "promo-video",
+      "remotion",
+      "video-generation",
+      "video-production"
     ],
-    "created_at": "2026-07-07T17:05:54",
-    "updated_at": "2026-07-30T21:08:38"
+    "created_at": "2026-07-19T11:44:41",
+    "updated_at": "2026-07-31T03:41:00"
+  },
+  {
+    "name": "agent-manager",
+    "full_name": "YoanWai/agent-manager",
+    "description": "Terminal UI to manage AI coding-agent sessions (Claude Code, OpenCode, Codex, Grok Build) in tmux: live status, group tree, live pane preview, resource gauges.",
+    "url": "https://github.com/YoanWai/agent-manager",
+    "stars": 178,
+    "daily_stars": 12,
+    "language": "Go",
+    "topics": [
+      "agentic",
+      "ai-agents",
+      "bubbletea",
+      "claude-code",
+      "cli",
+      "code-review",
+      "codex",
+      "coding-agent",
+      "developer-tools",
+      "golang",
+      "grok",
+      "opencode",
+      "terminal",
+      "tmux",
+      "tui"
+    ],
+    "created_at": "2026-07-15T16:27:33",
+    "updated_at": "2026-07-31T03:56:04"
   },
   {
     "name": "chartr",
     "full_name": "rengwu/chartr",
     "description": "Agent multiplexer with map-charting capabilities",
     "url": "https://github.com/rengwu/chartr",
-    "stars": 162,
-    "daily_stars": 8,
+    "stars": 172,
+    "daily_stars": 10,
     "language": "Go",
     "topics": [
       "agent",
@@ -170,35 +148,42 @@
       "tmux"
     ],
     "created_at": "2026-07-21T06:22:36",
-    "updated_at": "2026-07-30T21:40:18"
+    "updated_at": "2026-07-31T03:44:25"
   },
   {
-    "name": "caspian-sdk",
-    "full_name": "TryCaspian/caspian-sdk",
-    "description": "One identity for your AI agent across every channel humans use: Slack, Discord, Telegram, Instagram, email, X, behind a single on_message handler. Channel adapters + SDK + CLI.",
-    "url": "https://github.com/TryCaspian/caspian-sdk",
-    "stars": 350,
-    "daily_stars": 6,
+    "name": "Awesome-Spiking-Neural-Networks-Hub",
+    "full_name": "haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
+    "description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
+    "url": "https://github.com/haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
+    "stars": 124,
+    "daily_stars": 10,
     "language": "Python",
     "topics": [
-      "ai-agents",
-      "communication",
-      "discord",
-      "messaging",
-      "sdk",
-      "slack",
-      "telegram"
+      "awesome",
+      "awesome-list",
+      "brain-inspired-computing",
+      "deep-learning",
+      "event-camera",
+      "machine-learning",
+      "neural-networks",
+      "neuromorphic-computing",
+      "neuromorphic-hardware",
+      "paper-list",
+      "snn",
+      "spiking-neural-networks",
+      "spiking-transformer",
+      "surrogate-gradient"
     ],
-    "created_at": "2026-07-20T10:47:56",
-    "updated_at": "2026-07-30T18:47:45"
+    "created_at": "2026-07-20T12:55:19",
+    "updated_at": "2026-07-31T03:34:03"
   },
   {
     "name": "Octop",
     "full_name": "TencentCloud/Octop",
     "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
     "url": "https://github.com/TencentCloud/Octop",
-    "stars": 558,
-    "daily_stars": 5,
+    "stars": 567,
+    "daily_stars": 9,
     "language": "Python",
     "topics": [
       "agent",
@@ -210,26 +195,49 @@
       "long-term-memory"
     ],
     "created_at": "2026-07-08T12:54:20",
-    "updated_at": "2026-07-30T21:39:57"
+    "updated_at": "2026-07-31T03:40:39"
   },
   {
-    "name": "claude-code-merge-queue",
-    "full_name": "funador/claude-code-merge-queue",
-    "description": "The local merge queue for parallel Claude Code agents",
-    "url": "https://github.com/funador/claude-code-merge-queue",
-    "stars": 109,
-    "daily_stars": 4,
+    "name": "Dormice",
+    "full_name": "BitMiracle-AI/Dormice",
+    "description": "The SQLite of agent sandboxes — self-hosted, E2B-compatible. One machine, sandboxes that live forever, idle costs nothing.",
+    "url": "https://github.com/BitMiracle-AI/Dormice",
+    "stars": 342,
+    "daily_stars": 7,
+    "language": "TypeScript",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "code-execution",
+      "docker",
+      "e2b",
+      "gvisor",
+      "sandbox",
+      "self-hosted"
+    ],
+    "created_at": "2026-07-08T13:02:44",
+    "updated_at": "2026-07-31T03:55:17"
+  },
+  {
+    "name": "ProductSpec",
+    "full_name": "gokulrajaram/ProductSpec",
+    "description": "ProductSpec is the open standard for software intent before implementation.",
+    "url": "https://github.com/gokulrajaram/ProductSpec",
+    "stars": 207,
+    "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "claude-code",
-      "coding-agent",
-      "git-worktree",
-      "merge-queue",
-      "monorepo-tooling",
-      "parallel-agents"
+      "developer-tools",
+      "markdown",
+      "openspec",
+      "prd",
+      "product-management",
+      "productspec",
+      "spec-driven-development",
+      "speckit"
     ],
-    "created_at": "2026-07-10T22:05:05",
-    "updated_at": "2026-07-30T20:57:16"
+    "created_at": "2026-07-04T19:57:44",
+    "updated_at": "2026-07-31T03:41:50"
   }
 ]
