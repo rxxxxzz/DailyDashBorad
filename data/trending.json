@@ -4,8 +4,8 @@
     "full_name": "hoainho/img2threejs",
     "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
     "url": "https://github.com/hoainho/img2threejs",
-    "stars": 8695,
-    "daily_stars": 57,
+    "stars": 8732,
+    "daily_stars": 37,
     "language": "Python",
     "topics": [
       "3d",
@@ -20,15 +20,119 @@
       "webgl"
     ],
     "created_at": "2026-07-15T02:58:39",
-    "updated_at": "2026-07-31T11:03:33"
+    "updated_at": "2026-07-31T14:36:45"
+  },
+  {
+    "name": "video-shotcraft",
+    "full_name": "Vincentwei1021/video-shotcraft",
+    "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+    "url": "https://github.com/Vincentwei1021/video-shotcraft",
+    "stars": 2973,
+    "daily_stars": 33,
+    "language": "TypeScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-video",
+      "claude-code",
+      "claude-code-skills",
+      "claude-skills",
+      "codex",
+      "motion-design",
+      "motion-graphics",
+      "product-video",
+      "promo-video",
+      "remotion",
+      "video-generation",
+      "video-production"
+    ],
+    "created_at": "2026-07-19T11:44:41",
+    "updated_at": "2026-07-31T14:52:15"
+  },
+  {
+    "name": "tty7",
+    "full_name": "l0ng-ai/tty7",
+    "description": "A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty.",
+    "url": "https://github.com/l0ng-ai/tty7",
+    "stars": 434,
+    "daily_stars": 18,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "alacritty",
+      "claude-code",
+      "coding-agent",
+      "cross-platform",
+      "daemon",
+      "developer-tools",
+      "gpu",
+      "gpui",
+      "linux",
+      "macos",
+      "pty",
+      "rust",
+      "shell",
+      "ssh",
+      "terminal",
+      "terminal-emulator",
+      "terminal-multiplexer",
+      "tmux-alternative",
+      "windows"
+    ],
+    "created_at": "2026-07-06T12:51:10",
+    "updated_at": "2026-07-31T14:57:46"
+  },
+  {
+    "name": "numbat",
+    "full_name": "perplexityai/numbat",
+    "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
+    "url": "https://github.com/perplexityai/numbat",
+    "stars": 473,
+    "daily_stars": 16,
+    "language": "Go",
+    "topics": [
+      "agent-security",
+      "ai-agent-security",
+      "ai-agents"
+    ],
+    "created_at": "2026-07-24T06:07:59",
+    "updated_at": "2026-07-31T14:39:46"
+  },
+  {
+    "name": "agent-manager",
+    "full_name": "YoanWai/agent-manager",
+    "description": "Terminal UI to manage AI coding-agent sessions (Claude Code, OpenCode, Codex, Grok Build) in tmux: live status, group tree, live pane preview, resource gauges.",
+    "url": "https://github.com/YoanWai/agent-manager",
+    "stars": 201,
+    "daily_stars": 10,
+    "language": "Go",
+    "topics": [
+      "agentic",
+      "ai-agents",
+      "bubbletea",
+      "claude-code",
+      "cli",
+      "code-review",
+      "codex",
+      "coding-agent",
+      "developer-tools",
+      "golang",
+      "grok",
+      "opencode",
+      "terminal",
+      "tmux",
+      "tui"
+    ],
+    "created_at": "2026-07-15T16:27:33",
+    "updated_at": "2026-07-31T14:56:04"
   },
   {
     "name": "memmy-agent",
     "full_name": "MemTensor/memmy-agent",
     "description": "One Agent. One memory. Shared by every AI. 🍙",
     "url": "https://github.com/MemTensor/memmy-agent",
-    "stars": 339,
-    "daily_stars": 21,
+    "stars": 348,
+    "daily_stars": 9,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -53,78 +157,15 @@
       "tui"
     ],
     "created_at": "2026-07-16T07:57:45",
-    "updated_at": "2026-07-31T11:04:03"
-  },
-  {
-    "name": "video-shotcraft",
-    "full_name": "Vincentwei1021/video-shotcraft",
-    "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-    "url": "https://github.com/Vincentwei1021/video-shotcraft",
-    "stars": 2940,
-    "daily_stars": 19,
-    "language": "TypeScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "ai-video",
-      "claude-code",
-      "claude-code-skills",
-      "claude-skills",
-      "codex",
-      "motion-design",
-      "motion-graphics",
-      "product-video",
-      "promo-video",
-      "remotion",
-      "video-generation",
-      "video-production"
-    ],
-    "created_at": "2026-07-19T11:44:41",
-    "updated_at": "2026-07-31T10:49:20"
-  },
-  {
-    "name": "numbat",
-    "full_name": "perplexityai/numbat",
-    "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
-    "url": "https://github.com/perplexityai/numbat",
-    "stars": 457,
-    "daily_stars": 18,
-    "language": "Go",
-    "topics": [
-      "agent-security",
-      "ai-agent-security",
-      "ai-agents"
-    ],
-    "created_at": "2026-07-24T06:07:59",
-    "updated_at": "2026-07-31T10:33:05"
-  },
-  {
-    "name": "activity-frames",
-    "full_name": "nossa-y/activity-frames",
-    "description": "Episodic memory for AI agents. Records your screen locally, compiles it into structured activity frames, serves them over MCP. No cloud, no LLM in the loop.",
-    "url": "https://github.com/nossa-y/activity-frames",
-    "stars": 394,
-    "daily_stars": 17,
-    "language": "Python",
-    "topics": [
-      "agent-memory",
-      "ai-agents",
-      "computer-use",
-      "context-engineering",
-      "episodic-memory",
-      "llm",
-      "mcp"
-    ],
-    "created_at": "2026-07-04T23:24:02",
-    "updated_at": "2026-07-31T10:53:41"
+    "updated_at": "2026-07-31T14:46:56"
   },
   {
     "name": "Octop",
     "full_name": "TencentCloud/Octop",
     "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
     "url": "https://github.com/TencentCloud/Octop",
-    "stars": 585,
-    "daily_stars": 11,
+    "stars": 593,
+    "daily_stars": 8,
     "language": "Python",
     "topics": [
       "agent",
@@ -136,15 +177,66 @@
       "long-term-memory"
     ],
     "created_at": "2026-07-08T12:54:20",
-    "updated_at": "2026-07-31T11:03:44"
+    "updated_at": "2026-07-31T14:57:13"
+  },
+  {
+    "name": "caspian-sdk",
+    "full_name": "TryCaspian/caspian-sdk",
+    "description": "One identity for your AI agent across every channel humans use: Slack, Discord, Telegram, Instagram, email, X, behind a single on_message handler. Channel adapters + SDK + CLI.",
+    "url": "https://github.com/TryCaspian/caspian-sdk",
+    "stars": 365,
+    "daily_stars": 7,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "communication",
+      "discord",
+      "messaging",
+      "sdk",
+      "slack",
+      "telegram"
+    ],
+    "created_at": "2026-07-20T10:47:56",
+    "updated_at": "2026-07-31T14:14:08"
+  },
+  {
+    "name": "novel-to-game",
+    "full_name": "worldwonderer/novel-to-game",
+    "description": "将任何小说蒸馏为可玩的游戏 · Turn any novel/story into a playable game — a 7-skill adaptation pipeline for Claude Code, Codex & Kimi Code(k3)",
+    "url": "https://github.com/worldwonderer/novel-to-game",
+    "stars": 455,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-game-development",
+      "claude-code",
+      "claude-code-skills",
+      "claude-skills",
+      "codex",
+      "game-design",
+      "gamedev",
+      "interactive-fiction",
+      "kimi-code",
+      "narrative-design",
+      "novel-to-game",
+      "skills",
+      "story-to-game",
+      "text-to-game",
+      "visual-novel",
+      "web-game"
+    ],
+    "created_at": "2026-07-18T16:29:56",
+    "updated_at": "2026-07-31T14:52:25"
   },
   {
     "name": "old-coder",
     "full_name": "AmazingAng/old-coder",
     "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
     "url": "https://github.com/AmazingAng/old-coder",
-    "stars": 180,
-    "daily_stars": 9,
+    "stars": 186,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -153,74 +245,6 @@
       "tdd"
     ],
     "created_at": "2026-07-27T05:03:11",
-    "updated_at": "2026-07-31T10:40:22"
-  },
-  {
-    "name": "penguin-harness",
-    "full_name": "Prism-Shadow/penguin-harness",
-    "description": "Open, Efficient, Self-Improving Harness: Autonomously Build and Optimize AI Products for Just a Few Dollars",
-    "url": "https://github.com/Prism-Shadow/penguin-harness",
-    "stars": 231,
-    "daily_stars": 6,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "ai",
-      "ai-product",
-      "claude-code",
-      "harness",
-      "llm",
-      "productivity",
-      "skills",
-      "workflow"
-    ],
-    "created_at": "2026-07-19T03:15:21",
-    "updated_at": "2026-07-31T10:19:10"
-  },
-  {
-    "name": "Dormice",
-    "full_name": "BitMiracle-AI/Dormice",
-    "description": "The SQLite of agent sandboxes — self-hosted, E2B-compatible. One machine, sandboxes that live forever, idle costs nothing.",
-    "url": "https://github.com/BitMiracle-AI/Dormice",
-    "stars": 349,
-    "daily_stars": 5,
-    "language": "TypeScript",
-    "topics": [
-      "agents",
-      "ai-agents",
-      "code-execution",
-      "docker",
-      "e2b",
-      "gvisor",
-      "sandbox",
-      "self-hosted"
-    ],
-    "created_at": "2026-07-08T13:02:44",
-    "updated_at": "2026-07-31T10:59:42"
-  },
-  {
-    "name": "chartr",
-    "full_name": "rengwu/chartr",
-    "description": "Agent multiplexer with map-charting capabilities",
-    "url": "https://github.com/rengwu/chartr",
-    "stars": 180,
-    "daily_stars": 5,
-    "language": "Go",
-    "topics": [
-      "agent",
-      "agent-orchestration",
-      "ai",
-      "ai-agents",
-      "developer-tools",
-      "golang",
-      "svelte",
-      "terminal",
-      "terminal-m",
-      "terminal-multiplexer",
-      "tmux"
-    ],
-    "created_at": "2026-07-21T06:22:36",
-    "updated_at": "2026-07-31T11:05:14"
+    "updated_at": "2026-07-31T13:56:28"
   }
 ]
