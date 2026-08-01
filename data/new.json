@@ -29,7 +29,7 @@
       "token-usage"
     ],
     "created_at": "2026-07-24T16:28:06",
-    "updated_at": "2026-07-31T20:33:27"
+    "updated_at": "2026-08-01T09:26:44"
   },
   {
     "name": "ratchet",
@@ -61,8 +61,8 @@
     "full_name": "deerwork-ai/deer-workflow",
     "description": "An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
     "url": "https://github.com/deerwork-ai/deer-workflow",
-    "stars": 369,
-    "daily_stars": 1,
+    "stars": 371,
+    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -77,14 +77,14 @@
       "workflow"
     ],
     "created_at": "2026-07-26T04:20:50",
-    "updated_at": "2026-08-01T05:55:16"
+    "updated_at": "2026-08-01T09:33:01"
   },
   {
     "name": "deer-workflow",
     "full_name": "deerwork-ai/deer-workflow",
     "description": "An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
     "url": "https://github.com/deerwork-ai/deer-workflow",
-    "stars": 369,
+    "stars": 371,
     "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
@@ -100,15 +100,15 @@
       "workflow"
     ],
     "created_at": "2026-07-26T04:20:50",
-    "updated_at": "2026-08-01T05:55:16"
+    "updated_at": "2026-08-01T09:33:01"
   },
   {
     "name": "old-coder",
     "full_name": "AmazingAng/old-coder",
     "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
     "url": "https://github.com/AmazingAng/old-coder",
-    "stars": 201,
-    "daily_stars": 2,
+    "stars": 210,
+    "daily_stars": 9,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -117,63 +117,7 @@
       "tdd"
     ],
     "created_at": "2026-07-27T05:03:11",
-    "updated_at": "2026-08-01T06:17:25"
-  },
-  {
-    "name": "Grok-UI",
-    "full_name": "joeynyc/Grok-UI",
-    "description": "Local-first live command center for Grok Build — runtime, ACP control, session history, and Git changes.",
-    "url": "https://github.com/joeynyc/Grok-UI",
-    "stars": 130,
-    "daily_stars": 0,
-    "language": "TypeScript",
-    "topics": [
-      "agent-client-protocol",
-      "ai-agents",
-      "dashboard",
-      "developer-tools",
-      "git",
-      "grok",
-      "grok-build",
-      "local-first",
-      "nodejs",
-      "react",
-      "self-hosted",
-      "sse",
-      "typescript",
-      "xai"
-    ],
-    "created_at": "2026-07-24T09:38:50",
-    "updated_at": "2026-07-31T13:15:42"
-  },
-  {
-    "name": "autodev-studio",
-    "full_name": "krishagarwal314/autodev-studio",
-    "description": "Autonomous multi-agent SDLC harness: describe a feature in plain English and AI agents scope, code, test, review, and open a PR — grounded in a one-time knowledge base of your repo.",
-    "url": "https://github.com/krishagarwal314/autodev-studio",
-    "stars": 128,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "autonomous-agents",
-      "claude",
-      "code-generation",
-      "developer-tools",
-      "fastapi",
-      "groq",
-      "knowledge-base",
-      "llm",
-      "llm-agent",
-      "multi-agent",
-      "openai",
-      "python",
-      "rag",
-      "sdlc"
-    ],
-    "created_at": "2026-07-24T09:55:46",
-    "updated_at": "2026-07-31T22:58:58"
+    "updated_at": "2026-08-01T09:11:37"
   },
   {
     "name": "trace-file-lineage",
@@ -181,7 +125,7 @@
     "description": "Find which script, notebook, data, command, or AI agent produced a file — locally, with evidence and honest uncertainty.",
     "url": "https://github.com/uczltw6/trace-file-lineage",
     "stars": 106,
-    "daily_stars": 23,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -229,7 +173,7 @@
     "description": "Windows 托盘上的 Kimi Code 用量监控：左键看额度，低额变红提醒。Tauri 2 + Rust，安装包仅 3MB。",
     "url": "https://github.com/JYH1878/KimiCodeBar-Windows",
     "stars": 79,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -240,5 +184,65 @@
     ],
     "created_at": "2026-07-25T17:02:30",
     "updated_at": "2026-08-01T06:58:42"
+  },
+  {
+    "name": "approving",
+    "full_name": "cocofhu/approving",
+    "description": "Compose coding agents into workflows you can trust",
+    "url": "https://github.com/cocofhu/approving",
+    "stars": 74,
+    "daily_stars": 0,
+    "language": "Go",
+    "topics": [
+      "agent",
+      "ai",
+      "browser-automation",
+      "harness",
+      "harness-ai",
+      "harness-ci",
+      "harness-design",
+      "harness-engineering",
+      "harness-execution-layer",
+      "harness-framework",
+      "llm",
+      "mutli-agent",
+      "workflow",
+      "workflow-automation"
+    ],
+    "created_at": "2026-07-24T15:27:02",
+    "updated_at": "2026-08-01T02:16:20"
+  },
+  {
+    "name": "stormy-cookbook",
+    "full_name": "OneInterface/stormy-cookbook",
+    "description": "Open-source cookbook for the Stormy Social Data API and MCP server (Model Context Protocol) — one REST API for the TikTok API, YouTube API, Instagram API, LinkedIn API, X (Twitter) API and Reddit API. Search creators, resolve profiles, read posts and find verified emails from Claude, Cursor, Codex, ChatGPT or curl. One key, no scrapers.",
+    "url": "https://github.com/OneInterface/stormy-cookbook",
+    "stars": 72,
+    "daily_stars": 0,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-desktop",
+      "creator-economy",
+      "cursor",
+      "email-finder",
+      "influencer-marketing",
+      "instagram-api",
+      "lead-generation",
+      "linkedin-api",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "reddit-api",
+      "social-media",
+      "social-media-api",
+      "tiktok",
+      "tiktok-api",
+      "twitter-api",
+      "youtube-api"
+    ],
+    "created_at": "2026-07-27T00:57:50",
+    "updated_at": "2026-07-30T16:44:54"
   }
 ]
