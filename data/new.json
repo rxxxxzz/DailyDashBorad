@@ -32,28 +32,12 @@
     "updated_at": "2026-07-31T20:33:27"
   },
   {
-    "name": "numbat",
-    "full_name": "perplexityai/numbat",
-    "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
-    "url": "https://github.com/perplexityai/numbat",
-    "stars": 522,
-    "daily_stars": 18,
-    "language": "Go",
-    "topics": [
-      "agent-security",
-      "ai-agent-security",
-      "ai-agents"
-    ],
-    "created_at": "2026-07-24T06:07:59",
-    "updated_at": "2026-08-01T04:02:50"
-  },
-  {
     "name": "ratchet",
     "full_name": "0xwilliamortiz/ratchet",
     "description": "Your agent reads the rules. This checks whether it followed them.",
     "url": "https://github.com/0xwilliamortiz/ratchet",
     "stars": 402,
-    "daily_stars": 260,
+    "daily_stars": 0,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -77,8 +61,8 @@
     "full_name": "deerwork-ai/deer-workflow",
     "description": "An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
     "url": "https://github.com/deerwork-ai/deer-workflow",
-    "stars": 368,
-    "daily_stars": 2,
+    "stars": 369,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -93,14 +77,14 @@
       "workflow"
     ],
     "created_at": "2026-07-26T04:20:50",
-    "updated_at": "2026-08-01T02:11:40"
+    "updated_at": "2026-08-01T05:55:16"
   },
   {
     "name": "deer-workflow",
     "full_name": "deerwork-ai/deer-workflow",
     "description": "An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
     "url": "https://github.com/deerwork-ai/deer-workflow",
-    "stars": 368,
+    "stars": 369,
     "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
@@ -116,15 +100,15 @@
       "workflow"
     ],
     "created_at": "2026-07-26T04:20:50",
-    "updated_at": "2026-08-01T02:11:40"
+    "updated_at": "2026-08-01T05:55:16"
   },
   {
     "name": "old-coder",
     "full_name": "AmazingAng/old-coder",
     "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
     "url": "https://github.com/AmazingAng/old-coder",
-    "stars": 199,
-    "daily_stars": 7,
+    "stars": 201,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -133,7 +117,7 @@
       "tdd"
     ],
     "created_at": "2026-07-27T05:03:11",
-    "updated_at": "2026-08-01T03:49:34"
+    "updated_at": "2026-08-01T06:17:25"
   },
   {
     "name": "Grok-UI",
@@ -168,7 +152,7 @@
     "description": "Autonomous multi-agent SDLC harness: describe a feature in plain English and AI agents scope, code, test, review, and open a PR — grounded in a one-time knowledge base of your repo.",
     "url": "https://github.com/krishagarwal314/autodev-studio",
     "stars": 128,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -192,33 +176,12 @@
     "updated_at": "2026-07-31T22:58:58"
   },
   {
-    "name": "bullshit-detector",
-    "full_name": "SerhiiKorniienko/bullshit-detector",
-    "description": "Agent skills that fact-check the internet: claim-by-claim verification with sources and a 0-10 BS score for any YouTube video, article, tweet, or PDF",
-    "url": "https://github.com/SerhiiKorniienko/bullshit-detector",
-    "stars": 90,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "claude-code",
-      "content-analysis",
-      "fact-checking",
-      "misinformation",
-      "skills",
-      "yt-dlp"
-    ],
-    "created_at": "2026-07-27T12:54:30",
-    "updated_at": "2026-08-01T03:35:37"
-  },
-  {
     "name": "trace-file-lineage",
     "full_name": "uczltw6/trace-file-lineage",
     "description": "Find which script, notebook, data, command, or AI agent produced a file — locally, with evidence and honest uncertainty.",
     "url": "https://github.com/uczltw6/trace-file-lineage",
-    "stars": 83,
-    "daily_stars": 12,
+    "stars": 106,
+    "daily_stars": 23,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -237,6 +200,45 @@
       "research-tools"
     ],
     "created_at": "2026-07-29T22:05:47",
-    "updated_at": "2026-08-01T01:16:51"
+    "updated_at": "2026-08-01T05:58:54"
+  },
+  {
+    "name": "bullshit-detector",
+    "full_name": "SerhiiKorniienko/bullshit-detector",
+    "description": "Agent skills that fact-check the internet: claim-by-claim verification with sources and a 0-10 BS score for any YouTube video, article, tweet, or PDF",
+    "url": "https://github.com/SerhiiKorniienko/bullshit-detector",
+    "stars": 90,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "content-analysis",
+      "fact-checking",
+      "misinformation",
+      "skills",
+      "yt-dlp"
+    ],
+    "created_at": "2026-07-27T12:54:30",
+    "updated_at": "2026-08-01T03:35:37"
+  },
+  {
+    "name": "KimiCodeBar-Windows",
+    "full_name": "JYH1878/KimiCodeBar-Windows",
+    "description": "Windows 托盘上的 Kimi Code 用量监控：左键看额度，低额变红提醒。Tauri 2 + Rust，安装包仅 3MB。",
+    "url": "https://github.com/JYH1878/KimiCodeBar-Windows",
+    "stars": 79,
+    "daily_stars": 1,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "desktop-app",
+      "kimi",
+      "kimi-code",
+      "windows"
+    ],
+    "created_at": "2026-07-25T17:02:30",
+    "updated_at": "2026-08-01T06:58:42"
   }
 ]
