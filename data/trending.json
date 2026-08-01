@@ -1,11 +1,96 @@
 [
   {
+    "name": "img2threejs",
+    "full_name": "hoainho/img2threejs",
+    "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+    "url": "https://github.com/hoainho/img2threejs",
+    "stars": 8924,
+    "daily_stars": 14,
+    "language": "Python",
+    "topics": [
+      "3d",
+      "ai-agents",
+      "claude-code",
+      "computer-graphics",
+      "generative",
+      "image-to-3d",
+      "procedural-generation",
+      "threejs",
+      "typescript",
+      "webgl"
+    ],
+    "created_at": "2026-07-15T02:58:39",
+    "updated_at": "2026-08-01T21:22:33"
+  },
+  {
+    "name": "keep-the-why",
+    "full_name": "oliver-zehentleitner/keep-the-why",
+    "description": "Keep the Why: a repo-native convention and agent skill that preserves the reasoning behind a codebase as a byproduct of working with your agent — so it stops re-suggesting rejected approaches, gives better answers, speeds up onboarding, and makes legacy projects tractable again.",
+    "url": "https://github.com/oliver-zehentleitner/keep-the-why",
+    "stars": 111,
+    "daily_stars": 13,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "architecture-decision-records",
+      "context-engineering",
+      "developer-tools",
+      "documentation",
+      "knowledge-management",
+      "llm-agents"
+    ],
+    "created_at": "2026-07-10T10:34:48",
+    "updated_at": "2026-08-01T20:55:32"
+  },
+  {
+    "name": "numbat",
+    "full_name": "perplexityai/numbat",
+    "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
+    "url": "https://github.com/perplexityai/numbat",
+    "stars": 582,
+    "daily_stars": 11,
+    "language": "Go",
+    "topics": [
+      "agent-security",
+      "ai-agent-security",
+      "ai-agents"
+    ],
+    "created_at": "2026-07-24T06:07:59",
+    "updated_at": "2026-08-01T20:16:04"
+  },
+  {
+    "name": "ArisuLoveASMR",
+    "full_name": "ArisuLoveASMR/ArisuLoveASMR",
+    "description": "Ноутбук для Гугл коллаба, в котором вы сможете к абсолютно любому медиа добавить субтитры и автоматически их первести на любой язык",
+    "url": "https://github.com/ArisuLoveASMR/ArisuLoveASMR",
+    "stars": 20,
+    "daily_stars": 9,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "anime",
+      "asmr",
+      "asmr-one",
+      "audio-processing",
+      "auto-translation",
+      "chinese-translation",
+      "deep-learning",
+      "japanese-translation",
+      "machine-translation",
+      "transformers",
+      "translation",
+      "video-processing"
+    ],
+    "created_at": "2026-07-31T22:45:44",
+    "updated_at": "2026-08-01T21:17:14"
+  },
+  {
     "name": "video-shotcraft",
     "full_name": "Vincentwei1021/video-shotcraft",
     "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
     "url": "https://github.com/Vincentwei1021/video-shotcraft",
-    "stars": 3134,
-    "daily_stars": 23,
+    "stars": 3141,
+    "daily_stars": 7,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -24,85 +109,97 @@
       "video-production"
     ],
     "created_at": "2026-07-19T11:44:41",
-    "updated_at": "2026-08-01T17:27:28"
+    "updated_at": "2026-08-01T21:24:52"
   },
   {
-    "name": "img2threejs",
-    "full_name": "hoainho/img2threejs",
-    "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
-    "url": "https://github.com/hoainho/img2threejs",
-    "stars": 8910,
-    "daily_stars": 19,
-    "language": "Python",
-    "topics": [
-      "3d",
-      "ai-agents",
-      "claude-code",
-      "computer-graphics",
-      "generative",
-      "image-to-3d",
-      "procedural-generation",
-      "threejs",
-      "typescript",
-      "webgl"
-    ],
-    "created_at": "2026-07-15T02:58:39",
-    "updated_at": "2026-08-01T17:28:46"
-  },
-  {
-    "name": "numbat",
-    "full_name": "perplexityai/numbat",
-    "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
-    "url": "https://github.com/perplexityai/numbat",
-    "stars": 571,
-    "daily_stars": 10,
-    "language": "Go",
-    "topics": [
-      "agent-security",
-      "ai-agent-security",
-      "ai-agents"
-    ],
-    "created_at": "2026-07-24T06:07:59",
-    "updated_at": "2026-08-01T16:49:39"
-  },
-  {
-    "name": "novel-to-game",
-    "full_name": "worldwonderer/novel-to-game",
-    "description": "将任何小说蒸馏为可玩的游戏 · Turn any novel/story into a playable game — a 7-skill adaptation pipeline for Claude Code, Codex & Kimi Code(k3)",
-    "url": "https://github.com/worldwonderer/novel-to-game",
-    "stars": 487,
-    "daily_stars": 9,
-    "language": "Python",
+    "name": "fable-method",
+    "full_name": "Sahir619/fable-method",
+    "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
+    "url": "https://github.com/Sahir619/fable-method",
+    "stars": 2055,
+    "daily_stars": 7,
+    "language": "JavaScript",
     "topics": [
       "agent-skills",
       "ai-agents",
-      "ai-game-development",
+      "claude",
       "claude-code",
-      "claude-code-skills",
-      "claude-skills",
-      "codex",
-      "game-design",
-      "gamedev",
-      "interactive-fiction",
-      "kimi-code",
-      "narrative-design",
-      "novel-to-game",
-      "skills",
-      "story-to-game",
-      "text-to-game",
-      "visual-novel",
-      "web-game"
+      "claude-md",
+      "coding-agent",
+      "evaluation",
+      "fable",
+      "llm"
     ],
-    "created_at": "2026-07-18T16:29:56",
-    "updated_at": "2026-08-01T17:24:03"
+    "created_at": "2026-07-06T22:35:18",
+    "updated_at": "2026-08-01T21:08:10"
+  },
+  {
+    "name": "optim-agent",
+    "full_name": "Optim-Agent/optim-agent",
+    "description": "LLM agents as your hyperparameter optimizer.",
+    "url": "https://github.com/Optim-Agent/optim-agent",
+    "stars": 682,
+    "daily_stars": 5,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "bayesian-optimization",
+      "claude-code",
+      "codex-cli",
+      "hyperparameter-optimization",
+      "machine-learning",
+      "quantitative-finance",
+      "reinforcement-learning",
+      "skill"
+    ],
+    "created_at": "2026-07-07T17:05:54",
+    "updated_at": "2026-08-01T20:57:35"
+  },
+  {
+    "name": "caspian-sdk",
+    "full_name": "TryCaspian/caspian-sdk",
+    "description": "One identity for your AI agent across every channel humans use: Slack, Discord, Telegram, Instagram, email, X, behind a single on_message handler. Channel adapters + SDK + CLI.",
+    "url": "https://github.com/TryCaspian/caspian-sdk",
+    "stars": 388,
+    "daily_stars": 4,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "communication",
+      "discord",
+      "messaging",
+      "sdk",
+      "slack",
+      "telegram"
+    ],
+    "created_at": "2026-07-20T10:47:56",
+    "updated_at": "2026-08-01T20:46:12"
+  },
+  {
+    "name": "barunlm-35m",
+    "full_name": "harrrshall/barunlm-35m",
+    "description": "BarunLM-35M: a parameter-efficient 35M base language model trained on 5.7B tokens",
+    "url": "https://github.com/harrrshall/barunlm-35m",
+    "stars": 15,
+    "daily_stars": 4,
+    "language": "Python",
+    "topics": [
+      "language-model",
+      "machine-learning",
+      "pytorch",
+      "small-language-model",
+      "text-generation"
+    ],
+    "created_at": "2026-07-31T12:52:36",
+    "updated_at": "2026-08-01T20:19:20"
   },
   {
     "name": "memmy-agent",
     "full_name": "MemTensor/memmy-agent",
     "description": "One Agent. One memory. Shared by every AI. 🍙",
     "url": "https://github.com/MemTensor/memmy-agent",
-    "stars": 484,
-    "daily_stars": 9,
+    "stars": 487,
+    "daily_stars": 3,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -127,123 +224,6 @@
       "tui"
     ],
     "created_at": "2026-07-16T07:57:45",
-    "updated_at": "2026-08-01T16:48:23"
-  },
-  {
-    "name": "fable-method",
-    "full_name": "Sahir619/fable-method",
-    "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
-    "url": "https://github.com/Sahir619/fable-method",
-    "stars": 2048,
-    "daily_stars": 8,
-    "language": "JavaScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "claude-md",
-      "coding-agent",
-      "evaluation",
-      "fable",
-      "llm"
-    ],
-    "created_at": "2026-07-06T22:35:18",
-    "updated_at": "2026-08-01T16:43:41"
-  },
-  {
-    "name": "agent-manager",
-    "full_name": "YoanWai/agent-manager",
-    "description": "Terminal UI to manage AI coding-agent sessions (Claude Code, OpenCode, Codex, Grok Build) in tmux: live status, group tree, live pane preview, resource gauges.",
-    "url": "https://github.com/YoanWai/agent-manager",
-    "stars": 234,
-    "daily_stars": 7,
-    "language": "Go",
-    "topics": [
-      "agentic",
-      "ai-agents",
-      "bubbletea",
-      "claude-code",
-      "cli",
-      "code-review",
-      "codex",
-      "coding-agent",
-      "developer-tools",
-      "golang",
-      "grok",
-      "opencode",
-      "terminal",
-      "tmux",
-      "tui"
-    ],
-    "created_at": "2026-07-15T16:27:33",
-    "updated_at": "2026-08-01T17:27:21"
-  },
-  {
-    "name": "keep-the-why",
-    "full_name": "oliver-zehentleitner/keep-the-why",
-    "description": "Keep the Why: a repo-native convention and agent skill that preserves the reasoning behind a codebase as a byproduct of working with your agent — so it stops re-suggesting rejected approaches, gives better answers, speeds up onboarding, and makes legacy projects tractable again.",
-    "url": "https://github.com/oliver-zehentleitner/keep-the-why",
-    "stars": 98,
-    "daily_stars": 6,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "architecture-decision-records",
-      "context-engineering",
-      "developer-tools",
-      "documentation",
-      "knowledge-management",
-      "llm-agents"
-    ],
-    "created_at": "2026-07-10T10:34:48",
-    "updated_at": "2026-08-01T16:35:29"
-  },
-  {
-    "name": "chartr",
-    "full_name": "rengwu/chartr",
-    "description": "Agent multiplexer with map-charting capabilities",
-    "url": "https://github.com/rengwu/chartr",
-    "stars": 211,
-    "daily_stars": 5,
-    "language": "Go",
-    "topics": [
-      "agent",
-      "agent-orchestration",
-      "ai",
-      "ai-agents",
-      "developer-tools",
-      "golang",
-      "svelte",
-      "terminal",
-      "terminal-m",
-      "terminal-multiplexer",
-      "tmux"
-    ],
-    "created_at": "2026-07-21T06:22:36",
-    "updated_at": "2026-08-01T15:46:54"
-  },
-  {
-    "name": "optim-agent",
-    "full_name": "Optim-Agent/optim-agent",
-    "description": "LLM agents as your hyperparameter optimizer.",
-    "url": "https://github.com/Optim-Agent/optim-agent",
-    "stars": 677,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "bayesian-optimization",
-      "claude-code",
-      "codex-cli",
-      "hyperparameter-optimization",
-      "machine-learning",
-      "quantitative-finance",
-      "reinforcement-learning",
-      "skill"
-    ],
-    "created_at": "2026-07-07T17:05:54",
-    "updated_at": "2026-08-01T17:13:10"
+    "updated_at": "2026-08-01T18:47:45"
   }
 ]
