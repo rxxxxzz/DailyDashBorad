@@ -4,8 +4,8 @@
     "full_name": "0xwilliamortiz/ratchet",
     "description": "Your agent reads the rules. This checks whether it followed them.",
     "url": "https://github.com/0xwilliamortiz/ratchet",
-    "stars": 408,
-    "daily_stars": 0,
+    "stars": 409,
+    "daily_stars": 1,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -22,14 +22,14 @@
       "yagni"
     ],
     "created_at": "2026-07-31T17:54:30",
-    "updated_at": "2026-08-01T23:44:36"
+    "updated_at": "2026-08-02T11:22:46"
   },
   {
     "name": "deer-workflow",
     "full_name": "deerwork-ai/deer-workflow",
     "description": "An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
     "url": "https://github.com/deerwork-ai/deer-workflow",
-    "stars": 376,
+    "stars": 377,
     "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
@@ -45,14 +45,14 @@
       "workflow"
     ],
     "created_at": "2026-07-26T04:20:50",
-    "updated_at": "2026-08-02T07:10:10"
+    "updated_at": "2026-08-02T11:22:53"
   },
   {
     "name": "deer-workflow",
     "full_name": "deerwork-ai/deer-workflow",
     "description": "An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
     "url": "https://github.com/deerwork-ai/deer-workflow",
-    "stars": 376,
+    "stars": 377,
     "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
@@ -68,15 +68,15 @@
       "workflow"
     ],
     "created_at": "2026-07-26T04:20:50",
-    "updated_at": "2026-08-02T07:10:10"
+    "updated_at": "2026-08-02T11:22:53"
   },
   {
     "name": "old-coder",
     "full_name": "AmazingAng/old-coder",
     "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
     "url": "https://github.com/AmazingAng/old-coder",
-    "stars": 220,
-    "daily_stars": 0,
+    "stars": 231,
+    "daily_stars": 11,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -85,7 +85,7 @@
       "tdd"
     ],
     "created_at": "2026-07-27T05:03:11",
-    "updated_at": "2026-08-02T02:59:17"
+    "updated_at": "2026-08-02T12:59:25"
   },
   {
     "name": "trace-file-lineage",
@@ -119,8 +119,8 @@
     "full_name": "SerhiiKorniienko/bullshit-detector",
     "description": "Agent skills that fact-check the internet: claim-by-claim verification with sources and a 0-10 BS score for any YouTube video, article, tweet, or PDF",
     "url": "https://github.com/SerhiiKorniienko/bullshit-detector",
-    "stars": 95,
-    "daily_stars": 1,
+    "stars": 97,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -133,15 +133,15 @@
       "yt-dlp"
     ],
     "created_at": "2026-07-27T12:54:30",
-    "updated_at": "2026-08-02T09:25:19"
+    "updated_at": "2026-08-02T14:05:53"
   },
   {
     "name": "poirot",
     "full_name": "HezaoHezao/poirot",
     "description": "Poirot is a deep research agent kernel built for those who care about how agents are architected. ",
     "url": "https://github.com/HezaoHezao/poirot",
-    "stars": 89,
-    "daily_stars": 4,
+    "stars": 90,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "agent",
@@ -158,7 +158,7 @@
       "multi-agent"
     ],
     "created_at": "2026-07-28T17:36:07",
-    "updated_at": "2026-08-02T10:04:44"
+    "updated_at": "2026-08-02T13:53:16"
   },
   {
     "name": "KimiCodeBar-Windows",
@@ -179,61 +179,69 @@
     "updated_at": "2026-08-02T04:30:00"
   },
   {
-    "name": "stormy-cookbook",
-    "full_name": "OneInterface/stormy-cookbook",
-    "description": "Open-source cookbook for the Stormy Social Data API and MCP server (Model Context Protocol) — one REST API for the TikTok API, YouTube API, Instagram API, LinkedIn API, X (Twitter) API and Reddit API. Search creators, resolve profiles, read posts and find verified emails from Claude, Cursor, Codex, ChatGPT or curl. One key, no scrapers.",
-    "url": "https://github.com/OneInterface/stormy-cookbook",
-    "stars": 72,
-    "daily_stars": 0,
-    "language": null,
+    "name": "kimi-k3-in-c",
+    "full_name": "FareedKhan-dev/kimi-k3-in-c",
+    "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+    "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+    "stars": 77,
+    "daily_stars": 44,
+    "language": "C",
     "topics": [
-      "ai-agents",
-      "claude",
-      "claude-desktop",
-      "creator-economy",
-      "cursor",
-      "email-finder",
-      "influencer-marketing",
-      "instagram-api",
-      "lead-generation",
-      "linkedin-api",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "reddit-api",
-      "social-media",
-      "social-media-api",
-      "tiktok",
-      "tiktok-api",
-      "twitter-api",
-      "youtube-api"
+      "avx2",
+      "c99",
+      "cpu-inference",
+      "deep-learning",
+      "from-scratch",
+      "inference-engine",
+      "kimi-k3",
+      "linear-attention",
+      "llm",
+      "llm-inference",
+      "machine-learning",
+      "memory-efficient",
+      "mixture-of-experts",
+      "moe",
+      "mxfp4",
+      "quantization",
+      "simd",
+      "systems-programming",
+      "transformer",
+      "zero-dependencies"
     ],
-    "created_at": "2026-07-27T00:57:50",
-    "updated_at": "2026-07-30T16:44:54"
+    "created_at": "2026-08-01T09:29:38",
+    "updated_at": "2026-08-02T14:05:27"
   },
   {
-    "name": "ArisuLoveASMR",
-    "full_name": "ArisuLoveASMR/ArisuLoveASMR",
-    "description": "Ноутбук для Гугл коллаба, в котором вы сможете к абсолютно любому медиа добавить субтитры и автоматически их первести на любой язык",
-    "url": "https://github.com/ArisuLoveASMR/ArisuLoveASMR",
-    "stars": 55,
-    "daily_stars": 17,
-    "language": "Jupyter Notebook",
+    "name": "kimi-k3-in-c",
+    "full_name": "FareedKhan-dev/kimi-k3-in-c",
+    "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+    "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+    "stars": 77,
+    "daily_stars": 0,
+    "language": "C",
     "topics": [
-      "anime",
-      "asmr",
-      "asmr-one",
-      "audio-processing",
-      "auto-translation",
-      "chinese-translation",
+      "avx2",
+      "c99",
+      "cpu-inference",
       "deep-learning",
-      "japanese-translation",
-      "machine-translation",
-      "transformers",
-      "translation",
-      "video-processing"
+      "from-scratch",
+      "inference-engine",
+      "kimi-k3",
+      "linear-attention",
+      "llm",
+      "llm-inference",
+      "machine-learning",
+      "memory-efficient",
+      "mixture-of-experts",
+      "moe",
+      "mxfp4",
+      "quantization",
+      "simd",
+      "systems-programming",
+      "transformer",
+      "zero-dependencies"
     ],
-    "created_at": "2026-07-31T22:45:44",
-    "updated_at": "2026-08-02T10:02:46"
+    "created_at": "2026-08-01T09:29:38",
+    "updated_at": "2026-08-02T14:05:27"
   }
 ]

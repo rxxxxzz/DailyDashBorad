@@ -1,34 +1,11 @@
 [
   {
-    "name": "img2threejs",
-    "full_name": "hoainho/img2threejs",
-    "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
-    "url": "https://github.com/hoainho/img2threejs",
-    "stars": 9006,
-    "daily_stars": 26,
-    "language": "Python",
-    "topics": [
-      "3d",
-      "ai-agents",
-      "claude-code",
-      "computer-graphics",
-      "generative",
-      "image-to-3d",
-      "procedural-generation",
-      "threejs",
-      "typescript",
-      "webgl"
-    ],
-    "created_at": "2026-07-15T02:58:39",
-    "updated_at": "2026-08-02T10:04:42"
-  },
-  {
     "name": "kimi-k3-in-c",
     "full_name": "FareedKhan-dev/kimi-k3-in-c",
     "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 33,
-    "daily_stars": 21,
+    "stars": 77,
+    "daily_stars": 44,
     "language": "C",
     "topics": [
       "avx2",
@@ -53,15 +30,60 @@
       "zero-dependencies"
     ],
     "created_at": "2026-08-01T09:29:38",
-    "updated_at": "2026-08-02T10:11:05"
+    "updated_at": "2026-08-02T14:05:27"
+  },
+  {
+    "name": "img2threejs",
+    "full_name": "hoainho/img2threejs",
+    "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+    "url": "https://github.com/hoainho/img2threejs",
+    "stars": 9041,
+    "daily_stars": 35,
+    "language": "Python",
+    "topics": [
+      "3d",
+      "ai-agents",
+      "claude-code",
+      "computer-graphics",
+      "generative",
+      "image-to-3d",
+      "procedural-generation",
+      "threejs",
+      "typescript",
+      "webgl"
+    ],
+    "created_at": "2026-07-15T02:58:39",
+    "updated_at": "2026-08-02T14:03:00"
+  },
+  {
+    "name": "codexloom",
+    "full_name": "yan5xu/codexloom",
+    "description": "Turn Codex threads into an organization of long-lived domain agents.",
+    "url": "https://github.com/yan5xu/codexloom",
+    "stars": 122,
+    "daily_stars": 27,
+    "language": "Go",
+    "topics": [
+      "agent-governance",
+      "agent-orchestration",
+      "ai-agents",
+      "codex",
+      "developer-tools",
+      "golang",
+      "llm",
+      "multi-agent",
+      "react"
+    ],
+    "created_at": "2026-07-07T09:21:39",
+    "updated_at": "2026-08-02T13:56:34"
   },
   {
     "name": "video-shotcraft",
     "full_name": "Vincentwei1021/video-shotcraft",
     "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
     "url": "https://github.com/Vincentwei1021/video-shotcraft",
-    "stars": 3196,
-    "daily_stars": 17,
+    "stars": 3215,
+    "daily_stars": 19,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -80,15 +102,75 @@
       "video-production"
     ],
     "created_at": "2026-07-19T11:44:41",
-    "updated_at": "2026-08-02T10:03:25"
+    "updated_at": "2026-08-02T14:04:58"
+  },
+  {
+    "name": "old-coder",
+    "full_name": "AmazingAng/old-coder",
+    "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
+    "url": "https://github.com/AmazingAng/old-coder",
+    "stars": 231,
+    "daily_stars": 11,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "skills",
+      "tdd"
+    ],
+    "created_at": "2026-07-27T05:03:11",
+    "updated_at": "2026-08-02T12:59:25"
+  },
+  {
+    "name": "Labour-Law-Violation-System",
+    "full_name": "Indhu27-pixel/Labour-Law-Violation-System",
+    "description": "AI-powered Labour Law Violation Detection System using Weak Supervision, BiLSTM, Graph Neural Networks (GNN), and Explainable AI to identify labour law violations.",
+    "url": "https://github.com/Indhu27-pixel/Labour-Law-Violation-System",
+    "stars": 46,
+    "daily_stars": 9,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "explainable-ai",
+      "flask",
+      "gnn",
+      "graph-neural-networks",
+      "labour-law",
+      "machine-learning",
+      "python",
+      "pytorch"
+    ],
+    "created_at": "2026-07-31T03:48:42",
+    "updated_at": "2026-08-02T13:53:05"
+  },
+  {
+    "name": "activity-frames",
+    "full_name": "nossa-y/activity-frames",
+    "description": "Episodic memory for AI agents. Records your screen locally, compiles it into structured activity frames, serves them over MCP. No cloud, no LLM in the loop.",
+    "url": "https://github.com/nossa-y/activity-frames",
+    "stars": 437,
+    "daily_stars": 9,
+    "language": "Python",
+    "topics": [
+      "agent-memory",
+      "ai-agents",
+      "computer-use",
+      "context-engineering",
+      "episodic-memory",
+      "llm",
+      "mcp"
+    ],
+    "created_at": "2026-07-04T23:24:02",
+    "updated_at": "2026-08-02T13:54:15"
   },
   {
     "name": "ArisuLoveASMR",
     "full_name": "ArisuLoveASMR/ArisuLoveASMR",
     "description": "Ноутбук для Гугл коллаба, в котором вы сможете к абсолютно любому медиа добавить субтитры и автоматически их первести на любой язык",
     "url": "https://github.com/ArisuLoveASMR/ArisuLoveASMR",
-    "stars": 55,
-    "daily_stars": 17,
+    "stars": 64,
+    "daily_stars": 9,
     "language": "Jupyter Notebook",
     "topics": [
       "anime",
@@ -105,37 +187,15 @@
       "video-processing"
     ],
     "created_at": "2026-07-31T22:45:44",
-    "updated_at": "2026-08-02T10:02:46"
-  },
-  {
-    "name": "codexloom",
-    "full_name": "yan5xu/codexloom",
-    "description": "Turn Codex threads into an organization of long-lived domain agents.",
-    "url": "https://github.com/yan5xu/codexloom",
-    "stars": 95,
-    "daily_stars": 12,
-    "language": "Go",
-    "topics": [
-      "agent-governance",
-      "agent-orchestration",
-      "ai-agents",
-      "codex",
-      "developer-tools",
-      "golang",
-      "llm",
-      "multi-agent",
-      "react"
-    ],
-    "created_at": "2026-07-07T09:21:39",
-    "updated_at": "2026-08-02T09:57:27"
+    "updated_at": "2026-08-02T13:48:49"
   },
   {
     "name": "tty7",
     "full_name": "l0ng-ai/tty7",
     "description": "A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty.",
     "url": "https://github.com/l0ng-ai/tty7",
-    "stars": 529,
-    "daily_stars": 9,
+    "stars": 537,
+    "daily_stars": 8,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -160,101 +220,29 @@
       "windows"
     ],
     "created_at": "2026-07-06T12:51:10",
-    "updated_at": "2026-08-02T09:48:24"
+    "updated_at": "2026-08-02T13:39:39"
   },
   {
-    "name": "optim-agent",
-    "full_name": "Optim-Agent/optim-agent",
-    "description": "LLM agents as your hyperparameter optimizer.",
-    "url": "https://github.com/Optim-Agent/optim-agent",
-    "stars": 705,
-    "daily_stars": 8,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "bayesian-optimization",
-      "claude-code",
-      "codex-cli",
-      "hyperparameter-optimization",
-      "machine-learning",
-      "quantitative-finance",
-      "reinforcement-learning",
-      "skill"
-    ],
-    "created_at": "2026-07-07T17:05:54",
-    "updated_at": "2026-08-02T10:09:20"
-  },
-  {
-    "name": "barunlm-35m",
-    "full_name": "harrrshall/barunlm-35m",
-    "description": "BarunLM-35M: a parameter-efficient 35M base language model trained on 5.7B tokens",
-    "url": "https://github.com/harrrshall/barunlm-35m",
-    "stars": 33,
-    "daily_stars": 7,
-    "language": "Python",
-    "topics": [
-      "language-model",
-      "machine-learning",
-      "pytorch",
-      "small-language-model",
-      "text-generation"
-    ],
-    "created_at": "2026-07-31T12:52:36",
-    "updated_at": "2026-08-02T09:19:07"
-  },
-  {
-    "name": "memmy-agent",
-    "full_name": "MemTensor/memmy-agent",
-    "description": "One Agent. One memory. Shared by every AI. 🍙",
-    "url": "https://github.com/MemTensor/memmy-agent",
-    "stars": 508,
+    "name": "clawk",
+    "full_name": "clawkwork/clawk",
+    "description": "Disposable, network-restricted Linux VMs for AI coding agents",
+    "url": "https://github.com/clawkwork/clawk",
+    "stars": 876,
     "daily_stars": 6,
-    "language": "TypeScript",
+    "language": "Go",
     "topics": [
-      "agent",
-      "agentic-ai",
-      "ai",
-      "ai-agents",
-      "chatgpt",
-      "claude-code",
-      "cli",
-      "codex",
-      "cursor",
-      "desktop-app",
-      "desktop-pet",
-      "hermes-agent",
-      "llm",
-      "long-term-memory",
-      "mcp",
-      "memory",
-      "openai-api",
-      "openclaw",
-      "personal-ai",
-      "tui"
-    ],
-    "created_at": "2026-07-16T07:57:45",
-    "updated_at": "2026-08-02T10:08:21"
-  },
-  {
-    "name": "fable-method",
-    "full_name": "Sahir619/fable-method",
-    "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
-    "url": "https://github.com/Sahir619/fable-method",
-    "stars": 2074,
-    "daily_stars": 5,
-    "language": "JavaScript",
-    "topics": [
-      "agent-skills",
+      "agent-sandbox",
+      "ai-agent-sandbox",
       "ai-agents",
       "claude",
       "claude-code",
-      "claude-md",
-      "coding-agent",
-      "evaluation",
-      "fable",
-      "llm"
+      "codex",
+      "microvm",
+      "sandbox",
+      "virtualization",
+      "vm"
     ],
-    "created_at": "2026-07-06T22:35:18",
-    "updated_at": "2026-08-02T08:44:40"
+    "created_at": "2026-07-06T21:30:38",
+    "updated_at": "2026-08-02T13:30:49"
   }
 ]
