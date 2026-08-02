@@ -4,8 +4,8 @@
     "full_name": "FareedKhan-dev/kimi-k3-in-c",
     "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 77,
-    "daily_stars": 44,
+    "stars": 136,
+    "daily_stars": 59,
     "language": "C",
     "topics": [
       "avx2",
@@ -30,15 +30,37 @@
       "zero-dependencies"
     ],
     "created_at": "2026-08-01T09:29:38",
-    "updated_at": "2026-08-02T14:05:27"
+    "updated_at": "2026-08-02T17:22:43"
+  },
+  {
+    "name": "codexloom",
+    "full_name": "yan5xu/codexloom",
+    "description": "Turn Codex threads into an organization of long-lived domain agents.",
+    "url": "https://github.com/yan5xu/codexloom",
+    "stars": 156,
+    "daily_stars": 34,
+    "language": "Go",
+    "topics": [
+      "agent-governance",
+      "agent-orchestration",
+      "ai-agents",
+      "codex",
+      "developer-tools",
+      "golang",
+      "llm",
+      "multi-agent",
+      "react"
+    ],
+    "created_at": "2026-07-07T09:21:39",
+    "updated_at": "2026-08-02T17:15:28"
   },
   {
     "name": "img2threejs",
     "full_name": "hoainho/img2threejs",
     "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
     "url": "https://github.com/hoainho/img2threejs",
-    "stars": 9041,
-    "daily_stars": 35,
+    "stars": 9069,
+    "daily_stars": 28,
     "language": "Python",
     "topics": [
       "3d",
@@ -53,37 +75,15 @@
       "webgl"
     ],
     "created_at": "2026-07-15T02:58:39",
-    "updated_at": "2026-08-02T14:03:00"
-  },
-  {
-    "name": "codexloom",
-    "full_name": "yan5xu/codexloom",
-    "description": "Turn Codex threads into an organization of long-lived domain agents.",
-    "url": "https://github.com/yan5xu/codexloom",
-    "stars": 122,
-    "daily_stars": 27,
-    "language": "Go",
-    "topics": [
-      "agent-governance",
-      "agent-orchestration",
-      "ai-agents",
-      "codex",
-      "developer-tools",
-      "golang",
-      "llm",
-      "multi-agent",
-      "react"
-    ],
-    "created_at": "2026-07-07T09:21:39",
-    "updated_at": "2026-08-02T13:56:34"
+    "updated_at": "2026-08-02T17:25:51"
   },
   {
     "name": "video-shotcraft",
     "full_name": "Vincentwei1021/video-shotcraft",
     "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
     "url": "https://github.com/Vincentwei1021/video-shotcraft",
-    "stars": 3215,
-    "daily_stars": 19,
+    "stars": 3237,
+    "daily_stars": 22,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -102,15 +102,95 @@
       "video-production"
     ],
     "created_at": "2026-07-19T11:44:41",
-    "updated_at": "2026-08-02T14:04:58"
+    "updated_at": "2026-08-02T16:50:51"
+  },
+  {
+    "name": "novel-to-game",
+    "full_name": "worldwonderer/novel-to-game",
+    "description": "将任何小说蒸馏为可玩的游戏 · Turn any novel/story into a playable game — a 7-skill adaptation pipeline for Claude Code, Codex & Kimi Code(k3)",
+    "url": "https://github.com/worldwonderer/novel-to-game",
+    "stars": 516,
+    "daily_stars": 18,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-game-development",
+      "claude-code",
+      "claude-code-skills",
+      "claude-skills",
+      "codex",
+      "game-design",
+      "gamedev",
+      "interactive-fiction",
+      "kimi-code",
+      "narrative-design",
+      "novel-to-game",
+      "skills",
+      "story-to-game",
+      "text-to-game",
+      "visual-novel",
+      "web-game"
+    ],
+    "created_at": "2026-07-18T16:29:56",
+    "updated_at": "2026-08-02T17:08:13"
+  },
+  {
+    "name": "numbat",
+    "full_name": "perplexityai/numbat",
+    "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
+    "url": "https://github.com/perplexityai/numbat",
+    "stars": 619,
+    "daily_stars": 12,
+    "language": "Go",
+    "topics": [
+      "agent-security",
+      "ai-agent-security",
+      "ai-agents"
+    ],
+    "created_at": "2026-07-24T06:07:59",
+    "updated_at": "2026-08-02T17:26:53"
+  },
+  {
+    "name": "Compartment",
+    "full_name": "MaxFreedomPollard/Compartment",
+    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creation, storage and retrieval.",
+    "url": "https://github.com/MaxFreedomPollard/Compartment",
+    "stars": 121,
+    "daily_stars": 11,
+    "language": "Python",
+    "topics": [
+      "agent-memory",
+      "ai-agents",
+      "ai-memory",
+      "claude",
+      "claude-code",
+      "claude-desktop",
+      "encryption",
+      "hermes",
+      "hermes-agent",
+      "local-first",
+      "long-term-memory",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "offline",
+      "openclaw",
+      "privacy",
+      "rag",
+      "semantic-search",
+      "vector-database"
+    ],
+    "created_at": "2026-07-20T13:43:56",
+    "updated_at": "2026-08-02T14:20:00"
   },
   {
     "name": "old-coder",
     "full_name": "AmazingAng/old-coder",
     "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
     "url": "https://github.com/AmazingAng/old-coder",
-    "stars": 231,
-    "daily_stars": 11,
+    "stars": 239,
+    "daily_stars": 8,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -119,83 +199,44 @@
       "tdd"
     ],
     "created_at": "2026-07-27T05:03:11",
-    "updated_at": "2026-08-02T12:59:25"
+    "updated_at": "2026-08-02T16:41:34"
   },
   {
-    "name": "Labour-Law-Violation-System",
-    "full_name": "Indhu27-pixel/Labour-Law-Violation-System",
-    "description": "AI-powered Labour Law Violation Detection System using Weak Supervision, BiLSTM, Graph Neural Networks (GNN), and Explainable AI to identify labour law violations.",
-    "url": "https://github.com/Indhu27-pixel/Labour-Law-Violation-System",
-    "stars": 46,
-    "daily_stars": 9,
-    "language": "Python",
+    "name": "agentswarms",
+    "full_name": "AgentSwarms-fyi/agentswarms",
+    "description": "Unified Agentic AI and Business Intelligence Platform",
+    "url": "https://github.com/AgentSwarms-fyi/agentswarms",
+    "stars": 35,
+    "daily_stars": 7,
+    "language": "TypeScript",
     "topics": [
+      "agentic-ai",
+      "agentic-bi",
+      "agentic-workflow",
+      "agents",
+      "ai",
+      "ai-workflows",
       "artificial-intelligence",
-      "deep-learning",
-      "explainable-ai",
-      "flask",
-      "gnn",
-      "graph-neural-networks",
-      "labour-law",
-      "machine-learning",
-      "python",
-      "pytorch"
+      "business-analytics",
+      "business-intelligence",
+      "langchain",
+      "langgraph",
+      "rag",
+      "rag-chatbot",
+      "rag-pipeline",
+      "typescript",
+      "visual-editor"
     ],
-    "created_at": "2026-07-31T03:48:42",
-    "updated_at": "2026-08-02T13:53:05"
-  },
-  {
-    "name": "activity-frames",
-    "full_name": "nossa-y/activity-frames",
-    "description": "Episodic memory for AI agents. Records your screen locally, compiles it into structured activity frames, serves them over MCP. No cloud, no LLM in the loop.",
-    "url": "https://github.com/nossa-y/activity-frames",
-    "stars": 437,
-    "daily_stars": 9,
-    "language": "Python",
-    "topics": [
-      "agent-memory",
-      "ai-agents",
-      "computer-use",
-      "context-engineering",
-      "episodic-memory",
-      "llm",
-      "mcp"
-    ],
-    "created_at": "2026-07-04T23:24:02",
-    "updated_at": "2026-08-02T13:54:15"
-  },
-  {
-    "name": "ArisuLoveASMR",
-    "full_name": "ArisuLoveASMR/ArisuLoveASMR",
-    "description": "Ноутбук для Гугл коллаба, в котором вы сможете к абсолютно любому медиа добавить субтитры и автоматически их первести на любой язык",
-    "url": "https://github.com/ArisuLoveASMR/ArisuLoveASMR",
-    "stars": 64,
-    "daily_stars": 9,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "anime",
-      "asmr",
-      "asmr-one",
-      "audio-processing",
-      "auto-translation",
-      "chinese-translation",
-      "deep-learning",
-      "japanese-translation",
-      "machine-translation",
-      "transformers",
-      "translation",
-      "video-processing"
-    ],
-    "created_at": "2026-07-31T22:45:44",
-    "updated_at": "2026-08-02T13:48:49"
+    "created_at": "2026-07-21T21:35:03",
+    "updated_at": "2026-08-02T17:22:47"
   },
   {
     "name": "tty7",
     "full_name": "l0ng-ai/tty7",
     "description": "A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty.",
     "url": "https://github.com/l0ng-ai/tty7",
-    "stars": 537,
-    "daily_stars": 8,
+    "stars": 544,
+    "daily_stars": 7,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -220,29 +261,6 @@
       "windows"
     ],
     "created_at": "2026-07-06T12:51:10",
-    "updated_at": "2026-08-02T13:39:39"
-  },
-  {
-    "name": "clawk",
-    "full_name": "clawkwork/clawk",
-    "description": "Disposable, network-restricted Linux VMs for AI coding agents",
-    "url": "https://github.com/clawkwork/clawk",
-    "stars": 876,
-    "daily_stars": 6,
-    "language": "Go",
-    "topics": [
-      "agent-sandbox",
-      "ai-agent-sandbox",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "codex",
-      "microvm",
-      "sandbox",
-      "virtualization",
-      "vm"
-    ],
-    "created_at": "2026-07-06T21:30:38",
-    "updated_at": "2026-08-02T13:30:49"
+    "updated_at": "2026-08-02T16:22:38"
   }
 ]

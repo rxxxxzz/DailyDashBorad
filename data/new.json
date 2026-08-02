@@ -1,10 +1,33 @@
 [
   {
+    "name": "skill-recorder",
+    "full_name": "microsoft/skill-recorder",
+    "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
+    "url": "https://github.com/microsoft/skill-recorder",
+    "stars": 657,
+    "daily_stars": 0,
+    "language": "TypeScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "automation",
+      "copilot",
+      "copilot-cli",
+      "copilot-cowork",
+      "copilot-studio",
+      "electron",
+      "microsoft-scout",
+      "screen-recording"
+    ],
+    "created_at": "2026-07-29T18:16:14",
+    "updated_at": "2026-08-02T17:29:14"
+  },
+  {
     "name": "ratchet",
     "full_name": "0xwilliamortiz/ratchet",
     "description": "Your agent reads the rules. This checks whether it followed them.",
     "url": "https://github.com/0xwilliamortiz/ratchet",
-    "stars": 409,
+    "stars": 410,
     "daily_stars": 1,
     "language": "JavaScript",
     "topics": [
@@ -22,7 +45,7 @@
       "yagni"
     ],
     "created_at": "2026-07-31T17:54:30",
-    "updated_at": "2026-08-02T11:22:46"
+    "updated_at": "2026-08-02T15:47:22"
   },
   {
     "name": "deer-workflow",
@@ -30,7 +53,7 @@
     "description": "An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
     "url": "https://github.com/deerwork-ai/deer-workflow",
     "stars": 377,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -75,8 +98,8 @@
     "full_name": "AmazingAng/old-coder",
     "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
     "url": "https://github.com/AmazingAng/old-coder",
-    "stars": 231,
-    "daily_stars": 11,
+    "stars": 239,
+    "daily_stars": 8,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -85,7 +108,7 @@
       "tdd"
     ],
     "created_at": "2026-07-27T05:03:11",
-    "updated_at": "2026-08-02T12:59:25"
+    "updated_at": "2026-08-02T16:41:34"
   },
   {
     "name": "trace-file-lineage",
@@ -115,12 +138,78 @@
     "updated_at": "2026-08-02T02:30:39"
   },
   {
+    "name": "kimi-k3-in-c",
+    "full_name": "FareedKhan-dev/kimi-k3-in-c",
+    "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+    "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+    "stars": 136,
+    "daily_stars": 59,
+    "language": "C",
+    "topics": [
+      "avx2",
+      "c99",
+      "cpu-inference",
+      "deep-learning",
+      "from-scratch",
+      "inference-engine",
+      "kimi-k3",
+      "linear-attention",
+      "llm",
+      "llm-inference",
+      "machine-learning",
+      "memory-efficient",
+      "mixture-of-experts",
+      "moe",
+      "mxfp4",
+      "quantization",
+      "simd",
+      "systems-programming",
+      "transformer",
+      "zero-dependencies"
+    ],
+    "created_at": "2026-08-01T09:29:38",
+    "updated_at": "2026-08-02T17:22:43"
+  },
+  {
+    "name": "kimi-k3-in-c",
+    "full_name": "FareedKhan-dev/kimi-k3-in-c",
+    "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+    "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+    "stars": 136,
+    "daily_stars": 0,
+    "language": "C",
+    "topics": [
+      "avx2",
+      "c99",
+      "cpu-inference",
+      "deep-learning",
+      "from-scratch",
+      "inference-engine",
+      "kimi-k3",
+      "linear-attention",
+      "llm",
+      "llm-inference",
+      "machine-learning",
+      "memory-efficient",
+      "mixture-of-experts",
+      "moe",
+      "mxfp4",
+      "quantization",
+      "simd",
+      "systems-programming",
+      "transformer",
+      "zero-dependencies"
+    ],
+    "created_at": "2026-08-01T09:29:38",
+    "updated_at": "2026-08-02T17:22:43"
+  },
+  {
     "name": "bullshit-detector",
     "full_name": "SerhiiKorniienko/bullshit-detector",
     "description": "Agent skills that fact-check the internet: claim-by-claim verification with sources and a 0-10 BS score for any YouTube video, article, tweet, or PDF",
     "url": "https://github.com/SerhiiKorniienko/bullshit-detector",
     "stars": 97,
-    "daily_stars": 2,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -133,15 +222,15 @@
       "yt-dlp"
     ],
     "created_at": "2026-07-27T12:54:30",
-    "updated_at": "2026-08-02T14:05:53"
+    "updated_at": "2026-08-02T15:28:37"
   },
   {
     "name": "poirot",
     "full_name": "HezaoHezao/poirot",
     "description": "Poirot is a deep research agent kernel built for those who care about how agents are architected. ",
     "url": "https://github.com/HezaoHezao/poirot",
-    "stars": 90,
-    "daily_stars": 1,
+    "stars": 95,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "agent",
@@ -158,90 +247,6 @@
       "multi-agent"
     ],
     "created_at": "2026-07-28T17:36:07",
-    "updated_at": "2026-08-02T13:53:16"
-  },
-  {
-    "name": "KimiCodeBar-Windows",
-    "full_name": "JYH1878/KimiCodeBar-Windows",
-    "description": "Windows 托盘上的 Kimi Code 用量监控：左键看额度，低额变红提醒。Tauri 2 + Rust，安装包仅 3MB。",
-    "url": "https://github.com/JYH1878/KimiCodeBar-Windows",
-    "stars": 79,
-    "daily_stars": 0,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "desktop-app",
-      "kimi",
-      "kimi-code",
-      "windows"
-    ],
-    "created_at": "2026-07-25T17:02:30",
-    "updated_at": "2026-08-02T04:30:00"
-  },
-  {
-    "name": "kimi-k3-in-c",
-    "full_name": "FareedKhan-dev/kimi-k3-in-c",
-    "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
-    "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 77,
-    "daily_stars": 44,
-    "language": "C",
-    "topics": [
-      "avx2",
-      "c99",
-      "cpu-inference",
-      "deep-learning",
-      "from-scratch",
-      "inference-engine",
-      "kimi-k3",
-      "linear-attention",
-      "llm",
-      "llm-inference",
-      "machine-learning",
-      "memory-efficient",
-      "mixture-of-experts",
-      "moe",
-      "mxfp4",
-      "quantization",
-      "simd",
-      "systems-programming",
-      "transformer",
-      "zero-dependencies"
-    ],
-    "created_at": "2026-08-01T09:29:38",
-    "updated_at": "2026-08-02T14:05:27"
-  },
-  {
-    "name": "kimi-k3-in-c",
-    "full_name": "FareedKhan-dev/kimi-k3-in-c",
-    "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
-    "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 77,
-    "daily_stars": 0,
-    "language": "C",
-    "topics": [
-      "avx2",
-      "c99",
-      "cpu-inference",
-      "deep-learning",
-      "from-scratch",
-      "inference-engine",
-      "kimi-k3",
-      "linear-attention",
-      "llm",
-      "llm-inference",
-      "machine-learning",
-      "memory-efficient",
-      "mixture-of-experts",
-      "moe",
-      "mxfp4",
-      "quantization",
-      "simd",
-      "systems-programming",
-      "transformer",
-      "zero-dependencies"
-    ],
-    "created_at": "2026-08-01T09:29:38",
-    "updated_at": "2026-08-02T14:05:27"
+    "updated_at": "2026-08-02T17:28:50"
   }
 ]
