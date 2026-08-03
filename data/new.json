@@ -4,8 +4,8 @@
     "full_name": "microsoft/skill-recorder",
     "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
     "url": "https://github.com/microsoft/skill-recorder",
-    "stars": 716,
-    "daily_stars": 59,
+    "stars": 900,
+    "daily_stars": 184,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -20,7 +20,7 @@
       "screen-recording"
     ],
     "created_at": "2026-07-29T18:16:14",
-    "updated_at": "2026-08-02T21:22:35"
+    "updated_at": "2026-08-03T04:04:04"
   },
   {
     "name": "ratchet",
@@ -28,7 +28,7 @@
     "description": "Your agent reads the rules. This checks whether it followed them.",
     "url": "https://github.com/0xwilliamortiz/ratchet",
     "stars": 411,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -52,8 +52,8 @@
     "full_name": "deerwork-ai/deer-workflow",
     "description": "An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
     "url": "https://github.com/deerwork-ai/deer-workflow",
-    "stars": 377,
-    "daily_stars": 0,
+    "stars": 379,
+    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -68,14 +68,14 @@
       "workflow"
     ],
     "created_at": "2026-07-26T04:20:50",
-    "updated_at": "2026-08-02T11:22:53"
+    "updated_at": "2026-08-03T03:47:11"
   },
   {
     "name": "deer-workflow",
     "full_name": "deerwork-ai/deer-workflow",
     "description": "An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
     "url": "https://github.com/deerwork-ai/deer-workflow",
-    "stars": 377,
+    "stars": 379,
     "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
@@ -91,15 +91,81 @@
       "workflow"
     ],
     "created_at": "2026-07-26T04:20:50",
-    "updated_at": "2026-08-02T11:22:53"
+    "updated_at": "2026-08-03T03:47:11"
+  },
+  {
+    "name": "kimi-k3-in-c",
+    "full_name": "FareedKhan-dev/kimi-k3-in-c",
+    "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+    "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+    "stars": 318,
+    "daily_stars": 109,
+    "language": "C",
+    "topics": [
+      "avx2",
+      "c99",
+      "cpu-inference",
+      "deep-learning",
+      "from-scratch",
+      "inference-engine",
+      "kimi-k3",
+      "linear-attention",
+      "llm",
+      "llm-inference",
+      "machine-learning",
+      "memory-efficient",
+      "mixture-of-experts",
+      "moe",
+      "mxfp4",
+      "quantization",
+      "simd",
+      "systems-programming",
+      "transformer",
+      "zero-dependencies"
+    ],
+    "created_at": "2026-08-01T09:29:38",
+    "updated_at": "2026-08-03T04:04:47"
+  },
+  {
+    "name": "kimi-k3-in-c",
+    "full_name": "FareedKhan-dev/kimi-k3-in-c",
+    "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+    "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+    "stars": 318,
+    "daily_stars": 0,
+    "language": "C",
+    "topics": [
+      "avx2",
+      "c99",
+      "cpu-inference",
+      "deep-learning",
+      "from-scratch",
+      "inference-engine",
+      "kimi-k3",
+      "linear-attention",
+      "llm",
+      "llm-inference",
+      "machine-learning",
+      "memory-efficient",
+      "mixture-of-experts",
+      "moe",
+      "mxfp4",
+      "quantization",
+      "simd",
+      "systems-programming",
+      "transformer",
+      "zero-dependencies"
+    ],
+    "created_at": "2026-08-01T09:29:38",
+    "updated_at": "2026-08-03T04:04:47"
   },
   {
     "name": "old-coder",
     "full_name": "AmazingAng/old-coder",
     "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
     "url": "https://github.com/AmazingAng/old-coder",
-    "stars": 240,
-    "daily_stars": 1,
+    "stars": 245,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -108,81 +174,15 @@
       "tdd"
     ],
     "created_at": "2026-07-27T05:03:11",
-    "updated_at": "2026-08-02T17:59:27"
-  },
-  {
-    "name": "kimi-k3-in-c",
-    "full_name": "FareedKhan-dev/kimi-k3-in-c",
-    "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
-    "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 209,
-    "daily_stars": 73,
-    "language": "C",
-    "topics": [
-      "avx2",
-      "c99",
-      "cpu-inference",
-      "deep-learning",
-      "from-scratch",
-      "inference-engine",
-      "kimi-k3",
-      "linear-attention",
-      "llm",
-      "llm-inference",
-      "machine-learning",
-      "memory-efficient",
-      "mixture-of-experts",
-      "moe",
-      "mxfp4",
-      "quantization",
-      "simd",
-      "systems-programming",
-      "transformer",
-      "zero-dependencies"
-    ],
-    "created_at": "2026-08-01T09:29:38",
-    "updated_at": "2026-08-02T21:22:36"
-  },
-  {
-    "name": "kimi-k3-in-c",
-    "full_name": "FareedKhan-dev/kimi-k3-in-c",
-    "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
-    "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 209,
-    "daily_stars": 0,
-    "language": "C",
-    "topics": [
-      "avx2",
-      "c99",
-      "cpu-inference",
-      "deep-learning",
-      "from-scratch",
-      "inference-engine",
-      "kimi-k3",
-      "linear-attention",
-      "llm",
-      "llm-inference",
-      "machine-learning",
-      "memory-efficient",
-      "mixture-of-experts",
-      "moe",
-      "mxfp4",
-      "quantization",
-      "simd",
-      "systems-programming",
-      "transformer",
-      "zero-dependencies"
-    ],
-    "created_at": "2026-08-01T09:29:38",
-    "updated_at": "2026-08-02T21:22:36"
+    "updated_at": "2026-08-03T03:51:12"
   },
   {
     "name": "trace-file-lineage",
     "full_name": "uczltw6/trace-file-lineage",
     "description": "Find which script, notebook, data, command, or AI agent produced a file — locally, with evidence and honest uncertainty.",
     "url": "https://github.com/uczltw6/trace-file-lineage",
-    "stars": 172,
-    "daily_stars": 0,
+    "stars": 203,
+    "daily_stars": 31,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -201,15 +201,15 @@
       "research-tools"
     ],
     "created_at": "2026-07-29T22:05:47",
-    "updated_at": "2026-08-02T02:30:39"
+    "updated_at": "2026-08-03T03:40:21"
   },
   {
     "name": "poirot",
     "full_name": "HezaoHezao/poirot",
     "description": "Poirot is a deep research agent kernel built for those who care about how agents are architected. ",
     "url": "https://github.com/HezaoHezao/poirot",
-    "stars": 98,
-    "daily_stars": 3,
+    "stars": 103,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "agent",
@@ -226,15 +226,15 @@
       "multi-agent"
     ],
     "created_at": "2026-07-28T17:36:07",
-    "updated_at": "2026-08-02T20:54:46"
+    "updated_at": "2026-08-03T03:51:46"
   },
   {
     "name": "bullshit-detector",
     "full_name": "SerhiiKorniienko/bullshit-detector",
     "description": "Agent skills that fact-check the internet: claim-by-claim verification with sources and a 0-10 BS score for any YouTube video, article, tweet, or PDF",
     "url": "https://github.com/SerhiiKorniienko/bullshit-detector",
-    "stars": 97,
-    "daily_stars": 0,
+    "stars": 101,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -247,6 +247,6 @@
       "yt-dlp"
     ],
     "created_at": "2026-07-27T12:54:30",
-    "updated_at": "2026-08-02T20:16:49"
+    "updated_at": "2026-08-03T01:00:39"
   }
 ]
