@@ -4,8 +4,8 @@
     "full_name": "microsoft/skill-recorder",
     "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
     "url": "https://github.com/microsoft/skill-recorder",
-    "stars": 1063,
-    "daily_stars": 163,
+    "stars": 1211,
+    "daily_stars": 148,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -20,15 +20,15 @@
       "screen-recording"
     ],
     "created_at": "2026-07-29T18:16:14",
-    "updated_at": "2026-08-03T07:58:07"
+    "updated_at": "2026-08-03T11:55:51"
   },
   {
     "name": "kimi-k3-in-c",
     "full_name": "FareedKhan-dev/kimi-k3-in-c",
     "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 498,
-    "daily_stars": 180,
+    "stars": 681,
+    "daily_stars": 1,
     "language": "C",
     "topics": [
       "avx2",
@@ -53,15 +53,15 @@
       "zero-dependencies"
     ],
     "created_at": "2026-08-01T09:29:38",
-    "updated_at": "2026-08-03T07:58:00"
+    "updated_at": "2026-08-03T11:56:15"
   },
   {
     "name": "kimi-k3-in-c",
     "full_name": "FareedKhan-dev/kimi-k3-in-c",
     "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 498,
-    "daily_stars": 0,
+    "stars": 680,
+    "daily_stars": 182,
     "language": "C",
     "topics": [
       "avx2",
@@ -86,14 +86,14 @@
       "zero-dependencies"
     ],
     "created_at": "2026-08-01T09:29:38",
-    "updated_at": "2026-08-03T07:58:00"
+    "updated_at": "2026-08-03T11:56:02"
   },
   {
     "name": "ratchet",
     "full_name": "0xwilliamortiz/ratchet",
     "description": "Your agent reads the rules. This checks whether it followed them.",
     "url": "https://github.com/0xwilliamortiz/ratchet",
-    "stars": 413,
+    "stars": 415,
     "daily_stars": 2,
     "language": "JavaScript",
     "topics": [
@@ -111,14 +111,14 @@
       "yagni"
     ],
     "created_at": "2026-07-31T17:54:30",
-    "updated_at": "2026-08-03T07:37:07"
+    "updated_at": "2026-08-03T10:05:10"
   },
   {
     "name": "old-coder",
     "full_name": "AmazingAng/old-coder",
     "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
     "url": "https://github.com/AmazingAng/old-coder",
-    "stars": 249,
+    "stars": 253,
     "daily_stars": 4,
     "language": "Python",
     "topics": [
@@ -128,7 +128,7 @@
       "tdd"
     ],
     "created_at": "2026-07-27T05:03:11",
-    "updated_at": "2026-08-03T06:50:02"
+    "updated_at": "2026-08-03T11:55:54"
   },
   {
     "name": "trace-file-lineage",
@@ -162,7 +162,7 @@
     "full_name": "HezaoHezao/poirot",
     "description": "Poirot is a deep research agent kernel built for those who care about how agents are architected. ",
     "url": "https://github.com/HezaoHezao/poirot",
-    "stars": 105,
+    "stars": 107,
     "daily_stars": 2,
     "language": "Python",
     "topics": [
@@ -180,7 +180,7 @@
       "multi-agent"
     ],
     "created_at": "2026-07-28T17:36:07",
-    "updated_at": "2026-08-03T06:54:41"
+    "updated_at": "2026-08-03T11:28:46"
   },
   {
     "name": "bullshit-detector",
@@ -204,12 +204,35 @@
     "updated_at": "2026-08-03T01:00:39"
   },
   {
+    "name": "DeterminFlow",
+    "full_name": "alikon-art/DeterminFlow",
+    "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. 面向生产的 AI 工作流运行时：快速开发、验证和恢复复杂 AI 工作流，并将其稳定交付为服务。",
+    "url": "https://github.com/alikon-art/DeterminFlow",
+    "stars": 95,
+    "daily_stars": 18,
+    "language": "Python",
+    "topics": [
+      "agent-orchestration",
+      "ai-agents",
+      "ai-workflow",
+      "fastapi",
+      "llm",
+      "multi-agent",
+      "python",
+      "workflow-automation",
+      "workflow-engine",
+      "workflow-runtime"
+    ],
+    "created_at": "2026-08-02T07:40:51",
+    "updated_at": "2026-08-03T11:39:16"
+  },
+  {
     "name": "kaas",
     "full_name": "bybit-exchange/kaas",
     "description": "Turn scattered notes, docs and transcripts into a queryable Markdown wiki — an LLM knowledge-base compiler with MCP access, no embeddings, self-hosted.",
     "url": "https://github.com/bybit-exchange/kaas",
-    "stars": 80,
-    "daily_stars": 4,
+    "stars": 81,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -233,27 +256,6 @@
       "wiki"
     ],
     "created_at": "2026-07-29T13:01:22",
-    "updated_at": "2026-08-03T07:32:31"
-  },
-  {
-    "name": "council-lab",
-    "full_name": "loveramarois-byte/council-lab",
-    "description": "Local-first, human-participatory four-agent AI deliberation workspace",
-    "url": "https://github.com/loveramarois-byte/council-lab",
-    "stars": 79,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ccswitch",
-      "deliberation",
-      "fastapi",
-      "langgraph",
-      "local-first",
-      "multi-agent",
-      "nextjs"
-    ],
-    "created_at": "2026-07-27T14:14:09",
-    "updated_at": "2026-08-03T07:24:36"
+    "updated_at": "2026-08-03T08:00:57"
   }
 ]
