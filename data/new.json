@@ -4,8 +4,8 @@
     "full_name": "microsoft/skill-recorder",
     "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
     "url": "https://github.com/microsoft/skill-recorder",
-    "stars": 1284,
-    "daily_stars": 73,
+    "stars": 1328,
+    "daily_stars": 44,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -20,15 +20,15 @@
       "screen-recording"
     ],
     "created_at": "2026-07-29T18:16:14",
-    "updated_at": "2026-08-03T15:23:49"
+    "updated_at": "2026-08-03T18:16:28"
   },
   {
     "name": "kimi-k3-in-c",
     "full_name": "FareedKhan-dev/kimi-k3-in-c",
     "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 864,
-    "daily_stars": 183,
+    "stars": 998,
+    "daily_stars": 134,
     "language": "C",
     "topics": [
       "avx2",
@@ -53,14 +53,14 @@
       "zero-dependencies"
     ],
     "created_at": "2026-08-01T09:29:38",
-    "updated_at": "2026-08-03T15:22:43"
+    "updated_at": "2026-08-03T18:15:56"
   },
   {
     "name": "kimi-k3-in-c",
     "full_name": "FareedKhan-dev/kimi-k3-in-c",
     "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 864,
+    "stars": 998,
     "daily_stars": 0,
     "language": "C",
     "topics": [
@@ -86,15 +86,15 @@
       "zero-dependencies"
     ],
     "created_at": "2026-08-01T09:29:38",
-    "updated_at": "2026-08-03T15:22:43"
+    "updated_at": "2026-08-03T18:15:56"
   },
   {
     "name": "ratchet",
     "full_name": "0xwilliamortiz/ratchet",
     "description": "Your agent reads the rules. This checks whether it followed them.",
     "url": "https://github.com/0xwilliamortiz/ratchet",
-    "stars": 416,
-    "daily_stars": 1,
+    "stars": 420,
+    "daily_stars": 4,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -111,7 +111,7 @@
       "yagni"
     ],
     "created_at": "2026-07-31T17:54:30",
-    "updated_at": "2026-08-03T13:21:05"
+    "updated_at": "2026-08-03T17:32:25"
   },
   {
     "name": "old-coder",
@@ -119,7 +119,7 @@
     "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
     "url": "https://github.com/AmazingAng/old-coder",
     "stars": 261,
-    "daily_stars": 8,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -135,7 +135,7 @@
     "full_name": "uczltw6/trace-file-lineage",
     "description": "Find which script, notebook, data, command, or AI agent produced a file — locally, with evidence and honest uncertainty.",
     "url": "https://github.com/uczltw6/trace-file-lineage",
-    "stars": 204,
+    "stars": 205,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -155,15 +155,38 @@
       "research-tools"
     ],
     "created_at": "2026-07-29T22:05:47",
-    "updated_at": "2026-08-03T14:28:50"
+    "updated_at": "2026-08-03T17:40:40"
+  },
+  {
+    "name": "DeterminFlow",
+    "full_name": "alikon-art/DeterminFlow",
+    "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. 面向生产的 AI 工作流运行时：快速开发、验证和恢复复杂 AI 工作流，并将其稳定交付为服务。",
+    "url": "https://github.com/alikon-art/DeterminFlow",
+    "stars": 119,
+    "daily_stars": 10,
+    "language": "Python",
+    "topics": [
+      "agent-orchestration",
+      "ai-agents",
+      "ai-workflow",
+      "fastapi",
+      "llm",
+      "multi-agent",
+      "python",
+      "workflow-automation",
+      "workflow-engine",
+      "workflow-runtime"
+    ],
+    "created_at": "2026-08-02T07:40:51",
+    "updated_at": "2026-08-03T18:15:13"
   },
   {
     "name": "poirot",
     "full_name": "HezaoHezao/poirot",
     "description": "Poirot is a deep research agent kernel built for those who care about how agents are architected. ",
     "url": "https://github.com/HezaoHezao/poirot",
-    "stars": 115,
-    "daily_stars": 8,
+    "stars": 117,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "agent",
@@ -180,30 +203,7 @@
       "multi-agent"
     ],
     "created_at": "2026-07-28T17:36:07",
-    "updated_at": "2026-08-03T14:52:22"
-  },
-  {
-    "name": "DeterminFlow",
-    "full_name": "alikon-art/DeterminFlow",
-    "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. 面向生产的 AI 工作流运行时：快速开发、验证和恢复复杂 AI 工作流，并将其稳定交付为服务。",
-    "url": "https://github.com/alikon-art/DeterminFlow",
-    "stars": 109,
-    "daily_stars": 14,
-    "language": "Python",
-    "topics": [
-      "agent-orchestration",
-      "ai-agents",
-      "ai-workflow",
-      "fastapi",
-      "llm",
-      "multi-agent",
-      "python",
-      "workflow-automation",
-      "workflow-engine",
-      "workflow-runtime"
-    ],
-    "created_at": "2026-08-02T07:40:51",
-    "updated_at": "2026-08-03T15:12:43"
+    "updated_at": "2026-08-03T16:50:32"
   },
   {
     "name": "bullshit-detector",
@@ -232,7 +232,7 @@
     "description": "Turn scattered notes, docs and transcripts into a queryable Markdown wiki — an LLM knowledge-base compiler with MCP access, no embeddings, self-hosted.",
     "url": "https://github.com/bybit-exchange/kaas",
     "stars": 82,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "ai-agents",
