@@ -4,8 +4,8 @@
     "full_name": "FareedKhan-dev/kimi-k3-in-c",
     "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 1668,
-    "daily_stars": 139,
+    "stars": 1792,
+    "daily_stars": 124,
     "language": "C",
     "topics": [
       "avx2",
@@ -30,15 +30,15 @@
       "zero-dependencies"
     ],
     "created_at": "2026-08-01T09:29:38",
-    "updated_at": "2026-08-04T15:00:19"
+    "updated_at": "2026-08-04T18:10:30"
   },
   {
     "name": "skill-recorder",
     "full_name": "microsoft/skill-recorder",
     "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
     "url": "https://github.com/microsoft/skill-recorder",
-    "stars": 1689,
-    "daily_stars": 71,
+    "stars": 1733,
+    "daily_stars": 44,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -53,15 +53,34 @@
       "screen-recording"
     ],
     "created_at": "2026-07-29T18:16:14",
-    "updated_at": "2026-08-04T14:55:50"
+    "updated_at": "2026-08-04T18:00:20"
+  },
+  {
+    "name": "thinking-orbs",
+    "full_name": "Jakubantalik/thinking-orbs",
+    "description": "Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light",
+    "url": "https://github.com/Jakubantalik/thinking-orbs",
+    "stars": 1429,
+    "daily_stars": 29,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "chat",
+      "loader",
+      "ui",
+      "ux"
+    ],
+    "created_at": "2026-07-21T07:01:53",
+    "updated_at": "2026-08-04T18:06:31"
   },
   {
     "name": "img2threejs",
     "full_name": "hoainho/img2threejs",
     "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
     "url": "https://github.com/hoainho/img2threejs",
-    "stars": 9550,
-    "daily_stars": 44,
+    "stars": 9572,
+    "daily_stars": 22,
     "language": "Python",
     "topics": [
       "3d",
@@ -76,15 +95,15 @@
       "webgl"
     ],
     "created_at": "2026-07-15T02:58:39",
-    "updated_at": "2026-08-04T14:59:24"
+    "updated_at": "2026-08-04T17:48:58"
   },
   {
     "name": "penguin-harness",
     "full_name": "Prism-Shadow/penguin-harness",
     "description": "Open, Efficient, Self-Improving Harness: Autonomously Build and Optimize AI Products for Just a Few Dollars",
     "url": "https://github.com/Prism-Shadow/penguin-harness",
-    "stars": 470,
-    "daily_stars": 26,
+    "stars": 485,
+    "daily_stars": 15,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -99,15 +118,42 @@
       "workflow"
     ],
     "created_at": "2026-07-19T03:15:21",
-    "updated_at": "2026-08-04T14:56:25"
+    "updated_at": "2026-08-04T17:15:29"
+  },
+  {
+    "name": "video-shotcraft",
+    "full_name": "Vincentwei1021/video-shotcraft",
+    "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+    "url": "https://github.com/Vincentwei1021/video-shotcraft",
+    "stars": 3502,
+    "daily_stars": 11,
+    "language": "TypeScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-video",
+      "claude-code",
+      "claude-code-skills",
+      "claude-skills",
+      "codex",
+      "motion-design",
+      "motion-graphics",
+      "product-video",
+      "promo-video",
+      "remotion",
+      "video-generation",
+      "video-production"
+    ],
+    "created_at": "2026-07-19T11:44:41",
+    "updated_at": "2026-08-04T18:03:52"
   },
   {
     "name": "navop",
     "full_name": "feigeCode/navop",
     "description": "Navop combines Navigate and Operation—a unified workspace that helps developers navigate and operate databases, servers, terminals, and AI tools from one place.",
     "url": "https://github.com/feigeCode/navop",
-    "stars": 262,
-    "daily_stars": 12,
+    "stars": 270,
+    "daily_stars": 8,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -132,65 +178,57 @@
       "whiteboard"
     ],
     "created_at": "2026-07-10T06:01:54",
-    "updated_at": "2026-08-04T15:00:17"
+    "updated_at": "2026-08-04T17:24:35"
   },
   {
-    "name": "video-shotcraft",
-    "full_name": "Vincentwei1021/video-shotcraft",
-    "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-    "url": "https://github.com/Vincentwei1021/video-shotcraft",
-    "stars": 3491,
-    "daily_stars": 9,
-    "language": "TypeScript",
+    "name": "optim-agent",
+    "full_name": "Optim-Agent/optim-agent",
+    "description": "LLM agents as your hyperparameter optimizer.",
+    "url": "https://github.com/Optim-Agent/optim-agent",
+    "stars": 770,
+    "daily_stars": 7,
+    "language": "Python",
     "topics": [
       "agent-skills",
-      "ai-agents",
-      "ai-video",
+      "bayesian-optimization",
       "claude-code",
-      "claude-code-skills",
-      "claude-skills",
-      "codex",
-      "motion-design",
-      "motion-graphics",
-      "product-video",
-      "promo-video",
-      "remotion",
-      "video-generation",
-      "video-production"
+      "codex-cli",
+      "hyperparameter-optimization",
+      "machine-learning",
+      "quantitative-finance",
+      "reinforcement-learning",
+      "skill"
     ],
-    "created_at": "2026-07-19T11:44:41",
-    "updated_at": "2026-08-04T14:48:04"
+    "created_at": "2026-07-07T17:05:54",
+    "updated_at": "2026-08-04T17:44:19"
   },
   {
-    "name": "clawk",
-    "full_name": "clawkwork/clawk",
-    "description": "Disposable, network-restricted Linux VMs for AI coding agents",
-    "url": "https://github.com/clawkwork/clawk",
-    "stars": 911,
-    "daily_stars": 7,
-    "language": "Go",
+    "name": "caspian-sdk",
+    "full_name": "TryCaspian/caspian-sdk",
+    "description": "One identity for your AI agent across every channel humans use: Slack, Discord, Telegram, Instagram, email, X, behind a single on_message handler. Channel adapters + SDK + CLI.",
+    "url": "https://github.com/TryCaspian/caspian-sdk",
+    "stars": 443,
+    "daily_stars": 5,
+    "language": "Python",
     "topics": [
-      "agent-sandbox",
-      "ai-agent-sandbox",
       "ai-agents",
-      "claude",
-      "claude-code",
-      "codex",
-      "microvm",
-      "sandbox",
-      "virtualization",
-      "vm"
+      "communication",
+      "discord",
+      "messaging",
+      "sdk",
+      "slack",
+      "telegram"
     ],
-    "created_at": "2026-07-06T21:30:38",
-    "updated_at": "2026-08-04T13:37:04"
+    "created_at": "2026-07-20T10:47:56",
+    "updated_at": "2026-08-04T18:08:26"
   },
   {
     "name": "DeterminFlow",
     "full_name": "alikon-art/DeterminFlow",
     "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. 面向生产的 AI 工作流运行时：快速开发、验证和恢复复杂 AI 工作流，并将其稳定交付为服务。",
     "url": "https://github.com/alikon-art/DeterminFlow",
-    "stars": 181,
-    "daily_stars": 7,
+    "stars": 186,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "agent-orchestration",
@@ -205,55 +243,6 @@
       "workflow-runtime"
     ],
     "created_at": "2026-08-02T07:40:51",
-    "updated_at": "2026-08-04T13:49:04"
-  },
-  {
-    "name": "agentswarms",
-    "full_name": "AgentSwarms-fyi/agentswarms",
-    "description": "Unified Agentic AI and Business Intelligence Platform",
-    "url": "https://github.com/AgentSwarms-fyi/agentswarms",
-    "stars": 93,
-    "daily_stars": 6,
-    "language": "TypeScript",
-    "topics": [
-      "agentic-ai",
-      "agentic-bi",
-      "agentic-workflow",
-      "agents",
-      "ai",
-      "ai-workflows",
-      "artificial-intelligence",
-      "business-analytics",
-      "business-intelligence",
-      "langchain",
-      "langgraph",
-      "rag",
-      "rag-chatbot",
-      "rag-pipeline",
-      "typescript",
-      "visual-editor"
-    ],
-    "created_at": "2026-07-21T21:35:03",
-    "updated_at": "2026-08-04T14:35:47"
-  },
-  {
-    "name": "Octop",
-    "full_name": "TencentCloud/Octop",
-    "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-    "url": "https://github.com/TencentCloud/Octop",
-    "stars": 666,
-    "daily_stars": 6,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "local-first",
-      "long-term-memory"
-    ],
-    "created_at": "2026-07-08T12:54:20",
-    "updated_at": "2026-08-04T14:57:31"
+    "updated_at": "2026-08-04T17:56:39"
   }
 ]
