@@ -4,8 +4,8 @@
     "full_name": "FareedKhan-dev/kimi-k3-in-c",
     "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 1529,
-    "daily_stars": 128,
+    "stars": 1668,
+    "daily_stars": 139,
     "language": "C",
     "topics": [
       "avx2",
@@ -30,15 +30,15 @@
       "zero-dependencies"
     ],
     "created_at": "2026-08-01T09:29:38",
-    "updated_at": "2026-08-04T11:01:51"
+    "updated_at": "2026-08-04T15:00:19"
   },
   {
     "name": "skill-recorder",
     "full_name": "microsoft/skill-recorder",
     "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
     "url": "https://github.com/microsoft/skill-recorder",
-    "stars": 1618,
-    "daily_stars": 75,
+    "stars": 1689,
+    "daily_stars": 71,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -53,15 +53,15 @@
       "screen-recording"
     ],
     "created_at": "2026-07-29T18:16:14",
-    "updated_at": "2026-08-04T10:55:06"
+    "updated_at": "2026-08-04T14:55:50"
   },
   {
     "name": "img2threejs",
     "full_name": "hoainho/img2threejs",
     "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
     "url": "https://github.com/hoainho/img2threejs",
-    "stars": 9506,
-    "daily_stars": 43,
+    "stars": 9550,
+    "daily_stars": 44,
     "language": "Python",
     "topics": [
       "3d",
@@ -76,15 +76,15 @@
       "webgl"
     ],
     "created_at": "2026-07-15T02:58:39",
-    "updated_at": "2026-08-04T10:58:06"
+    "updated_at": "2026-08-04T14:59:24"
   },
   {
     "name": "penguin-harness",
     "full_name": "Prism-Shadow/penguin-harness",
     "description": "Open, Efficient, Self-Improving Harness: Autonomously Build and Optimize AI Products for Just a Few Dollars",
     "url": "https://github.com/Prism-Shadow/penguin-harness",
-    "stars": 444,
-    "daily_stars": 27,
+    "stars": 470,
+    "daily_stars": 26,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -99,38 +99,15 @@
       "workflow"
     ],
     "created_at": "2026-07-19T03:15:21",
-    "updated_at": "2026-08-04T10:57:16"
-  },
-  {
-    "name": "DeterminFlow",
-    "full_name": "alikon-art/DeterminFlow",
-    "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. 面向生产的 AI 工作流运行时：快速开发、验证和恢复复杂 AI 工作流，并将其稳定交付为服务。",
-    "url": "https://github.com/alikon-art/DeterminFlow",
-    "stars": 174,
-    "daily_stars": 23,
-    "language": "Python",
-    "topics": [
-      "agent-orchestration",
-      "ai-agents",
-      "ai-workflow",
-      "fastapi",
-      "llm",
-      "multi-agent",
-      "python",
-      "workflow-automation",
-      "workflow-engine",
-      "workflow-runtime"
-    ],
-    "created_at": "2026-08-02T07:40:51",
-    "updated_at": "2026-08-04T10:59:17"
+    "updated_at": "2026-08-04T14:56:25"
   },
   {
     "name": "navop",
     "full_name": "feigeCode/navop",
     "description": "Navop combines Navigate and Operation—a unified workspace that helps developers navigate and operate databases, servers, terminals, and AI tools from one place.",
     "url": "https://github.com/feigeCode/navop",
-    "stars": 250,
-    "daily_stars": 21,
+    "stars": 262,
+    "daily_stars": 12,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -155,15 +132,15 @@
       "whiteboard"
     ],
     "created_at": "2026-07-10T06:01:54",
-    "updated_at": "2026-08-04T10:49:54"
+    "updated_at": "2026-08-04T15:00:17"
   },
   {
     "name": "video-shotcraft",
     "full_name": "Vincentwei1021/video-shotcraft",
     "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
     "url": "https://github.com/Vincentwei1021/video-shotcraft",
-    "stars": 3482,
-    "daily_stars": 13,
+    "stars": 3491,
+    "daily_stars": 9,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -182,65 +159,101 @@
       "video-production"
     ],
     "created_at": "2026-07-19T11:44:41",
-    "updated_at": "2026-08-04T10:06:52"
+    "updated_at": "2026-08-04T14:48:04"
   },
   {
-    "name": "optim-agent",
-    "full_name": "Optim-Agent/optim-agent",
-    "description": "LLM agents as your hyperparameter optimizer.",
-    "url": "https://github.com/Optim-Agent/optim-agent",
-    "stars": 761,
-    "daily_stars": 11,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "bayesian-optimization",
-      "claude-code",
-      "codex-cli",
-      "hyperparameter-optimization",
-      "machine-learning",
-      "quantitative-finance",
-      "reinforcement-learning",
-      "skill"
-    ],
-    "created_at": "2026-07-07T17:05:54",
-    "updated_at": "2026-08-04T10:56:06"
-  },
-  {
-    "name": "codexloom",
-    "full_name": "yan5xu/codexloom",
-    "description": "Turn Codex threads into an organization of long-lived domain agents.",
-    "url": "https://github.com/yan5xu/codexloom",
-    "stars": 290,
-    "daily_stars": 9,
+    "name": "clawk",
+    "full_name": "clawkwork/clawk",
+    "description": "Disposable, network-restricted Linux VMs for AI coding agents",
+    "url": "https://github.com/clawkwork/clawk",
+    "stars": 911,
+    "daily_stars": 7,
     "language": "Go",
     "topics": [
-      "agent-governance",
-      "agent-orchestration",
+      "agent-sandbox",
+      "ai-agent-sandbox",
       "ai-agents",
+      "claude",
+      "claude-code",
       "codex",
-      "developer-tools",
-      "golang",
-      "llm",
-      "multi-agent",
-      "react"
+      "microvm",
+      "sandbox",
+      "virtualization",
+      "vm"
     ],
-    "created_at": "2026-07-07T09:21:39",
-    "updated_at": "2026-08-04T10:11:53"
+    "created_at": "2026-07-06T21:30:38",
+    "updated_at": "2026-08-04T13:37:04"
   },
   {
-    "name": "ai-agent-engineering-playbook",
-    "full_name": "HsienW/ai-agent-engineering-playbook",
-    "description": "🔨Reusable personal Agent Skills and practice-backed Q&A for AI Agent engineering, runtime reliability, multi-agent systems, evaluation, and AI-native frontend.",
-    "url": "https://github.com/HsienW/ai-agent-engineering-playbook",
-    "stars": 11,
+    "name": "DeterminFlow",
+    "full_name": "alikon-art/DeterminFlow",
+    "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. 面向生产的 AI 工作流运行时：快速开发、验证和恢复复杂 AI 工作流，并将其稳定交付为服务。",
+    "url": "https://github.com/alikon-art/DeterminFlow",
+    "stars": 181,
     "daily_stars": 7,
-    "language": null,
+    "language": "Python",
     "topics": [
-      "skills",
-      "workflow"
+      "agent-orchestration",
+      "ai-agents",
+      "ai-workflow",
+      "fastapi",
+      "llm",
+      "multi-agent",
+      "python",
+      "workflow-automation",
+      "workflow-engine",
+      "workflow-runtime"
     ],
-    "created_at": "2026-07-14T14:14:29",
-    "updated_at": "2026-08-04T10:45:01"
+    "created_at": "2026-08-02T07:40:51",
+    "updated_at": "2026-08-04T13:49:04"
+  },
+  {
+    "name": "agentswarms",
+    "full_name": "AgentSwarms-fyi/agentswarms",
+    "description": "Unified Agentic AI and Business Intelligence Platform",
+    "url": "https://github.com/AgentSwarms-fyi/agentswarms",
+    "stars": 93,
+    "daily_stars": 6,
+    "language": "TypeScript",
+    "topics": [
+      "agentic-ai",
+      "agentic-bi",
+      "agentic-workflow",
+      "agents",
+      "ai",
+      "ai-workflows",
+      "artificial-intelligence",
+      "business-analytics",
+      "business-intelligence",
+      "langchain",
+      "langgraph",
+      "rag",
+      "rag-chatbot",
+      "rag-pipeline",
+      "typescript",
+      "visual-editor"
+    ],
+    "created_at": "2026-07-21T21:35:03",
+    "updated_at": "2026-08-04T14:35:47"
+  },
+  {
+    "name": "Octop",
+    "full_name": "TencentCloud/Octop",
+    "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+    "url": "https://github.com/TencentCloud/Octop",
+    "stars": 666,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "local-first",
+      "long-term-memory"
+    ],
+    "created_at": "2026-07-08T12:54:20",
+    "updated_at": "2026-08-04T14:57:31"
   }
 ]
