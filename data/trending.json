@@ -4,8 +4,8 @@
     "full_name": "FareedKhan-dev/kimi-k3-in-c",
     "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 1310,
-    "daily_stars": 152,
+    "stars": 1401,
+    "daily_stars": 91,
     "language": "C",
     "topics": [
       "avx2",
@@ -30,15 +30,15 @@
       "zero-dependencies"
     ],
     "created_at": "2026-08-01T09:29:38",
-    "updated_at": "2026-08-04T03:47:47"
+    "updated_at": "2026-08-04T07:10:28"
   },
   {
     "name": "skill-recorder",
     "full_name": "microsoft/skill-recorder",
     "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
     "url": "https://github.com/microsoft/skill-recorder",
-    "stars": 1477,
-    "daily_stars": 113,
+    "stars": 1543,
+    "daily_stars": 66,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -53,15 +53,15 @@
       "screen-recording"
     ],
     "created_at": "2026-07-29T18:16:14",
-    "updated_at": "2026-08-04T03:39:44"
+    "updated_at": "2026-08-04T07:10:37"
   },
   {
     "name": "img2threejs",
     "full_name": "hoainho/img2threejs",
     "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
     "url": "https://github.com/hoainho/img2threejs",
-    "stars": 9421,
-    "daily_stars": 55,
+    "stars": 9463,
+    "daily_stars": 42,
     "language": "Python",
     "topics": [
       "3d",
@@ -76,15 +76,15 @@
       "webgl"
     ],
     "created_at": "2026-07-15T02:58:39",
-    "updated_at": "2026-08-04T03:41:08"
+    "updated_at": "2026-08-04T07:05:21"
   },
   {
     "name": "penguin-harness",
     "full_name": "Prism-Shadow/penguin-harness",
     "description": "Open, Efficient, Self-Improving Harness: Autonomously Build and Optimize AI Products for Just a Few Dollars",
     "url": "https://github.com/Prism-Shadow/penguin-harness",
-    "stars": 382,
-    "daily_stars": 44,
+    "stars": 417,
+    "daily_stars": 35,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -99,15 +99,38 @@
       "workflow"
     ],
     "created_at": "2026-07-19T03:15:21",
-    "updated_at": "2026-08-04T03:48:06"
+    "updated_at": "2026-08-04T07:11:36"
+  },
+  {
+    "name": "DeterminFlow",
+    "full_name": "alikon-art/DeterminFlow",
+    "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. 面向生产的 AI 工作流运行时：快速开发、验证和恢复复杂 AI 工作流，并将其稳定交付为服务。",
+    "url": "https://github.com/alikon-art/DeterminFlow",
+    "stars": 151,
+    "daily_stars": 18,
+    "language": "Python",
+    "topics": [
+      "agent-orchestration",
+      "ai-agents",
+      "ai-workflow",
+      "fastapi",
+      "llm",
+      "multi-agent",
+      "python",
+      "workflow-automation",
+      "workflow-engine",
+      "workflow-runtime"
+    ],
+    "created_at": "2026-08-02T07:40:51",
+    "updated_at": "2026-08-04T07:03:08"
   },
   {
     "name": "video-shotcraft",
     "full_name": "Vincentwei1021/video-shotcraft",
     "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
     "url": "https://github.com/Vincentwei1021/video-shotcraft",
-    "stars": 3452,
-    "daily_stars": 39,
+    "stars": 3469,
+    "daily_stars": 17,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -126,59 +149,15 @@
       "video-production"
     ],
     "created_at": "2026-07-19T11:44:41",
-    "updated_at": "2026-08-04T03:39:58"
-  },
-  {
-    "name": "trace-file-lineage",
-    "full_name": "uczltw6/trace-file-lineage",
-    "description": "Find which script, notebook, data, command, or AI agent produced a file — locally, with evidence and honest uncertainty.",
-    "url": "https://github.com/uczltw6/trace-file-lineage",
-    "stars": 237,
-    "daily_stars": 30,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "artifact-tracking",
-      "claude-code",
-      "cli",
-      "codex",
-      "data-lineage",
-      "data-provenance",
-      "developer-tools",
-      "file-lineage",
-      "local-first",
-      "provenance",
-      "python",
-      "reproducibility",
-      "research-tools"
-    ],
-    "created_at": "2026-07-29T22:05:47",
-    "updated_at": "2026-08-04T00:57:08"
-  },
-  {
-    "name": "old-coder",
-    "full_name": "AmazingAng/old-coder",
-    "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
-    "url": "https://github.com/AmazingAng/old-coder",
-    "stars": 283,
-    "daily_stars": 19,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "skills",
-      "tdd"
-    ],
-    "created_at": "2026-07-27T05:03:11",
-    "updated_at": "2026-08-04T03:26:58"
+    "updated_at": "2026-08-04T07:06:50"
   },
   {
     "name": "navop",
     "full_name": "feigeCode/navop",
     "description": "Navop combines Navigate and Operation—a unified workspace that helps developers navigate and operate databases, servers, terminals, and AI tools from one place.",
     "url": "https://github.com/feigeCode/navop",
-    "stars": 212,
-    "daily_stars": 13,
+    "stars": 229,
+    "daily_stars": 17,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -203,52 +182,61 @@
       "whiteboard"
     ],
     "created_at": "2026-07-10T06:01:54",
-    "updated_at": "2026-08-04T03:39:21"
+    "updated_at": "2026-08-04T07:10:29"
   },
   {
-    "name": "DeterminFlow",
-    "full_name": "alikon-art/DeterminFlow",
-    "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. 面向生产的 AI 工作流运行时：快速开发、验证和恢复复杂 AI 工作流，并将其稳定交付为服务。",
-    "url": "https://github.com/alikon-art/DeterminFlow",
-    "stars": 133,
-    "daily_stars": 13,
+    "name": "Misceo",
+    "full_name": "MaySudo/Misceo",
+    "description": "Local Anthropic-compatible AI gateway with cheap-first routing, quality gates, safe model handoffs, and an embedded cost dashboard.",
+    "url": "https://github.com/MaySudo/Misceo",
+    "stars": 98,
+    "daily_stars": 7,
+    "language": null,
+    "topics": [
+      "ai-agents",
+      "ai-gateway",
+      "anthropic-api",
+      "claude-code",
+      "cost-optimization",
+      "llm-router",
+      "local-first",
+      "model-routing",
+      "multi-model"
+    ],
+    "created_at": "2026-07-18T13:27:36",
+    "updated_at": "2026-08-04T05:47:31"
+  },
+  {
+    "name": "old-coder",
+    "full_name": "AmazingAng/old-coder",
+    "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
+    "url": "https://github.com/AmazingAng/old-coder",
+    "stars": 289,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
-      "agent-orchestration",
       "ai-agents",
-      "ai-workflow",
-      "fastapi",
-      "llm",
-      "multi-agent",
-      "python",
-      "workflow-automation",
-      "workflow-engine",
-      "workflow-runtime"
+      "claude-code",
+      "skills",
+      "tdd"
     ],
-    "created_at": "2026-08-02T07:40:51",
-    "updated_at": "2026-08-04T03:38:59"
+    "created_at": "2026-07-27T05:03:11",
+    "updated_at": "2026-08-04T06:51:35"
   },
   {
-    "name": "FounderOS-DEMO",
-    "full_name": "Bennettxai/FounderOS-DEMO",
-    "description": "An open-source, single-operator business command center: run a one-person company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard.",
-    "url": "https://github.com/Bennettxai/FounderOS-DEMO",
-    "stars": 181,
-    "daily_stars": 11,
-    "language": "TypeScript",
+    "name": "numbat",
+    "full_name": "perplexityai/numbat",
+    "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
+    "url": "https://github.com/perplexityai/numbat",
+    "stars": 674,
+    "daily_stars": 5,
+    "language": "Go",
     "topics": [
-      "ai-agents",
-      "dashboard",
-      "founder-os",
-      "nextjs",
-      "open-source",
-      "operator-os",
-      "personal-productivity",
-      "sqlite",
-      "tailwindcss",
-      "typescript"
+      "agent-security",
+      "ai-agent-security",
+      "ai-agents"
     ],
-    "created_at": "2026-07-07T11:58:37",
-    "updated_at": "2026-08-04T03:23:51"
+    "created_at": "2026-07-24T06:07:59",
+    "updated_at": "2026-08-04T06:41:18"
   }
 ]
