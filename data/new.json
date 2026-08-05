@@ -4,8 +4,8 @@
     "full_name": "FareedKhan-dev/kimi-k3-in-c",
     "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 2284,
-    "daily_stars": 102,
+    "stars": 2407,
+    "daily_stars": 123,
     "language": "C",
     "topics": [
       "avx2",
@@ -30,14 +30,14 @@
       "zero-dependencies"
     ],
     "created_at": "2026-08-01T09:29:38",
-    "updated_at": "2026-08-05T10:58:23"
+    "updated_at": "2026-08-05T14:51:04"
   },
   {
     "name": "kimi-k3-in-c",
     "full_name": "FareedKhan-dev/kimi-k3-in-c",
     "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 2284,
+    "stars": 2407,
     "daily_stars": 0,
     "language": "C",
     "topics": [
@@ -63,15 +63,15 @@
       "zero-dependencies"
     ],
     "created_at": "2026-08-01T09:29:38",
-    "updated_at": "2026-08-05T10:58:23"
+    "updated_at": "2026-08-05T14:51:04"
   },
   {
     "name": "skill-recorder",
     "full_name": "microsoft/skill-recorder",
     "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
     "url": "https://github.com/microsoft/skill-recorder",
-    "stars": 1893,
-    "daily_stars": 40,
+    "stars": 1922,
+    "daily_stars": 29,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -86,7 +86,7 @@
       "screen-recording"
     ],
     "created_at": "2026-07-29T18:16:14",
-    "updated_at": "2026-08-05T10:36:09"
+    "updated_at": "2026-08-05T14:54:24"
   },
   {
     "name": "ratchet",
@@ -94,7 +94,7 @@
     "description": "Your agent reads the rules. This checks whether it followed them.",
     "url": "https://github.com/0xwilliamortiz/ratchet",
     "stars": 431,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -119,7 +119,7 @@
     "description": "Find which script, notebook, data, command, or AI agent produced a file — locally, with evidence and honest uncertainty.",
     "url": "https://github.com/uczltw6/trace-file-lineage",
     "stars": 270,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -145,7 +145,7 @@
     "full_name": "alikon-art/DeterminFlow",
     "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. 面向生产的 AI 工作流运行时：快速开发、验证和恢复复杂 AI 工作流，并将其稳定交付为服务。",
     "url": "https://github.com/alikon-art/DeterminFlow",
-    "stars": 197,
+    "stars": 200,
     "daily_stars": 3,
     "language": "Python",
     "topics": [
@@ -161,15 +161,15 @@
       "workflow-runtime"
     ],
     "created_at": "2026-08-02T07:40:51",
-    "updated_at": "2026-08-05T10:09:51"
+    "updated_at": "2026-08-05T14:28:38"
   },
   {
     "name": "poirot",
     "full_name": "HezaoHezao/poirot",
     "description": "Poirot is a deep research agent kernel built for those who care about how agents are architected. ",
     "url": "https://github.com/HezaoHezao/poirot",
-    "stars": 159,
-    "daily_stars": 5,
+    "stars": 160,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "agent",
@@ -186,7 +186,35 @@
       "multi-agent"
     ],
     "created_at": "2026-07-28T17:36:07",
-    "updated_at": "2026-08-05T10:11:58"
+    "updated_at": "2026-08-05T11:21:46"
+  },
+  {
+    "name": "cee",
+    "full_name": "p0nymc1/cee",
+    "description": "Deterministic-first execution engine for agent workflows in Go: the LLM extracts at the edge, a deterministic state machine decides. Zero dependencies, no-code JSON plugins, replayable runs.",
+    "url": "https://github.com/p0nymc1/cee",
+    "stars": 91,
+    "daily_stars": 6,
+    "language": "Go",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "circuit-breaker",
+      "dag",
+      "deterministic",
+      "execution-engine",
+      "go",
+      "golang",
+      "llm",
+      "llmops",
+      "orchestration",
+      "saga",
+      "state-machine",
+      "workflow-engine",
+      "zero-dependency"
+    ],
+    "created_at": "2026-07-29T11:35:20",
+    "updated_at": "2026-08-05T14:50:18"
   },
   {
     "name": "kaas",
@@ -221,40 +249,12 @@
     "updated_at": "2026-08-05T03:26:47"
   },
   {
-    "name": "cee",
-    "full_name": "p0nymc1/cee",
-    "description": "Deterministic-first execution engine for agent workflows in Go: the LLM extracts at the edge, a deterministic state machine decides. Zero dependencies, no-code JSON plugins, replayable runs.",
-    "url": "https://github.com/p0nymc1/cee",
-    "stars": 85,
-    "daily_stars": 2,
-    "language": "Go",
-    "topics": [
-      "agents",
-      "ai-agents",
-      "circuit-breaker",
-      "dag",
-      "deterministic",
-      "execution-engine",
-      "go",
-      "golang",
-      "llm",
-      "llmops",
-      "orchestration",
-      "saga",
-      "state-machine",
-      "workflow-engine",
-      "zero-dependency"
-    ],
-    "created_at": "2026-07-29T11:35:20",
-    "updated_at": "2026-08-05T10:11:02"
-  },
-  {
     "name": "barunlm-35m",
     "full_name": "harrrshall/barunlm-35m",
     "description": "BarunLM-35M: a parameter-efficient 35M base language model trained on 5.7B tokens",
     "url": "https://github.com/harrrshall/barunlm-35m",
     "stars": 53,
-    "daily_stars": 2,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "language-model",
