@@ -4,8 +4,8 @@
     "full_name": "kirodotdev/KiroCrew",
     "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
     "url": "https://github.com/kirodotdev/KiroCrew",
-    "stars": 897,
-    "daily_stars": 138,
+    "stars": 1030,
+    "daily_stars": 133,
     "language": "Python",
     "topics": [
       "agent",
@@ -19,15 +19,15 @@
       "llm"
     ],
     "created_at": "2026-07-16T21:21:54",
-    "updated_at": "2026-08-05T14:52:37"
+    "updated_at": "2026-08-05T18:04:04"
   },
   {
     "name": "kimi-k3-in-c",
     "full_name": "FareedKhan-dev/kimi-k3-in-c",
     "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 2407,
-    "daily_stars": 123,
+    "stars": 2488,
+    "daily_stars": 81,
     "language": "C",
     "topics": [
       "avx2",
@@ -52,15 +52,15 @@
       "zero-dependencies"
     ],
     "created_at": "2026-08-01T09:29:38",
-    "updated_at": "2026-08-05T14:51:04"
+    "updated_at": "2026-08-05T18:03:39"
   },
   {
     "name": "thinking-orbs",
     "full_name": "Jakubantalik/thinking-orbs",
     "description": "Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light",
     "url": "https://github.com/Jakubantalik/thinking-orbs",
-    "stars": 1729,
-    "daily_stars": 52,
+    "stars": 1753,
+    "daily_stars": 24,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -71,61 +71,15 @@
       "ux"
     ],
     "created_at": "2026-07-21T07:01:53",
-    "updated_at": "2026-08-05T14:52:50"
-  },
-  {
-    "name": "img2threejs",
-    "full_name": "hoainho/img2threejs",
-    "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
-    "url": "https://github.com/hoainho/img2threejs",
-    "stars": 9851,
-    "daily_stars": 51,
-    "language": "Python",
-    "topics": [
-      "3d",
-      "ai-agents",
-      "claude-code",
-      "computer-graphics",
-      "generative",
-      "image-to-3d",
-      "procedural-generation",
-      "threejs",
-      "typescript",
-      "webgl"
-    ],
-    "created_at": "2026-07-15T02:58:39",
-    "updated_at": "2026-08-05T14:52:57"
-  },
-  {
-    "name": "skill-recorder",
-    "full_name": "microsoft/skill-recorder",
-    "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
-    "url": "https://github.com/microsoft/skill-recorder",
-    "stars": 1922,
-    "daily_stars": 29,
-    "language": "TypeScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "automation",
-      "copilot",
-      "copilot-cli",
-      "copilot-cowork",
-      "copilot-studio",
-      "electron",
-      "microsoft-scout",
-      "screen-recording"
-    ],
-    "created_at": "2026-07-29T18:16:14",
-    "updated_at": "2026-08-05T14:54:24"
+    "updated_at": "2026-08-05T17:59:35"
   },
   {
     "name": "video-shotcraft",
     "full_name": "Vincentwei1021/video-shotcraft",
     "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
     "url": "https://github.com/Vincentwei1021/video-shotcraft",
-    "stars": 3596,
-    "daily_stars": 16,
+    "stars": 3616,
+    "daily_stars": 20,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -144,37 +98,83 @@
       "video-production"
     ],
     "created_at": "2026-07-19T11:44:41",
-    "updated_at": "2026-08-05T14:44:49"
+    "updated_at": "2026-08-05T17:59:15"
   },
   {
-    "name": "Misceo",
-    "full_name": "MaySudo/Misceo",
-    "description": "Local Anthropic-compatible AI gateway with cheap-first routing, quality gates, safe model handoffs, and an embedded cost dashboard.",
-    "url": "https://github.com/MaySudo/Misceo",
-    "stars": 138,
-    "daily_stars": 9,
-    "language": null,
+    "name": "img2threejs",
+    "full_name": "hoainho/img2threejs",
+    "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+    "url": "https://github.com/hoainho/img2threejs",
+    "stars": 9868,
+    "daily_stars": 17,
+    "language": "Python",
+    "topics": [
+      "3d",
+      "ai-agents",
+      "claude-code",
+      "computer-graphics",
+      "generative",
+      "image-to-3d",
+      "procedural-generation",
+      "threejs",
+      "typescript",
+      "webgl"
+    ],
+    "created_at": "2026-07-15T02:58:39",
+    "updated_at": "2026-08-05T17:45:33"
+  },
+  {
+    "name": "skill-recorder",
+    "full_name": "microsoft/skill-recorder",
+    "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
+    "url": "https://github.com/microsoft/skill-recorder",
+    "stars": 1935,
+    "daily_stars": 13,
+    "language": "TypeScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "automation",
+      "copilot",
+      "copilot-cli",
+      "copilot-cowork",
+      "copilot-studio",
+      "electron",
+      "microsoft-scout",
+      "screen-recording"
+    ],
+    "created_at": "2026-07-29T18:16:14",
+    "updated_at": "2026-08-05T18:04:09"
+  },
+  {
+    "name": "open-edit",
+    "full_name": "veedstudio/open-edit",
+    "description": "The video editor you own, not rent — edit clips from your coding agent (Claude Code, Codex, Gemini); e.g. burn in stylized subtitles.",
+    "url": "https://github.com/veedstudio/open-edit",
+    "stars": 123,
+    "daily_stars": 8,
+    "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "ai-gateway",
-      "anthropic-api",
+      "captions",
       "claude-code",
-      "cost-optimization",
-      "llm-router",
-      "local-first",
-      "model-routing",
-      "multi-model"
+      "ffmpeg",
+      "macos",
+      "subtitles",
+      "transcription",
+      "video",
+      "video-editing"
     ],
-    "created_at": "2026-07-18T13:27:36",
-    "updated_at": "2026-08-05T13:59:16"
+    "created_at": "2026-07-22T12:22:15",
+    "updated_at": "2026-08-05T16:51:22"
   },
   {
     "name": "penguin-harness",
     "full_name": "Prism-Shadow/penguin-harness",
     "description": "Open, Efficient, Self-Improving Harness: Autonomously Build and Optimize AI Products for Just a Few Dollars",
     "url": "https://github.com/Prism-Shadow/penguin-harness",
-    "stars": 587,
-    "daily_stars": 9,
+    "stars": 594,
+    "daily_stars": 7,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -189,44 +189,51 @@
       "workflow"
     ],
     "created_at": "2026-07-19T03:15:21",
-    "updated_at": "2026-08-05T14:41:32"
+    "updated_at": "2026-08-05T17:34:58"
   },
   {
-    "name": "optim-agent",
-    "full_name": "Optim-Agent/optim-agent",
-    "description": "LLM agents as your hyperparameter optimizer.",
-    "url": "https://github.com/Optim-Agent/optim-agent",
-    "stars": 807,
-    "daily_stars": 7,
+    "name": "caspian-sdk",
+    "full_name": "TryCaspian/caspian-sdk",
+    "description": "One identity for your AI agent across every channel humans use: Slack, Discord, Telegram, Instagram, email, X, behind a single on_message handler. Channel adapters + SDK + CLI.",
+    "url": "https://github.com/TryCaspian/caspian-sdk",
+    "stars": 478,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
-      "agent-skills",
-      "bayesian-optimization",
-      "claude-code",
-      "codex-cli",
-      "hyperparameter-optimization",
-      "machine-learning",
-      "quantitative-finance",
-      "reinforcement-learning",
-      "skill"
+      "ai-agents",
+      "communication",
+      "discord",
+      "messaging",
+      "sdk",
+      "slack",
+      "telegram"
     ],
-    "created_at": "2026-07-07T17:05:54",
-    "updated_at": "2026-08-05T14:40:47"
+    "created_at": "2026-07-20T10:47:56",
+    "updated_at": "2026-08-05T17:12:16"
   },
   {
-    "name": "numbat",
-    "full_name": "perplexityai/numbat",
-    "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
-    "url": "https://github.com/perplexityai/numbat",
-    "stars": 699,
-    "daily_stars": 7,
-    "language": "Go",
+    "name": "poirot",
+    "full_name": "HezaoHezao/poirot",
+    "description": "Poirot is a deep research agent kernel built for those who care about how agents are architected. ",
+    "url": "https://github.com/HezaoHezao/poirot",
+    "stars": 165,
+    "daily_stars": 5,
+    "language": "Python",
     "topics": [
-      "agent-security",
-      "ai-agent-security",
-      "ai-agents"
+      "agent",
+      "agent-memory",
+      "agent-skill",
+      "agent-skills",
+      "agentic-ai",
+      "agents",
+      "ai-agent",
+      "ai-agents",
+      "ai-coding",
+      "memory",
+      "memory-system",
+      "multi-agent"
     ],
-    "created_at": "2026-07-24T06:07:59",
-    "updated_at": "2026-08-05T14:35:08"
+    "created_at": "2026-07-28T17:36:07",
+    "updated_at": "2026-08-05T17:50:09"
   }
 ]
