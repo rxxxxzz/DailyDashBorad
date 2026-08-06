@@ -4,8 +4,8 @@
     "full_name": "FareedKhan-dev/kimi-k3-in-c",
     "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 2702,
-    "daily_stars": 48,
+    "stars": 2755,
+    "daily_stars": 53,
     "language": "C",
     "topics": [
       "avx2",
@@ -30,14 +30,14 @@
       "zero-dependencies"
     ],
     "created_at": "2026-08-01T09:29:38",
-    "updated_at": "2026-08-06T10:56:33"
+    "updated_at": "2026-08-06T14:51:01"
   },
   {
     "name": "kimi-k3-in-c",
     "full_name": "FareedKhan-dev/kimi-k3-in-c",
     "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 2702,
+    "stars": 2755,
     "daily_stars": 0,
     "language": "C",
     "topics": [
@@ -63,15 +63,15 @@
       "zero-dependencies"
     ],
     "created_at": "2026-08-01T09:29:38",
-    "updated_at": "2026-08-06T10:56:33"
+    "updated_at": "2026-08-06T14:51:01"
   },
   {
     "name": "skill-recorder",
     "full_name": "microsoft/skill-recorder",
     "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
     "url": "https://github.com/microsoft/skill-recorder",
-    "stars": 2047,
-    "daily_stars": 23,
+    "stars": 2085,
+    "daily_stars": 38,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -86,15 +86,15 @@
       "screen-recording"
     ],
     "created_at": "2026-07-29T18:16:14",
-    "updated_at": "2026-08-06T10:54:36"
+    "updated_at": "2026-08-06T14:53:09"
   },
   {
     "name": "ratchet",
     "full_name": "0xwilliamortiz/ratchet",
     "description": "Your agent reads the rules. This checks whether it followed them.",
     "url": "https://github.com/0xwilliamortiz/ratchet",
-    "stars": 433,
-    "daily_stars": 0,
+    "stars": 435,
+    "daily_stars": 2,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -111,15 +111,15 @@
       "yagni"
     ],
     "created_at": "2026-07-31T17:54:30",
-    "updated_at": "2026-08-06T05:48:29"
+    "updated_at": "2026-08-06T12:17:37"
   },
   {
     "name": "trace-file-lineage",
     "full_name": "uczltw6/trace-file-lineage",
     "description": "Find which script, notebook, data, command, or AI agent produced a file — locally, with evidence and honest uncertainty.",
     "url": "https://github.com/uczltw6/trace-file-lineage",
-    "stars": 300,
-    "daily_stars": 12,
+    "stars": 301,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -138,7 +138,7 @@
       "research-tools"
     ],
     "created_at": "2026-07-29T22:05:47",
-    "updated_at": "2026-08-06T10:13:13"
+    "updated_at": "2026-08-06T12:35:10"
   },
   {
     "name": "DeterminFlow",
@@ -146,7 +146,7 @@
     "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. 面向生产的 AI 工作流运行时：快速开发、验证和恢复复杂 AI 工作流，并将其稳定交付为服务。",
     "url": "https://github.com/alikon-art/DeterminFlow",
     "stars": 203,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "agent-orchestration",
@@ -161,43 +161,38 @@
       "workflow-runtime"
     ],
     "created_at": "2026-08-02T07:40:51",
-    "updated_at": "2026-08-06T09:01:01"
+    "updated_at": "2026-08-06T13:48:12"
   },
   {
-    "name": "cee",
-    "full_name": "p0nymc1/cee",
-    "description": "Deterministic-first execution engine for agent workflows in Go: the LLM extracts at the edge, a deterministic state machine decides. Zero dependencies, no-code JSON plugins, replayable runs.",
-    "url": "https://github.com/p0nymc1/cee",
-    "stars": 101,
-    "daily_stars": 1,
-    "language": "Go",
+    "name": "agent-skills-collection",
+    "full_name": "oliverb-io1902e8/agent-skills-collection",
+    "description": "Curated collection of modular agent skills for LLM-based agents",
+    "url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
+    "stars": 150,
+    "daily_stars": 0,
+    "language": "Python",
     "topics": [
-      "agents",
+      "agent-skills",
+      "agentic-workflow",
       "ai-agents",
-      "circuit-breaker",
-      "dag",
-      "deterministic",
-      "execution-engine",
-      "go",
-      "golang",
+      "automation",
+      "chatgpt",
+      "claude",
+      "developer-tools",
       "llm",
-      "llmops",
-      "orchestration",
-      "saga",
-      "state-machine",
-      "workflow-engine",
-      "zero-dependency"
+      "open-source",
+      "python"
     ],
-    "created_at": "2026-07-29T11:35:20",
-    "updated_at": "2026-08-06T08:52:51"
+    "created_at": "2026-08-06T14:07:02",
+    "updated_at": "2026-08-06T14:49:13"
   },
   {
     "name": "wai-play",
     "full_name": "waiterve/wai-play",
     "description": "WAI Play - AI web game testing and quality evaluation platform",
     "url": "https://github.com/waiterve/wai-play",
-    "stars": 95,
-    "daily_stars": 9,
+    "stars": 101,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "ai",
@@ -207,47 +202,15 @@
       "python"
     ],
     "created_at": "2026-08-04T07:20:22",
-    "updated_at": "2026-08-06T10:46:11"
-  },
-  {
-    "name": "kaas",
-    "full_name": "bybit-exchange/kaas",
-    "description": "Turn scattered notes, docs and transcripts into a queryable Markdown wiki — an LLM knowledge-base compiler with MCP access, no embeddings, self-hosted.",
-    "url": "https://github.com/bybit-exchange/kaas",
-    "stars": 86,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "golang",
-      "knowledge-base",
-      "knowledge-management",
-      "llm",
-      "markdown",
-      "mcp",
-      "model-context-protocol",
-      "openai-api",
-      "personal-knowledge-management",
-      "python",
-      "rag",
-      "react",
-      "second-brain",
-      "self-hosted",
-      "sqlite",
-      "typescript",
-      "wiki"
-    ],
-    "created_at": "2026-07-29T13:01:22",
-    "updated_at": "2026-08-06T07:41:25"
+    "updated_at": "2026-08-06T14:46:55"
   },
   {
     "name": "barunlm-35m",
     "full_name": "harrrshall/barunlm-35m",
     "description": "BarunLM-35M: a parameter-efficient 35M base language model trained on 5.7B tokens",
     "url": "https://github.com/harrrshall/barunlm-35m",
-    "stars": 54,
-    "daily_stars": 0,
+    "stars": 55,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "language-model",
@@ -257,6 +220,31 @@
       "text-generation"
     ],
     "created_at": "2026-07-31T12:52:36",
-    "updated_at": "2026-08-06T02:15:14"
+    "updated_at": "2026-08-06T14:38:05"
+  },
+  {
+    "name": "ArisuLoveASMR",
+    "full_name": "ArisuLoveASMR/ArisuLoveASMR",
+    "description": "Ноутбук для Гугл коллаба, в котором вы сможете к абсолютно любому медиа добавить субтитры и автоматически их первести на любой язык",
+    "url": "https://github.com/ArisuLoveASMR/ArisuLoveASMR",
+    "stars": 52,
+    "daily_stars": 0,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "anime",
+      "asmr",
+      "asmr-one",
+      "audio-processing",
+      "auto-translation",
+      "chinese-translation",
+      "deep-learning",
+      "japanese-translation",
+      "machine-translation",
+      "transformers",
+      "translation",
+      "video-processing"
+    ],
+    "created_at": "2026-07-31T22:45:44",
+    "updated_at": "2026-08-05T20:23:38"
   }
 ]
