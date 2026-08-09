@@ -1,77 +1,11 @@
 [
   {
-    "name": "kimi-k3-in-c",
-    "full_name": "FareedKhan-dev/kimi-k3-in-c",
-    "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
-    "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 3936,
-    "daily_stars": 66,
-    "language": "C",
-    "topics": [
-      "avx2",
-      "c99",
-      "cpu-inference",
-      "deep-learning",
-      "from-scratch",
-      "inference-engine",
-      "kimi-k3",
-      "linear-attention",
-      "llm",
-      "llm-inference",
-      "machine-learning",
-      "memory-efficient",
-      "mixture-of-experts",
-      "moe",
-      "mxfp4",
-      "quantization",
-      "simd",
-      "systems-programming",
-      "transformer",
-      "zero-dependencies"
-    ],
-    "created_at": "2026-08-01T09:29:38",
-    "updated_at": "2026-08-09T09:10:39"
-  },
-  {
-    "name": "kimi-k3-in-c",
-    "full_name": "FareedKhan-dev/kimi-k3-in-c",
-    "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
-    "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 3936,
-    "daily_stars": 0,
-    "language": "C",
-    "topics": [
-      "avx2",
-      "c99",
-      "cpu-inference",
-      "deep-learning",
-      "from-scratch",
-      "inference-engine",
-      "kimi-k3",
-      "linear-attention",
-      "llm",
-      "llm-inference",
-      "machine-learning",
-      "memory-efficient",
-      "mixture-of-experts",
-      "moe",
-      "mxfp4",
-      "quantization",
-      "simd",
-      "systems-programming",
-      "transformer",
-      "zero-dependencies"
-    ],
-    "created_at": "2026-08-01T09:29:38",
-    "updated_at": "2026-08-09T09:10:39"
-  },
-  {
     "name": "DeterminFlow",
     "full_name": "alikon-art/DeterminFlow",
     "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. 面向生产的 AI 工作流运行时：快速开发、验证和恢复复杂 AI 工作流，并将其稳定交付为服务。",
     "url": "https://github.com/alikon-art/DeterminFlow",
-    "stars": 279,
-    "daily_stars": 2,
+    "stars": 280,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "agent-orchestration",
@@ -86,15 +20,15 @@
       "workflow-runtime"
     ],
     "created_at": "2026-08-02T07:40:51",
-    "updated_at": "2026-08-09T09:04:57"
+    "updated_at": "2026-08-09T10:28:45"
   },
   {
     "name": "wai-play",
     "full_name": "waiterve/wai-play",
     "description": "WAI Play - AI web game testing and quality evaluation platform",
     "url": "https://github.com/waiterve/wai-play",
-    "stars": 212,
-    "daily_stars": 8,
+    "stars": 229,
+    "daily_stars": 17,
     "language": "Python",
     "topics": [
       "ai",
@@ -104,7 +38,7 @@
       "python"
     ],
     "created_at": "2026-08-04T07:20:22",
-    "updated_at": "2026-08-09T08:56:21"
+    "updated_at": "2026-08-09T13:28:53"
   },
   {
     "name": "KADATH",
@@ -112,7 +46,7 @@
     "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
     "url": "https://github.com/i3T4AN/KADATH",
     "stars": 166,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "agent-evaluation-tools",
@@ -160,12 +94,33 @@
     "updated_at": "2026-08-09T06:25:03"
   },
   {
+    "name": "codex-bridge",
+    "full_name": "Sateezg/codex-bridge",
+    "description": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key.",
+    "url": "https://github.com/Sateezg/codex-bridge",
+    "stars": 145,
+    "daily_stars": 0,
+    "language": "Shell",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "codex",
+      "gpt-5",
+      "gpt-image-2",
+      "image-generation",
+      "openai"
+    ],
+    "created_at": "2026-08-09T06:57:08",
+    "updated_at": "2026-08-09T13:29:43"
+  },
+  {
     "name": "neuroarxiv",
     "full_name": "UditAkhourii/neuroarxiv",
     "description": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
     "url": "https://github.com/UditAkhourii/neuroarxiv",
-    "stars": 106,
-    "daily_stars": 8,
+    "stars": 116,
+    "daily_stars": 10,
     "language": "TypeScript",
     "topics": [
       "arxiv",
@@ -178,7 +133,7 @@
       "workflow"
     ],
     "created_at": "2026-08-05T10:26:26",
-    "updated_at": "2026-08-09T08:54:10"
+    "updated_at": "2026-08-09T13:22:57"
   },
   {
     "name": "AI-Knowledge-Management-Platform",
@@ -186,7 +141,7 @@
     "description": "An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction, structured data analysis, and SQL-based reasoning to deliver accurate answers for complex, multi-step, and analytical queries.",
     "url": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform",
     "stars": 95,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Jupyter Notebook",
     "topics": [
       "agentic-ai",
@@ -227,8 +182,8 @@
     "full_name": "smol-env/smol",
     "description": "smol is a smol agent",
     "url": "https://github.com/smol-env/smol",
-    "stars": 77,
-    "daily_stars": 2,
+    "stars": 78,
+    "daily_stars": 1,
     "language": "Go",
     "topics": [
       "agents",
@@ -236,6 +191,34 @@
       "openai"
     ],
     "created_at": "2026-08-01T14:40:09",
-    "updated_at": "2026-08-09T06:38:37"
+    "updated_at": "2026-08-09T11:58:28"
+  },
+  {
+    "name": "public-data-lens",
+    "full_name": "hike-lab/public-data-lens",
+    "description": "MCP-based discovery and judgment layer for Korea’s open data portal—helping AI agents find, compare, and assess datasets with explicit evidence, JSON-LD/DCAT metadata, and versioned deterministic rules.",
+    "url": "https://github.com/hike-lab/public-data-lens",
+    "stars": 75,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-ready-data",
+      "data-catalog",
+      "data-discovery",
+      "data-quality",
+      "dcat",
+      "json-ld",
+      "korea",
+      "mcp",
+      "model-context-protocol",
+      "ontology",
+      "open-data",
+      "open-government-data",
+      "public-data",
+      "shacl"
+    ],
+    "created_at": "2026-08-03T02:02:25",
+    "updated_at": "2026-08-08T19:21:00"
   }
 ]
