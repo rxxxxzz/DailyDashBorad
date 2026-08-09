@@ -4,8 +4,8 @@
     "full_name": "Sateezg/codex-bridge",
     "description": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key.",
     "url": "https://github.com/Sateezg/codex-bridge",
-    "stars": 310,
-    "daily_stars": 165,
+    "stars": 334,
+    "daily_stars": 24,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -18,7 +18,7 @@
       "openai"
     ],
     "created_at": "2026-08-09T06:57:08",
-    "updated_at": "2026-08-09T17:03:55"
+    "updated_at": "2026-08-09T20:37:44"
   },
   {
     "name": "DeterminFlow",
@@ -26,7 +26,7 @@
     "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. 面向生产的 AI 工作流运行时：快速开发、验证和恢复复杂 AI 工作流，并将其稳定交付为服务。",
     "url": "https://github.com/alikon-art/DeterminFlow",
     "stars": 281,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "agent-orchestration",
@@ -62,12 +62,33 @@
     "updated_at": "2026-08-09T13:28:53"
   },
   {
+    "name": "mcp-server",
+    "full_name": "sv-number/mcp-server",
+    "description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
+    "url": "https://github.com/sv-number/mcp-server",
+    "stars": 206,
+    "daily_stars": 127,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "mcp",
+      "model-context-protocol",
+      "otp",
+      "phone-verification",
+      "sms",
+      "typescript"
+    ],
+    "created_at": "2026-08-07T11:13:26",
+    "updated_at": "2026-08-09T21:01:26"
+  },
+  {
     "name": "KADATH",
     "full_name": "i3T4AN/KADATH",
     "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
     "url": "https://github.com/i3T4AN/KADATH",
     "stars": 167,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "agent-evaluation-tools",
@@ -89,7 +110,7 @@
       "self-evolving-agents"
     ],
     "created_at": "2026-08-08T15:49:55",
-    "updated_at": "2026-08-09T14:31:07"
+    "updated_at": "2026-08-09T21:01:44"
   },
   {
     "name": "agent-skills-collection",
@@ -119,7 +140,7 @@
     "full_name": "UditAkhourii/neuroarxiv",
     "description": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
     "url": "https://github.com/UditAkhourii/neuroarxiv",
-    "stars": 123,
+    "stars": 130,
     "daily_stars": 7,
     "language": "TypeScript",
     "topics": [
@@ -133,70 +154,7 @@
       "workflow"
     ],
     "created_at": "2026-08-05T10:26:26",
-    "updated_at": "2026-08-09T16:49:21"
-  },
-  {
-    "name": "AI-Knowledge-Management-Platform",
-    "full_name": "TOPDEV99999/AI-Knowledge-Management-Platform",
-    "description": "An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction, structured data analysis, and SQL-based reasoning to deliver accurate answers for complex, multi-step, and analytical queries.",
-    "url": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform",
-    "stars": 95,
-    "daily_stars": 0,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "agentic-ai",
-      "ai",
-      "ai-agents",
-      "artificial-intelligence",
-      "generative-ai",
-      "large-language-models",
-      "llm",
-      "llm-agents"
-    ],
-    "created_at": "2026-08-03T07:36:22",
-    "updated_at": "2026-08-09T06:17:42"
-  },
-  {
-    "name": "AI-Knowledge-Management-Platform",
-    "full_name": "TOPDEV99999/AI-Knowledge-Management-Platform",
-    "description": "An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction, structured data analysis, and SQL-based reasoning to deliver accurate answers for complex, multi-step, and analytical queries.",
-    "url": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform",
-    "stars": 95,
-    "daily_stars": 0,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "agentic-ai",
-      "ai",
-      "ai-agents",
-      "artificial-intelligence",
-      "generative-ai",
-      "large-language-models",
-      "llm",
-      "llm-agents"
-    ],
-    "created_at": "2026-08-03T07:36:22",
-    "updated_at": "2026-08-09T06:17:42"
-  },
-  {
-    "name": "mcp-server",
-    "full_name": "sv-number/mcp-server",
-    "description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
-    "url": "https://github.com/sv-number/mcp-server",
-    "stars": 79,
-    "daily_stars": 0,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "mcp",
-      "model-context-protocol",
-      "otp",
-      "phone-verification",
-      "sms",
-      "typescript"
-    ],
-    "created_at": "2026-08-07T11:13:26",
-    "updated_at": "2026-08-09T17:03:12"
+    "updated_at": "2026-08-09T20:06:47"
   },
   {
     "name": "public-data-lens",
@@ -225,5 +183,54 @@
     ],
     "created_at": "2026-08-03T02:02:25",
     "updated_at": "2026-08-08T19:21:00"
+  },
+  {
+    "name": "juror",
+    "full_name": "Juror-AI/juror",
+    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
+    "url": "https://github.com/Juror-AI/juror",
+    "stars": 66,
+    "daily_stars": 0,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "ai-code-review",
+      "cli",
+      "code-quality",
+      "code-review",
+      "codex",
+      "developer-tools",
+      "devtools",
+      "github-action",
+      "github-actions",
+      "llm",
+      "llmops",
+      "pull-request",
+      "static-analysis",
+      "typescript"
+    ],
+    "created_at": "2026-08-06T12:24:49",
+    "updated_at": "2026-08-09T15:51:08"
+  },
+  {
+    "name": "skills",
+    "full_name": "sv-number/skills",
+    "description": "Give your AI agent a phone number: order a private number in any country over the API, read the SMS verification code, hand the number back.",
+    "url": "https://github.com/sv-number/skills",
+    "stars": 66,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [
+      "agent-skill",
+      "ai-agents",
+      "automation",
+      "claude-code",
+      "codex",
+      "otp",
+      "phone-verification",
+      "sms"
+    ],
+    "created_at": "2026-08-07T08:14:34",
+    "updated_at": "2026-08-09T20:43:08"
   }
 ]
