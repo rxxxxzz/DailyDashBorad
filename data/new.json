@@ -4,8 +4,8 @@
     "full_name": "sv-number/mcp-server",
     "description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
     "url": "https://github.com/sv-number/mcp-server",
-    "stars": 474,
-    "daily_stars": 47,
+    "stars": 513,
+    "daily_stars": 39,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -18,14 +18,14 @@
       "typescript"
     ],
     "created_at": "2026-08-07T11:13:26",
-    "updated_at": "2026-08-10T13:55:05"
+    "updated_at": "2026-08-10T17:24:53"
   },
   {
     "name": "codex-bridge",
     "full_name": "Sateezg/codex-bridge",
     "description": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key.",
     "url": "https://github.com/Sateezg/codex-bridge",
-    "stars": 354,
+    "stars": 356,
     "daily_stars": 2,
     "language": "Shell",
     "topics": [
@@ -39,15 +39,15 @@
       "openai"
     ],
     "created_at": "2026-08-09T06:57:08",
-    "updated_at": "2026-08-10T13:06:53"
+    "updated_at": "2026-08-10T15:27:14"
   },
   {
     "name": "wai-play",
     "full_name": "waiterve/wai-play",
     "description": "WAI Play - AI web game testing and quality evaluation platform",
     "url": "https://github.com/waiterve/wai-play",
-    "stars": 272,
-    "daily_stars": 14,
+    "stars": 279,
+    "daily_stars": 7,
     "language": "Python",
     "topics": [
       "ai",
@@ -57,7 +57,28 @@
       "python"
     ],
     "created_at": "2026-08-04T07:20:22",
-    "updated_at": "2026-08-10T13:46:41"
+    "updated_at": "2026-08-10T16:47:36"
+  },
+  {
+    "name": "neuroarxiv",
+    "full_name": "UditAkhourii/neuroarxiv",
+    "description": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
+    "url": "https://github.com/UditAkhourii/neuroarxiv",
+    "stars": 177,
+    "daily_stars": 27,
+    "language": "TypeScript",
+    "topics": [
+      "arxiv",
+      "arxiv-api",
+      "llm",
+      "planning",
+      "reasoning",
+      "reasoning-language-models",
+      "reasoning-models",
+      "workflow"
+    ],
+    "created_at": "2026-08-05T10:26:26",
+    "updated_at": "2026-08-10T17:18:30"
   },
   {
     "name": "KADATH",
@@ -87,28 +108,7 @@
       "self-evolving-agents"
     ],
     "created_at": "2026-08-08T15:49:55",
-    "updated_at": "2026-08-10T07:30:14"
-  },
-  {
-    "name": "neuroarxiv",
-    "full_name": "UditAkhourii/neuroarxiv",
-    "description": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
-    "url": "https://github.com/UditAkhourii/neuroarxiv",
-    "stars": 150,
-    "daily_stars": 8,
-    "language": "TypeScript",
-    "topics": [
-      "arxiv",
-      "arxiv-api",
-      "llm",
-      "planning",
-      "reasoning",
-      "reasoning-language-models",
-      "reasoning-models",
-      "workflow"
-    ],
-    "created_at": "2026-08-05T10:26:26",
-    "updated_at": "2026-08-10T13:53:16"
+    "updated_at": "2026-08-10T16:00:14"
   },
   {
     "name": "agent-skills-collection",
@@ -138,8 +138,8 @@
     "full_name": "sv-number/skills",
     "description": "Give your AI agent a phone number: order a private number in any country over the API, read the SMS verification code, hand the number back.",
     "url": "https://github.com/sv-number/skills",
-    "stars": 97,
-    "daily_stars": 6,
+    "stars": 101,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "agent-skill",
@@ -152,7 +152,7 @@
       "sms"
     ],
     "created_at": "2026-08-07T08:14:34",
-    "updated_at": "2026-08-10T13:00:06"
+    "updated_at": "2026-08-10T17:21:39"
   },
   {
     "name": "public-data-lens",
@@ -187,8 +187,8 @@
     "full_name": "Juror-AI/juror",
     "description": "Cheaper and better Greptile alternative runs on your own github actions.",
     "url": "https://github.com/Juror-AI/juror",
-    "stars": 67,
-    "daily_stars": 1,
+    "stars": 74,
+    "daily_stars": 7,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -208,28 +208,39 @@
       "typescript"
     ],
     "created_at": "2026-08-06T12:24:49",
-    "updated_at": "2026-08-10T13:10:41"
+    "updated_at": "2026-08-10T16:23:17"
   },
   {
-    "name": "awesome-fde-resources",
-    "full_name": "global-fde/awesome-fde-resources",
-    "description": "A curated collection of resources, tools, practices, case studies, and opportunities for Forward Deployed Engineers.",
-    "url": "https://github.com/global-fde/awesome-fde-resources",
-    "stars": 62,
+    "name": "industrial-mcp",
+    "full_name": "zhiningsun/industrial-mcp",
+    "description": "将工业设备变成 AI 可控工具的 MCP 服务器。支持 Modbus、OPC UA、MQTT 三种协议，内置设备仿真引擎、物理模型和完整的调试工具链。让 Claude 用自然语言监控传感器、启停电机、执行工厂巡检。",
+    "url": "https://github.com/zhiningsun/industrial-mcp",
+    "stars": 50,
     "daily_stars": 0,
     "language": "Python",
     "topics": [
-      "ai-agents",
-      "ai-engineering",
-      "awesome",
-      "awesome-list",
-      "enterprise-ai",
-      "fde",
-      "forward-deployed-engineer",
-      "mlops",
-      "production-ai"
+      "ai",
+      "artificial-intelligence",
+      "asyncio",
+      "claude",
+      "claude-desktop",
+      "industrial",
+      "industrial-automation",
+      "industry-4-0",
+      "iot",
+      "mcp",
+      "mcp-server",
+      "modbus",
+      "model-context-protocol",
+      "mqtt",
+      "opc-ua",
+      "paho-mqtt",
+      "pymodbus",
+      "python",
+      "scada",
+      "simulation"
     ],
-    "created_at": "2026-08-02T14:53:33",
-    "updated_at": "2026-08-10T07:43:36"
+    "created_at": "2026-08-09T14:31:15",
+    "updated_at": "2026-08-10T12:10:17"
   }
 ]
