@@ -4,8 +4,8 @@
     "full_name": "Sateezg/codex-bridge",
     "description": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key.",
     "url": "https://github.com/Sateezg/codex-bridge",
-    "stars": 345,
-    "daily_stars": 11,
+    "stars": 350,
+    "daily_stars": 5,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -18,15 +18,36 @@
       "openai"
     ],
     "created_at": "2026-08-09T06:57:08",
-    "updated_at": "2026-08-10T02:31:30"
+    "updated_at": "2026-08-10T04:54:09"
+  },
+  {
+    "name": "mcp-server",
+    "full_name": "sv-number/mcp-server",
+    "description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
+    "url": "https://github.com/sv-number/mcp-server",
+    "stars": 327,
+    "daily_stars": 72,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "mcp",
+      "model-context-protocol",
+      "otp",
+      "phone-verification",
+      "sms",
+      "typescript"
+    ],
+    "created_at": "2026-08-07T11:13:26",
+    "updated_at": "2026-08-10T05:53:15"
   },
   {
     "name": "DeterminFlow",
     "full_name": "alikon-art/DeterminFlow",
     "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. 面向生产的 AI 工作流运行时：快速开发、验证和恢复复杂 AI 工作流，并将其稳定交付为服务。",
     "url": "https://github.com/alikon-art/DeterminFlow",
-    "stars": 284,
-    "daily_stars": 3,
+    "stars": 285,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "agent-orchestration",
@@ -41,36 +62,15 @@
       "workflow-runtime"
     ],
     "created_at": "2026-08-02T07:40:51",
-    "updated_at": "2026-08-10T02:26:48"
-  },
-  {
-    "name": "mcp-server",
-    "full_name": "sv-number/mcp-server",
-    "description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
-    "url": "https://github.com/sv-number/mcp-server",
-    "stars": 255,
-    "daily_stars": 49,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "mcp",
-      "model-context-protocol",
-      "otp",
-      "phone-verification",
-      "sms",
-      "typescript"
-    ],
-    "created_at": "2026-08-07T11:13:26",
-    "updated_at": "2026-08-10T02:34:19"
+    "updated_at": "2026-08-10T05:29:35"
   },
   {
     "name": "wai-play",
     "full_name": "waiterve/wai-play",
     "description": "WAI Play - AI web game testing and quality evaluation platform",
     "url": "https://github.com/waiterve/wai-play",
-    "stars": 237,
-    "daily_stars": 8,
+    "stars": 250,
+    "daily_stars": 13,
     "language": "Python",
     "topics": [
       "ai",
@@ -80,7 +80,7 @@
       "python"
     ],
     "created_at": "2026-08-04T07:20:22",
-    "updated_at": "2026-08-10T02:15:18"
+    "updated_at": "2026-08-10T04:34:48"
   },
   {
     "name": "KADATH",
@@ -88,7 +88,7 @@
     "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
     "url": "https://github.com/i3T4AN/KADATH",
     "stars": 169,
-    "daily_stars": 2,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "agent-evaluation-tools",
@@ -113,12 +113,33 @@
     "updated_at": "2026-08-10T01:25:41"
   },
   {
+    "name": "neuroarxiv",
+    "full_name": "UditAkhourii/neuroarxiv",
+    "description": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
+    "url": "https://github.com/UditAkhourii/neuroarxiv",
+    "stars": 136,
+    "daily_stars": 2,
+    "language": "TypeScript",
+    "topics": [
+      "arxiv",
+      "arxiv-api",
+      "llm",
+      "planning",
+      "reasoning",
+      "reasoning-language-models",
+      "reasoning-models",
+      "workflow"
+    ],
+    "created_at": "2026-08-05T10:26:26",
+    "updated_at": "2026-08-10T05:24:13"
+  },
+  {
     "name": "agent-skills-collection",
     "full_name": "oliverb-io1902e8/agent-skills-collection",
     "description": "Curated collection of modular agent skills for LLM-based agents",
     "url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
     "stars": 134,
-    "daily_stars": -12,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -136,25 +157,25 @@
     "updated_at": "2026-08-09T21:25:16"
   },
   {
-    "name": "neuroarxiv",
-    "full_name": "UditAkhourii/neuroarxiv",
-    "description": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
-    "url": "https://github.com/UditAkhourii/neuroarxiv",
-    "stars": 134,
-    "daily_stars": 4,
-    "language": "TypeScript",
+    "name": "skills",
+    "full_name": "sv-number/skills",
+    "description": "Give your AI agent a phone number: order a private number in any country over the API, read the SMS verification code, hand the number back.",
+    "url": "https://github.com/sv-number/skills",
+    "stars": 79,
+    "daily_stars": 6,
+    "language": "Python",
     "topics": [
-      "arxiv",
-      "arxiv-api",
-      "llm",
-      "planning",
-      "reasoning",
-      "reasoning-language-models",
-      "reasoning-models",
-      "workflow"
+      "agent-skill",
+      "ai-agents",
+      "automation",
+      "claude-code",
+      "codex",
+      "otp",
+      "phone-verification",
+      "sms"
     ],
-    "created_at": "2026-08-05T10:26:26",
-    "updated_at": "2026-08-10T02:14:28"
+    "created_at": "2026-08-07T08:14:34",
+    "updated_at": "2026-08-10T05:23:43"
   },
   {
     "name": "public-data-lens",
@@ -183,27 +204,6 @@
     ],
     "created_at": "2026-08-03T02:02:25",
     "updated_at": "2026-08-08T19:21:00"
-  },
-  {
-    "name": "skills",
-    "full_name": "sv-number/skills",
-    "description": "Give your AI agent a phone number: order a private number in any country over the API, read the SMS verification code, hand the number back.",
-    "url": "https://github.com/sv-number/skills",
-    "stars": 73,
-    "daily_stars": 7,
-    "language": "Python",
-    "topics": [
-      "agent-skill",
-      "ai-agents",
-      "automation",
-      "claude-code",
-      "codex",
-      "otp",
-      "phone-verification",
-      "sms"
-    ],
-    "created_at": "2026-08-07T08:14:34",
-    "updated_at": "2026-08-10T02:37:37"
   },
   {
     "name": "juror",
