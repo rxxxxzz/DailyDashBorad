@@ -4,8 +4,8 @@
     "full_name": "Sateezg/codex-bridge",
     "description": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key.",
     "url": "https://github.com/Sateezg/codex-bridge",
-    "stars": 334,
-    "daily_stars": 24,
+    "stars": 345,
+    "daily_stars": 11,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -18,15 +18,15 @@
       "openai"
     ],
     "created_at": "2026-08-09T06:57:08",
-    "updated_at": "2026-08-09T20:37:44"
+    "updated_at": "2026-08-10T02:31:30"
   },
   {
     "name": "DeterminFlow",
     "full_name": "alikon-art/DeterminFlow",
     "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. 面向生产的 AI 工作流运行时：快速开发、验证和恢复复杂 AI 工作流，并将其稳定交付为服务。",
     "url": "https://github.com/alikon-art/DeterminFlow",
-    "stars": 281,
-    "daily_stars": 0,
+    "stars": 284,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "agent-orchestration",
@@ -41,33 +41,15 @@
       "workflow-runtime"
     ],
     "created_at": "2026-08-02T07:40:51",
-    "updated_at": "2026-08-09T15:34:57"
-  },
-  {
-    "name": "wai-play",
-    "full_name": "waiterve/wai-play",
-    "description": "WAI Play - AI web game testing and quality evaluation platform",
-    "url": "https://github.com/waiterve/wai-play",
-    "stars": 229,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "game",
-      "game-testing",
-      "python"
-    ],
-    "created_at": "2026-08-04T07:20:22",
-    "updated_at": "2026-08-09T13:28:53"
+    "updated_at": "2026-08-10T02:26:48"
   },
   {
     "name": "mcp-server",
     "full_name": "sv-number/mcp-server",
     "description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
     "url": "https://github.com/sv-number/mcp-server",
-    "stars": 206,
-    "daily_stars": 127,
+    "stars": 255,
+    "daily_stars": 49,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -80,15 +62,33 @@
       "typescript"
     ],
     "created_at": "2026-08-07T11:13:26",
-    "updated_at": "2026-08-09T21:01:26"
+    "updated_at": "2026-08-10T02:34:19"
+  },
+  {
+    "name": "wai-play",
+    "full_name": "waiterve/wai-play",
+    "description": "WAI Play - AI web game testing and quality evaluation platform",
+    "url": "https://github.com/waiterve/wai-play",
+    "stars": 237,
+    "daily_stars": 8,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "game",
+      "game-testing",
+      "python"
+    ],
+    "created_at": "2026-08-04T07:20:22",
+    "updated_at": "2026-08-10T02:15:18"
   },
   {
     "name": "KADATH",
     "full_name": "i3T4AN/KADATH",
     "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
     "url": "https://github.com/i3T4AN/KADATH",
-    "stars": 167,
-    "daily_stars": 0,
+    "stars": 169,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "agent-evaluation-tools",
@@ -110,15 +110,15 @@
       "self-evolving-agents"
     ],
     "created_at": "2026-08-08T15:49:55",
-    "updated_at": "2026-08-09T21:01:44"
+    "updated_at": "2026-08-10T01:25:41"
   },
   {
     "name": "agent-skills-collection",
     "full_name": "oliverb-io1902e8/agent-skills-collection",
     "description": "Curated collection of modular agent skills for LLM-based agents",
     "url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
-    "stars": 146,
-    "daily_stars": 0,
+    "stars": 134,
+    "daily_stars": -12,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -133,15 +133,15 @@
       "python"
     ],
     "created_at": "2026-08-06T14:07:02",
-    "updated_at": "2026-08-09T06:25:03"
+    "updated_at": "2026-08-09T21:25:16"
   },
   {
     "name": "neuroarxiv",
     "full_name": "UditAkhourii/neuroarxiv",
     "description": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
     "url": "https://github.com/UditAkhourii/neuroarxiv",
-    "stars": 130,
-    "daily_stars": 7,
+    "stars": 134,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
       "arxiv",
@@ -154,7 +154,7 @@
       "workflow"
     ],
     "created_at": "2026-08-05T10:26:26",
-    "updated_at": "2026-08-09T20:06:47"
+    "updated_at": "2026-08-10T02:14:28"
   },
   {
     "name": "public-data-lens",
@@ -185,6 +185,27 @@
     "updated_at": "2026-08-08T19:21:00"
   },
   {
+    "name": "skills",
+    "full_name": "sv-number/skills",
+    "description": "Give your AI agent a phone number: order a private number in any country over the API, read the SMS verification code, hand the number back.",
+    "url": "https://github.com/sv-number/skills",
+    "stars": 73,
+    "daily_stars": 7,
+    "language": "Python",
+    "topics": [
+      "agent-skill",
+      "ai-agents",
+      "automation",
+      "claude-code",
+      "codex",
+      "otp",
+      "phone-verification",
+      "sms"
+    ],
+    "created_at": "2026-08-07T08:14:34",
+    "updated_at": "2026-08-10T02:37:37"
+  },
+  {
     "name": "juror",
     "full_name": "Juror-AI/juror",
     "description": "Cheaper and better Greptile alternative runs on your own github actions.",
@@ -211,26 +232,5 @@
     ],
     "created_at": "2026-08-06T12:24:49",
     "updated_at": "2026-08-09T15:51:08"
-  },
-  {
-    "name": "skills",
-    "full_name": "sv-number/skills",
-    "description": "Give your AI agent a phone number: order a private number in any country over the API, read the SMS verification code, hand the number back.",
-    "url": "https://github.com/sv-number/skills",
-    "stars": 66,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "agent-skill",
-      "ai-agents",
-      "automation",
-      "claude-code",
-      "codex",
-      "otp",
-      "phone-verification",
-      "sms"
-    ],
-    "created_at": "2026-08-07T08:14:34",
-    "updated_at": "2026-08-09T20:43:08"
   }
 ]
