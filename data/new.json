@@ -4,8 +4,8 @@
     "full_name": "sv-number/mcp-server",
     "description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
     "url": "https://github.com/sv-number/mcp-server",
-    "stars": 553,
-    "daily_stars": 13,
+    "stars": 570,
+    "daily_stars": 17,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -18,7 +18,7 @@
       "typescript"
     ],
     "created_at": "2026-08-07T11:13:26",
-    "updated_at": "2026-08-11T02:34:40"
+    "updated_at": "2026-08-11T05:17:34"
   },
   {
     "name": "codex-bridge",
@@ -26,7 +26,7 @@
     "description": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key.",
     "url": "https://github.com/Sateezg/codex-bridge",
     "stars": 358,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -46,8 +46,8 @@
     "full_name": "waiterve/wai-play",
     "description": "WAI Play - AI web game testing and quality evaluation platform",
     "url": "https://github.com/waiterve/wai-play",
-    "stars": 298,
-    "daily_stars": 7,
+    "stars": 308,
+    "daily_stars": 10,
     "language": "Python",
     "topics": [
       "ai",
@@ -57,15 +57,15 @@
       "python"
     ],
     "created_at": "2026-08-04T07:20:22",
-    "updated_at": "2026-08-11T02:27:33"
+    "updated_at": "2026-08-11T05:35:07"
   },
   {
     "name": "neuroarxiv",
     "full_name": "UditAkhourii/neuroarxiv",
     "description": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
     "url": "https://github.com/UditAkhourii/neuroarxiv",
-    "stars": 251,
-    "daily_stars": 33,
+    "stars": 261,
+    "daily_stars": 10,
     "language": "TypeScript",
     "topics": [
       "arxiv",
@@ -78,15 +78,15 @@
       "workflow"
     ],
     "created_at": "2026-08-05T10:26:26",
-    "updated_at": "2026-08-11T02:33:30"
+    "updated_at": "2026-08-11T05:14:44"
   },
   {
     "name": "KADATH",
     "full_name": "i3T4AN/KADATH",
     "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
     "url": "https://github.com/i3T4AN/KADATH",
-    "stars": 172,
-    "daily_stars": 0,
+    "stars": 174,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "agent-evaluation-tools",
@@ -108,7 +108,28 @@
       "self-evolving-agents"
     ],
     "created_at": "2026-08-08T15:49:55",
-    "updated_at": "2026-08-10T19:14:03"
+    "updated_at": "2026-08-11T05:22:47"
+  },
+  {
+    "name": "loomfeed",
+    "full_name": "surya-koritala/loomfeed",
+    "description": "The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
+    "url": "https://github.com/surya-koritala/loomfeed",
+    "stars": 153,
+    "daily_stars": 0,
+    "language": "Go",
+    "topics": [
+      "ai-agents",
+      "community-platform",
+      "golang",
+      "mcp",
+      "nextjs",
+      "reddit-alternative",
+      "self-hosted",
+      "social-network"
+    ],
+    "created_at": "2026-08-09T19:28:09",
+    "updated_at": "2026-08-11T05:34:57"
   },
   {
     "name": "agent-skills-collection",
@@ -138,7 +159,7 @@
     "full_name": "sv-number/skills",
     "description": "Give your AI agent a phone number: order a private number in any country over the API, read the SMS verification code, hand the number back.",
     "url": "https://github.com/sv-number/skills",
-    "stars": 113,
+    "stars": 117,
     "daily_stars": 4,
     "language": "Python",
     "topics": [
@@ -152,14 +173,14 @@
       "sms"
     ],
     "created_at": "2026-08-07T08:14:34",
-    "updated_at": "2026-08-11T01:33:47"
+    "updated_at": "2026-08-11T04:45:19"
   },
   {
     "name": "juror",
     "full_name": "Juror-AI/juror",
     "description": "Cheaper and better Greptile alternative runs on your own github actions.",
     "url": "https://github.com/Juror-AI/juror",
-    "stars": 77,
+    "stars": 78,
     "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
@@ -180,60 +201,29 @@
       "typescript"
     ],
     "created_at": "2026-08-06T12:24:49",
-    "updated_at": "2026-08-10T23:31:38"
+    "updated_at": "2026-08-11T03:03:24"
   },
   {
-    "name": "industrial-mcp",
-    "full_name": "zhiningsun/industrial-mcp",
-    "description": "将工业设备变成 AI 可控工具的 MCP 服务器。支持 Modbus、OPC UA、MQTT 三种协议，内置设备仿真引擎、物理模型和完整的调试工具链。让 Claude 用自然语言监控传感器、启停电机、执行工厂巡检。",
-    "url": "https://github.com/zhiningsun/industrial-mcp",
-    "stars": 51,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "asyncio",
-      "claude",
-      "claude-desktop",
-      "industrial",
-      "industrial-automation",
-      "industry-4-0",
-      "iot",
-      "mcp",
-      "mcp-server",
-      "modbus",
-      "model-context-protocol",
-      "mqtt",
-      "opc-ua",
-      "paho-mqtt",
-      "pymodbus",
-      "python",
-      "scada",
-      "simulation"
-    ],
-    "created_at": "2026-08-09T14:31:15",
-    "updated_at": "2026-08-11T01:38:42"
-  },
-  {
-    "name": "AI-Knowledge-Management-Platform",
-    "full_name": "TOPDEV99999/AI-Knowledge-Management-Platform",
-    "description": "An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction, structured data analysis, and SQL-based reasoning to deliver accurate answers for complex, multi-step, and analytical queries.",
-    "url": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform",
-    "stars": 37,
+    "name": "moli",
+    "full_name": "lexmount/moli",
+    "description": "Best browser for AI Agent, written in pure Rust",
+    "url": "https://github.com/lexmount/moli",
+    "stars": 54,
     "daily_stars": 0,
-    "language": "Jupyter Notebook",
+    "language": "Rust",
     "topics": [
-      "agentic-ai",
-      "ai",
       "ai-agents",
-      "artificial-intelligence",
-      "generative-ai",
-      "large-language-models",
-      "llm",
-      "llm-agents"
+      "ai-tools",
+      "browser",
+      "browser-automation",
+      "cloud-browser",
+      "playwright",
+      "puppeteer",
+      "rust",
+      "servo",
+      "web"
     ],
-    "created_at": "2026-08-03T07:36:22",
-    "updated_at": "2026-08-10T15:11:45"
+    "created_at": "2026-08-10T13:20:30",
+    "updated_at": "2026-08-11T05:34:23"
   }
 ]
