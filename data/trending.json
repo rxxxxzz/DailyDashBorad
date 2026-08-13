@@ -4,8 +4,8 @@
     "full_name": "FareedKhan-dev/kimi-k3-in-c",
     "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 5334,
-    "daily_stars": 52,
+    "stars": 5380,
+    "daily_stars": 46,
     "language": "C",
     "topics": [
       "avx2",
@@ -30,15 +30,59 @@
       "zero-dependencies"
     ],
     "created_at": "2026-08-01T09:29:38",
-    "updated_at": "2026-08-13T09:40:41"
+    "updated_at": "2026-08-13T13:53:10"
+  },
+  {
+    "name": "loomfeed",
+    "full_name": "surya-koritala/loomfeed",
+    "description": "The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
+    "url": "https://github.com/surya-koritala/loomfeed",
+    "stars": 212,
+    "daily_stars": 45,
+    "language": "Go",
+    "topics": [
+      "ai-agents",
+      "community-platform",
+      "golang",
+      "mcp",
+      "nextjs",
+      "reddit-alternative",
+      "self-hosted",
+      "social-network"
+    ],
+    "created_at": "2026-08-09T19:28:09",
+    "updated_at": "2026-08-13T12:17:57"
+  },
+  {
+    "name": "img2threejs",
+    "full_name": "hoainho/img2threejs",
+    "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+    "url": "https://github.com/hoainho/img2threejs",
+    "stars": 11557,
+    "daily_stars": 44,
+    "language": "Python",
+    "topics": [
+      "3d",
+      "ai-agents",
+      "claude-code",
+      "computer-graphics",
+      "generative",
+      "image-to-3d",
+      "procedural-generation",
+      "threejs",
+      "typescript",
+      "webgl"
+    ],
+    "created_at": "2026-07-15T02:58:39",
+    "updated_at": "2026-08-13T13:56:12"
   },
   {
     "name": "KADATH",
     "full_name": "i3T4AN/KADATH",
     "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
     "url": "https://github.com/i3T4AN/KADATH",
-    "stars": 343,
-    "daily_stars": 45,
+    "stars": 369,
+    "daily_stars": 26,
     "language": "Python",
     "topics": [
       "agent-evaluation-tools",
@@ -60,38 +104,54 @@
       "self-evolving-agents"
     ],
     "created_at": "2026-08-08T15:49:55",
-    "updated_at": "2026-08-13T09:39:25"
+    "updated_at": "2026-08-13T11:49:59"
   },
   {
-    "name": "img2threejs",
-    "full_name": "hoainho/img2threejs",
-    "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
-    "url": "https://github.com/hoainho/img2threejs",
-    "stars": 11513,
-    "daily_stars": 40,
-    "language": "Python",
+    "name": "memorax-code",
+    "full_name": "memorax-ai/memorax-code",
+    "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
+    "url": "https://github.com/memorax-ai/memorax-code",
+    "stars": 472,
+    "daily_stars": 23,
+    "language": "JavaScript",
     "topics": [
-      "3d",
       "ai-agents",
       "claude-code",
-      "computer-graphics",
-      "generative",
-      "image-to-3d",
-      "procedural-generation",
-      "threejs",
-      "typescript",
-      "webgl"
+      "codex",
+      "coding-memory",
+      "developer-tools",
+      "memorax",
+      "typescript"
     ],
-    "created_at": "2026-07-15T02:58:39",
-    "updated_at": "2026-08-13T09:38:22"
+    "created_at": "2026-08-01T02:13:37",
+    "updated_at": "2026-08-13T13:49:04"
+  },
+  {
+    "name": "aaabench",
+    "full_name": "ukanwat/aaabench",
+    "description": "A long-horizon benchmark harness: give a coding agent a real game engine, professional conditions and time, and ask it to build an open-world game. Harness only, no results.",
+    "url": "https://github.com/ukanwat/aaabench",
+    "stars": 226,
+    "daily_stars": 23,
+    "language": "Shell",
+    "topics": [
+      "ai-agents",
+      "benchmark",
+      "game-development",
+      "llm-evaluation",
+      "mcp",
+      "unreal-engine"
+    ],
+    "created_at": "2026-07-31T23:54:28",
+    "updated_at": "2026-08-13T13:53:15"
   },
   {
     "name": "video-shotcraft",
     "full_name": "Vincentwei1021/video-shotcraft",
     "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
     "url": "https://github.com/Vincentwei1021/video-shotcraft",
-    "stars": 4895,
-    "daily_stars": 28,
+    "stars": 4913,
+    "daily_stars": 18,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -110,34 +170,35 @@
       "video-production"
     ],
     "created_at": "2026-07-19T11:44:41",
-    "updated_at": "2026-08-13T09:38:29"
+    "updated_at": "2026-08-13T13:45:46"
   },
   {
-    "name": "aaabench",
-    "full_name": "ukanwat/aaabench",
-    "description": "A long-horizon benchmark harness: give a coding agent a real game engine, professional conditions and time, and ask it to build an open-world game. Harness only, no results.",
-    "url": "https://github.com/ukanwat/aaabench",
-    "stars": 203,
-    "daily_stars": 27,
-    "language": "Shell",
+    "name": "caspian-sdk",
+    "full_name": "TryCaspian/caspian-sdk",
+    "description": "One identity for your AI agent across every channel humans use: Slack, Discord, Telegram, Instagram, email, X, behind a single on_message handler. Channel adapters + SDK + CLI.",
+    "url": "https://github.com/TryCaspian/caspian-sdk",
+    "stars": 672,
+    "daily_stars": 16,
+    "language": "Python",
     "topics": [
       "ai-agents",
-      "benchmark",
-      "game-development",
-      "llm-evaluation",
-      "mcp",
-      "unreal-engine"
+      "communication",
+      "discord",
+      "messaging",
+      "sdk",
+      "slack",
+      "telegram"
     ],
-    "created_at": "2026-07-31T23:54:28",
-    "updated_at": "2026-08-13T09:38:59"
+    "created_at": "2026-07-20T10:47:56",
+    "updated_at": "2026-08-13T13:47:39"
   },
   {
     "name": "moli",
     "full_name": "lexmount/moli",
     "description": "Best browser for AI Agent, written in pure Rust",
     "url": "https://github.com/lexmount/moli",
-    "stars": 223,
-    "daily_stars": 19,
+    "stars": 239,
+    "daily_stars": 16,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -152,89 +213,28 @@
       "web"
     ],
     "created_at": "2026-08-10T13:20:30",
-    "updated_at": "2026-08-13T09:23:48"
+    "updated_at": "2026-08-13T12:49:35"
   },
   {
-    "name": "memorax-code",
-    "full_name": "memorax-ai/memorax-code",
-    "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
-    "url": "https://github.com/memorax-ai/memorax-code",
-    "stars": 449,
+    "name": "paritok-4b-v1",
+    "full_name": "Paritok-official/paritok-4b-v1",
+    "description": "The first open-source compression model trained specifically for coding agents. 4B, Apache 2.0.",
+    "url": "https://github.com/Paritok-official/paritok-4b-v1",
+    "stars": 1143,
     "daily_stars": 15,
-    "language": "JavaScript",
+    "language": "Python",
     "topics": [
-      "ai-agents",
-      "claude-code",
-      "codex",
-      "coding-memory",
-      "developer-tools",
-      "memorax",
-      "typescript"
-    ],
-    "created_at": "2026-08-01T02:13:37",
-    "updated_at": "2026-08-13T09:21:42"
-  },
-  {
-    "name": "mcp-server",
-    "full_name": "sv-number/mcp-server",
-    "description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
-    "url": "https://github.com/sv-number/mcp-server",
-    "stars": 611,
-    "daily_stars": 9,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "mcp",
-      "model-context-protocol",
-      "otp",
-      "phone-verification",
-      "sms",
-      "typescript"
-    ],
-    "created_at": "2026-08-07T11:13:26",
-    "updated_at": "2026-08-13T09:39:16"
-  },
-  {
-    "name": "skill-recorder",
-    "full_name": "microsoft/skill-recorder",
-    "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
-    "url": "https://github.com/microsoft/skill-recorder",
-    "stars": 3021,
-    "daily_stars": 8,
-    "language": "TypeScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "automation",
-      "copilot",
-      "copilot-cli",
-      "copilot-cowork",
-      "copilot-studio",
-      "electron",
-      "microsoft-scout",
-      "screen-recording"
-    ],
-    "created_at": "2026-07-29T18:16:14",
-    "updated_at": "2026-08-13T09:27:48"
-  },
-  {
-    "name": "thinking-orbs",
-    "full_name": "Jakubantalik/thinking-orbs",
-    "description": "Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light",
-    "url": "https://github.com/Jakubantalik/thinking-orbs",
-    "stars": 2304,
-    "daily_stars": 7,
-    "language": "TypeScript",
-    "topics": [
+      "agentic-coding",
       "ai",
       "ai-agents",
-      "chat",
-      "loader",
-      "ui",
-      "ux"
+      "ai-coding",
+      "ai-infrastructure",
+      "developer-tools",
+      "llm-gateway",
+      "llms",
+      "token-optimization"
     ],
-    "created_at": "2026-07-21T07:01:53",
-    "updated_at": "2026-08-13T08:57:23"
+    "created_at": "2026-07-15T10:23:15",
+    "updated_at": "2026-08-13T13:52:44"
   }
 ]
