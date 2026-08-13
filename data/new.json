@@ -4,8 +4,8 @@
     "full_name": "sv-number/mcp-server",
     "description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
     "url": "https://github.com/sv-number/mcp-server",
-    "stars": 614,
-    "daily_stars": 3,
+    "stars": 600,
+    "daily_stars": -14,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -18,15 +18,48 @@
       "typescript"
     ],
     "created_at": "2026-08-07T11:13:26",
-    "updated_at": "2026-08-13T13:45:26"
+    "updated_at": "2026-08-13T17:01:26"
+  },
+  {
+    "name": "book-to-skill",
+    "full_name": "Leutenegger/book-to-skill",
+    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+    "url": "https://github.com/Leutenegger/book-to-skill",
+    "stars": 559,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agent-memory",
+      "agent-skill",
+      "agent-skills",
+      "agentic",
+      "agentic-ai",
+      "agents",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "github-copilot",
+      "pdf",
+      "pdf-document",
+      "pdf-generation",
+      "pdf-parser",
+      "pdf-tools",
+      "pdf-viewer",
+      "skill-generator"
+    ],
+    "created_at": "2026-08-13T13:15:23",
+    "updated_at": "2026-08-13T17:28:10"
   },
   {
     "name": "KADATH",
     "full_name": "i3T4AN/KADATH",
     "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
     "url": "https://github.com/i3T4AN/KADATH",
-    "stars": 369,
-    "daily_stars": 26,
+    "stars": 362,
+    "daily_stars": -7,
     "language": "Python",
     "topics": [
       "agent-evaluation-tools",
@@ -48,15 +81,15 @@
       "self-evolving-agents"
     ],
     "created_at": "2026-08-08T15:49:55",
-    "updated_at": "2026-08-13T11:49:59"
+    "updated_at": "2026-08-13T14:06:04"
   },
   {
     "name": "codex-bridge",
     "full_name": "Sateezg/codex-bridge",
     "description": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key.",
     "url": "https://github.com/Sateezg/codex-bridge",
-    "stars": 308,
-    "daily_stars": 0,
+    "stars": 298,
+    "daily_stars": -10,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -69,15 +102,15 @@
       "openai"
     ],
     "created_at": "2026-08-09T06:57:08",
-    "updated_at": "2026-08-13T08:55:40"
+    "updated_at": "2026-08-13T15:14:53"
   },
   {
     "name": "moli",
     "full_name": "lexmount/moli",
     "description": "Best browser for AI Agent, written in pure Rust",
     "url": "https://github.com/lexmount/moli",
-    "stars": 239,
-    "daily_stars": 16,
+    "stars": 246,
+    "daily_stars": 7,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -92,7 +125,7 @@
       "web"
     ],
     "created_at": "2026-08-10T13:20:30",
-    "updated_at": "2026-08-13T12:49:35"
+    "updated_at": "2026-08-13T17:08:29"
   },
   {
     "name": "loomfeed",
@@ -100,7 +133,7 @@
     "description": "The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
     "url": "https://github.com/surya-koritala/loomfeed",
     "stars": 212,
-    "daily_stars": 45,
+    "daily_stars": 0,
     "language": "Go",
     "topics": [
       "ai-agents",
@@ -113,7 +146,7 @@
       "social-network"
     ],
     "created_at": "2026-08-09T19:28:09",
-    "updated_at": "2026-08-13T12:17:57"
+    "updated_at": "2026-08-13T14:01:02"
   },
   {
     "name": "agent-skills-collection",
@@ -121,7 +154,7 @@
     "description": "Curated collection of modular agent skills for LLM-based agents",
     "url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
     "stars": 208,
-    "daily_stars": 4,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -143,8 +176,8 @@
     "full_name": "wanshuiyin/HERO-Anti-OverDefense",
     "description": "HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.",
     "url": "https://github.com/wanshuiyin/HERO-Anti-OverDefense",
-    "stars": 127,
-    "daily_stars": 2,
+    "stars": 128,
+    "daily_stars": 1,
     "language": "Markdown",
     "topics": [
       "agents-md",
@@ -162,7 +195,38 @@
       "windsurf"
     ],
     "created_at": "2026-08-11T05:08:30",
-    "updated_at": "2026-08-13T13:13:57"
+    "updated_at": "2026-08-13T15:13:58"
+  },
+  {
+    "name": "awesome-deepseek-harness",
+    "full_name": "0xsline/awesome-deepseek-harness",
+    "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+    "url": "https://github.com/0xsline/awesome-deepseek-harness",
+    "stars": 115,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "awesome",
+      "awesome-list",
+      "coding-assistant",
+      "curated-list",
+      "deepseek",
+      "deepseek-harness",
+      "developer-tools",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugins",
+      "harness",
+      "llm",
+      "mcp",
+      "plugins"
+    ],
+    "created_at": "2026-08-11T13:14:49",
+    "updated_at": "2026-08-13T17:21:59"
   },
   {
     "name": "bandminton",
@@ -183,54 +247,5 @@
     ],
     "created_at": "2026-08-12T06:14:49",
     "updated_at": "2026-08-12T11:32:24"
-  },
-  {
-    "name": "skills",
-    "full_name": "sv-number/skills",
-    "description": "Give your AI agent a phone number: order a private number in any country over the API, read the SMS verification code, hand the number back.",
-    "url": "https://github.com/sv-number/skills",
-    "stars": 89,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "agent-skill",
-      "ai-agents",
-      "automation",
-      "claude-code",
-      "codex",
-      "otp",
-      "phone-verification",
-      "sms"
-    ],
-    "created_at": "2026-08-07T08:14:34",
-    "updated_at": "2026-08-13T11:33:49"
-  },
-  {
-    "name": "juror",
-    "full_name": "Juror-AI/juror",
-    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
-    "url": "https://github.com/Juror-AI/juror",
-    "stars": 82,
-    "daily_stars": 0,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "ai-code-review",
-      "cli",
-      "code-quality",
-      "code-review",
-      "codex",
-      "developer-tools",
-      "devtools",
-      "github-action",
-      "github-actions",
-      "llm",
-      "llmops",
-      "pull-request",
-      "static-analysis",
-      "typescript"
-    ],
-    "created_at": "2026-08-06T12:24:49",
-    "updated_at": "2026-08-12T15:41:11"
   }
 ]
