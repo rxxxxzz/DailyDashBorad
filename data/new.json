@@ -4,7 +4,7 @@
     "full_name": "sv-number/mcp-server",
     "description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
     "url": "https://github.com/sv-number/mcp-server",
-    "stars": 597,
+    "stars": 602,
     "daily_stars": 5,
     "language": "JavaScript",
     "topics": [
@@ -18,7 +18,7 @@
       "typescript"
     ],
     "created_at": "2026-08-07T11:13:26",
-    "updated_at": "2026-08-13T02:39:11"
+    "updated_at": "2026-08-13T05:07:29"
   },
   {
     "name": "neuroarxiv",
@@ -26,7 +26,7 @@
     "description": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
     "url": "https://github.com/UditAkhourii/neuroarxiv",
     "stars": 321,
-    "daily_stars": 2,
+    "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
       "arxiv",
@@ -47,7 +47,7 @@
     "description": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key.",
     "url": "https://github.com/Sateezg/codex-bridge",
     "stars": 307,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -61,6 +61,59 @@
     ],
     "created_at": "2026-08-09T06:57:08",
     "updated_at": "2026-08-13T02:23:34"
+  },
+  {
+    "name": "KADATH",
+    "full_name": "i3T4AN/KADATH",
+    "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+    "url": "https://github.com/i3T4AN/KADATH",
+    "stars": 298,
+    "daily_stars": 126,
+    "language": "Python",
+    "topics": [
+      "agent-evaluation-tools",
+      "agent-framework",
+      "agent-swarms",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "autonomous-agents",
+      "evolutionary-algorithms",
+      "generative-ai",
+      "genetic-algorithm",
+      "llm",
+      "llm-agents",
+      "llm-evaluation",
+      "multi-agent",
+      "multi-agent-systems",
+      "self-evolving-agents"
+    ],
+    "created_at": "2026-08-08T15:49:55",
+    "updated_at": "2026-08-13T05:56:43"
+  },
+  {
+    "name": "moli",
+    "full_name": "lexmount/moli",
+    "description": "Best browser for AI Agent, written in pure Rust",
+    "url": "https://github.com/lexmount/moli",
+    "stars": 204,
+    "daily_stars": 18,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "browser",
+      "browser-automation",
+      "cloud-browser",
+      "playwright",
+      "puppeteer",
+      "rust",
+      "servo",
+      "web"
+    ],
+    "created_at": "2026-08-10T13:20:30",
+    "updated_at": "2026-08-13T05:53:02"
   },
   {
     "name": "agent-skills-collection",
@@ -86,65 +139,12 @@
     "updated_at": "2026-08-11T14:42:33"
   },
   {
-    "name": "moli",
-    "full_name": "lexmount/moli",
-    "description": "Best browser for AI Agent, written in pure Rust",
-    "url": "https://github.com/lexmount/moli",
-    "stars": 186,
-    "daily_stars": 31,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "browser",
-      "browser-automation",
-      "cloud-browser",
-      "playwright",
-      "puppeteer",
-      "rust",
-      "servo",
-      "web"
-    ],
-    "created_at": "2026-08-10T13:20:30",
-    "updated_at": "2026-08-13T03:05:04"
-  },
-  {
-    "name": "KADATH",
-    "full_name": "i3T4AN/KADATH",
-    "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
-    "url": "https://github.com/i3T4AN/KADATH",
-    "stars": 172,
-    "daily_stars": 3,
-    "language": "Python",
-    "topics": [
-      "agent-evaluation-tools",
-      "agent-framework",
-      "agent-swarms",
-      "agentic-ai",
-      "agents",
-      "ai",
-      "ai-agents",
-      "autonomous-agents",
-      "evolutionary-algorithms",
-      "generative-ai",
-      "genetic-algorithm",
-      "llm",
-      "llm-agents",
-      "llm-evaluation",
-      "multi-agent",
-      "multi-agent-systems",
-      "self-evolving-agents"
-    ],
-    "created_at": "2026-08-08T15:49:55",
-    "updated_at": "2026-08-13T00:01:54"
-  },
-  {
     "name": "loomfeed",
     "full_name": "surya-koritala/loomfeed",
     "description": "The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
     "url": "https://github.com/surya-koritala/loomfeed",
-    "stars": 165,
-    "daily_stars": 1,
+    "stars": 167,
+    "daily_stars": 2,
     "language": "Go",
     "topics": [
       "ai-agents",
@@ -157,15 +157,15 @@
       "social-network"
     ],
     "created_at": "2026-08-09T19:28:09",
-    "updated_at": "2026-08-13T02:49:37"
+    "updated_at": "2026-08-13T05:50:00"
   },
   {
     "name": "HERO-Anti-OverDefense",
     "full_name": "wanshuiyin/HERO-Anti-OverDefense",
     "description": "HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.",
     "url": "https://github.com/wanshuiyin/HERO-Anti-OverDefense",
-    "stars": 119,
-    "daily_stars": 1,
+    "stars": 122,
+    "daily_stars": 3,
     "language": "Markdown",
     "topics": [
       "agents-md",
@@ -183,7 +183,7 @@
       "windsurf"
     ],
     "created_at": "2026-08-11T05:08:30",
-    "updated_at": "2026-08-13T01:55:09"
+    "updated_at": "2026-08-13T05:45:31"
   },
   {
     "name": "bandminton",
@@ -211,7 +211,7 @@
     "description": "Give your AI agent a phone number: order a private number in any country over the API, read the SMS verification code, hand the number back.",
     "url": "https://github.com/sv-number/skills",
     "stars": 88,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "agent-skill",
