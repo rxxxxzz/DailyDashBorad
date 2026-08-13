@@ -1,32 +1,11 @@
 [
   {
-    "name": "mcp-server",
-    "full_name": "sv-number/mcp-server",
-    "description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
-    "url": "https://github.com/sv-number/mcp-server",
-    "stars": 600,
-    "daily_stars": -14,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "mcp",
-      "model-context-protocol",
-      "otp",
-      "phone-verification",
-      "sms",
-      "typescript"
-    ],
-    "created_at": "2026-08-07T11:13:26",
-    "updated_at": "2026-08-13T17:01:26"
-  },
-  {
     "name": "book-to-skill",
     "full_name": "Leutenegger/book-to-skill",
     "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
     "url": "https://github.com/Leutenegger/book-to-skill",
-    "stars": 559,
-    "daily_stars": 0,
+    "stars": 1017,
+    "daily_stars": 458,
     "language": "Python",
     "topics": [
       "agent",
@@ -51,15 +30,36 @@
       "skill-generator"
     ],
     "created_at": "2026-08-13T13:15:23",
-    "updated_at": "2026-08-13T17:28:10"
+    "updated_at": "2026-08-13T20:23:26"
+  },
+  {
+    "name": "mcp-server",
+    "full_name": "sv-number/mcp-server",
+    "description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
+    "url": "https://github.com/sv-number/mcp-server",
+    "stars": 561,
+    "daily_stars": -39,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "mcp",
+      "model-context-protocol",
+      "otp",
+      "phone-verification",
+      "sms",
+      "typescript"
+    ],
+    "created_at": "2026-08-07T11:13:26",
+    "updated_at": "2026-08-13T20:18:50"
   },
   {
     "name": "KADATH",
     "full_name": "i3T4AN/KADATH",
     "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
     "url": "https://github.com/i3T4AN/KADATH",
-    "stars": 362,
-    "daily_stars": -7,
+    "stars": 348,
+    "daily_stars": -14,
     "language": "Python",
     "topics": [
       "agent-evaluation-tools",
@@ -81,15 +81,15 @@
       "self-evolving-agents"
     ],
     "created_at": "2026-08-08T15:49:55",
-    "updated_at": "2026-08-13T14:06:04"
+    "updated_at": "2026-08-13T20:19:30"
   },
   {
     "name": "codex-bridge",
     "full_name": "Sateezg/codex-bridge",
     "description": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key.",
     "url": "https://github.com/Sateezg/codex-bridge",
-    "stars": 298,
-    "daily_stars": -10,
+    "stars": 273,
+    "daily_stars": -25,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -102,15 +102,15 @@
       "openai"
     ],
     "created_at": "2026-08-09T06:57:08",
-    "updated_at": "2026-08-13T15:14:53"
+    "updated_at": "2026-08-13T18:20:02"
   },
   {
     "name": "moli",
     "full_name": "lexmount/moli",
     "description": "Best browser for AI Agent, written in pure Rust",
     "url": "https://github.com/lexmount/moli",
-    "stars": 246,
-    "daily_stars": 7,
+    "stars": 251,
+    "daily_stars": 5,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -125,7 +125,7 @@
       "web"
     ],
     "created_at": "2026-08-10T13:20:30",
-    "updated_at": "2026-08-13T17:08:29"
+    "updated_at": "2026-08-13T20:19:13"
   },
   {
     "name": "loomfeed",
@@ -172,38 +172,34 @@
     "updated_at": "2026-08-13T13:34:30"
   },
   {
-    "name": "HERO-Anti-OverDefense",
-    "full_name": "wanshuiyin/HERO-Anti-OverDefense",
-    "description": "HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.",
-    "url": "https://github.com/wanshuiyin/HERO-Anti-OverDefense",
-    "stars": 128,
-    "daily_stars": 1,
-    "language": "Markdown",
+    "name": "rakazo",
+    "full_name": "elie222/rakazo",
+    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+    "url": "https://github.com/elie222/rakazo",
+    "stars": 192,
+    "daily_stars": 0,
+    "language": "TypeScript",
     "topics": [
-      "agents-md",
       "ai-agents",
-      "antigravity",
-      "claude-code",
-      "claude-md",
-      "codex",
-      "coding-agent",
-      "cursor",
-      "gemini-cli",
-      "github-copilot",
+      "chatgpt",
+      "docker",
+      "electron",
+      "expo",
+      "grok",
       "llm",
-      "prompt-engineering",
-      "windsurf"
+      "self-hosted",
+      "typescript"
     ],
-    "created_at": "2026-08-11T05:08:30",
-    "updated_at": "2026-08-13T15:13:58"
+    "created_at": "2026-08-13T06:28:56",
+    "updated_at": "2026-08-13T21:19:41"
   },
   {
     "name": "awesome-deepseek-harness",
     "full_name": "0xsline/awesome-deepseek-harness",
     "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
     "url": "https://github.com/0xsline/awesome-deepseek-harness",
-    "stars": 115,
-    "daily_stars": 0,
+    "stars": 137,
+    "daily_stars": 22,
     "language": "Python",
     "topics": [
       "agent",
@@ -226,26 +222,32 @@
       "plugins"
     ],
     "created_at": "2026-08-11T13:14:49",
-    "updated_at": "2026-08-13T17:21:59"
+    "updated_at": "2026-08-13T21:10:47"
   },
   {
-    "name": "bandminton",
-    "full_name": "Yixuan-Wu39/bandminton",
-    "description": "Open-source wearable badminton motion analysis with lightweight on-device machine learning.",
-    "url": "https://github.com/Yixuan-Wu39/bandminton",
-    "stars": 103,
-    "daily_stars": 0,
-    "language": "JavaScript",
+    "name": "HERO-Anti-OverDefense",
+    "full_name": "wanshuiyin/HERO-Anti-OverDefense",
+    "description": "HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.",
+    "url": "https://github.com/wanshuiyin/HERO-Anti-OverDefense",
+    "stars": 129,
+    "daily_stars": 1,
+    "language": "Markdown",
     "topics": [
-      "accelerometer",
-      "badminton",
-      "fitness-tracking",
-      "machine-learning",
-      "motion-analysis",
-      "wearable",
-      "xiaomi"
+      "agents-md",
+      "ai-agents",
+      "antigravity",
+      "claude-code",
+      "claude-md",
+      "codex",
+      "coding-agent",
+      "cursor",
+      "gemini-cli",
+      "github-copilot",
+      "llm",
+      "prompt-engineering",
+      "windsurf"
     ],
-    "created_at": "2026-08-12T06:14:49",
-    "updated_at": "2026-08-12T11:32:24"
+    "created_at": "2026-08-11T05:08:30",
+    "updated_at": "2026-08-13T18:25:58"
   }
 ]
