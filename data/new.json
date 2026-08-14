@@ -4,8 +4,8 @@
     "full_name": "Leutenegger/book-to-skill",
     "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
     "url": "https://github.com/Leutenegger/book-to-skill",
-    "stars": 1031,
-    "daily_stars": 14,
+    "stars": 1041,
+    "daily_stars": 10,
     "language": "Python",
     "topics": [
       "agent",
@@ -30,15 +30,15 @@
       "skill-generator"
     ],
     "created_at": "2026-08-13T13:15:23",
-    "updated_at": "2026-08-14T02:57:25"
+    "updated_at": "2026-08-14T05:51:37"
   },
   {
     "name": "mcp-server",
     "full_name": "sv-number/mcp-server",
     "description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
     "url": "https://github.com/sv-number/mcp-server",
-    "stars": 568,
-    "daily_stars": 7,
+    "stars": 572,
+    "daily_stars": 4,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -51,7 +51,7 @@
       "typescript"
     ],
     "created_at": "2026-08-07T11:13:26",
-    "updated_at": "2026-08-14T01:38:42"
+    "updated_at": "2026-08-14T05:43:16"
   },
   {
     "name": "KADATH",
@@ -59,7 +59,7 @@
     "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
     "url": "https://github.com/i3T4AN/KADATH",
     "stars": 349,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "agent-evaluation-tools",
@@ -84,6 +84,28 @@
     "updated_at": "2026-08-14T02:49:18"
   },
   {
+    "name": "rakazo",
+    "full_name": "elie222/rakazo",
+    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+    "url": "https://github.com/elie222/rakazo",
+    "stars": 290,
+    "daily_stars": 31,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "docker",
+      "electron",
+      "expo",
+      "grok",
+      "llm",
+      "self-hosted",
+      "typescript"
+    ],
+    "created_at": "2026-08-13T06:28:56",
+    "updated_at": "2026-08-14T05:53:40"
+  },
+  {
     "name": "codex-bridge",
     "full_name": "Sateezg/codex-bridge",
     "description": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key.",
@@ -105,33 +127,11 @@
     "updated_at": "2026-08-13T18:20:02"
   },
   {
-    "name": "rakazo",
-    "full_name": "elie222/rakazo",
-    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-    "url": "https://github.com/elie222/rakazo",
-    "stars": 259,
-    "daily_stars": 67,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "chatgpt",
-      "docker",
-      "electron",
-      "expo",
-      "grok",
-      "llm",
-      "self-hosted",
-      "typescript"
-    ],
-    "created_at": "2026-08-13T06:28:56",
-    "updated_at": "2026-08-14T03:04:29"
-  },
-  {
     "name": "moli",
     "full_name": "lexmount/moli",
     "description": "Best browser for AI Agent, written in pure Rust",
     "url": "https://github.com/lexmount/moli",
-    "stars": 259,
+    "stars": 267,
     "daily_stars": 8,
     "language": "Rust",
     "topics": [
@@ -147,7 +147,38 @@
       "web"
     ],
     "created_at": "2026-08-10T13:20:30",
-    "updated_at": "2026-08-14T02:31:54"
+    "updated_at": "2026-08-14T05:52:47"
+  },
+  {
+    "name": "awesome-deepseek-harness",
+    "full_name": "0xsline/awesome-deepseek-harness",
+    "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+    "url": "https://github.com/0xsline/awesome-deepseek-harness",
+    "stars": 247,
+    "daily_stars": 37,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "awesome",
+      "awesome-list",
+      "coding-assistant",
+      "curated-list",
+      "deepseek",
+      "deepseek-harness",
+      "developer-tools",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugins",
+      "harness",
+      "llm",
+      "mcp",
+      "plugins"
+    ],
+    "created_at": "2026-08-11T13:14:49",
+    "updated_at": "2026-08-14T05:55:13"
   },
   {
     "name": "loomfeed",
@@ -171,43 +202,12 @@
     "updated_at": "2026-08-13T14:01:02"
   },
   {
-    "name": "awesome-deepseek-harness",
-    "full_name": "0xsline/awesome-deepseek-harness",
-    "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-    "url": "https://github.com/0xsline/awesome-deepseek-harness",
-    "stars": 210,
-    "daily_stars": 73,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agents",
-      "ai-tools",
-      "awesome",
-      "awesome-list",
-      "coding-assistant",
-      "curated-list",
-      "deepseek",
-      "deepseek-harness",
-      "developer-tools",
-      "dsh",
-      "dsh-plugin",
-      "dsh-plugins",
-      "harness",
-      "llm",
-      "mcp",
-      "plugins"
-    ],
-    "created_at": "2026-08-11T13:14:49",
-    "updated_at": "2026-08-14T03:05:58"
-  },
-  {
     "name": "agent-skills-collection",
     "full_name": "oliverb-io1902e8/agent-skills-collection",
     "description": "Curated collection of modular agent skills for LLM-based agents",
     "url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
     "stars": 209,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -230,7 +230,7 @@
     "description": "HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.",
     "url": "https://github.com/wanshuiyin/HERO-Anti-OverDefense",
     "stars": 131,
-    "daily_stars": 2,
+    "daily_stars": 0,
     "language": "Markdown",
     "topics": [
       "agents-md",

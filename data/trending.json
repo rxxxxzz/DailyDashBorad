@@ -4,8 +4,8 @@
     "full_name": "0xsline/awesome-deepseek-harness",
     "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
     "url": "https://github.com/0xsline/awesome-deepseek-harness",
-    "stars": 210,
-    "daily_stars": 73,
+    "stars": 247,
+    "daily_stars": 37,
     "language": "Python",
     "topics": [
       "agent",
@@ -28,15 +28,40 @@
       "plugins"
     ],
     "created_at": "2026-08-11T13:14:49",
-    "updated_at": "2026-08-14T03:05:58"
+    "updated_at": "2026-08-14T05:55:13"
+  },
+  {
+    "name": "dsh-handbook",
+    "full_name": "Electricitysheep/dsh-handbook",
+    "description": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
+    "url": "https://github.com/Electricitysheep/dsh-handbook",
+    "stars": 93,
+    "daily_stars": 36,
+    "language": "HTML",
+    "topics": [
+      "agent",
+      "agent-framework",
+      "ai-agents",
+      "beginners",
+      "deepseek",
+      "deepseek-ai",
+      "dsh-plugin",
+      "getting-started",
+      "guide",
+      "harness",
+      "llm",
+      "tutorial"
+    ],
+    "created_at": "2026-08-13T15:22:29",
+    "updated_at": "2026-08-14T05:50:54"
   },
   {
     "name": "rakazo",
     "full_name": "elie222/rakazo",
     "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
     "url": "https://github.com/elie222/rakazo",
-    "stars": 259,
-    "daily_stars": 67,
+    "stars": 290,
+    "daily_stars": 31,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -50,15 +75,15 @@
       "typescript"
     ],
     "created_at": "2026-08-13T06:28:56",
-    "updated_at": "2026-08-14T03:04:29"
+    "updated_at": "2026-08-14T05:53:40"
   },
   {
     "name": "kimi-k3-in-c",
     "full_name": "FareedKhan-dev/kimi-k3-in-c",
     "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 5481,
-    "daily_stars": 44,
+    "stars": 5501,
+    "daily_stars": 20,
     "language": "C",
     "topics": [
       "avx2",
@@ -83,77 +108,64 @@
       "zero-dependencies"
     ],
     "created_at": "2026-08-01T09:29:38",
-    "updated_at": "2026-08-14T03:01:56"
+    "updated_at": "2026-08-14T05:54:13"
   },
   {
-    "name": "memorax-code",
-    "full_name": "memorax-ai/memorax-code",
-    "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
-    "url": "https://github.com/memorax-ai/memorax-code",
-    "stars": 522,
-    "daily_stars": 29,
-    "language": "JavaScript",
+    "name": "multi-agent-workflow-lab",
+    "full_name": "christiangrey922/multi-agent-workflow-lab",
+    "description": "Testing and observability for multi-agent delegation, MCP tools, permissions, sandboxed actions, prompts, and workflow replay.",
+    "url": "https://github.com/christiangrey922/multi-agent-workflow-lab",
+    "stars": 83,
+    "daily_stars": 18,
+    "language": "TypeScript",
     "topics": [
+      "agent-orchestration",
+      "agent-security",
+      "agent-testing",
+      "ai-agent",
       "ai-agents",
-      "claude-code",
-      "codex",
-      "coding-memory",
-      "developer-tools",
-      "memorax",
-      "typescript"
+      "ai-security",
+      "mcp",
+      "model-context-protocol",
+      "multi-agent"
     ],
-    "created_at": "2026-08-01T02:13:37",
-    "updated_at": "2026-08-14T03:04:23"
+    "created_at": "2026-08-12T09:04:07",
+    "updated_at": "2026-08-14T05:11:13"
   },
   {
-    "name": "skill-recorder",
-    "full_name": "microsoft/skill-recorder",
-    "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
-    "url": "https://github.com/microsoft/skill-recorder",
-    "stars": 3067,
-    "daily_stars": 26,
+    "name": "video-shotcraft",
+    "full_name": "Vincentwei1021/video-shotcraft",
+    "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+    "url": "https://github.com/Vincentwei1021/video-shotcraft",
+    "stars": 4959,
+    "daily_stars": 13,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
       "ai-agents",
-      "automation",
-      "copilot",
-      "copilot-cli",
-      "copilot-cowork",
-      "copilot-studio",
-      "electron",
-      "microsoft-scout",
-      "screen-recording"
+      "ai-video",
+      "claude-code",
+      "claude-code-skills",
+      "claude-skills",
+      "codex",
+      "motion-design",
+      "motion-graphics",
+      "product-video",
+      "promo-video",
+      "remotion",
+      "video-generation",
+      "video-production"
     ],
-    "created_at": "2026-07-29T18:16:14",
-    "updated_at": "2026-08-14T02:57:07"
-  },
-  {
-    "name": "aaabench",
-    "full_name": "ukanwat/aaabench",
-    "description": "A long-horizon benchmark harness: give a coding agent a real game engine, professional conditions and time, and ask it to build an open-world game. Harness only, no results.",
-    "url": "https://github.com/ukanwat/aaabench",
-    "stars": 284,
-    "daily_stars": 24,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
-      "benchmark",
-      "game-development",
-      "llm-evaluation",
-      "mcp",
-      "unreal-engine"
-    ],
-    "created_at": "2026-07-31T23:54:28",
-    "updated_at": "2026-08-14T03:05:45"
+    "created_at": "2026-07-19T11:44:41",
+    "updated_at": "2026-08-14T05:35:59"
   },
   {
     "name": "thinking-orbs",
     "full_name": "Jakubantalik/thinking-orbs",
     "description": "Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light",
     "url": "https://github.com/Jakubantalik/thinking-orbs",
-    "stars": 2345,
-    "daily_stars": 22,
+    "stars": 2358,
+    "daily_stars": 13,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -164,54 +176,32 @@
       "ux"
     ],
     "created_at": "2026-07-21T07:01:53",
-    "updated_at": "2026-08-14T02:59:43"
+    "updated_at": "2026-08-14T05:42:08"
   },
   {
-    "name": "Dao-Vang-Peak-Pulse",
-    "full_name": "mrcanlaco/Dao-Vang-Peak-Pulse",
-    "description": "PeakPulse AI — Machine Learning Crypto Distribution & Top Formation Radar for Binance Futures",
-    "url": "https://github.com/mrcanlaco/Dao-Vang-Peak-Pulse",
-    "stars": 81,
-    "daily_stars": 16,
+    "name": "old-coder",
+    "full_name": "AmazingAng/old-coder",
+    "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
+    "url": "https://github.com/AmazingAng/old-coder",
+    "stars": 404,
+    "daily_stars": 13,
     "language": "Python",
     "topics": [
-      "algorithmic-trading-quantitative",
-      "binance-automation",
-      "binance-future",
-      "crypto",
-      "machine-learning",
-      "quantitative-trading-tool",
-      "trading-bot-monitoring",
-      "trading-scanners"
-    ],
-    "created_at": "2026-08-01T19:18:32",
-    "updated_at": "2026-08-14T03:00:19"
-  },
-  {
-    "name": "wai-play",
-    "full_name": "waiterve/wai-play",
-    "description": "WAI Play - AI web game testing and quality evaluation platform",
-    "url": "https://github.com/waiterve/wai-play",
-    "stars": 443,
-    "daily_stars": 15,
-    "language": "Python",
-    "topics": [
-      "ai",
       "ai-agents",
-      "game",
-      "game-testing",
-      "python"
+      "claude-code",
+      "skills",
+      "tdd"
     ],
-    "created_at": "2026-08-04T07:20:22",
-    "updated_at": "2026-08-14T02:02:57"
+    "created_at": "2026-07-27T05:03:11",
+    "updated_at": "2026-08-14T05:30:11"
   },
   {
     "name": "book-to-skill",
     "full_name": "Leutenegger/book-to-skill",
     "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
     "url": "https://github.com/Leutenegger/book-to-skill",
-    "stars": 1031,
-    "daily_stars": 14,
+    "stars": 1041,
+    "daily_stars": 10,
     "language": "Python",
     "topics": [
       "agent",
@@ -236,6 +226,28 @@
       "skill-generator"
     ],
     "created_at": "2026-08-13T13:15:23",
-    "updated_at": "2026-08-14T02:57:25"
+    "updated_at": "2026-08-14T05:51:37"
+  },
+  {
+    "name": "axern",
+    "full_name": "cofy-x/axern",
+    "description": "Open-source sandboxes for AI agents, untrusted code execution, and durable services.",
+    "url": "https://github.com/cofy-x/axern",
+    "stars": 263,
+    "daily_stars": 10,
+    "language": "Go",
+    "topics": [
+      "agent-sandbox",
+      "agentic-infrastructure",
+      "ai-agents",
+      "cloud-native",
+      "code-execution",
+      "kubernetes",
+      "remote-execution",
+      "sandbox",
+      "self-hosted"
+    ],
+    "created_at": "2026-07-28T05:45:33",
+    "updated_at": "2026-08-14T05:43:02"
   }
 ]
