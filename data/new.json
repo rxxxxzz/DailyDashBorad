@@ -4,8 +4,8 @@
     "full_name": "deepseek-ai/deepseek-harness",
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 93382,
-    "daily_stars": 4070,
+    "stars": 94570,
+    "daily_stars": 1188,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -14,14 +14,14 @@
       "dsh-plugin"
     ],
     "created_at": "2026-08-13T11:56:32",
-    "updated_at": "2026-08-14T17:28:22"
+    "updated_at": "2026-08-14T20:55:05"
   },
   {
     "name": "book-to-skill",
     "full_name": "Leutenegger/book-to-skill",
     "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
     "url": "https://github.com/Leutenegger/book-to-skill",
-    "stars": 1057,
+    "stars": 1060,
     "daily_stars": 3,
     "language": "Python",
     "topics": [
@@ -47,7 +47,7 @@
       "skill-generator"
     ],
     "created_at": "2026-08-13T13:15:23",
-    "updated_at": "2026-08-14T17:00:25"
+    "updated_at": "2026-08-14T20:06:41"
   },
   {
     "name": "mcp-server",
@@ -55,7 +55,7 @@
     "description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
     "url": "https://github.com/sv-number/mcp-server",
     "stars": 587,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -71,12 +71,34 @@
     "updated_at": "2026-08-14T15:51:19"
   },
   {
+    "name": "rakazo",
+    "full_name": "elie222/rakazo",
+    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+    "url": "https://github.com/elie222/rakazo",
+    "stars": 400,
+    "daily_stars": 15,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "docker",
+      "electron",
+      "expo",
+      "grok",
+      "llm",
+      "self-hosted",
+      "typescript"
+    ],
+    "created_at": "2026-08-13T06:28:56",
+    "updated_at": "2026-08-14T20:50:17"
+  },
+  {
     "name": "awesome-deepseek-harness",
     "full_name": "0xsline/awesome-deepseek-harness",
     "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
     "url": "https://github.com/0xsline/awesome-deepseek-harness",
-    "stars": 395,
-    "daily_stars": 35,
+    "stars": 397,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "agent",
@@ -99,29 +121,32 @@
       "plugins"
     ],
     "created_at": "2026-08-11T13:14:49",
-    "updated_at": "2026-08-14T17:28:02"
+    "updated_at": "2026-08-14T19:01:04"
   },
   {
-    "name": "rakazo",
-    "full_name": "elie222/rakazo",
-    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-    "url": "https://github.com/elie222/rakazo",
-    "stars": 385,
-    "daily_stars": 22,
+    "name": "agent-safe-pipeline",
+    "full_name": "decionis/agent-safe-pipeline",
+    "description": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
+    "url": "https://github.com/decionis/agent-safe-pipeline",
+    "stars": 363,
+    "daily_stars": 16,
     "language": "TypeScript",
     "topics": [
+      "agentic-ai",
+      "ai-agent-permissions",
       "ai-agents",
-      "chatgpt",
-      "docker",
-      "electron",
-      "expo",
-      "grok",
-      "llm",
-      "self-hosted",
+      "ai-governance",
+      "ai-safety",
+      "authorization",
+      "decionis",
+      "human-in-the-loop",
+      "mcp",
+      "policy-as-code",
+      "reference-architecture",
       "typescript"
     ],
-    "created_at": "2026-08-13T06:28:56",
-    "updated_at": "2026-08-14T17:01:54"
+    "created_at": "2026-08-13T21:36:19",
+    "updated_at": "2026-08-14T19:55:38"
   },
   {
     "name": "KADATH",
@@ -154,37 +179,12 @@
     "updated_at": "2026-08-14T07:58:36"
   },
   {
-    "name": "agent-safe-pipeline",
-    "full_name": "decionis/agent-safe-pipeline",
-    "description": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
-    "url": "https://github.com/decionis/agent-safe-pipeline",
-    "stars": 347,
-    "daily_stars": 50,
-    "language": "TypeScript",
-    "topics": [
-      "agentic-ai",
-      "ai-agent-permissions",
-      "ai-agents",
-      "ai-governance",
-      "ai-safety",
-      "authorization",
-      "decionis",
-      "human-in-the-loop",
-      "mcp",
-      "policy-as-code",
-      "reference-architecture",
-      "typescript"
-    ],
-    "created_at": "2026-08-13T21:36:19",
-    "updated_at": "2026-08-14T17:22:03"
-  },
-  {
     "name": "moli",
     "full_name": "lexmount/moli",
     "description": "Best browser for AI Agent, written in pure Rust",
     "url": "https://github.com/lexmount/moli",
-    "stars": 285,
-    "daily_stars": 6,
+    "stars": 274,
+    "daily_stars": -11,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -199,7 +199,7 @@
       "web"
     ],
     "created_at": "2026-08-10T13:20:30",
-    "updated_at": "2026-08-14T17:20:09"
+    "updated_at": "2026-08-14T20:29:12"
   },
   {
     "name": "codex-bridge",
@@ -207,7 +207,7 @@
     "description": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key.",
     "url": "https://github.com/Sateezg/codex-bridge",
     "stars": 272,
-    "daily_stars": -1,
+    "daily_stars": 0,
     "language": "Shell",
     "topics": [
       "ai-agents",
@@ -228,7 +228,7 @@
     "description": "The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
     "url": "https://github.com/surya-koritala/loomfeed",
     "stars": 213,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Go",
     "topics": [
       "ai-agents",
