@@ -4,8 +4,8 @@
     "full_name": "0xsline/awesome-deepseek-harness",
     "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
     "url": "https://github.com/0xsline/awesome-deepseek-harness",
-    "stars": 247,
-    "daily_stars": 37,
+    "stars": 302,
+    "daily_stars": 55,
     "language": "Python",
     "topics": [
       "agent",
@@ -28,15 +28,55 @@
       "plugins"
     ],
     "created_at": "2026-08-11T13:14:49",
-    "updated_at": "2026-08-14T05:55:13"
+    "updated_at": "2026-08-14T09:33:31"
+  },
+  {
+    "name": "dsh-desktop",
+    "full_name": "dataelement/dsh-desktop",
+    "description": "Desktop app for DeepSeek Harness",
+    "url": "https://github.com/dataelement/dsh-desktop",
+    "stars": 111,
+    "daily_stars": 49,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "deepseek",
+      "desktop",
+      "electron",
+      "typescript"
+    ],
+    "created_at": "2026-08-13T13:45:50",
+    "updated_at": "2026-08-14T09:32:37"
+  },
+  {
+    "name": "rakazo",
+    "full_name": "elie222/rakazo",
+    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+    "url": "https://github.com/elie222/rakazo",
+    "stars": 333,
+    "daily_stars": 43,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "docker",
+      "electron",
+      "expo",
+      "grok",
+      "llm",
+      "self-hosted",
+      "typescript"
+    ],
+    "created_at": "2026-08-13T06:28:56",
+    "updated_at": "2026-08-14T09:34:14"
   },
   {
     "name": "dsh-handbook",
     "full_name": "Electricitysheep/dsh-handbook",
     "description": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
     "url": "https://github.com/Electricitysheep/dsh-handbook",
-    "stars": 93,
-    "daily_stars": 36,
+    "stars": 135,
+    "daily_stars": 42,
     "language": "HTML",
     "topics": [
       "agent",
@@ -53,37 +93,15 @@
       "tutorial"
     ],
     "created_at": "2026-08-13T15:22:29",
-    "updated_at": "2026-08-14T05:50:54"
-  },
-  {
-    "name": "rakazo",
-    "full_name": "elie222/rakazo",
-    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-    "url": "https://github.com/elie222/rakazo",
-    "stars": 290,
-    "daily_stars": 31,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "chatgpt",
-      "docker",
-      "electron",
-      "expo",
-      "grok",
-      "llm",
-      "self-hosted",
-      "typescript"
-    ],
-    "created_at": "2026-08-13T06:28:56",
-    "updated_at": "2026-08-14T05:53:40"
+    "updated_at": "2026-08-14T09:26:48"
   },
   {
     "name": "kimi-k3-in-c",
     "full_name": "FareedKhan-dev/kimi-k3-in-c",
     "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 5501,
-    "daily_stars": 20,
+    "stars": 5530,
+    "daily_stars": 29,
     "language": "C",
     "topics": [
       "avx2",
@@ -108,37 +126,15 @@
       "zero-dependencies"
     ],
     "created_at": "2026-08-01T09:29:38",
-    "updated_at": "2026-08-14T05:54:13"
-  },
-  {
-    "name": "multi-agent-workflow-lab",
-    "full_name": "christiangrey922/multi-agent-workflow-lab",
-    "description": "Testing and observability for multi-agent delegation, MCP tools, permissions, sandboxed actions, prompts, and workflow replay.",
-    "url": "https://github.com/christiangrey922/multi-agent-workflow-lab",
-    "stars": 83,
-    "daily_stars": 18,
-    "language": "TypeScript",
-    "topics": [
-      "agent-orchestration",
-      "agent-security",
-      "agent-testing",
-      "ai-agent",
-      "ai-agents",
-      "ai-security",
-      "mcp",
-      "model-context-protocol",
-      "multi-agent"
-    ],
-    "created_at": "2026-08-12T09:04:07",
-    "updated_at": "2026-08-14T05:11:13"
+    "updated_at": "2026-08-14T09:33:44"
   },
   {
     "name": "video-shotcraft",
     "full_name": "Vincentwei1021/video-shotcraft",
     "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
     "url": "https://github.com/Vincentwei1021/video-shotcraft",
-    "stars": 4959,
-    "daily_stars": 13,
+    "stars": 4981,
+    "daily_stars": 22,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -157,15 +153,38 @@
       "video-production"
     ],
     "created_at": "2026-07-19T11:44:41",
-    "updated_at": "2026-08-14T05:35:59"
+    "updated_at": "2026-08-14T09:31:02"
+  },
+  {
+    "name": "skill-recorder",
+    "full_name": "microsoft/skill-recorder",
+    "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
+    "url": "https://github.com/microsoft/skill-recorder",
+    "stars": 3091,
+    "daily_stars": 16,
+    "language": "TypeScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "automation",
+      "copilot",
+      "copilot-cli",
+      "copilot-cowork",
+      "copilot-studio",
+      "electron",
+      "microsoft-scout",
+      "screen-recording"
+    ],
+    "created_at": "2026-07-29T18:16:14",
+    "updated_at": "2026-08-14T09:24:51"
   },
   {
     "name": "thinking-orbs",
     "full_name": "Jakubantalik/thinking-orbs",
     "description": "Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light",
     "url": "https://github.com/Jakubantalik/thinking-orbs",
-    "stars": 2358,
-    "daily_stars": 13,
+    "stars": 2374,
+    "daily_stars": 16,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -176,32 +195,35 @@
       "ux"
     ],
     "created_at": "2026-07-21T07:01:53",
-    "updated_at": "2026-08-14T05:42:08"
+    "updated_at": "2026-08-14T09:20:11"
   },
   {
-    "name": "old-coder",
-    "full_name": "AmazingAng/old-coder",
-    "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
-    "url": "https://github.com/AmazingAng/old-coder",
-    "stars": 404,
-    "daily_stars": 13,
-    "language": "Python",
+    "name": "memorax-code",
+    "full_name": "memorax-ai/memorax-code",
+    "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
+    "url": "https://github.com/memorax-ai/memorax-code",
+    "stars": 542,
+    "daily_stars": 12,
+    "language": "JavaScript",
     "topics": [
       "ai-agents",
       "claude-code",
-      "skills",
-      "tdd"
+      "codex",
+      "coding-memory",
+      "developer-tools",
+      "memorax",
+      "typescript"
     ],
-    "created_at": "2026-07-27T05:03:11",
-    "updated_at": "2026-08-14T05:30:11"
+    "created_at": "2026-08-01T02:13:37",
+    "updated_at": "2026-08-14T09:16:10"
   },
   {
     "name": "book-to-skill",
     "full_name": "Leutenegger/book-to-skill",
     "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
     "url": "https://github.com/Leutenegger/book-to-skill",
-    "stars": 1041,
-    "daily_stars": 10,
+    "stars": 1050,
+    "daily_stars": 9,
     "language": "Python",
     "topics": [
       "agent",
@@ -226,28 +248,6 @@
       "skill-generator"
     ],
     "created_at": "2026-08-13T13:15:23",
-    "updated_at": "2026-08-14T05:51:37"
-  },
-  {
-    "name": "axern",
-    "full_name": "cofy-x/axern",
-    "description": "Open-source sandboxes for AI agents, untrusted code execution, and durable services.",
-    "url": "https://github.com/cofy-x/axern",
-    "stars": 263,
-    "daily_stars": 10,
-    "language": "Go",
-    "topics": [
-      "agent-sandbox",
-      "agentic-infrastructure",
-      "ai-agents",
-      "cloud-native",
-      "code-execution",
-      "kubernetes",
-      "remote-execution",
-      "sandbox",
-      "self-hosted"
-    ],
-    "created_at": "2026-07-28T05:45:33",
-    "updated_at": "2026-08-14T05:43:02"
+    "updated_at": "2026-08-14T08:32:27"
   }
 ]
