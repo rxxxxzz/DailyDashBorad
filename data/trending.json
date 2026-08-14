@@ -1,11 +1,36 @@
 [
   {
+    "name": "agent-safe-pipeline",
+    "full_name": "decionis/agent-safe-pipeline",
+    "description": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
+    "url": "https://github.com/decionis/agent-safe-pipeline",
+    "stars": 297,
+    "daily_stars": 112,
+    "language": "TypeScript",
+    "topics": [
+      "agentic-ai",
+      "ai-agent-permissions",
+      "ai-agents",
+      "ai-governance",
+      "ai-safety",
+      "authorization",
+      "decionis",
+      "human-in-the-loop",
+      "mcp",
+      "policy-as-code",
+      "reference-architecture",
+      "typescript"
+    ],
+    "created_at": "2026-08-13T21:36:19",
+    "updated_at": "2026-08-14T13:46:33"
+  },
+  {
     "name": "awesome-deepseek-harness",
     "full_name": "0xsline/awesome-deepseek-harness",
     "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
     "url": "https://github.com/0xsline/awesome-deepseek-harness",
-    "stars": 302,
-    "daily_stars": 55,
+    "stars": 360,
+    "daily_stars": 58,
     "language": "Python",
     "topics": [
       "agent",
@@ -28,80 +53,15 @@
       "plugins"
     ],
     "created_at": "2026-08-11T13:14:49",
-    "updated_at": "2026-08-14T09:33:31"
-  },
-  {
-    "name": "dsh-desktop",
-    "full_name": "dataelement/dsh-desktop",
-    "description": "Desktop app for DeepSeek Harness",
-    "url": "https://github.com/dataelement/dsh-desktop",
-    "stars": 111,
-    "daily_stars": 49,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "deepseek",
-      "desktop",
-      "electron",
-      "typescript"
-    ],
-    "created_at": "2026-08-13T13:45:50",
-    "updated_at": "2026-08-14T09:32:37"
-  },
-  {
-    "name": "rakazo",
-    "full_name": "elie222/rakazo",
-    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-    "url": "https://github.com/elie222/rakazo",
-    "stars": 333,
-    "daily_stars": 43,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "chatgpt",
-      "docker",
-      "electron",
-      "expo",
-      "grok",
-      "llm",
-      "self-hosted",
-      "typescript"
-    ],
-    "created_at": "2026-08-13T06:28:56",
-    "updated_at": "2026-08-14T09:34:14"
-  },
-  {
-    "name": "dsh-handbook",
-    "full_name": "Electricitysheep/dsh-handbook",
-    "description": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
-    "url": "https://github.com/Electricitysheep/dsh-handbook",
-    "stars": 135,
-    "daily_stars": 42,
-    "language": "HTML",
-    "topics": [
-      "agent",
-      "agent-framework",
-      "ai-agents",
-      "beginners",
-      "deepseek",
-      "deepseek-ai",
-      "dsh-plugin",
-      "getting-started",
-      "guide",
-      "harness",
-      "llm",
-      "tutorial"
-    ],
-    "created_at": "2026-08-13T15:22:29",
-    "updated_at": "2026-08-14T09:26:48"
+    "updated_at": "2026-08-14T13:51:00"
   },
   {
     "name": "kimi-k3-in-c",
     "full_name": "FareedKhan-dev/kimi-k3-in-c",
     "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 5530,
-    "daily_stars": 29,
+    "stars": 5571,
+    "daily_stars": 41,
     "language": "C",
     "topics": [
       "avx2",
@@ -126,15 +86,119 @@
       "zero-dependencies"
     ],
     "created_at": "2026-08-01T09:29:38",
-    "updated_at": "2026-08-14T09:33:44"
+    "updated_at": "2026-08-14T13:50:57"
+  },
+  {
+    "name": "thinking-orbs",
+    "full_name": "Jakubantalik/thinking-orbs",
+    "description": "Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light",
+    "url": "https://github.com/Jakubantalik/thinking-orbs",
+    "stars": 2406,
+    "daily_stars": 32,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "chat",
+      "loader",
+      "ui",
+      "ux"
+    ],
+    "created_at": "2026-07-21T07:01:53",
+    "updated_at": "2026-08-14T13:33:11"
+  },
+  {
+    "name": "dsh-handbook",
+    "full_name": "Electricitysheep/dsh-handbook",
+    "description": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
+    "url": "https://github.com/Electricitysheep/dsh-handbook",
+    "stars": 167,
+    "daily_stars": 32,
+    "language": "HTML",
+    "topics": [
+      "agent",
+      "agent-framework",
+      "ai-agents",
+      "beginners",
+      "deepseek",
+      "deepseek-ai",
+      "dsh-plugin",
+      "getting-started",
+      "guide",
+      "harness",
+      "llm",
+      "tutorial"
+    ],
+    "created_at": "2026-08-13T15:22:29",
+    "updated_at": "2026-08-14T13:51:04"
+  },
+  {
+    "name": "rakazo",
+    "full_name": "elie222/rakazo",
+    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+    "url": "https://github.com/elie222/rakazo",
+    "stars": 363,
+    "daily_stars": 30,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "docker",
+      "electron",
+      "expo",
+      "grok",
+      "llm",
+      "self-hosted",
+      "typescript"
+    ],
+    "created_at": "2026-08-13T06:28:56",
+    "updated_at": "2026-08-14T13:49:47"
+  },
+  {
+    "name": "dsh-desktop",
+    "full_name": "dataelement/dsh-desktop",
+    "description": "Desktop app for DeepSeek Harness",
+    "url": "https://github.com/dataelement/dsh-desktop",
+    "stars": 140,
+    "daily_stars": 29,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "deepseek",
+      "desktop",
+      "electron",
+      "typescript"
+    ],
+    "created_at": "2026-08-13T13:45:50",
+    "updated_at": "2026-08-14T13:49:49"
+  },
+  {
+    "name": "memorax-code",
+    "full_name": "memorax-ai/memorax-code",
+    "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
+    "url": "https://github.com/memorax-ai/memorax-code",
+    "stars": 566,
+    "daily_stars": 24,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-memory",
+      "developer-tools",
+      "memorax",
+      "typescript"
+    ],
+    "created_at": "2026-08-01T02:13:37",
+    "updated_at": "2026-08-14T13:45:15"
   },
   {
     "name": "video-shotcraft",
     "full_name": "Vincentwei1021/video-shotcraft",
     "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
     "url": "https://github.com/Vincentwei1021/video-shotcraft",
-    "stars": 4981,
-    "daily_stars": 22,
+    "stars": 4993,
+    "daily_stars": 12,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -153,101 +217,24 @@
       "video-production"
     ],
     "created_at": "2026-07-19T11:44:41",
-    "updated_at": "2026-08-14T09:31:02"
+    "updated_at": "2026-08-14T13:39:44"
   },
   {
-    "name": "skill-recorder",
-    "full_name": "microsoft/skill-recorder",
-    "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
-    "url": "https://github.com/microsoft/skill-recorder",
-    "stars": 3091,
-    "daily_stars": 16,
-    "language": "TypeScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "automation",
-      "copilot",
-      "copilot-cli",
-      "copilot-cowork",
-      "copilot-studio",
-      "electron",
-      "microsoft-scout",
-      "screen-recording"
-    ],
-    "created_at": "2026-07-29T18:16:14",
-    "updated_at": "2026-08-14T09:24:51"
-  },
-  {
-    "name": "thinking-orbs",
-    "full_name": "Jakubantalik/thinking-orbs",
-    "description": "Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light",
-    "url": "https://github.com/Jakubantalik/thinking-orbs",
-    "stars": 2374,
-    "daily_stars": 16,
-    "language": "TypeScript",
+    "name": "wai-play",
+    "full_name": "waiterve/wai-play",
+    "description": "WAI Play - AI web game testing and quality evaluation platform",
+    "url": "https://github.com/waiterve/wai-play",
+    "stars": 469,
+    "daily_stars": 12,
+    "language": "Python",
     "topics": [
       "ai",
       "ai-agents",
-      "chat",
-      "loader",
-      "ui",
-      "ux"
+      "game",
+      "game-testing",
+      "python"
     ],
-    "created_at": "2026-07-21T07:01:53",
-    "updated_at": "2026-08-14T09:20:11"
-  },
-  {
-    "name": "memorax-code",
-    "full_name": "memorax-ai/memorax-code",
-    "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
-    "url": "https://github.com/memorax-ai/memorax-code",
-    "stars": 542,
-    "daily_stars": 12,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "codex",
-      "coding-memory",
-      "developer-tools",
-      "memorax",
-      "typescript"
-    ],
-    "created_at": "2026-08-01T02:13:37",
-    "updated_at": "2026-08-14T09:16:10"
-  },
-  {
-    "name": "book-to-skill",
-    "full_name": "Leutenegger/book-to-skill",
-    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-    "url": "https://github.com/Leutenegger/book-to-skill",
-    "stars": 1050,
-    "daily_stars": 9,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agent-memory",
-      "agent-skill",
-      "agent-skills",
-      "agentic",
-      "agentic-ai",
-      "agents",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "claude-code-plugin",
-      "claude-skills",
-      "github-copilot",
-      "pdf",
-      "pdf-document",
-      "pdf-generation",
-      "pdf-parser",
-      "pdf-tools",
-      "pdf-viewer",
-      "skill-generator"
-    ],
-    "created_at": "2026-08-13T13:15:23",
-    "updated_at": "2026-08-14T08:32:27"
+    "created_at": "2026-08-04T07:20:22",
+    "updated_at": "2026-08-14T13:52:40"
   }
 ]

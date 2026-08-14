@@ -1,11 +1,28 @@
 [
   {
+    "name": "deepseek-harness",
+    "full_name": "deepseek-ai/deepseek-harness",
+    "description": "DeepSeek Harness: Everything is a Plugin.",
+    "url": "https://github.com/deepseek-ai/deepseek-harness",
+    "stars": 89312,
+    "daily_stars": 0,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "cordis",
+      "dsh",
+      "dsh-plugin"
+    ],
+    "created_at": "2026-08-13T11:56:32",
+    "updated_at": "2026-08-14T13:52:50"
+  },
+  {
     "name": "book-to-skill",
     "full_name": "Leutenegger/book-to-skill",
     "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
     "url": "https://github.com/Leutenegger/book-to-skill",
-    "stars": 1050,
-    "daily_stars": 9,
+    "stars": 1054,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "agent",
@@ -30,14 +47,14 @@
       "skill-generator"
     ],
     "created_at": "2026-08-13T13:15:23",
-    "updated_at": "2026-08-14T08:32:27"
+    "updated_at": "2026-08-14T13:00:30"
   },
   {
     "name": "mcp-server",
     "full_name": "sv-number/mcp-server",
     "description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
     "url": "https://github.com/sv-number/mcp-server",
-    "stars": 579,
+    "stars": 586,
     "daily_stars": 7,
     "language": "JavaScript",
     "topics": [
@@ -51,7 +68,60 @@
       "typescript"
     ],
     "created_at": "2026-08-07T11:13:26",
-    "updated_at": "2026-08-14T09:07:12"
+    "updated_at": "2026-08-14T13:50:11"
+  },
+  {
+    "name": "rakazo",
+    "full_name": "elie222/rakazo",
+    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+    "url": "https://github.com/elie222/rakazo",
+    "stars": 363,
+    "daily_stars": 30,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "docker",
+      "electron",
+      "expo",
+      "grok",
+      "llm",
+      "self-hosted",
+      "typescript"
+    ],
+    "created_at": "2026-08-13T06:28:56",
+    "updated_at": "2026-08-14T13:49:47"
+  },
+  {
+    "name": "awesome-deepseek-harness",
+    "full_name": "0xsline/awesome-deepseek-harness",
+    "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+    "url": "https://github.com/0xsline/awesome-deepseek-harness",
+    "stars": 360,
+    "daily_stars": 58,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "awesome",
+      "awesome-list",
+      "coding-assistant",
+      "curated-list",
+      "deepseek",
+      "deepseek-harness",
+      "developer-tools",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugins",
+      "harness",
+      "llm",
+      "mcp",
+      "plugins"
+    ],
+    "created_at": "2026-08-11T13:14:49",
+    "updated_at": "2026-08-14T13:51:00"
   },
   {
     "name": "KADATH",
@@ -59,7 +129,7 @@
     "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
     "url": "https://github.com/i3T4AN/KADATH",
     "stars": 351,
-    "daily_stars": 2,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "agent-evaluation-tools",
@@ -84,57 +154,52 @@
     "updated_at": "2026-08-14T07:58:36"
   },
   {
-    "name": "rakazo",
-    "full_name": "elie222/rakazo",
-    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-    "url": "https://github.com/elie222/rakazo",
-    "stars": 333,
-    "daily_stars": 43,
+    "name": "agent-safe-pipeline",
+    "full_name": "decionis/agent-safe-pipeline",
+    "description": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
+    "url": "https://github.com/decionis/agent-safe-pipeline",
+    "stars": 297,
+    "daily_stars": 112,
     "language": "TypeScript",
     "topics": [
+      "agentic-ai",
+      "ai-agent-permissions",
       "ai-agents",
-      "chatgpt",
-      "docker",
-      "electron",
-      "expo",
-      "grok",
-      "llm",
-      "self-hosted",
+      "ai-governance",
+      "ai-safety",
+      "authorization",
+      "decionis",
+      "human-in-the-loop",
+      "mcp",
+      "policy-as-code",
+      "reference-architecture",
       "typescript"
     ],
-    "created_at": "2026-08-13T06:28:56",
-    "updated_at": "2026-08-14T09:34:14"
+    "created_at": "2026-08-13T21:36:19",
+    "updated_at": "2026-08-14T13:46:33"
   },
   {
-    "name": "awesome-deepseek-harness",
-    "full_name": "0xsline/awesome-deepseek-harness",
-    "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-    "url": "https://github.com/0xsline/awesome-deepseek-harness",
-    "stars": 302,
-    "daily_stars": 55,
-    "language": "Python",
+    "name": "moli",
+    "full_name": "lexmount/moli",
+    "description": "Best browser for AI Agent, written in pure Rust",
+    "url": "https://github.com/lexmount/moli",
+    "stars": 279,
+    "daily_stars": 8,
+    "language": "Rust",
     "topics": [
-      "agent",
-      "ai",
       "ai-agents",
       "ai-tools",
-      "awesome",
-      "awesome-list",
-      "coding-assistant",
-      "curated-list",
-      "deepseek",
-      "deepseek-harness",
-      "developer-tools",
-      "dsh",
-      "dsh-plugin",
-      "dsh-plugins",
-      "harness",
-      "llm",
-      "mcp",
-      "plugins"
+      "browser",
+      "browser-automation",
+      "cloud-browser",
+      "playwright",
+      "puppeteer",
+      "rust",
+      "servo",
+      "web"
     ],
-    "created_at": "2026-08-11T13:14:49",
-    "updated_at": "2026-08-14T09:33:31"
+    "created_at": "2026-08-10T13:20:30",
+    "updated_at": "2026-08-14T13:39:45"
   },
   {
     "name": "codex-bridge",
@@ -158,29 +223,6 @@
     "updated_at": "2026-08-13T18:20:02"
   },
   {
-    "name": "moli",
-    "full_name": "lexmount/moli",
-    "description": "Best browser for AI Agent, written in pure Rust",
-    "url": "https://github.com/lexmount/moli",
-    "stars": 271,
-    "daily_stars": 4,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "browser",
-      "browser-automation",
-      "cloud-browser",
-      "playwright",
-      "puppeteer",
-      "rust",
-      "servo",
-      "web"
-    ],
-    "created_at": "2026-08-10T13:20:30",
-    "updated_at": "2026-08-14T09:26:14"
-  },
-  {
     "name": "loomfeed",
     "full_name": "surya-koritala/loomfeed",
     "description": "The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
@@ -200,55 +242,5 @@
     ],
     "created_at": "2026-08-09T19:28:09",
     "updated_at": "2026-08-13T14:01:02"
-  },
-  {
-    "name": "agent-safe-pipeline",
-    "full_name": "decionis/agent-safe-pipeline",
-    "description": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
-    "url": "https://github.com/decionis/agent-safe-pipeline",
-    "stars": 185,
-    "daily_stars": 0,
-    "language": "TypeScript",
-    "topics": [
-      "agentic-ai",
-      "ai-agent-permissions",
-      "ai-agents",
-      "ai-governance",
-      "ai-safety",
-      "authorization",
-      "decionis",
-      "human-in-the-loop",
-      "mcp",
-      "policy-as-code",
-      "reference-architecture",
-      "typescript"
-    ],
-    "created_at": "2026-08-13T21:36:19",
-    "updated_at": "2026-08-14T09:35:33"
-  },
-  {
-    "name": "dsh-handbook",
-    "full_name": "Electricitysheep/dsh-handbook",
-    "description": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
-    "url": "https://github.com/Electricitysheep/dsh-handbook",
-    "stars": 135,
-    "daily_stars": 42,
-    "language": "HTML",
-    "topics": [
-      "agent",
-      "agent-framework",
-      "ai-agents",
-      "beginners",
-      "deepseek",
-      "deepseek-ai",
-      "dsh-plugin",
-      "getting-started",
-      "guide",
-      "harness",
-      "llm",
-      "tutorial"
-    ],
-    "created_at": "2026-08-13T15:22:29",
-    "updated_at": "2026-08-14T09:26:48"
   }
 ]
