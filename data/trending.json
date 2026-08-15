@@ -4,8 +4,8 @@
     "full_name": "deepseek-ai/deepseek-harness",
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 112526,
-    "daily_stars": 4002,
+    "stars": 114211,
+    "daily_stars": 1685,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -14,32 +14,34 @@
       "dsh-plugin"
     ],
     "created_at": "2026-08-13T11:56:32",
-    "updated_at": "2026-08-15T16:49:54"
+    "updated_at": "2026-08-15T20:47:47"
   },
   {
-    "name": "old-coder",
-    "full_name": "AmazingAng/old-coder",
-    "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
-    "url": "https://github.com/AmazingAng/old-coder",
-    "stars": 573,
-    "daily_stars": 50,
-    "language": "Python",
+    "name": "vibe-coding-toolkit",
+    "full_name": "soumatheusgomes/vibe-coding-toolkit",
+    "description": "A curated, battle-tested AI-coding toolkit: Claude Code plugins, subagent orchestration, quality gates, and ready-to-copy prompts, extracted from real production use.",
+    "url": "https://github.com/soumatheusgomes/vibe-coding-toolkit",
+    "stars": 103,
+    "daily_stars": 41,
+    "language": null,
     "topics": [
       "ai-agents",
+      "ai-coding",
       "claude-code",
-      "skills",
-      "tdd"
+      "developer-tools",
+      "llm-agents",
+      "prompts"
     ],
-    "created_at": "2026-07-27T05:03:11",
-    "updated_at": "2026-08-15T16:37:15"
+    "created_at": "2026-08-14T23:41:31",
+    "updated_at": "2026-08-15T20:43:22"
   },
   {
     "name": "kimi-k3-in-c",
     "full_name": "FareedKhan-dev/kimi-k3-in-c",
     "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 5719,
-    "daily_stars": 31,
+    "stars": 5740,
+    "daily_stars": 21,
     "language": "C",
     "topics": [
       "avx2",
@@ -64,15 +66,94 @@
       "zero-dependencies"
     ],
     "created_at": "2026-08-01T09:29:38",
-    "updated_at": "2026-08-15T16:40:55"
+    "updated_at": "2026-08-15T20:43:59"
+  },
+  {
+    "name": "memorax-code",
+    "full_name": "memorax-ai/memorax-code",
+    "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
+    "url": "https://github.com/memorax-ai/memorax-code",
+    "stars": 381,
+    "daily_stars": 15,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-memory",
+      "developer-tools",
+      "memorax",
+      "typescript"
+    ],
+    "created_at": "2026-08-01T02:13:37",
+    "updated_at": "2026-08-15T19:32:42"
+  },
+  {
+    "name": "dsh-desktop",
+    "full_name": "dataelement/dsh-desktop",
+    "description": "Desktop app for DeepSeek Harness",
+    "url": "https://github.com/dataelement/dsh-desktop",
+    "stars": 250,
+    "daily_stars": 14,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "deepseek",
+      "desktop",
+      "electron",
+      "typescript"
+    ],
+    "created_at": "2026-08-13T13:45:50",
+    "updated_at": "2026-08-15T20:37:40"
+  },
+  {
+    "name": "moli",
+    "full_name": "lexmount/moli",
+    "description": "Best browser for AI Agent, written in pure Rust",
+    "url": "https://github.com/lexmount/moli",
+    "stars": 336,
+    "daily_stars": 13,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "browser",
+      "browser-automation",
+      "cloud-browser",
+      "playwright",
+      "puppeteer",
+      "rust",
+      "servo",
+      "web"
+    ],
+    "created_at": "2026-08-10T13:20:30",
+    "updated_at": "2026-08-15T20:31:00"
+  },
+  {
+    "name": "wai-play",
+    "full_name": "waiterve/wai-play",
+    "description": "WAI Play - AI web game testing and quality evaluation platform",
+    "url": "https://github.com/waiterve/wai-play",
+    "stars": 178,
+    "daily_stars": 11,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "game",
+      "game-testing",
+      "python"
+    ],
+    "created_at": "2026-08-04T07:20:22",
+    "updated_at": "2026-08-15T19:26:50"
   },
   {
     "name": "video-shotcraft",
     "full_name": "Vincentwei1021/video-shotcraft",
     "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
     "url": "https://github.com/Vincentwei1021/video-shotcraft",
-    "stars": 5123,
-    "daily_stars": 25,
+    "stars": 5133,
+    "daily_stars": 10,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -91,155 +172,53 @@
       "video-production"
     ],
     "created_at": "2026-07-19T11:44:41",
-    "updated_at": "2026-08-15T16:38:02"
+    "updated_at": "2026-08-15T20:43:16"
   },
   {
-    "name": "awesome-deepseek-harness",
-    "full_name": "0xsline/awesome-deepseek-harness",
-    "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-    "url": "https://github.com/0xsline/awesome-deepseek-harness",
-    "stars": 480,
-    "daily_stars": 22,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agents",
-      "ai-tools",
-      "awesome",
-      "awesome-list",
-      "coding-assistant",
-      "curated-list",
-      "deepseek",
-      "deepseek-harness",
-      "developer-tools",
-      "dsh",
-      "dsh-plugin",
-      "dsh-plugins",
-      "harness",
-      "llm",
-      "mcp",
-      "plugins"
-    ],
-    "created_at": "2026-08-11T13:14:49",
-    "updated_at": "2026-08-15T16:42:51"
-  },
-  {
-    "name": "dsh-desktop",
-    "full_name": "dataelement/dsh-desktop",
-    "description": "Desktop app for DeepSeek Harness",
-    "url": "https://github.com/dataelement/dsh-desktop",
-    "stars": 236,
-    "daily_stars": 17,
+    "name": "rakazo",
+    "full_name": "elie222/rakazo",
+    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+    "url": "https://github.com/elie222/rakazo",
+    "stars": 476,
+    "daily_stars": 10,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "deepseek",
-      "desktop",
+      "chatgpt",
+      "docker",
       "electron",
+      "expo",
+      "grok",
+      "llm",
+      "self-hosted",
       "typescript"
     ],
-    "created_at": "2026-08-13T13:45:50",
-    "updated_at": "2026-08-15T16:43:27"
+    "created_at": "2026-08-13T06:28:56",
+    "updated_at": "2026-08-15T20:34:00"
   },
   {
-    "name": "book-to-skill",
-    "full_name": "Leutenegger/book-to-skill",
-    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-    "url": "https://github.com/Leutenegger/book-to-skill",
-    "stars": 1112,
-    "daily_stars": 16,
-    "language": "Python",
+    "name": "agent-safe-pipeline",
+    "full_name": "decionis/agent-safe-pipeline",
+    "description": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
+    "url": "https://github.com/decionis/agent-safe-pipeline",
+    "stars": 437,
+    "daily_stars": 10,
+    "language": "TypeScript",
     "topics": [
-      "agent",
-      "agent-memory",
-      "agent-skill",
-      "agent-skills",
-      "agentic",
       "agentic-ai",
-      "agents",
+      "ai-agent-permissions",
       "ai-agents",
-      "claude",
-      "claude-code",
-      "claude-code-plugin",
-      "claude-skills",
-      "github-copilot",
-      "pdf",
-      "pdf-document",
-      "pdf-generation",
-      "pdf-parser",
-      "pdf-tools",
-      "pdf-viewer",
-      "skill-generator"
-    ],
-    "created_at": "2026-08-13T13:15:23",
-    "updated_at": "2026-08-15T16:42:43"
-  },
-  {
-    "name": "dsh-handbook",
-    "full_name": "Electricitysheep/dsh-handbook",
-    "description": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
-    "url": "https://github.com/Electricitysheep/dsh-handbook",
-    "stars": 286,
-    "daily_stars": 14,
-    "language": "HTML",
-    "topics": [
-      "agent",
-      "agent-framework",
-      "ai-agents",
-      "beginners",
-      "deepseek",
-      "deepseek-ai",
-      "dsh-plugin",
-      "getting-started",
-      "guide",
-      "harness",
-      "llm",
-      "tutorial"
-    ],
-    "created_at": "2026-08-13T15:22:29",
-    "updated_at": "2026-08-15T16:49:16"
-  },
-  {
-    "name": "caspian-sdk",
-    "full_name": "TryCaspian/caspian-sdk",
-    "description": "One identity for your AI agent across every channel humans use: Slack, Discord, Telegram, Instagram, email, X, behind a single on_message handler. Channel adapters + SDK + CLI.",
-    "url": "https://github.com/TryCaspian/caspian-sdk",
-    "stars": 713,
-    "daily_stars": 13,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "communication",
-      "discord",
-      "messaging",
-      "sdk",
-      "slack",
-      "telegram"
-    ],
-    "created_at": "2026-07-20T10:47:56",
-    "updated_at": "2026-08-15T16:42:05"
-  },
-  {
-    "name": "human-review",
-    "full_name": "petergyang/human-review",
-    "description": "A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.",
-    "url": "https://github.com/petergyang/human-review",
-    "stars": 991,
-    "daily_stars": 12,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "cli",
-      "codex",
-      "feedback",
-      "html",
+      "ai-governance",
+      "ai-safety",
+      "authorization",
+      "decionis",
       "human-in-the-loop",
-      "markdown",
-      "review"
+      "mcp",
+      "policy-as-code",
+      "reference-architecture",
+      "typescript"
     ],
-    "created_at": "2026-07-27T14:58:36",
-    "updated_at": "2026-08-15T16:42:29"
+    "created_at": "2026-08-13T21:36:19",
+    "updated_at": "2026-08-15T20:14:49"
   }
 ]
