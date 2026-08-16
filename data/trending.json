@@ -4,8 +4,8 @@
     "full_name": "deepseek-ai/deepseek-harness",
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 118904,
-    "daily_stars": 2578,
+    "stars": 122485,
+    "daily_stars": 3581,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -14,15 +14,15 @@
       "dsh-plugin"
     ],
     "created_at": "2026-08-13T11:56:32",
-    "updated_at": "2026-08-16T05:00:18"
+    "updated_at": "2026-08-16T08:56:23"
   },
   {
     "name": "dsh-desktop",
     "full_name": "dataelement/dsh-desktop",
     "description": "Desktop app for DeepSeek Harness",
     "url": "https://github.com/dataelement/dsh-desktop",
-    "stars": 338,
-    "daily_stars": 54,
+    "stars": 393,
+    "daily_stars": 55,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -32,15 +32,15 @@
       "typescript"
     ],
     "created_at": "2026-08-13T13:45:50",
-    "updated_at": "2026-08-16T04:49:00"
+    "updated_at": "2026-08-16T08:45:46"
   },
   {
     "name": "unlazy",
     "full_name": "Leonxlnx/unlazy",
     "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
     "url": "https://github.com/Leonxlnx/unlazy",
-    "stars": 93,
-    "daily_stars": 25,
+    "stars": 127,
+    "daily_stars": 34,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -52,15 +52,65 @@
       "skill"
     ],
     "created_at": "2026-08-09T23:39:12",
-    "updated_at": "2026-08-16T04:57:41"
+    "updated_at": "2026-08-16T08:53:11"
+  },
+  {
+    "name": "video-shotcraft",
+    "full_name": "Vincentwei1021/video-shotcraft",
+    "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+    "url": "https://github.com/Vincentwei1021/video-shotcraft",
+    "stars": 5184,
+    "daily_stars": 22,
+    "language": "TypeScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-video",
+      "claude-code",
+      "claude-code-skills",
+      "claude-skills",
+      "codex",
+      "motion-design",
+      "motion-graphics",
+      "product-video",
+      "promo-video",
+      "remotion",
+      "video-generation",
+      "video-production"
+    ],
+    "created_at": "2026-07-19T11:44:41",
+    "updated_at": "2026-08-16T08:52:41"
+  },
+  {
+    "name": "moli",
+    "full_name": "lexmount/moli",
+    "description": "Best browser for AI Agent, written in pure Rust",
+    "url": "https://github.com/lexmount/moli",
+    "stars": 374,
+    "daily_stars": 20,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "browser",
+      "browser-automation",
+      "cloud-browser",
+      "playwright",
+      "puppeteer",
+      "rust",
+      "servo",
+      "web"
+    ],
+    "created_at": "2026-08-10T13:20:30",
+    "updated_at": "2026-08-16T08:56:19"
   },
   {
     "name": "awesome-deepseek-harness",
     "full_name": "0xsline/awesome-deepseek-harness",
     "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
     "url": "https://github.com/0xsline/awesome-deepseek-harness",
-    "stars": 519,
-    "daily_stars": 22,
+    "stars": 538,
+    "daily_stars": 19,
     "language": "Python",
     "topics": [
       "agent",
@@ -83,42 +133,15 @@
       "plugins"
     ],
     "created_at": "2026-08-11T13:14:49",
-    "updated_at": "2026-08-16T04:56:05"
-  },
-  {
-    "name": "video-shotcraft",
-    "full_name": "Vincentwei1021/video-shotcraft",
-    "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-    "url": "https://github.com/Vincentwei1021/video-shotcraft",
-    "stars": 5162,
-    "daily_stars": 14,
-    "language": "TypeScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "ai-video",
-      "claude-code",
-      "claude-code-skills",
-      "claude-skills",
-      "codex",
-      "motion-design",
-      "motion-graphics",
-      "product-video",
-      "promo-video",
-      "remotion",
-      "video-generation",
-      "video-production"
-    ],
-    "created_at": "2026-07-19T11:44:41",
-    "updated_at": "2026-08-16T04:43:27"
+    "updated_at": "2026-08-16T08:46:45"
   },
   {
     "name": "dsh-handbook",
     "full_name": "Electricitysheep/dsh-handbook",
     "description": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
     "url": "https://github.com/Electricitysheep/dsh-handbook",
-    "stars": 305,
-    "daily_stars": 13,
+    "stars": 323,
+    "daily_stars": 18,
     "language": "HTML",
     "topics": [
       "agent",
@@ -135,40 +158,48 @@
       "tutorial"
     ],
     "created_at": "2026-08-13T15:22:29",
-    "updated_at": "2026-08-16T04:11:50"
+    "updated_at": "2026-08-16T08:55:36"
   },
   {
-    "name": "agent-safe-pipeline",
-    "full_name": "decionis/agent-safe-pipeline",
-    "description": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
-    "url": "https://github.com/decionis/agent-safe-pipeline",
-    "stars": 457,
-    "daily_stars": 10,
-    "language": "TypeScript",
+    "name": "sloptrim",
+    "full_name": "seyedehsanhadi/sloptrim",
+    "description": "A local detector for AI-writing patterns. Scores every prose file your agent saves. Python standard library only, no network, no model.",
+    "url": "https://github.com/seyedehsanhadi/sloptrim",
+    "stars": 109,
+    "daily_stars": 13,
+    "language": "Python",
     "topics": [
-      "agentic-ai",
-      "ai-agent-permissions",
       "ai-agents",
-      "ai-governance",
-      "ai-safety",
-      "authorization",
-      "decionis",
-      "human-in-the-loop",
-      "mcp",
-      "policy-as-code",
-      "reference-architecture",
-      "typescript"
+      "ai-slop",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-plugins-marketplace",
+      "claude-code-skills",
+      "de-slop",
+      "developer-tools",
+      "docx",
+      "humanizer",
+      "linter",
+      "llm",
+      "markdown",
+      "prose-linter",
+      "python",
+      "stylometry",
+      "text-analysis",
+      "writing-quality",
+      "writing-tools",
+      "zero-dependency"
     ],
-    "created_at": "2026-08-13T21:36:19",
-    "updated_at": "2026-08-16T04:56:57"
+    "created_at": "2026-08-13T08:09:10",
+    "updated_at": "2026-08-16T08:46:03"
   },
   {
     "name": "kimi-k3-in-c",
     "full_name": "FareedKhan-dev/kimi-k3-in-c",
     "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 5771,
-    "daily_stars": 10,
+    "stars": 5782,
+    "daily_stars": 11,
     "language": "C",
     "topics": [
       "avx2",
@@ -193,51 +224,31 @@
       "zero-dependencies"
     ],
     "created_at": "2026-08-01T09:29:38",
-    "updated_at": "2026-08-16T04:56:22"
+    "updated_at": "2026-08-16T08:46:26"
   },
   {
-    "name": "moli",
-    "full_name": "lexmount/moli",
-    "description": "Best browser for AI Agent, written in pure Rust",
-    "url": "https://github.com/lexmount/moli",
-    "stars": 354,
+    "name": "agent-safe-pipeline",
+    "full_name": "decionis/agent-safe-pipeline",
+    "description": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
+    "url": "https://github.com/decionis/agent-safe-pipeline",
+    "stars": 466,
     "daily_stars": 9,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "browser",
-      "browser-automation",
-      "cloud-browser",
-      "playwright",
-      "puppeteer",
-      "rust",
-      "servo",
-      "web"
-    ],
-    "created_at": "2026-08-10T13:20:30",
-    "updated_at": "2026-08-16T04:55:16"
-  },
-  {
-    "name": "rakazo",
-    "full_name": "elie222/rakazo",
-    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-    "url": "https://github.com/elie222/rakazo",
-    "stars": 498,
-    "daily_stars": 7,
     "language": "TypeScript",
     "topics": [
+      "agentic-ai",
+      "ai-agent-permissions",
       "ai-agents",
-      "chatgpt",
-      "docker",
-      "electron",
-      "expo",
-      "grok",
-      "llm",
-      "self-hosted",
+      "ai-governance",
+      "ai-safety",
+      "authorization",
+      "decionis",
+      "human-in-the-loop",
+      "mcp",
+      "policy-as-code",
+      "reference-architecture",
       "typescript"
     ],
-    "created_at": "2026-08-13T06:28:56",
-    "updated_at": "2026-08-16T04:44:47"
+    "created_at": "2026-08-13T21:36:19",
+    "updated_at": "2026-08-16T08:50:52"
   }
 ]
