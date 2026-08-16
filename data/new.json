@@ -4,8 +4,8 @@
     "full_name": "deepseek-ai/deepseek-harness",
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 116326,
-    "daily_stars": 2115,
+    "stars": 118904,
+    "daily_stars": 2578,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -14,15 +14,15 @@
       "dsh-plugin"
     ],
     "created_at": "2026-08-13T11:56:32",
-    "updated_at": "2026-08-16T02:05:42"
+    "updated_at": "2026-08-16T05:00:18"
   },
   {
     "name": "book-to-skill",
     "full_name": "Leutenegger/book-to-skill",
     "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
     "url": "https://github.com/Leutenegger/book-to-skill",
-    "stars": 1127,
-    "daily_stars": 8,
+    "stars": 1131,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "agent",
@@ -47,15 +47,15 @@
       "skill-generator"
     ],
     "created_at": "2026-08-13T13:15:23",
-    "updated_at": "2026-08-16T01:45:47"
+    "updated_at": "2026-08-16T04:58:34"
   },
   {
     "name": "awesome-deepseek-harness",
     "full_name": "0xsline/awesome-deepseek-harness",
     "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
     "url": "https://github.com/0xsline/awesome-deepseek-harness",
-    "stars": 497,
-    "daily_stars": 8,
+    "stars": 519,
+    "daily_stars": 22,
     "language": "Python",
     "topics": [
       "agent",
@@ -78,15 +78,15 @@
       "plugins"
     ],
     "created_at": "2026-08-11T13:14:49",
-    "updated_at": "2026-08-16T01:49:48"
+    "updated_at": "2026-08-16T04:56:05"
   },
   {
     "name": "rakazo",
     "full_name": "elie222/rakazo",
     "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
     "url": "https://github.com/elie222/rakazo",
-    "stars": 491,
-    "daily_stars": 15,
+    "stars": 498,
+    "daily_stars": 7,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -100,14 +100,14 @@
       "typescript"
     ],
     "created_at": "2026-08-13T06:28:56",
-    "updated_at": "2026-08-16T01:59:58"
+    "updated_at": "2026-08-16T04:44:47"
   },
   {
     "name": "agent-safe-pipeline",
     "full_name": "decionis/agent-safe-pipeline",
     "description": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
     "url": "https://github.com/decionis/agent-safe-pipeline",
-    "stars": 447,
+    "stars": 457,
     "daily_stars": 10,
     "language": "TypeScript",
     "topics": [
@@ -125,7 +125,30 @@
       "typescript"
     ],
     "created_at": "2026-08-13T21:36:19",
-    "updated_at": "2026-08-16T01:50:30"
+    "updated_at": "2026-08-16T04:56:57"
+  },
+  {
+    "name": "moli",
+    "full_name": "lexmount/moli",
+    "description": "Best browser for AI Agent, written in pure Rust",
+    "url": "https://github.com/lexmount/moli",
+    "stars": 354,
+    "daily_stars": 9,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "browser",
+      "browser-automation",
+      "cloud-browser",
+      "playwright",
+      "puppeteer",
+      "rust",
+      "servo",
+      "web"
+    ],
+    "created_at": "2026-08-10T13:20:30",
+    "updated_at": "2026-08-16T04:55:16"
   },
   {
     "name": "KADATH",
@@ -158,35 +181,30 @@
     "updated_at": "2026-08-14T21:37:30"
   },
   {
-    "name": "moli",
-    "full_name": "lexmount/moli",
-    "description": "Best browser for AI Agent, written in pure Rust",
-    "url": "https://github.com/lexmount/moli",
-    "stars": 345,
-    "daily_stars": 9,
-    "language": "Rust",
+    "name": "dsh-desktop",
+    "full_name": "dataelement/dsh-desktop",
+    "description": "Desktop app for DeepSeek Harness",
+    "url": "https://github.com/dataelement/dsh-desktop",
+    "stars": 338,
+    "daily_stars": 54,
+    "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "ai-tools",
-      "browser",
-      "browser-automation",
-      "cloud-browser",
-      "playwright",
-      "puppeteer",
-      "rust",
-      "servo",
-      "web"
+      "deepseek",
+      "desktop",
+      "electron",
+      "typescript"
     ],
-    "created_at": "2026-08-10T13:20:30",
-    "updated_at": "2026-08-16T02:00:56"
+    "created_at": "2026-08-13T13:45:50",
+    "updated_at": "2026-08-16T04:49:00"
   },
   {
     "name": "dsh-handbook",
     "full_name": "Electricitysheep/dsh-handbook",
     "description": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
     "url": "https://github.com/Electricitysheep/dsh-handbook",
-    "stars": 292,
-    "daily_stars": 2,
+    "stars": 305,
+    "daily_stars": 13,
     "language": "HTML",
     "topics": [
       "agent",
@@ -203,25 +221,7 @@
       "tutorial"
     ],
     "created_at": "2026-08-13T15:22:29",
-    "updated_at": "2026-08-15T23:35:28"
-  },
-  {
-    "name": "dsh-desktop",
-    "full_name": "dataelement/dsh-desktop",
-    "description": "Desktop app for DeepSeek Harness",
-    "url": "https://github.com/dataelement/dsh-desktop",
-    "stars": 284,
-    "daily_stars": 34,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "deepseek",
-      "desktop",
-      "electron",
-      "typescript"
-    ],
-    "created_at": "2026-08-13T13:45:50",
-    "updated_at": "2026-08-16T02:03:47"
+    "updated_at": "2026-08-16T04:11:50"
   },
   {
     "name": "codex-bridge",
