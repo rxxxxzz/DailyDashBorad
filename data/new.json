@@ -4,8 +4,8 @@
     "full_name": "deepseek-ai/deepseek-harness",
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 138297,
-    "daily_stars": 4207,
+    "stars": 143254,
+    "daily_stars": 4957,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -14,15 +14,15 @@
       "dsh-plugin"
     ],
     "created_at": "2026-08-13T11:56:32",
-    "updated_at": "2026-08-17T05:08:03"
+    "updated_at": "2026-08-17T09:08:38"
   },
   {
     "name": "book-to-skill",
     "full_name": "Leutenegger/book-to-skill",
     "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
     "url": "https://github.com/Leutenegger/book-to-skill",
-    "stars": 1158,
-    "daily_stars": 3,
+    "stars": 1164,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "agent",
@@ -47,15 +47,33 @@
       "skill-generator"
     ],
     "created_at": "2026-08-13T13:15:23",
-    "updated_at": "2026-08-17T03:10:41"
+    "updated_at": "2026-08-17T08:41:22"
+  },
+  {
+    "name": "dsh-desktop",
+    "full_name": "dataelement/dsh-desktop",
+    "description": "Desktop app for DeepSeek Harness",
+    "url": "https://github.com/dataelement/dsh-desktop",
+    "stars": 679,
+    "daily_stars": 61,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "deepseek",
+      "desktop",
+      "electron",
+      "typescript"
+    ],
+    "created_at": "2026-08-13T13:45:50",
+    "updated_at": "2026-08-17T09:07:56"
   },
   {
     "name": "awesome-deepseek-harness",
     "full_name": "0xsline/awesome-deepseek-harness",
     "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
     "url": "https://github.com/0xsline/awesome-deepseek-harness",
-    "stars": 641,
-    "daily_stars": 31,
+    "stars": 661,
+    "daily_stars": 20,
     "language": "Python",
     "topics": [
       "agent",
@@ -78,33 +96,15 @@
       "plugins"
     ],
     "created_at": "2026-08-11T13:14:49",
-    "updated_at": "2026-08-17T05:07:01"
-  },
-  {
-    "name": "dsh-desktop",
-    "full_name": "dataelement/dsh-desktop",
-    "description": "Desktop app for DeepSeek Harness",
-    "url": "https://github.com/dataelement/dsh-desktop",
-    "stars": 618,
-    "daily_stars": 65,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "deepseek",
-      "desktop",
-      "electron",
-      "typescript"
-    ],
-    "created_at": "2026-08-13T13:45:50",
-    "updated_at": "2026-08-17T05:06:30"
+    "updated_at": "2026-08-17T09:07:36"
   },
   {
     "name": "rakazo",
     "full_name": "elie222/rakazo",
     "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
     "url": "https://github.com/elie222/rakazo",
-    "stars": 572,
-    "daily_stars": 27,
+    "stars": 611,
+    "daily_stars": 39,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -118,15 +118,15 @@
       "typescript"
     ],
     "created_at": "2026-08-13T06:28:56",
-    "updated_at": "2026-08-17T05:02:48"
+    "updated_at": "2026-08-17T09:04:36"
   },
   {
     "name": "agent-safe-pipeline",
     "full_name": "decionis/agent-safe-pipeline",
     "description": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
     "url": "https://github.com/decionis/agent-safe-pipeline",
-    "stars": 491,
-    "daily_stars": 5,
+    "stars": 500,
+    "daily_stars": 9,
     "language": "TypeScript",
     "topics": [
       "agentic-ai",
@@ -143,15 +143,15 @@
       "typescript"
     ],
     "created_at": "2026-08-13T21:36:19",
-    "updated_at": "2026-08-17T04:41:45"
+    "updated_at": "2026-08-17T09:03:27"
   },
   {
     "name": "moli",
     "full_name": "lexmount/moli",
     "description": "Best browser for AI Agent, written in pure Rust",
     "url": "https://github.com/lexmount/moli",
-    "stars": 419,
-    "daily_stars": 8,
+    "stars": 436,
+    "daily_stars": 17,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -166,15 +166,15 @@
       "web"
     ],
     "created_at": "2026-08-10T13:20:30",
-    "updated_at": "2026-08-17T05:05:48"
+    "updated_at": "2026-08-17T08:29:35"
   },
   {
     "name": "dsh-handbook",
     "full_name": "Electricitysheep/dsh-handbook",
     "description": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
     "url": "https://github.com/Electricitysheep/dsh-handbook",
-    "stars": 391,
-    "daily_stars": 17,
+    "stars": 427,
+    "daily_stars": 36,
     "language": "HTML",
     "topics": [
       "agent",
@@ -191,36 +191,15 @@
       "tutorial"
     ],
     "created_at": "2026-08-13T15:22:29",
-    "updated_at": "2026-08-17T03:50:16"
-  },
-  {
-    "name": "codex-bridge",
-    "full_name": "Sateezg/codex-bridge",
-    "description": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key.",
-    "url": "https://github.com/Sateezg/codex-bridge",
-    "stars": 272,
-    "daily_stars": 0,
-    "language": "Shell",
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "claude-code-plugin",
-      "codex",
-      "gpt-5",
-      "gpt-image-2",
-      "image-generation",
-      "openai"
-    ],
-    "created_at": "2026-08-09T06:57:08",
-    "updated_at": "2026-08-14T15:51:21"
+    "updated_at": "2026-08-17T09:05:23"
   },
   {
     "name": "unlazy",
     "full_name": "Leonxlnx/unlazy",
     "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
     "url": "https://github.com/Leonxlnx/unlazy",
-    "stars": 260,
-    "daily_stars": 5,
+    "stars": 261,
+    "daily_stars": 1,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -232,6 +211,27 @@
       "skill"
     ],
     "created_at": "2026-08-09T23:39:12",
-    "updated_at": "2026-08-17T04:59:24"
+    "updated_at": "2026-08-17T08:38:11"
+  },
+  {
+    "name": "loomfeed",
+    "full_name": "surya-koritala/loomfeed",
+    "description": "The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
+    "url": "https://github.com/surya-koritala/loomfeed",
+    "stars": 221,
+    "daily_stars": 1,
+    "language": "Go",
+    "topics": [
+      "ai-agents",
+      "community-platform",
+      "golang",
+      "mcp",
+      "nextjs",
+      "reddit-alternative",
+      "self-hosted",
+      "social-network"
+    ],
+    "created_at": "2026-08-09T19:28:09",
+    "updated_at": "2026-08-17T06:17:26"
   }
 ]
