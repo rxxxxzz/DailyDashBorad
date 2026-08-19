@@ -4,8 +4,8 @@
     "full_name": "deepseek-ai/deepseek-harness",
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 160968,
-    "daily_stars": 996,
+    "stars": 162199,
+    "daily_stars": 1231,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -14,15 +14,15 @@
       "dsh-plugin"
     ],
     "created_at": "2026-08-13T11:56:32",
-    "updated_at": "2026-08-19T01:59:49"
+    "updated_at": "2026-08-19T05:01:52"
   },
   {
     "name": "J-Space-Cognition-Suite-V3.6",
     "full_name": "Tiger3807861189/J-Space-Cognition-Suite-V3.6",
     "description": "J-Space Cognition Suite V3.6 - AI cognitive-enhancement Skills based on Anthropic's J-space global workspace research.",
     "url": "https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6",
-    "stars": 2246,
-    "daily_stars": 118,
+    "stars": 2327,
+    "daily_stars": 81,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -46,15 +46,87 @@
       "tailwindcss"
     ],
     "created_at": "2026-07-22T00:34:24",
-    "updated_at": "2026-08-19T01:59:34"
+    "updated_at": "2026-08-19T04:59:59"
+  },
+  {
+    "name": "autoprompt-skill",
+    "full_name": "Spielewoy/autoprompt-skill",
+    "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
+    "url": "https://github.com/Spielewoy/autoprompt-skill",
+    "stars": 93,
+    "daily_stars": 26,
+    "language": "JavaScript",
+    "topics": [
+      "agent-orchestration",
+      "agent-skills",
+      "agentic-workflows",
+      "ai-agents",
+      "ai-coding",
+      "automated-testing",
+      "autonomous-agents",
+      "claude-code",
+      "cli",
+      "code-review",
+      "codex",
+      "coding-agent",
+      "developer-tools",
+      "github-copilot",
+      "multi-agent-systems",
+      "opencode",
+      "prompt-engineering",
+      "subagents",
+      "test-driven-development",
+      "workflow-automation"
+    ],
+    "created_at": "2026-08-17T22:40:47",
+    "updated_at": "2026-08-19T04:55:09"
+  },
+  {
+    "name": "dsh-desktop",
+    "full_name": "dataelement/dsh-desktop",
+    "description": "Desktop app for DeepSeek Harness",
+    "url": "https://github.com/dataelement/dsh-desktop",
+    "stars": 969,
+    "daily_stars": 22,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "deepseek",
+      "desktop",
+      "electron",
+      "typescript"
+    ],
+    "created_at": "2026-08-13T13:45:50",
+    "updated_at": "2026-08-19T04:55:37"
+  },
+  {
+    "name": "sprix-sage-router",
+    "full_name": "wang2122/sprix-sage-router",
+    "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+    "url": "https://github.com/wang2122/sprix-sage-router",
+    "stars": 173,
+    "daily_stars": 20,
+    "language": "Python",
+    "topics": [
+      "a2a",
+      "agent-orchestration",
+      "agent-routing",
+      "ai-agents",
+      "multi-agent-systems",
+      "python",
+      "sprix-ai",
+      "task-scheduling"
+    ],
+    "created_at": "2026-08-18T04:08:11",
+    "updated_at": "2026-08-19T03:52:02"
   },
   {
     "name": "kimi-k3-in-c",
     "full_name": "FareedKhan-dev/kimi-k3-in-c",
     "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 6024,
-    "daily_stars": 16,
+    "stars": 6036,
+    "daily_stars": 12,
     "language": "C",
     "topics": [
       "avx2",
@@ -79,33 +151,44 @@
       "zero-dependencies"
     ],
     "created_at": "2026-08-01T09:29:38",
-    "updated_at": "2026-08-19T01:50:29"
+    "updated_at": "2026-08-19T04:58:17"
   },
   {
-    "name": "dsh-desktop",
-    "full_name": "dataelement/dsh-desktop",
-    "description": "Desktop app for DeepSeek Harness",
-    "url": "https://github.com/dataelement/dsh-desktop",
-    "stars": 947,
-    "daily_stars": 14,
+    "name": "dsh-agent-team-gui",
+    "full_name": "toolclub/dsh-agent-team-gui",
+    "description": "Persistent multi-model workflow teams for DeepSeek Harness — dynamic lead planning, bounded DAGs, per-agent model/tools, Run Center and Token insights.",
+    "url": "https://github.com/toolclub/dsh-agent-team-gui",
+    "stars": 84,
+    "daily_stars": 10,
     "language": "TypeScript",
     "topics": [
+      "agent",
+      "agent-orchestration",
       "ai-agents",
-      "deepseek",
-      "desktop",
-      "electron",
-      "typescript"
+      "dag",
+      "deepseek-harness",
+      "deepseek-harness-plugin",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugins",
+      "multi-agent",
+      "multi-model",
+      "orchestration",
+      "react",
+      "token-usage",
+      "typescript",
+      "workflow-engine"
     ],
-    "created_at": "2026-08-13T13:45:50",
-    "updated_at": "2026-08-19T01:52:56"
+    "created_at": "2026-08-15T03:40:19",
+    "updated_at": "2026-08-19T03:59:34"
   },
   {
     "name": "moli",
     "full_name": "lexmount/moli",
     "description": "Best browser for AI Agent, written in pure Rust",
     "url": "https://github.com/lexmount/moli",
-    "stars": 573,
-    "daily_stars": 12,
+    "stars": 582,
+    "daily_stars": 9,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -120,101 +203,40 @@
       "web"
     ],
     "created_at": "2026-08-10T13:20:30",
-    "updated_at": "2026-08-19T01:46:07"
+    "updated_at": "2026-08-19T04:57:07"
   },
   {
-    "name": "overclick",
-    "full_name": "ustoppble/overclick",
-    "description": "The open source task board where AI agents do the work. Self-hosted, MCP-native, zero data collection.",
-    "url": "https://github.com/ustoppble/overclick",
-    "stars": 72,
-    "daily_stars": 10,
-    "language": "TypeScript",
-    "topics": [
-      "agents",
-      "ai-agents",
-      "kanban",
-      "mcp",
-      "self-hosted",
-      "task-management"
-    ],
-    "created_at": "2026-08-14T22:10:35",
-    "updated_at": "2026-08-19T00:34:56"
-  },
-  {
-    "name": "rakazo",
-    "full_name": "elie222/rakazo",
-    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-    "url": "https://github.com/elie222/rakazo",
-    "stars": 854,
+    "name": "dsh-handbook",
+    "full_name": "Electricitysheep/dsh-handbook",
+    "description": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
+    "url": "https://github.com/Electricitysheep/dsh-handbook",
+    "stars": 506,
     "daily_stars": 9,
-    "language": "TypeScript",
+    "language": "HTML",
     "topics": [
+      "agent",
+      "agent-framework",
       "ai-agents",
-      "chatgpt",
-      "docker",
-      "electron",
-      "expo",
-      "grok",
+      "beginners",
+      "deepseek",
+      "deepseek-ai",
+      "dsh-plugin",
+      "getting-started",
+      "guide",
+      "harness",
       "llm",
-      "self-hosted",
-      "typescript"
+      "tutorial"
     ],
-    "created_at": "2026-08-13T06:28:56",
-    "updated_at": "2026-08-19T01:57:50"
-  },
-  {
-    "name": "hunter-community",
-    "full_name": "agentpit-io/hunter-community",
-    "description": "Hunter Community Edition · your private financial AI team · open-source self-hosted · powered by opencode + MCP + multi-agent · 15 min docker start",
-    "url": "https://github.com/agentpit-io/hunter-community",
-    "stars": 148,
-    "daily_stars": 7,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "apache-2",
-      "docker-compose",
-      "financial-ai",
-      "mcp",
-      "opencode",
-      "opensource",
-      "self-hosted",
-      "stock-market"
-    ],
-    "created_at": "2026-08-10T10:37:07",
-    "updated_at": "2026-08-19T01:57:55"
-  },
-  {
-    "name": "skill-recorder",
-    "full_name": "microsoft/skill-recorder",
-    "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
-    "url": "https://github.com/microsoft/skill-recorder",
-    "stars": 3265,
-    "daily_stars": 6,
-    "language": "TypeScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "automation",
-      "copilot",
-      "copilot-cli",
-      "copilot-cowork",
-      "copilot-studio",
-      "electron",
-      "microsoft-scout",
-      "screen-recording"
-    ],
-    "created_at": "2026-07-29T18:16:14",
-    "updated_at": "2026-08-19T01:48:42"
+    "created_at": "2026-08-13T15:22:29",
+    "updated_at": "2026-08-19T03:52:56"
   },
   {
     "name": "memorax-code",
     "full_name": "memorax-ai/memorax-code",
     "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
     "url": "https://github.com/memorax-ai/memorax-code",
-    "stars": 364,
-    "daily_stars": 6,
+    "stars": 372,
+    "daily_stars": 8,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -226,6 +248,6 @@
       "typescript"
     ],
     "created_at": "2026-08-01T02:13:37",
-    "updated_at": "2026-08-19T01:33:07"
+    "updated_at": "2026-08-19T04:13:56"
   }
 ]
