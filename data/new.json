@@ -4,8 +4,8 @@
     "full_name": "deepseek-ai/deepseek-harness",
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 166817,
-    "daily_stars": 600,
+    "stars": 167873,
+    "daily_stars": 1056,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -14,7 +14,7 @@
       "dsh-plugin"
     ],
     "created_at": "2026-08-13T11:56:32",
-    "updated_at": "2026-08-19T20:54:12"
+    "updated_at": "2026-08-20T01:58:18"
   },
   {
     "name": "book-to-skill",
@@ -22,7 +22,7 @@
     "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
     "url": "https://github.com/Leutenegger/book-to-skill",
     "stars": 1202,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "agent",
@@ -54,8 +54,8 @@
     "full_name": "dataelement/dsh-desktop",
     "description": "Desktop app for DeepSeek Harness",
     "url": "https://github.com/dataelement/dsh-desktop",
-    "stars": 1091,
-    "daily_stars": 8,
+    "stars": 1118,
+    "daily_stars": 27,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -65,15 +65,15 @@
       "typescript"
     ],
     "created_at": "2026-08-13T13:45:50",
-    "updated_at": "2026-08-19T20:44:42"
+    "updated_at": "2026-08-20T01:55:54"
   },
   {
     "name": "rakazo",
     "full_name": "elie222/rakazo",
     "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
     "url": "https://github.com/elie222/rakazo",
-    "stars": 890,
-    "daily_stars": 11,
+    "stars": 899,
+    "daily_stars": 9,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -87,15 +87,36 @@
       "typescript"
     ],
     "created_at": "2026-08-13T06:28:56",
-    "updated_at": "2026-08-19T20:45:11"
+    "updated_at": "2026-08-20T01:24:14"
+  },
+  {
+    "name": "sprix-sage-router",
+    "full_name": "wang2122/sprix-sage-router",
+    "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+    "url": "https://github.com/wang2122/sprix-sage-router",
+    "stars": 607,
+    "daily_stars": 150,
+    "language": "Python",
+    "topics": [
+      "a2a",
+      "agent-orchestration",
+      "agent-routing",
+      "ai-agents",
+      "multi-agent-systems",
+      "python",
+      "sprix-ai",
+      "task-scheduling"
+    ],
+    "created_at": "2026-08-18T04:08:11",
+    "updated_at": "2026-08-20T00:11:38"
   },
   {
     "name": "dsh-handbook",
     "full_name": "Electricitysheep/dsh-handbook",
     "description": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
     "url": "https://github.com/Electricitysheep/dsh-handbook",
-    "stars": 535,
-    "daily_stars": 1,
+    "stars": 544,
+    "daily_stars": 9,
     "language": "HTML",
     "topics": [
       "agent",
@@ -112,7 +133,7 @@
       "tutorial"
     ],
     "created_at": "2026-08-13T15:22:29",
-    "updated_at": "2026-08-19T20:53:10"
+    "updated_at": "2026-08-20T01:55:15"
   },
   {
     "name": "agent-safe-pipeline",
@@ -140,33 +161,32 @@
     "updated_at": "2026-08-19T05:28:04"
   },
   {
-    "name": "sprix-sage-router",
-    "full_name": "wang2122/sprix-sage-router",
-    "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-    "url": "https://github.com/wang2122/sprix-sage-router",
-    "stars": 457,
-    "daily_stars": 0,
-    "language": "Python",
+    "name": "openbot",
+    "full_name": "CopilotKit/openbot",
+    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+    "url": "https://github.com/CopilotKit/openbot",
+    "stars": 529,
+    "daily_stars": 327,
+    "language": "TypeScript",
     "topics": [
-      "a2a",
-      "agent-orchestration",
-      "agent-routing",
+      "ag-ui",
+      "agent-governance",
       "ai-agents",
-      "multi-agent-systems",
-      "python",
-      "sprix-ai",
-      "task-scheduling"
+      "browser-automation",
+      "copilotkit",
+      "generative-ui",
+      "mcp"
     ],
-    "created_at": "2026-08-18T04:08:11",
-    "updated_at": "2026-08-19T15:41:08"
+    "created_at": "2026-08-17T00:44:59",
+    "updated_at": "2026-08-20T01:53:49"
   },
   {
     "name": "autoprompt-skill",
     "full_name": "Spielewoy/autoprompt-skill",
     "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
     "url": "https://github.com/Spielewoy/autoprompt-skill",
-    "stars": 256,
-    "daily_stars": 80,
+    "stars": 318,
+    "daily_stars": 62,
     "language": "JavaScript",
     "topics": [
       "agent-orchestration",
@@ -191,35 +211,15 @@
       "workflow-automation"
     ],
     "created_at": "2026-08-17T22:40:47",
-    "updated_at": "2026-08-19T20:50:15"
-  },
-  {
-    "name": "openbot",
-    "full_name": "CopilotKit/openbot",
-    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-    "url": "https://github.com/CopilotKit/openbot",
-    "stars": 202,
-    "daily_stars": 0,
-    "language": "TypeScript",
-    "topics": [
-      "ag-ui",
-      "agent-governance",
-      "ai-agents",
-      "browser-automation",
-      "copilotkit",
-      "generative-ui",
-      "mcp"
-    ],
-    "created_at": "2026-08-17T00:44:59",
-    "updated_at": "2026-08-19T20:54:06"
+    "updated_at": "2026-08-20T01:57:06"
   },
   {
     "name": "vibe-coding-toolkit",
     "full_name": "soumatheusgomes/vibe-coding-toolkit",
     "description": "A curated, battle-tested AI-coding toolkit: Claude Code plugins, subagent orchestration, quality gates, and ready-to-copy prompts, extracted from real production use.",
     "url": "https://github.com/soumatheusgomes/vibe-coding-toolkit",
-    "stars": 198,
-    "daily_stars": 1,
+    "stars": 200,
+    "daily_stars": 2,
     "language": null,
     "topics": [
       "ai-agents",
@@ -230,6 +230,6 @@
       "prompts"
     ],
     "created_at": "2026-08-14T23:41:31",
-    "updated_at": "2026-08-19T18:56:33"
+    "updated_at": "2026-08-20T00:40:57"
   }
 ]
