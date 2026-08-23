@@ -4,8 +4,8 @@
     "full_name": "deepseek-ai/deepseek-harness",
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 186204,
-    "daily_stars": 585,
+    "stars": 186850,
+    "daily_stars": 646,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -14,15 +14,35 @@
       "dsh-plugin"
     ],
     "created_at": "2026-08-13T11:56:32",
-    "updated_at": "2026-08-23T08:55:55"
+    "updated_at": "2026-08-23T13:10:11"
+  },
+  {
+    "name": "unlazy",
+    "full_name": "Leonxlnx/unlazy",
+    "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
+    "url": "https://github.com/Leonxlnx/unlazy",
+    "stars": 1263,
+    "daily_stars": 104,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "llm",
+      "productivity",
+      "prompt-engineering",
+      "skill"
+    ],
+    "created_at": "2026-08-09T23:39:12",
+    "updated_at": "2026-08-23T13:09:19"
   },
   {
     "name": "sprix-sage-router",
     "full_name": "wang2122/sprix-sage-router",
     "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
     "url": "https://github.com/wang2122/sprix-sage-router",
-    "stars": 1342,
-    "daily_stars": 99,
+    "stars": 1394,
+    "daily_stars": 52,
     "language": "Python",
     "topics": [
       "a2a",
@@ -35,35 +55,15 @@
       "task-scheduling"
     ],
     "created_at": "2026-08-18T04:08:11",
-    "updated_at": "2026-08-23T08:56:43"
-  },
-  {
-    "name": "unlazy",
-    "full_name": "Leonxlnx/unlazy",
-    "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
-    "url": "https://github.com/Leonxlnx/unlazy",
-    "stars": 1159,
-    "daily_stars": 59,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "llm",
-      "productivity",
-      "prompt-engineering",
-      "skill"
-    ],
-    "created_at": "2026-08-09T23:39:12",
-    "updated_at": "2026-08-23T08:57:03"
+    "updated_at": "2026-08-23T13:09:55"
   },
   {
     "name": "dsh-desktop",
     "full_name": "dataelement/dsh-desktop",
     "description": "Desktop app for DeepSeek Harness",
     "url": "https://github.com/dataelement/dsh-desktop",
-    "stars": 1897,
-    "daily_stars": 53,
+    "stars": 1938,
+    "daily_stars": 41,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -73,15 +73,35 @@
       "typescript"
     ],
     "created_at": "2026-08-13T13:45:50",
-    "updated_at": "2026-08-23T08:57:11"
+    "updated_at": "2026-08-23T12:56:14"
+  },
+  {
+    "name": "memorax-code",
+    "full_name": "memorax-ai/memorax-code",
+    "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
+    "url": "https://github.com/memorax-ai/memorax-code",
+    "stars": 538,
+    "daily_stars": 34,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-memory",
+      "developer-tools",
+      "memorax",
+      "typescript"
+    ],
+    "created_at": "2026-08-01T02:13:37",
+    "updated_at": "2026-08-23T12:45:39"
   },
   {
     "name": "dsh-im",
     "full_name": "xmanrui/dsh-im",
     "description": "通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).",
     "url": "https://github.com/xmanrui/dsh-im",
-    "stars": 597,
-    "daily_stars": 37,
+    "stars": 627,
+    "daily_stars": 30,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -101,15 +121,37 @@
       "whatsapp-bot"
     ],
     "created_at": "2026-08-14T20:40:06",
-    "updated_at": "2026-08-23T08:54:53"
+    "updated_at": "2026-08-23T13:02:38"
+  },
+  {
+    "name": "oc",
+    "full_name": "only-cli/oc",
+    "description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
+    "url": "https://github.com/only-cli/oc",
+    "stars": 151,
+    "daily_stars": 24,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "browser-automation",
+      "claude-code",
+      "cli",
+      "cli-app",
+      "cli-tool",
+      "llm",
+      "markdown",
+      "web-scraping"
+    ],
+    "created_at": "2026-08-18T13:00:30",
+    "updated_at": "2026-08-23T12:57:22"
   },
   {
     "name": "openbot",
     "full_name": "CopilotKit/openbot",
     "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
     "url": "https://github.com/CopilotKit/openbot",
-    "stars": 2388,
-    "daily_stars": 36,
+    "stars": 2411,
+    "daily_stars": 23,
     "language": "TypeScript",
     "topics": [
       "ag-ui",
@@ -121,90 +163,72 @@
       "mcp"
     ],
     "created_at": "2026-08-17T00:44:59",
-    "updated_at": "2026-08-23T08:57:07"
+    "updated_at": "2026-08-23T13:02:13"
   },
   {
-    "name": "awesome-ai-harness",
-    "full_name": "Vendredi218/awesome-ai-harness",
-    "description": "The model is the engine; the harness is the car. Curated knowledge on harness engineering — context management, tool design, agent loops, memory, sandboxing, evals. EN/中文",
-    "url": "https://github.com/Vendredi218/awesome-ai-harness",
-    "stars": 125,
-    "daily_stars": 21,
-    "language": null,
+    "name": "kimi-k3-in-c",
+    "full_name": "FareedKhan-dev/kimi-k3-in-c",
+    "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+    "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+    "stars": 6312,
+    "daily_stars": 16,
+    "language": "C",
     "topics": [
-      "agent-harness",
-      "agentic-ai",
-      "ai-agents",
-      "awesome-list",
-      "context-engineering",
+      "avx2",
+      "c99",
+      "cpu-inference",
+      "deep-learning",
+      "from-scratch",
+      "inference-engine",
+      "kimi-k3",
+      "linear-attention",
       "llm",
-      "mcp",
-      "prompt-engineering"
+      "llm-inference",
+      "machine-learning",
+      "memory-efficient",
+      "mixture-of-experts",
+      "moe",
+      "mxfp4",
+      "quantization",
+      "simd",
+      "systems-programming",
+      "transformer",
+      "zero-dependencies"
     ],
-    "created_at": "2026-08-16T04:57:52",
-    "updated_at": "2026-08-23T08:21:27"
+    "created_at": "2026-08-01T09:29:38",
+    "updated_at": "2026-08-23T12:50:45"
   },
   {
-    "name": "dsh-routing-suite",
-    "full_name": "yjh051108/dsh-routing-suite",
-    "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
-    "url": "https://github.com/yjh051108/dsh-routing-suite",
-    "stars": 6672,
-    "daily_stars": 17,
-    "language": "PowerShell",
+    "name": "autoprompt-skill",
+    "full_name": "Spielewoy/autoprompt-skill",
+    "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
+    "url": "https://github.com/Spielewoy/autoprompt-skill",
+    "stars": 737,
+    "daily_stars": 13,
+    "language": "JavaScript",
     "topics": [
+      "agent-orchestration",
+      "agent-skills",
+      "agentic-workflows",
       "ai-agents",
-      "cordis",
-      "deepseek-harness",
-      "dsh",
-      "dsh-plugin"
+      "ai-coding",
+      "automated-testing",
+      "autonomous-agents",
+      "claude-code",
+      "cli",
+      "code-review",
+      "codex",
+      "coding-agent",
+      "developer-tools",
+      "github-copilot",
+      "multi-agent-systems",
+      "opencode",
+      "prompt-engineering",
+      "subagents",
+      "test-driven-development",
+      "workflow-automation"
     ],
-    "created_at": "2026-08-14T21:20:55",
-    "updated_at": "2026-08-23T08:45:58"
-  },
-  {
-    "name": "moli",
-    "full_name": "lexmount/moli",
-    "description": "Best browser for AI Agent, written in pure Rust",
-    "url": "https://github.com/lexmount/moli",
-    "stars": 953,
-    "daily_stars": 14,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "browser",
-      "browser-automation",
-      "cloud-browser",
-      "playwright",
-      "puppeteer",
-      "rust",
-      "servo",
-      "web"
-    ],
-    "created_at": "2026-08-10T13:20:30",
-    "updated_at": "2026-08-23T08:44:56"
-  },
-  {
-    "name": "rakazo",
-    "full_name": "elie222/rakazo",
-    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-    "url": "https://github.com/elie222/rakazo",
-    "stars": 1143,
-    "daily_stars": 8,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "chatgpt",
-      "docker",
-      "electron",
-      "expo",
-      "grok",
-      "llm",
-      "self-hosted",
-      "typescript"
-    ],
-    "created_at": "2026-08-13T06:28:56",
-    "updated_at": "2026-08-23T08:33:57"
+    "created_at": "2026-08-17T22:40:47",
+    "updated_at": "2026-08-23T12:57:26"
   }
 ]
