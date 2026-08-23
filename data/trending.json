@@ -4,8 +4,8 @@
     "full_name": "deepseek-ai/deepseek-harness",
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 184809,
-    "daily_stars": 439,
+    "stars": 185220,
+    "daily_stars": 411,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -14,15 +14,15 @@
       "dsh-plugin"
     ],
     "created_at": "2026-08-13T11:56:32",
-    "updated_at": "2026-08-22T20:48:13"
+    "updated_at": "2026-08-23T02:08:57"
   },
   {
     "name": "unlazy",
     "full_name": "Leonxlnx/unlazy",
     "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
     "url": "https://github.com/Leonxlnx/unlazy",
-    "stars": 929,
-    "daily_stars": 96,
+    "stars": 1045,
+    "daily_stars": 116,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -34,15 +34,15 @@
       "skill"
     ],
     "created_at": "2026-08-09T23:39:12",
-    "updated_at": "2026-08-22T20:45:50"
+    "updated_at": "2026-08-23T02:07:39"
   },
   {
     "name": "openbot",
     "full_name": "CopilotKit/openbot",
     "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
     "url": "https://github.com/CopilotKit/openbot",
-    "stars": 2305,
-    "daily_stars": 24,
+    "stars": 2336,
+    "daily_stars": 31,
     "language": "TypeScript",
     "topics": [
       "ag-ui",
@@ -54,15 +54,61 @@
       "mcp"
     ],
     "created_at": "2026-08-17T00:44:59",
-    "updated_at": "2026-08-22T20:46:20"
+    "updated_at": "2026-08-23T02:02:09"
+  },
+  {
+    "name": "dsh-desktop",
+    "full_name": "dataelement/dsh-desktop",
+    "description": "Desktop app for DeepSeek Harness",
+    "url": "https://github.com/dataelement/dsh-desktop",
+    "stars": 1809,
+    "daily_stars": 19,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "deepseek",
+      "desktop",
+      "electron",
+      "typescript"
+    ],
+    "created_at": "2026-08-13T13:45:50",
+    "updated_at": "2026-08-23T02:02:56"
+  },
+  {
+    "name": "dsh-im",
+    "full_name": "xmanrui/dsh-im",
+    "description": "通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).",
+    "url": "https://github.com/xmanrui/dsh-im",
+    "stars": 551,
+    "daily_stars": 19,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "chatbot",
+      "cordis",
+      "deepseek",
+      "deepseek-harness",
+      "dingtalk-bot",
+      "discord-bot",
+      "dsh",
+      "dsh-plugin",
+      "feishu-bot",
+      "im-bot",
+      "slack-bot",
+      "telegram-bot",
+      "wechat-bot",
+      "whatsapp-bot"
+    ],
+    "created_at": "2026-08-14T20:40:06",
+    "updated_at": "2026-08-23T02:08:47"
   },
   {
     "name": "autoprompt-skill",
     "full_name": "Spielewoy/autoprompt-skill",
     "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
     "url": "https://github.com/Spielewoy/autoprompt-skill",
-    "stars": 694,
-    "daily_stars": 17,
+    "stars": 709,
+    "daily_stars": 15,
     "language": "JavaScript",
     "topics": [
       "agent-orchestration",
@@ -87,61 +133,38 @@
       "workflow-automation"
     ],
     "created_at": "2026-08-17T22:40:47",
-    "updated_at": "2026-08-22T20:36:55"
+    "updated_at": "2026-08-23T01:57:44"
   },
   {
-    "name": "dsh-desktop",
-    "full_name": "dataelement/dsh-desktop",
-    "description": "Desktop app for DeepSeek Harness",
-    "url": "https://github.com/dataelement/dsh-desktop",
-    "stars": 1790,
+    "name": "moli",
+    "full_name": "lexmount/moli",
+    "description": "Best browser for AI Agent, written in pure Rust",
+    "url": "https://github.com/lexmount/moli",
+    "stars": 932,
     "daily_stars": 14,
-    "language": "TypeScript",
+    "language": "Rust",
     "topics": [
       "ai-agents",
-      "deepseek",
-      "desktop",
-      "electron",
-      "typescript"
+      "ai-tools",
+      "browser",
+      "browser-automation",
+      "cloud-browser",
+      "playwright",
+      "puppeteer",
+      "rust",
+      "servo",
+      "web"
     ],
-    "created_at": "2026-08-13T13:45:50",
-    "updated_at": "2026-08-22T20:37:23"
-  },
-  {
-    "name": "dsh-im",
-    "full_name": "xmanrui/dsh-im",
-    "description": "通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).",
-    "url": "https://github.com/xmanrui/dsh-im",
-    "stars": 532,
-    "daily_stars": 14,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "chatbot",
-      "cordis",
-      "deepseek",
-      "deepseek-harness",
-      "dingtalk-bot",
-      "discord-bot",
-      "dsh",
-      "dsh-plugin",
-      "feishu-bot",
-      "im-bot",
-      "slack-bot",
-      "telegram-bot",
-      "wechat-bot",
-      "whatsapp-bot"
-    ],
-    "created_at": "2026-08-14T20:40:06",
-    "updated_at": "2026-08-22T20:05:05"
+    "created_at": "2026-08-10T13:20:30",
+    "updated_at": "2026-08-23T01:30:48"
   },
   {
     "name": "kimi-k3-in-c",
     "full_name": "FareedKhan-dev/kimi-k3-in-c",
     "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 6276,
-    "daily_stars": 10,
+    "stars": 6288,
+    "daily_stars": 12,
     "language": "C",
     "topics": [
       "avx2",
@@ -166,15 +189,37 @@
       "zero-dependencies"
     ],
     "created_at": "2026-08-01T09:29:38",
-    "updated_at": "2026-08-22T20:45:05"
+    "updated_at": "2026-08-23T01:58:25"
+  },
+  {
+    "name": "human-review",
+    "full_name": "petergyang/human-review",
+    "description": "A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.",
+    "url": "https://github.com/petergyang/human-review",
+    "stars": 1095,
+    "daily_stars": 9,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "feedback",
+      "html",
+      "human-in-the-loop",
+      "markdown",
+      "review"
+    ],
+    "created_at": "2026-07-27T14:58:36",
+    "updated_at": "2026-08-23T00:34:30"
   },
   {
     "name": "rakazo",
     "full_name": "elie222/rakazo",
     "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
     "url": "https://github.com/elie222/rakazo",
-    "stars": 1122,
-    "daily_stars": 9,
+    "stars": 1130,
+    "daily_stars": 8,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -188,60 +233,6 @@
       "typescript"
     ],
     "created_at": "2026-08-13T06:28:56",
-    "updated_at": "2026-08-22T20:48:14"
-  },
-  {
-    "name": "moli",
-    "full_name": "lexmount/moli",
-    "description": "Best browser for AI Agent, written in pure Rust",
-    "url": "https://github.com/lexmount/moli",
-    "stars": 918,
-    "daily_stars": 9,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "browser",
-      "browser-automation",
-      "cloud-browser",
-      "playwright",
-      "puppeteer",
-      "rust",
-      "servo",
-      "web"
-    ],
-    "created_at": "2026-08-10T13:20:30",
-    "updated_at": "2026-08-22T20:46:57"
-  },
-  {
-    "name": "awesome-deepseek-harness",
-    "full_name": "0xsline/awesome-deepseek-harness",
-    "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-    "url": "https://github.com/0xsline/awesome-deepseek-harness",
-    "stars": 829,
-    "daily_stars": 7,
-    "language": "Python",
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agents",
-      "ai-tools",
-      "awesome",
-      "awesome-list",
-      "coding-assistant",
-      "curated-list",
-      "deepseek",
-      "deepseek-harness",
-      "developer-tools",
-      "dsh",
-      "dsh-plugin",
-      "dsh-plugins",
-      "harness",
-      "llm",
-      "mcp",
-      "plugins"
-    ],
-    "created_at": "2026-08-11T13:14:49",
-    "updated_at": "2026-08-22T20:36:30"
+    "updated_at": "2026-08-23T01:28:24"
   }
 ]
