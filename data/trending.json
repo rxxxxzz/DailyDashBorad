@@ -4,8 +4,8 @@
     "full_name": "deepseek-ai/deepseek-harness",
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 187425,
-    "daily_stars": 575,
+    "stars": 187740,
+    "daily_stars": 315,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -14,35 +14,15 @@
       "dsh-plugin"
     ],
     "created_at": "2026-08-13T11:56:32",
-    "updated_at": "2026-08-23T16:51:36"
-  },
-  {
-    "name": "unlazy",
-    "full_name": "Leonxlnx/unlazy",
-    "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
-    "url": "https://github.com/Leonxlnx/unlazy",
-    "stars": 1416,
-    "daily_stars": 153,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "llm",
-      "productivity",
-      "prompt-engineering",
-      "skill"
-    ],
-    "created_at": "2026-08-09T23:39:12",
-    "updated_at": "2026-08-23T16:50:03"
+    "updated_at": "2026-08-23T20:48:30"
   },
   {
     "name": "x64dbg-mcp-server",
     "full_name": "duty1g/x64dbg-mcp-server",
     "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
     "url": "https://github.com/duty1g/x64dbg-mcp-server",
-    "stars": 488,
-    "daily_stars": 134,
+    "stars": 718,
+    "daily_stars": 230,
     "language": "Zig",
     "topics": [
       "ai-agents",
@@ -66,15 +46,35 @@
       "ziglang"
     ],
     "created_at": "2026-08-22T14:28:41",
-    "updated_at": "2026-08-23T16:50:18"
+    "updated_at": "2026-08-23T20:48:47"
+  },
+  {
+    "name": "unlazy",
+    "full_name": "Leonxlnx/unlazy",
+    "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
+    "url": "https://github.com/Leonxlnx/unlazy",
+    "stars": 1566,
+    "daily_stars": 150,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "llm",
+      "productivity",
+      "prompt-engineering",
+      "skill"
+    ],
+    "created_at": "2026-08-09T23:39:12",
+    "updated_at": "2026-08-23T20:48:44"
   },
   {
     "name": "doop",
     "full_name": "kgoedecke/doop",
     "description": "The open-source alternative to Paper.design — a multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
     "url": "https://github.com/kgoedecke/doop",
-    "stars": 109,
-    "daily_stars": 45,
+    "stars": 144,
+    "daily_stars": 35,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -88,33 +88,15 @@
       "multiplayer"
     ],
     "created_at": "2026-08-22T15:40:51",
-    "updated_at": "2026-08-23T16:46:54"
-  },
-  {
-    "name": "dsh-desktop",
-    "full_name": "dataelement/dsh-desktop",
-    "description": "Desktop app for DeepSeek Harness",
-    "url": "https://github.com/dataelement/dsh-desktop",
-    "stars": 1974,
-    "daily_stars": 36,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "deepseek",
-      "desktop",
-      "electron",
-      "typescript"
-    ],
-    "created_at": "2026-08-13T13:45:50",
-    "updated_at": "2026-08-23T16:46:43"
+    "updated_at": "2026-08-23T20:33:02"
   },
   {
     "name": "openbot",
     "full_name": "CopilotKit/openbot",
     "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
     "url": "https://github.com/CopilotKit/openbot",
-    "stars": 2442,
-    "daily_stars": 31,
+    "stars": 2471,
+    "daily_stars": 29,
     "language": "TypeScript",
     "topics": [
       "ag-ui",
@@ -126,15 +108,15 @@
       "mcp"
     ],
     "created_at": "2026-08-17T00:44:59",
-    "updated_at": "2026-08-23T16:38:20"
+    "updated_at": "2026-08-23T20:41:54"
   },
   {
     "name": "oc",
     "full_name": "only-cli/oc",
     "description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
     "url": "https://github.com/only-cli/oc",
-    "stars": 178,
-    "daily_stars": 27,
+    "stars": 204,
+    "daily_stars": 26,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -148,37 +130,99 @@
       "web-scraping"
     ],
     "created_at": "2026-08-18T13:00:30",
-    "updated_at": "2026-08-23T16:01:08"
+    "updated_at": "2026-08-23T20:41:27"
   },
   {
-    "name": "donsetch",
-    "full_name": "dondai44423/donsetch",
-    "description": "Web fetch, search, and crawl for AI agents. Built from scratch in Rust. No keys, no accounts. AGPL v3.",
-    "url": "https://github.com/dondai44423/donsetch",
-    "stars": 110,
-    "daily_stars": 25,
-    "language": "Rust",
+    "name": "kimi-k3-in-c",
+    "full_name": "FareedKhan-dev/kimi-k3-in-c",
+    "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+    "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+    "stars": 6343,
+    "daily_stars": 20,
+    "language": "C",
     "topics": [
-      "agpl",
-      "ai-agents",
-      "anti-bot",
-      "crawling",
-      "mcp",
-      "pdf",
-      "rust",
-      "web-scraper",
-      "web-search"
+      "avx2",
+      "c99",
+      "cpu-inference",
+      "deep-learning",
+      "from-scratch",
+      "inference-engine",
+      "kimi-k3",
+      "linear-attention",
+      "llm",
+      "llm-inference",
+      "machine-learning",
+      "memory-efficient",
+      "mixture-of-experts",
+      "moe",
+      "mxfp4",
+      "quantization",
+      "simd",
+      "systems-programming",
+      "transformer",
+      "zero-dependencies"
     ],
-    "created_at": "2026-08-07T10:13:16",
-    "updated_at": "2026-08-23T16:49:35"
+    "created_at": "2026-08-01T09:29:38",
+    "updated_at": "2026-08-23T20:12:01"
+  },
+  {
+    "name": "autoprompt-skill",
+    "full_name": "Spielewoy/autoprompt-skill",
+    "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
+    "url": "https://github.com/Spielewoy/autoprompt-skill",
+    "stars": 764,
+    "daily_stars": 14,
+    "language": "JavaScript",
+    "topics": [
+      "agent-orchestration",
+      "agent-skills",
+      "agentic-workflows",
+      "ai-agents",
+      "ai-coding",
+      "automated-testing",
+      "autonomous-agents",
+      "claude-code",
+      "cli",
+      "code-review",
+      "codex",
+      "coding-agent",
+      "developer-tools",
+      "github-copilot",
+      "multi-agent-systems",
+      "opencode",
+      "prompt-engineering",
+      "subagents",
+      "test-driven-development",
+      "workflow-automation"
+    ],
+    "created_at": "2026-08-17T22:40:47",
+    "updated_at": "2026-08-23T20:39:44"
+  },
+  {
+    "name": "dsh-desktop",
+    "full_name": "dataelement/dsh-desktop",
+    "description": "Desktop app for DeepSeek Harness",
+    "url": "https://github.com/dataelement/dsh-desktop",
+    "stars": 1986,
+    "daily_stars": 12,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "deepseek",
+      "desktop",
+      "electron",
+      "typescript"
+    ],
+    "created_at": "2026-08-13T13:45:50",
+    "updated_at": "2026-08-23T20:28:24"
   },
   {
     "name": "dsh-im",
     "full_name": "xmanrui/dsh-im",
     "description": "通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).",
     "url": "https://github.com/xmanrui/dsh-im",
-    "stars": 648,
-    "daily_stars": 21,
+    "stars": 659,
+    "daily_stars": 11,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -198,27 +242,6 @@
       "whatsapp-bot"
     ],
     "created_at": "2026-08-14T20:40:06",
-    "updated_at": "2026-08-23T16:49:14"
-  },
-  {
-    "name": "sprix-sage-router",
-    "full_name": "wang2122/sprix-sage-router",
-    "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-    "url": "https://github.com/wang2122/sprix-sage-router",
-    "stars": 1411,
-    "daily_stars": 17,
-    "language": "Python",
-    "topics": [
-      "a2a",
-      "agent-orchestration",
-      "agent-routing",
-      "ai-agents",
-      "multi-agent-systems",
-      "python",
-      "sprix-ai",
-      "task-scheduling"
-    ],
-    "created_at": "2026-08-18T04:08:11",
-    "updated_at": "2026-08-23T13:56:35"
+    "updated_at": "2026-08-23T20:12:39"
   }
 ]
