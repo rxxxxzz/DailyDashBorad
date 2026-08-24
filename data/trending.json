@@ -4,8 +4,8 @@
     "full_name": "deepseek-ai/deepseek-harness",
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 187740,
-    "daily_stars": 315,
+    "stars": 188322,
+    "daily_stars": 582,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -14,15 +14,15 @@
       "dsh-plugin"
     ],
     "created_at": "2026-08-13T11:56:32",
-    "updated_at": "2026-08-23T20:48:30"
+    "updated_at": "2026-08-24T02:07:03"
   },
   {
     "name": "x64dbg-mcp-server",
     "full_name": "duty1g/x64dbg-mcp-server",
     "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
     "url": "https://github.com/duty1g/x64dbg-mcp-server",
-    "stars": 718,
-    "daily_stars": 230,
+    "stars": 913,
+    "daily_stars": 195,
     "language": "Zig",
     "topics": [
       "ai-agents",
@@ -46,15 +46,15 @@
       "ziglang"
     ],
     "created_at": "2026-08-22T14:28:41",
-    "updated_at": "2026-08-23T20:48:47"
+    "updated_at": "2026-08-24T02:03:39"
   },
   {
     "name": "unlazy",
     "full_name": "Leonxlnx/unlazy",
     "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
     "url": "https://github.com/Leonxlnx/unlazy",
-    "stars": 1566,
-    "daily_stars": 150,
+    "stars": 1725,
+    "daily_stars": 159,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -66,37 +66,33 @@
       "skill"
     ],
     "created_at": "2026-08-09T23:39:12",
-    "updated_at": "2026-08-23T20:48:44"
+    "updated_at": "2026-08-24T02:07:01"
   },
   {
-    "name": "doop",
-    "full_name": "kgoedecke/doop",
-    "description": "The open-source alternative to Paper.design — a multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-    "url": "https://github.com/kgoedecke/doop",
-    "stars": 144,
-    "daily_stars": 35,
+    "name": "dsh-desktop",
+    "full_name": "dataelement/dsh-desktop",
+    "description": "Desktop app for DeepSeek Harness",
+    "url": "https://github.com/dataelement/dsh-desktop",
+    "stars": 2027,
+    "daily_stars": 41,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "canvas",
-      "claude",
-      "claude-code",
-      "claude-design",
-      "design",
-      "design-tool",
-      "mcp",
-      "multiplayer"
+      "deepseek",
+      "desktop",
+      "electron",
+      "typescript"
     ],
-    "created_at": "2026-08-22T15:40:51",
-    "updated_at": "2026-08-23T20:33:02"
+    "created_at": "2026-08-13T13:45:50",
+    "updated_at": "2026-08-24T02:03:52"
   },
   {
     "name": "openbot",
     "full_name": "CopilotKit/openbot",
     "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
     "url": "https://github.com/CopilotKit/openbot",
-    "stars": 2471,
-    "daily_stars": 29,
+    "stars": 2511,
+    "daily_stars": 40,
     "language": "TypeScript",
     "topics": [
       "ag-ui",
@@ -108,121 +104,15 @@
       "mcp"
     ],
     "created_at": "2026-08-17T00:44:59",
-    "updated_at": "2026-08-23T20:41:54"
-  },
-  {
-    "name": "oc",
-    "full_name": "only-cli/oc",
-    "description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
-    "url": "https://github.com/only-cli/oc",
-    "stars": 204,
-    "daily_stars": 26,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "browser-automation",
-      "claude-code",
-      "cli",
-      "cli-app",
-      "cli-tool",
-      "llm",
-      "markdown",
-      "web-scraping"
-    ],
-    "created_at": "2026-08-18T13:00:30",
-    "updated_at": "2026-08-23T20:41:27"
-  },
-  {
-    "name": "kimi-k3-in-c",
-    "full_name": "FareedKhan-dev/kimi-k3-in-c",
-    "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
-    "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 6343,
-    "daily_stars": 20,
-    "language": "C",
-    "topics": [
-      "avx2",
-      "c99",
-      "cpu-inference",
-      "deep-learning",
-      "from-scratch",
-      "inference-engine",
-      "kimi-k3",
-      "linear-attention",
-      "llm",
-      "llm-inference",
-      "machine-learning",
-      "memory-efficient",
-      "mixture-of-experts",
-      "moe",
-      "mxfp4",
-      "quantization",
-      "simd",
-      "systems-programming",
-      "transformer",
-      "zero-dependencies"
-    ],
-    "created_at": "2026-08-01T09:29:38",
-    "updated_at": "2026-08-23T20:12:01"
-  },
-  {
-    "name": "autoprompt-skill",
-    "full_name": "Spielewoy/autoprompt-skill",
-    "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
-    "url": "https://github.com/Spielewoy/autoprompt-skill",
-    "stars": 764,
-    "daily_stars": 14,
-    "language": "JavaScript",
-    "topics": [
-      "agent-orchestration",
-      "agent-skills",
-      "agentic-workflows",
-      "ai-agents",
-      "ai-coding",
-      "automated-testing",
-      "autonomous-agents",
-      "claude-code",
-      "cli",
-      "code-review",
-      "codex",
-      "coding-agent",
-      "developer-tools",
-      "github-copilot",
-      "multi-agent-systems",
-      "opencode",
-      "prompt-engineering",
-      "subagents",
-      "test-driven-development",
-      "workflow-automation"
-    ],
-    "created_at": "2026-08-17T22:40:47",
-    "updated_at": "2026-08-23T20:39:44"
-  },
-  {
-    "name": "dsh-desktop",
-    "full_name": "dataelement/dsh-desktop",
-    "description": "Desktop app for DeepSeek Harness",
-    "url": "https://github.com/dataelement/dsh-desktop",
-    "stars": 1986,
-    "daily_stars": 12,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "deepseek",
-      "desktop",
-      "electron",
-      "typescript"
-    ],
-    "created_at": "2026-08-13T13:45:50",
-    "updated_at": "2026-08-23T20:28:24"
+    "updated_at": "2026-08-24T01:47:47"
   },
   {
     "name": "dsh-im",
     "full_name": "xmanrui/dsh-im",
     "description": "通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).",
     "url": "https://github.com/xmanrui/dsh-im",
-    "stars": 659,
-    "daily_stars": 11,
+    "stars": 688,
+    "daily_stars": 29,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -242,6 +132,92 @@
       "whatsapp-bot"
     ],
     "created_at": "2026-08-14T20:40:06",
-    "updated_at": "2026-08-23T20:12:39"
+    "updated_at": "2026-08-24T02:00:54"
+  },
+  {
+    "name": "oc",
+    "full_name": "only-cli/oc",
+    "description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
+    "url": "https://github.com/only-cli/oc",
+    "stars": 231,
+    "daily_stars": 27,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "browser-automation",
+      "claude-code",
+      "cli",
+      "cli-app",
+      "cli-tool",
+      "llm",
+      "markdown",
+      "web-scraping"
+    ],
+    "created_at": "2026-08-18T13:00:30",
+    "updated_at": "2026-08-24T01:58:05"
+  },
+  {
+    "name": "memorax-code",
+    "full_name": "memorax-ai/memorax-code",
+    "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
+    "url": "https://github.com/memorax-ai/memorax-code",
+    "stars": 570,
+    "daily_stars": 26,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-memory",
+      "developer-tools",
+      "memorax",
+      "typescript"
+    ],
+    "created_at": "2026-08-01T02:13:37",
+    "updated_at": "2026-08-24T02:04:27"
+  },
+  {
+    "name": "doop",
+    "full_name": "kgoedecke/doop",
+    "description": "The open-source alternative to Paper.design — a multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+    "url": "https://github.com/kgoedecke/doop",
+    "stars": 166,
+    "daily_stars": 22,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "canvas",
+      "claude",
+      "claude-code",
+      "claude-design",
+      "design",
+      "design-tool",
+      "mcp",
+      "multiplayer"
+    ],
+    "created_at": "2026-08-22T15:40:51",
+    "updated_at": "2026-08-24T01:50:18"
+  },
+  {
+    "name": "rakazo",
+    "full_name": "elie222/rakazo",
+    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+    "url": "https://github.com/elie222/rakazo",
+    "stars": 1179,
+    "daily_stars": 15,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "docker",
+      "electron",
+      "expo",
+      "grok",
+      "llm",
+      "self-hosted",
+      "typescript"
+    ],
+    "created_at": "2026-08-13T06:28:56",
+    "updated_at": "2026-08-24T02:04:23"
   }
 ]
