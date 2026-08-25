@@ -4,8 +4,8 @@
     "full_name": "deepseek-ai/deepseek-harness",
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 192230,
-    "daily_stars": 491,
+    "stars": 192820,
+    "daily_stars": 590,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -14,15 +14,56 @@
       "dsh-plugin"
     ],
     "created_at": "2026-08-13T11:56:32",
-    "updated_at": "2026-08-25T02:00:40"
+    "updated_at": "2026-08-25T05:04:22"
+  },
+  {
+    "name": "FrontierAgent",
+    "full_name": "ApodexAI/FrontierAgent",
+    "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+    "url": "https://github.com/ApodexAI/FrontierAgent",
+    "stars": 282,
+    "daily_stars": 111,
+    "language": "Python",
+    "topics": [
+      "agent-orchestration",
+      "agentic-ai",
+      "agentic-framework",
+      "ai-agents",
+      "harness",
+      "multi-agent",
+      "terminal-agent",
+      "tui"
+    ],
+    "created_at": "2026-08-22T05:07:35",
+    "updated_at": "2026-08-25T05:04:53"
+  },
+  {
+    "name": "memorax-code",
+    "full_name": "memorax-ai/memorax-code",
+    "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
+    "url": "https://github.com/memorax-ai/memorax-code",
+    "stars": 712,
+    "daily_stars": 31,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-memory",
+      "developer-tools",
+      "memorax",
+      "typescript"
+    ],
+    "created_at": "2026-08-01T02:13:37",
+    "updated_at": "2026-08-25T05:05:00"
   },
   {
     "name": "openbot",
     "full_name": "CopilotKit/openbot",
     "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
     "url": "https://github.com/CopilotKit/openbot",
-    "stars": 2679,
-    "daily_stars": 51,
+    "stars": 2705,
+    "daily_stars": 26,
     "language": "TypeScript",
     "topics": [
       "ag-ui",
@@ -34,15 +75,35 @@
       "mcp"
     ],
     "created_at": "2026-08-17T00:44:59",
-    "updated_at": "2026-08-25T02:00:39"
+    "updated_at": "2026-08-25T05:01:47"
+  },
+  {
+    "name": "unlazy",
+    "full_name": "Leonxlnx/unlazy",
+    "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
+    "url": "https://github.com/Leonxlnx/unlazy",
+    "stars": 2271,
+    "daily_stars": 24,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "llm",
+      "productivity",
+      "prompt-engineering",
+      "skill"
+    ],
+    "created_at": "2026-08-09T23:39:12",
+    "updated_at": "2026-08-25T04:53:22"
   },
   {
     "name": "x64dbg-mcp-server",
     "full_name": "duty1g/x64dbg-mcp-server",
     "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
     "url": "https://github.com/duty1g/x64dbg-mcp-server",
-    "stars": 1239,
-    "daily_stars": 49,
+    "stars": 1263,
+    "daily_stars": 24,
     "language": "Zig",
     "topics": [
       "ai-agents",
@@ -66,63 +127,15 @@
       "ziglang"
     ],
     "created_at": "2026-08-22T14:28:41",
-    "updated_at": "2026-08-25T01:57:07"
-  },
-  {
-    "name": "unlazy",
-    "full_name": "Leonxlnx/unlazy",
-    "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
-    "url": "https://github.com/Leonxlnx/unlazy",
-    "stars": 2247,
-    "daily_stars": 41,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "llm",
-      "productivity",
-      "prompt-engineering",
-      "skill"
-    ],
-    "created_at": "2026-08-09T23:39:12",
-    "updated_at": "2026-08-25T01:49:38"
-  },
-  {
-    "name": "agenttrail",
-    "full_name": "sodiumsun/agenttrail",
-    "description": "Local observability map for AI coding agents. Watch Claude Code, Codex, and Cursor plans, tool calls, file changes, and progress in real time.",
-    "url": "https://github.com/sodiumsun/agenttrail",
-    "stars": 178,
-    "daily_stars": 36,
-    "language": "HTML",
-    "topics": [
-      "agent-monitoring",
-      "agent-observability",
-      "ai-agents",
-      "ai-coding-agents",
-      "claude-code",
-      "coding-agents",
-      "cursor-ai",
-      "dashboard",
-      "developer-tools",
-      "file-watcher",
-      "local-first",
-      "monitoring",
-      "nodejs",
-      "openai-codex",
-      "progress-tracking"
-    ],
-    "created_at": "2026-08-21T21:14:33",
-    "updated_at": "2026-08-25T01:34:47"
+    "updated_at": "2026-08-25T05:01:34"
   },
   {
     "name": "sentio",
     "full_name": "truespar/sentio",
     "description": "Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
     "url": "https://github.com/truespar/sentio",
-    "stars": 159,
-    "daily_stars": 25,
+    "stars": 174,
+    "daily_stars": 15,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -138,82 +151,15 @@
       "smtp-server"
     ],
     "created_at": "2026-08-23T21:36:25",
-    "updated_at": "2026-08-25T01:32:15"
-  },
-  {
-    "name": "rakazo",
-    "full_name": "elie222/rakazo",
-    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-    "url": "https://github.com/elie222/rakazo",
-    "stars": 1235,
-    "daily_stars": 16,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "chatgpt",
-      "docker",
-      "electron",
-      "expo",
-      "grok",
-      "llm",
-      "self-hosted",
-      "typescript"
-    ],
-    "created_at": "2026-08-13T06:28:56",
-    "updated_at": "2026-08-25T01:36:45"
-  },
-  {
-    "name": "doop",
-    "full_name": "kgoedecke/doop",
-    "description": "The open-source alternative to Paper.design — a multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-    "url": "https://github.com/kgoedecke/doop",
-    "stars": 324,
-    "daily_stars": 16,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "canvas",
-      "claude",
-      "claude-code",
-      "claude-design",
-      "design",
-      "design-tool",
-      "mcp",
-      "multiplayer"
-    ],
-    "created_at": "2026-08-22T15:40:51",
-    "updated_at": "2026-08-25T01:58:45"
-  },
-  {
-    "name": "moli",
-    "full_name": "lexmount/moli",
-    "description": "Best browser for AI Agent, written in pure Rust",
-    "url": "https://github.com/lexmount/moli",
-    "stars": 1077,
-    "daily_stars": 15,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "browser",
-      "browser-automation",
-      "cloud-browser",
-      "playwright",
-      "puppeteer",
-      "rust",
-      "servo",
-      "web"
-    ],
-    "created_at": "2026-08-10T13:20:30",
-    "updated_at": "2026-08-25T01:38:21"
+    "updated_at": "2026-08-25T04:58:24"
   },
   {
     "name": "dsh-im",
     "full_name": "xmanrui/dsh-im",
     "description": "通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).",
     "url": "https://github.com/xmanrui/dsh-im",
-    "stars": 784,
-    "daily_stars": 10,
+    "stars": 797,
+    "daily_stars": 13,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -233,6 +179,53 @@
       "whatsapp-bot"
     ],
     "created_at": "2026-08-14T20:40:06",
-    "updated_at": "2026-08-25T01:57:27"
+    "updated_at": "2026-08-25T04:59:20"
+  },
+  {
+    "name": "moli",
+    "full_name": "lexmount/moli",
+    "description": "Best browser for AI Agent, written in pure Rust",
+    "url": "https://github.com/lexmount/moli",
+    "stars": 1086,
+    "daily_stars": 9,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "browser",
+      "browser-automation",
+      "cloud-browser",
+      "playwright",
+      "puppeteer",
+      "rust",
+      "servo",
+      "web"
+    ],
+    "created_at": "2026-08-10T13:20:30",
+    "updated_at": "2026-08-25T04:54:46"
+  },
+  {
+    "name": "stop-that-shit",
+    "full_name": "lennney/stop-that-shit",
+    "description": "Keep Codex from adding unneeded modules, subagents, dependencies, and hashes to small tasks.",
+    "url": "https://github.com/lennney/stop-that-shit",
+    "stars": 356,
+    "daily_stars": 9,
+    "language": "JavaScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "codex",
+      "codex-cli",
+      "codex-plugin",
+      "developer-tools",
+      "guardrails",
+      "local-first",
+      "overengineering",
+      "scope-control",
+      "yagni"
+    ],
+    "created_at": "2026-08-11T15:31:45",
+    "updated_at": "2026-08-25T04:41:35"
   }
 ]
