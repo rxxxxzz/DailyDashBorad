@@ -1,32 +1,11 @@
 [
   {
-    "name": "sprix-sage-router",
-    "full_name": "wang2122/sprix-sage-router",
-    "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-    "url": "https://github.com/wang2122/sprix-sage-router",
-    "stars": 2130,
-    "daily_stars": 40,
-    "language": "Python",
-    "topics": [
-      "a2a",
-      "agent-orchestration",
-      "agent-routing",
-      "ai-agents",
-      "multi-agent-systems",
-      "python",
-      "sprix-ai",
-      "task-scheduling"
-    ],
-    "created_at": "2026-08-18T04:08:11",
-    "updated_at": "2026-08-26T01:56:05"
-  },
-  {
     "name": "x64dbg-mcp-server",
     "full_name": "duty1g/x64dbg-mcp-server",
     "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
     "url": "https://github.com/duty1g/x64dbg-mcp-server",
-    "stars": 1386,
-    "daily_stars": 15,
+    "stars": 1406,
+    "daily_stars": 20,
     "language": "Zig",
     "topics": [
       "ai-agents",
@@ -50,15 +29,15 @@
       "ziglang"
     ],
     "created_at": "2026-08-22T14:28:41",
-    "updated_at": "2026-08-26T01:56:18"
+    "updated_at": "2026-08-26T04:57:00"
   },
   {
     "name": "FrontierAgent",
     "full_name": "ApodexAI/FrontierAgent",
     "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
     "url": "https://github.com/ApodexAI/FrontierAgent",
-    "stars": 601,
-    "daily_stars": 64,
+    "stars": 688,
+    "daily_stars": 87,
     "language": "Python",
     "topics": [
       "agent-orchestration",
@@ -71,15 +50,15 @@
       "tui"
     ],
     "created_at": "2026-08-22T05:07:35",
-    "updated_at": "2026-08-26T02:07:41"
+    "updated_at": "2026-08-26T05:03:34"
   },
   {
     "name": "doop",
     "full_name": "kgoedecke/doop",
     "description": "The open-source alternative to Paper.design — a multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
     "url": "https://github.com/kgoedecke/doop",
-    "stars": 369,
-    "daily_stars": 10,
+    "stars": 374,
+    "daily_stars": 5,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -93,15 +72,15 @@
       "multiplayer"
     ],
     "created_at": "2026-08-22T15:40:51",
-    "updated_at": "2026-08-26T02:08:38"
+    "updated_at": "2026-08-26T05:04:16"
   },
   {
     "name": "oc",
     "full_name": "only-cli/oc",
     "description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
     "url": "https://github.com/only-cli/oc",
-    "stars": 303,
-    "daily_stars": 2,
+    "stars": 308,
+    "daily_stars": 5,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -115,15 +94,15 @@
       "web-scraping"
     ],
     "created_at": "2026-08-18T13:00:30",
-    "updated_at": "2026-08-26T01:14:32"
+    "updated_at": "2026-08-26T04:41:56"
   },
   {
     "name": "dsh-ios",
     "full_name": "ZSeven-W/dsh-ios",
     "description": "DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 21 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
     "url": "https://github.com/ZSeven-W/dsh-ios",
-    "stars": 253,
-    "daily_stars": 0,
+    "stars": 254,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "accessibility",
@@ -144,15 +123,15 @@
       "xcode"
     ],
     "created_at": "2026-08-19T18:02:50",
-    "updated_at": "2026-08-25T14:23:21"
+    "updated_at": "2026-08-26T03:03:38"
   },
   {
     "name": "agenttrail",
     "full_name": "sodiumsun/agenttrail",
     "description": "Local observability map for AI coding agents. Watch Claude Code, Codex, and Cursor plans, tool calls, file changes, and progress in real time.",
     "url": "https://github.com/sodiumsun/agenttrail",
-    "stars": 235,
-    "daily_stars": 13,
+    "stars": 246,
+    "daily_stars": 11,
     "language": "HTML",
     "topics": [
       "agent-monitoring",
@@ -172,7 +151,40 @@
       "progress-tracking"
     ],
     "created_at": "2026-08-21T21:14:33",
-    "updated_at": "2026-08-26T01:49:55"
+    "updated_at": "2026-08-26T05:00:45"
+  },
+  {
+    "name": "halofy",
+    "full_name": "halofyai/halofy",
+    "description": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
+    "url": "https://github.com/halofyai/halofy",
+    "stars": 233,
+    "daily_stars": 51,
+    "language": "TypeScript",
+    "topics": [
+      "access-control",
+      "agent-governance",
+      "agent-memory",
+      "agent-visibility",
+      "ai-agents",
+      "audit-log",
+      "context-engineering",
+      "data-governance",
+      "data-provenance",
+      "identity-management",
+      "knowledge-management",
+      "model-context-protocol",
+      "multi-agent-systems",
+      "multi-tenant",
+      "open-source",
+      "organizational-context",
+      "pgvector",
+      "rbac",
+      "scoped-access",
+      "tenant-isolation"
+    ],
+    "created_at": "2026-08-22T06:09:53",
+    "updated_at": "2026-08-26T05:05:10"
   },
   {
     "name": "sentio",
@@ -199,45 +211,12 @@
     "updated_at": "2026-08-25T16:14:17"
   },
   {
-    "name": "halofy",
-    "full_name": "halofyai/halofy",
-    "description": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
-    "url": "https://github.com/halofyai/halofy",
-    "stars": 182,
-    "daily_stars": 80,
-    "language": "TypeScript",
-    "topics": [
-      "access-control",
-      "agent-governance",
-      "agent-memory",
-      "agent-visibility",
-      "ai-agents",
-      "audit-log",
-      "context-engineering",
-      "data-governance",
-      "data-provenance",
-      "identity-management",
-      "knowledge-management",
-      "model-context-protocol",
-      "multi-agent-systems",
-      "multi-tenant",
-      "open-source",
-      "organizational-context",
-      "pgvector",
-      "rbac",
-      "scoped-access",
-      "tenant-isolation"
-    ],
-    "created_at": "2026-08-22T06:09:53",
-    "updated_at": "2026-08-26T02:05:59"
-  },
-  {
     "name": "oh-story-dsh",
     "full_name": "worldwonderer/oh-story-dsh",
     "description": "A DSH plugin for novel writing and short-drama production, powered by Oh Story and Drama Skills.",
     "url": "https://github.com/worldwonderer/oh-story-dsh",
-    "stars": 179,
-    "daily_stars": 0,
+    "stars": 182,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -252,6 +231,28 @@
       "short-drama"
     ],
     "created_at": "2026-08-19T15:27:01",
-    "updated_at": "2026-08-25T13:24:52"
+    "updated_at": "2026-08-26T04:44:06"
+  },
+  {
+    "name": "oa-design",
+    "full_name": "OpenLabs-so/oa-design",
+    "description": "The Open Analytics design language as an agent skill: component recipes with type-checked source, token CSS, and a CLI. Works with Claude Code, Cursor, or any agent.",
+    "url": "https://github.com/OpenLabs-so/oa-design",
+    "stars": 115,
+    "daily_stars": 1,
+    "language": "TypeScript",
+    "topics": [
+      "agent-skill",
+      "ai-agents",
+      "analytics",
+      "claude-code",
+      "design-system",
+      "motion",
+      "react",
+      "tailwindcss",
+      "ui"
+    ],
+    "created_at": "2026-08-20T18:28:10",
+    "updated_at": "2026-08-26T04:24:26"
   }
 ]
