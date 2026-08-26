@@ -4,8 +4,8 @@
     "full_name": "deepseek-ai/deepseek-harness",
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 197682,
-    "daily_stars": 508,
+    "stars": 197928,
+    "daily_stars": 246,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -14,35 +14,14 @@
       "dsh-plugin"
     ],
     "created_at": "2026-08-13T11:56:32",
-    "updated_at": "2026-08-26T18:14:23"
-  },
-  {
-    "name": "FrontierAgent",
-    "full_name": "ApodexAI/FrontierAgent",
-    "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
-    "url": "https://github.com/ApodexAI/FrontierAgent",
-    "stars": 901,
-    "daily_stars": 61,
-    "language": "Python",
-    "topics": [
-      "agent-orchestration",
-      "agentic-ai",
-      "agentic-framework",
-      "ai-agents",
-      "harness",
-      "multi-agent",
-      "terminal-agent",
-      "tui"
-    ],
-    "created_at": "2026-08-22T05:07:35",
-    "updated_at": "2026-08-26T18:11:49"
+    "updated_at": "2026-08-26T23:57:13"
   },
   {
     "name": "donsetch",
     "full_name": "dondai44423/donsetch",
     "description": "Web fetch, search, and crawl for AI agents. Built from scratch in Rust. No keys, no accounts. AGPL v3.",
     "url": "https://github.com/dondai44423/donsetch",
-    "stars": 290,
+    "stars": 348,
     "daily_stars": 58,
     "language": "Rust",
     "topics": [
@@ -57,15 +36,15 @@
       "web-search"
     ],
     "created_at": "2026-08-07T10:13:16",
-    "updated_at": "2026-08-26T18:13:25"
+    "updated_at": "2026-08-26T23:47:05"
   },
   {
     "name": "unlazy",
     "full_name": "Leonxlnx/unlazy",
     "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
     "url": "https://github.com/Leonxlnx/unlazy",
-    "stars": 2530,
-    "daily_stars": 40,
+    "stars": 2555,
+    "daily_stars": 25,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -77,48 +56,38 @@
       "skill"
     ],
     "created_at": "2026-08-09T23:39:12",
-    "updated_at": "2026-08-26T17:51:10"
+    "updated_at": "2026-08-26T23:50:29"
   },
   {
-    "name": "halofy",
-    "full_name": "halofyai/halofy",
-    "description": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
-    "url": "https://github.com/halofyai/halofy",
-    "stars": 345,
-    "daily_stars": 29,
-    "language": "TypeScript",
+    "name": "moli",
+    "full_name": "lexmount/moli",
+    "description": "Best browser for AI Agent, written in pure Rust",
+    "url": "https://github.com/lexmount/moli",
+    "stars": 1228,
+    "daily_stars": 22,
+    "language": "Rust",
     "topics": [
-      "access-control",
-      "agent-governance",
-      "agent-memory",
-      "agent-visibility",
       "ai-agents",
-      "audit-log",
-      "context-engineering",
-      "data-governance",
-      "data-provenance",
-      "identity-management",
-      "knowledge-management",
-      "model-context-protocol",
-      "multi-agent-systems",
-      "multi-tenant",
-      "open-source",
-      "organizational-context",
-      "pgvector",
-      "rbac",
-      "scoped-access",
-      "tenant-isolation"
+      "ai-tools",
+      "browser",
+      "browser-automation",
+      "cloud-browser",
+      "playwright",
+      "puppeteer",
+      "rust",
+      "servo",
+      "web"
     ],
-    "created_at": "2026-08-22T06:09:53",
-    "updated_at": "2026-08-26T18:13:40"
+    "created_at": "2026-08-10T13:20:30",
+    "updated_at": "2026-08-26T23:56:16"
   },
   {
     "name": "openbot",
     "full_name": "CopilotKit/openbot",
     "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
     "url": "https://github.com/CopilotKit/openbot",
-    "stars": 3007,
-    "daily_stars": 28,
+    "stars": 3024,
+    "daily_stars": 17,
     "language": "TypeScript",
     "topics": [
       "ag-ui",
@@ -130,47 +99,15 @@
       "mcp"
     ],
     "created_at": "2026-08-17T00:44:59",
-    "updated_at": "2026-08-26T18:04:54"
-  },
-  {
-    "name": "x64dbg-mcp-server",
-    "full_name": "duty1g/x64dbg-mcp-server",
-    "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
-    "url": "https://github.com/duty1g/x64dbg-mcp-server",
-    "stars": 1459,
-    "daily_stars": 20,
-    "language": "Zig",
-    "topics": [
-      "ai-agents",
-      "ai-debugging",
-      "binary-analysis",
-      "claude",
-      "claude-code",
-      "malware-analysis",
-      "malware-research",
-      "malware-scanner",
-      "mcp",
-      "mcp-server",
-      "mcp-servers",
-      "x64dbg",
-      "x64dbg-mcp",
-      "x64dbg-plugin",
-      "x64dbg-tools",
-      "xdbg",
-      "zig",
-      "zig-lang",
-      "ziglang"
-    ],
-    "created_at": "2026-08-22T14:28:41",
-    "updated_at": "2026-08-26T17:15:58"
+    "updated_at": "2026-08-26T23:41:37"
   },
   {
     "name": "appllama-skills",
     "full_name": "Appllama/appllama-skills",
     "description": "A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile screens.",
     "url": "https://github.com/Appllama/appllama-skills",
-    "stars": 287,
-    "daily_stars": 20,
+    "stars": 303,
+    "daily_stars": 16,
     "language": null,
     "topics": [
       "agent-skills",
@@ -194,53 +131,102 @@
       "ui-design"
     ],
     "created_at": "2026-08-13T07:19:54",
-    "updated_at": "2026-08-26T17:49:19"
+    "updated_at": "2026-08-26T23:30:56"
   },
   {
-    "name": "moli",
-    "full_name": "lexmount/moli",
-    "description": "Best browser for AI Agent, written in pure Rust",
-    "url": "https://github.com/lexmount/moli",
-    "stars": 1206,
-    "daily_stars": 13,
-    "language": "Rust",
+    "name": "FrontierAgent",
+    "full_name": "ApodexAI/FrontierAgent",
+    "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+    "url": "https://github.com/ApodexAI/FrontierAgent",
+    "stars": 916,
+    "daily_stars": 15,
+    "language": "Python",
     "topics": [
+      "agent-orchestration",
+      "agentic-ai",
+      "agentic-framework",
       "ai-agents",
-      "ai-tools",
-      "browser",
-      "browser-automation",
-      "cloud-browser",
-      "playwright",
-      "puppeteer",
-      "rust",
-      "servo",
-      "web"
+      "harness",
+      "multi-agent",
+      "terminal-agent",
+      "tui"
     ],
-    "created_at": "2026-08-10T13:20:30",
-    "updated_at": "2026-08-26T18:05:38"
+    "created_at": "2026-08-22T05:07:35",
+    "updated_at": "2026-08-26T23:52:49"
   },
   {
-    "name": "stop-that-shit",
-    "full_name": "lennney/stop-that-shit",
-    "description": "Keep Codex from adding unneeded modules, subagents, dependencies, and hashes to small tasks.",
-    "url": "https://github.com/lennney/stop-that-shit",
-    "stars": 437,
-    "daily_stars": 13,
+    "name": "memorax-code",
+    "full_name": "memorax-ai/memorax-code",
+    "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
+    "url": "https://github.com/memorax-ai/memorax-code",
+    "stars": 912,
+    "daily_stars": 14,
     "language": "JavaScript",
     "topics": [
-      "agent-skills",
       "ai-agents",
+      "claude-code",
       "codex",
-      "codex-cli",
-      "codex-plugin",
+      "coding-memory",
       "developer-tools",
-      "guardrails",
-      "local-first",
-      "overengineering",
-      "scope-control",
-      "yagni"
+      "memorax",
+      "typescript"
     ],
-    "created_at": "2026-08-11T15:31:45",
-    "updated_at": "2026-08-26T17:32:58"
+    "created_at": "2026-08-01T02:13:37",
+    "updated_at": "2026-08-26T23:44:21"
+  },
+  {
+    "name": "rakazo",
+    "full_name": "elie222/rakazo",
+    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+    "url": "https://github.com/elie222/rakazo",
+    "stars": 1351,
+    "daily_stars": 13,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "docker",
+      "electron",
+      "expo",
+      "grok",
+      "llm",
+      "self-hosted",
+      "typescript"
+    ],
+    "created_at": "2026-08-13T06:28:56",
+    "updated_at": "2026-08-26T23:55:16"
+  },
+  {
+    "name": "kimi-k3-in-c",
+    "full_name": "FareedKhan-dev/kimi-k3-in-c",
+    "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+    "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+    "stars": 6524,
+    "daily_stars": 11,
+    "language": "C",
+    "topics": [
+      "avx2",
+      "c99",
+      "cpu-inference",
+      "deep-learning",
+      "from-scratch",
+      "inference-engine",
+      "kimi-k3",
+      "linear-attention",
+      "llm",
+      "llm-inference",
+      "machine-learning",
+      "memory-efficient",
+      "mixture-of-experts",
+      "moe",
+      "mxfp4",
+      "quantization",
+      "simd",
+      "systems-programming",
+      "transformer",
+      "zero-dependencies"
+    ],
+    "created_at": "2026-08-01T09:29:38",
+    "updated_at": "2026-08-26T23:32:06"
   }
 ]
