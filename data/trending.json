@@ -4,8 +4,8 @@
     "full_name": "deepseek-ai/deepseek-harness",
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 196593,
-    "daily_stars": 693,
+    "stars": 197174,
+    "daily_stars": 581,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -14,15 +14,15 @@
       "dsh-plugin"
     ],
     "created_at": "2026-08-13T11:56:32",
-    "updated_at": "2026-08-26T09:11:19"
+    "updated_at": "2026-08-26T13:33:10"
   },
   {
     "name": "FrontierAgent",
     "full_name": "ApodexAI/FrontierAgent",
     "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
     "url": "https://github.com/ApodexAI/FrontierAgent",
-    "stars": 776,
-    "daily_stars": 88,
+    "stars": 840,
+    "daily_stars": 64,
     "language": "Python",
     "topics": [
       "agent-orchestration",
@@ -35,36 +35,69 @@
       "tui"
     ],
     "created_at": "2026-08-22T05:07:35",
-    "updated_at": "2026-08-26T09:08:53"
+    "updated_at": "2026-08-26T13:32:28"
   },
   {
-    "name": "sprix-sage-router",
-    "full_name": "wang2122/sprix-sage-router",
-    "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-    "url": "https://github.com/wang2122/sprix-sage-router",
-    "stars": 2218,
-    "daily_stars": 82,
-    "language": "Python",
+    "name": "donsetch",
+    "full_name": "dondai44423/donsetch",
+    "description": "Web fetch, search, and crawl for AI agents. Built from scratch in Rust. No keys, no accounts. AGPL v3.",
+    "url": "https://github.com/dondai44423/donsetch",
+    "stars": 232,
+    "daily_stars": 49,
+    "language": "Rust",
     "topics": [
-      "a2a",
-      "agent-orchestration",
-      "agent-routing",
+      "agpl",
       "ai-agents",
-      "multi-agent-systems",
-      "python",
-      "sprix-ai",
-      "task-scheduling"
+      "anti-bot",
+      "crawling",
+      "mcp",
+      "pdf",
+      "rust",
+      "web-scraper",
+      "web-search"
     ],
-    "created_at": "2026-08-18T04:08:11",
-    "updated_at": "2026-08-26T07:54:47"
+    "created_at": "2026-08-07T10:13:16",
+    "updated_at": "2026-08-26T13:29:34"
+  },
+  {
+    "name": "appllama-skills",
+    "full_name": "Appllama/appllama-skills",
+    "description": "A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile screens.",
+    "url": "https://github.com/Appllama/appllama-skills",
+    "stars": 267,
+    "daily_stars": 38,
+    "language": null,
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-code-skill",
+      "claude-skills",
+      "codex",
+      "codex-skill",
+      "cursor",
+      "design-system",
+      "expo",
+      "mcp",
+      "mobile-app-development",
+      "mobile-design",
+      "mobile-ui",
+      "model-context-protocol",
+      "react-native",
+      "skills",
+      "ui-design"
+    ],
+    "created_at": "2026-08-13T07:19:54",
+    "updated_at": "2026-08-26T13:31:52"
   },
   {
     "name": "halofy",
     "full_name": "halofyai/halofy",
     "description": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
     "url": "https://github.com/halofyai/halofy",
-    "stars": 279,
-    "daily_stars": 46,
+    "stars": 316,
+    "daily_stars": 37,
     "language": "TypeScript",
     "topics": [
       "access-control",
@@ -89,99 +122,15 @@
       "tenant-isolation"
     ],
     "created_at": "2026-08-22T06:09:53",
-    "updated_at": "2026-08-26T08:55:08"
-  },
-  {
-    "name": "appllama-skills",
-    "full_name": "Appllama/appllama-skills",
-    "description": "A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile screens.",
-    "url": "https://github.com/Appllama/appllama-skills",
-    "stars": 229,
-    "daily_stars": 37,
-    "language": null,
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "claude-code-skill",
-      "claude-skills",
-      "codex",
-      "codex-skill",
-      "cursor",
-      "design-system",
-      "expo",
-      "mcp",
-      "mobile-app-development",
-      "mobile-design",
-      "mobile-ui",
-      "model-context-protocol",
-      "react-native",
-      "skills",
-      "ui-design"
-    ],
-    "created_at": "2026-08-13T07:19:54",
-    "updated_at": "2026-08-26T09:06:13"
-  },
-  {
-    "name": "x64dbg-mcp-server",
-    "full_name": "duty1g/x64dbg-mcp-server",
-    "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
-    "url": "https://github.com/duty1g/x64dbg-mcp-server",
-    "stars": 1429,
-    "daily_stars": 23,
-    "language": "Zig",
-    "topics": [
-      "ai-agents",
-      "ai-debugging",
-      "binary-analysis",
-      "claude",
-      "claude-code",
-      "malware-analysis",
-      "malware-research",
-      "malware-scanner",
-      "mcp",
-      "mcp-server",
-      "mcp-servers",
-      "x64dbg",
-      "x64dbg-mcp",
-      "x64dbg-plugin",
-      "x64dbg-tools",
-      "xdbg",
-      "zig",
-      "zig-lang",
-      "ziglang"
-    ],
-    "created_at": "2026-08-22T14:28:41",
-    "updated_at": "2026-08-26T09:03:13"
-  },
-  {
-    "name": "openbot",
-    "full_name": "CopilotKit/openbot",
-    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-    "url": "https://github.com/CopilotKit/openbot",
-    "stars": 2951,
-    "daily_stars": 20,
-    "language": "TypeScript",
-    "topics": [
-      "ag-ui",
-      "agent-governance",
-      "ai-agents",
-      "browser-automation",
-      "copilotkit",
-      "generative-ui",
-      "mcp"
-    ],
-    "created_at": "2026-08-17T00:44:59",
-    "updated_at": "2026-08-26T09:10:09"
+    "updated_at": "2026-08-26T13:33:38"
   },
   {
     "name": "unlazy",
     "full_name": "Leonxlnx/unlazy",
     "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
     "url": "https://github.com/Leonxlnx/unlazy",
-    "stars": 2455,
-    "daily_stars": 19,
+    "stars": 2490,
+    "daily_stars": 35,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -193,37 +142,57 @@
       "skill"
     ],
     "created_at": "2026-08-09T23:39:12",
-    "updated_at": "2026-08-26T09:10:33"
+    "updated_at": "2026-08-26T13:33:19"
   },
   {
-    "name": "rakazo",
-    "full_name": "elie222/rakazo",
-    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-    "url": "https://github.com/elie222/rakazo",
-    "stars": 1313,
+    "name": "openbot",
+    "full_name": "CopilotKit/openbot",
+    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+    "url": "https://github.com/CopilotKit/openbot",
+    "stars": 2979,
+    "daily_stars": 28,
+    "language": "TypeScript",
+    "topics": [
+      "ag-ui",
+      "agent-governance",
+      "ai-agents",
+      "browser-automation",
+      "copilotkit",
+      "generative-ui",
+      "mcp"
+    ],
+    "created_at": "2026-08-17T00:44:59",
+    "updated_at": "2026-08-26T13:31:36"
+  },
+  {
+    "name": "doop",
+    "full_name": "kgoedecke/doop",
+    "description": "The open-source alternative to Paper.design — a multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+    "url": "https://github.com/kgoedecke/doop",
+    "stars": 403,
     "daily_stars": 18,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "chatgpt",
-      "docker",
-      "electron",
-      "expo",
-      "grok",
-      "llm",
-      "self-hosted",
-      "typescript"
+      "canvas",
+      "claude",
+      "claude-code",
+      "claude-design",
+      "design",
+      "design-tool",
+      "mcp",
+      "multiplayer"
     ],
-    "created_at": "2026-08-13T06:28:56",
-    "updated_at": "2026-08-26T09:05:16"
+    "created_at": "2026-08-22T15:40:51",
+    "updated_at": "2026-08-26T13:32:40"
   },
   {
     "name": "moli",
     "full_name": "lexmount/moli",
     "description": "Best browser for AI Agent, written in pure Rust",
     "url": "https://github.com/lexmount/moli",
-    "stars": 1177,
-    "daily_stars": 18,
+    "stars": 1193,
+    "daily_stars": 16,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -238,6 +207,28 @@
       "web"
     ],
     "created_at": "2026-08-10T13:20:30",
-    "updated_at": "2026-08-26T09:04:31"
+    "updated_at": "2026-08-26T13:27:47"
+  },
+  {
+    "name": "rakazo",
+    "full_name": "elie222/rakazo",
+    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+    "url": "https://github.com/elie222/rakazo",
+    "stars": 1326,
+    "daily_stars": 13,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "docker",
+      "electron",
+      "expo",
+      "grok",
+      "llm",
+      "self-hosted",
+      "typescript"
+    ],
+    "created_at": "2026-08-13T06:28:56",
+    "updated_at": "2026-08-26T13:23:27"
   }
 ]
