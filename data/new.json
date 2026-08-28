@@ -4,8 +4,8 @@
     "full_name": "duty1g/x64dbg-mcp-server",
     "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
     "url": "https://github.com/duty1g/x64dbg-mcp-server",
-    "stars": 1540,
-    "daily_stars": 53,
+    "stars": 1623,
+    "daily_stars": 83,
     "language": "Zig",
     "topics": [
       "ai-agents",
@@ -29,15 +29,15 @@
       "ziglang"
     ],
     "created_at": "2026-08-22T14:28:41",
-    "updated_at": "2026-08-27T20:41:33"
+    "updated_at": "2026-08-28T10:34:21"
   },
   {
     "name": "FrontierAgent",
     "full_name": "ApodexAI/FrontierAgent",
     "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
     "url": "https://github.com/ApodexAI/FrontierAgent",
-    "stars": 1124,
-    "daily_stars": 63,
+    "stars": 1189,
+    "daily_stars": 65,
     "language": "Python",
     "topics": [
       "agent-orchestration",
@@ -50,15 +50,15 @@
       "tui"
     ],
     "created_at": "2026-08-22T05:07:35",
-    "updated_at": "2026-08-27T22:27:26"
+    "updated_at": "2026-08-28T11:08:57"
   },
   {
     "name": "doop",
     "full_name": "kgoedecke/doop",
     "description": "The open-source alternative to Paper.design — a multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
     "url": "https://github.com/kgoedecke/doop",
-    "stars": 454,
-    "daily_stars": 31,
+    "stars": 471,
+    "daily_stars": 17,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -72,15 +72,15 @@
       "multiplayer"
     ],
     "created_at": "2026-08-22T15:40:51",
-    "updated_at": "2026-08-27T21:35:09"
+    "updated_at": "2026-08-28T10:45:12"
   },
   {
     "name": "halofy",
     "full_name": "halofyai/halofy",
     "description": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
     "url": "https://github.com/halofyai/halofy",
-    "stars": 408,
-    "daily_stars": 28,
+    "stars": 434,
+    "daily_stars": 26,
     "language": "TypeScript",
     "topics": [
       "access-control",
@@ -105,15 +105,15 @@
       "tenant-isolation"
     ],
     "created_at": "2026-08-22T06:09:53",
-    "updated_at": "2026-08-27T21:46:33"
+    "updated_at": "2026-08-28T10:04:34"
   },
   {
     "name": "agenttrail",
     "full_name": "sodiumsun/agenttrail",
     "description": "Local observability map for AI coding agents. Watch Claude Code, Codex, and Cursor plans, tool calls, file changes, and progress in real time.",
     "url": "https://github.com/sodiumsun/agenttrail",
-    "stars": 282,
-    "daily_stars": 9,
+    "stars": 284,
+    "daily_stars": 2,
     "language": "HTML",
     "topics": [
       "agent-monitoring",
@@ -133,15 +133,35 @@
       "progress-tracking"
     ],
     "created_at": "2026-08-21T21:14:33",
-    "updated_at": "2026-08-27T22:15:14"
+    "updated_at": "2026-08-28T05:06:09"
+  },
+  {
+    "name": "simplify-codebase",
+    "full_name": "tt-a1i/simplify-codebase",
+    "description": "Prove and remove accidental codebase complexity without breaking behavior.",
+    "url": "https://github.com/tt-a1i/simplify-codebase",
+    "stars": 248,
+    "daily_stars": 147,
+    "language": null,
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "code-quality",
+      "codebase",
+      "codex",
+      "developer-tools",
+      "refactoring"
+    ],
+    "created_at": "2026-08-24T07:52:08",
+    "updated_at": "2026-08-28T11:31:34"
   },
   {
     "name": "sentio",
     "full_name": "truespar/sentio",
     "description": "Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
     "url": "https://github.com/truespar/sentio",
-    "stars": 219,
-    "daily_stars": 7,
+    "stars": 222,
+    "daily_stars": 3,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -157,15 +177,32 @@
       "smtp-server"
     ],
     "created_at": "2026-08-23T21:36:25",
-    "updated_at": "2026-08-27T19:35:29"
+    "updated_at": "2026-08-28T11:34:45"
+  },
+  {
+    "name": "OpenInstinct",
+    "full_name": "Merit-Systems/OpenInstinct",
+    "description": "iMessage personal assistant + password vault",
+    "url": "https://github.com/Merit-Systems/OpenInstinct",
+    "stars": 164,
+    "daily_stars": 62,
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "imessage"
+    ],
+    "created_at": "2026-08-25T14:42:47",
+    "updated_at": "2026-08-28T11:34:36"
   },
   {
     "name": "oa-design",
     "full_name": "OpenLabs-so/oa-design",
     "description": "The Open Analytics design language as an agent skill: component recipes with type-checked source, token CSS, and a CLI. Works with Claude Code, Cursor, or any agent.",
     "url": "https://github.com/OpenLabs-so/oa-design",
-    "stars": 117,
-    "daily_stars": 0,
+    "stars": 118,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "agent-skill",
@@ -179,76 +216,25 @@
       "ui"
     ],
     "created_at": "2026-08-20T18:28:10",
-    "updated_at": "2026-08-27T06:35:48"
+    "updated_at": "2026-08-28T05:04:14"
   },
   {
-    "name": "jiaojie-skill",
-    "full_name": "Jordanwei1/jiaojie-skill",
-    "description": "交接 Skill（Jiaojie）：跨窗口、跨模型、跨设备、跨语言的 AI 上下文交接工具。换窗口，不失忆；换模型，不重来。Open-source AI context handoff.",
-    "url": "https://github.com/Jordanwei1/jiaojie-skill",
-    "stars": 103,
+    "name": "opengrok",
+    "full_name": "OnlyTerp/opengrok",
+    "description": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
+    "url": "https://github.com/OnlyTerp/opengrok",
+    "stars": 110,
     "daily_stars": 0,
     "language": "Python",
     "topics": [
-      "agent-skills",
-      "ai-agent",
       "ai-agents",
-      "ai-memory",
-      "claude-code",
-      "claude-code-skill",
-      "codex",
-      "codex-skill",
-      "context-engineering",
-      "context-handoff",
-      "cross-model",
-      "cursor",
-      "cursor-skills",
-      "gemini-cli",
-      "gemini-cli-skills",
-      "handoff",
+      "grok",
       "llm",
-      "open-source",
-      "openclaw",
-      "openclaw-skill"
+      "model-router",
+      "openai-compatible",
+      "windows"
     ],
-    "created_at": "2026-08-20T08:57:52",
-    "updated_at": "2026-08-25T20:29:50"
-  },
-  {
-    "name": "OpenInstinct",
-    "full_name": "Merit-Systems/OpenInstinct",
-    "description": "iMessage personal assistant + password vault",
-    "url": "https://github.com/Merit-Systems/OpenInstinct",
-    "stars": 102,
-    "daily_stars": 0,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agents",
-      "imessage"
-    ],
-    "created_at": "2026-08-25T14:42:47",
-    "updated_at": "2026-08-27T22:27:50"
-  },
-  {
-    "name": "simplify-codebase",
-    "full_name": "tt-a1i/simplify-codebase",
-    "description": "Prove and remove accidental codebase complexity without breaking behavior.",
-    "url": "https://github.com/tt-a1i/simplify-codebase",
-    "stars": 101,
-    "daily_stars": 0,
-    "language": null,
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "code-quality",
-      "codebase",
-      "codex",
-      "developer-tools",
-      "refactoring"
-    ],
-    "created_at": "2026-08-24T07:52:08",
-    "updated_at": "2026-08-27T22:21:57"
+    "created_at": "2026-08-27T18:30:44",
+    "updated_at": "2026-08-28T11:29:16"
   }
 ]
