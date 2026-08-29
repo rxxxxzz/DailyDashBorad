@@ -4,8 +4,8 @@
     "full_name": "duty1g/x64dbg-mcp-server",
     "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
     "url": "https://github.com/duty1g/x64dbg-mcp-server",
-    "stars": 1663,
-    "daily_stars": 40,
+    "stars": 1679,
+    "daily_stars": 16,
     "language": "Zig",
     "topics": [
       "ai-agents",
@@ -29,15 +29,15 @@
       "ziglang"
     ],
     "created_at": "2026-08-22T14:28:41",
-    "updated_at": "2026-08-28T22:28:39"
+    "updated_at": "2026-08-29T07:06:47"
   },
   {
     "name": "FrontierAgent",
     "full_name": "ApodexAI/FrontierAgent",
     "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
     "url": "https://github.com/ApodexAI/FrontierAgent",
-    "stars": 1219,
-    "daily_stars": 30,
+    "stars": 1240,
+    "daily_stars": 21,
     "language": "Python",
     "topics": [
       "agent-orchestration",
@@ -50,15 +50,34 @@
       "tui"
     ],
     "created_at": "2026-08-22T05:07:35",
-    "updated_at": "2026-08-28T22:20:55"
+    "updated_at": "2026-08-29T07:10:24"
+  },
+  {
+    "name": "codex-with-chatgpt",
+    "full_name": "XiaoDuoYa/codex-with-chatgpt",
+    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+    "stars": 529,
+    "daily_stars": 281,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "codex",
+      "mcp",
+      "model-context-protocol",
+      "oauth"
+    ],
+    "created_at": "2026-08-28T12:57:24",
+    "updated_at": "2026-08-29T07:13:17"
   },
   {
     "name": "doop",
     "full_name": "kgoedecke/doop",
     "description": "The open-source alternative to Paper.design — a multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
     "url": "https://github.com/kgoedecke/doop",
-    "stars": 487,
-    "daily_stars": 16,
+    "stars": 491,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -72,15 +91,15 @@
       "multiplayer"
     ],
     "created_at": "2026-08-22T15:40:51",
-    "updated_at": "2026-08-28T21:48:56"
+    "updated_at": "2026-08-29T05:16:48"
   },
   {
     "name": "halofy",
     "full_name": "halofyai/halofy",
     "description": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
     "url": "https://github.com/halofyai/halofy",
-    "stars": 455,
-    "daily_stars": 21,
+    "stars": 469,
+    "daily_stars": 14,
     "language": "TypeScript",
     "topics": [
       "access-control",
@@ -105,35 +124,15 @@
       "tenant-isolation"
     ],
     "created_at": "2026-08-22T06:09:53",
-    "updated_at": "2026-08-28T21:58:55"
-  },
-  {
-    "name": "simplify-codebase",
-    "full_name": "tt-a1i/simplify-codebase",
-    "description": "Prove and remove accidental codebase complexity without breaking behavior.",
-    "url": "https://github.com/tt-a1i/simplify-codebase",
-    "stars": 310,
-    "daily_stars": 62,
-    "language": null,
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "code-quality",
-      "codebase",
-      "codex",
-      "developer-tools",
-      "refactoring"
-    ],
-    "created_at": "2026-08-24T07:52:08",
-    "updated_at": "2026-08-28T21:30:42"
+    "updated_at": "2026-08-29T05:37:48"
   },
   {
     "name": "agenttrail",
     "full_name": "sodiumsun/agenttrail",
     "description": "Local observability map for AI coding agents. Watch Claude Code, Codex, and Cursor plans, tool calls, file changes, and progress in real time.",
     "url": "https://github.com/sodiumsun/agenttrail",
-    "stars": 309,
-    "daily_stars": 25,
+    "stars": 354,
+    "daily_stars": 45,
     "language": "HTML",
     "topics": [
       "agent-monitoring",
@@ -153,34 +152,54 @@
       "progress-tracking"
     ],
     "created_at": "2026-08-21T21:14:33",
-    "updated_at": "2026-08-28T22:15:10"
+    "updated_at": "2026-08-29T07:13:54"
   },
   {
-    "name": "codex-with-chatgpt",
-    "full_name": "XiaoDuoYa/codex-with-chatgpt",
-    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-    "stars": 248,
-    "daily_stars": 0,
-    "language": "TypeScript",
+    "name": "simplify-codebase",
+    "full_name": "tt-a1i/simplify-codebase",
+    "description": "Prove and remove accidental codebase complexity without breaking behavior.",
+    "url": "https://github.com/tt-a1i/simplify-codebase",
+    "stars": 333,
+    "daily_stars": 23,
+    "language": null,
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "code-quality",
+      "codebase",
+      "codex",
+      "developer-tools",
+      "refactoring"
+    ],
+    "created_at": "2026-08-24T07:52:08",
+    "updated_at": "2026-08-29T06:52:09"
+  },
+  {
+    "name": "opengrok",
+    "full_name": "OnlyTerp/opengrok",
+    "description": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
+    "url": "https://github.com/OnlyTerp/opengrok",
+    "stars": 301,
+    "daily_stars": 79,
+    "language": "Python",
     "topics": [
       "ai-agents",
-      "chatgpt",
-      "codex",
-      "mcp",
-      "model-context-protocol",
-      "oauth"
+      "grok",
+      "llm",
+      "model-router",
+      "openai-compatible",
+      "windows"
     ],
-    "created_at": "2026-08-28T12:57:24",
-    "updated_at": "2026-08-28T22:31:24"
+    "created_at": "2026-08-27T18:30:44",
+    "updated_at": "2026-08-29T07:04:20"
   },
   {
     "name": "sentio",
     "full_name": "truespar/sentio",
     "description": "Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
     "url": "https://github.com/truespar/sentio",
-    "stars": 223,
-    "daily_stars": 1,
+    "stars": 226,
+    "daily_stars": 3,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -196,34 +215,15 @@
       "smtp-server"
     ],
     "created_at": "2026-08-23T21:36:25",
-    "updated_at": "2026-08-28T21:54:18"
-  },
-  {
-    "name": "opengrok",
-    "full_name": "OnlyTerp/opengrok",
-    "description": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
-    "url": "https://github.com/OnlyTerp/opengrok",
-    "stars": 222,
-    "daily_stars": 112,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "grok",
-      "llm",
-      "model-router",
-      "openai-compatible",
-      "windows"
-    ],
-    "created_at": "2026-08-27T18:30:44",
-    "updated_at": "2026-08-28T22:27:54"
+    "updated_at": "2026-08-29T06:52:26"
   },
   {
     "name": "acryl",
     "full_name": "acryldev/acryl",
     "description": "ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent.",
     "url": "https://github.com/acryldev/acryl",
-    "stars": 219,
-    "daily_stars": 0,
+    "stars": 220,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "acryl",
@@ -234,6 +234,6 @@
       "deepseek-harness"
     ],
     "created_at": "2026-08-25T15:53:56",
-    "updated_at": "2026-08-28T19:39:52"
+    "updated_at": "2026-08-29T04:24:04"
   }
 ]
