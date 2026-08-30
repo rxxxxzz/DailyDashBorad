@@ -4,8 +4,8 @@
     "full_name": "deepseek-ai/deepseek-harness",
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 203360,
-    "daily_stars": 100,
+    "stars": 203710,
+    "daily_stars": 350,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -14,15 +14,36 @@
       "dsh-plugin"
     ],
     "created_at": "2026-08-13T11:56:32",
-    "updated_at": "2026-08-29T22:43:46"
+    "updated_at": "2026-08-30T05:39:15"
+  },
+  {
+    "name": "sprix-sage-router",
+    "full_name": "wang2122/sprix-sage-router",
+    "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+    "url": "https://github.com/wang2122/sprix-sage-router",
+    "stars": 2783,
+    "daily_stars": 115,
+    "language": "Python",
+    "topics": [
+      "a2a",
+      "agent-orchestration",
+      "agent-routing",
+      "ai-agents",
+      "multi-agent-systems",
+      "python",
+      "sprix-ai",
+      "task-scheduling"
+    ],
+    "created_at": "2026-08-18T04:08:11",
+    "updated_at": "2026-08-30T05:16:28"
   },
   {
     "name": "codex-with-chatgpt",
     "full_name": "XiaoDuoYa/codex-with-chatgpt",
     "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
     "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-    "stars": 900,
-    "daily_stars": 22,
+    "stars": 1003,
+    "daily_stars": 103,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -33,15 +54,65 @@
       "oauth"
     ],
     "created_at": "2026-08-28T12:57:24",
-    "updated_at": "2026-08-29T22:21:05"
+    "updated_at": "2026-08-30T05:35:52"
+  },
+  {
+    "name": "stop-that-shit",
+    "full_name": "lennney/stop-that-shit",
+    "description": "Keep Codex from adding unneeded modules, subagents, dependencies, and hashes to small tasks.",
+    "url": "https://github.com/lennney/stop-that-shit",
+    "stars": 729,
+    "daily_stars": 38,
+    "language": "JavaScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "codex",
+      "codex-cli",
+      "codex-plugin",
+      "developer-tools",
+      "guardrails",
+      "local-first",
+      "overengineering",
+      "scope-control",
+      "yagni"
+    ],
+    "created_at": "2026-08-11T15:31:45",
+    "updated_at": "2026-08-30T05:19:34"
+  },
+  {
+    "name": "VoiceMem",
+    "full_name": "xzf-thu/VoiceMem",
+    "description": "a real-time and empathetic memory system for voice assistants",
+    "url": "https://github.com/xzf-thu/VoiceMem",
+    "stars": 207,
+    "daily_stars": 27,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "application",
+      "audio-streaming",
+      "genai",
+      "llm",
+      "long-term-memory",
+      "memory",
+      "memory-management",
+      "python",
+      "voice-agent",
+      "voice-assistant"
+    ],
+    "created_at": "2026-08-17T09:49:10",
+    "updated_at": "2026-08-30T05:35:59"
   },
   {
     "name": "openbot",
     "full_name": "CopilotKit/openbot",
     "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
     "url": "https://github.com/CopilotKit/openbot",
-    "stars": 3435,
-    "daily_stars": 17,
+    "stars": 3457,
+    "daily_stars": 22,
     "language": "TypeScript",
     "topics": [
       "ag-ui",
@@ -53,60 +124,15 @@
       "mcp"
     ],
     "created_at": "2026-08-17T00:44:59",
-    "updated_at": "2026-08-29T22:29:59"
-  },
-  {
-    "name": "rakazo",
-    "full_name": "elie222/rakazo",
-    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-    "url": "https://github.com/elie222/rakazo",
-    "stars": 1505,
-    "daily_stars": 10,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "chatgpt",
-      "docker",
-      "electron",
-      "expo",
-      "grok",
-      "llm",
-      "self-hosted",
-      "typescript"
-    ],
-    "created_at": "2026-08-13T06:28:56",
-    "updated_at": "2026-08-29T22:40:39"
-  },
-  {
-    "name": "moli",
-    "full_name": "lexmount/moli",
-    "description": "Best browser for AI Agent, written in pure Rust",
-    "url": "https://github.com/lexmount/moli",
-    "stars": 1434,
-    "daily_stars": 10,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "browser",
-      "browser-automation",
-      "cloud-browser",
-      "playwright",
-      "puppeteer",
-      "rust",
-      "servo",
-      "web"
-    ],
-    "created_at": "2026-08-10T13:20:30",
-    "updated_at": "2026-08-29T22:35:27"
+    "updated_at": "2026-08-30T05:29:54"
   },
   {
     "name": "x64dbg-mcp-server",
     "full_name": "duty1g/x64dbg-mcp-server",
     "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
     "url": "https://github.com/duty1g/x64dbg-mcp-server",
-    "stars": 1733,
-    "daily_stars": 8,
+    "stars": 1755,
+    "daily_stars": 22,
     "language": "Zig",
     "topics": [
       "ai-agents",
@@ -130,100 +156,71 @@
       "ziglang"
     ],
     "created_at": "2026-08-22T14:28:41",
-    "updated_at": "2026-08-29T22:32:30"
+    "updated_at": "2026-08-30T05:11:19"
   },
   {
-    "name": "open-steps",
-    "full_name": "kharmanskyi/open-steps",
-    "description": "Skills that translate your coding agent's output into plain language: honest reports, straight verdicts, steps you can follow. MIT.",
-    "url": "https://github.com/kharmanskyi/open-steps",
-    "stars": 114,
-    "daily_stars": 7,
-    "language": "Shell",
-    "topics": [
-      "agent-skill",
-      "agent-skills",
-      "ai-agents",
-      "claude-code",
-      "claude-code-plugin",
-      "claude-code-skills",
-      "claude-skill",
-      "prompt-optimization",
-      "vibe-coding"
-    ],
-    "created_at": "2026-08-25T14:24:24",
-    "updated_at": "2026-08-29T22:01:08"
-  },
-  {
-    "name": "memorax-code",
-    "full_name": "memorax-ai/memorax-code",
-    "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
-    "url": "https://github.com/memorax-ai/memorax-code",
-    "stars": 1126,
-    "daily_stars": 6,
-    "language": "JavaScript",
+    "name": "rakazo",
+    "full_name": "elie222/rakazo",
+    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+    "url": "https://github.com/elie222/rakazo",
+    "stars": 1522,
+    "daily_stars": 17,
+    "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "claude-code",
-      "codex",
-      "coding-memory",
-      "developer-tools",
-      "memorax",
+      "chatgpt",
+      "docker",
+      "electron",
+      "expo",
+      "grok",
+      "llm",
+      "self-hosted",
       "typescript"
     ],
-    "created_at": "2026-08-01T02:13:37",
-    "updated_at": "2026-08-29T22:31:34"
+    "created_at": "2026-08-13T06:28:56",
+    "updated_at": "2026-08-30T04:57:51"
   },
   {
-    "name": "stop-that-shit",
-    "full_name": "lennney/stop-that-shit",
-    "description": "Keep Codex from adding unneeded modules, subagents, dependencies, and hashes to small tasks.",
-    "url": "https://github.com/lennney/stop-that-shit",
-    "stars": 691,
-    "daily_stars": 6,
+    "name": "moli",
+    "full_name": "lexmount/moli",
+    "description": "Best browser for AI Agent, written in pure Rust",
+    "url": "https://github.com/lexmount/moli",
+    "stars": 1447,
+    "daily_stars": 13,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "browser",
+      "browser-automation",
+      "cloud-browser",
+      "playwright",
+      "puppeteer",
+      "rust",
+      "servo",
+      "web"
+    ],
+    "created_at": "2026-08-10T13:20:30",
+    "updated_at": "2026-08-30T05:38:41"
+  },
+  {
+    "name": "unlazy",
+    "full_name": "Leonxlnx/unlazy",
+    "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
+    "url": "https://github.com/Leonxlnx/unlazy",
+    "stars": 2785,
+    "daily_stars": 12,
     "language": "JavaScript",
     "topics": [
-      "agent-skills",
       "ai-agents",
-      "codex",
-      "codex-cli",
-      "codex-plugin",
-      "developer-tools",
-      "guardrails",
-      "local-first",
-      "overengineering",
-      "scope-control",
-      "yagni"
-    ],
-    "created_at": "2026-08-11T15:31:45",
-    "updated_at": "2026-08-29T22:33:55"
-  },
-  {
-    "name": "agenttrail",
-    "full_name": "sodiumsun/agenttrail",
-    "description": "Local observability map for AI coding agents. Watch Claude Code, Codex, and Cursor plans, tool calls, file changes, and progress in real time.",
-    "url": "https://github.com/sodiumsun/agenttrail",
-    "stars": 428,
-    "daily_stars": 6,
-    "language": "HTML",
-    "topics": [
-      "agent-monitoring",
-      "agent-observability",
-      "ai-agents",
-      "ai-coding-agents",
+      "claude",
       "claude-code",
-      "coding-agents",
-      "cursor-ai",
-      "dashboard",
-      "developer-tools",
-      "file-watcher",
-      "local-first",
-      "monitoring",
-      "nodejs",
-      "openai-codex",
-      "progress-tracking"
+      "llm",
+      "productivity",
+      "prompt-engineering",
+      "skill"
     ],
-    "created_at": "2026-08-21T21:14:33",
-    "updated_at": "2026-08-29T21:51:27"
+    "created_at": "2026-08-09T23:39:12",
+    "updated_at": "2026-08-30T04:09:15"
   }
 ]
