@@ -4,8 +4,8 @@
     "full_name": "deepseek-ai/deepseek-harness",
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 203710,
-    "daily_stars": 350,
+    "stars": 204270,
+    "daily_stars": 560,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -14,36 +14,15 @@
       "dsh-plugin"
     ],
     "created_at": "2026-08-13T11:56:32",
-    "updated_at": "2026-08-30T05:39:15"
-  },
-  {
-    "name": "sprix-sage-router",
-    "full_name": "wang2122/sprix-sage-router",
-    "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-    "url": "https://github.com/wang2122/sprix-sage-router",
-    "stars": 2783,
-    "daily_stars": 115,
-    "language": "Python",
-    "topics": [
-      "a2a",
-      "agent-orchestration",
-      "agent-routing",
-      "ai-agents",
-      "multi-agent-systems",
-      "python",
-      "sprix-ai",
-      "task-scheduling"
-    ],
-    "created_at": "2026-08-18T04:08:11",
-    "updated_at": "2026-08-30T05:16:28"
+    "updated_at": "2026-08-30T13:53:48"
   },
   {
     "name": "codex-with-chatgpt",
     "full_name": "XiaoDuoYa/codex-with-chatgpt",
     "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
     "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-    "stars": 1003,
-    "daily_stars": 103,
+    "stars": 1237,
+    "daily_stars": 234,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -54,39 +33,15 @@
       "oauth"
     ],
     "created_at": "2026-08-28T12:57:24",
-    "updated_at": "2026-08-30T05:35:52"
-  },
-  {
-    "name": "stop-that-shit",
-    "full_name": "lennney/stop-that-shit",
-    "description": "Keep Codex from adding unneeded modules, subagents, dependencies, and hashes to small tasks.",
-    "url": "https://github.com/lennney/stop-that-shit",
-    "stars": 729,
-    "daily_stars": 38,
-    "language": "JavaScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "codex",
-      "codex-cli",
-      "codex-plugin",
-      "developer-tools",
-      "guardrails",
-      "local-first",
-      "overengineering",
-      "scope-control",
-      "yagni"
-    ],
-    "created_at": "2026-08-11T15:31:45",
-    "updated_at": "2026-08-30T05:19:34"
+    "updated_at": "2026-08-30T13:52:11"
   },
   {
     "name": "VoiceMem",
     "full_name": "xzf-thu/VoiceMem",
     "description": "a real-time and empathetic memory system for voice assistants",
     "url": "https://github.com/xzf-thu/VoiceMem",
-    "stars": 207,
-    "daily_stars": 27,
+    "stars": 286,
+    "daily_stars": 79,
     "language": "Python",
     "topics": [
       "ai",
@@ -104,15 +59,39 @@
       "voice-assistant"
     ],
     "created_at": "2026-08-17T09:49:10",
-    "updated_at": "2026-08-30T05:35:59"
+    "updated_at": "2026-08-30T13:41:52"
+  },
+  {
+    "name": "stop-that-shit",
+    "full_name": "lennney/stop-that-shit",
+    "description": "Keep Codex from adding unneeded modules, subagents, dependencies, and hashes to small tasks.",
+    "url": "https://github.com/lennney/stop-that-shit",
+    "stars": 786,
+    "daily_stars": 57,
+    "language": "JavaScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "codex",
+      "codex-cli",
+      "codex-plugin",
+      "developer-tools",
+      "guardrails",
+      "local-first",
+      "overengineering",
+      "scope-control",
+      "yagni"
+    ],
+    "created_at": "2026-08-11T15:31:45",
+    "updated_at": "2026-08-30T13:46:23"
   },
   {
     "name": "openbot",
     "full_name": "CopilotKit/openbot",
     "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
     "url": "https://github.com/CopilotKit/openbot",
-    "stars": 3457,
-    "daily_stars": 22,
+    "stars": 3499,
+    "daily_stars": 42,
     "language": "TypeScript",
     "topics": [
       "ag-ui",
@@ -124,69 +103,15 @@
       "mcp"
     ],
     "created_at": "2026-08-17T00:44:59",
-    "updated_at": "2026-08-30T05:29:54"
-  },
-  {
-    "name": "x64dbg-mcp-server",
-    "full_name": "duty1g/x64dbg-mcp-server",
-    "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
-    "url": "https://github.com/duty1g/x64dbg-mcp-server",
-    "stars": 1755,
-    "daily_stars": 22,
-    "language": "Zig",
-    "topics": [
-      "ai-agents",
-      "ai-debugging",
-      "binary-analysis",
-      "claude",
-      "claude-code",
-      "malware-analysis",
-      "malware-research",
-      "malware-scanner",
-      "mcp",
-      "mcp-server",
-      "mcp-servers",
-      "x64dbg",
-      "x64dbg-mcp",
-      "x64dbg-plugin",
-      "x64dbg-tools",
-      "xdbg",
-      "zig",
-      "zig-lang",
-      "ziglang"
-    ],
-    "created_at": "2026-08-22T14:28:41",
-    "updated_at": "2026-08-30T05:11:19"
-  },
-  {
-    "name": "rakazo",
-    "full_name": "elie222/rakazo",
-    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-    "url": "https://github.com/elie222/rakazo",
-    "stars": 1522,
-    "daily_stars": 17,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "chatgpt",
-      "docker",
-      "electron",
-      "expo",
-      "grok",
-      "llm",
-      "self-hosted",
-      "typescript"
-    ],
-    "created_at": "2026-08-13T06:28:56",
-    "updated_at": "2026-08-30T04:57:51"
+    "updated_at": "2026-08-30T13:44:06"
   },
   {
     "name": "moli",
     "full_name": "lexmount/moli",
     "description": "Best browser for AI Agent, written in pure Rust",
     "url": "https://github.com/lexmount/moli",
-    "stars": 1447,
-    "daily_stars": 13,
+    "stars": 1472,
+    "daily_stars": 25,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -201,26 +126,121 @@
       "web"
     ],
     "created_at": "2026-08-10T13:20:30",
-    "updated_at": "2026-08-30T05:38:41"
+    "updated_at": "2026-08-30T13:49:23"
   },
   {
-    "name": "unlazy",
-    "full_name": "Leonxlnx/unlazy",
-    "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
-    "url": "https://github.com/Leonxlnx/unlazy",
-    "stars": 2785,
-    "daily_stars": 12,
-    "language": "JavaScript",
+    "name": "agenttrail",
+    "full_name": "sodiumsun/agenttrail",
+    "description": "Local observability map for AI coding agents. Watch Claude Code, Codex, and Cursor plans, tool calls, file changes, and progress in real time.",
+    "url": "https://github.com/sodiumsun/agenttrail",
+    "stars": 457,
+    "daily_stars": 25,
+    "language": "HTML",
     "topics": [
+      "agent-monitoring",
+      "agent-observability",
       "ai-agents",
-      "claude",
+      "ai-coding-agents",
       "claude-code",
-      "llm",
-      "productivity",
-      "prompt-engineering",
-      "skill"
+      "coding-agents",
+      "cursor-ai",
+      "dashboard",
+      "developer-tools",
+      "file-watcher",
+      "local-first",
+      "monitoring",
+      "nodejs",
+      "openai-codex",
+      "progress-tracking"
     ],
-    "created_at": "2026-08-09T23:39:12",
-    "updated_at": "2026-08-30T04:09:15"
+    "created_at": "2026-08-21T21:14:33",
+    "updated_at": "2026-08-30T13:45:46"
+  },
+  {
+    "name": "unbagrnd",
+    "full_name": "zidniryi/unbagrnd",
+    "description": "Unbagrnd - Free, Fast & Open-source AI-powered background remover for Windows, macOS, and Linux.",
+    "url": "https://github.com/zidniryi/unbagrnd",
+    "stars": 64,
+    "daily_stars": 22,
+    "language": "Rust",
+    "topics": [
+      "ai",
+      "ai-tools",
+      "background-removal",
+      "computer-vision",
+      "cross-platform",
+      "free-software",
+      "image-editing",
+      "image-processing",
+      "linux",
+      "machine-learning",
+      "macos",
+      "onnx",
+      "onnxruntime",
+      "open-source",
+      "u2net",
+      "windows"
+    ],
+    "created_at": "2026-08-24T14:30:32",
+    "updated_at": "2026-08-30T13:13:57"
+  },
+  {
+    "name": "halofy",
+    "full_name": "halofyai/halofy",
+    "description": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
+    "url": "https://github.com/halofyai/halofy",
+    "stars": 496,
+    "daily_stars": 21,
+    "language": "TypeScript",
+    "topics": [
+      "access-control",
+      "agent-governance",
+      "agent-memory",
+      "agent-visibility",
+      "ai-agents",
+      "audit-log",
+      "context-engineering",
+      "data-governance",
+      "data-provenance",
+      "identity-management",
+      "knowledge-management",
+      "model-context-protocol",
+      "multi-agent-systems",
+      "multi-tenant",
+      "open-source",
+      "organizational-context",
+      "pgvector",
+      "rbac",
+      "scoped-access",
+      "tenant-isolation"
+    ],
+    "created_at": "2026-08-22T06:09:53",
+    "updated_at": "2026-08-30T11:03:02"
+  },
+  {
+    "name": "worldmodels101",
+    "full_name": "NiluK/worldmodels101",
+    "description": "Free interactive course on world models in AI. Nine visual chapters on prediction, latent dynamics, planning, JEPA, video models, and failure modes.",
+    "url": "https://github.com/NiluK/worldmodels101",
+    "stars": 142,
+    "daily_stars": 18,
+    "language": "TypeScript",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "education",
+      "interactive-learning",
+      "jepa",
+      "machine-learning",
+      "model-based-reinforcement-learning",
+      "reinforcement-learning",
+      "representation-learning",
+      "self-supervised-learning",
+      "video-generation",
+      "world-models"
+    ],
+    "created_at": "2026-08-19T10:39:11",
+    "updated_at": "2026-08-30T12:55:00"
   }
 ]
