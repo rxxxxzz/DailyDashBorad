@@ -1,43 +1,11 @@
 [
   {
-    "name": "x64dbg-mcp-server",
-    "full_name": "duty1g/x64dbg-mcp-server",
-    "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
-    "url": "https://github.com/duty1g/x64dbg-mcp-server",
-    "stars": 1763,
-    "daily_stars": 8,
-    "language": "Zig",
-    "topics": [
-      "ai-agents",
-      "ai-debugging",
-      "binary-analysis",
-      "claude",
-      "claude-code",
-      "malware-analysis",
-      "malware-research",
-      "malware-scanner",
-      "mcp",
-      "mcp-server",
-      "mcp-servers",
-      "x64dbg",
-      "x64dbg-mcp",
-      "x64dbg-plugin",
-      "x64dbg-tools",
-      "xdbg",
-      "zig",
-      "zig-lang",
-      "ziglang"
-    ],
-    "created_at": "2026-08-22T14:28:41",
-    "updated_at": "2026-08-30T13:11:48"
-  },
-  {
     "name": "codex-with-chatgpt",
     "full_name": "XiaoDuoYa/codex-with-chatgpt",
     "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
     "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-    "stars": 1237,
-    "daily_stars": 234,
+    "stars": 1330,
+    "daily_stars": 93,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -48,37 +16,15 @@
       "oauth"
     ],
     "created_at": "2026-08-28T12:57:24",
-    "updated_at": "2026-08-30T13:52:11"
-  },
-  {
-    "name": "doop",
-    "full_name": "kgoedecke/doop",
-    "description": "The open-source alternative to Paper.design — a multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-    "url": "https://github.com/kgoedecke/doop",
-    "stars": 512,
-    "daily_stars": 10,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "canvas",
-      "claude",
-      "claude-code",
-      "claude-design",
-      "design",
-      "design-tool",
-      "mcp",
-      "multiplayer"
-    ],
-    "created_at": "2026-08-22T15:40:51",
-    "updated_at": "2026-08-30T12:03:59"
+    "updated_at": "2026-08-30T19:19:49"
   },
   {
     "name": "opengrok",
     "full_name": "OnlyTerp/opengrok",
     "description": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
     "url": "https://github.com/OnlyTerp/opengrok",
-    "stars": 378,
-    "daily_stars": 5,
+    "stars": 380,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -89,15 +35,15 @@
       "windows"
     ],
     "created_at": "2026-08-27T18:30:44",
-    "updated_at": "2026-08-30T12:21:11"
+    "updated_at": "2026-08-30T16:18:11"
   },
   {
     "name": "simplify-codebase",
     "full_name": "tt-a1i/simplify-codebase",
     "description": "Prove and remove accidental codebase complexity without breaking behavior.",
     "url": "https://github.com/tt-a1i/simplify-codebase",
-    "stars": 355,
-    "daily_stars": 3,
+    "stars": 359,
+    "daily_stars": 4,
     "language": null,
     "topics": [
       "agent-skills",
@@ -109,7 +55,7 @@
       "refactoring"
     ],
     "created_at": "2026-08-24T07:52:08",
-    "updated_at": "2026-08-30T12:57:07"
+    "updated_at": "2026-08-30T17:47:25"
   },
   {
     "name": "sentio",
@@ -117,7 +63,7 @@
     "description": "Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
     "url": "https://github.com/truespar/sentio",
     "stars": 229,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -140,8 +86,8 @@
     "full_name": "acryldev/acryl",
     "description": "ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent.",
     "url": "https://github.com/acryldev/acryl",
-    "stars": 217,
-    "daily_stars": -9,
+    "stars": 224,
+    "daily_stars": 7,
     "language": "TypeScript",
     "topics": [
       "acryl",
@@ -152,15 +98,15 @@
       "deepseek-harness"
     ],
     "created_at": "2026-08-25T15:53:56",
-    "updated_at": "2026-08-30T13:33:48"
+    "updated_at": "2026-08-30T18:34:36"
   },
   {
     "name": "OpenInstinct",
     "full_name": "Merit-Systems/OpenInstinct",
     "description": "iMessage personal assistant + password vault",
     "url": "https://github.com/Merit-Systems/OpenInstinct",
-    "stars": 207,
-    "daily_stars": 1,
+    "stars": 211,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -169,15 +115,47 @@
       "imessage"
     ],
     "created_at": "2026-08-25T14:42:47",
-    "updated_at": "2026-08-30T13:23:14"
+    "updated_at": "2026-08-30T18:35:47"
+  },
+  {
+    "name": "kru",
+    "full_name": "omaekumiko2-create/kru",
+    "description": "Local-first MCP password and credential manager for AI agents. Use passwords, API keys, SSH identities, and TOTP without exposing hidden plaintext to the model.",
+    "url": "https://github.com/omaekumiko2-create/kru",
+    "stars": 126,
+    "daily_stars": 0,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "ai-security",
+      "api-key-management",
+      "claude-code",
+      "codex",
+      "credential-manager",
+      "cross-platform",
+      "cursor",
+      "llm-security",
+      "local-first",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "open-source",
+      "password-manager",
+      "rust",
+      "secrets-management",
+      "ssh",
+      "tauri"
+    ],
+    "created_at": "2026-08-24T21:23:11",
+    "updated_at": "2026-08-30T18:22:27"
   },
   {
     "name": "open-steps",
     "full_name": "kharmanskyi/open-steps",
     "description": "Skills that translate your coding agent's output into plain language: honest reports, straight verdicts, steps you can follow. MIT.",
     "url": "https://github.com/kharmanskyi/open-steps",
-    "stars": 115,
-    "daily_stars": 1,
+    "stars": 126,
+    "daily_stars": 11,
     "language": "Shell",
     "topics": [
       "agent-skill",
@@ -191,15 +169,48 @@
       "vibe-coding"
     ],
     "created_at": "2026-08-25T14:24:24",
-    "updated_at": "2026-08-30T13:51:47"
+    "updated_at": "2026-08-30T18:37:48"
+  },
+  {
+    "name": "useagent",
+    "full_name": "useagenthq/useagent",
+    "description": "Hand off the work. Get back the result. The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work - websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+    "url": "https://github.com/useagenthq/useagent",
+    "stars": 125,
+    "daily_stars": 0,
+    "language": "TypeScript",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-coworker",
+      "automation",
+      "autonomous-agents",
+      "bun",
+      "claude",
+      "codex",
+      "coding-agent",
+      "computer-use",
+      "developer-tools",
+      "llm",
+      "open-source",
+      "opencode",
+      "postgres",
+      "sandbox",
+      "self-hosted",
+      "slack-bot",
+      "typescript"
+    ],
+    "created_at": "2026-08-29T21:14:31",
+    "updated_at": "2026-08-30T19:16:26"
   },
   {
     "name": "cdaf",
     "full_name": "UditAkhourii/cdaf",
     "description": "CDAF (Cached Descriptive Asset Files) - open sidecar format for video so AI agents stop re-analyzing the same footage. Spec, CLI, agent skill, reproducible benchmark.",
     "url": "https://github.com/UditAkhourii/cdaf",
-    "stars": 99,
-    "daily_stars": 0,
+    "stars": 100,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -214,6 +225,6 @@
       "video-understanding"
     ],
     "created_at": "2026-08-26T09:12:41",
-    "updated_at": "2026-08-29T05:39:12"
+    "updated_at": "2026-08-30T16:32:30"
   }
 ]
