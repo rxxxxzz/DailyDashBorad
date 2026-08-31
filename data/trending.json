@@ -4,8 +4,8 @@
     "full_name": "deepseek-ai/deepseek-harness",
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 204654,
-    "daily_stars": 86,
+    "stars": 205197,
+    "daily_stars": 543,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -14,15 +14,15 @@
       "dsh-plugin"
     ],
     "created_at": "2026-08-13T11:56:32",
-    "updated_at": "2026-08-30T22:51:14"
+    "updated_at": "2026-08-31T05:54:50"
   },
   {
     "name": "codex-with-chatgpt",
     "full_name": "XiaoDuoYa/codex-with-chatgpt",
     "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
     "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-    "stars": 1356,
-    "daily_stars": 26,
+    "stars": 1512,
+    "daily_stars": 156,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -33,75 +33,39 @@
       "oauth"
     ],
     "created_at": "2026-08-28T12:57:24",
-    "updated_at": "2026-08-30T22:36:47"
+    "updated_at": "2026-08-31T05:53:07"
   },
   {
-    "name": "kimi-k3-in-c",
-    "full_name": "FareedKhan-dev/kimi-k3-in-c",
-    "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
-    "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "stars": 6810,
-    "daily_stars": 23,
-    "language": "C",
-    "topics": [
-      "avx2",
-      "c99",
-      "cpu-inference",
-      "deep-learning",
-      "from-scratch",
-      "inference-engine",
-      "kimi-k3",
-      "linear-attention",
-      "llm",
-      "llm-inference",
-      "machine-learning",
-      "memory-efficient",
-      "mixture-of-experts",
-      "moe",
-      "mxfp4",
-      "quantization",
-      "simd",
-      "systems-programming",
-      "transformer",
-      "zero-dependencies"
-    ],
-    "created_at": "2026-08-01T09:29:38",
-    "updated_at": "2026-08-30T22:52:36"
-  },
-  {
-    "name": "forward-implementation-first",
-    "full_name": "Vuk97/forward-implementation-first",
-    "description": "Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, locks, certification rituals. Ship first, then verify. Skill for Claude Code, Codex, and other agents.",
-    "url": "https://github.com/Vuk97/forward-implementation-first",
-    "stars": 117,
-    "daily_stars": 21,
-    "language": "Shell",
+    "name": "stop-that-shit",
+    "full_name": "lennney/stop-that-shit",
+    "description": "Keep Codex from adding unneeded modules, subagents, dependencies, and hashes to small tasks.",
+    "url": "https://github.com/lennney/stop-that-shit",
+    "stars": 873,
+    "daily_stars": 60,
+    "language": "JavaScript",
     "topics": [
       "agent-skills",
-      "agents",
-      "agentskills",
       "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
       "codex",
       "codex-cli",
+      "codex-plugin",
       "developer-tools",
-      "llm",
-      "llm-agents",
-      "openai",
-      "prompt-engineering"
+      "guardrails",
+      "local-first",
+      "overengineering",
+      "scope-control",
+      "yagni"
     ],
-    "created_at": "2026-08-29T23:16:12",
-    "updated_at": "2026-08-30T22:37:31"
+    "created_at": "2026-08-11T15:31:45",
+    "updated_at": "2026-08-31T05:54:07"
   },
   {
     "name": "agenttrail",
     "full_name": "sodiumsun/agenttrail",
     "description": "Local observability map for AI coding agents. Watch Claude Code, Codex, and Cursor plans, tool calls, file changes, and progress in real time.",
     "url": "https://github.com/sodiumsun/agenttrail",
-    "stars": 513,
-    "daily_stars": 17,
+    "stars": 545,
+    "daily_stars": 32,
     "language": "HTML",
     "topics": [
       "agent-monitoring",
@@ -121,15 +85,15 @@
       "progress-tracking"
     ],
     "created_at": "2026-08-21T21:14:33",
-    "updated_at": "2026-08-30T22:41:54"
+    "updated_at": "2026-08-31T05:42:50"
   },
   {
     "name": "VoiceMem",
     "full_name": "xzf-thu/VoiceMem",
     "description": "a real-time and empathetic memory system for voice assistants",
     "url": "https://github.com/xzf-thu/VoiceMem",
-    "stars": 343,
-    "daily_stars": 15,
+    "stars": 374,
+    "daily_stars": 31,
     "language": "Python",
     "topics": [
       "ai",
@@ -147,15 +111,43 @@
       "voice-assistant"
     ],
     "created_at": "2026-08-17T09:49:10",
-    "updated_at": "2026-08-30T22:07:47"
+    "updated_at": "2026-08-31T05:51:28"
+  },
+  {
+    "name": "Flare",
+    "full_name": "AlgoNoRhythm/Flare",
+    "description": "The graph based agentic IDE",
+    "url": "https://github.com/AlgoNoRhythm/Flare",
+    "stars": 232,
+    "daily_stars": 24,
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "agent-orchestration",
+      "agentic-ai",
+      "agentic-coding",
+      "agentic-workflow",
+      "agents",
+      "ai",
+      "ai-agents",
+      "developer-tools",
+      "development-environment",
+      "electron",
+      "ide",
+      "mcp",
+      "mcp-server",
+      "mcp-tools"
+    ],
+    "created_at": "2026-08-02T17:49:32",
+    "updated_at": "2026-08-31T05:41:42"
   },
   {
     "name": "openbot",
     "full_name": "CopilotKit/openbot",
     "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
     "url": "https://github.com/CopilotKit/openbot",
-    "stars": 3539,
-    "daily_stars": 13,
+    "stars": 3562,
+    "daily_stars": 23,
     "language": "TypeScript",
     "topics": [
       "ag-ui",
@@ -167,15 +159,42 @@
       "mcp"
     ],
     "created_at": "2026-08-17T00:44:59",
-    "updated_at": "2026-08-30T22:07:44"
+    "updated_at": "2026-08-31T05:20:14"
+  },
+  {
+    "name": "forward-implementation-first",
+    "full_name": "Vuk97/forward-implementation-first",
+    "description": "Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, locks, certification rituals. Ship first, then verify. Skill for Claude Code, Codex, and other agents.",
+    "url": "https://github.com/Vuk97/forward-implementation-first",
+    "stars": 140,
+    "daily_stars": 23,
+    "language": "Shell",
+    "topics": [
+      "agent-skills",
+      "agents",
+      "agentskills",
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "codex",
+      "codex-cli",
+      "developer-tools",
+      "llm",
+      "llm-agents",
+      "openai",
+      "prompt-engineering"
+    ],
+    "created_at": "2026-08-29T23:16:12",
+    "updated_at": "2026-08-31T05:52:43"
   },
   {
     "name": "rakazo",
     "full_name": "elie222/rakazo",
     "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
     "url": "https://github.com/elie222/rakazo",
-    "stars": 1575,
-    "daily_stars": 11,
+    "stars": 1596,
+    "daily_stars": 21,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -189,48 +208,26 @@
       "typescript"
     ],
     "created_at": "2026-08-13T06:28:56",
-    "updated_at": "2026-08-30T22:39:47"
+    "updated_at": "2026-08-31T05:10:22"
   },
   {
-    "name": "moli",
-    "full_name": "lexmount/moli",
-    "description": "Best browser for AI Agent, written in pure Rust",
-    "url": "https://github.com/lexmount/moli",
-    "stars": 1491,
-    "daily_stars": 9,
-    "language": "Rust",
+    "name": "unlazy",
+    "full_name": "Leonxlnx/unlazy",
+    "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
+    "url": "https://github.com/Leonxlnx/unlazy",
+    "stars": 2842,
+    "daily_stars": 18,
+    "language": "JavaScript",
     "topics": [
       "ai-agents",
-      "ai-tools",
-      "browser",
-      "browser-automation",
-      "cloud-browser",
-      "playwright",
-      "puppeteer",
-      "rust",
-      "servo",
-      "web"
-    ],
-    "created_at": "2026-08-10T13:20:30",
-    "updated_at": "2026-08-30T22:42:37"
-  },
-  {
-    "name": "vibe-coding-toolkit",
-    "full_name": "soumatheusgomes/vibe-coding-toolkit",
-    "description": "A curated, battle-tested AI-coding toolkit: Claude Code plugins, subagent orchestration, quality gates, and ready-to-copy prompts, extracted from real production use.",
-    "url": "https://github.com/soumatheusgomes/vibe-coding-toolkit",
-    "stars": 363,
-    "daily_stars": 8,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "ai-coding",
+      "claude",
       "claude-code",
-      "developer-tools",
-      "llm-agents",
-      "prompts"
+      "llm",
+      "productivity",
+      "prompt-engineering",
+      "skill"
     ],
-    "created_at": "2026-08-14T23:41:31",
-    "updated_at": "2026-08-30T22:30:26"
+    "created_at": "2026-08-09T23:39:12",
+    "updated_at": "2026-08-31T05:17:07"
   }
 ]
