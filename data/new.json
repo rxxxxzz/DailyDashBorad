@@ -4,8 +4,8 @@
     "full_name": "XiaoDuoYa/codex-with-chatgpt",
     "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
     "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-    "stars": 1512,
-    "daily_stars": 156,
+    "stars": 1751,
+    "daily_stars": 239,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -16,15 +16,15 @@
       "oauth"
     ],
     "created_at": "2026-08-28T12:57:24",
-    "updated_at": "2026-08-31T05:53:07"
+    "updated_at": "2026-08-31T16:16:59"
   },
   {
     "name": "opengrok",
     "full_name": "OnlyTerp/opengrok",
     "description": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
     "url": "https://github.com/OnlyTerp/opengrok",
-    "stars": 384,
-    "daily_stars": 1,
+    "stars": 391,
+    "daily_stars": 7,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -35,15 +35,15 @@
       "windows"
     ],
     "created_at": "2026-08-27T18:30:44",
-    "updated_at": "2026-08-31T00:47:25"
+    "updated_at": "2026-08-31T15:52:28"
   },
   {
     "name": "simplify-codebase",
     "full_name": "tt-a1i/simplify-codebase",
     "description": "Prove and remove accidental codebase complexity without breaking behavior.",
     "url": "https://github.com/tt-a1i/simplify-codebase",
-    "stars": 365,
-    "daily_stars": 6,
+    "stars": 370,
+    "daily_stars": 5,
     "language": null,
     "topics": [
       "agent-skills",
@@ -55,7 +55,26 @@
       "refactoring"
     ],
     "created_at": "2026-08-24T07:52:08",
-    "updated_at": "2026-08-31T03:55:27"
+    "updated_at": "2026-08-31T15:03:56"
+  },
+  {
+    "name": "acryl",
+    "full_name": "acryldev/acryl",
+    "description": "ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent.",
+    "url": "https://github.com/acryldev/acryl",
+    "stars": 231,
+    "daily_stars": 2,
+    "language": "TypeScript",
+    "topics": [
+      "acryl",
+      "agent-context-relay",
+      "agentic-development-environment",
+      "ai-agents",
+      "cordis",
+      "deepseek-harness"
+    ],
+    "created_at": "2026-08-25T15:53:56",
+    "updated_at": "2026-08-31T14:18:35"
   },
   {
     "name": "sentio",
@@ -63,7 +82,7 @@
     "description": "Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
     "url": "https://github.com/truespar/sentio",
     "stars": 231,
-    "daily_stars": 2,
+    "daily_stars": 0,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -82,31 +101,12 @@
     "updated_at": "2026-08-31T04:12:47"
   },
   {
-    "name": "acryl",
-    "full_name": "acryldev/acryl",
-    "description": "ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent.",
-    "url": "https://github.com/acryldev/acryl",
-    "stars": 229,
-    "daily_stars": 1,
-    "language": "TypeScript",
-    "topics": [
-      "acryl",
-      "agent-context-relay",
-      "agentic-development-environment",
-      "ai-agents",
-      "cordis",
-      "deepseek-harness"
-    ],
-    "created_at": "2026-08-25T15:53:56",
-    "updated_at": "2026-08-31T03:14:59"
-  },
-  {
     "name": "OpenInstinct",
     "full_name": "Merit-Systems/OpenInstinct",
     "description": "iMessage personal assistant + password vault",
     "url": "https://github.com/Merit-Systems/OpenInstinct",
-    "stars": 219,
-    "daily_stars": 2,
+    "stars": 220,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -115,15 +115,15 @@
       "imessage"
     ],
     "created_at": "2026-08-25T14:42:47",
-    "updated_at": "2026-08-31T03:44:17"
+    "updated_at": "2026-08-31T14:54:25"
   },
   {
     "name": "forward-implementation-first",
     "full_name": "Vuk97/forward-implementation-first",
     "description": "Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, locks, certification rituals. Ship first, then verify. Skill for Claude Code, Codex, and other agents.",
     "url": "https://github.com/Vuk97/forward-implementation-first",
-    "stars": 140,
-    "daily_stars": 23,
+    "stars": 150,
+    "daily_stars": 10,
     "language": "Shell",
     "topics": [
       "agent-skills",
@@ -142,15 +142,37 @@
       "prompt-engineering"
     ],
     "created_at": "2026-08-29T23:16:12",
-    "updated_at": "2026-08-31T05:52:43"
+    "updated_at": "2026-08-31T14:18:02"
+  },
+  {
+    "name": "open-steps",
+    "full_name": "kharmanskyi/open-steps",
+    "description": "Skills that translate your coding agent's output into plain language: honest reports, straight verdicts, steps you can follow. MIT.",
+    "url": "https://github.com/kharmanskyi/open-steps",
+    "stars": 134,
+    "daily_stars": 6,
+    "language": "Shell",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-skills",
+      "claude-skill",
+      "prompt-optimization",
+      "vibe-coding"
+    ],
+    "created_at": "2026-08-25T14:24:24",
+    "updated_at": "2026-08-31T13:19:56"
   },
   {
     "name": "useagent",
     "full_name": "useagenthq/useagent",
     "description": "Hand off the work. Get back the result. The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work - websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
     "url": "https://github.com/useagenthq/useagent",
-    "stars": 129,
-    "daily_stars": 0,
+    "stars": 131,
+    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
       "agents",
@@ -175,29 +197,7 @@
       "typescript"
     ],
     "created_at": "2026-08-29T21:14:31",
-    "updated_at": "2026-08-30T22:52:36"
-  },
-  {
-    "name": "open-steps",
-    "full_name": "kharmanskyi/open-steps",
-    "description": "Skills that translate your coding agent's output into plain language: honest reports, straight verdicts, steps you can follow. MIT.",
-    "url": "https://github.com/kharmanskyi/open-steps",
-    "stars": 128,
-    "daily_stars": 1,
-    "language": "Shell",
-    "topics": [
-      "agent-skill",
-      "agent-skills",
-      "ai-agents",
-      "claude-code",
-      "claude-code-plugin",
-      "claude-code-skills",
-      "claude-skill",
-      "prompt-optimization",
-      "vibe-coding"
-    ],
-    "created_at": "2026-08-25T14:24:24",
-    "updated_at": "2026-08-30T22:59:52"
+    "updated_at": "2026-08-31T15:40:51"
   },
   {
     "name": "kru",
