@@ -4,8 +4,8 @@
     "full_name": "deepseek-ai/deepseek-harness",
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 206866,
-    "daily_stars": 487,
+    "stars": 207609,
+    "daily_stars": 743,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -14,15 +14,34 @@
       "dsh-plugin"
     ],
     "created_at": "2026-08-13T11:56:32",
-    "updated_at": "2026-09-01T05:28:25"
+    "updated_at": "2026-09-01T13:35:26"
+  },
+  {
+    "name": "codex-with-chatgpt",
+    "full_name": "XiaoDuoYa/codex-with-chatgpt",
+    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+    "stars": 2086,
+    "daily_stars": 154,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "codex",
+      "mcp",
+      "model-context-protocol",
+      "oauth"
+    ],
+    "created_at": "2026-08-28T12:57:24",
+    "updated_at": "2026-09-01T13:34:52"
   },
   {
     "name": "sprix-sage-router",
     "full_name": "wang2122/sprix-sage-router",
     "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
     "url": "https://github.com/wang2122/sprix-sage-router",
-    "stars": 3116,
-    "daily_stars": 158,
+    "stars": 3227,
+    "daily_stars": 111,
     "language": "Python",
     "topics": [
       "a2a",
@@ -35,34 +54,39 @@
       "task-scheduling"
     ],
     "created_at": "2026-08-18T04:08:11",
-    "updated_at": "2026-09-01T05:28:23"
+    "updated_at": "2026-09-01T11:42:17"
   },
   {
-    "name": "codex-with-chatgpt",
-    "full_name": "XiaoDuoYa/codex-with-chatgpt",
-    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-    "stars": 1932,
-    "daily_stars": 119,
-    "language": "TypeScript",
+    "name": "stop-that-shit",
+    "full_name": "lennney/stop-that-shit",
+    "description": "Keep Codex from adding unneeded modules, subagents, dependencies, and hashes to small tasks.",
+    "url": "https://github.com/lennney/stop-that-shit",
+    "stars": 1072,
+    "daily_stars": 62,
+    "language": "JavaScript",
     "topics": [
+      "agent-skills",
       "ai-agents",
-      "chatgpt",
       "codex",
-      "mcp",
-      "model-context-protocol",
-      "oauth"
+      "codex-cli",
+      "codex-plugin",
+      "developer-tools",
+      "guardrails",
+      "local-first",
+      "overengineering",
+      "scope-control",
+      "yagni"
     ],
-    "created_at": "2026-08-28T12:57:24",
-    "updated_at": "2026-09-01T05:26:17"
+    "created_at": "2026-08-11T15:31:45",
+    "updated_at": "2026-09-01T13:36:24"
   },
   {
     "name": "useagent",
     "full_name": "useagenthq/useagent",
     "description": "Hand off the work. Get back the result. The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work - websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
     "url": "https://github.com/useagenthq/useagent",
-    "stars": 225,
-    "daily_stars": 74,
+    "stars": 265,
+    "daily_stars": 40,
     "language": "TypeScript",
     "topics": [
       "agents",
@@ -87,39 +111,35 @@
       "typescript"
     ],
     "created_at": "2026-08-29T21:14:31",
-    "updated_at": "2026-09-01T05:25:01"
+    "updated_at": "2026-09-01T10:33:48"
   },
   {
-    "name": "stop-that-shit",
-    "full_name": "lennney/stop-that-shit",
-    "description": "Keep Codex from adding unneeded modules, subagents, dependencies, and hashes to small tasks.",
-    "url": "https://github.com/lennney/stop-that-shit",
-    "stars": 1010,
-    "daily_stars": 42,
-    "language": "JavaScript",
+    "name": "openbot",
+    "full_name": "CopilotKit/openbot",
+    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+    "url": "https://github.com/CopilotKit/openbot",
+    "stars": 3659,
+    "daily_stars": 34,
+    "language": "TypeScript",
     "topics": [
-      "agent-skills",
+      "ag-ui",
+      "agent-governance",
       "ai-agents",
-      "codex",
-      "codex-cli",
-      "codex-plugin",
-      "developer-tools",
-      "guardrails",
-      "local-first",
-      "overengineering",
-      "scope-control",
-      "yagni"
+      "browser-automation",
+      "copilotkit",
+      "generative-ui",
+      "mcp"
     ],
-    "created_at": "2026-08-11T15:31:45",
-    "updated_at": "2026-09-01T05:24:37"
+    "created_at": "2026-08-17T00:44:59",
+    "updated_at": "2026-09-01T12:29:47"
   },
   {
     "name": "AI-Engineering-Lab",
     "full_name": "zorost/AI-Engineering-Lab",
     "description": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
     "url": "https://github.com/zorost/AI-Engineering-Lab",
-    "stars": 269,
-    "daily_stars": 25,
+    "stars": 303,
+    "daily_stars": 34,
     "language": "Jupyter Notebook",
     "topics": [
       "ai-agents",
@@ -144,58 +164,15 @@
       "zorost"
     ],
     "created_at": "2026-08-17T16:34:05",
-    "updated_at": "2026-09-01T05:25:14"
-  },
-  {
-    "name": "openbot",
-    "full_name": "CopilotKit/openbot",
-    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-    "url": "https://github.com/CopilotKit/openbot",
-    "stars": 3625,
-    "daily_stars": 20,
-    "language": "TypeScript",
-    "topics": [
-      "ag-ui",
-      "agent-governance",
-      "ai-agents",
-      "browser-automation",
-      "copilotkit",
-      "generative-ui",
-      "mcp"
-    ],
-    "created_at": "2026-08-17T00:44:59",
-    "updated_at": "2026-09-01T04:57:18"
-  },
-  {
-    "name": "moli",
-    "full_name": "lexmount/moli",
-    "description": "Best browser for AI Agent, written in pure Rust",
-    "url": "https://github.com/lexmount/moli",
-    "stars": 1571,
-    "daily_stars": 19,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "browser",
-      "browser-automation",
-      "cloud-browser",
-      "playwright",
-      "puppeteer",
-      "rust",
-      "servo",
-      "web"
-    ],
-    "created_at": "2026-08-10T13:20:30",
-    "updated_at": "2026-09-01T05:26:18"
+    "updated_at": "2026-09-01T09:38:59"
   },
   {
     "name": "VoiceMem",
     "full_name": "xzf-thu/VoiceMem",
     "description": "a real-time and empathetic memory system for voice assistants",
     "url": "https://github.com/xzf-thu/VoiceMem",
-    "stars": 469,
-    "daily_stars": 19,
+    "stars": 492,
+    "daily_stars": 23,
     "language": "Python",
     "topics": [
       "ai",
@@ -213,32 +190,50 @@
       "voice-assistant"
     ],
     "created_at": "2026-08-17T09:49:10",
-    "updated_at": "2026-09-01T05:07:20"
+    "updated_at": "2026-09-01T12:47:25"
   },
   {
-    "name": "Awesome-DeepSeek-Harness-Plugins",
-    "full_name": "Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins",
-    "description": "Curated DeepSeek Harness (DSH) plugins, extensions, tools, skills, clients, runtimes, integrations, and verified references — English and Chinese.",
-    "url": "https://github.com/Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins",
-    "stars": 518,
-    "daily_stars": 17,
-    "language": null,
+    "name": "rakazo",
+    "full_name": "elie222/rakazo",
+    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+    "url": "https://github.com/elie222/rakazo",
+    "stars": 1689,
+    "daily_stars": 22,
+    "language": "TypeScript",
     "topics": [
-      "agent-harness",
       "ai-agents",
-      "awesome-list",
-      "bilingual",
-      "curated-list",
-      "deepseek",
-      "deepseek-harness",
-      "developer-tools",
-      "dsh",
-      "dsh-plugin",
-      "extensions",
-      "llm-tools",
-      "plugins"
+      "chatgpt",
+      "docker",
+      "electron",
+      "expo",
+      "grok",
+      "llm",
+      "self-hosted",
+      "typescript"
     ],
-    "created_at": "2026-08-13T13:52:04",
-    "updated_at": "2026-09-01T04:16:04"
+    "created_at": "2026-08-13T06:28:56",
+    "updated_at": "2026-09-01T13:27:51"
+  },
+  {
+    "name": "open-steps",
+    "full_name": "kharmanskyi/open-steps",
+    "description": "Skills that translate your coding agent's output into plain language: honest reports, straight verdicts, steps you can follow. MIT.",
+    "url": "https://github.com/kharmanskyi/open-steps",
+    "stars": 152,
+    "daily_stars": 17,
+    "language": "Shell",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-skills",
+      "claude-skill",
+      "prompt-optimization",
+      "vibe-coding"
+    ],
+    "created_at": "2026-08-25T14:24:24",
+    "updated_at": "2026-09-01T13:27:59"
   }
 ]
