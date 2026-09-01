@@ -4,8 +4,8 @@
     "full_name": "deepseek-ai/deepseek-harness",
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 207932,
-    "daily_stars": 323,
+    "stars": 208031,
+    "daily_stars": 99,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -14,15 +14,15 @@
       "dsh-plugin"
     ],
     "created_at": "2026-08-13T11:56:32",
-    "updated_at": "2026-09-01T19:26:26"
+    "updated_at": "2026-09-01T22:42:50"
   },
   {
     "name": "openbot",
     "full_name": "CopilotKit/openbot",
     "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
     "url": "https://github.com/CopilotKit/openbot",
-    "stars": 3723,
-    "daily_stars": 64,
+    "stars": 3748,
+    "daily_stars": 25,
     "language": "TypeScript",
     "topics": [
       "ag-ui",
@@ -34,58 +34,82 @@
       "mcp"
     ],
     "created_at": "2026-08-17T00:44:59",
-    "updated_at": "2026-09-01T19:22:40"
+    "updated_at": "2026-09-01T22:33:57"
   },
   {
-    "name": "codex-with-chatgpt",
-    "full_name": "XiaoDuoYa/codex-with-chatgpt",
-    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-    "stars": 2118,
-    "daily_stars": 32,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "chatgpt",
-      "codex",
-      "mcp",
-      "model-context-protocol",
-      "oauth"
-    ],
-    "created_at": "2026-08-28T12:57:24",
-    "updated_at": "2026-09-01T19:10:39"
-  },
-  {
-    "name": "stop-that-shit",
-    "full_name": "lennney/stop-that-shit",
-    "description": "Keep Codex from adding unneeded modules, subagents, dependencies, and hashes to small tasks.",
-    "url": "https://github.com/lennney/stop-that-shit",
-    "stars": 1102,
-    "daily_stars": 30,
+    "name": "unlazy",
+    "full_name": "Leonxlnx/unlazy",
+    "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
+    "url": "https://github.com/Leonxlnx/unlazy",
+    "stars": 2942,
+    "daily_stars": 11,
     "language": "JavaScript",
     "topics": [
-      "agent-skills",
       "ai-agents",
+      "claude",
+      "claude-code",
+      "llm",
+      "productivity",
+      "prompt-engineering",
+      "skill"
+    ],
+    "created_at": "2026-08-09T23:39:12",
+    "updated_at": "2026-09-01T22:40:38"
+  },
+  {
+    "name": "codex-cli-portable-setup-kit",
+    "full_name": "2akouwu/codex-cli-portable-setup-kit",
+    "description": "Autonomous Systems & Security Toolkit for OpenAI Codex CLI. Deterministic binary analysis, decoupled pipeline, and zero-friction execution.",
+    "url": "https://github.com/2akouwu/codex-cli-portable-setup-kit",
+    "stars": 212,
+    "daily_stars": 8,
+    "language": "Python",
+    "topics": [
+      "agentic-workflow",
+      "ai-agents",
+      "automation",
       "codex",
       "codex-cli",
-      "codex-plugin",
       "developer-tools",
-      "guardrails",
-      "local-first",
-      "overengineering",
-      "scope-control",
-      "yagni"
+      "execution-first",
+      "hooks",
+      "openai",
+      "powershell",
+      "prompt-engineering",
+      "skills",
+      "windows"
     ],
-    "created_at": "2026-08-11T15:31:45",
-    "updated_at": "2026-09-01T19:05:57"
+    "created_at": "2026-08-31T01:02:18",
+    "updated_at": "2026-09-01T21:21:52"
+  },
+  {
+    "name": "Prysai-LLM-Playbook",
+    "full_name": "Prysai/Prysai-LLM-Playbook",
+    "description": "An evidence-led, six-language LLM playbook: the transferable core, the Codex flagship track, and adapters for ChatGPT, Claude Code, Gemini, DeepSeek, and Grok.",
+    "url": "https://github.com/Prysai/Prysai-LLM-Playbook",
+    "stars": 257,
+    "daily_stars": 7,
+    "language": "Python",
+    "topics": [
+      "agent-workflows",
+      "ai",
+      "ai-agents",
+      "ai-safety",
+      "codex",
+      "learning-resources",
+      "llm",
+      "prompt-engineering"
+    ],
+    "created_at": "2026-08-09T18:55:50",
+    "updated_at": "2026-09-01T22:41:29"
   },
   {
     "name": "VoiceMem",
     "full_name": "xzf-thu/VoiceMem",
     "description": "a real-time and empathetic memory system for voice assistants",
     "url": "https://github.com/xzf-thu/VoiceMem",
-    "stars": 513,
-    "daily_stars": 21,
+    "stars": 519,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "ai",
@@ -103,15 +127,15 @@
       "voice-assistant"
     ],
     "created_at": "2026-08-17T09:49:10",
-    "updated_at": "2026-09-01T19:17:26"
+    "updated_at": "2026-09-01T21:27:25"
   },
   {
     "name": "rakazo",
     "full_name": "elie222/rakazo",
     "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
     "url": "https://github.com/elie222/rakazo",
-    "stars": 1703,
-    "daily_stars": 14,
+    "stars": 1707,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -125,35 +149,15 @@
       "typescript"
     ],
     "created_at": "2026-08-13T06:28:56",
-    "updated_at": "2026-09-01T18:18:28"
-  },
-  {
-    "name": "unlazy",
-    "full_name": "Leonxlnx/unlazy",
-    "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
-    "url": "https://github.com/Leonxlnx/unlazy",
-    "stars": 2931,
-    "daily_stars": 12,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "llm",
-      "productivity",
-      "prompt-engineering",
-      "skill"
-    ],
-    "created_at": "2026-08-09T23:39:12",
-    "updated_at": "2026-09-01T18:23:09"
+    "updated_at": "2026-09-01T22:30:18"
   },
   {
     "name": "moli",
     "full_name": "lexmount/moli",
     "description": "Best browser for AI Agent, written in pure Rust",
     "url": "https://github.com/lexmount/moli",
-    "stars": 1596,
-    "daily_stars": 12,
+    "stars": 1600,
+    "daily_stars": 4,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -168,44 +172,63 @@
       "web"
     ],
     "created_at": "2026-08-10T13:20:30",
-    "updated_at": "2026-09-01T19:20:52"
+    "updated_at": "2026-09-01T22:20:48"
   },
   {
-    "name": "Prysai-LLM-Playbook",
-    "full_name": "Prysai/Prysai-LLM-Playbook",
-    "description": "An evidence-led, six-language LLM playbook: the transferable core, the Codex flagship track, and adapters for ChatGPT, Claude Code, Gemini, DeepSeek, and Grok.",
-    "url": "https://github.com/Prysai/Prysai-LLM-Playbook",
-    "stars": 250,
-    "daily_stars": 11,
+    "name": "stop-that-shit",
+    "full_name": "lennney/stop-that-shit",
+    "description": "Keep Codex from adding unneeded modules, subagents, dependencies, and hashes to small tasks.",
+    "url": "https://github.com/lennney/stop-that-shit",
+    "stars": 1106,
+    "daily_stars": 4,
+    "language": "JavaScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "codex",
+      "codex-cli",
+      "codex-plugin",
+      "developer-tools",
+      "guardrails",
+      "local-first",
+      "overengineering",
+      "scope-control",
+      "yagni"
+    ],
+    "created_at": "2026-08-11T15:31:45",
+    "updated_at": "2026-09-01T20:59:04"
+  },
+  {
+    "name": "SkillCorpus",
+    "full_name": "EverMind-AI/SkillCorpus",
+    "description": "Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.",
+    "url": "https://github.com/EverMind-AI/SkillCorpus",
+    "stars": 414,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
-      "agent-workflows",
-      "ai",
+      "agent-memory",
+      "agent-skills",
       "ai-agents",
-      "ai-safety",
-      "codex",
-      "learning-resources",
-      "llm",
-      "prompt-engineering"
+      "benchmark",
+      "dataset",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "embeddings",
+      "hugginface",
+      "information-retrieval",
+      "llm-agents",
+      "llm-evaluation",
+      "long-term-memory",
+      "python",
+      "reranking",
+      "semantic-search",
+      "skill-md",
+      "skill-routing",
+      "vector-search"
     ],
-    "created_at": "2026-08-09T18:55:50",
-    "updated_at": "2026-09-01T19:06:02"
-  },
-  {
-    "name": "OpenInstinct",
-    "full_name": "Merit-Systems/OpenInstinct",
-    "description": "iMessage personal assistant + password vault",
-    "url": "https://github.com/Merit-Systems/OpenInstinct",
-    "stars": 238,
-    "daily_stars": 11,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agents",
-      "imessage"
-    ],
-    "created_at": "2026-08-25T14:42:47",
-    "updated_at": "2026-09-01T19:07:35"
+    "created_at": "2026-08-11T02:48:55",
+    "updated_at": "2026-09-01T21:42:24"
   }
 ]
