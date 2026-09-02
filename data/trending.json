@@ -4,8 +4,8 @@
     "full_name": "deepseek-ai/deepseek-harness",
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 209483,
-    "daily_stars": 391,
+    "stars": 209545,
+    "daily_stars": 62,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -14,106 +14,15 @@
       "dsh-plugin"
     ],
     "created_at": "2026-08-13T11:56:32",
-    "updated_at": "2026-09-02T19:26:50"
-  },
-  {
-    "name": "codex-cli-portable-setup-kit",
-    "full_name": "2akouwu/codex-cli-portable-setup-kit",
-    "description": "Autonomous Systems & Security Toolkit for OpenAI Codex CLI. Deterministic binary analysis, decoupled pipeline, and zero-friction execution.",
-    "url": "https://github.com/2akouwu/codex-cli-portable-setup-kit",
-    "stars": 576,
-    "daily_stars": 64,
-    "language": "Python",
-    "topics": [
-      "agentic-workflow",
-      "ai-agents",
-      "automation",
-      "codex",
-      "codex-cli",
-      "developer-tools",
-      "execution-first",
-      "hooks",
-      "openai",
-      "powershell",
-      "prompt-engineering",
-      "skills",
-      "windows"
-    ],
-    "created_at": "2026-08-31T01:02:18",
-    "updated_at": "2026-09-02T19:05:59"
-  },
-  {
-    "name": "openbot",
-    "full_name": "CopilotKit/openbot",
-    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-    "url": "https://github.com/CopilotKit/openbot",
-    "stars": 3885,
-    "daily_stars": 41,
-    "language": "TypeScript",
-    "topics": [
-      "ag-ui",
-      "agent-governance",
-      "ai-agents",
-      "browser-automation",
-      "copilotkit",
-      "generative-ui",
-      "mcp"
-    ],
-    "created_at": "2026-08-17T00:44:59",
-    "updated_at": "2026-09-02T18:58:36"
-  },
-  {
-    "name": "website-rebuild-skill",
-    "full_name": "boyang-hu/website-rebuild-skill",
-    "description": "复刻网站的 Agent Skill：抓只读镜像、从压缩代码逐行还原、自动比对验收。An agent skill that mirrors a website, rebuilds it from the minified code, and verifies the result with automated diffs.",
-    "url": "https://github.com/boyang-hu/website-rebuild-skill",
-    "stars": 816,
-    "daily_stars": 40,
-    "language": "JavaScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "codex",
-      "reverse-engineering",
-      "wayback-machine",
-      "web-archiving"
-    ],
-    "created_at": "2026-08-11T03:50:30",
-    "updated_at": "2026-09-02T19:17:15"
-  },
-  {
-    "name": "stop-that-shit",
-    "full_name": "lennney/stop-that-shit",
-    "description": "Keep Codex from adding unneeded modules, subagents, dependencies, and hashes to small tasks.",
-    "url": "https://github.com/lennney/stop-that-shit",
-    "stars": 1270,
-    "daily_stars": 36,
-    "language": "JavaScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "codex",
-      "codex-cli",
-      "codex-plugin",
-      "developer-tools",
-      "guardrails",
-      "local-first",
-      "overengineering",
-      "scope-control",
-      "yagni"
-    ],
-    "created_at": "2026-08-11T15:31:45",
-    "updated_at": "2026-09-02T18:22:33"
+    "updated_at": "2026-09-02T22:44:30"
   },
   {
     "name": "appllama-skills",
     "full_name": "Appllama/appllama-skills",
     "description": "A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile screens.",
     "url": "https://github.com/Appllama/appllama-skills",
-    "stars": 469,
-    "daily_stars": 35,
+    "stars": 480,
+    "daily_stars": 11,
     "language": null,
     "topics": [
       "agent-skills",
@@ -137,15 +46,15 @@
       "ui-design"
     ],
     "created_at": "2026-08-13T07:19:54",
-    "updated_at": "2026-09-02T19:11:22"
+    "updated_at": "2026-09-02T22:45:14"
   },
   {
     "name": "reef",
     "full_name": "Human-Agent-Society/reef",
     "description": "Continual learning infra for self-improving agents",
     "url": "https://github.com/Human-Agent-Society/reef",
-    "stars": 140,
-    "daily_stars": 35,
+    "stars": 151,
+    "daily_stars": 11,
     "language": "Python",
     "topics": [
       "agent-infrastructure",
@@ -158,15 +67,56 @@
       "self-improving-agents"
     ],
     "created_at": "2026-08-31T01:39:18",
-    "updated_at": "2026-09-02T19:25:48"
+    "updated_at": "2026-09-02T22:36:51"
+  },
+  {
+    "name": "openbot",
+    "full_name": "CopilotKit/openbot",
+    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+    "url": "https://github.com/CopilotKit/openbot",
+    "stars": 3894,
+    "daily_stars": 9,
+    "language": "TypeScript",
+    "topics": [
+      "ag-ui",
+      "agent-governance",
+      "ai-agents",
+      "browser-automation",
+      "copilotkit",
+      "generative-ui",
+      "mcp"
+    ],
+    "created_at": "2026-08-17T00:44:59",
+    "updated_at": "2026-09-02T22:39:55"
+  },
+  {
+    "name": "Prysai-LLM-Playbook",
+    "full_name": "Prysai/Prysai-LLM-Playbook",
+    "description": "An evidence-led, six-language LLM playbook: the transferable core, the Codex flagship track, and adapters for ChatGPT, Claude Code, Gemini, DeepSeek, and Grok.",
+    "url": "https://github.com/Prysai/Prysai-LLM-Playbook",
+    "stars": 304,
+    "daily_stars": 7,
+    "language": "Python",
+    "topics": [
+      "agent-workflows",
+      "ai",
+      "ai-agents",
+      "ai-safety",
+      "codex",
+      "learning-resources",
+      "llm",
+      "prompt-engineering"
+    ],
+    "created_at": "2026-08-09T18:55:50",
+    "updated_at": "2026-09-02T22:36:27"
   },
   {
     "name": "codex-with-chatgpt",
     "full_name": "XiaoDuoYa/codex-with-chatgpt",
     "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
     "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-    "stars": 2264,
-    "daily_stars": 26,
+    "stars": 2270,
+    "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -177,15 +127,94 @@
       "oauth"
     ],
     "created_at": "2026-08-28T12:57:24",
-    "updated_at": "2026-09-02T17:53:19"
+    "updated_at": "2026-09-02T22:16:49"
+  },
+  {
+    "name": "VoiceMem",
+    "full_name": "xzf-thu/VoiceMem",
+    "description": "a real-time and empathetic memory system for voice assistants",
+    "url": "https://github.com/xzf-thu/VoiceMem",
+    "stars": 565,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "application",
+      "audio-streaming",
+      "genai",
+      "llm",
+      "long-term-memory",
+      "memory",
+      "memory-management",
+      "python",
+      "voice-agent",
+      "voice-assistant"
+    ],
+    "created_at": "2026-08-17T09:49:10",
+    "updated_at": "2026-09-02T22:30:53"
+  },
+  {
+    "name": "SkillCorpus",
+    "full_name": "EverMind-AI/SkillCorpus",
+    "description": "Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.",
+    "url": "https://github.com/EverMind-AI/SkillCorpus",
+    "stars": 458,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "agent-memory",
+      "agent-skills",
+      "ai-agents",
+      "benchmark",
+      "dataset",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "embeddings",
+      "hugginface",
+      "information-retrieval",
+      "llm-agents",
+      "llm-evaluation",
+      "long-term-memory",
+      "python",
+      "reranking",
+      "semantic-search",
+      "skill-md",
+      "skill-routing",
+      "vector-search"
+    ],
+    "created_at": "2026-08-11T02:48:55",
+    "updated_at": "2026-09-02T22:33:36"
+  },
+  {
+    "name": "unlazy",
+    "full_name": "Leonxlnx/unlazy",
+    "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
+    "url": "https://github.com/Leonxlnx/unlazy",
+    "stars": 2981,
+    "daily_stars": 4,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "llm",
+      "productivity",
+      "prompt-engineering",
+      "skill"
+    ],
+    "created_at": "2026-08-09T23:39:12",
+    "updated_at": "2026-09-02T22:40:25"
   },
   {
     "name": "rakazo",
     "full_name": "elie222/rakazo",
     "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
     "url": "https://github.com/elie222/rakazo",
-    "stars": 1770,
-    "daily_stars": 18,
+    "stars": 1774,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -199,34 +228,6 @@
       "typescript"
     ],
     "created_at": "2026-08-13T06:28:56",
-    "updated_at": "2026-09-02T19:10:25"
-  },
-  {
-    "name": "agenttrail",
-    "full_name": "sodiumsun/agenttrail",
-    "description": "Local observability map for AI coding agents. Watch Claude Code, Codex, and Cursor plans, tool calls, file changes, and progress in real time.",
-    "url": "https://github.com/sodiumsun/agenttrail",
-    "stars": 627,
-    "daily_stars": 16,
-    "language": "HTML",
-    "topics": [
-      "agent-monitoring",
-      "agent-observability",
-      "ai-agents",
-      "ai-coding-agents",
-      "claude-code",
-      "coding-agents",
-      "cursor-ai",
-      "dashboard",
-      "developer-tools",
-      "file-watcher",
-      "local-first",
-      "monitoring",
-      "nodejs",
-      "openai-codex",
-      "progress-tracking"
-    ],
-    "created_at": "2026-08-21T21:14:33",
-    "updated_at": "2026-09-02T19:09:17"
+    "updated_at": "2026-09-02T21:33:57"
   }
 ]
