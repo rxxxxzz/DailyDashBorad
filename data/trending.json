@@ -4,8 +4,8 @@
     "full_name": "deepseek-ai/deepseek-harness",
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 208404,
-    "daily_stars": 373,
+    "stars": 209092,
+    "daily_stars": 688,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -14,15 +14,15 @@
       "dsh-plugin"
     ],
     "created_at": "2026-08-13T11:56:32",
-    "updated_at": "2026-09-02T04:51:59"
+    "updated_at": "2026-09-02T12:51:31"
   },
   {
     "name": "codex-cli-portable-setup-kit",
     "full_name": "2akouwu/codex-cli-portable-setup-kit",
     "description": "Autonomous Systems & Security Toolkit for OpenAI Codex CLI. Deterministic binary analysis, decoupled pipeline, and zero-friction execution.",
     "url": "https://github.com/2akouwu/codex-cli-portable-setup-kit",
-    "stars": 354,
-    "daily_stars": 142,
+    "stars": 512,
+    "daily_stars": 158,
     "language": "Python",
     "topics": [
       "agentic-workflow",
@@ -40,75 +40,15 @@
       "windows"
     ],
     "created_at": "2026-08-31T01:02:18",
-    "updated_at": "2026-09-02T04:51:48"
-  },
-  {
-    "name": "website-rebuild-skill",
-    "full_name": "boyang-hu/website-rebuild-skill",
-    "description": "复刻网站的 Agent Skill：抓只读镜像、从压缩代码逐行还原、自动比对验收。An agent skill that mirrors a website, rebuilds it from the minified code, and verifies the result with automated diffs.",
-    "url": "https://github.com/boyang-hu/website-rebuild-skill",
-    "stars": 726,
-    "daily_stars": 71,
-    "language": "JavaScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "codex",
-      "reverse-engineering",
-      "wayback-machine",
-      "web-archiving"
-    ],
-    "created_at": "2026-08-11T03:50:30",
-    "updated_at": "2026-09-02T04:16:54"
-  },
-  {
-    "name": "openbot",
-    "full_name": "CopilotKit/openbot",
-    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-    "url": "https://github.com/CopilotKit/openbot",
-    "stars": 3793,
-    "daily_stars": 45,
-    "language": "TypeScript",
-    "topics": [
-      "ag-ui",
-      "agent-governance",
-      "ai-agents",
-      "browser-automation",
-      "copilotkit",
-      "generative-ui",
-      "mcp"
-    ],
-    "created_at": "2026-08-17T00:44:59",
-    "updated_at": "2026-09-02T04:54:31"
-  },
-  {
-    "name": "codex-with-chatgpt",
-    "full_name": "XiaoDuoYa/codex-with-chatgpt",
-    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-    "stars": 2166,
-    "daily_stars": 45,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "chatgpt",
-      "codex",
-      "mcp",
-      "model-context-protocol",
-      "oauth"
-    ],
-    "created_at": "2026-08-28T12:57:24",
-    "updated_at": "2026-09-02T04:54:12"
+    "updated_at": "2026-09-02T12:52:50"
   },
   {
     "name": "stop-that-shit",
     "full_name": "lennney/stop-that-shit",
     "description": "Keep Codex from adding unneeded modules, subagents, dependencies, and hashes to small tasks.",
     "url": "https://github.com/lennney/stop-that-shit",
-    "stars": 1151,
-    "daily_stars": 45,
+    "stars": 1234,
+    "daily_stars": 83,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -124,15 +64,96 @@
       "yagni"
     ],
     "created_at": "2026-08-11T15:31:45",
-    "updated_at": "2026-09-02T04:49:29"
+    "updated_at": "2026-09-02T12:49:49"
+  },
+  {
+    "name": "codex-with-chatgpt",
+    "full_name": "XiaoDuoYa/codex-with-chatgpt",
+    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+    "stars": 2238,
+    "daily_stars": 72,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "codex",
+      "mcp",
+      "model-context-protocol",
+      "oauth"
+    ],
+    "created_at": "2026-08-28T12:57:24",
+    "updated_at": "2026-09-02T12:47:42"
+  },
+  {
+    "name": "openbot",
+    "full_name": "CopilotKit/openbot",
+    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+    "url": "https://github.com/CopilotKit/openbot",
+    "stars": 3844,
+    "daily_stars": 51,
+    "language": "TypeScript",
+    "topics": [
+      "ag-ui",
+      "agent-governance",
+      "ai-agents",
+      "browser-automation",
+      "copilotkit",
+      "generative-ui",
+      "mcp"
+    ],
+    "created_at": "2026-08-17T00:44:59",
+    "updated_at": "2026-09-02T12:49:33"
+  },
+  {
+    "name": "sprix-sage-router",
+    "full_name": "wang2122/sprix-sage-router",
+    "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+    "url": "https://github.com/wang2122/sprix-sage-router",
+    "stars": 3236,
+    "daily_stars": 51,
+    "language": "Python",
+    "topics": [
+      "a2a",
+      "agent-orchestration",
+      "agent-routing",
+      "ai-agents",
+      "multi-agent-systems",
+      "python",
+      "sprix-ai",
+      "task-scheduling"
+    ],
+    "created_at": "2026-08-18T04:08:11",
+    "updated_at": "2026-09-02T12:45:17"
+  },
+  {
+    "name": "website-rebuild-skill",
+    "full_name": "boyang-hu/website-rebuild-skill",
+    "description": "复刻网站的 Agent Skill：抓只读镜像、从压缩代码逐行还原、自动比对验收。An agent skill that mirrors a website, rebuilds it from the minified code, and verifies the result with automated diffs.",
+    "url": "https://github.com/boyang-hu/website-rebuild-skill",
+    "stars": 776,
+    "daily_stars": 50,
+    "language": "JavaScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "codex",
+      "reverse-engineering",
+      "wayback-machine",
+      "web-archiving"
+    ],
+    "created_at": "2026-08-11T03:50:30",
+    "updated_at": "2026-09-02T12:16:39"
   },
   {
     "name": "rakazo",
     "full_name": "elie222/rakazo",
     "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
     "url": "https://github.com/elie222/rakazo",
-    "stars": 1730,
-    "daily_stars": 23,
+    "stars": 1752,
+    "daily_stars": 22,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -146,74 +167,60 @@
       "typescript"
     ],
     "created_at": "2026-08-13T06:28:56",
-    "updated_at": "2026-09-02T04:47:33"
+    "updated_at": "2026-09-02T12:51:38"
   },
   {
-    "name": "moli",
-    "full_name": "lexmount/moli",
-    "description": "Best browser for AI Agent, written in pure Rust",
-    "url": "https://github.com/lexmount/moli",
-    "stars": 1614,
-    "daily_stars": 14,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "browser",
-      "browser-automation",
-      "cloud-browser",
-      "playwright",
-      "puppeteer",
-      "rust",
-      "servo",
-      "web"
-    ],
-    "created_at": "2026-08-10T13:20:30",
-    "updated_at": "2026-09-02T04:11:12"
-  },
-  {
-    "name": "VoiceMem",
-    "full_name": "xzf-thu/VoiceMem",
-    "description": "a real-time and empathetic memory system for voice assistants",
-    "url": "https://github.com/xzf-thu/VoiceMem",
-    "stars": 533,
-    "daily_stars": 14,
+    "name": "SkillCorpus",
+    "full_name": "EverMind-AI/SkillCorpus",
+    "description": "Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.",
+    "url": "https://github.com/EverMind-AI/SkillCorpus",
+    "stars": 444,
+    "daily_stars": 18,
     "language": "Python",
     "topics": [
-      "ai",
+      "agent-memory",
+      "agent-skills",
       "ai-agents",
-      "ai-tools",
-      "application",
-      "audio-streaming",
-      "genai",
-      "llm",
+      "benchmark",
+      "dataset",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "embeddings",
+      "hugginface",
+      "information-retrieval",
+      "llm-agents",
+      "llm-evaluation",
       "long-term-memory",
-      "memory",
-      "memory-management",
       "python",
-      "voice-agent",
-      "voice-assistant"
+      "reranking",
+      "semantic-search",
+      "skill-md",
+      "skill-routing",
+      "vector-search"
     ],
-    "created_at": "2026-08-17T09:49:10",
-    "updated_at": "2026-09-02T04:53:48"
+    "created_at": "2026-08-11T02:48:55",
+    "updated_at": "2026-09-02T12:51:41"
   },
   {
-    "name": "DoubaoWorkGuide",
-    "full_name": "AlephAITech/DoubaoWorkGuide",
-    "description": "豆包工作系统化中文实践指南：教程、真实任务、Skills、连接器、自动化与多 Agent 工作流。",
-    "url": "https://github.com/AlephAITech/DoubaoWorkGuide",
-    "stars": 84,
-    "daily_stars": 14,
-    "language": "JavaScript",
+    "name": "Prysai-LLM-Playbook",
+    "full_name": "Prysai/Prysai-LLM-Playbook",
+    "description": "An evidence-led, six-language LLM playbook: the transferable core, the Codex flagship track, and adapters for ChatGPT, Claude Code, Gemini, DeepSeek, and Grok.",
+    "url": "https://github.com/Prysai/Prysai-LLM-Playbook",
+    "stars": 285,
+    "daily_stars": 17,
+    "language": "Python",
     "topics": [
-      "agent-skills",
-      "ai-agent",
-      "doubao",
-      "guide",
-      "multi-agent",
-      "workflow"
+      "agent-workflows",
+      "ai",
+      "ai-agents",
+      "ai-safety",
+      "codex",
+      "learning-resources",
+      "llm",
+      "prompt-engineering"
     ],
-    "created_at": "2026-08-31T01:57:57",
-    "updated_at": "2026-09-02T04:28:26"
+    "created_at": "2026-08-09T18:55:50",
+    "updated_at": "2026-09-02T12:46:17"
   }
 ]
