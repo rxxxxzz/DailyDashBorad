@@ -4,8 +4,8 @@
     "full_name": "deepseek-ai/deepseek-harness",
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 210605,
-    "daily_stars": 662,
+    "stars": 210905,
+    "daily_stars": 300,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -14,15 +14,15 @@
       "dsh-plugin"
     ],
     "created_at": "2026-08-13T11:56:32",
-    "updated_at": "2026-09-03T12:56:38"
+    "updated_at": "2026-09-03T19:19:20"
   },
   {
     "name": "fable51-worlds",
     "full_name": "PhiloLabs/fable51-worlds",
     "description": "worlds via code, from fable 5.1",
     "url": "https://github.com/PhiloLabs/fable51-worlds",
-    "stars": 285,
-    "daily_stars": 120,
+    "stars": 362,
+    "daily_stars": 77,
     "language": "TypeScript",
     "topics": [
       "3d-reconstruction",
@@ -37,39 +37,35 @@
       "webgl"
     ],
     "created_at": "2026-09-02T18:19:55",
-    "updated_at": "2026-09-03T12:51:19"
+    "updated_at": "2026-09-03T19:18:57"
   },
   {
-    "name": "stop-that-shit",
-    "full_name": "lennney/stop-that-shit",
-    "description": "Keep Codex from adding unneeded modules, subagents, dependencies, and hashes to small tasks.",
-    "url": "https://github.com/lennney/stop-that-shit",
-    "stars": 1403,
-    "daily_stars": 86,
-    "language": "JavaScript",
+    "name": "openbot",
+    "full_name": "CopilotKit/openbot",
+    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+    "url": "https://github.com/CopilotKit/openbot",
+    "stars": 4086,
+    "daily_stars": 62,
+    "language": "TypeScript",
     "topics": [
-      "agent-skills",
+      "ag-ui",
+      "agent-governance",
       "ai-agents",
-      "codex",
-      "codex-cli",
-      "codex-plugin",
-      "developer-tools",
-      "guardrails",
-      "local-first",
-      "overengineering",
-      "scope-control",
-      "yagni"
+      "browser-automation",
+      "copilotkit",
+      "generative-ui",
+      "mcp"
     ],
-    "created_at": "2026-08-11T15:31:45",
-    "updated_at": "2026-09-03T12:51:43"
+    "created_at": "2026-08-17T00:44:59",
+    "updated_at": "2026-09-03T19:15:19"
   },
   {
     "name": "codex-cli-portable-setup-kit",
     "full_name": "2akouwu/codex-cli-portable-setup-kit",
     "description": "Autonomous Systems & Security Toolkit for OpenAI Codex CLI. Deterministic binary analysis, decoupled pipeline, and zero-friction execution.",
     "url": "https://github.com/2akouwu/codex-cli-portable-setup-kit",
-    "stars": 683,
-    "daily_stars": 84,
+    "stars": 731,
+    "daily_stars": 48,
     "language": "Python",
     "topics": [
       "agentic-workflow",
@@ -87,15 +83,105 @@
       "windows"
     ],
     "created_at": "2026-08-31T01:02:18",
-    "updated_at": "2026-09-03T12:55:54"
+    "updated_at": "2026-09-03T19:06:32"
+  },
+  {
+    "name": "codex-with-chatgpt",
+    "full_name": "XiaoDuoYa/codex-with-chatgpt",
+    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+    "stars": 2376,
+    "daily_stars": 38,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "codex",
+      "mcp",
+      "model-context-protocol",
+      "oauth"
+    ],
+    "created_at": "2026-08-28T12:57:24",
+    "updated_at": "2026-09-03T19:06:41"
+  },
+  {
+    "name": "rakazo",
+    "full_name": "elie222/rakazo",
+    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+    "url": "https://github.com/elie222/rakazo",
+    "stars": 1859,
+    "daily_stars": 31,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "docker",
+      "electron",
+      "expo",
+      "grok",
+      "llm",
+      "self-hosted",
+      "typescript"
+    ],
+    "created_at": "2026-08-13T06:28:56",
+    "updated_at": "2026-09-03T19:06:29"
+  },
+  {
+    "name": "stop-that-shit",
+    "full_name": "lennney/stop-that-shit",
+    "description": "Keep Codex from adding unneeded modules, subagents, dependencies, and hashes to small tasks.",
+    "url": "https://github.com/lennney/stop-that-shit",
+    "stars": 1434,
+    "daily_stars": 31,
+    "language": "JavaScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "codex",
+      "codex-cli",
+      "codex-plugin",
+      "developer-tools",
+      "guardrails",
+      "local-first",
+      "overengineering",
+      "scope-control",
+      "yagni"
+    ],
+    "created_at": "2026-08-11T15:31:45",
+    "updated_at": "2026-09-03T19:07:06"
+  },
+  {
+    "name": "worldmodels101",
+    "full_name": "NiluK/worldmodels101",
+    "description": "Free interactive course on world models in AI. Nine visual chapters on prediction, latent dynamics, planning, JEPA, video models, and failure modes.",
+    "url": "https://github.com/NiluK/worldmodels101",
+    "stars": 190,
+    "daily_stars": 23,
+    "language": "TypeScript",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "education",
+      "interactive-learning",
+      "jepa",
+      "machine-learning",
+      "model-based-reinforcement-learning",
+      "reinforcement-learning",
+      "representation-learning",
+      "self-supervised-learning",
+      "video-generation",
+      "world-models"
+    ],
+    "created_at": "2026-08-19T10:39:11",
+    "updated_at": "2026-09-03T13:58:22"
   },
   {
     "name": "FrontierAgent",
     "full_name": "ApodexAI/FrontierAgent",
     "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
     "url": "https://github.com/ApodexAI/FrontierAgent",
-    "stars": 1519,
-    "daily_stars": 83,
+    "stars": 1539,
+    "daily_stars": 20,
     "language": "Python",
     "topics": [
       "agent-orchestration",
@@ -108,115 +194,26 @@
       "tui"
     ],
     "created_at": "2026-08-22T05:07:35",
-    "updated_at": "2026-09-03T11:51:05"
+    "updated_at": "2026-09-03T19:11:18"
   },
   {
-    "name": "openbot",
-    "full_name": "CopilotKit/openbot",
-    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-    "url": "https://github.com/CopilotKit/openbot",
-    "stars": 4024,
-    "daily_stars": 81,
-    "language": "TypeScript",
+    "name": "unlazy",
+    "full_name": "Leonxlnx/unlazy",
+    "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
+    "url": "https://github.com/Leonxlnx/unlazy",
+    "stars": 3010,
+    "daily_stars": 16,
+    "language": "JavaScript",
     "topics": [
-      "ag-ui",
-      "agent-governance",
       "ai-agents",
-      "browser-automation",
-      "copilotkit",
-      "generative-ui",
-      "mcp"
-    ],
-    "created_at": "2026-08-17T00:44:59",
-    "updated_at": "2026-09-03T12:23:38"
-  },
-  {
-    "name": "reef",
-    "full_name": "Human-Agent-Society/reef",
-    "description": "Continual learning infra for self-improving agents",
-    "url": "https://github.com/Human-Agent-Society/reef",
-    "stars": 254,
-    "daily_stars": 79,
-    "language": "Python",
-    "topics": [
-      "agent-infrastructure",
-      "ai-agents",
-      "continual-learning",
-      "inference",
+      "claude",
+      "claude-code",
       "llm",
-      "llm-training",
-      "reinforcement-learning",
-      "self-improving-agents"
-    ],
-    "created_at": "2026-08-31T01:39:18",
-    "updated_at": "2026-09-03T12:55:27"
-  },
-  {
-    "name": "sprix-sage-router",
-    "full_name": "wang2122/sprix-sage-router",
-    "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-    "url": "https://github.com/wang2122/sprix-sage-router",
-    "stars": 3299,
-    "daily_stars": 73,
-    "language": "Python",
-    "topics": [
-      "a2a",
-      "agent-orchestration",
-      "agent-routing",
-      "ai-agents",
-      "multi-agent-systems",
-      "python",
-      "sprix-ai",
-      "task-scheduling"
-    ],
-    "created_at": "2026-08-18T04:08:11",
-    "updated_at": "2026-09-03T12:56:24"
-  },
-  {
-    "name": "awesome-grokbot",
-    "full_name": "kydlikebtc/awesome-grokbot",
-    "description": "361 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
-    "url": "https://github.com/kydlikebtc/awesome-grokbot",
-    "stars": 170,
-    "daily_stars": 45,
-    "language": "Python",
-    "topics": [
-      "agents",
-      "ai-agents",
-      "ai-tools",
-      "awesome",
-      "awesome-list",
-      "bot-templates",
-      "catalog",
-      "cursor",
-      "directory",
-      "grok",
-      "grok-bot",
-      "grokbot",
-      "llm",
+      "productivity",
       "prompt-engineering",
-      "xai"
+      "skill"
     ],
-    "created_at": "2026-09-01T02:30:25",
-    "updated_at": "2026-09-03T11:55:43"
-  },
-  {
-    "name": "codex-with-chatgpt",
-    "full_name": "XiaoDuoYa/codex-with-chatgpt",
-    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-    "stars": 2338,
-    "daily_stars": 43,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "chatgpt",
-      "codex",
-      "mcp",
-      "model-context-protocol",
-      "oauth"
-    ],
-    "created_at": "2026-08-28T12:57:24",
-    "updated_at": "2026-09-03T12:54:23"
+    "created_at": "2026-08-09T23:39:12",
+    "updated_at": "2026-09-03T19:15:26"
   }
 ]
