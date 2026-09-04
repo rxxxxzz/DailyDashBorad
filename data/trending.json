@@ -4,8 +4,8 @@
     "full_name": "deepseek-ai/deepseek-harness",
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 212138,
-    "daily_stars": 282,
+    "stars": 212197,
+    "daily_stars": 59,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -14,43 +14,15 @@
       "dsh-plugin"
     ],
     "created_at": "2026-08-13T11:56:32",
-    "updated_at": "2026-09-04T19:02:02"
-  },
-  {
-    "name": "awesome-grokbot",
-    "full_name": "kydlikebtc/awesome-grokbot",
-    "description": "361 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
-    "url": "https://github.com/kydlikebtc/awesome-grokbot",
-    "stars": 284,
-    "daily_stars": 76,
-    "language": "Python",
-    "topics": [
-      "agents",
-      "ai-agents",
-      "ai-tools",
-      "awesome",
-      "awesome-list",
-      "bot-templates",
-      "catalog",
-      "cursor",
-      "directory",
-      "grok",
-      "grok-bot",
-      "grokbot",
-      "llm",
-      "prompt-engineering",
-      "xai"
-    ],
-    "created_at": "2026-09-01T02:30:25",
-    "updated_at": "2026-09-04T19:02:08"
+    "updated_at": "2026-09-04T22:25:49"
   },
   {
     "name": "appllama-skills",
     "full_name": "Appllama/appllama-skills",
     "description": "A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile screens.",
     "url": "https://github.com/Appllama/appllama-skills",
-    "stars": 605,
-    "daily_stars": 53,
+    "stars": 636,
+    "daily_stars": 31,
     "language": null,
     "topics": [
       "agent-skills",
@@ -74,35 +46,43 @@
       "ui-design"
     ],
     "created_at": "2026-08-13T07:19:54",
-    "updated_at": "2026-09-04T19:00:42"
+    "updated_at": "2026-09-04T22:06:10"
   },
   {
-    "name": "openbot",
-    "full_name": "CopilotKit/openbot",
-    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-    "url": "https://github.com/CopilotKit/openbot",
-    "stars": 4244,
-    "daily_stars": 44,
-    "language": "TypeScript",
+    "name": "awesome-grokbot",
+    "full_name": "kydlikebtc/awesome-grokbot",
+    "description": "361 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
+    "url": "https://github.com/kydlikebtc/awesome-grokbot",
+    "stars": 306,
+    "daily_stars": 22,
+    "language": "Python",
     "topics": [
-      "ag-ui",
-      "agent-governance",
+      "agents",
       "ai-agents",
-      "browser-automation",
-      "copilotkit",
-      "generative-ui",
-      "mcp"
+      "ai-tools",
+      "awesome",
+      "awesome-list",
+      "bot-templates",
+      "catalog",
+      "cursor",
+      "directory",
+      "grok",
+      "grok-bot",
+      "grokbot",
+      "llm",
+      "prompt-engineering",
+      "xai"
     ],
-    "created_at": "2026-08-17T00:44:59",
-    "updated_at": "2026-09-04T19:02:41"
+    "created_at": "2026-09-01T02:30:25",
+    "updated_at": "2026-09-04T20:41:13"
   },
   {
     "name": "reef",
     "full_name": "Human-Agent-Society/reef",
     "description": "Continual learning infra for self-improving agents",
     "url": "https://github.com/Human-Agent-Society/reef",
-    "stars": 392,
-    "daily_stars": 32,
+    "stars": 409,
+    "daily_stars": 17,
     "language": "Python",
     "topics": [
       "agent-infrastructure",
@@ -115,15 +95,57 @@
       "self-improving-agents"
     ],
     "created_at": "2026-08-31T01:39:18",
-    "updated_at": "2026-09-04T18:58:03"
+    "updated_at": "2026-09-04T22:27:04"
+  },
+  {
+    "name": "openbot",
+    "full_name": "CopilotKit/openbot",
+    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+    "url": "https://github.com/CopilotKit/openbot",
+    "stars": 4260,
+    "daily_stars": 16,
+    "language": "TypeScript",
+    "topics": [
+      "ag-ui",
+      "agent-governance",
+      "ai-agents",
+      "browser-automation",
+      "copilotkit",
+      "generative-ui",
+      "mcp"
+    ],
+    "created_at": "2026-08-17T00:44:59",
+    "updated_at": "2026-09-04T22:22:20"
+  },
+  {
+    "name": "rakazo",
+    "full_name": "elie222/rakazo",
+    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+    "url": "https://github.com/elie222/rakazo",
+    "stars": 1919,
+    "daily_stars": 9,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "docker",
+      "electron",
+      "expo",
+      "grok",
+      "llm",
+      "self-hosted",
+      "typescript"
+    ],
+    "created_at": "2026-08-13T06:28:56",
+    "updated_at": "2026-09-04T22:09:03"
   },
   {
     "name": "FrontierAgent",
     "full_name": "ApodexAI/FrontierAgent",
     "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
     "url": "https://github.com/ApodexAI/FrontierAgent",
-    "stars": 1683,
-    "daily_stars": 30,
+    "stars": 1692,
+    "daily_stars": 9,
     "language": "Python",
     "topics": [
       "agent-orchestration",
@@ -136,34 +158,57 @@
       "tui"
     ],
     "created_at": "2026-08-22T05:07:35",
-    "updated_at": "2026-09-04T18:07:16"
+    "updated_at": "2026-09-04T22:04:52"
   },
   {
-    "name": "vibe-coding-toolkit",
-    "full_name": "soumatheusgomes/vibe-coding-toolkit",
-    "description": "A curated, battle-tested AI-coding toolkit: Claude Code plugins, subagent orchestration, quality gates, and ready-to-copy prompts, extracted from real production use.",
-    "url": "https://github.com/soumatheusgomes/vibe-coding-toolkit",
-    "stars": 483,
-    "daily_stars": 22,
-    "language": null,
+    "name": "codex-cli-portable-setup-kit",
+    "full_name": "2akouwu/codex-cli-portable-setup-kit",
+    "description": "Autonomous Systems & Security Toolkit for OpenAI Codex CLI. Deterministic binary analysis, decoupled pipeline, and zero-friction execution.",
+    "url": "https://github.com/2akouwu/codex-cli-portable-setup-kit",
+    "stars": 878,
+    "daily_stars": 9,
+    "language": "Python",
+    "topics": [
+      "agentic-workflow",
+      "ai-agents",
+      "automation",
+      "codex",
+      "codex-cli",
+      "developer-tools",
+      "execution-first",
+      "hooks",
+      "openai",
+      "powershell",
+      "prompt-engineering",
+      "skills",
+      "windows"
+    ],
+    "created_at": "2026-08-31T01:02:18",
+    "updated_at": "2026-09-04T22:26:14"
+  },
+  {
+    "name": "tiny-engineer",
+    "full_name": "jamro/tiny-engineer",
+    "description": "A small desktop robot that brings an AI coding assistant to life, physically acting out when it reads files, thinks, writes code, and finishes work.",
+    "url": "https://github.com/jamro/tiny-engineer",
+    "stars": 247,
+    "daily_stars": 8,
+    "language": "C++",
     "topics": [
       "ai-agents",
-      "ai-coding",
-      "claude-code",
-      "developer-tools",
-      "llm-agents",
-      "prompts"
+      "cursor",
+      "esp32"
     ],
-    "created_at": "2026-08-14T23:41:31",
-    "updated_at": "2026-09-04T18:52:05"
+    "created_at": "2026-08-21T15:58:33",
+    "updated_at": "2026-09-04T22:22:44"
   },
   {
     "name": "stop-that-shit",
     "full_name": "lennney/stop-that-shit",
     "description": "Keep Codex from adding unneeded modules, subagents, dependencies, and hashes to small tasks.",
     "url": "https://github.com/lennney/stop-that-shit",
-    "stars": 1538,
-    "daily_stars": 19,
+    "stars": 1545,
+    "daily_stars": 7,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -179,64 +224,6 @@
       "yagni"
     ],
     "created_at": "2026-08-11T15:31:45",
-    "updated_at": "2026-09-04T18:56:55"
-  },
-  {
-    "name": "awesome-ai-agent-platforms",
-    "full_name": "Agenta-AI/awesome-ai-agent-platforms",
-    "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
-    "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
-    "stars": 160,
-    "daily_stars": 19,
-    "language": "Astro",
-    "topics": [
-      "agent-frameworks",
-      "ai-agent-platforms",
-      "ai-agents",
-      "ai-coworker",
-      "awesome",
-      "awesome-list",
-      "browser-agents",
-      "coding-agents",
-      "llm",
-      "open-source",
-      "self-hosted",
-      "workflow-automation"
-    ],
-    "created_at": "2026-09-02T16:32:59",
-    "updated_at": "2026-09-04T18:52:39"
-  },
-  {
-    "name": "Awesome-AI-Scientist",
-    "full_name": "Omni-Scientist/Awesome-AI-Scientist",
-    "description": "🧪 Awesome list of AI Scientist papers, systems, benchmarks, datasets and open-source platforms.",
-    "url": "https://github.com/Omni-Scientist/Awesome-AI-Scientist",
-    "stars": 67,
-    "daily_stars": 18,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "ai-for-science",
-      "ai-scientist",
-      "ai4science",
-      "automated-science",
-      "autonomous-research",
-      "awesome",
-      "awesome-list",
-      "benchmark",
-      "co-scientist",
-      "deep-research",
-      "large-language-models",
-      "llm",
-      "llm-agents",
-      "machine-learning",
-      "multi-agent-systems",
-      "paper-list",
-      "research-agent",
-      "scientific-discovery",
-      "self-driving-lab"
-    ],
-    "created_at": "2026-08-24T14:48:43",
-    "updated_at": "2026-09-04T18:55:56"
+    "updated_at": "2026-09-04T22:18:10"
   }
 ]
