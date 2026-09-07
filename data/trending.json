@@ -4,8 +4,8 @@
     "full_name": "deepseek-ai/deepseek-harness",
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 215079,
-    "daily_stars": 170,
+    "stars": 215113,
+    "daily_stars": 34,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -14,15 +14,47 @@
       "dsh-plugin"
     ],
     "created_at": "2026-08-13T11:56:32",
-    "updated_at": "2026-09-07T20:03:14"
+    "updated_at": "2026-09-07T22:51:50"
+  },
+  {
+    "name": "appllama-skills",
+    "full_name": "Appllama/appllama-skills",
+    "description": "A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile screens.",
+    "url": "https://github.com/Appllama/appllama-skills",
+    "stars": 948,
+    "daily_stars": 30,
+    "language": null,
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-code-skill",
+      "claude-skills",
+      "codex",
+      "codex-skill",
+      "cursor",
+      "design-system",
+      "expo",
+      "mcp",
+      "mobile-app-development",
+      "mobile-design",
+      "mobile-ui",
+      "model-context-protocol",
+      "react-native",
+      "skills",
+      "ui-design"
+    ],
+    "created_at": "2026-08-13T07:19:54",
+    "updated_at": "2026-09-07T22:56:06"
   },
   {
     "name": "codex-with-chatgpt",
     "full_name": "XiaoDuoYa/codex-with-chatgpt",
     "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
     "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-    "stars": 2670,
-    "daily_stars": 87,
+    "stars": 2683,
+    "daily_stars": 13,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -33,15 +65,56 @@
       "oauth"
     ],
     "created_at": "2026-08-28T12:57:24",
-    "updated_at": "2026-09-07T19:50:14"
+    "updated_at": "2026-09-07T22:57:05"
+  },
+  {
+    "name": "openbot",
+    "full_name": "CopilotKit/openbot",
+    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+    "url": "https://github.com/CopilotKit/openbot",
+    "stars": 4429,
+    "daily_stars": 12,
+    "language": "TypeScript",
+    "topics": [
+      "ag-ui",
+      "agent-governance",
+      "ai-agents",
+      "browser-automation",
+      "copilotkit",
+      "generative-ui",
+      "mcp"
+    ],
+    "created_at": "2026-08-17T00:44:59",
+    "updated_at": "2026-09-07T22:28:11"
+  },
+  {
+    "name": "sprix-sage-router",
+    "full_name": "wang2122/sprix-sage-router",
+    "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+    "url": "https://github.com/wang2122/sprix-sage-router",
+    "stars": 3831,
+    "daily_stars": 9,
+    "language": "Python",
+    "topics": [
+      "a2a",
+      "agent-orchestration",
+      "agent-routing",
+      "ai-agents",
+      "multi-agent-systems",
+      "python",
+      "sprix-ai",
+      "task-scheduling"
+    ],
+    "created_at": "2026-08-18T04:08:11",
+    "updated_at": "2026-09-07T21:42:02"
   },
   {
     "name": "FrontierAgent",
     "full_name": "ApodexAI/FrontierAgent",
     "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
     "url": "https://github.com/ApodexAI/FrontierAgent",
-    "stars": 2063,
-    "daily_stars": 25,
+    "stars": 2070,
+    "daily_stars": 7,
     "language": "Python",
     "topics": [
       "agent-orchestration",
@@ -54,102 +127,15 @@
       "tui"
     ],
     "created_at": "2026-08-22T05:07:35",
-    "updated_at": "2026-09-07T19:59:30"
-  },
-  {
-    "name": "mobilecode",
-    "full_name": "hsandhu/mobilecode",
-    "description": "mobilecode is a fork of opencode that builds and previews iOS and Android projects",
-    "url": "https://github.com/hsandhu/mobilecode",
-    "stars": 165,
-    "daily_stars": 24,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "ai-coding",
-      "ai-tools",
-      "androidstudio",
-      "xcode",
-      "xcodebuild"
-    ],
-    "created_at": "2026-09-05T03:26:31",
-    "updated_at": "2026-09-07T19:48:41"
-  },
-  {
-    "name": "rakazo",
-    "full_name": "elie222/rakazo",
-    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-    "url": "https://github.com/elie222/rakazo",
-    "stars": 2075,
-    "daily_stars": 17,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "chatgpt",
-      "docker",
-      "electron",
-      "expo",
-      "grok",
-      "llm",
-      "self-hosted",
-      "typescript"
-    ],
-    "created_at": "2026-08-13T06:28:56",
-    "updated_at": "2026-09-07T20:02:33"
-  },
-  {
-    "name": "reef",
-    "full_name": "Human-Agent-Society/reef",
-    "description": "Continual learning infra for self-improving agents",
-    "url": "https://github.com/Human-Agent-Society/reef",
-    "stars": 691,
-    "daily_stars": 15,
-    "language": "Python",
-    "topics": [
-      "agent-infrastructure",
-      "ai-agents",
-      "continual-learning",
-      "inference",
-      "llm",
-      "llm-training",
-      "reinforcement-learning",
-      "self-improving-agents"
-    ],
-    "created_at": "2026-08-31T01:39:18",
-    "updated_at": "2026-09-07T18:02:43"
-  },
-  {
-    "name": "awesome-ai-agent-platforms",
-    "full_name": "Agenta-AI/awesome-ai-agent-platforms",
-    "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
-    "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
-    "stars": 259,
-    "daily_stars": 15,
-    "language": "Astro",
-    "topics": [
-      "agent-frameworks",
-      "ai-agent-platforms",
-      "ai-agents",
-      "ai-coworker",
-      "awesome",
-      "awesome-list",
-      "browser-agents",
-      "coding-agents",
-      "llm",
-      "open-source",
-      "self-hosted",
-      "workflow-automation"
-    ],
-    "created_at": "2026-09-02T16:32:59",
-    "updated_at": "2026-09-07T19:54:03"
+    "updated_at": "2026-09-07T22:26:33"
   },
   {
     "name": "VoiceMem",
     "full_name": "xzf-thu/VoiceMem",
     "description": "a real-time and empathetic memory system for voice assistants",
     "url": "https://github.com/xzf-thu/VoiceMem",
-    "stars": 908,
-    "daily_stars": 14,
+    "stars": 915,
+    "daily_stars": 7,
     "language": "Python",
     "topics": [
       "ai",
@@ -167,35 +153,15 @@
       "voice-assistant"
     ],
     "created_at": "2026-08-17T09:49:10",
-    "updated_at": "2026-09-07T19:23:05"
-  },
-  {
-    "name": "openbot",
-    "full_name": "CopilotKit/openbot",
-    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-    "url": "https://github.com/CopilotKit/openbot",
-    "stars": 4417,
-    "daily_stars": 11,
-    "language": "TypeScript",
-    "topics": [
-      "ag-ui",
-      "agent-governance",
-      "ai-agents",
-      "browser-automation",
-      "copilotkit",
-      "generative-ui",
-      "mcp"
-    ],
-    "created_at": "2026-08-17T00:44:59",
-    "updated_at": "2026-09-07T19:48:42"
+    "updated_at": "2026-09-07T22:11:37"
   },
   {
     "name": "pinloop-cli",
     "full_name": "pinloop-ai/pinloop-cli",
     "description": "Command-line job search tool for coding agents. Searches and judges 10,000+ postings from 4,000+ employers, refreshed hourly.",
     "url": "https://github.com/pinloop-ai/pinloop-cli",
-    "stars": 176,
-    "daily_stars": 11,
+    "stars": 183,
+    "daily_stars": 7,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -209,6 +175,58 @@
       "typescript"
     ],
     "created_at": "2026-08-23T18:12:45",
-    "updated_at": "2026-09-07T19:58:12"
+    "updated_at": "2026-09-07T22:49:51"
+  },
+  {
+    "name": "mobilecode",
+    "full_name": "hsandhu/mobilecode",
+    "description": "mobilecode is a fork of opencode that builds and previews iOS and Android projects",
+    "url": "https://github.com/hsandhu/mobilecode",
+    "stars": 172,
+    "daily_stars": 7,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "ai-coding",
+      "ai-tools",
+      "androidstudio",
+      "xcode",
+      "xcodebuild"
+    ],
+    "created_at": "2026-09-05T03:26:31",
+    "updated_at": "2026-09-07T22:49:00"
+  },
+  {
+    "name": "vicoa",
+    "full_name": "vicoa-ai/vicoa",
+    "description": "Vicoa is the ADE for running a team of coding agents from any device. Desktop, mobile, VPS, open-source, self-hostable.",
+    "url": "https://github.com/vicoa-ai/vicoa",
+    "stars": 158,
+    "daily_stars": 7,
+    "language": "Python",
+    "topics": [
+      "ade",
+      "ai-agents",
+      "ai-orchestrator",
+      "android",
+      "claude-code",
+      "codex",
+      "coding-agent",
+      "developer-tools",
+      "flutter",
+      "ios",
+      "linux",
+      "mobile",
+      "nextjs",
+      "opencode",
+      "python",
+      "self-hosted",
+      "typescript",
+      "vibe-coding",
+      "vicoa",
+      "windows"
+    ],
+    "created_at": "2026-08-28T16:30:26",
+    "updated_at": "2026-09-07T22:46:31"
   }
 ]
