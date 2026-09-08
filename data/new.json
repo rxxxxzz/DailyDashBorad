@@ -1,11 +1,42 @@
 [
   {
+    "name": "okf-agent-memory",
+    "full_name": "okf-memory/okf-agent-memory",
+    "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+    "url": "https://github.com/okf-memory/okf-agent-memory",
+    "stars": 480,
+    "daily_stars": 0,
+    "language": "Go",
+    "topics": [
+      "agent-memory",
+      "ai-agents",
+      "bm25",
+      "coding-agents",
+      "developer-tools",
+      "git-native",
+      "go",
+      "golang",
+      "knowledge-base",
+      "knowledge-graph",
+      "llm-memory",
+      "markdown",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "okf",
+      "open-knowledge-format",
+      "persistent-memory"
+    ],
+    "created_at": "2026-09-05T21:26:04",
+    "updated_at": "2026-09-08T12:32:15"
+  },
+  {
     "name": "fable51-worlds",
     "full_name": "PhiloLabs/fable51-worlds",
     "description": "worlds via code, from fable 5.1",
     "url": "https://github.com/PhiloLabs/fable51-worlds",
-    "stars": 466,
-    "daily_stars": 2,
+    "stars": 470,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
       "3d-reconstruction",
@@ -20,15 +51,15 @@
       "webgl"
     ],
     "created_at": "2026-09-02T18:19:55",
-    "updated_at": "2026-09-08T03:21:50"
+    "updated_at": "2026-09-08T12:43:26"
   },
   {
     "name": "awesome-grokbot",
     "full_name": "kydlikebtc/awesome-grokbot",
     "description": "361 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
     "url": "https://github.com/kydlikebtc/awesome-grokbot",
-    "stars": 332,
-    "daily_stars": 1,
+    "stars": 335,
+    "daily_stars": 3,
     "language": "Python",
     "topics": [
       "agents",
@@ -48,15 +79,15 @@
       "xai"
     ],
     "created_at": "2026-09-01T02:30:25",
-    "updated_at": "2026-09-08T01:10:27"
+    "updated_at": "2026-09-08T10:31:13"
   },
   {
     "name": "awesome-ai-agent-platforms",
     "full_name": "Agenta-AI/awesome-ai-agent-platforms",
     "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
     "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
-    "stars": 265,
-    "daily_stars": 3,
+    "stars": 234,
+    "daily_stars": -31,
     "language": "Astro",
     "topics": [
       "agent-frameworks",
@@ -73,15 +104,15 @@
       "workflow-automation"
     ],
     "created_at": "2026-09-02T16:32:59",
-    "updated_at": "2026-09-08T02:58:20"
+    "updated_at": "2026-09-08T12:22:14"
   },
   {
     "name": "mobilecode",
     "full_name": "hsandhu/mobilecode",
     "description": "mobilecode is a fork of opencode that builds and previews iOS and Android projects",
     "url": "https://github.com/hsandhu/mobilecode",
-    "stars": 202,
-    "daily_stars": 30,
+    "stars": 218,
+    "daily_stars": 16,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -92,15 +123,15 @@
       "xcodebuild"
     ],
     "created_at": "2026-09-05T03:26:31",
-    "updated_at": "2026-09-08T04:11:28"
+    "updated_at": "2026-09-08T12:42:17"
   },
   {
     "name": "Apeireth",
     "full_name": "Apeireth/Apeireth",
     "description": "Apeireth — A Pure Safe Rust AGI Operating System & Cognitive Microkernel. 16 crates: continuous topological memory, causal world model, cognitive scheduler, Ember HUD, triple-onion security & portable USB agent.",
     "url": "https://github.com/Apeireth/Apeireth",
-    "stars": 106,
-    "daily_stars": 0,
+    "stars": 112,
+    "daily_stars": 6,
     "language": "Rust",
     "topics": [
       "agi",
@@ -115,7 +146,7 @@
       "zero-trust"
     ],
     "created_at": "2026-09-04T08:55:31",
-    "updated_at": "2026-09-08T03:06:50"
+    "updated_at": "2026-09-08T12:12:33"
   },
   {
     "name": "novoweave",
@@ -192,8 +223,8 @@
     "full_name": "michailfragkiskos/EdgeMosaic",
     "description": "Rapid on-device AI evaluation lab: manifest validation, benchmark plans, latency/memory/thermal aggregation, JSON+Markdown reports.",
     "url": "https://github.com/michailfragkiskos/EdgeMosaic",
-    "stars": 28,
-    "daily_stars": 0,
+    "stars": 27,
+    "daily_stars": -1,
     "language": "Python",
     "topics": [
       "ai",
@@ -216,22 +247,6 @@
       "thermal"
     ],
     "created_at": "2026-09-04T16:55:00",
-    "updated_at": "2026-09-05T10:56:47"
-  },
-  {
-    "name": "sparse-transformers",
-    "full_name": "extropic-ai/sparse-transformers",
-    "description": "Sparse Transformers in JAX",
-    "url": "https://github.com/extropic-ai/sparse-transformers",
-    "stars": 25,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "jax",
-      "machine-learning",
-      "transformers"
-    ],
-    "created_at": "2026-08-31T21:36:36",
-    "updated_at": "2026-09-07T23:46:36"
+    "updated_at": "2026-09-08T08:43:09"
   }
 ]
