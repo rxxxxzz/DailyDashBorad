@@ -4,8 +4,8 @@
     "full_name": "okf-memory/okf-agent-memory",
     "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
     "url": "https://github.com/okf-memory/okf-agent-memory",
-    "stars": 480,
-    "daily_stars": 0,
+    "stars": 489,
+    "daily_stars": 9,
     "language": "Go",
     "topics": [
       "agent-memory",
@@ -28,7 +28,7 @@
       "persistent-memory"
     ],
     "created_at": "2026-09-05T21:26:04",
-    "updated_at": "2026-09-08T12:32:15"
+    "updated_at": "2026-09-08T16:56:36"
   },
   {
     "name": "fable51-worlds",
@@ -36,7 +36,7 @@
     "description": "worlds via code, from fable 5.1",
     "url": "https://github.com/PhiloLabs/fable51-worlds",
     "stars": 470,
-    "daily_stars": 4,
+    "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
       "3d-reconstruction",
@@ -58,8 +58,8 @@
     "full_name": "kydlikebtc/awesome-grokbot",
     "description": "361 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
     "url": "https://github.com/kydlikebtc/awesome-grokbot",
-    "stars": 335,
-    "daily_stars": 3,
+    "stars": 337,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "agents",
@@ -79,15 +79,15 @@
       "xai"
     ],
     "created_at": "2026-09-01T02:30:25",
-    "updated_at": "2026-09-08T10:31:13"
+    "updated_at": "2026-09-08T19:23:02"
   },
   {
     "name": "awesome-ai-agent-platforms",
     "full_name": "Agenta-AI/awesome-ai-agent-platforms",
     "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
     "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
-    "stars": 234,
-    "daily_stars": -31,
+    "stars": 240,
+    "daily_stars": 6,
     "language": "Astro",
     "topics": [
       "agent-frameworks",
@@ -104,15 +104,15 @@
       "workflow-automation"
     ],
     "created_at": "2026-09-02T16:32:59",
-    "updated_at": "2026-09-08T12:22:14"
+    "updated_at": "2026-09-08T18:21:10"
   },
   {
     "name": "mobilecode",
     "full_name": "hsandhu/mobilecode",
     "description": "mobilecode is a fork of opencode that builds and previews iOS and Android projects",
     "url": "https://github.com/hsandhu/mobilecode",
-    "stars": 218,
-    "daily_stars": 16,
+    "stars": 222,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -123,15 +123,15 @@
       "xcodebuild"
     ],
     "created_at": "2026-09-05T03:26:31",
-    "updated_at": "2026-09-08T12:42:17"
+    "updated_at": "2026-09-08T18:42:31"
   },
   {
     "name": "Apeireth",
     "full_name": "Apeireth/Apeireth",
     "description": "Apeireth — A Pure Safe Rust AGI Operating System & Cognitive Microkernel. 16 crates: continuous topological memory, causal world model, cognitive scheduler, Ember HUD, triple-onion security & portable USB agent.",
     "url": "https://github.com/Apeireth/Apeireth",
-    "stars": 112,
-    "daily_stars": 6,
+    "stars": 113,
+    "daily_stars": 1,
     "language": "Rust",
     "topics": [
       "agi",
@@ -146,7 +146,30 @@
       "zero-trust"
     ],
     "created_at": "2026-09-04T08:55:31",
-    "updated_at": "2026-09-08T12:12:33"
+    "updated_at": "2026-09-08T15:57:28"
+  },
+  {
+    "name": "papergraph-mcp",
+    "full_name": "lotchuazzz-crypto/papergraph-mcp",
+    "description": "Turn arXiv and LaTeX mathematical papers into theorem dependency graphs for AI agents through MCP.",
+    "url": "https://github.com/lotchuazzz-crypto/papergraph-mcp",
+    "stars": 111,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "arxiv",
+      "knowledge-graph",
+      "latex",
+      "mathematics",
+      "mcp",
+      "model-context-protocol",
+      "python",
+      "research-tools",
+      "skills"
+    ],
+    "created_at": "2026-09-02T05:59:46",
+    "updated_at": "2026-09-08T19:27:19"
   },
   {
     "name": "novoweave",
@@ -200,8 +223,8 @@
     "full_name": "hbofz/NeSLE",
     "description": "GPU-native NES emulator + RL stack: thousands of parallel NES envs on one CUDA GPU, training PPO agents on Super Mario Bros.",
     "url": "https://github.com/hbofz/NeSLE",
-    "stars": 31,
-    "daily_stars": 0,
+    "stars": 32,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "cuda",
@@ -216,37 +239,6 @@
       "super-mario-bros"
     ],
     "created_at": "2026-09-01T19:38:21",
-    "updated_at": "2026-09-07T19:02:30"
-  },
-  {
-    "name": "EdgeMosaic",
-    "full_name": "michailfragkiskos/EdgeMosaic",
-    "description": "Rapid on-device AI evaluation lab: manifest validation, benchmark plans, latency/memory/thermal aggregation, JSON+Markdown reports.",
-    "url": "https://github.com/michailfragkiskos/EdgeMosaic",
-    "stars": 27,
-    "daily_stars": -1,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "android",
-      "benchmark",
-      "devtools",
-      "edge",
-      "evaluation",
-      "inference",
-      "jvm",
-      "kotlin",
-      "latency",
-      "machine-learning",
-      "manifest",
-      "on-device",
-      "performance",
-      "python",
-      "reporting",
-      "tflite",
-      "thermal"
-    ],
-    "created_at": "2026-09-04T16:55:00",
-    "updated_at": "2026-09-08T08:43:09"
+    "updated_at": "2026-09-08T13:16:00"
   }
 ]

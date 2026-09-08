@@ -4,8 +4,8 @@
     "full_name": "deepseek-ai/deepseek-harness",
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 215889,
-    "daily_stars": 511,
+    "stars": 216166,
+    "daily_stars": 277,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -14,15 +14,15 @@
       "dsh-plugin"
     ],
     "created_at": "2026-08-13T11:56:32",
-    "updated_at": "2026-09-08T12:58:11"
+    "updated_at": "2026-09-08T19:28:53"
   },
   {
     "name": "codex-with-chatgpt",
     "full_name": "XiaoDuoYa/codex-with-chatgpt",
     "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
     "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-    "stars": 2975,
-    "daily_stars": 222,
+    "stars": 3228,
+    "daily_stars": 253,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -33,15 +33,15 @@
       "oauth"
     ],
     "created_at": "2026-08-28T12:57:24",
-    "updated_at": "2026-09-08T12:57:18"
+    "updated_at": "2026-09-08T19:27:51"
   },
   {
     "name": "appllama-skills",
     "full_name": "Appllama/appllama-skills",
     "description": "A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile screens.",
     "url": "https://github.com/Appllama/appllama-skills",
-    "stars": 1038,
-    "daily_stars": 48,
+    "stars": 1099,
+    "daily_stars": 61,
     "language": null,
     "topics": [
       "agent-skills",
@@ -65,15 +65,79 @@
       "ui-design"
     ],
     "created_at": "2026-08-13T07:19:54",
-    "updated_at": "2026-09-08T12:48:18"
+    "updated_at": "2026-09-08T19:28:43"
+  },
+  {
+    "name": "pinloop-cli",
+    "full_name": "pinloop-ai/pinloop-cli",
+    "description": "Command-line job search tool for coding agents. Searches and judges 10,000+ postings from 4,000+ employers, refreshed hourly.",
+    "url": "https://github.com/pinloop-ai/pinloop-cli",
+    "stars": 245,
+    "daily_stars": 35,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "coding-agents",
+      "internships",
+      "job-search",
+      "jobs",
+      "nodejs",
+      "typescript"
+    ],
+    "created_at": "2026-08-23T18:12:45",
+    "updated_at": "2026-09-08T19:19:29"
+  },
+  {
+    "name": "openbot",
+    "full_name": "CopilotKit/openbot",
+    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+    "url": "https://github.com/CopilotKit/openbot",
+    "stars": 4481,
+    "daily_stars": 22,
+    "language": "TypeScript",
+    "topics": [
+      "ag-ui",
+      "agent-governance",
+      "ai-agents",
+      "browser-automation",
+      "copilotkit",
+      "generative-ui",
+      "mcp"
+    ],
+    "created_at": "2026-08-17T00:44:59",
+    "updated_at": "2026-09-08T18:58:14"
+  },
+  {
+    "name": "rakazo",
+    "full_name": "elie222/rakazo",
+    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+    "url": "https://github.com/elie222/rakazo",
+    "stars": 2135,
+    "daily_stars": 22,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "docker",
+      "electron",
+      "expo",
+      "grok",
+      "llm",
+      "self-hosted",
+      "typescript"
+    ],
+    "created_at": "2026-08-13T06:28:56",
+    "updated_at": "2026-09-08T19:16:33"
   },
   {
     "name": "reef",
     "full_name": "Human-Agent-Society/reef",
     "description": "Continual learning infra for self-improving agents",
     "url": "https://github.com/Human-Agent-Society/reef",
-    "stars": 752,
-    "daily_stars": 48,
+    "stars": 774,
+    "daily_stars": 22,
     "language": "Python",
     "topics": [
       "agent-infrastructure",
@@ -86,15 +150,58 @@
       "self-improving-agents"
     ],
     "created_at": "2026-08-31T01:39:18",
-    "updated_at": "2026-09-08T12:51:58"
+    "updated_at": "2026-09-08T18:03:26"
+  },
+  {
+    "name": "Lilly",
+    "full_name": "ssaaffaakk/Lilly",
+    "description": "Bosnian-first offline assistant: type, speak, and snap street text → English. FastAPI app + Kaggle-trained listen/read models. Fail-stop training.",
+    "url": "https://github.com/ssaaffaakk/Lilly",
+    "stars": 47,
+    "daily_stars": 18,
+    "language": "Python",
+    "topics": [
+      "bosnian",
+      "fastapi",
+      "kaggle",
+      "machine-learning",
+      "ocr",
+      "offline-first",
+      "speech-recognition",
+      "translation",
+      "whisper"
+    ],
+    "created_at": "2026-08-22T16:31:56",
+    "updated_at": "2026-09-08T19:17:02"
+  },
+  {
+    "name": "FrontierAgent",
+    "full_name": "ApodexAI/FrontierAgent",
+    "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+    "url": "https://github.com/ApodexAI/FrontierAgent",
+    "stars": 2265,
+    "daily_stars": 16,
+    "language": "Python",
+    "topics": [
+      "agent-orchestration",
+      "agentic-ai",
+      "agentic-framework",
+      "ai-agents",
+      "harness",
+      "multi-agent",
+      "terminal-agent",
+      "tui"
+    ],
+    "created_at": "2026-08-22T05:07:35",
+    "updated_at": "2026-09-08T19:24:44"
   },
   {
     "name": "VoiceMem",
     "full_name": "xzf-thu/VoiceMem",
     "description": "a real-time and empathetic memory system for voice assistants",
     "url": "https://github.com/xzf-thu/VoiceMem",
-    "stars": 986,
-    "daily_stars": 39,
+    "stars": 1001,
+    "daily_stars": 15,
     "language": "Python",
     "topics": [
       "ai",
@@ -112,126 +219,6 @@
       "voice-assistant"
     ],
     "created_at": "2026-08-17T09:49:10",
-    "updated_at": "2026-09-08T12:55:24"
-  },
-  {
-    "name": "FrontierAgent",
-    "full_name": "ApodexAI/FrontierAgent",
-    "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
-    "url": "https://github.com/ApodexAI/FrontierAgent",
-    "stars": 2249,
-    "daily_stars": 36,
-    "language": "Python",
-    "topics": [
-      "agent-orchestration",
-      "agentic-ai",
-      "agentic-framework",
-      "ai-agents",
-      "harness",
-      "multi-agent",
-      "terminal-agent",
-      "tui"
-    ],
-    "created_at": "2026-08-22T05:07:35",
-    "updated_at": "2026-09-08T12:34:52"
-  },
-  {
-    "name": "stop-that-shit",
-    "full_name": "lennney/stop-that-shit",
-    "description": "Keep Codex from adding unneeded modules, subagents, dependencies, and hashes to small tasks.",
-    "url": "https://github.com/lennney/stop-that-shit",
-    "stars": 1771,
-    "daily_stars": 27,
-    "language": "JavaScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "codex",
-      "codex-cli",
-      "codex-plugin",
-      "developer-tools",
-      "guardrails",
-      "local-first",
-      "overengineering",
-      "scope-control",
-      "yagni"
-    ],
-    "created_at": "2026-08-11T15:31:45",
-    "updated_at": "2026-09-08T12:45:45"
-  },
-  {
-    "name": "openbot",
-    "full_name": "CopilotKit/openbot",
-    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-    "url": "https://github.com/CopilotKit/openbot",
-    "stars": 4459,
-    "daily_stars": 23,
-    "language": "TypeScript",
-    "topics": [
-      "ag-ui",
-      "agent-governance",
-      "ai-agents",
-      "browser-automation",
-      "copilotkit",
-      "generative-ui",
-      "mcp"
-    ],
-    "created_at": "2026-08-17T00:44:59",
-    "updated_at": "2026-09-08T12:32:28"
-  },
-  {
-    "name": "pinloop-cli",
-    "full_name": "pinloop-ai/pinloop-cli",
-    "description": "Command-line job search tool for coding agents. Searches and judges 10,000+ postings from 4,000+ employers, refreshed hourly.",
-    "url": "https://github.com/pinloop-ai/pinloop-cli",
-    "stars": 210,
-    "daily_stars": 23,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "cli",
-      "coding-agents",
-      "internships",
-      "job-search",
-      "jobs",
-      "nodejs",
-      "typescript"
-    ],
-    "created_at": "2026-08-23T18:12:45",
-    "updated_at": "2026-09-08T12:54:40"
-  },
-  {
-    "name": "vicoa",
-    "full_name": "vicoa-ai/vicoa",
-    "description": "Vicoa is the ADE for running a team of coding agents from any device. Desktop, mobile, VPS, open-source, self-hostable.",
-    "url": "https://github.com/vicoa-ai/vicoa",
-    "stars": 180,
-    "daily_stars": 17,
-    "language": "Python",
-    "topics": [
-      "ade",
-      "ai-agents",
-      "ai-orchestrator",
-      "android",
-      "claude-code",
-      "codex",
-      "coding-agent",
-      "developer-tools",
-      "flutter",
-      "ios",
-      "linux",
-      "mobile",
-      "nextjs",
-      "opencode",
-      "python",
-      "self-hosted",
-      "typescript",
-      "vibe-coding",
-      "vicoa",
-      "windows"
-    ],
-    "created_at": "2026-08-28T16:30:26",
-    "updated_at": "2026-09-08T12:50:06"
+    "updated_at": "2026-09-08T19:28:27"
   }
 ]
