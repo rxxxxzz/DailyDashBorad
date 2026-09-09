@@ -4,8 +4,8 @@
     "full_name": "tigerless-labs/agent-memory",
     "description": "Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
     "url": "https://github.com/tigerless-labs/agent-memory",
-    "stars": 614,
-    "daily_stars": 66,
+    "stars": 711,
+    "daily_stars": 97,
     "language": "Python",
     "topics": [
       "agent-memory",
@@ -22,15 +22,15 @@
       "sqlite"
     ],
     "created_at": "2026-09-01T21:52:29",
-    "updated_at": "2026-09-09T04:42:24"
+    "updated_at": "2026-09-09T12:43:53"
   },
   {
     "name": "okf-agent-memory",
     "full_name": "okf-memory/okf-agent-memory",
     "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
     "url": "https://github.com/okf-memory/okf-agent-memory",
-    "stars": 498,
-    "daily_stars": 8,
+    "stars": 504,
+    "daily_stars": 6,
     "language": "Go",
     "topics": [
       "agent-memory",
@@ -53,7 +53,7 @@
       "persistent-memory"
     ],
     "created_at": "2026-09-05T21:26:04",
-    "updated_at": "2026-09-09T04:19:16"
+    "updated_at": "2026-09-09T12:17:30"
   },
   {
     "name": "fable51-worlds",
@@ -61,7 +61,7 @@
     "description": "worlds via code, from fable 5.1",
     "url": "https://github.com/PhiloLabs/fable51-worlds",
     "stars": 471,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
       "3d-reconstruction",
@@ -76,14 +76,14 @@
       "webgl"
     ],
     "created_at": "2026-09-02T18:19:55",
-    "updated_at": "2026-09-09T02:56:45"
+    "updated_at": "2026-09-09T10:28:23"
   },
   {
     "name": "mobilecode",
     "full_name": "hsandhu/mobilecode",
     "description": "mobilecode is a fork of opencode that builds and previews iOS and Android projects",
     "url": "https://github.com/hsandhu/mobilecode",
-    "stars": 225,
+    "stars": 227,
     "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
@@ -95,15 +95,15 @@
       "xcodebuild"
     ],
     "created_at": "2026-09-05T03:26:31",
-    "updated_at": "2026-09-09T02:49:29"
+    "updated_at": "2026-09-09T12:29:42"
   },
   {
     "name": "awesome-ai-agent-platforms",
     "full_name": "Agenta-AI/awesome-ai-agent-platforms",
     "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
     "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
-    "stars": 195,
-    "daily_stars": 1,
+    "stars": 206,
+    "daily_stars": 11,
     "language": "Astro",
     "topics": [
       "agent-frameworks",
@@ -120,38 +120,15 @@
       "workflow-automation"
     ],
     "created_at": "2026-09-02T16:32:59",
-    "updated_at": "2026-09-09T03:31:22"
-  },
-  {
-    "name": "Apeireth",
-    "full_name": "Apeireth/Apeireth",
-    "description": "Apeireth — A Pure Safe Rust AGI Operating System & Cognitive Microkernel. 16 crates: continuous topological memory, causal world model, cognitive scheduler, Ember HUD, triple-onion security & portable USB agent.",
-    "url": "https://github.com/Apeireth/Apeireth",
-    "stars": 116,
-    "daily_stars": 2,
-    "language": "Rust",
-    "topics": [
-      "agi",
-      "ai-agents",
-      "autonomous-agents",
-      "cognitive-architecture",
-      "microkernel",
-      "operating-system",
-      "pure-safe-rust",
-      "rust",
-      "topological-memory",
-      "zero-trust"
-    ],
-    "created_at": "2026-09-04T08:55:31",
-    "updated_at": "2026-09-09T02:44:24"
+    "updated_at": "2026-09-09T12:22:03"
   },
   {
     "name": "papergraph-mcp",
     "full_name": "lotchuazzz-crypto/papergraph-mcp",
     "description": "Turn arXiv and LaTeX mathematical papers into theorem dependency graphs for AI agents through MCP.",
     "url": "https://github.com/lotchuazzz-crypto/papergraph-mcp",
-    "stars": 115,
-    "daily_stars": 2,
+    "stars": 120,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -166,7 +143,55 @@
       "skills"
     ],
     "created_at": "2026-09-02T05:59:46",
-    "updated_at": "2026-09-09T03:51:56"
+    "updated_at": "2026-09-09T10:58:40"
+  },
+  {
+    "name": "Apeireth",
+    "full_name": "Apeireth/Apeireth",
+    "description": "Apeireth — A Pure Safe Rust AGI Operating System & Cognitive Microkernel. 16 crates: continuous topological memory, causal world model, cognitive scheduler, Ember HUD, triple-onion security & portable USB agent.",
+    "url": "https://github.com/Apeireth/Apeireth",
+    "stars": 120,
+    "daily_stars": 4,
+    "language": "Rust",
+    "topics": [
+      "agi",
+      "ai-agents",
+      "autonomous-agents",
+      "cognitive-architecture",
+      "microkernel",
+      "operating-system",
+      "pure-safe-rust",
+      "rust",
+      "topological-memory",
+      "zero-trust"
+    ],
+    "created_at": "2026-09-04T08:55:31",
+    "updated_at": "2026-09-09T12:47:17"
+  },
+  {
+    "name": "Penelopa.ai",
+    "full_name": "chigwell/Penelopa.ai",
+    "description": "Continuous improvement for AI coding agents: Penelopa analyzes real Codex and Claude Code sessions, finds repeated workflow patterns, and turns them into reusable skills, checks, prompts, and recommendations.",
+    "url": "https://github.com/chigwell/Penelopa.ai",
+    "stars": 110,
+    "daily_stars": 0,
+    "language": "JavaScript",
+    "topics": [
+      "agent-improvement",
+      "agent-observability",
+      "ai-agents",
+      "ai-recommendations",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "continuous-improvement",
+      "developer-productivity",
+      "prompt-engineering",
+      "reusable-skills",
+      "workflow-automation"
+    ],
+    "created_at": "2026-09-03T15:52:25",
+    "updated_at": "2026-09-09T11:21:34"
   },
   {
     "name": "novoweave",
@@ -188,54 +213,29 @@
     "updated_at": "2026-09-08T21:57:21"
   },
   {
-    "name": "PromptLedger",
-    "full_name": "cyptnpassira/PromptLedger",
-    "description": "PromptLedger - version prompt templates, run deterministic comparison snapshots, score candidate responses, and ship diffable experiment reports. Python core plus a Go companion CLI.",
-    "url": "https://github.com/cyptnpassira/PromptLedger",
-    "stars": 35,
-    "daily_stars": 0,
+    "name": "embedflow",
+    "full_name": "arnsri33/embedflow",
+    "description": "Zero downtime embedding upgrades",
+    "url": "https://github.com/arnsri33/embedflow",
+    "stars": 36,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
-      "benchmark",
-      "diff",
-      "evaluation",
-      "experiments",
-      "go",
-      "llm",
+      "embedding",
+      "embedding-models",
+      "embedding-vectors",
+      "embeddings-similarity",
+      "faiss",
+      "information-retrieval",
       "machine-learning",
-      "prompt-engineering",
-      "promptledger",
-      "python",
-      "reporting",
-      "reproducibility",
-      "snapshots",
-      "templates",
-      "versioning"
+      "qdrant",
+      "rag",
+      "rag-pipeline",
+      "semantic-search",
+      "vector-database",
+      "vector-search"
     ],
-    "created_at": "2026-09-03T04:26:04",
-    "updated_at": "2026-09-08T21:57:16"
-  },
-  {
-    "name": "NeSLE",
-    "full_name": "hbofz/NeSLE",
-    "description": "GPU-native NES emulator + RL stack: thousands of parallel NES envs on one CUDA GPU, training PPO agents on Super Mario Bros.",
-    "url": "https://github.com/hbofz/NeSLE",
-    "stars": 32,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "cuda",
-      "emulator",
-      "gpu",
-      "gymnasium",
-      "machine-learning",
-      "nes",
-      "ppo",
-      "pybind11",
-      "reinforcement-learning",
-      "super-mario-bros"
-    ],
-    "created_at": "2026-09-01T19:38:21",
-    "updated_at": "2026-09-08T13:16:00"
+    "created_at": "2026-09-07T20:10:13",
+    "updated_at": "2026-09-09T11:36:11"
   }
 ]
