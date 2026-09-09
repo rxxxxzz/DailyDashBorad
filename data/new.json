@@ -1,36 +1,11 @@
 [
   {
-    "name": "agent-memory",
-    "full_name": "tigerless-labs/agent-memory",
-    "description": "Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
-    "url": "https://github.com/tigerless-labs/agent-memory",
-    "stars": 668,
-    "daily_stars": -43,
-    "language": "Python",
-    "topics": [
-      "agent-memory",
-      "ai-agents",
-      "claude-code",
-      "codex",
-      "llm",
-      "local-first",
-      "long-term-memory",
-      "markdown",
-      "mcp",
-      "python",
-      "retrieval",
-      "sqlite"
-    ],
-    "created_at": "2026-09-01T21:52:29",
-    "updated_at": "2026-09-09T19:18:15"
-  },
-  {
     "name": "okf-agent-memory",
     "full_name": "okf-memory/okf-agent-memory",
     "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
     "url": "https://github.com/okf-memory/okf-agent-memory",
-    "stars": 512,
-    "daily_stars": 8,
+    "stars": 518,
+    "daily_stars": 6,
     "language": "Go",
     "topics": [
       "agent-memory",
@@ -53,7 +28,7 @@
       "persistent-memory"
     ],
     "created_at": "2026-09-05T21:26:04",
-    "updated_at": "2026-09-09T19:08:25"
+    "updated_at": "2026-09-09T22:40:59"
   },
   {
     "name": "fable51-worlds",
@@ -61,7 +36,7 @@
     "description": "worlds via code, from fable 5.1",
     "url": "https://github.com/PhiloLabs/fable51-worlds",
     "stars": 473,
-    "daily_stars": 2,
+    "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
       "3d-reconstruction",
@@ -102,8 +77,8 @@
     "full_name": "Agenta-AI/awesome-ai-agent-platforms",
     "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
     "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
-    "stars": 209,
-    "daily_stars": 3,
+    "stars": 211,
+    "daily_stars": 2,
     "language": "Astro",
     "topics": [
       "agent-frameworks",
@@ -120,14 +95,14 @@
       "workflow-automation"
     ],
     "created_at": "2026-09-02T16:32:59",
-    "updated_at": "2026-09-09T18:46:23"
+    "updated_at": "2026-09-09T22:06:57"
   },
   {
     "name": "papergraph-mcp",
     "full_name": "lotchuazzz-crypto/papergraph-mcp",
     "description": "Turn arXiv and LaTeX mathematical papers into theorem dependency graphs for AI agents through MCP.",
     "url": "https://github.com/lotchuazzz-crypto/papergraph-mcp",
-    "stars": 121,
+    "stars": 122,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -143,7 +118,7 @@
       "skills"
     ],
     "created_at": "2026-09-02T05:59:46",
-    "updated_at": "2026-09-09T14:52:35"
+    "updated_at": "2026-09-09T21:37:32"
   },
   {
     "name": "Apeireth",
@@ -151,7 +126,7 @@
     "description": "Apeireth — A Pure Safe Rust AGI Operating System & Cognitive Microkernel. 16 crates: continuous topological memory, causal world model, cognitive scheduler, Ember HUD, triple-onion security & portable USB agent.",
     "url": "https://github.com/Apeireth/Apeireth",
     "stars": 114,
-    "daily_stars": -6,
+    "daily_stars": 0,
     "language": "Rust",
     "topics": [
       "agi",
@@ -173,8 +148,8 @@
     "full_name": "chigwell/Penelopa.ai",
     "description": "Continuous improvement for AI coding agents: Penelopa analyzes real Codex and Claude Code sessions, finds repeated workflow patterns, and turns them into reusable skills, checks, prompts, and recommendations.",
     "url": "https://github.com/chigwell/Penelopa.ai",
-    "stars": 112,
-    "daily_stars": 2,
+    "stars": 113,
+    "daily_stars": 1,
     "language": "JavaScript",
     "topics": [
       "agent-improvement",
@@ -191,7 +166,7 @@
       "workflow-automation"
     ],
     "created_at": "2026-09-03T15:52:25",
-    "updated_at": "2026-09-09T18:54:46"
+    "updated_at": "2026-09-09T20:59:33"
   },
   {
     "name": "novoweave",
@@ -213,11 +188,36 @@
     "updated_at": "2026-09-08T21:57:21"
   },
   {
+    "name": "SureForge",
+    "full_name": "Da7-Tech/SureForge",
+    "description": "Agent Skill for complex work: research before asking, ask before planning, plan before building, verify before delivering, independent review before calling it done. Plain text, no runtime.",
+    "url": "https://github.com/Da7-Tech/SureForge",
+    "stars": 39,
+    "daily_stars": 5,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "code-review",
+      "codex",
+      "cursor",
+      "devin",
+      "hermes-agent",
+      "prompt",
+      "skills",
+      "verification",
+      "workflow"
+    ],
+    "created_at": "2026-09-09T12:59:04",
+    "updated_at": "2026-09-09T22:33:10"
+  },
+  {
     "name": "embedflow",
     "full_name": "arnsri33/embedflow",
     "description": "Zero downtime embedding upgrades",
     "url": "https://github.com/arnsri33/embedflow",
-    "stars": 37,
+    "stars": 38,
     "daily_stars": 1,
     "language": "Python",
     "topics": [
@@ -236,6 +236,6 @@
       "vector-search"
     ],
     "created_at": "2026-09-07T20:10:13",
-    "updated_at": "2026-09-09T14:13:43"
+    "updated_at": "2026-09-09T20:18:03"
   }
 ]
