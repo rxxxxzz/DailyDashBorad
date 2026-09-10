@@ -4,8 +4,8 @@
     "full_name": "okf-memory/okf-agent-memory",
     "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
     "url": "https://github.com/okf-memory/okf-agent-memory",
-    "stars": 518,
-    "daily_stars": 6,
+    "stars": 523,
+    "daily_stars": 5,
     "language": "Go",
     "topics": [
       "agent-memory",
@@ -28,15 +28,15 @@
       "persistent-memory"
     ],
     "created_at": "2026-09-05T21:26:04",
-    "updated_at": "2026-09-09T22:40:59"
+    "updated_at": "2026-09-10T03:08:22"
   },
   {
     "name": "fable51-worlds",
     "full_name": "PhiloLabs/fable51-worlds",
     "description": "worlds via code, from fable 5.1",
     "url": "https://github.com/PhiloLabs/fable51-worlds",
-    "stars": 473,
-    "daily_stars": 0,
+    "stars": 474,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "3d-reconstruction",
@@ -51,7 +51,38 @@
       "webgl"
     ],
     "created_at": "2026-09-02T18:19:55",
-    "updated_at": "2026-09-09T16:09:56"
+    "updated_at": "2026-09-10T01:46:28"
+  },
+  {
+    "name": "anything2explainer",
+    "full_name": "Vincentwei1021/anything2explainer",
+    "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
+    "url": "https://github.com/Vincentwei1021/anything2explainer",
+    "stars": 293,
+    "daily_stars": 0,
+    "language": "TypeScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-video",
+      "claude-code",
+      "claude-code-skill",
+      "codex",
+      "edge-tts",
+      "educational-video",
+      "explainer-video",
+      "kokoro",
+      "motion-graphics",
+      "multi-agent",
+      "react",
+      "remotion",
+      "text-to-video",
+      "tts",
+      "typescript",
+      "video-generation"
+    ],
+    "created_at": "2026-09-08T17:19:54",
+    "updated_at": "2026-09-10T05:03:00"
   },
   {
     "name": "mobilecode",
@@ -78,7 +109,7 @@
     "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
     "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
     "stars": 211,
-    "daily_stars": 2,
+    "daily_stars": 0,
     "language": "Astro",
     "topics": [
       "agent-frameworks",
@@ -103,7 +134,7 @@
     "description": "Turn arXiv and LaTeX mathematical papers into theorem dependency graphs for AI agents through MCP.",
     "url": "https://github.com/lotchuazzz-crypto/papergraph-mcp",
     "stars": 122,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -125,8 +156,8 @@
     "full_name": "Apeireth/Apeireth",
     "description": "Apeireth — A Pure Safe Rust AGI Operating System & Cognitive Microkernel. 16 crates: continuous topological memory, causal world model, cognitive scheduler, Ember HUD, triple-onion security & portable USB agent.",
     "url": "https://github.com/Apeireth/Apeireth",
-    "stars": 114,
-    "daily_stars": 0,
+    "stars": 116,
+    "daily_stars": 2,
     "language": "Rust",
     "topics": [
       "agi",
@@ -141,14 +172,14 @@
       "zero-trust"
     ],
     "created_at": "2026-09-04T08:55:31",
-    "updated_at": "2026-09-09T17:59:49"
+    "updated_at": "2026-09-10T02:33:21"
   },
   {
     "name": "Penelopa.ai",
     "full_name": "chigwell/Penelopa.ai",
     "description": "Continuous improvement for AI coding agents: Penelopa analyzes real Codex and Claude Code sessions, finds repeated workflow patterns, and turns them into reusable skills, checks, prompts, and recommendations.",
     "url": "https://github.com/chigwell/Penelopa.ai",
-    "stars": 113,
+    "stars": 114,
     "daily_stars": 1,
     "language": "JavaScript",
     "topics": [
@@ -166,7 +197,7 @@
       "workflow-automation"
     ],
     "created_at": "2026-09-03T15:52:25",
-    "updated_at": "2026-09-09T20:59:33"
+    "updated_at": "2026-09-10T01:49:59"
   },
   {
     "name": "novoweave",
@@ -192,8 +223,8 @@
     "full_name": "Da7-Tech/SureForge",
     "description": "Agent Skill for complex work: research before asking, ask before planning, plan before building, verify before delivering, independent review before calling it done. Plain text, no runtime.",
     "url": "https://github.com/Da7-Tech/SureForge",
-    "stars": 39,
-    "daily_stars": 5,
+    "stars": 56,
+    "daily_stars": 17,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -210,32 +241,6 @@
       "workflow"
     ],
     "created_at": "2026-09-09T12:59:04",
-    "updated_at": "2026-09-09T22:33:10"
-  },
-  {
-    "name": "embedflow",
-    "full_name": "arnsri33/embedflow",
-    "description": "Zero downtime embedding upgrades",
-    "url": "https://github.com/arnsri33/embedflow",
-    "stars": 38,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "embedding",
-      "embedding-models",
-      "embedding-vectors",
-      "embeddings-similarity",
-      "faiss",
-      "information-retrieval",
-      "machine-learning",
-      "qdrant",
-      "rag",
-      "rag-pipeline",
-      "semantic-search",
-      "vector-database",
-      "vector-search"
-    ],
-    "created_at": "2026-09-07T20:10:13",
-    "updated_at": "2026-09-09T20:18:03"
+    "updated_at": "2026-09-10T03:16:48"
   }
 ]
