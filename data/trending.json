@@ -4,8 +4,8 @@
     "full_name": "deepseek-ai/deepseek-harness",
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 217772,
-    "daily_stars": 364,
+    "stars": 218650,
+    "daily_stars": 878,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -14,34 +14,88 @@
       "dsh-plugin"
     ],
     "created_at": "2026-08-13T11:56:32",
-    "updated_at": "2026-09-10T05:03:05"
+    "updated_at": "2026-09-10T13:00:32"
   },
   {
-    "name": "codex-with-chatgpt",
-    "full_name": "XiaoDuoYa/codex-with-chatgpt",
-    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-    "stars": 3830,
-    "daily_stars": 68,
-    "language": "TypeScript",
+    "name": "artemis",
+    "full_name": "google/artemis",
+    "description": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. On the AndroidWorld benchmark, ARTEMIS achieves 99%+ success rate.  Created by Pixel-Test-Engineering (PTE) Fusion team.",
+    "url": "https://github.com/google/artemis",
+    "stars": 1313,
+    "daily_stars": 407,
+    "language": "Python",
     "topics": [
       "ai-agents",
-      "chatgpt",
-      "codex",
-      "mcp",
-      "model-context-protocol",
-      "oauth"
+      "android",
+      "google",
+      "test-automation",
+      "testing"
     ],
-    "created_at": "2026-08-28T12:57:24",
-    "updated_at": "2026-09-10T05:01:54"
+    "created_at": "2026-08-13T17:59:37",
+    "updated_at": "2026-09-10T13:01:54"
+  },
+  {
+    "name": "anything2explainer",
+    "full_name": "Vincentwei1021/anything2explainer",
+    "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
+    "url": "https://github.com/Vincentwei1021/anything2explainer",
+    "stars": 506,
+    "daily_stars": 213,
+    "language": "TypeScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-video",
+      "claude-code",
+      "claude-code-skill",
+      "codex",
+      "edge-tts",
+      "educational-video",
+      "explainer-video",
+      "kokoro",
+      "motion-graphics",
+      "multi-agent",
+      "react",
+      "remotion",
+      "text-to-video",
+      "tts",
+      "typescript",
+      "video-generation"
+    ],
+    "created_at": "2026-09-08T17:19:54",
+    "updated_at": "2026-09-10T12:57:43"
+  },
+  {
+    "name": "AuK",
+    "full_name": "Tencent-Hunyuan/AuK",
+    "description": "AuK: An Open-Source Foundational Model for Speech Generation and Editing",
+    "url": "https://github.com/Tencent-Hunyuan/AuK",
+    "stars": 288,
+    "daily_stars": 85,
+    "language": "Python",
+    "topics": [
+      "deep-learning",
+      "foundation-models",
+      "python",
+      "pytorch",
+      "separation",
+      "speaker-extraction",
+      "speech",
+      "speech-editing",
+      "speech-enhancement",
+      "text-to-speech",
+      "zero-shot-tts"
+    ],
+    "created_at": "2026-08-19T01:39:24",
+    "updated_at": "2026-09-10T13:01:14"
   },
   {
     "name": "agent-memory",
     "full_name": "tigerless-labs/agent-memory",
     "description": "Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
     "url": "https://github.com/tigerless-labs/agent-memory",
-    "stars": 739,
-    "daily_stars": 67,
+    "stars": 822,
+    "daily_stars": 83,
     "language": "Python",
     "topics": [
       "agent-memory",
@@ -58,15 +112,57 @@
       "sqlite"
     ],
     "created_at": "2026-09-01T21:52:29",
-    "updated_at": "2026-09-10T05:02:28"
+    "updated_at": "2026-09-10T11:42:23"
+  },
+  {
+    "name": "codex-with-chatgpt",
+    "full_name": "XiaoDuoYa/codex-with-chatgpt",
+    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+    "stars": 3902,
+    "daily_stars": 72,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "codex",
+      "mcp",
+      "model-context-protocol",
+      "oauth"
+    ],
+    "created_at": "2026-08-28T12:57:24",
+    "updated_at": "2026-09-10T12:57:57"
+  },
+  {
+    "name": "foremerge",
+    "full_name": "naw103/foremerge",
+    "description": "Catch intent conflicts before code conflicts. The open-source coordination protocol for coding agents, built above Git.",
+    "url": "https://github.com/naw103/foremerge",
+    "stars": 235,
+    "daily_stars": 70,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "cli",
+      "coding-agents",
+      "developer-tools",
+      "git",
+      "mcp",
+      "model-context-protocol",
+      "multi-agent",
+      "rust",
+      "sqlite"
+    ],
+    "created_at": "2026-08-21T17:52:45",
+    "updated_at": "2026-09-10T08:32:32"
   },
   {
     "name": "VoiceMem",
     "full_name": "xzf-thu/VoiceMem",
     "description": "a real-time and empathetic memory system for voice assistants",
     "url": "https://github.com/xzf-thu/VoiceMem",
-    "stars": 1162,
-    "daily_stars": 42,
+    "stars": 1216,
+    "daily_stars": 54,
     "language": "Python",
     "topics": [
       "ai",
@@ -84,39 +180,15 @@
       "voice-assistant"
     ],
     "created_at": "2026-08-17T09:49:10",
-    "updated_at": "2026-09-10T05:02:33"
-  },
-  {
-    "name": "AuK",
-    "full_name": "Tencent-Hunyuan/AuK",
-    "description": "AuK: An Open-Source Foundational Model for Speech Generation and Editing",
-    "url": "https://github.com/Tencent-Hunyuan/AuK",
-    "stars": 203,
-    "daily_stars": 41,
-    "language": "Python",
-    "topics": [
-      "deep-learning",
-      "foundation-models",
-      "python",
-      "pytorch",
-      "separation",
-      "speaker-extraction",
-      "speech",
-      "speech-editing",
-      "speech-enhancement",
-      "text-to-speech",
-      "zero-shot-tts"
-    ],
-    "created_at": "2026-08-19T01:39:24",
-    "updated_at": "2026-09-10T04:57:21"
+    "updated_at": "2026-09-10T12:29:24"
   },
   {
     "name": "FrontierAgent",
     "full_name": "ApodexAI/FrontierAgent",
     "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
     "url": "https://github.com/ApodexAI/FrontierAgent",
-    "stars": 2459,
-    "daily_stars": 31,
+    "stars": 2495,
+    "daily_stars": 36,
     "language": "Python",
     "topics": [
       "agent-orchestration",
@@ -129,106 +201,27 @@
       "tui"
     ],
     "created_at": "2026-08-22T05:07:35",
-    "updated_at": "2026-09-10T05:00:44"
+    "updated_at": "2026-09-10T12:54:12"
   },
   {
-    "name": "SureForge",
-    "full_name": "Da7-Tech/SureForge",
-    "description": "Agent Skill for complex work: research before asking, ask before planning, plan before building, verify before delivering, independent review before calling it done. Plain text, no runtime.",
-    "url": "https://github.com/Da7-Tech/SureForge",
-    "stars": 56,
-    "daily_stars": 17,
-    "language": "Python",
+    "name": "kotlin-footguns",
+    "full_name": "maxrave-dev/kotlin-footguns",
+    "description": "Battle-tested agent skills mapping the footguns of Kotlin, Compose Multiplatform and the desktop JVM — mined from a production music app, not from documentation.",
+    "url": "https://github.com/maxrave-dev/kotlin-footguns",
+    "stars": 197,
+    "daily_stars": 30,
+    "language": null,
     "topics": [
       "agent-skills",
       "ai-agents",
+      "android",
       "claude-code",
-      "code-review",
-      "codex",
-      "cursor",
-      "devin",
-      "hermes-agent",
-      "prompt",
-      "skills",
-      "verification",
-      "workflow"
+      "compose-multiplatform",
+      "jetpack-compose",
+      "kotlin",
+      "kotlin-multiplatform"
     ],
-    "created_at": "2026-09-09T12:59:04",
-    "updated_at": "2026-09-10T03:16:48"
-  },
-  {
-    "name": "emend",
-    "full_name": "diyanbogdanov/emend",
-    "description": "Verified AI dependency migrations. Finds which of your lines a version bump actually breaks, fixes them, and proves the result still compiles and passes your tests.",
-    "url": "https://github.com/diyanbogdanov/emend",
-    "stars": 105,
-    "daily_stars": 13,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "automation",
-      "breaking-changes",
-      "cli",
-      "code-migration",
-      "codemod",
-      "dependabot",
-      "dependency-management",
-      "developer-tools",
-      "devtools",
-      "llm",
-      "migration",
-      "npm",
-      "openapi",
-      "refactoring",
-      "static-analysis",
-      "supply-chain-security",
-      "technical-debt",
-      "typescript",
-      "upgrade"
-    ],
-    "created_at": "2026-08-13T12:41:58",
-    "updated_at": "2026-09-10T02:56:54"
-  },
-  {
-    "name": "rakazo",
-    "full_name": "elie222/rakazo",
-    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-    "url": "https://github.com/elie222/rakazo",
-    "stars": 2201,
-    "daily_stars": 11,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "chatgpt",
-      "docker",
-      "electron",
-      "expo",
-      "grok",
-      "llm",
-      "self-hosted",
-      "typescript"
-    ],
-    "created_at": "2026-08-13T06:28:56",
-    "updated_at": "2026-09-10T04:55:54"
-  },
-  {
-    "name": "openbot",
-    "full_name": "CopilotKit/openbot",
-    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-    "url": "https://github.com/CopilotKit/openbot",
-    "stars": 4574,
-    "daily_stars": 9,
-    "language": "TypeScript",
-    "topics": [
-      "ag-ui",
-      "agent-governance",
-      "ai-agents",
-      "browser-automation",
-      "copilotkit",
-      "generative-ui",
-      "mcp"
-    ],
-    "created_at": "2026-08-17T00:44:59",
-    "updated_at": "2026-09-10T04:41:21"
+    "created_at": "2026-08-20T08:46:15",
+    "updated_at": "2026-09-10T12:42:39"
   }
 ]
