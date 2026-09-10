@@ -1,42 +1,11 @@
 [
   {
-    "name": "okf-agent-memory",
-    "full_name": "okf-memory/okf-agent-memory",
-    "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
-    "url": "https://github.com/okf-memory/okf-agent-memory",
-    "stars": 539,
-    "daily_stars": 16,
-    "language": "Go",
-    "topics": [
-      "agent-memory",
-      "ai-agents",
-      "bm25",
-      "coding-agents",
-      "developer-tools",
-      "git-native",
-      "go",
-      "golang",
-      "knowledge-base",
-      "knowledge-graph",
-      "llm-memory",
-      "markdown",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "okf",
-      "open-knowledge-format",
-      "persistent-memory"
-    ],
-    "created_at": "2026-09-05T21:26:04",
-    "updated_at": "2026-09-10T12:51:08"
-  },
-  {
     "name": "anything2explainer",
     "full_name": "Vincentwei1021/anything2explainer",
     "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
     "url": "https://github.com/Vincentwei1021/anything2explainer",
-    "stars": 506,
-    "daily_stars": 213,
+    "stars": 661,
+    "daily_stars": 155,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -59,38 +28,46 @@
       "video-generation"
     ],
     "created_at": "2026-09-08T17:19:54",
-    "updated_at": "2026-09-10T12:57:43"
+    "updated_at": "2026-09-10T19:05:48"
   },
   {
-    "name": "fable51-worlds",
-    "full_name": "PhiloLabs/fable51-worlds",
-    "description": "worlds via code, from fable 5.1",
-    "url": "https://github.com/PhiloLabs/fable51-worlds",
-    "stars": 476,
-    "daily_stars": 2,
-    "language": "TypeScript",
+    "name": "okf-agent-memory",
+    "full_name": "okf-memory/okf-agent-memory",
+    "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+    "url": "https://github.com/okf-memory/okf-agent-memory",
+    "stars": 547,
+    "daily_stars": 8,
+    "language": "Go",
     "topics": [
-      "3d-reconstruction",
+      "agent-memory",
       "ai-agents",
-      "claude",
-      "digital-twin",
-      "openstreetmap",
-      "procedural-generation",
-      "san-francisco",
-      "threejs",
-      "urban-simulation",
-      "webgl"
+      "bm25",
+      "coding-agents",
+      "developer-tools",
+      "git-native",
+      "go",
+      "golang",
+      "knowledge-base",
+      "knowledge-graph",
+      "llm-memory",
+      "markdown",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "okf",
+      "open-knowledge-format",
+      "persistent-memory"
     ],
-    "created_at": "2026-09-02T18:19:55",
-    "updated_at": "2026-09-10T11:35:14"
+    "created_at": "2026-09-05T21:26:04",
+    "updated_at": "2026-09-10T18:15:15"
   },
   {
     "name": "mobilecode",
     "full_name": "hsandhu/mobilecode",
     "description": "mobilecode is a fork of opencode that builds and previews iOS and Android projects",
     "url": "https://github.com/hsandhu/mobilecode",
-    "stars": 227,
-    "daily_stars": 0,
+    "stars": 229,
+    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -101,40 +78,15 @@
       "xcodebuild"
     ],
     "created_at": "2026-09-05T03:26:31",
-    "updated_at": "2026-09-09T12:29:42"
-  },
-  {
-    "name": "awesome-ai-agent-platforms",
-    "full_name": "Agenta-AI/awesome-ai-agent-platforms",
-    "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
-    "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
-    "stars": 216,
-    "daily_stars": 5,
-    "language": "Astro",
-    "topics": [
-      "agent-frameworks",
-      "ai-agent-platforms",
-      "ai-agents",
-      "ai-coworker",
-      "awesome",
-      "awesome-list",
-      "browser-agents",
-      "coding-agents",
-      "llm",
-      "open-source",
-      "self-hosted",
-      "workflow-automation"
-    ],
-    "created_at": "2026-09-02T16:32:59",
-    "updated_at": "2026-09-10T11:25:55"
+    "updated_at": "2026-09-10T17:15:58"
   },
   {
     "name": "Apeireth",
     "full_name": "Apeireth/Apeireth",
     "description": "Apeireth — A Pure Safe Rust AGI Operating System & Cognitive Microkernel. 16 crates: continuous topological memory, causal world model, cognitive scheduler, Ember HUD, triple-onion security & portable USB agent.",
     "url": "https://github.com/Apeireth/Apeireth",
-    "stars": 118,
-    "daily_stars": 2,
+    "stars": 121,
+    "daily_stars": 3,
     "language": "Rust",
     "topics": [
       "agi",
@@ -149,15 +101,15 @@
       "zero-trust"
     ],
     "created_at": "2026-09-04T08:55:31",
-    "updated_at": "2026-09-10T12:43:00"
+    "updated_at": "2026-09-10T15:21:42"
   },
   {
     "name": "Penelopa.ai",
     "full_name": "chigwell/Penelopa.ai",
     "description": "Continuous improvement for AI coding agents: Penelopa analyzes real Codex and Claude Code sessions, finds repeated workflow patterns, and turns them into reusable skills, checks, prompts, and recommendations.",
     "url": "https://github.com/chigwell/Penelopa.ai",
-    "stars": 114,
-    "daily_stars": 0,
+    "stars": 115,
+    "daily_stars": 1,
     "language": "JavaScript",
     "topics": [
       "agent-improvement",
@@ -174,15 +126,15 @@
       "workflow-automation"
     ],
     "created_at": "2026-09-03T15:52:25",
-    "updated_at": "2026-09-10T12:50:11"
+    "updated_at": "2026-09-10T16:54:43"
   },
   {
     "name": "SureForge",
     "full_name": "Da7-Tech/SureForge",
     "description": "Agent Skill for complex work: research before asking, ask before planning, plan before building, verify before delivering, independent review before calling it done. Plain text, no runtime.",
     "url": "https://github.com/Da7-Tech/SureForge",
-    "stars": 66,
-    "daily_stars": 10,
+    "stars": 81,
+    "daily_stars": 15,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -199,15 +151,15 @@
       "workflow"
     ],
     "created_at": "2026-09-09T12:59:04",
-    "updated_at": "2026-09-10T12:33:17"
+    "updated_at": "2026-09-10T18:14:59"
   },
   {
     "name": "embedflow",
     "full_name": "arnsri33/embedflow",
     "description": "Zero downtime embedding upgrades",
     "url": "https://github.com/arnsri33/embedflow",
-    "stars": 43,
-    "daily_stars": 0,
+    "stars": 45,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "embedding",
@@ -225,7 +177,7 @@
       "vector-search"
     ],
     "created_at": "2026-09-07T20:10:13",
-    "updated_at": "2026-09-10T05:54:41"
+    "updated_at": "2026-09-10T15:38:33"
   },
   {
     "name": "PromptLedger",
@@ -254,5 +206,55 @@
     ],
     "created_at": "2026-09-03T04:26:04",
     "updated_at": "2026-09-09T17:34:06"
+  },
+  {
+    "name": "EdgeMosaic",
+    "full_name": "michailfragkiskos/EdgeMosaic",
+    "description": "Rapid on-device AI evaluation lab: manifest validation, benchmark plans, latency/memory/thermal aggregation, JSON+Markdown reports.",
+    "url": "https://github.com/michailfragkiskos/EdgeMosaic",
+    "stars": 28,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "android",
+      "benchmark",
+      "devtools",
+      "edge",
+      "evaluation",
+      "inference",
+      "jvm",
+      "kotlin",
+      "latency",
+      "machine-learning",
+      "manifest",
+      "on-device",
+      "performance",
+      "python",
+      "reporting",
+      "tflite",
+      "thermal"
+    ],
+    "created_at": "2026-09-04T16:55:00",
+    "updated_at": "2026-09-10T05:42:41"
+  },
+  {
+    "name": "HydroTuring",
+    "full_name": "Flood-Lab/HydroTuring",
+    "description": "Does your AI hydrologic model conserve mass, energy and momentum?",
+    "url": "https://github.com/Flood-Lab/HydroTuring",
+    "stars": 26,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "benchmark",
+      "earth-science",
+      "hydrology",
+      "machine-learning",
+      "physics-informed",
+      "water-balance"
+    ],
+    "created_at": "2026-09-03T03:10:00",
+    "updated_at": "2026-09-10T18:15:27"
   }
 ]
