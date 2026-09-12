@@ -4,8 +4,8 @@
     "full_name": "Human-Agent-Society/reef",
     "description": "Continual learning infra for self-improving agents",
     "url": "https://github.com/Human-Agent-Society/reef",
-    "stars": 1047,
-    "daily_stars": 20,
+    "stars": 1086,
+    "daily_stars": 39,
     "language": "Python",
     "topics": [
       "agent-infrastructure",
@@ -18,15 +18,124 @@
       "self-improving-agents"
     ],
     "created_at": "2026-08-31T01:39:18",
-    "updated_at": "2026-09-12T15:29:00"
+    "updated_at": "2026-09-12T18:30:24"
+  },
+  {
+    "name": "openbot",
+    "full_name": "CopilotKit/openbot",
+    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+    "url": "https://github.com/CopilotKit/openbot",
+    "stars": 4802,
+    "daily_stars": 14,
+    "language": "TypeScript",
+    "topics": [
+      "ag-ui",
+      "agent-governance",
+      "ai-agents",
+      "browser-automation",
+      "copilotkit",
+      "generative-ui",
+      "mcp"
+    ],
+    "created_at": "2026-08-17T00:44:59",
+    "updated_at": "2026-09-12T18:23:57"
+  },
+  {
+    "name": "FrontierAgent",
+    "full_name": "ApodexAI/FrontierAgent",
+    "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+    "url": "https://github.com/ApodexAI/FrontierAgent",
+    "stars": 2702,
+    "daily_stars": 14,
+    "language": "Python",
+    "topics": [
+      "agent-orchestration",
+      "agentic-ai",
+      "agentic-framework",
+      "ai-agents",
+      "harness",
+      "multi-agent",
+      "terminal-agent",
+      "tui"
+    ],
+    "created_at": "2026-08-22T05:07:35",
+    "updated_at": "2026-09-12T18:34:50"
+  },
+  {
+    "name": "kotlin-footguns",
+    "full_name": "maxrave-dev/kotlin-footguns",
+    "description": "Battle-tested agent skills mapping the footguns of Kotlin, Compose Multiplatform and the desktop JVM — mined from a production music app, not from documentation.",
+    "url": "https://github.com/maxrave-dev/kotlin-footguns",
+    "stars": 304,
+    "daily_stars": 11,
+    "language": null,
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "android",
+      "claude-code",
+      "compose-multiplatform",
+      "jetpack-compose",
+      "kotlin",
+      "kotlin-multiplatform"
+    ],
+    "created_at": "2026-08-20T08:46:15",
+    "updated_at": "2026-09-12T18:16:51"
+  },
+  {
+    "name": "dsh-antibrow",
+    "full_name": "antibrow/dsh-antibrow",
+    "description": "DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.",
+    "url": "https://github.com/antibrow/dsh-antibrow",
+    "stars": 134,
+    "daily_stars": 10,
+    "language": "JavaScript",
+    "topics": [
+      "agent-tools",
+      "ai-agents",
+      "android-emulation",
+      "anti-detect-browser",
+      "browser-automation",
+      "browser-fingerprinting",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "fingerprint-browser",
+      "mcp",
+      "mcp-server",
+      "playwright",
+      "residential-proxy",
+      "web-automation"
+    ],
+    "created_at": "2026-08-17T01:46:18",
+    "updated_at": "2026-09-12T18:32:27"
+  },
+  {
+    "name": "codex-with-chatgpt",
+    "full_name": "XiaoDuoYa/codex-with-chatgpt",
+    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+    "stars": 4114,
+    "daily_stars": 9,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "codex",
+      "mcp",
+      "model-context-protocol",
+      "oauth"
+    ],
+    "created_at": "2026-08-28T12:57:24",
+    "updated_at": "2026-09-12T18:00:08"
   },
   {
     "name": "anything2explainer",
     "full_name": "Vincentwei1021/anything2explainer",
     "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
     "url": "https://github.com/Vincentwei1021/anything2explainer",
-    "stars": 1035,
-    "daily_stars": 20,
+    "stars": 1043,
+    "daily_stars": 8,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -49,145 +158,14 @@
       "video-generation"
     ],
     "created_at": "2026-09-08T17:19:54",
-    "updated_at": "2026-09-12T15:36:46"
-  },
-  {
-    "name": "openbot",
-    "full_name": "CopilotKit/openbot",
-    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-    "url": "https://github.com/CopilotKit/openbot",
-    "stars": 4788,
-    "daily_stars": 14,
-    "language": "TypeScript",
-    "topics": [
-      "ag-ui",
-      "agent-governance",
-      "ai-agents",
-      "browser-automation",
-      "copilotkit",
-      "generative-ui",
-      "mcp"
-    ],
-    "created_at": "2026-08-17T00:44:59",
-    "updated_at": "2026-09-12T15:13:33"
-  },
-  {
-    "name": "codex-with-chatgpt",
-    "full_name": "XiaoDuoYa/codex-with-chatgpt",
-    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-    "stars": 4105,
-    "daily_stars": 10,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "chatgpt",
-      "codex",
-      "mcp",
-      "model-context-protocol",
-      "oauth"
-    ],
-    "created_at": "2026-08-28T12:57:24",
-    "updated_at": "2026-09-12T15:42:32"
-  },
-  {
-    "name": "FrontierAgent",
-    "full_name": "ApodexAI/FrontierAgent",
-    "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
-    "url": "https://github.com/ApodexAI/FrontierAgent",
-    "stars": 2688,
-    "daily_stars": 10,
-    "language": "Python",
-    "topics": [
-      "agent-orchestration",
-      "agentic-ai",
-      "agentic-framework",
-      "ai-agents",
-      "harness",
-      "multi-agent",
-      "terminal-agent",
-      "tui"
-    ],
-    "created_at": "2026-08-22T05:07:35",
-    "updated_at": "2026-09-12T15:33:14"
-  },
-  {
-    "name": "AuK",
-    "full_name": "Tencent-Hunyuan/AuK",
-    "description": "AuK: An Open-Source Foundational Model for Speech Generation and Editing",
-    "url": "https://github.com/Tencent-Hunyuan/AuK",
-    "stars": 531,
-    "daily_stars": 9,
-    "language": "Python",
-    "topics": [
-      "deep-learning",
-      "foundation-models",
-      "python",
-      "pytorch",
-      "separation",
-      "speaker-extraction",
-      "speech",
-      "speech-editing",
-      "speech-enhancement",
-      "text-to-speech",
-      "zero-shot-tts"
-    ],
-    "created_at": "2026-08-19T01:39:24",
-    "updated_at": "2026-09-12T15:44:00"
-  },
-  {
-    "name": "kotlin-footguns",
-    "full_name": "maxrave-dev/kotlin-footguns",
-    "description": "Battle-tested agent skills mapping the footguns of Kotlin, Compose Multiplatform and the desktop JVM — mined from a production music app, not from documentation.",
-    "url": "https://github.com/maxrave-dev/kotlin-footguns",
-    "stars": 293,
-    "daily_stars": 8,
-    "language": null,
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "android",
-      "claude-code",
-      "compose-multiplatform",
-      "jetpack-compose",
-      "kotlin",
-      "kotlin-multiplatform"
-    ],
-    "created_at": "2026-08-20T08:46:15",
-    "updated_at": "2026-09-12T15:23:41"
-  },
-  {
-    "name": "VoiceMem",
-    "full_name": "xzf-thu/VoiceMem",
-    "description": "a real-time and empathetic memory system for voice assistants",
-    "url": "https://github.com/xzf-thu/VoiceMem",
-    "stars": 1427,
-    "daily_stars": 7,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-tools",
-      "application",
-      "audio-streaming",
-      "genai",
-      "llm",
-      "long-term-memory",
-      "memory",
-      "memory-management",
-      "python",
-      "voice-agent",
-      "voice-assistant"
-    ],
-    "created_at": "2026-08-17T09:49:10",
-    "updated_at": "2026-09-12T15:29:31"
+    "updated_at": "2026-09-12T18:24:14"
   },
   {
     "name": "DeepSeekGUI",
     "full_name": "See-Sol-Lab/DeepSeekGUI",
     "description": "基于 DeepSeek Harness（DSH）的稳定桌面端，集成Git、内置浏览器与记忆功能 | DeepSeek Harness desktop GUI with local workspaces, Git, browser and memory.",
     "url": "https://github.com/See-Sol-Lab/DeepSeekGUI",
-    "stars": 125,
+    "stars": 131,
     "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
@@ -208,37 +186,56 @@
       "vibe-coding"
     ],
     "created_at": "2026-08-17T19:36:28",
-    "updated_at": "2026-09-12T14:50:01"
+    "updated_at": "2026-09-12T17:21:48"
   },
   {
-    "name": "okf-agent-memory",
-    "full_name": "okf-memory/okf-agent-memory",
-    "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
-    "url": "https://github.com/okf-memory/okf-agent-memory",
-    "stars": 595,
-    "daily_stars": 4,
-    "language": "Go",
+    "name": "AuK",
+    "full_name": "Tencent-Hunyuan/AuK",
+    "description": "AuK: An Open-Source Foundational Model for Speech Generation and Editing",
+    "url": "https://github.com/Tencent-Hunyuan/AuK",
+    "stars": 537,
+    "daily_stars": 6,
+    "language": "Python",
     "topics": [
-      "agent-memory",
-      "ai-agents",
-      "bm25",
-      "coding-agents",
-      "developer-tools",
-      "git-native",
-      "go",
-      "golang",
-      "knowledge-base",
-      "knowledge-graph",
-      "llm-memory",
-      "markdown",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "okf",
-      "open-knowledge-format",
-      "persistent-memory"
+      "deep-learning",
+      "foundation-models",
+      "python",
+      "pytorch",
+      "separation",
+      "speaker-extraction",
+      "speech",
+      "speech-editing",
+      "speech-enhancement",
+      "text-to-speech",
+      "zero-shot-tts"
     ],
-    "created_at": "2026-09-05T21:26:04",
-    "updated_at": "2026-09-12T14:57:46"
+    "created_at": "2026-08-19T01:39:24",
+    "updated_at": "2026-09-12T18:16:33"
+  },
+  {
+    "name": "VoiceMem",
+    "full_name": "xzf-thu/VoiceMem",
+    "description": "a real-time and empathetic memory system for voice assistants",
+    "url": "https://github.com/xzf-thu/VoiceMem",
+    "stars": 1432,
+    "daily_stars": 5,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "application",
+      "audio-streaming",
+      "genai",
+      "llm",
+      "long-term-memory",
+      "memory",
+      "memory-management",
+      "python",
+      "voice-agent",
+      "voice-assistant"
+    ],
+    "created_at": "2026-08-17T09:49:10",
+    "updated_at": "2026-09-12T18:16:09"
   }
 ]
