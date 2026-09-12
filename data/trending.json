@@ -4,8 +4,8 @@
     "full_name": "tigerless-labs/agent-memory",
     "description": "Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
     "url": "https://github.com/tigerless-labs/agent-memory",
-    "stars": 1060,
-    "daily_stars": 64,
+    "stars": 1151,
+    "daily_stars": 91,
     "language": "Python",
     "topics": [
       "agent-memory",
@@ -22,15 +22,41 @@
       "sqlite"
     ],
     "created_at": "2026-09-01T21:52:29",
-    "updated_at": "2026-09-12T04:42:13"
+    "updated_at": "2026-09-12T11:51:40"
+  },
+  {
+    "name": "VoiceMem",
+    "full_name": "xzf-thu/VoiceMem",
+    "description": "a real-time and empathetic memory system for voice assistants",
+    "url": "https://github.com/xzf-thu/VoiceMem",
+    "stars": 1420,
+    "daily_stars": 50,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "application",
+      "audio-streaming",
+      "genai",
+      "llm",
+      "long-term-memory",
+      "memory",
+      "memory-management",
+      "python",
+      "voice-agent",
+      "voice-assistant"
+    ],
+    "created_at": "2026-08-17T09:49:10",
+    "updated_at": "2026-09-12T12:00:54"
   },
   {
     "name": "anything2explainer",
     "full_name": "Vincentwei1021/anything2explainer",
     "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
     "url": "https://github.com/Vincentwei1021/anything2explainer",
-    "stars": 965,
-    "daily_stars": 37,
+    "stars": 1015,
+    "daily_stars": 50,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -53,41 +79,36 @@
       "video-generation"
     ],
     "created_at": "2026-09-08T17:19:54",
-    "updated_at": "2026-09-12T04:44:33"
+    "updated_at": "2026-09-12T12:15:45"
   },
   {
-    "name": "VoiceMem",
-    "full_name": "xzf-thu/VoiceMem",
-    "description": "a real-time and empathetic memory system for voice assistants",
-    "url": "https://github.com/xzf-thu/VoiceMem",
-    "stars": 1370,
-    "daily_stars": 32,
+    "name": "reef",
+    "full_name": "Human-Agent-Society/reef",
+    "description": "Continual learning infra for self-improving agents",
+    "url": "https://github.com/Human-Agent-Society/reef",
+    "stars": 1027,
+    "daily_stars": 44,
     "language": "Python",
     "topics": [
-      "ai",
+      "agent-infrastructure",
       "ai-agents",
-      "ai-tools",
-      "application",
-      "audio-streaming",
-      "genai",
+      "continual-learning",
+      "inference",
       "llm",
-      "long-term-memory",
-      "memory",
-      "memory-management",
-      "python",
-      "voice-agent",
-      "voice-assistant"
+      "llm-training",
+      "reinforcement-learning",
+      "self-improving-agents"
     ],
-    "created_at": "2026-08-17T09:49:10",
-    "updated_at": "2026-09-12T04:50:27"
+    "created_at": "2026-08-31T01:39:18",
+    "updated_at": "2026-09-12T11:22:53"
   },
   {
     "name": "FrontierAgent",
     "full_name": "ApodexAI/FrontierAgent",
     "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
     "url": "https://github.com/ApodexAI/FrontierAgent",
-    "stars": 2640,
-    "daily_stars": 28,
+    "stars": 2678,
+    "daily_stars": 38,
     "language": "Python",
     "topics": [
       "agent-orchestration",
@@ -100,15 +121,15 @@
       "tui"
     ],
     "created_at": "2026-08-22T05:07:35",
-    "updated_at": "2026-09-12T04:43:05"
+    "updated_at": "2026-09-12T12:11:30"
   },
   {
     "name": "openbot",
     "full_name": "CopilotKit/openbot",
     "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
     "url": "https://github.com/CopilotKit/openbot",
-    "stars": 4744,
-    "daily_stars": 21,
+    "stars": 4774,
+    "daily_stars": 30,
     "language": "TypeScript",
     "topics": [
       "ag-ui",
@@ -120,15 +141,15 @@
       "mcp"
     ],
     "created_at": "2026-08-17T00:44:59",
-    "updated_at": "2026-09-12T04:42:05"
+    "updated_at": "2026-09-12T11:58:43"
   },
   {
     "name": "codex-with-chatgpt",
     "full_name": "XiaoDuoYa/codex-with-chatgpt",
     "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
     "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-    "stars": 4069,
-    "daily_stars": 21,
+    "stars": 4095,
+    "daily_stars": 26,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -139,63 +160,15 @@
       "oauth"
     ],
     "created_at": "2026-08-28T12:57:24",
-    "updated_at": "2026-09-12T04:51:46"
-  },
-  {
-    "name": "AuK",
-    "full_name": "Tencent-Hunyuan/AuK",
-    "description": "AuK: An Open-Source Foundational Model for Speech Generation and Editing",
-    "url": "https://github.com/Tencent-Hunyuan/AuK",
-    "stars": 506,
-    "daily_stars": 20,
-    "language": "Python",
-    "topics": [
-      "deep-learning",
-      "foundation-models",
-      "python",
-      "pytorch",
-      "separation",
-      "speaker-extraction",
-      "speech",
-      "speech-editing",
-      "speech-enhancement",
-      "text-to-speech",
-      "zero-shot-tts"
-    ],
-    "created_at": "2026-08-19T01:39:24",
-    "updated_at": "2026-09-12T04:51:27"
-  },
-  {
-    "name": "agent-me",
-    "full_name": "jzjzzzzzzz/agent-me",
-    "description": "Distill your knowledge, memories, and decisions into an open-source, inspectable AI Agent Twin.",
-    "url": "https://github.com/jzjzzzzzzz/agent-me",
-    "stars": 221,
-    "daily_stars": 13,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "digital-twin",
-      "knowledge-graph",
-      "llm",
-      "memory",
-      "multi-agent",
-      "personal-ai",
-      "rag"
-    ],
-    "created_at": "2026-08-27T04:08:50",
-    "updated_at": "2026-09-12T04:46:10"
+    "updated_at": "2026-09-12T12:07:28"
   },
   {
     "name": "codex-cli-portable-setup-kit",
     "full_name": "2akouwu/codex-cli-portable-setup-kit",
     "description": "Autonomous Systems & Security Toolkit for OpenAI Codex CLI. Deterministic binary analysis, decoupled pipeline, and zero-friction execution.",
     "url": "https://github.com/2akouwu/codex-cli-portable-setup-kit",
-    "stars": 1147,
-    "daily_stars": 12,
+    "stars": 1167,
+    "daily_stars": 20,
     "language": "Python",
     "topics": [
       "agentic-workflow",
@@ -213,27 +186,62 @@
       "windows"
     ],
     "created_at": "2026-08-31T01:02:18",
-    "updated_at": "2026-09-12T04:48:05"
+    "updated_at": "2026-09-12T12:00:55"
   },
   {
-    "name": "reef",
-    "full_name": "Human-Agent-Society/reef",
-    "description": "Continual learning infra for self-improving agents",
-    "url": "https://github.com/Human-Agent-Society/reef",
-    "stars": 983,
-    "daily_stars": 12,
+    "name": "wikiskill",
+    "full_name": "ashutoshsinghpr7/wikiskill",
+    "description": "WikiSkill (arXiv:2608.27454) for Hermes Agent — self-evolving agent skills via a persistent knowledge wiki. Faithful Algorithm 1 implementation with real agent runs, isolated skill gating, and a documented live run log.",
+    "url": "https://github.com/ashutoshsinghpr7/wikiskill",
+    "stars": 170,
+    "daily_stars": 18,
     "language": "Python",
     "topics": [
-      "agent-infrastructure",
+      "agent-skills",
+      "agents",
       "ai-agents",
-      "continual-learning",
-      "inference",
+      "arxiv",
+      "hermes-agent",
       "llm",
-      "llm-training",
-      "reinforcement-learning",
-      "self-improving-agents"
+      "llm-agents",
+      "persistent-knowledge",
+      "self-improving-agents",
+      "skill-evolution"
     ],
-    "created_at": "2026-08-31T01:39:18",
-    "updated_at": "2026-09-12T04:46:51"
+    "created_at": "2026-08-29T20:44:02",
+    "updated_at": "2026-09-12T10:48:34"
+  },
+  {
+    "name": "useagent",
+    "full_name": "useagenthq/useagent",
+    "description": "Hand off the work. Get back the result. The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work - websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+    "url": "https://github.com/useagenthq/useagent",
+    "stars": 302,
+    "daily_stars": 16,
+    "language": "TypeScript",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-coworker",
+      "automation",
+      "autonomous-agents",
+      "bun",
+      "claude",
+      "codex",
+      "coding-agent",
+      "computer-use",
+      "developer-tools",
+      "llm",
+      "open-source",
+      "opencode",
+      "postgres",
+      "sandbox",
+      "self-hosted",
+      "slack-bot",
+      "typescript"
+    ],
+    "created_at": "2026-08-29T21:14:31",
+    "updated_at": "2026-09-12T12:02:04"
   }
 ]
