@@ -4,8 +4,8 @@
     "full_name": "Vincentwei1021/anything2explainer",
     "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
     "url": "https://github.com/Vincentwei1021/anything2explainer",
-    "stars": 1149,
-    "daily_stars": 16,
+    "stars": 1162,
+    "daily_stars": 13,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -28,46 +28,15 @@
       "video-generation"
     ],
     "created_at": "2026-09-08T17:19:54",
-    "updated_at": "2026-09-13T18:36:22"
-  },
-  {
-    "name": "okf-agent-memory",
-    "full_name": "okf-memory/okf-agent-memory",
-    "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
-    "url": "https://github.com/okf-memory/okf-agent-memory",
-    "stars": 622,
-    "daily_stars": 5,
-    "language": "Go",
-    "topics": [
-      "agent-memory",
-      "ai-agents",
-      "bm25",
-      "coding-agents",
-      "developer-tools",
-      "git-native",
-      "go",
-      "golang",
-      "knowledge-base",
-      "knowledge-graph",
-      "llm-memory",
-      "markdown",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "okf",
-      "open-knowledge-format",
-      "persistent-memory"
-    ],
-    "created_at": "2026-09-05T21:26:04",
-    "updated_at": "2026-09-13T17:52:58"
+    "updated_at": "2026-09-13T21:39:36"
   },
   {
     "name": "MotionClone",
     "full_name": "blixvip/MotionClone",
     "description": "Turn reference videos into editable motion graphics with Codex + ChatGPT. Compare, customize, and export MP4s or HyperFrames projects. Local Windows app + online studio.",
     "url": "https://github.com/blixvip/MotionClone",
-    "stars": 145,
-    "daily_stars": 11,
+    "stars": 149,
+    "daily_stars": 4,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -85,14 +54,14 @@
       "video-editing"
     ],
     "created_at": "2026-09-10T02:29:35",
-    "updated_at": "2026-09-13T17:13:21"
+    "updated_at": "2026-09-13T22:23:28"
   },
   {
     "name": "geiger",
     "full_name": "Atomburstofficial/geiger",
     "description": "A Geiger counter for AI agents — one read-only command that inventories every agent, MCP server, plugin, and AI extension on a machine",
     "url": "https://github.com/Atomburstofficial/geiger",
-    "stars": 118,
+    "stars": 119,
     "daily_stars": 1,
     "language": "JavaScript",
     "topics": [
@@ -109,7 +78,7 @@
       "security-tools"
     ],
     "created_at": "2026-09-06T17:45:50",
-    "updated_at": "2026-09-13T16:57:58"
+    "updated_at": "2026-09-13T22:06:30"
   },
   {
     "name": "tracecrate",
@@ -117,7 +86,7 @@
     "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
     "url": "https://github.com/FankChen/tracecrate",
     "stars": 116,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -172,7 +141,7 @@
     "description": "Agent Skill for complex work: research before asking, ask before planning, plan before building, verify before delivering, independent review before calling it done. Plain text, no runtime.",
     "url": "https://github.com/Da7-Tech/SureForge",
     "stars": 100,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -222,7 +191,7 @@
     "description": "Anyone can predict the future. Almost nobody keeps the receipt. A hash-chained prediction ledger for LLMs — sealed before the answer exists, graded with proper scoring rules.",
     "url": "https://github.com/Noisyxl/brier",
     "stars": 99,
-    "daily_stars": 3,
+    "daily_stars": 0,
     "language": "HTML",
     "topics": [
       "ai",
@@ -257,6 +226,39 @@
       "vector-search"
     ],
     "created_at": "2026-09-07T20:10:13",
-    "updated_at": "2026-09-13T00:37:48"
+    "updated_at": "2026-09-13T20:18:03"
+  },
+  {
+    "name": "OHnews",
+    "full_name": "OrangeLatte/OHnews",
+    "description": "AI-native news intelligence terminal: cognitive-loop analysis over multi-source news with LangGraph agents, structured information extraction, and evidence-anchored judgments",
+    "url": "https://github.com/OrangeLatte/OHnews",
+    "stars": 22,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "artificial-intelligence",
+      "deep-research",
+      "fastapi",
+      "information-extraction",
+      "langgraph",
+      "llm",
+      "media-monitoring",
+      "narrative-analysis",
+      "natural-language-processing",
+      "news-aggregator",
+      "news-intelligence",
+      "nextjs",
+      "osint",
+      "prompt-engineering",
+      "python",
+      "rag",
+      "sqlite",
+      "typescript"
+    ],
+    "created_at": "2026-09-08T20:33:01",
+    "updated_at": "2026-09-12T06:56:43"
   }
 ]
