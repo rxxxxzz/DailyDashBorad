@@ -4,8 +4,8 @@
     "full_name": "Vincentwei1021/anything2explainer",
     "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
     "url": "https://github.com/Vincentwei1021/anything2explainer",
-    "stars": 1200,
-    "daily_stars": 38,
+    "stars": 1289,
+    "daily_stars": 89,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -28,14 +28,39 @@
       "video-generation"
     ],
     "created_at": "2026-09-08T17:19:54",
-    "updated_at": "2026-09-14T04:36:13"
+    "updated_at": "2026-09-14T14:50:57"
+  },
+  {
+    "name": "ToolReplay",
+    "full_name": "Matthew0822/ToolReplay",
+    "description": "Audit AI agent tool-call transcripts: hash-chain sealing, deterministic replay, and scope overreach checks. Dependency-free Python CLI.",
+    "url": "https://github.com/Matthew0822/ToolReplay",
+    "stars": 170,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "audit",
+      "cli",
+      "determinism",
+      "hash-chain",
+      "jsonl",
+      "permissions",
+      "python",
+      "replay",
+      "scope",
+      "security",
+      "tool-call"
+    ],
+    "created_at": "2026-09-14T10:11:00",
+    "updated_at": "2026-09-14T12:54:28"
   },
   {
     "name": "MotionClone",
     "full_name": "blixvip/MotionClone",
     "description": "Turn reference videos into editable motion graphics with Codex + ChatGPT. Compare, customize, and export MP4s or HyperFrames projects. Local Windows app + online studio.",
     "url": "https://github.com/blixvip/MotionClone",
-    "stars": 152,
+    "stars": 155,
     "daily_stars": 3,
     "language": "Python",
     "topics": [
@@ -54,15 +79,15 @@
       "video-editing"
     ],
     "created_at": "2026-09-10T02:29:35",
-    "updated_at": "2026-09-14T05:04:13"
+    "updated_at": "2026-09-14T14:02:56"
   },
   {
     "name": "geiger",
     "full_name": "Atomburstofficial/geiger",
     "description": "A Geiger counter for AI agents — one read-only command that inventories every agent, MCP server, plugin, and AI extension on a machine",
     "url": "https://github.com/Atomburstofficial/geiger",
-    "stars": 120,
-    "daily_stars": 1,
+    "stars": 122,
+    "daily_stars": 2,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -78,15 +103,15 @@
       "security-tools"
     ],
     "created_at": "2026-09-06T17:45:50",
-    "updated_at": "2026-09-14T01:14:55"
+    "updated_at": "2026-09-14T09:53:29"
   },
   {
     "name": "tracecrate",
     "full_name": "FankChen/tracecrate",
     "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
     "url": "https://github.com/FankChen/tracecrate",
-    "stars": 116,
-    "daily_stars": 0,
+    "stars": 118,
+    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -102,7 +127,7 @@
       "typescript"
     ],
     "created_at": "2026-09-10T09:27:41",
-    "updated_at": "2026-09-13T16:51:08"
+    "updated_at": "2026-09-14T08:01:21"
   },
   {
     "name": "Awesome-OKF",
@@ -141,7 +166,7 @@
     "description": "Agent Skill for complex work: research before asking, ask before planning, plan before building, verify before delivering, independent review before calling it done. Plain text, no runtime.",
     "url": "https://github.com/Da7-Tech/SureForge",
     "stars": 103,
-    "daily_stars": 3,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -186,23 +211,6 @@
     "updated_at": "2026-09-14T02:57:38"
   },
   {
-    "name": "brier",
-    "full_name": "Noisyxl/brier",
-    "description": "Anyone can predict the future. Almost nobody keeps the receipt. A hash-chained prediction ledger for LLMs — sealed before the answer exists, graded with proper scoring rules.",
-    "url": "https://github.com/Noisyxl/brier",
-    "stars": 99,
-    "daily_stars": 0,
-    "language": "HTML",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "llm",
-      "robinhood-chain"
-    ],
-    "created_at": "2026-09-06T13:42:25",
-    "updated_at": "2026-09-13T16:46:58"
-  },
-  {
     "name": "embedflow",
     "full_name": "arnsri33/embedflow",
     "description": "Zero downtime embedding upgrades",
@@ -229,36 +237,21 @@
     "updated_at": "2026-09-14T04:59:11"
   },
   {
-    "name": "OHnews",
-    "full_name": "OrangeLatte/OHnews",
-    "description": "AI-native news intelligence terminal: cognitive-loop analysis over multi-source news with LangGraph agents, structured information extraction, and evidence-anchored judgments",
-    "url": "https://github.com/OrangeLatte/OHnews",
-    "stars": 22,
-    "daily_stars": 0,
+    "name": "RLT",
+    "full_name": "lucidrains/RLT",
+    "description": "Implementation of the recurrent looped transformer proposed by Yifan Zhang of Princeton ",
+    "url": "https://github.com/lucidrains/RLT",
+    "stars": 29,
+    "daily_stars": 14,
     "language": "Python",
     "topics": [
-      "agents",
-      "ai-agents",
       "artificial-intelligence",
-      "deep-research",
-      "fastapi",
-      "information-extraction",
-      "langgraph",
-      "llm",
-      "media-monitoring",
-      "narrative-analysis",
-      "natural-language-processing",
-      "news-aggregator",
-      "news-intelligence",
-      "nextjs",
-      "osint",
-      "prompt-engineering",
-      "python",
-      "rag",
-      "sqlite",
-      "typescript"
+      "deep-learning",
+      "recurrence",
+      "transformers",
+      "yoco"
     ],
-    "created_at": "2026-09-08T20:33:01",
-    "updated_at": "2026-09-12T06:56:43"
+    "created_at": "2026-09-13T23:00:33",
+    "updated_at": "2026-09-14T15:05:53"
   }
 ]
