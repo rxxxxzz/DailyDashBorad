@@ -1,36 +1,11 @@
 [
   {
-    "name": "agent-memory",
-    "full_name": "tigerless-labs/agent-memory",
-    "description": "Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
-    "url": "https://github.com/tigerless-labs/agent-memory",
-    "stars": 1441,
-    "daily_stars": 135,
-    "language": "Python",
-    "topics": [
-      "agent-memory",
-      "ai-agents",
-      "claude-code",
-      "codex",
-      "llm",
-      "local-first",
-      "long-term-memory",
-      "markdown",
-      "mcp",
-      "python",
-      "retrieval",
-      "sqlite"
-    ],
-    "created_at": "2026-09-01T21:52:29",
-    "updated_at": "2026-09-14T14:31:46"
-  },
-  {
     "name": "reef",
     "full_name": "Human-Agent-Society/reef",
     "description": "Continual learning infra for self-improving agents",
     "url": "https://github.com/Human-Agent-Society/reef",
-    "stars": 1431,
-    "daily_stars": 126,
+    "stars": 1481,
+    "daily_stars": 50,
     "language": "Python",
     "topics": [
       "agent-infrastructure",
@@ -43,15 +18,121 @@
       "self-improving-agents"
     ],
     "created_at": "2026-08-31T01:39:18",
-    "updated_at": "2026-09-14T15:00:24"
+    "updated_at": "2026-09-14T20:19:16"
+  },
+  {
+    "name": "FrontierAgent",
+    "full_name": "ApodexAI/FrontierAgent",
+    "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+    "url": "https://github.com/ApodexAI/FrontierAgent",
+    "stars": 2925,
+    "daily_stars": 42,
+    "language": "Python",
+    "topics": [
+      "agent-orchestration",
+      "agentic-ai",
+      "agentic-framework",
+      "ai-agents",
+      "harness",
+      "multi-agent",
+      "terminal-agent",
+      "tui"
+    ],
+    "created_at": "2026-08-22T05:07:35",
+    "updated_at": "2026-09-14T20:24:05"
+  },
+  {
+    "name": "dsh-antibrow",
+    "full_name": "antibrow/dsh-antibrow",
+    "description": "DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.",
+    "url": "https://github.com/antibrow/dsh-antibrow",
+    "stars": 263,
+    "daily_stars": 38,
+    "language": "JavaScript",
+    "topics": [
+      "agent-tools",
+      "ai-agents",
+      "android-emulation",
+      "anti-detect-browser",
+      "browser-automation",
+      "browser-fingerprinting",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "fingerprint-browser",
+      "mcp",
+      "mcp-server",
+      "playwright",
+      "residential-proxy",
+      "web-automation"
+    ],
+    "created_at": "2026-08-17T01:46:18",
+    "updated_at": "2026-09-14T20:23:53"
+  },
+  {
+    "name": "agent-me",
+    "full_name": "jzjzzzzzzz/agent-me",
+    "description": "Distill your knowledge, memories, and decisions into an open-source, inspectable AI Agent Twin.",
+    "url": "https://github.com/jzjzzzzzzz/agent-me",
+    "stars": 334,
+    "daily_stars": 27,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "digital-twin",
+      "knowledge-graph",
+      "llm",
+      "memory",
+      "multi-agent",
+      "personal-ai",
+      "rag"
+    ],
+    "created_at": "2026-08-27T04:08:50",
+    "updated_at": "2026-09-14T20:23:30"
+  },
+  {
+    "name": "autoprompt-skill",
+    "full_name": "Spielewoy/autoprompt-skill",
+    "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
+    "url": "https://github.com/Spielewoy/autoprompt-skill",
+    "stars": 1122,
+    "daily_stars": 26,
+    "language": "JavaScript",
+    "topics": [
+      "agent-orchestration",
+      "agent-skills",
+      "agentic-workflows",
+      "ai-agents",
+      "ai-coding",
+      "automated-testing",
+      "autonomous-agents",
+      "claude-code",
+      "cli",
+      "code-review",
+      "codex",
+      "coding-agent",
+      "developer-tools",
+      "github-copilot",
+      "multi-agent-systems",
+      "opencode",
+      "prompt-engineering",
+      "subagents",
+      "test-driven-development",
+      "workflow-automation"
+    ],
+    "created_at": "2026-08-17T22:40:47",
+    "updated_at": "2026-09-14T20:10:48"
   },
   {
     "name": "anything2explainer",
     "full_name": "Vincentwei1021/anything2explainer",
     "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
     "url": "https://github.com/Vincentwei1021/anything2explainer",
-    "stars": 1289,
-    "daily_stars": 89,
+    "stars": 1312,
+    "daily_stars": 23,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -74,15 +155,15 @@
       "video-generation"
     ],
     "created_at": "2026-09-08T17:19:54",
-    "updated_at": "2026-09-14T14:50:57"
+    "updated_at": "2026-09-14T20:14:00"
   },
   {
     "name": "codex-with-chatgpt",
     "full_name": "XiaoDuoYa/codex-with-chatgpt",
     "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
     "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-    "stars": 4283,
-    "daily_stars": 56,
+    "stars": 4293,
+    "daily_stars": 10,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -93,15 +174,56 @@
       "oauth"
     ],
     "created_at": "2026-08-28T12:57:24",
-    "updated_at": "2026-09-14T14:55:59"
+    "updated_at": "2026-09-14T20:23:10"
+  },
+  {
+    "name": "kotlin-footguns",
+    "full_name": "maxrave-dev/kotlin-footguns",
+    "description": "Battle-tested agent skills mapping the footguns of Kotlin, Compose Multiplatform and the desktop JVM — mined from a production music app, not from documentation.",
+    "url": "https://github.com/maxrave-dev/kotlin-footguns",
+    "stars": 381,
+    "daily_stars": 9,
+    "language": null,
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "android",
+      "claude-code",
+      "compose-multiplatform",
+      "jetpack-compose",
+      "kotlin",
+      "kotlin-multiplatform"
+    ],
+    "created_at": "2026-08-20T08:46:15",
+    "updated_at": "2026-09-14T20:09:14"
+  },
+  {
+    "name": "openbot",
+    "full_name": "CopilotKit/openbot",
+    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+    "url": "https://github.com/CopilotKit/openbot",
+    "stars": 4885,
+    "daily_stars": 8,
+    "language": "TypeScript",
+    "topics": [
+      "ag-ui",
+      "agent-governance",
+      "ai-agents",
+      "browser-automation",
+      "copilotkit",
+      "generative-ui",
+      "mcp"
+    ],
+    "created_at": "2026-08-17T00:44:59",
+    "updated_at": "2026-09-14T19:49:41"
   },
   {
     "name": "VoiceMem",
     "full_name": "xzf-thu/VoiceMem",
     "description": "a real-time and empathetic memory system for voice assistants",
     "url": "https://github.com/xzf-thu/VoiceMem",
-    "stars": 1632,
-    "daily_stars": 51,
+    "stars": 1640,
+    "daily_stars": 8,
     "language": "Python",
     "topics": [
       "ai",
@@ -119,119 +241,6 @@
       "voice-assistant"
     ],
     "created_at": "2026-08-17T09:49:10",
-    "updated_at": "2026-09-14T14:53:53"
-  },
-  {
-    "name": "FrontierAgent",
-    "full_name": "ApodexAI/FrontierAgent",
-    "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
-    "url": "https://github.com/ApodexAI/FrontierAgent",
-    "stars": 2883,
-    "daily_stars": 50,
-    "language": "Python",
-    "topics": [
-      "agent-orchestration",
-      "agentic-ai",
-      "agentic-framework",
-      "ai-agents",
-      "harness",
-      "multi-agent",
-      "terminal-agent",
-      "tui"
-    ],
-    "created_at": "2026-08-22T05:07:35",
-    "updated_at": "2026-09-14T15:00:27"
-  },
-  {
-    "name": "AuK",
-    "full_name": "Tencent-Hunyuan/AuK",
-    "description": "AuK: An Open-Source Foundational Model for Speech Generation and Editing",
-    "url": "https://github.com/Tencent-Hunyuan/AuK",
-    "stars": 856,
-    "daily_stars": 49,
-    "language": "Python",
-    "topics": [
-      "deep-learning",
-      "foundation-models",
-      "python",
-      "pytorch",
-      "separation",
-      "speaker-extraction",
-      "speech",
-      "speech-editing",
-      "speech-enhancement",
-      "text-to-speech",
-      "zero-shot-tts"
-    ],
-    "created_at": "2026-08-19T01:39:24",
-    "updated_at": "2026-09-14T15:07:00"
-  },
-  {
-    "name": "agent-me",
-    "full_name": "jzjzzzzzzz/agent-me",
-    "description": "Distill your knowledge, memories, and decisions into an open-source, inspectable AI Agent Twin.",
-    "url": "https://github.com/jzjzzzzzzz/agent-me",
-    "stars": 307,
-    "daily_stars": 36,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "digital-twin",
-      "knowledge-graph",
-      "llm",
-      "memory",
-      "multi-agent",
-      "personal-ai",
-      "rag"
-    ],
-    "created_at": "2026-08-27T04:08:50",
-    "updated_at": "2026-09-14T14:45:49"
-  },
-  {
-    "name": "kotlin-footguns",
-    "full_name": "maxrave-dev/kotlin-footguns",
-    "description": "Battle-tested agent skills mapping the footguns of Kotlin, Compose Multiplatform and the desktop JVM — mined from a production music app, not from documentation.",
-    "url": "https://github.com/maxrave-dev/kotlin-footguns",
-    "stars": 372,
-    "daily_stars": 22,
-    "language": null,
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "android",
-      "claude-code",
-      "compose-multiplatform",
-      "jetpack-compose",
-      "kotlin",
-      "kotlin-multiplatform"
-    ],
-    "created_at": "2026-08-20T08:46:15",
-    "updated_at": "2026-09-14T15:06:54"
-  },
-  {
-    "name": "PulseVAD",
-    "full_name": "AydinAdnan/PulseVAD",
-    "description": "Ultra-tiny 2.1k streaming voice activity detector (2.1 KB INT8). 200 ms window for microcontrollers, edge devices, and DSPs. ships with ONNX, TorchScript, and standalone C header.",
-    "url": "https://github.com/AydinAdnan/PulseVAD",
-    "stars": 36,
-    "daily_stars": 21,
-    "language": "Python",
-    "topics": [
-      "audio-processing",
-      "c-header",
-      "deep-learning",
-      "edge-ai",
-      "microcontroller",
-      "onnx",
-      "speech-processing",
-      "tinyml",
-      "vad",
-      "voice-activity-detection"
-    ],
-    "created_at": "2026-09-01T10:30:19",
-    "updated_at": "2026-09-14T14:56:13"
+    "updated_at": "2026-09-14T20:04:38"
   }
 ]
