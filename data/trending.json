@@ -1,39 +1,32 @@
 [
   {
-    "name": "dsh-antibrow",
-    "full_name": "antibrow/dsh-antibrow",
-    "description": "DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.",
-    "url": "https://github.com/antibrow/dsh-antibrow",
-    "stars": 291,
-    "daily_stars": 28,
-    "language": "JavaScript",
+    "name": "reef",
+    "full_name": "Human-Agent-Society/reef",
+    "description": "Continual learning infra for self-improving agents",
+    "url": "https://github.com/Human-Agent-Society/reef",
+    "stars": 1552,
+    "daily_stars": 67,
+    "language": "Python",
     "topics": [
-      "agent-tools",
+      "agent-infrastructure",
       "ai-agents",
-      "android-emulation",
-      "anti-detect-browser",
-      "browser-automation",
-      "browser-fingerprinting",
-      "deepseek-harness",
-      "dsh",
-      "dsh-plugin",
-      "fingerprint-browser",
-      "mcp",
-      "mcp-server",
-      "playwright",
-      "residential-proxy",
-      "web-automation"
+      "continual-learning",
+      "inference",
+      "llm",
+      "llm-training",
+      "reinforcement-learning",
+      "self-improving-agents"
     ],
-    "created_at": "2026-08-17T01:46:18",
-    "updated_at": "2026-09-14T22:51:33"
+    "created_at": "2026-08-31T01:39:18",
+    "updated_at": "2026-09-15T04:59:30"
   },
   {
     "name": "FrontierAgent",
     "full_name": "ApodexAI/FrontierAgent",
     "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
     "url": "https://github.com/ApodexAI/FrontierAgent",
-    "stars": 2945,
-    "daily_stars": 20,
+    "stars": 2985,
+    "daily_stars": 40,
     "language": "Python",
     "topics": [
       "agent-orchestration",
@@ -46,15 +39,65 @@
       "tui"
     ],
     "created_at": "2026-08-22T05:07:35",
-    "updated_at": "2026-09-14T23:01:21"
+    "updated_at": "2026-09-15T05:00:22"
+  },
+  {
+    "name": "codex-with-chatgpt",
+    "full_name": "XiaoDuoYa/codex-with-chatgpt",
+    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+    "stars": 4325,
+    "daily_stars": 27,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "codex",
+      "mcp",
+      "model-context-protocol",
+      "oauth"
+    ],
+    "created_at": "2026-08-28T12:57:24",
+    "updated_at": "2026-09-15T04:56:47"
+  },
+  {
+    "name": "anything2explainer",
+    "full_name": "Vincentwei1021/anything2explainer",
+    "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
+    "url": "https://github.com/Vincentwei1021/anything2explainer",
+    "stars": 1343,
+    "daily_stars": 27,
+    "language": "TypeScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-video",
+      "claude-code",
+      "claude-code-skill",
+      "codex",
+      "edge-tts",
+      "educational-video",
+      "explainer-video",
+      "kokoro",
+      "motion-graphics",
+      "multi-agent",
+      "react",
+      "remotion",
+      "text-to-video",
+      "tts",
+      "typescript",
+      "video-generation"
+    ],
+    "created_at": "2026-09-08T17:19:54",
+    "updated_at": "2026-09-15T04:57:30"
   },
   {
     "name": "AuK",
     "full_name": "Tencent-Hunyuan/AuK",
     "description": "AuK: An Open-Source Foundational Model for Speech Generation and Editing",
     "url": "https://github.com/Tencent-Hunyuan/AuK",
-    "stars": 874,
-    "daily_stars": 10,
+    "stars": 899,
+    "daily_stars": 25,
     "language": "Python",
     "topics": [
       "deep-learning",
@@ -70,15 +113,106 @@
       "zero-shot-tts"
     ],
     "created_at": "2026-08-19T01:39:24",
-    "updated_at": "2026-09-14T23:04:53"
+    "updated_at": "2026-09-15T04:55:30"
+  },
+  {
+    "name": "VoiceMem",
+    "full_name": "xzf-thu/VoiceMem",
+    "description": "a real-time and empathetic memory system for voice assistants",
+    "url": "https://github.com/xzf-thu/VoiceMem",
+    "stars": 1658,
+    "daily_stars": 16,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "application",
+      "audio-streaming",
+      "genai",
+      "llm",
+      "long-term-memory",
+      "memory",
+      "memory-management",
+      "python",
+      "voice-agent",
+      "voice-assistant"
+    ],
+    "created_at": "2026-08-17T09:49:10",
+    "updated_at": "2026-09-15T04:57:43"
+  },
+  {
+    "name": "agent-me",
+    "full_name": "jzjzzzzzzz/agent-me",
+    "description": "Distill your knowledge, memories, and decisions into an open-source, inspectable AI Agent Twin.",
+    "url": "https://github.com/jzjzzzzzzz/agent-me",
+    "stars": 352,
+    "daily_stars": 11,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "digital-twin",
+      "knowledge-graph",
+      "llm",
+      "memory",
+      "multi-agent",
+      "personal-ai",
+      "rag"
+    ],
+    "created_at": "2026-08-27T04:08:50",
+    "updated_at": "2026-09-15T05:09:04"
+  },
+  {
+    "name": "openbot",
+    "full_name": "CopilotKit/openbot",
+    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+    "url": "https://github.com/CopilotKit/openbot",
+    "stars": 4900,
+    "daily_stars": 10,
+    "language": "TypeScript",
+    "topics": [
+      "ag-ui",
+      "agent-governance",
+      "ai-agents",
+      "browser-automation",
+      "copilotkit",
+      "generative-ui",
+      "mcp"
+    ],
+    "created_at": "2026-08-17T00:44:59",
+    "updated_at": "2026-09-15T04:49:41"
+  },
+  {
+    "name": "kotlin-footguns",
+    "full_name": "maxrave-dev/kotlin-footguns",
+    "description": "Battle-tested agent skills mapping the footguns of Kotlin, Compose Multiplatform and the desktop JVM — mined from a production music app, not from documentation.",
+    "url": "https://github.com/maxrave-dev/kotlin-footguns",
+    "stars": 395,
+    "daily_stars": 9,
+    "language": null,
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "android",
+      "claude-code",
+      "compose-multiplatform",
+      "jetpack-compose",
+      "kotlin",
+      "kotlin-multiplatform"
+    ],
+    "created_at": "2026-08-20T08:46:15",
+    "updated_at": "2026-09-15T04:46:17"
   },
   {
     "name": "autoprompt-skill",
     "full_name": "Spielewoy/autoprompt-skill",
     "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
     "url": "https://github.com/Spielewoy/autoprompt-skill",
-    "stars": 1129,
-    "daily_stars": 7,
+    "stars": 1135,
+    "daily_stars": 6,
     "language": "JavaScript",
     "topics": [
       "agent-orchestration",
@@ -103,142 +237,6 @@
       "workflow-automation"
     ],
     "created_at": "2026-08-17T22:40:47",
-    "updated_at": "2026-09-14T23:08:32"
-  },
-  {
-    "name": "agent-me",
-    "full_name": "jzjzzzzzzz/agent-me",
-    "description": "Distill your knowledge, memories, and decisions into an open-source, inspectable AI Agent Twin.",
-    "url": "https://github.com/jzjzzzzzzz/agent-me",
-    "stars": 341,
-    "daily_stars": 7,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "digital-twin",
-      "knowledge-graph",
-      "llm",
-      "memory",
-      "multi-agent",
-      "personal-ai",
-      "rag"
-    ],
-    "created_at": "2026-08-27T04:08:50",
-    "updated_at": "2026-09-14T22:30:11"
-  },
-  {
-    "name": "openbot",
-    "full_name": "CopilotKit/openbot",
-    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-    "url": "https://github.com/CopilotKit/openbot",
-    "stars": 4890,
-    "daily_stars": 5,
-    "language": "TypeScript",
-    "topics": [
-      "ag-ui",
-      "agent-governance",
-      "ai-agents",
-      "browser-automation",
-      "copilotkit",
-      "generative-ui",
-      "mcp"
-    ],
-    "created_at": "2026-08-17T00:44:59",
-    "updated_at": "2026-09-14T22:37:53"
-  },
-  {
-    "name": "codex-with-chatgpt",
-    "full_name": "XiaoDuoYa/codex-with-chatgpt",
-    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-    "stars": 4298,
-    "daily_stars": 5,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "chatgpt",
-      "codex",
-      "mcp",
-      "model-context-protocol",
-      "oauth"
-    ],
-    "created_at": "2026-08-28T12:57:24",
-    "updated_at": "2026-09-14T23:01:53"
-  },
-  {
-    "name": "kotlin-footguns",
-    "full_name": "maxrave-dev/kotlin-footguns",
-    "description": "Battle-tested agent skills mapping the footguns of Kotlin, Compose Multiplatform and the desktop JVM — mined from a production music app, not from documentation.",
-    "url": "https://github.com/maxrave-dev/kotlin-footguns",
-    "stars": 386,
-    "daily_stars": 5,
-    "language": null,
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "android",
-      "claude-code",
-      "compose-multiplatform",
-      "jetpack-compose",
-      "kotlin",
-      "kotlin-multiplatform"
-    ],
-    "created_at": "2026-08-20T08:46:15",
-    "updated_at": "2026-09-14T23:03:28"
-  },
-  {
-    "name": "reef",
-    "full_name": "Human-Agent-Society/reef",
-    "description": "Continual learning infra for self-improving agents",
-    "url": "https://github.com/Human-Agent-Society/reef",
-    "stars": 1485,
-    "daily_stars": 4,
-    "language": "Python",
-    "topics": [
-      "agent-infrastructure",
-      "ai-agents",
-      "continual-learning",
-      "inference",
-      "llm",
-      "llm-training",
-      "reinforcement-learning",
-      "self-improving-agents"
-    ],
-    "created_at": "2026-08-31T01:39:18",
-    "updated_at": "2026-09-14T22:36:32"
-  },
-  {
-    "name": "anything2explainer",
-    "full_name": "Vincentwei1021/anything2explainer",
-    "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
-    "url": "https://github.com/Vincentwei1021/anything2explainer",
-    "stars": 1316,
-    "daily_stars": 4,
-    "language": "TypeScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "ai-video",
-      "claude-code",
-      "claude-code-skill",
-      "codex",
-      "edge-tts",
-      "educational-video",
-      "explainer-video",
-      "kokoro",
-      "motion-graphics",
-      "multi-agent",
-      "react",
-      "remotion",
-      "text-to-video",
-      "tts",
-      "typescript",
-      "video-generation"
-    ],
-    "created_at": "2026-09-08T17:19:54",
-    "updated_at": "2026-09-14T23:00:33"
+    "updated_at": "2026-09-15T04:58:56"
   }
 ]
