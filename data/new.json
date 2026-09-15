@@ -4,8 +4,8 @@
     "full_name": "Vincentwei1021/anything2explainer",
     "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
     "url": "https://github.com/Vincentwei1021/anything2explainer",
-    "stars": 1393,
-    "daily_stars": 50,
+    "stars": 1411,
+    "daily_stars": 18,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -28,15 +28,15 @@
       "video-generation"
     ],
     "created_at": "2026-09-08T17:19:54",
-    "updated_at": "2026-09-15T13:45:18"
+    "updated_at": "2026-09-15T19:36:10"
   },
   {
     "name": "ToolReplay",
     "full_name": "Matthew0822/ToolReplay",
     "description": "Audit AI agent tool-call transcripts: hash-chain sealing, deterministic replay, and scope overreach checks. Dependency-free Python CLI.",
     "url": "https://github.com/Matthew0822/ToolReplay",
-    "stars": 168,
-    "daily_stars": 0,
+    "stars": 169,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -53,7 +53,7 @@
       "tool-call"
     ],
     "created_at": "2026-09-14T10:11:00",
-    "updated_at": "2026-09-15T02:53:43"
+    "updated_at": "2026-09-15T13:49:18"
   },
   {
     "name": "MotionClone",
@@ -82,86 +82,12 @@
     "updated_at": "2026-09-15T00:54:30"
   },
   {
-    "name": "tracecrate",
-    "full_name": "FankChen/tracecrate",
-    "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
-    "url": "https://github.com/FankChen/tracecrate",
-    "stars": 128,
-    "daily_stars": 6,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "claude-code",
-      "codex",
-      "developer-tools",
-      "local-first",
-      "observability",
-      "opentelemetry",
-      "privacy",
-      "react",
-      "typescript"
-    ],
-    "created_at": "2026-09-10T09:27:41",
-    "updated_at": "2026-09-15T12:16:12"
-  },
-  {
-    "name": "SureForge",
-    "full_name": "Da7-Tech/SureForge",
-    "description": "Agent Skill for complex work: research before asking, ask before planning, plan before building, verify before delivering, independent review before calling it done. Plain text, no runtime.",
-    "url": "https://github.com/Da7-Tech/SureForge",
-    "stars": 104,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "claude-code",
-      "code-review",
-      "codex",
-      "cursor",
-      "devin",
-      "hermes-agent",
-      "prompt",
-      "skills",
-      "verification",
-      "workflow"
-    ],
-    "created_at": "2026-09-09T12:59:04",
-    "updated_at": "2026-09-15T01:27:34"
-  },
-  {
-    "name": "SureForge",
-    "full_name": "Da7-Tech/SureForge",
-    "description": "Agent Skill for complex work: research before asking, ask before planning, plan before building, verify before delivering, independent review before calling it done. Plain text, no runtime.",
-    "url": "https://github.com/Da7-Tech/SureForge",
-    "stars": 104,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "claude-code",
-      "code-review",
-      "codex",
-      "cursor",
-      "devin",
-      "hermes-agent",
-      "prompt",
-      "skills",
-      "verification",
-      "workflow"
-    ],
-    "created_at": "2026-09-09T12:59:04",
-    "updated_at": "2026-09-15T01:27:34"
-  },
-  {
     "name": "gap-trap",
     "full_name": "pliablepixels/gap-trap",
     "description": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
     "url": "https://github.com/pliablepixels/gap-trap",
-    "stars": 93,
-    "daily_stars": 0,
+    "stars": 140,
+    "daily_stars": 47,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -186,15 +112,89 @@
       "vibe-coding"
     ],
     "created_at": "2026-09-13T20:29:08",
-    "updated_at": "2026-09-15T13:46:17"
+    "updated_at": "2026-09-15T19:29:25"
+  },
+  {
+    "name": "tracecrate",
+    "full_name": "FankChen/tracecrate",
+    "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
+    "url": "https://github.com/FankChen/tracecrate",
+    "stars": 127,
+    "daily_stars": -1,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "local-first",
+      "observability",
+      "opentelemetry",
+      "privacy",
+      "react",
+      "typescript"
+    ],
+    "created_at": "2026-09-10T09:27:41",
+    "updated_at": "2026-09-15T16:36:08"
+  },
+  {
+    "name": "SureForge",
+    "full_name": "Da7-Tech/SureForge",
+    "description": "Agent Skill for complex work: research before asking, ask before planning, plan before building, verify before delivering, independent review before calling it done. Plain text, no runtime.",
+    "url": "https://github.com/Da7-Tech/SureForge",
+    "stars": 105,
+    "daily_stars": 1,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "code-review",
+      "codex",
+      "cursor",
+      "devin",
+      "hermes-agent",
+      "prompt",
+      "skills",
+      "verification",
+      "workflow"
+    ],
+    "created_at": "2026-09-09T12:59:04",
+    "updated_at": "2026-09-15T15:09:16"
+  },
+  {
+    "name": "SureForge",
+    "full_name": "Da7-Tech/SureForge",
+    "description": "Agent Skill for complex work: research before asking, ask before planning, plan before building, verify before delivering, independent review before calling it done. Plain text, no runtime.",
+    "url": "https://github.com/Da7-Tech/SureForge",
+    "stars": 105,
+    "daily_stars": 0,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "code-review",
+      "codex",
+      "cursor",
+      "devin",
+      "hermes-agent",
+      "prompt",
+      "skills",
+      "verification",
+      "workflow"
+    ],
+    "created_at": "2026-09-09T12:59:04",
+    "updated_at": "2026-09-15T15:09:16"
   },
   {
     "name": "aside-codemode",
     "full_name": "lidge-jun/aside-codemode",
     "description": "One call where Aside used to spend fifty — rg-backed search, Aside-shaped file tools, and batched browser work inside a single sandboxed JavaScript block. On a real folder, 55s of find+grep became 1s.",
     "url": "https://github.com/lidge-jun/aside-codemode",
-    "stars": 86,
-    "daily_stars": 0,
+    "stars": 87,
+    "daily_stars": 1,
     "language": "JavaScript",
     "topics": [
       "agent-tools",
@@ -214,7 +214,7 @@
       "sandbox"
     ],
     "created_at": "2026-09-13T09:08:26",
-    "updated_at": "2026-09-15T10:12:29"
+    "updated_at": "2026-09-15T15:20:38"
   },
   {
     "name": "embedflow",
@@ -247,8 +247,8 @@
     "full_name": "lucidrains/RLT",
     "description": "Implementation of the recurrent looped transformer proposed by Yifan Zhang of Princeton ",
     "url": "https://github.com/lucidrains/RLT",
-    "stars": 40,
-    "daily_stars": 5,
+    "stars": 41,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "artificial-intelligence",
@@ -258,6 +258,6 @@
       "yoco"
     ],
     "created_at": "2026-09-13T23:00:33",
-    "updated_at": "2026-09-15T10:39:04"
+    "updated_at": "2026-09-15T17:51:45"
   }
 ]

@@ -4,8 +4,8 @@
     "full_name": "Human-Agent-Society/reef",
     "description": "Continual learning infra for self-improving agents",
     "url": "https://github.com/Human-Agent-Society/reef",
-    "stars": 1718,
-    "daily_stars": 166,
+    "stars": 1961,
+    "daily_stars": 243,
     "language": "Python",
     "topics": [
       "agent-infrastructure",
@@ -18,15 +18,15 @@
       "self-improving-agents"
     ],
     "created_at": "2026-08-31T01:39:18",
-    "updated_at": "2026-09-15T13:46:26"
+    "updated_at": "2026-09-15T19:44:59"
   },
   {
     "name": "FrontierAgent",
     "full_name": "ApodexAI/FrontierAgent",
     "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
     "url": "https://github.com/ApodexAI/FrontierAgent",
-    "stars": 3105,
-    "daily_stars": 120,
+    "stars": 3159,
+    "daily_stars": 54,
     "language": "Python",
     "topics": [
       "agent-orchestration",
@@ -39,15 +39,67 @@
       "tui"
     ],
     "created_at": "2026-08-22T05:07:35",
-    "updated_at": "2026-09-15T13:37:11"
+    "updated_at": "2026-09-15T19:45:41"
+  },
+  {
+    "name": "gap-trap",
+    "full_name": "pliablepixels/gap-trap",
+    "description": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
+    "url": "https://github.com/pliablepixels/gap-trap",
+    "stars": 140,
+    "daily_stars": 47,
+    "language": "JavaScript",
+    "topics": [
+      "agent-skills",
+      "agentic-coding",
+      "agents-md",
+      "ai-agents",
+      "ai-coding",
+      "ci-cd",
+      "claude-code",
+      "claude-skills",
+      "code-quality",
+      "codex",
+      "coding-agents",
+      "cursor",
+      "developer-tools",
+      "github-actions",
+      "llm",
+      "mutation-testing",
+      "quality-gates",
+      "tdd",
+      "testing",
+      "vibe-coding"
+    ],
+    "created_at": "2026-09-13T20:29:08",
+    "updated_at": "2026-09-15T19:29:25"
+  },
+  {
+    "name": "codex-with-chatgpt",
+    "full_name": "XiaoDuoYa/codex-with-chatgpt",
+    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+    "stars": 4407,
+    "daily_stars": 44,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "codex",
+      "mcp",
+      "model-context-protocol",
+      "oauth"
+    ],
+    "created_at": "2026-08-28T12:57:24",
+    "updated_at": "2026-09-15T19:42:53"
   },
   {
     "name": "VoiceMem",
     "full_name": "xzf-thu/VoiceMem",
     "description": "a real-time and empathetic memory system for voice assistants",
     "url": "https://github.com/xzf-thu/VoiceMem",
-    "stars": 1740,
-    "daily_stars": 82,
+    "stars": 1782,
+    "daily_stars": 42,
     "language": "Python",
     "topics": [
       "ai",
@@ -65,15 +117,43 @@
       "voice-assistant"
     ],
     "created_at": "2026-08-17T09:49:10",
-    "updated_at": "2026-09-15T13:36:18"
+    "updated_at": "2026-09-15T19:42:34"
+  },
+  {
+    "name": "dsh-antibrow",
+    "full_name": "antibrow/dsh-antibrow",
+    "description": "DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.",
+    "url": "https://github.com/antibrow/dsh-antibrow",
+    "stars": 312,
+    "daily_stars": 20,
+    "language": "JavaScript",
+    "topics": [
+      "agent-tools",
+      "ai-agents",
+      "android-emulation",
+      "anti-detect-browser",
+      "browser-automation",
+      "browser-fingerprinting",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "fingerprint-browser",
+      "mcp",
+      "mcp-server",
+      "playwright",
+      "residential-proxy",
+      "web-automation"
+    ],
+    "created_at": "2026-08-17T01:46:18",
+    "updated_at": "2026-09-15T19:20:49"
   },
   {
     "name": "anything2explainer",
     "full_name": "Vincentwei1021/anything2explainer",
     "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
     "url": "https://github.com/Vincentwei1021/anything2explainer",
-    "stars": 1393,
-    "daily_stars": 50,
+    "stars": 1411,
+    "daily_stars": 18,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -96,15 +176,56 @@
       "video-generation"
     ],
     "created_at": "2026-09-08T17:19:54",
-    "updated_at": "2026-09-15T13:45:18"
+    "updated_at": "2026-09-15T19:36:10"
+  },
+  {
+    "name": "kotlin-footguns",
+    "full_name": "maxrave-dev/kotlin-footguns",
+    "description": "Battle-tested agent skills mapping the footguns of Kotlin, Compose Multiplatform and the desktop JVM — mined from a production music app, not from documentation.",
+    "url": "https://github.com/maxrave-dev/kotlin-footguns",
+    "stars": 433,
+    "daily_stars": 16,
+    "language": null,
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "android",
+      "claude-code",
+      "compose-multiplatform",
+      "jetpack-compose",
+      "kotlin",
+      "kotlin-multiplatform"
+    ],
+    "created_at": "2026-08-20T08:46:15",
+    "updated_at": "2026-09-15T19:45:11"
+  },
+  {
+    "name": "openbot",
+    "full_name": "CopilotKit/openbot",
+    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+    "url": "https://github.com/CopilotKit/openbot",
+    "stars": 4942,
+    "daily_stars": 13,
+    "language": "TypeScript",
+    "topics": [
+      "ag-ui",
+      "agent-governance",
+      "ai-agents",
+      "browser-automation",
+      "copilotkit",
+      "generative-ui",
+      "mcp"
+    ],
+    "created_at": "2026-08-17T00:44:59",
+    "updated_at": "2026-09-15T19:34:28"
   },
   {
     "name": "AuK",
     "full_name": "Tencent-Hunyuan/AuK",
     "description": "AuK: An Open-Source Foundational Model for Speech Generation and Editing",
     "url": "https://github.com/Tencent-Hunyuan/AuK",
-    "stars": 942,
-    "daily_stars": 43,
+    "stars": 955,
+    "daily_stars": 13,
     "language": "Python",
     "topics": [
       "deep-learning",
@@ -120,116 +241,6 @@
       "zero-shot-tts"
     ],
     "created_at": "2026-08-19T01:39:24",
-    "updated_at": "2026-09-15T13:28:18"
-  },
-  {
-    "name": "codex-with-chatgpt",
-    "full_name": "XiaoDuoYa/codex-with-chatgpt",
-    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-    "stars": 4363,
-    "daily_stars": 38,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "chatgpt",
-      "codex",
-      "mcp",
-      "model-context-protocol",
-      "oauth"
-    ],
-    "created_at": "2026-08-28T12:57:24",
-    "updated_at": "2026-09-15T13:41:23"
-  },
-  {
-    "name": "openbot",
-    "full_name": "CopilotKit/openbot",
-    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-    "url": "https://github.com/CopilotKit/openbot",
-    "stars": 4929,
-    "daily_stars": 29,
-    "language": "TypeScript",
-    "topics": [
-      "ag-ui",
-      "agent-governance",
-      "ai-agents",
-      "browser-automation",
-      "copilotkit",
-      "generative-ui",
-      "mcp"
-    ],
-    "created_at": "2026-08-17T00:44:59",
-    "updated_at": "2026-09-15T13:39:42"
-  },
-  {
-    "name": "kotlin-footguns",
-    "full_name": "maxrave-dev/kotlin-footguns",
-    "description": "Battle-tested agent skills mapping the footguns of Kotlin, Compose Multiplatform and the desktop JVM — mined from a production music app, not from documentation.",
-    "url": "https://github.com/maxrave-dev/kotlin-footguns",
-    "stars": 417,
-    "daily_stars": 22,
-    "language": null,
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "android",
-      "claude-code",
-      "compose-multiplatform",
-      "jetpack-compose",
-      "kotlin",
-      "kotlin-multiplatform"
-    ],
-    "created_at": "2026-08-20T08:46:15",
-    "updated_at": "2026-09-15T12:49:30"
-  },
-  {
-    "name": "agent-me",
-    "full_name": "jzjzzzzzzz/agent-me",
-    "description": "Distill your knowledge, memories, and decisions into an open-source, inspectable AI Agent Twin.",
-    "url": "https://github.com/jzjzzzzzzz/agent-me",
-    "stars": 370,
-    "daily_stars": 18,
-    "language": "Python",
-    "topics": [
-      "agentic-ai",
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "digital-twin",
-      "knowledge-graph",
-      "llm",
-      "memory",
-      "multi-agent",
-      "personal-ai",
-      "rag"
-    ],
-    "created_at": "2026-08-27T04:08:50",
-    "updated_at": "2026-09-15T13:35:20"
-  },
-  {
-    "name": "task-state-guard",
-    "full_name": "MaxHu-xuan/task-state-guard",
-    "description": "Reconcile stuck AI-agent tasks after restarts and timeouts. Preview SQLite changes, close stale delivery states, and never guess success.",
-    "url": "https://github.com/MaxHu-xuan/task-state-guard",
-    "stars": 372,
-    "daily_stars": 11,
-    "language": "Python",
-    "topics": [
-      "agent-runtime",
-      "ai-agents",
-      "delivery-state",
-      "idempotency",
-      "job-recovery",
-      "python",
-      "restart-reconciliation",
-      "sqlite",
-      "stale-tasks",
-      "task-state",
-      "task-state-machine",
-      "timeout-reconciliation",
-      "workflow-observability"
-    ],
-    "created_at": "2026-08-23T07:10:14",
-    "updated_at": "2026-09-15T13:28:51"
+    "updated_at": "2026-09-15T19:12:55"
   }
 ]
