@@ -4,8 +4,8 @@
     "full_name": "Human-Agent-Society/reef",
     "description": "Continual learning infra for self-improving agents",
     "url": "https://github.com/Human-Agent-Society/reef",
-    "stars": 1552,
-    "daily_stars": 67,
+    "stars": 1718,
+    "daily_stars": 166,
     "language": "Python",
     "topics": [
       "agent-infrastructure",
@@ -18,15 +18,15 @@
       "self-improving-agents"
     ],
     "created_at": "2026-08-31T01:39:18",
-    "updated_at": "2026-09-15T04:59:30"
+    "updated_at": "2026-09-15T13:46:26"
   },
   {
     "name": "FrontierAgent",
     "full_name": "ApodexAI/FrontierAgent",
     "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
     "url": "https://github.com/ApodexAI/FrontierAgent",
-    "stars": 2985,
-    "daily_stars": 40,
+    "stars": 3105,
+    "daily_stars": 120,
     "language": "Python",
     "topics": [
       "agent-orchestration",
@@ -39,34 +39,41 @@
       "tui"
     ],
     "created_at": "2026-08-22T05:07:35",
-    "updated_at": "2026-09-15T05:00:22"
+    "updated_at": "2026-09-15T13:37:11"
   },
   {
-    "name": "codex-with-chatgpt",
-    "full_name": "XiaoDuoYa/codex-with-chatgpt",
-    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-    "stars": 4325,
-    "daily_stars": 27,
-    "language": "TypeScript",
+    "name": "VoiceMem",
+    "full_name": "xzf-thu/VoiceMem",
+    "description": "a real-time and empathetic memory system for voice assistants",
+    "url": "https://github.com/xzf-thu/VoiceMem",
+    "stars": 1740,
+    "daily_stars": 82,
+    "language": "Python",
     "topics": [
+      "ai",
       "ai-agents",
-      "chatgpt",
-      "codex",
-      "mcp",
-      "model-context-protocol",
-      "oauth"
+      "ai-tools",
+      "application",
+      "audio-streaming",
+      "genai",
+      "llm",
+      "long-term-memory",
+      "memory",
+      "memory-management",
+      "python",
+      "voice-agent",
+      "voice-assistant"
     ],
-    "created_at": "2026-08-28T12:57:24",
-    "updated_at": "2026-09-15T04:56:47"
+    "created_at": "2026-08-17T09:49:10",
+    "updated_at": "2026-09-15T13:36:18"
   },
   {
     "name": "anything2explainer",
     "full_name": "Vincentwei1021/anything2explainer",
     "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
     "url": "https://github.com/Vincentwei1021/anything2explainer",
-    "stars": 1343,
-    "daily_stars": 27,
+    "stars": 1393,
+    "daily_stars": 50,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -89,15 +96,15 @@
       "video-generation"
     ],
     "created_at": "2026-09-08T17:19:54",
-    "updated_at": "2026-09-15T04:57:30"
+    "updated_at": "2026-09-15T13:45:18"
   },
   {
     "name": "AuK",
     "full_name": "Tencent-Hunyuan/AuK",
     "description": "AuK: An Open-Source Foundational Model for Speech Generation and Editing",
     "url": "https://github.com/Tencent-Hunyuan/AuK",
-    "stars": 899,
-    "daily_stars": 25,
+    "stars": 942,
+    "daily_stars": 43,
     "language": "Python",
     "topics": [
       "deep-learning",
@@ -113,41 +120,75 @@
       "zero-shot-tts"
     ],
     "created_at": "2026-08-19T01:39:24",
-    "updated_at": "2026-09-15T04:55:30"
+    "updated_at": "2026-09-15T13:28:18"
   },
   {
-    "name": "VoiceMem",
-    "full_name": "xzf-thu/VoiceMem",
-    "description": "a real-time and empathetic memory system for voice assistants",
-    "url": "https://github.com/xzf-thu/VoiceMem",
-    "stars": 1658,
-    "daily_stars": 16,
-    "language": "Python",
+    "name": "codex-with-chatgpt",
+    "full_name": "XiaoDuoYa/codex-with-chatgpt",
+    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+    "stars": 4363,
+    "daily_stars": 38,
+    "language": "TypeScript",
     "topics": [
-      "ai",
       "ai-agents",
-      "ai-tools",
-      "application",
-      "audio-streaming",
-      "genai",
-      "llm",
-      "long-term-memory",
-      "memory",
-      "memory-management",
-      "python",
-      "voice-agent",
-      "voice-assistant"
+      "chatgpt",
+      "codex",
+      "mcp",
+      "model-context-protocol",
+      "oauth"
     ],
-    "created_at": "2026-08-17T09:49:10",
-    "updated_at": "2026-09-15T04:57:43"
+    "created_at": "2026-08-28T12:57:24",
+    "updated_at": "2026-09-15T13:41:23"
+  },
+  {
+    "name": "openbot",
+    "full_name": "CopilotKit/openbot",
+    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+    "url": "https://github.com/CopilotKit/openbot",
+    "stars": 4929,
+    "daily_stars": 29,
+    "language": "TypeScript",
+    "topics": [
+      "ag-ui",
+      "agent-governance",
+      "ai-agents",
+      "browser-automation",
+      "copilotkit",
+      "generative-ui",
+      "mcp"
+    ],
+    "created_at": "2026-08-17T00:44:59",
+    "updated_at": "2026-09-15T13:39:42"
+  },
+  {
+    "name": "kotlin-footguns",
+    "full_name": "maxrave-dev/kotlin-footguns",
+    "description": "Battle-tested agent skills mapping the footguns of Kotlin, Compose Multiplatform and the desktop JVM — mined from a production music app, not from documentation.",
+    "url": "https://github.com/maxrave-dev/kotlin-footguns",
+    "stars": 417,
+    "daily_stars": 22,
+    "language": null,
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "android",
+      "claude-code",
+      "compose-multiplatform",
+      "jetpack-compose",
+      "kotlin",
+      "kotlin-multiplatform"
+    ],
+    "created_at": "2026-08-20T08:46:15",
+    "updated_at": "2026-09-15T12:49:30"
   },
   {
     "name": "agent-me",
     "full_name": "jzjzzzzzzz/agent-me",
     "description": "Distill your knowledge, memories, and decisions into an open-source, inspectable AI Agent Twin.",
     "url": "https://github.com/jzjzzzzzzz/agent-me",
-    "stars": 352,
-    "daily_stars": 11,
+    "stars": 370,
+    "daily_stars": 18,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -163,80 +204,32 @@
       "rag"
     ],
     "created_at": "2026-08-27T04:08:50",
-    "updated_at": "2026-09-15T05:09:04"
+    "updated_at": "2026-09-15T13:35:20"
   },
   {
-    "name": "openbot",
-    "full_name": "CopilotKit/openbot",
-    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-    "url": "https://github.com/CopilotKit/openbot",
-    "stars": 4900,
-    "daily_stars": 10,
-    "language": "TypeScript",
+    "name": "task-state-guard",
+    "full_name": "MaxHu-xuan/task-state-guard",
+    "description": "Reconcile stuck AI-agent tasks after restarts and timeouts. Preview SQLite changes, close stale delivery states, and never guess success.",
+    "url": "https://github.com/MaxHu-xuan/task-state-guard",
+    "stars": 372,
+    "daily_stars": 11,
+    "language": "Python",
     "topics": [
-      "ag-ui",
-      "agent-governance",
+      "agent-runtime",
       "ai-agents",
-      "browser-automation",
-      "copilotkit",
-      "generative-ui",
-      "mcp"
+      "delivery-state",
+      "idempotency",
+      "job-recovery",
+      "python",
+      "restart-reconciliation",
+      "sqlite",
+      "stale-tasks",
+      "task-state",
+      "task-state-machine",
+      "timeout-reconciliation",
+      "workflow-observability"
     ],
-    "created_at": "2026-08-17T00:44:59",
-    "updated_at": "2026-09-15T04:49:41"
-  },
-  {
-    "name": "kotlin-footguns",
-    "full_name": "maxrave-dev/kotlin-footguns",
-    "description": "Battle-tested agent skills mapping the footguns of Kotlin, Compose Multiplatform and the desktop JVM — mined from a production music app, not from documentation.",
-    "url": "https://github.com/maxrave-dev/kotlin-footguns",
-    "stars": 395,
-    "daily_stars": 9,
-    "language": null,
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "android",
-      "claude-code",
-      "compose-multiplatform",
-      "jetpack-compose",
-      "kotlin",
-      "kotlin-multiplatform"
-    ],
-    "created_at": "2026-08-20T08:46:15",
-    "updated_at": "2026-09-15T04:46:17"
-  },
-  {
-    "name": "autoprompt-skill",
-    "full_name": "Spielewoy/autoprompt-skill",
-    "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
-    "url": "https://github.com/Spielewoy/autoprompt-skill",
-    "stars": 1135,
-    "daily_stars": 6,
-    "language": "JavaScript",
-    "topics": [
-      "agent-orchestration",
-      "agent-skills",
-      "agentic-workflows",
-      "ai-agents",
-      "ai-coding",
-      "automated-testing",
-      "autonomous-agents",
-      "claude-code",
-      "cli",
-      "code-review",
-      "codex",
-      "coding-agent",
-      "developer-tools",
-      "github-copilot",
-      "multi-agent-systems",
-      "opencode",
-      "prompt-engineering",
-      "subagents",
-      "test-driven-development",
-      "workflow-automation"
-    ],
-    "created_at": "2026-08-17T22:40:47",
-    "updated_at": "2026-09-15T04:58:56"
+    "created_at": "2026-08-23T07:10:14",
+    "updated_at": "2026-09-15T13:28:51"
   }
 ]

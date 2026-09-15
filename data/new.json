@@ -4,8 +4,8 @@
     "full_name": "Vincentwei1021/anything2explainer",
     "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
     "url": "https://github.com/Vincentwei1021/anything2explainer",
-    "stars": 1343,
-    "daily_stars": 27,
+    "stars": 1393,
+    "daily_stars": 50,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -28,7 +28,7 @@
       "video-generation"
     ],
     "created_at": "2026-09-08T17:19:54",
-    "updated_at": "2026-09-15T04:57:30"
+    "updated_at": "2026-09-15T13:45:18"
   },
   {
     "name": "ToolReplay",
@@ -36,7 +36,7 @@
     "description": "Audit AI agent tool-call transcripts: hash-chain sealing, deterministic replay, and scope overreach checks. Dependency-free Python CLI.",
     "url": "https://github.com/Matthew0822/ToolReplay",
     "stars": 168,
-    "daily_stars": -3,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -61,7 +61,7 @@
     "description": "Turn reference videos into editable motion graphics with Codex + ChatGPT. Compare, customize, and export MP4s or HyperFrames projects. Local Windows app + online studio.",
     "url": "https://github.com/blixvip/MotionClone",
     "stars": 157,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -86,8 +86,8 @@
     "full_name": "FankChen/tracecrate",
     "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
     "url": "https://github.com/FankChen/tracecrate",
-    "stars": 122,
-    "daily_stars": 1,
+    "stars": 128,
+    "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -103,7 +103,7 @@
       "typescript"
     ],
     "created_at": "2026-09-10T09:27:41",
-    "updated_at": "2026-09-15T00:14:42"
+    "updated_at": "2026-09-15T12:16:12"
   },
   {
     "name": "SureForge",
@@ -111,7 +111,7 @@
     "description": "Agent Skill for complex work: research before asking, ask before planning, plan before building, verify before delivering, independent review before calling it done. Plain text, no runtime.",
     "url": "https://github.com/Da7-Tech/SureForge",
     "stars": 104,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -156,35 +156,65 @@
     "updated_at": "2026-09-15T01:27:34"
   },
   {
-    "name": "Awesome-OKF",
-    "full_name": "Albertchamberlain/Awesome-OKF",
-    "description": "OKF (Open Knowledge Format) — curated catalog of tools, plugins, skills, proposals, and docs for agent-friendly knowledge. YAML-driven, agent-searchable, MCP-ready.",
-    "url": "https://github.com/Albertchamberlain/Awesome-OKF",
-    "stars": 100,
+    "name": "gap-trap",
+    "full_name": "pliablepixels/gap-trap",
+    "description": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
+    "url": "https://github.com/pliablepixels/gap-trap",
+    "stars": 93,
     "daily_stars": 0,
-    "language": "Python",
+    "language": "JavaScript",
     "topics": [
-      "agent-memory",
       "agent-skills",
+      "agentic-coding",
+      "agents-md",
       "ai-agents",
-      "ai-memory",
-      "awesome",
-      "awesome-list",
+      "ai-coding",
+      "ci-cd",
       "claude-code",
-      "knowledge-base",
-      "knowledge-graph",
-      "knowledge-management",
+      "claude-skills",
+      "code-quality",
+      "codex",
+      "coding-agents",
+      "cursor",
+      "developer-tools",
+      "github-actions",
       "llm",
-      "llm-wiki",
-      "markdown",
-      "mcp",
-      "okf",
-      "open-knowledge-format",
-      "structured-knowledge",
-      "yaml"
+      "mutation-testing",
+      "quality-gates",
+      "tdd",
+      "testing",
+      "vibe-coding"
     ],
-    "created_at": "2026-09-07T06:12:39",
-    "updated_at": "2026-09-15T02:03:45"
+    "created_at": "2026-09-13T20:29:08",
+    "updated_at": "2026-09-15T13:46:17"
+  },
+  {
+    "name": "aside-codemode",
+    "full_name": "lidge-jun/aside-codemode",
+    "description": "One call where Aside used to spend fifty — rg-backed search, Aside-shaped file tools, and batched browser work inside a single sandboxed JavaScript block. On a real folder, 55s of find+grep became 1s.",
+    "url": "https://github.com/lidge-jun/aside-codemode",
+    "stars": 86,
+    "daily_stars": 0,
+    "language": "JavaScript",
+    "topics": [
+      "agent-tools",
+      "ai-agents",
+      "aside",
+      "browser-agent",
+      "browser-automation",
+      "cli",
+      "code-mode",
+      "codex",
+      "developer-tools",
+      "llm-tools",
+      "nodejs",
+      "npm-package",
+      "playwright",
+      "ripgrep",
+      "sandbox"
+    ],
+    "created_at": "2026-09-13T09:08:26",
+    "updated_at": "2026-09-15T10:12:29"
   },
   {
     "name": "embedflow",
@@ -217,8 +247,8 @@
     "full_name": "lucidrains/RLT",
     "description": "Implementation of the recurrent looped transformer proposed by Yifan Zhang of Princeton ",
     "url": "https://github.com/lucidrains/RLT",
-    "stars": 35,
-    "daily_stars": 1,
+    "stars": 40,
+    "daily_stars": 5,
     "language": "Python",
     "topics": [
       "artificial-intelligence",
@@ -228,24 +258,6 @@
       "yoco"
     ],
     "created_at": "2026-09-13T23:00:33",
-    "updated_at": "2026-09-15T02:28:55"
-  },
-  {
-    "name": "RLT",
-    "full_name": "lucidrains/RLT",
-    "description": "Implementation of the recurrent looped transformer proposed by Yifan Zhang of Princeton ",
-    "url": "https://github.com/lucidrains/RLT",
-    "stars": 35,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "deep-learning",
-      "recurrence",
-      "transformers",
-      "yoco"
-    ],
-    "created_at": "2026-09-13T23:00:33",
-    "updated_at": "2026-09-15T02:28:55"
+    "updated_at": "2026-09-15T10:39:04"
   }
 ]
