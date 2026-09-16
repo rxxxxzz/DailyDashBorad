@@ -4,8 +4,8 @@
     "full_name": "Vincentwei1021/anything2explainer",
     "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
     "url": "https://github.com/Vincentwei1021/anything2explainer",
-    "stars": 1413,
-    "daily_stars": 2,
+    "stars": 1431,
+    "daily_stars": 18,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -28,7 +28,7 @@
       "video-generation"
     ],
     "created_at": "2026-09-08T17:19:54",
-    "updated_at": "2026-09-15T22:07:16"
+    "updated_at": "2026-09-16T05:04:01"
   },
   {
     "name": "ToolReplay",
@@ -36,7 +36,7 @@
     "description": "Audit AI agent tool-call transcripts: hash-chain sealing, deterministic replay, and scope overreach checks. Dependency-free Python CLI.",
     "url": "https://github.com/Matthew0822/ToolReplay",
     "stars": 170,
-    "daily_stars": 1,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -60,8 +60,8 @@
     "full_name": "blixvip/MotionClone",
     "description": "Turn reference videos into editable motion graphics with Codex + ChatGPT. Compare, customize, and export MP4s or HyperFrames projects. Local Windows app + online studio.",
     "url": "https://github.com/blixvip/MotionClone",
-    "stars": 159,
-    "daily_stars": 2,
+    "stars": 165,
+    "daily_stars": 6,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -79,14 +79,14 @@
       "video-editing"
     ],
     "created_at": "2026-09-10T02:29:35",
-    "updated_at": "2026-09-15T22:03:02"
+    "updated_at": "2026-09-16T04:37:24"
   },
   {
     "name": "gap-trap",
     "full_name": "pliablepixels/gap-trap",
     "description": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
     "url": "https://github.com/pliablepixels/gap-trap",
-    "stars": 145,
+    "stars": 150,
     "daily_stars": 5,
     "language": "JavaScript",
     "topics": [
@@ -112,7 +112,7 @@
       "vibe-coding"
     ],
     "created_at": "2026-09-13T20:29:08",
-    "updated_at": "2026-09-15T22:56:20"
+    "updated_at": "2026-09-16T04:21:04"
   },
   {
     "name": "tracecrate",
@@ -120,7 +120,7 @@
     "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
     "url": "https://github.com/FankChen/tracecrate",
     "stars": 130,
-    "daily_stars": 3,
+    "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -189,11 +189,32 @@
     "updated_at": "2026-09-15T15:09:16"
   },
   {
+    "name": "ms-fabric-data-science",
+    "full_name": "DataFabric-Academy/ms-fabric-data-science",
+    "description": "Hands-on Microsoft Fabric Data Science labs (FreshMart churn) with Thai study notes, PySpark/MLflow, and DP-604-aligned learning path.",
+    "url": "https://github.com/DataFabric-Academy/ms-fabric-data-science",
+    "stars": 95,
+    "daily_stars": 0,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "churn-prediction",
+      "data-science",
+      "machine-learning",
+      "medallion-architecture",
+      "microsoft-fabric",
+      "microsoft-learn",
+      "mlflow",
+      "pyspark"
+    ],
+    "created_at": "2026-09-12T00:38:16",
+    "updated_at": "2026-09-16T04:44:05"
+  },
+  {
     "name": "aside-codemode",
     "full_name": "lidge-jun/aside-codemode",
     "description": "One call where Aside used to spend fifty — rg-backed search, Aside-shaped file tools, and batched browser work inside a single sandboxed JavaScript block. On a real folder, 55s of find+grep became 1s.",
     "url": "https://github.com/lidge-jun/aside-codemode",
-    "stars": 88,
+    "stars": 89,
     "daily_stars": 1,
     "language": "JavaScript",
     "topics": [
@@ -214,42 +235,22 @@
       "sandbox"
     ],
     "created_at": "2026-09-13T09:08:26",
-    "updated_at": "2026-09-15T19:55:45"
+    "updated_at": "2026-09-16T04:19:52"
   },
   {
-    "name": "RLT",
-    "full_name": "lucidrains/RLT",
-    "description": "Implementation of the recurrent looped transformer proposed by Yifan Zhang of Princeton ",
-    "url": "https://github.com/lucidrains/RLT",
-    "stars": 43,
-    "daily_stars": 2,
-    "language": "Python",
-    "topics": [
-      "artificial-intelligence",
-      "deep-learning",
-      "recurrence",
-      "transformers",
-      "yoco"
-    ],
-    "created_at": "2026-09-13T23:00:33",
-    "updated_at": "2026-09-15T23:03:03"
-  },
-  {
-    "name": "RLT",
-    "full_name": "lucidrains/RLT",
-    "description": "Implementation of the recurrent looped transformer proposed by Yifan Zhang of Princeton ",
-    "url": "https://github.com/lucidrains/RLT",
-    "stars": 43,
+    "name": "Awesome-Robot-Use-Agent",
+    "full_name": "kairunwen/Awesome-Robot-Use-Agent",
+    "description": "A curated collection of papers, research blogs, open-source tools, benchmarks, and community demos for robot-use agents, including demos powered by GPT-6 Astra. —— Explore our searchable website.",
+    "url": "https://github.com/kairunwen/Awesome-Robot-Use-Agent",
+    "stars": 81,
     "daily_stars": 0,
     "language": "Python",
     "topics": [
-      "artificial-intelligence",
-      "deep-learning",
-      "recurrence",
-      "transformers",
-      "yoco"
+      "ai-agents",
+      "awesome-list",
+      "robot-use"
     ],
-    "created_at": "2026-09-13T23:00:33",
-    "updated_at": "2026-09-15T23:03:03"
+    "created_at": "2026-09-11T03:55:42",
+    "updated_at": "2026-09-16T04:00:30"
   }
 ]
