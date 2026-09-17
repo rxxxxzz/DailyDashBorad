@@ -4,8 +4,8 @@
     "full_name": "modelscope/ms-cookbook",
     "description": "魔搭紫皮书｜ModelScope Cookbook：面向开发者的开源模型应用实战指南，覆盖模型选型、推理、微调、评测、RAG、Agent 与 AIGC，从跑通第一个模型到构建实际应用。",
     "url": "https://github.com/modelscope/ms-cookbook",
-    "stars": 253,
-    "daily_stars": 38,
+    "stars": 262,
+    "daily_stars": 9,
     "language": "HTML",
     "topics": [
       "ai-agents",
@@ -20,15 +20,15 @@
       "rag"
     ],
     "created_at": "2026-09-11T14:27:35",
-    "updated_at": "2026-09-17T13:28:00"
+    "updated_at": "2026-09-17T16:13:21"
   },
   {
     "name": "MotionClone",
     "full_name": "blixvip/MotionClone",
     "description": "Turn reference videos into editable motion graphics with Codex + ChatGPT. Compare, customize, and export MP4s or HyperFrames projects. Local Windows app + online studio.",
     "url": "https://github.com/blixvip/MotionClone",
-    "stars": 177,
-    "daily_stars": 4,
+    "stars": 184,
+    "daily_stars": 7,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -46,15 +46,15 @@
       "video-editing"
     ],
     "created_at": "2026-09-10T02:29:35",
-    "updated_at": "2026-09-17T08:51:26"
+    "updated_at": "2026-09-17T19:15:52"
   },
   {
     "name": "ToolReplay",
     "full_name": "Matthew0822/ToolReplay",
     "description": "Audit AI agent tool-call transcripts: hash-chain sealing, deterministic replay, and scope overreach checks. Dependency-free Python CLI.",
     "url": "https://github.com/Matthew0822/ToolReplay",
-    "stars": 173,
-    "daily_stars": 0,
+    "stars": 175,
+    "daily_stars": 2,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -71,15 +71,15 @@
       "tool-call"
     ],
     "created_at": "2026-09-14T10:11:00",
-    "updated_at": "2026-09-16T15:31:54"
+    "updated_at": "2026-09-17T19:00:24"
   },
   {
     "name": "gap-trap",
     "full_name": "pliablepixels/gap-trap",
     "description": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
     "url": "https://github.com/pliablepixels/gap-trap",
-    "stars": 161,
-    "daily_stars": 2,
+    "stars": 165,
+    "daily_stars": 4,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -104,15 +104,34 @@
       "vibe-coding"
     ],
     "created_at": "2026-09-13T20:29:08",
-    "updated_at": "2026-09-17T10:54:01"
+    "updated_at": "2026-09-17T19:00:29"
+  },
+  {
+    "name": "typesafe-computer-use",
+    "full_name": "awlevin/typesafe-computer-use",
+    "description": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.",
+    "url": "https://github.com/awlevin/typesafe-computer-use",
+    "stars": 157,
+    "daily_stars": 21,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "computer-use",
+      "macos",
+      "ocr",
+      "typesafe"
+    ],
+    "created_at": "2026-09-16T17:48:45",
+    "updated_at": "2026-09-17T19:36:40"
   },
   {
     "name": "tracecrate",
     "full_name": "FankChen/tracecrate",
     "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
     "url": "https://github.com/FankChen/tracecrate",
-    "stars": 140,
-    "daily_stars": 6,
+    "stars": 142,
+    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -128,26 +147,28 @@
       "typescript"
     ],
     "created_at": "2026-09-10T09:27:41",
-    "updated_at": "2026-09-17T12:58:32"
+    "updated_at": "2026-09-17T19:33:08"
   },
   {
-    "name": "typesafe-computer-use",
-    "full_name": "awlevin/typesafe-computer-use",
-    "description": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.",
-    "url": "https://github.com/awlevin/typesafe-computer-use",
-    "stars": 136,
-    "daily_stars": 39,
-    "language": "Python",
+    "name": "agent-isles",
+    "full_name": "Qiuner/agent-isles",
+    "description": "An explorable island world to learn AI coding and build real projects with AI agents. Powered by DeepSeek Harness.",
+    "url": "https://github.com/Qiuner/agent-isles",
+    "stars": 112,
+    "daily_stars": 14,
+    "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "automation",
-      "computer-use",
-      "macos",
-      "ocr",
-      "typesafe"
+      "ai-coding",
+      "deepseek",
+      "developer-tools",
+      "gamification",
+      "godot",
+      "learn-to-code",
+      "vibe-coding"
     ],
-    "created_at": "2026-09-16T17:48:45",
-    "updated_at": "2026-09-17T13:38:38"
+    "created_at": "2026-09-14T10:50:30",
+    "updated_at": "2026-09-17T19:35:06"
   },
   {
     "name": "Awesome-Robot-Use-Agent",
@@ -155,7 +176,7 @@
     "description": "A curated collection of papers, research blogs, open-source tools, benchmarks, and community demos for robot-use agents, including demos powered by GPT-6 Astra. —— Explore our searchable website.",
     "url": "https://github.com/kairunwen/Awesome-Robot-Use-Agent",
     "stars": 108,
-    "daily_stars": 9,
+    "daily_stars": 0,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -170,8 +191,8 @@
     "full_name": "lidge-jun/aside-codemode",
     "description": "One call where Aside used to spend fifty — rg-backed search, Aside-shaped file tools, and batched browser work inside a single sandboxed JavaScript block. On a real folder, 55s of find+grep became 1s.",
     "url": "https://github.com/lidge-jun/aside-codemode",
-    "stars": 100,
-    "daily_stars": 0,
+    "stars": 102,
+    "daily_stars": 2,
     "language": "JavaScript",
     "topics": [
       "agent-tools",
@@ -191,28 +212,7 @@
       "sandbox"
     ],
     "created_at": "2026-09-13T09:08:26",
-    "updated_at": "2026-09-17T04:17:32"
-  },
-  {
-    "name": "agent-isles",
-    "full_name": "Qiuner/agent-isles",
-    "description": "An explorable island world to learn AI coding and build real projects with AI agents. Powered by DeepSeek Harness.",
-    "url": "https://github.com/Qiuner/agent-isles",
-    "stars": 98,
-    "daily_stars": 23,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "ai-coding",
-      "deepseek",
-      "developer-tools",
-      "gamification",
-      "godot",
-      "learn-to-code",
-      "vibe-coding"
-    ],
-    "created_at": "2026-09-14T10:50:30",
-    "updated_at": "2026-09-17T13:06:08"
+    "updated_at": "2026-09-17T19:46:58"
   },
   {
     "name": "ms-fabric-data-science",
