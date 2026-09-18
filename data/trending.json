@@ -4,8 +4,8 @@
     "full_name": "ApodexAI/FrontierAgent",
     "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
     "url": "https://github.com/ApodexAI/FrontierAgent",
-    "stars": 3681,
-    "daily_stars": 161,
+    "stars": 3769,
+    "daily_stars": 88,
     "language": "Python",
     "topics": [
       "agent-orchestration",
@@ -18,55 +18,37 @@
       "tui"
     ],
     "created_at": "2026-08-22T05:07:35",
-    "updated_at": "2026-09-18T12:56:40"
+    "updated_at": "2026-09-18T19:04:35"
   },
   {
-    "name": "reef",
-    "full_name": "Human-Agent-Society/reef",
-    "description": "Continual learning infra for self-improving agents",
-    "url": "https://github.com/Human-Agent-Society/reef",
-    "stars": 3519,
-    "daily_stars": 135,
+    "name": "Lilly",
+    "full_name": "ssaaffaakk/Lilly",
+    "description": "Bosnian-first offline assistant: type, speak, and snap street text → English. FastAPI app + Kaggle-trained listen/read models. Fail-stop training.",
+    "url": "https://github.com/ssaaffaakk/Lilly",
+    "stars": 108,
+    "daily_stars": 61,
     "language": "Python",
     "topics": [
-      "agent-infrastructure",
-      "ai-agents",
-      "continual-learning",
-      "inference",
-      "llm",
-      "llm-training",
-      "reinforcement-learning",
-      "self-improving-agents"
+      "bosnian",
+      "fastapi",
+      "kaggle",
+      "machine-learning",
+      "ocr",
+      "offline-first",
+      "speech-recognition",
+      "translation",
+      "whisper"
     ],
-    "created_at": "2026-08-31T01:39:18",
-    "updated_at": "2026-09-18T12:57:27"
-  },
-  {
-    "name": "codex-with-chatgpt",
-    "full_name": "XiaoDuoYa/codex-with-chatgpt",
-    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-    "stars": 5403,
-    "daily_stars": 115,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "chatgpt",
-      "codex",
-      "mcp",
-      "model-context-protocol",
-      "oauth"
-    ],
-    "created_at": "2026-08-28T12:57:24",
-    "updated_at": "2026-09-18T13:01:46"
+    "created_at": "2026-08-22T16:31:56",
+    "updated_at": "2026-09-18T16:56:50"
   },
   {
     "name": "awesome-typesafe",
     "full_name": "AbdelStark/awesome-typesafe",
     "description": "A curated list of official resources and community projects for TypeSafe, System One models, and Jev.",
     "url": "https://github.com/AbdelStark/awesome-typesafe",
-    "stars": 160,
-    "daily_stars": 79,
+    "stars": 219,
+    "daily_stars": 59,
     "language": "CSS",
     "topics": [
       "ai-agents",
@@ -79,15 +61,34 @@
       "typesafe"
     ],
     "created_at": "2026-09-17T06:56:37",
-    "updated_at": "2026-09-18T12:35:02"
+    "updated_at": "2026-09-18T18:48:05"
+  },
+  {
+    "name": "codex-with-chatgpt",
+    "full_name": "XiaoDuoYa/codex-with-chatgpt",
+    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+    "stars": 5444,
+    "daily_stars": 41,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "codex",
+      "mcp",
+      "model-context-protocol",
+      "oauth"
+    ],
+    "created_at": "2026-08-28T12:57:24",
+    "updated_at": "2026-09-18T18:48:19"
   },
   {
     "name": "oral-paper-skill",
     "full_name": "Adkid-Zephyr/oral-paper-skill",
     "description": "Distilled research standards from recent ICLR, ICML, and NeurIPS Oral papers — a practical skill for paper storytelling, evidence, and experiment design.",
     "url": "https://github.com/Adkid-Zephyr/oral-paper-skill",
-    "stars": 80,
-    "daily_stars": 69,
+    "stars": 113,
+    "daily_stars": 33,
     "language": "Python",
     "topics": [
       "academic-writing",
@@ -100,15 +101,81 @@
       "research"
     ],
     "created_at": "2026-09-02T22:51:41",
-    "updated_at": "2026-09-18T12:53:35"
+    "updated_at": "2026-09-18T18:02:43"
+  },
+  {
+    "name": "reef",
+    "full_name": "Human-Agent-Society/reef",
+    "description": "Continual learning infra for self-improving agents",
+    "url": "https://github.com/Human-Agent-Society/reef",
+    "stars": 3551,
+    "daily_stars": 32,
+    "language": "Python",
+    "topics": [
+      "agent-infrastructure",
+      "ai-agents",
+      "continual-learning",
+      "inference",
+      "llm",
+      "llm-training",
+      "reinforcement-learning",
+      "self-improving-agents"
+    ],
+    "created_at": "2026-08-31T01:39:18",
+    "updated_at": "2026-09-18T19:01:16"
+  },
+  {
+    "name": "typesafe-computer-use",
+    "full_name": "awlevin/typesafe-computer-use",
+    "description": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.",
+    "url": "https://github.com/awlevin/typesafe-computer-use",
+    "stars": 206,
+    "daily_stars": 20,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "computer-use",
+      "macos",
+      "ocr",
+      "typesafe"
+    ],
+    "created_at": "2026-09-16T17:48:45",
+    "updated_at": "2026-09-18T18:53:22"
+  },
+  {
+    "name": "MotionClone",
+    "full_name": "blixvip/MotionClone",
+    "description": "Turn reference videos into editable motion graphics with Codex + ChatGPT. Compare, customize, and export MP4s or HyperFrames projects. Local Windows app + online studio.",
+    "url": "https://github.com/blixvip/MotionClone",
+    "stars": 236,
+    "daily_stars": 17,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-video",
+      "animation",
+      "chatgpt",
+      "codex",
+      "demo-videos",
+      "hyperframes",
+      "launch-videos",
+      "motion-graphics",
+      "python",
+      "svg",
+      "video",
+      "video-editing"
+    ],
+    "created_at": "2026-09-10T02:29:35",
+    "updated_at": "2026-09-18T18:21:44"
   },
   {
     "name": "anything2explainer",
     "full_name": "Vincentwei1021/anything2explainer",
     "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
     "url": "https://github.com/Vincentwei1021/anything2explainer",
-    "stars": 1622,
-    "daily_stars": 32,
+    "stars": 1637,
+    "daily_stars": 15,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -131,85 +198,15 @@
       "video-generation"
     ],
     "created_at": "2026-09-08T17:19:54",
-    "updated_at": "2026-09-18T12:18:52"
-  },
-  {
-    "name": "agent-isles",
-    "full_name": "Qiuner/agent-isles",
-    "description": "An explorable island world to learn AI coding and build real projects with AI agents. Powered by DeepSeek Harness.",
-    "url": "https://github.com/Qiuner/agent-isles",
-    "stars": 164,
-    "daily_stars": 30,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "ai-coding",
-      "deepseek",
-      "developer-tools",
-      "gamification",
-      "godot",
-      "learn-to-code",
-      "vibe-coding"
-    ],
-    "created_at": "2026-09-14T10:50:30",
-    "updated_at": "2026-09-18T12:35:11"
-  },
-  {
-    "name": "MotionClone",
-    "full_name": "blixvip/MotionClone",
-    "description": "Turn reference videos into editable motion graphics with Codex + ChatGPT. Compare, customize, and export MP4s or HyperFrames projects. Local Windows app + online studio.",
-    "url": "https://github.com/blixvip/MotionClone",
-    "stars": 219,
-    "daily_stars": 20,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "ai-video",
-      "animation",
-      "chatgpt",
-      "codex",
-      "demo-videos",
-      "hyperframes",
-      "launch-videos",
-      "motion-graphics",
-      "python",
-      "svg",
-      "video",
-      "video-editing"
-    ],
-    "created_at": "2026-09-10T02:29:35",
-    "updated_at": "2026-09-18T13:02:20"
-  },
-  {
-    "name": "ms-cookbook",
-    "full_name": "modelscope/ms-cookbook",
-    "description": "魔搭紫皮书｜ModelScope Cookbook：面向开发者的开源模型应用实战指南，覆盖模型选型、推理、微调、评测、RAG、Agent 与 AIGC，从跑通第一个模型到构建实际应用。",
-    "url": "https://github.com/modelscope/ms-cookbook",
-    "stars": 307,
-    "daily_stars": 19,
-    "language": "HTML",
-    "topics": [
-      "ai-agents",
-      "cookbook",
-      "diffusion-models",
-      "fine-tuning",
-      "generative-ai",
-      "llm",
-      "mcp",
-      "model-evaluation",
-      "modelscope",
-      "rag"
-    ],
-    "created_at": "2026-09-11T14:27:35",
-    "updated_at": "2026-09-18T12:36:41"
+    "updated_at": "2026-09-18T18:58:47"
   },
   {
     "name": "jev-review",
     "full_name": "NiazMorshed2007/jev-review",
     "description": "Local-first MCP plugin for continuous software-quality review by AI coding agents, powered by Jev.",
     "url": "https://github.com/NiazMorshed2007/jev-review",
-    "stars": 102,
-    "daily_stars": 14,
+    "stars": 114,
+    "daily_stars": 12,
     "language": "TypeScript",
     "topics": [
       "agent-plugin",
@@ -229,6 +226,6 @@
       "typescript"
     ],
     "created_at": "2026-09-17T05:24:51",
-    "updated_at": "2026-09-18T12:48:52"
+    "updated_at": "2026-09-18T18:29:29"
   }
 ]
