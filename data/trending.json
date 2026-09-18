@@ -4,8 +4,8 @@
     "full_name": "Human-Agent-Society/reef",
     "description": "Continual learning infra for self-improving agents",
     "url": "https://github.com/Human-Agent-Society/reef",
-    "stars": 3112,
-    "daily_stars": 71,
+    "stars": 3384,
+    "daily_stars": 272,
     "language": "Python",
     "topics": [
       "agent-infrastructure",
@@ -18,15 +18,15 @@
       "self-improving-agents"
     ],
     "created_at": "2026-08-31T01:39:18",
-    "updated_at": "2026-09-17T22:58:16"
+    "updated_at": "2026-09-18T04:55:25"
   },
   {
     "name": "codex-with-chatgpt",
     "full_name": "XiaoDuoYa/codex-with-chatgpt",
     "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
     "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-    "stars": 5192,
-    "daily_stars": 14,
+    "stars": 5288,
+    "daily_stars": 96,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -37,71 +37,129 @@
       "oauth"
     ],
     "created_at": "2026-08-28T12:57:24",
-    "updated_at": "2026-09-17T22:48:39"
+    "updated_at": "2026-09-18T04:46:26"
   },
   {
-    "name": "typesafe-computer-use",
-    "full_name": "awlevin/typesafe-computer-use",
-    "description": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.",
-    "url": "https://github.com/awlevin/typesafe-computer-use",
-    "stars": 166,
-    "daily_stars": 9,
+    "name": "FrontierAgent",
+    "full_name": "ApodexAI/FrontierAgent",
+    "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+    "url": "https://github.com/ApodexAI/FrontierAgent",
+    "stars": 3520,
+    "daily_stars": 46,
     "language": "Python",
     "topics": [
+      "agent-orchestration",
+      "agentic-ai",
+      "agentic-framework",
       "ai-agents",
-      "automation",
-      "computer-use",
-      "macos",
-      "ocr",
-      "typesafe"
+      "harness",
+      "multi-agent",
+      "terminal-agent",
+      "tui"
     ],
-    "created_at": "2026-09-16T17:48:45",
-    "updated_at": "2026-09-17T22:29:16"
+    "created_at": "2026-08-22T05:07:35",
+    "updated_at": "2026-09-18T04:54:45"
   },
   {
-    "name": "open-steps",
-    "full_name": "kharmanskyi/open-steps",
-    "description": "Skills that translate your coding agent's output into plain language: honest reports, straight verdicts, steps you can follow. MIT.",
-    "url": "https://github.com/kharmanskyi/open-steps",
-    "stars": 573,
-    "daily_stars": 8,
-    "language": "Shell",
+    "name": "ms-cookbook",
+    "full_name": "modelscope/ms-cookbook",
+    "description": "魔搭紫皮书｜ModelScope Cookbook：面向开发者的开源模型应用实战指南，覆盖模型选型、推理、微调、评测、RAG、Agent 与 AIGC，从跑通第一个模型到构建实际应用。",
+    "url": "https://github.com/modelscope/ms-cookbook",
+    "stars": 288,
+    "daily_stars": 22,
+    "language": "HTML",
     "topics": [
-      "agent-skill",
-      "agent-skills",
       "ai-agents",
-      "claude-code",
-      "claude-code-plugin",
-      "claude-code-skills",
-      "claude-skill",
-      "prompt-optimization",
-      "vibe-coding"
+      "cookbook",
+      "diffusion-models",
+      "fine-tuning",
+      "generative-ai",
+      "llm",
+      "mcp",
+      "model-evaluation",
+      "modelscope",
+      "rag"
     ],
-    "created_at": "2026-08-25T14:24:24",
-    "updated_at": "2026-09-17T22:24:19"
+    "created_at": "2026-09-11T14:27:35",
+    "updated_at": "2026-09-18T03:45:38"
   },
   {
-    "name": "monid",
-    "full_name": "monid-ai/monid",
-    "description": "Monid - OpenRouter for agent tools",
-    "url": "https://github.com/monid-ai/monid",
-    "stars": 276,
-    "daily_stars": 8,
+    "name": "agent-isles",
+    "full_name": "Qiuner/agent-isles",
+    "description": "An explorable island world to learn AI coding and build real projects with AI agents. Powered by DeepSeek Harness.",
+    "url": "https://github.com/Qiuner/agent-isles",
+    "stars": 134,
+    "daily_stars": 18,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "developer-tools"
+      "ai-coding",
+      "deepseek",
+      "developer-tools",
+      "gamification",
+      "godot",
+      "learn-to-code",
+      "vibe-coding"
     ],
-    "created_at": "2026-08-26T03:45:18",
-    "updated_at": "2026-09-17T22:47:18"
+    "created_at": "2026-09-14T10:50:30",
+    "updated_at": "2026-09-18T04:24:19"
+  },
+  {
+    "name": "awesome-typesafe",
+    "full_name": "AbdelStark/awesome-typesafe",
+    "description": "A curated list of official resources and community projects for TypeSafe, System One models, and Jev.",
+    "url": "https://github.com/AbdelStark/awesome-typesafe",
+    "stars": 81,
+    "daily_stars": 16,
+    "language": "CSS",
+    "topics": [
+      "ai-agents",
+      "awesome-list",
+      "jev",
+      "llm",
+      "machine-learning",
+      "structured-output",
+      "system-one-models",
+      "typesafe"
+    ],
+    "created_at": "2026-09-17T06:56:37",
+    "updated_at": "2026-09-18T04:59:57"
+  },
+  {
+    "name": "jev-review",
+    "full_name": "NiazMorshed2007/jev-review",
+    "description": "Local-first MCP plugin for continuous software-quality review by AI coding agents, powered by Jev.",
+    "url": "https://github.com/NiazMorshed2007/jev-review",
+    "stars": 88,
+    "daily_stars": 15,
+    "language": "TypeScript",
+    "topics": [
+      "agent-plugin",
+      "ai-agents",
+      "claude-code",
+      "code-review",
+      "codex",
+      "coding-agents",
+      "cursor",
+      "developer-tools",
+      "jev",
+      "local-first",
+      "mcp",
+      "model-context-protocol",
+      "opencode",
+      "software-quality",
+      "typescript"
+    ],
+    "created_at": "2026-09-17T05:24:51",
+    "updated_at": "2026-09-18T04:50:48"
   },
   {
     "name": "anything2explainer",
     "full_name": "Vincentwei1021/anything2explainer",
     "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
     "url": "https://github.com/Vincentwei1021/anything2explainer",
-    "stars": 1578,
-    "daily_stars": 7,
+    "stars": 1590,
+    "daily_stars": 12,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -124,64 +182,15 @@
       "video-generation"
     ],
     "created_at": "2026-09-08T17:19:54",
-    "updated_at": "2026-09-17T22:39:46"
-  },
-  {
-    "name": "aside-codemode",
-    "full_name": "lidge-jun/aside-codemode",
-    "description": "One call where Aside used to spend fifty — rg-backed search, Aside-shaped file tools, and batched browser work inside a single sandboxed JavaScript block. On a real folder, 55s of find+grep became 1s.",
-    "url": "https://github.com/lidge-jun/aside-codemode",
-    "stars": 108,
-    "daily_stars": 6,
-    "language": "JavaScript",
-    "topics": [
-      "agent-tools",
-      "ai-agents",
-      "aside",
-      "browser-agent",
-      "browser-automation",
-      "cli",
-      "code-mode",
-      "codex",
-      "developer-tools",
-      "llm-tools",
-      "nodejs",
-      "npm-package",
-      "playwright",
-      "ripgrep",
-      "sandbox"
-    ],
-    "created_at": "2026-09-13T09:08:26",
-    "updated_at": "2026-09-17T21:55:51"
-  },
-  {
-    "name": "FrontierAgent",
-    "full_name": "ApodexAI/FrontierAgent",
-    "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
-    "url": "https://github.com/ApodexAI/FrontierAgent",
-    "stars": 3474,
-    "daily_stars": 5,
-    "language": "Python",
-    "topics": [
-      "agent-orchestration",
-      "agentic-ai",
-      "agentic-framework",
-      "ai-agents",
-      "harness",
-      "multi-agent",
-      "terminal-agent",
-      "tui"
-    ],
-    "created_at": "2026-08-22T05:07:35",
-    "updated_at": "2026-09-17T22:46:03"
+    "updated_at": "2026-09-18T04:14:05"
   },
   {
     "name": "MotionClone",
     "full_name": "blixvip/MotionClone",
     "description": "Turn reference videos into editable motion graphics with Codex + ChatGPT. Compare, customize, and export MP4s or HyperFrames projects. Local Windows app + online studio.",
     "url": "https://github.com/blixvip/MotionClone",
-    "stars": 189,
-    "daily_stars": 5,
+    "stars": 199,
+    "daily_stars": 10,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -199,27 +208,25 @@
       "video-editing"
     ],
     "created_at": "2026-09-10T02:29:35",
-    "updated_at": "2026-09-17T22:18:05"
+    "updated_at": "2026-09-18T04:39:39"
   },
   {
-    "name": "awesome-typesafe",
-    "full_name": "AbdelStark/awesome-typesafe",
-    "description": "A curated list of official resources and community projects for TypeSafe, System One models, and Jev.",
-    "url": "https://github.com/AbdelStark/awesome-typesafe",
-    "stars": 65,
-    "daily_stars": 5,
-    "language": "CSS",
+    "name": "typesafe-computer-use",
+    "full_name": "awlevin/typesafe-computer-use",
+    "description": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.",
+    "url": "https://github.com/awlevin/typesafe-computer-use",
+    "stars": 174,
+    "daily_stars": 8,
+    "language": "Python",
     "topics": [
       "ai-agents",
-      "awesome-list",
-      "jev",
-      "llm",
-      "machine-learning",
-      "structured-output",
-      "system-one-models",
+      "automation",
+      "computer-use",
+      "macos",
+      "ocr",
       "typesafe"
     ],
-    "created_at": "2026-09-17T06:56:37",
-    "updated_at": "2026-09-17T21:55:22"
+    "created_at": "2026-09-16T17:48:45",
+    "updated_at": "2026-09-18T03:03:40"
   }
 ]
