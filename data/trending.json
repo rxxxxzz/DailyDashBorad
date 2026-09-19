@@ -1,11 +1,30 @@
 [
   {
+    "name": "typesafe-computer-use",
+    "full_name": "awlevin/typesafe-computer-use",
+    "description": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.",
+    "url": "https://github.com/awlevin/typesafe-computer-use",
+    "stars": 400,
+    "daily_stars": 149,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "computer-use",
+      "macos",
+      "ocr",
+      "typesafe"
+    ],
+    "created_at": "2026-09-16T17:48:45",
+    "updated_at": "2026-09-19T12:07:43"
+  },
+  {
     "name": "FrontierAgent",
     "full_name": "ApodexAI/FrontierAgent",
     "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
     "url": "https://github.com/ApodexAI/FrontierAgent",
-    "stars": 3904,
-    "daily_stars": 85,
+    "stars": 4004,
+    "daily_stars": 100,
     "language": "Python",
     "topics": [
       "agent-orchestration",
@@ -18,34 +37,126 @@
       "tui"
     ],
     "created_at": "2026-08-22T05:07:35",
-    "updated_at": "2026-09-19T04:49:07"
+    "updated_at": "2026-09-19T12:35:46"
   },
   {
-    "name": "typesafe-computer-use",
-    "full_name": "awlevin/typesafe-computer-use",
-    "description": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.",
-    "url": "https://github.com/awlevin/typesafe-computer-use",
-    "stars": 251,
-    "daily_stars": 36,
+    "name": "reef",
+    "full_name": "Human-Agent-Society/reef",
+    "description": "Continual learning infra for self-improving agents",
+    "url": "https://github.com/Human-Agent-Society/reef",
+    "stars": 3626,
+    "daily_stars": 61,
     "language": "Python",
     "topics": [
+      "agent-infrastructure",
       "ai-agents",
-      "automation",
-      "computer-use",
-      "macos",
-      "ocr",
+      "continual-learning",
+      "inference",
+      "llm",
+      "llm-training",
+      "reinforcement-learning",
+      "self-improving-agents"
+    ],
+    "created_at": "2026-08-31T01:39:18",
+    "updated_at": "2026-09-19T12:37:40"
+  },
+  {
+    "name": "codex-with-chatgpt",
+    "full_name": "XiaoDuoYa/codex-with-chatgpt",
+    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+    "stars": 5530,
+    "daily_stars": 56,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "codex",
+      "mcp",
+      "model-context-protocol",
+      "oauth"
+    ],
+    "created_at": "2026-08-28T12:57:24",
+    "updated_at": "2026-09-19T12:32:49"
+  },
+  {
+    "name": "anything2explainer",
+    "full_name": "Vincentwei1021/anything2explainer",
+    "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
+    "url": "https://github.com/Vincentwei1021/anything2explainer",
+    "stars": 1703,
+    "daily_stars": 53,
+    "language": "TypeScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-video",
+      "claude-code",
+      "claude-code-skill",
+      "codex",
+      "edge-tts",
+      "educational-video",
+      "explainer-video",
+      "kokoro",
+      "motion-graphics",
+      "multi-agent",
+      "react",
+      "remotion",
+      "text-to-video",
+      "tts",
+      "typescript",
+      "video-generation"
+    ],
+    "created_at": "2026-09-08T17:19:54",
+    "updated_at": "2026-09-19T12:31:33"
+  },
+  {
+    "name": "awesome-typesafe",
+    "full_name": "AbdelStark/awesome-typesafe",
+    "description": "A curated list of official resources and community projects for TypeSafe, System One models, and Jev.",
+    "url": "https://github.com/AbdelStark/awesome-typesafe",
+    "stars": 293,
+    "daily_stars": 44,
+    "language": "CSS",
+    "topics": [
+      "ai-agents",
+      "awesome-list",
+      "jev",
+      "llm",
+      "machine-learning",
+      "structured-output",
+      "system-one-models",
       "typesafe"
     ],
-    "created_at": "2026-09-16T17:48:45",
-    "updated_at": "2026-09-19T04:48:57"
+    "created_at": "2026-09-17T06:56:37",
+    "updated_at": "2026-09-19T12:31:43"
+  },
+  {
+    "name": "clearai-dsh",
+    "full_name": "Clearailhc/clearai-dsh",
+    "description": "ClearAI is a native DSH plugin that brings the Epistemic Loop to DeepSeek Harness.",
+    "url": "https://github.com/Clearailhc/clearai-dsh",
+    "stars": 125,
+    "daily_stars": 43,
+    "language": "JavaScript",
+    "topics": [
+      "agent-preset",
+      "ai-agents",
+      "deepseek-harness",
+      "dsh-plugin",
+      "epistemic-loop",
+      "scientific-discovery"
+    ],
+    "created_at": "2026-09-12T12:58:44",
+    "updated_at": "2026-09-19T12:37:20"
   },
   {
     "name": "open-steps",
     "full_name": "kharmanskyi/open-steps",
     "description": "Skills that translate your coding agent's output into plain language: honest reports, straight verdicts, steps you can follow. MIT.",
     "url": "https://github.com/kharmanskyi/open-steps",
-    "stars": 618,
-    "daily_stars": 33,
+    "stars": 658,
+    "daily_stars": 40,
     "language": "Shell",
     "topics": [
       "agent-skill",
@@ -59,76 +170,15 @@
       "vibe-coding"
     ],
     "created_at": "2026-08-25T14:24:24",
-    "updated_at": "2026-09-19T04:47:35"
-  },
-  {
-    "name": "codex-with-chatgpt",
-    "full_name": "XiaoDuoYa/codex-with-chatgpt",
-    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-    "stars": 5474,
-    "daily_stars": 28,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "chatgpt",
-      "codex",
-      "mcp",
-      "model-context-protocol",
-      "oauth"
-    ],
-    "created_at": "2026-08-28T12:57:24",
-    "updated_at": "2026-09-19T04:10:41"
-  },
-  {
-    "name": "awesome-typesafe",
-    "full_name": "AbdelStark/awesome-typesafe",
-    "description": "A curated list of official resources and community projects for TypeSafe, System One models, and Jev.",
-    "url": "https://github.com/AbdelStark/awesome-typesafe",
-    "stars": 249,
-    "daily_stars": 25,
-    "language": "CSS",
-    "topics": [
-      "ai-agents",
-      "awesome-list",
-      "jev",
-      "llm",
-      "machine-learning",
-      "structured-output",
-      "system-one-models",
-      "typesafe"
-    ],
-    "created_at": "2026-09-17T06:56:37",
-    "updated_at": "2026-09-19T04:52:30"
-  },
-  {
-    "name": "oral-paper-skill",
-    "full_name": "Adkid-Zephyr/oral-paper-skill",
-    "description": "Distilled research standards from recent ICLR, ICML, and NeurIPS Oral papers — a practical skill for paper storytelling, evidence, and experiment design.",
-    "url": "https://github.com/Adkid-Zephyr/oral-paper-skill",
-    "stars": 132,
-    "daily_stars": 18,
-    "language": "Python",
-    "topics": [
-      "academic-writing",
-      "claude-code",
-      "codex-skills",
-      "iclr",
-      "icml",
-      "machine-learning",
-      "neurips",
-      "research"
-    ],
-    "created_at": "2026-09-02T22:51:41",
-    "updated_at": "2026-09-19T04:51:01"
+    "updated_at": "2026-09-19T12:32:06"
   },
   {
     "name": "awesome-jev",
     "full_name": "cobanov/awesome-jev",
     "description": "A curated, source-backed list of projects built with Jev, TypeSafe AI's System One model for typed decisions.",
     "url": "https://github.com/cobanov/awesome-jev",
-    "stars": 127,
-    "daily_stars": 17,
+    "stars": 157,
+    "daily_stars": 30,
     "language": null,
     "topics": [
       "ai-agents",
@@ -145,66 +195,27 @@
       "typesafe-ai"
     ],
     "created_at": "2026-09-18T10:12:18",
-    "updated_at": "2026-09-19T04:40:25"
+    "updated_at": "2026-09-19T12:32:45"
   },
   {
-    "name": "agent-isles",
-    "full_name": "Qiuner/agent-isles",
-    "description": "An explorable island world to learn AI coding and build real projects with AI agents. Powered by DeepSeek Harness.",
-    "url": "https://github.com/Qiuner/agent-isles",
-    "stars": 197,
-    "daily_stars": 13,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "ai-coding",
-      "deepseek",
-      "developer-tools",
-      "gamification",
-      "godot",
-      "learn-to-code",
-      "vibe-coding"
-    ],
-    "created_at": "2026-09-14T10:50:30",
-    "updated_at": "2026-09-19T04:29:54"
-  },
-  {
-    "name": "pcb-layout-design",
-    "full_name": "zhbi98/pcb-layout-design",
-    "description": "【Codex PCB Layout Skill】GPT-6  Astra x KiCad10. PCB 自动布线 Skill",
-    "url": "https://github.com/zhbi98/pcb-layout-design",
-    "stars": 96,
-    "daily_stars": 12,
-    "language": null,
-    "topics": [
-      "ai-agents",
-      "pcb",
-      "pcb-design",
-      "pcb-layout",
-      "skills"
-    ],
-    "created_at": "2026-09-13T07:57:11",
-    "updated_at": "2026-09-19T02:06:31"
-  },
-  {
-    "name": "reef",
-    "full_name": "Human-Agent-Society/reef",
-    "description": "Continual learning infra for self-improving agents",
-    "url": "https://github.com/Human-Agent-Society/reef",
-    "stars": 3565,
-    "daily_stars": 11,
+    "name": "oral-paper-skill",
+    "full_name": "Adkid-Zephyr/oral-paper-skill",
+    "description": "Distilled research standards from recent ICLR, ICML, and NeurIPS Oral papers — a practical skill for paper storytelling, evidence, and experiment design.",
+    "url": "https://github.com/Adkid-Zephyr/oral-paper-skill",
+    "stars": 153,
+    "daily_stars": 21,
     "language": "Python",
     "topics": [
-      "agent-infrastructure",
-      "ai-agents",
-      "continual-learning",
-      "inference",
-      "llm",
-      "llm-training",
-      "reinforcement-learning",
-      "self-improving-agents"
+      "academic-writing",
+      "claude-code",
+      "codex-skills",
+      "iclr",
+      "icml",
+      "machine-learning",
+      "neurips",
+      "research"
     ],
-    "created_at": "2026-08-31T01:39:18",
-    "updated_at": "2026-09-19T04:37:08"
+    "created_at": "2026-09-02T22:51:41",
+    "updated_at": "2026-09-19T12:36:48"
   }
 ]
