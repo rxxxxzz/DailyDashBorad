@@ -4,8 +4,8 @@
     "full_name": "mizorewww/laya-mlx",
     "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
     "url": "https://github.com/mizorewww/laya-mlx",
-    "stars": 643,
-    "daily_stars": 516,
+    "stars": 1315,
+    "daily_stars": 672,
     "language": "Python",
     "topics": [
       "apple-silicon",
@@ -20,15 +20,15 @@
       "typed-decisions"
     ],
     "created_at": "2026-09-19T13:50:26",
-    "updated_at": "2026-09-20T13:09:52"
+    "updated_at": "2026-09-20T18:54:59"
   },
   {
     "name": "typesafe-computer-use",
     "full_name": "awlevin/typesafe-computer-use",
     "description": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.",
     "url": "https://github.com/awlevin/typesafe-computer-use",
-    "stars": 574,
-    "daily_stars": 40,
+    "stars": 588,
+    "daily_stars": 14,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -39,15 +39,15 @@
       "typesafe"
     ],
     "created_at": "2026-09-16T17:48:45",
-    "updated_at": "2026-09-20T12:52:28"
+    "updated_at": "2026-09-20T18:14:05"
   },
   {
     "name": "awesome-typesafe",
     "full_name": "AbdelStark/awesome-typesafe",
     "description": "A curated list of official resources and community projects for TypeSafe, System One models, and Jev.",
     "url": "https://github.com/AbdelStark/awesome-typesafe",
-    "stars": 373,
-    "daily_stars": 24,
+    "stars": 385,
+    "daily_stars": 12,
     "language": "CSS",
     "topics": [
       "ai-agents",
@@ -60,14 +60,14 @@
       "typesafe"
     ],
     "created_at": "2026-09-17T06:56:37",
-    "updated_at": "2026-09-20T12:59:56"
+    "updated_at": "2026-09-20T17:53:51"
   },
   {
     "name": "awesome-typesafe",
     "full_name": "AbdelStark/awesome-typesafe",
     "description": "A curated list of official resources and community projects for TypeSafe, System One models, and Jev.",
     "url": "https://github.com/AbdelStark/awesome-typesafe",
-    "stars": 373,
+    "stars": 385,
     "daily_stars": 0,
     "language": "CSS",
     "topics": [
@@ -81,15 +81,15 @@
       "typesafe"
     ],
     "created_at": "2026-09-17T06:56:37",
-    "updated_at": "2026-09-20T12:59:56"
+    "updated_at": "2026-09-20T17:53:51"
   },
   {
     "name": "awesome-jev",
     "full_name": "cobanov/awesome-jev",
     "description": "A curated, source-backed list of projects built with Jev, TypeSafe AI's System One model for typed decisions.",
     "url": "https://github.com/cobanov/awesome-jev",
-    "stars": 242,
-    "daily_stars": 26,
+    "stars": 253,
+    "daily_stars": 11,
     "language": null,
     "topics": [
       "ai-agents",
@@ -106,15 +106,15 @@
       "typesafe-ai"
     ],
     "created_at": "2026-09-18T10:12:18",
-    "updated_at": "2026-09-20T12:24:03"
+    "updated_at": "2026-09-20T18:36:08"
   },
   {
     "name": "agent-isles",
     "full_name": "Qiuner/agent-isles",
     "description": "An explorable island world to learn AI coding and build real projects with AI agents. Powered by DeepSeek Harness.",
     "url": "https://github.com/Qiuner/agent-isles",
-    "stars": 232,
-    "daily_stars": 10,
+    "stars": 236,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -127,15 +127,56 @@
       "vibe-coding"
     ],
     "created_at": "2026-09-14T10:50:30",
-    "updated_at": "2026-09-20T12:55:42"
+    "updated_at": "2026-09-20T17:57:12"
+  },
+  {
+    "name": "astra-flash-orchestrator",
+    "full_name": "ethanplusai/astra-flash-orchestrator",
+    "description": "Astra plans and reviews; DeepSeek Flash builds. A native Codex workflow with phased tasks, verification, safe installation and reversible setup.",
+    "url": "https://github.com/ethanplusai/astra-flash-orchestrator",
+    "stars": 210,
+    "daily_stars": 50,
+    "language": "Python",
+    "topics": [
+      "agent-orchestration",
+      "ai-agents",
+      "codex",
+      "codex-skills",
+      "deepseek",
+      "developer-tools"
+    ],
+    "created_at": "2026-09-17T05:42:31",
+    "updated_at": "2026-09-20T18:37:38"
+  },
+  {
+    "name": "awesome-jev-projects",
+    "full_name": "logicrw/awesome-jev-projects",
+    "description": "Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
+    "url": "https://github.com/logicrw/awesome-jev-projects",
+    "stars": 206,
+    "daily_stars": 26,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "awesome",
+      "awesome-list",
+      "decision-model",
+      "developer-tools",
+      "jev",
+      "jev-model",
+      "system-one",
+      "typesafe-ai"
+    ],
+    "created_at": "2026-09-18T06:41:50",
+    "updated_at": "2026-09-20T18:54:14"
   },
   {
     "name": "geo-sleuth",
     "full_name": "Oldcircle/geo-sleuth",
     "description": "An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CLI, OpenCode and GitHub Copilot.",
     "url": "https://github.com/Oldcircle/geo-sleuth",
-    "stars": 181,
-    "daily_stars": 41,
+    "stars": 194,
+    "daily_stars": 13,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -158,37 +199,15 @@
       "satellite-imagery"
     ],
     "created_at": "2026-09-18T08:51:34",
-    "updated_at": "2026-09-20T13:06:04"
-  },
-  {
-    "name": "awesome-jev-projects",
-    "full_name": "logicrw/awesome-jev-projects",
-    "description": "Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
-    "url": "https://github.com/logicrw/awesome-jev-projects",
-    "stars": 180,
-    "daily_stars": 51,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "awesome",
-      "awesome-list",
-      "decision-model",
-      "developer-tools",
-      "jev",
-      "jev-model",
-      "system-one",
-      "typesafe-ai"
-    ],
-    "created_at": "2026-09-18T06:41:50",
-    "updated_at": "2026-09-20T13:09:35"
+    "updated_at": "2026-09-20T18:22:15"
   },
   {
     "name": "ToolReplay",
     "full_name": "Matthew0822/ToolReplay",
     "description": "Audit AI agent tool-call transcripts: hash-chain sealing, deterministic replay, and scope overreach checks. Dependency-free Python CLI.",
     "url": "https://github.com/Matthew0822/ToolReplay",
-    "stars": 180,
-    "daily_stars": 0,
+    "stars": 181,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -205,34 +224,6 @@
       "tool-call"
     ],
     "created_at": "2026-09-14T10:11:00",
-    "updated_at": "2026-09-18T16:34:26"
-  },
-  {
-    "name": "jev-review",
-    "full_name": "NiazMorshed2007/jev-review",
-    "description": "Local-first MCP plugin for continuous software-quality review by AI coding agents, powered by Jev.",
-    "url": "https://github.com/NiazMorshed2007/jev-review",
-    "stars": 177,
-    "daily_stars": 7,
-    "language": "TypeScript",
-    "topics": [
-      "agent-plugin",
-      "ai-agents",
-      "claude-code",
-      "code-review",
-      "codex",
-      "coding-agents",
-      "cursor",
-      "developer-tools",
-      "jev",
-      "local-first",
-      "mcp",
-      "model-context-protocol",
-      "opencode",
-      "software-quality",
-      "typescript"
-    ],
-    "created_at": "2026-09-17T05:24:51",
-    "updated_at": "2026-09-20T09:58:42"
+    "updated_at": "2026-09-20T16:44:56"
   }
 ]

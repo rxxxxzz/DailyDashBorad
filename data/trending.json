@@ -4,8 +4,8 @@
     "full_name": "mizorewww/laya-mlx",
     "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
     "url": "https://github.com/mizorewww/laya-mlx",
-    "stars": 643,
-    "daily_stars": 516,
+    "stars": 1315,
+    "daily_stars": 672,
     "language": "Python",
     "topics": [
       "apple-silicon",
@@ -20,36 +20,102 @@
       "typed-decisions"
     ],
     "created_at": "2026-09-19T13:50:26",
-    "updated_at": "2026-09-20T13:09:52"
+    "updated_at": "2026-09-20T18:54:59"
   },
   {
-    "name": "reef",
-    "full_name": "Human-Agent-Society/reef",
-    "description": "Continual learning infra for self-improving agents",
-    "url": "https://github.com/Human-Agent-Society/reef",
-    "stars": 3761,
-    "daily_stars": 86,
+    "name": "von",
+    "full_name": "wfzyx/von",
+    "description": "The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev.",
+    "url": "https://github.com/wfzyx/von",
+    "stars": 143,
+    "daily_stars": 61,
     "language": "Python",
     "topics": [
-      "agent-infrastructure",
-      "ai-agents",
-      "continual-learning",
-      "inference",
-      "llm",
-      "llm-training",
-      "reinforcement-learning",
-      "self-improving-agents"
+      "decision-model",
+      "jev",
+      "machine-learning",
+      "python",
+      "rlcd",
+      "system-one",
+      "typesafe"
     ],
-    "created_at": "2026-08-31T01:39:18",
-    "updated_at": "2026-09-20T13:01:30"
+    "created_at": "2026-09-18T05:03:47",
+    "updated_at": "2026-09-20T18:50:59"
+  },
+  {
+    "name": "ai-employees",
+    "full_name": "markfulton/ai-employees",
+    "description": "Open source AI Employees. 8 scheduled business roles, 60 routines, on Claude Code and 10 other harnesses. They drive your browser the way you do and improve every run. You own the files.",
+    "url": "https://github.com/markfulton/ai-employees",
+    "stars": 184,
+    "daily_stars": 56,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "ai-employee",
+      "ai-employees",
+      "antigravity",
+      "automation",
+      "claude-code",
+      "claude-skill",
+      "codex",
+      "hermes-agent",
+      "openclaw",
+      "opencode",
+      "scheduled-tasks",
+      "small-business"
+    ],
+    "created_at": "2026-09-02T18:47:36",
+    "updated_at": "2026-09-20T18:45:51"
+  },
+  {
+    "name": "astra-flash-orchestrator",
+    "full_name": "ethanplusai/astra-flash-orchestrator",
+    "description": "Astra plans and reviews; DeepSeek Flash builds. A native Codex workflow with phased tasks, verification, safe installation and reversible setup.",
+    "url": "https://github.com/ethanplusai/astra-flash-orchestrator",
+    "stars": 210,
+    "daily_stars": 50,
+    "language": "Python",
+    "topics": [
+      "agent-orchestration",
+      "ai-agents",
+      "codex",
+      "codex-skills",
+      "deepseek",
+      "developer-tools"
+    ],
+    "created_at": "2026-09-17T05:42:31",
+    "updated_at": "2026-09-20T18:37:38"
+  },
+  {
+    "name": "open-steps",
+    "full_name": "kharmanskyi/open-steps",
+    "description": "Skills that translate your coding agent's output into plain language: honest reports, straight verdicts, steps you can follow. MIT.",
+    "url": "https://github.com/kharmanskyi/open-steps",
+    "stars": 786,
+    "daily_stars": 30,
+    "language": "Shell",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-skills",
+      "claude-skill",
+      "prompt-optimization",
+      "vibe-coding"
+    ],
+    "created_at": "2026-08-25T14:24:24",
+    "updated_at": "2026-09-20T18:54:08"
   },
   {
     "name": "openJev-verdict-2.0",
     "full_name": "Heman10x-NGU/openJev-verdict-2.0",
     "description": "Calibrated 151M Non-Autoregressive Decision Engine beating TypeSafe Jev & Laya on LocalLLaMA/typed-decisions (77.10% acc, 0.0636 Brier, 0.0144 ECE)",
     "url": "https://github.com/Heman10x-NGU/openJev-verdict-2.0",
-    "stars": 136,
-    "daily_stars": 67,
+    "stars": 165,
+    "daily_stars": 29,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -74,34 +140,15 @@
       "webgpu"
     ],
     "created_at": "2026-09-19T12:14:46",
-    "updated_at": "2026-09-20T12:54:49"
-  },
-  {
-    "name": "codex-with-chatgpt",
-    "full_name": "XiaoDuoYa/codex-with-chatgpt",
-    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-    "stars": 5670,
-    "daily_stars": 64,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "chatgpt",
-      "codex",
-      "mcp",
-      "model-context-protocol",
-      "oauth"
-    ],
-    "created_at": "2026-08-28T12:57:24",
-    "updated_at": "2026-09-20T12:49:41"
+    "updated_at": "2026-09-20T18:37:31"
   },
   {
     "name": "awesome-jev-projects",
     "full_name": "logicrw/awesome-jev-projects",
     "description": "Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
     "url": "https://github.com/logicrw/awesome-jev-projects",
-    "stars": 180,
-    "daily_stars": 51,
+    "stars": 206,
+    "daily_stars": 26,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -115,15 +162,15 @@
       "typesafe-ai"
     ],
     "created_at": "2026-09-18T06:41:50",
-    "updated_at": "2026-09-20T13:09:35"
+    "updated_at": "2026-09-20T18:54:14"
   },
   {
     "name": "anything2explainer",
     "full_name": "Vincentwei1021/anything2explainer",
     "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
     "url": "https://github.com/Vincentwei1021/anything2explainer",
-    "stars": 1820,
-    "daily_stars": 46,
+    "stars": 1844,
+    "daily_stars": 24,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -146,15 +193,34 @@
       "video-generation"
     ],
     "created_at": "2026-09-08T17:19:54",
-    "updated_at": "2026-09-20T12:41:52"
+    "updated_at": "2026-09-20T18:54:03"
+  },
+  {
+    "name": "codex-with-chatgpt",
+    "full_name": "XiaoDuoYa/codex-with-chatgpt",
+    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+    "stars": 5690,
+    "daily_stars": 20,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "codex",
+      "mcp",
+      "model-context-protocol",
+      "oauth"
+    ],
+    "created_at": "2026-08-28T12:57:24",
+    "updated_at": "2026-09-20T18:03:50"
   },
   {
     "name": "clearai-dsh",
     "full_name": "Clearailhc/clearai-dsh",
     "description": "ClearAI is a native DSH plugin that brings the Epistemic Loop to DeepSeek Harness.",
     "url": "https://github.com/Clearailhc/clearai-dsh",
-    "stars": 235,
-    "daily_stars": 45,
+    "stars": 251,
+    "daily_stars": 16,
     "language": "JavaScript",
     "topics": [
       "agent-preset",
@@ -165,78 +231,6 @@
       "scientific-discovery"
     ],
     "created_at": "2026-09-12T12:58:44",
-    "updated_at": "2026-09-20T12:58:49"
-  },
-  {
-    "name": "open-steps",
-    "full_name": "kharmanskyi/open-steps",
-    "description": "Skills that translate your coding agent's output into plain language: honest reports, straight verdicts, steps you can follow. MIT.",
-    "url": "https://github.com/kharmanskyi/open-steps",
-    "stars": 756,
-    "daily_stars": 42,
-    "language": "Shell",
-    "topics": [
-      "agent-skill",
-      "agent-skills",
-      "ai-agents",
-      "claude-code",
-      "claude-code-plugin",
-      "claude-code-skills",
-      "claude-skill",
-      "prompt-optimization",
-      "vibe-coding"
-    ],
-    "created_at": "2026-08-25T14:24:24",
-    "updated_at": "2026-09-20T13:05:37"
-  },
-  {
-    "name": "geo-sleuth",
-    "full_name": "Oldcircle/geo-sleuth",
-    "description": "An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CLI, OpenCode and GitHub Copilot.",
-    "url": "https://github.com/Oldcircle/geo-sleuth",
-    "stars": 181,
-    "daily_stars": 41,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "claude-code",
-      "codex",
-      "computer-vision",
-      "cursor",
-      "gemini-cli",
-      "geoguessr",
-      "geoint",
-      "geolocation",
-      "github-copilot",
-      "image-geolocation",
-      "opencode",
-      "openstreetmap",
-      "osint",
-      "photo-geolocation",
-      "reverse-image-search",
-      "satellite-imagery"
-    ],
-    "created_at": "2026-09-18T08:51:34",
-    "updated_at": "2026-09-20T13:06:04"
-  },
-  {
-    "name": "typesafe-computer-use",
-    "full_name": "awlevin/typesafe-computer-use",
-    "description": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.",
-    "url": "https://github.com/awlevin/typesafe-computer-use",
-    "stars": 574,
-    "daily_stars": 40,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "automation",
-      "computer-use",
-      "macos",
-      "ocr",
-      "typesafe"
-    ],
-    "created_at": "2026-09-16T17:48:45",
-    "updated_at": "2026-09-20T12:52:28"
+    "updated_at": "2026-09-20T18:45:16"
   }
 ]
