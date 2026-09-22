@@ -4,8 +4,8 @@
     "full_name": "mizorewww/laya-mlx",
     "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
     "url": "https://github.com/mizorewww/laya-mlx",
-    "stars": 4237,
-    "daily_stars": 498,
+    "stars": 4977,
+    "daily_stars": 740,
     "language": "Python",
     "topics": [
       "apple-silicon",
@@ -20,34 +20,36 @@
       "typed-decisions"
     ],
     "created_at": "2026-09-19T13:50:26",
-    "updated_at": "2026-09-22T05:15:24"
+    "updated_at": "2026-09-22T13:32:40"
   },
   {
-    "name": "astra-flash-orchestrator",
-    "full_name": "ethanplusai/astra-flash-orchestrator",
-    "description": "Astra plans and reviews; DeepSeek Flash builds. A native Codex workflow with phased tasks, verification, safe installation and reversible setup.",
-    "url": "https://github.com/ethanplusai/astra-flash-orchestrator",
-    "stars": 495,
-    "daily_stars": 52,
+    "name": "reef",
+    "full_name": "Human-Agent-Society/reef",
+    "description": "Continual learning infra for self-improving agents",
+    "url": "https://github.com/Human-Agent-Society/reef",
+    "stars": 4045,
+    "daily_stars": 92,
     "language": "Python",
     "topics": [
-      "agent-orchestration",
+      "agent-infrastructure",
       "ai-agents",
-      "codex",
-      "codex-skills",
-      "deepseek",
-      "developer-tools"
+      "continual-learning",
+      "inference",
+      "llm",
+      "llm-training",
+      "reinforcement-learning",
+      "self-improving-agents"
     ],
-    "created_at": "2026-09-17T05:42:31",
-    "updated_at": "2026-09-22T05:12:33"
+    "created_at": "2026-08-31T01:39:18",
+    "updated_at": "2026-09-22T13:00:04"
   },
   {
     "name": "codex-with-chatgpt",
     "full_name": "XiaoDuoYa/codex-with-chatgpt",
     "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
     "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-    "stars": 5831,
-    "daily_stars": 35,
+    "stars": 5894,
+    "daily_stars": 63,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -58,15 +60,54 @@
       "oauth"
     ],
     "created_at": "2026-08-28T12:57:24",
-    "updated_at": "2026-09-22T04:53:35"
+    "updated_at": "2026-09-22T13:33:10"
+  },
+  {
+    "name": "astra-flash-orchestrator",
+    "full_name": "ethanplusai/astra-flash-orchestrator",
+    "description": "Astra plans and reviews; DeepSeek Flash builds. A native Codex workflow with phased tasks, verification, safe installation and reversible setup.",
+    "url": "https://github.com/ethanplusai/astra-flash-orchestrator",
+    "stars": 551,
+    "daily_stars": 56,
+    "language": "Python",
+    "topics": [
+      "agent-orchestration",
+      "ai-agents",
+      "codex",
+      "codex-skills",
+      "deepseek",
+      "developer-tools"
+    ],
+    "created_at": "2026-09-17T05:42:31",
+    "updated_at": "2026-09-22T13:24:02"
+  },
+  {
+    "name": "von",
+    "full_name": "wfzyx/von",
+    "description": "The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev.",
+    "url": "https://github.com/wfzyx/von",
+    "stars": 428,
+    "daily_stars": 49,
+    "language": "Python",
+    "topics": [
+      "decision-model",
+      "jev",
+      "machine-learning",
+      "python",
+      "rlcd",
+      "system-one",
+      "typesafe"
+    ],
+    "created_at": "2026-09-18T05:03:47",
+    "updated_at": "2026-09-22T13:23:23"
   },
   {
     "name": "topconf-paper-figure-gallery",
     "full_name": "qwdwqfwq/topconf-paper-figure-gallery",
     "description": "A searchable gallery of well-designed Figure 1 / teaser figures from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2025) — 2,298 curated figures for paper-overview inspiration. Pure static site.",
     "url": "https://github.com/qwdwqfwq/topconf-paper-figure-gallery",
-    "stars": 294,
-    "daily_stars": 30,
+    "stars": 335,
+    "daily_stars": 41,
     "language": "Python",
     "topics": [
       "aaai",
@@ -91,15 +132,80 @@
       "scientific-figures"
     ],
     "created_at": "2026-09-17T15:40:52",
-    "updated_at": "2026-09-22T05:10:48"
+    "updated_at": "2026-09-22T13:27:34"
+  },
+  {
+    "name": "MotionClone",
+    "full_name": "blixvip/MotionClone",
+    "description": "Turn reference videos into editable motion graphics with Codex + ChatGPT. Compare, customize, and export MP4s or HyperFrames projects. Local Windows app + online studio.",
+    "url": "https://github.com/blixvip/MotionClone",
+    "stars": 287,
+    "daily_stars": 38,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-video",
+      "animation",
+      "chatgpt",
+      "codex",
+      "demo-videos",
+      "hyperframes",
+      "launch-videos",
+      "motion-graphics",
+      "python",
+      "svg",
+      "video",
+      "video-editing"
+    ],
+    "created_at": "2026-09-10T02:29:35",
+    "updated_at": "2026-09-22T13:29:13"
+  },
+  {
+    "name": "typesafe-computer-use",
+    "full_name": "awlevin/typesafe-computer-use",
+    "description": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.",
+    "url": "https://github.com/awlevin/typesafe-computer-use",
+    "stars": 801,
+    "daily_stars": 35,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "computer-use",
+      "macos",
+      "ocr",
+      "typesafe"
+    ],
+    "created_at": "2026-09-16T17:48:45",
+    "updated_at": "2026-09-22T13:24:50"
+  },
+  {
+    "name": "cadence",
+    "full_name": "muellerberndt/cadence",
+    "description": "Decentralized neural networks that learn through symmetry breaking. No backprop, no frozen weights, modelled on biology.",
+    "url": "https://github.com/muellerberndt/cadence",
+    "stars": 69,
+    "daily_stars": 35,
+    "language": "Python",
+    "topics": [
+      "agi",
+      "distributed-systems",
+      "general-intelligence",
+      "machine-learning",
+      "neural-network",
+      "neuroscience",
+      "plasticity"
+    ],
+    "created_at": "2026-09-07T10:20:11",
+    "updated_at": "2026-09-22T12:16:58"
   },
   {
     "name": "ai-employees",
     "full_name": "markfulton/ai-employees",
     "description": "Open source AI Employees. 8 scheduled business roles, 60 routines, on Claude Code and 10 other harnesses. They drive your browser the way you do and improve every run. You own the files.",
     "url": "https://github.com/markfulton/ai-employees",
-    "stars": 349,
-    "daily_stars": 27,
+    "stars": 379,
+    "daily_stars": 30,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -117,110 +223,6 @@
       "small-business"
     ],
     "created_at": "2026-09-02T18:47:36",
-    "updated_at": "2026-09-22T05:10:16"
-  },
-  {
-    "name": "awesome-jev-projects",
-    "full_name": "logicrw/awesome-jev-projects",
-    "description": "Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
-    "url": "https://github.com/logicrw/awesome-jev-projects",
-    "stars": 335,
-    "daily_stars": 26,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "awesome",
-      "awesome-list",
-      "decision-model",
-      "developer-tools",
-      "jev",
-      "jev-model",
-      "system-one",
-      "typesafe-ai"
-    ],
-    "created_at": "2026-09-18T06:41:50",
-    "updated_at": "2026-09-22T04:59:37"
-  },
-  {
-    "name": "von",
-    "full_name": "wfzyx/von",
-    "description": "The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev.",
-    "url": "https://github.com/wfzyx/von",
-    "stars": 379,
-    "daily_stars": 23,
-    "language": "Python",
-    "topics": [
-      "decision-model",
-      "jev",
-      "machine-learning",
-      "python",
-      "rlcd",
-      "system-one",
-      "typesafe"
-    ],
-    "created_at": "2026-09-18T05:03:47",
-    "updated_at": "2026-09-22T04:52:09"
-  },
-  {
-    "name": "typesafe-computer-use",
-    "full_name": "awlevin/typesafe-computer-use",
-    "description": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.",
-    "url": "https://github.com/awlevin/typesafe-computer-use",
-    "stars": 766,
-    "daily_stars": 18,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "automation",
-      "computer-use",
-      "macos",
-      "ocr",
-      "typesafe"
-    ],
-    "created_at": "2026-09-16T17:48:45",
-    "updated_at": "2026-09-22T05:11:31"
-  },
-  {
-    "name": "open-steps",
-    "full_name": "kharmanskyi/open-steps",
-    "description": "Skills that translate your coding agent's output into plain language: honest reports, straight verdicts, steps you can follow. MIT.",
-    "url": "https://github.com/kharmanskyi/open-steps",
-    "stars": 836,
-    "daily_stars": 16,
-    "language": "Shell",
-    "topics": [
-      "agent-skill",
-      "agent-skills",
-      "ai-agents",
-      "claude-code",
-      "claude-code-plugin",
-      "claude-code-skills",
-      "claude-skill",
-      "prompt-optimization",
-      "vibe-coding"
-    ],
-    "created_at": "2026-08-25T14:24:24",
-    "updated_at": "2026-09-22T05:12:49"
-  },
-  {
-    "name": "reef",
-    "full_name": "Human-Agent-Society/reef",
-    "description": "Continual learning infra for self-improving agents",
-    "url": "https://github.com/Human-Agent-Society/reef",
-    "stars": 3953,
-    "daily_stars": 15,
-    "language": "Python",
-    "topics": [
-      "agent-infrastructure",
-      "ai-agents",
-      "continual-learning",
-      "inference",
-      "llm",
-      "llm-training",
-      "reinforcement-learning",
-      "self-improving-agents"
-    ],
-    "created_at": "2026-08-31T01:39:18",
-    "updated_at": "2026-09-22T05:13:53"
+    "updated_at": "2026-09-22T13:29:35"
   }
 ]
