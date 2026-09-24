@@ -4,8 +4,8 @@
     "full_name": "mikehasa/golive-skill",
     "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
     "url": "https://github.com/mikehasa/golive-skill",
-    "stars": 837,
-    "daily_stars": 209,
+    "stars": 874,
+    "daily_stars": 37,
     "language": "TypeScript",
     "topics": [
       "agent-skill",
@@ -30,15 +30,15 @@
       "vercel"
     ],
     "created_at": "2026-09-23T13:37:26",
-    "updated_at": "2026-09-24T20:02:26"
+    "updated_at": "2026-09-24T23:12:11"
   },
   {
     "name": "second-brain-os",
     "full_name": "undefined-ui/second-brain-os",
     "description": "An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.",
     "url": "https://github.com/undefined-ui/second-brain-os",
-    "stars": 385,
-    "daily_stars": 61,
+    "stars": 410,
+    "daily_stars": 25,
     "language": "HTML",
     "topics": [
       "agent-skills",
@@ -56,15 +56,43 @@
       "second-brain"
     ],
     "created_at": "2026-09-07T15:08:13",
-    "updated_at": "2026-09-24T20:02:24"
+    "updated_at": "2026-09-24T23:09:44"
+  },
+  {
+    "name": "assay",
+    "full_name": "awss1i/assay",
+    "description": "Find out if a generated web page actually works. No tests written, no LLM.",
+    "url": "https://github.com/awss1i/assay",
+    "stars": 94,
+    "daily_stars": 19,
+    "language": "HTML",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "browser-automation",
+      "claude-code",
+      "cli",
+      "code-generation",
+      "developer-tools",
+      "end-to-end-testing",
+      "llm",
+      "playwright",
+      "python",
+      "qa",
+      "test-automation",
+      "testing",
+      "ui-testing"
+    ],
+    "created_at": "2026-09-17T15:49:50",
+    "updated_at": "2026-09-24T22:32:35"
   },
   {
     "name": "laya-mlx",
     "full_name": "mizorewww/laya-mlx",
     "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
     "url": "https://github.com/mizorewww/laya-mlx",
-    "stars": 6198,
-    "daily_stars": 50,
+    "stars": 6214,
+    "daily_stars": 16,
     "language": "Python",
     "topics": [
       "apple-silicon",
@@ -79,116 +107,15 @@
       "typed-decisions"
     ],
     "created_at": "2026-09-19T13:50:26",
-    "updated_at": "2026-09-24T20:02:31"
-  },
-  {
-    "name": "esf",
-    "full_name": "mitkox/esf",
-    "description": "Self-hosted engineering software factory: Temporal, CubeSandbox agents, deterministic verification and durable evidence. MIT-licensed Machinist fork.",
-    "url": "https://github.com/mitkox/esf",
-    "stars": 121,
-    "daily_stars": 25,
-    "language": "Go",
-    "topics": [
-      "ai-agents",
-      "golang",
-      "self-hosted",
-      "software-factory",
-      "temporal"
-    ],
-    "created_at": "2026-09-19T16:07:54",
-    "updated_at": "2026-09-24T19:49:48"
-  },
-  {
-    "name": "cadence",
-    "full_name": "muellerberndt/cadence",
-    "description": "Decentralized neural networks that learn through symmetry breaking. No backprop, no frozen weights, modelled on biology.",
-    "url": "https://github.com/muellerberndt/cadence",
-    "stars": 297,
-    "daily_stars": 23,
-    "language": "Python",
-    "topics": [
-      "agi",
-      "distributed-systems",
-      "general-intelligence",
-      "machine-learning",
-      "neural-network",
-      "neuroscience",
-      "plasticity"
-    ],
-    "created_at": "2026-09-07T10:20:11",
-    "updated_at": "2026-09-24T19:54:07"
-  },
-  {
-    "name": "Real-Time-Smoke-Fire-Detection-System",
-    "full_name": "mirzayasirabdullahbaig07/Real-Time-Smoke-Fire-Detection-System",
-    "description": "This end-to-end Computer Vision application uses custom-trained YOLO11 weights to detect fire and smoke across multiple input sources, including images, videos, and live webcam streams.",
-    "url": "https://github.com/mirzayasirabdullahbaig07/Real-Time-Smoke-Fire-Detection-System",
-    "stars": 24,
-    "daily_stars": 19,
-    "language": "Jupyter Notebook",
-    "topics": [
-      "ai",
-      "computer-vision",
-      "cv",
-      "fire-detection",
-      "machine-learning",
-      "python",
-      "streamlit",
-      "yolo11"
-    ],
-    "created_at": "2026-09-13T13:51:30",
-    "updated_at": "2026-09-24T15:41:25"
-  },
-  {
-    "name": "Inbox2Action",
-    "full_name": "mirzayasirabdullahbaig07/Inbox2Action",
-    "description": "Inbox2Action is an autonomous, next-generation Taskmaster Agent operating inside an enterprise command center. Designed for the Taskmaster Track of the All Things Agentic Hackathon, it eliminates administrative friction by ingesting raw, unstructured inbound communications.",
-    "url": "https://github.com/mirzayasirabdullahbaig07/Inbox2Action",
-    "stars": 23,
-    "daily_stars": 18,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "coding",
-      "deep-learning",
-      "deployment",
-      "machine-learning",
-      "python",
-      "streamlit"
-    ],
-    "created_at": "2026-08-26T16:00:27",
-    "updated_at": "2026-09-24T15:41:30"
-  },
-  {
-    "name": "awesome-jev-projects",
-    "full_name": "logicrw/awesome-jev-projects",
-    "description": "Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
-    "url": "https://github.com/logicrw/awesome-jev-projects",
-    "stars": 497,
-    "daily_stars": 14,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "awesome",
-      "awesome-list",
-      "decision-model",
-      "developer-tools",
-      "jev",
-      "jev-model",
-      "system-one",
-      "typesafe-ai"
-    ],
-    "created_at": "2026-09-18T06:41:50",
-    "updated_at": "2026-09-24T19:53:00"
+    "updated_at": "2026-09-24T23:13:27"
   },
   {
     "name": "clearai-dsh",
     "full_name": "Clearailhc/clearai-dsh",
     "description": "ClearAI is a native DSH plugin that brings the Epistemic Loop to DeepSeek Harness.",
     "url": "https://github.com/Clearailhc/clearai-dsh",
-    "stars": 478,
-    "daily_stars": 13,
+    "stars": 486,
+    "daily_stars": 8,
     "language": "JavaScript",
     "topics": [
       "agent-preset",
@@ -199,15 +126,55 @@
       "scientific-discovery"
     ],
     "created_at": "2026-09-12T12:58:44",
-    "updated_at": "2026-09-24T19:42:34"
+    "updated_at": "2026-09-24T23:13:13"
+  },
+  {
+    "name": "esf",
+    "full_name": "mitkox/esf",
+    "description": "Self-hosted engineering software factory: Temporal, CubeSandbox agents, deterministic verification and durable evidence. MIT-licensed Machinist fork.",
+    "url": "https://github.com/mitkox/esf",
+    "stars": 128,
+    "daily_stars": 7,
+    "language": "Go",
+    "topics": [
+      "ai-agents",
+      "golang",
+      "self-hosted",
+      "software-factory",
+      "temporal"
+    ],
+    "created_at": "2026-09-19T16:07:54",
+    "updated_at": "2026-09-24T22:39:44"
+  },
+  {
+    "name": "herdr-gpui",
+    "full_name": "penso/herdr-gpui",
+    "description": "Native macOS client for Herdr, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.",
+    "url": "https://github.com/penso/herdr-gpui",
+    "stars": 176,
+    "daily_stars": 6,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "desktop-app",
+      "developer-tools",
+      "git-worktrees",
+      "gpui",
+      "herdr",
+      "macos",
+      "rust",
+      "terminal"
+    ],
+    "created_at": "2026-09-20T05:22:39",
+    "updated_at": "2026-09-24T23:05:04"
   },
   {
     "name": "sno-station",
     "full_name": "sno-ai/sno-station",
     "description": "Sno Station — your Claude Code and Codex working as one squad on your own machine. Shared encrypted memory, agent-to-agent messaging (Reach), squad skills for handoff and cross-vendor review, and a nightly loop that rewrites the agents' own skills with your approval. Open source, no daemon, no cloud required. Assembled in public.",
     "url": "https://github.com/sno-ai/sno-station",
-    "stars": 150,
-    "daily_stars": 13,
+    "stars": 156,
+    "daily_stars": 6,
     "language": "TypeScript",
     "topics": [
       "agent-communication",
@@ -232,6 +199,44 @@
       "typescript"
     ],
     "created_at": "2026-09-19T06:55:24",
-    "updated_at": "2026-09-24T19:59:09"
+    "updated_at": "2026-09-24T23:06:05"
+  },
+  {
+    "name": "von",
+    "full_name": "wfzyx/von",
+    "description": "The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev.",
+    "url": "https://github.com/wfzyx/von",
+    "stars": 635,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "decision-model",
+      "jev",
+      "machine-learning",
+      "python",
+      "rlcd",
+      "system-one",
+      "typesafe"
+    ],
+    "created_at": "2026-09-18T05:03:47",
+    "updated_at": "2026-09-24T23:04:29"
+  },
+  {
+    "name": "FleXray",
+    "full_name": "VictorButoi/FleXray",
+    "description": "FleXray: Universal Clinical X-ray Segmentation",
+    "url": "https://github.com/VictorButoi/FleXray",
+    "stars": 17,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "computer-vision",
+      "machine-learning",
+      "medical-imaging",
+      "segmentation"
+    ],
+    "created_at": "2026-09-22T23:12:51",
+    "updated_at": "2026-09-24T23:00:45"
   }
 ]
