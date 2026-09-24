@@ -1,11 +1,60 @@
 [
   {
+    "name": "reef",
+    "full_name": "Human-Agent-Society/reef",
+    "description": "Continual learning infra for self-improving agents",
+    "url": "https://github.com/Human-Agent-Society/reef",
+    "stars": 4394,
+    "daily_stars": 107,
+    "language": "Python",
+    "topics": [
+      "agent-infrastructure",
+      "ai-agents",
+      "continual-learning",
+      "inference",
+      "llm",
+      "llm-training",
+      "reinforcement-learning",
+      "self-improving-agents"
+    ],
+    "created_at": "2026-08-31T01:39:18",
+    "updated_at": "2026-09-24T04:42:52"
+  },
+  {
+    "name": "awesome-jev",
+    "full_name": "kydlikebtc/awesome-jev",
+    "description": "148 verified examples of Jev — TypeSafe AI's System One decision model — indexed by the decision each one makes, not the blog that mentioned it. Bilingual EN/中文, JSON schema, CI link-checking, and the cross-platform compatibility table nobody else has.",
+    "url": "https://github.com/kydlikebtc/awesome-jev",
+    "stars": 268,
+    "daily_stars": 99,
+    "language": "Python",
+    "topics": [
+      "agent-tools",
+      "ai-agents",
+      "awesome",
+      "awesome-list",
+      "calibration",
+      "catalog",
+      "classification",
+      "context-compaction",
+      "decision-model",
+      "intent-routing",
+      "jev",
+      "llm",
+      "system-one",
+      "tool-selection",
+      "typesafe-ai"
+    ],
+    "created_at": "2026-09-22T02:22:54",
+    "updated_at": "2026-09-24T04:42:09"
+  },
+  {
     "name": "laya-mlx",
     "full_name": "mizorewww/laya-mlx",
     "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
     "url": "https://github.com/mizorewww/laya-mlx",
-    "stars": 5937,
-    "daily_stars": 31,
+    "stars": 6033,
+    "daily_stars": 96,
     "language": "Python",
     "topics": [
       "apple-silicon",
@@ -20,15 +69,15 @@
       "typed-decisions"
     ],
     "created_at": "2026-09-19T13:50:26",
-    "updated_at": "2026-09-23T23:01:00"
+    "updated_at": "2026-09-24T05:08:47"
   },
   {
     "name": "JevRev",
     "full_name": "Alex314618-create/JevRev",
     "description": "An LLM + Jev workflow. Boost your vertebrate brain with a spine inside. ",
     "url": "https://github.com/Alex314618-create/JevRev",
-    "stars": 209,
-    "daily_stars": 22,
+    "stars": 274,
+    "daily_stars": 65,
     "language": "TypeScript",
     "topics": [
       "jev",
@@ -36,41 +85,53 @@
       "workflow"
     ],
     "created_at": "2026-09-21T01:53:13",
-    "updated_at": "2026-09-23T22:53:07"
+    "updated_at": "2026-09-24T05:09:23"
   },
   {
-    "name": "second-brain-os",
-    "full_name": "undefined-ui/second-brain-os",
-    "description": "An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.",
-    "url": "https://github.com/undefined-ui/second-brain-os",
-    "stars": 290,
-    "daily_stars": 17,
-    "language": "HTML",
+    "name": "codex-with-chatgpt",
+    "full_name": "XiaoDuoYa/codex-with-chatgpt",
+    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+    "stars": 6558,
+    "daily_stars": 38,
+    "language": "TypeScript",
     "topics": [
-      "agent-skills",
       "ai-agents",
-      "claude",
-      "claude-code",
-      "claude-skills",
-      "knowledge-graph",
-      "knowledge-management",
-      "llm",
+      "chatgpt",
+      "codex",
       "mcp",
-      "obsidian",
-      "personal-knowledge-base",
-      "pkm",
-      "second-brain"
+      "model-context-protocol",
+      "oauth"
     ],
-    "created_at": "2026-09-07T15:08:13",
-    "updated_at": "2026-09-23T22:43:55"
+    "created_at": "2026-08-28T12:57:24",
+    "updated_at": "2026-09-24T04:52:17"
+  },
+  {
+    "name": "clearai-dsh",
+    "full_name": "Clearailhc/clearai-dsh",
+    "description": "ClearAI is a native DSH plugin that brings the Epistemic Loop to DeepSeek Harness.",
+    "url": "https://github.com/Clearailhc/clearai-dsh",
+    "stars": 429,
+    "daily_stars": 29,
+    "language": "JavaScript",
+    "topics": [
+      "agent-preset",
+      "ai-agents",
+      "deepseek-harness",
+      "dsh-plugin",
+      "epistemic-loop",
+      "scientific-discovery"
+    ],
+    "created_at": "2026-09-12T12:58:44",
+    "updated_at": "2026-09-24T05:10:04"
   },
   {
     "name": "von",
     "full_name": "wfzyx/von",
     "description": "The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev.",
     "url": "https://github.com/wfzyx/von",
-    "stars": 579,
-    "daily_stars": 11,
+    "stars": 600,
+    "daily_stars": 21,
     "language": "Python",
     "topics": [
       "decision-model",
@@ -82,15 +143,15 @@
       "typesafe"
     ],
     "created_at": "2026-09-18T05:03:47",
-    "updated_at": "2026-09-23T22:44:37"
+    "updated_at": "2026-09-24T05:04:13"
   },
   {
     "name": "typesafe-computer-use",
     "full_name": "awlevin/typesafe-computer-use",
     "description": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.",
     "url": "https://github.com/awlevin/typesafe-computer-use",
-    "stars": 915,
-    "daily_stars": 10,
+    "stars": 933,
+    "daily_stars": 18,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -101,56 +162,37 @@
       "typesafe"
     ],
     "created_at": "2026-09-16T17:48:45",
-    "updated_at": "2026-09-23T23:02:43"
+    "updated_at": "2026-09-24T04:42:40"
   },
   {
-    "name": "awesome-jev-projects",
-    "full_name": "logicrw/awesome-jev-projects",
-    "description": "Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
-    "url": "https://github.com/logicrw/awesome-jev-projects",
-    "stars": 446,
-    "daily_stars": 10,
-    "language": "JavaScript",
+    "name": "herdr-gpui",
+    "full_name": "penso/herdr-gpui",
+    "description": "Native macOS client for Herdr, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.",
+    "url": "https://github.com/penso/herdr-gpui",
+    "stars": 143,
+    "daily_stars": 17,
+    "language": "Rust",
     "topics": [
       "ai-agents",
-      "awesome",
-      "awesome-list",
-      "decision-model",
+      "desktop-app",
       "developer-tools",
-      "jev",
-      "jev-model",
-      "system-one",
-      "typesafe-ai"
+      "git-worktrees",
+      "gpui",
+      "herdr",
+      "macos",
+      "rust",
+      "terminal"
     ],
-    "created_at": "2026-09-18T06:41:50",
-    "updated_at": "2026-09-23T22:54:45"
-  },
-  {
-    "name": "clearai-dsh",
-    "full_name": "Clearailhc/clearai-dsh",
-    "description": "ClearAI is a native DSH plugin that brings the Epistemic Loop to DeepSeek Harness.",
-    "url": "https://github.com/Clearailhc/clearai-dsh",
-    "stars": 400,
-    "daily_stars": 9,
-    "language": "JavaScript",
-    "topics": [
-      "agent-preset",
-      "ai-agents",
-      "deepseek-harness",
-      "dsh-plugin",
-      "epistemic-loop",
-      "scientific-discovery"
-    ],
-    "created_at": "2026-09-12T12:58:44",
-    "updated_at": "2026-09-23T23:02:04"
+    "created_at": "2026-09-20T05:22:39",
+    "updated_at": "2026-09-24T05:09:23"
   },
   {
     "name": "sno-station",
     "full_name": "sno-ai/sno-station",
     "description": "Sno Station — your Claude Code and Codex working as one squad on your own machine. Shared encrypted memory, agent-to-agent messaging (Reach), squad skills for handoff and cross-vendor review, and a nightly loop that rewrites the agents' own skills with your approval. Open source, no daemon, no cloud required. Assembled in public.",
     "url": "https://github.com/sno-ai/sno-station",
-    "stars": 98,
-    "daily_stars": 8,
+    "stars": 114,
+    "daily_stars": 16,
     "language": "TypeScript",
     "topics": [
       "agent-communication",
@@ -175,47 +217,6 @@
       "typescript"
     ],
     "created_at": "2026-09-19T06:55:24",
-    "updated_at": "2026-09-23T22:46:33"
-  },
-  {
-    "name": "herdr-gpui",
-    "full_name": "penso/herdr-gpui",
-    "description": "Native macOS client for Herdr, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.",
-    "url": "https://github.com/penso/herdr-gpui",
-    "stars": 126,
-    "daily_stars": 6,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "desktop-app",
-      "developer-tools",
-      "git-worktrees",
-      "gpui",
-      "herdr",
-      "macos",
-      "rust",
-      "terminal"
-    ],
-    "created_at": "2026-09-20T05:22:39",
-    "updated_at": "2026-09-23T23:02:15"
-  },
-  {
-    "name": "codex-with-chatgpt",
-    "full_name": "XiaoDuoYa/codex-with-chatgpt",
-    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-    "stars": 6520,
-    "daily_stars": 5,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "chatgpt",
-      "codex",
-      "mcp",
-      "model-context-protocol",
-      "oauth"
-    ],
-    "created_at": "2026-08-28T12:57:24",
-    "updated_at": "2026-09-23T22:53:08"
+    "updated_at": "2026-09-24T04:38:44"
   }
 ]
