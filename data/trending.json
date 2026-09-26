@@ -4,8 +4,8 @@
     "full_name": "Human-Agent-Society/reef",
     "description": "Continual learning infra for self-improving agents",
     "url": "https://github.com/Human-Agent-Society/reef",
-    "stars": 5467,
-    "daily_stars": 312,
+    "stars": 5662,
+    "daily_stars": 195,
     "language": "Python",
     "topics": [
       "agent-infrastructure",
@@ -18,43 +18,15 @@
       "self-improving-agents"
     ],
     "created_at": "2026-08-31T01:39:18",
-    "updated_at": "2026-09-26T05:17:50"
-  },
-  {
-    "name": "awesome-jev",
-    "full_name": "kydlikebtc/awesome-jev",
-    "description": "148 verified examples of Jev — TypeSafe AI's System One decision model — indexed by the decision each one makes, not the blog that mentioned it. Bilingual EN/中文, JSON schema, CI link-checking, and the cross-platform compatibility table nobody else has.",
-    "url": "https://github.com/kydlikebtc/awesome-jev",
-    "stars": 437,
-    "daily_stars": 86,
-    "language": "Python",
-    "topics": [
-      "agent-tools",
-      "ai-agents",
-      "awesome",
-      "awesome-list",
-      "calibration",
-      "catalog",
-      "classification",
-      "context-compaction",
-      "decision-model",
-      "intent-routing",
-      "jev",
-      "llm",
-      "system-one",
-      "tool-selection",
-      "typesafe-ai"
-    ],
-    "created_at": "2026-09-22T02:22:54",
-    "updated_at": "2026-09-26T04:20:34"
+    "updated_at": "2026-09-26T13:08:05"
   },
   {
     "name": "agent-memory",
     "full_name": "tigerless-labs/agent-memory",
     "description": "Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
     "url": "https://github.com/tigerless-labs/agent-memory",
-    "stars": 962,
-    "daily_stars": 77,
+    "stars": 1073,
+    "daily_stars": 111,
     "language": "Python",
     "topics": [
       "agent-memory",
@@ -71,38 +43,15 @@
       "sqlite"
     ],
     "created_at": "2026-09-01T21:52:29",
-    "updated_at": "2026-09-26T05:02:12"
-  },
-  {
-    "name": "dsh-our-free-model",
-    "full_name": "zouyuxuan122/dsh-our-free-model",
-    "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
-    "url": "https://github.com/zouyuxuan122/dsh-our-free-model",
-    "stars": 136,
-    "daily_stars": 50,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "deepseek",
-      "deepseek-harness",
-      "developer-tools",
-      "dsh",
-      "dsh-plugin",
-      "free-model",
-      "llm",
-      "model-provider",
-      "openai-compatible"
-    ],
-    "created_at": "2026-09-24T16:17:19",
-    "updated_at": "2026-09-26T05:11:00"
+    "updated_at": "2026-09-26T12:40:05"
   },
   {
     "name": "ai-system-design",
     "full_name": "amitshekhariitbhu/ai-system-design",
     "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
     "url": "https://github.com/amitshekhariitbhu/ai-system-design",
-    "stars": 185,
-    "daily_stars": 32,
+    "stars": 295,
+    "daily_stars": 110,
     "language": "Markdown",
     "topics": [
       "ai",
@@ -117,15 +66,61 @@
       "system-design-interview"
     ],
     "created_at": "2026-09-25T04:50:06",
-    "updated_at": "2026-09-26T05:17:03"
+    "updated_at": "2026-09-26T13:18:30"
+  },
+  {
+    "name": "dsh-our-free-model",
+    "full_name": "zouyuxuan122/dsh-our-free-model",
+    "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
+    "url": "https://github.com/zouyuxuan122/dsh-our-free-model",
+    "stars": 188,
+    "daily_stars": 52,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "deepseek",
+      "deepseek-harness",
+      "developer-tools",
+      "dsh",
+      "dsh-plugin",
+      "free-model",
+      "llm",
+      "model-provider",
+      "openai-compatible"
+    ],
+    "created_at": "2026-09-24T16:17:19",
+    "updated_at": "2026-09-26T13:17:16"
+  },
+  {
+    "name": "laya-mlx",
+    "full_name": "mizorewww/laya-mlx",
+    "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+    "url": "https://github.com/mizorewww/laya-mlx",
+    "stars": 6395,
+    "daily_stars": 38,
+    "language": "Python",
+    "topics": [
+      "apple-silicon",
+      "decision-model",
+      "inference",
+      "laya",
+      "local-ai",
+      "machine-learning",
+      "mlx",
+      "modernbert",
+      "system-one",
+      "typed-decisions"
+    ],
+    "created_at": "2026-09-19T13:50:26",
+    "updated_at": "2026-09-26T12:48:33"
   },
   {
     "name": "second-brain-os",
     "full_name": "undefined-ui/second-brain-os",
     "description": "An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.",
     "url": "https://github.com/undefined-ui/second-brain-os",
-    "stars": 596,
-    "daily_stars": 28,
+    "stars": 632,
+    "daily_stars": 36,
     "language": "HTML",
     "topics": [
       "agent-skills",
@@ -143,15 +138,69 @@
       "second-brain"
     ],
     "created_at": "2026-09-07T15:08:13",
-    "updated_at": "2026-09-26T05:08:42"
+    "updated_at": "2026-09-26T13:15:59"
+  },
+  {
+    "name": "openchatx-mcp",
+    "full_name": "XiaoPuOuO/openchatx-mcp",
+    "description": "Turn ChatGPT into a local agent runtime. Operate your computer, use local tools, discover MCP servers, and delegate work to your own models through one MCP connection.",
+    "url": "https://github.com/XiaoPuOuO/openchatx-mcp",
+    "stars": 126,
+    "daily_stars": 21,
+    "language": "TypeScript",
+    "topics": [
+      "agent-runtime",
+      "ai-agents",
+      "chatgpt",
+      "local-agent",
+      "macos",
+      "mcp",
+      "model-context-protocol",
+      "windows"
+    ],
+    "created_at": "2026-09-23T14:25:56",
+    "updated_at": "2026-09-26T13:16:26"
+  },
+  {
+    "name": "golive-skill",
+    "full_name": "mikehasa/golive-skill",
+    "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+    "url": "https://github.com/mikehasa/golive-skill",
+    "stars": 970,
+    "daily_stars": 19,
+    "language": "TypeScript",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "cloudflare",
+      "codex",
+      "database",
+      "deployment",
+      "developer-tools",
+      "devops",
+      "dns",
+      "godaddy",
+      "hosting",
+      "infrastructure",
+      "neon",
+      "netlify",
+      "porkbun",
+      "skills",
+      "supabase",
+      "vercel"
+    ],
+    "created_at": "2026-09-23T13:37:26",
+    "updated_at": "2026-09-26T13:02:54"
   },
   {
     "name": "clearai-dsh",
     "full_name": "Clearailhc/clearai-dsh",
     "description": "ClearAI is a native DSH plugin that brings the Epistemic Loop to DeepSeek Harness.",
     "url": "https://github.com/Clearailhc/clearai-dsh",
-    "stars": 564,
-    "daily_stars": 26,
+    "stars": 582,
+    "daily_stars": 18,
     "language": "JavaScript",
     "topics": [
       "agent-preset",
@@ -162,57 +211,15 @@
       "scientific-discovery"
     ],
     "created_at": "2026-09-12T12:58:44",
-    "updated_at": "2026-09-26T05:07:11"
-  },
-  {
-    "name": "laya-mlx",
-    "full_name": "mizorewww/laya-mlx",
-    "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
-    "url": "https://github.com/mizorewww/laya-mlx",
-    "stars": 6357,
-    "daily_stars": 25,
-    "language": "Python",
-    "topics": [
-      "apple-silicon",
-      "decision-model",
-      "inference",
-      "laya",
-      "local-ai",
-      "machine-learning",
-      "mlx",
-      "modernbert",
-      "system-one",
-      "typed-decisions"
-    ],
-    "created_at": "2026-09-19T13:50:26",
-    "updated_at": "2026-09-26T05:03:34"
-  },
-  {
-    "name": "codex-with-chatgpt",
-    "full_name": "XiaoDuoYa/codex-with-chatgpt",
-    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-    "stars": 6677,
-    "daily_stars": 15,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "chatgpt",
-      "codex",
-      "mcp",
-      "model-context-protocol",
-      "oauth"
-    ],
-    "created_at": "2026-08-28T12:57:24",
-    "updated_at": "2026-09-26T04:45:27"
+    "updated_at": "2026-09-26T12:36:33"
   },
   {
     "name": "geo-sleuth",
     "full_name": "Oldcircle/geo-sleuth",
     "description": "An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CLI, OpenCode and GitHub Copilot.",
     "url": "https://github.com/Oldcircle/geo-sleuth",
-    "stars": 418,
-    "daily_stars": 12,
+    "stars": 434,
+    "daily_stars": 16,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -235,6 +242,6 @@
       "satellite-imagery"
     ],
     "created_at": "2026-09-18T08:51:34",
-    "updated_at": "2026-09-26T05:16:40"
+    "updated_at": "2026-09-26T13:15:35"
   }
 ]
