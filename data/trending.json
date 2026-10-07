@@ -1,34 +1,11 @@
 [
   {
-    "name": "dsh-our-free-model",
-    "full_name": "zouyuxuan122/dsh-our-free-model",
-    "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
-    "url": "https://github.com/zouyuxuan122/dsh-our-free-model",
-    "stars": 3237,
-    "daily_stars": 632,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "deepseek",
-      "deepseek-harness",
-      "developer-tools",
-      "dsh",
-      "dsh-plugin",
-      "free-model",
-      "llm",
-      "model-provider",
-      "openai-compatible"
-    ],
-    "created_at": "2026-09-24T16:17:19",
-    "updated_at": "2026-10-07T15:41:04"
-  },
-  {
     "name": "geo-sleuth",
     "full_name": "Oldcircle/geo-sleuth",
     "description": "An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CLI, OpenCode and GitHub Copilot.",
     "url": "https://github.com/Oldcircle/geo-sleuth",
-    "stars": 1003,
-    "daily_stars": 196,
+    "stars": 1168,
+    "daily_stars": 165,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -51,15 +28,38 @@
       "satellite-imagery"
     ],
     "created_at": "2026-09-18T08:51:34",
-    "updated_at": "2026-10-07T15:38:48"
+    "updated_at": "2026-10-07T21:27:02"
+  },
+  {
+    "name": "dsh-our-free-model",
+    "full_name": "zouyuxuan122/dsh-our-free-model",
+    "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
+    "url": "https://github.com/zouyuxuan122/dsh-our-free-model",
+    "stars": 3349,
+    "daily_stars": 112,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "deepseek",
+      "deepseek-harness",
+      "developer-tools",
+      "dsh",
+      "dsh-plugin",
+      "free-model",
+      "llm",
+      "model-provider",
+      "openai-compatible"
+    ],
+    "created_at": "2026-09-24T16:17:19",
+    "updated_at": "2026-10-07T21:11:41"
   },
   {
     "name": "mortiflix-oss",
     "full_name": "GTKottman/mortiflix-oss",
     "description": "A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key.",
     "url": "https://github.com/GTKottman/mortiflix-oss",
-    "stars": 294,
-    "daily_stars": 112,
+    "stars": 362,
+    "daily_stars": 68,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -72,15 +72,15 @@
       "video-production"
     ],
     "created_at": "2026-10-05T15:15:13",
-    "updated_at": "2026-10-07T15:42:02"
+    "updated_at": "2026-10-07T21:26:43"
   },
   {
     "name": "coucou",
     "full_name": "Louis-CFM/coucou",
     "description": "A tiny friend that lives in your MacBook's notch and keeps an eye on your Claude Code sessions.",
     "url": "https://github.com/Louis-CFM/coucou",
-    "stars": 3940,
-    "daily_stars": 79,
+    "stars": 4003,
+    "daily_stars": 63,
     "language": "Swift",
     "topics": [
       "ai-agents",
@@ -97,62 +97,52 @@
       "swiftui"
     ],
     "created_at": "2026-09-27T21:54:12",
-    "updated_at": "2026-10-07T15:40:00"
+    "updated_at": "2026-10-07T21:19:03"
   },
   {
-    "name": "reelmimic",
-    "full_name": "edenfunf/reelmimic",
-    "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
-    "url": "https://github.com/edenfunf/reelmimic",
-    "stars": 1686,
-    "daily_stars": 44,
-    "language": "JavaScript",
-    "topics": [
-      "2d-animation",
-      "ai-agents",
-      "ai-video",
-      "animation",
-      "claude-code",
-      "codex",
-      "multi-agent",
-      "style-transfer",
-      "video-generation"
-    ],
-    "created_at": "2026-09-28T19:14:59",
-    "updated_at": "2026-10-07T15:35:43"
-  },
-  {
-    "name": "agentenv-framework",
-    "full_name": "scaleapi/agentenv-framework",
-    "description": "Creating realistic RL environments requires collaboration between researchers, engineers, and domain experts across many dimensions: artifacts, environments tools, dynamism of the environment, reproducibility, and more. There is no open source framework for building these environments effectively. Until now.",
-    "url": "https://github.com/scaleapi/agentenv-framework",
-    "stars": 161,
-    "daily_stars": 40,
+    "name": "zephon",
+    "full_name": "datologyai/zephon",
+    "description": "Fast, flexible, elastically deterministic data loading for foundation model training",
+    "url": "https://github.com/datologyai/zephon",
+    "stars": 46,
+    "daily_stars": 25,
     "language": "Python",
     "topics": [
-      "a2a",
-      "agent-evaluation",
-      "agentic-ai",
-      "ai-agents",
-      "llm-agents",
-      "llm-evaluation",
-      "mcp",
-      "model-context-protocol",
-      "python",
-      "reinforcement-learning",
-      "reinforcement-learning-environments",
-      "sandbox"
+      "data-loader",
+      "deep-learning",
+      "distributed-training",
+      "pytorch"
     ],
-    "created_at": "2026-09-24T18:52:20",
-    "updated_at": "2026-10-07T15:40:45"
+    "created_at": "2026-10-07T01:59:41",
+    "updated_at": "2026-10-07T21:10:23"
+  },
+  {
+    "name": "EffectiveAutoResearch-EAR-",
+    "full_name": "liyingze07-svg/EffectiveAutoResearch-EAR-",
+    "description": "An open research workbench for idea discovery, autonomous mathematics, and evidence-grounded rebuttals.",
+    "url": "https://github.com/liyingze07-svg/EffectiveAutoResearch-EAR-",
+    "stars": 138,
+    "daily_stars": 22,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "codex",
+      "mathematics",
+      "rebuttal",
+      "research-automation",
+      "scientific-discovery"
+    ],
+    "created_at": "2026-09-26T08:26:22",
+    "updated_at": "2026-10-07T21:21:39"
   },
   {
     "name": "agent-smith",
     "full_name": "Chengjun023/agent-smith",
     "description": "Token 超支？快给史密斯打电话！ Better Call Smith. Adaptive model routing, a glassy Codex usage monitor, and reproducible benchmarks with receipts.",
     "url": "https://github.com/Chengjun023/agent-smith",
-    "stars": 408,
-    "daily_stars": 36,
+    "stars": 426,
+    "daily_stars": 18,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -166,73 +156,67 @@
       "token-usage"
     ],
     "created_at": "2026-09-30T15:58:32",
-    "updated_at": "2026-10-07T15:32:44"
+    "updated_at": "2026-10-07T21:10:35"
   },
   {
-    "name": "strands-decider",
-    "full_name": "strands-labs/strands-decider",
-    "description": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
-    "url": "https://github.com/strands-labs/strands-decider",
-    "stars": 489,
-    "daily_stars": 35,
-    "language": "Python",
+    "name": "bops",
+    "full_name": "nickvasilescu/bops",
+    "description": "Bops: a team of AI bots that run your business ops, each with its own computer, email and phone number. bops.bot",
+    "url": "https://github.com/nickvasilescu/bops",
+    "stars": 153,
+    "daily_stars": 14,
+    "language": "TypeScript",
     "topics": [
-      "ai",
-      "machine-learning",
-      "natural-language-understanding",
-      "python",
-      "strands-agents",
-      "strands-labs",
-      "system-one",
-      "system-one-models"
-    ],
-    "created_at": "2026-09-29T16:36:38",
-    "updated_at": "2026-10-07T15:38:19"
-  },
-  {
-    "name": "agent-jev",
-    "full_name": "malevrigns/agent-jev",
-    "description": "AgentJev-0.6B - a fast 'System One' decision model for AI Agents: feed it any unstructured state (diffs, traces, logs) and structured questions, get calibrated probability distributions back in one ~50ms forward pass. Zero output-token decoding.",
-    "url": "https://github.com/malevrigns/agent-jev",
-    "stars": 373,
-    "daily_stars": 33,
-    "language": "Python",
-    "topics": [
-      "ai",
       "ai-agents",
-      "ai-tools",
-      "jev",
-      "jev-model"
+      "business-automation",
+      "computer-use",
+      "electron",
+      "mac-app",
+      "nextjs",
+      "open-source"
     ],
-    "created_at": "2026-09-21T16:24:42",
-    "updated_at": "2026-10-07T10:34:19"
+    "created_at": "2026-10-06T14:45:00",
+    "updated_at": "2026-10-07T20:51:06"
   },
   {
-    "name": "lemo-opuscar",
-    "full_name": "lemomo-ai/lemo-opuscar",
-    "description": "39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
-    "url": "https://github.com/lemomo-ai/lemo-opuscar",
-    "stars": 1332,
-    "daily_stars": 30,
+    "name": "herdr-gpui",
+    "full_name": "penso/herdr-gpui",
+    "description": "Native macOS client for Herdr, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.",
+    "url": "https://github.com/penso/herdr-gpui",
+    "stars": 989,
+    "daily_stars": 11,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "desktop-app",
+      "developer-tools",
+      "git-worktrees",
+      "gpui",
+      "herdr",
+      "macos",
+      "rust",
+      "terminal"
+    ],
+    "created_at": "2026-09-20T05:22:39",
+    "updated_at": "2026-10-07T21:17:05"
+  },
+  {
+    "name": "clearai-dsh",
+    "full_name": "Clearailhc/clearai-dsh",
+    "description": "ClearAI is a native DSH plugin that brings the Epistemic Loop to DeepSeek Harness.",
+    "url": "https://github.com/Clearailhc/clearai-dsh",
+    "stars": 1322,
+    "daily_stars": 10,
     "language": "JavaScript",
     "topics": [
+      "agent-preset",
       "ai-agents",
-      "ai-video",
-      "animation",
-      "canvas",
-      "claude",
-      "claude-code",
-      "creative-coding",
-      "ffmpeg",
-      "filmmaking",
-      "motion-graphics",
-      "prompt-library",
-      "text-to-speech",
-      "threejs",
-      "video-production",
-      "webgl"
+      "deepseek-harness",
+      "dsh-plugin",
+      "epistemic-loop",
+      "scientific-discovery"
     ],
-    "created_at": "2026-09-26T10:10:41",
-    "updated_at": "2026-10-07T15:39:20"
+    "created_at": "2026-09-12T12:58:44",
+    "updated_at": "2026-10-07T19:14:23"
   }
 ]
