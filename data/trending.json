@@ -4,8 +4,8 @@
     "full_name": "zouyuxuan122/dsh-our-free-model",
     "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
     "url": "https://github.com/zouyuxuan122/dsh-our-free-model",
-    "stars": 4313,
-    "daily_stars": 609,
+    "stars": 4442,
+    "daily_stars": 129,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -20,71 +20,15 @@
       "openai-compatible"
     ],
     "created_at": "2026-09-24T16:17:19",
-    "updated_at": "2026-10-08T15:46:54"
-  },
-  {
-    "name": "geo-sleuth",
-    "full_name": "Oldcircle/geo-sleuth",
-    "description": "An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CLI, OpenCode and GitHub Copilot.",
-    "url": "https://github.com/Oldcircle/geo-sleuth",
-    "stars": 1410,
-    "daily_stars": 118,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "claude-code",
-      "codex",
-      "computer-vision",
-      "cursor",
-      "gemini-cli",
-      "geoguessr",
-      "geoint",
-      "geolocation",
-      "github-copilot",
-      "image-geolocation",
-      "opencode",
-      "openstreetmap",
-      "osint",
-      "photo-geolocation",
-      "reverse-image-search",
-      "satellite-imagery"
-    ],
-    "created_at": "2026-09-18T08:51:34",
-    "updated_at": "2026-10-08T15:45:35"
-  },
-  {
-    "name": "coucou",
-    "full_name": "Louis-CFM/coucou",
-    "description": "A tiny friend that lives in your MacBook's notch and keeps an eye on your Claude Code sessions.",
-    "url": "https://github.com/Louis-CFM/coucou",
-    "stars": 4195,
-    "daily_stars": 114,
-    "language": "Swift",
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "dynamic-island",
-      "macos",
-      "macos-app",
-      "menubar-app",
-      "notch",
-      "open-source",
-      "swift",
-      "swiftui"
-    ],
-    "created_at": "2026-09-27T21:54:12",
-    "updated_at": "2026-10-08T15:45:09"
+    "updated_at": "2026-10-08T21:13:38"
   },
   {
     "name": "openqodex",
     "full_name": "openqodex/openqodex",
     "description": "Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on the lines you changed, then a separate reviewer process that checks every scanner finding and is given every changed line. No other API key.",
     "url": "https://github.com/openqodex/openqodex",
-    "stars": 384,
-    "daily_stars": 69,
+    "stars": 420,
+    "daily_stars": 36,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -109,15 +53,71 @@
       "static-analysis"
     ],
     "created_at": "2026-10-02T06:19:06",
-    "updated_at": "2026-10-08T15:40:11"
+    "updated_at": "2026-10-08T21:09:40"
+  },
+  {
+    "name": "coucou",
+    "full_name": "Louis-CFM/coucou",
+    "description": "A tiny friend that lives in your MacBook's notch and keeps an eye on your Claude Code sessions.",
+    "url": "https://github.com/Louis-CFM/coucou",
+    "stars": 4228,
+    "daily_stars": 33,
+    "language": "Swift",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "dynamic-island",
+      "macos",
+      "macos-app",
+      "menubar-app",
+      "notch",
+      "open-source",
+      "swift",
+      "swiftui"
+    ],
+    "created_at": "2026-09-27T21:54:12",
+    "updated_at": "2026-10-08T21:25:53"
+  },
+  {
+    "name": "geo-sleuth",
+    "full_name": "Oldcircle/geo-sleuth",
+    "description": "An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CLI, OpenCode and GitHub Copilot.",
+    "url": "https://github.com/Oldcircle/geo-sleuth",
+    "stars": 1441,
+    "daily_stars": 31,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "computer-vision",
+      "cursor",
+      "gemini-cli",
+      "geoguessr",
+      "geoint",
+      "geolocation",
+      "github-copilot",
+      "image-geolocation",
+      "opencode",
+      "openstreetmap",
+      "osint",
+      "photo-geolocation",
+      "reverse-image-search",
+      "satellite-imagery"
+    ],
+    "created_at": "2026-09-18T08:51:34",
+    "updated_at": "2026-10-08T21:11:41"
   },
   {
     "name": "box",
     "full_name": "strands-agents/box",
     "description": "Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent. Written in Rust. Supports macOS on Apple silicon, with Linux support planned.",
     "url": "https://github.com/strands-agents/box",
-    "stars": 191,
-    "daily_stars": 57,
+    "stars": 221,
+    "daily_stars": 30,
     "language": "Rust",
     "topics": [
       "agentic-ai",
@@ -142,43 +142,40 @@
       "zero-trust"
     ],
     "created_at": "2026-10-02T20:34:08",
-    "updated_at": "2026-10-08T15:35:31"
+    "updated_at": "2026-10-08T21:11:57"
   },
   {
-    "name": "lemo-opuscar",
-    "full_name": "lemomo-ai/lemo-opuscar",
-    "description": "39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
-    "url": "https://github.com/lemomo-ai/lemo-opuscar",
-    "stars": 1406,
-    "daily_stars": 36,
-    "language": "JavaScript",
+    "name": "vectra-core",
+    "full_name": "ronitgupta138/vectra-core",
+    "description": "⚡ In-Memory Vector Search Engine & HNSW ANN Graph in Java 21 Loom. Sub-millisecond KNN retrieval, 8-bit scalar quantization (SQ8), 16,000+ QPS.",
+    "url": "https://github.com/ronitgupta138/vectra-core",
+    "stars": 39,
+    "daily_stars": 24,
+    "language": "Java",
     "topics": [
-      "ai-agents",
-      "ai-video",
-      "animation",
-      "canvas",
-      "claude",
-      "claude-code",
-      "creative-coding",
-      "ffmpeg",
-      "filmmaking",
-      "motion-graphics",
-      "prompt-library",
-      "text-to-speech",
-      "threejs",
-      "video-production",
-      "webgl"
+      "ai-search",
+      "approximate-nearest-neighbors",
+      "embeddings",
+      "high-throughput",
+      "hnsw",
+      "java-21",
+      "machine-learning",
+      "quantization",
+      "scalar-quantization",
+      "similarity-search",
+      "vector-database",
+      "virtual-threads"
     ],
-    "created_at": "2026-09-26T10:10:41",
-    "updated_at": "2026-10-08T15:40:51"
+    "created_at": "2026-10-04T17:54:41",
+    "updated_at": "2026-10-08T19:03:53"
   },
   {
     "name": "mortiflix-oss",
     "full_name": "GTKottman/mortiflix-oss",
     "description": "A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key.",
     "url": "https://github.com/GTKottman/mortiflix-oss",
-    "stars": 436,
-    "daily_stars": 35,
+    "stars": 455,
+    "daily_stars": 19,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -191,15 +188,15 @@
       "video-production"
     ],
     "created_at": "2026-10-05T15:15:13",
-    "updated_at": "2026-10-08T15:45:44"
+    "updated_at": "2026-10-08T21:00:30"
   },
   {
     "name": "agent-smith",
     "full_name": "Chengjun023/agent-smith",
     "description": "Token 超支？快给史密斯打电话！ Better Call Smith. Adaptive model routing, a glassy Codex usage monitor, and reproducible benchmarks with receipts.",
     "url": "https://github.com/Chengjun023/agent-smith",
-    "stars": 485,
-    "daily_stars": 28,
+    "stars": 501,
+    "daily_stars": 16,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -213,15 +210,37 @@
       "token-usage"
     ],
     "created_at": "2026-09-30T15:58:32",
-    "updated_at": "2026-10-08T15:37:36"
+    "updated_at": "2026-10-08T21:13:55"
+  },
+  {
+    "name": "reelmimic",
+    "full_name": "edenfunf/reelmimic",
+    "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
+    "url": "https://github.com/edenfunf/reelmimic",
+    "stars": 1728,
+    "daily_stars": 14,
+    "language": "JavaScript",
+    "topics": [
+      "2d-animation",
+      "ai-agents",
+      "ai-video",
+      "animation",
+      "claude-code",
+      "codex",
+      "multi-agent",
+      "style-transfer",
+      "video-generation"
+    ],
+    "created_at": "2026-09-28T19:14:59",
+    "updated_at": "2026-10-08T21:24:16"
   },
   {
     "name": "bops",
     "full_name": "nickvasilescu/bops",
     "description": "Bops: a team of AI bots that run your business ops, each with its own computer, email and phone number. bops.bot",
     "url": "https://github.com/nickvasilescu/bops",
-    "stars": 201,
-    "daily_stars": 21,
+    "stars": 215,
+    "daily_stars": 14,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -233,25 +252,6 @@
       "open-source"
     ],
     "created_at": "2026-10-06T14:45:00",
-    "updated_at": "2026-10-08T15:42:27"
-  },
-  {
-    "name": "typesafe-computer-use",
-    "full_name": "awlevin/typesafe-computer-use",
-    "description": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.",
-    "url": "https://github.com/awlevin/typesafe-computer-use",
-    "stars": 1200,
-    "daily_stars": 20,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "automation",
-      "computer-use",
-      "macos",
-      "ocr",
-      "typesafe"
-    ],
-    "created_at": "2026-09-16T17:48:45",
-    "updated_at": "2026-10-08T15:03:16"
+    "updated_at": "2026-10-08T21:04:23"
   }
 ]
