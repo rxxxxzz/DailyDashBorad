@@ -1,44 +1,11 @@
 [
   {
-    "name": "openqodex",
-    "full_name": "openqodex/openqodex",
-    "description": "Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on the lines you changed, then a separate reviewer process that checks every scanner finding and is given every changed line. No other API key.",
-    "url": "https://github.com/openqodex/openqodex",
-    "stars": 525,
-    "daily_stars": 18,
-    "language": "TypeScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "ai-code-review",
-      "claude-code",
-      "claude-code-plugin",
-      "claude-skills",
-      "cline",
-      "code-quality",
-      "code-review",
-      "codex",
-      "coding-agents",
-      "cursor",
-      "github-actions",
-      "linter",
-      "pre-commit",
-      "sast",
-      "secret-scanning",
-      "security",
-      "security-tools",
-      "static-analysis"
-    ],
-    "created_at": "2026-10-02T06:19:06",
-    "updated_at": "2026-10-10T06:00:04"
-  },
-  {
     "name": "big-arrow-on-the-screen",
     "full_name": "franzenzenhofer/big-arrow-on-the-screen",
     "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
     "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-    "stars": 502,
-    "daily_stars": 100,
+    "stars": 547,
+    "daily_stars": 45,
     "language": "Swift",
     "topics": [
       "accessibility",
@@ -50,15 +17,15 @@
       "swift"
     ],
     "created_at": "2026-10-08T08:39:15",
-    "updated_at": "2026-10-10T06:00:59"
+    "updated_at": "2026-10-10T14:14:46"
   },
   {
     "name": "mortiflix-oss",
     "full_name": "GTKottman/mortiflix-oss",
     "description": "A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key.",
     "url": "https://github.com/GTKottman/mortiflix-oss",
-    "stars": 498,
-    "daily_stars": 1,
+    "stars": 512,
+    "daily_stars": 14,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -71,15 +38,15 @@
       "video-production"
     ],
     "created_at": "2026-10-05T15:15:13",
-    "updated_at": "2026-10-09T23:24:28"
+    "updated_at": "2026-10-10T14:15:13"
   },
   {
     "name": "box",
     "full_name": "strands-agents/box",
     "description": "Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent. Written in Rust. Supports macOS on Apple silicon, with Linux support planned.",
     "url": "https://github.com/strands-agents/box",
-    "stars": 299,
-    "daily_stars": 18,
+    "stars": 303,
+    "daily_stars": 4,
     "language": "Rust",
     "topics": [
       "agentic-ai",
@@ -104,15 +71,15 @@
       "zero-trust"
     ],
     "created_at": "2026-10-02T20:34:08",
-    "updated_at": "2026-10-10T05:26:12"
+    "updated_at": "2026-10-10T12:06:44"
   },
   {
     "name": "open-instinct",
     "full_name": "mariagorskikh/open-instinct",
     "description": "Open Instinct: an open-source Instinct. A personal agent you text on iMessage, with its own computer and a trusted network of other agents. Built on Pi, Inkbox, Maritime and Composio.",
     "url": "https://github.com/mariagorskikh/open-instinct",
-    "stars": 283,
-    "daily_stars": 7,
+    "stars": 285,
+    "daily_stars": 2,
     "language": "TypeScript",
     "topics": [
       "agents",
@@ -127,15 +94,15 @@
       "typescript"
     ],
     "created_at": "2026-10-03T20:07:59",
-    "updated_at": "2026-10-10T03:19:40"
+    "updated_at": "2026-10-10T13:46:34"
   },
   {
     "name": "bops",
     "full_name": "nickvasilescu/bops",
     "description": "Bops: a team of AI bots that run your business ops, each with its own computer, email and phone number. bops.bot",
     "url": "https://github.com/nickvasilescu/bops",
-    "stars": 239,
-    "daily_stars": 5,
+    "stars": 243,
+    "daily_stars": 4,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -147,54 +114,7 @@
       "open-source"
     ],
     "created_at": "2026-10-06T14:45:00",
-    "updated_at": "2026-10-10T04:26:01"
-  },
-  {
-    "name": "ai_goodpractice",
-    "full_name": "xop01/ai_goodpractice",
-    "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
-    "url": "https://github.com/xop01/ai_goodpractice",
-    "stars": 173,
-    "daily_stars": 1,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "ai-coding",
-      "ai-model",
-      "ai-safety",
-      "ai-tools",
-      "guide",
-      "guidebook",
-      "guideline",
-      "guidelines",
-      "guides",
-      "usage"
-    ],
-    "created_at": "2026-10-02T11:01:25",
-    "updated_at": "2026-10-10T05:04:52"
-  },
-  {
-    "name": "claude-code-mods",
-    "full_name": "hamzafer/claude-code-mods",
-    "description": "A collection of Claude Code mods: live lines above the prompt, guards, panes and games.",
-    "url": "https://github.com/hamzafer/claude-code-mods",
-    "stars": 170,
-    "daily_stars": 2,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "claude-code-mods",
-      "claude-code-plugins",
-      "developer-tools",
-      "terminal"
-    ],
-    "created_at": "2026-10-02T13:15:06",
-    "updated_at": "2026-10-09T21:29:30"
+    "updated_at": "2026-10-10T12:28:57"
   },
   {
     "name": "p3-stack",
@@ -213,12 +133,64 @@
     "updated_at": "2026-10-09T01:47:12"
   },
   {
+    "name": "SeeCode",
+    "full_name": "Aryanutkarsh/SeeCode",
+    "description": "Animated, explorable diagrams for Claude and other coding agents, from a short JSON spec.",
+    "url": "https://github.com/Aryanutkarsh/SeeCode",
+    "stars": 130,
+    "daily_stars": 7,
+    "language": "JavaScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "architecture-diagram",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "coding-agents",
+      "data-visualization",
+      "developer-tools",
+      "diagrams",
+      "diagrams-as-code",
+      "drawio",
+      "flowchart",
+      "isometric",
+      "mermaid",
+      "sequence-diagram",
+      "software-architecture",
+      "svg",
+      "system-design",
+      "visualization"
+    ],
+    "created_at": "2026-10-02T18:41:07",
+    "updated_at": "2026-10-10T13:59:00"
+  },
+  {
+    "name": "robot-heads",
+    "full_name": "fayazara/robot-heads",
+    "description": "Animated 3D robot heads for React: TV-headed bots with LED faces that show what your agent is doing.",
+    "url": "https://github.com/fayazara/robot-heads",
+    "stars": 128,
+    "daily_stars": 0,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "animation",
+      "avatar",
+      "canvas",
+      "react",
+      "robot"
+    ],
+    "created_at": "2026-10-09T16:28:47",
+    "updated_at": "2026-10-10T14:32:32"
+  },
+  {
     "name": "voiceshell-muse-bridge",
     "full_name": "hyj-STAR/voiceshell-muse-bridge",
     "description": "VoiceShell（声壳） · Experimental Muse bridge: ESP32 pairing, Linux text round trips, real walkthroughs and compatibility notes.",
     "url": "https://github.com/hyj-STAR/voiceshell-muse-bridge",
-    "stars": 126,
-    "daily_stars": 0,
+    "stars": 127,
+    "daily_stars": 1,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -230,6 +202,31 @@
       "voiceshell"
     ],
     "created_at": "2026-10-03T11:21:38",
-    "updated_at": "2026-10-07T08:02:22"
+    "updated_at": "2026-10-10T07:13:44"
+  },
+  {
+    "name": "dsh-browser-crossplatform",
+    "full_name": "youbaiyun/dsh-browser-crossplatform",
+    "description": "Browser extension for the DeepSeek Harness desktop app. The model reads the page you are on as text with numbered controls and acts on it — click, type, scroll, navigate, manage tabs — and, when you switch image recognition on, looks at an image you point at. It asks before acting, keeps passwords in the page, and talks to your own desktop; the one",
+    "url": "https://github.com/youbaiyun/dsh-browser-crossplatform",
+    "stars": 100,
+    "daily_stars": 4,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agent",
+      "ai-agent-skill",
+      "ai-agents",
+      "browser-automation",
+      "chrome-extension",
+      "cross-platform",
+      "deepseek",
+      "dsh",
+      "edge-extension",
+      "manifest-v3",
+      "side-panel",
+      "web-automation"
+    ],
+    "created_at": "2026-10-02T23:07:34",
+    "updated_at": "2026-10-10T14:24:23"
   }
 ]
