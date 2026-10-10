@@ -4,8 +4,8 @@
     "full_name": "franzenzenhofer/big-arrow-on-the-screen",
     "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
     "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-    "stars": 573,
-    "daily_stars": 26,
+    "stars": 578,
+    "daily_stars": 5,
     "language": "Swift",
     "topics": [
       "accessibility",
@@ -17,15 +17,15 @@
       "swift"
     ],
     "created_at": "2026-10-08T08:39:15",
-    "updated_at": "2026-10-10T20:12:23"
+    "updated_at": "2026-10-10T23:10:35"
   },
   {
     "name": "mortiflix-oss",
     "full_name": "GTKottman/mortiflix-oss",
     "description": "A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key.",
     "url": "https://github.com/GTKottman/mortiflix-oss",
-    "stars": 530,
-    "daily_stars": 18,
+    "stars": 543,
+    "daily_stars": 13,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -38,40 +38,7 @@
       "video-production"
     ],
     "created_at": "2026-10-05T15:15:13",
-    "updated_at": "2026-10-10T19:49:24"
-  },
-  {
-    "name": "box",
-    "full_name": "strands-agents/box",
-    "description": "Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent. Written in Rust. Supports macOS on Apple silicon, with Linux support planned.",
-    "url": "https://github.com/strands-agents/box",
-    "stars": 311,
-    "daily_stars": 8,
-    "language": "Rust",
-    "topics": [
-      "agentic-ai",
-      "agents",
-      "ai",
-      "ai-agents",
-      "ai-safety",
-      "containment",
-      "egress",
-      "harness",
-      "linux",
-      "llm",
-      "macos",
-      "mcp",
-      "policy",
-      "rust",
-      "sandbox",
-      "sandboxing",
-      "seatbelt",
-      "security",
-      "strands-agents",
-      "zero-trust"
-    ],
-    "created_at": "2026-10-02T20:34:08",
-    "updated_at": "2026-10-10T20:12:39"
+    "updated_at": "2026-10-10T23:31:18"
   },
   {
     "name": "open-instinct",
@@ -79,7 +46,7 @@
     "description": "Open Instinct: an open-source Instinct. A personal agent you text on iMessage, with its own computer and a trusted network of other agents. Built on Pi, Inkbox, Maritime and Composio.",
     "url": "https://github.com/mariagorskikh/open-instinct",
     "stars": 289,
-    "daily_stars": 4,
+    "daily_stars": 0,
     "language": "TypeScript",
     "topics": [
       "agents",
@@ -101,8 +68,8 @@
     "full_name": "nickvasilescu/bops",
     "description": "Bops: a team of AI bots that run your business ops, each with its own computer, email and phone number. bops.bot",
     "url": "https://github.com/nickvasilescu/bops",
-    "stars": 245,
-    "daily_stars": 2,
+    "stars": 246,
+    "daily_stars": 1,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -114,15 +81,15 @@
       "open-source"
     ],
     "created_at": "2026-10-06T14:45:00",
-    "updated_at": "2026-10-10T19:34:18"
+    "updated_at": "2026-10-10T22:58:34"
   },
   {
     "name": "robot-heads",
     "full_name": "fayazara/robot-heads",
     "description": "Animated 3D robot heads for React: TV-headed bots with LED faces that show what your agent is doing.",
     "url": "https://github.com/fayazara/robot-heads",
-    "stars": 170,
-    "daily_stars": 42,
+    "stars": 181,
+    "daily_stars": 11,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -133,15 +100,15 @@
       "robot"
     ],
     "created_at": "2026-10-09T16:28:47",
-    "updated_at": "2026-10-10T19:54:41"
+    "updated_at": "2026-10-10T23:39:35"
   },
   {
     "name": "p3-stack",
     "full_name": "uzairansaruzi/p3-stack",
     "description": "pstack reworked for T3 Code: delegated subagents, worktree threads, PR watching, scheduled runs.",
     "url": "https://github.com/uzairansaruzi/p3-stack",
-    "stars": 143,
-    "daily_stars": 0,
+    "stars": 144,
+    "daily_stars": 1,
     "language": "Shell",
     "topics": [
       "agent-skills",
@@ -149,7 +116,7 @@
       "t3-code"
     ],
     "created_at": "2026-10-05T07:40:37",
-    "updated_at": "2026-10-09T01:47:12"
+    "updated_at": "2026-10-10T23:25:33"
   },
   {
     "name": "voiceshell-muse-bridge",
@@ -172,31 +139,6 @@
     "updated_at": "2026-10-10T07:13:44"
   },
   {
-    "name": "dsh-browser-crossplatform",
-    "full_name": "youbaiyun/dsh-browser-crossplatform",
-    "description": "Browser extension for the DeepSeek Harness desktop app. The model reads the page you are on as text with numbered controls and acts on it — click, type, scroll, navigate, manage tabs — and, when you switch image recognition on, looks at an image you point at. It asks before acting, keeps passwords in the page, and talks to your own desktop; the one",
-    "url": "https://github.com/youbaiyun/dsh-browser-crossplatform",
-    "stars": 103,
-    "daily_stars": 3,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agent",
-      "ai-agent-skill",
-      "ai-agents",
-      "browser-automation",
-      "chrome-extension",
-      "cross-platform",
-      "deepseek",
-      "dsh",
-      "edge-extension",
-      "manifest-v3",
-      "side-panel",
-      "web-automation"
-    ],
-    "created_at": "2026-10-02T23:07:34",
-    "updated_at": "2026-10-10T19:44:59"
-  },
-  {
     "name": "zephon",
     "full_name": "datologyai/zephon",
     "description": "Fast, flexible, elastically deterministic data loading for foundation model training",
@@ -212,5 +154,51 @@
     ],
     "created_at": "2026-10-07T01:59:41",
     "updated_at": "2026-10-09T18:33:30"
+  },
+  {
+    "name": "stepfun-harness",
+    "full_name": "abbcreat-cyber/stepfun-harness",
+    "description": "阶跃星辰 Harness｜让 AI 在桌面真正开工：订阅与 API、多代理工作流、插件、Mini。A desktop AI workspace powered by Step Code.",
+    "url": "https://github.com/abbcreat-cyber/stepfun-harness",
+    "stars": 52,
+    "daily_stars": 0,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agent",
+      "desktop",
+      "electron",
+      "harness",
+      "multi-agent",
+      "stepfun",
+      "windows",
+      "workflow"
+    ],
+    "created_at": "2026-10-08T15:34:21",
+    "updated_at": "2026-10-10T15:38:18"
+  },
+  {
+    "name": "vectra-core",
+    "full_name": "ronitgupta138/vectra-core",
+    "description": "⚡ In-Memory Vector Search Engine & HNSW ANN Graph in Java 21 Loom. Sub-millisecond KNN retrieval, 8-bit scalar quantization (SQ8), 16,000+ QPS.",
+    "url": "https://github.com/ronitgupta138/vectra-core",
+    "stars": 41,
+    "daily_stars": 0,
+    "language": "Java",
+    "topics": [
+      "ai-search",
+      "approximate-nearest-neighbors",
+      "embeddings",
+      "high-throughput",
+      "hnsw",
+      "java-21",
+      "machine-learning",
+      "quantization",
+      "scalar-quantization",
+      "similarity-search",
+      "vector-database",
+      "virtual-threads"
+    ],
+    "created_at": "2026-10-04T17:54:41",
+    "updated_at": "2026-10-10T18:13:47"
   }
 ]
