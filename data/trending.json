@@ -4,8 +4,8 @@
     "full_name": "zouyuxuan122/dsh-our-free-model",
     "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
     "url": "https://github.com/zouyuxuan122/dsh-our-free-model",
-    "stars": 9820,
-    "daily_stars": 948,
+    "stars": 11725,
+    "daily_stars": 1905,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -20,37 +20,15 @@
       "openai-compatible"
     ],
     "created_at": "2026-09-24T16:17:19",
-    "updated_at": "2026-10-12T06:18:50"
-  },
-  {
-    "name": "reelmimic",
-    "full_name": "edenfunf/reelmimic",
-    "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
-    "url": "https://github.com/edenfunf/reelmimic",
-    "stars": 2370,
-    "daily_stars": 129,
-    "language": "JavaScript",
-    "topics": [
-      "2d-animation",
-      "ai-agents",
-      "ai-video",
-      "animation",
-      "claude-code",
-      "codex",
-      "multi-agent",
-      "style-transfer",
-      "video-generation"
-    ],
-    "created_at": "2026-09-28T19:14:59",
-    "updated_at": "2026-10-12T05:43:35"
+    "updated_at": "2026-10-12T18:05:46"
   },
   {
     "name": "geo-sleuth",
     "full_name": "Oldcircle/geo-sleuth",
     "description": "An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CLI, OpenCode and GitHub Copilot.",
     "url": "https://github.com/Oldcircle/geo-sleuth",
-    "stars": 1998,
-    "daily_stars": 85,
+    "stars": 2165,
+    "daily_stars": 167,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -73,15 +51,15 @@
       "satellite-imagery"
     ],
     "created_at": "2026-09-18T08:51:34",
-    "updated_at": "2026-10-12T06:17:39"
+    "updated_at": "2026-10-12T18:03:55"
   },
   {
     "name": "SeeCode",
     "full_name": "Aryanutkarsh/SeeCode",
     "description": "Animated, explorable diagrams for Claude and other coding agents, from a short JSON spec.",
     "url": "https://github.com/Aryanutkarsh/SeeCode",
-    "stars": 240,
-    "daily_stars": 78,
+    "stars": 399,
+    "daily_stars": 159,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -106,15 +84,15 @@
       "visualization"
     ],
     "created_at": "2026-10-02T18:41:07",
-    "updated_at": "2026-10-12T06:18:22"
+    "updated_at": "2026-10-12T17:58:13"
   },
   {
     "name": "awesome-reverse-engineering",
     "full_name": "morluto/awesome-reverse-engineering",
     "description": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
     "url": "https://github.com/morluto/awesome-reverse-engineering",
-    "stars": 158,
-    "daily_stars": 54,
+    "stars": 264,
+    "daily_stars": 106,
     "language": null,
     "topics": [
       "agent-skills",
@@ -139,15 +117,15 @@
       "static-analysis"
     ],
     "created_at": "2026-10-09T14:58:20",
-    "updated_at": "2026-10-12T05:59:17"
+    "updated_at": "2026-10-12T18:00:04"
   },
   {
     "name": "lemo-opuscar",
     "full_name": "lemomo-ai/lemo-opuscar",
     "description": "39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
     "url": "https://github.com/lemomo-ai/lemo-opuscar",
-    "stars": 1951,
-    "daily_stars": 47,
+    "stars": 2047,
+    "daily_stars": 96,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -167,45 +145,15 @@
       "webgl"
     ],
     "created_at": "2026-09-26T10:10:41",
-    "updated_at": "2026-10-12T06:10:44"
-  },
-  {
-    "name": "rutis",
-    "full_name": "arcships/rutis",
-    "description": "A plugin runtime for software that iterates on itself — the substrate where agents write, swap and hot-reload their own plugins in Rust, TypeScript, Python and Go, across processes and machines.",
-    "url": "https://github.com/arcships/rutis",
-    "stars": 133,
-    "daily_stars": 32,
-    "language": "Rust",
-    "topics": [
-      "agent-framework",
-      "ai-agents",
-      "bun",
-      "cordis",
-      "dependency-injection",
-      "go",
-      "hot-reload",
-      "lifecycle",
-      "plugin-runtime",
-      "plugin-system",
-      "polyglot",
-      "python",
-      "recursive-self-improvement",
-      "rust",
-      "self-evolving",
-      "tokio",
-      "typescript"
-    ],
-    "created_at": "2026-09-22T06:19:15",
-    "updated_at": "2026-10-12T06:18:37"
+    "updated_at": "2026-10-12T18:01:47"
   },
   {
     "name": "coucou",
     "full_name": "Louis-CFM/coucou",
     "description": "A tiny friend that lives in your MacBook's notch and keeps an eye on your Claude Code sessions.",
     "url": "https://github.com/Louis-CFM/coucou",
-    "stars": 4863,
-    "daily_stars": 29,
+    "stars": 4949,
+    "daily_stars": 86,
     "language": "Swift",
     "topics": [
       "ai-agents",
@@ -222,15 +170,85 @@
       "swiftui"
     ],
     "created_at": "2026-09-27T21:54:12",
-    "updated_at": "2026-10-12T06:16:56"
+    "updated_at": "2026-10-12T18:01:42"
+  },
+  {
+    "name": "herdr-gpui",
+    "full_name": "penso/herdr-gpui",
+    "description": "Native macOS client for Herdr, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.",
+    "url": "https://github.com/penso/herdr-gpui",
+    "stars": 1166,
+    "daily_stars": 35,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "desktop-app",
+      "developer-tools",
+      "git-worktrees",
+      "gpui",
+      "herdr",
+      "macos",
+      "rust",
+      "terminal"
+    ],
+    "created_at": "2026-09-20T05:22:39",
+    "updated_at": "2026-10-12T17:32:01"
+  },
+  {
+    "name": "claude-show-your-work",
+    "full_name": "iamumeransari/claude-show-your-work",
+    "description": "Claude Code shows images and plays videos right in your terminal: screenshots, Playwright recordings, and synced before/after QA. Ghostty & kitty.",
+    "url": "https://github.com/iamumeransari/claude-show-your-work",
+    "stars": 146,
+    "daily_stars": 34,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "claude-code-mod",
+      "claude-code-mods",
+      "claude-code-plugin",
+      "developer-tools",
+      "ghostty",
+      "kitty",
+      "kitty-graphics-protocol",
+      "playwright",
+      "screenshots",
+      "terminal",
+      "visual-qa"
+    ],
+    "created_at": "2026-10-08T11:57:55",
+    "updated_at": "2026-10-12T17:38:05"
+  },
+  {
+    "name": "big-arrow-on-the-screen",
+    "full_name": "franzenzenhofer/big-arrow-on-the-screen",
+    "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
+    "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+    "stars": 661,
+    "daily_stars": 31,
+    "language": "Swift",
+    "topics": [
+      "accessibility",
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "macos",
+      "swift"
+    ],
+    "created_at": "2026-10-08T08:39:15",
+    "updated_at": "2026-10-12T17:47:01"
   },
   {
     "name": "hermes-official-plugins",
     "full_name": "NousResearch/hermes-official-plugins",
     "description": "☤ The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, Spotify, Claude Subscription DirectSDK and more, one install away from the Hermes plugin catalog.",
     "url": "https://github.com/NousResearch/hermes-official-plugins",
-    "stars": 204,
-    "daily_stars": 20,
+    "stars": 234,
+    "daily_stars": 30,
     "language": "Python",
     "topics": [
       "agent-plugins",
@@ -246,28 +264,6 @@
       "spotify"
     ],
     "created_at": "2026-10-10T20:51:25",
-    "updated_at": "2026-10-12T06:04:18"
-  },
-  {
-    "name": "herdr-gpui",
-    "full_name": "penso/herdr-gpui",
-    "description": "Native macOS client for Herdr, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.",
-    "url": "https://github.com/penso/herdr-gpui",
-    "stars": 1131,
-    "daily_stars": 17,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "desktop-app",
-      "developer-tools",
-      "git-worktrees",
-      "gpui",
-      "herdr",
-      "macos",
-      "rust",
-      "terminal"
-    ],
-    "created_at": "2026-09-20T05:22:39",
-    "updated_at": "2026-10-12T05:39:37"
+    "updated_at": "2026-10-12T17:11:51"
   }
 ]
