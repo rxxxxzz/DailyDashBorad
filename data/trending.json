@@ -4,8 +4,8 @@
     "full_name": "zouyuxuan122/dsh-our-free-model",
     "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
     "url": "https://github.com/zouyuxuan122/dsh-our-free-model",
-    "stars": 15591,
-    "daily_stars": 977,
+    "stars": 16069,
+    "daily_stars": 478,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -20,39 +20,63 @@
       "openai-compatible"
     ],
     "created_at": "2026-09-24T16:17:19",
-    "updated_at": "2026-10-14T13:55:12"
+    "updated_at": "2026-10-14T20:11:36"
   },
   {
-    "name": "solid-glass",
-    "full_name": "deeplethe/solid-glass",
-    "description": "A design system for AI applications. Material, physical, tactile, technical.",
-    "url": "https://github.com/deeplethe/solid-glass",
-    "stars": 583,
-    "daily_stars": 328,
-    "language": "TypeScript",
+    "name": "cloudroom-core",
+    "full_name": "davidondrej/cloudroom-core",
+    "description": "Open-source, self-hostable Rust runtime that runs Claude Code, Codex, and Pi in the cloud.",
+    "url": "https://github.com/davidondrej/cloudroom-core",
+    "stars": 541,
+    "daily_stars": 125,
+    "language": "Rust",
     "topics": [
-      "agent-ui",
-      "ai",
       "ai-agents",
-      "chat-ui",
-      "design-system",
-      "llm",
-      "react",
-      "shadcn",
-      "shadcn-ui",
-      "tailwindcss",
-      "theme"
+      "background-agents",
+      "claude-code",
+      "cloud-agents",
+      "codex",
+      "coding-agents",
+      "rust",
+      "self-hosted"
     ],
-    "created_at": "2026-10-12T09:19:02",
-    "updated_at": "2026-10-14T13:42:55"
+    "created_at": "2026-09-17T18:56:56",
+    "updated_at": "2026-10-14T20:13:56"
+  },
+  {
+    "name": "Intent-Router",
+    "full_name": "angel291592/Intent-Router",
+    "description": "Intent compiler for AI agents — converges vague requests into typed IntentSpec contracts (probe, ask, or halt before routing), the input layer for routers and typed-decision models like Jev & Laya",
+    "url": "https://github.com/angel291592/Intent-Router",
+    "stars": 400,
+    "daily_stars": 85,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "agentic",
+      "ai-agents",
+      "clarification",
+      "claude-code",
+      "codex",
+      "context-engineering",
+      "decision-model",
+      "intent",
+      "llm-routing",
+      "prompt-engineering",
+      "skill",
+      "system-one",
+      "typed-decisions"
+    ],
+    "created_at": "2026-09-22T06:00:27",
+    "updated_at": "2026-10-14T20:16:36"
   },
   {
     "name": "geo-sleuth",
     "full_name": "Oldcircle/geo-sleuth",
     "description": "An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CLI, OpenCode and GitHub Copilot.",
     "url": "https://github.com/Oldcircle/geo-sleuth",
-    "stars": 2709,
-    "daily_stars": 283,
+    "stars": 2748,
+    "daily_stars": 39,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -75,15 +99,15 @@
       "satellite-imagery"
     ],
     "created_at": "2026-09-18T08:51:34",
-    "updated_at": "2026-10-14T13:52:48"
+    "updated_at": "2026-10-14T20:15:23"
   },
   {
     "name": "reelmimic",
     "full_name": "edenfunf/reelmimic",
     "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
     "url": "https://github.com/edenfunf/reelmimic",
-    "stars": 3084,
-    "daily_stars": 233,
+    "stars": 3120,
+    "daily_stars": 36,
     "language": "JavaScript",
     "topics": [
       "2d-animation",
@@ -97,57 +121,15 @@
       "video-generation"
     ],
     "created_at": "2026-09-28T19:14:59",
-    "updated_at": "2026-10-14T13:48:37"
-  },
-  {
-    "name": "cloudroom-core",
-    "full_name": "davidondrej/cloudroom-core",
-    "description": "Open-source, self-hostable Rust runtime that runs Claude Code, Codex, and Pi in the cloud.",
-    "url": "https://github.com/davidondrej/cloudroom-core",
-    "stars": 416,
-    "daily_stars": 95,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "background-agents",
-      "claude-code",
-      "cloud-agents",
-      "codex",
-      "coding-agents",
-      "rust",
-      "self-hosted"
-    ],
-    "created_at": "2026-09-17T18:56:56",
-    "updated_at": "2026-10-14T13:55:53"
-  },
-  {
-    "name": "squadra",
-    "full_name": "dagoSte/squadra",
-    "description": "Coordinate a squad of Claude, Codex and Cursor windows: tasks, acknowledgements, bound proofs, independent review and a local dashboard, in one shared registry.",
-    "url": "https://github.com/dagoSte/squadra",
-    "stars": 186,
-    "daily_stars": 85,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "claude-code",
-      "code-review",
-      "codex",
-      "cursor",
-      "developer-tools",
-      "multi-agent"
-    ],
-    "created_at": "2026-09-28T04:44:21",
-    "updated_at": "2026-10-14T13:32:39"
+    "updated_at": "2026-10-14T20:16:07"
   },
   {
     "name": "lemo-opuscar",
     "full_name": "lemomo-ai/lemo-opuscar",
     "description": "39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
     "url": "https://github.com/lemomo-ai/lemo-opuscar",
-    "stars": 2293,
-    "daily_stars": 84,
+    "stars": 2329,
+    "daily_stars": 36,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -167,64 +149,40 @@
       "webgl"
     ],
     "created_at": "2026-09-26T10:10:41",
-    "updated_at": "2026-10-14T13:46:05"
+    "updated_at": "2026-10-14T19:57:53"
   },
   {
-    "name": "Intent-Router",
-    "full_name": "angel291592/Intent-Router",
-    "description": "Intent compiler for AI agents — converges vague requests into typed IntentSpec contracts (probe, ask, or halt before routing), the input layer for routers and typed-decision models like Jev & Laya",
-    "url": "https://github.com/angel291592/Intent-Router",
-    "stars": 315,
-    "daily_stars": 64,
-    "language": "Python",
+    "name": "coucou",
+    "full_name": "Louis-CFM/coucou",
+    "description": "A tiny friend that lives in your MacBook's notch and keeps an eye on your Claude Code sessions.",
+    "url": "https://github.com/Louis-CFM/coucou",
+    "stars": 5194,
+    "daily_stars": 30,
+    "language": "Swift",
     "topics": [
-      "agent-skills",
-      "agentic",
       "ai-agents",
-      "clarification",
+      "anthropic",
+      "claude",
       "claude-code",
-      "codex",
-      "context-engineering",
-      "decision-model",
-      "intent",
-      "llm-routing",
-      "prompt-engineering",
-      "skill",
-      "system-one",
-      "typed-decisions"
-    ],
-    "created_at": "2026-09-22T06:00:27",
-    "updated_at": "2026-10-14T13:51:35"
-  },
-  {
-    "name": "herdr-gpui",
-    "full_name": "penso/herdr-gpui",
-    "description": "Native macOS client for Herdr, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.",
-    "url": "https://github.com/penso/herdr-gpui",
-    "stars": 1335,
-    "daily_stars": 37,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "desktop-app",
-      "developer-tools",
-      "git-worktrees",
-      "gpui",
-      "herdr",
+      "dynamic-island",
       "macos",
-      "rust",
-      "terminal"
+      "macos-app",
+      "menubar-app",
+      "notch",
+      "open-source",
+      "swift",
+      "swiftui"
     ],
-    "created_at": "2026-09-20T05:22:39",
-    "updated_at": "2026-10-14T13:22:48"
+    "created_at": "2026-09-27T21:54:12",
+    "updated_at": "2026-10-14T20:09:03"
   },
   {
     "name": "awesome-reverse-engineering",
     "full_name": "morluto/awesome-reverse-engineering",
     "description": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
     "url": "https://github.com/morluto/awesome-reverse-engineering",
-    "stars": 475,
-    "daily_stars": 37,
+    "stars": 498,
+    "daily_stars": 23,
     "language": null,
     "topics": [
       "agent-skills",
@@ -249,6 +207,72 @@
       "static-analysis"
     ],
     "created_at": "2026-10-09T14:58:20",
-    "updated_at": "2026-10-14T13:50:43"
+    "updated_at": "2026-10-14T20:15:02"
+  },
+  {
+    "name": "openqodex",
+    "full_name": "openqodex/openqodex",
+    "description": "Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on the lines you changed, then a separate reviewer process that checks every scanner finding and is given every changed line. No other API key.",
+    "url": "https://github.com/openqodex/openqodex",
+    "stars": 695,
+    "daily_stars": 19,
+    "language": "TypeScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-code-review",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "cline",
+      "code-quality",
+      "code-review",
+      "codex",
+      "coding-agents",
+      "cursor",
+      "github-actions",
+      "linter",
+      "pre-commit",
+      "sast",
+      "secret-scanning",
+      "security",
+      "security-tools",
+      "static-analysis"
+    ],
+    "created_at": "2026-10-02T06:19:06",
+    "updated_at": "2026-10-14T20:16:52"
+  },
+  {
+    "name": "sno-station",
+    "full_name": "sno-ai/sno-station",
+    "description": "Sno Station — your Claude Code and Codex working as one squad on your own machine. Shared encrypted memory, agent-to-agent messaging (Reach), squad skills for handoff and cross-vendor review, and a nightly loop that rewrites the agents' own skills with your approval. Open source, no daemon, no cloud required. Assembled in public.",
+    "url": "https://github.com/sno-ai/sno-station",
+    "stars": 726,
+    "daily_stars": 15,
+    "language": "TypeScript",
+    "topics": [
+      "agent-communication",
+      "agent-memory",
+      "agentic-ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "developer-tools",
+      "local-first",
+      "long-term-memory",
+      "multi-agent",
+      "open-source",
+      "openclaw",
+      "own-your-data",
+      "self-improving",
+      "shared-memory",
+      "sno",
+      "sno-ai",
+      "squad",
+      "typescript"
+    ],
+    "created_at": "2026-09-19T06:55:24",
+    "updated_at": "2026-10-14T20:14:27"
   }
 ]
