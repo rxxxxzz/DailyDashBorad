@@ -1,50 +1,11 @@
 [
   {
-    "name": "mailcheap",
-    "full_name": "marclou/mailcheap",
-    "description": "The affordable newsletter for the agentic era. Open source: self-host it, or use mailcheap.ai.",
-    "url": "https://github.com/marclou/mailcheap",
-    "stars": 929,
-    "daily_stars": 3,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "email",
-      "mcp",
-      "newsletter",
-      "nextjs",
-      "self-hosted"
-    ],
-    "created_at": "2026-10-10T12:55:36",
-    "updated_at": "2026-10-14T21:20:44"
-  },
-  {
-    "name": "big-arrow-on-the-screen",
-    "full_name": "franzenzenhofer/big-arrow-on-the-screen",
-    "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
-    "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-    "stars": 744,
-    "daily_stars": 1,
-    "language": "Swift",
-    "topics": [
-      "accessibility",
-      "ai-agents",
-      "claude-code",
-      "cli",
-      "codex",
-      "macos",
-      "swift"
-    ],
-    "created_at": "2026-10-08T08:39:15",
-    "updated_at": "2026-10-14T21:53:32"
-  },
-  {
     "name": "solid-glass",
     "full_name": "deeplethe/solid-glass",
     "description": "A design system for AI applications. Material, physical, tactile, technical.",
     "url": "https://github.com/deeplethe/solid-glass",
-    "stars": 591,
-    "daily_stars": 2,
+    "stars": 946,
+    "daily_stars": 355,
     "language": "TypeScript",
     "topics": [
       "agent-ui",
@@ -60,15 +21,54 @@
       "theme"
     ],
     "created_at": "2026-10-12T09:19:02",
-    "updated_at": "2026-10-14T23:13:53"
+    "updated_at": "2026-10-15T13:34:44"
+  },
+  {
+    "name": "mailcheap",
+    "full_name": "marclou/mailcheap",
+    "description": "The affordable newsletter for the agentic era. Open source: self-host it, or use mailcheap.ai.",
+    "url": "https://github.com/marclou/mailcheap",
+    "stars": 940,
+    "daily_stars": 11,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "email",
+      "mcp",
+      "newsletter",
+      "nextjs",
+      "self-hosted"
+    ],
+    "created_at": "2026-10-10T12:55:36",
+    "updated_at": "2026-10-15T13:26:26"
+  },
+  {
+    "name": "big-arrow-on-the-screen",
+    "full_name": "franzenzenhofer/big-arrow-on-the-screen",
+    "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
+    "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+    "stars": 748,
+    "daily_stars": 4,
+    "language": "Swift",
+    "topics": [
+      "accessibility",
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "macos",
+      "swift"
+    ],
+    "created_at": "2026-10-08T08:39:15",
+    "updated_at": "2026-10-15T09:16:35"
   },
   {
     "name": "awesome-reverse-engineering",
     "full_name": "morluto/awesome-reverse-engineering",
     "description": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
     "url": "https://github.com/morluto/awesome-reverse-engineering",
-    "stars": 503,
-    "daily_stars": 5,
+    "stars": 537,
+    "daily_stars": 34,
     "language": null,
     "topics": [
       "agent-skills",
@@ -93,15 +93,43 @@
       "static-analysis"
     ],
     "created_at": "2026-10-09T14:58:20",
-    "updated_at": "2026-10-14T22:52:01"
+    "updated_at": "2026-10-15T13:29:53"
+  },
+  {
+    "name": "open-intelligent-ui",
+    "full_name": "thesysdev/open-intelligent-ui",
+    "description": "An open-source take on ChatGPT's Intelligent UI: answers stream as interactive UI (maps, photos, charts, drawings and working tools). Built with OpenUI.",
+    "url": "https://github.com/thesysdev/open-intelligent-ui",
+    "stars": 378,
+    "daily_stars": 0,
+    "language": "TypeScript",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-ui",
+      "chat-ui",
+      "chatgpt",
+      "generative-ui",
+      "intelligent-ui",
+      "llm",
+      "nextjs",
+      "open-source",
+      "openui",
+      "react",
+      "streaming-ui",
+      "typescript"
+    ],
+    "created_at": "2026-10-08T05:37:45",
+    "updated_at": "2026-10-15T13:11:37"
   },
   {
     "name": "robot-heads",
     "full_name": "fayazara/robot-heads",
     "description": "Animated 3D robot heads for React: TV-headed bots with LED faces that show what your agent is doing.",
     "url": "https://github.com/fayazara/robot-heads",
-    "stars": 329,
-    "daily_stars": 1,
+    "stars": 337,
+    "daily_stars": 8,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -112,85 +140,38 @@
       "robot"
     ],
     "created_at": "2026-10-09T16:28:47",
-    "updated_at": "2026-10-14T21:37:35"
+    "updated_at": "2026-10-15T12:29:39"
   },
   {
-    "name": "agent-chrome-relay",
-    "full_name": "aindeev/agent-chrome-relay",
-    "description": "Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev · blog: read.aindeev.com · X: @AlexeyIndeev",
-    "url": "https://github.com/aindeev/agent-chrome-relay",
-    "stars": 283,
-    "daily_stars": -1,
-    "language": "JavaScript",
+    "name": "eleven",
+    "full_name": "Zfinix/eleven",
+    "description": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
+    "url": "https://github.com/Zfinix/eleven",
+    "stars": 299,
+    "daily_stars": 0,
+    "language": "TypeScript",
     "topics": [
-      "agent-browser",
+      "acp",
       "ai-agents",
-      "browser-automation",
-      "cdp",
-      "chrome-extension",
-      "claude",
-      "claude-code",
-      "codex",
-      "cursor",
+      "android",
+      "decompiler",
+      "disassembler",
+      "ghidra",
+      "hopper",
       "macos",
-      "paseo"
+      "rea",
+      "reverse-engineering"
     ],
-    "created_at": "2026-10-10T07:38:27",
-    "updated_at": "2026-10-14T23:13:35"
-  },
-  {
-    "name": "hermes-official-plugins",
-    "full_name": "NousResearch/hermes-official-plugins",
-    "description": "☤ The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, Spotify, Claude Subscription DirectSDK and more, one install away from the Hermes plugin catalog.",
-    "url": "https://github.com/NousResearch/hermes-official-plugins",
-    "stars": 278,
-    "daily_stars": 1,
-    "language": "Python",
-    "topics": [
-      "agent-plugins",
-      "ai-agents",
-      "claude",
-      "hermes",
-      "hermes-agent",
-      "home-assistant",
-      "llm",
-      "model-provider",
-      "nous-research",
-      "plugins",
-      "spotify"
-    ],
-    "created_at": "2026-10-10T20:51:25",
-    "updated_at": "2026-10-14T22:05:12"
-  },
-  {
-    "name": "agent-standup",
-    "full_name": "Atoll92/agent-standup",
-    "description": "Your Claude Code and Codex sessions as a live, animated team call: who is working, who waits on whom, who needs you. VS Code extension, terminal command, desktop app. Runs locally, zero tokens.",
-    "url": "https://github.com/Atoll92/agent-standup",
-    "stars": 206,
-    "daily_stars": 2,
-    "language": "HTML",
-    "topics": [
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "codex",
-      "developer-tools",
-      "monitoring",
-      "subagents",
-      "visualization",
-      "vscode-extension"
-    ],
-    "created_at": "2026-10-10T07:48:17",
-    "updated_at": "2026-10-14T22:58:51"
+    "created_at": "2026-10-13T13:47:31",
+    "updated_at": "2026-10-15T13:36:14"
   },
   {
     "name": "decomp.wtf",
     "full_name": "i12bp8/decomp.wtf",
     "description": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
     "url": "https://github.com/i12bp8/decomp.wtf",
-    "stars": 201,
-    "daily_stars": 28,
+    "stars": 290,
+    "daily_stars": 89,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -208,34 +189,54 @@
       "reverse-engineering"
     ],
     "created_at": "2026-10-13T08:19:01",
-    "updated_at": "2026-10-14T23:03:54"
+    "updated_at": "2026-10-15T13:33:13"
   },
   {
-    "name": "claude-show-your-work",
-    "full_name": "iamumeransari/claude-show-your-work",
-    "description": "Claude Code shows images and plays videos right in your terminal: screenshots, Playwright recordings, and synced before/after QA. Ghostty & kitty.",
-    "url": "https://github.com/iamumeransari/claude-show-your-work",
-    "stars": 191,
-    "daily_stars": 2,
-    "language": "TypeScript",
+    "name": "agent-chrome-relay",
+    "full_name": "aindeev/agent-chrome-relay",
+    "description": "Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev · blog: read.aindeev.com · X: @AlexeyIndeev",
+    "url": "https://github.com/aindeev/agent-chrome-relay",
+    "stars": 284,
+    "daily_stars": 1,
+    "language": "JavaScript",
     "topics": [
+      "agent-browser",
       "ai-agents",
-      "anthropic",
+      "browser-automation",
+      "cdp",
+      "chrome-extension",
       "claude",
       "claude-code",
-      "claude-code-mod",
-      "claude-code-mods",
-      "claude-code-plugin",
-      "developer-tools",
-      "ghostty",
-      "kitty",
-      "kitty-graphics-protocol",
-      "playwright",
-      "screenshots",
-      "terminal",
-      "visual-qa"
+      "codex",
+      "cursor",
+      "macos",
+      "paseo"
     ],
-    "created_at": "2026-10-08T11:57:55",
-    "updated_at": "2026-10-14T22:28:11"
+    "created_at": "2026-10-10T07:38:27",
+    "updated_at": "2026-10-15T06:24:53"
+  },
+  {
+    "name": "hermes-official-plugins",
+    "full_name": "NousResearch/hermes-official-plugins",
+    "description": "☤ The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, Spotify, Claude Subscription DirectSDK and more, one install away from the Hermes plugin catalog.",
+    "url": "https://github.com/NousResearch/hermes-official-plugins",
+    "stars": 284,
+    "daily_stars": 6,
+    "language": "Python",
+    "topics": [
+      "agent-plugins",
+      "ai-agents",
+      "claude",
+      "hermes",
+      "hermes-agent",
+      "home-assistant",
+      "llm",
+      "model-provider",
+      "nous-research",
+      "plugins",
+      "spotify"
+    ],
+    "created_at": "2026-10-10T20:51:25",
+    "updated_at": "2026-10-15T13:31:29"
   }
 ]
