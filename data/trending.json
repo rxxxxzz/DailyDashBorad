@@ -4,8 +4,8 @@
     "full_name": "zouyuxuan122/dsh-our-free-model",
     "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
     "url": "https://github.com/zouyuxuan122/dsh-our-free-model",
-    "stars": 18197,
-    "daily_stars": 390,
+    "stars": 18880,
+    "daily_stars": 683,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -20,15 +20,34 @@
       "openai-compatible"
     ],
     "created_at": "2026-09-24T16:17:19",
-    "updated_at": "2026-10-16T04:48:18"
+    "updated_at": "2026-10-16T13:26:04"
+  },
+  {
+    "name": "open_scion",
+    "full_name": "feder-cr/open_scion",
+    "description": "Open-source version of Scion: version control built for coding agents.",
+    "url": "https://github.com/feder-cr/open_scion",
+    "stars": 1031,
+    "daily_stars": 264,
+    "language": "Go",
+    "topics": [
+      "ai-agents",
+      "coding-agents",
+      "git",
+      "golang",
+      "scion",
+      "version-control"
+    ],
+    "created_at": "2026-10-15T13:12:02",
+    "updated_at": "2026-10-16T13:19:02"
   },
   {
     "name": "solid-glass",
     "full_name": "deeplethe/solid-glass",
     "description": "A design system for AI applications. Material, physical, tactile, technical.",
     "url": "https://github.com/deeplethe/solid-glass",
-    "stars": 1094,
-    "daily_stars": 132,
+    "stars": 1318,
+    "daily_stars": 224,
     "language": "TypeScript",
     "topics": [
       "agent-ui",
@@ -44,61 +63,43 @@
       "theme"
     ],
     "created_at": "2026-10-12T09:19:02",
-    "updated_at": "2026-10-16T04:42:11"
+    "updated_at": "2026-10-16T13:03:38"
   },
   {
-    "name": "Intent-Router",
-    "full_name": "angel291592/Intent-Router",
-    "description": "Intent compiler for AI agents — converges vague requests into typed IntentSpec contracts (probe, ask, or halt before routing), the input layer for routers and typed-decision models like Jev & Laya",
-    "url": "https://github.com/angel291592/Intent-Router",
-    "stars": 762,
-    "daily_stars": 84,
-    "language": "Python",
+    "name": "lemo-opuscar",
+    "full_name": "lemomo-ai/lemo-opuscar",
+    "description": "39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+    "url": "https://github.com/lemomo-ai/lemo-opuscar",
+    "stars": 2613,
+    "daily_stars": 118,
+    "language": "JavaScript",
     "topics": [
-      "agent-skills",
-      "agentic",
       "ai-agents",
-      "clarification",
+      "ai-video",
+      "animation",
+      "canvas",
+      "claude",
       "claude-code",
-      "codex",
-      "context-engineering",
-      "decision-model",
-      "intent",
-      "llm-routing",
-      "prompt-engineering",
-      "skill",
-      "system-one",
-      "typed-decisions"
+      "creative-coding",
+      "ffmpeg",
+      "filmmaking",
+      "motion-graphics",
+      "prompt-library",
+      "text-to-speech",
+      "threejs",
+      "video-production",
+      "webgl"
     ],
-    "created_at": "2026-09-22T06:00:27",
-    "updated_at": "2026-10-16T04:40:24"
-  },
-  {
-    "name": "open_scion",
-    "full_name": "feder-cr/open_scion",
-    "description": "Open-source version of Scion: version control built for coding agents.",
-    "url": "https://github.com/feder-cr/open_scion",
-    "stars": 767,
-    "daily_stars": 73,
-    "language": "Go",
-    "topics": [
-      "ai-agents",
-      "coding-agents",
-      "git",
-      "golang",
-      "scion",
-      "version-control"
-    ],
-    "created_at": "2026-10-15T13:12:02",
-    "updated_at": "2026-10-16T04:46:04"
+    "created_at": "2026-09-26T10:10:41",
+    "updated_at": "2026-10-16T13:04:39"
   },
   {
     "name": "eleven",
     "full_name": "Zfinix/eleven",
     "description": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
     "url": "https://github.com/Zfinix/eleven",
-    "stars": 510,
-    "daily_stars": 71,
+    "stars": 568,
+    "daily_stars": 58,
     "language": "TypeScript",
     "topics": [
       "acp",
@@ -113,37 +114,15 @@
       "reverse-engineering"
     ],
     "created_at": "2026-10-13T13:47:31",
-    "updated_at": "2026-10-16T04:32:16"
-  },
-  {
-    "name": "AI-Cross-Border-Ecommerce-Agent-Toolkit",
-    "full_name": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
-    "description": "AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例",
-    "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
-    "stars": 233,
-    "daily_stars": 46,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "cross-border-ecommerce",
-      "ecommerce",
-      "llm",
-      "mercado-livre",
-      "prompt-engineering",
-      "shopee",
-      "sop",
-      "workflow-automation"
-    ],
-    "created_at": "2026-10-13T10:13:21",
-    "updated_at": "2026-10-16T04:38:43"
+    "updated_at": "2026-10-16T13:05:27"
   },
   {
     "name": "geo-sleuth",
     "full_name": "Oldcircle/geo-sleuth",
     "description": "An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CLI, OpenCode and GitHub Copilot.",
     "url": "https://github.com/Oldcircle/geo-sleuth",
-    "stars": 3007,
-    "daily_stars": 40,
+    "stars": 3058,
+    "daily_stars": 51,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -166,15 +145,74 @@
       "satellite-imagery"
     ],
     "created_at": "2026-09-18T08:51:34",
-    "updated_at": "2026-10-16T04:31:54"
+    "updated_at": "2026-10-16T13:14:34"
+  },
+  {
+    "name": "gpt-with-taste",
+    "full_name": "NB-Corp/gpt-with-taste",
+    "description": "Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
+    "url": "https://github.com/NB-Corp/gpt-with-taste",
+    "stars": 281,
+    "daily_stars": 48,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "codex",
+      "gpt",
+      "prompt-engineering",
+      "system-prompt"
+    ],
+    "created_at": "2026-10-12T16:40:29",
+    "updated_at": "2026-10-16T13:20:55"
+  },
+  {
+    "name": "AI-Cross-Border-Ecommerce-Agent-Toolkit",
+    "full_name": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+    "description": "AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例",
+    "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+    "stars": 278,
+    "daily_stars": 45,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "cross-border-ecommerce",
+      "ecommerce",
+      "llm",
+      "mercado-livre",
+      "prompt-engineering",
+      "shopee",
+      "sop",
+      "workflow-automation"
+    ],
+    "created_at": "2026-10-13T10:13:21",
+    "updated_at": "2026-10-16T13:25:46"
+  },
+  {
+    "name": "mailcheap",
+    "full_name": "marclou/mailcheap",
+    "description": "The affordable newsletter for the agentic era. Open source: self-host it, or use mailcheap.ai.",
+    "url": "https://github.com/marclou/mailcheap",
+    "stars": 1105,
+    "daily_stars": 39,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "email",
+      "mcp",
+      "newsletter",
+      "nextjs",
+      "self-hosted"
+    ],
+    "created_at": "2026-10-10T12:55:36",
+    "updated_at": "2026-10-16T13:15:41"
   },
   {
     "name": "decomp.wtf",
     "full_name": "i12bp8/decomp.wtf",
     "description": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
     "url": "https://github.com/i12bp8/decomp.wtf",
-    "stars": 386,
-    "daily_stars": 34,
+    "stars": 425,
+    "daily_stars": 39,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -192,53 +230,6 @@
       "reverse-engineering"
     ],
     "created_at": "2026-10-13T08:19:01",
-    "updated_at": "2026-10-16T04:34:38"
-  },
-  {
-    "name": "lemo-opuscar",
-    "full_name": "lemomo-ai/lemo-opuscar",
-    "description": "39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
-    "url": "https://github.com/lemomo-ai/lemo-opuscar",
-    "stars": 2495,
-    "daily_stars": 28,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "ai-video",
-      "animation",
-      "canvas",
-      "claude",
-      "claude-code",
-      "creative-coding",
-      "ffmpeg",
-      "filmmaking",
-      "motion-graphics",
-      "prompt-library",
-      "text-to-speech",
-      "threejs",
-      "video-production",
-      "webgl"
-    ],
-    "created_at": "2026-09-26T10:10:41",
-    "updated_at": "2026-10-16T04:43:31"
-  },
-  {
-    "name": "mailcheap",
-    "full_name": "marclou/mailcheap",
-    "description": "The affordable newsletter for the agentic era. Open source: self-host it, or use mailcheap.ai.",
-    "url": "https://github.com/marclou/mailcheap",
-    "stars": 1066,
-    "daily_stars": 21,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "email",
-      "mcp",
-      "newsletter",
-      "nextjs",
-      "self-hosted"
-    ],
-    "created_at": "2026-10-10T12:55:36",
-    "updated_at": "2026-10-16T04:33:52"
+    "updated_at": "2026-10-16T12:56:24"
   }
 ]
