@@ -1,11 +1,30 @@
 [
   {
+    "name": "open_scion",
+    "full_name": "feder-cr/open_scion",
+    "description": "Open-source version of Scion: version control built for coding agents.",
+    "url": "https://github.com/feder-cr/open_scion",
+    "stars": 2014,
+    "daily_stars": 507,
+    "language": "Go",
+    "topics": [
+      "ai-agents",
+      "coding-agents",
+      "git",
+      "golang",
+      "scion",
+      "version-control"
+    ],
+    "created_at": "2026-10-15T13:12:02",
+    "updated_at": "2026-10-18T22:31:01"
+  },
+  {
     "name": "dsh-our-free-model",
     "full_name": "zouyuxuan122/dsh-our-free-model",
     "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
     "url": "https://github.com/zouyuxuan122/dsh-our-free-model",
-    "stars": 24605,
-    "daily_stars": 789,
+    "stars": 24688,
+    "daily_stars": 83,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -20,62 +39,37 @@
       "openai-compatible"
     ],
     "created_at": "2026-09-24T16:17:19",
-    "updated_at": "2026-10-18T18:46:42"
+    "updated_at": "2026-10-18T22:17:04"
   },
   {
-    "name": "open_scion",
-    "full_name": "feder-cr/open_scion",
-    "description": "Open-source version of Scion: version control built for coding agents.",
-    "url": "https://github.com/feder-cr/open_scion",
-    "stars": 1507,
-    "daily_stars": 335,
-    "language": "Go",
-    "topics": [
-      "ai-agents",
-      "coding-agents",
-      "git",
-      "golang",
-      "scion",
-      "version-control"
-    ],
-    "created_at": "2026-10-15T13:12:02",
-    "updated_at": "2026-10-18T18:40:20"
-  },
-  {
-    "name": "carrel",
-    "full_name": "FengZhenfei/carrel",
-    "description": "Ontology-Augmented Generation for AI agents. ",
-    "url": "https://github.com/FengZhenfei/carrel",
-    "stars": 311,
-    "daily_stars": 97,
+    "name": "ldraw-nova",
+    "full_name": "anteloc/ldraw-nova",
+    "description": "Agent tooling for generative LEGO models building, built with Astra and Opus 5.5, powered by Jev",
+    "url": "https://github.com/anteloc/ldraw-nova",
+    "stars": 391,
+    "daily_stars": 23,
     "language": "Python",
     "topics": [
-      "agent-skills",
+      "ai-3d-model-generator",
       "ai-agents",
-      "chinese",
-      "claude-code-skill",
-      "codex-skill",
-      "document-parsing",
-      "knowledge-graph",
-      "knowledge-graphs",
-      "mineru",
-      "neo4j",
-      "ontology",
-      "opensearch",
-      "qdrant",
-      "rag",
-      "retrieval-augmented-generation"
+      "ai-cad",
+      "blender",
+      "ldraw",
+      "ldraw-model",
+      "lego",
+      "meta-quest",
+      "virtual-reality"
     ],
-    "created_at": "2026-09-28T11:13:02",
-    "updated_at": "2026-10-18T13:51:25"
+    "created_at": "2026-09-23T18:08:25",
+    "updated_at": "2026-10-18T22:17:25"
   },
   {
     "name": "awesome-reverse-engineering",
     "full_name": "morluto/awesome-reverse-engineering",
     "description": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
     "url": "https://github.com/morluto/awesome-reverse-engineering",
-    "stars": 805,
-    "daily_stars": 54,
+    "stars": 827,
+    "daily_stars": 22,
     "language": null,
     "topics": [
       "agent-skills",
@@ -100,15 +94,89 @@
       "static-analysis"
     ],
     "created_at": "2026-10-09T14:58:20",
-    "updated_at": "2026-10-18T18:45:11"
+    "updated_at": "2026-10-18T22:30:02"
+  },
+  {
+    "name": "blender-skills",
+    "full_name": "EL4CTEO/blender-skills",
+    "description": "Professional Blender 5.2 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs, PBR, baking, rigging, animation, export and QA.",
+    "url": "https://github.com/EL4CTEO/blender-skills",
+    "stars": 192,
+    "daily_stars": 21,
+    "language": "Python",
+    "topics": [
+      "3d",
+      "agent-skills",
+      "ai-agents",
+      "blender",
+      "blender-python",
+      "bpy",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "game-assets",
+      "gemini-cli",
+      "godot",
+      "mcp",
+      "pbr",
+      "rigging",
+      "roblox",
+      "unity",
+      "unreal-engine"
+    ],
+    "created_at": "2026-10-14T19:08:14",
+    "updated_at": "2026-10-18T22:21:11"
+  },
+  {
+    "name": "earshot",
+    "full_name": "Leonxlnx/earshot",
+    "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+    "url": "https://github.com/Leonxlnx/earshot",
+    "stars": 768,
+    "daily_stars": 17,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "audio",
+      "claude-code",
+      "mcp",
+      "sound-design"
+    ],
+    "created_at": "2026-10-15T06:52:46",
+    "updated_at": "2026-10-18T22:30:17"
+  },
+  {
+    "name": "coucou",
+    "full_name": "Louis-CFM/coucou",
+    "description": "A tiny friend that lives in your MacBook's notch and keeps an eye on your Claude Code sessions.",
+    "url": "https://github.com/Louis-CFM/coucou",
+    "stars": 5522,
+    "daily_stars": 12,
+    "language": "Swift",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "dynamic-island",
+      "macos",
+      "macos-app",
+      "menubar-app",
+      "notch",
+      "open-source",
+      "swift",
+      "swiftui"
+    ],
+    "created_at": "2026-09-27T21:54:12",
+    "updated_at": "2026-10-18T22:03:21"
   },
   {
     "name": "lemo-opuscar",
     "full_name": "lemomo-ai/lemo-opuscar",
     "description": "39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
     "url": "https://github.com/lemomo-ai/lemo-opuscar",
-    "stars": 3026,
-    "daily_stars": 52,
+    "stars": 3037,
+    "daily_stars": 11,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -128,109 +196,15 @@
       "webgl"
     ],
     "created_at": "2026-09-26T10:10:41",
-    "updated_at": "2026-10-18T18:34:51"
-  },
-  {
-    "name": "Tracely-ai",
-    "full_name": "jwuthri-cloud/Tracely-ai",
-    "description": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hostable.",
-    "url": "https://github.com/jwuthri-cloud/Tracely-ai",
-    "stars": 1010,
-    "daily_stars": 34,
-    "language": "Python",
-    "topics": [
-      "agent-evaluation",
-      "ai-agents",
-      "ai-testing",
-      "ci-cd",
-      "clickhouse",
-      "developer-tools",
-      "llm-evaluation",
-      "llm-observability",
-      "llmops",
-      "mcp",
-      "observability",
-      "python",
-      "regression-testing",
-      "self-hosted",
-      "tracing"
-    ],
-    "created_at": "2026-10-11T15:38:03",
-    "updated_at": "2026-10-18T18:09:02"
-  },
-  {
-    "name": "coucou",
-    "full_name": "Louis-CFM/coucou",
-    "description": "A tiny friend that lives in your MacBook's notch and keeps an eye on your Claude Code sessions.",
-    "url": "https://github.com/Louis-CFM/coucou",
-    "stars": 5510,
-    "daily_stars": 32,
-    "language": "Swift",
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "dynamic-island",
-      "macos",
-      "macos-app",
-      "menubar-app",
-      "notch",
-      "open-source",
-      "swift",
-      "swiftui"
-    ],
-    "created_at": "2026-09-27T21:54:12",
-    "updated_at": "2026-10-18T18:08:42"
-  },
-  {
-    "name": "eleven",
-    "full_name": "Zfinix/eleven",
-    "description": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
-    "url": "https://github.com/Zfinix/eleven",
-    "stars": 748,
-    "daily_stars": 31,
-    "language": "TypeScript",
-    "topics": [
-      "acp",
-      "ai-agents",
-      "android",
-      "decompiler",
-      "disassembler",
-      "ghidra",
-      "hopper",
-      "macos",
-      "rea",
-      "reverse-engineering"
-    ],
-    "created_at": "2026-10-13T13:47:31",
-    "updated_at": "2026-10-18T18:46:27"
-  },
-  {
-    "name": "earshot",
-    "full_name": "Leonxlnx/earshot",
-    "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-    "url": "https://github.com/Leonxlnx/earshot",
-    "stars": 751,
-    "daily_stars": 22,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "audio",
-      "claude-code",
-      "mcp",
-      "sound-design"
-    ],
-    "created_at": "2026-10-15T06:52:46",
-    "updated_at": "2026-10-18T18:25:37"
+    "updated_at": "2026-10-18T22:00:21"
   },
   {
     "name": "Grandet",
     "full_name": "hanzohanzhe/Grandet",
     "description": "Find the cheapest API for any model and connect it from your AI agent: Grandet Skill and an anonymous MCP server, backed by listed prices from 1,800+ official, inference and relay providers on grandet.ai.",
     "url": "https://github.com/hanzohanzhe/Grandet",
-    "stars": 362,
-    "daily_stars": 22,
+    "stars": 373,
+    "daily_stars": 11,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -251,6 +225,34 @@
       "price-comparison"
     ],
     "created_at": "2026-10-05T06:50:33",
-    "updated_at": "2026-10-18T18:31:44"
+    "updated_at": "2026-10-18T22:26:40"
+  },
+  {
+    "name": "Tracely-ai",
+    "full_name": "jwuthri-cloud/Tracely-ai",
+    "description": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hostable.",
+    "url": "https://github.com/jwuthri-cloud/Tracely-ai",
+    "stars": 1020,
+    "daily_stars": 10,
+    "language": "Python",
+    "topics": [
+      "agent-evaluation",
+      "ai-agents",
+      "ai-testing",
+      "ci-cd",
+      "clickhouse",
+      "developer-tools",
+      "llm-evaluation",
+      "llm-observability",
+      "llmops",
+      "mcp",
+      "observability",
+      "python",
+      "regression-testing",
+      "self-hosted",
+      "tracing"
+    ],
+    "created_at": "2026-10-11T15:38:03",
+    "updated_at": "2026-10-18T22:28:37"
   }
 ]
