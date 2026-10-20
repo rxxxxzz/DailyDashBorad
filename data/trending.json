@@ -4,8 +4,8 @@
     "full_name": "zouyuxuan122/dsh-our-free-model",
     "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
     "url": "https://github.com/zouyuxuan122/dsh-our-free-model",
-    "stars": 27604,
-    "daily_stars": 271,
+    "stars": 28394,
+    "daily_stars": 790,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -20,33 +20,15 @@
       "openai-compatible"
     ],
     "created_at": "2026-09-24T16:17:19",
-    "updated_at": "2026-10-19T21:02:42"
-  },
-  {
-    "name": "earshot",
-    "full_name": "Leonxlnx/earshot",
-    "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-    "url": "https://github.com/Leonxlnx/earshot",
-    "stars": 1473,
-    "daily_stars": 154,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "audio",
-      "claude-code",
-      "mcp",
-      "sound-design"
-    ],
-    "created_at": "2026-10-15T06:52:46",
-    "updated_at": "2026-10-19T21:06:45"
+    "updated_at": "2026-10-20T05:06:39"
   },
   {
     "name": "lemo-opuscar",
     "full_name": "lemomo-ai/lemo-opuscar",
     "description": "39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
     "url": "https://github.com/lemomo-ai/lemo-opuscar",
-    "stars": 3736,
-    "daily_stars": 95,
+    "stars": 3934,
+    "daily_stars": 198,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -66,15 +48,79 @@
       "webgl"
     ],
     "created_at": "2026-09-26T10:10:41",
-    "updated_at": "2026-10-19T20:58:48"
+    "updated_at": "2026-10-20T05:02:24"
+  },
+  {
+    "name": "earshot",
+    "full_name": "Leonxlnx/earshot",
+    "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+    "url": "https://github.com/Leonxlnx/earshot",
+    "stars": 1621,
+    "daily_stars": 148,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "audio",
+      "claude-code",
+      "mcp",
+      "sound-design"
+    ],
+    "created_at": "2026-10-15T06:52:46",
+    "updated_at": "2026-10-20T05:01:40"
+  },
+  {
+    "name": "solid-glass",
+    "full_name": "deeplethe/solid-glass",
+    "description": "A design system for AI applications. Material, physical, tactile, technical.",
+    "url": "https://github.com/deeplethe/solid-glass",
+    "stars": 2375,
+    "daily_stars": 104,
+    "language": "TypeScript",
+    "topics": [
+      "agent-ui",
+      "ai",
+      "ai-agents",
+      "chat-ui",
+      "design-system",
+      "llm",
+      "react",
+      "shadcn",
+      "shadcn-ui",
+      "tailwindcss",
+      "theme"
+    ],
+    "created_at": "2026-10-12T09:19:02",
+    "updated_at": "2026-10-20T04:49:41"
+  },
+  {
+    "name": "scrawl",
+    "full_name": "kitlangton/scrawl",
+    "description": "Show an agent a problem: mark up, record, send",
+    "url": "https://github.com/kitlangton/scrawl",
+    "stars": 490,
+    "daily_stars": 56,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "coding-agents",
+      "developer-tools",
+      "gpui",
+      "macos",
+      "opencode",
+      "rust",
+      "screen-recording"
+    ],
+    "created_at": "2026-10-14T23:21:44",
+    "updated_at": "2026-10-20T04:54:39"
   },
   {
     "name": "open-intelligent-ui",
     "full_name": "thesysdev/open-intelligent-ui",
     "description": "An open-source take on ChatGPT's Intelligent UI: answers stream as interactive UI (maps, photos, charts, drawings and working tools). Built with OpenUI.",
     "url": "https://github.com/thesysdev/open-intelligent-ui",
-    "stars": 634,
-    "daily_stars": 34,
+    "stars": 677,
+    "daily_stars": 43,
     "language": "TypeScript",
     "topics": [
       "agents",
@@ -94,15 +140,36 @@
       "typescript"
     ],
     "created_at": "2026-10-08T05:37:45",
-    "updated_at": "2026-10-19T21:07:58"
+    "updated_at": "2026-10-20T05:03:53"
+  },
+  {
+    "name": "Hycli",
+    "full_name": "Hybirdss/Hycli",
+    "description": "Websites, ready for AI. Turn website tasks into verified CLI and MCP actions, with a local dashboard and 20 languages.",
+    "url": "https://github.com/Hybirdss/Hycli",
+    "stars": 320,
+    "daily_stars": 40,
+    "language": "Rust",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "cli",
+      "developer-tools",
+      "local-first",
+      "mcp",
+      "rust",
+      "websites"
+    ],
+    "created_at": "2026-10-09T16:57:27",
+    "updated_at": "2026-10-20T04:32:59"
   },
   {
     "name": "open_scion",
     "full_name": "feder-cr/open_scion",
     "description": "Open-source version of Scion: version control built for coding agents.",
     "url": "https://github.com/feder-cr/open_scion",
-    "stars": 2442,
-    "daily_stars": 33,
+    "stars": 2471,
+    "daily_stars": 29,
     "language": "Go",
     "topics": [
       "ai-agents",
@@ -113,62 +180,40 @@
       "version-control"
     ],
     "created_at": "2026-10-15T13:12:02",
-    "updated_at": "2026-10-19T21:01:54"
+    "updated_at": "2026-10-20T05:06:25"
   },
   {
-    "name": "agent-security",
-    "full_name": "solongate/agent-security",
-    "description": "Local-first, open-source security gateway for AI coding agents. Enforce tool-call policies, detect secrets, and audit actions on-device.",
-    "url": "https://github.com/solongate/agent-security",
-    "stars": 151,
-    "daily_stars": 14,
-    "language": "Go",
+    "name": "coucou",
+    "full_name": "Louis-CFM/coucou",
+    "description": "A tiny friend that lives in your MacBook's notch and keeps an eye on your Claude Code sessions.",
+    "url": "https://github.com/Louis-CFM/coucou",
+    "stars": 5603,
+    "daily_stars": 23,
+    "language": "Swift",
     "topics": [
-      "ai-agent-security",
       "ai-agents",
+      "anthropic",
+      "claude",
       "claude-code",
-      "codex",
-      "dlp",
-      "local-first",
-      "policy-enforcement",
-      "security-gateway"
+      "dynamic-island",
+      "macos",
+      "macos-app",
+      "menubar-app",
+      "notch",
+      "open-source",
+      "swift",
+      "swiftui"
     ],
-    "created_at": "2026-09-27T10:48:40",
-    "updated_at": "2026-10-19T20:50:44"
-  },
-  {
-    "name": "ai_goodpractice",
-    "full_name": "xop01/ai_goodpractice",
-    "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
-    "url": "https://github.com/xop01/ai_goodpractice",
-    "stars": 489,
-    "daily_stars": 13,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "ai-coding",
-      "ai-model",
-      "ai-safety",
-      "ai-tools",
-      "guide",
-      "guidebook",
-      "guideline",
-      "guidelines",
-      "guides",
-      "usage"
-    ],
-    "created_at": "2026-10-02T11:01:25",
-    "updated_at": "2026-10-19T20:49:06"
+    "created_at": "2026-09-27T21:54:12",
+    "updated_at": "2026-10-20T04:29:24"
   },
   {
     "name": "Grandet",
     "full_name": "hanzohanzhe/Grandet",
     "description": "Find the cheapest API for any model and connect it from your AI agent: Grandet Skill and an anonymous MCP server, backed by listed prices from 1,800+ official, inference and relay providers on grandet.ai.",
     "url": "https://github.com/hanzohanzhe/Grandet",
-    "stars": 450,
-    "daily_stars": 12,
+    "stars": 472,
+    "daily_stars": 22,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -189,57 +234,6 @@
       "price-comparison"
     ],
     "created_at": "2026-10-05T06:50:33",
-    "updated_at": "2026-10-19T20:32:39"
-  },
-  {
-    "name": "better-claude",
-    "full_name": "midudev/better-claude",
-    "description": "Small plugins and mods that make your life (and Claude Code) better",
-    "url": "https://github.com/midudev/better-claude",
-    "stars": 130,
-    "daily_stars": 12,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "claude-code-mod",
-      "claude-code-plugin",
-      "prompt-queue"
-    ],
-    "created_at": "2026-10-05T10:09:42",
-    "updated_at": "2026-10-19T20:35:47"
-  },
-  {
-    "name": "awesome-reverse-engineering",
-    "full_name": "morluto/awesome-reverse-engineering",
-    "description": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
-    "url": "https://github.com/morluto/awesome-reverse-engineering",
-    "stars": 916,
-    "daily_stars": 11,
-    "language": null,
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "awesome",
-      "awesome-list",
-      "binary-analysis",
-      "ctf",
-      "cybersecurity",
-      "debugging",
-      "decompiler",
-      "disassembler",
-      "dynamic-analysis",
-      "firmware",
-      "frida",
-      "ghidra",
-      "malware-analysis",
-      "mcp",
-      "reverse-engineering",
-      "security",
-      "security-tools",
-      "static-analysis"
-    ],
-    "created_at": "2026-10-09T14:58:20",
-    "updated_at": "2026-10-19T20:49:15"
+    "updated_at": "2026-10-20T04:56:31"
   }
 ]
