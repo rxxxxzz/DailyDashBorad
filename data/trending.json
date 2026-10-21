@@ -4,8 +4,8 @@
     "full_name": "zouyuxuan122/dsh-our-free-model",
     "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
     "url": "https://github.com/zouyuxuan122/dsh-our-free-model",
-    "stars": 31382,
-    "daily_stars": 572,
+    "stars": 32971,
+    "daily_stars": 1589,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -20,15 +20,15 @@
       "openai-compatible"
     ],
     "created_at": "2026-09-24T16:17:19",
-    "updated_at": "2026-10-21T05:08:13"
+    "updated_at": "2026-10-21T14:01:17"
   },
   {
     "name": "lemo-opuscar",
     "full_name": "lemomo-ai/lemo-opuscar",
     "description": "39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
     "url": "https://github.com/lemomo-ai/lemo-opuscar",
-    "stars": 4450,
-    "daily_stars": 102,
+    "stars": 4726,
+    "daily_stars": 276,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -48,15 +48,99 @@
       "webgl"
     ],
     "created_at": "2026-09-26T10:10:41",
-    "updated_at": "2026-10-21T05:07:51"
+    "updated_at": "2026-10-21T14:00:53"
+  },
+  {
+    "name": "awesome-reverse-engineered",
+    "full_name": "alexgaoth/awesome-reverse-engineered",
+    "description": "Don't reverse engineer it twice. 12,000+ open-source tools built by reverse engineering closed apps, APIs, devices, protocols, file formats, games and AI tools. Search site + agent skill, refreshed nightly.",
+    "url": "https://github.com/alexgaoth/awesome-reverse-engineered",
+    "stars": 374,
+    "daily_stars": 143,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "awesome",
+      "awesome-list",
+      "claude-code",
+      "decompilation",
+      "file-formats",
+      "game-decompilation",
+      "hacktoberfest",
+      "home-assistant",
+      "interoperability",
+      "iot",
+      "local-control",
+      "open-source",
+      "protocol",
+      "reverse-engineered",
+      "reverse-engineering",
+      "unofficial-api"
+    ],
+    "created_at": "2026-10-11T17:30:10",
+    "updated_at": "2026-10-21T14:01:06"
+  },
+  {
+    "name": "axuse",
+    "full_name": "ctoldigital/axuse",
+    "description": "Accessibility-first browser & computer use for AI agents — one MCP server for every harness (Codex, Claude Code, OpenCode, Antigravity). Instruments the DOM/accessibility tree via CDP instead of screenshot loops: diffed snapshots, stable element refs, trusted input, typed errors. Zero dependencies",
+    "url": "https://github.com/ctoldigital/axuse",
+    "stars": 192,
+    "daily_stars": 63,
+    "language": "JavaScript",
+    "topics": [
+      "agentic-automation",
+      "ai-agents",
+      "browser-automation",
+      "browser-use",
+      "cdp",
+      "chrome-devtools-protocol",
+      "computer-use",
+      "cua",
+      "mcp",
+      "model-context-protocol",
+      "rpa",
+      "web-automation"
+    ],
+    "created_at": "2026-10-14T19:55:37",
+    "updated_at": "2026-10-21T12:32:44"
+  },
+  {
+    "name": "carrel",
+    "full_name": "FengZhenfei/carrel",
+    "description": "Ontology-Augmented Generation for AI agents. ",
+    "url": "https://github.com/FengZhenfei/carrel",
+    "stars": 373,
+    "daily_stars": 61,
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "chinese",
+      "claude-code-skill",
+      "codex-skill",
+      "document-parsing",
+      "knowledge-graph",
+      "knowledge-graphs",
+      "mineru",
+      "neo4j",
+      "ontology",
+      "opensearch",
+      "qdrant",
+      "rag",
+      "retrieval-augmented-generation"
+    ],
+    "created_at": "2026-09-28T11:13:02",
+    "updated_at": "2026-10-21T13:23:36"
   },
   {
     "name": "earshot",
     "full_name": "Leonxlnx/earshot",
     "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
     "url": "https://github.com/Leonxlnx/earshot",
-    "stars": 1985,
-    "daily_stars": 46,
+    "stars": 2029,
+    "daily_stars": 44,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -66,36 +150,15 @@
       "sound-design"
     ],
     "created_at": "2026-10-15T06:52:46",
-    "updated_at": "2026-10-21T04:46:19"
-  },
-  {
-    "name": "ai-chan-sheets",
-    "full_name": "lmy414/ai-chan-sheets",
-    "description": "基于 ZipZipPipe（胖次狐）AI 娘立绘的横版完整设定图补全：拆解为三视图/表情/服装/道具独立素材，推定补全侧背面，原生像素 1:1 拼接。CC BY-NC-SA 4.0 非商业。",
-    "url": "https://github.com/lmy414/ai-chan-sheets",
-    "stars": 243,
-    "daily_stars": 44,
-    "language": "Python",
-    "topics": [
-      "ai-art",
-      "anime",
-      "bilibili",
-      "cc-by-nc-sa",
-      "character-design-sheet",
-      "gpt-image",
-      "setting-sheet",
-      "workflow"
-    ],
-    "created_at": "2026-10-08T08:51:13",
-    "updated_at": "2026-10-21T05:06:43"
+    "updated_at": "2026-10-21T13:46:13"
   },
   {
     "name": "durable-harness",
     "full_name": "vercel-labs/durable-harness",
     "description": "Durable coding-agent harnesses (Claude Code, Codex, OpenCode, Pi, fx) on a Workflow SDK World",
     "url": "https://github.com/vercel-labs/durable-harness",
-    "stars": 60,
-    "daily_stars": 38,
+    "stars": 101,
+    "daily_stars": 41,
     "language": "TypeScript",
     "topics": [
       "agents",
@@ -108,55 +171,37 @@
       "workflow"
     ],
     "created_at": "2026-10-16T04:54:47",
-    "updated_at": "2026-10-21T05:01:54"
+    "updated_at": "2026-10-21T13:58:16"
   },
   {
-    "name": "Hycli",
-    "full_name": "Hybirdss/Hycli",
-    "description": "Websites, ready for AI. Turn website tasks into verified CLI and MCP actions, with a local dashboard and 20 languages.",
-    "url": "https://github.com/Hybirdss/Hycli",
-    "stars": 396,
-    "daily_stars": 36,
+    "name": "scrawl",
+    "full_name": "kitlangton/scrawl",
+    "description": "Show an agent a problem: mark up, record, send",
+    "url": "https://github.com/kitlangton/scrawl",
+    "stars": 620,
+    "daily_stars": 34,
     "language": "Rust",
     "topics": [
       "ai-agents",
-      "automation",
-      "cli",
-      "developer-tools",
-      "local-first",
-      "mcp",
-      "rust",
-      "websites"
-    ],
-    "created_at": "2026-10-09T16:57:27",
-    "updated_at": "2026-10-21T04:26:21"
-  },
-  {
-    "name": "open_scion",
-    "full_name": "feder-cr/open_scion",
-    "description": "Open-source version of Scion: version control built for coding agents.",
-    "url": "https://github.com/feder-cr/open_scion",
-    "stars": 1290,
-    "daily_stars": 30,
-    "language": "Go",
-    "topics": [
-      "ai-agents",
+      "claude-code",
       "coding-agents",
-      "git",
-      "golang",
-      "scion",
-      "version-control"
+      "developer-tools",
+      "gpui",
+      "macos",
+      "opencode",
+      "rust",
+      "screen-recording"
     ],
-    "created_at": "2026-10-15T13:12:02",
-    "updated_at": "2026-10-21T05:06:36"
+    "created_at": "2026-10-14T23:21:44",
+    "updated_at": "2026-10-21T13:41:49"
   },
   {
     "name": "MemT-1.0",
     "full_name": "MemTensor/MemT-1.0",
     "description": "Official repository for MemT-1.0",
     "url": "https://github.com/MemTensor/MemT-1.0",
-    "stars": 222,
-    "daily_stars": 30,
+    "stars": 255,
+    "daily_stars": 33,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -171,68 +216,32 @@
       "sglang"
     ],
     "created_at": "2026-10-19T03:29:30",
-    "updated_at": "2026-10-21T04:29:59"
+    "updated_at": "2026-10-21T13:54:14"
   },
   {
-    "name": "awesome-reverse-engineering",
-    "full_name": "morluto/awesome-reverse-engineering",
-    "description": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
-    "url": "https://github.com/morluto/awesome-reverse-engineering",
-    "stars": 1023,
-    "daily_stars": 19,
+    "name": "ai_goodpractice",
+    "full_name": "xop01/ai_goodpractice",
+    "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
+    "url": "https://github.com/xop01/ai_goodpractice",
+    "stars": 575,
+    "daily_stars": 26,
     "language": null,
     "topics": [
-      "agent-skills",
-      "ai-agents",
-      "awesome",
-      "awesome-list",
-      "binary-analysis",
-      "ctf",
-      "cybersecurity",
-      "debugging",
-      "decompiler",
-      "disassembler",
-      "dynamic-analysis",
-      "firmware",
-      "frida",
-      "ghidra",
-      "malware-analysis",
-      "mcp",
-      "reverse-engineering",
-      "security",
-      "security-tools",
-      "static-analysis"
-    ],
-    "created_at": "2026-10-09T14:58:20",
-    "updated_at": "2026-10-21T05:01:23"
-  },
-  {
-    "name": "Grandet",
-    "full_name": "hanzohanzhe/Grandet",
-    "description": "Find the cheapest API for any model and connect it from your AI agent: Grandet Skill and an anonymous MCP server, backed by listed prices from 1,800+ official, inference and relay providers on grandet.ai.",
-    "url": "https://github.com/hanzohanzhe/Grandet",
-    "stars": 539,
-    "daily_stars": 17,
-    "language": "JavaScript",
-    "topics": [
-      "agent-skills",
       "ai",
+      "ai-agent",
       "ai-agents",
-      "api-credits",
-      "api-pricing",
-      "api-relay",
-      "claude-code",
-      "codex",
-      "developer-tools",
-      "free-api",
-      "free-tier",
-      "llm",
-      "llm-api",
-      "mcp",
-      "mcp-server",
-      "price-comparison"
+      "ai-coding",
+      "ai-model",
+      "ai-safety",
+      "ai-tools",
+      "guide",
+      "guidebook",
+      "guideline",
+      "guidelines",
+      "guides",
+      "usage"
     ],
-    "created_at": "2026-10-05T06:50:33",
-    "updated_at": "2026-10-21T05:02:43"
+    "created_at": "2026-10-02T11:01:25",
+    "updated_at": "2026-10-21T13:29:57"
   }
 ]
