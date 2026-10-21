@@ -4,8 +4,8 @@
     "full_name": "zouyuxuan122/dsh-our-free-model",
     "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
     "url": "https://github.com/zouyuxuan122/dsh-our-free-model",
-    "stars": 32971,
-    "daily_stars": 1589,
+    "stars": 33670,
+    "daily_stars": 699,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -20,15 +20,15 @@
       "openai-compatible"
     ],
     "created_at": "2026-09-24T16:17:19",
-    "updated_at": "2026-10-21T14:01:17"
+    "updated_at": "2026-10-21T20:16:41"
   },
   {
     "name": "lemo-opuscar",
     "full_name": "lemomo-ai/lemo-opuscar",
     "description": "39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
     "url": "https://github.com/lemomo-ai/lemo-opuscar",
-    "stars": 4726,
-    "daily_stars": 276,
+    "stars": 4869,
+    "daily_stars": 143,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -48,15 +48,40 @@
       "webgl"
     ],
     "created_at": "2026-09-26T10:10:41",
-    "updated_at": "2026-10-21T14:00:53"
+    "updated_at": "2026-10-21T20:17:56"
+  },
+  {
+    "name": "coucou",
+    "full_name": "Louis-CFM/coucou",
+    "description": "A tiny friend that lives in your MacBook's notch and keeps an eye on your Claude Code sessions.",
+    "url": "https://github.com/Louis-CFM/coucou",
+    "stars": 5780,
+    "daily_stars": 108,
+    "language": "Swift",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "dynamic-island",
+      "macos",
+      "macos-app",
+      "menubar-app",
+      "notch",
+      "open-source",
+      "swift",
+      "swiftui"
+    ],
+    "created_at": "2026-09-27T21:54:12",
+    "updated_at": "2026-10-21T20:16:37"
   },
   {
     "name": "awesome-reverse-engineered",
     "full_name": "alexgaoth/awesome-reverse-engineered",
     "description": "Don't reverse engineer it twice. 12,000+ open-source tools built by reverse engineering closed apps, APIs, devices, protocols, file formats, games and AI tools. Search site + agent skill, refreshed nightly.",
     "url": "https://github.com/alexgaoth/awesome-reverse-engineered",
-    "stars": 374,
-    "daily_stars": 143,
+    "stars": 448,
+    "daily_stars": 74,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -79,15 +104,71 @@
       "unofficial-api"
     ],
     "created_at": "2026-10-11T17:30:10",
-    "updated_at": "2026-10-21T14:01:06"
+    "updated_at": "2026-10-21T20:15:51"
+  },
+  {
+    "name": "xiryn",
+    "full_name": "SouravBeraAkaSpeed/xiryn",
+    "description": "Xiryn — the open-source personal agent. Does everything Muse, Grok Bot and Dots do, on your own computer: each agent gets its own Linux desktop in Docker, any model with your keys, an encrypted vault, and control from Telegram.",
+    "url": "https://github.com/SouravBeraAkaSpeed/xiryn",
+    "stars": 236,
+    "daily_stars": 37,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "byok",
+      "computer-use",
+      "docker",
+      "firecrawl",
+      "llm",
+      "local-first",
+      "multi-agent",
+      "nextjs",
+      "ollama",
+      "open-source",
+      "openai",
+      "personal-agent",
+      "privacy",
+      "self-hosted",
+      "sqlite",
+      "telegram-bot",
+      "typescript"
+    ],
+    "created_at": "2026-10-11T13:12:31",
+    "updated_at": "2026-10-21T19:31:46"
+  },
+  {
+    "name": "awesome-grokbot-playbooks",
+    "full_name": "sit-in/awesome-grokbot-playbooks",
+    "description": "中文 Grok Bot 玩法与可抄配方清单：作战室、雷达 Routine、额度体检… 由 Grok Bot + Claude 协作维护 | Chinese-first Grok Bot playbooks",
+    "url": "https://github.com/sit-in/awesome-grokbot-playbooks",
+    "stars": 150,
+    "daily_stars": 34,
+    "language": "HTML",
+    "topics": [
+      "ai-agents",
+      "awesome",
+      "awesome-list",
+      "chinese",
+      "grok",
+      "grok-bot",
+      "multi-agent",
+      "playbooks",
+      "prompts",
+      "xai"
+    ],
+    "created_at": "2026-10-17T15:47:00",
+    "updated_at": "2026-10-21T19:21:20"
   },
   {
     "name": "axuse",
     "full_name": "ctoldigital/axuse",
     "description": "Accessibility-first browser & computer use for AI agents — one MCP server for every harness (Codex, Claude Code, OpenCode, Antigravity). Instruments the DOM/accessibility tree via CDP instead of screenshot loops: diffed snapshots, stable element refs, trusted input, typed errors. Zero dependencies",
     "url": "https://github.com/ctoldigital/axuse",
-    "stars": 192,
-    "daily_stars": 63,
+    "stars": 224,
+    "daily_stars": 32,
     "language": "JavaScript",
     "topics": [
       "agentic-automation",
@@ -104,61 +185,15 @@
       "web-automation"
     ],
     "created_at": "2026-10-14T19:55:37",
-    "updated_at": "2026-10-21T12:32:44"
-  },
-  {
-    "name": "carrel",
-    "full_name": "FengZhenfei/carrel",
-    "description": "Ontology-Augmented Generation for AI agents. ",
-    "url": "https://github.com/FengZhenfei/carrel",
-    "stars": 373,
-    "daily_stars": 61,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "chinese",
-      "claude-code-skill",
-      "codex-skill",
-      "document-parsing",
-      "knowledge-graph",
-      "knowledge-graphs",
-      "mineru",
-      "neo4j",
-      "ontology",
-      "opensearch",
-      "qdrant",
-      "rag",
-      "retrieval-augmented-generation"
-    ],
-    "created_at": "2026-09-28T11:13:02",
-    "updated_at": "2026-10-21T13:23:36"
-  },
-  {
-    "name": "earshot",
-    "full_name": "Leonxlnx/earshot",
-    "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-    "url": "https://github.com/Leonxlnx/earshot",
-    "stars": 2029,
-    "daily_stars": 44,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "audio",
-      "claude-code",
-      "mcp",
-      "sound-design"
-    ],
-    "created_at": "2026-10-15T06:52:46",
-    "updated_at": "2026-10-21T13:46:13"
+    "updated_at": "2026-10-21T20:16:41"
   },
   {
     "name": "durable-harness",
     "full_name": "vercel-labs/durable-harness",
     "description": "Durable coding-agent harnesses (Claude Code, Codex, OpenCode, Pi, fx) on a Workflow SDK World",
     "url": "https://github.com/vercel-labs/durable-harness",
-    "stars": 101,
-    "daily_stars": 41,
+    "stars": 131,
+    "daily_stars": 30,
     "language": "TypeScript",
     "topics": [
       "agents",
@@ -171,15 +206,15 @@
       "workflow"
     ],
     "created_at": "2026-10-16T04:54:47",
-    "updated_at": "2026-10-21T13:58:16"
+    "updated_at": "2026-10-21T19:50:48"
   },
   {
     "name": "scrawl",
     "full_name": "kitlangton/scrawl",
     "description": "Show an agent a problem: mark up, record, send",
     "url": "https://github.com/kitlangton/scrawl",
-    "stars": 620,
-    "daily_stars": 34,
+    "stars": 649,
+    "daily_stars": 29,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -193,55 +228,31 @@
       "screen-recording"
     ],
     "created_at": "2026-10-14T23:21:44",
-    "updated_at": "2026-10-21T13:41:49"
+    "updated_at": "2026-10-21T20:16:40"
   },
   {
-    "name": "MemT-1.0",
-    "full_name": "MemTensor/MemT-1.0",
-    "description": "Official repository for MemT-1.0",
-    "url": "https://github.com/MemTensor/MemT-1.0",
-    "stars": 255,
-    "daily_stars": 33,
-    "language": "Python",
+    "name": "vectra-core",
+    "full_name": "ronitgupta138/vectra-core",
+    "description": "⚡ In-Memory Vector Search Engine & HNSW ANN Graph in Java 21 Loom. Sub-millisecond KNN retrieval, 8-bit scalar quantization (SQ8), 16,000+ QPS.",
+    "url": "https://github.com/ronitgupta138/vectra-core",
+    "stars": 64,
+    "daily_stars": 21,
+    "language": "Java",
     "topics": [
-      "ai-agents",
-      "deepseek",
-      "llm",
-      "long-context",
-      "long-term-memory",
-      "memory",
-      "memory-augmented-models",
-      "native-memory",
-      "qwen",
-      "sglang"
+      "ai-search",
+      "approximate-nearest-neighbors",
+      "embeddings",
+      "high-throughput",
+      "hnsw",
+      "java-21",
+      "machine-learning",
+      "quantization",
+      "scalar-quantization",
+      "similarity-search",
+      "vector-database",
+      "virtual-threads"
     ],
-    "created_at": "2026-10-19T03:29:30",
-    "updated_at": "2026-10-21T13:54:14"
-  },
-  {
-    "name": "ai_goodpractice",
-    "full_name": "xop01/ai_goodpractice",
-    "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
-    "url": "https://github.com/xop01/ai_goodpractice",
-    "stars": 575,
-    "daily_stars": 26,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "ai-coding",
-      "ai-model",
-      "ai-safety",
-      "ai-tools",
-      "guide",
-      "guidebook",
-      "guideline",
-      "guidelines",
-      "guides",
-      "usage"
-    ],
-    "created_at": "2026-10-02T11:01:25",
-    "updated_at": "2026-10-21T13:29:57"
+    "created_at": "2026-10-04T17:54:41",
+    "updated_at": "2026-10-21T17:41:03"
   }
 ]
