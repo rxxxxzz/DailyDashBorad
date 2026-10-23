@@ -4,8 +4,8 @@
     "full_name": "zouyuxuan122/dsh-our-free-model",
     "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
     "url": "https://github.com/zouyuxuan122/dsh-our-free-model",
-    "stars": 39010,
-    "daily_stars": 496,
+    "stars": 39077,
+    "daily_stars": 67,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -20,15 +20,15 @@
       "openai-compatible"
     ],
     "created_at": "2026-09-24T16:17:19",
-    "updated_at": "2026-10-23T20:01:12"
+    "updated_at": "2026-10-23T23:17:22"
   },
   {
     "name": "lemo-opuscar",
     "full_name": "lemomo-ai/lemo-opuscar",
     "description": "39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
     "url": "https://github.com/lemomo-ai/lemo-opuscar",
-    "stars": 6097,
-    "daily_stars": 120,
+    "stars": 6124,
+    "daily_stars": 27,
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -48,15 +48,15 @@
       "webgl"
     ],
     "created_at": "2026-09-26T10:10:41",
-    "updated_at": "2026-10-23T20:00:52"
+    "updated_at": "2026-10-23T23:04:24"
   },
   {
     "name": "earshot",
     "full_name": "Leonxlnx/earshot",
     "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
     "url": "https://github.com/Leonxlnx/earshot",
-    "stars": 2427,
-    "daily_stars": 71,
+    "stars": 2450,
+    "daily_stars": 23,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -66,40 +66,36 @@
       "sound-design"
     ],
     "created_at": "2026-10-15T06:52:46",
-    "updated_at": "2026-10-23T20:00:06"
+    "updated_at": "2026-10-23T23:18:56"
   },
   {
-    "name": "coucou",
-    "full_name": "Louis-CFM/coucou",
-    "description": "A tiny friend that lives in your MacBook's notch and keeps an eye on your Claude Code sessions.",
-    "url": "https://github.com/Louis-CFM/coucou",
-    "stars": 6304,
-    "daily_stars": 29,
-    "language": "Swift",
+    "name": "squadra",
+    "full_name": "dagoSte/squadra",
+    "description": "Coordinate a squad of Claude, Codex and Cursor windows: tasks, acknowledgements, bound proofs, independent review and a local dashboard, in one shared registry.",
+    "url": "https://github.com/dagoSte/squadra",
+    "stars": 393,
+    "daily_stars": 14,
+    "language": "Python",
     "topics": [
+      "agent-skills",
       "ai-agents",
-      "anthropic",
-      "claude",
       "claude-code",
-      "dynamic-island",
-      "macos",
-      "macos-app",
-      "menubar-app",
-      "notch",
-      "open-source",
-      "swift",
-      "swiftui"
+      "code-review",
+      "codex",
+      "cursor",
+      "developer-tools",
+      "multi-agent"
     ],
-    "created_at": "2026-09-27T21:54:12",
-    "updated_at": "2026-10-23T19:34:07"
+    "created_at": "2026-09-28T04:44:21",
+    "updated_at": "2026-10-23T22:51:18"
   },
   {
     "name": "sno-station-skills",
     "full_name": "sno-ai/sno-station-skills",
     "description": "Sno Station Skills: 31 tested skills that turn Claude Code and Codex into one working team. Cross-vendor peer review, automatic handoff when an agent hits its quota, a one-page morning brief, work orders with proof, and a nightly loop that learns from your own sessions. Open source, installed with one sno setup.",
     "url": "https://github.com/sno-ai/sno-station-skills",
-    "stars": 670,
-    "daily_stars": 25,
+    "stars": 683,
+    "daily_stars": 13,
     "language": "Shell",
     "topics": [
       "agent-handoff",
@@ -124,15 +120,15 @@
       "sno-ai"
     ],
     "created_at": "2026-10-01T04:18:51",
-    "updated_at": "2026-10-23T19:50:42"
+    "updated_at": "2026-10-23T23:14:28"
   },
   {
     "name": "axuse",
     "full_name": "ctoldigital/axuse",
     "description": "Accessibility-first browser & computer use for AI agents — one MCP server for every harness (Codex, Claude Code, OpenCode, Antigravity). Instruments the DOM/accessibility tree via CDP instead of screenshot loops: diffed snapshots, stable element refs, trusted input, typed errors. Zero dependencies",
     "url": "https://github.com/ctoldigital/axuse",
-    "stars": 325,
-    "daily_stars": 21,
+    "stars": 337,
+    "daily_stars": 12,
     "language": "JavaScript",
     "topics": [
       "agentic-automation",
@@ -149,36 +145,15 @@
       "web-automation"
     ],
     "created_at": "2026-10-14T19:55:37",
-    "updated_at": "2026-10-23T19:40:23"
-  },
-  {
-    "name": "squadra",
-    "full_name": "dagoSte/squadra",
-    "description": "Coordinate a squad of Claude, Codex and Cursor windows: tasks, acknowledgements, bound proofs, independent review and a local dashboard, in one shared registry.",
-    "url": "https://github.com/dagoSte/squadra",
-    "stars": 379,
-    "daily_stars": 16,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "claude-code",
-      "code-review",
-      "codex",
-      "cursor",
-      "developer-tools",
-      "multi-agent"
-    ],
-    "created_at": "2026-09-28T04:44:21",
-    "updated_at": "2026-10-23T20:01:24"
+    "updated_at": "2026-10-23T23:01:37"
   },
   {
     "name": "Awesome-REA",
     "full_name": "reacher-z/Awesome-REA",
     "description": "Awesome Reverse Engineering Anything: tools, projects, case studies and research papers for websites, games, apps, binaries, firmware and communication protocols.",
     "url": "https://github.com/reacher-z/Awesome-REA",
-    "stars": 253,
-    "daily_stars": 15,
+    "stars": 265,
+    "daily_stars": 12,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -200,70 +175,85 @@
       "web-reverse-engineering"
     ],
     "created_at": "2026-10-16T00:42:04",
-    "updated_at": "2026-10-23T19:16:10"
+    "updated_at": "2026-10-23T23:01:17"
   },
   {
-    "name": "awesome-reverse-engineered",
-    "full_name": "alexgaoth/awesome-reverse-engineered",
-    "description": "Don't reverse engineer it twice. 12,000+ open-source tools built by reverse engineering closed apps, APIs, devices, protocols, file formats, games and AI tools. Search site + agent skill, refreshed nightly.",
-    "url": "https://github.com/alexgaoth/awesome-reverse-engineered",
-    "stars": 632,
-    "daily_stars": 13,
-    "language": "Python",
+    "name": "design.how",
+    "full_name": "arla6ka/design.how",
+    "description": "Agent skills and design systems from design.how. Build a design system from your app, use agents to ship UI, enforce it in CI.",
+    "url": "https://github.com/arla6ka/design.how",
+    "stars": 158,
+    "daily_stars": 8,
+    "language": "TypeScript",
     "topics": [
       "agent-skills",
       "ai-agents",
-      "awesome",
-      "awesome-list",
       "claude-code",
-      "decompilation",
-      "file-formats",
-      "game-decompilation",
-      "hacktoberfest",
-      "home-assistant",
-      "interoperability",
-      "iot",
-      "local-control",
-      "open-source",
-      "protocol",
-      "reverse-engineered",
-      "reverse-engineering",
-      "unofficial-api"
+      "codex",
+      "cursor",
+      "design-system",
+      "design-tokens",
+      "react",
+      "shadcn",
+      "shadcn-registry",
+      "tailwindcss",
+      "ui"
     ],
-    "created_at": "2026-10-11T17:30:10",
-    "updated_at": "2026-10-23T19:37:24"
+    "created_at": "2026-09-28T07:10:37",
+    "updated_at": "2026-10-23T23:04:47"
   },
   {
-    "name": "awesome-reverse-engineering",
-    "full_name": "morluto/awesome-reverse-engineering",
-    "description": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
-    "url": "https://github.com/morluto/awesome-reverse-engineering",
-    "stars": 1158,
-    "daily_stars": 12,
-    "language": null,
+    "name": "coucou",
+    "full_name": "Louis-CFM/coucou",
+    "description": "A tiny friend that lives in your MacBook's notch and keeps an eye on your Claude Code sessions.",
+    "url": "https://github.com/Louis-CFM/coucou",
+    "stars": 6311,
+    "daily_stars": 7,
+    "language": "Swift",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "dynamic-island",
+      "macos",
+      "macos-app",
+      "menubar-app",
+      "notch",
+      "open-source",
+      "swift",
+      "swiftui"
+    ],
+    "created_at": "2026-09-27T21:54:12",
+    "updated_at": "2026-10-23T21:42:54"
+  },
+  {
+    "name": "Grandet",
+    "full_name": "hanzohanzhe/Grandet",
+    "description": "Find the cheapest API for any model and connect it from your AI agent: Grandet Skill and an anonymous MCP server, backed by listed prices from 1,800+ official, inference and relay providers on grandet.ai.",
+    "url": "https://github.com/hanzohanzhe/Grandet",
+    "stars": 673,
+    "daily_stars": 6,
+    "language": "JavaScript",
     "topics": [
       "agent-skills",
+      "ai",
       "ai-agents",
-      "awesome",
-      "awesome-list",
-      "binary-analysis",
-      "ctf",
-      "cybersecurity",
-      "debugging",
-      "decompiler",
-      "disassembler",
-      "dynamic-analysis",
-      "firmware",
-      "frida",
-      "ghidra",
-      "malware-analysis",
+      "api-credits",
+      "api-pricing",
+      "api-relay",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "free-api",
+      "free-tier",
+      "llm",
+      "llm-api",
       "mcp",
-      "reverse-engineering",
-      "security",
-      "security-tools",
-      "static-analysis"
+      "mcp-server",
+      "price-comparison"
     ],
-    "created_at": "2026-10-09T14:58:20",
-    "updated_at": "2026-10-23T19:36:52"
+    "created_at": "2026-10-05T06:50:33",
+    "updated_at": "2026-10-23T22:50:16"
   }
 ]
