@@ -1,11 +1,59 @@
 [
   {
+    "name": "agent-autoloop",
+    "full_name": "KKKKhazix/agent-autoloop",
+    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "url": "https://github.com/KKKKhazix/agent-autoloop",
+    "stars": 1955,
+    "daily_stars": 1866,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "claude-code",
+      "cli",
+      "codex",
+      "event-driven",
+      "mcp",
+      "nodejs",
+      "self-hosted",
+      "typescript",
+      "workflow"
+    ],
+    "created_at": "2026-11-03T08:02:11",
+    "updated_at": "2026-11-04T12:22:23"
+  },
+  {
+    "name": "agent-autoloop",
+    "full_name": "KKKKhazix/agent-autoloop",
+    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "url": "https://github.com/KKKKhazix/agent-autoloop",
+    "stars": 1955,
+    "daily_stars": 0,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "claude-code",
+      "cli",
+      "codex",
+      "event-driven",
+      "mcp",
+      "nodejs",
+      "self-hosted",
+      "typescript",
+      "workflow"
+    ],
+    "created_at": "2026-11-03T08:02:11",
+    "updated_at": "2026-11-04T12:22:23"
+  },
+  {
     "name": "sapper-v2",
     "full_name": "N1nEmAn/sapper-v2",
     "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
     "url": "https://github.com/N1nEmAn/sapper-v2",
-    "stars": 661,
-    "daily_stars": 3,
+    "stars": 691,
+    "daily_stars": 30,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -17,15 +65,15 @@
       "pentest"
     ],
     "created_at": "2026-10-30T15:12:35",
-    "updated_at": "2026-11-04T00:28:43"
+    "updated_at": "2026-11-04T12:17:33"
   },
   {
     "name": "cs329z-chinese",
     "full_name": "wanghao-SunSky/cs329z-chinese",
     "description": "斯坦福 Stanford CS329Z Engineering AI Agents 中文教程：面向 Python 开发者的 AI 智能体课程，19 讲与 4 项实践，涵盖 LLM、RAG、工具调用、记忆、多智能体、评测与安全。完整 Markdown、在线与离线 HTML。Chinese course notes.",
     "url": "https://github.com/wanghao-SunSky/cs329z-chinese",
-    "stars": 479,
-    "daily_stars": 0,
+    "stars": 492,
+    "daily_stars": 13,
     "language": "HTML",
     "topics": [
       "agent-memory",
@@ -45,14 +93,14 @@
       "tutorial"
     ],
     "created_at": "2026-10-28T18:18:24",
-    "updated_at": "2026-11-03T18:18:11"
+    "updated_at": "2026-11-04T10:06:33"
   },
   {
     "name": "grim-prompter",
     "full_name": "jmanico/grim-prompter",
     "description": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods, MIT.",
     "url": "https://github.com/jmanico/grim-prompter",
-    "stars": 356,
+    "stars": 358,
     "daily_stars": 2,
     "language": null,
     "topics": [
@@ -69,54 +117,15 @@
       "threat-modeling"
     ],
     "created_at": "2026-10-28T12:09:26",
-    "updated_at": "2026-11-04T00:36:59"
-  },
-  {
-    "name": "helixharness",
-    "full_name": "didi/helixharness",
-    "description": "HelixHarness 提供完整的 AI Coding 工程化基础能力，还支持不同企业和团队结合自身的业务知识、工程规范和研发流程，持续构建和演进属于自己的专属 Harness",
-    "url": "https://github.com/didi/helixharness",
-    "stars": 294,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "agent-harnesses",
-      "ai-coding",
-      "ai-coding-agent",
-      "coding-agent",
-      "evaluation",
-      "workflow"
-    ],
-    "created_at": "2026-10-27T08:14:08",
-    "updated_at": "2026-11-03T17:57:28"
-  },
-  {
-    "name": "skein",
-    "full_name": "Balanov/skein",
-    "description": "Fail-closed swarm orchestration with epoch-fenced work and late-completion rejection.",
-    "url": "https://github.com/Balanov/skein",
-    "stars": 261,
-    "daily_stars": 2,
-    "language": "Go",
-    "topics": [
-      "agent-orchestration",
-      "ai-agents",
-      "fail-closed",
-      "fencing-token",
-      "security",
-      "swarm",
-      "workflow-orchestration"
-    ],
-    "created_at": "2026-11-02T23:57:05",
-    "updated_at": "2026-11-04T00:20:58"
+    "updated_at": "2026-11-04T09:20:19"
   },
   {
     "name": "cheap-ag",
     "full_name": "muaaz9329/cheap-ag",
     "description": "50x your Claude usage with cheap-ag. Opus plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP server for Claude Code.",
     "url": "https://github.com/muaaz9329/cheap-ag",
-    "stars": 252,
-    "daily_stars": 4,
+    "stars": 265,
+    "daily_stars": 13,
     "language": "TypeScript",
     "topics": [
       "agentic-coding",
@@ -141,33 +150,35 @@
       "openrouter"
     ],
     "created_at": "2026-10-28T22:26:18",
-    "updated_at": "2026-11-03T22:00:20"
+    "updated_at": "2026-11-04T12:07:11"
   },
   {
-    "name": "AgentFlux",
-    "full_name": "davemessew/AgentFlux",
-    "description": "Agentic AI platform for visual workflows and autonomous agents. Run it with Docker on your own computer or server.",
-    "url": "https://github.com/davemessew/AgentFlux",
-    "stars": 251,
-    "daily_stars": 1,
-    "language": "JavaScript",
+    "name": "skein",
+    "full_name": "Balanov/skein",
+    "description": "Fail-closed swarm orchestration with epoch-fenced work and late-completion rejection.",
+    "url": "https://github.com/Balanov/skein",
+    "stars": 263,
+    "daily_stars": 2,
+    "language": "Go",
     "topics": [
+      "agent-orchestration",
       "ai-agents",
-      "docker",
-      "ollama",
-      "self-hosted",
-      "workflows"
+      "fail-closed",
+      "fencing-token",
+      "security",
+      "swarm",
+      "workflow-orchestration"
     ],
-    "created_at": "2026-10-27T14:43:07",
-    "updated_at": "2026-11-03T20:48:41"
+    "created_at": "2026-11-02T23:57:05",
+    "updated_at": "2026-11-04T07:25:05"
   },
   {
     "name": "NextTransformer",
     "full_name": "Interactive-Active-AI/NextTransformer",
     "description": "A comprehensive, cutting-edge open-source framework for next-generation Transformers, with compute-matched benchmarking and a platform for autonomous architecture research.",
     "url": "https://github.com/Interactive-Active-AI/NextTransformer",
-    "stars": 215,
-    "daily_stars": 15,
+    "stars": 255,
+    "daily_stars": 40,
     "language": "Python",
     "topics": [
       "auto-research",
@@ -182,15 +193,33 @@
       "transformer"
     ],
     "created_at": "2026-10-31T07:46:13",
-    "updated_at": "2026-11-04T00:39:48"
+    "updated_at": "2026-11-04T12:07:03"
+  },
+  {
+    "name": "AgentFlux",
+    "full_name": "davemessew/AgentFlux",
+    "description": "Agentic AI platform for visual workflows and autonomous agents. Run it with Docker on your own computer or server.",
+    "url": "https://github.com/davemessew/AgentFlux",
+    "stars": 251,
+    "daily_stars": 0,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "docker",
+      "ollama",
+      "self-hosted",
+      "workflows"
+    ],
+    "created_at": "2026-10-27T14:43:07",
+    "updated_at": "2026-11-03T20:48:41"
   },
   {
     "name": "tucano",
     "full_name": "eduwxyz/tucano",
     "description": "Your team of AI agents, on your Mac, Windows or Linux. Agents that talk in channels, write code, review each other and use your tools, on the Claude Code, Codex, OpenCode or Pi you already have. Anything that touches the real world waits for your yes.",
     "url": "https://github.com/eduwxyz/tucano",
-    "stars": 180,
-    "daily_stars": 11,
+    "stars": 194,
+    "daily_stars": 14,
     "language": "TypeScript",
     "topics": [
       "agent-team",
@@ -204,29 +233,6 @@
       "multi-agent"
     ],
     "created_at": "2026-10-28T04:27:38",
-    "updated_at": "2026-11-04T00:46:00"
-  },
-  {
-    "name": "NamiGPT",
-    "full_name": "aa1143/NamiGPT",
-    "description": "零基础入门大模型（LLM）的基础教程：从零手写 GPT-2，一行行看懂大模型是怎么工作的 | Build GPT-2 from scratch in PyTorch, step by step",
-    "url": "https://github.com/aa1143/NamiGPT",
-    "stars": 177,
-    "daily_stars": 0,
-    "language": "Python",
-    "topics": [
-      "attention",
-      "chinese",
-      "deep-learning",
-      "from-scratch",
-      "gpt-2",
-      "large-language-models",
-      "llm",
-      "pytorch",
-      "transformer",
-      "tutorial"
-    ],
-    "created_at": "2026-10-28T00:57:01",
-    "updated_at": "2026-11-03T17:29:05"
+    "updated_at": "2026-11-04T12:17:15"
   }
 ]
