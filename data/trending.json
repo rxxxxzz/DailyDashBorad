@@ -1,43 +1,11 @@
 [
   {
-    "name": "llama-modchip",
-    "full_name": "synchopate/llama-modchip",
-    "description": "🐋 Run 284B DeepSeek-V4-Flash (<59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B MoEs (25-111 tok/s) on a pure 64GB CPU at 256K ctx (0 GPUs). SwiGLU-H2, Stockfish-PVS L3 & 13ms Claude Code restore.",
-    "url": "https://github.com/synchopate/llama-modchip",
-    "stars": 566,
-    "daily_stars": 150,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "apple-silicon",
-      "avx512",
-      "claude-code",
-      "cpu-inference",
-      "deepseek",
-      "deepseek-v4",
-      "gguf",
-      "hpc",
-      "llama-cpp",
-      "local-llm",
-      "mamba2",
-      "mixture-of-experts",
-      "nemotron",
-      "quantization",
-      "qwen3",
-      "speculative-decoding",
-      "stockfish",
-      "zen5"
-    ],
-    "created_at": "2026-10-29T10:17:33",
-    "updated_at": "2026-11-09T06:48:17"
-  },
-  {
     "name": "raea",
     "full_name": "shinyobjectz/raea",
     "description": "Render Anything Engine: tell your AI what to make. Videos, motion graphics, 3D and games as React and TypeScript, rendered on your own GPU. Rust + Bevy, macOS, Linux and Windows.",
     "url": "https://github.com/shinyobjectz/raea",
-    "stars": 841,
-    "daily_stars": 140,
+    "stars": 1430,
+    "daily_stars": 589,
     "language": "Rust",
     "topics": [
       "3d",
@@ -61,15 +29,68 @@
       "windows"
     ],
     "created_at": "2026-10-18T18:08:48",
-    "updated_at": "2026-11-09T07:00:08"
+    "updated_at": "2026-11-09T18:53:42"
+  },
+  {
+    "name": "llama-modchip",
+    "full_name": "synchopate/llama-modchip",
+    "description": "🐋 Run 284B DeepSeek-V4-Flash (<59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B MoEs (25-111 tok/s) on a pure 64GB CPU at 256K ctx (0 GPUs). SwiGLU-H2, Stockfish-PVS L3 & 13ms Claude Code restore.",
+    "url": "https://github.com/synchopate/llama-modchip",
+    "stars": 752,
+    "daily_stars": 186,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "apple-silicon",
+      "avx512",
+      "claude-code",
+      "cpu-inference",
+      "deepseek",
+      "deepseek-v4",
+      "gguf",
+      "hpc",
+      "llama-cpp",
+      "local-llm",
+      "mamba2",
+      "mixture-of-experts",
+      "nemotron",
+      "quantization",
+      "qwen3",
+      "speculative-decoding",
+      "stockfish",
+      "zen5"
+    ],
+    "created_at": "2026-10-29T10:17:33",
+    "updated_at": "2026-11-09T19:00:12"
+  },
+  {
+    "name": "beluga",
+    "full_name": "kayraucklnc/beluga",
+    "description": "Beluga: An AI native IDE Mac app peer to peer connections everything designed around AI development",
+    "url": "https://github.com/kayraucklnc/beluga",
+    "stars": 385,
+    "daily_stars": 166,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "git-worktree",
+      "macos",
+      "peer-to-peer",
+      "tauri",
+      "tui"
+    ],
+    "created_at": "2026-10-16T13:27:30",
+    "updated_at": "2026-11-09T18:43:32"
   },
   {
     "name": "kubai-icons",
     "full_name": "kubai087/kubai-icons",
     "description": "An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse them.",
     "url": "https://github.com/kubai087/kubai-icons",
-    "stars": 401,
-    "daily_stars": 121,
+    "stars": 545,
+    "daily_stars": 144,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -89,15 +110,15 @@
       "vue"
     ],
     "created_at": "2026-11-03T09:52:39",
-    "updated_at": "2026-11-09T06:57:17"
+    "updated_at": "2026-11-09T18:40:45"
   },
   {
     "name": "TokenEconomizer",
     "full_name": "microsoft/TokenEconomizer",
     "description": "Experience-Driven Black-Box Cost Control for Coding Agents",
     "url": "https://github.com/microsoft/TokenEconomizer",
-    "stars": 5339,
-    "daily_stars": 102,
+    "stars": 5482,
+    "daily_stars": 143,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -121,56 +142,15 @@
       "token-optimization"
     ],
     "created_at": "2026-10-13T04:16:50",
-    "updated_at": "2026-11-09T06:59:37"
-  },
-  {
-    "name": "solo-to-team-skills",
-    "full_name": "dabingfy-dot/solo-to-team-skills",
-    "description": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
-    "url": "https://github.com/dabingfy-dot/solo-to-team-skills",
-    "stars": 341,
-    "daily_stars": 97,
-    "language": null,
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "collaboration",
-      "human-in-the-loop",
-      "workflow"
-    ],
-    "created_at": "2026-11-07T01:36:28",
-    "updated_at": "2026-11-09T06:58:32"
-  },
-  {
-    "name": "vork",
-    "full_name": "voyager-so/vork",
-    "description": "Headless 3D and VFX engine for agents. Research preview.",
-    "url": "https://github.com/voyager-so/vork",
-    "stars": 1187,
-    "daily_stars": 93,
-    "language": "Rust",
-    "topics": [
-      "3d",
-      "ai-agents",
-      "gpu",
-      "metal",
-      "ray-tracing",
-      "rendering",
-      "rust",
-      "slang",
-      "vfx",
-      "vulkan"
-    ],
-    "created_at": "2026-11-05T22:37:07",
-    "updated_at": "2026-11-09T06:55:49"
+    "updated_at": "2026-11-09T18:58:27"
   },
   {
     "name": "Awesome-REA",
     "full_name": "reacher-z/Awesome-REA",
     "description": "Awesome Reverse Engineering Anything: tools, projects, case studies and research papers for websites, games, apps, binaries, firmware and communication protocols.",
     "url": "https://github.com/reacher-z/Awesome-REA",
-    "stars": 2166,
-    "daily_stars": 87,
+    "stars": 2299,
+    "daily_stars": 133,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -192,59 +172,34 @@
       "web-reverse-engineering"
     ],
     "created_at": "2026-10-16T00:42:04",
-    "updated_at": "2026-11-09T06:59:23"
+    "updated_at": "2026-11-09T18:55:31"
   },
   {
-    "name": "agent-autoloop",
-    "full_name": "KKKKhazix/agent-autoloop",
-    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-    "url": "https://github.com/KKKKhazix/agent-autoloop",
-    "stars": 4175,
-    "daily_stars": 85,
-    "language": "TypeScript",
+    "name": "poki",
+    "full_name": "JosssphZhou/poki",
+    "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+    "url": "https://github.com/JosssphZhou/poki",
+    "stars": 737,
+    "daily_stars": 111,
+    "language": "JavaScript",
     "topics": [
       "ai-agents",
       "automation",
-      "claude-code",
-      "cli",
-      "codex",
-      "event-driven",
+      "ios",
+      "iphone",
       "mcp",
-      "nodejs",
-      "self-hosted",
-      "typescript",
-      "workflow"
+      "model-context-protocol"
     ],
-    "created_at": "2026-11-03T08:02:11",
-    "updated_at": "2026-11-09T06:51:27"
-  },
-  {
-    "name": "sapper-v2",
-    "full_name": "N1nEmAn/sapper-v2",
-    "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-    "url": "https://github.com/N1nEmAn/sapper-v2",
-    "stars": 1691,
-    "daily_stars": 70,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "autonomous-agents",
-      "claude-code",
-      "ctf",
-      "llm",
-      "multi-agent",
-      "pentest"
-    ],
-    "created_at": "2026-10-30T15:12:35",
-    "updated_at": "2026-11-09T06:53:58"
+    "created_at": "2026-11-05T15:04:31",
+    "updated_at": "2026-11-09T18:45:17"
   },
   {
     "name": "youtube-ai-video-editing-system",
     "full_name": "dhruvthakur11/youtube-ai-video-editing-system",
     "description": "Eyeline teleprompter meets editing agents: JSON-driven animation and motion graphics workflow",
     "url": "https://github.com/dhruvthakur11/youtube-ai-video-editing-system",
-    "stars": 332,
-    "daily_stars": 59,
+    "stars": 432,
+    "daily_stars": 100,
     "language": "HTML",
     "topics": [
       "ai-agents",
@@ -260,6 +215,50 @@
       "youtube"
     ],
     "created_at": "2026-11-06T21:33:17",
-    "updated_at": "2026-11-09T05:52:38"
+    "updated_at": "2026-11-09T18:58:37"
+  },
+  {
+    "name": "agent-autoloop",
+    "full_name": "KKKKhazix/agent-autoloop",
+    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "url": "https://github.com/KKKKhazix/agent-autoloop",
+    "stars": 4266,
+    "daily_stars": 91,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "claude-code",
+      "cli",
+      "codex",
+      "event-driven",
+      "mcp",
+      "nodejs",
+      "self-hosted",
+      "typescript",
+      "workflow"
+    ],
+    "created_at": "2026-11-03T08:02:11",
+    "updated_at": "2026-11-09T17:18:33"
+  },
+  {
+    "name": "sapper-v2",
+    "full_name": "N1nEmAn/sapper-v2",
+    "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+    "url": "https://github.com/N1nEmAn/sapper-v2",
+    "stars": 1781,
+    "daily_stars": 90,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "autonomous-agents",
+      "claude-code",
+      "ctf",
+      "llm",
+      "multi-agent",
+      "pentest"
+    ],
+    "created_at": "2026-10-30T15:12:35",
+    "updated_at": "2026-11-09T18:49:50"
   }
 ]
