@@ -4,8 +4,8 @@
     "full_name": "synchopate/llama-modchip",
     "description": "🐋 Run 284B DeepSeek-V4-Flash (<59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B MoEs (25-111 tok/s) on a pure 64GB CPU at 256K ctx (0 GPUs). SwiGLU-H2, Stockfish-PVS L3 & 13ms Claude Code restore.",
     "url": "https://github.com/synchopate/llama-modchip",
-    "stars": 416,
-    "daily_stars": 184,
+    "stars": 566,
+    "daily_stars": 150,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -29,15 +29,75 @@
       "zen5"
     ],
     "created_at": "2026-10-29T10:17:33",
-    "updated_at": "2026-11-08T20:31:32"
+    "updated_at": "2026-11-09T06:48:17"
+  },
+  {
+    "name": "raea",
+    "full_name": "shinyobjectz/raea",
+    "description": "Render Anything Engine: tell your AI what to make. Videos, motion graphics, 3D and games as React and TypeScript, rendered on your own GPU. Rust + Bevy, macOS, Linux and Windows.",
+    "url": "https://github.com/shinyobjectz/raea",
+    "stars": 841,
+    "daily_stars": 140,
+    "language": "Rust",
+    "topics": [
+      "3d",
+      "agent-skills",
+      "ai-agents",
+      "ai-video",
+      "bevy",
+      "claude-code",
+      "game-engine",
+      "gpu",
+      "linux",
+      "macos",
+      "motion-design",
+      "motion-graphics",
+      "react",
+      "rust",
+      "typescript",
+      "video-editing",
+      "video-rendering",
+      "wgpu",
+      "windows"
+    ],
+    "created_at": "2026-10-18T18:08:48",
+    "updated_at": "2026-11-09T07:00:08"
+  },
+  {
+    "name": "kubai-icons",
+    "full_name": "kubai087/kubai-icons",
+    "description": "An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse them.",
+    "url": "https://github.com/kubai087/kubai-icons",
+    "stars": 401,
+    "daily_stars": 121,
+    "language": "JavaScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "animated-icons",
+      "animation",
+      "claude",
+      "claude-skill",
+      "codex",
+      "design-system",
+      "hover-effects",
+      "icon-set",
+      "icons",
+      "react",
+      "svg",
+      "svg-icons",
+      "vue"
+    ],
+    "created_at": "2026-11-03T09:52:39",
+    "updated_at": "2026-11-09T06:57:17"
   },
   {
     "name": "TokenEconomizer",
     "full_name": "microsoft/TokenEconomizer",
     "description": "Experience-Driven Black-Box Cost Control for Coding Agents",
     "url": "https://github.com/microsoft/TokenEconomizer",
-    "stars": 5237,
-    "daily_stars": 125,
+    "stars": 5339,
+    "daily_stars": 102,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -61,15 +121,56 @@
       "token-optimization"
     ],
     "created_at": "2026-10-13T04:16:50",
-    "updated_at": "2026-11-08T20:38:32"
+    "updated_at": "2026-11-09T06:59:37"
+  },
+  {
+    "name": "solo-to-team-skills",
+    "full_name": "dabingfy-dot/solo-to-team-skills",
+    "description": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
+    "url": "https://github.com/dabingfy-dot/solo-to-team-skills",
+    "stars": 341,
+    "daily_stars": 97,
+    "language": null,
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "collaboration",
+      "human-in-the-loop",
+      "workflow"
+    ],
+    "created_at": "2026-11-07T01:36:28",
+    "updated_at": "2026-11-09T06:58:32"
+  },
+  {
+    "name": "vork",
+    "full_name": "voyager-so/vork",
+    "description": "Headless 3D and VFX engine for agents. Research preview.",
+    "url": "https://github.com/voyager-so/vork",
+    "stars": 1187,
+    "daily_stars": 93,
+    "language": "Rust",
+    "topics": [
+      "3d",
+      "ai-agents",
+      "gpu",
+      "metal",
+      "ray-tracing",
+      "rendering",
+      "rust",
+      "slang",
+      "vfx",
+      "vulkan"
+    ],
+    "created_at": "2026-11-05T22:37:07",
+    "updated_at": "2026-11-09T06:55:49"
   },
   {
     "name": "Awesome-REA",
     "full_name": "reacher-z/Awesome-REA",
     "description": "Awesome Reverse Engineering Anything: tools, projects, case studies and research papers for websites, games, apps, binaries, firmware and communication protocols.",
     "url": "https://github.com/reacher-z/Awesome-REA",
-    "stars": 2079,
-    "daily_stars": 82,
+    "stars": 2166,
+    "daily_stars": 87,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -91,15 +192,39 @@
       "web-reverse-engineering"
     ],
     "created_at": "2026-10-16T00:42:04",
-    "updated_at": "2026-11-08T20:39:14"
+    "updated_at": "2026-11-09T06:59:23"
+  },
+  {
+    "name": "agent-autoloop",
+    "full_name": "KKKKhazix/agent-autoloop",
+    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "url": "https://github.com/KKKKhazix/agent-autoloop",
+    "stars": 4175,
+    "daily_stars": 85,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "claude-code",
+      "cli",
+      "codex",
+      "event-driven",
+      "mcp",
+      "nodejs",
+      "self-hosted",
+      "typescript",
+      "workflow"
+    ],
+    "created_at": "2026-11-03T08:02:11",
+    "updated_at": "2026-11-09T06:51:27"
   },
   {
     "name": "sapper-v2",
     "full_name": "N1nEmAn/sapper-v2",
     "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
     "url": "https://github.com/N1nEmAn/sapper-v2",
-    "stars": 1621,
-    "daily_stars": 53,
+    "stars": 1691,
+    "daily_stars": 70,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -111,63 +236,15 @@
       "pentest"
     ],
     "created_at": "2026-10-30T15:12:35",
-    "updated_at": "2026-11-08T20:38:59"
-  },
-  {
-    "name": "awesome-coding-plan",
-    "full_name": "supercli-site/awesome-coding-plan",
-    "description": "TokenPlan：AI 编程套餐与 API 价格对比，涵盖云厂商 Coding / Token Plan、缓存与峰谷计费、模型性价比及官方购买入口。 / AI coding plans, API pricing and model value comparisons.",
-    "url": "https://github.com/supercli-site/awesome-coding-plan",
-    "stars": 190,
-    "daily_stars": 48,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "ai-coding",
-      "ai-models",
-      "api-pricing",
-      "cloudflare-pages",
-      "coding-plan",
-      "cost-comparison",
-      "llm-pricing",
-      "open-data",
-      "price-comparison",
-      "supercli",
-      "token-plan"
-    ],
-    "created_at": "2026-11-03T09:39:37",
-    "updated_at": "2026-11-08T17:08:16"
-  },
-  {
-    "name": "vork",
-    "full_name": "voyager-so/vork",
-    "description": "Headless 3D and VFX engine for agents. Research preview.",
-    "url": "https://github.com/voyager-so/vork",
-    "stars": 1094,
-    "daily_stars": 45,
-    "language": "Rust",
-    "topics": [
-      "3d",
-      "ai-agents",
-      "gpu",
-      "metal",
-      "ray-tracing",
-      "rendering",
-      "rust",
-      "slang",
-      "vfx",
-      "vulkan"
-    ],
-    "created_at": "2026-11-05T22:37:07",
-    "updated_at": "2026-11-08T19:57:33"
+    "updated_at": "2026-11-09T06:53:58"
   },
   {
     "name": "youtube-ai-video-editing-system",
     "full_name": "dhruvthakur11/youtube-ai-video-editing-system",
     "description": "Eyeline teleprompter meets editing agents: JSON-driven animation and motion graphics workflow",
     "url": "https://github.com/dhruvthakur11/youtube-ai-video-editing-system",
-    "stars": 273,
-    "daily_stars": 29,
+    "stars": 332,
+    "daily_stars": 59,
     "language": "HTML",
     "topics": [
       "ai-agents",
@@ -183,86 +260,6 @@
       "youtube"
     ],
     "created_at": "2026-11-06T21:33:17",
-    "updated_at": "2026-11-08T20:37:25"
-  },
-  {
-    "name": "kwant",
-    "full_name": "alexsergivan/kwant",
-    "description": "Your own team of AI bots in one self-hosted binary: spaces, every account you have, handoffs, approvals and routines. Open-source, self-hosted alternative to Grok Bot, Claude Duet and OpenAI dots. Rust + React.",
-    "url": "https://github.com/alexsergivan/kwant",
-    "stars": 368,
-    "daily_stars": 27,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "ai-assistant",
-      "ai-bot",
-      "automation",
-      "bot",
-      "bots-team",
-      "chatbot",
-      "claude-duet",
-      "codex",
-      "grok",
-      "grok-bot",
-      "grok-bot-alternative",
-      "harness",
-      "llm",
-      "multi-agent",
-      "openai-dots",
-      "openbot",
-      "rust",
-      "self-hosted",
-      "selfhosted-ai"
-    ],
-    "created_at": "2026-10-22T18:41:24",
-    "updated_at": "2026-11-08T19:43:52"
-  },
-  {
-    "name": "kensaku",
-    "full_name": "yjid/kensaku",
-    "description": "Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.",
-    "url": "https://github.com/yjid/kensaku",
-    "stars": 1412,
-    "daily_stars": 26,
-    "language": "Rust",
-    "topics": [
-      "ai-agents",
-      "desktop",
-      "desktop-search",
-      "file-search",
-      "full-text-search",
-      "launcher",
-      "local-first",
-      "mcp",
-      "ocr",
-      "open-source",
-      "privacy",
-      "rust",
-      "search",
-      "semantic-search",
-      "tauri",
-      "windows"
-    ],
-    "created_at": "2026-10-24T21:00:26",
-    "updated_at": "2026-11-08T20:34:50"
-  },
-  {
-    "name": "earshot",
-    "full_name": "Leonxlnx/earshot",
-    "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-    "url": "https://github.com/Leonxlnx/earshot",
-    "stars": 4262,
-    "daily_stars": 20,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "audio",
-      "claude-code",
-      "mcp",
-      "sound-design"
-    ],
-    "created_at": "2026-10-15T06:52:46",
-    "updated_at": "2026-11-08T20:08:07"
+    "updated_at": "2026-11-09T05:52:38"
   }
 ]
