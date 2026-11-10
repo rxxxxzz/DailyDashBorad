@@ -4,8 +4,8 @@
     "full_name": "shinyobjectz/raea",
     "description": "Render Anything Engine: tell your AI what to make. Videos, motion graphics, 3D and games as React and TypeScript, rendered on your own GPU. Rust + Bevy, macOS, Linux and Windows.",
     "url": "https://github.com/shinyobjectz/raea",
-    "stars": 1430,
-    "daily_stars": 589,
+    "stars": 1643,
+    "daily_stars": 213,
     "language": "Rust",
     "topics": [
       "3d",
@@ -29,47 +29,15 @@
       "windows"
     ],
     "created_at": "2026-10-18T18:08:48",
-    "updated_at": "2026-11-09T18:53:42"
-  },
-  {
-    "name": "llama-modchip",
-    "full_name": "synchopate/llama-modchip",
-    "description": "🐋 Run 284B DeepSeek-V4-Flash (<59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B MoEs (25-111 tok/s) on a pure 64GB CPU at 256K ctx (0 GPUs). SwiGLU-H2, Stockfish-PVS L3 & 13ms Claude Code restore.",
-    "url": "https://github.com/synchopate/llama-modchip",
-    "stars": 752,
-    "daily_stars": 186,
-    "language": "Python",
-    "topics": [
-      "ai-agents",
-      "apple-silicon",
-      "avx512",
-      "claude-code",
-      "cpu-inference",
-      "deepseek",
-      "deepseek-v4",
-      "gguf",
-      "hpc",
-      "llama-cpp",
-      "local-llm",
-      "mamba2",
-      "mixture-of-experts",
-      "nemotron",
-      "quantization",
-      "qwen3",
-      "speculative-decoding",
-      "stockfish",
-      "zen5"
-    ],
-    "created_at": "2026-10-29T10:17:33",
-    "updated_at": "2026-11-09T19:00:12"
+    "updated_at": "2026-11-10T02:49:44"
   },
   {
     "name": "beluga",
     "full_name": "kayraucklnc/beluga",
     "description": "Beluga: An AI native IDE Mac app peer to peer connections everything designed around AI development",
     "url": "https://github.com/kayraucklnc/beluga",
-    "stars": 385,
-    "daily_stars": 166,
+    "stars": 446,
+    "daily_stars": 61,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -82,43 +50,46 @@
       "tui"
     ],
     "created_at": "2026-10-16T13:27:30",
-    "updated_at": "2026-11-09T18:43:32"
+    "updated_at": "2026-11-10T02:47:59"
   },
   {
-    "name": "kubai-icons",
-    "full_name": "kubai087/kubai-icons",
-    "description": "An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse them.",
-    "url": "https://github.com/kubai087/kubai-icons",
-    "stars": 545,
-    "daily_stars": 144,
-    "language": "JavaScript",
+    "name": "blender-skills",
+    "full_name": "EL4CTEO/blender-skills",
+    "description": "Professional Blender 5.2 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs, PBR, baking, rigging, animation, export and QA.",
+    "url": "https://github.com/EL4CTEO/blender-skills",
+    "stars": 906,
+    "daily_stars": 59,
+    "language": "Python",
     "topics": [
+      "3d",
       "agent-skills",
       "ai-agents",
-      "animated-icons",
-      "animation",
-      "claude",
-      "claude-skill",
+      "blender",
+      "blender-python",
+      "bpy",
+      "claude-code",
+      "claude-skills",
       "codex",
-      "design-system",
-      "hover-effects",
-      "icon-set",
-      "icons",
-      "react",
-      "svg",
-      "svg-icons",
-      "vue"
+      "game-assets",
+      "gemini-cli",
+      "godot",
+      "mcp",
+      "pbr",
+      "rigging",
+      "roblox",
+      "unity",
+      "unreal-engine"
     ],
-    "created_at": "2026-11-03T09:52:39",
-    "updated_at": "2026-11-09T18:40:45"
+    "created_at": "2026-10-14T19:08:14",
+    "updated_at": "2026-11-10T02:47:49"
   },
   {
     "name": "TokenEconomizer",
     "full_name": "microsoft/TokenEconomizer",
     "description": "Experience-Driven Black-Box Cost Control for Coding Agents",
     "url": "https://github.com/microsoft/TokenEconomizer",
-    "stars": 5482,
-    "daily_stars": 143,
+    "stars": 5540,
+    "daily_stars": 58,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -142,15 +113,58 @@
       "token-optimization"
     ],
     "created_at": "2026-10-13T04:16:50",
-    "updated_at": "2026-11-09T18:58:27"
+    "updated_at": "2026-11-10T02:48:02"
+  },
+  {
+    "name": "youtube-ai-video-editing-system",
+    "full_name": "dhruvthakur11/youtube-ai-video-editing-system",
+    "description": "Eyeline teleprompter meets editing agents: JSON-driven animation and motion graphics workflow",
+    "url": "https://github.com/dhruvthakur11/youtube-ai-video-editing-system",
+    "stars": 481,
+    "daily_stars": 49,
+    "language": "HTML",
+    "topics": [
+      "ai-agents",
+      "ai-video-editing",
+      "animation",
+      "claude-design",
+      "design",
+      "motion-graphics",
+      "open-source",
+      "teleprompter",
+      "video-editing",
+      "workflow",
+      "youtube"
+    ],
+    "created_at": "2026-11-06T21:33:17",
+    "updated_at": "2026-11-10T02:40:12"
+  },
+  {
+    "name": "poki",
+    "full_name": "JosssphZhou/poki",
+    "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+    "url": "https://github.com/JosssphZhou/poki",
+    "stars": 782,
+    "daily_stars": 45,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "ios",
+      "iphone",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "created_at": "2026-11-05T15:04:31",
+    "updated_at": "2026-11-10T02:41:52"
   },
   {
     "name": "Awesome-REA",
     "full_name": "reacher-z/Awesome-REA",
     "description": "Awesome Reverse Engineering Anything: tools, projects, case studies and research papers for websites, games, apps, binaries, firmware and communication protocols.",
     "url": "https://github.com/reacher-z/Awesome-REA",
-    "stars": 2299,
-    "daily_stars": 133,
+    "stars": 2343,
+    "daily_stars": 44,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -172,58 +186,15 @@
       "web-reverse-engineering"
     ],
     "created_at": "2026-10-16T00:42:04",
-    "updated_at": "2026-11-09T18:55:31"
-  },
-  {
-    "name": "poki",
-    "full_name": "JosssphZhou/poki",
-    "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
-    "url": "https://github.com/JosssphZhou/poki",
-    "stars": 737,
-    "daily_stars": 111,
-    "language": "JavaScript",
-    "topics": [
-      "ai-agents",
-      "automation",
-      "ios",
-      "iphone",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "created_at": "2026-11-05T15:04:31",
-    "updated_at": "2026-11-09T18:45:17"
-  },
-  {
-    "name": "youtube-ai-video-editing-system",
-    "full_name": "dhruvthakur11/youtube-ai-video-editing-system",
-    "description": "Eyeline teleprompter meets editing agents: JSON-driven animation and motion graphics workflow",
-    "url": "https://github.com/dhruvthakur11/youtube-ai-video-editing-system",
-    "stars": 432,
-    "daily_stars": 100,
-    "language": "HTML",
-    "topics": [
-      "ai-agents",
-      "ai-video-editing",
-      "animation",
-      "claude-design",
-      "design",
-      "motion-graphics",
-      "open-source",
-      "teleprompter",
-      "video-editing",
-      "workflow",
-      "youtube"
-    ],
-    "created_at": "2026-11-06T21:33:17",
-    "updated_at": "2026-11-09T18:58:37"
+    "updated_at": "2026-11-10T02:50:45"
   },
   {
     "name": "agent-autoloop",
     "full_name": "KKKKhazix/agent-autoloop",
     "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
     "url": "https://github.com/KKKKhazix/agent-autoloop",
-    "stars": 4266,
-    "daily_stars": 91,
+    "stars": 4305,
+    "daily_stars": 39,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -239,26 +210,66 @@
       "workflow"
     ],
     "created_at": "2026-11-03T08:02:11",
-    "updated_at": "2026-11-09T17:18:33"
+    "updated_at": "2026-11-10T02:46:50"
   },
   {
-    "name": "sapper-v2",
-    "full_name": "N1nEmAn/sapper-v2",
-    "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-    "url": "https://github.com/N1nEmAn/sapper-v2",
-    "stars": 1781,
-    "daily_stars": 90,
+    "name": "llama-modchip",
+    "full_name": "synchopate/llama-modchip",
+    "description": "🐋 Run 284B DeepSeek-V4-Flash (<59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B MoEs (25-111 tok/s) on a pure 64GB CPU at 256K ctx (0 GPUs). SwiGLU-H2, Stockfish-PVS L3 & 13ms Claude Code restore.",
+    "url": "https://github.com/synchopate/llama-modchip",
+    "stars": 791,
+    "daily_stars": 39,
     "language": "Python",
     "topics": [
       "ai-agents",
-      "autonomous-agents",
+      "apple-silicon",
+      "avx512",
       "claude-code",
-      "ctf",
-      "llm",
-      "multi-agent",
-      "pentest"
+      "cpu-inference",
+      "deepseek",
+      "deepseek-v4",
+      "gguf",
+      "hpc",
+      "llama-cpp",
+      "local-llm",
+      "mamba2",
+      "mixture-of-experts",
+      "nemotron",
+      "quantization",
+      "qwen3",
+      "speculative-decoding",
+      "stockfish",
+      "zen5"
     ],
-    "created_at": "2026-10-30T15:12:35",
-    "updated_at": "2026-11-09T18:49:50"
+    "created_at": "2026-10-29T10:17:33",
+    "updated_at": "2026-11-10T02:47:33"
+  },
+  {
+    "name": "kubai-icons",
+    "full_name": "kubai087/kubai-icons",
+    "description": "An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse them.",
+    "url": "https://github.com/kubai087/kubai-icons",
+    "stars": 581,
+    "daily_stars": 36,
+    "language": "JavaScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "animated-icons",
+      "animation",
+      "claude",
+      "claude-skill",
+      "codex",
+      "design-system",
+      "hover-effects",
+      "icon-set",
+      "icons",
+      "react",
+      "svg",
+      "svg-icons",
+      "vue"
+    ],
+    "created_at": "2026-11-03T09:52:39",
+    "updated_at": "2026-11-10T02:50:46"
   }
 ]
