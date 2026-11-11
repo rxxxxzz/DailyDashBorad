@@ -4,8 +4,8 @@
     "full_name": "expo/exact",
     "description": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
     "url": "https://github.com/expo/exact",
-    "stars": 2738,
-    "daily_stars": 341,
+    "stars": 2873,
+    "daily_stars": 135,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -23,15 +23,15 @@
       "web"
     ],
     "created_at": "2026-11-02T01:29:01",
-    "updated_at": "2026-11-11T16:23:44"
+    "updated_at": "2026-11-11T22:49:06"
   },
   {
     "name": "lot-map",
     "full_name": "alexeyw/lot-map",
     "description": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in five languages.",
     "url": "https://github.com/alexeyw/lot-map",
-    "stars": 260,
-    "daily_stars": 122,
+    "stars": 378,
+    "daily_stars": 118,
     "language": "TypeScript",
     "topics": [
       "agent-observability",
@@ -45,48 +45,39 @@
       "visualization"
     ],
     "created_at": "2026-11-09T19:13:52",
-    "updated_at": "2026-11-11T16:28:07"
+    "updated_at": "2026-11-11T22:56:29"
   },
   {
-    "name": "SoduWork",
-    "full_name": "mdiri-ai/SoduWork",
-    "description": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
-    "url": "https://github.com/mdiri-ai/SoduWork",
-    "stars": 307,
-    "daily_stars": 112,
-    "language": "JavaScript",
+    "name": "interactive-ai-ml-tools",
+    "full_name": "Future-Proof-DS/interactive-ai-ml-tools",
+    "description": "Free interactive tools for data scientists to learn MLOps, ML system design and agentic analytics: a production ML system map, ML project structure, data drift simulator, agentic analytics system map and AI evals.",
+    "url": "https://github.com/Future-Proof-DS/interactive-ai-ml-tools",
+    "stars": 121,
+    "daily_stars": 73,
+    "language": null,
     "topics": [
-      "agent-harness",
-      "agent-orchestration",
-      "agent-workflows",
+      "agentic-ai",
       "ai-agents",
-      "ai-workflows",
-      "anti-slop",
-      "claude-code",
-      "codex",
-      "deepseek",
-      "electron",
-      "fastapi",
-      "harness",
-      "human-in-the-loop",
-      "llm",
-      "mcp",
-      "multi-agent",
-      "opencode",
-      "plugin-system",
-      "self-hosted",
-      "team-collaboration"
+      "data-drift",
+      "data-science",
+      "interactive-learning",
+      "llm-evaluation",
+      "machine-learning",
+      "ml-system-design",
+      "mlops",
+      "model-monitoring",
+      "text-to-sql"
     ],
-    "created_at": "2026-10-29T02:43:14",
-    "updated_at": "2026-11-11T16:24:25"
+    "created_at": "2026-11-02T13:44:28",
+    "updated_at": "2026-11-11T22:51:32"
   },
   {
     "name": "raea",
     "full_name": "shinyobjectz/raea",
     "description": "Render Anything Engine: tell your AI what to make. Videos, motion graphics, 3D and games as React and TypeScript, rendered on your own GPU. Rust + Bevy, macOS, Linux and Windows.",
     "url": "https://github.com/shinyobjectz/raea",
-    "stars": 2106,
-    "daily_stars": 73,
+    "stars": 2153,
+    "daily_stars": 47,
     "language": "Rust",
     "topics": [
       "3d",
@@ -110,59 +101,38 @@
       "windows"
     ],
     "created_at": "2026-10-18T18:08:48",
-    "updated_at": "2026-11-11T16:14:28"
+    "updated_at": "2026-11-11T22:56:11"
   },
   {
-    "name": "sapper-v2",
-    "full_name": "N1nEmAn/sapper-v2",
-    "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-    "url": "https://github.com/N1nEmAn/sapper-v2",
-    "stars": 1961,
-    "daily_stars": 64,
-    "language": "Python",
+    "name": "vork",
+    "full_name": "voyager-so/vork",
+    "description": "Headless 3D and VFX engine for agents. Research preview.",
+    "url": "https://github.com/voyager-so/vork",
+    "stars": 1434,
+    "daily_stars": 33,
+    "language": "Rust",
     "topics": [
+      "3d",
       "ai-agents",
-      "autonomous-agents",
-      "claude-code",
-      "ctf",
-      "llm",
-      "multi-agent",
-      "pentest"
+      "gpu",
+      "metal",
+      "ray-tracing",
+      "rendering",
+      "rust",
+      "slang",
+      "vfx",
+      "vulkan"
     ],
-    "created_at": "2026-10-30T15:12:35",
-    "updated_at": "2026-11-11T16:21:47"
-  },
-  {
-    "name": "agent-autoloop",
-    "full_name": "KKKKhazix/agent-autoloop",
-    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-    "url": "https://github.com/KKKKhazix/agent-autoloop",
-    "stars": 4519,
-    "daily_stars": 59,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "automation",
-      "claude-code",
-      "cli",
-      "codex",
-      "event-driven",
-      "mcp",
-      "nodejs",
-      "self-hosted",
-      "typescript",
-      "workflow"
-    ],
-    "created_at": "2026-11-03T08:02:11",
-    "updated_at": "2026-11-11T16:18:24"
+    "created_at": "2026-11-05T22:37:07",
+    "updated_at": "2026-11-11T22:51:43"
   },
   {
     "name": "Awesome-REA",
     "full_name": "reacher-z/Awesome-REA",
     "description": "Awesome Reverse Engineering Anything: tools, projects, case studies and research papers for websites, games, apps, binaries, firmware and communication protocols.",
     "url": "https://github.com/reacher-z/Awesome-REA",
-    "stars": 2554,
-    "daily_stars": 55,
+    "stars": 2578,
+    "daily_stars": 24,
     "language": "Python",
     "topics": [
       "agent-skills",
@@ -184,33 +154,33 @@
       "web-reverse-engineering"
     ],
     "created_at": "2026-10-16T00:42:04",
-    "updated_at": "2026-11-11T15:54:38"
+    "updated_at": "2026-11-11T22:33:27"
   },
   {
-    "name": "solo-to-team-skills",
-    "full_name": "dabingfy-dot/solo-to-team-skills",
-    "description": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
-    "url": "https://github.com/dabingfy-dot/solo-to-team-skills",
-    "stars": 644,
-    "daily_stars": 49,
-    "language": null,
+    "name": "earshot",
+    "full_name": "Leonxlnx/earshot",
+    "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+    "url": "https://github.com/Leonxlnx/earshot",
+    "stars": 4526,
+    "daily_stars": 23,
+    "language": "Python",
     "topics": [
-      "agent-skills",
       "ai-agents",
-      "collaboration",
-      "human-in-the-loop",
-      "workflow"
+      "audio",
+      "claude-code",
+      "mcp",
+      "sound-design"
     ],
-    "created_at": "2026-11-07T01:36:28",
-    "updated_at": "2026-11-11T16:21:30"
+    "created_at": "2026-10-15T06:52:46",
+    "updated_at": "2026-11-11T22:44:17"
   },
   {
     "name": "TokenEconomizer",
     "full_name": "microsoft/TokenEconomizer",
     "description": "Experience-Driven Black-Box Cost Control for Coding Agents",
     "url": "https://github.com/microsoft/TokenEconomizer",
-    "stars": 5715,
-    "daily_stars": 46,
+    "stars": 5736,
+    "daily_stars": 21,
     "language": "Python",
     "topics": [
       "agentic-ai",
@@ -234,34 +204,51 @@
       "token-optimization"
     ],
     "created_at": "2026-10-13T04:16:50",
-    "updated_at": "2026-11-11T16:09:28"
+    "updated_at": "2026-11-11T22:44:08"
   },
   {
-    "name": "kubai-icons",
-    "full_name": "kubai087/kubai-icons",
-    "description": "An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse them.",
-    "url": "https://github.com/kubai087/kubai-icons",
-    "stars": 725,
-    "daily_stars": 39,
-    "language": "JavaScript",
+    "name": "sapper-v2",
+    "full_name": "N1nEmAn/sapper-v2",
+    "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+    "url": "https://github.com/N1nEmAn/sapper-v2",
+    "stars": 1981,
+    "daily_stars": 20,
+    "language": "Python",
     "topics": [
-      "agent-skills",
       "ai-agents",
-      "animated-icons",
-      "animation",
-      "claude",
-      "claude-skill",
-      "codex",
-      "design-system",
-      "hover-effects",
-      "icon-set",
-      "icons",
-      "react",
-      "svg",
-      "svg-icons",
-      "vue"
+      "autonomous-agents",
+      "claude-code",
+      "ctf",
+      "llm",
+      "multi-agent",
+      "pentest"
     ],
-    "created_at": "2026-11-03T09:52:39",
-    "updated_at": "2026-11-11T16:20:59"
+    "created_at": "2026-10-30T15:12:35",
+    "updated_at": "2026-11-11T22:11:05"
+  },
+  {
+    "name": "ChaosIntelligence",
+    "full_name": "Cattmonkey/ChaosIntelligence",
+    "description": "把智能体当函数，把想法写成程序。Agent-native functional language with a CLI, Web IDE, goal-driven bots and live UI. Source-available; no AI training.",
+    "url": "https://github.com/Cattmonkey/ChaosIntelligence",
+    "stars": 392,
+    "daily_stars": 18,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "cli",
+      "developer-tools",
+      "functional-programming",
+      "generative-ui",
+      "llm",
+      "multi-agent",
+      "programming-language",
+      "source-available",
+      "web-ide",
+      "workflow-automation"
+    ],
+    "created_at": "2026-10-23T13:04:31",
+    "updated_at": "2026-11-11T19:01:41"
   }
 ]
