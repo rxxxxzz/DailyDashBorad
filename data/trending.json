@@ -1,11 +1,44 @@
 [
   {
+    "name": "agentes-chat",
+    "full_name": "agentes-chat/agentes-chat",
+    "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+    "url": "https://github.com/agentes-chat/agentes-chat",
+    "stars": 987,
+    "daily_stars": 407,
+    "language": "TypeScript",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "browser-automation",
+      "chat",
+      "claude",
+      "claude-code",
+      "codex",
+      "collaboration",
+      "computer-use",
+      "docker-compose",
+      "gemini",
+      "grok",
+      "human-in-the-loop",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "openai",
+      "self-hosted",
+      "slack-alternative",
+      "team-chat"
+    ],
+    "created_at": "2026-11-09T00:50:28",
+    "updated_at": "2026-11-12T16:57:07"
+  },
+  {
     "name": "exact",
     "full_name": "expo/exact",
     "description": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
     "url": "https://github.com/expo/exact",
-    "stars": 3053,
-    "daily_stars": 180,
+    "stars": 3266,
+    "daily_stars": 213,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -23,15 +56,71 @@
       "web"
     ],
     "created_at": "2026-11-02T01:29:01",
-    "updated_at": "2026-11-12T07:31:12"
+    "updated_at": "2026-11-12T16:57:26"
+  },
+  {
+    "name": "agent-autoloop",
+    "full_name": "KKKKhazix/agent-autoloop",
+    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "url": "https://github.com/KKKKhazix/agent-autoloop",
+    "stars": 4723,
+    "daily_stars": 162,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "claude-code",
+      "cli",
+      "codex",
+      "event-driven",
+      "mcp",
+      "nodejs",
+      "self-hosted",
+      "typescript",
+      "workflow"
+    ],
+    "created_at": "2026-11-03T08:02:11",
+    "updated_at": "2026-11-12T16:48:07"
+  },
+  {
+    "name": "llama-modchip",
+    "full_name": "synchopate/llama-modchip",
+    "description": "🐋 Run 284B DeepSeek-V4-Flash (<59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B MoEs (25-111 tok/s) on a pure 64GB CPU at 256K ctx (0 GPUs). SwiGLU-H2, Stockfish-PVS L3 & 13ms Claude Code restore.",
+    "url": "https://github.com/synchopate/llama-modchip",
+    "stars": 1051,
+    "daily_stars": 101,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "apple-silicon",
+      "avx512",
+      "claude-code",
+      "cpu-inference",
+      "deepseek",
+      "deepseek-v4",
+      "gguf",
+      "hpc",
+      "llama-cpp",
+      "local-llm",
+      "mamba2",
+      "mixture-of-experts",
+      "nemotron",
+      "quantization",
+      "qwen3",
+      "speculative-decoding",
+      "stockfish",
+      "zen5"
+    ],
+    "created_at": "2026-10-29T10:17:33",
+    "updated_at": "2026-11-12T16:58:37"
   },
   {
     "name": "lot-map",
     "full_name": "alexeyw/lot-map",
     "description": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in five languages.",
     "url": "https://github.com/alexeyw/lot-map",
-    "stars": 458,
-    "daily_stars": 80,
+    "stars": 539,
+    "daily_stars": 81,
     "language": "TypeScript",
     "topics": [
       "agent-observability",
@@ -45,15 +134,15 @@
       "visualization"
     ],
     "created_at": "2026-11-09T19:13:52",
-    "updated_at": "2026-11-12T07:30:59"
+    "updated_at": "2026-11-12T16:57:32"
   },
   {
     "name": "solo-to-team-skills",
     "full_name": "dabingfy-dot/solo-to-team-skills",
     "description": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
     "url": "https://github.com/dabingfy-dot/solo-to-team-skills",
-    "stars": 707,
-    "daily_stars": 58,
+    "stars": 766,
+    "daily_stars": 59,
     "language": null,
     "topics": [
       "agent-skills",
@@ -63,15 +152,65 @@
       "workflow"
     ],
     "created_at": "2026-11-07T01:36:28",
-    "updated_at": "2026-11-12T07:21:05"
+    "updated_at": "2026-11-12T16:01:49"
+  },
+  {
+    "name": "earshot",
+    "full_name": "Leonxlnx/earshot",
+    "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+    "url": "https://github.com/Leonxlnx/earshot",
+    "stars": 4601,
+    "daily_stars": 55,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "audio",
+      "claude-code",
+      "mcp",
+      "sound-design"
+    ],
+    "created_at": "2026-10-15T06:52:46",
+    "updated_at": "2026-11-12T16:54:53"
+  },
+  {
+    "name": "raea",
+    "full_name": "shinyobjectz/raea",
+    "description": "Render Anything Engine: tell your AI what to make. Videos, motion graphics, 3D and games as React and TypeScript, rendered on your own GPU. Rust + Bevy, macOS, Linux and Windows.",
+    "url": "https://github.com/shinyobjectz/raea",
+    "stars": 2247,
+    "daily_stars": 53,
+    "language": "Rust",
+    "topics": [
+      "3d",
+      "agent-skills",
+      "ai-agents",
+      "ai-video",
+      "bevy",
+      "claude-code",
+      "game-engine",
+      "gpu",
+      "linux",
+      "macos",
+      "motion-design",
+      "motion-graphics",
+      "react",
+      "rust",
+      "typescript",
+      "video-editing",
+      "video-rendering",
+      "wgpu",
+      "windows"
+    ],
+    "created_at": "2026-10-18T18:08:48",
+    "updated_at": "2026-11-12T16:55:17"
   },
   {
     "name": "SoduWork",
     "full_name": "mdiri-ai/SoduWork",
     "description": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
     "url": "https://github.com/mdiri-ai/SoduWork",
-    "stars": 363,
-    "daily_stars": 44,
+    "stars": 410,
+    "daily_stars": 47,
     "language": "JavaScript",
     "topics": [
       "agent-harness",
@@ -96,14 +235,14 @@
       "team-collaboration"
     ],
     "created_at": "2026-10-29T02:43:14",
-    "updated_at": "2026-11-12T06:51:36"
+    "updated_at": "2026-11-12T16:02:17"
   },
   {
     "name": "interactive-ai-ml-tools",
     "full_name": "Future-Proof-DS/interactive-ai-ml-tools",
     "description": "Free interactive tools for data scientists to learn MLOps, ML system design and agentic analytics: a production ML system map, ML project structure, data drift simulator, agentic analytics system map and AI evals.",
     "url": "https://github.com/Future-Proof-DS/interactive-ai-ml-tools",
-    "stars": 165,
+    "stars": 209,
     "daily_stars": 44,
     "language": null,
     "topics": [
@@ -120,138 +259,6 @@
       "text-to-sql"
     ],
     "created_at": "2026-11-02T13:44:28",
-    "updated_at": "2026-11-12T07:29:51"
-  },
-  {
-    "name": "raea",
-    "full_name": "shinyobjectz/raea",
-    "description": "Render Anything Engine: tell your AI what to make. Videos, motion graphics, 3D and games as React and TypeScript, rendered on your own GPU. Rust + Bevy, macOS, Linux and Windows.",
-    "url": "https://github.com/shinyobjectz/raea",
-    "stars": 2194,
-    "daily_stars": 41,
-    "language": "Rust",
-    "topics": [
-      "3d",
-      "agent-skills",
-      "ai-agents",
-      "ai-video",
-      "bevy",
-      "claude-code",
-      "game-engine",
-      "gpu",
-      "linux",
-      "macos",
-      "motion-design",
-      "motion-graphics",
-      "react",
-      "rust",
-      "typescript",
-      "video-editing",
-      "video-rendering",
-      "wgpu",
-      "windows"
-    ],
-    "created_at": "2026-10-18T18:08:48",
-    "updated_at": "2026-11-12T07:28:29"
-  },
-  {
-    "name": "agent-autoloop",
-    "full_name": "KKKKhazix/agent-autoloop",
-    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-    "url": "https://github.com/KKKKhazix/agent-autoloop",
-    "stars": 4561,
-    "daily_stars": 35,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "automation",
-      "claude-code",
-      "cli",
-      "codex",
-      "event-driven",
-      "mcp",
-      "nodejs",
-      "self-hosted",
-      "typescript",
-      "workflow"
-    ],
-    "created_at": "2026-11-03T08:02:11",
-    "updated_at": "2026-11-12T07:11:47"
-  },
-  {
-    "name": "vork",
-    "full_name": "voyager-so/vork",
-    "description": "Headless 3D and VFX engine for agents. Research preview.",
-    "url": "https://github.com/voyager-so/vork",
-    "stars": 1469,
-    "daily_stars": 35,
-    "language": "Rust",
-    "topics": [
-      "3d",
-      "ai-agents",
-      "gpu",
-      "metal",
-      "ray-tracing",
-      "rendering",
-      "rust",
-      "slang",
-      "vfx",
-      "vulkan"
-    ],
-    "created_at": "2026-11-05T22:37:07",
-    "updated_at": "2026-11-12T07:28:24"
-  },
-  {
-    "name": "Awesome-REA",
-    "full_name": "reacher-z/Awesome-REA",
-    "description": "Awesome Reverse Engineering Anything: tools, projects, case studies and research papers for websites, games, apps, binaries, firmware and communication protocols.",
-    "url": "https://github.com/reacher-z/Awesome-REA",
-    "stars": 2611,
-    "daily_stars": 33,
-    "language": "Python",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "android-reverse-engineering",
-      "awesome-list",
-      "binary-analysis",
-      "decompilation",
-      "firmware-analysis",
-      "game-reversing",
-      "ghidra",
-      "ios-reverse-engineering",
-      "javascript-deobfuscation",
-      "mcp",
-      "protocol-analysis",
-      "rea",
-      "research-papers",
-      "reverse-engineering",
-      "web-reverse-engineering"
-    ],
-    "created_at": "2026-10-16T00:42:04",
-    "updated_at": "2026-11-12T07:08:30"
-  },
-  {
-    "name": "opengeniemaster",
-    "full_name": "eust-w/opengeniemaster",
-    "description": "Open-source embodied agent framework: execution, feedback, and continual improvement",
-    "url": "https://github.com/eust-w/opengeniemaster",
-    "stars": 273,
-    "daily_stars": 25,
-    "language": "Python",
-    "topics": [
-      "agent-harness",
-      "ai-agents",
-      "continual-learning",
-      "embodied-ai",
-      "mcp",
-      "model-context-protocol",
-      "multi-robot",
-      "robotics",
-      "simulation",
-      "vla"
-    ],
-    "created_at": "2026-10-27T11:27:29",
-    "updated_at": "2026-11-12T05:57:31"
+    "updated_at": "2026-11-12T16:50:13"
   }
 ]
