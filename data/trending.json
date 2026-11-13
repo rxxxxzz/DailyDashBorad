@@ -4,8 +4,8 @@
     "full_name": "agentes-chat/agentes-chat",
     "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
     "url": "https://github.com/agentes-chat/agentes-chat",
-    "stars": 987,
-    "daily_stars": 407,
+    "stars": 1182,
+    "daily_stars": 195,
     "language": "TypeScript",
     "topics": [
       "agentic-ai",
@@ -30,15 +30,15 @@
       "team-chat"
     ],
     "created_at": "2026-11-09T00:50:28",
-    "updated_at": "2026-11-12T16:57:07"
+    "updated_at": "2026-11-13T01:15:55"
   },
   {
     "name": "exact",
     "full_name": "expo/exact",
     "description": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
     "url": "https://github.com/expo/exact",
-    "stars": 3266,
-    "daily_stars": 213,
+    "stars": 3365,
+    "daily_stars": 99,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -56,39 +56,37 @@
       "web"
     ],
     "created_at": "2026-11-02T01:29:01",
-    "updated_at": "2026-11-12T16:57:26"
+    "updated_at": "2026-11-13T01:17:31"
   },
   {
-    "name": "agent-autoloop",
-    "full_name": "KKKKhazix/agent-autoloop",
-    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-    "url": "https://github.com/KKKKhazix/agent-autoloop",
-    "stars": 4723,
-    "daily_stars": 162,
+    "name": "lot-map",
+    "full_name": "alexeyw/lot-map",
+    "description": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in five languages.",
+    "url": "https://github.com/alexeyw/lot-map",
+    "stars": 610,
+    "daily_stars": 71,
     "language": "TypeScript",
     "topics": [
+      "agent-observability",
       "ai-agents",
-      "automation",
+      "claude",
       "claude-code",
-      "cli",
-      "codex",
-      "event-driven",
-      "mcp",
-      "nodejs",
-      "self-hosted",
+      "claude-code-plugin",
+      "developer-tools",
+      "svg-animation",
       "typescript",
-      "workflow"
+      "visualization"
     ],
-    "created_at": "2026-11-03T08:02:11",
-    "updated_at": "2026-11-12T16:48:07"
+    "created_at": "2026-11-09T19:13:52",
+    "updated_at": "2026-11-13T01:08:39"
   },
   {
     "name": "llama-modchip",
     "full_name": "synchopate/llama-modchip",
     "description": "🐋 Run 284B DeepSeek-V4-Flash (<59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B MoEs (25-111 tok/s) on a pure 64GB CPU at 256K ctx (0 GPUs). SwiGLU-H2, Stockfish-PVS L3 & 13ms Claude Code restore.",
     "url": "https://github.com/synchopate/llama-modchip",
-    "stars": 1051,
-    "daily_stars": 101,
+    "stars": 1117,
+    "daily_stars": 66,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -112,55 +110,15 @@
       "zen5"
     ],
     "created_at": "2026-10-29T10:17:33",
-    "updated_at": "2026-11-12T16:58:37"
-  },
-  {
-    "name": "lot-map",
-    "full_name": "alexeyw/lot-map",
-    "description": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in five languages.",
-    "url": "https://github.com/alexeyw/lot-map",
-    "stars": 539,
-    "daily_stars": 81,
-    "language": "TypeScript",
-    "topics": [
-      "agent-observability",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "claude-code-plugin",
-      "developer-tools",
-      "svg-animation",
-      "typescript",
-      "visualization"
-    ],
-    "created_at": "2026-11-09T19:13:52",
-    "updated_at": "2026-11-12T16:57:32"
-  },
-  {
-    "name": "solo-to-team-skills",
-    "full_name": "dabingfy-dot/solo-to-team-skills",
-    "description": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
-    "url": "https://github.com/dabingfy-dot/solo-to-team-skills",
-    "stars": 766,
-    "daily_stars": 59,
-    "language": null,
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "collaboration",
-      "human-in-the-loop",
-      "workflow"
-    ],
-    "created_at": "2026-11-07T01:36:28",
-    "updated_at": "2026-11-12T16:01:49"
+    "updated_at": "2026-11-13T01:07:46"
   },
   {
     "name": "earshot",
     "full_name": "Leonxlnx/earshot",
     "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
     "url": "https://github.com/Leonxlnx/earshot",
-    "stars": 4601,
-    "daily_stars": 55,
+    "stars": 4663,
+    "daily_stars": 62,
     "language": "Python",
     "topics": [
       "ai-agents",
@@ -170,15 +128,67 @@
       "sound-design"
     ],
     "created_at": "2026-10-15T06:52:46",
-    "updated_at": "2026-11-12T16:54:53"
+    "updated_at": "2026-11-13T00:57:12"
+  },
+  {
+    "name": "agent-autoloop",
+    "full_name": "KKKKhazix/agent-autoloop",
+    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "url": "https://github.com/KKKKhazix/agent-autoloop",
+    "stars": 4778,
+    "daily_stars": 54,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "claude-code",
+      "cli",
+      "codex",
+      "event-driven",
+      "mcp",
+      "nodejs",
+      "self-hosted",
+      "typescript",
+      "workflow"
+    ],
+    "created_at": "2026-11-03T08:02:11",
+    "updated_at": "2026-11-13T01:16:20"
+  },
+  {
+    "name": "diorama",
+    "full_name": "sloemo01/diorama",
+    "description": "Pixel-art diorama playbook and Three.js code kit: research-first build workflow, locked camera, palette snap, ordered dither, inked contour, animated toy-scale cast, per-entity frame QA.",
+    "url": "https://github.com/sloemo01/diorama",
+    "stars": 408,
+    "daily_stars": 40,
+    "language": "JavaScript",
+    "topics": [
+      "agent-skill",
+      "agent-skill-repository",
+      "agent-skills",
+      "ai-agents",
+      "creative-coding",
+      "diorama",
+      "game-art",
+      "pixel-art",
+      "pixelation",
+      "procedural-art",
+      "procedural-generation",
+      "skill",
+      "three-js",
+      "threejs",
+      "webgl"
+    ],
+    "created_at": "2026-10-24T09:05:09",
+    "updated_at": "2026-11-13T01:15:47"
   },
   {
     "name": "raea",
     "full_name": "shinyobjectz/raea",
     "description": "Render Anything Engine: tell your AI what to make. Videos, motion graphics, 3D and games as React and TypeScript, rendered on your own GPU. Rust + Bevy, macOS, Linux and Windows.",
     "url": "https://github.com/shinyobjectz/raea",
-    "stars": 2247,
-    "daily_stars": 53,
+    "stars": 2284,
+    "daily_stars": 37,
     "language": "Rust",
     "topics": [
       "3d",
@@ -202,63 +212,58 @@
       "windows"
     ],
     "created_at": "2026-10-18T18:08:48",
-    "updated_at": "2026-11-12T16:55:17"
+    "updated_at": "2026-11-13T01:14:33"
   },
   {
-    "name": "SoduWork",
-    "full_name": "mdiri-ai/SoduWork",
-    "description": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
-    "url": "https://github.com/mdiri-ai/SoduWork",
-    "stars": 410,
-    "daily_stars": 47,
-    "language": "JavaScript",
+    "name": "opencraft",
+    "full_name": "opencraft-app/opencraft",
+    "description": "TypeScript agent workbench for Web, Electron and Expo with pluggable execution hosts and managed Web updates",
+    "url": "https://github.com/opencraft-app/opencraft",
+    "stars": 192,
+    "daily_stars": 26,
+    "language": "TypeScript",
     "topics": [
-      "agent-harness",
-      "agent-orchestration",
-      "agent-workflows",
+      "agent-workbench",
       "ai-agents",
-      "ai-workflows",
-      "anti-slop",
-      "claude-code",
       "codex",
-      "deepseek",
       "electron",
-      "fastapi",
-      "harness",
-      "human-in-the-loop",
-      "llm",
-      "mcp",
-      "multi-agent",
-      "opencode",
-      "plugin-system",
-      "self-hosted",
-      "team-collaboration"
+      "react",
+      "typescript"
     ],
-    "created_at": "2026-10-29T02:43:14",
-    "updated_at": "2026-11-12T16:02:17"
+    "created_at": "2026-10-27T09:44:05",
+    "updated_at": "2026-11-13T01:17:26"
   },
   {
-    "name": "interactive-ai-ml-tools",
-    "full_name": "Future-Proof-DS/interactive-ai-ml-tools",
-    "description": "Free interactive tools for data scientists to learn MLOps, ML system design and agentic analytics: a production ML system map, ML project structure, data drift simulator, agentic analytics system map and AI evals.",
-    "url": "https://github.com/Future-Proof-DS/interactive-ai-ml-tools",
-    "stars": 209,
-    "daily_stars": 44,
-    "language": null,
+    "name": "WebsiteBench",
+    "full_name": "TIGER-AI-Lab/WebsiteBench",
+    "description": "Can AI agents rebuild websites through browser exploration?",
+    "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
+    "stars": 293,
+    "daily_stars": 24,
+    "language": "Python",
     "topics": [
-      "agentic-ai",
+      "agent-evaluation",
+      "ai",
       "ai-agents",
-      "data-drift",
-      "data-science",
-      "interactive-learning",
-      "llm-evaluation",
-      "machine-learning",
-      "ml-system-design",
-      "mlops",
-      "model-monitoring",
-      "text-to-sql"
+      "benchmark",
+      "benchmarking",
+      "browser-automation",
+      "browser-use",
+      "full-stack",
+      "harbor",
+      "harbor-framework",
+      "llm",
+      "llm-benchmark",
+      "llm-benchmarking",
+      "llm-benchmarks",
+      "reverse-engineering",
+      "swe-bench",
+      "visual-evaluation",
+      "web-agents",
+      "web-development",
+      "website-reconstruction"
     ],
-    "created_at": "2026-11-02T13:44:28",
-    "updated_at": "2026-11-12T16:50:13"
+    "created_at": "2026-11-04T12:58:50",
+    "updated_at": "2026-11-13T01:18:18"
   }
 ]
