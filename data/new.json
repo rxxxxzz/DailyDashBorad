@@ -4,8 +4,8 @@
     "full_name": "hitkeeen/blender-ai-mcp-addon",
     "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
     "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-    "stars": 1825,
-    "daily_stars": 1100,
+    "stars": 2119,
+    "daily_stars": 294,
     "language": null,
     "topics": [
       "ai-agents",
@@ -30,15 +30,15 @@
       "opencode"
     ],
     "created_at": "2026-11-12T14:32:15",
-    "updated_at": "2026-11-16T07:03:15"
+    "updated_at": "2026-11-16T18:29:40"
   },
   {
     "name": "agentes-chat",
     "full_name": "agentes-chat/agentes-chat",
     "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
     "url": "https://github.com/agentes-chat/agentes-chat",
-    "stars": 1563,
-    "daily_stars": 72,
+    "stars": 1610,
+    "daily_stars": 47,
     "language": "TypeScript",
     "topics": [
       "agentic-ai",
@@ -63,14 +63,14 @@
       "team-chat"
     ],
     "created_at": "2026-11-09T00:50:28",
-    "updated_at": "2026-11-16T06:48:52"
+    "updated_at": "2026-11-16T18:46:05"
   },
   {
     "name": "lot-map",
     "full_name": "alexeyw/lot-map",
     "description": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in five languages.",
     "url": "https://github.com/alexeyw/lot-map",
-    "stars": 900,
+    "stars": 918,
     "daily_stars": 18,
     "language": "TypeScript",
     "topics": [
@@ -85,15 +85,15 @@
       "visualization"
     ],
     "created_at": "2026-11-09T19:13:52",
-    "updated_at": "2026-11-16T06:13:59"
+    "updated_at": "2026-11-16T18:07:01"
   },
   {
     "name": "gpucanvas",
     "full_name": "berkantay/gpucanvas",
     "description": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
     "url": "https://github.com/berkantay/gpucanvas",
-    "stars": 494,
-    "daily_stars": 17,
+    "stars": 508,
+    "daily_stars": 14,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -110,15 +110,15 @@
       "wgsl"
     ],
     "created_at": "2026-11-12T23:19:42",
-    "updated_at": "2026-11-16T06:45:41"
+    "updated_at": "2026-11-16T18:00:52"
   },
   {
     "name": "ai--manus2.0",
     "full_name": "topapothecarycanal/ai--manus2.0",
     "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
     "url": "https://github.com/topapothecarycanal/ai--manus2.0",
-    "stars": 381,
-    "daily_stars": 0,
+    "stars": 380,
+    "daily_stars": -1,
     "language": null,
     "topics": [
       "ai",
@@ -143,15 +143,15 @@
       "vue"
     ],
     "created_at": "2026-11-14T19:15:24",
-    "updated_at": "2026-11-15T18:30:28"
+    "updated_at": "2026-11-16T16:28:20"
   },
   {
     "name": "ai--manus2.0",
     "full_name": "toppatronweave/ai--manus2.0",
     "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
     "url": "https://github.com/toppatronweave/ai--manus2.0",
-    "stars": 380,
-    "daily_stars": 0,
+    "stars": 378,
+    "daily_stars": -2,
     "language": null,
     "topics": [
       "ai",
@@ -176,15 +176,15 @@
       "vue"
     ],
     "created_at": "2026-11-14T19:15:25",
-    "updated_at": "2026-11-15T18:30:29"
+    "updated_at": "2026-11-16T16:28:20"
   },
   {
     "name": "ai--manus2.0",
     "full_name": "topconstableinlet67/ai--manus2.0",
     "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
     "url": "https://github.com/topconstableinlet67/ai--manus2.0",
-    "stars": 378,
-    "daily_stars": 0,
+    "stars": 377,
+    "daily_stars": -1,
     "language": null,
     "topics": [
       "ai",
@@ -209,15 +209,45 @@
       "vue"
     ],
     "created_at": "2026-11-14T19:15:24",
-    "updated_at": "2026-11-15T18:30:29"
+    "updated_at": "2026-11-16T16:28:20"
+  },
+  {
+    "name": "guizang-game-skill",
+    "full_name": "op7418/guizang-game-skill",
+    "description": "歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included.",
+    "url": "https://github.com/op7418/guizang-game-skill",
+    "stars": 376,
+    "daily_stars": 11,
+    "language": "JavaScript",
+    "topics": [
+      "3d-game",
+      "action-game",
+      "agent-skills",
+      "ai-agents",
+      "ai-generated",
+      "browser-game",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "game-development",
+      "gamedev",
+      "html5-game",
+      "threejs",
+      "tripo",
+      "vibe-coding",
+      "webgl",
+      "wuxia"
+    ],
+    "created_at": "2026-11-11T16:28:54",
+    "updated_at": "2026-11-16T17:02:44"
   },
   {
     "name": "ai--manus2.0",
     "full_name": "violetkomodolimit/ai--manus2.0",
     "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
     "url": "https://github.com/violetkomodolimit/ai--manus2.0",
-    "stars": 375,
-    "daily_stars": 0,
+    "stars": 374,
+    "daily_stars": -1,
     "language": null,
     "topics": [
       "ai",
@@ -242,15 +272,15 @@
       "vue"
     ],
     "created_at": "2026-11-14T19:25:22",
-    "updated_at": "2026-11-15T18:30:36"
+    "updated_at": "2026-11-16T16:28:30"
   },
   {
     "name": "ai--manus2.0",
     "full_name": "trackersnailgrip/ai--manus2.0",
     "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
     "url": "https://github.com/trackersnailgrip/ai--manus2.0",
-    "stars": 373,
-    "daily_stars": 0,
+    "stars": 372,
+    "daily_stars": -1,
     "language": null,
     "topics": [
       "ai",
@@ -275,39 +305,6 @@
       "vue"
     ],
     "created_at": "2026-11-14T19:25:17",
-    "updated_at": "2026-11-15T18:30:32"
-  },
-  {
-    "name": "ai--manus2.0",
-    "full_name": "Ultimateakiln/ai--manus2.0",
-    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/Ultimateakiln/ai--manus2.0",
-    "stars": 371,
-    "daily_stars": 0,
-    "language": null,
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-sdk",
-      "anthropic",
-      "chatbot",
-      "function-calling",
-      "gemeni",
-      "generative-ai",
-      "llm",
-      "multimodal",
-      "openai",
-      "react",
-      "solidjs",
-      "streaming",
-      "svelte",
-      "tanstack",
-      "tool-calling",
-      "typescript",
-      "typescript-sdk",
-      "vue"
-    ],
-    "created_at": "2026-11-14T19:25:17",
-    "updated_at": "2026-11-15T18:30:33"
+    "updated_at": "2026-11-16T16:28:24"
   }
 ]
