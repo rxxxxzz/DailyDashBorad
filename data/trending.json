@@ -1,11 +1,44 @@
 [
   {
+    "name": "opengame",
+    "full_name": "nexu-io/opengame",
+    "description": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+    "url": "https://github.com/nexu-io/opengame",
+    "stars": 875,
+    "daily_stars": 535,
+    "language": "TypeScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-game-generator",
+      "claude-code",
+      "codex",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "game-development",
+      "game-engine",
+      "indie-game",
+      "local-first",
+      "mcp",
+      "mini-games",
+      "threejs",
+      "unity",
+      "unreal-engine",
+      "vibe-coding",
+      "wechat-minigame"
+    ],
+    "created_at": "2026-11-25T10:35:45",
+    "updated_at": "2026-11-27T00:42:57"
+  },
+  {
     "name": "llm.asm",
     "full_name": "alesha-pro/llm.asm",
     "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
     "url": "https://github.com/alesha-pro/llm.asm",
-    "stars": 1085,
-    "daily_stars": 854,
+    "stars": 1524,
+    "daily_stars": 439,
     "language": "Assembly",
     "topics": [
       "assembly",
@@ -20,15 +53,15 @@
       "x86-64"
     ],
     "created_at": "2026-11-25T07:28:51",
-    "updated_at": "2026-11-26T14:09:37"
+    "updated_at": "2026-11-27T00:41:43"
   },
   {
     "name": "fast-anything",
     "full_name": "EL4CTEO/fast-anything",
     "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
     "url": "https://github.com/EL4CTEO/fast-anything",
-    "stars": 4141,
-    "daily_stars": 180,
+    "stars": 4232,
+    "daily_stars": 91,
     "language": "Rust",
     "topics": [
       "agent-skills",
@@ -53,15 +86,15 @@
       "typescript"
     ],
     "created_at": "2026-11-21T14:40:27",
-    "updated_at": "2026-11-26T14:08:58"
+    "updated_at": "2026-11-27T00:37:56"
   },
   {
     "name": "mobile-agent-testers",
     "full_name": "pierridotite/mobile-agent-testers",
     "description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
     "url": "https://github.com/pierridotite/mobile-agent-testers",
-    "stars": 2449,
-    "daily_stars": 140,
+    "stars": 2514,
+    "daily_stars": 65,
     "language": "Python",
     "topics": [
       "accessibility-testing",
@@ -86,15 +119,15 @@
       "ui-testing"
     ],
     "created_at": "2026-11-16T19:11:44",
-    "updated_at": "2026-11-26T14:10:24"
+    "updated_at": "2026-11-27T00:43:05"
   },
   {
     "name": "SoduWork",
     "full_name": "mdiri-ai/SoduWork",
     "description": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
     "url": "https://github.com/mdiri-ai/SoduWork",
-    "stars": 8208,
-    "daily_stars": 90,
+    "stars": 8239,
+    "daily_stars": 31,
     "language": "JavaScript",
     "topics": [
       "agent-harness",
@@ -119,68 +152,15 @@
       "team-collaboration"
     ],
     "created_at": "2026-10-29T02:43:14",
-    "updated_at": "2026-11-26T14:12:12"
-  },
-  {
-    "name": "agent-autoloop",
-    "full_name": "KKKKhazix/agent-autoloop",
-    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-    "url": "https://github.com/KKKKhazix/agent-autoloop",
-    "stars": 6628,
-    "daily_stars": 76,
-    "language": "TypeScript",
-    "topics": [
-      "ai-agents",
-      "automation",
-      "claude-code",
-      "cli",
-      "codex",
-      "event-driven",
-      "mcp",
-      "nodejs",
-      "self-hosted",
-      "typescript",
-      "workflow"
-    ],
-    "created_at": "2026-11-03T08:02:11",
-    "updated_at": "2026-11-26T14:10:45"
-  },
-  {
-    "name": "open-artifact",
-    "full_name": "JimLiu/open-artifact",
-    "description": "Open, agent- and model-agnostic artifacts, all saved locally as plain files — edit, comment on, and export slides, UI designs, design systems, whiteboards, sheets, dashboards, docs, and motion.",
-    "url": "https://github.com/JimLiu/open-artifact",
-    "stars": 603,
-    "daily_stars": 57,
-    "language": "TypeScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "artifacts",
-      "claude-artifacts",
-      "claude-code",
-      "claude-design",
-      "codex",
-      "coding-agent",
-      "cursor",
-      "design-tools",
-      "dsh-plugin",
-      "dsh-plugins",
-      "github-copilot",
-      "local-first",
-      "mcp",
-      "mcp-apps"
-    ],
-    "created_at": "2026-11-17T02:25:25",
-    "updated_at": "2026-11-26T14:08:31"
+    "updated_at": "2026-11-27T00:33:19"
   },
   {
     "name": "safe-anything",
     "full_name": "erkamyaman/safe-anything",
     "description": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
     "url": "https://github.com/erkamyaman/safe-anything",
-    "stars": 756,
-    "daily_stars": 52,
+    "stars": 787,
+    "daily_stars": 31,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -205,67 +185,71 @@
       "xss"
     ],
     "created_at": "2026-11-22T16:44:10",
-    "updated_at": "2026-11-26T14:05:03"
+    "updated_at": "2026-11-27T00:16:01"
   },
   {
-    "name": "poki",
-    "full_name": "JosssphZhou/poki",
-    "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
-    "url": "https://github.com/JosssphZhou/poki",
-    "stars": 2127,
-    "daily_stars": 47,
-    "language": "JavaScript",
+    "name": "shrink-anything",
+    "full_name": "EL4CTEO/shrink-anything",
+    "description": "Less code, same tests passing: delete the dead code, files, dependencies and assets in any codebase, and keep each cut only if your own tests still pass.",
+    "url": "https://github.com/EL4CTEO/shrink-anything",
+    "stars": 336,
+    "daily_stars": 31,
+    "language": "Rust",
     "topics": [
       "ai-agents",
-      "automation",
-      "ios",
-      "iphone",
+      "bundle-size",
+      "claude-code",
+      "cli",
+      "code-cleanup",
+      "dead-code",
       "mcp",
-      "model-context-protocol"
+      "refactoring",
+      "rust",
+      "unused-dependencies"
     ],
-    "created_at": "2026-11-05T15:04:31",
-    "updated_at": "2026-11-26T13:58:32"
+    "created_at": "2026-11-23T15:55:48",
+    "updated_at": "2026-11-27T00:26:31"
   },
   {
-    "name": "PiBot",
-    "full_name": "w01fb0ss/PiBot",
-    "description": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
-    "url": "https://github.com/w01fb0ss/PiBot",
-    "stars": 644,
-    "daily_stars": 47,
+    "name": "omnimux-client",
+    "full_name": "omnimux-ai/omnimux-client",
+    "description": "OmniMux — Local AI content commerce workbench for product videos, ads, and creator workflows. Built-in product & asset library, inspiration teardown, infinite multimodal canvas, and timeline editor for macOS & Windows.",
+    "url": "https://github.com/omnimux-ai/omnimux-client",
+    "stars": 140,
+    "daily_stars": 30,
     "language": "TypeScript",
     "topics": [
-      "agent",
-      "ai-agent",
+      "agent-skills",
+      "ai",
       "ai-agents",
-      "ai-assistant",
-      "android",
-      "automation",
-      "chatgpt",
-      "coding-agent",
-      "computer-use",
-      "desktop-app",
+      "ai-video",
+      "content-creation",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "ecommerce",
       "electron",
-      "llm",
+      "ffmpeg",
+      "generative-ai",
       "local-first",
-      "mcp",
-      "multi-agent",
-      "ollama",
-      "openai",
-      "privacy",
-      "self-hosted",
-      "typescript"
+      "omnimux",
+      "react",
+      "typescript",
+      "ugc",
+      "video-editing",
+      "video-generation",
+      "workflow"
     ],
-    "created_at": "2026-11-21T06:54:24",
-    "updated_at": "2026-11-26T13:42:28"
+    "created_at": "2026-11-13T08:08:11",
+    "updated_at": "2026-11-27T00:35:32"
   },
   {
     "name": "exact",
     "full_name": "expo/exact",
     "description": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
     "url": "https://github.com/expo/exact",
-    "stars": 5155,
-    "daily_stars": 38,
+    "stars": 5184,
+    "daily_stars": 29,
     "language": "Rust",
     "topics": [
       "ai-agents",
@@ -283,6 +267,39 @@
       "web"
     ],
     "created_at": "2026-11-02T01:29:01",
-    "updated_at": "2026-11-26T14:08:23"
+    "updated_at": "2026-11-27T00:07:05"
+  },
+  {
+    "name": "claude-multi-desktop",
+    "full_name": "jackson-cmd/claude-multi-desktop",
+    "description": "Run multiple Claude Desktop accounts at the same time on Mac: separate sign-ins, custom icons, one shared Claude Code setup, and sessions that message each other across accounts. brew install jackson-cmd/tap/claude-multi-desktop",
+    "url": "https://github.com/jackson-cmd/claude-multi-desktop",
+    "stars": 482,
+    "daily_stars": 21,
+    "language": "HTML",
+    "topics": [
+      "account-switcher",
+      "ai-agents",
+      "anthropic",
+      "bash",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-desktop",
+      "developer-tools",
+      "electron",
+      "homebrew",
+      "launcher",
+      "mac",
+      "macos",
+      "multi-account",
+      "multiple-accounts",
+      "productivity",
+      "profiles",
+      "shell-script"
+    ],
+    "created_at": "2026-11-16T04:23:02",
+    "updated_at": "2026-11-27T00:25:20"
   }
 ]
