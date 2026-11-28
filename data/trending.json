@@ -1,43 +1,11 @@
 [
   {
-    "name": "waifu2x-image-upscaler-windows",
-    "full_name": "Red2076-arch/waifu2x-image-upscaler-windows",
-    "description": "Free AI image upscaler and photo denoiser for Windows powered by Vulkan GPU acceleration and ncnn neural networks.",
-    "url": "https://github.com/Red2076-arch/waifu2x-image-upscaler-windows",
-    "stars": 954,
-    "daily_stars": 484,
-    "language": "C++",
-    "topics": [
-      "amd",
-      "artificial-intelligence",
-      "computer-vision",
-      "deep-learning",
-      "denoising",
-      "gpu",
-      "image-enhancement",
-      "image-processing",
-      "image-upscaling",
-      "intel",
-      "linux",
-      "machine-learning",
-      "macos",
-      "ncnn",
-      "nvidia",
-      "super-resolution",
-      "vulkan",
-      "waifu2x",
-      "windows"
-    ],
-    "created_at": "2026-11-27T15:17:56",
-    "updated_at": "2026-11-28T08:15:36"
-  },
-  {
     "name": "100x-engineer-skill",
     "full_name": "DeadInternetStudios/100x-engineer-skill",
     "description": "100x is a skill by a former Cursor engineer that turns prompts into formally verified, production-ready code",
     "url": "https://github.com/DeadInternetStudios/100x-engineer-skill",
-    "stars": 1193,
-    "daily_stars": 371,
+    "stars": 1579,
+    "daily_stars": 386,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -48,15 +16,15 @@
       "formal-verification"
     ],
     "created_at": "2026-11-23T11:06:07",
-    "updated_at": "2026-11-28T08:15:32"
+    "updated_at": "2026-11-28T17:03:28"
   },
   {
     "name": "opengame",
     "full_name": "nexu-io/opengame",
     "description": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
     "url": "https://github.com/nexu-io/opengame",
-    "stars": 2511,
-    "daily_stars": 283,
+    "stars": 2827,
+    "daily_stars": 316,
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -81,15 +49,15 @@
       "wechat-minigame"
     ],
     "created_at": "2026-11-25T10:35:45",
-    "updated_at": "2026-11-28T08:14:25"
+    "updated_at": "2026-11-28T17:01:36"
   },
   {
     "name": "llm.asm",
     "full_name": "alesha-pro/llm.asm",
     "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
     "url": "https://github.com/alesha-pro/llm.asm",
-    "stars": 2388,
-    "daily_stars": 189,
+    "stars": 2680,
+    "daily_stars": 292,
     "language": "Assembly",
     "topics": [
       "assembly",
@@ -104,15 +72,76 @@
       "x86-64"
     ],
     "created_at": "2026-11-25T07:28:51",
-    "updated_at": "2026-11-28T08:13:59"
+    "updated_at": "2026-11-28T16:59:21"
+  },
+  {
+    "name": "clipy",
+    "full_name": "clipy-recorder/clipy",
+    "description": "The AI-native screen recorder. Record your screen and talk; the people you share it with and your AI agents both get it.",
+    "url": "https://github.com/clipy-recorder/clipy",
+    "stars": 494,
+    "daily_stars": 211,
+    "language": "Rust",
+    "topics": [
+      "agent-readable",
+      "ai-agents",
+      "arec",
+      "claude-code",
+      "codex",
+      "cursor",
+      "local-first",
+      "macos",
+      "privacy",
+      "rust",
+      "screen-recorder",
+      "screen-recording",
+      "tauri",
+      "transcription",
+      "typescript",
+      "windows"
+    ],
+    "created_at": "2026-11-22T16:08:49",
+    "updated_at": "2026-11-28T17:00:49"
+  },
+  {
+    "name": "waifu2x-image-upscaler-windows",
+    "full_name": "Red2076-arch/waifu2x-image-upscaler-windows",
+    "description": "Free AI image upscaler and photo denoiser for Windows powered by Vulkan GPU acceleration and ncnn neural networks.",
+    "url": "https://github.com/Red2076-arch/waifu2x-image-upscaler-windows",
+    "stars": 1117,
+    "daily_stars": 163,
+    "language": "C++",
+    "topics": [
+      "amd",
+      "artificial-intelligence",
+      "computer-vision",
+      "deep-learning",
+      "denoising",
+      "gpu",
+      "image-enhancement",
+      "image-processing",
+      "image-upscaling",
+      "intel",
+      "linux",
+      "machine-learning",
+      "macos",
+      "ncnn",
+      "nvidia",
+      "super-resolution",
+      "vulkan",
+      "waifu2x",
+      "windows"
+    ],
+    "created_at": "2026-11-27T15:17:56",
+    "updated_at": "2026-11-28T13:01:41"
   },
   {
     "name": "fast-anything",
     "full_name": "EL4CTEO/fast-anything",
     "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
     "url": "https://github.com/EL4CTEO/fast-anything",
-    "stars": 4545,
-    "daily_stars": 83,
+    "stars": 4647,
+    "daily_stars": 102,
     "language": "Rust",
     "topics": [
       "agent-skills",
@@ -137,48 +166,40 @@
       "typescript"
     ],
     "created_at": "2026-11-21T14:40:27",
-    "updated_at": "2026-11-28T08:10:12"
+    "updated_at": "2026-11-28T16:59:04"
   },
   {
-    "name": "mobile-agent-testers",
-    "full_name": "pierridotite/mobile-agent-testers",
-    "description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
-    "url": "https://github.com/pierridotite/mobile-agent-testers",
-    "stars": 2644,
-    "daily_stars": 32,
+    "name": "research-sources",
+    "full_name": "SamuelZ12/research-sources",
+    "description": "Lets AI agents read what web search misses on X, Reddit and more",
+    "url": "https://github.com/SamuelZ12/research-sources",
+    "stars": 295,
+    "daily_stars": 79,
     "language": "Python",
     "topics": [
-      "accessibility-testing",
+      "agent-skills",
       "ai-agents",
-      "ai-testing",
-      "android",
-      "android-emulator",
-      "claude",
       "claude-code",
-      "e2e-testing",
-      "exploratory-testing",
-      "expo",
-      "flutter",
-      "github-actions",
-      "ios",
-      "ios-simulator",
-      "llm",
-      "mobile-testing",
-      "qa",
-      "react-native",
-      "test-automation",
-      "ui-testing"
+      "cli",
+      "hacker-news",
+      "json",
+      "linkedin",
+      "python",
+      "reddit",
+      "research",
+      "twitter",
+      "youtube-transcripts"
     ],
-    "created_at": "2026-11-16T19:11:44",
-    "updated_at": "2026-11-28T08:10:16"
+    "created_at": "2026-11-20T19:03:35",
+    "updated_at": "2026-11-28T16:58:46"
   },
   {
     "name": "OfferHunter",
     "full_name": "LofiSu/OfferHunter",
     "description": "Open-source STAR resume skill for AI jobs. Use with Claude, ChatGPT, Codex, Grok, and other agents. Bilingual examples, real JD references, and HTML/LaTeX templates. 中文 AI 求职简历。",
     "url": "https://github.com/LofiSu/OfferHunter",
-    "stars": 57,
-    "daily_stars": 28,
+    "stars": 107,
+    "daily_stars": 50,
     "language": "TeX",
     "topics": [
       "agent-skills",
@@ -203,14 +224,47 @@
       "star-method"
     ],
     "created_at": "2026-11-18T18:17:57",
-    "updated_at": "2026-11-28T08:14:51"
+    "updated_at": "2026-11-28T16:48:56"
+  },
+  {
+    "name": "mobile-agent-testers",
+    "full_name": "pierridotite/mobile-agent-testers",
+    "description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
+    "url": "https://github.com/pierridotite/mobile-agent-testers",
+    "stars": 2687,
+    "daily_stars": 43,
+    "language": "Python",
+    "topics": [
+      "accessibility-testing",
+      "ai-agents",
+      "ai-testing",
+      "android",
+      "android-emulator",
+      "claude",
+      "claude-code",
+      "e2e-testing",
+      "exploratory-testing",
+      "expo",
+      "flutter",
+      "github-actions",
+      "ios",
+      "ios-simulator",
+      "llm",
+      "mobile-testing",
+      "qa",
+      "react-native",
+      "test-automation",
+      "ui-testing"
+    ],
+    "created_at": "2026-11-16T19:11:44",
+    "updated_at": "2026-11-28T16:59:40"
   },
   {
     "name": "agent-autoloop",
     "full_name": "KKKKhazix/agent-autoloop",
     "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
     "url": "https://github.com/KKKKhazix/agent-autoloop",
-    "stars": 6742,
+    "stars": 6768,
     "daily_stars": 26,
     "language": "TypeScript",
     "topics": [
@@ -227,67 +281,6 @@
       "workflow"
     ],
     "created_at": "2026-11-03T08:02:11",
-    "updated_at": "2026-11-28T08:11:07"
-  },
-  {
-    "name": "kubai-icons",
-    "full_name": "kubai087/kubai-icons",
-    "description": "An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse them.",
-    "url": "https://github.com/kubai087/kubai-icons",
-    "stars": 1424,
-    "daily_stars": 23,
-    "language": "JavaScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "animated-icons",
-      "animation",
-      "claude",
-      "claude-skill",
-      "codex",
-      "design-system",
-      "hover-effects",
-      "icon-set",
-      "icons",
-      "react",
-      "svg",
-      "svg-icons",
-      "vue"
-    ],
-    "created_at": "2026-11-03T09:52:39",
-    "updated_at": "2026-11-28T08:14:46"
-  },
-  {
-    "name": "claude-multi-desktop",
-    "full_name": "jackson-cmd/claude-multi-desktop",
-    "description": "Run multiple Claude Desktop accounts at the same time on Mac: separate sign-ins, custom icons, one shared Claude Code setup, and sessions that message each other across accounts. brew install jackson-cmd/tap/claude-multi-desktop",
-    "url": "https://github.com/jackson-cmd/claude-multi-desktop",
-    "stars": 537,
-    "daily_stars": 18,
-    "language": "HTML",
-    "topics": [
-      "account-switcher",
-      "ai-agents",
-      "anthropic",
-      "bash",
-      "claude",
-      "claude-ai",
-      "claude-code",
-      "claude-code-plugin",
-      "claude-desktop",
-      "developer-tools",
-      "electron",
-      "homebrew",
-      "launcher",
-      "mac",
-      "macos",
-      "multi-account",
-      "multiple-accounts",
-      "productivity",
-      "profiles",
-      "shell-script"
-    ],
-    "created_at": "2026-11-16T04:23:02",
-    "updated_at": "2026-11-28T07:54:42"
+    "updated_at": "2026-11-28T16:53:09"
   }
 ]
